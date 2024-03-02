@@ -1,0 +1,1901 @@
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science: Reports
+journal homepage: www.elsevier.com/locate/jasrep
+
+A review of infrared spectroscopy in microarchaeology: Methods,
+applications, and recent trends
+
+T
+
+Gilliane F. Monnier
+Department of Anthropology, University of Minnesota, United States
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Microarchaeology
+FTIR
+ATR
+Pyrotechnology
+Micromorphology
+Fire
+Diagenesis
+Reﬂectance infrared spectroscopy
+
+Infrared (IR) spectroscopy has emerged as one of the most powerful analytical tools available to archaeologists.
+It has been used to document site formation processes and understand the preservation of organic remains within
+sites; to investigate pyrotechnology including control of ﬁre, heat treatment of stone, and plaster manufacture; to
+assess the preservation of charcoal and bone prior to dating or isotope analyses; and, to identify unknown
+substances inside containers or on artifact surfaces such as stone tools. Most importantly, IR spectroscopy has
+become an essential tool in the ﬁeld of microarchaeology, the analysis of the portion of the archaeological record
+which cannot be seen with the naked eye, yet which contains a wealth of data to address the research areas listed
+above. IR spectroscopy, long a workhorse of analytical chemistry, is particularly suited to archaeology because it
+is applicable to many kinds of materials - organic as well as inorganic - and can therefore be used to address a
+wide range of questions. Sample preparation is rapid and, since minute quantities of a substance are necessary,
+the technique is ‘microdestructive’. It can also be performed on-site, yielding results in real time that help guide
+excavation and sampling strategies. The purpose of this review is to detail the basic principles and instrumentation of IR spectroscopy as it has been applied in microarchaeology and related ﬁelds of research. The
+discussion centers on major archaeological applications to date, methodological issues, and recent trends. A
+special focus is placed on new reﬂectance techniques.
+
+Outline of the Review
+1. Introduction
+2. Principles of infrared spectroscopy
+3. Instrumentation and sample preparation
+3.1 Transmission techniques
+3.2 Reﬂectance techniques
+4. Applications of transmission FTIR spectroscopy in archaeology
+4.1 Chemical site formation processes
+4.2 Diagenesis of bone and charcoal
+4.2.1 Bone
+4.2.2 Wood charcoal
+4.3 Pyrotechnology
+4.3.1 Human control of ﬁre
+4.3.2 Burnt bone
+4.3.3 Heat Treatment of stone for knapping
+4.3.4 Plaster and ash: distinguishing between pyrogenic,
+geogenic, and biogenic calcites
+4.4 Residue Analysis
+
+E-mail address: monni003@umn.edu.
+https://doi.org/10.1016/j.jasrep.2017.12.029
+Received 9 April 2017; Received in revised form 5 November 2017; Accepted 13 December 2017
+Available online 02 February 2018
+2352-409X/ © 2017 Elsevier Ltd. All rights reserved.
+
+5. Methodological issues involving transmission FTIR spectroscopy
+6. Principal applications of reﬂectance FTIR spectroscopy in archaeology
+6.1 Contact methods: FTIR-ATR and μATR
+6.1.1 ATR versus the KBr-pellet technique for assessing
+bone diagenesis and bone burning
+6.1.2 Micromorphology using ATR and μATR
+6.2 Non-contact methods
+6.2.1 Methodological issues in non-contact reﬂectance IR
+spectroscopy
+6.2.2 New solutions to reﬂectance FTIR spectroscopy challenges
+6.2.3 FTIR microspectroscopy for lithic residue analysis
+7. Conclusions
+Acknowledgements
+References
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+1. Introduction
+
+infrared spectroscopy, who are interested in applying IR spectroscopic
+techniques in their research on archaeological materials and sediments.
+
+In the twenty-ﬁve or so years since infrared (IR) spectroscopy ﬁrst
+began to be applied to the microarchaeological record, a number of
+important methods to solve archaeological problems using this technique have been developed. Today, these constitute a well-established
+methodology for excavating and analyzing the microscopic component
+of archaeological deposits, in which IR spectroscopy and micromorphology play key roles (Weiner, 2010; Goldberg and Berna, 2010;
+Mallol and Mentzer, 2015).
+The emergence of IR spectroscopy as an invaluable analytical
+technique in archaeology can be attributed to three main factors: ﬁrst, it
+can be used to characterize the composition and structure of a wide
+range of substances: organic and inorganic molecules, compounds, and
+mixtures. Second, it is relatively inexpensive, easy to use, and requires
+minute quantities of a substance. It is, therefore, ‘microdestructive’ or
+even non-destructive when using non-contact instrumentation.
+Increasingly, innovations in instrumentation mean that infrared measurements can now be conducted on many diﬀerent kinds of samples,
+ranging from bulk sediment samples and micromorphological thin
+sections, to artifacts, faunal materials, and micro-residues on stone
+tools. Third, because FTIR instruments are portable (vis. Vandenabeele
+and Donais, 2016), they can be brought on-site, where they enable the
+integration of microarchaeology, the study of the portion of the archaeological record that cannot be seen with the naked eye (Weiner,
+2010:1), with macroscopic archaeological excavation. This means not
+only that the myriad unknown substances found while excavating can
+be identiﬁed in real time, but that fundamental research questions involving site formation processes and the remains of human activity can
+begin to be addressed while on-site, and excavation and sample collection strategies (for further laboratory analyses) adjusted accordingly.
+This review sets out to explain the basic principles behind IR
+spectroscopy, to describe the instruments currently available, including
+new reﬂectance-based instruments, and to summarize major archaeological applications of IR spectroscopy using both traditional techniques and the newer reﬂectance-based techniques. Its aim is to provide
+an overview of the types of information which can be obtained via IR
+analyses, to discuss methodological issues, and to present future techniques which may come into archaeology via cultural heritage science.
+It is intended as a complement to Weiner's Microarchaeology (2010;
+especially chapter 12, Infrared Spectroscopy in Archaeology), which describes the role of IR spectroscopy within this new ﬁeld, provides extensive descriptions of materials amenable to IR spectroscopic analysis,
+and details the types of archaeological information that can be recovered from them. This review presents the development of these
+methods and summarizes important advances in this ﬁeld since the
+publication of this work. The target audience is archaeologists new to
+
+2. Principles of infrared spectroscopy
+The infrared (IR) region of the electromagnetic spectrum is composed of radiation whose wavelengths range from 700 nm to 1 mm.
+These wavelengths are longer than those associated with visible light
+(Fig. 1). The frequency of a radiation wave is inversely proportional to
+its wavelength, as shown by the equation υ = c/λ where υ = the frequency of light, c = the speed of light, and λ = the wavelength of light.
+Accordingly, the frequency of infrared radiation is less than that of
+visible light. Furthermore, according to the equation E = h υ, where
+E = the energy of light, h = Planck’'s constant, and υ = the frequency
+of light, the energy of light is proportional to its frequency. Therefore,
+the energy of infrared light is less than that of visible light, as well, and
+infrared ‘light’ is felt as radiant heat (Hesse et al., 2008:33; Pavia et al.,
+2001:13).
+Radiation striking a material can aﬀect it at the molecular level.
+High-energy radiation such as X-rays, for instance, causes energy
+transitions within atoms that are strong enough to break molecular
+bonds, and is used in measurement techniques such as X-ray ﬂuorescence. Low-energy radiation, such as microwaves, can only cause nuclear or electron spin transitions within molecules, and is exploited in
+nuclear magnetic resonance and electron spin resonance techniques
+(Pavia et al., 2001:13). Infrared radiation contains suﬃcient energy to
+bring about molecular vibrations or rotations in most molecules having
+covalent bonds. This property enables infrared spectroscopy to act as a
+‘ﬁngerprinting’ technique for identifying molecules.
+IR spectroscopy is based upon the principle that atom locations in
+molecules ﬂuctuate continuously as they vibrate and rotate about their
+bonds. Vibrations come in two major types: stretching vibrations,
+characterized by a change in the interatomic distance between two
+atoms along the axis of the bond, and bending vibrations, in which the
+angle between two bonds changes. Bending vibrations are divided into
+rocking, scissoring, wagging, and twisting motions. Each vibrational
+motion has its own frequency, which is based upon the type of motion,
+the masses of the atoms, and the strength of the bonds. These frequencies correspond to the infrared region of the electromagnetic
+spectrum. When a source of infrared radiation is directed at a substance
+(which can be a gas, liquid, or solid), the molecules in it undergo a net
+change in dipole moment and absorb photons whose energies correspond to the diﬀerence between two of the molecule's quantized vibrational energy levels (note: bonds that do not have an electrical dipole that is changing at the same frequency as the incoming radiation
+do not absorb energy). These energy absorptions can be measured using
+IR spectrometers, generating an IR spectrum for the substance. Normal
+
+Fig. 1. Electromagnetic spectrum showing regions of interest.
+
+807
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+Fig. 2. a) FTIR spectrum of calcite, prepared as a KBr pellet,
+shown in transmittance mode; b) FTIR spectrum of calcite,
+prepared as a KBr pellet, shown in absorbance mode.
+
+or ‘fundamental’ absorptions, for instance, result from excitation of the
+molecule from the ground state to the lowest-energy excited state.
+Excitation from the ground state to a higher energy state can result in
+weak overtone bands whose frequency corresponds to multiples of the
+fundamental frequency (ν), such as 2ν and 3ν. Combination bands can
+arise from the interaction of two vibrational frequencies within a molecule, resulting in a new frequency (the sum of the interacting frequencies). Diﬀerence bands also arise from the interaction of two vibrational frequencies, which are subtracted one from the other. Finally,
+Fermi resonance results from the coupled vibration of a fundamental
+band with an overtone or combination band. This complex absorption
+process means that infrared spectra are unique for each type of molecule (Pavia et al., 2001:13–18).
+IR spectra are usually presented using a scale called the wavenumber, which is the reciprocal of wavelength, according to the
+equation ṽ = 1/λ (cm) where ṽ = wavenumber and λ = the wavelength of light. Wavenumbers are therefore directly proportional to
+energy, which decreases from left to right in an infrared spectrum
+(Fig. 2). The mid-IR region, with wavenumbers from 4000 to 400 cm− 1
+(corresponding to wavelengths from 2.5 to 25 μm) is the most widely
+used, although the near-IR and far-IR regions have important applications.
+
+The fact that the IR spectrum for each type of molecule is unique
+means that infrared spectra can be used as ‘ﬁngerprints’ for identifying
+molecules; an unknown molecule can be identiﬁed if its infrared
+spectrum is identical to that of a known molecule. Importantly, aspects
+of the chemical structure of a molecule can be determined from its
+infrared spectrum, because each type of bond has a small range of absorption within the IR spectrum. Organic functional groups (such as
+OeH, C]O, CeH), for instance, absorb IR radiation at certain known
+frequencies, which can be calculated from the masses of the atoms and
+the force constant of the bonds between them. Most group frequencies
+fall in the range of 3600 to 1250 cm− 1. The “ﬁngerprint region,” from
+1200 to 400 cm− 1, is sensitive to small diﬀerences in molecular
+structure. The identiﬁcation of an unknown organic compound is
+commonly a two-step process consisting of the identiﬁcation of group
+frequencies, ﬁrst, followed by analysis of the ﬁngerprint region, until a
+match is found (Skoog et al., 2007, p. 459).
+IR spectroscopy in archaeology has mostly been used for identifying
+minerals and organic molecules. Recently, however, a new method,
+called the ‘grinding curve method’, was developed that can characterize
+the atomic disorder of a mineral (Regev et al., 2010; Poduska et al.,
+2011; Asscher et al., 2011). Although originally developed for archaeology, this method, described in Section 5, is applicable to all inorganic
+808
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+3.2. Reﬂectance techniques
+
+solids and has the potential for signiﬁcant impact in the materials sciences and biomineralization ﬁelds.
+
+The development of reﬂectance-based instrumentation has enabled
+FTIR spectrometry to be applied to a wider variety of sample types in
+recent years, and has important applications in archaeology.
+Reﬂectance spectrometry is based upon radiation that is reﬂected from
+the surface of a sample, rather than transmitted through it. There are
+three types of reﬂection: specular, diﬀuse, and total internal. Specular
+reﬂection occurs when radiation is reﬂected from a smooth, polished
+surface. In this case, the angle of reﬂection is identical to the angle of
+incidence of the radiation; if the surface is an IR absorber, its reﬂectance spectrum will be similar to a transmission spectrum for the
+same molecular species (Skoog et al., 2007:470). Specular reﬂection
+spectra are typically collected by FTIR microscopes equipped with a
+Cassegrain objective (Griﬃths and de Haseth, 2007:305). This technique has variously been called FTIR microscopy (e.g., Monnier et al.,
+2013; Prati et al., 2016), FTIR microspectroscopy (e.g. Monnier et al.,
+2017; Monnier et al., in press) or microFTIR (e.g., Goldberg et al.,
+2015). Diﬀuse reﬂection happens when a beam of radiation strikes the
+surface of a powdered sample that reﬂects the radiation at many plane
+surfaces. Radiation is therefore reﬂected in all directions, and a complex combination of reﬂection, absorption, and scattering occurs before
+the beam reaches the detector (Skoog et al., 2007:470–471). The resulting spectrum is usually converted, using mathematical models, to
+facilitate comparison with absorption spectra. The converted spectrum
+tends to have peaks at the same locations but in diﬀerent intensities
+from a traditional absorption spectrum (ibid.). Diﬀuse reﬂection is
+exploited in diﬀuse reﬂectance infrared Fourier transform spectroscopy
+(DRIFTS), which enables the measurement of IR spectra on powdered
+samples with minimal preparation.
+Attenuated Total Reﬂectance (ATR) is based upon the principle that
+when a beam of radiation passes from a medium with a higher refractive index to one with a lower refractive index, reﬂection occurs at
+the interface between the two media. If the angle of incidence of the
+radiation is beyond a critical angle (which depends upon the refractive
+indices of the two materials), total internal reﬂection occurs. However,
+a small portion of the radiation, termed the evanescent wave, nevertheless penetrates the less dense medium up to 2 μm deep. ATR spectrometry exploits this principle to enable the collection of IR spectral
+data from samples, such as ﬁlms, gels, or pastes, which are diﬃcult to
+prepare using the traditional IR sample preparation techniques described above. ATR instruments are designed to enable the sample to be
+pressed against a crystal with a high index of refraction, such as diamond or germanium. The radiation beam is passed through the crystal,
+and allowed to reﬂect from the crystal/sample interface multiple times
+before being collected by the detector. The resulting spectra are similar
+to transmission spectra, but not identical to them, as the relative intensities of some of the bands may diﬀer (Smith, 2011:132; see also
+Section 6.1.1). ATR and micro-ATR (‘μATR’) spectroscopy are becoming
+increasingly popular due to the ease of use of these methods and their
+applicability to a broad range of samples. However, there are questions
+regarding the comparability of spectra generated by ATR and other
+reﬂectance techniques and those obtained by transmission FTIR spectroscopy. These are discussed in detail in Section 6.
+
+3. Instrumentation and sample preparation
+3.1. Transmission techniques
+The original IR spectrophotometers worked with a light source that
+was split into two beams, one of which was passed through the sample,
+the other through air, before being recombined and analyzed by a
+monochromator, which recorded the spectrum as a function of wavelength (Hesse et al., 2008:36). This type of instrument scanned through
+every wavelength, recording a single frequency at a time; hence, it took
+one hour or more to acquire a single spectrum. These instruments have
+been replaced by Fourier transform (FT) spectrometers. In this type of
+instrument, an interferometer converts the IR radiation into an interferogram, which is a plot of intensity versus time, containing all of the
+frequencies in the infrared spectrum. The radiation emerging from the
+sample is collected as an interferogram by the detector, and subsequently converted by a Fourier transform which separates the individual absorption frequencies, producing a plot of intensity versus
+frequency. Fourier-transform infrared (FTIR) spectroscopy, as it is now
+known, was a major innovation, resulting in a greater signal-to-noise
+ratio, higher wavelength resolution, and greater speed (Hesse et al.,
+2008:37; see also Griﬃths and de Haseth, 2007, and Smith, 2011 for
+excellent, updated texts on FTIR spectroscopy including new sampling
+techniques).
+FTIR spectrometers can measure samples of various types, including
+gases, solutions, and solids, and a number of sample preparation methods
+have been devised. Since archaeological applications generally involve
+solid samples, we will focus our discussion on these. First, solid samples
+need to be mixed with a carrier which is ‘transparent’ (i.e., does not absorb
+energy) within the infrared region of interest. The most common preparation method for solid samples involves grinding the sample (tens of
+micrograms are suﬃcient) using an agate mortar and pestle and mixing it
+with a halide salt (in a 1:100 ratio) to create a powder which is then
+pressed, under high pressure, into a pellet. The sample should be ground
+ﬁnely enough so that particle sizes are less than the wavelength of the
+radiation (typically 2 μm), to avoid scattering eﬀects (Smith 2011:90). The
+halide salt most commonly used is potassium bromide (KBr), which, like
+other halide salts, has the property of cold ﬂow, becoming transparent
+when it is pressed. This property, along with the fact that it does not absorb IR radiation in the mid-IR range (4000–400 cm-1 cm− 1), makes it the
+most popular choice for solid samples. Once a transparent disk has been
+created, it is inserted in the light path of an FTIR spectrometer, and the
+resulting spectrum records the percentage of radiation that has been
+transmitted through the sample at each wavenumber (Fig. 2a), as
+calculated by %T = 100 × (I/I0), where %T = percent transmittance,
+I0 = intensity in the background spectrum, and I = intensity in the
+sample spectrum. The background spectrum is collected, using the same
+parameters, before the sample spectrum is collected, and exhibits the
+presence of water vapor and CO2 in the atmosphere. The y-axis of an IR
+spectrum can also be plotted as a function of absorbance, A = log(I0/I),
+were A = absorbance, I0 = intensity in the background spectrum, and
+I = intensity in the sample spectrum. In absorbance spectra (Fig. 2b), the
+heights of peaks and the areas under peaks are proportional to concentration (Smith 2011:6). Quantitative analyses can therefore be carried
+out on absorbance, but not on transmission, spectra. Absorbance spectra
+are the most commonly depicted type in archaeological literature. It is
+important to note that regardless of whether spectra are plotted in percent
+transmittance or absorbance, when the KBr pellet technique is used, radiation is transmitted through a substance. It is therefore said to have been
+measured in ‘transmission’ mode. This is the classic way of obtaining IR
+spectra. In recent decades, a number of ‘reﬂectance’ techniques have been
+developed, which can produce diﬀerent results from those obtained via
+transmission techniques.
+
+4. Applications of transmission FTIR spectroscopy in archaeology
+4.1. Chemical site formation processes
+One of the most powerful uses of FTIR spectroscopy in microarchaeology has been its application to Pleistocene cave and rock
+shelter sediments to clarify the complex diagenetic processes that have
+taken place in these environments. Sediments within caves and rock
+shelters accumulate from various sources, including geogenic (e.g.,
+aeolian, alluvial, colluvial, and from the formation processes of the
+caves themselves); anthropogenic (e.g., butchered animal remains,
+809
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+analyses provided important data for the selection of samples for TL and
+ESR dating as well as dosimetry placement. Likewise, at Grotte XVI in
+France, documentation of authigenic carbonate and phosphate minerals
+using FTIR analysis shed light upon the mineral reaction cascade that
+had occurred in the deposits, altering the mineralogy of wood ash deposits and the spatial distribution of bones within the site (Karkanas
+et al., 2002).
+These pioneering studies helped create a new approach to the study
+of site formation processes in caves and rock shelters that is still the
+basis for such research today. FTIR analysis is an ideal complement to
+micromorphological analysis, which yields detailed information about
+the formation and structure of sediments, by providing precise chemical
+data which helps clarify post-depositional processes. For instance, FTIR
+analysis of bulk sediments at the Middle Paleolithic site of Esquilleu
+Cave, Spain (Mallol et al., 2010) helped distinguish well-preserved
+areas of the site from those in which dissolution of bone and ash has
+occurred. The combination of micromorphological and FTIR analyses
+was also useful in elucidating site formation processes at the rockshelter
+of Obi Rakhmat in Uzbekistan (Mallol et al., 2009). At Diepkloof Rock
+Shelter in South Africa, FTIR analyses shed light on the diagenetic
+processes which aﬀected a complex series of deposits reﬂecting intensive human occupation (Miller et al., 2013). Increasingly, new reﬂectance FTIR techniques enable IR measurements to be taken directly
+from micromorphological thin sections, providing a powerful correlative tool (further discussed in Section 6.1.2).
+FTIR spectroscopic analysis of sediments has also become a useful
+tool for phytolith analysis, illuminating the conditions that aﬀect the
+preservation of these microbotanical remains (e.g., Albert et al., 1999;
+Albert et al., 2000; Albert, 2003; Albert et al., 2012; Cabanes et al.,
+2012). By facilitating the identiﬁcation of the major mineral components of sediments within a site, FTIR enables the chemical environment of a site through time to be reconstructed. Because phytolith
+preservation depends upon certain chemical parameters, this approach
+provides an important control for archaeobotanical analyses which seek
+to reconstruct the spatial patterning of human behavior as it relates to
+the placement of hearths, the selection of certain plants for fuel, and
+changes in plant use through time.
+While FTIR spectroscopy has become an essential tool in micromorphological analysis, the interpretation of IR spectra is also, conversely, dependent upon microscopic data in many situations. For instance, the identiﬁcation of wood ash depends not only upon IR
+measurements indicating the presence of calcite, but also on microscopic images demonstrating the presence of calcite crystals bearing the
+shape (pseudomorphs) of calcium oxalate crystals which are common in
+wood and which, upon heating to 500°–600°, are converted into calcite
+(Weiner, 2010:170). Likewise, the identiﬁcation of authigenic carbonated hydroxyapatite (dahllite) in sediments, indicative of a distinct
+chemical regime, must be conﬁrmed with microscopic analysis to distinguish it from microscopic fragments of bone, since bone mineral is
+also composed of carbonated hydroxyapatite. In other words, the application of FTIR spectroscopy to the study of site formation processes
+must be used in conjunction with other microscopic or analytical tools
+for the most reliable results, in addition to careful visual observations of
+the sediments themselves.
+
+plant matter, human waste, wood ash); and biogenic (e.g., bat and bird
+guano, carnivore dens). A variety of processes - physical, mechanical,
+chemical, and biological - alter these sediments through time (Goldberg
+and Sherwood, 2006). Cryoturbation and bioturbation translocate materials throughout sediments; heat from ﬁres chemically and physically
+alters sediments and artifacts; ﬂowing water dissolves minerals and
+alters the chemistry of the deposits, and anaerobic biological degradation produces acids that dissolve minerals, which in some circumstances reprecipitate. FTIR spectroscopy is particularly useful for
+documenting many of these processes (Weiner, 2010).
+The pioneer of this approach is undoubtedly Weiner, who, working
+with Bar-Yosef (e.g., Weiner et al., 1993), began to apply FTIR spectroscopy to archaeological sediments in order to document site formation processes and understand the degree to which distributions of
+faunal remains reﬂect human activity versus quality of preservation. In
+the Middle Paleolithic sediments in Kebara Cave, Israel, for instance,
+Weiner and colleagues used FTIR on-site to map the distribution of
+carbonate and phosphate minerals in order to document the diagenetic
+processes which dissolved bones and aﬀected their spatial patterning
+(Weiner et al., 1993). They also documented the chemical processes
+that altered the layers of ash in Kebara and Hayonim Caves (Israel)
+(Schiegl et al., 1996). Along with soil micromorphological studies, and
+supported through experimental work, they demonstrate that wood
+ash, which is mainly composed of calcite along with some siliceous
+minerals, undergoes a series of chemical changes which can dramatically reduce the original volume of the ash. In these two caves, speciﬁcally, calcite reacted with phosphate ions originating from bat guano,
+forming new minerals such as carbonated hydroxyapatite (also known
+as dahllite). A cascade of mineral dissolution and formation eventually
+resulted in the formation of stable phosphate minerals and the accumulation of thick layers of siliceous aggregates and phytoliths - what
+remained from the ash after the calcite dissolved (ibid.). This work was
+important for demonstrating that in cases of severe diagenesis (chemical alteration) of carbonate and phosphate minerals, siliceous aggregates and phytoliths are sometimes the only remaining indicator of
+the presence of ash.
+Karkanas et al. (2000) further developed our understanding of authigenic (formed in situ) minerals in cave sediments by systematically
+documenting the key environmental parameters (ion concentrations,
+acidity/alkalinity [pH], and oxidation conditions [Eh]) necessary for
+their formation. This provides valuable information to scientists reconstructing the chemical paleoenvironments under which carbonate
+and phosphate minerals form in archaeological sites, and yields a framework for assessing the completeness of primary anthropogenic minerals such as bone, phytoliths, and wood ash. Building upon this work,
+Weiner et al. (2002) used FTIR analysis, X-ray diﬀraction (XRD), micromorphology, and scanning electron microscopy with energy dispersive X-ray analysis (SEM-EDS) to map the distribution of minerals
+within all major excavated layers at Hayonim Cave in three dimensions.
+This enabled them to reconstruct site formation processes, and to understand the extent to which spatial patterning of bone (Stiner et al.,
+2001) and phytolith distributions (Albert, 2003) reﬂect human activities versus diagenetic processes. Weiner et al. (2002) demonstrate that
+the bulk of the sediments at Hayonim is composed of altered ash layers,
+and identify several distinct mineral assemblages within the deposits
+related to the locations of active springs and an erosional unconformity.
+Stiner et al.'s (2001) related work applied a number of taphonomic
+measures to the investigation of the horizontal variation in bone distribution at Hayonim cave, along with FTIR analyses of sediments and
+bones. This study revealed the existence of zones of advanced diagenesis and decomposition in the cave, alongside zones with chemical
+conditions favorable for the preservation of bones and wood ash. Signiﬁcantly, Stiner et al. document a correlation between the distribution
+of bone and zones of favorable preservation. Furthermore, they demonstrate that the few well-preserved bones that occurred in areas with
+unfavorable chemistry are intrusive; the product of bioturbation. These
+
+4.2. Diagenesis of bone and charcoal
+4.2.1. Bone
+FTIR analysis is instrumental in documenting the state of preservation of biological artifacts such as bone and charcoal. Bone collagen can be used for radiocarbon dating, and bone mineral can be used
+for paleodiet and paleoenvironmental reconstruction, via analysis of the
+stable isotopes of carbon, oxygen, and nitrogen. Assessing the preservation of bones prior to carrying out such analyses is key. In one of
+the earliest studies addressing bone preservation in prehistoric sites,
+Weiner and Bar-Yosef (1990) tested for the preservation of collagen and
+810
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+Fig. 3. Calculation of the infrared splitting factor (IRSF)
+following the method deﬁned by Weiner and Bar-Yosef,
+1990. First, a baseline is drawn from approximately
+800 cm− 1 to 500 cm− 1. Then, the heights of the two peaks
+(red lines at 604 cm− 1 and 564 cm− 1) are summed, and
+divided by the height of the valley (blue line) between
+them. (For interpretation of the references to color in this
+ﬁgure legend, the reader is referred to the web version of
+this article.)
+
+Trinkaus, 2009; Sponheimer et al., 2013). The analysis of stable carbon
+isotopes from bone mineral to reconstruct an animal's diet assumes that
+these atoms were incorporated into the mineral during the animal's
+lifetime. However, since bone mineral is altered during diagenesis, it is
+possible for atoms from the environment to be incorporated into the
+mineral after burial. Wright and Schwarcz (1996) assessed the preservation of bone mineral (carbonated hydroxyapatite) from human
+remains at the Maya site of Dos Pilas, Guatemala, using a number of
+FTIR measurements. Their analyses allowed them to detect diagenetic
+changes in both carbon and oxygen stable isotope ratios. This enabled
+them to develop a screening technique to eliminate samples which
+might provide unreliable data on paleodiets. Sponheimer and LeeThorp (1999) also used FTIR spectroscopy to demonstrate the occurrence of diagenetic changes in tooth enamel which aﬀect carbon isotope
+signals. They propose several mechanisms which may be responsible for
+the changes they observed in carbonate composition and structure
+within tooth enamel. They advocate the use of FTIR as a powerful tool
+capable of detecting extremely small changes within these carbonate
+environments, thus enabling better selection of bone and enamel samples for paleoenvironmental and paleodietary reconstructions.
+In a landmark study, Berna et al. (2004) published a series of laboratory experiments documenting the mineralogical cascade undergone by bone mineral during diagenesis. Berna and colleagues measured the solubility of bone mineral in near-neutral pH at ambient
+temperatures and as a function of diﬀerent phosphate concentrations.
+Their results showed that bone begins to dissolve in a solution whose
+pH is below 7.6–7.2. If the carbonate and phosphate ions that are released from bone mineral are carried away by an aggressive hydrological regime, bone dissolution continues. If, however, water is not
+ﬂowing, the concentration of dissolved ions within the pores of the
+bone increases, causing a new mineral phase to precipitate. This new
+phase of carbonated hydroxyapatite is less soluble than the previous
+phase, and Berna et al. postulate that it precipitates on the surfaces of
+existing crystals, a process referred to as recrystallization. The infrared
+splitting factor is a good proxy for this transition, since it measures
+relative degree of crystallinity. Using this proxy, Berna et al. (2004)
+show that mineral from living bone is the least ordered, exhibiting the
+lowest IRSF. As bone becomes fossilized, and authigenic (as opposed to
+biogenic) carbonated hydroxyapatite forms during recrystallization, the
+IRSF increases. The mineral phase of bone and the IRSF are therefore
+key to assessing bone preservation. Importantly, if bones are exposed to
+a pH that drops below 7, more insoluble phosphate minerals such as
+crandallite and montgomeryite form from the dissolved carbonate and
+phosphate ions, instead of carbonated hydroxyapatite (Karkanas et al.,
+
+other proteins in bones from sixteen Middle Eastern sites spanning the
+Chalcolithic through the Upper Paleolithic. They observed that most of
+these bones do not contain well-preserved collagen, but do contain
+other large proteins. This study was the ﬁrst to apply FTIR spectroscopy
+to evaluate the state of preservation of bone mineral - carbonated hydroxyapatite - using a measure of infrared absorption of the phosphate
+molecule known as the infrared splitting factor (IRSF, also sometimes
+referred to as the crystallinity index or CI; calculated as shown in
+Fig. 3). The splitting factor refers to the fact that the absorption band of
+the antisymmetric bending mode (ν4) of the phosphate ion (PO4) is split
+into two peaks (at approximately 603 cm− 1 and 565 cm− 1). The degree of splitting was shown by Termine and Posner (1966) to be correlated with the crystallinity of bone mineral, which reﬂects both the
+relative sizes of the crystals as well as the extent to which the atoms in
+the crystal lattice are ordered (Weiner and Bar-Yosef, 1990). Weiner
+and Bar-Yosef showed that the crystallinity index of the archaeological
+bone is greater than that of modern bone, but concluded that this
+measure, by itself, is not a good predictor for collagen preservation.
+Further conﬁrmation that the IRSF is correlated with crystallinity
+came from a study of the diagenesis of modern bone exposed on the
+surface of Amboseli National Park, Kenya, which showed a positive
+correlation between IRSF and bone crystal lengths (Trueman et al.,
+2004). These authors demonstrate that the size of bone crystallites increases with length of exposure; simultaneously, there is a major reduction in organic matter content (mainly collagen). Trueman et al.
+(2008) provide a mechanism to account for this correlation. They
+suggest that as collagen, which is located within the bone matrix, degrades, the surfaces of the bone crystallites are exposed. This exposure
+enables the crystallites to grow larger; IRSF increases as a result. Once
+most of the organic matter has degraded, other factors aﬀect the mineralogy of bone mineral, including the growth of the crystals. Therefore, although the IRSF is a good predictor of early diagenesis, it continues to increase after the organic content is gone, and is therefore not
+a reliable proxy for biogenic signals such as collagen content once this
+point is reached. Nevertheless, the IRSF is a useful screening tool to
+assess the relative preservation of bone prior to radiocarbon dating of
+collagen (e.g., Yizhaq et al., 2005). FTIR spectroscopy is also useful for
+verifying the purity and preservation state of collagen once it has been
+isolated from the bone mineral, and throughout the sample preparation
+process (ibid.).
+Stable isotope analyses of bone mineral and tooth enamel mineral
+have long been used to reconstruct the diets of humans and animals,
+yielding important information about paleoenvironments and human
+subsistence behavior (e.g., Lee-Thorp et al., 1994; Richards and
+811
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+4.3.1. Human control of ﬁre
+The timing of the human control of ﬁre is one of the central questions in Paleolithic archaeology (Roebroeks and Villa, 2011), as ﬁre is
+seen as an essential cultural adaptation that may have had a profound
+eﬀect on human evolution (e.g. Wrangham, 2009; Attwell et al., 2015).
+Identifying evidence for the intentional use of ﬁre has been notoriously
+diﬃcult, but FTIR analysis coupled with micromorphology has made
+important headway. In one of the earliest such studies, Schiegl et al.
+(1996) showed that the presence of wood ash in archaeological sediments can be conﬁrmed through identiﬁcation of pseudomorphs of
+calcium oxalate crystals, common in wood and many other plants.
+These pseudomorphs are calcite crystals bearing the same shape as the
+calcium oxalate crystals from which they transformed during burning
+(Mentzer, 2014).
+Stiner et al. (1995, 2001) showed that the temperature at which
+bone was burnt can be estimated by its color and infrared spectra,
+which show characteristic peak shifts, loss of peaks, and changing relative peak intensities with burning. Likewise, the heating of clay minerals, which are a common component of sediments, results in predictable changes in measured IR spectra (Berna et al., 2007).
+Application of some or all of these criteria has been instrumental in
+documenting evidence (or lack thereof) for controlled ﬁre in a number
+of sites.
+For instance, Zhoukoudian Cave in China was long regarded as
+providing some of the earliest evidence for human control of ﬁre in the
+Paleolithic, in the form of layers of ash, charcoal, and burnt clay (Black
+et al., 1933; Breuil, 1932). Micromorphological and FTIR analyses of
+sediments at Locality 1, however, demonstrated that the features
+thought to be ash accumulations are in fact laminar layers of silt
+(Weiner et al., 1998; Goldberg et al., 2001). The association of burned
+bones and lithics in other strata is consistent with the use of ﬁre by
+humans; however, no evidence for ash or hearths was found (ibid.). At
+Schöningen, an open-air site in northern Germany which yielded
+wooden spears with charred ends from deposits dating to ~400,000 BP
+(Thieme, 1997, 2007), a recent study addressed previous claims that
+the site contained hearths and burnt wood (Stahlschmidt et al., 2015).
+Micromorphological analyses of the purported hearths and sediments,
+complemented by a number of geophysical and geochemical analyses
+including FTIR, showed a complete lack of evidence for any type of heat
+alteration (ibid.). On the other hand, micromorphological and FTIR
+analyses in the Acheulean layers of Wonderwerk Cave in South Africa
+demonstrate the presence of ﬁre here approximately 1 million years ago
+(Berna et al., 2012; Goldberg et al., 2015). Micromorphological observations revealed the presence of wood ash containing calcium oxalate pseudomorphs, ashed plant material, and burnt bone. FTIR analyses of bones in bulk samples as well as in thin sections (using
+reﬂectance FTIR microspectroscopy, see Section 6.2), showed that they
+were heated to between 400° and 700 °C. These temperatures, which
+are lower than those achieved in typical wood-fueled ﬁres, are consistent with indications that grass may have been used as a fuel (such as
+the presence of grasses among the ashed plant remains).
+The Amudian deposits at Qesem cave in Israel, dated to
+~200–380 ka (Gopher et al., 2010; Mercier et al., 2013), were subjected to similar analyses, which revealed abundant evidence for ﬁre in
+the form of calcitic ash pseudomorphs, burnt bone fragments, heated
+soil lumps, and well-preserved ashes (Karkanas et al., 2007). Subsequent analyses of a 4 m2 hearth underlying these deposits provided
+evidence to suggest that this was a repeatedly used combustion feature
+dating as early as 300 ka (Shahack-Gross et al., 2014). Micromorphological studies of this hearth revealed microscopically laminated layers of wood ash containing charred and calcined bones,
+charcoal, burnt ﬂint, and burnt clay aggregates (ibid.). FTIR analyses of
+bulk sediments and reﬂectance FTIR microspectroscopy (see Section
+6.2) of thin sections showed that 60% of bones were heated to temperatures exceeding 500 °C, and that clay minerals in some locations
+were heated to temperatures > 400 °C (ibid.). This evidence indicates
+
+2000). Therefore, the presence of crandallite or montgomeryite nodules
+in archaeological sediments may indicate that these sediments once
+contained bones (Weiner, 2010:88).
+4.2.2. Wood charcoal
+Wood charcoal is one of the most important biological artifacts
+encountered in archaeological sites, since it can be used, via radiocarbon dating, to provide an absolute chronology as well as to identify
+local vegetation. Wood charcoal stable carbon isotope signals also
+contain paleoclimatic information (e.g., Caracuta et al., 2016). However, wood charcoal can be altered and degraded by a variety of chemical and mechanical processes. Assessing the state of preservation of
+charcoal is essential for obtaining a reliable 14C date, especially from
+old sites where very little of the original signal remains. In order to
+better understand the structure and diagenesis of charcoal, Cohen-Ofri
+et al. (2006) compared charcoal created in experimental ﬁres with
+charcoal recovered from two prehistoric sites. They characterized the
+structure and chemical properties of the modern and fossil charcoal
+using a number of methods including transmission electron microscopy
+(TEM), Raman spectroscopy, FTIR spectroscopy (using the KBr pellet
+method), X-ray diﬀraction (XRD), thermo-gravimetric and diﬀerential
+thermal analysis (TGA/DTA), and electrical resistivity. Their results
+reveal that both modern and fossil charcoal have two phases: an ordered graphite-like phase and a disordered, amorphous phase which is
+diﬃcult to characterize. Electrical resistivity and TGA/DTA analyses
+show that the crystalline graphite-like phase is reduced in the fossil
+charcoal and that its electrical properties are altered, favoring oxidization. FTIR spectra show the presence of carboxylate groups, conﬁrming that the fossil charcoal has been oxidized. These results are
+supported by TEM and electron energy loss spectroscopy (EELS) measurements, which reveal that the dominant structure in fossilized
+charcoal is the amorphous phase, and that it is the only phase which
+contains oxygen (Cohen-Ofri et al., 2007). These results lead Cohen-Ofri
+et al. (2006) to hypothesize that during diagenesis, the graphite-like
+phase of charcoal is oxidized and degrades into material resembling
+humic acids, a process which is accelerated in basic (i.e., pH > 8)
+environments.
+These ﬁndings have important implications for the selection of
+samples for radiocarbon dating. One of the major problems in radiocarbon dating of old charcoal is contamination from soil humic acids,
+which are the degraded byproducts of organic matter. These are removed by treating the charcoal with an alkali. The weight of the
+charcoal can be dramatically reduced after alkali treatment, which is
+usually interpreted as the result of the removal of contaminating humic
+acids. However, in degraded charcoal, it could be that these humic
+acids are derived from the charcoal itself, according to Cohen-Ofri
+et al.'s (2006) ﬁndings. Unfortunately, radiocarbon dating experts are
+currently unable to distinguish the origins of the humic acids; therefore,
+continued research in this domain in this domain is imperative, as is the
+careful evaluation of charcoal puriﬁcation protocols (e.g., Rebollo et al.,
+2008).
+4.3. Pyrotechnology
+FTIR spectroscopy has been instrumental in helping archaeologists
+address a variety of questions surrounding the human use of ﬁre. Along
+with other techniques, especially micromorphology, it has helped
+document the ﬁrst instances of the controlled use of ﬁre during the
+early and middle Pleistocene. In later time periods, it has proven useful
+in identifying ﬁre-altered sediments, as well. In addition, FTIR spectroscopy has been shown to be a powerful tool in the documentation of
+chemical changes in materials subjected to heat during the cooking of
+food (e.g., bone), the manufacture of ceramics and plaster (clay and
+calcite, respectively) and the heat treatment of stone for knapping (ﬂint,
+chert, and chalcedony).
+812
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+color-based ordinal scale called the ‘burn code’. They noted that
+burning renders bones more susceptible to fragmentation, which decreases its identiﬁability. They also submitted the bones to FTIR spectroscopy and calculated the IRSF as well as a measure of relative carbonate content (within bone mineral) based on the resulting spectra.
+Their results showed that the splitting factor (i.e., at peaks 604 cm−1
+and 563 cm−1) increases in more highly burnt bones, while the carbonate peaks (at 1416 cm−1 and 873 cm−1) decrease, especially with
+the most intense burning which results in white, ‘calcined’ bones
+(Fig. 4). In other words, bone mineral loses carbonate ions and becomes
+more crystalline as it is burnt. The FTIR spectra they obtained were also
+consistent with the presence of collagen in bone as measured by mineral
+dissolution experiments, and both lines of evidence showed that collagen (i.e., at peaks 1651 cm−1, 1548 cm−1, and 1455 cm−1) is present
+in bone that is unburnt or lightly burnt, but absent in calcined bone.
+Stiner and colleagues therefore establish that FTIR analyses can yield
+important data regarding degree of burning of bone. However, they
+note that in archaeological samples, weathering and diagenesis also
+aﬀect the IRSF and may, in fact, mask the eﬀect of burning. They
+conclude that burning is therefore best conﬁrmed by color, rather than
+by analysis of the crystallinity of the mineral using FTIR or XRD.
+In order to investigate the extent to which stable oxygen isotope
+ratios (used for reconstructing climate, diet, and mobility) in phosphate
+ions of bone change as a result of heating, Munro et al. (2007) carried
+out a series of lab-based, controlled-temperature heating experiments
+on deer bone. They heated bone fragments for 1.5 h in a furnace at
+temperatures ranging from 25° to 900 °C. Subsequently, they colorcoded the bones, measured them using XRD and FTIR, and calculated
+the δ 18O of phosphate oxygen isotopes in the bone mineral. Their XRD
+results show that an important mineral phase transition occurs between
+450°–525 °C: below these temperatures, bone mineral most closely resembles carbonated hydroxyapatite; by 550 °C, the predominant phase
+is hydroxyapatite. In other words, between 450°–525 °C, bone mineral
+loses carbonate. This is consistent with the results noted by Stiner et al.
+(1995), and has important implications for oxygen isotope exchanges
+which aﬀect the δ 18O signature. Using the crystallinity index calculated
+from both XRD and FTIR data, Munro et al. (2007) also show that
+crystallinity increases with increasing heating temperature. They attribute this increase in crystallinity to structural reorganization associated with the loss of structural carbonate. However, using XRD, this
+increased crystallinity does not become evident in bone until much
+higher temperatures (625°–675 °C) are reached, while δ 18O values are
+signiﬁcantly aﬀected at temperatures above 300°. The authors conclude
+that a combination of color and IRSF should be used to select bones
+expected to have retained their original phosphate δ 18O values.
+In another controlled heating experiment, Snoeck et al. (2014) investigated the compositional and structural changes which occur in
+modern and archaeological burnt bones. Instead of using transmission
+IR spectroscopy, they used ATR, which produces spectra which cannot
+be directly compared with transmittance spectra (see Section 6.1.1).
+Nevertheless, their results conﬁrm those of earlier experiments using
+transmission IR spectroscopy. First, they show that IRSF values are low
+in unburnt bones, higher in charred bones and even higher in calcined
+bone. Surprisingly, they ﬁnd that the IRSF decreases in bone heated
+from 800°-900 °C, while another ratio (the carbonyl to carbonate ratio,
+[C/C], which measures the fraction of organic carbon in a sample) increases from 600 to 900 °C. Combining the two ratios makes it possible
+to discriminate between bones heated to 700°, 800°, and 900 °C (ibid.).
+Second, Snoeck et al. show that as bone is calcined (as it turns from
+black to white), the carbonate content decreases while hydroxyl groups
+and crystallinity, both of which can be measured with FTIR, increase.
+This observation agrees with results from both Stiner et al., 1995 and
+Munro et al., 2007. Finally, Snoeck et al. (2014) show that archaeological bones with high carbonate content come from high-carbonate
+geological areas. These bones are not very reactive when exposed to
+acetic acid, which is a common treatment used to remove external
+
+that the intensity of ﬁre use increased throughout the period of occupation of the cave.
+Recently, FTIR analyses have also been used in conjunction with
+micromorphological analyses to study experimental ﬁres. Mallol et al.
+(2013) investigated the formation of combustion features through actualistic experiments designed to elucidate the nature of the enigmatic
+‘black layer’ of hearths. This black layer has long been assumed to represent the remains of uncombusted fuel - charcoal - and is commonly
+used to deﬁne occupation ﬂoors. Mallol and colleagues built seven
+hearths near an archaeological site, then excavated them and conducted
+micromorphological, phytolith, and FTIR analyses of sediments. Their
+results show that the ‘black layer’ is actually composed of charred organic matter from the surface upon which the ﬁre was made. This
+means that black layers contain material from occupations preceding
+those that created the combustion features. This has signiﬁcant implications for behavioral and paleoenvironmental interpretations of the
+material present in these layers, as well as stratigraphic reconstructions
+of occupation surfaces.
+In a highly controlled laboratory setting, Aldeias et al. (2016) tested
+the impact of heat transfer from ﬁre onto underlying sediments differing in grain size, degree of compaction, amount of moisture, and
+presence of organic matter. Analysis of the results was conducted
+through micromorphological studies, FTIR analyses of bulk sediments,
+and microscopic attenuated total reﬂectance (μATR) analyses on thin
+sections (see Section 6.1.2). The FTIR and μATR results show, among
+other things, that burnt organic matter in heated sediments undergoes
+predicted mineralogical transformations. In combination with micromorphology, they allow Aldeias and colleagues to demonstrate that
+heat transfer during a simulated ﬁre is greatest directly underneath the
+heat source. This has important implications for our understanding of
+combustion features in archaeological sites, which are often described
+as ‘bowl-shaped’, because it shows that this shape is the result of heat
+transfer rather than the boundary of an excavated ﬁre-pit.
+FTIR analyses have also been useful for analyzing pyrotechnology in
+later time periods. In the Middle Bronze Age through Roman period
+layers at Tel Dor, Israel, FTIR analyses of sediments, along with a suite
+of other techniques, enabled researchers to reconstruct diﬀerent uses of
+ﬁre (Berna et al., 2007). Berna et al. (2007) demonstrate experimentally
+that clay minerals, common in tells because they are a main component
+of mud bricks, evidence speciﬁc IR spectral changes through heating.
+Using these principles and other techniques, they identify three different types of heat-altered sediments at the site: heating by convection
+from ovens or kilns; heating due to bronze casting; and heating as a
+result of a destruction event. At Tel es Saﬁ/Gath, Israel, FTIR analyses
+of sediments, along with micromorphological analyses, ceramic residue
+analyses, and phytolith analyses were applied to the excavation of a 9th
+c. BCE destruction layer (Namdar et al., 2011). The FTIR analyses revealed the presence of ash and burnt clay-rich sediments; these data
+enabled the researchers to deduce that the process of destruction at this
+time period happened in several stages rather than as a single event.
+These studies demonstrate that FTIR spectroscopy, as part of a suite
+of analytical and microscopic techniques in microarchaeology, has led
+to major advances in research on the human control of ﬁre, including
+tools to document the presence of combustion features, experiments to
+reﬁne our understanding of their formation, and the means to analyze
+diﬀerent types of heating events.
+4.3.2. Burnt bone
+Research has assessed the suitability of FTIR measurements in
+helping us identify the temperatures to which bone was burnt. This has
+important implications for documenting the human control of ﬁre as
+well as for understanding taphonomic factors which may aﬀect the
+preservation of burnt bone. In one of the earliest investigations of this
+kind involving FTIR, Stiner et al. (1995) carried out a series of outdoor
+burning experiments on goat bone. They did not attempt to control ﬁre
+temperatures, but instead categorized the bones, after heating, using a
+813
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+Fig. 4. FTIR spectra of bones categorized by color according to burn code (1 = slightly burned, to 6 = fully calcined). Spectra are presented according to the same scale, but have been
+oﬀset vertically. Note that Infrared Splitting Factor or IRSF (listed on the right) increases in more highly burned bones, while the carbonate peaks (at 1416 cm− 1 and 873 cm− 1) decrease.
+Figure replicated from Stiner et al., 1995, Fig. 3, using spectra available on the website of the Kimmel Center for Archaeological Science.
+
+Schmidt and colleagues. Schmidt and Fröhlich (2011) assessed heatrelated transformations in chalcedony by heating ﬁve fragments of the
+stone to temperatures ranging from 100°–1000 °C. Subsequently, they
+powdered the samples and submitted them to FTIR analysis in transmission mode as well as ATR analysis in both the mid- and near-infrared regions. Their results show that an absorbance band in the infrared spectra at 555 cm− 1 (attributed to silanole groups, SieOH)
+disappears between 350°–600 °C, and is correlated with a shift in the
+band at 515 cm− 1 (attributed to SieOeSi lattice vibrations in α-quartz)
+to 509 cm− 1. In the near-infrared (NIR) range, they show a reduction in
+the band attributed to OH groups at 4547 cm− 1 beginning at 350 °C,
+correlated with a drop in reﬂectivity at 555 cm− 1. They interpret these
+results as indicating that surface silanole groups (SieOH) in chalcedony
+are lost upon heating between 350°–600 °C, which enables the formation of new Si-O-Si bonds which ‘heal’ these defects. This model is reﬁned in Schmidt et al. (2011), who, using Fourier Transform Near-Infrared spectroscopy (FT-NIR) elucidate four steps in the transformation
+of chalcedony upon heat treatment: 1) when heated below 200 °C,
+water in open pores within the material is lost to evaporation; 2) beginning at 250°–300°, silanole (SiOH) is lost and healing of lattice defects begins; molecular water is created from the silanole and accumulates at defect sites; 3) between 300°–450 °C, new bridging SieOeSi
+bonds begin to reduce open pores, which results in an increase in
+hardness of the rock (Schmidt et al., 2012) and a reduction in fracture
+toughness (Schmidt et al., 2013); but molecular water continues to
+accumulate in new pores; 4) between 450°–600 °C, samples begin
+fracturing internally, permitting this water to be evacuated. Schmidt
+et al. (2012) note that annealing temperatures and ramp rates depend
+upon the crystallographic structure of the rock, its size, and the volume
+of its porosity. In summary, Schmidt and colleagues' work shows that
+the key transformations in chalcedony upon heat treatment are a reduction of pores (both in size and number) and a concomitant increase
+
+carbonates prior to stable carbon isotope analyses, whereas fresh heated
+bone is highly reactive. This result conﬁrms Berna et al.'s, 2004 observation that bone that contains small amounts of calcite (calcium
+carbonate) does not dissolve in a slightly acidic environment, likely
+because the calcite dissolves ﬁrst (before the carbonated hydroxyapatite), buﬀering the water to a higher pH which prevents dissolution of bone mineral. Unfortunately, it might also mean that external
+carbonates are incorporated into bone carbonated hydroxyapatite after
+calcination, which would aﬀect δ13C (Snoeck et al., 2014). In sum, FTIR
+analyses, along with a suite of other analytical techniques, have shown
+that during burning, bone loses collagen and carbonate, and the crystallinity of the remaining mineral (carbonated hydroxyapatite or hydroxyapatite) increases. However, since crystallinity increases through
+diagenesis as well, assessing the heating temperature of burnt archaeological bone must be based upon multiple factors, not solely upon the
+IRSF.
+4.3.3. Heat treatment of stone for knapping
+The heat treatment of stone to improve its ﬂintknapping properties
+was a major technological innovation during the Paleolithic, and documenting instances of this pyrotechnology is a central concern. Heat
+treatment of stone has been experimentally shown to reduce fracture
+toughness (Domanski and Webb, 1992; Domanski et al., 1994), thereby
+improving knappability, and requires careful control of ﬁre temperature in order to be carried out successfully. Heated stone tools have
+been identiﬁed at Middle Stone Age sites in South Africa dating to 71
+kya and possibly as early as 164 kya on the basis of archaeomagnetic,
+paleomagnetic, and maximum gloss measurements (Brown et al.,
+2009). FTIR has also been used for determining whether stone for
+knapping has been heat treated.
+A set of detailed studies on the mineralogical transformations evidenced in heat-treated chalcedony using FTIR was carried out by
+814
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+possibly detrimental to the preservation of charcoal, as well (CohenOfri et al., 2006).
+While micromorphology is key to identifying certain types of calcite, this becomes more challenging when calcite crystals are dispersed
+throughout sediments or recrystallized. However, Chu et al. (2008)
+showed that the IR spectra of calcites can be used to help distinguish
+between them. The vibrations of CeO bonds within CO3 ions produce
+three absorption peaks in a mid-IR spectrum: ν3 at 1420 cm-1, corresponding to CO3 asymmetric stretching, ν2 at 874 cm-1 corresponding
+to CO3 out-of-plane bending, and ν4 at 713 cm-1 corresponding to CO3
+in-plane bending. Gueta et al. (2006) had shown that atomic disorder in
+the calcite crystal lattice causes the ν4 peak to broaden and thus have a
+smaller peak height while the ν2 peak shape remains constant. Chu et al.
+(2008) inferred that this change in the ν2/ν4 peak height ratio could be
+used to document relative degrees of atomic disorder among diﬀerent
+kinds of calcite in archaeological sites. They showed that this ratio is
+low in geological calcite such as sparry calcite, intermediate in wood
+ash, and higher in freshly prepared plaster. The increasing ratio indicates increasing disorder in the crystal lattice. Chu et al. (2008) further showed that the ν2/ν4 values of archaeological calcites (plaster and
+wood ash) fall in-between those for geological calcite and fresh plaster.
+This paper heralded a major new innovation in the application of IR
+spectroscopy to archaeological questions: the idea that FTIR spectroscopy can be used to identify the source of calcite encountered in the
+archaeological record (wood ash, plaster, geological sediment, or shell).
+The problem was that the reproducibility of this ratio was inﬂuenced by
+the extent of grinding of the sample. Speciﬁcally, the size and distribution of calcite particles within the KBr matrix create an optical
+eﬀect that results in peak sharpening (Poduska et al., 2011).
+This problem was addressed by Regev et al. (2010), who developed
+‘grinding curves’ based upon the plots of the ν2 and ν4 peak heights,
+each normalized to the height of the ν3 peak height, for successively
+ground samples. Grinding a calcite sample several times, obtaining an
+FTIR spectrum after each grinding episode, and plotting it in this
+manner produces a characteristic trend line which can be used both to
+control for inter-analyst diﬀerences in grinding and strengthen calcite
+origin identiﬁcation (Fig. 5). The implications of this new ‘grinding
+curve’ method, which can help us distinguish wood ash from geogenic
+calcite, or plaster from chalk, are wide-ranging, and have already
+yielded important results (e.g., Cabanes et al., 2012; Namdar et al.,
+2011). It is important to note, however, that the grinding curve method
+was developed for KBr pellets, and has not yet been shown to be applicable to other FTIR sample preparation methods.
+Aragonite, like calcite, is a polymorph (a variant) of calcium carbonate (CaCO3). It can be geogenic, growing in caves or precipitating
+out of evaporating seawater; or biogenic, produced by land and many
+marine mollusks (Weiner, 2010:77–78). Toﬀolo and Boaretto (2014)
+investigated the origins of aragonite documented in archaeological sediments containing heat-altered clays, and occurring in calcitic lime
+plaster. Since aragonite transforms into calcite when heated above
+400°, the presence of aragonite in these heated contexts is unusual.
+Experimentally, they found that heating calcareous materials above
+600 °C, then letting them cool to room temperature (which is the ﬁrst
+part of the process for making plaster), can result in the formation of
+aragonite. This is a surprising ﬁnding, since aragonite generally does
+not form at ambient temperatures and pressures (in the absence of
+magnesium). These temperatures are typically reached in campﬁres,
+which produce calcareous ash, and during the burning of limestone to
+make plaster. Therefore, the authors infer that the presence of this
+‘pyrogenic aragonite’ in sediments may be used to help document the
+presence of wood ash and plaster. Additionally, aragonite can be used
+to help identify combustion features in contexts where sediments are
+rich in geogenic calcite, since geogenic calcite can be diﬃcult to differentiate from pyrogenic calcite if the two are mixed in sediments.
+Toﬀolo et al. (2017) have also developed a new radiocarbon dating
+method based upon dating the 14C in pyrogenic aragonite, which
+
+Fig. 5. Grinding curves for plaster, ash, limestone, and spar calcite. The (x,y) values for
+each data point are based upon the normalized heights of the (ν4,ν2) peaks as described in
+the text. The shape of each trend line reﬂects changes in absorption due to diﬀerent
+particle sizes; the position of each curve on the plot relative to the end-member (spar
+calcite) yields information about the degree of local crystalline order. Spar calcite contains the highest degree of crystalline order, whereas modern plaster exhibits the lowest
+degree of crystalline order. Figure used, by permission, from Regev et al., 2010, Fig. 1b.
+
+in bridging SieOeSi bonds. Achieving these transformations requires
+good knowledge of ﬁre and its properties, because precise control of
+temperature as well as rate of heating are necessary to achieve the
+desired changes.
+Since ﬂint does not always contain silanole groups, the measures
+developed by Schmidt et al. for chalcedony may not be applicable to all
+ﬂint. Weiner et al. (2015) developed another FTIR-based measurement
+for identifying heat-treatment of ﬂint. Their heating experiments on
+ﬂint from the Upper Paleolithic site of Manot Cave, Israel show that two
+adjacent peaks in the lower frequency portion of the spectrum (at 512
+and 467 cm− 1) broaden progressively with heating temperature. They
+propose a new measure to quantify these changes, and demonstrate that
+nineteen out of twenty tested ﬂint artifacts from Manot cave yield values consistent with heating. This has important implications for our
+understanding of the technological achievements of these people. In
+fact, when the same method was applied to the older site of Boker
+Tachtit in the south of Israel, no evidence was found for heat treatment
+(Goder-Goldberger et al., 2017). This new approach indicates great
+potential for continued development of FTIR-based measures of heat
+treatment of silicate rocks.
+4.3.4. Plaster and ash: distinguishing between pyrogenic, geogenic, and
+biogenic calcites
+Calcite (calcium carbonate, CaCO3) is a common mineral in archaeological sites (Weiner, 2010:76–83). One reason for this is that
+many prehistoric archaeological sites are found in karstic caves or
+rockshelters, which are composed of calcite (limestone or chalk). Thus,
+sediment in such sites can contain calcite from the breakdown of the
+roof and walls of the shelter, as well as travertines formed in karstic
+systems. Calcite is also a common mineral in sediments such as loess.
+Both of these types of calcite are geogenic, although they can have a
+biogenic origin (i.e. microfossils). Human pyrotechnical activities can
+also produce calcite: plaster, widely used throughout the Neolithic and
+Iron Age in the Near East, is composed of pyrogenic calcite. Likewise,
+the burning of wood produces pyrogenic calcite, as calcium oxalate
+crystals found in wood decompose to calcite during burning. Finally,
+eggshells and some mollusk shells are composed of biogenic calcite,
+which can end up in sites as food remains.
+Calcite can therefore come from a number of diﬀerent sources, and
+identifying its source can provide important information about human
+activities. It can also reveal information about site formation processes
+as the calcite may undergo post-burial changes to more ordered states.
+Calcite readily dissolves when it is wet; the carbonate (CO3) ions released into the groundwater upon its dissolution buﬀer the pH to
+around 8.2, which is excellent for the preservation of bone mineral, but
+too high for good silica phytolith preservation (Weiner, 2010:143) and
+815
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+under consideration. However, sometimes, even minimal destruction
+such as this is either undesirable, in the case of valuable or unique
+artifacts, or not feasible, when these residues are too small to be removed. The search for non-contact methods of IR spectroscopy has
+therefore led to the development of some of the reﬂectance-based
+methods described earlier, including FTIR microspectroscopy. The application of FTIR microspectroscopy to lithic residue analysis is described in detail in Section 6.2.
+
+originates from the air at the time of its formation. This method has the
+potential to be used to date archaeological plasters and the ash from
+combustion features when charcoal is absent, and as such represents an
+important new application of radiocarbon dating.
+4.4. Residue analysis
+Because FTIR analysis is suitable for analyzing extremely small
+samples, it has proven useful for characterizing unknown residues located in or on artifacts. For instance, Maniatis and Tsirtsoni (2002) used
+FTIR analysis to identify the contents of a black residue on the inside of
+a ceramic vessel from the Neolithic site of Dikili Tash in Greece. Although this residue had been assumed to be organic, FTIR spectroscopy
+showed that it was composed primarily of calcite; SEM-EDS and optical
+microscopy revealed the crust to be composed of iron oxides, and the
+authors interpreted it as having been a hematite pigment that was
+converted to magnetite and maghemite during a destruction ﬁre, and
+subsequently cemented by calcite. Giachi et al. (2013) investigated
+medicine tablets found in a tin pyxis recovered from a 2nd c. BCE
+Etruscan shipwreck. SEM, SEM-EDS, FTIR, XRD and GC/MS analyses
+were applied in order to identify the ingredients in these medicines.
+FTIR spectroscopy revealed the presence of hydrozincite and starch,
+which are known to have been used as ingredients in medicines and
+cosmetics, respectively.
+FTIR analysis has also been useful for characterizing hafting residues. For instance, Shaham et al. (2010) used FTIR to investigate red
+staining on a crescent-shaped ﬂint artifact from the PPNA site of
+Gesher. Due to its location on both faces of the artifact, adjacent to the
+abruptly retouched edge, this staining was assumed to be related to
+hafting. FTIR analysis of the material showed the presence of calcite,
+clay, and hematite, and SEM images and SEM-EDS analyses revealed
+the presence of vegetal ﬁbers and elements consistent with calcite and
+hematite. XRD patterns conﬁrmed the FTIR results. Based upon these
+lines of evidence and upon ethnographic and archaeological studies of
+hafting, the authors concluded that the red stain is the remains of an
+adhesive made using a clayey mud, ochre-like minerals, and quartz and
+vegetal material as loaders. Mud plasters have been documented from
+Natuﬁan and PPNB sites, strengthening this interpretation.
+Helwig et al. (2014) used FTIR and other analytical techniques to
+characterize the adhesive residues on stone points recovered from
+melting ice patches in northwestern Canada. They mounted small
+fragments of the samples on a diamond anvil cell and analyzed them via
+FTIR spectroscopy in transmission mode. Their GC-MS analyses revealed that these adhesives are composed of spruce resin in almost all
+cases. FTIR spectra were consistent with these results, and showed,
+furthermore, that diterpenoid spruce resin can be distinguished from
+callus resin, due to the substituted aromatic structures of the lignan
+components in callus resin.
+Finally, Shillito et al. (2009) demonstrate that FTIR spectroscopy is
+useful as a rapid screening tool prior to the selection of more expensive
+and time-consuming analytical techniques such as GC-MS. For instance,
+the presence of a strong phosphate (PO4) doublet at 602 cm− 1/
+562 cm− 1 in a coprolite was correlated with the presence of fecal
+biomarkers in the same coprolite as identiﬁed using GC-MS. On the
+other hand, two other samples which lacked the doublet were found not
+to contain suﬃcient residue to quantify via GC-MS. Shillito et al. (2009)
+also showed that pottery samples can be screened for resin and other
+organic residues using FTIR, which reveals the presence of diﬀerent
+organic components (e.g., foodstuﬀs and triterpenoid resins) as conﬁrmed by GC-MS analyses.
+These studies illustrate the usefulness of FTIR spectroscopy in the
+identiﬁcation of a wide range of unknown organic and inorganic residues, especially when used in conjunction with other analytical
+techniques. FTIR spectroscopy, when used with the KBr pellet sample
+preparation method, can be classiﬁed as microdestructive, in that it
+requires the destruction of a very small portion of the artifact or residue
+
+5. Methodological issues involving transmission FTIR
+spectroscopy
+Transmission FTIR spectroscopy carried out on samples prepared as
+KBr pellets has been the gold standard for the method for over ﬁfty
+years. As described in Section 3.1, sample preparation for this method
+involves grinding a sample into a powder, mixing it with KBr, and
+pressing the mixture under high pressure to create a transparent disk
+which is then placed in the light path of the spectrometer. It has long
+been known that when using this method, variables like particle size,
+sample concentration, and crystal size need to be controlled (e.g.,
+Termine and Posner, 1966). Generally, appropriate concentrations and
+consistent grinding by hand are easy to achieve with a little practice.
+However, Surovell and Stiner (2001) investigated the eﬀect of particle
+size on measurements of the bone splitting factor when they suspected
+the presence of a systematic bias due to sample preparation. They
+discovered, in a controlled experiment in which three separate individuals prepared 10 KBr pellets from the same stock powder each,
+that the IRSFs produced by one of the individuals were signiﬁcantly
+lower than those produced by the other two individuals. This was a
+problem since IRSF is supposed to be a measure of the crystallinity of
+bone which can be used to assess relative degrees of burning or diagenesis. Yet, from a single bone fragment, they were able to obtain IRSFs
+ranging from 2.78 to 3.78. Their subsequent experiments showed that
+intensive grinding of bone causes IRSF to decrease; they attribute this to
+an alteration of the crystalline structure of carbonated hydroxyapatite
+crystals by over-intensive grinding. In order to mitigate this problem, as
+well as increase the replicability of measurements, they advocate the
+replacement of hand-grinding of samples by mechanical grinding in a
+ball mill and sifting of the resulting powder.
+The problem raised by Surovell and Stiner has led a number of researchers to favor FTIR-ATR spectroscopy instead of the KBr pellet
+method (e.g., Stathopoulou et al., 2008; Thompson et al., 2009;
+Hollund et al., 2013; Beasley et al., 2014; discussed below in Section
+6.1.1). However, the grinding curve method developed for calcite
+(Regev et al., 2010; Poduska et al., 2011) and bone mineral (Asscher
+et al., 2011) has now eﬀectively resolved the problem. As described
+earlier (in Section 4.3.4), in order to control for the relationship between grinding intensity and peak width, Regev et al. (2010) introduced the grinding curve technique for calcite analysis, which plots
+the normalized heights of the ν2 and ν4 peaks for successively ground
+and measured samples. This produces a characteristic trend line which
+can be used both to control for inter-analyst diﬀerences in grinding and
+to obtain information on crystallinity, which helps determine the origin
+of the calcite (biogenic, geogenic, or pyrogenic). The reasons for peak
+sharpening with grinding are described by Poduska et al., 2011:
+Duyckaerts (1959) had shown that as the size of particles is reduced
+through grinding, they become more evenly distributed throughout the
+matrix (KBr), permitting more energy to be absorbed by the pellet.
+Thus, when plotted on the grinding curve, all of the points that fall on
+the same curve are samples with the same crystallinity, but diﬀerent
+particle sizes. On the other hand, the shifts of these curves relative to
+the end-members reveal information about the degree of local crystalline order (Fig. 5). These grinding curves therefore decouple sample
+preparation inﬂuences from diﬀerences in the intrinsic structural order
+in the material. The implications of this new method are signiﬁcant, not
+only for archaeology, but for materials sciences and biomineralization
+816
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+6.1.1. ATR versus the KBr-pellet technique for assessing bone diagenesis and
+bone burning
+Several recent studies on bone diagenesis have claimed that ATR is
+superior to the KBr pellet technique. The basis for this claim is, ﬁrst,
+that ATR is not susceptible to the optical eﬀects of particle size and
+dispersion within the embedding matrix that aﬀect peak shapes produced using KBr pellets. Thompson et al., 2009 have concluded that
+ATR measurements are therefore not susceptible to the grinding eﬀect
+noted by Surovell and Stiner (2001). Second, it has also been suggested
+that the use of KBr can result in chemical alterations of a sample, such
+as hydration and ion exchange (e.g., Stathopoulou et al., 2008). For
+instance, in a study comparing FTIR-ATR measurements on bone
+powder mixed with KBr in a 1:10 ratio versus pure bone powder,
+Hollund et al. (2013) found that the addition of KBr results in lower,
+broader peaks and hence a lower infrared splitting factor (IRSF). Third,
+the KBr pellet technique is seen as ‘messy’ and time-consuming (e.g.,
+Thompson et al., 2009), especially if the grinding protocol from
+Surovell and Stiner (2001) is used.
+The ATR sample preparation method is undoubtedly fast and easy
+for many types of samples, especially liquids and semi-solids. However,
+as mentioned above, the method depends upon establishing good contact between the sample and the crystal. Solids, therefore, should be
+ground to a powder using an agate mortar and pestle - this reduces
+particle size, ensuring better contact with the crystal when they are
+ﬂattened against it by the clamp (Smith 2011:143). Therefore, preparing samples for ATR analysis is only marginally faster than preparing them for transmission analysis using KBr pellets.
+More importantly, ATR spectra are known to diﬀer from KBr spectra
+because the depth of penetration (DP) of the evanescent wave depends
+upon the refractive indices of the crystal and the sample, the angle of
+incidence of the beam, and the wavelength of the IR radiation, as seen
+in the following equation (Smith, 2011:131):
+
+as well, because they provide a fast and easy mechanism for monitoring
+the crystallinity of solid materials using very small amounts of sample.
+Asscher et al., 2011 applied the grinding curve technique to differentiate between particle size and atomic disorder in carbonate hydroxyapatite from enamel, dentine, cementum, and bone. They create
+grinding curves by plotting the IRSF against the FWHM (full width at
+half maximum height) of the major phosphate (PO4) absorption peak at
+1035 cm-1. Like the calcite grinding curves, the shapes of the carbonate
+hydroxyapatite grinding curves reﬂect particle size eﬀects, while the
+locations of the trend lines on the plot reﬂect atomic disorder eﬀects.
+They show that diﬀerences in atomic disorder exist between bone,
+dentine, and even enamel crystals from modern taxa which reﬂect
+crystal size or disorder within the crystal lattice. They also show that
+the IRSF remains constant once FWHM of the peak at 1035 cm− 1
+reaches below 100; this demonstrates that well-ground samples produce reproducible spectra, and is consistent with the observation by
+Poduska et al., 2011 that well-ground calcite samples also produce reproducible spectra, since they localize near the end of grinding curves
+where further grindings have little eﬀect on analyzed peak ratios. The
+grinding curve method, in other words, seems to solve the problems
+noted by Surovell and Stiner (2001) regarding reproducibility; in addition, it provides a new measure of crystallinity.
+
+6. Principal applications of reﬂectance FTIR spectroscopy in
+archaeology
+Although sample preparation for transmission FTIR spectroscopy is
+easy and requires only a few milligrams of sample, reﬂectance FTIR
+spectroscopy, which can be non-destructive, is sometimes preferable.
+Reﬂectance-based methods oﬀer several advantages to traditional
+transmission-based methods. Some methods, such as FTIR microspectroscopy and Fiber-optic reﬂectance spectroscopy (FORS), are noncontact and, hence, non-destructive. Others, such as ATR and μATR are
+contact methods requiring a ﬂat surface, and are thus applicable to
+fewer materials. However, ATR methods are less susceptible to optical
+eﬀects than non-contact reﬂectance FTIR measurement techniques, and
+are therefore preferred in many cases.
+
+DP = 1/[2πWn c (sin2 θ − n2sc )1/2]
+
+(1)
+
+where DP = depth of penetration, W = wavenumber, nc = refractive
+index of ATR crystal, θ = angle of incidence, and nsc = the refractive
+index of the sample (nsample) divided by the refractive index of the
+crystal (ncrystal). This has several implications. First, it means that light
+with longer wavelengths (lower wavenumbers) penetrates farther into
+samples than light with shorter wavelengths. For instance, 1000 cm− 1
+light penetrates three times farther into a sample than 3000 cm− 1 light
+(Smith, 2011:132). As a consequence, as DP decreases in a spectrum
+from right (low wavenumbers) to left (high wavenumbers), peak height
+also goes down. Therefore, relative peak intensities in ATR spectra
+diﬀer from those in non-ATR spectra. ATR spectra are frequently corrected using software functions designed to adjust the relative intensities so that they look more like those measured using transmission
+experiments. However, in general, it is best to compare ATR spectra to
+other ATR spectra, only. Eq. (1) also means that the DP will vary as a
+function of the type of crystal used, because as the index of refraction
+(nc) of a crystal increases, DP decreases. For instance, since germanium
+(Ge) has a higher index of refraction (nGe = 4.0) than diamond
+(nDiamond = 2.42), it has a shallower depth of penetration. Therefore,
+relative peak intensities of samples measured with a Diamond crystal
+are more intense than those measured with a Ge crystal; the two spectra
+are not comparable.
+A number of studies have argued that despite these drawbacks, the
+ATR technique produces similar results as the KBr technique (e.g., Dal
+Sasso et al., 2016). Stathopoulou et al. (2008) show that ATR data are
+comparable with other lines of evidence, such as XRD, in a study of the
+diagenesis of fossil bones from three sites in Greece (dating to the
+Miocene and Pleistocene). Using XRD data, they identify changes to the
+crystal structure of carbonate hydroxylapatite that occur with diagenesis at all three sites, and show that the XRD data correlate with the
+ATR data. However, others showed that, although IR absorbance frequencies are the same whether bone is measured using ATR or KBr
+
+6.1. Contact methods: FTIR-ATR and μATR
+In ATR spectroscopy, the material to be measured is pressed against a
+crystal with a high index of refraction, such as diamond or germanium (see
+Section 3.2). The radiation beam is passed through the crystal, and allowed to reﬂect from the crystal/sample interface multiple times before
+being collected by the detector. Micro-ATR (μATR) spectroscopy is based
+upon the same principle, but combines the optics of a microscope for
+accurate positioning of a crystal that has a smaller spot size, permitting
+only one reﬂection. ATR and μATR spectroscopy have become popular due
+to the ease of use of these methods and the variety of sample types which
+they can analyze. ATR requires little or no sample preparation for materials which can be pressed ﬁrmly against the crystal - the method depends
+upon good contact between the sample and the crystal - therefore, it is
+particularly suitable for soft or sticky substances which cannot easily be
+ground as required by the traditional KBr pellet technique. Hard samples,
+such as bone, can also be analyzed via ATR, but need to be powdered prior
+to analysis (but see below for ATR analyses on bone cross-sections). μATR
+spectroscopy was used to analyze residues on the surfaces of six lithic
+artifacts from Diepkloof Rock Shelter in South Africa (Schmidt et al.,
+2015). Generally this method is not very successful on stone tools, since
+they have uneven surfaces which makes it challenging to establish good
+contact between the crystal and the artifact. In this case, however, the
+method was successfully used to demonstrate the presence of an organic
+tar on the stone which was formed by contact between the stone and the
+embers of a ﬁre during heat treatment.
+817
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+hydroxyapatite) which suggested that low levels of diagenesis due to
+phosphate had occurred, possibly as a result of the breakdown of organic matter (there is no evidence for bat guano, a common source of
+phosphate in rock shelters, at the site). At Roc de Marsal in France,
+micromorphological thin sections of combustion features were analyzed
+using either ATR or FTIR microspectroscopy. These analyses helped
+provide information on calcination of bone, heating of clay minerals,
+and other mineralogical data which helped conﬁrm the presence of
+numerous combustion features (Aldeias et al., 2012). The development
+of FTIR microscopes with μATR attachments have made this technique
+particularly attractive and easy to apply to micromorphology thin
+sections. μATR was used to measure sediments and features on thin
+sections from blocks collected throughout the major stratigraphic units
+and microfacies at Liang Bua, the late Pleistocene cave site on Flores
+Island that yielded the type specimen Homo ﬂoresiensis (Morley et al.,
+2016). Results provided data on diagenesis of calcareous and phosphatic sediments, and helped identify the distribution of clay and other
+minerals on thin sections (ibid). μATR measurements on micromorphology thin sections from a series of sediment burning simulations
+were also taken by Aldeias et al. (2016). As described earlier in Section
+4.3.1, these measurements helped the authors test the impact of heat
+transfer from ﬁres on underlying sediments. As noted earlier, however,
+ATR and μATR spectra are not directly comparable to transmission
+spectra. This is especially true where quantitative analyses, such as
+calculation of the IRSF, are required. Therefore, the development of
+ATR spectral libraries and ATR spectra-based measures of crystallinity
+are essential for the application of techniques originally developed for
+the KBr pellet technique.
+
+pellets, the intensities of the absorbances diﬀer. For instance, in a study
+speciﬁcally designed to compare ATR with the KBr pellet technique on
+experimental burnt bone, Thompson et al. (2009) found that ATR
+produces diﬀerent values from FTIR-KBr: the IRSF is always lower when
+based upon KBr values than ATR values. Building upon this study,
+Hollund et al. (2013) obtained ATR and FTIR-KBr measurements on
+powdered bones from 20 archaeological sites spanning the Upper Paleolithic through Medieval times in Europe, and on experimental bone
+heated to diﬀerent temperatures. They found that the absorption intensities of the ATR spectra are often lower than those of KBr spectra;
+moreover, the IRSF as calculated from the ATR spectra is consistently
+higher than that calculated from the KBr spectra, conﬁrming Thompson
+et al. (2009). Finally, they found that although there is a high correlation between infrared ratios (such as the IRSF, the carbonate to
+phosphate ratio [C/P], and the amide I to phosphate ratio [Am/P], a
+measure of collagen content) obtained from KBr spectra versus ATR
+spectra for the modern, experimental bone, these values are lower for
+archaeological bone. This poses a problem for diagenesis studies, which
+by deﬁnition are carried out on old bones. Beasley et al. (2014) also
+found that the IRSF and C/P ratios as measured by three FTIR techniques (the KBr technique, ATR, and DRIFT) on over 400 modern and
+prehistoric bones are signiﬁcantly diﬀerent. They attribute this result to
+diﬀerences in resolution between the three techniques. Furthermore,
+the correlation between the two indices diﬀers according to technique,
+as does the distribution of values. Beasley et al. conclude that the three
+techniques are not comparable and require the development of diﬀerent
+criteria in order to evaluate diagenesis. They favor ATR for this purpose
+because it produces ratios which better discriminate between modern
+and prehistoric bone than the KBr technique, and avoids the problems
+related to grinding identiﬁed by Surovell and Stiner (2001). The eﬀect
+of manual grinding during KBr pellet preparation upon the splitting
+factor is one of the main reasons given by authors who avoid this
+technique in favor of ATR. However, as mentioned above, the grinding
+curve technique (Regev et al., 2010; Poduska et al., 2011; Asscher et al.,
+2011) controls for this problem and provides a way to obtain information on bone mineral disorder irrespective of particle size (Asscher et al., 2011).
+Finally, there is the question of using ATR on samples ‘as is’, without
+grinding - an appealing notion since this requires less sample preparation or destruction. Hollund et al., 2013 applied ATR directly to polished bone sections, and compared these results with those obtained
+from ATR measurements on bone powder from the same bone. The
+correlation was high for the IRSF, but less high for the C/P ratio and the
+Am/P ratio. The archaeological samples showed very poor correlation
+between the direct ATR and the powdered sample ATR measurements.
+Hollund and colleagues show that this lack of correlation is due to
+heterogeneity within bone. Therefore, ‘bulk’ measurements of powdered bone may provide a more representative measure of crystallinity
+than individual spot measurements. In sum, FTIR-ATR measurements
+on powdered bone seem to produce reliable results, although the reproducibility and accuracy of the technique must continue to be investigated, and ATR and KBr results are not interchangeable.
+
+6.2. Non-contact methods
+Non-contact methods of reﬂectance FTIR spectroscopy also exist,
+such as FTIR microspectroscopy, DRIFT, and Fiber-optic reﬂectance
+spectroscopy (FORS). FTIR microscopes are designed to allow both
+visible light and IR radiation to pass through the same optical system.
+This enables small areas of interest (150 μm × 150 μm or less with a
+15× objective) in a sample to be viewed and its IR properties measured
+in either transmittance or reﬂectance mode. FTIR microspectroscopy in
+reﬂectance mode has been applied to micromorphological thin sections
+in a number of recent studies, for instance at Qesem Cave (ShahackGross et al., 2014) and at Wonderwerk Cave (Goldberg et al., 2015), as
+described in Section 4.3.1. FTIR microspectroscopy has also been demonstrated to have great potential for in situ analysis of residues on
+stone tools (see below).
+FORS is uniquely suited to cultural heritage research, as it consists
+of a ﬂexible ﬁber-optic probe attached to a portable spectrophotometer
+(e.g., Rosi et al., 2010). This enables the instrument to be brought to
+locations where artwork cannot be moved. The diameter of the probe is
+generally 5 mm or less, and it can be positioned either perpendicular to
+the surface to be measured, for total reﬂectance, or at an angle (e.g.,
+45°) in order to work with diﬀuse reﬂectance (e.g., Bacci et al., 2009).
+Depending upon the instrument, FORS can be used to collect data in the
+Near Infrared (NIR) range, as well as UV and visible light (e.g., Bacci
+et al., 2009; Vagnini et al., 2009; Rosi et al., 2010; Miliani et al., 2012;
+Buti et al., 2013; Dooley et al., 2013).
+Diﬀuse reﬂectance infrared Fourier transform spectroscopy (DRIFT)
+has been used very little in archaeology (but see Lettieri, 2017), although it is popular in the materials sciences and earth sciences. In
+DRIFT spectroscopy, the focus is on the collection of diﬀuse reﬂected
+energy rather than specular reﬂected energy. It requires a sample to be
+powdered and diluted with an IR-invisible diluent such as KBr, and
+placed in a cup which is illuminated by the IR source. Both the source
+and detector are placed at angles designed to optimize the generation
+and collection of scattered light. This technique can minimize interference from water bands, and produce greater spectral resolution;
+however, Beasley et al., 2014 found it provided worse resolution on
+
+6.1.2. Micromorphology using ATR and μATR
+ATR spectroscopy has also been used to measure features of interest
+on micromorphology thin sections, including the suite of minerals
+sensitive to diagenesis (calcites and phosphates), materials which provide information on heating (calcites, clays, bone), and other features.
+In fact, it appears that reﬂectance FTIR techniques such as ATR, μATR,
+and FTIR microspectroscopy (described below) have become essential
+partners with micromorphology. For instance, at Obi Rakhmat, a late
+Pleistocene rock shelter in northeastern Uzbekistan, sediment samples
+were analyzed using both the traditional transmission FTIR KBr pellet
+technique and ATR using powdered samples (Mallol et al., 2009). These
+analyses provided information on phosphate diagenesis within the
+shelter, documenting the presence of dahllite (authigenic carbonated
+818
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+reﬂectance spectroscopy (Dooley et al., 2013). Within the NIR range,
+from 13,000–4000 cm− 1, many molecular species exhibit vibrational
+overtones and combination bands of fundamental absorptions. Only
+functional groups containing NeH, CeH, OeH, CeO, and CeC bonds
+vibrate in this range, and combination and overtone bands are generally
+broader and less well resolved than fundamental bands. Therefore,
+band assignments can be diﬃcult, and NIR is less speciﬁc than midinfrared spectroscopy. The main advantage of the near-infrared range
+occurs in reﬂectance spectroscopy. Bands in the NIR range are not
+distorted by specular reﬂection. Furthermore, because they have lower
+absorptions than those in the mid-infrared range, they are enhanced by
+volume reﬂection (Rosi et al., 2010). Vagnini et al. (2009) used NIRFORS to obtain contactless measurements of sixteen organic materials
+commonly used as binding media and varnishes, including plant-based
+oils, protein binders, and natural resins. They documented the combination and overtone bands visible in the reﬂectance spectra, then applied a mathematical function to obtain the ﬁrst derivative of the
+spectra. These derivatives were useful for highlighting diﬀerences that
+appear very minor in the reﬂectance spectra. For instance, the raw
+reﬂectance spectra for the four drying oils that they used (walnut,
+poppyseed, linseed, and stand) are very similar, but the derivative
+spectra show distinctive features in the range 4600–4000 cm-1. Derivative transforms of the protein binders (whole egg, animal glue,
+casein, and egg white) also show diﬀerences, enabling discrimination
+between them. Within the resin category, diterpenes can be distinguished from triterpenes using the raw reﬂectance spectra. By using
+the ﬁrst derivative, diﬀerent resins within the terpene class can be
+distinguished. Inorganic pigments that strongly absorb in the NIR range
+are those with OH combination bands (hydrate minerals) or low-energy
+electronic transitions (e.g., Co- and Fe-based compounds). The authors
+demonstrate that NIR reﬂectance spectroscopy and mathematical tools
+enabled the correct identiﬁcation of several components of the paints in
+a 17th century painting, which were independently conﬁrmed using
+GC-MS.
+Researchers in cultural heritage have experimented with diﬀerent
+reﬂectance FTIR techniques, both contact and non-contact, for measuring cross-sections of paintings (see Prati et al., 2016, for an excellent
+overview of FTIR microspectroscopy in cultural heritage science). Polished thin-sections of paintings are made in much the same manner as
+thin sections of sediments in soil micromorphology, by embedding the
+painting sample in resin (or KBr [Joseph et al., 2010]) and cutting it so
+that the stratiﬁed layers containing mixtures of binders, pigments,
+drying oils, resins, and so forth can be analyzed. Just as micromorphologists have applied both contact and non-contact techniques to
+the study of thin sections, cultural heritage researchers have experimented with these techniques to analyze painting cross-sections. The
+studies using contact methods of reﬂectance spectroscopy, namely ATR
+and μATR, have identiﬁed some of the same limitations with ATR as
+those described earlier; namely, that good contact between the section
+and the crystal is only achievable with rigorous sample preparation to
+create a ﬂat surface; that the surface may be damaged by pressure; and
+that if the criterion for internal reﬂection isn't valid, for highly absorbing bands there's a sharp rise in refractive index of the material
+which distorts them and shifts them towards lower wavenumbers (Rosi
+et al., 2010; Rosi et al., 2011; Sciutto et al., 2014). Additionally, the
+relationship between penetration depth and wavelength means that in
+ATR spectra, high wavenumber absorptions (e.g., OH stretching) are
+less intense, making hydration phases of compounds more diﬃcult to
+identify (Rosi et al., 2010). While baseline corrections are commonly
+used to compensate for this problem, they are ineﬀective for mixtures
+(Prati et al., 2016).
+Therefore, researchers have also applied non-contact reﬂectance
+FTIR microspectroscopy to the analysis of paint cross-sections. They
+have addressed the problems noted earlier regarding the mixture of
+specular and diﬀuse reﬂected light that is generated by samples which
+are not optically ﬂat, resulting in distorted (inverted or derivative)
+
+powdered bone compared with KBr-pellet and ATR measurements.
+6.2.1. Methodological issues in non-contact reﬂectance IR spectroscopy
+Non-contact modes of reﬂectance IR spectroscopy such as FTIR
+microspectroscopy and FORS are susceptible to a diﬀerent set of issues
+than those arising in ATR and μATR. These are related to the complex
+interactions that occur between light and matter. As succinctly described by Miliani et al. (2012); see also Griﬃths and de Haseth (2007),
+when light strikes the surface of a material, it can either be reﬂected
+from the surface, or it can penetrate, where it is absorbed, refracted,
+reﬂected, and scattered prior to exiting. Surface reﬂection (Rs) is also
+known as specular reﬂection, whereas light that has penetrated a material before being reﬂected is known as volume reﬂection (Rv). Surface
+reﬂection is ruled by Fresnel's law:
+
+Rs =
+
+(n − 1)2 + k 2
+(n + 1)2 + k 2
+
+(2)
+
+, where k is the absorption index and n is the refractive index. Distortions in an infrared reﬂectance spectrum can arise depending upon the
+absorption index of the material: when it is very low (k < 1), as occurs
+in most organic molecules, the reﬂection proﬁle follows the derivativelike behavior of the refraction index (n), resulting in derivative bands.
+On the other hand, when k ≫ 1 (e.g., in many inorganic salts containing
+nitrates, carbonates, sulfates, and phosphates) these bands are totally
+reﬂected, producing inverted or reststrahlen bands.
+Volume reﬂection, on the other hand, originates from an absorption
+process - therefore, it produces spectra which are very similar to
+transmission spectra. Some diﬀerences in relative band intensities appear since the penetration depth of diﬀuse reﬂected light is inversely
+proportional to the scattering factor and the absorption coeﬃcient. For
+instance, combination and overtone bands, which have a lower absorption index, are usually enhanced in reﬂection mode because they
+are crossed by the light, resulting in higher eﬀective sample thickness
+(Buti et al., 2013).
+Both of these factors have important implications for the reﬂectance
+FTIR microspectroscopic measurements of organic residues on stone
+tools, as revealed in Monnier et al. (2017, in press). The results obtained
+in these two studies are also in agreement with the known relationship
+between surface roughness and type of reﬂection: the degree to which a
+surface is expected to produce specular or volume reﬂection depends
+upon the roughness of the surface. Surfaces that are ‘optically ﬂat’ – in
+other words, where the size of the particles is larger than the wavelength of the IR radiation, produce specular reﬂection. Rough surfaces,
+on the other hand, where the size of the particles is the same as the
+wavelength of the radiation, produce diﬀuse reﬂected radiation. The
+surface texture of a material, in combination with its optical properties
+(absorption and refraction indices), can therefore produce a complex
+blend of specular and volume reﬂection, containing a number of distortions in the same spectra. Mathematical corrections that are commonly used for these distortions, such as Kramers-Kronig and KubelkaMunk, do not correct all distortions on spectra that are characterized by
+multiple types of distortions, and must be used cautiously (Buti et al.,
+2013; Griﬃths and de Haseth 2007:311). This fact has spurred the
+development of reference libraries for reﬂectance spectra of archaeological materials common in residue analyses (Monnier et al., 2017, in
+press). It has also led cultural heritage researchers to develop reference
+libraries of reﬂectance spectra for organic and inorganic pigments,
+binders, ﬁnishing materials, and preparation layers of artworks (Miliani
+et al., 2012).
+6.2.2. New solutions to reﬂectance FTIR spectroscopy challenges
+Cultural heritage and conservation science has largely led eﬀorts to
+overcome the methodological issues described above, and these innovations suggest future applications of reﬂectance techniques in archaeology. For instance, near-infrared (NIR) reﬂectance spectroscopy
+has been successfully used to resolve some of the issues faced in mid-IR
+819
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+residues of these substances, and systematically compared these FTIR
+microspectroscopy measurements with those of the same substances
+made using ATR. This enabled them to document the various distortions that arise in the reﬂectance FTIR microspectroscopy spectra, as
+well as the eﬀect of the stone. Since these distortions can be severe, they
+advocate for the development of reference FTIR microspectroscopy
+spectra of residue types as well as stone. Monnier et al. (2017, in press)
+answer this call by publishing collections of plant-tissue as well as animal-tissue residue reﬂectance spectra. These spectra were obtained
+using a Nicolet Continuμm FTIR microscope and aperture sizes up to
+150 μm × 150 μm. We show that reﬂectance spectra of residue standards prepared on aluminum-coated mirrored slides are very similar to
+transmission spectra of the same residues; however, the spectra of the
+same residues on stone substrates can be severely distorted (Monnier
+et al., in press). We discuss procedures for correcting some of these
+distortions, which are more common on animal-tissue than plant-tissue
+residues, and show that when distortions can be avoided or corrected,
+FTIR microspectroscopy spectra are very sensitive to minor chemical
+diﬀerences between samples.
+
+bands (Rosi et al., 2011), by applying chemometrics techniques to the
+spectra such as mathematical transformations and univariate and
+multivariate statistical techniques. For instance, Rosi et al., 2011 applied principal components analysis to chemical maps of painting crosssections in order to obtain chemical distributions of the materials in
+each stratigraphic layer. Sciutto et al., 2014 used FTIR microscopy in
+the NIR region (FT-NIR microscopy) to avoid the distorted bands present in the mid-infrared region (MIR). Using the Thermo Nicolet
+iN10MX microscope, they recorded spectra within a range of
+8000–675 cm− 1 and generated chemical maps. They applied multivariate data processing techniques to the data to minimize unwanted
+eﬀects such as baseline variations and global intensity eﬀects, and applied ﬁrst and second derivatives to enhance details within broad bands
+and correct for baseline shifts and drifts. Finally, they performed exploratory PCA analyses, revealing that the NIR region is more eﬀective
+than the mid-infrared (MIR) region in identifying the composition of
+paint layers.
+In sum, a number of advances have been made with reﬂectance
+FTIR techniques within the past decade. These include advances in
+instrumentation and data analysis techniques which have been
+exploited in conservation science and, to a lesser extent, in micromorphology. Continued technological advances in instrumentation, for
+instance FTIR microscopes which integrate FTIR microspectroscopy and
+μATR on the same system and are capable of generating high-resolution
+spectral maps (e.g., Joseph et al., 2010), will enable increasingly detailed measurements of sensitive samples such as paintings, micromorphology thin sections, and residues on stone tools, in the near future.
+
+7. Conclusions
+In the quarter-century since infrared spectroscopy ﬁrst began to be
+systematically applied to archaeology, it has led to major advances in
+the study of site formation processes, pyrotechnology, and the alteration of archaeological materials by chemical diagenesis. It has also been
+shown to hold great potential for the analysis of a variety of residue
+types on stone artifacts, and is overall a most useful tool for the analysis
+of unknown substances encountered in the archaeological record. In
+tandem with micromorphology, IR spectroscopy is an essential component of the tool-kit of microarchaeology. In its application to the
+study of archaeological deposits inside Paleolithic cave and rock shelters in the Levant, Europe, Asia, and South Africa, IR spectroscopy,
+along with the associated methods of microarchaeology, has led to
+breakthroughs in our understanding of the formation of these sites and
+the human behaviors that occurred in them. This includes the use and
+control of ﬁre, spatial organization within these sites, and the heat
+treatment of stone. Laboratory-based experiments documenting the
+formation and alteration of minerals have provided a sound understanding of the environmental conditions underlying diagenesis and
+their resulting eﬀects. Likewise, actualistic studies (e.g., Trueman et al.,
+2004, 2008) and the exciting new ﬁeld of geo-ethnoarchaeology have
+enabled us to begin developing a more dynamic understanding of cultural and natural site formation processes, especially with regards to
+diagenesis (e.g., Friesem et al., 2011; Friesem et al., 2016; Gur-Arieh
+et al., 2014; Mallol et al., 2007; Shahack-Gross, 2017; Shahack-Gross
+et al., 2003; Shahack-Gross et al., 2004).
+The application of IR spectroscopy to sites from more recent time
+periods has yielded information on architectural materials (e.g.,
+Namdar et al., 2011), cooking installations (Gur-Arieh et al., 2014; GurArieh et al., 2012), and destruction events (Namdar et al., 2011). In
+particular, research designed to help distinguish various kinds of calcite
+which might originate from wood ash, plaster, or chalk, led to the development of a new technique for evaluating atomic disorder within
+minerals. Not only does this technique help distinguish between calcites
+of diﬀerent origins, it has been adapted to bone mineral, as well.
+Due to these contributions, coupled with its ease of use and low cost,
+IR spectroscopy will become an increasingly valuable tool for archaeological research. New instruments and data analysis techniques will
+continue to expand its applicability for smaller and more delicate materials as well as increase its resolution. Reﬂectance techniques, NIR
+spectroscopy, and chemometrics being pioneered in cultural heritage
+science will undoubtedly play a key role in the development of these
+techniques in archaeology. Therefore, opportunities to continue exploring new applications for IR spectroscopy in archaeology, and to
+reﬁne existing ones, will abound. It will also remain a useful
+
+6.2.3. FTIR microspectroscopy for lithic residue analysis
+In archaeology, the most common non-contact reﬂectance FTIR
+method used to date has been FTIRM. Cesaro and Lemorini (2012)
+published one of the earliest studies using FTIR microspectroscopy for
+lithic residue analysis on ﬂint and obsidian tools from two Neolithic
+sites in Italy. They used a Bruker Hyperion infrared microscope with a
+spot size of 100 μm × 100 μm to measure residues in situ. Although the
+reﬂectance spectra that they collected are dominated by the absorbance
+bands of the stone, they were nevertheless able to identify organic residues including proteins, lipids, adipocere (‘grave wax’), and bone
+mineral. Using a similar reﬂectance methodology but diﬀerent instrumentation (a portable Bruker Alpha-R spectrometer with external
+reﬂectance head and spot size ~5 mm in diameter), Solodenko et al.
+(2015) identiﬁed bone mineral, adipocere, and plant remains on artifacts from the Lower Paleolithic open-air site of Revadim Quarry, Israel.
+Using the same instrument, Zupancich et al. (2016) identiﬁed bone
+mineral residues on scrapers from the Lower Paleolithic site of Qesem
+Cave (Israel). The FTIR microspectroscopy reﬂectance spectra published in both of these studies, however, are dominated by the IR absorbance bands from the stone underlying the residue, making the interpretation of the IR bands from the residues extremely diﬃcult.
+FTIR microspectroscopy reﬂectance spectra of bitumen residues on
+stone tools from the Middle Paleolithic site of Hummal, Syria (Monnier
+et al., 2013), are less aﬀected by the underlying stone. In this study, we
+applied VLM, SEM, SEM-EDS, FTIR microspectroscopy, and confocal
+Raman microscopy to the analysis of hafting residues on three Paleolithic implements from the site of Hummal, Syria (ibid.). Previous GCMS analyses of these residues had identiﬁed them as composed of bitumen (Hauck et al., 2013), but Monnier et al. (2013) showed that nondestructive, non-contact methods can also be used to identify these
+residues. FTIR microspectroscopy measurements carried out using a
+Nicolet Continuμm infrared microscope with a 150 μm × 150 μm spot
+size clearly showed the presence of oxidized bitumen.
+Prinsloo et al. (2014) explored the viability of reﬂectance FTIR
+microspectroscopy for analyzing animal-tissue residues such as muscle,
+fat, and bone. Using a Hyperion infrared microscope, they measured
+spots 100 μm in diameter on experimental stone tools which contained
+820
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+complement to microscopic and analytical techniques such as visiblelight microscopy, scanning electron microscopy, energy-dispersive Xray spectroscopy, X-ray diﬀraction, and the like. Undoubtedly, IR
+spectroscopy will continue to play a central role in the development of
+archaeological science, helping provide increasingly accurate and
+nuanced understandings of the archaeological record.
+
+Human impact around settlement sites: a phytolith and mineralogical study for assessing site boundaries, phytolith preservation, and implications for spatial reconstructions using plant remains. J. Archaeol. Sci. 39 (8), 2697–2705. http://dx.doi.
+org/10.1016/j.jas.2012.04.008.
+Caracuta, V., Weinstein-Evron, M., Reuven, Yeshurun, Kaufman, D., Tsatskin, A., ... 2016.
+Charred wood remains in the natuﬁan sequence of el-Wad terrace (Israel): New insights into the climatic, environmental and cultural changes at the end of the
+Pleistocene. Quat. Sci. Rev. 131, 20–32.
+Cesaro, S.N., Lemorini, C., 2012. The function of prehistoric lithic tools: a combined study
+of use-wear analysis and FTIR microspectroscopy. Spectrochim. Acta A Mol. Biomol.
+Spectrosc. 86, 299–304. http://dx.doi.org/10.1016/j.saa.2011.10.040.
+Chu, V., Regev, L., Weiner, S., Boaretto, E., 2008. Diﬀerentiating between anthropogenic
+calcite in plaster, ash and natural calcite using infrared spectroscopy: implications in
+archaeology. J. Archaeol. Sci. 35 (4), 905–911. http://dx.doi.org/10.1016/j.jas.
+2007.06.024.
+Cohen-Ofri, I., Weiner, L., Boaretto, E., Mintz, G., Weiner, S., 2006. Modern and fossil
+charcoal: aspects of structure and diagenesis. J. Archaeol. Sci. 33 (3), 428–439.
+http://dx.doi.org/10.1016/j.jas.2005.08.008.
+Cohen-Ofri, I., Popovitz-Biro, R., Weiner, S., 2007. Structural Characterization of Modern
+and Fossilized Charcoal Produced in Natural Fires as Determined by Using Electron
+Energy Loss Spectroscopy. Chemistry: A European Journal 13, 2306–2310. http://dx.
+doi.org/10.1002/chem.200600920.
+Dal Sasso, G., Lebon, M., Angelini, I., Maritan, L., Usai, D., Artioli, G., 2016. Bone diagenesis variability among multiple burial phases at Al Khiday (Sudan) investigated by
+ATR-FTIR spectroscopy. Palaeogeogr. Palaeoclimatol. Palaeoecol. 463, 168–179.
+Domanski, M., Webb, J.A., 1992. Eﬀect of heat treatment on siliceous rocks used in
+prehistoric lithic technology. J. Archaeol. Sci. 19 (6), 601–614. http://dx.doi.org/10.
+1016/0305-4403(92)90031-W.
+Domanski, M., WEBB, J.A., BOLAND, J., 1994. Mechanical properties of stone artefact
+materials and the eﬀect of heat treatment. Archaeometry 36 (2), 177–208. http://dx.
+doi.org/10.1111/j.1475-4754.1994.tb00963.x.
+Dooley, K.A., Lomax, S., Zeibel, J.G., Miliani, C., Ricciardi, P., Hoenigswald, A., ...
+Delaney, J.K., 2013. Mapping of egg yolk and animal skin glue paint binders in early
+renaissance paintings using near infrared reﬂectance imaging spectroscopy. Analyst
+138 (17), 4838. http://dx.doi.org/10.1039/c3an00926b.
+Duyckaerts, G., 1959. The infra-red analysis of solid substances. A review. Analyst 84,
+201–214.
+Friesem, D., Boaretto, E., Eliyahu-Behar, A., Shahack-Gross, R., 2011. Degradation of mud
+brick houses in an arid environment: a geoarchaeological model. J. Archaeol. Sci. 38
+(5), 1135–1147. http://dx.doi.org/10.1016/j.jas.2010.12.011.
+Friesem, D.E., Lavi, N., Madella, M., Ajithprasad, P., French, C., 2016. Site formation
+processes and hunter-gatherers use of space in a tropical environment: a geo-ethnoarchaeological approach from South India. PLoS One 11 (10), 1–30. http://dx.doi.
+org/10.1371/journal.pone.0164185.
+Giachi, G., Pallecchi, P., Romualdi, A., Ribechini, E., Lucejko, J.J., Colombini, M.P., Lippi,
+M.M., 2013. Ingredients of a 2,000-y-old medicine revealed by chemical, mineralogical, and botanical investigations. Proc. Natl. Acad. Sci. U. S. A. 110 (4),
+1193–1196. http://dx.doi.org/10.1073/pnas.1216776110.
+Goder-Goldberger, M., Weiner, S., Barzilai, O., Boaretto, E., 2017. Heating of ﬂint artifacts from the site of Boker Tachtit (Israel) was not detected using FTIR peak
+broadening. J. Archaeol. Sci. Reports 12, 173–182. http://dx.doi.org/10.1016/j.
+jasrep.2017.01.041.
+Goldberg, P., Berna, F., 2010. Micromorphology and context. Quat. Int. 214 (1), 56–62.
+http://dx.doi.org/10.1016/j.quaint.2009.10.023.
+Goldberg, P., Berna, F., Chazan, M., 2015. Deposition and diagenesis in the earlier stone
+age of Wonderwerk cave, excavation 1, South Africa. Afr. Archaeol. Rev. 32. http://
+dx.doi.org/10.1007/s10437-015-9192-9.
+Goldberg, P., Sherwood, S.C., 2006. Deciphering human prehistory through the
+geoarcheological study of cave sediments. Evol. Anthropol. 15 (1), 20–36. http://dx.
+doi.org/10.1002/evan.20094.
+Goldberg, P., Weiner, S., Bar-Yosef, O., Xu, Q., Liu, J., 2001. Site formation processes at
+Zhoukoudian, China. J. Hum. Evol. 41 (5), 483–530. http://dx.doi.org/10.1006/
+jhev.2001.0498.
+Gopher, A., Ayalon, A., Bar-Matthews, M., Barkai, R., Frumkin, A., Karkanas, P., ShahackGross, R., 2010. The chronology of the late lower Paleolithic in the Levant based on
+U-Th ages of speleothems from Qesem cave, Israel. Quat. Geochronol. 5 (6), 644–656.
+http://dx.doi.org/10.1016/j.quageo.2010.03.003.
+Griﬃths, Peter R., de Haseth, James A., 2007. Fourier Transform Infrared Spectrometry,
+Second Edition. John Wiley and Sons, Hoboken, New Jersey.
+Gueta, R., et al., 2006. Local atomic order and infrraed spectra of biogenic calcite. Angew.
+Chem. Int. Ed. 46, 291–294.
+Gur-Arieh, S., Boaretto, E., Maeir, A., Shahack-Gross, R., 2012. Formation processes in
+Philistine hearths from Tell es-Saﬁ/Gath (Israel): an experimental approach. J. Field
+Archaeol. 37 (2), 121–131. http://dx.doi.org/10.1179/0093469012Z.00000000011.
+Gur-Arieh, S., Shahack-Gross, R., Maeir, A.M., Lehmann, G., Hitchcock, L.A., Boaretto, E.,
+2014. The taphonomy and preservation of wood and dung ashes found in archaeological cooking installations: case studies from iron age Israel. J. Archaeol. Sci. 46,
+50–67. http://dx.doi.org/10.1016/j.jas.2014.03.011.
+Hauck, T.C., Connan, J., Charrié-Duhaut, A., Le Tensorer, J.M., Al Sakhel, H., 2013.
+Molecular evidence of bitumen in the Mousterian lithic assemblage of Hummal
+(Central Syria). J. Archaeol. Sci. 40 (8), 3252–3262. http://dx.doi.org/10.1016/j.jas.
+2013.03.022.
+Helwig, K., Monahan, V., Poulin, J., Andrews, T.D., 2014. Ancient projectile weapons
+from ice patches in northwestern Canada: identiﬁcation of resin and compound resinochre hafting adhesives. J. Archaeol. Sci. 41, 655–665. http://dx.doi.org/10.1016/j.
+jas.2013.09.010.
+Hesse, M., Meier, H., B. Z., 2008. Spectroscopic Methods in Organic Chemistry, 2nd ed.
+Georg Thieme Verlag, Stuttgart.
+Hollund, H.I., Ariese, F., Fernandes, R., Jans, M.M.E., Kars, H., 2013. Testing an alternative high-throughput tool for investigating bone diagenesis: Ftir in attenuated total
+
+Acknowledgements
+Many thanks to Danielle MacDonald, Adrian Evans, and James
+Stemp for inviting me to the SAA Symposium ‘Exploring the Microscale’
+in 2016. Thanks also to the US-Israel Educational Foundation for a
+Fulbright Senior Scholar Fellowship, to the University of Minnesota
+Sabbatical Supplement program, and especially to the Kimmel Center
+for Archaeological Science at the Weizmann Institute of Science, Israel,
+for the opportunity to spend a wonderful, intellectually enriching sabbatical at the Kimmel Center in 2016–17. This paper beneﬁted from
+many discussions with colleagues at the Kimmel, including especially
+Steve Weiner, Elisabetta Boaretto, Lior Regev, and Michael Toﬀolo. It
+was also improved by the comments and suggestions from three
+anonymous reviewers. Many thanks to Samantha Porter and Gil
+Tostevin for help with the ﬁgures.
+References
+Albert, R., 2003. Quantitative phytolith study of hearths from the Natuﬁan and middle
+Palaeolithic levels of Hayonim cave (Galilee, Israel). J. Archaeol. Sci. 30 (4),
+461–480. http://dx.doi.org/10.1006/jasc.2002.0854.
+Albert, R.M., Berna, F., Goldberg, P., 2012. Insights on Neanderthal ﬁre use at Kebara
+cave (Israel) through high resolution study of prehistoric combustion features: evidence from phytoliths and thin sections. Quat. Int. 247 (1), 278–293. http://dx.doi.
+org/10.1016/j.quaint.2010.10.016.
+Albert, R.M., Lavi, O., Estroﬀ, L., Weiner, S., Tsatskin, A., Ronen, A., Lev-Yadun, S., 1999.
+Mode of occupation of Tabun cave, Mt Carmel, Israel during the Mousterian period: a
+study of the sediments and phytoliths. J. Archaeol. Sci. 26 (10), 1249–1260. http://
+dx.doi.org/10.1006/jasc.1999.0355.
+Albert, R.M., Weiner, S., Bar-Yosef, O., Meignen, L., 2000. Phytoliths in the middle
+Palaeolithic deposits of Kebara cave, Mt Carmel, Israel: study of the plant materials
+used for fuel and other purposes. J. Archaeol. Sci. 27 (10), 931–947. http://dx.doi.
+org/10.1006/jasc.2000.0507.
+Aldeias, V., Dibble, H.L., Sandgathe, D., Goldberg, P., McPherron, S.J.P., 2016. How heat
+alters underlying deposits and implications for archaeological ﬁre features: a controlled experiment. J. Archaeol. Sci. 67, 64–79. http://dx.doi.org/10.1016/j.jas.
+2016.01.016.
+Aldeias, V., Goldberg, P., Sandgathe, D., Berna, F., Dibble, H.L., McPherron, S.P., ...
+Rezek, Z., 2012. Evidence for Neandertal use of ﬁre at Roc de Marsal (France). J.
+Archaeol. Sci. 39 (7), 2414–2423. http://dx.doi.org/10.1016/j.jas.2012.01.039.
+Asscher, Y., Weiner, S., Boaretto, E., 2011. Variations in atomic disorder in biogenic
+carbonate hydroxyapatite using the infrared spectrum grinding curve method. Adv.
+Funct. Mater. 21 (17), 3308–3313. http://dx.doi.org/10.1002/adfm.201100266.
+Attwell, L., Kovarovic, K., Kendal, J.R., 2015. Fire in the plio-pleistocene: the functions of
+hominin ﬁre use, and the mechanistic, developmental and evolutionary consequences. J. Anthropol. Sci. 93. http://dx.doi.org/10.4436/jass.93006.
+Bacci, M., Magrini, D., Picollo, M., Vervat, M., 2009. A study of the blue colors used by
+Telemaco Signorini (1835–1901). J. Cult. Herit. 10 (2), 275–280. http://dx.doi.org/
+10.1016/j.culher.2008.05.006.
+Beasley, M.M., Bartelink, E.J., Taylor, L., Miller, R.M., 2014. Comparison of transmission
+FTIR, ATR, and DRIFT spectra: implications for assessment of bone bioapatite diagenesis. J. Archaeol. Sci. 46 (1), 16–22. http://dx.doi.org/10.1016/j.jas.2014.03.008.
+Berna, F., Behar, A., Shahack-Gross, R., Berg, J., Boaretto, E., Gilboa, A., ... Weiner, S.,
+2007. Sediments exposed to high temperatures: reconstructing pyrotechnological
+processes in late bronze and iron age strata at Tel dor (Israel). J. Archaeol. Sci. 34,
+358–373. http://dx.doi.org/10.1016/j.jas.2006.05.011.
+Berna, F., Goldberg, P., Horwitz, L.K., Brink, J., Holt, S., Bamford, M., Chazan, M., 2012.
+Microstratigraphic evidence of in situ ﬁre in the Acheulean strata of Wonderwerk
+cave, northern cape province, South Africa. Proc. Natl. Acad. Sci. U. S. A. 109 (20),
+E1215–20. http://dx.doi.org/10.1073/pnas.1117620109.
+Berna, F., Matthews, A., Weiner, S., 2004. Solubilities of bone mineral from archaeological sites: the recrystallization window. J. Archaeol. Sci. 31 (7), 867–882. http://
+dx.doi.org/10.1016/j.jas.2003.12.003.
+Black, D., Teilhard de Chardin, P., Young, C.C., 1933. Fossil man in China. Memoirs Geol.
+Surv. China, A 1–166.
+Breuil, H., 1932. Le feu et l'industrie de pierre et d'os dans le gisement du “Sinanthropus”
+à Chou Kou Tien. l'Anthropologie 42, 1–17.
+Brown, K.S., Marean, C.W., Herries, A.I.R., Jacobs, Z., Tribolo, C., Braun, D., ...
+Bernatchez, J., 2009. Fire as an engineering tool of early modern humans. Science
+(New York, N.Y.) 325 (5942), 859–862. http://dx.doi.org/10.1126/science.1175028.
+Buti, D., Rosi, F., Brunetti, B.G., Miliani, C., 2013. In-situ identiﬁcation of copper-based
+green pigments on paintings and manuscripts by reﬂection FTIR. Anal. Bioanal.
+Chem. 405 (8), 2699–2711. http://dx.doi.org/10.1007/s00216-013-6707-6.
+Cabanes, D., Gadot, Y., Cabanes, M., Finkelstein, I., Weiner, S., Shahack-Gross, R., 2012.
+
+821
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+High and Low Ph: Implications for 14C Sample Preparation and Charcoal
+Preservation. Radiocarbon 50, 289–307. http://dx.doi.org/10.1017/
+S0033822200033592.
+Regev, L., Poduska, K.M., Addadi, L., Weiner, S., Boaretto, E., 2010. Distinguishing between calcites formed by diﬀerent mechanisms using infrared spectrometry: archaeological applications. J. Archaeol. Sci. 37 (12), 3022–3029. http://dx.doi.org/
+10.1016/j.jas.2010.06.027.
+Richards, M.P., Trinkaus, E., 2009. Isotopic evidence for the diets of European
+Neanderthals and early modern humans. Proc. Natl. Acad. Sci. U. S. A. 106 (38),
+16034–16039. http://dx.doi.org/10.1073/pnas.0903821106.
+Roebroeks, W., Villa, P., 2011. On the earliest evidence for habitual use of ﬁre in Europe.
+Proc. Natl. Acad. Sci. U. S. A. 108 (13), 5209–5214. http://dx.doi.org/10.1073/pnas.
+1018116108/-/DCSupplemental.www.pnas.org/cgi/doi/10.1073/pnas.
+1018116108.
+Rosi, F., Daveri, A., Doherty, B., Nazzareni, S., Brunetti, B.G., Sgamellotti, A., Miliani, C.,
+2010. On the use of overtone and combination bands for the analysis of the CaSO4H2O system by mid-infrared reﬂection spectroscopy. Appl. Spectrosc. 64 (8),
+956–963.
+Rosi, F., Federici, A., Brunetti, B.G., Sgamellotti, A., Clementi, S., Miliani, C., 2011.
+Multivariate chemical mapping of pigments and binders in easel painting cross-sections by micro IR reﬂection spectroscopy. Anal. Bioanal. Chem. 399 (9), 3133–3145.
+http://dx.doi.org/10.1007/s00216-010-4239-x.
+Schiegl, S., Goldberg, P., Bar-Yosef, O., Weiner, S., 1996. Ash deposits in Hayonim and
+Kebara caves, Israel: macroscopic, microscopic and mineralogical observations, and
+their archaeological implications. J. Archaeol. Sci. 23, 763–781. http://dx.doi.org/
+10.1006/jasc.1996.0071.
+Schmidt, P., Badou, A., Fröhlich, F., 2011. Detailed FT near-infrared study of the behaviour of water and hydroxyl in sedimentary length-fast chalcedony, SiO 2, upon heat
+treatment. Spectrochim. Acta A Mol. Biomol. Spectrosc. 81 (1), 552–559. http://dx.
+doi.org/10.1016/j.saa.2011.06.050.
+Schmidt, P., Fröhlich, F., 2011. Temperature dependent crystallographic transformations
+in chalcedony, SiO2, assessed in mid infrared spectroscopy. Spectrochim. Acta A Mol.
+Biomol. Spectrosc. 78 (5), 1476–1481. http://dx.doi.org/10.1016/j.saa.2011.01.036.
+Schmidt, P., Léa, V., Sciau, P., Fröhlich, F., 2013. Detecting and quantifying heat treatment of ﬂint and other silica rocks: a new non-destructive method applied to heattreated ﬂint from the neolithic chassey culture, southern France. Archaeometry 55
+(5), 794–805. http://dx.doi.org/10.1111/j.1475-4754.2012.00712.x.
+Schmidt, P., Masse, S., Laurent, G., Slodczyk, A., Le Bourhis, E., Perrenoud, C., ...
+Fröhlich, F., 2012. Crystallographic and structural transformations of sedimentary
+chalcedony in ﬂint upon heat treatment. J. Archaeol. Sci. 39 (1), 135–144. http://dx.
+doi.org/10.1016/j.jas.2011.09.012.
+Schmidt, P., Porraz, G., Bellot-Gurlet, L., February, E., Ligouis, B., Paris, C., ... Conard,
+N.J., 2015. A previously undescribed organic residue sheds light on heat treatment in
+the middle stone age. J. Hum. Evol. 85, 22–34. http://dx.doi.org/10.1016/j.jhevol.
+2015.05.001.
+Sciutto, G., Prati, S., Bonacini, I., Oliveri, P., Mazzeo, R., 2014. FT-NIR microscopy: an
+advanced spectroscopic approach for the characterisation of paint cross-sections.
+Microchem. J. 112, 87–96. http://dx.doi.org/10.1016/j.microc.2013.09.021.
+Shahack-Gross, R., 2017. Archaeological formation theory and geoarchaeology: state-ofthe-art in 2016. J. Archaeol. Sci. 79, 36–43. http://dx.doi.org/10.1016/j.jas.2017.01.
+004.
+Shahack-Gross, R., Berna, F., Karkanas, P., Lemorini, C., Gopher, A., Barkai, R., 2014.
+Evidence for the repeated use of a central hearth at middle Pleistocene (300 ky ago)
+Qesem cave, Israel. J. Archaeol. Sci. 44 (1), 12–21. http://dx.doi.org/10.1016/j.jas.
+2013.11.015.
+Shahack-Gross, R., Marshall, F., Ryan, K., Weiner, S., 2004. Reconstruction of spatial
+organization in abandoned Maasai settlements: implications for site structure in the
+pastoral Neolithic of East Africa. J. Archaeol. Sci. 31 (10), 1395–1411. http://dx.doi.
+org/10.1016/j.jas.2004.03.003.
+Shahack-Gross, R., Marshall, F., Weiner, S., 2003. Geo-ethnoarchaeology of pastoral sites:
+the identiﬁcation of livestock enclosures in abandoned Maasai settlements. J.
+Archaeol. Sci. 30 (4), 439–459. http://dx.doi.org/10.1006/jasc.2002.0853.
+Shaham, D., Grosman, L., Goren-Inbar, N., 2010. The red-stained ﬂint crescent from
+Gesher: new insights into PPNA hafting technology. J. Archaeol. Sci. 37 (8),
+2010–2016. http://dx.doi.org/10.1016/j.jas.2010.03.006.
+Shillito, L.M., Almond, M.J., Wicks, K., Marshall, L.J.R., Matthews, W., 2009. The use of
+FT-IR as a screening technique for organic residue analysis of archaeological samples.
+Spectrochim. Acta A Mol. Biomol. Spectrosc. 72 (1), 120–125. http://dx.doi.org/10.
+1016/j.saa.2008.08.016.
+Skoog, D.A., Holler, F.J., Crouch, S.R., 2007. Principles of Instrumental Analysis. Vol. 6
+Brooks/Cole (Cengage Learning), Belmont, MA.
+Smith, Brian C., 2011. Fundamentals of Fourier Transform Infrared Spectroscopy, Second
+Edition. CRC Press, Boca Raton, FL.
+Snoeck, C., Lee-Thorp, J.A., Schulting, R.J., 2014. From bone to ash: compositional and
+structural changes in burned modern and archaeological bone. Palaeogeogr.
+Palaeoclimatol. Palaeoecol. 416, 55–68. http://dx.doi.org/10.1016/j.palaeo.2014.
+08.002.
+Solodenko, N., Zupancich, A., Cesaro, S.N., Marder, O., Lemorini, C., Barkai, R., 2015. Fat
+residue and use-wear found on Acheulian biface and scraper associated with butchered elephant remains at the site of Revadim, Israel. Plos One 10 (3) (UNSP
+e0118572-UNSP e0118572). https://doi.org/10.1371/journal.pone.0118572.
+Sponheimer, M., Alemseged, Z., Cerling, T.E., Grine, F.E., Kimbel, W.H., Leakey, M.G., ...
+Wynn, J.G., 2013. Isotopic evidence of early hominin diets. Proc. Natl. Acad. Sci. 110
+(26), 10513–10518. http://dx.doi.org/10.1073/pnas.1222579110.
+Sponheimer, M., Lee-Thorp, J.A., 1999. Alteration of enamel carbonate environments
+during fossilization. J. Archaeol. Sci. 26 (2), 143–150. http://dx.doi.org/10.1006/
+jasc.1998.0293.
+Stahlschmidt, M.C., Miller, C.E., Ligouis, B., Hambach, U., Goldberg, P., Berna, F., ...
+Conard, N.J., 2015. On the evidence for human use and control of ﬁre at
+Schoeningen. J. Hum. Evol. 89, 181–201. http://dx.doi.org/10.1016/j.jhevol.2015.
+
+reﬂection (atr) mode. Archaeometry 55 (3), 507–532. http://dx.doi.org/10.1111/j.
+1475-4754.2012.00695.x.
+Joseph, E., Prati, S., Sciutto, G., Ioele, M., Santopadre, P., Mazzeo, R., 2010. Performance
+evaluation of mapping and linear imaging FTIR microspectroscopy for the characterisation of paint cross sections. Anal. Bioanal. Chem. 396 (2), 899–910. http://dx.
+doi.org/10.1007/s00216-009-3269-8.
+Karkanas, P., Bar-Yosef, O., Goldberg, P., Weiner, S., 2000. Diagenesis in prehistoric
+caves: the use of minerals that form in situ to assess the completeness of the archaeological record. J. Archaeol. Sci. 27 (10), 915–929. http://dx.doi.org/10.1006/
+jasc/1999.0506.
+Karkanas, P., Rigaud, J.-P., Simek, J.F., Albert, R.M., Weiner, S., 2002. Ash bones and
+guano: a study of the minerals and phytoliths. J. Archaeol. Sci. 29, 721–732. http://
+dx.doi.org/10.1006/jasc.2001.0742.
+Karkanas, P., Shahack-Gross, R., Ayalon, A., Bar-Matthews, M., Barkai, R., Frumkin, A., ...
+Stiner, M.C., 2007. Evidence for habitual use of ﬁre at the end of the lower
+Paleolithic: site-formation processes at Qesem cave, Israel. J. Hum. Evol. 53 (2),
+197–212. http://dx.doi.org/10.1016/j.jhevol.2007.04.002.
+Lee-Thorp, J.A., Van der Merwe, N., Brain, C.K., 1994. Diet of Australopithecus robustus
+at Swartkrans from stable carbon isotopic analysis. J. Hum. Evol. 27, 361–372.
+Lettieri, M., 2017. Infrared spectroscopic characterization of residues on archaeological
+pottery through diﬀerent spectra acquisition modes. Vib. Spectrosc. 76, 48–54.
+Mallol, C., Cabanes, D., Baena, J., 2010. Microstratigraphy and diagenesis at the upper
+Pleistocene site of Esquilleu cave (Cantabria, Spain). Quat. Int. 214 (1–2), 70–81.
+http://dx.doi.org/10.1016/j.quaint.2009.10.018.
+Mallol, C., Hernández, C.M., Cabanes, D., Sistiaga, A., Machado, J., Rodríguez, Ágata, ...
+Galván, B., 2013. The black layer of middle Palaeolithic combustion structures.
+Interpretation and archaeostratigraphic implications. J. Archaeol. Sci. 40 (5),
+2515–2537. http://dx.doi.org/10.1016/j.jas.2012.09.017.
+Mallol, C., Marlowe, F.W., Wood, B.M., Porter, C.C., 2007. Earth, wind, and ﬁre: ethnoarchaeological signals of Hadza ﬁres. J. Archaeol. Sci. 34 (12), 2035–2052. http://
+dx.doi.org/10.1016/j.jas.2007.02.002.
+Mallol, C., Mentzer, S.M., 2015. Contacts under the lens: perspectives on the role of
+microstratigraphy in archaeological research. Archaeol. Anthropol. Sci. 1–25. http://
+dx.doi.org/10.1007/s12520-015-0288-6.
+Mallol, C., Mentzer, S.M., Wrinn, P.J., 2009. A micromorphological and mineralogical
+study of site formation processes at the late Pleistocene site of Obi-Rakhmat,
+Uzbekistan. Geoarchaeology 24 (5), 548–575. http://dx.doi.org/10.1002/gea.20280.
+Maniatis, Y., Tsirtsoni, Z., 2002. Characterization of a black residue in a decorated
+Neolithic pot from Dikili Tash, Greece: an unexpected result. Archaeometry 44,
+229–239. http://dx.doi.org/10.1111/1475-4754.t01-1-00055.
+Mentzer, Susan M., 2014. Microarchaeological Approaches to the Identiﬁcation and
+Interpretation of Combustion Features in Prehistoric Archaeological Sites. J.
+Archaeol. Method Theory 21, 616–668.
+Mercier, N., Valladas, H., Falguères, C., Shao, Q., Gopher, A., Barkai, R., ... Reyss, J.-L.,
+2013. New datings of Amudian layers at Qesem cave (Israel): results of TL applied to
+burnt ﬂints and ESR/U-series to teeth. J. Archaeol. Sci. 40 (7), 3011–3020. http://dx.
+doi.org/10.1016/j.jas.2013.03.002.
+Miliani, C., Rosi, F., Daveri, A., Brunetti, B.G., 2012. Reﬂection infrared spectroscopy for
+the non-invasive in situ study of artists' pigments. Appl. Phys. A Mater. Sci. Process.
+106 (2), 295–307. http://dx.doi.org/10.1007/s00339-011-6708-2.
+Miller, C.E., Goldberg, P., Berna, F., 2013. Geoarchaeological investigations at Diepkloof
+rock shelter, western cape, South Africa. J. Archaeol. Sci. 40 (9), 3432–3452. http://
+dx.doi.org/10.1016/j.jas.2013.02.014.
+Monnier, G., Frahm, E., Luo, B., Missal, K., 2017. Developing FTIR microspectroscopy for
+analysis of plant residues on stone tools. J. Archaeol. Sci. 78, 158–178. http://dx.doi.
+org/10.1016/j.jas.2016.12.004.
+Monnier G., Frahm E., Luo B. and Missal K., Developing FTIR microspectroscopy for the
+analysis of animal-tissue residues on stone tools, J. Archaeol. Method Theory,
+https://doi.org/10.1007/s10816-017-9325-3. (in press,).
+Monnier, G.F., Hauck, T.C., Feinberg, J.M., Luo, B., Le Tensorer, J.-M., al Sakhel, H.,
+2013. A multi-analytical methodology of lithic residue analysis applied to Paleolithic
+tools from Hummal, Syria. J. Archaeol. Sci. 40 (10), 3722–3739. http://dx.doi.org/
+10.1016/j.jas.2013.03.018.
+Morley, M.W., Goldberg, P., Sutikna, T., Tocheri, M.W., Prinsloo, L.C., Jatmiko, X., ...
+Roberts, R.G., 2016. Initial micromorphological results from Liang Bua, Flores
+(Indonesia): site formation processes and hominin activities at the type locality of
+Homo ﬂoresiensis. J. Archaeol. Sci. 77, 125–142. http://dx.doi.org/10.1016/j.jas.
+2016.06.004.
+Munro, L.E., Longstaﬀe, F.J., White, C.D., 2007. Burning and boiling of modern deer
+bone: eﬀects on crystallinity and oxygen isotope composition of bioapatite phosphate. Palaeogeogr. Palaeoclimatol. Palaeoecol. 249, 90–102. http://dx.doi.org/10.
+1016/j.palaeo.2007.01.011.
+Namdar, D., Zukerman, A., Maeir, A.M., Katz, J.C., Cabanes, D., Trueman, C., ... Weiner,
+S., 2011. The 9th century BCE destruction layer at tell es-Saﬁ/Gath, Israel: integrating
+macro- and microarchaeology. J. Archaeol. Sci. 38 (12), 3471–3482. http://dx.doi.
+org/10.1016/j.jas.2011.08.009.
+Pavia, D., Lampman, G., G. K., 2001. Introduction to Spectroscopy: A Guide for Students
+of Organic Chemistry (Third). Harcourt College Publishers, Fort Worth, TX.
+Poduska, K.M., Regev, L., Boaretto, E., Addadi, L., Weiner, S., Kronik, L., Curtarolo, S.,
+2011. Decoupling local disorder and optical eﬀects in infrared spectra: diﬀerentiating
+between calcites with diﬀerent origins. Adv. Mater. 23 (4), 550–554. http://dx.doi.
+org/10.1002/adma.201003890.
+Prati, S., Sciutto, G., Bonacini, I., Mazzeo, R., 2016. New frontiers in application of FTIR
+microscopy for characterization of cultural heritage materials. Top. Curr. Chem. 374
+(3), 26. http://dx.doi.org/10.1007/s41061-016-0025-3.
+Prinsloo, L.C., Wadley, L., Lombard, M., 2014. Infrared reﬂectance spectroscopy as an
+analytical technique for the study of residues on stone tools: potential and challenges.
+J. Archaeol. Sci. 41, 732–739. http://dx.doi.org/10.1016/j.jas.2013.10.011.
+Rebollo, N.R., Cohen-Ofri, I., Popovitz-Biro, R., Bar-Yosef, O., Meignen, L., Goldberg, P.,
+Weiner, S., Boaretto, E., 2008. Structural Characterization of Charcoal Exposed to
+
+822
+
+Journal of Archaeological Science: Reports 18 (2018) 806–823
+
+G.F. Monnier
+
+04.004.
+Stathopoulou, E.T., Psycharis, V., Chryssikos, G.D., Gionis, V., Theodorou, G., 2008. Bone
+diagenesis: new data from infrared spectroscopy and X-ray diﬀraction. Palaeogeogr.
+Palaeoclimatol. Palaeoecol. 266 (3), 168–174. http://dx.doi.org/10.1016/j.palaeo.
+2008.03.022.
+Stiner, M.C., Kuhn, S.L., Surovell, T.A., Goldberg, P., Meignen, L., Weiner, S., Bar-Yosef,
+O., 2001. Bone preservation in Hayonim cave (Israel): a macroscopic and mineralogical study. J. Archaeol. Sci. 28, 643–659. https://doi.org/10.1006.
+Stiner, M., Kuhn, S., Weiner, S., Bar-Yosef, O., 1995. Diﬀerential burning, recrystallization, and fragmentation of archaeological bone. J. Archaeol. 22, 223–237. http://dx.
+doi.org/10.1006/jasc.1995.0024.
+Surovell, T.a., Stiner, M.C., 2001. Standardizing infra-red measures of bone mineral
+crystallinity: an experimental approach. J. Archaeol. Sci. 28 (June), 633–642. http://
+dx.doi.org/10.1006/jasc.2000.0633.
+Termine, J.D., Posner, A.S., 1966. Infrared analysis of rat bone: age dependency of
+amorphous and crystalline mineral fractions. Science 153 (3743), 1523–1525. http://
+dx.doi.org/10.1126/science.153.3743.1523.
+Thieme, H., 1997. Lower Palaeolithic hunting spears from Germany. Nature 385,
+807–810.
+Thieme, H., 2007. Die Schöninger Speere - Mensch und Jagd vor 400 000 Jahren. TheissVerlag, Stuttgard.
+Thompson, T.J.U., Gauthier, M., Islam, M., 2009. The application of a new method of
+Fourier transform infrared spectroscopy to the analysis of burned bone. J. Archaeol.
+Sci. 36 (3), 910–914. http://dx.doi.org/10.1016/j.jas.2008.11.013.
+Toﬀolo, M.B., Boaretto, E., 2014. Nucleation of aragonite upon carbonation of calcium
+oxide and calcium hydroxide at ambient temperatures and pressures: a new indicator
+of ﬁre-related human activities. J. Archaeol. Sci. 49 (1), 237–248. http://dx.doi.org/
+10.1016/j.jas.2014.05.020.
+Toﬀolo, M.B., Regev, L., Mintz, E., Poduska, K.M., Shahack-Gross, R., Berthold, C., ...
+Boaretto, E., 2017. Accurate radiocarbon dating of archaeological ash using pyrogenic aragonite. Radiocarbon 59 (1). http://dx.doi.org/10.1017/RDC.2017.7.
+Trueman, C.N.G., Behrensmeyer, A.K., Tuross, N., Weiner, S., 2004. Mineralogical and
+compositional changes in bones exposed on soil surfaces in Amboseli national park,
+Kenya: diagenetic mechanisms and the role of sediment pore ﬂuids. J. Archaeol. Sci.
+31 (8), 721–739. http://dx.doi.org/10.1016/j.jas.2003.11.003.
+Trueman, C.N., Privat, K., Field, J., 2008. Why do crystallinity values fail to predict the
+extent of diagenetic alteration of bone mineral? Palaeogeogr. Palaeoclimatol.
+
+Palaeoecol. 266 (3–4), 160–167. http://dx.doi.org/10.1016/j.palaeo.2008.03.038.
+Vagnini, M., Miliani, C., Cartechini, L., Rocchi, P., Brunetti, B.G., Sgamellotti, A., 2009.
+FT-NIR spectroscopy for non-invasive identiﬁcation of natural polymers and resins in
+easel paintings. Anal. Bioanal. Chem. 395 (7), 2107–2118. http://dx.doi.org/10.
+1007/s00216-009-3145-6.
+Vandenabeele, P., Donais, M.K., 2016. Mobile spectroscopic instrumentation in archaeometry research. Appl. Spectrosc. 70, 27–41. http://dx.doi.org/10.1177/
+0003702815611063.
+Weiner, S., 2010. Microarchaeology: Beyond the Visible Archaeological Record.
+Cambridge University Press, Cambridge, U.K.
+Weiner, S., Bar-Yosef, O., 1990. States of preservation of bones from prehistoric sites in
+the near east: a survey. J. Archaeol. Sci. 17 (2), 187–196. http://dx.doi.org/10.1016/
+0305-4403(90)90058-D.
+Weiner, S., Brumfeld, V., Marder, O., Barzilai, O., 2015. Heating of ﬂint debitage from
+upper Palaeolithic contexts at Manot cave, Israel: changes in atomic organization due
+to heating using infrared spectroscopy. J. Archaeol. Sci. 54, 45–53. http://dx.doi.org/
+10.1016/j.jas.2014.11.023.
+Weiner, S., Goldberg, P., Bar-Yosef, O., 1993. Bone preservation in Kebara cave, Israel
+using on-site Fourier transform infrared spectrometry. J. Archaeol. Sci. 20, 613–627.
+Weiner, S., Goldberg, P., Bar-Yosef, O., 2002. Three-dimensional distribution of minerals
+in the sediments of Hayonim cave, Israel: diagenetic processes and archaeological
+implications. J. Archaeol. Sci. 29, 1289–1308. http://dx.doi.org/10.1006/jasc.2001.
+0790.
+Weiner, S., Xu, Q., Goldberg, P., Liu, J., Bar-Yosef, O., 1998. Evidence for the use of ﬁre at
+Zhoukoudian, China. Science 281 (July), 251–253.
+Wrangham, R., 2009. Catching Fire: How Cooking Made us Human. Basic Books, New
+York.
+Wright, L.E., Schwarcz, H.P., 1996. Infrared and isotopic evidence for diagenesis of bone
+apatite at Dos Pilas, Guatemala: palaeodietary implications. J. Archaeol. Sci. 23 (6),
+933–944. http://dx.doi.org/10.1006/jasc.1996.0087.
+Yizhaq, M., Mintz, G., Cohen, I., Khalaily, H., Weiner, S., Boaretto, E., 2005. Quality
+controlled radiocarbon dating of bones and charcoal from the early pre-pottery
+neolithic b (ppnb) of Motza (Israel). Radiocarbon 47, 193–206.
+Zupancich, A., Nunziante-Cesaro, S., Blasco, R., Rosell, J., Cristiani, E., Venditti, F., ...
+Gopher, A., 2016. Early evidence of stone tool use in bone working activities at
+Qesem cave, Israel. Sci. Rep. 6 (October), 37686. http://dx.doi.org/10.1038/
+srep37686.
+
+823
+
+

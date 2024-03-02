@@ -1,0 +1,1602 @@
+Journal of Archaeological Science 56 (2015) 73e84
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+The process, biotic impact, and global implications of the human
+colonization of Sahul about 47,000 years ago
+J.F. O'Connell a, *, J. Allen b
+a
+b
+
+Department of Anthropology, 270 South 1400 East, University of Utah, Salt Lake City UT 84112-0060, USA
+Archaeology Program, La Trobe University, Bundoora, VIC 3086, Australia
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Available online 20 February 2015
+
+Comprehensive review of archaeological data shows that Sahul (Pleistocene Australia-New Guinea) was
+ﬁrst occupied by humans ca. 47 ka (47,000 years ago); evidence for earlier arrival is weak. Colonizing
+populations remained low e perhaps two orders of magnitude below those estimated at European
+contact e for many millennia, and were long restricted to relatively favorable habitats. Though human
+arrival coincided with changes in native ﬂora and fauna, these were mainly the products of climatic
+factors, not human interference. The genetic makeup of founding populations and their arrival date are
+consistent with the Late Dispersal Model of anatomically modern humans beyond SW Asia, beginning ca.
+50 ka. Early Dispersal Models (120e70 ka) are not refuted, but draw no support from the Sahul record as
+currently understood.
+© 2015 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Sahul
+Pleistocene colonization
+Megafaunal extinctions
+Habitat management by ﬁre
+Anatomically modern human dispersals
+
+1. Introduction
+A decade ago, we presented two critical reviews of evidence for
+the date at which humans ﬁrst occupied Sahul (Allen and
+O'Connell, 2003; O'Connell and Allen, 2004). Continuing dispute
+about this issue, recent improvements in chronometric techniques,
+and reports of new sites and dates led us to undertake another
+assessment, the details of which are presented elsewhere (Allen
+and O'Connell, 2014). Here we summarize key elements of that
+exercise and consider their implications for current ideas about the
+process of Sahul colonization, its impact on terrestrial habitats and
+resources, and the timing of anatomically modern human dispersals beyond Africa.
+
+2. Background
+In the 1980s, it was argued that anatomically modern humans
+had colonized Sahul by 40 ka (e.g. White with O'Connell, 1982;
+Flood, 1983; Allen, 1989). The coincidence with the earliest dates
+for the European Upper Paleolithic suggested that both developments were part of the same process: the rapid dispersal of
+
+* Corresponding author.
+E-mail addresses: oconnell@anthro.utah.edu (J.F. O'Connell), jjallen8@bigpond.
+net.au (J. Allen).
+http://dx.doi.org/10.1016/j.jas.2015.02.020
+0305-4403/© 2015 Elsevier Ltd. All rights reserved.
+
+modern humans from Africa across Eurasia and ultimately into
+Sahul 40e45 ka (e.g. Cann et al., 1987; Stringer and Andrews, 1988).
+Subsequent reports of 50e60 ka luminescence dates from two
+archaeological sites in Arnhem Land (Roberts et al., 1990, 1994),
+Malakunanja II (now called Madjedbebe) and Nauwalabila, challenged this notion. Proponents of these early dates observed that
+the Sahul chronology was based mainly on radiocarbon dating, that
+40 ka was at or near this method's operational limit, and that small
+amounts of contamination could result in “old” samples yielding
+much younger apparent ages (Roberts et al., 1994; Chappell et al.,
+1996). Dates from the two Arnhem Land sites were widely
+viewed as important indicators of the limits of radiocarbon dating
+and of the more likely age of Sahul colonization. The challenge to
+broader arguments about ex-African human dispersal chronologies, also based on radiocarbon dating, was implicit but obvious.
+Some maintained that, despite concerns about sample
+contamination, the date for Sahul colonization might well have
+been about 40e45 ka, consistent with then standard European and
+broader Eurasian models (e.g. O'Connell and Allen, 1998). These
+commentators raised crucial questions about the Arnhem Land
+sites, speciﬁcally about the stratigraphic relationships between
+dated media (energy trapped in sand grains) and archaeological
+phenomena (stone tools) at these two locations (e.g. Bowdler, 1990;
+Hiscock, 1990; O'Connell and Allen, 1998). If these relationships
+were not secure, any argument about the anthropological implications of the dates was meaningless.
+
+74
+
+J.F. O'Connell, J. Allen / Journal of Archaeological Science 56 (2015) 73e84
+
+Our 2003/2004 reviews concluded that people had arrived and
+spread widely across Sahul by 43e45 ka, but found that evidence
+for an earlier presence, particularly one >50 ka, was weak. Our
+conclusion was broadly consistent with some aspects of thencurrent arguments about the effect of human arrival on indigenous megafauna (e.g. Roberts et al., 2001), but contradicted other
+ideas about a purported pre-50 ka arrival and impact, not only on
+native plant and animal communities but also on regional climate
+systems (e.g. Miller et al., 1999). Equally important, our assessment
+provided a basis for estimates of mitochondrial DNA (mtDNA)
+mutation rates, which in turn contributed to the development and
+critique of various Upper Pleistocene ex-African human dispersal
+scenarios (e.g. Endicott et al., 2009; Henn et al., 2012; cf.
+Oppenheimer, 2009; Petraglia et al., 2010). Nevertheless, a >50 ka
+arrival date is still asserted in some quarters (e.g. Cane, 2013;
+Hiscock, 2013; Smith, 2013; Oppenheimer, 2014). No ﬁnal resolution of this issue has yet been achieved, and it remains crucial to
+arguments about the process of Sahul colonization and its impact
+on indigenous fauna and ﬂora, as well as to ongoing disputes about
+the timing of Upper Pleistocene human diasporas and the identities
+of the populations involved.
+Recent developments in dating technology provided the basis
+for an updated review. These include: 1) more frequent use of pretreatment methods that extend the applicability of radiocarbon
+dating back to ca. 50e55 ka (Bird et al., 1999); 2) widespread use of
+accelerator mass spectrometry (AMS) as a means of generating
+more precise estimates of radiocarbon content (but see Hogg et al.,
+2013; Allen and O'Connell, 2014:87); 3) construction of calibration
+curves that allow accurate calendar-age estimates from 14C dates
+for samples much older than a previous limit of ca. 26 ka (e.g. Bronk
+Ramsey et al., 2012; Reimer et al., 2013), and 4) new radiocarbon
+and luminescence dates from sites previously described, as well as
+from those reported for the ﬁrst time following our 2003/2004
+reviews.
+3. Sahul sites dated 40e47 ka
+Table 1 lists the 26 archaeological sites or localities that offer
+relatively reliable, relatively well-published evidence of an
+anatomically modern human presence in Sahul, Wallacea and the
+Bismarck Archipelago by about 40,000 years ago. The two oldest
+dates for the occupation of Tasmania (ca. 38e39 ka) are also noted.
+Fig. 1 provides a graphic summary of this information; Fig. 2 shows
+the distribution of all sites listed in Table 1. All radiocarbon dates
+were calibrated by reference to OxCal 4.2, using the IntCal 13 curve.
+The Southern Hemisphere offset SHCal 13 was not applied since
+dates derived from that routine in this age range fall within the
+standard deviations of unadjusted determinations. A further seven
+recently reported sites with claimed archaeological dates 40e47 ka
+are not referenced here because of incomplete information on
+stratigraphic provenience, relationships with evidence of human
+presence, or the dates themselves (Allen and O'Connell, 2014).
+Their inclusion would have no signiﬁcant effect on this discussion.
+Early dates from 21 sites were determined solely by radiocarbon, those from another three by a combination of radiocarbon
+and luminescence, and those from the remaining four by luminescence or U-series analyses. Most radiocarbon samples were
+subjected to acid-base-acid or acid-base-oxidation-stepped combustion (ABOX-SC) pretreatment; all but three (from GRE 8,
+Matenkupkum, Upper Swan) were analyzed by accelerator mass
+spectrometry. All carbon dates were derived from charcoal or shell
+collected from sedimentary strata containing evidence of human
+activity. The oldest dates from four sites (Devil's Lair, Menindee,
+Riwi, PACD H1) pertain to samples retrieved from anthropogenic
+thermal features (probably hearths or roasting pits) and are
+
+regarded as especially secure with respect to their implications for
+the date of human presence. Luminescence and U-series age estimates were derived from sediment samples and are generally
+marked by much wider conﬁdence intervals (Fig. 1).
+4. What about Nauwalabila and Madjedbebe?
+As indicated above, excavations at Nauwalabila and Madjedbebe
+(both located north of Nawarla Gabarnmang, Fig. 2) yielded stone
+tools in association with sediments dated by luminescence at
+50e60 ka (Roberts et al., 1990, 1994). Detailed re-analysis of data
+from Nauwalabila showed that the relationship between artifacts
+and dated sediments was probably the result of post-depositional
+disturbance, and that claims for human presence at this location
+greater than about 40 ka were unsupportable (Allen and O'Connell,
+2003; cf. Bird et al., 2002). The sedimentary situation at Madjedbebe is similar to that at Nauwalabila but has been much less fully
+reported, making any serious evaluation of a proposed 50e60 ka
+human presence there difﬁcult. The results of renewed excavations
+undertaken at Madjedbebe in 2012 may change matters once they
+are made public (see also below).
+5. Discussion
+Data presented in Table 1 show that humans reached Sahul by
+47 ka. The difference from our 2003/2004 estimate of 43e45 ka is
+mainly a function of more precise radiocarbon date calibration at
+greater time depth than was possible when we wrote. That, combined with more effective sample pretreatment, allows the technique to generate accurate dates of 50e55 ka. With that in mind,
+we take the absence of reliable archaeological dates greater than
+47 ka to indicate an outer bound for continental colonization.
+Contrary to claims made in the 1990s, and continuing in the recent
+literature (e.g. Oppenheimer, 2012; Cane, 2013; Hiscock, 2013;
+Smith, 2013), this is not a function of methodological constraints
+on radiocarbon dating. We discount claims for earlier age estimates
+based on luminescence and U-series analyses, not because of concerns about the dates themselves (although that issue certainly
+merits critical attention, as is the case with any dating technique),
+but because of uncertainties about the evidence of human presence
+and its relationship with the dates. On current evidence, an age
+estimate >50 ka from a new or already known site would be a
+deﬁnite outlier in the early continental chronology (more on this
+below).
+5.1. Site distribution and process of colonization
+Though still small, the sample of sites listed in Table 1 is sufﬁcient to support speculative comment on the pattern and process of
+initial colonization. Analysts mostly agree that founding populations arrived in Sahul along Birdsell's (1977) northern and/or
+southern routes across Wallacea, via Sulawesi and/or Timor,
+respectively (Fig. 2). As argued elsewhere (O'Connell et al., 2010),
+travel east of Sunda probably involved hundreds of individuals and
+was almost certainly deliberate, if not always unidirectional. It
+required the use of well-made watercraft, some large enough to
+carry perhaps as many as a dozen people as well as several days'
+supply of food and water. Paddle-powered (possibly even saildriven), such craft must have been capable of maintaining headway under a wide range of conditions, including moderately contrary currents.
+Although the southern route is widely identiﬁed as the main
+avenue of access to Sahul, we think the northern route was more
+likely because of the consistent island inter-visibility and shorter
+voyaging distances it offered (Irwin, 1992; Allen and O'Connell,
+
+J.F. O'Connell, J. Allen / Journal of Archaeological Science 56 (2015) 73e84
+
+75
+
+Table 1
+Earliest secure dates for archaeological sites probably occupied by anatomically modern humans in Wallacea, Sahul, and the Bismarck Archipelago. RS ¼ rockshelter, OA ¼ open
+air location, SC ¼ solution cavity.
+Region/Site
+
+Location
+
+Site type
+
+Sample number
+
+Earliest archaeological dates (103 yr BP)
+14
+
+Wallacea
+Jerimalai
+Lene Hara
+Leang Timpuseng
+Sahul Far North
+Bobongara
+Buang Merabak
+Ivane -Vilakauv
+Ivane-South Kov
+Ivane-Airport Mound
+Ivane-AER Trench 2
+Kupona na Dari
+Matenkupkum
+Yombon
+Sahul Mid-North
+Carpenter's Gap
+Djadjiling
+Ganga Maraa
+GRE 8
+Jansz
+Nawarla Gabarnmang
+Ngarrabullgan
+Riwi
+Sahul Mid-South
+Allen's Cave
+Devil's Lair
+
+38.3 ± 0.6
+38.2 ± 0.6
+
+Timor
+Timor
+Sulawesi
+
+RS
+RS
+RS
+
+Wk 17831
+Wk 26405
+LT 2.3
+
+SE New Guinea
+New Ireland
+SE New Guinea
+SE New Guinea
+SE New Guinea
+SE New Guinea
+New Britain
+New Ireland
+New Britain
+
+OA
+RS
+OA
+OA
+OA
+OA
+OA
+RS
+OA
+
+Multiple samples
+ANUA 15808e09
+Wk 27072
+Wk 23354
+Wk 23356
+Wk 17901
+OxL 1426
+ANU 8179
+BETA 62319
+
+35.4 ± 0.4
+35.6 ± 0.5
+
+Kimberley
+Pilbara
+Pilbara
+Carpenteria
+Cape Range
+Arnhem Land
+Atherton
+Kimberley
+
+RS
+RS
+RS
+RS
+RS
+RS
+RS
+RS
+
+ANUA 7616
+Wk 23313
+Wk 38973
+Wk 11429
+Wk 8919
+Wk 32126
+ANUA 8806
+ANUA 13005
+
+40.6
+35.8
+40.4
+37.1
+35.2
+42.9
+35.5
+41.3
+
+Nullarbor Plain
+SW Australia
+
+SC
+RS
+
+Menindee
+
+Darling Basin
+
+OA
+
+PACD H1
+Upper Swan
+Willandra
+
+S Australia
+SW Australia
+Murray Basin
+
+OA
+OA
+OA
+
+OxODAC 390
+ANUA-11709
+DL7
+NZA 23736
+LM10
+GNS NZA 34976
+SUA-1500
+AA 4252
+MG-1
+
+Sahul Far South
+Parmerpar Meethaner
+Warreen
+a
+
+C 1s range
+
+N Tasmania
+
+RS
+
+SW Tasmania
+
+RS
+
+Beta 68158
+CAMS 10270
+Beta 42122A
+
+C calibrated 1s range
+(median)
+
+14
+
+41.6e43.3 (42.5)
+41.6e43.3 (42.4)
+40.7 ± 0.9
+38e<60
+
+39.6
+42.0
+40.3
+39.8
+35.1
+
+±
+±
+±
+±
+±
+
+0.6
+1.6
+1.0
+0.9
+0.7
+
+0.8
+0.5
+0.9
+3.0
+0.5
+1.5
+0.7
+1.0
+
+O'Connor, 2007
+O'Connor et al., 2010
+Aubert et al., 2014
+
+39.1e41.0 (40.0)
+39.7e40.8 (40.2)
+
+Allen and O'Connell, 2014
+Leavesley and Chappell, 2004
+Summerhayes et al., 2010
+Summerhayes et al., 2010
+Summerhayes et al., 2010
+Summerhayes et al., 2010
+Torrence et al., 2004
+Allen and Gosden, 1996
+Pavlides and Gosden, 1994
+
+43.0e45.7
+39.2e41.6
+43.5e45.0
+37.0e49.3
+38.8e40.9
+44.2e49.6
+38.7e41.5
+43.1e46.9
+
+Fiﬁeld et al., 2001
+Law et al., 2010
+Morse et al., 2014
+Slack, 2008, Slack et al., 2004
+Przywolnik, 2005; Smith, 2013
+David et al., 2013
+David et al., 2007
+Balme, 2000; Fiﬁeld et al., 2001
+
+42.5e44.4
+43.1e49.1
+42.6e45.8
+42.3e45.3
+38.4e41.2
+
+(43.5)
+(46.1)
+(44.2)
+(43.8)
+(39.8)
+39.8 ± 5.2
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+References
+
+TL/OSL, U-series
+
+(44.3)
+(40.4)
+(44.2)
+(43.1)
+(39.8)
+(47.0)
+(40.1)
+(45.0)
+39.8 ± 3.1
+
+41.4 ± 1.3
+
+42.9e48.1 (45.4)
+
+41.5 ± 1.6
+
+42.9e49.0 (45.9)
+
+40.5 ± 1.0
+39.5 ± 2.0
+38.1 ± 1.1
+
+42.7e45.9 (44.3)
+40.9e48.7 (44.8)
+40.7e44.5 (42.6)
+
+44.4 ± 2.1
+43.1 ± 3.7
+
+40.9 ± 4.5
+
+Murray and Roberts, 1997
+Turney et al., 2001a
+Turney et al., 2001a
+Cupper and Duncan, 2006
+Cupper and Duncan, 2006
+Walshe, 2012
+Pearce and Barbetti, 1981
+Bowler and Price, 1998
+Olley et al., 2006
+
+33.9 ± 0.5
+
+36.8e39.6 (38.2)
+
+Cosgrove, 1995
+
+34.8 ± 0.5
+
+38.4e40.6 (39.5)
+
+Allen, 1996
+
+Ganga Mara has recently been renamed Yurlu Kankala.
+
+2008). In contrast, at 45e50 ka, when sea levels were 60e80 m
+below modern, the last leg on the southern route (Timor-Sahul)
+required a 200 km open-ocean crossing, twice the length of any of
+those on the northern route, and longer than any other voyage
+documented in this part of the world for the next 20,000 years
+(Allen and O'Connell, 2008; O'Connell et al., 2010). Moreover, return voyages, vital to the recruitment of additional colonists and
+the establishment of viable populations in Sahul, would have been
+very difﬁcult, given the strong, south-ﬂowing currents that prevail
+between Timor and the mainland (Wild, 1985:69; Irwin, 1992:28;
+Hautala et al. 2001).
+Opinions differ concerning what happened next. Hypothetical
+scenarios vary on a continuum from rapid, continent-wide colonization, unimpeded by inter-regional differences in climate and
+environment (Birdsell, 1957), through long-term restriction to
+particular habitats as a function of cultural traditions that prevailed
+in colonizer homelands (Bowdler, 1977). (For models falling between these extremes see Hallam, 1977; Horton, 1981; White with
+O'Connell, 1982; Jones, 1989; Beaton, 1991; Webb and Rindos, 1997;
+Chappell, 2000; O'Connor and Veth, 2000; Bird et al., 2004;
+Bulbeck, 2007; Hiscock, 2008; Davidson, 2010, 2013; Smith, 2013).
+Our own expectations about the colonization process are
+grounded in optimal foraging theory and further informed by
+recent work on modern hunter-gatherer economics. These have led
+us to develop several hypotheses about movement around and
+
+across the continent as determined by variation in the costs and
+beneﬁts of subsistence (O'Connell and Allen, 2012). (The same
+theoretical reasoning applies to movement through Wallacea
+[O'Connell et al., 2010]). We propose that major river basins contained the terrestrial habitats most attractive to human foragers,
+and that the vast interior arid zone, away from the coast and
+without perennial rivers and streams, was the least attractive.
+Some tropical forest settings may have been low ranked as well,
+due to the limited, often high-cost resource arrays they commonly
+offer to hunter-gatherers (e.g. Sillitoe, 2002; Cosgrove et al., 2007;
+cf. Roscoe, 2005). We propose that all other terrestrial habitats were
+of intermediate rank, scaled positively by the availability of water
+and negatively by the lower mean temperatures and correspondingly lower levels of productivity generally associated with higher
+latitudes and elevations.
+We suggest that coasts marked by steeply sloping shorelines
+and rocky substrates were consistently attractive to foragers,
+despite the frequent, high amplitude changes in sea level characteristic of this period (Marine Isotope Stage 3 [MIS-3], 30e60 ka;
+Siddall et al., 2003), given the capacities of resident fauna (specifically shellﬁsh) to adjust to those changes in real time (Beaton,
+1995). On the other hand, the narrowness of the intertidal zone
+in these settings meant that potential prey were relatively few in
+number and hence susceptible to rapid depletion by humans.
+Broad, shallow coastal ﬂats and estuaries were marked by greater
+
+76
+
+J.F. O'Connell, J. Allen / Journal of Archaeological Science 56 (2015) 73e84
+
+Fig. 1. Plot of calibrated radiocarbon dates and other radiometric age estimates for early human colonization of Sahul and nearby islands. Data from Table 1. Plus signs under each
+polygon indicate the central tendency; bars under those signs show two sigma limits bracketing that tendency. Tails show the absolute outer limits for each date or age estimate.
+Note that Ganga Mara has recently been renamed Yurlu Kankala.
+
+resource diversities and higher prey densities and so should have
+been more appealing, just as they were historically (Birdsell, 1953).
+But their productivity may have been disrupted by those same MIS3 sea level changes: the sedimentary substrates supporting that
+productivity may often have required centuries to reform in the
+wake of rapid rises and falls (Chappell, 1993). Data and opinion on
+this point are mixed (e.g. Beaton, 1985; Barham, 2000; Chappell,
+2005; Bulbeck, 2007; Pope and Terrell, 2008:7e8; Manne and
+Veth, 2015; Ward et al. 2015), but we still consider it unlikely
+that these settings were as common, productive, and attractive to
+MIS-3 humans as they were from mid-Holocene times onward.
+We argue that movement within and between coastal and
+terrestrial habitats was determined mainly by human depletion of
+high ranked prey. Declines in their availability made shifts to
+relatively rich but still unexploited patches elsewhere economically
+attractive. Given the generally low productivity of terrestrial Sahul
+habitats, a pattern exacerbated by the low temperature, precipitation and CO2 values characteristic of Late Glacial times, resource
+depletion and subsequent human relocation may have been relatively rapid, even on a continental scale.
+The distribution of early sites (Table 1, Fig. 2) is broadly consistent with these expectations. The oldest archaeological dates in
+
+each of the three northernmost latitudinal segments (Ivane Vilakauv [Highland New Guinea], Nawarla Gabarnmang [Arnhem
+Land], Devil's Lair and Menindee [SW and SE Australia, respectively]) are all in the range 45e47 ka, even though the latter two are
+several thousand kilometers from likely points of initial continental
+landfall in the northwest. The absence of similarly early dates from
+Tasmania reﬂects the fact that a dry land connection with the
+mainland Australia was not established until sometime after 43 ka
+(Lambeck and Chappell, 2001).
+The distribution of early sites along the southwestern, western
+and northeastern margins of the continent generally ﬁts with expectations about early reliance on coastal and riverine resources.
+Five of the 25 sites shown in Fig. 2 (Jansz [central W coast]), Jerimalai, Lene Hara [Timor], Matenkupkum, Buang Merabak [New
+Ireland]) were within a few hundred meters of the shore when ﬁrst
+occupied; one (Devil's Lair) was within a day's walk. Offshore
+proﬁles near all are steep, suggesting the presence of persistently
+attractive littoral habitats in the absence of human predation. Three
+localities are in the lower reaches of large river basins: Menindee
+and Willandra in the Murray-Darling, and the Swan River site (SW
+Australia). Seven sites are located in the upper reaches of smaller
+but still sizable river drainages: Carpenter's Gap and Riwi in the
+
+J.F. O'Connell, J. Allen / Journal of Archaeological Science 56 (2015) 73e84
+
+77
+
+Fig. 2. Map showing locations of all sites listed in Table 1.
+
+Fitzroy-Meda (Kimberley), Djadjiling and Ganga Mara in the Fortescue (Pilbara), GRE 8 and Ngarrabullgan in the Carpentarian, and
+Nawarla Gabarnmang in the Katherine (Arnhem Land). These data
+are all consistent with model-based expectations, as is the nearcomplete absence of early dates from the arid continental core
+away from sizable rivers or the coast. The slightly later occupation
+of Tasmania follows the same pattern: the earliest sites are all
+located in river valleys, adjacent to the rivers themselves.
+Apparent exceptions to expectations include the several early
+sites in the Ivane Valley, the far southern arid zone site of Allen's
+Cave, and the lowland tropical forest site of Yombon (New Britain).
+Despite its altitude (2000 masl) and distance from the coaste at
+least three days' walk over rough terrain, the Ivane situation (all
+sites overlooking a pandanus swamp and close to the valley's
+rivers) offered early colonists an opportunity to exploit the alpine
+forest-grassland ecotone. This was a favorable habitat for New
+Guinea hunters historically, perhaps even more so in the distant
+past (e.g. Hope and Hope, 1976). Allen's Cave and Yombon are both
+situated in relatively unattractive settings e arid desert and
+
+lowland rainforest, respectively. Still, Yombon was close to a major
+river and roughly a day's walk from the coast. The presence of a
+nearby toolstone source may have been an important attraction
+(Pavlides and Gosden, 1994). Allen's Cave, located in an extensive
+limestone formation that has elsewhere yielded evidence of toolstone quarrying (Wright, 1971; Lowry and Jennings, 1974), may
+have been used for the same purpose, although published reports
+(e.g. Roberts et al., 1996) offer no evidence to support this suggestion. Alternatively, it may have been occupied for short periods of
+time by foragers drawn inland from the coast by occasional rainrelated resource “ﬂushes.”
+Other distributional data that challenge our model include the
+low numbers of early sites so far reported from the CarpentarianEyre Basin-Murray-Darling region and their complete absence
+along the well-watered E Australian coast and hinterlands
+(compare the Pleistocene site map in Langley et al., 2011 with the
+Holocene map in Ulm, 2011). This might mean that postdepositional processes have covered or eroded evidence of early
+human presence, or that research has been insufﬁcient to identify
+
+78
+
+J.F. O'Connell, J. Allen / Journal of Archaeological Science 56 (2015) 73e84
+
+it. The latter explanation seems unlikely for the coast and nearby
+hinterland in view of the development that large parts of that
+landscape have witnessed over the last century. It might well be
+that some of these areas were unoccupied early on, but we would
+ﬁnd that surprising (Hughes et al., 2014; but see Bowdler, 2010).
+Overall, the post-colonization pattern is now seen to differ from
+both the rapid, pan-continental and slow, culturally constrained,
+coastally oriented models proposed by Birdsell (1957) and Bowdler
+(1977), respectively. Continental-scale occupation was apparently
+rapid but selectively distributed across a range of favorable habitat
+types e prominent along some coasts and in certain especially
+attractive interior situations, but absent elsewhere for many
+millennia. The archaeological “footprint” measured by site
+numbers, refuse deposition rates and radiocarbon date counts is
+also light, not only for the 6000e7000 years after landing, but from
+then on through the terminal Pleistocene, nearly thirty thousand
+years later (e.g. Lourandos, 1980; Beaton, 1985; Lourandos and Ross,
+1994; O'Connell and Allen, 2012; Williams, 2013). The obvious
+implication is that human population numbers remained very low
+throughout this time, perhaps in the tens of thousands continentwide, roughly two orders of magnitude below the several million
+range estimated for Australia-New Guinea combined at European
+contact (Brookﬁeld with Hart, 1971; Williams, 2013). As suggested
+elsewhere (O'Connell and Allen, 2012), low glacial-era environmental productivity produced by low temperature, precipitation
+and CO2 values, combined with high levels of relatively short-term
+climatic instability may have been responsible.
+5.2. Habitat modiﬁcation and megafaunal extinctions
+Our estimated 47 ka human arrival threshold matches more or
+less closely with dated evidence said to mark signiﬁcant colonizer
+impacts on Sahul fauna and ﬂora. These purportedly included the
+widespread displacement of ﬁre-sensitive with ﬁre-tolerant ﬂora,
+sub-continental scale reductions in tree cover, a consequent decline
+in evapotranspiration rates leading to drastic diminution in the
+strength of the summer monsoon, and the rapid, Australia-wide
+elimination of >60 species of large-bodied marsupials, birds and
+reptiles, all in the period 45e50 ka (e.g. Roberts et al., 2001; Miller
+et al., 2005; Gillespie et al., 2006; Brook et al., 2007; Turney et al.,
+2008; Prideaux et al., 2010; Roberts and Brook, 2010; Rule et al.,
+2012; Lopes de Santos et al., 2013). Changes in ﬂora are said to
+have been brought about through human use of ﬁre as a foraging
+tool and/or by the elimination of large animal consumers. Large
+animal extinctions are attributed to some combination of human
+predation and ﬁre-induced vegetation change. Arguments in favor
+of these propositions differ in various ways, but human interference is the catalytic element in all of them. Non-anthropogenic
+climate change is taken to have been limited in this time frame,
+and hence irrelevant to any changes in biota.
+Counter-arguments developed over the last decade hold that
+the ecological changes noted above were likely to have been mainly
+climate-driven. Shifts in ﬂora and the disappearance of megafauna
+are seen to have been connected with a general trend from 350 to
+400 ka onward toward increased continental aridity and progressively lower glacial-period temperatures and atmospheric CO2
+values (e.g. Kershaw et al., 2003; Price et al., 2011). Proponents of
+this view observe that by the time humans arrived, only 8e14
+large-bodied taxa, from a total of 88 or more now-extinct Pleistocene forms across New Guinea and Australia combined, were
+deﬁnitely still extant (Wroe and Field, 2006; Wroe et al., 2013). Up
+to eight of these may have persisted until as recently as 28 ka
+(Trueman et al., 2005; Field et al., 2008; Fillios et al., 2010; cf. Grün
+et al., 2010). Changes in vegetation and related shifts in ﬁre frequency over the period 70e10 ka, monitored via pollen and
+
+charcoal spectra, correlate with high-amplitude, millennial scale
+Dansgaard-Oeschger temperature cycles and with extremely cold,
+centennial-scale Heinrich Events (Mooney et al., 2011). These
+phenomena are well marked in high latitude ice cores (e.g.
+€ris, 2008) and clearly evident in tropical and
+Weninger and Jo
+southern temperate zone proxies, including some from Sahul (e.g.
+Burns et al., 2003; Turney et al., 2004; Brown et al., 2007; Dürkop
+et al., 2008; Hunt et al., 2012; Denniston et al., 2013). Their effect
+on Sahul megafauna is still unresolved, but a causal link with extinctions cannot be dismissed (For additional case studies and
+discussion in support of this line of argument see Kershaw et al.,
+2003; Webb, 2008; Cosgrove et al., 2010; Faith and O'Connell,
+2011; Cohen et al., 2012; Kaal et al., 2014; Murphy et al., 2012;
+Sakaguchi et al., 2013; Habeck-Fardy and Nanson, 2014; LimaRibeiro and Dinez-Filho, 2014).
+While there is no direct evidence of human predation on nowextinct large animals anywhere in Sahul (no kill sites, no stone
+tool cut-marked or impact-scarred bones), we would be surprised if
+human colonizers failed to take megafauna whenever possible. The
+question is whether low human numbers and patchy distribution
+across the continent would have allowed them to drive 8e14 taxa
+(let alone 60e>80) to extinction within one or two millennia in the
+absence of other contributing factors. Simulation studies claimed to
+support this possibility are based on unrealistically high estimates
+of post-colonization human population growth rates. At the 1e2.5%
+per annum ﬁgure posited by Brook and Bowman (2004), for
+example, a founding group of 500 grows to several million in less
+than two millennia. Archaeological data summarized above show
+that human populations remained well below this level until the
+middle Holocene. Parallel arguments (e.g. Brook and Johnson,
+2006) indicating that low kill rates involving sub-adult individuals might have led to rapid demographic collapse yet leave
+little archaeological evidence are theoretically plausible, but
+limited by the fact that they have so far considered only the largest,
+hence slowest reproducing Sahul taxon e Diprotodon optatum.
+Smaller-bodied taxa (e.g. Protemnodon, Sthenurus, both present
+when humans arrived) were probably marked by earlier ages at
+maturity and higher reproductive rates (Charnov, 1993; Zou et al.,
+2013), and so were far less vulnerable on this count. (Note too
+that, simulation results notwithstanding, Diprotodon is one of
+several megafaunal taxa that may have persisted for many
+millennia after human arrival [Field et al., 2008]).
+Assertions about the environmental impact of early anthropogenic landscape-scale ﬁre are based mainly on two data sets. One,
+from the Lake Eyre Basin (south central Australia), includes stable
+isotope readings on eggshells from two ﬂightless birds, emu and
+larger, now-extinct Genyornis. These are read to indicate an abrupt
+shift, dated 45e50 ka, from tree/shrub savannah to desert scrub, a
+transition characterized as a “massive ecosystem collapse,” entirely
+attributable to the introduction of a human-mediated ﬁre regime
+(Miller et al., 2005, 2007). The other body of evidence includes
+pollen, charcoal and other material contained in long sediment
+cores extracted from Lynch's Crater, a volcanic caldera in NE
+Australia. These data point to an increase in ﬁre frequency and a
+related shift from mixed rainforest to drier sclerophyll vegetation
+beginning ca. 45 ka. Both are said to have been caused either by the
+establishment of an anthropogenic ﬁre regime (Kershaw, 1986;
+Turney et al., 2001b) or by human elimination of large-bodied
+herbivores, the latter leading to an increase in fuel loads that in
+turn promoted more frequent ﬁres (Rule et al., 2012). Climate
+change is explicitly dismissed as a contributing factor in both cases.
+The environmental changes reported in these two situations
+appear to have been signiﬁcant; the questions are whether they
+were as extreme as suggested, whether they coincided with human
+arrival, and whether they were the result of human interference. As
+
+J.F. O'Connell, J. Allen / Journal of Archaeological Science 56 (2015) 73e84
+
+noted above, a number of recent studies make strong arguments in
+favor of climate as the primary catalyst, with humans assigned at
+most a minor contributing role (e.g. Mooney et al., 2011; Bowman
+et al., 2012; Bird et al., 2013). The idea that changes in Eyre Basin
+vegetation were “abrupt” or solely related to human action is
+contradicted by reanalysis of some of the same stable isotope and
+geomorphological data cited in support of that interpretation,
+showing instead a continuous trend toward drier conditions
+beginning about 80 ka, well in advance of human presence (Notaro
+et al., 2011; Cohen et al., 2012; Murphy et al., 2012; Habeck-Fardy
+and Nanson, 2014). The Lynch's Crater data are increasingly characterized as unreliable markers of human action, given the difﬁculty of distinguishing possible anthropogenic effects from those
+attributable to climate in this setting (Lynch et al., 2007; Bliege Bird
+et al., 2008; Murphy and Bowman, 2012; Bird et al., 2013).
+Assumptions about the scale of early human impact are crucial
+here. Advocates of strictly anthropogenic causality assume that
+human-controlled ﬁres had a much greater effect on vegetation
+than those generated by non-anthropogenic ignition sources, speciﬁcally lightning. This discounts the evidence that ﬁre has been a
+major ecological force all across Sahul for millions of years (e.g.
+Lynch et al., 2007). It also assumes that initial human population
+densities and distributions were similar to those responsible for the
+maintenance of anthropogenic ﬁre regimes reported historically
+(e.g. Gammage, 2011). And it ignores ethnographic observations
+showing that human-mediated landscape-scale ﬁres are orders of
+magnitude smaller in extent and ecologically less disruptive than
+the larger of those generated by lightning. As Bliege Bird and
+colleagues (2012) have observed, human-controlled ﬁre in low
+population settings buffers the impact of non-anthropogenic ﬁre e
+it does not exacerbate or exceed it as a disruptive force. This
+observation is based on the use of ﬁre during the recent Aboriginal
+reoccupation of parts of the Western Desert, and for that reason
+seems likely to apply with similar, if not equal force to the early
+stages of Sahul colonization.
+The effect of human arrival on Sahul ﬂora and fauna remains
+controversial. Some impact seems likely in principle, but the case
+for massive, anthropogenic ﬁre-related ecosystem collapse and
+catastrophic megafaunal overkill is far less clear-cut. Ironically, a
+secure estimate for human colonization ca. 47 ka offers no
+compelling support for these propositions (cf. Roberts et al., 2001).
+We agree with those who see climate as the primary determinant of
+ecological change in Late Pleistocene Sahul, with humans having a
+signiﬁcant impact only from early/mid Holocene times onward,
+when their populations achieved densities and distributions
+similar to those observed at the time of European contact
+(Williams, 2013).
+5.3. Sahul and Late Pleistocene human dispersals beyond E Africa/
+SW Asia
+The ﬁnding that humans arrived in Sahul ca. 47 ka also speaks to
+current arguments about the Upper Pleistocene spread of
+anatomically modern humans (AMH) beyond Africa. Key questions
+concern the number and timing of such movement(s), the identities
+of the populations involved, and the ecological and evolutionary
+forces driving the process. Discussion is complicated by limited and
+controversial hominin fossil and archaeological data, by uncertainties about the phylogenetic signiﬁcance of the fossil evidence, by the complexities of modeling and dating a rapidly
+growing genomic database, and by the difﬁculties of linking
+archaeological evidence with populations deﬁned on biological
+grounds (Davidson, 2014). Detailed review is well beyond us here,
+but some general observations on the timing and population
+identity issues are in order.
+
+79
+
+Current consensus favors a sub-Saharan African origin of AMH
+in the late Middle Pleistocene (Klein, 2009). Opinions about later
+movement beyond Africa are divided between two alternatives: 1)
+a Late Dispersal Model (LDM), initially into SW Asia at about 60 ka,
+then accelerating across Eurasia and into Sahul beginning about
+50 ka; 2) an Early Dispersal Model (EDM) involving an initial move
+across S Asia as early as the Last Interglacial (100e120 ka) followed
+by a later spread into N Eurasia, again after 50 ka.
+The LDM ﬁnds strong support from genetic data (e.g. Wollstein
+et al., 2010; Gronau et al., 2012; Hernandez et al., 2011; Poznik et al.,
+2013). The pattern is particularly clear from analyses of modern and
+fossil human mitochondrial (mt) DNA, still the best characterized
+locus for dating human migrations (e.g. Endicott et al., 2009; Soares
+et al., 2009, 2012; Behar et al., 2012; Fernandes et al., 2012; Henn
+et al., 2012; Fu et al., 2013b; Mellars et al., 2013b; Rito et al.,
+2013). These studies conﬁrm and elaborate the observation,
+initially made by Cann et al. (1987), that all modern non-African
+populations trace the mitochondrial component of their genomes
+to an African source, now called the L3 lineage. Groups representing
+this lineage are thought to have spread from East Africa to SW Asia
+roughly 70e60 ka. Consideration of relevant climatic data suggests
+that this movement may have taken place close to 60 ka, or perhaps
+shortly after, coincident with the warmer temperatures and
+increased precipitation values associated with the onset of MIS-3
+(Eriksson et al., 2012; Boivin et al., 2013; Parton et al., 2013). Preceding MIS-4 (70e60 ka) was marked by extreme aridity all across
+northern Africa and Arabia, inhibiting any move into SW Asia until
+conditions improved. If L3-related populations did venture beyond
+Africa during MIS-4, their distributions are likely to have been
+restricted to a few widely scattered, relatively favorable locations,
+including the coastal margins of the Arabian Peninsula and the
+riverine corridor exposed by sea level falls in what is now the
+Persian Gulf (Rose, 2010; Fernandes et al., 2012; Mellars et al.,
+2013a).
+Once they reached SW Asia, L3-related populations apparently
+remained in place for several thousand years e long enough to
+allow introgression with local Neandertals, an inference based on
+nuclear DNA (Green et al., 2010; Sankararaman et al., 2012; Fu
+et al., 2014; see also Hershkovitz et al. 2015), and the subsequent development of three mitochondrial daughter lineages, N,
+N
+R, and possibly M (Atkinson et al., 2009; Fernandes et al., 2012;
+Mellars et al., 2013b). Archaeological, fossil and genetic data
+indicate movement beyond SW Asia beginning ca. 50 ka, reaching
+east to the exposed Sunda Shelf no later than ca. 48 ka (Barker
+et al., 2007; Hudjashov et al., 2007; Atkinson et al., 2008;
+Demeter et al., 2012) and north into Eurasia at about the same
+time or slightly later (Hoffecker, 2009; Richter et al., 2009; Henn
+et al., 2012; Fu et al., 2014). Rapid transit across S Asia to Sahul
+is indicated by the absence of geographic hierarchy in L3-derived
+daughter lineages along this arc (e.g. Macaulay et al., 2005;
+Friedlaender et al., 2007; Hudjashov et al., 2007; Soares et al.,
+2009; van Holst Pellekaan, 2013). Macro-haplogroups M, N and
+N
+R are all represented in Sahul; all early Sahul-speciﬁc lineages
+within these haplogroups are derived directly from SW Asian
+sources rather than S Asian intermediates, implying eastward
+movement faster than the mtDNA mutation rate. (Haplogroup M
+may represent a partial exception regarding source: S vs. SW Asia
+[see Mellars et al., 2013b for discussion]). Introgression with
+archaic Denisovans occurred at some point(s) in this transit,
+perhaps in SE Asia (Reich et al., 2011; Rasmussen et al., 2011; cf.
+Cooper and Stringer, 2013).
+Our revised assessment of Sahul colonization dates is consistent
+with this scenario. It seems increasingly likely that the initial
+occupation of Pleistocene Australia-New Guinea was part of a rapid,
+Eurasia-wide expansion of AMH beyond SW Asia beginning about
+
+80
+
+J.F. O'Connell, J. Allen / Journal of Archaeological Science 56 (2015) 73e84
+
+50 ka (Henn et al., 2012). One might question the validity of the
+correlation, in that 1) some estimates of the mitochondrial mutation rate have employed a 45e50 ka Sahul colonization date as an
+analytic benchmark (e.g. Endicott et al., 2009), introducing potential circularity, and 2) recent studies of the nuclear genome (e.g.
+Scally and Durbin, 2012) have suggested a signiﬁcantly slower
+mutation rate, which would push autosomal estimates of the exit
+from Africa much further back in time. However, subsequent analyses of mtDNA from ten radiocarbon dated European and E Asian
+AMH fossils (Fu et al., 2014) independently indicate a rate consistent with those calibrated on a 45e50 ka Sahul arrival time. The age
+for Q, the oldest known autochthonous N Sahul mitochondrial
+haplogroup, calculated on this fossil-derived mutation rate, is
+estimated at 42 ka (95% CI: 30e54 ka; Fu et al., 2013b: Table 3),
+which ﬁts, within the limits of these methodologies, with both our
+revised Sahul archaeological chronology and with the Late
+Dispersal Model.
+Arguments in favor of an earlier Upper Pleistocene dispersal rely
+on various combinations of human fossil, archaeological and genetic evidence (e.g. Oppenheimer, 2012). Fossil-based scenarios
+highlight the presence of AMH or similar morphologies in pre-60 ka
+contexts in E and SE Asia (e.g. Shen et al., 2002; Westaway et al.,
+2007; Liu et al., 2010; Mijares et al., 2010). All are plausible, but
+open to challenge on the reliability of fossil identiﬁcations as AMH,
+the validity of proposed dates, or their associations with the fossils
+in question. Archaeological models are based on claims for Africanderived Middle Paleolithic or Middle Stone Age lithic assemblages
+and reduction sequences dated 120e70 ka in Arabia and S Asia (e.g.
+Foley and Lahr, 1997; Petraglia et al., 2010, 2012; Armitage et al.,
+2012; Clarkson et al., 2012; Dennell and Petraglia, 2012; cf.
+Mellars et al., 2013a). The contention that these assemblages were
+produced by anatomically modern humans is also plausible, but not
+well supported empirically. Archaic human populations are known
+to have produced similar industries at the same time elsewhere
+(e.g. Shea, 2003).
+Advocates of the EDM favor the much slower mutation rate
+reported by Scally and Durbin (2012) and the extended time scale
+for AMH dispersal it implies. They also point to nuclear DNA data
+indicating that lineages ancestral to Sahul populations separated
+at an early date from those leading to European and E Asian
+groups. Pre-60 ka colonization of Sahul is seen by some to be
+implied (e.g. Ghirotto et al., 2011; Reyes-Centano et al., 2014).
+However, other autosomal studies, while emphasizing a complex,
+multi-migration scenario for E Asia and Sahul (McEvoy et al.,
+2011; Rasmussen et al., 2011), still date the initial post-L3 divergence events to 70e60 ka, inconsistent with an EDM. The recent
+analysis of ancient AMH remains from Europe and E Asia (Fu et al.,
+2014) also challenges the “slow” model as it pertains to nuclear
+elements of the genome. Debate about mutation rates nevertheless continues (Segural et al., 2014). Even if an early separation of
+ancestral Sahul from European and E Asian lineages is conﬁrmed,
+as it might well be (Fu et al., 2013a), its precise date remains
+uncertain and nothing about the timing of Sahul colonization
+necessarily follows.
+Although the case for one or more AMH dispersals beyond SW
+Asia 120e70 ka is far from established, we do not necessarily discount the idea. The questions addressed here are whether the Sahul
+archaeological record supports it, and if it does whether that
+somehow falsiﬁes a 50 ka dispersal event and its role in Sahul
+colonization. We think the answer to both questions is no. The LDM
+is increasingly well warranted on genetic, fossil and archaeological
+grounds; Sahul archaeological and mtDNA data provide strong
+evidence for it. There may have been earlier dispersals across S Asia,
+one or more of which reached Sahul. Conﬁrmation of a pre-50 ka
+presence at Madjedbebe would help make that case. But in the
+
+absence of more compelling evidence than is available at present,
+we are skeptical about these possibilities.
+Dedicated search in the 25 years since the early dates from
+Madjedbebe were ﬁrst reported has yet to produce a similar,
+analytically veriﬁed ﬁnding from another site, a situation that can
+no longer be attributed to the methodological limits of radiocarbon
+dating. If a 50e60 ka date for Madjedbebe were conﬁrmed, it would
+be as we said a deﬁnite outlier, separated by up to 13,000 years
+from the next earliest indication of human presence in Sahul. The
+notion that it marked the start of continuous, continental-scale
+occupation by anatomically modern humans, or for that matter
+by an archaic human population, would be difﬁcult to credit (cf.
+Cooper and Stringer, 2013). Any relationship with the populations
+that arrived after 48 ka, the likely ancestors of most of the Sahul
+indigenes encountered at European contact, would have been
+limited at best.
+5.4. Looking ahead
+Several issues involving chronology will continue to be important going forward. First, while it seems increasingly likely that
+ancestors of modern Sahul indigenes ﬁrst arrived on the continent
+ca. 47 ka, the possibility of an earlier human presence cannot be
+completely dismissed. Archeological evidence on chronology and
+genomic data on the identities of the populations involved will
+require careful, comprehensive evaluation. Greater crossdisciplinary collaboration with geneticists will be crucial. Similarly, while the complexity of Late Pleistocene Sahul climate change
+and its impact on habitat and human populations is increasingly
+apparent, the details of those changes and their chronologies must
+be understood with much greater precision at regional scales than
+is currently the case. Close interaction on the part of archaeologists
+and earth scientists will be essential here. Finally, more effort must
+be directed at integrating information on the human colonization
+of Sahul with the broader picture of human experience across the
+Eastern Hemisphere in the Late Pleistocene. Geneticists are
+providing important insights on this issue, but archaeologists must
+continue to be seriously engaged. The key question about what
+causes and facilitates the one or more ex-African expansions must
+also be more seriously engaged, preferably in potentially testable
+form.
+Acknowledgments
+We thank F. Brown, B. Codding, B. David, K. Hawkes, B. Henn, R.
+Klein, L. Major, D. O'Rourke, C. Pardoe, C. Parker, M. Petraglia, M.
+Stoneking, and P. White for advice and assistance. B. Codding and S.
+Arnold-Boomgarden prepared the ﬁgures.
+References
+Allen, J., 1989. When did humans ﬁrst colonize Australia? Search 20, 149e154.
+Allen, J., 1996. Warreen cave. In: Allen, J. (Ed.), Report of the Southern Forests
+Archaeological Project, vol. 1: Site Descriptions, Stratigraphies and Chronologies. Archaeology Publications, School of Archaeology, La Trobe University,
+Bundoora, pp. 135e167.
+Allen, J., Gosden, C., 1996. Spheres of interaction and integration: modelling the
+culture history of the Bismarck Archipelago. In: Davidson, J.M., Irwin, G.,
+Leach, B.F., Pawley, A., Brown, O. (Eds.), Oceanic Culture History: Essays in
+Honour of Roger Green. New Zealand Journal of Archaeology Special Publication, pp. 183e197.
+Allen, J., O'Connell, J.F., 2003. The long and the short of it: archaeological approaches
+to determining when humans ﬁrst colonised Australia and New Guinea. Aust.
+Archaeol. 57, 5e19.
+Allen, J., O'Connell, J.F., 2008. Getting from Sunda to Sahul. In: Clark, G., Leach, B.F.,
+O'Connor, S. (Eds.), Islands of Inquiry: Colonisation, Seafaring and the Archaeology of Maritime Landscapes, Terra Australis 29. ANU E-Press, Canberra,
+pp. 31e46.
+
+J.F. O'Connell, J. Allen / Journal of Archaeological Science 56 (2015) 73e84
+Allen, J., O'Connell, J.F., 2014. Both half right: updating the evidence for dating ﬁrst
+human arrivals in Sahul. Aust. Archaeol. 79, 86e108.
+Armitage, S.J., Jasim, S.A., Marks, A.E., Parker, A.G., Usik, V.I., Uerpmann, H.-P., 2012.
+The Southern Route “Out of Africa”: evidence for an early expansion of modern
+humans into Arabia. Science 331, 453e456.
+Atkinson, Q.D., Gray, R.D., Drummond, A.J., 2008. mtDNA variation predicts population size in humans and reveals a major Southern Asian chapter in human
+prehistory. Mol. Biol. Evol. 25, 468e474.
+Atkinson, Q.D., Gray, R.D., Drummond, A.J., 2009. Bayesian coalescent inference of
+major human mitochondrial DNA haplogroup expansions in Africa. Phil. Trans.
+Roy. Soc. B 276, 367e373.
+Aubert, M., Brumm, A., Ramli, M., Sutikna, T., Saptomo, E.W., Hakim, B.,
+Morwood, M.J., van den Berg, G.D., Kinsley, L., Dosseto, A., 2014. Pleistocene
+cave art from Sulawesi, Indonesia. Nature 514, 223e227.
+Balme, J., 2000. Excavations revealing 40,000 years of occupation at Mimbi Caves,
+south central Kimberley, Western Australia. Aust. Archaeol. 51, 1e5.
+Barham, A.J., 2000. Late Holocene societies in the northern Torres Strait Islands. In:
+O'Connor, S., Veth, P. (Eds.), East of Wallace's Line: Studies of Past and Present
+Maritime Cultures of the Indo-Paciﬁc Region. Balkema, Rotterdam,
+pp. 223e314.
+Barker, G., Barton, H., Bird, M., et al., 2007. The ‘human revolution’ in lowland
+tropical Southeast Asia: the antiquity and behavior of anatomically modern
+humans at Niah Cave (Sarawak, Borneo). J. Hum. Evol. 52, 243e261.
+Beaton, J.M., 1985. Evidence for a coastal occupation time-lag at Princess Charlotte
+Bay (north Queensland) and implications for coastal colonization and population growth theories for Aboriginal Australia. Archaeol. Ocean. 20, 1e20.
+Beaton, J.M., 1991. Colonizing continents: some problems from Australia and the
+Americas. In: Dillehay, T.D., Meltzer, D.J. (Eds.), The First Americans: Search and
+Research. CRC Press, Boca Raton, pp. 209e230.
+Beaton, J.M., 1995. The transition on the coastal fringe of Greater Australia. Antiquity 69, 709e806.
+Behar, D.M., van Oven, M., Rosset, S., Metspalu, M., Loogvali, E.-L., Silva, N.M.,
+Kivisild, T., Torroni, A., Villems, R., 2012. A ‘Copernican’ reassessment of the
+human mitochondrial DNA tree from its root. Am. J. Hum. Gen. 90,
+675e684.
+Bird, M.I., Ayliffe, L.K., Fiﬁeld, L.K., Cresswell, R., Turney, C., 1999. Radiocarbon dating
+of “old” charcoal using a wet oxidation, stepped-combustion procedure.
+Radiocarbon 41, 127e140.
+Bird, M.I., Hope, G., Taylor, D., 2004. Populating PEP II: the dispersal of humans and
+agriculture through Austral-Asia and Oceania. Quat. Int. 118e119, 145e163.
+Bird, M.I., Hutley, L.B., Lawes, M.J., Lloyd, J., Luly, J.G., Ridd, P.V., Roberts, R.G., Ulm, S.,
+Wurster, C.M., 2013. Humans, megafauna and environmental change in tropical
+Australia. J. Quat. Sci. 28, 439e452.
+Bird, M.I., Turney, C.S.M., Fiﬁeld, L.K., Jones, R., Ayliffe, L., Palmer, A., Cresswell, R.,
+Robertson, S., 2002. Radiocarbon analysis of the early archaeological site of
+Nauwalabila 1, Arnhem Land, Australia: implications for sample suitability and
+stratigraphic integrity. Quat. Sci. Rev. 21, 1061e1075.
+Birdsell, J.B., 1953. Some environmental and cultural factors inﬂuencing the structuring of Australian Aboriginal populations. Am. Nat. 87, 171e207.
+Birdsell, J.B., 1957. Some population problems involving Pleistocene man. Cold Spr.
+Harb. Symp. Quant. Biol. 22, 47e69.
+Birdsell, J.B., 1977. The recalibration of a paradigm for the ﬁrst peopling of Greater
+Australia. In: Allen, J., Golson, J., Jones, R. (Eds.), Sunda and Sahul: Prehistoric
+Studies in Southeast Asia, Melanesia and Australia. Academic Press, London,
+pp. 113e167.
+Bliege Bird, R., Bird, D.W., Codding, B.F., Parker, C.H., Jones, J.H., 2008. The ‘ﬁre stick’
+farming hypothesis: Australian Aboriginal foraging strategies, biodiversity and
+anthropogenic ﬁre mosaics. Proc. Natl. Acad. Sci. U. S. A. 105, 14796e14801.
+Bliege Bird, R., Codding, B.F., Kauhanen, P.G., Bird, D.W., 2012. Aboriginal hunting
+buffers climate-driven ﬁre-size variability in Australia's spinifex grasslands.
+Proc. Natl. Acad. Sci. U. S. A. 109, 10287e10292.
+Boivin, N., Fuller, D.Q., Dennell, R., Allaby, R., Petraglia, M.D., 2013. Human dispersal
+across diverse environments of Asia during the Upper Pleistocene. Quat. Int.
+300, 32e47.
+Bowdler, S., 1977. The coastal colonisation of Australia. In: Allen, J., Golson, J.,
+Jones, R. (Eds.), Sunda and Sahul: Prehistoric Studies in Southeast Asia, Melanesia and Australia. Academic Press, London, pp. 205e245.
+Bowdler, S., 1990. 50,000 year-old site in Australia e is it really that old? Aust.
+Archaeol. 31, 93.
+Bowdler, S., 2010. The empty coast: conditions for human occupation in southeast
+Australia during the late Pleistocene. In: Haberle, S., Stevenson, J., Prebble, M.
+(Eds.), Altered Ecologies: Fire, Climate and Human Inﬂuence on Terrestrial
+Landscapes, Terra Australis 32. ANU E Press, Canberra, pp. 177e185.
+Bowler, J.M., Price, D.M., 1998. Luminescence dates and stratigraphic analyses at
+Lake Mungo, review and new perspectives. Archaeol. Ocean. 33, 156e168.
+Bowman, D.M.J.S., Murphy, B.P., Burrows, G.E., Crisp, M.D., 2012. Fire regimes and
+the evolution of the Australian biota. In: Williams, R.J., Gill, A.M., Bradstock, R.A.
+(Eds.), Flammable Australia: Fire Regimes, Biodiversity and Ecosystems in a
+Changing World. CSIRO Publishing, Collingwood (VIC), pp. 27e48.
+Bronk Ramsey, C., Staff, R.A., Bryant, C.L., et al., 2012. A complete terrestrial radiocarbon record for 11.2 to 52.8 ka B.P. Science 338, 370e374.
+Brook, B.W., Bowman, D.M.J.S., 2004. The uncertain blitzkrieg of Pleistocene
+megafauna. J. Biogeogr. 31, 517e523.
+Brook, B.W., Bowman, D.M.J.S., Burney, D.A., et al., 2007. Would the Australian
+megafauna have become extinct if humans had never colonised the continent?
+
+81
+
+Comments on “A review of the evidence for a human role in the extinction of
+Australian megafauna and an alternative explanation” by S. Wroe and J. Field.
+Quat. Sci. Rev. 26, 560e564.
+Brook, B.W., Johnson, C.N., 2006. Selective hunting of juveniles as a cause of the
+imperceptible overkill of the Australian Pleistocene megafauna. Alcheringa
+Spec. Iss. 1, 39e48.
+Brookﬁeld, H.C., Hart, D., 1971. Melanesia: Geographical Interpretation of an Island
+World. Methuen, London.
+Brown, E.T., Johnson, T.C., Schultz, C.A., Cohen, A.S., King, J.W., 2007. Abrupt change
+in tropical African climate linked to bipolar seesaw over the past 55,000 years.
+Geophys. Res. Lett. 34, L20702.
+Bulbeck, D., 2007. Where the river meets the sea: a parsimonious model for Homo
+sapiens colonization of the Indian Ocean and Sahul. Curr. Anthropol. 48,
+315e321.
+Burns, S.J., Fleitmann, D., Matter, A., Kramers, J., Al-Subbary, A.A., 2003. Indian
+Ocean climate and an absolute chronology over Dansgaard/Oeschger Events 9
+to 13. Science 301, 1365e1367.
+Cane, S., 2013. First Footprints: the Epic Story of the First Australians. Allen &
+Unwin, Sydney.
+Cann, R., Stoneking, M., Wilson, A.C., 1987. Mitochondrial DNA and human evolution. Nature 325, 31e36.
+Chappell, J., 1993. Late Pleistocene coasts and human migrations in the Austral
+region. In: Spriggs, M., Yen, D.E., Ambrose, W., Jones, R., Thorne, A.G.,
+Andrews, A. (Eds.), A Community of Culture: the People and Prehistory of the
+Paciﬁc, Occasional Papers in Prehistory, No. 21. Department of Prehistory,
+Research School of Paciﬁc Studies, Australian National University, Canberra,
+pp. 43e48.
+Chappell, J., 2000. Pleistocene seedbeds of western Paciﬁc maritime cultures and
+the importance of chronology. In: O'Connor, S., Veth, P. (Eds.), East of Wallace's
+Line: Studies of Past and Present Maritime Cultures of the Indo-Paciﬁc Region.
+Balkama, Rotterdam, pp. 77e98.
+Chappell, J., 2005. Geographic changes of coastal lowlands in the Papuan past. In:
+Pauley, A., Attenborough, R., Golson, J., Hide, R. (Eds.), Papuan Pasts: Cultural,
+Linguistic and Biological Histories of Papuan-speaking Peoples. Paciﬁc Linguistics, Research School of Paciﬁc and Asian Studies, Australian National University, Canberra, pp. 525e539.
+Chappell, J., Magee, J., Head, J., 1996. Beyond the radiocarbon limit in Australian
+archaeology and Quaternary research. Antiquity 70, 543e552.
+Charnov, E.L., 1993. Life History Invariants: Some Explorations of Symmetry in
+Evolutionary Ecology. Oxford University Press, Oxford.
+Clarkson, C., Harris, C., Jones, S., 2012. Continuity and change in the lithic industries
+of the Jurreru Valley, India, before and after the Toba eruption. Quat. Intl 258,
+165e179.
+Cohen, T.J., Nanson, G.C., Jansen, J.D., Jones, B.G., Jacobs, Z., Larson, J.R., May, J.-H.,
+Treble, P., Price, D.M., Smith, A.M., 2012. Late Quaternary megalakes fed by the
+northern and southern river systems of central Australia: varying moisture
+sources and increased continental aridity. Palaeogeogr. Palaeoclim. Palaeoecol.
+356e357, 89e108.
+Cooper, A., Stringer, C.B., 2013. Did the Denisovans cross Wallace's Line? Science
+342, 321e323.
+Cosgrove, R., 1995. Late Pleistocene behavioural variation and time trends: the case
+from Tasmania. Archaeol. Ocean. 30, 83e104.
+Cosgrove, R., Field, J., Ferrier, Å., 2007. The archaeology of Australia's tropical rainforests. Palaeogeogr. Palaeoclim. Palaeoecol. 251, 150e173.
+Cosgrove, R., Field, J., Garvey, J., Brenner-Coltrain, J., Goede, A., Charles, B., Wroe, S.,
+Pike-Tay, A., Grün, R., Aubert, M., Lees, W., O'Connell, J., 2010. Overdone overkill
+e the archaeological perspective on Tasmanian megafaunal extinctions.
+J. Archaeol. Sci. 37, 2486e2503.
+Cupper, M.L., Duncan, J., 2006. Late Glacial megafaunal death assemblage and early
+human occupation at Lake Menindee, southeastern Australia. Quat. Res. 66,
+332e341.
+David, B., Barker, B., Petchey, F., Delannoy, J.-J., Geneste, J.-M., Rowe, C.,
+Eccleston, M., Lamb, L., Whear, R., 2013. A 28,000 year old excavated painted
+rock from Nawarla Gabarnmang, northern Australia. J. Archaeol. Sci. 40,
+2493e2501.
+David, B., Roberts, R.G., Magee, J., Mialanes, J., Turney, C., Bird, M., White, C.,
+Fiﬁeld, L.K., Tibby, J., 2007. Sediment mixing at Nonda Rock: investigations of
+stratigraphic integrity at an early archaeological site in northern Australia and
+implications for the human colonisation of the continent. J. Quat. Sci. 22,
+449e479.
+Davidson, I., 2010. The colonization of Australia and its adjacent islands and the
+evolution of modern cognition. Curr. Anthropol. 51, S177eS189.
+Davidson, I., 2013. Peopling the last new worlds: the ﬁrst colonisation of Sahul and
+the Americas. Quat. Int. 285, 1e29.
+Davidson, I., 2014. It's the thought that counts: unpacking the package of behavior
+of the ﬁrst people of Australia and its adjacent islands. In: Dennell, R., Porr, M.
+(Eds.), Southern Asia, Australia, and the Search for Human Origins. Cambridge
+University Press, Cambridge, pp. 243e256.
+Demeter, F., Shackelford, L.L., Bacon, A.M., et al., 2012. Anatomically modern human
+in Southeast Asia (Laos) by 46 ka. Proc. Natl. Acad. Sci. U. S. A. 109,
+14375e14380.
+Dennell, R., Petraglia, M., 2012. The dispersal of Homo sapiens across southern Asia:
+how early, how often, how complex? Quat. Sci. Rev. 47, 15e22.
+Denniston, R.F., Wyroll, K.H., Asmerom, Y., Polyak, V.J., Humphreys, W.F., Cugley, J.,
+Woods, D., LaPointe, Z., Peota, J., Greaves, E., 2013. North Atlantic forcing of
+
+82
+
+J.F. O'Connell, J. Allen / Journal of Archaeological Science 56 (2015) 73e84
+
+millennial-scale Indo-Australian monsoon dynamics during the Last Glacial
+period. Quat. Sci. Rev. 72, 159e168.
+Dürkop, A., Holbourn, A., Kuhnt, W., Zuraida, R., Anderson, N., Grootes, P.M., 2008.
+Centennial scale climate variability in the Timor Sea during Marine Isotope
+Stage 3. Mar. Micropaleontol. 66, 208e221.
+Endicott, P., Ho, S.Y.W., Metspalu, M., Stringer, C., 2009. Evaluating the mitochondrial timescale of human evolution. Trends Ecol. Evol. 24, 515e521.
+Eriksson, A., Betti, L., Friend, A.D., Lycett, S.J., Singarayer, J.S., von CramonTaubadel, N., Valdes, P.J., Balloux, F., Manica, A., 2012. Late Pleistocene climate
+change and the global expansion of anatomically modern humans. Proc. Natl.
+Acad. Sci. U. S. A. 109, 16089e16094.
+Faith, J.T., O'Connell, J.F., 2011. Revisiting the late Pleistocene mammal extinction
+record at Tight Entrance Cave, southwestern Australia. Quat. Res. 76, 397e400.
+Fernandes, V., Alshamali, F., Alves, M., Costa, M.D., Pereira, J.B., Silva, N.M., Cherni, L.,
+Harich, N., Cerny, V., Soares, P., Richards, M.B., Pereira, L., 2012. The Arabian
+Cradle: mitochondrial relicts of the ﬁrst steps along the southern route out of
+Africa. Am. J. Hum. Genet. 90, 347e355.
+Field, J., Filios, M., Wroe, S., 2008. Chronological overlap between humans and
+megafauna in Sahul (Pleistocene AustraliaeNew Guinea): a review of the evidence. Earth Sci. Rev. 89, 97e115.
+Fiﬁeld, L.K., Bird, M.I., Turney, C.S.M., Hausladen, P.A., Santos, G.M., di Tada, M.L.,
+2001. Radiocarbon dating of the human occupation of Australia prior to 40 ka
+BP e successes and pitfalls. Radiocarbon 43, 1139e1145.
+Fillios, M., Field, J., Charles, B., 2010. Investigating human and megafauna cooccurrence in Australian prehistory: mode and causality in fossil accumulations at Cuddie Springs. Quat. Int. 211, 123e143.
+Flood, J., 1983. Archaeology of the Dreamtime. Collins, Sydney.
+Foley, R.A., Lahr, M.M., 1997. Mode 3 technologies and the evolution of modern
+humans. Cambr. Archaeol. J. 7, 3e36.
+Friedlaender, J.S., Friedlaender, F.R., Hodgson, J.A., Stoltz, M., Koki, G., Horvat, G.,
+Zhadanov, S., Schurr, T.G., Merriwether, D.A., 2007. Melanesian mtDNA
+complexity. PLoS ONE 2, e248.
+€€
+Fu, Q., Meyer, M., Gao, X., Stenzi, U., Burbano, H.A., Kelso, J., Pa
+abo, S., 2013a. DNA
+analysis of an early modern human from Tianyuan Cave, China. Proc. Natl. Acad.
+Sci. U. S. A. 110, 2223e2227.
+Fu, Q., Mittnik, A., Johnson, P.L.F., et al., 2013b. A revised time scale for human
+evolution based on ancient mitochondrial genomes. Curr. Biol. 23, 553e559.
+Fu, Q., Li, H., Moorjani, P., et al., 2014. Genome sequence of a 45,000-year-old
+modern human from western Siberia. Nature 54, 445e449.
+Gammage, B., 2011. The Biggest Estate on Earth: How Aborigines Made Australia.
+Allen & Unwin, Sydney.
+Ghirotto, S., Penso-Dolﬁn, L., Barbujani, G., 2011. Genomic evidence for an African
+expansion of anatomically modern humans by a southern route. Hum. Biol. 83,
+477e489.
+Gillespie, R., Brook, B.W., Baynes, A., 2006. Short overlap of humans and megafauna
+in Pleistocene Australia. Alcheringa Spec. Iss. 1, 163e185.
+Green, R.E., Krause, J., Briggs, A.W., et al., 2010. A draft sequence of the Neandertal
+genome. Science 328, 710e722.
+Gronau, I., Hubisz, M.J., Gulko, B., Danko, C.G., Siepel, I., 2012. Bayesian inference of
+ancient human demography from individual genome sequences. Nat. Genet. 43,
+1031e1034.
+Grün, R., Eggins, S., Aubert, M., Spooner, N.A., Pike, A.W.G., Müller, W., 2010. ESR and
+U-series analyses of faunal material from Cuddie Springs, NSW, Australia: implications for the timing and extinction of the Australian megafauna. Quat. Sci.
+Rev. 29, 596e610.
+Habeck-Fardy, A., Nanson, G.C., 2014. Environmental character and history of the
+Lake Eyre Basin, one seventh of the Australian continent. Earth Sci. Rev. 132,
+39e66.
+Hallam, S.J., 1977. The relevance of Old World archaeology to the ﬁrst entry of man
+into new worlds: colonization seen from the Antipodes. Quat. Res. 8, 124e148.
+Hautala, S.J., Sprintall, J., Potemra, J.T., Ilahude, A.G., Chong, J.C., Pandoe, W., Bray, N.,
+2001. Velocity structure and transport of the Indonesian Throughﬂow in the
+major straits restricting ﬂow into the Indian Ocean. J. Geophys. Res. 106 (96),
+19527e19546.
+Henn, B.M., Cavalli-Sforza, L.L., Feldman, M.W., 2012. The great human expansion.
+Proc. Natl. Acad. Sci. U. S. A. 109, 17758e17764.
+Hernandez, R.D., Kelley, J.L., Elyashiv, E., Melton, S.C., Auton, A., McVean, G., 1000
+Genomes Project, Sella, G., Przeworski, M., 2011. Classic selective sweeps were
+rare in recent human evolution. Science 331, 920e924.
+Hershkovitz, I., Marder, O., Ayalon, A., et al., 2015. Levantine cranium from Manot
+Cave (Israel) foreshadows the ﬁrst European modern humans. Nature. http://
+dx.doi.org/10.1038/nature14134.
+Hiscock, P., 1990. How old are the artefacts at Malakunanja II? Archaeol. Ocean. 25,
+122e124.
+Hiscock, P., 2008. Archaeology of Ancient Australia. Routledge, London.
+Hiscock, P., 2013. Occupying new lands: global migrations and cultural diversiﬁcation with particular reference to Australia. In: Graf, K.E., Ketron, C.V.,
+Waters, M.R. (Eds.), Paleoamerican Odyssey, Department of Anthropology. Texas
+A&M University, College Station (TX), pp. 3e11.
+Hoffecker, J.F., 2009. The spread of modern humans in Europe. Proc. Natl. Acad. Sci.
+U. S. A. 106, 16040e16045.
+Hogg, A., Turney, C.S.M., Palmer, J., et al., 2013. The New Zealand Kauri (Agathis
+australis) research project: a radiocarbon dating intercomparison of Younger
+Dryas wood and implications for IntCal 13. Radiocarbon 55, 2035e2048.
+
+Hope, J.H., Hope, G.S., 1976. Palaeoenvironments for man in New Guinea. In:
+Kirk, R.L., Thorne, A.G. (Eds.), The Origins of the Australians. Australian Institute
+of Aboriginal Studies, Canberra, pp. 29e53.
+Horton, D.R., 1981. Water and woodland: the peopling of Australia. Aust. Inst.
+Aborig. Stud. Newsl. 16, 21e27.
+Hudjashov, G., Kivisild, T., Underhill, P.A., Endicott, P., Sanchez, J.J., Lin, A.A., Shen, P.,
+Oefner, P., Renfrew, C., Villems, R., Forster, P., 2007. Revealing the prehistoric
+settlement of Australia by Y chromosome and mtDNA analysis. Proc. Natl. Acad.
+Sci. U. S. A. 104, 8726e8730.
+Hughes, P., Spooner, N., Questriaux, D., 2014. Landscape history in the Hunter Valley,
+NSW: why there is a multitude of Holocene archaeological sites but so few
+Pleistocene sites. Aust. Archaeol. 79, 34e44.
+Hunt, C.D., Gilbertson, D., Rushworth, G., 2012. A 50,000-year record of late Pleistocene tropical vegetation and human impact in lowland Borneo. Quat. Sci. Rev.
+37, 61e80.
+Irwin, G., 1992. The Prehistoric Exploration and Colonisation of the Paciﬁc. Cambridge University Press, Cambridge.
+Jones, R., 1989. East of Wallace's Line: issues and problems in the colonization of the
+Australian continent. In: Mellars, P., Stringer, C. (Eds.), The Human Revolution:
+Behavioural and Biological Perspectives on the Origins of Modern Humans.
+Princeton University Press, Princeton, pp. 743e782.
+Kaal, J., Schellekens, J., Nierop, K.J.G., Cotizas, A.M., Muller, J., 2014. Contribution of
+organic matter molecular proxies to interpretation of Lynch's Crater record (NE
+Australia). Palaeogeogr. Palaeoclim. Palaeoecol. 414, 20e31.
+Kershaw, A.P., 1986. Climatic change and aboriginal burning in north-east Australia
+during the last two glacial/interglacial cycles. Nature 322, 47e49.
+Kershaw, A.P., van der Kaars, S., Moss, P.T., 2003. Late Quaternary Milankovitch-scale
+climatic change and variability and its impact on monsoonal Australasia. Mar.
+Geol. 201, 81e95.
+Klein, R.G., 2009. The Human Career: Human Biological and Cultural Origins, third
+ed. University of Chicago Press, Chicago.
+Lambeck, K., Chappell, J., 2001. Sea level change through the last glacial cycle.
+Science 292, 679e686.
+Langley, M.C., Clarkson, C., Ulm, S., 2011. From small holes to grand narratives: the
+impact of taphonomy and sample size on the modernity debate in Australia and
+New Guinea. J. Hum. Evol. 61, 197e208.
+Law, W.B., Cropper, D.N., Petchey, F., 2010. Djadjiling Rockshelter: 35,000 14C years
+of Aboriginal occupation in the Pilbara, Western Australia. Aust. Archaeol. 70,
+68e71.
+Leavesley, M.G., Chappell, J., 2004. Buang Merabak: additional early radiocarbon
+evidence of the colonisation of the Bismarck Archipelago, Papua New Guinea.
+Antiquity 78 (301). Project Gallery.
+Lima-Ribeiro, M.S., Diniz-Filho, J.A.F., 2014. Obstinate Overkill in Tasmania? The
+closest gaps do not probabilistically support human involvement in megafaunal
+extinctions. Earth Sci. Rev. 135, 59e64.
+Liu, W., Jin, C.Z., Zhang, Y.Q., et al., 2010. Human remains from Zhirendong, South
+China, and modern human emergence in East Asia. Proc. Natl. Acad. Sci. U. S. A.
+107, 19201e19206.
+Lopes de Santos, R.A., DeDecker, P., Hopmans, E.C., Magee, J.W., Mets, A., Sinninghe
+, J.S., Schouten, S., 2013. Abrupt vegetation change after the Late QuaDamste
+ternary megafaunal extinction in southeastern Australia. Nat. Geosci. 6,
+627e631.
+Lourandos, H., 1980. Change or stability? Hydraulics, hunter-gatherers and population in temperate Australia. World Archaeol. 11, 245e264.
+Lourandos, H., Ross, A., 1994. The great ‘Intensiﬁcation Debate’: Its history and place
+in Australian archaeology. Aust. Archaeol. 39, 54e63.
+Lowry, D.C., Jennings, J.N., 1974. The Nullarbor karst. Zeit. Geomorphol. 18, 35e81.
+Lynch, A.H., Beringer, J., Kershaw, A.P., Marshall, A., Mooney, S., Tapper, N.,
+Turney, C., van der Kaars, S., 2007. Using the paleorecord to evaluate climate
+and ﬁre interactions in Australia. Ann. Rev. Earth Planet. Sci. 35, 215e239.
+Macaulay, V., Hill, C., Achilli, A., et al., 2005. Single, rapid coastal settlement of Asia
+revealed by analysis of complete mitochondrial genomes. Science 308,
+1034e1036.
+Manne, T., Veth, P.M., 2015. Late Pleistocene and early Holocene exploitation of
+estuarine communities in northwestern Australia. Quat. Int. http://dx.doi.org/
+10.1016/j.quaint.2014.12.049 (in press).
+McEvoy, B.P., Powell, J.E., Goddard, M.E., Visscher, P., 2011. Human population
+dispersal ‘Out of Africa’ estimated from linkage disequilibrium and allele frequencies of SNPs. Genome Res. 21, 821e829.
+Mellars, P., Gori, K.C., Carr, M., Soares, P.A., Richards, M.B., 2013a. Genetic and
+archaeological perspectives on the initial modern human colonization of
+southern Asia. Proc. Natl. Acad. Sci. U. S. A. 110, 10699e10704.
+Mellars, P., Gori, K.C., Carr, M., Soares, P.A., Richards, M.B., 2013b. Genetics. Proc.
+Natl. Acad. Sci. U. S. A. 110. Supplementary Information (on line).
+troit, F., Piper, P., Grün, R., Bellwood, P., Aubert, M., Champion, G.,
+Mijares, A.S., De
+Cuevas, N., De Leon, A., Dizon, E., 2010. New evidence for a 67000-year-old
+human presence at Callao Cave, Luzon, Philippines. J. Hum. Evol. 59,
+123e132.
+Miller, G.H., Fogel, M.L., Magee, J.W., Gagan, M.K., Clarke, S., Johnson, B.J., 2005.
+Ecosystem collapse in Pleistocene Australia and a human role in megafaunal
+extinction. Science 309, 287e290.
+Miller, G.H., Magee, J.W., Fogel, M.L., Gagan, M.K., 2007. Detecting human impacts
+on the ﬂora, fauna, and summer monsoon of Pleistocene Australia. Clim. Past 3,
+463e473.
+
+J.F. O'Connell, J. Allen / Journal of Archaeological Science 56 (2015) 73e84
+Miller, G.H., Magee, J.W., Johnson, B.J., Fogel, M., Spooner, N.A., McCulloch, M.T.,
+Ayliffe, L.K., 1999. Pleistocene extinction of Genyornis newtoni: human impact
+on Australian megafauna. Science 283, 205e208.
+Mooney, S.D., Harrison, S.P., Bartlein, P.J., et al., 2011. Late Quaternary ﬁre regimes of
+Australasia. Quat. Sci. Rev. 30, 28e46.
+Morse, K., Cameron, R., Reynan, W., 2014. A tale of three caves: new dates for
+Pleistocene occupation in the inland Pilbara. Aust. Archaeol. 79, 167e178.
+Murphy, B.P., Bowman, D.M.J.S., 2012. What controls the distribution of tropical
+forest and savanna? Ecol. Lett. 15, 748e758.
+Murphy, B.P., Williamson, G.J., Bowman, D.M.J.S., 2012. Did central Australian
+megafaunal extinction coincide with abrupt ecosystem collapse or gradual
+climate change? Glob. Ecol. Biogeogr. 21, 142e151.
+Murray, A.S., Roberts, R.G., 1997. Determining the burial time of single grains of
+quartz using optically stimulated luminescence. Earth Planet. Sci. Lett. 15,
+163e180.
+Notaro, M., Wyroll, K.H., Chen, G., 2011. Did aboriginal vegetation burning impact on
+the Australian summer monsoon? Geophys. Res. Lett. l, L11704.
+O'Connell, J.F., Allen, J., 1998. When did humans ﬁrst arrive in Greater Australia, and
+why is it important to know? Evol. Anthr. 6, 132e146.
+O'Connell, J.F., Allen, J., 2004. Dating the colonization of Sahul (Pleistocene
+Australia-New Guinea): a review of recent research. J. Archaeol. Sci. 31,
+835e853.
+O'Connell, J.F., Allen, J., 2012. The restaurant at the end of the universe: modelling
+the colonisation of Sahul. Aust. Archaeol. 74, 5e17.
+O'Connell, J.F., Allen, J., Hawkes, K., 2010. Pleistocene Sahul and the origins of
+seafaring. In: Anderson, A., Barrett, J., Boyle, K. (Eds.), The Global Origins and
+Development of Seafaring. McDonald Institute for Archaeological Research,
+Cambridge, pp. 57e68.
+O'Connor, S., 2007. New evidence from East Timor contributes to our understanding
+of earliest modern human colonisation east of the Sunda Shelf. Antiquity 81,
+523e535.
+O'Connor, S., Barham, A., Spriggs, M., Veth, P., Aplin, K., St Pierre, E., 2010. Cave
+archaeology and sampling in the tropics: a case study from Lene Hara cave, a
+42,000 year old occupation site in East Timor, Island Southeast Asia. Aust.
+Archaeol. 71, 29e40.
+O'Connor, S., Veth, P., 2000. The world's ﬁrst mariners: savanna dwellers in an island continent. In: O'Connor, S., Veth, P. (Eds.), East of Wallace's Line: Studies of
+Past and Present Maritime Cultures of the Indo-Paciﬁc Region. Balkema, Rotterdam, pp. 99e138.
+Olley, J.M., Roberts, R.G., Yoshida, H., Bowler, J.M., 2006. Single-grain optical dating
+of grave-inﬁll associated with human burials at Lake Mungo, Australia. Quat.
+Sci. Rev. 25, 2469e2474.
+Oppenheimer, S., 2009. The great arc of dispersal of modern humans: Africa to
+Australia. Quat. Int. 202, 2e13.
+Oppenheimer, S., 2012. A single southern exit of modern humans from Africa:
+before or after Toba? Quat. Int. 258, 88e99.
+Oppenheimer, S., 2014. Modern humans spread from Aden to the Antipodes: with
+passengers and when? In: Dennell, R., Porr, M. (Eds.), Southern Asia, Australia,
+and the Search for Human Origins. Cambridge University Press, Cambridge,
+pp. 228e242.
+Parton, A., Farrant, A.R., Leng, M.J., Schwenninger, J.-L., Rose, J.I., Uerpmann, H.-P.,
+Parker, A.G., 2013. An early MIS 3 pluvial phase in Southeast Arabia: climatic
+and archaeological implications. Quat. Int. 300, 62e74.
+Pavlides, C., Gosden, C., 1994. 35,000-year-old sites in the rainforests of West New
+Britain, Papua New Guinea. Antiquity 68, 604e610.
+Pearce, R.H., Barbetti, M., 1981. A 38,000-year-old archaeological site at Upper Swan,
+Western Australia. Archaeol. Ocean. 16, 173e178.
+Petraglia, M.D., Ditchﬁeld, P., Jones, S., Korisettar, R., Pal, J.N., 2012. The Toba volcanic
+super-eruption, environmental change, and hominin occupation history in India over the last 140,000 years. Quat. Int. 258, 119e134.
+Petraglia, M.D., Haslem, M., Fuller, D.Q., Boivin, N., Clarkson, C., 2010. Out of Africa:
+new hypotheses and evidence for the dispersal of Homo sapiens along the
+Indian Ocean rim. Ann. Hum. Biol. 37, 288e311.
+Pope, K.D., Terrell, J.E., 2008. Environmental setting of human migrations in the
+circum-Paciﬁc region. J. Biogeogr. 35, 1e21.
+Poznik, G.D., Henn, B.M., Yee, M.-C., Sliwerska, E., Euskirchen, G.M., Lin, A.A.,
+Snyder, M., Quintana-Murci, Ll, Kidd, J.M., Underhill, P.A., Bustamante, C.D.,
+2013. Sequencing Y Chromosomes resolves discrepancy in time to common
+ancestor of males versus females. Science 341, 562e565.
+Price, G.J., Webb, G.E., Zhao, J.X., Feng, Y-x., Murray, A.S., Cooke, B.N., Hocknull, S.A.,
+Sobbe, I.H., 2011. Dating megafaunal extinction on the Pleistocene Darling
+Downs, eastern Australia: the promise and pitfalls of dating as a test of
+extinction hypotheses. Quat. Sci. Rev. 30, 899e914.
+Prideaux, G.J., Gully, G.A., Couzens, A.M.C., Ayliffe, L.K., Jankowski, N.R., Jacobs, Z.,
+Roberts, R.G., Hellstrom, J.C., Gagan, M.K., Hatcher, L.M., 2010. Timing and dynamics of Late Pleistocene mammal extinctions in southwestern Australia. Proc.
+Natl. Acad. Sci. U. S. A. 107, 22157e22162.
+Przywolnik, K., 2005. Long-term transitions in hunter-gatherers of coastal northwestern Australia. In: Veth, P., Smith, M., Hiscock, P. (Eds.), Desert Peoples:
+Archaeological Perspectives. Blackwell, Carlton (VIC), pp. 177e205.
+Rasmussen, M., Guo, X., Wang, Y., et al., 2011. An Aboriginal Australian genome
+reveals separate human dispersals into Asia. Science 334, 94e98.
+Reich, D., Patterson, N., Kircher, M., et al., 2011. Denisova admixture and the ﬁrst
+modern human dispersals into Southeast Asia and Oceania. Am. J. Hum. Genet.
+89, 516e528.
+
+83
+
+Reimer, P., Bard, E., Bayliss, et al., 2013. IntCal13 and Marine13 radiocarbon age
+calibration curves, 0e50,000 years cal BP. Radiocarbon 55, 1869e1887.
+troit, F., Grimaud-Herve
+, D., Barbujani, G.,
+Reyes-Centano, H., Ghirotto, S., De
+Harvati, K., 2014. Genomic and cranial phenotype data support multiple modern human dispersals from Africa and a southern route into Asia. Proc. Natl.
+Acad. Sci. U. S. A. 111, 7248e7253.
+
+Richter, D., Tostevin, G., Skrdla,
+P., Davies, W., 2009. New radiometric ages for the
+Early Upper Palaeolithic type locality of Brno-Bohunice (Czech Republic):
+comparison of OSL, IRSL, TL and 14C dating results. J. Archaeol. Sci. 36, 708e720.
+Rito, T., Richards, M.B., Fernandes, V., Alshamali, F., Cerny, V., Pereira, L., Soares, P.,
+2013. The ﬁrst modern human dispersals across Africa. PLoS ONE 8 (11), e80031.
+Roberts, R.G., Brook, B.W., 2010. Turning back the clock on the extinction of
+megafauna in Australia. Quat. Sci. Rev. 29, 593e595.
+Roberts, R.G., Flannery, T.F., Ayliffe, L.K., Yoshida, H., Olley, J.M., Prideaux, G.J.,
+Laslett, G.M., Baynes, A., Smith, M.A., Jones, R., Smith, B.L., 2001. New ages for
+the last Australian megafauna: continent-wide extinction about 46,000 years
+ago. Science 292, 1888e1892.
+Roberts, R.G., Jones, R., Smith, M.A., 1990. Thermoluminescence dating of a 50,000
+year old occupation site in northern Australia. Nature 345, 153e156.
+Roberts, R.G., Jones, R., Spooner, N.A., Head, M.J., Murray, A.S., Smith, M.A., 1994. The
+human colonization of Australia: optical dates of 53,000 and 60,000 bracket human arrival at Deaf Adder Gorge, Northern Territory. Quat. Sci. Rev. 13, 575e583.
+Roberts, R.G., Spooner, N.A., Jones, R., Cane, S., Olley, J.M., Murray, A.S., Head, M.J.,
+1996. Preliminary luminescence dates for archaeological sediments on the
+Nullarbor Plain, South Australia. Aust. Archaeol. 42, 7e16.
+Roscoe, P., 2005. Foraging, ethnographic analogy and Papuan pasts: contemporary
+models for the Sepik-Ramu past. In: Pauley, A., Attenborough, R., Golson, J.,
+Hide, R. (Eds.), Papuan Pasts: Cultural, Linguistic and Biological Histories of
+Papuan-speaking Peoples. Paciﬁc Linguistics, Research School of Paciﬁc and
+Asian Studies, Australian National University, Canberra, pp. 555e584.
+Rose, J.I., 2010. New light on human prehistory in the Arabo-Persian Gulf Oasis. Curr.
+Anthr. 51, 849e883.
+Rule, S., Brook, B.W., Haberle, S.G., Turney, C.S.M., Kershaw, A.P., Johnson, C.N., 2012.
+The aftermath of megafaunal extinction: ecosystem transformation in Pleistocene Australia. Science 335, 1483e1486.
+Sakaguchi, S., Bowman, D.M.J.S., Prior, L.D., Crisp, M.D., Linde, C.C., Tsumura, Y.,
+Isagi, Y., 2013. Climate, not Aboriginal landscape burning, controlled the historical demography and distribution of ﬁre-sensitive conifer populations across
+Australia. Proc. Roy. Soc. B 280, 20132182.
+€a
+€bo, S., Reich, D., 2012. The date of interSankararaman, S., Patterson, N., Li, H., Pa
+breeding between Neandertals and modern humans. PLoS Genet. 8 (10),
+e1002947.
+Scally, A., Durbin, R., 2012. Revising the human mutation rate: implications for
+understanding human evolution. Nat. Genet. 13, 745e753.
+Segural, L., Wyman, M.J., Przeworski, M., 2014. Determinants of mutation rate
+variation in the human germline. Ann. Rev. Genom. Hum. Genet. 15, 47e70.
+Shea, J.J., 2003. The Middle Paleolithic of the East Mediterranean Levant. J. World
+Prehist. 17, 313e394.
+Shen, G., Wang, W., Wang, Q., Shao, J., Collerson, K., Zhou, C., Tobias, P.V., 2002. Useries dating of Liujiang hominid site in Guanxi, southern China. J. Hum. Evol.
+43, 817e829.
+Siddall, M., Rohling, E.J., Almogi-Labin, A., Hemlebin, Ch, Meischner, D.,
+Schmelser, I., Smeed, D.A., 2003. Sea level ﬂuctuations during the last glacial
+cycle. Nature 423, 853e858.
+Sillitoe, P., 2002. Always been farmer-foragers? Hunting and gathering in the Papua
+New Guinea Highlands. Anthropol. Forum 12, 45e76.
+Slack, M.J., 2008. Between the Desert and the Gulf: Evolutionary Anthropology and
+Aboriginal Prehistory in the Riversleigh/Lawn Hill Region, Northern Australia
+(unpublished PhD thesis). Department of Anthropology, University of Sydney.
+Slack, M.J., Fullagar, R.L.K., Field, J.H., Border, A., 2004. New Pleistocene ages for
+backed artefact technology in Australia. Archaeol. Ocean. 39, 131e137.
+Smith, M.A., 2013. The Archaeology of Australia's Deserts. Cambridge University
+Press, Cambridge.
+Soares, P., Ermini, L., Thomson, N., Mormina, M., Rito, T., Rohl, A., Salas, A.,
+Oppenheimer, S., Macaulay, V., Richards, M.B., 2009. Correcting for purifying
+selection: an improved human mitochondrial molecular clock. Am. J. Hum.
+Genet. 84, 1e20.
+Soares, P., Alshamali, F., Pereira, J.B., Fernandes, V., Silva, N.M., Afonso, C.,
+Costa, M.D., Musilova, E., Macaulay, V., Richards, M.B., Cerny, V., Pereira, L., 2012.
+The expansion of mtDNA haplogroup L3 within and out of Africa. Mol. Biol. Evol.
+29, 915e927.
+Stringer, C.B., Andrews, P., 1988. Genetic and fossil evidence for the origin of modern
+humans. Science 239, 1263e1268.
+Summerhayes, G., Leavesley, M., Fairbairn, A., Mandui, H., Field, J., Ford, A.,
+Fullagar, R., 2010. Human adaptation and plant use in highland New Guinea
+49,000 to 44,000 years ago. Science 330, 78e81.
+Torrence, R., Neall, V., Doelman, T., Rhodes, E., McKee, C., Davies, H., Bonetti, R.,
+Guglielmetti, A., Manzoni, A., Oddone, M., Parr, J., Wallace, C., 2004. Pleistocene
+colonisation of the Bismarck Archipelago: new evidence from New Britain.
+Archaeol. Ocean. 39, 101e130.
+Trueman, C.N.G., Field, J.H., Dortch, J., Charles, B., Wroe, S., 2005. Prolonged coexistence of humans and megafauna in Pleistocene Australia. Proc. Natl. Acad. Sci.
+U. S. A. 102, 8381e8385.
+Turney, C.S.M., Bird, M.I., Fiﬁeld, L.K., Roberts, R.G., Smith, M., Dortch, C.E., Grün, R.,
+Lawson, E., Ayliffe, L.K., Miller, G.H., Dortch, J., Cresswell, R.G., 2001a. Early
+
+84
+
+J.F. O'Connell, J. Allen / Journal of Archaeological Science 56 (2015) 73e84
+
+human occupation at Devil's Lair, southwestern Australia. 50,000 years ago.
+Quat. Res. 55, 3e13.
+Turney, C.S.M., Bird, M.I., Fiﬁeld, L.K., Kershaw, A.P., Cresswell, R.G., Santos, G.M., di
+Tada, M.L., Hausladen, P.A., Youping, Z., 2001b. Development of a robust 14C
+chronology for Lynch's Crater (North Queensland, Australia) using different
+pretreatment strategies. Radiocarbon 43, 45e54.
+Turney, C.S.M., Flannery, T.F., Roberts, R.G., Reid, C., Fiﬁeld, L.K., Higham, T.F.G.,
+Jacobs, Z., Kemp, N., Calhoun, E.M., Kalin, R.M., Ogle, N., 2008. Late-surviving
+megafauna in Tasmania, Australia, implicate human involvement in their
+extinction. Proc. Natl. Acad. Sci. U. S. A. 105, 12150e12153.
+Turney, C.S.M., Kershaw, A.P., Clemens, S.C., Branch, N., Moss, P.T., Fiﬁeld, L.K., 2004.
+~ o/Southern oscillation and highMillennial and orbital variations of El Nin
+latitude climate in the last glacial period. Nature 428, 306e310.
+Ulm, S., 2011. Coastal foragers on southern shores: Marine resource use in northeast
+Australia since the late Pleistocene. In: Bicho, N.F., Haws, J.A., Davis, L.G. (Eds.),
+Trekking the Shore: Changing Coastlines and the Antiquity of Coastal Settlement, Interdisciplinary Contributions to Archaeology. Springer ScienceþBusiness Media, New York, pp. 441e461.
+van Holst Pellekaan, S., 2013. Genetic evidence for the colonization of Australia.
+Quat. Int. 285, 44e56.
+Walshe, K., 2012. Port Augusta hearth site dated to 40,000 years. Aust. Archaeol. 74,
+106e110.
+Ward, I., Larcombe, P., Veth, P., 2015. A new model for coastal resource productivity
+and sea-level change: the role of physical sedimentary processes in assessing
+the archaeological potential of submerged landscapes from the Northwest
+Australian Continental Shelf. Geoarchaeol 30, 19e31.
+Webb, R.E., Rindos, D.J., 1997. The mode and tempo of the initial human colonisation
+of empty landmasses: Sahul and the Americas compared. In: Barton, C.M.,
+Clark, G.A. (Eds.), Rediscovering Darwin: Evolutionary Theory and Archeological
+Explanation, Archeological Papers of the American Anthropological Association
+No. 7, pp. 233e257.
+
+Webb, S.D., 2008. Megafauna demography and late Quaternary climatic change in
+Australia: a predisposition to extinction. Boreas 37, 329e345.
+€ ris, O., 2008. A 14C age calibration curve for the last 60 ka: the
+Weninger, B., Jo
+Greenland-Hulu U/Th timescale and its impact on understanding the Middle to
+Upper Paleolithic transition in Western Eurasia. J. Hum. Evol. 55, 772e778.
+Westaway, K.E., Morwood, M., Roberts, R.G., Rokus, A.D., Zhao, J-x., Storm, P., Aziz, F.,
+van den Burgh, G., Hadi, P., de Vos, J., 2007. Age and biostratigraphic signiﬁcance
+of the Punung Rainforest Fauna, East Java, Indonesia, and implications for Pongo
+and Homo. J. Hum. Evol. 53, 709e717.
+White, J.P., O'Connell, J.F., 1982. A Prehistory of Australia, New Guinea, and Sahul.
+Academic Press, Sydney.
+Wild, S., 1985. Voyaging to Australia: 30,000 years ago. In: Proceedings of Ausgraph
+85, Third Australasian Conference on Computer Graphics, Brisbane.
+Williams, A.N., 2013. A new population curve for prehistoric Australia. Proc. Roy.
+Soc. B 280, 20130486.
+Wollstein, A., Leo, O., Becker, C., Brauer, S., Trent, R.J., Numberg, P., Stoneking, M.,
+Kayser, M., 2010. Demographic history of Oceania Inferred from genome-wide
+data. Curr. Biol. 20, 1983e1992.
+Wright, R.V.S., 1971. The Archaeology of the Gallus site, Koonalda Cave. Prehistory
+Series 5. In: Australian Aboriginal Studies, 26. Australian Institute of Aboriginal
+Studies, Canberra.
+Wroe, S., Field, J., 2006. Extinction of the Australian megafauna: a review of the evidence
+for human causation and an alternative paradigm. Quat. Sci. Rev. 25, 2692e2703.
+Wroe, S., Field, J.H., Archer, M., Grayson, D.K., Price, G.J., Louys, J., Faith, J.T.,
+Webb, G.E., Davidson, I., Mooney, S.D., 2013. Climate change frames debate over
+the extinction of megafauna in Sahul (Pleistocene Australia-New Guinea). Proc.
+Natl. Acad. Sci. U. S. A. 110, 8777e8781.
+Zuo, W., Smith, F.A., Charnov, E.L., 2013. A life history approach to Late Pleistocene
+megafaunal extinction. Am. Nat. 182, 524e531.
+
+

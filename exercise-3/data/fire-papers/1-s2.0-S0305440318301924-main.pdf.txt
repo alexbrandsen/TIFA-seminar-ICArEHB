@@ -1,0 +1,1390 @@
+Journal of Archaeological Science 95 (2018) 1–15
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: www.elsevier.com/locate/jas
+
+Identifying natural and anthropogenic drivers of prehistoric ﬁre regimes
+through simulated charcoal records
+
+T
+
+Grant Snitker
+School of Human Evolution and Social Change, Arizona State University, 900 S. Cady Mall, Tempe, AZ 85287-2402, USA
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+Anthropogenic ﬁre
+Fire regimes
+Neolithic
+Charcoal proxy modeling
+
+Archaeological and paleoecological studies demonstrate that human-caused ﬁres have long-term inﬂuences on
+terrestrial and atmospheric systems, including the transformation of “wild” landscapes into managed, agricultural landscapes. Sedimentary charcoal accumulations alone provide only limited information about the inﬂuence of human-caused ﬁres on long-term ﬁre regimes. Computational modeling oﬀers a new approach to
+anthropogenic ﬁre that links social and biophysical processes in a “virtual laboratory” where long-term scenarios
+can be simulated and compared with empirical charcoal data. This paper presents CharRec, a computational
+model of landscape ﬁre, charcoal dispersion, and deposition that simulates charcoal records formed by multiple
+natural and anthropogenic ﬁre regimes. CharRec is applied to a case study in the Canal de Navarrés region in
+eastern Spain to reveal the role of human-driven ﬁre regimes during the early and middle Holocene. A statistical
+comparison of simulated charcoal records and empirical charcoal data from the Canal de Navarrés indicates that
+anthropogenic burning, following the Neolithic transition to agro-pastoral subsistence, was a primary driver of
+ﬁre activity during the middle Holocene.
+
+1. Introduction
+Humans are uniquely able to use ﬁre as a tool to deliberately create
+and sustain changes in their environments (Boivin et al., 2016; Bowman
+et al., 2011; Ellis, 2015; Roos et al., 2014; Scott et al., 2016). Regular
+and controlled use of ﬁre by hominins dates to the Middle Pleistocene,
+but measurable impacts of anthropogenic ﬁre on terrestrial and atmospheric systems are most evident during the last several millennia
+(Bowman et al., 2011; Roebroeks and Villa, 2011; Shimelmitz et al.,
+2014). Multiple global syntheses of archaeological and ethnographic
+case studies identify ﬁre's role in political, religious, and ecological
+realms, including burning practices associated with land clearing,
+warfare, driving game, propagating beneﬁcial plant and animal species,
+and ﬁre prevention (Bliege Bird et al., 2008; Bowman et al., 2011; Pyne,
+2012; Scherjon et al., 2015; Trauernicht et al., 2015). Diversity in anthropogenic ﬁre can create variation in local and regional ﬁre regimes;
+however, evidence of human-driven ignitions is not readily observable
+in sedimentary charcoal records, particularly when these ﬁres co-occur
+with large-scale changes in climate and fuels.
+This paper presents the Charcoal Record Simulation Model
+(CharRec), a computational model that simulates the formation of sedimentary charcoal records based on varying ﬁre regime components,
+including ﬁre frequency, intensity, size, and spatial distribution. These
+components can be modiﬁed to represent ﬁre regimes shaped by
+
+E-mail address: gsnitker@asu.edu.
+https://doi.org/10.1016/j.jas.2018.04.009
+Received 21 March 2017; Received in revised form 24 April 2018; Accepted 29 April 2018
+
+Available online 09 May 2018
+0305-4403/ © 2018 Elsevier Ltd. All rights reserved.
+
+varying human and climate drivers. Following a pattern-oriented
+modeling approach, CharRec is built using a bottom-up strategy where
+observable patterns within target datasets inform programming decisions (Grimm et al., 2005). This strategy allows CharRec to function as a
+“virtual laboratory,” where multiple model outputs are compared to
+patterns within empirical charcoal data to identify which combinations
+of ﬁre regime components mostly likely contributed to the formation of
+the empirical record through time (Bankes et al., 2002).
+1.1. Formation and interpretation of sedimentary charcoal records
+Variation in the concentration of charcoal particles from lacustrine
+cores or terrestrial sediment samples is commonly used to identify paleoenvironmental trends in landscape ﬁre (Bowman et al., 2011, 2009;
+Whitlock and Anderson, 2003; Whitlock and Larsen, 2001). Bridging
+the interpretive gap between charcoal abundance and ﬁre history has
+remained at the forefront of paleoecological research for several decades. The theoretical relationships between charcoal transport and accumulation were ﬁrst proposed by Clark (1988a,b) and have since been
+expanded to consider the inﬂuence of combustion and atmospheric
+conditions on primary charcoal dispersal, such as ﬁre intensity, ﬁre
+size, and charcoal morphology (Adolf et al., 2018; Clark et al., 1998;
+Clark and Royall, 1996, 1995; Higuera et al., 2011; Leys et al., 2015,
+2017; Li et al., 2017; Lynch et al., 2004; Miller et al., 2017; Peters and
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+archaeological data on human activities and paleoecological data on
+ﬁre and vegetation change (Bowman et al., 2011). Prominent archaeological approaches to ﬁre have centered on detecting evidence of
+landscape burning in relation to food production and hunter-gatherer
+impacts on ancient environments. Low-level food production (Smith,
+2001), “ﬁre-stick” farming (Bird et al., 2005; Bliege Bird et al., 2013,
+2008), swidden agriculture (Levin and Ayres, 2017; Roos, 2008; Roos
+et al., 2016; Schier et al., 2013), and mitigating resource vulnerability
+(Freeman and Anderies, 2012) suggest that ﬁre was an important tool
+for creating predictable resource mosaics within landscapes across the
+globe (North America: Liebmann et al., 2016; Roos, 2015; Roos et al.,
+2010; Sullivan et al., 2015; Sullivan and Forste, 2014; Swetnam et al.,
+2016; Taylor et al., 2016; Van de Water and Saﬀord, 2011; Walsh et al.,
+2010; Europe: Doyen et al., 2013; Innes et al., 2013; Southeast Asia/
+Oceania: Maxwell, 2004; McGlone, 2001; McWethy et al., 2010, 2009;
+Roos et al., 2016; Neotropics: Dull, 2004; Nevle et al., 2011).
+Anthropogenic ﬁre may also be a primary driver of ﬁre regimes in
+regions with long-term histories of agricultural land-use (Carrión et al.,
+2010, 2001; Colombaroli et al., 2008; Vannière et al., 2008). For instance, Pitkänen et al. examined two lacustrine sediment cores from
+Lake Pönttölampi in eastern Finland to evaluate the formation of the
+local charcoal record and its association with documented “slash and
+burn” agricultural practices (Pitkänen et al., 1999; Pitkänen and
+Huttunen, 1999). By examining charcoal data in conjunction with historical maps of land-use and ﬁre-scarred trees, Pitkänen and colleagues
+(1999) concluded that frequent, low-intensity ﬁres associated with
+maintaining open woodlands contributed signiﬁcantly to the sedimentary charcoal record and were the primary driver of local ﬁre history.
+Unfortunately, the patterns reported by this study would be diﬃcult to
+observe in prehistoric contexts that predate historic documents and
+living, ﬁre-scarred trees. Simulation models provide an opportunity to
+examine multiple patterns of burning in prehistory while accommodating complex patterns of both natural and anthropogenic ignition
+sources. Evaluating simulations against empirical charcoal data allows
+multiple, alternative interpretations of prehistoric ﬁre regimes to be
+tested, adapted, and improved.
+
+Higuera, 2007; Vachula and Richter, 2018). Fire history interpretations
+from these models rely on two major underlying assumptions: 1) the
+physics of primary charcoal transport result in spatially discernible
+diﬀerences in the distribution of charcoal particles following a ﬁre; and
+2) secondary charcoal transport is minimal and does not obfuscate
+patterns of primary deposition and ﬁre occurrence (Higuera et al.,
+2007).
+The distribution and abundance of primary, aerially dispersed
+charcoal is assumed to be a function of charcoal attributes related to
+fuel combustion and atmospheric conditions during a ﬁre (Aleman
+et al., 2013; Clark, 1988a; Clark et al., 1998; Duﬃn et al., 2008; Enache
+and Cumming, 2007, 2006; Lynch et al., 2004; Peters and Higuera,
+2007; Vachula and Richter, 2018). Generally, the relationship between
+these variables results in spatially diﬀerentiated dispersion, where
+macroscopic charcoal particles (typically > 100 μm) are dispersed close
+to their source and are interpreted as local in origin; microscopic
+charcoal particles (typically < 100 μm) can be dispersed greater distances and are typically interpreted as representing regional ﬁres
+(Clark, 1988b; Clark et al., 1998; Ohlson and Tryterud, 2000). This
+relationship assumes that atmospheric and combustion conditions remain constant throughout the duration of a ﬁre; while this assumption
+may not always hold true, transport distances based on charcoal size
+have been empirically validated in multiple studies (Clark and Royall,
+1996; Gardner and Whitlock, 2001; Lynch et al., 2004; Ohlson and
+Tryterud, 2000; Pisaric, 2002; Tinner et al., 2006; Whitlock and
+Millspaugh, 1996). More recent work has examined the impact of
+varying conditions on charcoal production and the mechanisms of
+primary charcoal transport, concluding that particle morphology,
+shape, and density are also important in interpreting ﬁre origin (Duﬃn
+et al., 2008; Leys et al., 2015, 2017; Vachula and Richter, 2018).
+Secondary charcoal refers to charcoal introduced into the sedimentary record during non-ﬁre years by geomorphological processes
+such as run-oﬀ, post-depositional sediment mixing, or other landscape
+reservoir eﬀects. Empirical studies of post-ﬁre slope-wash estimate that
+the contribution of additional charcoal from non-ﬁre years can continue
+for upwards of a decade, but in quantities small enough not to mask
+primary deposition (Carcaillet et al., 2006; Clark, 1988a; Clark et al.,
+1998; Lynch et al., 2004; Patterson et al., 1987; Whitlock and
+Millspaugh, 1996). Mixing within the sediment column can further
+blur, but not entirely obscure primary charcoal deposition. Statistical
+methods for peak detection and sampling strategies that capture the full
+extent of ﬁre return intervals help to account for these processes (Clark,
+1988b; Finsinger et al., 2014; Higuera et al., 2010; Kelly et al., 2011).
+Peak detection methods rely on separating a charcoal series into its
+background and peak components. Background charcoal refers to lowfrequency variations in macro-charcoal accumulation, as well as contributions from secondary charcoal transport (Higuera et al., 2010;
+Kelly et al., 2011). When background charcoal is statistically removed,
+peak charcoal related to primary transport and deposition is distinguishable (Finsinger et al., 2014). The distinction between background
+and peak charcoal components may be unclear in landscapes with both
+natural and anthropogenic ignition sources (Bowman et al., 2011).
+Ethnographic examples of managed ﬁre indicate that ignitions are often
+spatially circumscribed, frequent, and at low intensities (Scherjon et al.,
+2015), hence it is possible that local anthropogenic burning may contribute to low-frequency accumulations of macro-charcoal without
+clear and discernible peaks. Thus, the anthropogenic signal may be
+misidentiﬁed or obscured, particularly if a sampling strategy is not
+designed to accommodate for short ﬁre return intervals.
+
+2. Materials and methods
+2.1. Introduction to CharRec and model design considerations
+CharRec is a spatially explicit computational model developed to
+simulate the formation of long-term charcoal records based on empirically supported models of primary charcoal transport (Fig. 1). The
+model is an exploratory tool that assists researchers in interpreting how
+natural and anthropogenic ﬁre regime components contribute to the
+formation of a sedimentary charcoal record. One of the most challenging aspects of developing computer simulations of social-ecological
+systems is including adequate complexity to address speciﬁc research
+questions while reducing the amount of uncertainty in the model
+structure and parameters. Pattern-oriented modeling oﬀers a strategy
+for optimizing the relationship between complexity and uncertainty by
+focusing on multiple patterns observed in real systems at diﬀering
+scales (Grimm et al., 2005). Such models focus on a small number of
+underlying processes that can be calibrated independently to inﬂuence
+the overall pattern of the system (Grimm et al., 2005:989). CharRec
+does not attempt to capture the extensive complexity of charcoal production, dispersion, and deposition. Instead, it utilizes four speciﬁc
+components that contribute to the overall patterning of primary charcoal in sedimentary records. These include ﬁre spatial distribution,
+frequency, size, and intensity. These characteristics are highly susceptible to manipulation by humans, thus providing a means for testing the
+inﬂuence of burning practices related to land-use on the formation of
+charcoal records.
+The following section describes the speciﬁc modules that compose
+CharRec and presents a statistical method for comparing simulated
+
+1.2. Anthropogenic ﬁre in the archaeological record
+Humans have intentionally set ﬁres for millennia to transform the
+arrangement or diversity of resources within their landscape (Boivin
+et al., 2016; Pyne, 2012). Identifying prehistoric human inﬂuences on
+ﬁre regimes remains diﬃcult due to a mismatch between available
+2
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+Fig. 1. CharRec interface, showing a landscape map, sample location, ﬁres, and various user-deﬁned ignition scenario parameters and outputs.
+
+Anderson (1982) for predicting wildﬁre behavior. According to these
+models, fuels are grouped by load, meaning the amount and arrangement of vegetation within a stand, as well as size and moisture classes,
+such as ﬁne (1-h) and larger-diameter fuels (10-h) (Anderson, 1982).
+Although updated models have improved accuracy in North American
+ecosystems (see Scott and Burgan, 2005), the original 13 models have
+been adapted to describe a diverse range of international ecosystems.
+For broad usability, CharRec uses these original models. Available dead
+and live biomass approximations for 1-h and 10-h fuel size classes are
+assigned to each landscape patch. For each simulation, a single fuel
+model is distributed uniformly across all patches. Potential heat release
+rates from combustion are calculated for all fuel model size classes
+(Johansen et al., 1976: Equation (1)) and used to approximate plume
+injection heights resulting from convective uplift (Clark, 1988a: Equation (5)). These calculations are done assuming a wind velocity of
+0 m s−1, thus producing the maximum potential plume injection height
+for each fuel class. These data are saved in CharRec as global variables
+for later use in the Burn, Disperse, and Deposit module.
+
+charcoal data against empirical datasets. CharRec is built in Netlogo
+Version 6.0.2, an agent-based programming language and open-access
+modeling environment (Wilensky, 1999). Netlogo is ideal for this
+modeling application because it is easily programmed and customized,
+has a user-friendly interface, and easily couples with other open-access
+GIS and statistical software. The model and the Overview, Design concepts, and Details (ODD) documentation are publicly available through
+the CoMSES Net Computational Model Library (Snitker, 2018).
+2.2. CharRec modules and main components
+CharRec is composed of ﬁve modules: 1) Landscape, 2) Ignition
+Scenario, 3) Burn, Disperse, and Deposit, 4) Form record, and 5) Export
+modules; together these simulate the formation of a sedimentary
+charcoal record on an annual time scale. In a simulation run, ﬁres
+disperse micro- and macro-charcoal throughout the landscape, which is
+aggregated at a designated sampling point by a set deposition interval
+(e.g., 100 yr cm−1). At the end of each deposition interval, charcoal
+counts are exported as a single observation in the charcoal record
+series. A diagrammatic representation of the relationship between
+CharRec modules is illustrated in Fig. 2.
+
+2.2.2. Ignition scenario module
+The Ignition Scenario module determines the ﬁre regime components (ﬁre spatial distribution, frequency, size, and intensity) used in
+each model run. These variables are set by the user to simulate natural
+or anthropogenic ignitions, thus inﬂuencing charcoal production, dispersion, and deposition in subsequent modules. First, ﬁre frequency is
+determined annually by a Poisson probability distribution based on a
+user-deﬁned mean-ignitions-per-year value (see Higuera et al., 2007 for
+a similar method). A low mean-ignitions-per-year value may result in
+many model years that do not have any ﬁres burning on the landscape,
+while a higher value will allow for multiple ﬁres to burn simultaneously.
+Fire spatial distribution is determined by the ignition probability
+raster applied to each landscape patch. A random-number algorithm is
+used to determine a ﬁre's potential location; this algorithm is weighted
+to favor areas with high ignition probabilities over those with low
+probabilities. The range of probability values available to the random-
+
+2.2.1. Landscape module
+The CharRec model landscape is a geo-referenced representation of
+a user-deﬁned study area and is composed of rasters representing topographic, atmospheric, and fuel conditions. The physical terrain of the
+model landscape is derived from a digital elevation model (DEM) raster
+applied to each landscape patch (NASA, 2011). Atmospheric input
+rasters are created from modern local weather station measurements of
+wind velocity and direction (IVIA, 2015). These data are interpolated
+across the model landscape using WindNinja, a free software program
+developed by the U.S Forest Service Rocky Mountain Research Station's
+Fire, Fuel, Smoke Science Program (Forthofer et al., 2014). WindNinja
+creates patch-speciﬁc, spatially varying wind ﬁelds based on topographic variation.
+Fuels in CharRec are based on the 13 fuel models developed by
+3
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+Fig. 2. Diagrammatic representation of CharRec modules and data inputs.
+
+released from the combustion of fuels at each landscape patch (Keeley,
+2009). Fuel size classes and plume injection heights calculated in the
+Landscape module are used to diﬀerentiate between ﬁre intensities. For
+example, when an ignition scenario includes low-intensity ﬁres, only
+plume injection heights calculated from the heat release rate of 1-h
+fuels are used. Ignition scenarios with high-intensity ﬁres use plume
+injection heights calculated from the heat release rate of both 1-h and
+10-h fuels. Although there is variation within fuel models, generally a
+ﬁre consuming 1-h fuels results in a shorter plume injection height than
+a ﬁre consuming both 1-h and 10-h fuels.
+
+number algorithm is set by a user-deﬁned probability cutoﬀ. In practice, if the probability cutoﬀ is set at 0, all landscape patches within the
+model landscape have the potential to ignite. If the probability cutoﬀ is
+set at 0.5, a subset of landscape patches with ignition probabilities
+above or equal to 0.5 have the potential to ignite. The probability cutoﬀ
+parameter allows for a range of spatial conﬁgurations to be tested.
+Changes in ﬁre size are modeled through a size function that randomly selects the number of additional patches that a ﬁre will occupy.
+The number of additional patches ranges from 0 to 8; a value of 0 indicates that a ﬁre will remain in its original patch (0.09 ha), while a
+value of 8 indicates the ﬁre will occupy all adjacent patches via a shared
+edge or a shared vertex (0.81 ha). The intensity of the original ﬁre is
+assigned to all additional ﬁres.
+Within CharRec, ﬁre intensity refers to the amount of energy
+
+2.2.3. Burn, disperse, and deposit module
+Once a ﬁre ignites on a landscape patch, its intensity determines the
+size class of available biomass that is consumed and the injection height
+4
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+Fig. 3. Canal de Navarrés study area and location of the N3 sedimentary charcoal record collected by Carrión and Van Geel (1999).
+
+of deposition. Once the number of model years in the deposit interval is
+reached, the Form Record module aggregates charcoal counts at the
+sample location into a single observation of micro- and macro-charcoal.
+A complete CharRec simulation is run for a user-deﬁned number of
+deposit interval observations. At the end of the simulation, the Export
+module collates all charcoal count observations created by the Form
+Record module, as well as ignition scenario variables used during the
+simulation, and exports them as a comma-separated values ﬁle. A map
+of all ﬁre locations created during the simulation is also exported in
+raster format.
+
+of the resulting plume. Available biomass is converted into charcoal
+mass using the conversion rate published by (Gavin (2001):32). Charcoal mass is then transformed into micro- and macro-charcoal particle
+counts based on experimental charcoal particle size distribution data
+published by Pitkänen et al. (1999). Plume injection height for each ﬁre
+is modiﬁed by wind velocity at the ﬁre's patch following the empirical
+relationship illustrated by (Clark (1988a): Equation (5)). Finally, the
+amount of micro- and macro-charcoal dispersed at a given x and y
+distance from a ﬁre's patch is calculated using a three-dimensional form
+of Clark's (1988a) Gaussian aerial transport model adapted by (Peters
+and Higuera (2007): Equations (1) and (2)). The equations and parameters (Table 2) are reproduced below (see Higuera et al., 2007 and
+Peters and Higuera, 2007 for additional Gaussian aerial transport model
+details):
+
+χ (x , y ) =
+
+2νQ (x )
+−y 2
+−h2
+exp ⎜⎛ 2 2 − n ⎞⎟ exp ⎛⎜ 2 2 − n ⎞⎟
+−
+2
+n
+uπCy Cz x
+⎠
+⎝ Cy x
+⎠
+⎝ Cy x
+
+Q (x ) = Q0 exp
+
+2.2.5. Statistical comparison of model outputs to an empirical charcoal
+record using LDA
+Linear discriminant analysis (LDA) is a statistical method for classiﬁcation that reduces a dataset into a lower dimensional space while
+maximizing the separation between multiple classes (Duda et al., 2001).
+LDA is a ﬂexible and robust classiﬁcation technique that does not require data standardization (i.e. z-score transformation) or normal distributions, making it an ideal candidate for comparing CharRec outputs
+to empirical sedimentary charcoal data. LDA uses an initial dataset to
+form linear combinations of predictor variables that emphasize diﬀerences between classiﬁcation groups. The resulting linear discriminants
+can then be used to classify new data, generating posterior probabilities
+of classiﬁcation group membership for each observation in the new
+dataset. The best-ﬁt classiﬁcation for each new observation is determined by the highest posterior probability. The distribution of posterior probabilities for other classiﬁcation groups provides insight into
+the quality of the best-ﬁt classiﬁcation.
+When comparing CharRec simulated charcoal data to an empirical
+charcoal record, the unique ignition scenario parameters from each
+complete simulation constitutes a classiﬁcation group. Linear discriminants for charcoal data created by CharRec are used to predict
+ignition scenario membership for each micro- and macro-charcoal
+
+(1)
+
+2m
+h
+⎧ 4vg
+⎡
+[−x n /2e−ξ + ⎜⎛ ⎟⎞
+⎢
+⎨ nuCz π
+⎝ Cz ⎠
+⎣
+⎩
+
+⎤⎫
+× (Γ (–m + 1) − Γξ (−m + 1)) ⎥
+⎬
+⎦⎭
+
+(2)
+
+Wind direction at the ﬁre's origin is used to determine the direction of
+micro- and macro-charcoal fallout. Counts of micro- and macro-charcoal are recorded only when fallout reaches the user-designated sampling site. The Burn, Disperse, and Deposit module operates simultaneously for every ﬁre that burns on the landscape during a model year.
+2.2.4. Form Record and export modules
+Sediment accumulation rates in CharRec are determined by a userdeﬁned deposition interval, which sets how many years represent 1 cm
+5
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+observation in the empirical dataset. The ignition scenario with the
+highest posterior probability is considered a ‘best-ﬁt’ for a given observation in the empirical dataset. Prediction quality for the best-ﬁt
+ignition scenario is assessed by comparing its posterior probability to
+the mean probability of all classiﬁcation groups in the original dataset;
+the greater a best-ﬁt ignition scenario's deviation from the mean posterior probability, the higher its prediction quality.
+
+Table 2
+Parameters used in equations (1) and (2). Reproduced from Peters and Higuera
+(2007).
+
+2.3. Evaluating the Canal de Navarrés sedimentary charcoal record with
+CharRec
+
+Bell Beaker
+Late Neolithic
+Middle Neolithic
+Early Neolithic
+Late Mesolithic
+Early Mesolithic
+Late Upper Paleolithic
+
+4500–3800 BP
+6000–4500 BP
+6800–6000 BP
+7600–6800 BP
+8600–7600 BP
+11,000–8600 BP
+13,000–11,000 BP
+
+x
+y
+vg
+Q0
+u
+Cy, Cz
+
+Distance downwind (m)
+Distance crosswind (m)
+Deposition velocity (m s−1)
+Source strength (m2 × 100)
+Mean wind speed (see Sutton, 1947) (m s−1)
+Diﬀusion constants (Cy = 0.21, Cz = 0.12; see
+Sutton, 1947) (m1/8)
+Source height (m)
+Measure of turbulence near ground (1/4; see
+Sutton, 1947) (dimensionless)
+n/(4−2n) (dimensionless)
+
+m
+ξ
+(Γ (-m + 1)−Γξ (-m + 1))
+
+h2/(x2−n Cz2 ) (dimensionless)
+∞
+
+= -m∫ e−t t-m−1 dt (dimensionless)
+ξ
+
+this process may have occurred, as well as the relative importance of
+anthropogenic and natural ignitions, from charcoal and pollen data
+alone.
+To evaluate the extent to which Neolithic anthropogenic burning or
+natural ignitions shaped the ﬁre regimes in the Canal de Navarrés, a
+series of simulated charcoal records were produced using CharRec and
+compared to N3, the most detailed charcoal record collected and analyzed by Carríon and Van Geel (1999). Multiple ignition scenarios were
+designed with combinations of ﬁre spatial distribution, frequency, size,
+and intensity to emulate lightning-ignited ﬁres and two models of
+Neolithic burning. Modeled Neolithic ﬁres included frequent low-intensity broadcast burning associated with pastoral land-use, and frequent high-intensity, spatially conﬁned ﬁres related to land clearing
+and swidden agriculture. Ignition probability maps (Fig. 5) for natural
+and anthropogenic ignition scenarios were generated using available
+data on lightning-caused ﬁre locations (EFFIS, 2014) and archaeological survey data from the Canal de Navarrés (Diez Castillo et al.,
+2016; García Puchol et al., 2014; Snitker et al., in press). The N3 sedimentary charcoal record contains dated deposits spanning the last
+25,000 years, but only charcoal concentrations from the late Pleistocene through early/middle Holocene (13,000–3800 BP) and two size
+classes (micro-charcoal: 25–150 μm; macro-charcoal: > 150 μm) were
+simulated to evaluate ﬁre regimes before, during, and after the transition to agro-pastoral economies. Fuel models adapted for the Canal de
+Navarrés by the Instituto para la Conservación de la Naturaleza were used
+in this simulation (MAPA, 1989). Details about ignition scenarios and
+data inputs are shown in Table 3.
+3. Results
+3.1. Sensitivity analysis
+To evaluate the sensitivity of CharRec to changes in the ignition
+scenario, a series of sensitivity tests were conducted on a randomly
+generated model landscape (see Table 4 for sensitivity parameters). To
+identify the minimum number of charcoal observations needed to build
+a representative sample for each ignition scenario, a sample of lowintensity, high-intensity, and mixed-intensity scenarios were modeled
+to simulate 1000 observations each. The variance within a random
+sample of 100, 200, 300, 400, 500, 600, 700, 800, 900, and 1000 observations of each scenario was calculated and compared across ignition scenarios. Results indicated that 300 observations are the fewest
+needed to capture most variance within each ignition scenario. This
+number of observations was used in sensitivity analyses and all further
+model experiments (see Barton et al., 2015 for more details on this
+approach).
+Model sensitivity was evaluated using a one-factor-at-a-time (OFAT)
+
+Table 1
+Temporal ranges for archaeological periods during the late
+Pleistocene and early/middle Holocene in the Canal de Navarrés.
+Temporal Range
+
+Description
+
+h
+n
+
+To demonstrate the utility of CharRec and evaluate potential natural
+or anthropogenic drivers of ﬁre regimes in an empirical test case, a
+series of simulated records were generated for comparison with a terrestrial sedimentary charcoal record from the Canal de Navarrés,
+Valencia, Spain (Fig. 3). The Canal de Navarrés (39° 06′ N, 0° 41′ W) is a
+ﬂat-bottomed valley located at the intersection of the Iberian and Baetic
+mountain systems. The area is semiendorheic due to tectonic activity,
+creating small lakes, peatlands, and travertines throughout the region
+(La Roca et al., 1996). The valley and much of surrounding uplands are
+currently intensively cultivated, but abandoned areas support matorral
+species such as Quercus coccifera, Erica sp., Ulex europaeus, and occasional stands of Pinus halepensis.
+Previous research in the Canal de Navarrés has identiﬁed archaeological material dating to the end of the Middle Pleistocene, but for the
+purposes of this case study, only archaeological periods during the late
+Pleistocene and early/middle Holocene are addressed (see Table 1).
+Investigations into the early agricultural history in Canal de Navarrés
+began in the 1940s with the excavation of Ereta de Pedregal, an openair site located in the center of the valley. Initial testing and later excavations revealed structures and artifacts dating to the late Neolithic
+and Bell Beaker periods (Fletcher Valls, 1964; Menéndez Amor and
+Florschütz, 1961; Pla Ballester et al., 1983). In the decades since, the
+Canal de Navarrés has been studied extensively as part of a multi-year,
+joint research program by Arizona State University and the University
+of Valencia to systematically collect archaeological and paleoecological
+data in an eﬀort to better understand the evolution of agro-pastoral
+landscapes (Diez Castillo et al., 2016; García Puchol et al., 2014; Snitker
+et al., in press). Recent archaeological survey results indicate relatively
+ephemeral land-use during the late Pleistocene and early Holocene,
+including the early (7600–6800 BP) and middle (6800–6000 BP) Neolithic periods. This trend is interrupted by a marked increase in artifact
+densities during the late Neolithic (6000–4500 BP) and Bell Beaker
+periods (4500–3800 PB), suggesting agricultural land-use intensiﬁcation (Snitker et al., in press).
+Three terrestrial sedimentary cores (referred to as N1, N2, and N3)
+were collected and analyzed from peat deposits near Ereta del Pedregal
+to track long-term changes in vegetation, ﬁre, and climate (Carrión and
+Dupré, 1996; Carrión and Van Geel, 1999). These records indicated a
+substantial increase in charcoal concentrations and shift from pine-to
+oak-dominated vegetation communities at approximately 7000 BP
+(Fig. 4A–B). The introduction of agricultural burning by Neolithic
+farmers likely caused these changes, but it is diﬃcult to determine how
+
+Archaeological Period
+
+Parameter
+
+6
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+Fig. 4. Summary of N3 sedimentary charcoal record empirical data; A) micro- and macro-charcoal counts (note square root transformation of y-axis to highlight low
+charcoal counts from 13,000 to 8000 BP); B) ratio of Pinus sp. and Quercus sp. pollen counts from the N3 record.
+
+observations of micro- and macro-charcoal. LDA was applied to all
+2400 simulated records, generating linear discriminants for each ignition scenario. Linear discriminants were used to classify the empirical
+micro- and macro-charcoal counts from N3 into best-ﬁt ignition scenarios based on the posterior probability of group membership. Best-ﬁt
+ignition scenarios were assembled chronologically to create a composite simulated charcoal record that reﬂects changes in ﬁre regime
+components through time. A comparison of the empirical charcoal data
+from N3 and the composite simulated record generated by CharRec is
+illustrated in Fig. 7A–B.
+CharRec simulations indicate that the N3 charcoal record is best
+described by a range of natural ignition scenarios leading up to the
+transition to Neolithic agro-pastoral land-use. During the transition
+between the late Mesolithic and early Neolithic periods, charcoal
+counts increase, and best-ﬁt scenarios ﬂuctuate between natural and
+pastoral ignitions. At approximately 7400 BP, ignitions stabilize with
+pastoral ﬁres as the dominant scenario throughout the remainder of the
+early and middle Neolithic periods. Both micro- and macro-charcoal
+counts in both the N3 charcoal record and the simulated composite
+record signiﬁcantly increase during the late Neolithic period and continue at elevated accumulation rates through the Bell Beaker Period.
+
+methodology, where one ignition scenario parameter is changed at a
+time, while keeping all others at baseline values. Charcoal counts
+generated from all sensitivity tests were z-score transformed and described by a linear regression model. Fig. 6A–C presents linear model
+coeﬃcients and their 95% conﬁdence intervals for each test. CharRec
+charcoal counts are most sensitive to changes in fuel model and ﬁre
+intensity in all parameter combinations that were tested. Fuel models
+are readily distinguishable within the tests, but intensity does cause
+some overlap between conﬁdence intervals for low-intensity and
+mixed-intensity ﬁres (Fig. 6A). Diﬀerences between ﬁre frequency and
+spatial distribution (Fig. 6B–C) are very stable and are primarily differentiated by ﬁre intensity. With only a few exceptions, linear model
+coeﬃcients and their conﬁdence intervals for these ignition scenario
+parameters do not overlap, suggesting that simulated charcoal records
+can be discerned based on their inputs.
+
+3.2. Comparison to the N3 charcoal record from the Canal de Navarrés
+3.2.1. Ignition scenarios
+A total of 2400 simulated charcoal records were modeled in
+CharRec to represent a diverse set of natural, pastoral, and swidden
+ignition scenarios (see Table 3), resulting in 720,000 individual
+
+Fig. 5. Ignition probability maps for A) lightning-caused ﬁres and B) anthropogenic ﬁres in the Canal de Navarrés.
+7
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+Table 3
+CharRec model parameters used to simulate N3, an empirical sedimentary charcoal record from the Canal de Navarrés (Carrión and Van Geel, 1999).
+CharRec Module
+
+Variable Description
+
+Input(s)
+
+Units
+
+Data Source/Citation
+
+Model Landscape
+
+Elevation
+Wind velocity
+
+30 m resolution elevation raster
+30 m resolution wind velocity raster
+
+m
+m sec−1
+
+Wind direction
+
+30 m resolution wind direction raster
+
+degrees
+
+Fuels (1-h and 10-h)
+Natural ignition probability
+
+Fuel Models 1, 4, and 6 adapted to Spanish ecosystems
+30 m resolution probability raster generated from regional lightning-caused
+ﬁres during 1990–2010
+30 m resolution probability raster generated from Neolithic artifact density in
+Canal de Navarrés
+
+–
+–
+
+NASA, 2011
+IVIA, 2015; Forthofer et al.,
+2014
+IVIA, 2015; Forthofer et al.,
+2014
+MAPA, 1989
+EFFIS, 2014
+
+–
+
+Snitker et al., in press
+
+0.1–3.0 by 0.1; mean annual ﬁre frequency
+1 - 9 patches; depends on size function
+Low-intensity; 1-h fuels
+0–0.9 by 0.1; probability thresholds for anthropogenic ignition probability
+raster
+
+ﬁres yr−1
+–
+–
+–
+
+–
+–
+–
+–
+
+0.1–3.0 by 0.1; mean annual ﬁre frequency
+1 patch
+High-intensity; 1- and 10-h fuels
+0–0.9 by 0.1; probability thresholds for anthropogenic ignition probability
+raster
+
+ﬁres yr−1
+–
+–
+–
+
+–
+–
+–
+–
+
+0.1–2.0 by 0.1; mean annual ﬁre frequency
+1 - 9 patches; depends on size function
+Mixed-intensity; variable fuel size classes
+0–0.9 by 0.1; probability thresholds for natural ignition probability raster
+
+ﬁres yr−1
+–
+–
+–
+
+–
+–
+–
+–
+
+85; Average sedimentation rate for N3 charcoal record from 13,000 to
+3000 cal. BP
+
+yr cm−1
+
+Carrión and Van Geel, 1999
+
+Anthropogenic ignition
+probability
+Ignition Scenario
+
+Pastoral
+Frequency
+Size
+Intensity
+Spatial distribution
+Swidden
+Frequency
+Size
+Intensity
+Spatial distribution
+Natural (lightning)
+Frequency
+Size
+Intensity
+Spatial distribution
+
+Form Record
+
+Deposition interval
+
+charcoal record, with most ﬁres below 0.1 ha in size (Fig. 8B). Mean ﬁre
+size does increase during the Neolithic period, but remains relatively
+small with values ﬂuctuating between approximately 0.05 and 0.1 ha.
+
+3.2.2. Fire regime parameters
+The ﬁre regime parameters contributing to each of the best-ﬁt ignition scenarios are described in Fig. 8A–D. The most striking patterns
+in these data are the sudden constriction in spatial distribution
+throughout the entirety of the Neolithic period and the transition to
+low-intensity ﬁres in fuel model 6 (Fig. 8C–D). These trends are complimented by a slight increase in ﬁre frequency during the early, middle
+and late Neolithic periods (Fig. 8A). Finally, it is worth noting that ﬁres
+are consistently small throughout the entire composite simulated
+Table 4
+CharRec model parameters used in sensitivity testing.
+CharRec Module
+
+Variable Description
+
+Input(s)
+
+Units
+
+Model Landscape
+
+Elevation
+Wind velocity
+Wind direction
+Fuels (1-h and 10-h)
+
+Randomly generated 30 m resolution elevation raster
+Randomly generated 30 m resolution wind velocity raster
+Randomly generated 30 m resolution wind direction raster
+Fuel Models 1, 4, and 6 adapted to Spanish ecosystems
+
+m
+m sec−1
+degrees
+–
+
+Ignition Scenario
+
+High-intensity
+Frequency
+Size
+Intensity
+Spatial distribution
+Low-intensity
+Frequency
+Size
+Intensity
+Spatial distribution
+Mixed-intensity
+Frequency
+Size
+Intensity
+Spatial distribution
+
+0.5–3.0 by 0.5; mean annual ﬁre frequency
+1 patch
+10-h fuels
+0.1–0.9 by 0.2; probability thresholds
+
+ﬁres yr−1
+–
+–
+–
+
+0.1–3.0 by 0.1; mean annual ﬁre frequency
+1 patch
+1-h fuels
+0.1–0.9 by 0.2; probability thresholds
+
+ﬁres yr−1
+–
+–
+–
+
+0.1–3.0 by 0.1; mean annual ﬁre frequency
+1 patch
+Mixed intensity; variable fuel size classes
+0.1–0.9 by 0.2; probability thresholds
+
+ﬁres yr−1
+–
+–
+–
+
+85
+
+yr cm−1
+
+Form Record
+
+Deposition interval
+
+8
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+Fig. 6. Linear coeﬃcients and 95% conﬁdence intervals describing CharRec outputs from sensitivity runs; A) sensitivity of CharRec ignition scenarios to changes in
+fuel model; B) sensitivity of CharRec ignition scenarios to changes in mean annual ﬁre frequency; C) sensitivity of CharRec ignition scenarios to changes in
+probability cutoﬀ for ignition distribution.
+
+4. Discussion
+
+The Younger Dryas and other aridity events documented through regional pollen sequences are not easily distinguishable in the simulated
+or empirical charcoal accumulations (López de Pablo and Gómez Puche,
+2009). However, changes in best-ﬁt ignition scenarios from 9600 to
+9400 BP and 8200–7900 BP do correspond with increased aridity and
+lower temperatures observed in other records, suggesting ﬁres were still
+natural (Burjachs et al., 2016).
+At the beginning of the early Neolithic, ﬁres were likely still regional, with some indications that anthropogenic ﬁre was emerging as a
+presence on the landscape. Fire intensity, spatial distribution, and fuels
+reﬂect a similar pattern suggesting pastoral ﬁre was present, but not a
+driving force in shaping the regional ﬁre regime. Archaeological survey
+results from the Canal de Navarrés support this conclusion, indicating
+that early Neolithic occupations were not speciﬁcally identiﬁable from
+surface assemblages. Occupations were likely episodic, with periods of
+low-intensity land-use followed by extended hiatuses (Snitker et al., in
+press).
+At the end of the early Neolithic (7200–6800 BP) and throughout
+the middle Neolithic (6800–6000 BP), simulations suggest that ﬁres
+became consistently larger and more frequent. Fires are also restricted
+to areas with the highest densities of Neolithic artifacts, implying the
+establishment of regular, patterned anthropogenic burning related to
+Neolithic pastoral practices in the region. Fuel models represented in
+the simulated records also transitioned from closed communities in
+model 4, to more open woodland in model 6. Patterns of regular, low-
+
+4.1. Drivers of early and middle Holocene ﬁre regimes in the Canal de
+Navarrés
+The composite simulated charcoal record generated through
+CharRec provides a robust tool for interpreting the N3 charcoal record
+in terms of the anthropogenic and natural ﬁre regime components that
+contributed to its formation. Variations in ﬁre regime parameters
+through time provide speciﬁc insights the spatial and temporal dimensions of ﬁre on the landscape and how they relate to human landuse decisions. The following discussion of the model results is interpreted in the context of the archaeological and paleoecological data
+from the Canal de Navarrés.
+Broadly, the CharRec simulated charcoal record indicates that increased charcoal accumulations in the Canal de Navarrés during the
+early and middle Holocene was driven by intensifying Neolithic landuse, not climate. Simulated records during late Pleistocene and early
+Holocene (13,000–7600 BP) demonstrated that ﬁres were primarily
+natural and caused by regional lightning strikes across a wide geographic area, resulting in the accumulation of background charcoal.
+The presence of some variation during this period in the N3 charcoal
+record may be accounted for by the ephemeral occupations by
+Mesolithic hunter-gatherers (Innes et al., 2013; Innes and Blackford,
+2003; Zvelebil, 1994) or ﬂuctuations in climate (Carrión et al., 2010).
+9
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+Fig. 7. Comparison of A) N3 micro- and macro-charcoal counts; B) composite, simulated CharRec charcoal counts (note square root transformation of y-axis to
+highlight low charcoal counts from 13,000 to 8000 BP). Late Pleistocene and early Holocene archaeological periods highlighted in light grey and Neolithic periods
+highlighted in dark grey.
+
+4.2. Future CharRec developments and applications
+
+intensity burning were likely intentionally used to create open, matorral vegetation communities, amenable to grazing. Post-ﬁre resprouting genera, such Quercus, are able to outcompete reseeding
+genera such as Pinus, resulting in a sudden reduction in pine pollen like
+that observed between approximately 7000–6000 BP by Carrión and
+Van Geel (1999) (see Pausas, 1999 for a discussion of Mediteranean
+plant responses to ﬁre).
+Finally, the N3 and simulated charcoal record both show a substantial increase in charcoal accumulations during the late Neolithic
+(6000–4500 BP) and Bell Beaker (4500–3800 BP) periods. CharRec
+model runs also indicate that ﬁre frequencies were highest during this
+period and low-intensity pastoral ﬁres were spatially constrained to
+lowland and transitional areas in the valley bottom and margins.
+Fig. 9A–B illustrate the extent of the spatial diﬀerentiation between
+simulated ﬁres from the late Neolithic and Bell Beaker periods as
+compared to the late Pleistocene and early Holocene. The degree of
+spatial constriction during later periods, coupled with increased ﬁre
+frequency and charcoal accumulation, points to patterns of land-use
+intensiﬁcation and permanent settlement. The establishment of the
+nearby site of Ereta del Pedregal during the late Neolithic and its
+continued use through the Bell Beaker period supports this conclusion
+(Pla Ballester et al., 1983). Additionally, data from surface artifact assemblages point to increased diagnostic artifact density during these
+periods in areas of transitional elevation on the valley margins, like
+those highlighted in Fig. 9B. Although the N3 charcoal record does not
+extend beyond 3800 BP, the anthropogenic burning patterns that intensiﬁed during the late Neolithic and Bell Beaker periods likely played
+a role in establishing and maintaining an enduring agricultural landscape, whose legacy is apparent in the Canal de Navarrés today.
+
+4.2.1. Improving CharRec simulations of the N3 charcoal record
+Fig. 10A–B illustrate a moving window Pearson's r between CharRec
+and N3 data, as well as posterior probabilities of best-ﬁt ignition scenarios through time. These two measures are used to evaluate the
+quality of the CharRec simulated charcoal record and its ability to describe the N3 empirical charcoal data. CharRec simulated charcoal records correlate well with the empirical data from N3, except for approximately 10,000–7800 BP (Fig. 10A). Classiﬁcation group
+probabilities are also low throughout the entirety of the pre-Neolithic
+periods, with relatively little distinction between the likelihood of the
+best-ﬁt ignition scenario and the probability of all other ignition scenarios (Fig. 10B). Diminished model performance from 13,000 to
+7800 BP is likely due to low charcoal counts, making the variation in
+the record diﬃcult to accurately replicate. This limitation will need to
+be addressed before CharRec can be applied to other sedimentary
+charcoal records where the empirical data is less robust.
+The current version of CharRec allows for several potential avenues
+to improving the model's ability to simulate sedimentary charcoal record formation. These include: 1) increasing the diversity of ignition
+scenarios to capture the subtle variation in the low-frequency, microcharcoal accumulations; and 2) adding more sophistication to the atmospheric and combustion conditions that inﬂuence aerial charcoal
+dispersion, and 3) incorporating the eﬀects of secondary charcoal
+transport and stratigraphic mixing. First, current ignition scenarios in
+CharRec provide a limited representation of the diversity of ﬁre intensities and spatial conﬁgurations possible within the Canal de
+Navarrés study area. The inclusion of additional archaeological and
+
+10
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+Fig. 8. Fire regime parameters from best-ﬁt CharRec ignition scenarios through time; A) simulated ignitions per year; B) simulated mean ﬁre size; C) fuel models used
+by best-ﬁt ignition scenarios; D) spatial distribution of simulated ﬁres as measured by the percent of the model landscape burned during all 300 repetitions of the
+best-ﬁt CharRec ignition scenario. Late Pleistocene and early Holocene archaeological periods are highlighted in light grey and Neolithic periods highlighted in dark
+grey.
+
+h fuels) regional ﬁres or a combination of multiple intensities, possibly
+emulating the intermittent occupation of the Canal de Navarrés by
+Mesolithic hunter-gatherers.
+Second, the current ﬁre ecology literature highlights a need for
+considering the complex inﬂuence atmospheric and combustion conditions in primary charcoal production and transport (Adolf et al.,
+2018; Leys et al., 2015, 2017; Tinner et al., 2006; Vachula and Richter,
+2018). The relationship between micro- and macro-charcoal production
+
+ethnographic analogs would be beneﬁcial in connecting landscape ﬁre
+parameters to speciﬁc types of prehistoric land-use, settlement pattern,
+and frequency at which a patch is re-burned (Bliege Bird et al., 2013;
+Scherjon et al., 2015). Equally, expanding natural ignition scenarios to
+reﬂect variation in the number and size of lightning-caused ﬁres, in
+response to droughts or aridity, may also help increase model accuracy.
+Possible improved ignition scenarios could include a range of new
+conﬁgurations, such as larger, more intense (consuming 100-h or 1000-
+
+Fig. 9. Aggregated distribution of ﬁres for all 300 repetitions of best-ﬁt ignition scenarios during the A) late Pleistocene and early Holocene interval; B) late Neolithic
+and Bell Beaker interval. Indexed values range from 0 to 1 and represent the frequency a patch was burned for each period.
+11
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+Fig. 10. Evaluation of CharRec model performance in simulating the N3 sedimentary charcoal record from the Canal de Navarrés. A) Solid lines indicate moving
+window Pearson's r correlation coeﬃcient calculated between empirical and simulated charcoal counts (window size is 9 observations) and dotted lines indicate
+moving window p-values; B) posterior probabilities for best-ﬁt ignition scenarios shown in black, while the mean posterior probability for all 2400 ignition scenario
+models is indicated by the blue, dashed line. Deviation from the mean posterior probability is an indicator of good model performance (note log10 transformation of
+y-axis). (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the Web version of this article.)
+
+and dispersion could be improved by drawing from a wider range of
+published size-distribution data from experimental ﬁres in other regions. Charcoal particle size-distribution, density, and morphology are
+only recently the focus of research to understand their inﬂuence on
+transport during and after a ﬁre (Aleman et al., 2013; Duﬃn et al.,
+2008; Li et al., 2017; Scott, 2010; Vachula and Richter, 2018). Model
+improvements to incorporate variation in charcoal metrics, as they relate to ﬁre intensity and fuel type, could be readily added to the current
+model structure. Furthermore, additional complexity in representing
+fuels should be incorporated into subsequent versions of CharRec due to
+the model's sensitivity to this input. Including multiple fuel types within
+the model landscape, a ﬁre spread model that considers fuels structure,
+or simple fuel succession models have the potential to substantially
+impact model results and interpretations.
+Finally, the simple aggregation procedure used in CharRec to create
+each centimeter of deposition should be tested to determine if the addition of secondary deposition and stratigraphic mixing modules are
+needed. Lacustrine charcoal studies have demonstrated that post-depositional mechanisms must be considered in choosing sampling intervals and making ﬁre history interpretations (Bradbury, 1996; Clark,
+1988a; Gardner and Whitlock, 2001; Whitlock and Millspaugh, 1996).
+These processes are less intensively studied in terrestrial sedimentary
+charcoal series, but the inclusion of functions to describe the potential
+contribution of secondary charcoal deposition and sediment mixing
+could be added to CharRec to evaluate their inﬂuence on the model's
+performance (Higuera et al., 2007). Although the model improvements
+described here are not exhaustive, then do provide logical next steps for
+model improvements within the pattern-oriented modeling approach.
+Despite its current limitations, CharRec is able to generate results that
+provide new insights into drivers of prehistoric ﬁre regimes in the Canal
+de Navarrés study area that would not be possible from the N3 charcoal
+data alone.
+
+drivers of ﬁre regimes. Future applications are not limited to the
+emergence of agro-pastoral ﬁre regimes or the landscape used in the
+comparison with the Canal de Navarrés. CharRec relies on fundamental
+relationships between ﬁre regime components and charcoal dispersion,
+as well as a user-deﬁned model landscape and ignition scenario inputs,
+meaning it can be customized to operate in any landscape. Using many
+of the same parameters, other nearby empirical charcoal records could
+be simulated and compared to the results observed in the Canal de
+Navarrés to evaluate the consistency of Neolithic land-use impacts
+across the region. Other applications in the Mediterranean could include examining historical changes in ﬁre regimes related to documented land-use transitions, such as changes in land tenure during the
+Medieval Islamic period (711 CE–1238) in Valencia or rural re-organization after the Black Death (1348 CE–1351) in the rest of western
+Mediterranean (Claramunt Rodríguez et al., 2014). CharRec can be
+employed to identify ﬁre regime drivers outside of Mediterranean
+ecosystems by adapting the fuel models and landscapes the local speciﬁcs. New World applications may include identifying the degree to
+which Native American burning practices have shaped pre-contact ﬁre
+regimes in the currently ﬁre-prone western United States.
+Simulating charcoal record formation through CharRec provides a
+reliable method for identifying anthropogenic ﬁre in empirical sedimentary charcoal records and connecting the spatial and temporal dimensions of land-use to their formation. This work has implications for
+understanding the pace and scale of human inﬂuence on ﬁre regimes
+and landscape transformation in prehistory. With the emerging interest
+in tracing the prehistoric roots of the Anthropocene, models like
+CharRec are becoming increasing more important in answering the
+diﬃcult and often tangled questions regarding the feedbacks between
+humans and their environments in long-term-social ecological systems.
+
+4.2.2. Future applications
+CharRec is a ﬂexible modeling tool and “virtual laboratory” designed to explore the relationship between natural and anthropogenic
+
+This project is supported by the National Science Foundation
+Graduate Research Fellowship Program and the ASU Graduate and
+Postcolonial Studies Association via a Research and Support Program
+
+Funding
+
+12
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+Grant.
+
+Clark, J.S., 1988b. Stratigraphic charcoal analysis on petrographic thin sections: application to ﬁre history in northwestern Minnesota. Quat. Res. 30, 81–91. https://doi.
+org/10.1016/0033-5894(88)90089-0.
+Clark, J.S., Lynch, J., Stocks, B.J., Goldammer, J.G., 1998. Relationships between charcoal particles in air and sediments in west-central Siberia. Holocene 8, 19–29.
+https://doi.org/10.1191/095968398672501165.
+Clark, J.S., Royall, P.D., 1996. Local and regional sediment charcoal evidence for ﬁre
+regimes in presettlement north-eastern North America. J. Ecol. 84, 365–382.
+Clark, J.S., Royall, P.D., 1995. Particle-size evidence for source areas of charcoal accumulation in late holocene sediments of eastern North American lakes. Quat. Res. 43,
+80–89.
+Colombaroli, D., Vannière, B., Emmanuel, C., Magny, M., Tinner, W., 2008. Fire-vegetation interactions during the mesolithic-Neolithic transition at lago dell'Accesa,
+tuscany, Italy. Holocene 18, 679–692. https://doi.org/10.1177/0959683608091779.
+Diez Castillo, A., García-Puchol, O., Bernabeu, J., Barton, C.M., Pardo-Gordó, S., Snitker,
+G., Cegielski, W., Bergin, S., 2016. Resiliencia y cambio durante el Holoceno en La
+Canal de Navarrés (Valencia): recientes trabajos de prospección. Arch. Prehist.
+Levantina 169–185 XXXI.
+Doyen, E., Vannière, B., Bichet, V., Gauthier, E., Richard, H., Petit, C., 2013. Vegetation
+history and landscape management from 6500 to 1500 cal. B.P. at Lac d'Antre, GalloRoman sanctuary of Villards d’Héria, Jura, France. Veg. Hist. Archaeobotany 22,
+83–97. https://doi.org/10.1007/s00334-012-0364-0.
+Duda, R.O., Hart, P.E., Stork, D.G., 2001. Pattern Classiﬁcation. pp. 654.
+Duﬃn, K., Gillson, L., Willis, K.J., 2008. Testing the sensitivity of charcoal as an indicator
+of ﬁre events in savanna environments: quantitative predictions of ﬁre proximity,
+area and intensity. Holocene 18, 279–291. https://doi.org/10.1177/
+0959683607086766.
+Dull, R.A., 2004. A Holocene record of Neotropical savanna dynamics from El Salvador. J.
+Paleolimnol. 32, 219–231.
+EFFIS, 2014. Lightning-caused Fire Locations in Spain: 1990-2010. European Forest Fire
+Information System, Brussels.
+Ellis, E.C., 2015. Ecology in an anthropogenic biosphere. Ecol. Monogr. 85, 287–331.
+https://doi.org/10.1890/14-2274.1.
+Enache, M.D., Cumming, B.F., 2007. Charcoal morphotypes in lake sediments from British
+Columbia (Canada): an assessment of their utility for the reconstruction of past ﬁre
+and precipitation. J. Paleolimnol. 38, 347–363. https://doi.org/10.1007/s10933006-9084-8.
+Enache, M.D., Cumming, B.F., 2006. Tracking recorded ﬁres using charcoal morphology
+from the sedimentary sequence of Prosser Lake, British Columbia (Canada). Quat.
+Res. 65, 282–292. https://doi.org/10.1016/j.yqres.2005.09.003.
+Finsinger, W., Kelly, R., Fevre, J., Magyari, E.K., 2014. A guide to screening charcoal
+peaks in macrocharcoal-area records for ﬁre-episode reconstructions. Holocene 24,
+1002–1008. https://doi.org/10.1177/0959683614534737.
+Fletcher Valls, D., 1964. La Ereta del Pedregal (Navarrés, Valencia). Excavaciones
+Arqueol. Espana 42, 1–21.
+Forthofer, J.M., Butler, B.W., Wagenbrenner, N.S., 2014. A comparison of three approaches for simulating ﬁne-scale surface winds in support of wildland ﬁre management. Part I. Model formulation and comparison against measurements. Int. J.
+Wildland Fire 23, 969–981. https://doi.org/10.1071/WF12089.
+Freeman, J., Anderies, J.M., 2012. Intensiﬁcation, tipping points, and social change in a
+coupled Forager-resource system. Hum. Nat. 23, 419–446. https://doi.org/10.1007/
+s12110-012-9154-8.
+García Puchol, O., Barton, C.M., Bernabeu Aubán, J., Diez Castillo, A., Pardo Gordó, S.,
+2014. De la prospección sistemática al laboratorio GIS en la Canal de Navarrés
+(Valencia). Saguntum 46, 209–214. https://doi.org/10.7203/SAGVNTVM.46.4239.
+Gardner, J.J., Whitlock, C., 2001. Charcoal accumulation following a recent ﬁre in the
+Cascade Range, northwestern USA, and its relevance for ﬁre-history studies.
+Holocene 11, 541–549.
+Gavin, D.G., 2001. Estimation of inbuilt age in radiocarbon ages of soil charcoal for ﬁre
+history studies. Radiocarbon 43, 27–44. https://doi.org/10.2458/azu_js_rc.43.3995.
+Grimm, V., Revilla, E., Berger, U., Jeltsch, F., Mooij, W.M., Railsback, S.F., Thulke, H.-H.,
+Weiner, J., Wiegand, T., DeAngelis, D.L., 2005. Pattern-oriented modeling of agentbased complex systems: lessons from ecology. Science 80 (310), 987–991. https://
+doi.org/10.1126/science.1116681.
+Higuera, P.E., Gavin, D.G., Bartlein, P.J., Hallett, D.J., 2010. Peak detection in sediment–charcoal records: impacts of alternative data analysis methods on ﬁre-history
+interpretations. Int. J. Wildland Fire 19, 996. https://doi.org/10.1071/WF09134.
+Higuera, P.E., Peters, M.E., Brubaker, L.B., Gavin, D.G., 2007. Understanding the origin
+and analysis of sediment-charcoal records with a simulation model. Quat. Sci. Rev.
+26, 1790–1809. https://doi.org/10.1016/j.quascirev.2007.03.010.
+Higuera, P.E., Whitlock, C., Gage, J.A., 2011. Linking tree-ring and sediment-charcoal
+records to reconstruct ﬁre occurrence and area burned in subalpine forests of yellowstone National Park, USA. Holocene 21, 327–341. https://doi.org/10.1177/
+0959683610374882.
+Innes, J.B., Blackford, J.J., 2003. The ecology of Late Mesolithic woodland disturbances:
+model testing with fungal spore assemblage data. J. Archaeol. Sci. 30, 185–194.
+https://doi.org/10.1006/jasc.2002.0832.
+Innes, J.B., Blackford, J.J., Rowley-Conwy, P.A., 2013. Late Mesolithic and early Neolithic
+forest disturbance: a high resolution palaeoecological test of human impact hypotheses. Quat. Sci. Rev. 77, 80–100. https://doi.org/10.1016/j.quascirev.2013.07.
+012.
+IVIA, 2015. Weather Station wind data from the Canal de Navarrés. Instituto Valenciano
+de Investigaciones Agrarias, Valencia, Spain.
+Johansen, R.W., McNab, W.H., Hough, W.A., Edwards, B.M., 1976. Fuels, ﬁre, and
+emissions. In: Southern Forestry Smoke Managment Guidebook. U.S. Department of
+Agriculture, Forest Service, Southeastern Forest Experiment Station, Asheville, NC.
+
+Acknowledgements
+I thank Michael Barton, Christopher Morehart, Janet Franklin, and
+Sean Bergin for their comments on this manuscript and the CharRec
+model, as well as the three anonymous reviewers who provided helpful
+reviews. I am also grateful to Jose Carrión and Graciela Gil Romera for
+their willingness to share the N3 empirical charcoal data from the Canal
+de Navarrés.
+References
+Adolf, C., Wunderle, S., Colombaroli, D., Weber, H., Gobet, E., Heiri, O., van Leeuwen,
+J.F.N., Bigler, C., Connor, S.E., Gałka, M., La Mantia, T., Makhortykh, S., SvitavskáSvobodová, H., Vannière, B., Tinner, W., 2018. The sedimentary and remote-sensing
+reﬂection of biomass burning in Europe. Global Ecol. Biogeogr. 27, 199–212. https://
+doi.org/10.1111/geb.12682.
+Aleman, J.C., Blarquez, O., Bentaleb, I., Bonté, P., Brossier, B., Carcaillet, C., Gond, V.,
+Gourlet-Fleury, S., Kpolita, A., Lefèvre, I., Oslisly, R., Power, M.J., Yongo, O.,
+Bremond, L., Favier, C., 2013. Tracking land-cover changes with sedimentary charcoal in the Afrotropics. Holocene 23, 1853–1862. https://doi.org/10.1177/
+0959683613508159.
+Anderson, H.E., 1982. Aids to Determining Fuel Models for Estimating Fire Behavior
+(Ogden, UT). .
+Bankes, S., Lempert, R., Popper, S., 2002. Making computational social science eﬀective:
+epistemology, methodology, and technology. Soc. Sci. Comput. Rev. 20, 377–388.
+Barton, C.M., Ullah, I., Heimsath, A., 2015. How to make a Barranco: modeling erosion
+and land-use in mediterranean landscapes. Land 4, 578–606. https://doi.org/10.
+3390/land4030578.
+Bird, D.W., Bliege Bird, R., Parker, C.H., 2005. Aboriginal burning regimes and hunting
+strategies in Australia's western desert. Hum. Ecol. 33, 443–464. https://doi.org/10.
+1007/s10745-005-5155-0.
+Bliege Bird, R., Bird, D.W., Codding, B.F., Parker, C.H., Jones, J.H., 2008. The “ﬁre stick
+farming” hypothesis: Australian Aboriginal foraging strategies, biodiversity, and
+anthropogenic ﬁre mosaics. Proc. Natl. Acad. Sci. U. S. A 105, 14796–14801.
+Bliege Bird, R., Tayor, N., Codding, B.F., Bird, D.W., 2013. Niche construction and
+Dreaming logic : aboriginal patch mosaic burning and varanid lizards (Varanus
+gouldii) in Australia. Proc. R. Soc. B 280, 1–7.
+Boivin, N.L., Zeder, M.A., Fuller, D.Q., Crowther, A., Larson, G., Erlandson, J.M., Denham,
+T., Petraglia, M.D., 2016. Ecological consequences of human niche construction:
+examining long-term anthropogenic shaping of global species distributions. Proc.
+Natl. Acad. Sci. Unit. States Am. 113, 6388–6396. https://doi.org/10.1073/pnas.
+1525200113.
+Bowman, D.M.J.S., Balch, J., Artaxo, P., Bond, W.J., Cochrane, M.A., D'Antonio, C.M.,
+DeFries, R., Johnston, F.H., Keeley, J.E., Krawchuk, M.A., Kull, C.A., Mack, M.,
+Moritz, M.A., Pyne, S., Roos, C.I., Scott, A.C., Sodhi, N.S., Swetnam, T.W., Whittaker,
+R., 2011. The human dimension of ﬁre regimes on Earth. J. Biogeogr. 38, 2223–2236.
+https://doi.org/10.1111/j.1365-2699.2011.02595.x.
+Bowman, D.M.J.S., Balch, J.K., Artaxo, P., Bond, W.J., Carlson, J.M., Cochrane, M.A.,
+D'Antonio, C.M., DeFries, R.S., Doyle, J.C., Harrison, S.P., Johnston, F.H., Keeley,
+J.E., Krawchuk, M.A., Kull, C.A., Marston, J.B., Moritz, M.A., Prentice, I.C., Roos, C.I.,
+Scott, A.C., Swetnam, T.W., van der Werf, G.R., Pyne, S.J., 2009. Fire in the earth
+system. Science 80 (324), 481–484. https://doi.org/10.1126/science.1163886.
+Bradbury, J.P., 1996. Charcoal deposition and redeposition in elk lake, Minnesota, USA.
+Holocene 6, 339–344. https://doi.org/10.1177/095968369600600308.
+Burjachs, F., Jones, S.E., Giralt, S., Fernández-López de Pablo, J., 2016. Lateglacial to
+Early Holocene recursive aridity events in the SE Mediterranean Iberian Peninsula:
+the Salines playa lake case study. Quat. Int. 403, 187–200. https://doi.org/10.1016/
+j.quaint.2015.10.117.
+Carcaillet, C., Richard, P.J.H., Asnong, H., Capece, L., Bergeron, Y., 2006. Fire and soil
+erosion history in East Canadian boreal and temperate forests. Quat. Sci. Rev. 25,
+1489–1500. https://doi.org/10.1016/j.quascirev.2006.01.004.
+Carrión, J.S., Dupré, M., 1996. Late Quaternary vegetational history at Navarrés, Eastern
+Spain. A two core approach. New Phytol. 134, 177–191. https://doi.org/10.1111/j.
+1469-8137.1996.tb01157.x.
+Carrión, J.S., Fernández, S., González-Sampériz, P., Gil-Romera, G., Badal, E., Carrión
+Marco, Y., López-Merino, L., López-Sáez, J.A., Fierro, E., Burjachs, F., 2010. Expected
+trends and surprises in the lateglacial and holocene vegetation history of the Iberian
+peninsula and Balearic Islands. Rev. Palaeobot. Palynol. 162, 458–475. https://doi.
+org/10.1016/j.revpalbo.2009.12.007.
+Carrión, J.S., Munuera, M., Dupré, M., Andrade, A., 2001. Abrupt vegetation changes in
+the Segura Mountains of the Holocene southern Spain throughout the holocene. J.
+Ecol. 89, 783–797.
+Carrión, J.S., Van Geel, B., 1999. Fine-resolution upper weichselian and holocene palynological record from Navarres (Valencia, Spain) and a discussion about factors of
+mediterranean forest succession. Rev. Palaeobot. Palynol. 106, 209–236.
+Claramunt Rodríguez, S., Portela Silva, E., González Jiménez, M., Mitre, E., 2014. Historia
+de la Edad Media, ﬁrst ed. Ariel Publishing.
+Clark, J.S., 1988a. Particle motion and the theory of charcoal analysis: source area,
+transport, deposition, and sampling. Quat. Res. 30, 67–80. https://doi.org/10.1016/
+0033-5894(88)90088-9.
+
+13
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+Pyne, S., 2012. Fire: Nature and Culture, ﬁrst ed. University of Chicago Press, Chicago.
+Roebroeks, W., Villa, P., 2011. On the earliest evidence for habitual use of ﬁre in Europe.
+Proc. Natl. Acad. Sci. Unit. States Am. 108, 5209–5214. https://doi.org/10.1073/
+pnas.1018116108.
+Roos, C.I., 2015. Western Apache pyrogenic placemaking in the mountains of eastern
+Arizona. In: Scheiber, L.L., Zedeño, M. (Eds.), Engineering Mountain Landscapes: an
+Anthropology of Social Investment. University of Utah Press, Salt Lake City, pp.
+116–125.
+Roos, C.I., 2008. Fire, Climate, and Social-ecological Systems in the Ancient Southwest:
+Alluvial Geoarchaeology and Applied Historical Ecology. University of Arizona,
+Tucson.
+Roos, C.I., Bowman, D.M.J.S., Balch, J.K., Artaxo, P., Bond, W.J., Cochrane, M.,
+D'Antonio, C.M., DeFries, R., Mack, M., Johnston, F.H., Krawchuk, M.A., Kull, C.A.,
+Moritz, M.A., Pyne, S., Scott, A.C., Swetnam, T.W., 2014. Pyrogeography, historical
+ecology, and the human dimensions of ﬁre regimes. J. Biogeogr. 41, 833–836.
+Roos, C.I., Field, J.S., Dudgeon, J.V., 2016. Anthropogenic burning, agricultural intensiﬁcation, and landscape transformation in post-lapita Fiji. J. Ethnobiol. 36,
+535–553. https://doi.org/10.2993/0278-0771-36.3.535.
+Roos, C.I., Sullivan III, A.P., McNamee, C., 2010. Paleoecological evidence for systematic
+indigenous burning in the upland southwest. In: Dean, R.M. (Ed.), The Archaeology of
+Anthropogenic Environments. Southern Illinois University Carbondale, pp. 142–171.
+Scherjon, F., Bakels, C., MacDonald, K., Roebroeks, W., 2015. Burning the land:an ethnographic study of oﬀ-site ﬁre use by current and historically documented Foragers
+and implications for the interpretation of past ﬁre practices in the landscape. Curr.
+Anthropol. 56, 299–326. https://doi.org/10.1086/681561.
+Schier, W., Ehrmann, O., Rösch, M., Bogenrieder, A., Hall, M., Herrmann, L., Schulz, E.,
+2013. The economics of Neolithic swidden cultivation: results of an experimental
+long-term project in Forchtenberg (Baden-Württemberg, Germany). In: Kerig, T.,
+Zimmermann, A. (Eds.), Economic Archaeology: from Structure to Performance in
+European Archaeology. Universitätsforschungen zur prähistorischen Archäologie,
+Bonn, pp. 97–106.
+Scott, A.C., 2010. Charcoal recognition, taphonomy and uses in palaeoenvironmental
+analysis. Palaeogeogr. Palaeoclimatol. Palaeoecol. 291, 11–39. https://doi.org/10.
+1016/j.palaeo.2009.12.012.
+Scott, A.C., Chaloner, W.G., Belcher, C.M., Roos, C.I., 2016. The interaction of ﬁre and
+mankind. Philos. Trans. R. Soc. B Biol. Sci. 371, 20160149. https://doi.org/10.1098/
+rstb.2016.0149.
+Scott, J.H., Burgan, R.E., 2005. Standard Fire Behavior Fuel Models : a Comprehensive Set
+for Use with Rothermel ’ S Surface Fire Spread Model (Fort Collins, CO). .
+Shimelmitz, R., Kuhn, S.L., Jelinek, A.J., Ronen, A., Clark, A.E., Weinstein-Evron, M.,
+2014. “Fire at will”: the emergence of habitual ﬁre use 350,000 years ago. J. Hum.
+Evol. 77, 196–203. https://doi.org/10.1016/j.jhevol.2014.07.005.
+Smith, E.A., 2001. Low-level food production. J. Archaeol. Res. 9, 1–43.
+Snitker, G., 2018. Charcoal Record Simulation Model (CharRec). Version 1.5.0. CoMSES
+Computational Model Library. https://www.comses.net/codebases/4795/releases/
+1.5.0/.
+Snitker, G., Diez-Castillo, A., Barton, C.M., Bernabeu Auban, J., García-Puchol, O., PardoGordó, S., in press. Patch-based survey methods for studying prehistoric human landuse in agriculturally modiﬁed landscapes: a case study from the Canal de Navarrés,
+eastern Spain. Quarternary Int. https://doi.org/https://doi.org/10.1016/j.quaint.
+2018.01.034.
+Sullivan, A.P., Berkebile, J.N., Forste, K.M., Washam, R.M., 2015. Disturbing developments: an archaeobotanical perspective on pinyon-Juniper woodland ﬁre ecology,
+economic resource production, and ecosystem history. J. Ethnobiol. 35, 37–59.
+https://doi.org/10.2993/0278-0771-35.1.37.
+Sullivan, A.P., Forste, K.M., 2014. Fire-reliant subsistence economies and anthropogenic
+coniferous ecosystems in the Pre-Columbian northern American Southwest. Veg. Hist.
+Archaeobotany 23, 135–151. https://doi.org/10.1007/s00334-014-0434-6.
+Swetnam, T.W., Farella, J., Roos, C.I., Liebmann, M.J., Falk, D.A., Allen, C.D., 2016.
+Multiscale perspectives of ﬁre, climate and humans in western North America and the
+Jemez Mountains, USA. Philos. Trans. R. Soc. B Biol. Sci. 371, 20150168. https://
+doi.org/10.1098/rstb.2015.0168.
+Taylor, A.H., Trouet, V., Skinner, C.N., Stephens, S., 2016. Socioecological transitions
+trigger ﬁre regime shifts and modulate ﬁre–climate interactions in the Sierra Nevada,
+USA, 1600–2015 CE. Proc. Natl. Acad. Sci. Unit. States Am. 113, 13684–13689.
+https://doi.org/10.1073/pnas.1609775113.
+Tinner, W., Hofstetter, S., Zeugin, F., Conedera, M., Wohlgemuth, T., Zimmermann, L.,
+Zweifel, R., 2006. Long-distance transport of macroscopic charcoal by an intensive
+crown ﬁre in the Swiss Alps - implications for ﬁre history reconstruction. Holocene
+16, 287–292. https://doi.org/10.1191/0959683606hl925rr.
+Trauernicht, C., Brook, B.W., Murphy, B.P., Williamson, G.J., Bowman, D.M.J.S., 2015.
+Local and global pyrogeographic evidence that indigenous ﬁre management creates
+pyrodiversity. Ecol. Evol. 5, 1908–1918. https://doi.org/10.1002/ece3.1494.
+Vachula, R.S., Richter, N., 2018. Informing sedimentary charcoal-based ﬁre reconstructions with a kinematic transport model. Holocene 28, 173–178. https://doi.org/10.
+1177/0959683617715624.
+Van de Water, K.M., Saﬀord, H.D., 2011. A summary of ﬁre frequency estimates for
+California vegetation before euro-American settlement. Fire Ecol 7, 26–58. https://
+doi.org/10.4996/ﬁreecology.0703026.
+Vannière, B., Colombaroli, D., Chapron, E., Leroux, A., Tinner, W., Magny, M., 2008.
+Climate versus human-driven ﬁre regimes in Mediterranean landscapes: the Holocene
+record of Lago dell'Accesa (Tuscany, Italy). Quat. Sci. Rev. 27, 1181–1196. https://
+doi.org/10.1016/j.quascirev.2008.02.011.
+Walsh, M.K., Pearl, C.A., Whitlock, C., Bartlein, P.J., Worona, M.A., 2010. An 11 000year-long record of ﬁre and vegetation history at Beaver Lake, Oregon, central
+Willamette Valley. Quat. Sci. Rev. 29, 1093–1106. https://doi.org/10.1016/j.
+
+Keeley, J.E., 2009. Fire intensity, ﬁre severity and burn severity: a brief review and
+suggested usage. Int. J. Wildland Fire 18, 116–126. https://doi.org/10.1071/
+WF07049.
+Kelly, R.F., Higuera, P.E., Barrett, C.M., Hu, F.S., 2011. A signal-to-noise index to quantify
+the potential for peak detection in sediment–charcoal records. Quat. Res. 75, 11–17.
+https://doi.org/10.1016/j.yqres.2010.07.011.
+La Roca, N., Fumanal, M.P., Martínez Gallego, J., 1996. Evolución Cuaternaria del
+Drenaje en un Corredor Intramontano: La Canal de Navarrés (Valencia, Spain). In: IV
+Reunión de Geomorfología, pp. 445–455.
+Levin, M.J., Ayres, W.S., 2017. Managed agroforests, swiddening, and the introduction of
+pigs in Pohnpei, Micronesia: phytolith evidence from an anthropogenic landscape.
+Quat. Int. 434, 70–77. https://doi.org/10.1016/j.quaint.2015.12.027.
+Leys, B.A., Commerford, J.L., McLauchlan, K.K., 2017. Reconstructing grassland ﬁre
+history using sedimentary charcoal: considering count, size and shape. PLoS One 12,
+1–15. https://doi.org/10.1371/journal.pone.0176445.
+Leys, B., Brewer, S.C., McConaghy, S., Mueller, J., McLauchlan, K.K., 2015. Fire history
+reconstruction in grassland ecosystems: amount of charcoal reﬂects local area
+burned. Environ. Res. Lett. 10, 114009. https://doi.org/10.1088/1748-9326/10/11/
+114009.
+Li, Y., Xu, X., Zhao, P., 2017. Post-ﬁre dispersal characteristics of charcoal particles in the
+Daxing’an Mountains of north-east China and their implications for reconstructing
+past ﬁre activities. Int. J. Wildland Fire 26, 46–57. https://doi.org/10.1071/
+WF16115.
+Liebmann, M.J., Farella, J., Roos, C.I., Stack, A., Martini, S., Swetnam, T.W., 2016. Native
+American depopulation, reforestation, and ﬁre regimes in the Southwest United
+States, 1492–1900 CE. Proc. Natl. Acad. Sci. Unit. States Am. 113, E696–E704.
+https://doi.org/10.1073/pnas.1521744113.
+López de Pablo, J.F., Gómez Puche, M., 2009. Climate change and population dynamics
+during the late Mesolithic and the Neolithic transition in Iberia. Doc. Praehist 36, 67.
+https://doi.org/10.4312/dp.36.4.
+Lynch, J.A., Clark, J.S., Stocks, B.J., 2004. Charcoal production, dispersal, and deposition
+from the Fort Providence experimental ﬁre: interpreting ﬁre regimes from charcoal
+records in boreal forests. Can. J. For. Res. 34, 1642–1656. https://doi.org/10.1139/
+x04-071.
+MAPA, 1989. Clave fotográﬁca para la identiﬁcación de modelos de combustible.
+Instituto para la Conservación de la Naturaleza (ICONA), Madrid.
+Maxwell, A.L., 2004. Fire regimes in north-eastern Cambodian monsoonal forests, with a
+9300-year sediment charcoal record. J. Biogeogr. 31, 225–239. https://doi.org/10.
+1046/j.0305-0270.2003.01015.x.
+McGlone, M., 2001. The origin of the indigenous grasslands of southeastern South Island
+in relation to pre-human woody ecosystems. N. Z. J. Ecol. 25, 1–15.
+McWethy, D.B., Whitlock, C., Wilmshurst, J.M., McGlone, M.S., Fromont, M., Li, X.,
+Dieﬀenbacher-Krall, A., Hobbs, W.O., Fritz, S.C., Cook, E.R., 2010. Rapid landscape
+transformation in South Island, New Zealand, following initial Polynesian settlement.
+Proc. Natl. Acad. Sci. Unit. States Am. 107, 21343–21348. https://doi.org/10.1073/
+pnas.1011801107.
+McWethy, D.B., Whitlock, C., Wilmshurst, J.M., McGlone, M.S., Li, X., 2009. Rapid deforestation of south Island, New Zealand, by early polynesian ﬁres. Holocene 19,
+883–897. https://doi.org/10.1177/0959683609336563.
+Menéndez Amor, J., Florschütz, F., 1961. Resultado del análisis polínico de una serie de
+muestras de turba recogida en la Ereta del Pedregal (Navarrés, Valencia). Arch.
+Prehist. Levantina 9, 97–99.
+Miller, D.R., Castañeda, I.S., Bradley, R.S., MacDonald, D., 2017. Local and regional
+wildﬁre activity in central Maine (USA) during the past 900 years. J. Paleolimnol. 58,
+455–466. https://doi.org/10.1007/s10933-017-0002-z.
+NASA LP DAAC, 2011. Global Digital Elevation Model (GDEM). NASA EOSDIS Land
+Processes DAAC, USGS Earth Resources Observation and Science (EROS), Sioux Falls,
+South Dakota.
+Nevle, R.J., Bird, D.K., Ruddiman, W.F., Dull, R.A., 2011. Neotropical human-landscape
+interactions, ﬁre, and atmospheric CO2 during European conquest. Holocene 21,
+853–864. https://doi.org/10.1177/0959683611404578.
+Ohlson, M., Tryterud, E., 2000. Interpretation of the charcoal record in forest soils: forest
+ﬁres and their production and deposition of macroscopic charcoal. Holocene 10,
+519–525. https://doi.org/10.1191/095968300667442551.
+Patterson, W., Edwards, K., Maguire, D., 1987. Microscopic charcoal as a Fossil indicator
+of ﬁre. Quat. Sci. Rev. 6, 3–23.
+Pausas, J.G., 1999. Response of plant functional types to changes in the ﬁre regime in
+Mediterranean ecosystems : a simulation approach. J. Veg. Sci. 10, 717–722. https://
+doi.org/10.2307/3237086.
+Peters, M.E., Higuera, P.E., 2007. Quantifying the source area of macroscopic charcoal
+with a particle dispersal model. Quat. Res. 67, 304–310. https://doi.org/10.1016/j.
+yqres.2006.10.004.
+Pisaric, M.F.J., 2002. Long-distance transport of terrestrial plant material by convection
+resulting from forest ﬁres. J. Paleolimnol. 28, 349–354. https://doi.org/10.1023/
+A:1021630017078.
+Pitkänen, A., Huttunen, P., 1999. A 1300-year forest-ﬁre history at a site in eastern
+Finland based on charcoal and pollen records in laminated lake sediment. Holocene
+9, 311–320. https://doi.org/10.1191/095968399667329540.
+Pitkänen, A., Lehtonen, H., Huttunen, P., 1999. Comparison of sedimentary microscopic
+charcoal particle records in a small lake with dendrochronological data: evidence for
+the local origin of microscopic charcoal produced by forest ﬁres of low intensity in
+eastern Finland. Holocene 9, 559–567. https://doi.org/10.1191/
+095968399670319510.
+Pla Ballester, E., Martí Oliver, B., Bernabeu Auban, J., 1983. La Ereta del Pedregal
+(Navarrés, Valencia) y los inicios de la Edad del Bronce. In: Crónica Del XVI Congreso
+Arqueológico Nacional, pp. 239–248.
+
+14
+
+Journal of Archaeological Science 95 (2018) 1–15
+
+G. Snitker
+
+pp. 75–97. https://doi.org/10.1007/0-306-47668-1_5.
+Whitlock, C., Millspaugh, S.H., 1996. Testing the assumptions of ﬁre-history studies: an
+examination of modern charcoal accumulation in Yellowstone National Park, USA.
+Holocene 6, 7–15. https://doi.org/10.1177/095968369600600102.
+Wilensky, U., 1999. Netlogo. Center for Connected Learning and Computer-Based
+Modeling, Northwestern University, Evanston, IL.
+Zvelebil, M., 1994. Plant use in the mesolithic and its role in the transition to farming.
+Proc. Prehist. Soc. 60, 35–74. https://doi.org/10.1017/S0079497X00003388.
+
+quascirev.2010.02.011.
+Whitlock, C., Anderson, R.S., 2003. Fire history reconstructions based on sediment records from lakes and wetlands. In: In: Veblen, T.T., Baker, W.L., Montenegro, G.,
+Swetnam, T.W. (Eds.), Fire and Climatic Change in Temperate Ecosystems of the
+Western Americas. Ecological Studies, vol 160. Springer, New York, pp. 3–31.
+https://doi.org/10.1007/0-387-21710-X_1.
+Whitlock, C., Larsen, C., 2001. Charcoal as a ﬁre proxy. In: Smol, J.P., Birks, H.J.B., Last,
+W.M., Bradley, R.S., Alverson, K. (Eds.), Tracking Environmental Change Using Lake
+Sediments: Vol. 3 Terrestrial, Algal, and Siliceous Indicators. Springer Netherlands,
+
+15
+
+

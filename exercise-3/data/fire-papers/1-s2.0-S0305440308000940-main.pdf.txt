@@ -1,0 +1,739 @@
+Journal of Archaeological Science 35 (2008) 2698–2706
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+X-ray microtomographic imaging of charcoal
+Michael I. Bird a, *, Philippa L. Ascough a, Iain M. Young b, Cheryl V. Wood b,1, Andrew C. Scott c
+a
+
+School of Geography & Geosciences, University of St Andrews, St Andrews, Fife, KY16 9AL, UK
+SIMBIOS Centre, University of Abertay, Bell Street, Dundee, DD1 1HGS, UK
+c
+Department of Earth Sciences, Royal Holloway University of London, Egham, Surrey, TW20 OEX, UK
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 11 January 2008
+Received in revised form 28 April 2008
+Accepted 28 April 2008
+
+We assess the potential of X-ray microtomography as a tool for the non-destructive, three-dimensional
+examination of the internal structure of charcoal. Microtomographic analysis of a series of charcoals
+produced by the experimental pyrolysis of pine wood at temperatures from 300 and 600  C in nitrogen
+only and in nitrogen mixed with 2% oxygen indicates that, despite substantial shrinkage, observed
+porosity, pore size and pore connectivity are all increased by pyrolysis and also by chemical oxidation.
+Analysis of a number of altered and unaltered archaeological and geological charcoals has demonstrated
+the capacity of the technique to identify and map the distribution of authigenic mineral contamination
+within charcoal fragments. The results are of signiﬁcance to radiocarbon dating in that they provide
+insights into the mechanisms by which charcoal can be contaminated by extraneous carbon in the
+natural environment.
+Ó 2008 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Charcoal
+Radiocarbon
+Microtomography
+Geoarchaeology
+Quaternary geochronology
+Biochar
+Black carbon
+
+1. Introduction
+Charcoal is produced by the pyrolysis of biomass under conditions of limited oxygen availability (Chaloner, 1989; Scott, 2000).
+This material, known as fusain in the fossil record (Scott, 1989) and
+as inertinite by coal petrographers (Scott and Glasspool, 2007),
+typically comprises 60–90% carbon, a proportion of which exists in
+condensed aromatic molecular conﬁgurations (Forbes et al., 2006;
+Eckmeier et al., 2007). Charcoal often retains much of the original
+plant macrostructure, enabling identiﬁcation of the species or
+genus that was pyrolysed (Scott, 2000, 2001; Emery-Barbier and
+Thiebault, 2005; Marguerie and Hunot, 2007).
+Charcoal represents one of the most widely used materials for
+radiocarbon dating (Bird, 2006), and a key factor limiting the ability
+to obtain robust radiocarbon dates from charcoal is the potential for
+post-depositional contamination by extraneous carbon. At least
+some components of charcoal appear to be largely ‘inert’ (Scott and
+Glasspool, 2007), based on a high degree of resistance to a range of
+oxidants (Bird and Gröcke, 1997; Wolbach and Anders, 1989;
+Skjemstad et al., 1996) and the persistence of some charcoals for
+
+* Corresponding author. Tel.: þ44 1334363928; fax: þ44 1334 463949.
+E-mail address: michael.bird@st-andrews.ac.uk (M.I. Bird).
+1
+Present address: School of Geography & Geosciences, University of St Andrews,
+St Andrews, Fife, KY16 9AL, Scotland, UK.
+0305-4403/$ – see front matter Ó 2008 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2008.04.018
+
+long periods of time in the geologic record (Cope and Chaloner,
+1980; Scott, 2000, 2008). However, mass balance studies of charcoal in both tropical and boreal soils have indicated that charcoal
+can be progressively lost from the soil (e.g. Bird et al., 1999b). The
+mechanisms postulated for this include photo-oxidation, inorganic
+chemical or biologically mediated oxidation possibly coupled with
+physical commutation to ﬁner particle sizes and translocation
+(Skjemstad et al., 1996; Bird et al., 1999b, Czimczik et al., 2005).
+It has been demonstrated that charcoal can interact in several
+ways with its local depositional environment, having a beneﬁcial
+effect upon soil microbial communities through the provision of
+microhabitats (Wardle et al., 1998; Zackrisson et al., 1996;
+Pietikäinen et al., 2000; Warnock et al., 2007), improving soil
+nutrient retention capacity and sorbing a range of chemical contaminants (Cornelissen et al., 2004; James et al., 2005; Keech et al.,
+2005). These observations suggest that charcoal is unlikely to be
+a fully closed system in most depositional environments. Potential
+sources of post-depositional extraneous carbon therefore include:
+the reaction of organic compounds in soil solutions with the
+charcoal surface, the passive microbial or fungal colonization of
+pore spaces and possibly the active use of some charcoal components by these organisms as a metabolic substrate.
+One key to evaluating the potential for interaction between
+a charcoal fragment and its local depositional environment is the
+internal physical structure of the material. Porosity, pore size and
+the connectivity of available pore space are likely to exert
+
+M.I. Bird et al. / Journal of Archaeological Science 35 (2008) 2698–2706
+
+2699
+
+signiﬁcant control on the ability of soil solutions to diffuse through
+the charcoal and of soil microbiota to colonize the charcoal. While
+the primary control on charcoal structure is the nature of the
+material pyrolysed, it is likely that pyrolysis conditions will also
+exert signiﬁcant control on charcoal structure (Pietikäinen et al.,
+2000; Cornelissen et al., 2004). Optical examination of polished
+sections of charcoal and scanning electron microscopy of charcoal
+fragments can provide some information on charcoal structure and
+these techniques are routinely used in charcoal taxonomy (e.g.
+Collinson et al., 2007). Nitrogen adsorption/desorption (László
+et al., 2005) and mercury porosimetry (Klose and Schinkel, 2002)
+techniques can also provide information on porosity and pore size
+distribution. However, none of these techniques provide threedimensional information on charcoal structure and particularly
+information on the degree to which pore space is connected
+throughout a charcoal fragment.
+Computerized reconstructions of serial sections of anatomically
+preserved plants have proved successful in the study and identiﬁcation of plant fossils (Smith and Stockey, 2007), however, this
+technique is inherently destructive. Phase contrast synchrotron
+X-ray computerized microtomography has been shown to yield
+detailed internal anatomy of charcoal, but currently this technique
+is applicable only to specimens 1–2 mm in size (Friis et al., 2007).
+X-ray microtomography employs the same principles as medical
+CAT-scanning to generate a three-dimensional virtual image of
+opaque materials, and has previously found application in the study
+of soil micromorphology (O’Donnell et al., 2007) and sedimentology (Appoloni et al., 2007). This study explores the potential of this
+technique as a new tool that has not previously been utilized in the
+study of charcoal. While microtomography can be readily used as
+a non-destructive technique for charcoal taxonomy, we focus here
+on its use as a tool for examining the effect of pyrolysis conditions
+and chemical oxidation on the development of porosity and pore
+space connectivity in laboratory-produced charcoal. We also assess
+the potential of the technique for determining the distribution of
+mineral contaminants in archaeological and geological charcoal.
+2. Samples and methodology
+Approximately 0.7 cm3 cubes were cut from the outer 15 rings
+a sample of Scots Pine (Pinus sylvestris), obtained from Tentsmuir
+Forest, Fife, in November 2005. Charcoal was produced from this
+material in a Carbolite controlled-atmosphere rotary furnace, with
+the exact pyrolysis temperature monitored via a thermocouple
+inserted into one of the wood cubes in each run. The furnace was
+set to a heating rate of 10  C min1, and then held at either 300 or
+600  C for 60 min (hereafter referred to as PC300 and PC600).
+These temperatures span a range that is representative of natural
+ﬁres (e.g. Swift et al., 1993; Scott, 1989, 2000), and over which
+signiﬁcant changes in charcoal chemical structure have been
+observed (Williams and Besler, 1996; Scott and Glasspool, 2007;
+McParland et al., 2007). The furnace was continuously ﬂushed
+during each run with either nitrogen, or nitrogen mixed with 2% O2,
+at a constant metered ﬂow rate of 7 l/min1 to purge volatilised
+material. After the pyrolysis interval was complete, the samples
+were allowed to cool to room temperature (20  C) under the same
+gas ﬂow, and the mass loss of the sample was determined by
+comparison of the pre- and post-pyrolysis sample weights. The
+dimensions and mass of 10 cubes each of wood, and charcoal
+produced under N2 at 300  and 600  C were averaged to obtain the
+average volume and density of these materials. This procedure was
+not performed for the other samples due to an irregular degree of
+oxidative loss of the outer surfaces of the samples, which made
+accurate determination of volume difﬁcult.
+Single cubes of charcoal produced at 300 and 600  C were further subjected to oxidation in acidiﬁed potassium dichromate
+
+Fig. 1. Variation in observed porosity and pore size with increasing greyscale threshold
+chosen for image analysis for two samples of pine charcoal. Observed porosity is
+reported as the proportion of the total volume identiﬁed as pore space at a greyscale
+threshold of 40, pore size is reported as the equivalent spherical diameter of pores in
+micrometres.
+
+solution (0.1 M K2Cr2O7 in 2 M H2SO4) for 72 h at 60  C, following
+the protocol used for isolating ‘oxidation resistant elemental carbon’ (Bird and Gröcke, 1997) and for ABOX (acid-base oxidation)
+pre-treatment for radiocarbon dating of charcoal (Bird et al., 1999a).
+The total volume of the ﬁnal pyrolysed cubes ranged from 50 to
+600 mm3, generally decreasing in size with increasing pyrolysis
+temperature and/or purge gas oxygen content.
+Three ancient charcoals were also selected for analysis. One
+sample of charcoal (fusain) of Jusassic age from the Moor Grit
+member of the Scalby Formation south of Cromer Point, Yorkshire,
+England (Leeder and Nami, 1979; NGR TA030940, see Scott (1989))
+was investigated to determine the distribution of diagenetic mineralization through the sample. X-ray diffraction indicates that the
+major mineral phase in the sample is pyrite, with a variable degree
+of surface oxidation to an unidentiﬁed, probably sulphate phase.
+The sample is gymnospermous, having tracheids only, and hence is
+comparable in characteristics to the Scots pine samples.
+Two samples of charcoal were selected from the Nauwalabila I
+archaeological site in northern Australia (Jones and Johnson, 1985),
+
+2700
+
+M.I. Bird et al. / Journal of Archaeological Science 35 (2008) 2698–2706
+
+Fig. 2. (Right) 3D tomographic images of raw pine wood and charcoal produced from the same material at 300  C and 600  C. (Centre) randomly selected image slices from within
+each sample volume. (Left) processed image slices showing pore space identiﬁed at threshold of 40 out of 256 greys (see text). Horizontal ﬁeld of view for image slices is
+approximately 0.5 mm.
+
+a site where radiocarbon dating of charcoal samples from depth in
+the deposit has proved problematic, and previous electron microprobe work has identiﬁed iron irregularly distributed through some
+samples (Bird et al., 2002). Sample NLB L29 66 represents a relatively unaltered, black, vitreous charcoal sample from 2.3 m depth
+with some loosely cemented sand-sized material adhering to the
+outer surface, while sample NLB K29 57 represents an apparently
+altered charcoal from 1.95 m depth with some black vitreous areas
+but also reddish iron oxide rich patches. XRD indicated that the
+main mineral phases in the sample are kaolinite, goethite and
+quartz. In neither case is the species that produced the charcoal
+known, and the irregular shape of the natural charcoals precluded
+exact determination of volume, but all specimens had a total
+volume between 500 and 1000 mm3.
+The internal 3D structure of the samples was captured using
+a high-resolution tomography (mCT) X-ray scanner (Xtek Ltd). mCT
+systems are similar to medical X-ray tomography systems, whilst
+operating at higher energies, longer exposure times, and at significantly higher spatial resolutions. Preliminary experiments were
+conducted to ﬁnd the optimal scanning conditions: 80 keV and
+266 mA. Each 3D volume consisted of typically a1 GB dataset comprising of 3600 scans with an incremental angle of 0.1. Volumes
+
+were post-processed for visualization at a resolution of 21 mm using
+VGStudiomax Version 1.2 (Volume Graphics).
+Whilst mCT systems have the obvious advantages of accessibility,
+increased resolution and non-destructive analysis of opaque
+materials, they also have signiﬁcant limitations. First, unlike synchrotron-based tomography systems, mCT systems rely on polychromatic X-rays which can lead to image artefacts (beam
+hardening). Second, there is always a compromise between the
+volume scanned and the permitted spatial resolution: larger volumes lead to smaller resolutions. Whilst some mCT systems can
+deliver 1 mm spatial resolution, this is only available with submillimetre samples sizes. For our largest sample size, 0.7 cm3, the
+highest spatial resolution possible was 21 mm, and this resolution
+was used for all scans. Thus, any objects (pores, walls) present at
+scales below 21 mm, whilst present, would not be observed.
+Another limitation, present in any procedure where image
+processing is required, is the objective segmentation of objects of
+different composition. In this case we required segmentation of
+voids from surrounding charcoal material. In simple bicompositional materials such as engineered components, segmentation is relatively simple. The most difﬁcult material is soil
+which typically is composed of a myriad of materials ranging from
+
+M.I. Bird et al. / Journal of Archaeological Science 35 (2008) 2698–2706
+
+2701
+
+Table 1
+Sample origin, pre-treatments and physical characteristics
+Sample
+
+Treatment
+
+Volume (cm3)
+
+
+
+Density (g/cm3)
+
+
+
+
+
+Connect (%)
+
+PC raw
+
+Raw pine
+wood (Pinus sylvestris)
+300  C with N2 only as purge gas
+300  C under N2 with 2% O2
+600  C with N2 only as purge gas
+600  C under N2 with 2% O2
+300  C N2 þ 72 h oxidation
+600  C N2 þ 72 h oxidation
+Natural – Nauwalabila site
+Natural – Nauwalabila site
+Natural – Scalby Formation
+
+0.71
+
+0.09
+
+0.41
+
+0.05
+
+0.8
+
+0.5
+
+58.1
+
+0.57
+–
+0.31
+–
+–
+–
+–
+–
+–
+
+0.07
+
+0.23
+–
+0.21
+–
+–
+–
+–
+–
+–
+
+0.01
+
+1.4
+7.9
+2.3
+3.1
+26.6
+12.0
+20.4
+37.3
+2.8
+
+0.2
+2.4
+0.7
+0.8
+3.7
+4.4
+4.2
+1.1
+1.0
+
+35.1
+81.4
+54.7
+84.3
+84.3
+74.2
+96.4
+98.5
+29.8
+
+PC 300
+PC 300-O2
+PC 600
+PC 600-O2
+PC 300-ox
+PC 600-ox
+NLB K29 57
+NLB L29 66
+Jurassic
+
+0.04
+
+0.03
+
+Porosity (%)
+
+PC refers to lab-produced pine charcoal. Volume and density were determined from the average of ten cubes for each treatment, with 1-sigma errors. Observed porosity was
+determined from the average of ﬁve randomly selected volumes within each fragment, with the error quoted as deviation from the mean of the ﬁve determinations.
+Connectivity is the percentage of total porosity in each sample that is present in the largest 20 pores (see text).
+
+air, organics, through to silicate minerals; a mix that provides
+a wide range of linear attenuation coefﬁcients that, in our mCT
+systems, are converted into greyscales. For heterogenous materials
+such as soil and our charcoal samples there is currently no available
+objective thresholding technique that consistently and accurately
+provides segmented voids and mineral components.
+To aid in the important issue of thresholding we carried out
+a sensitivity analysis of threshold value versus porosity. Threshold
+was ultimately determined by visual inspection and comparison of
+mCT images and binarised images.
+For each sample, ﬁve rectangular volumes ranging from 5 to
+50 mm3 composed of 70–200 individual image slices were randomly selected from within the total reconstructed sample volume.
+After inspection of all images, a single threshold value of 40 on
+a greyscale of 250 was chosen to delineate pore space (<40) from
+charcoal matrix (>40), as discussed below. Based on this value,
+porosity, pore size and pore connectivity were determined using
+SCAMP software developed in-house at the University of Abertay.
+Observed porosity is reported as the proportion of the total volume
+identiﬁed as pore space at a greyscale threshold of 40, pore size is
+reported as the equivalent spherical diameter of pores in micrometres. Pore connectivity is reported as the proportion of total
+observed porosity that is present in each pore, and to facilitate
+comparison between samples, we also report the proportion of
+total porosity that is present in the largest 20 pores.
+
+3.1. Laboratory produced charcoal
+Fig. 2 shows three-dimensional images of raw wood, 300 and
+600 pine charcoal as well randomly selected single image slices
+through the volumes and maps of observed pore space at
+a threshold of 40. It can be seen that while major vessels can be
+readily identiﬁed in all specimens, smaller pores, particularly
+towards the centre of the volumes, have begun to break down and
+merge in the charcoal samples compared to the wood. The concentration of this process towards the centre of the volume is likely
+to be due to relatively higher gas pressures associated with devolatilization in the centre of the samples compared with the outer
+regions, where gases can more directly escape from the material.
+An observed reduction in pore space towards the outside of the
+charcoal fragments may also be due to pyrolytic ﬁxation of some
+volatile material in pore space during its transport out of the
+fragments.
+Table 1 provides a summary of the physical characteristics of all
+the laboratory-produced samples. Pyrolysis at 300  C resulted in
+shrinkage to 80% of the unpyrolysed volume and a reduction in
+density to 56% of the original wood density, while pyrolysis at
+600  C resulted in shrinkage to 43% of the original volume and
+a density reduction to 51% of the original wood density, as has been
+previously found for other species (e.g. Byrne and Nagle, 1997). This
+behaviour is the result of the progressive loss of volatiles during
+pyrolysis and in the absence of other processes should lead to
+a simple reduction in pore size, however, in accord with other
+
+3. Results and discussion
+Fig. 1 shows the estimates of porosity and pore size distribution
+for a range of threshold greyscale values for two of the endmember laboratory-produced pine charcoals. It can be seen that
+both porosity and pore size are critically dependant on the
+threshold chosen, with porosity, for example, varying by a factor of
+four for thresholds varying from 20 to 80. While visual comparison
+of thresholded images with the raw image clearly demonstrated
+that thresholds of 20 and 80 do not yield realistic maps of actual
+pore space, it proved difﬁcult to reliably assign an appropriate
+threshold value between these values using purely objective criteria. It should be noted that the actual total porosity of Pinus sylvestris is 65–75% (Usta, 2003) but most pores are <20 mm in
+diameter, with only 10–15% of wood volume occupied by pore
+space large enough to be resolved at the 21 mm pixel size used in
+this study (Baines et al., 1983). Likewise, walls separating pores, but
+<21 mm in thickness, are not resolvable in this study. Thus, in this
+study we are dealing with micro- and meso-porosity above 21 mm
+and hence the term ‘observed porosity’ is adopted.
+
+Fig. 3. Observed porosity for all samples of pine wood and pine charcoal calculated
+from ﬁve randomly selected volumes within each sample, with the error being average
+deviation from the mean for each sample.
+
+2702
+
+M.I. Bird et al. / Journal of Archaeological Science 35 (2008) 2698–2706
+
+Fig. 4. Observed pore size distribution for all samples of pine wood and pine charcoal
+calculated from ﬁve randomly selected volumes within each sample, with the error
+being average deviation from the mean for each sample.
+
+studies (Klose and Schinkel, 2002) observed pore size in all pyrolysed pine samples increased as discussed below.
+Fig. 3 shows the observed porosity of all pyrolysed samples
+while Fig. 4 shows the distribution of observed porosity across
+different pore size classes. The raw wood has the lowest observed
+porosity (0.8%) and the highest proportion of pores in the smallest
+size class (24 mm) with no pores greater than 120 mm. Pyrolysis in
+nitrogen at progressively higher temperatures results in an
+approximately tripling of the observed porosity by 600  C (2.3%).
+While pyrolysis in nitrogen does not greatly affect the proportion of
+small pores, the maximum pore size doubles to 240 mm during
+pyrolysis at 600  C. Adding 2% oxygen to the pyrolysis gas stream
+
+Fig. 5. Observed pore connectivity presented as percentage of total pore space present
+in each of the 20 largest pores for all samples of pine wood and pine charcoal.
+Connectivity calculated from ﬁve randomly selected volumes within each sample, with
+the error being average deviation from the mean for each sample.
+
+increases observed porosity at both 300 and 600  C, relative to that
+under N2 only, and dramatically increases the relative proportion of
+larger pore sizes. When the 300  C and 600  C charcoals (both
+originally produced under N2 only) are further subjected to
+chemical oxidation, the observed porosity of these samples shows
+a dramatic increase to 26.6 and 12.0% respectively, and pore size
+distributions are produced that are similar to those produced by
+introducing O2 into the gas stream.
+The connectivity of observed pore space for samples pyrolysed
+in N2 (measured as the proportion of total pore space contained in
+
+Fig. 6. X-ray tomographic images of archaeological charcoal sample NLB L29 66 (see text). (a) Randomly selected vertical image slice, (b) randomly selected horizontal image slice,
+(c) 3D tomographic representation of X-ray dense (mineral) particles in the sample, (d) 3D tomographic representation of the sample surface. Scale bar is approximate only.
+
+M.I. Bird et al. / Journal of Archaeological Science 35 (2008) 2698–2706
+
+2703
+
+Fig. 7. X-ray tomographic images of archaeological charcoal sample NLB K29 57 (see text). (a) Randomly selected vertical image slice, (b) randomly selected horizontal image slice,
+(c) 3D tomographic representation of X-ray dense (mineral) particles in the sample, (d) 3D tomographic representation of the sample surface. Scale bar is approximate only.
+
+the largest 20 pores) is 35.1% for 300  C and 54.7% for 600  C. These
+ﬁgures are similar to or lower than that in the raw wood, where the
+largest 20 pores comprise 58% of the total pore space (Table 1 and
+Fig. 5). Pyrolysis in 2% O2, or chemical oxidation of charcoal pyrolysed in N2 dramatically increases the connectivity of pore space in
+the resultant material. For charcoal treated in either of these ways,
+74–84% of total observed porosity is contained in the largest 20
+pores and more than half the total pore space is contained within
+the single largest pore in each sample.
+Taken together, the data suggest a consistent pattern of porosity
+development during pyrolysis. Despite the considerable shrinkage
+that occurs during the pyrolysis process, and the likelihood that
+some volatile compounds were pyrolysed within existing pore space
+before they were able to escape from the sample interior, both observed porosity and pore size increases with increasing temperature
+in a nitrogen atmosphere. This is likely to be due to the progressive
+rupture of cell and vessel walls and the development of fractures
+resulting from the pressure produced by escaping volatiles. This is
+likely to also be the case for micropores below the scale that can be
+resolved in this study. Thus, the process of charcoal production by
+pyrolysis results in a matrix of connected meso- to macroporosity
+within charcoals and this means that a considerable proportion of
+charcoal surface area should be readily accessible both to soil solutions and soil microbiota following burial in soil or sediment.
+3.2. Ancient charcoal
+Tomographic images of a comparatively well-preserved charcoal from the Nauwalabila I site in northern Australia (NLB L29 66)
+are presented in Fig. 6. This sample contains a large number of
+
+vertically extensive vessels of a few hundred micrometres in diameter. Isolation of the X-ray dense regions of the image, which
+observations by stereo microscope suggest are dominantly quartz
+sand grains weakly cemented by clays and iron oxides, indicates
+that the mineral fraction is largely cemented to the outside of the
+fragment although isolated grains have become lodged in the larger
+pores in the interior of the fragment.
+In contrast, a poorly preserved charcoal from the same deposit
+(NLB K29 57), at approximately the same depth and possibly
+derived from the same species (Fig. 7) can be seen to be pervasively
+altered. While the macrostructure of the charcoal is preserved,
+isolation of the most X-ray dense portions of the specimen (Fig. 7c)
+demonstrates that the sample is not only coated to a large degree by
+authigenic iron oxide minerals, but much of the interior pore space
+has been ﬁlled or coated by authigenic iron oxide minerals. Crosssections of the sample (Fig. 7a and b) show that there is also
+a strong gradation in X-ray density throughout the sample from
+dense mineral coatings of fractures and vessel walls to patchy
+variations in X-ray density through the matrix of the sample, suggesting ﬁne iron oxide impregnation of the sample matrix at particle sizes below the resolution of the technique. Bird et al. (2002)
+used energy dispersive X-ray analysis of a polished section of
+similarly altered charcoal from the same deposit to demonstrate
+the presence of iron dispersed through the sample matrix and this
+study provides a more detailed three-dimensional picture of the
+distribution of mineral alteration/replacement of the charcoal.
+Given that authigenic iron oxides commonly contain adsorbed and
+structurally incorporated carbon (Bird et al., 1994), this is a likely
+cause of contamination of radiocarbon dates of charcoal from the
+deeper levels of this archaeological deposit (Bird et al., 2002).
+
+2704
+
+M.I. Bird et al. / Journal of Archaeological Science 35 (2008) 2698–2706
+
+Fig. 8. X-ray tomographic images of a charcoal sample of Jurassic age from the Moor Grit Member of the Scalby Formation (see text). (a) Randomly selected vertical image slice, (b)
+randomly selected horizontal image slice, (c) 3D tomographic representation of X-ray dense (mineral) particles in the sample, (d) 3D tomographic representation of the sample
+surface. Scale bar is approximate only.
+
+Fig. 8 provides an example of a charcoal of Jurassic age. This
+charcoal had a patchy whitish coating of authigenic mineralization
+on its outer surface, but it was unclear whether this was a surface
+phenomenon or whether the mineralization was pervasive. The
+tomographic images of the specimen suggest that while there does
+not seem to have been active replacement of charcoal by the
+
+authigenic phase, it has dominantly precipitated along fractures
+following growth rings in the original wood but also to a lesser
+degree it has precipitated in smaller pores in the interior of the
+sample that are not obviously connected to the exterior.
+The observed porosities of the three natural charcoals are given
+in Table 1 and while the Jurassic sample has an observed porosity
+
+Fig. 9. Observed pore size distribution for all natural charcoal samples calculated from
+ﬁve randomly selected volumes within each sample, with the error being average
+deviation from the mean for each sample.
+
+Fig. 10. Observed pore connectivity presented as percentage of total observed pore
+space present in each of the 20 largest pores for all natural charcoal samples.
+Connectivity calculated from ﬁve randomly selected volumes within each sample, with
+the error being average deviation from the mean for each sample.
+
+M.I. Bird et al. / Journal of Archaeological Science 35 (2008) 2698–2706
+
+similar to the laboratory produced charcoals (2.8%) the Nauwalabila
+charcoals both have substantially higher porosities (20–37%),
+reﬂecting the large number of large vessels in those samples. Fig. 9
+demonstrates that the pore size distribution in the Jurassic sample
+is similar to the laboratory produced charcoals, but again because of
+the large number of large vessels, the Nauwalabila charcoals have
+a comparatively small proportion (<20%) of their total observed
+porosity in the smallest pores and a higher proportion in larger
+pore sizes, with maximum sizes up to 500 mm equivalent spherical
+diameter. Fig. 10 shows that the connectivity of pores in the Jurassic
+sample is the lowest of any samples, whereas 58–63% of the total
+pore space is present as a single connected structure and over 95%
+of the total pore space is present in the 20 biggest pores (Table 1) in
+the Nauwalabila samples. Iron oxide impregnation in NLB K19 57
+has resulted in a decrease in overall observed porosity to 20% relative to NLB K29 66 (37%) and a relative decrease in the proportion
+of total porosity in the largest pores, presumably due to partial
+inﬁlling of some of the larger vessels by authigenic iron oxide
+coatings (Fig. 10).
+4. Conclusions
+X-ray microtomography has been able to elucidate the internal
+structure and location of mineral phases in a range of ancient
+charcoals enabling a better understanding of the processes that can
+lead to alteration and degradation of charcoal in the natural environment. With each new generation of mCT systems available,
+sample spatial resolution will improve; a nano-tomography system
+is presently available, however the analytical capability of this
+system is limited to small sample sizes (http://www.skyscan.be).
+Application of X-ray microtomography to laboratory-produced
+charcoal has demonstrated that under slightly oxidizing conditions
+of pyrolysis, or after chemical oxidation, observed porosity, pore
+size and the connectivity of pore space are all dramatically
+increased, despite signiﬁcant shrinkage of the pyrolysed material.
+Keech et al. (2005) concluded from a two-dimensional transverse
+section study of porosity in charcoal from a range of species that
+macroporosity, rather than total porosity, was the main factor in
+determining sorptive capacity for secondary plant metabolites. The
+results from the three-dimensional study presented here suggest
+that as well as the primary porosity structure imposed by the
+original wood, pyrolysis conditions (temperature and oxygen
+availability) is also likely to be an important determinant of sorptive capacity, particularly through connecting smaller pore spaces
+that may appear to be isolated in two dimensions.
+The results of this study suggest that for charcoal in the natural
+environment, where at least some oxygen is likely to have been
+locally available during pyrolysis and the local depositional environment is oxidizing, the interiors of charcoal fragments are likely
+to be readily accessible both to soils solutions and soil microbiota.
+This means that charcoal is potentially open to contamination from
+a variety of sources, underscoring the need for robust techniques
+that can veriﬁably remove contamination prior to radiocarbon
+dating. While tomographic ‘screening’ of all samples prior to
+radiocarbon dating would not be feasible, the technique should be
+readily applicable to targeted studies attempting to determine the
+effectiveness of pretreatment techniques in removing contamination prior to radiocarbon dating.
+Acknowledgements
+Funding for this research was provided partly by NERC standard
+grant NE/C004531/1 ‘Charcoal Degradation in Natural Environments’ to Bird. Scott thanks the Royal Holloway research strategy
+fund and a personal charitable donation for his research on modern
+and ancient charcoal. This research represents a contribution from
+
+2705
+
+SAGES (The Scottish Alliance for Geosciences, Environment and
+Society).
+Appendix A. Supplementary material
+Supplementary information for this manuscript can be
+downloaded at doi: 10.1016/j.jas.2008.04.018.
+References
+Appoloni, C.R., Fernandes, C.P., Rodrigues, C.R.O., 2007. X-ray microtomography
+study of a sandstone reservoir rock. Nuclear Instrum. Methods Phys. Res. A 580,
+629–632.
+Baines, E.F., Woodward, C.J., Levy, J.F., Dickinson, D.J., 1983. Indirect measurement of
+pore size and permeability in Scots Pine and Norway Spruce. J. Exp. Biol. 34,
+694–704.
+Bird, M.I., 2006. Radiocarbon dating of charcoal. In: Elias, S.A. (Ed.), The
+Encyclopaedia of Quartenary Science. Elsevier, Amsterdam, pp. 2950–2957.
+Bird, M.I., Gröcke, D.R., 1997. Determination of the abundance and carbon isotope
+composition of elemental carbon in sediments. Geochim. Cosmochim. Acta 61,
+3413–3423.
+Bird, M.I., Quade, J., Chivas, A.R., Fiﬁeld, L.K., Allan, G.L., Head, J., 1994. The carbonisotope composition of organic matter occluded in iron-nodules. Chem. Geol.
+(Isototope Geosci. Sect.) 114, 269–279.
+Bird, M.I., Ayliffe, L.K., Fiﬁeld, K., Cresswell, R., Turney, C., 1999a. Radiocarbon dating
+of ’old’ charcoal using a wet oxidation – stepped combustion procedure.
+Radiocarbon 41, 127–140.
+Bird, M.I., Moyo, E., Veenendaal, E., Lloyd, J.J., Frost, P., 1999b. Stability of elemental
+carbon in a savanna soil. Global Biogeochem. Cycles 13, 923–932.
+Bird, M.I., Turney, C.S.M., Fiﬁeld, L.K., Jones, R., Palmer, A., Cresswell, R., Robertson, S.,
+2002. Radiocarbon analysis of the early archaeological site of Nauwalabila I,
+Arnhemland, Australia: implications for sample suitability and stratigraphic integrity. Quatern. Sci. Rev. 21, 1061–1075.
+Byrne, C.E., Nagle, D.C., 1997. Carbonization of wood for advanced materials
+applications. Carbon 35, 259–266.
+Collinson, M.E., Steart, D.C., Scott, A.C., Glasspool, I.J., Hooker, J.J., 2007. Episodic ﬁre,
+runoff and deposition at the Palaeocene–Eocene boundary. J. Geol. Soc. Lond
+164, 87–97.
+Cope, M.J., Chaloner, W.G., 1980. Fossil charcoal as evidence of past atmospheric
+composition. Nature 283, 647–649.
+Chaloner, W.G., 1989. Fossil charcoal as an indicator of palaeoatmospheric oxygen
+level. J. Geol. Soc. 146, 171–174.
+Cornelissen, G., Elmquist, M., Groth, I., Gustafsson, Ö., 2004. Effect of sorbate
+planarity on environmental black carbon sorption. Environ. Sci. Technol. 38,
+3574–3580.
+Czimczik, C.I., Schmidt, M.W.I., Schulze, E.-D., 2005. Effects of increasing ﬁre
+frequency on black carbon and organic matter in Podzols of Siberian Scots pine
+forests. Eur.. J. Soil Sci. 56, 417–428.
+Eckmeier, E., Gerlach, R., Skjemstad, J.O., Ehrmann, O., Schmidt, M.W.I., 2007. Only
+small changes in soil organic carbon and charcoal found one year after
+experimental slash-and-burn in a temperate deciduous forest. Biogeosci.
+Discuss 4, 595–614.
+Emery-Barbier, A., Thiebault, S., 2005. Preliminary conclusions on the Late Glacial
+vegetation in south-west Anatolia (Turkey): the complementary nature of
+palynological and anthracological approaches. J. Archaeol. Sci. 32, 1232–1251.
+Forbes, M.S., Raison, R.J., Skjemstad, J.O., 2006. Formation, transformation and
+transport of black carbon (charcoal) in terrestrial and aquatic ecosystems. Sci.
+Total Environ. 370, 190–296.
+Friis, E.M., Crane, P.R., Pedersen, K.R., Bengtson, S., Donoghue, P.C., Grimm, G.W.,
+Stampanoni, M., 2007. Phase-contrast X-ray microtomography links Cretaceous
+seeds with Gnetales and Bennettitales. Nature 450, 549–552.
+James, G., Sabatini, D.A., Chiou, C.T., Rutherford, D., Scott, A.C., Karapanagioti, H.,
+2005. Evaluating phenanthrene sorption on various wood chars. Water Res. 39,
+549–558.
+Jones, R., Johnson, I., 1985. Deaf Adder Gorge: Lindner Site, Nauwalabila I. In:
+Jones, R. (Ed.), Archaeological Research in Kakadu National Park. Australian
+National Parks Wildlife, vol. 13, pp. 169–228. Special Publications.
+Keech, O., Carcaillet, C., Nilsson, M.C., 2005. Adsorption of allelopathic compounds
+by wood-derived charcoal: the role of wood porosity. Plant Soil 272, 291–300.
+Klose, W., Schinkel, A., 2002. Measurement and modelling of the development of
+pore size distribution of wood during pyrolysis. Fuel Process. Technol. 77-78,
+459–466.
+László, K., Onyestyak, G., Rochas, C., Geissler, E., 2005. Honeycomb carbon monoliths
+from Pinus sylvestris. Carbon 43, 2402–2405.
+Leeder, M.R., Nami, M., 1979. Sedimentary models for the nonmarine Scalby
+Formation (Middle Jurassic) and evidence for late Bajocian/Bathonian uplift of
+the Yorkshire Basin. Proc. Yorkshire Geol. Soc. 42, 461–482.
+Marguerie, D., Hunot, J.-Y., 2007. Charcoal analysis and dendrology: data from
+archaeological sites in north-western France. J. Archaeol. Sci. 34, 1417–1433.
+McParland, L., Collinson, M.E., Scott, A.C., Steart, D., 2007. Ferns and ﬁres:
+experimental charring of ferns compared to wood and implications for
+paleobiology, coal petrology and isotope geochemistry. Palaios 22, 528–538.
+
+2706
+
+M.I. Bird et al. / Journal of Archaeological Science 35 (2008) 2698–2706
+
+O’Donnell, A.G., Young, I.M., Rushton, S.P., Shirley, M.D., Crawford, J.W., 2007.
+Visualization, and prediction in soil microbiology. Nat. Rev. Microbiol. 5,
+689–699.
+Pietikäinen, J., Kiikkilä, O., Fritze, H., 2000. Charcoal as a habitat for microbes and its
+effect on the microbial community of the underlying humus. Oikos 89,
+231–242.
+Scott, A.C., 1989. Observations on the nature and origin of fusain. Int. J. Coal Geol. 12,
+443–475.
+Scott, A.C., 2000. The pre-quaternary history of ﬁre. Palaeogeogr. Palaeoclimatol.
+Palaeoecol. 164, 281–329.
+Scott, A.C., 2001. Preservation by ﬁre. In: Briggs, D.E.G., Crowther, P.R. (Eds.),
+Palaeobiology – A Synthesis II. Blackwell Science, Oxford, pp. 277–280.
+Scott, A.C., 2008. Forest ﬁre in the fossil record. In: Cerdà, A., Robichaud, P. (Eds.),
+Restoration Strategies after Forest Fires. Science Publishers Inc., New
+Hampshire.
+Scott, A.C., Glasspool, I.J., 2007. Observations and experiments on the origin and
+formation of inertinite group macerals. Int. J. Coal Geol. 70, 55–66.
+Skjemstad, J.O., Clarke, P., Taylor, J.A., Oades, J.M., McClure, S.G., 1996. The
+chemistry and nature of protected carbon in soil. Aust. J. Soil Res. 34,
+251–276.
+
+Smith, S.Y., Stockey, R.A., 2007. Establishing a fossil record for the perianthless
+Piperales: Saururus tuckerae sp. nov. (Saururaceae) from the Middle Eocene
+Princeton Chert. Am. J. Bot. 94, 1642–1657.
+Swift Jr., L.W., Elliott, K.R., Ottmar, R.D., Vihnanek, R.E., 1993. Site preparation
+burning to improve southern Appalachian pine-hardwood stands: ﬁre
+characteristics and soil erosion, moisture, and temperature. Can. J. Forest Res.
+23, 2242–2254.
+Usta, I., 2003. Comparative study of wood density by speciﬁc amount of void
+volume (porosity). Turk. J. Agric. Forestry 27, 1–6.
+Wardle, D.A., Zackrisson, O., Nilsson, M.-C., 1998. The charcoal effect in Boreal
+forests: mechanisms and ecological consequences. Oecologia 115, 419–426.
+Warnock, D.D., Lehmann, J., Kuyper, T.W., Rillig, M.C., 2007. Mycorrhizal responses
+to biochar in soil – concepts and mechanisms. Plant Soil 300, 9–20.
+Williams, P.T., Besler, S., 1996. The inﬂuence of temperature and heating rate on the
+slow pyrolysis of biomass. Ren. Energy 7, 233–250.
+Wolbach, W.S., Anders, E., 1989. Elemental carbon in sediments: determination and
+isotopic analysis in the presence of kerogen. Geochim. Cosmochim. Acta 53,
+1637–1647.
+Zackrisson, O., Nilsson, M.-C., Wardle, D.A., 1996. Key ecological function of charcoal
+from wildﬁre in the boreal forest. Oikos 77, 10–19.
+
+

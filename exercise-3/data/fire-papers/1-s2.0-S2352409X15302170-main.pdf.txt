@@ -1,0 +1,661 @@
+Journal of Archaeological Science: Reports 5 (2016) 400–406
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science: Reports
+journal homepage: www.elsevier.com/locate/jasrep
+
+Archeological deposits at Abric Romaní extend to 110 ka: U-series dating
+of a newly cored, 30 meter-thick section
+Warren D. Sharp a,⁎, Regina Mertz-Kraus a,1, Josep Vallverdu b, Manuel Vaquero b,c, Fancesc Burjachs b,d,
+Eudald Carbonell b,c, James L. Bischoff a
+a
+
+Berkeley Geochronology Center, Berkeley, CA 94709, United States
+Institut de Paleoecologia Humana i Evolució Social (IPHES), C/Marcel·lí Domingo, s/n, 43007 Tarragona, Spain
+Area de Prehistoria, Departament d'Historia i Geograﬁa, Universitat Rovira i Virgili, Av. Catalunya, 135, 43002 Tarragona, Spain
+d
+Institució Catalana de Recerca i Estudis Avançats (ICREA), Barcelona, Spain
+b
+c
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 17 April 2015
+Received in revised form 11 December 2015
+Accepted 14 December 2015
+Available online 23 December 2015
+Keywords:
+Abric Romaní
+U-series dating
+Mousterian
+Rock shelter
+Middle Paleolithic
+
+a b s t r a c t
+Recent exploratory drilling at Abric Romaní reveals that carbonate tufas similar to the archeologically rich levels
+excavated to date extend at least 30 m beneath the current base of excavation. The present project focused on
+sampling and measuring a suite of new U-series dates on core samples to determine whether reliable dates
+could be obtained from the older tufas and, if so, their temporal extent.
+Using relatively small (~100 mg), carefully selected samples analyzed by inductively coupled plasma mass spectrometry, we obtained a total of 20 dates for 10 core samples and one sample near the base of the current excavation. Corrections for thorium from contaminating detritus were generally negligible, as indicated by a median
+230
+Th/232Th activity ratio of 360. At selected levels in the sequence, two or three coeval samples were prepared
+and analyzed in order to determine the reproducibility of their dates. Reproducibility at most levels was similar
+to analytical errors, consistent with rapid carbonate deposition followed by evolution of closed U–Th systems. In
+contrast in the sample nearest the base of the core, scatter of dates beyond analytical errors was observed among
+sub-samples, probably indicating failure of the U–Th system to remain closed.
+The dates, which preserve stratigraphic order in all cases, range from ~55 ka for a sample from level N of the
+existing excavation to ~110 ka at the base of the core. The new dates show that tufas at Abric Romaní extend
+at least to early Marine Isotope Stage (MIS) 5. Mean accumulation rates in the core varied widely, from a minimum of 17 cm/ka during the later parts of MIS 5 to a maximum of 130 cm/ka during the Last Interglacial in
+early MIS 5, suggesting that a wetter hydroclimate prevailed in the region during periods of low global ice volume. The new dates show that burned travertine and sand intersected by the drill-core, which are likely indicators of human presence, are as old as ~100 ka. Thus, evidence for human presence at Abric Romaní now extends
+over ~60 thousand years.
+© 2015 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+1.1. Site history and character
+Abric Romaní is the best known of a series of rock shelters along the
+Cingles del Capelló cliff, near Capellades, some 45 km west of Barcelona
+(Fig. 1, location map). The exposed section at Abric Romaní consists of
+over 17 m of carbonate tufas that contain Mousterian occupation levels
+rich in animal bone, tools, and charcoal. The deposit was discovered in
+⁎ Corresponding author.
+E-mail addresses: wsharp@bgc.org (W.D. Sharp), mertzre@uni-mainz.de
+(R. Mertz-Kraus), jvallverdu@iphes.cat (J. Vallverdu), manuel.vaquero@urv.net
+(M. Vaquero), francesc.burjachs@icrea.cat (F. Burjachs), ecarbonell@iphes.cat
+(E. Carbonell), jbischoff@usgs.gov (J.L. Bischoff).
+1
+Present address: Institute for Geosciences, Johannes Gutenberg University, Mainz,
+Germany.
+
+http://dx.doi.org/10.1016/j.jasrep.2015.12.015
+2352-409X/© 2015 Elsevier Ltd. All rights reserved.
+
+1909 by Amador Romaní who carried out intermittent excavations
+over the succeeding 20 years. In 1956 E. Ripoll, H. de Lumley, and G. Laplace resumed excavations that continued until 1962. This later excavation extended into the ﬁrst few meters of the Mousterian, the industry
+of which was attributed to the Denticulate facies (de Lumley and
+Ripoll, 1962), while the Upper Paleolithic artifacts were attributed to
+the Gravettian and Aurignacian (Laplace, 1962; Soler, 1986; Vaquero,
+1992). The present program of research is a large-scale interdisciplinary
+project initiated in 1983 under the direction of Carbonell et al. (1985);
+Mora et al. (1988); and Muro et al. (1987). Sixteen archeological levels
+have been excavated thus far (from A to P) and additional archeological
+layers below the current surface of the main excavation are exposed in a
+hand-dug test pit known as the Romaní well. All the exposed and excavated archeological horizons correspond to the Middle Paleolithic, except the uppermost level A, attributed to the Early Upper Paleolithic.
+Unfortunately these upper levels were almost totally removed by
+
+W.D. Sharp et al. / Journal of Archaeological Science: Reports 5 (2016) 400–406
+
+401
+
+Fig. 1. Location, topographic, and geologic setting of Abric Romaní rock shelter. Symbols on geologic map are as follows: 1, plutonic rock; 2, Paleozoic strata; 3, Mesozoic strata; 4, Cenozoic
+strata; 5, Quaternary spring deposits; 6, Quaternary undifferentiated; 7, anticline; 8, syncline; 9, thrust fault; 10, reverse fault, and 11; undifferentiated fault. Upper inset shows locations of
+Barcelona and town of Capellades adjacent to Abric Romaní and generalized relief. Lower inset shows regional framework of Abric Romaní.
+
+Amador Romaní and are poorly known. Most of the available
+archeological observations come from levels comprehensively excavated since 1983 with a surface area of more than 200 m2. The excavation
+of such a large area combined with the high temporal resolution of the
+archeological units has provided a picture of the spatial organization
+strategies of the Middle Paleolithic occupants. The occupations apparently focused around well-preserved hearths that form a clustered distribution on most archeological levels (Vaquero, 1999; Pastó et al.,
+2000; Vaquero and Pastó, 2001). Thus, it seems that Abric Romaní was
+essentially a residential campsite.
+Most lithic remains come from reduction sequences carried out on
+the spot in well-deﬁned knapping areas. The characteristics of the lithic
+assemblages suggest marked technological changes throughout the sequence. The oldest levels so far excavated (O and P) exhibit an elaborated technology based on the use of the Levallois method, including
+strategies for bladelet production in level P. Levels M to I show an expedient technical behavior, in which discoidal knapping is dominant. Hierarchical Levallois-like methods are again more common at the upper
+Middle Paleolithic levels. Denticulates and notches are dominant
+throughout the Middle Paleolithic sequence, although the percentage
+of sidescrapers tends to increase at the youngest levels (from level E upwards). Finally, both technology and typology indicate a clear discontinuity between the Middle Paleolithic and the overlying Early Upper
+Paleolithic of archeological level A (Vaquero, 1992).
+Horse and Cervus elaphus (red deer) are the dominant fauna of all
+the archeological levels, although minor Bovidae and Rhinocerotidae
+bones are found in some layers. Zooarcheological and taphonomic analysis have shown that faunal assemblages were primarily anthropogenic
+(Cáceres, 1998; Cáceres et al., 1998).
+In addition, Abric Romaní has provided abundant charcoal fragments from hearths that are dominated by Pinus sylvestris (Scotch
+pine), reﬂecting open woodland during cold and dry climate phases
+(Burjachs and Julià, 1994, 1996; Allue et al., 1996). Moreover, tufa deposits covering most of the archeological levels allow the preservation
+of wood imprints. This has made it possible to document the use of
+wood by Neanderthals, both as fuel and raw material for artifact
+
+manufacture (Carbonell and Castro-Curel, 1992; Castro-Curel and
+Carbonell, 1995; Solé et al., 2013).
+1.2. Previous dating
+The moss-generated carbonate tufas of Abric Romaní are highly suitable for U-series dating (Bischoff et al., 1988a). Initial isotopic analysis of
+this material yielded a series of 20 dates in correct stratigraphic order
+that placed the upper 13 m of the sequence in the period between 60
+and 40 ka. Over the intervening years additional samples have been
+dated as ongoing excavations have exposed new areas. These dates include those obtained for the Mousterian–Aurignacian boundary exposed at the top of the sequence that ﬁrmly established its age as
+43 ± 1 ka, thereby conﬁrming the great antiquity of the Aurignacian
+in northern Spain and providing an early calibration point for the radiocarbon calibration curve (Bischoff et al., 1994). Recently, Higham et al.
+(2014) have suggested a diachronous replacement of the Mousterian
+by technologies associated with anatomically modern humans across
+Europe during the interval from ca. 45 to 41 ka, placing the Mousterian–Aurignacian boundary at Abric Romaní near the beginning of the regional transition. Dates from Abric Romaní reported in Vaquero et al.
+(2013) include those from the Romaní well, which extends ca. 6.4 m
+below the current excavation ﬂoor and yields dates mostly in the
+range from ~55 to 60 ka.
+1.3. Drilling results and sampling of core
+Core drilling was carried out in late May of 2010 in square P58 on the
+current excavation surface of level P (13 m below datum; see Fig. 2,
+photo and plan view of drill site). This location is considered to be at
+or near the center of carbonate tufa deposition between the wall and
+the drip line of the rock shelter in an area least exposed to alteration.
+Continuous core, 4 cm in diameter, was obtained down to 47 m below
+the datum and showed largely original depositional textures with little
+visible alteration (Fig. 3, core log). Notably, the presence in the core of
+burned travertine and sand at depths from ~ 13 to 18 m is strong
+
+402
+
+W.D. Sharp et al. / Journal of Archaeological Science: Reports 5 (2016) 400–406
+
+Fig. 2. A. Photo of core drilling operations. Drilling took place on the excavation ﬂoor at archeological level P and recovered ~34 m of core. View is looking in from the entrance of the rock
+shelter. B. Plan view of excavation showing the locations of 1) the dating sample collected from level N on the excavation wall (ﬁlled square), and 2) the position of the drill hole on the
+surface of level P (ﬁlled square).
+
+evidence of human presence at the site at levels far below the current
+excavations. The core will also provide a record of past regional vegetation changes through time via pollen analysis (cf. Burjachs and Julià,
+1994).
+Twelve samples were cut from the 30 m of core using a rock saw. We
+selected one additional sample from the wall of the excavation about a
+meter above the current excavation ﬂoor (sample N). The selected intervals preserved primary depositional texture and included minimal
+secondary inﬁlling of primary porosity. Based on visual criteria, the
+
+samples are generally of high quality for U-series dating; that is, they
+consist of micro-crystalline carbonate with primary algal structures
+and show no evidence of recrystallization, secondary cementation, or
+detrital contamination (Fig. 4, photo of drill core).
+2. Analytical methods
+U–Th isotopes in the tufas were analyzed via inductively coupled
+plasma mass spectrometry (ICP-MS) in the U-Daughter Lab of the
+
+W.D. Sharp et al. / Journal of Archaeological Science: Reports 5 (2016) 400–406
+
+403
+
+Fig. 3. Lithologic core log. Datum is the excavation ﬂoor of level P. Symbols are as follows. At top of log: Bo, boundstone; S, calcareous sand; G, granules of travertine or tufa; Gr, gravels of
+travertine or tufa; B, blocks of travertine or tufa. Lithologic units: 1, travertine sand, granules and ﬁne gravel; 2, tufa moss in non-primary position; 3, tufa moss bioconstruction; 4, travertine calcirudite; 5, travertine calcarenite; 6, laminated dome-shaped or sigmoidal calcarenite; 7, undifferentiated boundstone; 8, humic-and charcoal-rich sediments; 9, 10, 11, cryptocrystalline (ferruginous?) impregnations, respectively, in pores, on boundary surfaces, and on secondary discontinuities; 12, poor/no core recovery; 13, burned travertine. Note burned
+travertine present between depths of ~13 and 18 m. Positions of samples collected for dating are indicated; upon further inspection samples 9 and 10 proved to be unsuitable and
+were not dated.
+
+Berkeley Geochronology Center using a Thermo NEPTUNE Plus
+multicollector ICP-MS. Samples were examined using a binocular microscope and sub-samples that preserved primary textures and were
+
+visibly free of secondary cement and detritus were selected and isolated
+by sawing with a small diamond blade. After ultrasonic cleaning, the
+samples were coarsely crushed in a tool-steel mortar, then milligram-
+
+404
+
+W.D. Sharp et al. / Journal of Archaeological Science: Reports 5 (2016) 400–406
+
+Fig. 4. View of typical calcareous tufa from drill core. The 2-cm section just to the right of the scale card is the fragile moss-generated carbonate used for U-series dating.
+
+size pieces were hand selected under a binocular microscope and further cleaned by repeated cycles of ultrasonic treatment in de-ionized
+water followed by alcohol.
+Samples were totally dissolved in HNO3, equilibrated with a mixed
+spike containing 229Th, 233U, and 236U. U and Th were isolated and puriﬁed using two steps of anion exchange chemistry. Samples were then
+treated with perchloric acid to remove any remaining organic material.
+Samples were analyzed as mixed U–Th solutions. Minor isotopes
+(230Th and 234U) were measured sequentially on an ion counter while
+232
+Th, 235U, and 238U were measured on Faraday collectors. All isotopes
+are measured relative to 238U to normalize any beam instabilities. Measured ratios were corrected for mass bias (using the known 233U/236U
+ratio of the spike), minor amounts of naturally occurring U and Th
+isotopes present in the spike, and element-speciﬁc ion counter yields
+(by cycling 229Th and 233U between in the ion counter and Faraday).
+Correction was also made for instrumental backgrounds (measured
+prior to each sample, while aspirating the same high purity 2% HNO3 solution used to introduce samples), the effects on minor isotopes of the
+peak-tails of more abundant isotopes (using measurements at six halfmass positions interpolated using a double exponential ﬁt), and isobaric
+interferences produced by hydrides of U and Th (e.g., 229Th1H+ on
+230
+Th; using a tail-corrected measurement of the 238U1H+/238U ratio,
+scaled to the other U and Th peaks).
+The spike used was created by gravimetrically mixing near monoisotopic 233U and 236U solutions obtained from the New Brunswick Laboratory (NBL) with high purity 229Th. The 229Th concentration of the
+spike was determined by analyzing solutions consisting of spike
+mixed with 69 Ma Schwartzwalder Mine (SCH) uranium ore that yields
+concordant U–Pb ages (Ludwig et al., 1985) and uniform 230Th/238U and
+234
+U/238U ratios for sub-samples, and is therefore considered to have
+230
+Th/238U and 234U/238U ratios in secular equilibrium. SCH solutions
+were analyzed in every analytical session in order to monitor reproducibility. Accuracy of U isotope ratios was monitored by frequent analyses
+of NBL CRM 145, which yields a mean 234U/238U ratio of (5.2910 ±
+0.0020) × 10−5, within uncertainty of the certiﬁed value of (5.2841 ±
+0.0082) × 10− 5. Activity ratios and ages were calculated using the
+decay constants for 234U and 230Th of Cheng et al. (2000). Ages and errors were calculated using Isoplot/Ex 3.75 (Ludwig, 2010). During the
+course of our study new 234U and 230Th decay constants consistent
+with previous values though with smaller errors were published
+
+(Cheng et al., 2013), however, we retain the earlier values for consistency with the existing literature.
+3. Results
+We analyzed ten samples distributed down the length of the core
+and one sample from archeological level N of the excavation, about
+one meter above the current ﬂoor. To evaluate the reproducibility of
+the new dates and thereby aid in assessing their reliability, we analyzed
+multiple fractions of ﬁve samples. These include the sample from level N
+of the excavation and core-samples 1, 4, 5, and 12, making a total of 20
+analyses in all. Depths of the dated samples, U–Th isotopic data, and derived ages are given in Table 1.
+The analytical data indicate that the samples are generally highly
+suitable for U-series dating. Median concentrations of uranium and thorium are, respectively, 770 μg/kg and 8 μg/kg. The relatively low Th concentration indicates that the samples contain very little alumino-silicate
+detritus, and the median (230Th/232Th)act of 360 indicates that corrections for initial 230Th (using 232Th as an index of detrital contamination)
+are generally quite minor. Corrected ages include a model correction for
+initial 230Th derived from silicate detritus while uncorrected ages do
+not; thus, their difference indicates the magnitude of the model correction applied to each sample.
+The new ages range from ~ 55 to 110 ka and are plotted against
+depth in Fig. 5. New dates for two fractions of the sample from excavation level N of 54.91 ± 0.07 and 55.08 ± 0.07 ka (errors are 1σ) are in
+close mutual agreement and are similar to previously published Useries dates from above and below this layer (e.g., 54.1 ± 1.6 to
+55.8 ± 2.3 ka; Vaquero et al., 2013). Except for samples 7, 8, and 11,
+which have relatively large uncertainties (due to larger corrections for
+initial 230Th from detritus), the analytical errors are smaller than the
+plotted symbols in Fig. 5.
+Ages increase with depth, as expected, with the single exception of
+sample 4. Dates for coeval sub-samples from level N and core samples
+1 and 4 are in close agreement in each case, consistent with closed
+U–Th systems. Thus, we do not think the out-of-sequence age of sample
+4 is due to failure of the U–Th system in this sample to remain closed.
+Instead, we interpret sample 4 as a fallen block of older tufa. Such fallen
+segments of the drip curtain are a common occurrence at Abric Romaní
+during modern times as the cascading waters produce moss-generated
+
+W.D. Sharp et al. / Journal of Archaeological Science: Reports 5 (2016) 400–406
+
+405
+
+Table 1
+U-series ages.
+Sample
+
+Depth
+(m)a
+
+U
+(ppb)
+
+232
+Th
+(ppb)
+
+(230Th/232Th)b
+
+Measured
+(230Th/238U)
+
+Measured
+(234U/238U)
+
+Uncorrected 230Th/U agec
+(ka)
+
+Corrected 230Th/U aged
+(ka)
+
+Initial
+(234U/238U)e
+
+Abric-Naf
+Abric-Nb
+Abric-1a
+Abric-1b
+Abric-1c
+Abric-2
+Abric-3
+Abric-4a
+Abric-4b
+Abric-4c
+Abric-5a
+Abric-5b
+Abric-5c
+Abric-6
+Abric-7
+Abric-8
+Abric-11
+Abric-12a
+Abric-12b
+Abric-12c
+
+−1.20
+"
+4.39
+"
+"
+5.56
+7.79
+8.59
+"
+"
+12.42
+"
+"
+13.42
+17.65
+18.29
+26.06
+28.40
+"
+"
+
+859
+884
+836
+782
+801
+691
+631
+765
+673
+643
+513
+494
+482
+670
+753
+785
+1105
+1071
+1049
+968
+
+6.56
+2.85
+18.7
+30.0
+24.0
+6.57
+4.59
+6.28
+8.73
+8.97
+3.06
+2.85
+3.91
+5.55
+56.7
+146
+52.4
+8.37
+8.39
+12.5
+
+375.32±0.046%
+892.45±0.046%
+135.00±0.064%
+77.994±0.040%
+99.855±0.040%
+342.74±0.069%
+455.19±0.065%
+423.9±0.067%
+266.66±0.048%
+248.10±0.048%
+554.19±0.081%
+567.55±0.066%
+415.89±0.054%
+412.20±0.059%
+54.422±0.081%
+21.704±0.038%
+88.820±0.042%
+536.59±0.035%
+529.00±0.052%
+325.28±0.045%
+
+0.93324±0.083%
+0.93854±0.091%
+0.9827±0.29%
+0.97506±0.097%
+0.9753±0.12%
+1.0616±0.12%
+1.0770±0.096%
+1.1334±0.13%
+1.1269±0.095%
+1.1281±0.090%
+1.0779±0.14%
+1.0692±0.095%
+1.10008±0.085%
+1.1110±0.11%
+1.3353±0.11%
+1.3100±0.10%
+1.3711±0.15%
+1.3664±0.15%
+1.3781±0.24%
+1.3644±0.077%
+
+2.2668±0.052%
+2.2737±0.029%
+2.2884±0.055%
+2.2659±0.041%
+2.2728±0.045%
+2.1709±0.068%
+2.1760±0.045%
+2.1897±0.058%
+2.1903±0.038%
+2.1847±0.073%
+2.1828±0.065%
+2.1703±0.038%
+2.1619±0.054%
+2.1597±0.049%
+2.0408±0.042%
+1.9871±0.067%
+2.0322±0.053%
+2.0089±0.054%
+2.0011±0.036%
+2.0157±0.060%
+
+54.908±0.067
+55.079±0.065
+57.85±0.21
+58.019±0.077
+57.808±0.094
+68.47±0.12
+69.556±0.097
+73.78±0.14
+73.19±0.10
+73.56±0.12
+69.33±0.14
+69.144±0.094
+72.176±0.098
+73.24±0.12
+103.42±0.19
+104.87±0.20
+108.44±0.27
+109.94±0.27
+112.15±0.44
+109.07±0.17
+
+54.798±0.086
+55.033±0.069
+57.53±0.27
+57.47±0.29
+57.38±0.24
+68.33±0.15
+69.45±0.12
+73.68±0.15
+73.04±0.13
+73.39±0.15
+69.26±0.15
+69.07±0.10
+72.08±0.11
+73.12±0.14
+102.3±1.2
+102.0±3.1
+107.74±0.87
+109.84±0.28
+112.05±0.45
+108.92±0.23
+
+2.4827±0.0021
+2.4896±0.0010
+2.5270±0.0052
+2.5079±0.0086
+2.5116±0.0068
+2.4248±0.0025
+2.4344±0.0018
+2.468±0.0018
+2.4684±0.0021
+2.4632±0.0026
+2.4408±0.0018
+2.4248±0.0012
+2.4275±0.0017
+2.4297±0.0020
+2.425±0.014
+2.402±0.035
+2.4215±0.0087
+2.3790±0.0017
+2.3770±0.0021
+2.3866±0.0020
+
+a
+b
+c
+d
+e
+f
+
+Measured from base of layer P at drill site.
+All isotope ratios are activity ratios. All errors are given at one standard deviation.
+Age not corrected for detritus.
+Ages corrected for initial 230Th assuming that 232Th reﬂects detritus with (232Th/238U)act = 1.21 ± 0.5, (230Th/238U)act = 1.0 ± 0.1, and (234U/238U)act = 1.0 ± 0.1.
+Back-calculated from measured ratio and corrected age.
+Decay constants are those of Cheng et al. (2000).
+
+tufas draping from the top of the overhang. At times, these carbonate
+drapes become too heavy and collapse to the ﬂoor of the rock shelter.
+It is not surprising that such a block could go unnoticed given the limited exposure provided by the core.
+The measured ages of coeval sub-samples of #5 and #12 scatter
+somewhat more than expected from analytical errors. Such scatter
+could be caused by minor post-crystallization mobility of uranium. We
+note that two fractions of #5 (5a and 5b) are in good agreement, suggesting that perhaps only 5c has been perturbed. In the case of #12,
+the lowest sample, none of the three fractions are in mutual agreement
+
+and their ages range over about 3%, suggesting the sample has failed to
+retain a closed U–Th system or contains variable amounts of secondary
+carbonate.
+Mean accumulation rates vary considerably over the dated stratigraphic interval. For the uppermost 14 m, (from ~1 m above the excavation ﬂoor to a depth of 13.4 m in the core-hole, deposited from 55 to
+73 ka), this rate is 80 cm/ka. For the next ~4.6 m (to 18 m and 102 ka)
+the apparent rate is only 17 cm/ka. This is followed by a rate of
+130 cm/ka for the bottom-most segment of the core (to 28.5 m and
+110 ka). There may be some missing section, or a hiatus, in the segments
+between 5 and 6 m, and 13 and 18 m. The ﬁrst hiatus, between ca. 57
+and 68 ka, was also suggested by previous dating of samples from the
+Romaní well, which penetrates ca. 6.4 m below the current excavation
+ﬂoor. In the well, the two lowermost dates indicated an age jump
+from 61.0 ± 2.0 to 70.0 ± 2.0 ka over a stratigraphic distance of only
+0.6 m (Vaquero et al., 2013). The strata with the highest accumulation
+rate observed in the core-hole were deposited from 102 ka to ~110 ka,
+coincident with the Last Interglaciation during early MIS 5. The lowest
+accumulation rate, from 73 to 102 ka, coincides with the later parts of
+MIS 5, including sub-stages 5a, 5b, and 5c. The relatively low accumulation rates during this interval indicate that dry conditions prevailed at
+the site making it attractive for occupation, as indicated by the presence
+of burned travertine and sand observed in the core.
+4. Discussion and conclusions
+
+Fig. 5. Age-depth plot of new U-series ages for Abric Romaní samples from excavation and
+drill core.
+
+The lithology of the core and our new dates indicate that strata much
+like the archeologically-rich strata excavated previously at Abric Romaní
+extend a further N30 m below the current excavation level, with varying
+accumulation rates, to an age of at least ~110 ka. Burned travertine and
+sand observed in the core at depths of ~13 to 18 m below current excavation levels are dated to ages of ~73 to 102 ka, indicating that human presence at the site likely extends N 40 ka beyond that known from presently
+excavated levels. Although Paleolithic archeological assemblages with
+dates approaching 100 ka were formerly considered uncommon in Iberia,
+there is now growing geochronologic evidence suggesting that humans
+occupied Mediterranean Spain during the Last Interglacial. For example,
+
+406
+
+W.D. Sharp et al. / Journal of Archaeological Science: Reports 5 (2016) 400–406
+
+several sites in northeast Iberia contain archeological layers that can be
+attributed to MIS 5, e.g., Pedra Dreta and Can Garriga (Giralt et al.,
+1995), Arbreda (Soler and Maroto, 1987), Estret de Tragó (Martínez
+Moreno et al., 2004) and Rinoceront Cave (Daura et al., 2005).
+Our new dating shows that human habitation at Abric Romaní likely
+extends over ~ 60 ka and that future excavation at the site will help
+assess the presence and character of human occupation of the Iberian
+Peninsula during MIS 5. The new dates provide a geochronological
+framework for planning future excavations and show that Abric Romaní
+will remain an archeological site with unusually reliable and precise age
+control for many years to come.
+Acknowledgments
+This material is based upon work supported by The Leakey Foundation and the Ann and Gordon Getty Foundation.
+References
+Allue, E., Burjachs, F., Giralt, S., Vallverdú, J., Juliá, R., 1996. Paleoenvironments from a
+Middle Paleolithic site (Abric Romaní, Barcelona, Spain). In: Facchini, F., Palma di
+Cesnola, A.A., Piperno, M., Peretto, C. (Eds.), The First Human and Their Cultural
+Manifestation — Lower-Middle Palaeolithic — The Upper Palaeolithic, Forli,
+A.B.A.C.O., XIII UISPP Congress 2, pp. 347–354.
+Bischoff, J.L., Mora, R., Julia, R., 1988a. Uranium-series dating of the Mousterian occupation
+at Abric Romaní, Spain. Nature 332, 68–70.
+Bischoff, J.L., Ludwig, K., Garcia, J.F., Carbonell, E., Vaquero, M., Stafford, T.W., Jull, A.J.T.,
+1994. Dating of the Basal Aurignacian Sandwich at Abric Romaní (Catalunya, Spain)
+by radiocarbon and uranium-series. J. Archaeol. Sci. 21, 541–551.
+Burjachs, F., Julià, R., 1994. Abrupt climatic changes during the last glaciation based on
+pollen analysis of the Abric Romaní, Catalonia, Spain. Quat. Res. 42, 308–315.
+Burjachs, F., Julià, R., 1996. Palaeoenvironmental evolution during the Middle-Upper
+Palaeolithic transition in the NE of the Iberian Peninsula. In: Carbonell, E., Vaquero,
+M. (Eds.), The Last Neanderthals, the First Anatomically Modern Humans: A Tale
+About the Human Diversity. Universitat Rovira i Virgili, Tarragona, pp. 377–383.
+Cáceres, I., 1998. Le niveau I de l'Abric Romaní (Barcelone, Espagne): séquence
+d'intervention des différents agents et processus taphonomiques. In: Brugal, J.-P.,
+Meignen, L., Patou-Mathis, M. (Eds.), Économie préhistorique: les comportements
+de subsistance au Paléolithique. Éditions APDCA, Sophia Antipolis, pp. 173–180.
+Cáceres, I., Rosell, J., Huguet, R., 1998. Séquence d'utilisation de la biomasse animale dans
+le gisement de l'Abric Romaní (Barcelone, Espagne). Quaternaire 9, 379–383.
+Carbonell, F., Castro-Curel, Z., 1992. Palaeolithic wooden artefacts from the Abric Romaní
+(Capellades, Barcelona, Spain). J. Archaeol. Sci. 19, 707–719.
+Carbonell, E., Guilbaud, M., Mora, R., 1985. Application of the logical analytical system to
+the Middle Paleolithic period. Cah. Noir 2, 11–70.
+Castro-Curel, Z., Carbonell, E., 1995. Wood pseudomorphs from level I at Abric Romaní,
+Barcelona, Spain. J. Field Archaeol. 22, 376–384.
+
+Cheng, H., Edwards, R.L., Hoff, J., Gallup, C.D., Richards, D.A., Asmerom, Y., 2000. The halflives of uranium-234 and thorium-230. Chem. Geol. 169, 17–33.
+Cheng, H., Edwards, R.L., Shen, C.-C., Polyak, V.J., Asmerom, Y., Woodhead, J., Hellstrom, J.,
+Wang, Y., Kong, X., Spötl, C., Wang, X., Alexander, E.C., 2013. Earth Planet. Sci. Lett.
+371–372, 82–91. http://dx.doi.org/10.1016/j.epsl.2013.04.006.
+Daura, J., Sanz, M., Vaquero, M., 2005. El Pleistoceno de la Cova del Rinoceront
+(Castelldefels, Barcelona). In: Bicho, N.F. (Ed.), O Paleolítico. Actas do IV Congresso
+de Arqueologia Peninsular (Faro, 14 a 19 de Setembro de 2004). Universidade do
+Algarve, Faro, pp. 217–225.
+de Lumley, H., Ripoll, E., 1962. Le remplissage et l'industrie moustérienne de l'Abri Romaní. l'Anthropologie 66, 1.
+Giralt, S., Vallverdú, J., Sala, R., Rodríguez, X.P., 1995. Cronoestratigraﬁa i paleoclimatologia
+de l'ocupació humana a la vall mitjana del Ter al pleistocé mitjà i superior inicial. In:
+Agustí, B., Burch, J., Merino, J. (Eds.), Excavacions d'urgència a Sant Julià de Ramis
+(Anys 1991–1993). Centre d'Investigacions Arqueològiques, Girona, pp. 22–36.
+Higham, T., Douka, K., Wood, R., Bronk Ramsey, C., Brock, F., 43 others, 2014. The timing
+and spatiotemporal patterning of Neanderthal disappearance. Nature 512, 306–309.
+Laplace, G., 1962. Le Paléolithique Supérieur de l'Abri Romaní. l'Anthropologie 66, 36–43.
+Ludwig, K.R., 2010. Isoplot/Ex version 3.75: A Geochronological toolkit for Microsoft
+Excel. Berkeley, California: Berkeley Geochronology Center Special Publication, No.
+4 (71 pp.).
+Ludwig, K.R., Wallace, A.R., Simmons, K.R., 1985. The Schwartzwalder uranium deposit, II:
+age of uranium mineralization and Pb-isotope constraints on genesis. Econ. Geol. 80,
+1858–1871.
+Martínez Moreno, J., Mora, R., Casanova, J., 2004. El marco cronométrico de la Cueva de
+l'Estret de Tragó (Os de Balaguer, La Noguera) y la ocupación de la vertiente sur de
+los Prepirineos durante el Paleolítico Medio. Salduie 4, 1–16.
+Mora, R., Muro, I., Carbonell, E., Cebrià, A., Martínez, J., 1988. Chronostratigraphy of ‘Abric
+Romaní’. L'Homme de NéandertalLa chronologie vol. 1. E.R.A.U.L., Liège, pp. 53–59.
+Muro, I., Mora, R., Carbonell, E., Cebrià, A., 1987. Ensayo de interpretación del marco
+geomorfológico de un yacimiento del Paleolítico Medio catalán: Abric Romaní
+(Capellades, Anoia). Cypsela VI, pp. 125–131.
+Pastó, I., Allué, E., Vallverdú, J., 2000. Mousterian hearths at Abric Romaní, Catalonia
+(Spain). In: Stringer, C.B., Barton, R.N.E., Finlayson, J.C. (Eds.), Neanderthals on the
+Edge. Oxbow Books, Oxford, pp. 59–67.
+Solé, A., Allué, E., Carbonell, E., 2013. Hearth-related wood remains from Abric Romaní
+layer M (Capellades, Spain). J. Anthropol. Archaeol. 69, 535–559.
+Soler, N., 1986. El Paleolític Superior al NE. de Catalunya (Doctoral dissertation)
+Universidad de Barcelona.
+Soler, N., Maroto, J., 1987. L'estratigraﬁa de la cova de l'Arbreda (Serinyà, Girona). Cypsela
+VI, pp. 53–66.
+Vaquero, M., 1992. Abric Romaní. Processos de canvi tecnològic al voltant del 40,000 BP.
+Continuïtat O Ruptura. Estrat. 5, pp. 9–156
+Vaquero, M., 1999. Intrasite spatial organization of lithic production in the Middle
+Palaeolithic: the evidence of the Abric Romaní (Capellades, Spain). Antiquity 73,
+493–504.
+Vaquero, M., Pastó, I., 2001. The deﬁnition of spatial units in Middle Palaeolithic sites: the
+hearth-related assemblages. J. Archaeol. Sci. 28 (11), 1209–1220.
+Vaquero, M., Allué, E., Bischoff, J.L., Burjachs, F., Vallverdú, J., 2013. Environmental, depositional and cultural changes in the Upper Pleistocene and Early Holocene: the
+Cinglera del Capelló sequence (Capellades, Spain). Quaternaire 24 (1), 49–64.
+
+

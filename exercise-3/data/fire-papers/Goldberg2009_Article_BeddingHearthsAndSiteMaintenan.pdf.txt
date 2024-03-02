@@ -1,0 +1,2167 @@
+Archaeol Anthropol Sci (2009) 1:95–122
+DOI 10.1007/s12520-009-0008-1
+
+ORIGINAL PAPER
+
+Bedding, hearths, and site maintenance in the Middle Stone
+Age of Sibudu Cave, KwaZulu-Natal, South Africa
+Paul Goldberg & Christopher E. Miller &
+Solveig Schiegl & Bertrand Ligouis & Francesco Berna &
+Nicholas J. Conard & Lyn Wadley
+
+Received: 31 October 2008 / Accepted: 6 April 2009 / Published online: 13 May 2009
+# Springer-Verlag 2009
+
+Abstract Micromorphological analysis of sediments from
+the Middle Stone Age site of Sibudu Cave, KwaZulu-Natal,
+South Africa, provides a high-resolution sequence and
+evidence of site formation processes of predominantly
+anthropogenic deposits. This methodology allows for a
+detailed interpretation of individual anthropogenic activities, including the construction of hearths and bedding and
+the maintenance of occupational surfaces through the sweep
+out of hearths and the repeated burning of bedding. This
+analysis also provides a context for evaluating other studies
+at the site relating to magnetic susceptibility, paleobotany,
+paleozoology, anthracology, and studies of ochre.
+Keywords Micromorphology . Organic petrology . Middle
+Stone Age . Combustion features . Char . Charcoal . Secretinite
+
+P. Goldberg : F. Berna
+Department of Archaeology, Boston University,
+Boston, MA, USA
+P. Goldberg
+e-mail: paulberg@bu.edu
+P. Goldberg : C. E. Miller (*) : S. Schiegl : B. Ligouis :
+N. J. Conard
+Institut für Ur- und Frühgeschichte und Archäologie des
+Mittelalters, Abteilung Ältere Urgeschichte und Quartärökologie,
+Eberhard-Karls-Universität Tübingen,
+Tübingen, Germany
+e-mail: christopher.miller@uni-tuebingen.de
+L. Wadley
+Institute for Human Evolution and School of Geography,
+Archaeology and Environmental Studies,
+University of the Witwatersrand,
+Johannesburg, South Africa
+
+Introduction
+The site of Sibudu has been studied intensively over the last
+decade, and numerous in-depth publications have appeared
+by specialists in a variety of fields that include lithic
+studies, paleobotany, paleozoology, paleomagnetism, and
+dating (e.g., Wadley 2006; Wadley and Jacobs 2004, 2006).
+Although this work has been meticulous and has been
+carefully tied to the fine stratigraphic units recognized
+during excavation, results from these studies—as is
+generally the case for archaeological excavations—are
+somewhat synoptic in nature. In other words, lithostratigraphic units were recognized at the site and materials
+collected from them were analyzed. What is underdeveloped, however, is an integration of the finds with the
+specific context from which individual objects (e.g., seeds,
+charcoal, microliths, and bones) are confined. Are hearths,
+for example, composed of woody charcoal, nonwoody
+plants (e.g., grasses), or mixtures of both? What is the
+arrangement of these combustibles in the fireplace: is
+charcoal always at the base of the hearth overlain by ashes,
+or are ashes intimately mixed with charcoal? Similarly, are
+phytoliths in direct physical association with specific types
+of charred remains? Can small gaps be recognized that
+attest to lack of occupation that are not apparent in the
+field? In other words, examination of the microstratigraphic
+context at a microscopic scale has so far not been
+adequately addressed here and in many if not most
+excavations, particularly where anthropogenic components
+are concerned (Courty 2001).
+Since the Sibudu deposits are largely anthropogenic, it is
+critical to investigate them intact with their original
+integrity maintaining the highest possible degree of resolution to resolve even single episodes of human activities. It
+is now becoming clear that anthropogenic deposits contain
+microscopic information about past human lifeways with
+
+96
+
+equal if not greater value than other macroscopic facets of
+the archaeological record typically studied, such as bones,
+lithics, and plants (Courty 2001; Goldberg and Macphail
+2006; Berna et al. 2007).
+The technique of micromorphology is particularly well
+suited to provide the basis for microscopic highresolution study of anthropogenic sediments and the
+human events and activities that led to their formation
+(Courty 2001; Courty et al. 1989; Berna and Goldberg
+2007). Micromorphological and microscopic analysis
+permits an integration of macroscopic and microscopic
+evidence into the microstratigraphy and therefore allows
+for the contextualization of artifacts and features with a
+high degree of resolution.
+The aim of this study is to address the site formation
+processes—anthropogenic, biogenic, diagenetic, and
+geogenic—operating at Sibudu Cave, using micromorphological techniques of intact deposits. Although stress is
+placed on teasing out human activities and interpreting the
+underlying human behavior responsible for the site’s
+primarily human-derived deposits, we will attempt to relate
+the micromorphology to results of other specialists at the
+site (Wadley 2006) and show how more informed interpretations can be made if the micromorphological data of
+intact deposits are taken into account [e.g., geoarchaeology
+(Pickering 2006); magnetic studies (Herries 2006)].
+
+Fig. 1 Location of Sibudu Cave
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+Site setting and stratigraphy
+The site of Sibudu is situated within a sandstone cliff
+reentrant that overlooks the Tongati River. It is about 40
+km north of Durban and 15 km inland from the Indian
+Ocean (Figs. 1 and 2; Wadley and Jacobs 2006). The
+bedrock is comprised of sandstones of the Natal Group,
+which at the site consist of reddish quartz and feldspar-rich
+medium sand and some silt (Pickering 2006); clay can be
+seen in thin section as an interstitial binder between the
+coarser grains.
+The stratigraphy has been well described in a number of
+papers (Jacobs et al. 2008; Wadley and Jacobs 2004, 2006)
+and accompanied by several OSL dates (Table 1). Overall,
+however, the deposits are predominantly anthropogenic,
+with numerous lenses of ashy and charcoal-rich units that
+appear to represent, at least in the field, intact hearths.
+Many of these remains of combustion-related units are
+lenticular and thus difficult to trace horizontally over
+distances of more than tens of centimeters (Wadley 2006),
+explaining the discrepancies between the general stratigraphic sequence as presented in Table 1 and the actual
+stratigraphic sequence collected within the micromorphological samples, as presented in Table 2. In some areas,
+excavators noted both individual circular hearths in outline,
+as well as superposed burning episodes, although individual
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+Fig. 2 Excavation plan of Sibudu cave
+
+events in the field were difficult to distinguish (cf.,
+micromorphological results below). Wadley noted,
+Generally, hearths and the sediments that separate
+them are almost indistinguishable from one another
+based on their phytolith content, suggesting that there
+may once have been more hearths than are currently
+recognisable (Schiegl et al. 2004: 192). Ash may have
+been spread and trampled (Wadley 2006: p. 324).
+
+97
+
+unpromoted polyester resin (Advance Coatings, Westminster, MA, USA) and diluted with styrene at a ratio of seven
+parts resin to three parts styrene; the mixture was catalyzed
+using MEKP. A similar procedure was carried out by S.
+Schiegl in Tübingen, but using a different resin, Viscovoss
+N 50 S. After gelling, the blocks were heated overnight at
+60°C and then trimmed to size for thin sectioning. P.
+Goldberg’s slides measured 50×75 mm and were manufactured by Spectrum Petrographics (Vancouver, WA, USA);
+those in Germany were somewhat larger (60×80 mm) and
+made by Th. Beckmann (Schwülper-Lagesbütel, Lower
+Saxony, Germany). All thin sections were ground to a
+uniform thickness of 30 µm. The thin sections were analyzed
+and described using standard micromorphological nomenclature (Courty et al. 1989; Stoops 2003).
+Organic petrography analyses were performed to investigate the organic constituents and especially organic
+residues from the combustion features (Berna and Goldberg
+2007). These analyses were made on impregnated blocks that
+corresponded to the mirror slices employed to make the thin
+sections. The surface of the blocks were polished with 1-mm
+diamond suspension and with 0.7-μm alumina (Al2O3)
+suspension, following techniques developed for coal sample
+preparation (Taylor et al. 1998). The blocks were studied
+using reflectance and UV microscopic techniques to identify
+organic-derived combustion materials not commonly identified in standard micromorphological examination. Reflectance, which is measured as a percentage of incident light
+reflected by the components at the polished surface of the
+impregnated blocks, reveals the thermal maturity of the
+material. Reflectance measurements can therefore be used
+to investigate the extent to which organic material has
+been heated. Identification and classification of organic
+components is based on morphological characteristics. For
+a more detailed description of the application of organic
+petrographic methods to archaeology and combustion
+material, see Schiegl et al. (2004) and Ligouis (2006).
+
+Results
+Methods
+Undisturbed samples were collected in different excavation
+seasons by two of us (S. Schiegl in 2002, P. Goldberg in
+2004, and S. Schiegl in 2005; Table 2; Fig. 3). We removed
+them either by cutting out blocks and wrapping them tightly
+with toilet paper and packaging tape or, where too loose or
+unconsolidated, by using plaster bandages to preserve
+sample integrity (see Goldberg and Macphail 2003 for
+details). Samples collected by P. Goldberg were processed
+at the Micromorphology Laboratory, Boston University,
+where they were partially unwrapped and oven dried for
+several days at 60°C. They were then impregnated with
+
+Micromorphology Micromorphological analysis revealed
+not only the mineral and organic components in the deposits
+but, as importantly, the fabric of these elements (the total
+organization and spatial arrangement of the constituents of
+the material), both with regard to themselves and to other
+components. Thus, investigation of the composition and
+texture, as well as the fabrics in true space, allows us to make
+more robust interpretations about where such materials came
+from, how they were deposited, and how they were modified
+after they were deposited. Below, we present the results of
+micromorphological observations in two parts. The first
+provides an account of the basic organic and mineral
+
+98
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+Table 1 Stratigraphy of Sibudu Cave, after Schiegl and Conard 2006
+Strata
+
+Field observations
+
+Iron age sequence
+BSV
+BSS
+
+Brown silt with vegetal material
+Brown sand with stones
+
+Eastern MSA sequence
+Co
+Bu
+
+Coffee-colored, sandy deposit
+Light gray, sandy silt with lots of small roof spalls
+
+LBMOD
+MC
+Mou, DMou, LMou
+Ore
+Ore2 and PB
+Cad
+Pu
+RD
+
+Northern MSA sequence
+MOD
+OMOD
+
+RSp
+YSp
+BSp
+BSp2
+SPCA
+BL
+Or
+Mi
+SS, Che
+
+Eb
+Ma
+MY, BO, BP,
+P (Iv, BM)
+OP
+Su, Su2
+
+Thin light-brown lens with white flecks of gypsum
+Small white ash lens that does not reach the eastern section wall
+Small lenses
+Dark-brown silt
+Deep hearths called ore 2 and PB belong to ore
+Darker-brown deposit in square C2 and beneath this is a small
+patch of orange sandy silt, Pu
+Small patch of orange sandy silt beneath Cad
+RD is an organic-poor gray layer with a great many spalls and
+stone tools; it may be a lag deposit adjacent to RSp in some
+squares and in place of RSp in the eastern part of the grid,
+but the relationship between the two layers is not clear
+The youngest layer at the top of the northern sequence; a mottled
+brown silty sand with flecks of white ash, gypsum, and charcoal
+OMOD below MOD, in squares B4, C2, C3, and C4, is a thick
+member comprising a palimpsest of hearths with orange–brown
+burnt earth lenses at their bases, black carbonized layers in their
+centers, and white, cream, or gray ash crowns
+A reddish-brown layer with white chalk-like grains of gypsum
+and calcium carbonate; it is present in all but two squares of the
+excavation grid and is thus a good marker layer for the site
+A discontinuous yellow–beige sandy silt
+A brown sandy silt with black and white flecks of charcoal and gypsum
+It contains the same brown matrix as BSp, but it contains many
+interfingering hearths and ash lenses
+A camel-colored or gray–white sand that contains calcium carbonate;
+darker deposits fill small pits that may be solution cavities in this layer
+A thin discontinuous black lens
+It is colored orange to beige
+Another black layer; distinguished by gypsum crystals that cling to
+its rock spalls
+Che is a thin, disjointed, and chestnut-brown fine sand that seems to
+be part of layer SS, a stony and partly compacted sand marbled with
+yellow, beige, and pink–orange (the deepest layer excavated in the
+main part of the excavation grid)
+A black, ashy layer
+A mahogany-brown silt that rests on several discontinuous layers: MY,
+BO, BP, and P
+MY looks like SS; BO is a burnt-ochre silt; BP is a brown silt with
+white flecks; P is an orange–brown sandy silt with white flecks of gypsum;
+the small lenses Iv (white ash) and BM (black ash) are probably parts of a
+hearth within P.
+A discontinuous, orange sand with crumbs of gypsum and charcoal.
+Thin, concreted, gritty layers of sulfur-yellow sand; this color is unique
+in the sequence; the two sulfur-colored layers are separated
+and underlain by chocolate-colored lenses, Ch and Ch2
+
+Absolute ages
+(C14 ages in
+italics; OSL ages
+in plain text)
+
+960±25 b.p. (Pta-8015),
+calibrated to AD
+1044–1171
+37.1±1.5 ka
+36.7±1.7 ka; 42 300±
+1 300 b.p. (Pta-8017)
+50.4±1.8 ka
+
+49.0±2.0 ka
+
+49.7±1.8 ka
+50.3±2.1 ka, 50.2±1.7 ka
+
+48.4±1.7 ka
+
+61.3±2.0 ka
+
+61.5±2.2 ka
+
+56.2±1.9 ka (SS)
+
+64.1±2.9 ka (P)
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+99
+
+Table 1 (continued)
+Strata
+
+Ch, Ch2
+G1
+Y1
+B/Gmix,
+B/Gmix2,
+BL2, BL3
+W
+BOr
+Ymix, YA1,
+YA2
+DRG
+GS/GS2
+PGS
+RGS, RGS2
+LBG, LBG2,
+LBG3, LBG4
+BS
+
+Field observations
+
+Absolute ages
+(C14 ages in
+italics; OSL ages
+in plain text)
+
+Chocolate-colored lenses
+A gray ash in the northeastern corner of square B5
+A yellow sandy silt with some spalls
+B/Gmix and B/Gmix2 are mottled brown–gray ashy deposits with
+some spalls; BL2 and BL3 are dark ash units within B/Gmix
+
+61.6±1.9 ka (Ch2)
+59.4±2.4 ka
+59.4±2.3 (B/Gmix)
+
+A white ash layer in the northeastern corner of square B5
+A deep-brown organic-rich deposit under B/Gmix2
+All are yellow ashy silts
+A small lens that occurs in only part of the trial trench; it is loose silt
+with small rock spalls and it is dark reddish gray (10 YR 3/1)
+GX is gray (5 YR 5/1) silty sand with ash and many small rock spalls;
+GS2 is a spit to artificially divide this layer
+This is loose pinkish-gray sand (5 YR 6/2) with few rock spalls
+Loose reddish-gray sand (5 YR 5/2); RGS 2 artificially splits this
+thick layer
+A series of light brownish-gray layers (10 YR 6/2) that are soft and
+silty with a few small rock spalls; LBG 2, LBG 3, and LBG 4 are
+arbitrary divisions of LBG; big rocks begin to encroach on the two
+squares during the LBG layers
+Loose brown sand with rock spalls and many encroaching rocks.
+At the base of this layer, a floor of rock stopped excavations; the rock
+may be bedrock, but it could be rock fall that can be removed when
+squares adjacent to the trial trench are excavated
+
+components that were found in virtually all the slides
+examined. The second part considers the arrangement of
+these constituents as represented by distinct and recurrent
+groups of similar composition and organization; these groups
+are designated as microfacies (Flügel 2004).
+Components A summary of the micromorphological components is presented in Table 3. Most of these basic components
+are found in all samples, although considerable variations
+occur in their proportions and organization from layer to layer.
+Bone, most of it burnt, was found in all samples. It
+usually consisted of sand-sized fragments, sometimes
+rounded or subrounded, although angular splinters were
+also noted. The bone fragments were sometimes chaotically
+distributed throughout the matrix, although in certain
+instances they formed beds or specific layers. Frequently,
+the bone formed “stringers” of fragments, which had the
+appearance of being crushed in place.
+Plant materials and derivatives make up the largest
+majority of components found in the thin sections. Charcoal,
+both woody and fibrous, is abundant, although some pieces
+appear only humified, as seen in oblique incident light. Some
+woody pieces of charcoal have clearly identifiable structures
+typical of woody plants (Kathleen Deckers 2008, personal
+communication). The wood usually appears angular but, in
+
+some instances, can also be rounded. The fibrous plant
+material usually forms layers of finely laminated material, not
+always charred but probably humified or reddened [cf.
+(Sievers and Wadley 2008)]. The long fibers, particularly
+the charred ones, are commonly found interfingered with or
+as isolated stringers within layers of phytoliths.
+Phytoliths are also an important component of sediments
+at Sibudu, sometimes being the sole component of a layer.
+Many different types of phytoliths appear to be represented,
+including forms that resemble cells and plant structures.
+Many appear to be rod-shaped long cells and cones, which
+are typical of sedges (Arlene Rosen 2008, personal
+communication). The phytoliths in some cases form
+laminated layers (see below, MF type 4), often associated
+with charred fibrous material. Layers of nothing but
+phytoliths are also found that do not exhibit any lamination
+(see MF type 4A). Although these layers of pure phytoliths
+are quite striking, phytoliths do occur in most samples,
+usually as isolated individuals. However, the amount of
+phytoliths and the occurrence of phytolith layers appear to
+increase in the upper portion of the sequence at Sibudu.
+Some forms of phytoliths found in slides from Sibudu
+appear vesicular, resembling “siliceous aggregates” as
+described by Schiegl and Conard (2006). These bodies
+often appear as isotropic aggregates that incorporate sand-
+
+100
+Table 2 List of micromorphological samples collected at
+Sibudu Cave
+
+Archaeol Anthropol Sci (2009) 1:95–122
+Sample number
+
+Square
+
+Stratigraphic unit(s)
+
+S. Schiegl SAMPLES
+SS-1
+
+B4/B5 line (east face of B5)
+
+BL
+Or
+Che
+SS
+SS hearth
+Eb
+BSP
+SPCA
+Hearth in Or
+Mi
+B/G Mix2
+Pink
+WA hearth
+YA
+
+SS-2
+
+B5B6/A5A6 line (north face of B5 and B6)
+
+SS-3
+
+B4/B5 line (east face of B5)
+
+SS-4
+
+North face of B4
+
+SS-5
+SS-6
+
+North face of B4
+B4/B5 line (east face of B5)
+
+SS-Daga Floor
+P. Goldberg SAMPLES
+SIB-04-1
+
+Samples designated SS were
+collected by Solveig Schiegl in
+2002 and 2005. Samples designated PG were collected by Paul
+Goldberg in 2004
+
+NA
+B4/B5 line
+
+SIB-04-2
+
+B4/B5 line
+
+SIB-04-4
+
+B4/B5 line
+
+SIB-04-5
+
+B4/B5 line
+
+SIB-04-6
+
+North face of B4
+
+sized grains of quartz and other phytoliths. Although found
+in other contexts as individual grains, they are also often
+found within layers composed almost solely of phytoliths,
+which are often laminated (MF type 4). The association of
+these aggregates with phytoliths retaining their original
+structure suggests that they are detrital and are not formed
+by melting of phytoliths (Schiegl et al. 1996; Schiegl and
+Conard 2006) but are probably organically formed.
+
+BUYA
+YA2
+BUYA2
+RSP
+BSP
+OMOD
+Ma/BO
+BM
+Pox
+Iron Age burnt hut floor
+Pinkish-gray sand
+Gray sand 2
+Gray rocky
+Hearth in gray rocky
+Midnight
+Orange under midnight
+Chestnut
+SS
+Ebony
+Ebony hearth
+Pox
+O[range] pox
+B[rown] pox
+G1
+RSP
+
+In addition to phytoliths, other microbotanical remains
+were found in the slides from Sibudu, including spores
+and diatoms. The spores (usually 20–30 µm in diameter)
+were found in only one slide (SS-5C) and generally
+occurred within localized domains. Diatoms were found in
+just one slide (SS-5A) and occurred within a clast of
+orange clay, probably originating from the Tongati river
+valley.
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+101
+
+Fig. 3 Field photos showing
+sample locations (see Table 2).
+a Location of samples SIB-04-5
+and SS-6 along the B4/B5 line.
+b Location of samples SIB-04-2
+and SIB-04-1 along the B4/B5
+line. c Location of samples SS4, SS-5, and SIB-04-6 at the
+north face of B4
+
+An interesting component found in only one slide (SS6A) are rounded 1.5-mm-diameter aggregates of fine
+organic matter, containing fragments of charcoal, bone,
+and quartz silt. They are found within a single layer, and we
+interpret them as small mammalian excrement or fecal
+pellets.
+The clastic components of the sediment at Sibudu span
+the range of size from centimeter-sized pieces of local
+bedrock to silt and clay. The larger clasts (1 to 2 cm) found
+in the samples are typically elongated and angular, usually
+oriented parallel to the bedding surface, although vertical
+and subvertical clasts were noted in some layers. The clasts
+consist of slightly metamorphosed sandstone and siltstone,
+representing roof fall from the local bedrock of the rock
+shelter. Some components within this size class were
+composed of cryptocrystalline silica and probably are lithic
+artifacts that were included in the sample block.
+
+Sand- to granule-sized pieces of weathered and unweathered volcanic rock were also found in some samples. These
+appear to be derived from doleritic dikes which crosscut the
+metamorphosed sand and siltstone bedrock of the region
+(Pickering 2006).
+A sand- and silt-sized component of the sediment is noted
+in all samples. The sand is usually angular to subangular,
+although some grains exhibit subrounding. The sand usually
+consists of quartz or feldspar, although sand-sized pieces of
+mica and clay (both fresh and weathered) were also present.
+Like the larger sand- and siltstone clasts, the sand-sized grains
+were derived from the physical and chemical deterioration of
+the rock shelter wall. It is possible that some grains were
+“tracked in” to the rock shelter by humans or animals,
+although this was probably a relatively minor process.
+Silt grains occur as a small component of all samples
+and are usually very fine (20–30 µm), consisting mostly
+
+102
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+Table 3 Components identified in thin section from micromorphological samples from Sibudu Cave
+Component
+
+Description and comments
+
+Representative thin sections
+
+Bone (and teeth)
+
+Generally sand to centimeter-sized pieces
+Rounded to subrounded; angular splinters
+Dark brown to yellow to white in color
+Burned and unburned; some calcined
+Bedded and chaotically distributed; in some cases,
+fragments are concentrated in layers or broader
+bands (e.g., SS-5B) and in stringers
+Locally crushed in place, with no displacement
+
+All; SS-4; SS-6B
+
+Sand-sized up to centimeter-sized
+Varies from nondescript pieces and chunks to those
+with clear vessel and tracheid structures
+Mostly charred, but many appear only to be humified or
+reddened (particularly as seen in oblique incident light—OIL)
+Mostly angular but some are clearly well rounded
+Isolated pieces to bedded ones
+Thin fibrous grains of charred plant material generally aligned
+within layers but also distributed throughout finer-grained
+matrix material (of varied composition)
+Mostly charred but many appear only to be humified or reddened
+(particularly as seen in OIL)
+Commonly interfingers with or occurs as thing stringers in
+phytolith layers
+Circular brown in color
+Generally 20 to 30 µm across
+Occur only in certain slides (e.g., SS-5C)
+
+SS-6B
+
+Charcoal: wood
+
+Charcoal: fibrous
+
+Spores
+
+Diatoms
+
+Phytoliths
+
+Siliceous aggregates
+
+Clastic elements
+Roof fall and
+lithic artifacts
+
+Volcanic rocks
+
+Dispersed throughout sediment but commonly occur as local
+domains in certain slides and regularly in concentrated zones
+Occurs predominantly in one slide within chunk of orange clay,
+likely derived from river valley
+Several unidentified types
+Many types
+Occur as microfacies type 4: microlaminated phytoliths with little
+or virtually no mineral or organic matrix
+Also occur as in microfacies type 4A where they are nonlaminated
+and mixed with rock fragments, charcoal, and crushed bone
+Consist of many plant types (nonidentified), including cells and
+vesicular siliceous types, which may be taken for “siliceous aggregates”
+Illustrated in Schiegl et al. (2004) but intact presence as grains within
+thin sections is not clear
+Commonly occur as clear isotropic aggregates in XPL that contain
+phytoliths and silt-sized quartz grains
+Seem to be detrital or organically formed
+Are commonly found within layers of phytolith ashes that are not melted;
+thus, the siliceous aggregates at Sibudu are probably not produced by
+the melting of phytoliths
+Possibly equivalent to “bubbly” siliceous grains with vesicular structure
+[c.f., Schiegl et al. (2004) Figs. 6 and 7]
+Generally elongated and quite angular chunks of slightly metamorphosed
+sandstone and some siltstone
+1–2 cm across
+Generally parallel to bedding although in some cases clasts are vertical
+Generally sand- to granule-sized
+Weathered and unweathered dolerite and other volcanic rocks occurring
+as traces within some samples
+
+SS-5B; SS-5C
+
+SS-5C
+
+SS-5A
+
+SS-5B; SS-5C;
+SS-6A
+
+SS-5D
+
+Lithic artifact:
+SS-5C
+Eboulis: SS-5A;
+SS-5C
+SS-5D
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+103
+
+Table 3 (continued)
+Component
+Silt
+
+Sand
+
+Clayey aggregates
+from river valley
+
+Description and comments
+
+Representative thin sections
+
+Occurs in trace amounts in most samples
+Very fine-sized, typically ∼20–30 µm
+• Mostly quartz, but some traces of mica, and even fewer
+heavy minerals
+Predominantly quartz and feldspar, but other individual grains
+of minerals from bedrock also observed (mica, clay), which are
+both fresh and weathered
+Angular to subangular; much fewer subrounded
+Derived from breakdown of shelter wall and ceiling; possibly
+some tracking in of grains but relatively minor
+Amount of quartz variable from sample to sample but relatively
+higher amounts of sand in upper part of some samples
+(e.g., sample SS-4)
+Occurs in small (<3%) amounts in most samples
+Variable size, from fine sand up to several millimeters
+Generally rounded and subcircular shape
+Comprised of reddish clay some with inclusions of quartz silt;
+in one case (SS-5B), diatoms are found
+Most are fire reddened
+One large, millimeter-sized grain exhibits strong gleying
+(SS-261); a finer clay clast contains diatoms (see above)
+Generally scattered but some broadly confined to layers
+
+All
+
+Generally rare at the site, having been subjected to decalcification
+
+Clumps and stringers
+of ash: SS-5A
+Massive, cemented
+ash: SS-567
+
+SS-4
+
+SS-5A; 5B
+SS-261
+(gleyed donga)
+
+Fine clastic elements
+Calcareous ash
+
+Where found, generally as millimeter-sized clumps or as thin
+(∼1-mm stringers) or fine (∼10 µm) partially dissolved
+crystals/grains of calcite
+Because of dissolution, typical rhomb shapes of ashes are relatively
+rare (except SS-5A, SS-5C)
+In sample SS-567, entire sample is cemented with calcite derived
+from ash, which is partially recrystallized or at least masked by
+secondary cementation
+Most calcite ash is secondarily replaced with microcrystalline
+isotropic phosphate (see below)
+Found particularly above layer GR but also some traces are found
+below GR
+Precipitates
+Calcite
+
+Phosphate
+
+Gypsum
+
+Generally rare but secondary cementation of ashes (e.g., SS-567)
+With secondary cementation of ashes, bones are locally impregnated
+with fine (∼10-µm size) calcite
+Tends to be more common in SS-567 and SS-569
+Diffuse, nondescript areas of thin sections—particularly in areas
+between more recognizable materials such as charcoal, phytoliths,
+bone, or organic matter—which are isotropic in XPL
+In PPL, generally pale yellow to yellow
+Locally fill circular voids and spaces of spores (as seen in Schiegl
+and Conard 2006, Fig. 2, p. 158)
+Phosphatized ash found in most layers and slides
+Locally forms crusts on phosphatic ash layers
+(e.g., SIB-04A; SS-5C; SS-6B)
+Occurs in many slides but seems to be restricted within the
+upper part of the stratigraphic section and particularly certain
+layers (e.g., LBMOD, MOD, RSp, BSp, P, OP); generally very
+low below GR (Schiegl and Conard 2006)
+
+SS-567
+
+Phosphatized
+ash: SS-4
+
+SIB-04-4B,
+SIB-04-4C
+
+104
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+Table 3 (continued)
+Component
+
+Description and comments
+
+Representative thin sections
+
+Overall, with globule, massive displacive shapes that range in size
+from sand size to millimeter to centimeter size
+Globule-like accumulations are found either as displacive crystal masses or
+Can coalesce to form bands or “layered” accumulations (e.g., SIB-04-4B)
+Crystal and shape within globules is variable and include:
+Microcrystalline type with crystal size <5 µm (SS-4)
+
+SIB-04-5A,
+SIB-04-5B
+SIB-04-6
+
+Small (∼60–80 µm), lenticular/lozenge shape crystals (SS-5C),
+some of which are undergoing dissolution
+Mosaic of large (∼0.6 to 1.3 mm) interlocking crystals (SIB-04A)
+These commonly replace or overgrow the finer displacive
+microcrystalline and lenticular types
+Euhedral to subhedral shapes
+Miscellaneous
+Small mammal excrements
+
+Eggshell
+Char
+
+Rounded pellets of burnt bone and reddish fibrous material,
+∼1.5 mm in diameter
+Contain flecks of charcoal, quartz silt, and slightly coarser angular
+splinters of bone in a somewhat porous matrix of finely divided
+organic matter that is brown in color
+One burnt tablet-shaped fragment from SS-569
+Isolated and surrounded by ashy but partially decalcified matrix
+Occurs as grains in certain samples
+In SS-5C, occurs as vesicular, porous black grain ∼1.2 mm across,
+with some fine cracks
+
+SS-6A
+
+SS-569
+SS-4; SS-5B;
+SS-5C
+
+In SS-5C, occurs as broken finely fissured angular blocks,
+∼500–750 µm across
+
+of quartz, although some mica and heavy minerals were
+found within this size class. Clay occurs in several samples
+but as aggregates usually within the range of fine sand
+(>62 µm) to several millimeters in diameter and containing inclusions of silt quartz. They are typically rounded
+and subcircular, occurring throughout the matrix as
+individual grains but also exhibiting bedding in certain
+instances. One large millimeter-sized clay aggregate
+exhibits gleying (in sample SS-261). This, along with
+the presence of an aggregate of finer clay with diatom
+inclusions, suggests that the aggregates are derived from
+the local Tongati river valley. The clay aggregates also
+resemble clay aggregates found in a sample from a “Daga
+floor.” This is an Iron Age trampled floor constructed
+from clay brought to the cave from the Tongati River.
+Many of the aggregates from the Middle Stone Age
+(MSA) layers appear fire-reddened.
+Organic constituents by organic petrology Although both
+woody and herbaceous charcoal was identified using
+standard micromorphological techniques, numerous submillimeter constituents are present in the thin sections and
+defy simple identification with standard methods. Organic
+petrographic microscopy aided in identifying these constit-
+
+uents and emphasized the complexity and variety of
+combusted material present in archaeological features
+(Fig. 4).
+Organic petrography confirmed that a major organic
+constituent of the sediment at Sibudu is charcoal, both
+woody and herbaceous. This material can be classified
+as “fusinite” and “inertodetrinite” (fusinite is fragments
+that are smaller than 20 µm). Both are products of
+incomplete burning, or charring, of lignin- or cellulosecontaining tissues (Taylor et al. 1998). Most of the
+identifiable charred plant material was derived from
+herbaceous plants, with identifiable tissues from leaves,
+stems, and roots being the most numerous. Reflectivity
+measurements on the charcoal particles have shown
+that the reflectance mean values (Ro) range from 1.27%
+to 1.40%.
+Two types of amorphous organic combustion remains
+were identified in samples from Sibudu: a type with a
+typically vesicular texture and a type with a cracked
+texture. The first type was found as isolated bodies,
+subrounded with a diameter of 10 µm to 1 mm, and they
+exhibited no evidence of cell structure. Bubbles or
+vesicles give the bodies a highly porous nature, and they
+are often thin walled. The microstructure of these
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+105
+
+Fig. 4 a Charcoal: high-reflecting wood-derived fusinite. Incident
+light, oil immersion. b Charcoal: fusinitized herbaceous tissues
+(medium reflecting) and high-reflecting char (bottom right). Incident
+light, oil immersion. c Charcoal: leaf-derived fusinite, medium
+reflecting. Incident light, oil immersion. d Fat-derived char showing
+characteristic random pore distribution. Note the droplet-shaped char
+in the upper part of the particle. Incident light, oil immersion. e Char
+
+with charcoal inclusions (white fragment S and inertodetrinite Id).
+Incident light, oil immersion. f Thin coating of fat-derived char
+surrounding a quartz grain. Incident light, oil immersion. g Secretinite
+showing characteristic internal notches and high reflectivity. Incident
+light, oil immersion. h Brown–yellow fluorescing resinite with
+mineral inclusions. Incident light, fluorescent mode, oil immersion
+
+homogenous or finely heterogeneous isotropic particles
+and their droplet-shaped occurrence suggest that these
+bodies were originally fluid and that they underwent a
+degassing process but have since hardened. These bodies
+
+resemble char and are probably derived from the burning
+of flesh or animal fat. The mean reflectance values range
+from 0.91% to 2.20%, correlating well with organic
+constituents that form by charring (such as fusinite),
+
+106
+
+which are characterized by a high reflectivity (Taylor et
+al. 1998).
+The second type of amorphous bodies, those with a
+cracked structure, can exhibit an oval or rounded form,
+although forms with an irregular outline were noted. They
+are typically homogenous, isotropic, and 10 to 450 µm in
+diameter. Their mean reflectance values range from 0.45%
+to 1.96%. These types of bodies are known to the field of
+organic petrography as secretinite (ICCP 2001), although
+the origin of this material is not totally clear. It is possibly a
+by-product of burning resin or gum, derived from trees or
+possibly from the burning of seeds.
+Nonburnt organic substances were identified through
+organic petrology, including resinite, a constituent derived
+from plant materials, such as resin, or wax (Taylor et al.
+1998). The identification of unburnt resin supports the
+hypothesis that the secretinite could be derived from burnt
+resin.
+Microfacies The sediments at Sibudu are complex and, as
+mentioned above, it is in some cases difficult to trace an
+individual stratigraphic unit from one profile of the trench
+across to another. Such small-scale changes in lithology
+reflect different human activities that took place in discrete
+places within the cave space. Thus, in order to try to study
+the sediments effectively and to characterize and interpret
+them, we have opted to employ the concept of microfacies.
+Microfacies, as originally conceptualized in geology
+decades ago and as currently understood, makes use of
+petrographic and palaeontological observations in thin
+sections, peels, polished blocks, and rock samples to
+describe and infer past sedimentary environments (Flügel
+2004); it has been used particularly in carbonate petrology.
+Recently, Courty (2001) applied the concept to geoarchaeological settings, particularly those characterized by anthropogenic inputs and modifications, such as those in Near
+Eastern tell sites and prehistoric cave deposits. By their
+very nature, such archaeological deposits reflect past
+human activities, which include depositional and postdepositional modifications, where lithological changes, like at
+Sibudu, are common over short horizontal (and vertical)
+distances. As a consequence, Courty expanded the range of
+stratigraphic observation over a continuum from thin
+section to field in order to keep track of and account for
+different human activities, which can take place in different
+parts of the same site at the same time; these activities leave
+different types of deposits and fabrics.
+At Sibudu, fine stratigraphic subdivisions were achieved
+during excavation (Wadley and Jacobs 2004, 2006) and
+represent microfacies as championed by Courty (2001). In
+this paper, however, we use microfacies more in the sense
+as it was originally conceived: lithological changes within
+an individual thin section. Since it is impossible to divorce
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+micromorphological observations from those in the field,
+we continually attempt to relate what we see in thin section
+to what was observed in the field, at both the site and
+regional level.
+Below, we present an inventory of microfacies as
+identified through microscopic examination of thin sections. The brief descriptions are included with a representative microphotograph of each microfacies type (Fig. 5). A
+schematic cartoon illustrating the organization of the
+different components and a list of which samples contain
+the specific microfacies are included within Table 4, along
+with an interpretation of the formation processes associated
+with each microfacies, as discussed below.
+1. Microfacies type 1, phosphatic—this massive microfacies has a fluffy microaggregated aspect of yellow
+apatitic material. It is comprised of layered to very
+finely laminated grains, including possibly clay. It
+contains phytoliths and woody tissues, with inclusions
+of quartz silt and clay papules. It exhibits a possible
+phosphatic crust.
+2. Microfacies type 2, laminated organic matter—this
+type consists of finely laminated fibrous organic material, which varies in color from black (charred) to
+reddened (humified?). Inclusions of charcoal, burnt
+bone, lithics, éboulis, aggregated sediment from the
+river valley (which can be fire-reddened), and phosphatic
+grains (e.g., coprolites, reworked phosphatic crusts) can
+also occur. These elements can be commonly organized
+in variable proportions into stringers (thin lenses).
+Two subtypes also occur:
+(a) Microfacies type 2A, laminated organic matter
+with charcoal—this subtype is the same as
+microfacies 2 except that it contains larger clasts
+of éboulis, bone (mostly burnt), lithics, woody
+charcoal, and rock fragments. Burnt bone and
+woody charcoal commonly appear crushed and
+form stringers. Larger clasts occasionally are
+impressed into the underlying substrate/deposits.
+(b) Microfacies type 2B, laminated organic matter
+with phytoliths—this subtype is comprised of
+finely laminated fibrous organic matter and phytoliths, along with burnt bone that has been heated
+to varying degrees; crushed burnt bone forms
+surfaces and stringers. In addition, erratic clasts of
+river valley sediment are present, some of which
+are burned. In some instances, calcite ash is
+present but is being dissolved. In sample SS-6A,
+gypsum occurs as lozenge shapes, and needles of
+gypsum formed on a sandstone clast are ∼1.2 mm
+long.
+3. Microfacies type 3, massive charcoal—this microfacies
+occurs in layers and is composed of massive charcoal;
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+107
+
+or organic matrix; pockets of phosphate and some burnt
+bone occur. Phytoliths are of various types.
+
+in some cases, it is associated with rubefied substrates.
+Internal organization of material is chaotic. In certain
+instances, it occurs with calcareous ashes when they are
+not phosphatized.
+4. Microfacies type 4, laminated phytoliths—this is a
+distinctive and striking microfacies consisting of microlaminated phytoliths with little or virtually no mineral
+
+(a) Microfacies type 4A—in this subtype, the phytoliths are nonlaminated and contain inclusions of
+rock fragments, charcoal, and crushed bone; burnt
+river valley sediment also occurs.
+
+Fig. 5 Microphotographs of microfacies types. a Microfacies type 1,
+phosphatic. b Microfacies type 2, laminated organic matter. Note that
+the top of this figure contains some portions of microfacies type 3. c
+Microfacies type 2A, laminated with charcoal. Note the crushed bone at
+the base of this microphotograph. d Microfacies laminated type 2B with
+phytoliths. e Microfacies type 3, massive charcoal. (f) Microfacies type
+4, laminated phytoliths. g Microfacies type 4A, nonlaminated phyto-
+
+liths. h Microfacies type 5, homogenous anthropogenic components.
+Note the presence of microfacies type 2B at the base of the
+microphotograph. i Microfacies type 6, phosphatic and calcareous ash.
+Note the calcite rhombs typically associated with plant ash. Microphotograph taken in cross-polarized light. j Microfacies type 6A. k
+Microfacies type 7, massive sand. l Microfacies type 8, massive,
+compact, very little void space
+
+108
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+Fig. 5 (continued)
+
+5. Microfacies type 5, homogeneous anthropogenic components—this homogeneous microfacies is composed
+of bone, phosphate, and charcoal, with sand- and siltsized quartz grains. These components are completely
+mixed, without any layering or concentrations of
+individual elements. Particles range from granule size
+to silt size. Phytoliths occur throughout and are an
+important but not dominant component.
+
+6. Microfacies type 6, phosphatic and calcareous ash—
+this is another distinct microfacies. It is rich in
+phosphatic and calcareous ash accompanied by active
+dissolution of calcite; gypsum crystals occur throughout. Brownish phosphatized plant material—including
+phosphate pseudomorphs of ashed plant materials—
+occurs, as well as some phytoliths. A phosphatic crust
+is present on top of the microfacies in SS-5C.
+
+(a) Microfacies type 5A—same as type 5, but without
+phytoliths.
+
+(a) Microfacies type 6A—type 6A is similar to 6, but
+ash is more diagenetically altered to the extent that
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+109
+
+Table 4 Microfacies types identified in thin sections from Sibudu with a schematic representation of the facies, a list of thin sections where
+present and the proposed interpretation of the microfacies type
+
+calcite is no longer visible and the sediment is
+completely isotropic. Phosphatic crusts may be
+present.
+7. Microfacies type 7, massive sand—this is a massive
+sandy microfacies that includes sand-size pieces of
+angular burnt bone fragments and pieces of charcoal.
+The microstructure is quite granular and open.
+8. Microfacies type 8, massive, compact, and very little
+void space—this is a homogeneous mixture of most
+major components. The bone is fairly angular and
+
+fibrous and woody types of charcoal are present. Large
+fragments of river valley sediment are also present. The
+fine matrix is mostly phosphatic.
+
+Discussion
+Since the majority of components at Sibudu are anthropogenic and because the structuring of these components—as
+interpreted from the different microfacies—results directly
+
+110
+
+from humans acting as depositional agents, it is possible to
+determine the different human activities occurring at the
+site during single and repeated occupations. By differentiating between the structural organization of different
+microfacies (Table 4), it is possible to distinguish between
+two different types of combustion features.
+The first type of combustion feature, referred to here as
+hearths, represent the intentional transport of wood or plant
+material to the cave for the purpose of burning that material
+to produce light or heat. The actual function of these
+hearths is not discernable, and is probably not easily
+classified—cooking hearth, heating hearth, or a hearth for
+light or protection. These hearths could have served any
+one of these purposes and most likely served several of
+these purposes at any one time during their use.
+The second type of combustion feature—the burning of
+bedding (Macphail et al. 1997)—may represent a distinct
+behavioral practice associated with fire. In this paper, we
+chose to use the term “bedding” rather than “mats” to refer
+to the laminated fibrous material found in thin section since
+“mats” may imply a woven material, which does not appear
+to be the case at Sibudu. By using “bedding,” we do not
+intend to imply a specific functionality of this material (i.e.,
+sleeping). Rather, we see the plant material as a general
+surface preparation that could have been used for various
+purposes (sleeping, sitting, etc.). The repetitive nature of the
+burnt bedding in the sequence and the overwhelming
+presence of anthropogenic components and processes
+present at Sibudu rule out the possibility that these fires
+were started naturally, such as by lightning strikes. One
+possibility is that the beds were burned as a result of
+coming into close contact with adjacent hearths. While it
+seems very likely that some singeing of the beds occurred
+during occupation and use of adjacent hearths, it seems
+unlikely that the complete ashing of the upper portion of the
+beds occurred accidentally. The repetition of burnt bedding
+at the site also argues for intentional, rather than accidental,
+burning.
+Whereas the construction of hearths represents burning
+of material with the goal of acquiring fire, either for
+cooking, heating, or light, the burning of bedding appears
+to be associated with the maintenance of the site and
+represents a change in their functionality: while initially
+useful as bedding—enough so that they were repeatedly
+managed by adding more plant material over time—their
+usefulness for the inhabitants of Sibudu cave changed so
+that their destruction through fire was deemed necessary.
+The actual intent behind the burning of the bedding is most
+likely impossible to infer; however, it seems reasonable that
+hygienic concerns may have played a role, as older beds
+may have attracted vermin or were seen as dirty after
+repeated use. In this sense, we would refer to the burning of
+bedding as “maintenance fires,” to distinguish these
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+combustion events from the hearths identified in this study.
+Cleaning of the site also was inferred at Sibudu by Cain’s
+(2005) study of burnt and fragmented bone incorporated in
+ash dumps.
+A genetic interpretation of microfacies types at Sibudu
+Microfacies 1, phosphatic, is found only in one slide (SS6B) and consists of fluffy phosphatic material, with a crust
+formed on its upper surface (Fig. 5a). It contains several
+inclusions, such as wood fragments, phytoliths, and some
+clay papules. The structure of the phosphatic material
+suggests that a portion of this microfacies could be derived
+from guano, although the inclusion of phytoliths and
+woody fibers may hint at an ash component. Even if
+present, the ash has long since been phosphatized due to the
+presence of guano. The phosphatic crust indicates that the
+top of this layer was exposed on the surface for a period of
+time (possibly weeks to years), allowing for phosphatization to occur.
+Microfacies 2, laminated organic matter, and its various
+subfacies types (type 2A, laminated with charcoal and
+laminated type 2B with phytoliths) are one of the more
+common microfacies types identified at Sibudu (Fig. 5b–d).
+It is found in almost every sample collected within the
+finely laminated sequence above approximately layer YA2.
+The unifying component of microfacies 2 and its subtypes
+is laminated fibrous organic material—usually burned but
+not always—that in certain cases exhibits signs of humification. Some of this material certainly corresponds to the
+herbaceous fusinite identified by organic petrographic
+analysis. What differentiates the subfacies of microfacies
+type 2 is the inclusion of other components within the
+laminated fibrous fabric.
+Laminated type 2A with charcoal, for example, usually
+contains centimeter-sized pieces of woody charcoal that
+often appear crushed, forming stringers along a surface as
+defined by the microlaminated organic fibers of the matrix
+(Fig. 5c). This subfacies may also contain larger clasts of
+éboulis, pieces of chipped stone, bone (typically burned),
+and aggregates of river valley sediment. Like the pieces of
+woody charcoal, these larger components are often organized parallel to the direction of bedding as defined by the
+fibrous organic material. In some cases, particularly with
+less robust components, such as burnt bone and river valley
+sediment, the inclusions appear crushed and are often
+spread out as stringers along a surface. Some larger
+components appear to deform the underlying structure of
+laminated organic fibers, as if they had been impressed into
+the underlying substrate.
+Laminated type 2B with phytoliths has the same characteristics as laminated type 2A with charcoal (Fig. 5d). This
+subfacies, however, contains phytoliths, often oriented
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+parallel to the bedding direction. Plant ash, although partially
+dissolved, has been found in this microfacies based on the
+identification of calcite rhombs (Courty et al. 1989; Brochier
+and Thinon 2003; Canti 2003). The bulk of this microfacies
+consists of laminated fibrous organic matter that does not
+have a woody structure (K. Deckers 2008, personal
+communication). Because of its long fibrous nature, it seems
+that this material consists of herbaceous plants, possibly
+some type of sedge, reed, or grass. There is no evidence to
+suggest that this plant would have grown naturally in the
+rock shelter, and the presence of clay aggregates derived
+from the river valley found in association with the laminated
+plant fibers implies that the grass or reed was transported to
+the cave from the nearby Tongati River by the shelter’s
+inhabitants.
+The compact and laminated structure of the organic
+fibers in this microfacies also suggests that, once brought to
+the cave, the grass or reed was subjected to compaction,
+most likely through trampling. Further evidence supporting
+the interpretation of trampling is seen in the stringers of
+charcoal, clay aggregates, and burnt bone that define
+horizontal and subhorizontal surfaces on top of and within
+the laminated organic fibrous material. Pieces of éboulis
+and lithic fragments also define surfaces within the
+microfacies. The fact that this grass or reed was transported
+to the cave by humans and that once there it was influenced
+by human trampling suggests that this microfacies represents a type of constructed bedding. If this is the case, then
+Sibudu contains the oldest evidence for constructed
+bedding, significantly older than that reported at the openair site of Ohalo in Israel (Nadel et al. 2004).
+Often found directly above microfacies type 2 (typically
+subfacies laminated type 2B) is microfacies type 4,
+laminated phytoliths (because of this association, microfacies type 3, massive charcoal is discussed further below).
+This microfacies consists almost exclusively of phytoliths
+that are laminated (Fig. 5f). In some instances, pockets of
+phosphate are found in the microfacies, as well as burned,
+possibly calcined, bone fragments.
+Since this microfacies is almost exclusively found
+directly above microfacies laminated type 2B (laminated
+organic matter with phytoliths), which also contains
+phytoliths in addition to stringers of burnt fibrous organic
+material, it seems that this microfacies is genetically linked
+to microfacies type 2 and its submicrofacies. The laminated
+organization of the phytoliths mirrors the laminated
+structure of the underlying fibrous organic material and
+implies that this microfacies represents a similar depositional process as determined for microfacies type 2. What
+seems a likely and reasonable scenario is that the original
+organic matter of this laminated layer of sedges, grass, or
+reeds was completely combusted, resulting in total
+ashing of the organic material. The calcitic ash in this
+
+111
+
+microfacies was transformed through phosphatization, as
+evidenced by the presence of a few remnant pockets of
+phosphate in this microfacies. The fact that large crystals
+of gypsum often form directly below these phytolith
+layers provides suggestive evidence for the downward
+leaching of CO3- or P-rich solutions. The association between
+microfacies 2 and 4 suggests that the sedges, grass, or
+reeds that were brought into the cave for bedding were
+usually burned and probably by humans when they no
+longer used the bedding. This observation explains the
+sequence seen in samples SS-6 and SS-5 of laminated
+nonburnt fibrous organic material grading into laminated
+burnt fibrous organic material with phytoliths (microfacies laminated type 2B); the sequence is finally capped
+by a layer of laminated phytoliths.
+It seems that the fire temperatures were high enough to
+ash the uppermost portion of the bedding. Below the
+surface, however, temperatures were lower, resulting in
+only charring of the organic material. The lowermost
+sections of these layers appear to not have been significantly influenced by the overlying burning event (cf.
+Sievers and Wadley 2008). Together, this evidence shows
+that not only were the occupants of Sibudu bringing grass
+or reeds into the cave—likely for the construction of
+bedding—but they were periodically burning them, possibly as a means to remove pests or insects that had colonized
+the beds. (Smoldering goat dung and organic matter can be
+observed in many parts of the Middle East, including
+Hayonim, where tick removal is one of the important
+objectives; P. Goldberg 1992, personal observation.) The
+micromorphological evidence supports ideas put forth by
+Sievers and Wadley (2008) and Sievers (2006) who believe
+that a high percentage of charred sedge seeds found in the
+Sibudu sediments provides indirect evidence for the
+presence of sedge bedding.
+Subtype microfacies type 4A consists almost exclusively
+of phytoliths (Fig. 5g), although they are not laminated.
+This microfacies can contain inclusions of éboulis and
+debitage, charcoal, burnt aggregates of river valley clays,
+and crushed bone. It is reasonable to assume that this
+phytolith-rich microfacies was produced in the same
+manner as microfacies type 4; however, the nonlaminated
+organization and the inclusion of larger-sized components,
+suggests that this layer represents reworking of microfacies
+type 4—possibly the result of sweeping or trampling of
+previously burnt bedding.
+Microfacies type 3 (massive charcoal) provides a
+different type of evidence for combustion-related activities
+at Sibudu (Fig. 5e). This facies consists of layers of massive
+woody charcoal, some of which appear to be dicotyledonous (K. Deckers 2008, personal communication), with
+some finely comminuted fibrous charcoal. This material,
+like that from microfacies type 2, corresponds to the
+
+112
+
+herbaceous and woody fusinite identified through organic
+petrographic analysis. Some of the more amorphous blackcolored material visible in this microfacies can also be
+identified as secretinite, burnt seeds or resin/plant gum, and
+fat-derived char. The internal organization of these components is chaotic, standing in stark contrast to the finely
+laminated organization of material found in microfacies
+type 2. Typically, this microfacies is found in association
+with an underlying rubefied substrate (see, for instance,
+samples SS-6B and SS-5A). Where the surface of this
+microfacies unit has been preserved and not removed by
+erosion (as is the case in sample SS-4), calcareous ashes
+can be found: they are partially dissolving but still exhibit
+the classic rhomb form (e.g., sample SS-5A). An example
+of microfacies type 3 in sample SS-6B does not exhibit any
+calcareous ashes, but directly over the massive charcoal is a
+fine layer of phosphatic material, which hints at the former
+presence of ashes that have since been diagenetically
+altered. The overall structure of microfacies type 3 and the
+associated rubefication and overlying ashes show that these
+features represent intact combustion features more in line
+with classic hearths.
+Microfacies type 5, homogeneous anthropogenic components, in contrast to the previously discussed microfacies, is
+homogeneous and not structured (Fig. 5h). It is composed
+of phosphate, bone, and charcoal, with inclusions of sandand silt-sized grains of quartz. All of the components are
+completely mixed, and no obvious bedding or concentration of components is evident. Phytoliths are an important
+although not a dominant component of the microfacies.
+Microfacies type 5B is identical to microfacies type 5,
+except that type 5B lacks phytoliths. The phosphatic nature
+of microfacies types 5 and 5B suggests that they represent
+diagenetically altered plant ash. This is supported by the
+presence of phytoliths in microfacies type 5: the absence of
+phytoliths in microfacies type 5B may indicate that a
+different fuel was used to produce the ash. The massive
+structuring of this microfacies and the chaotic organization
+of the larger components within the finer phosphatic matrix
+show that, although this microfacies is associated with
+combustion-related activities, it is not in its primary
+location. Rather, it most likely represents redeposited ash,
+either as the result of sweeping or possibly dumping.
+Microfacies type 6, phosphatic and calcareous ash, is
+similar to microfacies type 5 in that it consists of mostly
+phosphatized material. Unlike microfacies type 5, it does
+not contain the same type of inclusions but rather contains
+calcareous ash, which is actively being dissolved (Fig. 5i).
+Gypsum crystal formation is also present. Brown-colored
+phosphatized plant matter, often in the form of phosphate
+pseudomorphs of ashed plants, is found. Phytoliths are also
+present. Microfacies type 6A is similar to microfacies type
+6, but it appears more diagenetically altered, with the ash
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+being completely phosphatized (Fig. 5j). For both microfacies, phosphatic crusts may be present (see, for instance,
+sample SS-5C), indicating a period of surface exposure.
+Because of the extensive diagenesis and gypsum formation,
+it is difficult to determine the origin of this ash, although in
+some instances it appears at least partially reworked, either
+through sweeping or raking out of combustion features.
+Microfacies type 7, massive sand, contains the highest
+proportion of mineral components (quartz sand) of all the
+identified microfacies (Fig. 5k). It also contains a significant proportion of anthropogenically derived components,
+including sand-sized angular fragments of burnt bone and
+charcoal. The organization of the components in this
+microfacies is granular and open, suggesting redeposition,
+through raking out, sweeping, or possibly trampling.
+Microfacies type 8, massive, compact, very little void
+space, is a massive homogenous mixture of most components identified at Sibudu and is the dominant microfacies
+of samples collected from the lowermost homogeneous
+Howiesons Poort and pre-Howiesons Poort layers (Fig. 5l).
+The fine matrix is mostly phosphatic, probably representing
+phosphatized ash. Angular bone fragments are common, as
+are pieces of charcoal, both fibrous and woody. Large
+aggregates of clay derived from the Tongati River are also
+present (some of which are burned). The structure of this
+microfacies is very compact, with very little void space.
+This structure rules out the possibility that the homogeneous nature of this microfacies is a result of bioturbation:
+the total lack of biogalleries and voids, the ubiquity of
+anthropogenically derived material forming the vast majority of the components of this microfacies, and the
+compactness of the microfacies all suggest that this layer
+was formed by human trampling. This trampling reworked
+any combustion-related features, redistributing the components, and formed a compact homogeneous unit of mostly
+burnt material (ash, charcoal, burnt bone, etc.).
+Activity-based interpretation of a selected sample
+As a means to summarize visually some of the above
+discussion, we present here some illustrations that characterize an activity-based interpretation of microfacies
+sequences from this study. In this section, we discuss in
+greater detail a selected sample, representing the most
+typical and important microfacies sequences at Sibudu.
+Limitations of space preclude a complete discussion of all
+the sampled deposits at Sibudu but are carefully summarized in the included figures (Figs. 6, 7, 8, and 9)
+Sample SS-6 (A and B) collected from the B4/B5 line
+(east face of B5) contains layers Ma/BO, BM and Pox
+(Table 2). The lowermost section of sample 6B is a massive
+fluffy layer of phosphatic material (MF type 1) that contains
+authigenic gypsum, mostly located near the top of this layer
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+Fig. 6 a Sample SS-6A-B. (1) Massive fluffy phosphate (MF type
+phosphatic type 1), with localized splotches of authigenic gypsum
+formation, particularly at the top of the layer. This layer may represent
+phosphatized ash; however, the structure and homogenous nature of
+the phosphate suggest that this may be guano from birds or bats. (2)
+Laminated fibrous organic material (MF type 2). This probably
+represents trampled bedding. (3) Massive charcoal, with chaotic
+structuring (MF type 3). A yellowish layer above this massive
+charcoal probably is phosphatized ash. This, with the presence of a
+rubefied zone below the massive charcoal layer, supports the
+interpretation that this is an in situ hearth. (4) Laminated fibrous
+organic material, similar to (2) but containing large pieces of charcoal
+(MF type 2A). Large pieces of burnt bone are present and crushed in
+
+113
+
+situ, forming stringers. This, plus the laminated fibrous material,
+suggests that this layer represents bedding or a series of beds. This
+layer grades into (5), which is a layer of laminated phytoliths (MF
+type 4). This suggests that the bedding was burned in situ. The
+phytolith layer is eroded at its surface. (6) overlies the erosional
+surface on (5) and consists of a massive mixture of phosphate, angular
+burnt bone sand, and quartz grains (MF type 5). This layer is probably
+a mixture of phosphatized ash with other components, the organization of which suggests reworking, probably by sweeping or raking out
+of an adjacent hearth or combustion feature. b Legend indicated the
+symbols used for the anthropogenic and geogenic interpretation of
+formation processes
+
+114
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+Fig. 7 Sample SS-5A-D. (1) Extensive authigenic gypsum formation
+that breaks through the overlying laminated phytolith layer (MF type
+4). This sequence probably represents in situ burning of trampled
+bedding. (2) Homogenous phosphatic material (MF type 5) containing
+burnt bone, fire-altered river valley sediment, and phytoliths. The
+phosphatic material is probably phosphatized ash. The chaotic and
+open structure of the components suggests that this material was
+reworked or redeposited (sweeping/raking out or dumping). (3)
+Massive chaotically structured charcoal (MF type 3). The components
+and structure of this layer suggest an in situ hearth. However, portions
+have been reworked, possibly by trampling. (4) Consists of two layers,
+one of which pinches out. Based on the components and structure of
+these layers, they most likely represent sweep or rake out of ash from
+adjacent hearths. The lowermost layer that pinches out is extensively
+phosphatized (MF type 5), whereas the uppermost layer contains
+evidence of its original calcareous nature, with calcitic ash rhombs still
+present (MF type 6). (5) Fibrous material, some of which is partially
+burned (MF type 2B), grading into an overlying layer of laminated
+phytoliths (MF type 4). This sequence probably represents trampled
+bedding, which was ultimately burned. (6) Laminated fibrous organic
+
+material and containing larger pieces of charcoal and bone (MF type
+2A). (7) Laminated phytoliths (MF type 4): this sequence again
+represents trampled bedding that was burned in situ. (8) Nonlaminated
+phytoliths mixed with phosphatic material (MF type 4a). This is
+probably reworked ashy material, possibly representing sweep out or
+rake out of an adjacent combustion feature. The high number of
+phytoliths may suggest that this is reworked material from a grass
+bedding. (9) Laminated fibrous organic layer (MF type 2A) and is
+marked on its surface by a possible erosional event. Probably
+represents bedding. (10) Nonlaminated phytoliths (MF type 4a),
+representing sweep out or rake out of an adjacent combustion feature,
+possibly a burnt bedding. (11) The rest of the sequence is heavily
+modified by bioturbation; however, the remnants of a massive
+charcoal layer (MF type 3), with a rubefied base and overlying ash,
+can be identified in sample 5A as an in situ hearth. (12) On top of the
+ash are the remnants of laminated organic material (MF type 2A),
+representing a trampled grass bedding. Throughout the sequence,
+phosphatization has strongly effected the preservation of calcitic
+material, most notably ash. There are only a few zones where ash has
+not been completely altered
+
+(Fig. 6). The upper contact of this phosphatic unit is marked
+by the formation of a phosphatic crust. Although this layer
+possibly consists of phosphatized ash, the fluffy structure of
+the phosphate is more reminiscent of guano (Karkanas and
+Goldberg 2009). The presence of authigenic gypsum within
+phosphate-rich guano suggests that the presence of gypsum
+
+is at least partially a result of the diagenetic alteration of
+guano (Shahack-Gross et al. 2004). The presence of a
+diagenetically produced phosphatic crust is the result of this
+layer being exposed to the surface for a period of time.
+Directly above the phosphatic crust is a layer of finely
+laminated fibrous organic matter that does not contain large
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+115
+
+Fig. 8 Sample 04-04A-C. (1) Laminated organic material with some
+pieces of charcoal (MF type 2A). The laminated fibrous material is
+partially charred. This probably represents trampled bedding. It could
+have been burned in situ, although this layer lacks the accompanying
+overlying phytolith layer found in other samples (see samples 4, 5,
+and 6). (2) Massive layer of phosphatized material (probably ash)
+which contains phytoliths, calcined bones, and fire-altered clasts of
+river valley sediment (MF type 6A). The reddened river valley
+sediment gives the light-colored phosphatized ash its pinkish hue. This
+material was probably redeposited from an adjacent combustion
+feature, possibly through sweeping, trampling, or a combination of
+both. (3) Caps the phosphatic ash and consists of 1.5-mm-sized fecal
+pellets, mixed with angular bone sand. This layer probably represents
+a period of abandonment, when rodents or small animal inhabited the
+cave, and anthropogenic input was relatively low. (4) Angular crushed
+bone, within a matrix of phosphatized material (MF type 5A).
+Phytoliths are rare or absent. This layer probably represents
+phosphatized ash that was reworked by sweeping or rake out from
+an adjacent combustion feature. It was most likely trampled, based on
+the presence of crushed bone fragments. (5) Massive charcoal and
+
+some fibrous organic material that is burnt (MF type 3). It probably
+represents an in situ hearth that was trampled, based on the presence
+of a large (centimeter size) bone that is snapped in situ. (6) Above (5),
+but the transition from (5) to (6) is not visible due to the subsampling
+of the blocks for thin sectioning. This layer consists of laminated
+organic material (MF type 2A). (7) Rich in phosphatized material
+(ashes) and contains some phytoliths (MF type 6A). The top of this
+layer is marked by a phosphatic crust, which appears broken and
+affected by bioturbation. This probably indicated a period of little
+anthropogenic input. (8) Loose, chaotically structured, and charcoal
+and charred fibrous organic material (MF type 3). The upper portion
+of this layer is affected by extensive authigenic gypsum formation.
+However, the presence of a phosphatic zone at the top of the layer,
+most likely representing phosphatized ash, supports the interpretation
+of this layer as an in situ hearth. (9) Generally, homogenous mixture
+of phosphatized material, with angular burnt bone sand, quartz grains,
+and fibrous organic material. This layer appears to have been
+reworked, possibly by sweeping or raking out of a combustion
+feature. Bioturbation and gypsum formation make it difficult to
+determine the structure of this layer
+
+inclusions (MF type 2). The fibrous material does not
+appear burned but at least partially humified.
+Directly over the laminated material is a thin layer of
+massive woody and herbaceous charcoal (MF type 3). A
+rubefied zone, extending less than a centimeter deep, is
+located directly below the massive charcoal layer. A thin
+layer of yellowish phosphate is located on top of the
+charcoal and probably is phosphatized ash. This layer is not
+laterally extensive within the slide and interfingers with
+
+laminated fibrous matter. The material directly above the
+massive charcoal and phosphatized ash is laminated fibrous
+material, containing inclusions of éboulis, burnt bone,
+charcoal, and lithic fragments. This layer grades up into a
+layer of laminated phytoliths (MF type 4), which is in some
+places 2 to 3 cm thick. Its upper surface is marked by an
+erosional contact and is directly overlain by a massive layer
+of homogeneously mixed phosphate, bone, charcoal, and
+quartz sand.
+
+116
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+Fig. 9 a Sample 04-05 A-B. (1) Large amount of microcharcoal
+crushed burnt bone and is chaotically structured (MF type 3). The
+extensive amount of authigenic gypsum formation in this sample
+makes interpretation and determination of the structure difficult, but
+this layer may represent an in situ hearth. (2) Extensively phosphatized, more than most other layers in this sample. The few areas that
+are not displaced by blotchy authigenic gypsum consist of phosphate,
+suggesting that this layer consisted of phosphatized ash before the
+formation of gypsum. This ash may belong to the underlying charcoal
+layer as part of an in situ hearth; however, extensive diagenesis makes
+this difficult to determine. (3) Massive charcoal and phosphatic zones
+(MF type 3 and MF type 5). Extensive formation of gypsum,
+displacing most of the components and disrupting the structure,
+making interpretation difficult; however, this may represent a mixture
+of charcoal and ash, reworked from a hearth or combustion feature. (4)
+Mixture of charcoal and phosphate, possibly representing phosphatized ash (MF type 5). This layer may correspond with the underlying
+layer (4). Extensive gypsum formation disrupts the structure of this
+layer. (5) Laminated fibrous organic material (MF type 2), containing
+stringers of in situ, crushed burnt bone, suggesting trampling.
+
+Although authigenic gypsum formation is present, it does not
+significantly disrupt the laminated nature of this layer. The trampled
+bone and laminated fibrous material suggest possible bedding. This
+bedding may have been burned in situ. (6) Laminated fibrous organic
+material, containing a larger portion of pieces of charcoal (MF type
+2A). Localized large blotches of authigenic gypsum have displaced
+significant portion of this layer, disrupting the structural organization
+of the components. It is possible that this layer, like the underlying
+layer (5) represents trampled bedding. Some fibrous material appears
+charred, possibly suggesting in situ burning of this layer. b Sample
+SS-4. (1) Homogenous mixture of phosphate, bone, phytoliths, etc.
+(MF type 5). This probably represents swept or raked out components
+from a nearby combustion feature. (2) Massive layer of chaotically
+structured charcoal, resembling an in situ hearth. The top of the hearth
+and a portion of the underlying layer have been eroded. (3) Massive
+sandy layer, with angular bone fragments and charcoal (MF type 7).
+The structure is granular and open, suggesting redeposition, possibly
+by sweeping, rake out, or possibly trampling. This layer has a greater
+proportion of mineral and geogenic components
+
+Piecing all of these layers together and using the
+anthropogenic inferences of the formation of these microfacies, we are able to attempt the reconstruction of a series
+of activities that took place during a part of Sibudu’s
+history. The phosphatic surface crust at the top of layer
+
+POX (illustrated at the base of sample SS-6B) suggests, at
+least locally, a period of no anthropogenic input. It is
+difficult to say exactly how long this would have lasted, but
+such crusts can form quickly, on the order of decades
+(Shahack-Gross et al. 2004). This rapidity seems likely in
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+this case because the entire sequence YA2 to BSp was
+formed within a relatively short period of about 1,000 years
+at about 60 ka (Jacobs et al. 2008). The laminated fibrous
+organic material directly above the crust is possibly sedge
+and/or grass that was transported to the cave by humans to
+use as some type of bedding and was extensively trampled.
+The massive charcoal layer above this bedding, with a
+rubefied base and overlying phosphatic ash, most likely
+represents an intact combustion feature (e.g., Goldberg et
+al. 2007; Meignen et al. 2007). The laminated fibrous
+material continues over the hearth feature, although, in
+contrast to the lowermost layer of laminated material, this
+one contains large centimeter-sized inclusions. Many of
+these inclusions, particularly charcoal and burnt bone,
+appear snapped or crushed in place. Such features have
+been taken to indicate the effects of trampling [e.g., at Pech
+de l'Azé IV (Dibble et al. 2009, submitted); and at Castanet
+(Goldberg 2007) both in the Dordogne, France]; trampling
+experiments have also produced crushed bone resembling
+that found at Sibudu (Miller et al. 2009). Often, the crushed
+bone and charcoal are spread out forming stringers that
+define a surface. Clasts of éboulis and lithic fragments from
+stone tool production are also oriented horizontally to
+subhorizontally, following the bedding plane defined by the
+microlaminations of the fibrous material.
+Interesting to note is that the crushed bone stringers and
+other inclusions are not simply limited to a single bed or
+layer but are found throughout the layer of laminated
+fibrous material. This arrangement would suggest that there
+are numerous surfaces represented here that were subjected
+to trampling. One interpretation of these objects is that the
+fibrous material represents bedding, which was repeatedly
+built up and managed and that the oriented stringers and
+inclusions represent different surfaces. If this is the case,
+then it seems that bringing fibrous plant material (possibly
+sedges) into the cave did not occur as a single event but was
+repeated numerous times during the occupation as part of
+managing a surface or area.
+Further evidence for management of the bedding is found
+in the charred and ashed upper portion of microfacies type 2
+(found at the bottom section of sample SS-6A, Fig. 6). Here,
+the laminated fibrous material grades into and is capped by a
+layer of laminated phytoliths. It seems likely that this
+phytolith layer was produced by burning and ashing of the
+upper most portion of a grass or sedge “bed.” Any ash
+present in this uppermost portion was subsequently phosphatized (as evidenced by the presence of phosphate
+“pockets” remaining within the phytolith layer). As the
+nonsiliceous remains were diagenetically altered, it seems
+that they were also removed from the phytolith layer.
+The association of authigenic gypsum below the phytolith layer may be a result of the vertical translocation of
+carbonate and sulfate ions produced by the ashing process
+
+117
+
+(Schiegl and Conard 2006). The surface of the phytolith
+layer is marked by erosion. It is not unreasonable to
+imagine that an unconsolidated layer of phytoliths would
+easily be subjected to some type of erosion, be it natural
+(winnowing from wind) or anthropogenic (sweeping). The
+presence of a massive reworked layer of phosphatized ash,
+phytoliths, charcoal, burnt bone, and charcoal directly
+above the erosional surface would suggest that the erosion
+of the phytolith layer was probably produced by sweeping
+or some similar human activity.
+Although the interpretation of sample SS-6 portrays a
+succession of events as represented by the sequence of
+microfacies, the situation is more complex than depicted
+here. The concept of microfacies, particularly as developed
+by Courty (2001), does not just simply entail vertical
+variation in microfacies type but also horizontal ones,
+which represent different spatially restricted activities or
+environments that may have occurred contemporaneously.
+This is certainly the case at Sibudu, where lateral variation
+is great and many discrete features are only traceable for
+tens of centimeters. Although a sequence of events is
+described as observed in the thin section, it should not be
+conceptualized that these activities occurred in isolation.
+All of the activities identified through interpretation of the
+microfacies, as presented above, probably occurred repeatedly during an individual occupation and in the immediately following one, which might have been a few
+decimeters away. Viewed as a whole, the combined
+activities as evidenced through the different microfacies
+consisted of the penecontemporaneous transport of plant
+material (sedges, reeds, grass, or possibly a combination of
+all three) for bedding and the construction of hearths.
+During an occupation, surfaces were managed through the
+adding of more plant material, the sweeping or raking out
+of extinguished hearths, and the burning of bedding. An
+example of the contemporaneity of different microfacies
+and lateral differences in specific activities can be found in
+sample SS-6B, where a rubefied base charcoal sequence of
+an intact hearth interfingers with a layer of laminated
+organic fibers (Fig. 6). As multiple, yet similar, occupations
+occurred in the rock shelter over time, these different
+activities and their corresponding microfacies were superposed over one another, forming the varied interbedded
+sequences seen in the thin sections and in the field.
+Consequences of this micromorphological study
+The degree of detail that we have been able to document
+above has significant ramifications for the study of other
+data sets at Sibudu and for archaeological sites in general.
+Specifically for Sibudu, the basis of the archaeometric
+study (Herries 2006) inferring past climates is not consistent with the micromorphological observations. We see
+
+118
+
+little if any evidence for “... the input of derived soils by
+aeolian activity” (P. 131) nor for the input of background
+fire burning for this part of Africa. Furthermore, in light of
+the virtually complete anthropogenic character of the
+Sibudu sediments it is interesting to note:
+Well defined hearths that are easily recognised can
+and must be avoided in sampling. Notwithstanding
+such precautions, background anthropogenic indicators may still occur in the MS [magnetic susceptibility] signal and this will complicate the results (Herries
+2006: 145).
+In this regard, it would seem that a full understanding of
+site formation processes needs to be gathered before
+interpretations can be made on the potential of a site to
+record climatic signals. Although the MS measurements
+taken at Sibudu certainly provide data, an incomplete
+understanding of the nature of deposition at the site and a
+lack of understanding of the basic components of the
+sediment being measured can lead one down the wrong
+interpretive path. For example, it may be that the MS
+results measured—at least in part—the ubiquitous burnt
+river valley clay aggregates. Although these aggregates
+could be considered as “derived soil,” the micromorphological analysis shows that these components were brought
+to the cave by humans and not by processes directly
+associated with climatic conditions (Fig. 10).
+The presence of “ochre” at Stone Age sites is a contentious issue, relating to the broader discussion of behavioral modernity (see, for instance, Henshilwood and Marean
+2003). Although the topic of ochre at South African sites is
+too large to discuss in full here, it should be noted that very
+few discussions of ochre actually define what it is, other
+than a red substance used either for pigment or as a hafting
+material (Lombard 2006). In light of the presence of
+ubiquitous microscopic granules of red material identified
+as aggregates of river valley sediment transported by
+humans, almost certainly accidentally, to Sibudu, it seems
+necessary to reevaluate at least a part of what has been
+interpreted as “ochre” at South African sites. Red ochre
+(hematite—Fe2O3) thought to have been mixed with plant
+gum to create adhesive often occurs on stone tools in
+fairly large deposits that are even visible to the naked eye.
+Ground striated hematite nodules are fairly common in
+Sibudu and other Stone Age sites in southern Africa. The
+iron content of some of the archaeologically recovered
+Sibudu “ochres” was measured by S. Schiegl using
+Fourier transform infrared spectroscopy. A yellow piece
+of ochre from Gray under YA2 was identified as goethite
+(FeOOH) and a red piece of ochre from the layer Gray
+Rocky was identified as hematite (Fe2O3). However,
+incidental or scattered “ochre grains” that are not thought
+to be use-related sometimes occur on stone tools. Thus,
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+when Lombard (2006) stated that “microscopic ochre
+granules are very small in comparison with the residues
+found on the tools, and are usually isolated single grains,”
+it seems likely that at least a portion of these granules
+could be the burnt river valley clay aggregates that appear
+red in color (Fig. 11). Similar geological material may
+lead to the inflation of the occurrence of ochre as
+identified at other MSA sites. Based on our results, not
+all material that looks like ochre is ochre.
+Finally, this microstratigraphic study has broader implications for specialist studies and how archaeology is
+practiced in general. In the field, one can perceive that the
+deposits are made up of not just combustion features but
+also some more diffuse combusted products. What becomes
+evident to a much greater extent in thin section, however,
+are the subtle differences among “burnt layers” as exemplified by sample SS-5 (Fig. 6) from layer OMOD,
+interpreted as a hearth complex (Wadley 2006). Here, we
+are able to monitor, for example, a complex succession of
+layers of phytoliths, phosphatic ashes, massive charcoal
+layers, phosphatic and calcareous ashes, laminated organic matter, all expressed at the centimeter scale. Most of
+these centimetric layers represent an individual occupation event or activity (e.g., burning) or perhaps associated
+events (e.g., sweeping, trampling). Whereas such lithosedimentary differences are worthily tracked in the field,
+it is not possible to individualize them as can be done in
+thin section.
+The point here is not to criticize the meticulous research of
+our colleagues at the site but to underscore that, if
+archaeology wishes to advance beyond the synoptic view
+of reporting or examining major environmental shifts, we
+must look at the data in its proper anthropological context—
+the context at which individual activities occur and are
+recorded—namely, the microlayer. By collapsing and combining individual and discrete contexts into broader analytical units, we only blur the anthropological contexts of the
+artifacts. This is particularly true for a site like Sibudu, where
+excellent preservation and careful excavation of individual
+contexts provide an ideal situation for evaluating discrete
+human activities.
+
+Concluding comments
+Most of the deposits in the rock shelter, Sibudu, are
+anthropogenic in character, with relatively lower amounts
+of geogenic ones such as inclusions of éboulis derived from
+rock fall. Even finer-grained materials, such as clay, were
+brought into the cave from the river valley by its former
+inhabitants. Micromorphological analysis of several of the
+Sibudu Cave deposits revealed that on a centimeter scale
+the remains of numerous anthropogenic events and activ-
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+119
+
+Fig. 10 a A view of the Tongati River near Sibudu Cave. b Another
+view of the Tongati River, with the bedded sandstones that form the
+rock shelter visible. Note the presence of running water, the reddish
+
+color of the sediment, and the presence of grasses and sedges.
+Vegetation and sediment removed from the river can be identified in
+thin section
+
+ities are recorded. In fact, in the field, the large difference in
+sediments at roughly layer YA2 can be attributed to
+extensive trampling of the deposits below YA2 and not to
+natural diagenetic processes. The visible differences in the
+deposits above and below this layer, which is the base of
+the ∼60 ka post-Howiesons Poort occupation, suggest that
+there was a major change in the type of occupation at
+Sibudu after the Howiesons Poort occupations after 60 ka
+(Wadley and Jacobs 2006) as these lower deposits are
+composed essentially of compacted combustion products,
+but most of these are no longer in place.
+
+Several hypotheses can be put forth to address these
+differences. The basic puzzle of this dichotomy is that both
+the laminated and massive units show evidence of
+trampling; however, the same anthropogenic process has
+produced different results. In the more massive units of the
+Howiesons Poort and earlier deposits, trampling has had the
+effect of homogenizing the units, whereas in the laminated
+post-Howiesons Poort and later deposits, trampling has
+compacted the original combustion deposits but did not
+transport them. Although the upper bedded layers show
+signs of bone crushing related to trampling, it is possible
+
+120
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+Fig. 11 a A group of fire-reddened clay and quartz silt aggregates
+derived from the local river valley. Here, they are found within MF
+type 3, suggesting either that they were either incorporated into a
+hearth attached to vegetation used for fuel or were accidentally tracked
+in to the cave by the inhabitants. From sample SS-5B. b A single
+aggregate from sample 04-4B. The size and reddish color of these
+
+components may resemble what has been identified as “ochre.” These
+components were brought to the cave by humans but most likely as
+sediment attached to sedges and/or grasses from the river valley. It
+seems unlikely that this material represents use of ochre, either for
+symbolic or functional uses
+
+that the more homogeneous units accumulated more slowly,
+thus allowing for more trampling, other things being equal.
+As a consequence, discrete surfaces in these lower units
+would have been exposed for a longer period of time,
+allowing for a greater influence of trampling on the deposits,
+effectively homogenizing them. Conversely, a higher rate of
+deposition in the upper deposits would mean that trampling
+would have had a more limited effect, allowing for limited
+compaction of material and the crushing of individual
+components. Deposits, however, would have been buried
+before extensive trampling could have completely reworked
+and homogenized individual features. Evidence for lower
+sedimentation during the earlier periods at Sibudu is
+provided by the increased presence of mineral components
+in the homogeneous layers, as seen in thin section.
+The scenario presented above has important ramifications. Since the vast majority of sediments at Sibudu result
+from anthropogenic deposition, the homogeneous Howiesons Poort and earlier layers, representing lower deposition
+rates, would suggest that there was an increase in the
+intensity of occupation at Sibudu during the postHowiesons Poort occupation. Another possible, but not
+mutually exclusive, hypothesis is that the use of sedge and/
+or grass bedding influenced the effects of trampling on the
+different types of deposits. Sedge and/or grass bedding and
+subsequent management of the bedding would have
+stabilized surfaces, absorbing the pressure exerted on a
+surface by trampling and reducing the amount of material
+reworked by trampling. Evidence for this can be seen in
+thin section, where the laminated fibrous layers are
+compacted and show evidence of crushed and spread-out
+material on surfaces, but they lack the overall reworking of
+material seen in the homogeneous units. While it is
+
+impossible to argue from negative evidence, the lower
+quantity of phytoliths noted in thin sections from the
+homogeneous layers and a decrease in sedge seeds in the
+lower sections may provide less direct evidence that sedges
+were not brought to the cave for bedding during the
+Howiesons Poort and earlier occupations.
+The issue of bedding at Sibudu is an important one and
+deserves more detailed attention. The use of plant material
+for bedding in caves and rock shelters has a long history,
+particularly in South Africa. Since the 1950s, excavators at
+South African caves have described stratified sites that, in
+their opinion, contained evidence for preserved grass
+bedding. These sites span the time scale from recent
+historic situations (Walton 1951; Stannard 1965) to Iron
+Age deposits (Parkington and Poggenpoel 1971; Van
+Rijssen and Avery 1992) and Later Stone Age (Binneman
+1997, 1998, 1999, 2000; Wadley 1976; Wells 1965).
+Although some of these instances are clear, particularly
+in later contexts, the presence of bedding in earlier Middle
+Stone Age deposits is not conclusively shown in the
+reports. Recently, Sievers and Wadley (2008) have suggested that, in Sibudu, the high frequencies of sedge nutlets
+(Schoenoplectus cf. brachyceras) in the laminated deposits,
+particularly the ∼50-ka layers OMOD and MOD, are the
+result of humans bringing in local sedges for bedding or
+matting, noting that sedge is commonly used for woven
+mats today (Van Wyk and Gericke 2000). The micromorphological evidence, along with preliminary phytolith
+identification (Arlene Rosen 2008, personal communication), presented in this study supports the interpretation of
+Sievers and Wadley (2008) and provides direct evidence to
+show that plant materials, most likely sedges, were brought
+to the cave to serve as bedding.
+
+Archaeol Anthropol Sci (2009) 1:95–122
+
+The methodology of micromorphology, coupled with the
+excellent preservation at Sibudu, allows for a detailed
+analysis of complex activities and behaviors: something not
+previously achieved for Pleistocene sites. As such, the level
+of detail may make it tempting to see this behavior as
+exceptionally complex, particularly when compared to the
+coarser, and stratigraphically lower, homogeneous layers.
+Before this change is interpreted as an increase in complex
+behavior at Sibudu, several caveats must be stated. The
+construction and maintenance of bedding, through repeated
+construction during a single occupation and also through
+occasional burning of the bedding, are behaviors not
+previously described for the MSA. Furthermore, the
+identification of different and distinct microfacies, representing not only bedding construction and maintenance but
+also hearth construction and sweeping and dumping, shows
+that numerous activities occurred during single occupations,
+and these activities occurred within localized spaces. This is
+particularly evident in sample SS-6, where the laminated
+plant material shows evidence of repeated construction
+during a single occupation.
+Organization of living space, and particularly a deliberate use of space, has been suggested by Wadley (2001) and
+also Binford (1996) as an important trait of culturally
+modern behavior, reflecting a more complex social organization. While the evidence from the laminated units at
+Sibudu may reflect such organization, the lack of evidence
+for such spatial organization, such as is the case for the
+lower homogeneous layers at Sibudu, should not automatically suggest that occupation in these units was any less
+complex. Even if the hypothesis that the construction of
+bedding in the upper levels is the main reason for the
+difference in structure of the homogeneous and laminated
+units at Sibudu is correct, we cannot make any conclusive
+statements about the complexity of the occupation for the
+lower units. In order to test such hypotheses and ideas,
+more caves with similar stratigraphy to Sibudu’s should be
+the subject of micromorphological analysis. More systematic studies of exposed deposits from Sibudu in the future
+should also reveal more clearly spatial and temporal
+differences—or similarities—within the site.
+
+Acknowledgements Financial support for this research was provided in part by a Deutsche Forshungsgemeinschaft (DFG) Grant CO226/
+31-1 to S. Schiegl and N. Conard; a graduate student grant by the
+Deutsche Akademische Austauschdienst (DAAD) to C. Miller; the US
+National Science Foundation Grant to P. Goldberg (BCS #0551927);
+and the support by a Marie Curie International Fellowship within the
+6th European Community Framework Program to F. Berna (# MOIFCT-2006-041053). A. Rosen provided some valuable preliminary
+determinations of phytoliths, and K. Deckers helped to identify some
+charcoal remains. Johan Binneman courteously provided much
+difficult-to-locate information about the use of grass matting from
+archaeological contexts in South Africa.
+
+121
+
+References
+Berna F, Goldberg P (2007) Assessing Paleolithic pyrotechnology and
+associated hominin behavior in Israel. Israel J Earth Sci 56:107–121
+Berna F, Behar A, Shahack-Gross R, Berg J, Zorn J, Boaretto E,
+Gilboa A, Sharon I, Shalev S, Silshtein S, Weiner S (2007)
+Sediments exposed to high temperatures: reconstructing pyrotechnological practices in late Bronze and Iron Age strata at Tel
+Dor (Israel). J Archaeol Sci 34:358–373
+Binford LR (1996) Hearth and home: the spatial analysis of
+ethnographically documented rock shelter occupations as a
+template for distinguishing between human and hominid use of
+sheltered space. In: Conard NJ, Wendorf F (eds) Middle
+Paleolithic and Middle Stone Age settlement systems. A.B.A.C.
+O. Edizioni, Forli, pp 229–239
+Binneman J (1997) Results from a test excavation at the Havens Cave,
+Cambria Valley, South-eastern Cape. South Afr Field Archaeol
+6:93–105
+Binneman J (1998) Results from a test excavation at Kleinpoort
+Shelter in the Bavianskloof, Eastern Cape Province. South Afr
+Field Archaeol 7:90–97
+Binneman J (1999) Results from a test excavation at Groot
+Kommandokloof Shelter in the Baviaanskloof/Kouga Region,
+Eastern Cape Province. South Afr Field Archaeol 8:100–107
+Binneman J (2000) Results from two test excavations in the
+Baviaanskloof Mountains, Eastern Cape Province. South Afr
+Field Archaeol 9:83–96
+Brochier JE, Thinon M (2003) Calcite crystals, starch grains
+aggregates or... POCC? Comment on ‘calcite crystals inside
+archaeological plant tissues’. J Archaeol Sci 30:1211–1214
+Cain CR (2005) Using burned bone to look at Middle Stone Age
+occupation and behavior. J Archaeol Sci 32:873–884
+Canti MG (2003) Aspects of the chemical and microscopic characteristics of plant ashes found in archaeological soils. Catena
+54:339–361
+Courty M-A (2001) Microfacies analysis assisting archaeological
+stratigraphy. In: Goldberg P, Holliday VT, Ferring CR (eds) Earth
+sciences and archaeology. Kluwer Academic/Plenum, New York,
+pp 205–239
+Courty M-A, Goldberg P, Macphail RI (1989) Soils and micromorphology in archaeology. Cambridge University Press, Cambridge
+Flügel E (2004) Microfacies of carbonate rocks: analysis, interpretation and application. Springer, Berlin
+Goldberg P (2007) Micromorphologie. In: White R (ed) Abris
+Castanet, secteurs sud et nord (Commune de Sergeac, Dordogne)
+Rapport de fouille programmée Année 2007, pp 16–18
+Goldberg P, Macphail R (2003) Strategies and techniques in collecting
+micromorphology samples. Geoarchaeology 18(5):571–578
+Goldberg P, Macphail RI (2006) Practical and theoretical geoarchaeology. Blackwell Scientific, Oxford
+Goldberg P, Laville H, Meignen L (2007) Stratigraphy and geoarchaeological history of Kebara Cave, Mount Carmel. In: BarYosef O, Meignen L (eds) Kebara Cave, vol 2. Peabody
+Museum, Cambridge
+Henshilwood CS, Marean CW (2003) The origin of modern human
+behavior: a review and critique of models and test implications.
+Curr Anthropol 44(5):627–651
+Herries AIR (2006) Archaeomagnetic evidence for climate change at
+Sibudu Cave. South Afr Humanities 18(1):131–147
+International Committee for Coal and Organic Petrology (ICCP)
+(2001) The new inertinite classification (ICCP System 1994).
+Fuel 80(4):459–471
+Jacobs Z, Wintle AG, Duller GAT, Roberts RG, Wadley L (2008) New
+ages for the post-Howiesons Poort, late and final Middle Stone
+Age at Sibudu, South Africa. J Archaeol Sci 35:1790–1807
+
+122
+Karkanas P, Goldberg P (2009) Site formation processes in Site PP13B
+(Pinnacle Point, South Africa): resolving stratigraphic and depositional complexities with micromorphology. J Hum Evol (in press)
+Ligouis B (2006) Jais, lignite, charbon et autres matières organiques
+fossiles: application de la pétrologie organique à l´étude des
+éléments de parure et des fragments bruts. In Bullinger J, Leesch
+D, Plumettaz N (eds) Le site magdalénien de Monruz, 1.
+Premiers éléments pour l´analyse d´un habitat de plein air.
+Neuchâtel, Service et Musée cantonal d´archéologie, Archéologie
+neuchâteloise, vol. 33, pp 197–216
+Lombard M (2006) First impressions of the functions and hafting
+technology of Still Bay pointed artefacts from Sibudu Cave.
+South Afr Humanit 81(1):27–41
+Macphail RI, Courty MA, Hather J, Wattez J (1997) The soil
+micromorphological evidence of domestic occupation and stabling activities. In: Maggi R (ed) Arene Candide: a functional
+and environmental assessment of the Holocene sequence (Excavations Bernabò Brea-Cardini 1940–50). Memorie dell'Istituto
+Italiano di Paleontologia Umana, Roma, pp 53–88
+Meignen L, Goldberg P, Bar-Yosef O (2007) The hearths at Kebara
+Cave and their role in site formation processes. In: Bar-Yosef O,
+Meignen L (eds) The Middle and Upper Paleolithic archaeology
+of the Kebara Cave, Mt Carmel, Israel. Peabody Museum,
+Harvard University, Cambridge, pp 91–122
+Miller CE, Conard NJ, Goldberg P, Berna F (2009) Dumping,
+sweeping and trampling: experimental micromorphological analysis of anthropogenically modified combustion features. Paléthologie (in press)
+Nadel D, Weiss E, Simchoni O, Tsatskin A, Danin A, Kislev M (2004)
+Stone Age hut in Israel yields world's oldest evidence of bedding.
+Proc Natl Acad Sci 101(17):6821–6826
+Parkington J, Poggenpoel C (1971) Excavations at De Hangen, 1968.
+South Afr Archaeol Bull 26(101/102):3–36
+Pickering R (2006) Regional geology, setting and sedimentology of
+Sibudu Cave. South Afr Humanit 18(1):123–129
+Schiegl S, Conard NJ (2006) The Middle Stone Age sediments at
+Sibudu: results from FTIR spectroscopy and microscopic
+analyses. South Afr Humanit 18(1):149–172
+Schiegl S, Goldberg P, Bar-Yosef O, Weiner S (1996) Ash deposits in
+Hayonim and Kebara caves, Israel: macroscopic, microscopic,
+and mineralogical observations and their archaeological implications. J Archaeol Sci 23:763–781
+
+Archaeol Anthropol Sci (2009) 1:95–122
+Schiegl S, Ligouis B, Conard NJ, Goldberg P (2004) Mineralogy,
+micromorphology, phytolith analysis and organic petrology of
+Middle Palaeolithic and MSA Cave Sites: comparison between
+Sibudu (South Africa) and the Levant. In Geoarchaeology of the
+Eastern Mediterranean. University of Tübingen, July, 2004
+Shahack-Gross R, Berna F, Karkanas P, Weiner S (2004) Bat guano
+and preservation of archaeological remains in cave sites. J
+Archaeol Sci 31(9):1259–1272
+Sievers C (2006) Seeds from the Middle Stone Age layers at Sibudu
+Cave. South Afr Humanities 18(1):203–222
+Sievers C, Wadley L (2008) Going underground: experimental
+carbonization of fruiting structures under hearths. J Archaeol
+Sci 35(11):2909–2917
+Stannard C (1965) A report on preliminary excavations in Tarzan’s
+Cave, Simonstown. S Afr Archaeol Bull 20(78):91–93
+Stoops G (2003) Guidelines for analysis and description of soil and
+regolith thin sections. Soil Science Society of America, Madison
+Taylor GH, Teichmüller M, Davis A, Diessel CFK, Littke R, Robert P
+(1998) Organic Petrology. Gebrüder Bornträger, Berlin
+van Rijssen WJ, Avery G (1992) The late Holocene deposits at Klein
+Kliphuis Shelter, Cedarberg, Western Cape Province. S Afr
+Archaeol Bull 47(155):34–43
+van Wyk BE, Gericke N (2000) People's plants: a guide to useful
+plants of southern Africa. Briza, Pretoria
+Wadley L (1976) Radiocarbon dates from big elephant shelter, Erongo
+Mountains, South West Africa. S Afr Archaeol Bull 31(123/
+124):146
+Wadley L (2001) What is cultural modernity? a general view and a
+South African perspective from Rose Cottage Cave. Camb
+Archaeol J 11(2):201–221
+Wadley L (2006) Partners in grime. South Afr Humanities 18(1):315–
+341
+Wadley L, Jacobs Z (2004) Sibudu Cave, KwaZulu-Natal: background
+to the excavations of Middle Stone Age and Iron Age
+occupations. South Afr J Sci 100:145–151
+Wadley L, Jacobs Z (2006) Sibudu Cave: background to the
+excavations, stratigraphy and dating. South Afr Humanities 18
+(1):1–26
+Walton J (1951) Occupied rock shelters in Basutoland. S Afr Archaeol
+Bull 6(21):9–13
+Wells MJ (1965) An analysis of plant remains from Scott’s Cave in the
+Gamtoos Valley. S Afr Archaeol Bull 20(78):79–84
+
+

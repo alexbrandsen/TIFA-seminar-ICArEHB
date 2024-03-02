@@ -1,0 +1,1721 @@
+Journal of Archaeological Science 42 (2014) 476e486
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Fire production in the deep past? The expedient strike-a-light model
+Andrew Sorensen*, Wil Roebroeks, Annelou van Gijn
+Faculty of Archaeology, Leiden University, P.O. Box 9515, 2300 RA Leiden, The Netherlands
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 27 May 2013
+Received in revised form
+8 November 2013
+Accepted 28 November 2013
+
+Clear examples of tools used to artiﬁcially ignite ﬁre are virtually absent in the archaeological record until
+the late Upper Palaeolithic. One explanation is that, until this point, hominins were (by and large) simply
+ﬁre users dependent on the environment to provide conﬂagrations for exploitation, as opposed to ﬁre
+producers. An alternate scenario is that the tools they used to perform this task are difﬁcult to recognise
+in artefact assemblages. To account for this, we propose the ’expedient strike-a-light model’, a concept
+that draws inspiration from the apparent ad hoc nature of many hunter-gatherer lithic technologies,
+especially those of the Middle Palaeolithic. The model contends early ﬂint strike-a-lights were not formalised or specialised tools used to kindle multiple ﬁres, as seen in later time periods. Instead, we
+postulate that ﬂakes, retouched implements or other fragments made from siliceous lithic raw materials
+were utilised on a very short-term basis in conjunction with the minerals marcasite or pyrite (sulphuric
+iron) to generate ﬁre. Building on previous research and our own experimental data, we establish criteria
+to identify expedient ﬁre-lighting tools, and discuss the testing of our research model on ﬁve Middle
+Palaeolithic assemblages. Although results were negative from this limited data set, this research offers
+an alternative view of early ﬁre production and a protocol for recognising expedient strike-a-light
+technology.
+Ó 2013 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Strike-a-light
+Fire
+Microwear analysis
+Experiments
+Middle Palaeolithic
+Neandertals
+Upper Palaeolithic
+
+1. Introduction
+There is widespread agreement that the ability to ignite and
+control ﬁre was crucial to hominin cultural and (perhaps) physical
+evolution, but there is no agreement about when humans or their
+ancestors developed these abilities (Berna et al., 2012; Roebroeks
+and Villa, 2011a, 2011b; Sandgathe et al., 2011a, 2011b;
+Wrangham, 2009). Use of ﬁre must have conferred distinct advantages on early hominins, but unfortunately for archaeologists, it
+is notoriously difﬁcult to identify in the archaeological record.
+Furthermore, knowing, using and producing ﬁre may have been
+successive stages in the evolution of humanity’s relationship with
+ﬁre (Frazer, 1930); even nowadays, with all humans using ﬁre, not
+all necessarily know how to produce it (Hill et al., 2011).
+Some researchers believe controlled use of ﬁre to be a very early
+phenomenon. Richard Wrangham (Wrangham, 2009; Wrangham
+and Carmody, 2010) cites biological and morphological aspects of
+human evolution as evidence that ﬁre has been an integrated part
+of human behaviour for the last two million years. However, the
+physical evidence for ﬁre use in the form of hearth locations is at
+best very sporadic in the archaeological record of early Homo
+
+* Corresponding author. Tel.: þ31 (0)715271681.
+E-mail address: a.c.sorensen@arch.leidenuniv.nl (A. Sorensen).
+0305-4403/$ e see front matter Ó 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2013.11.032
+
+(Bellomo, 1994; Berna et al., 2012; Brain and Sillen, 1988; Gowlett
+and Wrangham, 2013; Gowlett et al., 1981; James, 1989). Europe,
+occupied before one million years ago, has no clear traces of
+habitual ﬁre use until 300e400,000 years ago (Roebroeks and Villa,
+2011a). This implies hominins inhabited Europe hundreds of
+thousands of years before becoming intentional ﬁre users in the
+Middle Palaeolithic (MP) period. For the MP, there are good data for
+habitual use of ﬁre (Roebroeks and Villa, 2011a), including use of
+ﬁre as a tool, e.g. for cooking (Henry et al., 2011) and the production
+of adhesives (Koller et al., 2001; Mazza et al., 2006). Based on these
+data, Roebroeks and Villa (2011b) suggest that Neandertals probably had the ability to make ﬁre, and certainly the ability to
+appropriate and transport it.
+Sandgathe et al. (2011a, 2011b) state that while hominins may
+have used ﬁre sporadically from about 300,000 years ago onward,
+even late Neandertals did not know how to produce ﬁre, and only
+used it during warmer intervals when higher frequencies of natural
+ﬁres made it more readily available. If their hypothesis is correct,
+ﬁre production would be a very late phenomenon restricted to the
+archaeological record of modern humans at the end of the
+Pleistocene.
+Differentiating opportunistic, episodic use of ﬁre from the production of ﬁre in the archaeological record is a challenge. Currently,
+there is little clear evidence of ﬁre production before the late Upper
+Palaeolithic (UP), only indirect proxy data (i.e. charcoal, ash and
+
+A. Sorensen et al. / Journal of Archaeological Science 42 (2014) 476e486
+
+heated ﬂint and bone) suggesting ﬁre use. This study attempts to
+identify and describe direct artefactual evidence of ﬁre-starting in
+the Palaeolithic. This is an important issue, as we archaeologists
+have yet to ascertaindeven in coarse chronological termsdwhen
+in our early prehistory ﬁre became a standard part of the human
+tool kit.
+2. Fire-starting tools, from the present to the past
+Ethnographic data show two basic means by which ﬁre is produced by hunter-gatherers (Hough, 1926, 1928; Weiner, 2003). The
+ﬁrst system employs wood-on-wood friction; the second utilises
+stone-on-stone percussion or friction, generally using the combination of a ‘strike-a-light’ composed of ﬂint (or another siliceous
+rock or mineral) and marcasite and/or pyrite, referred to hereafter
+as “sulphuric iron” (after Weiner, 1997, 2003). Both methods have
+been used historically with various types of tinder that ‘catch’ a
+spark or coal and allow it to be more easily fanned to ﬂame (Hough,
+1926, 1928). The fungus Fomes fomentarius is arguably the most
+effective tinder (Weiner, 2003), but whether it was used for this
+purpose in the Palaeolithic is not known. Reports of its presence at
+the MP site Salzgitter-Lebenstedt (Germany) (Grahmann, 1956;
+Oakley, 1961) have shown to be unsubstantiated (Johannes and
+Schuh-Johannes, 1991), while Fomes ﬁnds at the late UP site of
+Endingen (Germany) could not be related to human activities
+(Terberger, 1996). Fomes was found with the c. 5300 year old ice
+mummy Ötzi (Peintner et al., 1998), exhibiting trace amounts of
+sulphuric iron powder (Sauter and Stachelberger, 1992).
+It is possible that both the wood-on-wood and stone-on-stone
+methods were independently invented and reinvented many
+times. The chronological relationship of these methods is still
+debated (Weiner, 2003) and difﬁcult to establish given the poor
+preservation of wood. However, the relative durability of the stoneon-stone tool kit provides a more promising avenue of research.
+Furthermore, the stone-on-stone method may also have had a
+wider applicability, as it could have been a more reliable method for
+generating sparks in cool-humid settings than the wood-on-wood
+method. Testing by the authors has shown ﬂint and sulphuric iron
+to produce sparks even while wet, unlike the wood-on-wood
+technique (Hough, 1926). The stone-on-stone method, observed
+historically throughout the world (Roussel, 2005), is the dominant
+technique among groups living at higher latitudes in both North
+and South America (e.g. Gusinde, 1931, 1937, 1974; Hough, 1928).
+Regarding the archaeological visibility of the stone-on-stone
+method, we made an inventory of possible strike-a-lights known
+from the Palaeolithic record, yielding a small number only (Table 1).
+The majority of these specimens were originally compiled by
+Stapert and Johansen (1999; Johansen and Stapert, 2001). Not all
+were physically examined by these (or the present) authors, but
+were interpreted as potential strike-a-lights based on descriptions
+in the literature of heavy edge-rounding and (if present) photos of
+use traces, as this tool type is rarely incorporated into Palaeolithic
+researchers’ typological lists (Patte, 1960). The geographical clustering of the strike-a-lights in the northwest corner of Europe and
+Great Britain is likely an artefact of sampling bias based on these
+researchers’ region of interest. A lone MP artefact exhibiting
+possible traces of use as a strike-a-lightda Mousterian point from
+Bettencourt (France), level N2b (MIS 5a)dis hinted at by Rots (2011,
+Table 2 “Briquet”), but is not discussed in the text, nor are any
+photos included. More information on this piece will be available in
+the near future (Rots, in press).
+As for sulphuric iron fragments, even fewer have been recovered
+(Table 2). Most in this list were originally compiled by Weiner and
+Floss (2004), followed by Roussel (2005). Nearly half are from MP
+deposits; however, specimens exhibiting obvious signs of use have
+
+477
+
+only been recovered from UP contexts. Of particular interest is the
+(now lost) La Cotte à la Chèvre (Jersey, United Kingdom) nodule
+(Sinel, 1912, 1914), recovered in association with a MP hearth
+feature, and of which Sinel said it “no doubt had been used in
+conjunction with a ﬂint for striking ﬁre, for similar nodules have
+been found under similar conditions in other caves” (1912, p. 210).
+Unfortunately, Sinel failed to provide any further speciﬁcs on this
+matter. Also noteworthy is the Drachenloch Cave (Switzerland)
+nodule, its association to MP deposits tenuous due to conﬂicting
+site reports (Bächler, 1940, 1947) and radiocarbon dates from the
+associated hearth (Leuzinger-Piccard, 2003), and its state of use
+confounded by modern traces made by the original excavator
+‘testing’ the nodule with a piece of ﬂint (Bächler, 1940; Weiner and
+Floss, 2004).
+3. The expedient strike-a-light model
+To determine what the earliest ﬁre-starting tools might have
+looked like, we propose three hypotheses based on the apparent ad
+hoc nature of many Palaeolithic technologies: 1) Any ﬂake, tool or
+other ﬂint fragment suitable to the task of making ﬁredwhether
+speciﬁcally produced for this task or notdmay have been used as a
+strike-a-light, likely for only one ﬁre-making episode, before being
+discarded or reused for another task. 2) Subsequent reuse or
+resharpening of tools may have removed or obscured the evidence
+of their use as strike-a-lights. 3) While strike-a-lights may have
+been expedient in nature, fragments of sulphuric iron were likely
+curated given their relative rarity.
+The commonality of ad hoc tool use by humans has been
+demonstrated repeatedly for both earlier hominins (Dibble, 1984,
+1987; Dibble and Rolland, 1992; Roebroeks et al., 1997) and more
+recent prehistoric and historic hunter-gatherer groups (Binford,
+1973, 1979; Frison, 1968), including the expedient use of blades
+and other ﬂint tools as strike-a-lights in late UP contexts (Johansen
+and Stapert, 2001). There is rarely anything formal or standardised
+about the pieces of ﬂint selected to function as strike-a-lights
+(Gechter-Jones and Pawlik, 1998; van Gijn et al., 2006). The
+strike-a-light as a tool type is deﬁned almost exclusively by its
+distinctive wear pattern, not its morphology (Honegger, 2001).
+Artefacts utilised as strike-a-lights in archaeological and ethnographical contexts include ﬂakes, blades, core fragments, unifacial
+and bifacial forms, and stream gravels (Hough, 1926; Jeffreys, 1955;
+Stapert and Johansen, 1999; van Gijn, 2010; van Gijn et al., 2006).
+Moreover, it has been shown that individual tools in MP contexts
+underwent numerous changes in form and function before being
+discarded (Dibble, 1984, 1987; Turq et al., 2013). Assuming a tool
+was used at some point to make a ﬁredunless performed near the
+end of its use-life, as seen in some ‘recycled’ Neolithic tools having
+been used as strike-a-lights (Honegger, 2001)devidence of this
+task could be difﬁcult to discern after subsequent use, or absent
+completely due to resharpening events.
+The most well-known and recognisable prehistoric strike-alight specimens are described from Bronze Age and Neolithic
+sites (Stapert and Johansen, 1999; van Gijn, 2010; van Gijn and
+Niekus, 2001; van Gijn et al., 2006), many likely to have been
+‘curated’ examples that exhibit very distinctive rounded and/or
+faceted edges indicative of repetitive use. Most of the probable UP
+strike-a-lights listed in Table 1 exhibit only moderate wear, though
+generally visible with the naked eye (Stapert and Johansen, 1999). It
+is difﬁcult to know whether these strike-a-lights were used to
+kindle one or multiple ﬁres. Most modern experiments have
+focused on recreating moderate to more heavily used specimens,
+often using experimental pieces for 5e30 min. This is roughly 350
+to 2100 strokes, assuming a rate of ca. 70 strokes a minute
+(Johansen and Stapert, 1996). Yet, demonstrations by survivalists
+
+478
+
+A. Sorensen et al. / Journal of Archaeological Science 42 (2014) 476e486
+
+Table 1
+List of possible Palaeolithic strike-a-lights from northwest Europe.
+Period
+
+Associated industry,
+culture, or age
+
+Site
+
+Location
+
+Microwear
+analysis
+Y/N/?
+
+Description
+
+Source(s)
+
+MP
+
+Mousterian
+
+Bettencourt
+
+France
+
+Y
+
+Rots, 2011, in press
+
+Early UP
+
+Aurginacian
+
+Geißenklösterle
+
+Germany
+
+Y
+
+Late UP
+
+Magdalenian
+
+Andernach
+
+Germany
+
+N
+
+Levallois point with characteristic
+traces along lateral edge and tip
+Blade fragment with striations,
+crushing and possible rounding
+on proximal end (attributed to
+working ochre)
+Crested blade with rounded end
+
+Late UP
+
+Magdalenian
+
+Kniegrotte
+
+Germany
+
+N
+
+Crested blade with rounded end
+
+Late UP
+
+Magdalenian
+
+Trou de Chaleux
+
+Belgium
+
+N?
+
+Late UP
+
+Hamburgian
+
+Hasewich
+
+Germany
+
+Y
+
+Late UP
+Late UP
+
+Hamburgian
+Hamburgian
+
+Meiendorf 2
+Oldeholtwolde
+
+Germany
+Netherlands
+
+Y
+Y
+
+Six blades and one splinter with
+rounded ends
+Scraper with rounding on
+opposite end
+Burin with rounded end
+Two crested blades with a
+rounded end
+
+Late UP
+Late UP
+
+Hamburgian
+Hamburgian
+
+Poggenwisch
+Sassenhein
+
+Germany
+Netherlands
+
+Y
+Y
+
+Late UP
+
+Hamburgian
+
+Teltwisch
+
+Germany
+
+Y
+
+Late UP
+
+Hamburgian
+
+Vledder
+
+Netherlands
+
+Y
+
+Late UP
+
+Hamburgian
+
+Luttenberg
+
+Netherlands
+
+Y
+
+Late UP
+
+Hamburgian
+
+Ahrenshoft
+
+Germany
+
+Y
+
+Late UP
+
+Hamburgian
+
+Schalkholz
+
+Germany
+
+N
+
+Late UP
+
+Late Hamburgian
+
+Sølbjerg 2
+
+Lolland Island,
+Denmark
+
+Y
+
+Late UP
+
+Late Hamburgian
+
+Sølbjerg 3
+
+Lolland Island,
+Denmark
+
+Y
+
+Nine blade tools with rounded
+ends
+
+Late UP
+
+Creswellian
+
+Gough’s Cave
+
+United Kingdom
+
+N
+
+Two crested blades with rounded
+ends, with a possible 14 others
+
+Late UP
+
+Three Holes Cave
+
+United Kingdom
+
+N
+
+Late UP
+
+Creswellian, ca.
+12,190 RCYBP
+Creswellian
+
+United Kingdom
+
+N?
+
+Late UP
+
+Creswellian
+
+Sun Hole, Cheddar
+Gorge
+Lound
+
+United Kingdom
+
+?
+
+Late UP
+Late UP
+
+Creswellian
+Creswellian?
+
+Newtown Linford
+Hengistbury Head
+
+United Kingdom
+United Kingdom
+
+N
+Y
+
+Late UP
+Late UP
+Late UP
+
+Creswellian?
+Creswellian
+Late Ahrensburgian
+
+Zeijen
+Siegerswoude II
+Gramsbergen
+
+Netherlands
+Netherlands
+Netherlands
+
+Y
+Y
+Y
+
+Two crested blades with “rubbed
+ends”, associated with a hearth
+Two blades with rounded ends,
+interpreted as reamers
+Cheddar point with two rounded
+ends
+Blade fragment with rounded end
+Fifteen blade tools with rounded
+ends
+Blade fragment with rounded end
+Blade with rounded end
+Blade with strongly rounded end
+
+Late UP
+Late UP
+
+Federmesser
+Federmesser
+
+Usselo
+Westelbeers
+
+Netherlands
+Netherlands
+
+Y
+N
+
+Crested blade with rounded end
+Tool with rounded end
+
+Late UP
+
+Federmesser
+
+Rekem 10
+
+Belgium
+
+Y
+
+Eight blade tools with one or two
+rounded ends
+
+Burin with rounded end
+Four crested blades with one or
+two rounded ends
+One blade and one burin with
+rounded ends
+Blade fragment with rounded end
+and striations
+Two scrapers and one blade with
+rounded ends
+Multiple pieces exhibiting
+rounded ends
+One blade and three burins with
+rounded ends
+Blade with rounded end and
+striations
+
+Symens, 1988 (Figs. 67.7 and 74.1)
+
+Bosinski and Hahn, 1973; Stapert and
+Johansen, 1999
+Feustel, 1974; Stapert and Johansen,
+1999
+Otte, 1994; Stapert and Johansen, 1999
+Stapert and Johansen, 1999
+Stapert and Johansen, 1999
+Johansen and Stapert, 1995; Stapert
+et al., 1986 (Fig. 1 and 5); Stapert and
+Johansen, 1999 (Fig. 2: 1, 2)
+Stapert and Johansen, 1999
+Johansen and Stapert, 1995 (Fig. 2);
+Stapert and Johansen, 1999 (Fig. 2: 3e6)
+Stapert and Johansen, 1999
+Beuker and Niekus, 1996; Stapert and
+Johansen, 1999 (Fig. 3: 5; 4: B, C)
+Johansen and Stapert, 2001 (Fig. 1: 1e3)
+Hartz, 1987; Stapert and Johansen, 1999
+Stapert and Johansen, 1999; Tromnau,
+1974
+Stapert and Johansen, 1999; Vang
+Petersen and Johansen, 1996 (Fig. 3: 3;
+4: D)
+Johansen and Stapert, 1995 (Fig. 3);
+Stapert and Johansen, 1999; Vang
+Petersen and Johansen, 1996 (Fig. 3: 1,
+2, 4, 6, 7); Johansen and Stapert, 2001
+(Fig. 2)
+Leroi-Gourhan and Jacobi, 1986 (Fig. 3:
+3, 4); Johansen and Stapert, 2001;
+Stapert and Johansen, 1999
+Barton and Roberts, 1996 (Fig. 4: 4;
+Fig. 5: 2); Stapert and Johansen, 1999
+Jacobi, 2000 (Fig. 8.3: 5, 6)
+Jacobi, 1997; Johansen and Stapert,
+2001
+Cooper, 2002 (Fig. 1: 6)
+Barton, 1992 (photos); Stapert and
+Johansen, 1999
+Johansen and Stapert, 2001 (Fig. 4: 11)
+Johansen and Stapert, 2001 (Fig. 1: 4)
+Johansen and Stapert, 1995 (Fig. 4);
+Johansen and Stapert, 1997 (Fig. 91:1;
+Fig. 92); Stapert and Johansen, 1999
+(Fig. 2: 7; 4: E)
+Stapert and Johansen, 1999
+Arts and Deeben, 1976 (Fig. 20: 65);
+Stapert and Johansen, 1999
+De Bie and Caspar, 1997 (Fig. 85: 16);
+Johansen and Stapert, 2001 (Fig. 3)
+
+A. Sorensen et al. / Journal of Archaeological Science 42 (2014) 476e486
+
+479
+
+Table 2
+List of utilised and unutilised sulphuric iron specimens (and iron oxide mineral pseudomorphs) recovered from European Palaeolithic archaeological deposits.
+Period
+
+Associated industry,
+culture, or age
+
+Site
+
+Location
+
+Evidence
+of use,
+Y/N/?
+
+Description
+
+Source(s)
+
+MP
+
+Mousterian
+
+La Cotte à la
+Chèvre
+
+St. Ouen, Jersey
+
+?
+
+Sinel, 1912, 1914
+
+MP
+
+Mousterian
+
+Grotte de
+l’Hyène
+
+Arcy-sur-Cure,
+Yonne, Burgundy,
+France
+
+N
+
+Hen’s egg sized nodule
+within a hearth feature and
+associated with Mousterian
+ﬂint tools
+Two aggregated pieces, not
+native to hostrock
+
+MP
+
+Mousterian
+
+La Quina
+
+Charente, France
+
+N?
+
+MP
+
+Mousterian
+
+Combe
+Saunière
+
+Dordogne, France
+
+N?
+
+MP
+
+Mousterian
+
+Montmirat, Gard,
+France
+
+N
+
+MP
+
+Mousterian
+
+Grotte de la
+Verrerie de
+Macassargues
+Abri des
+Merveilles
+
+Sergeac, Dordogne,
+France
+
+N
+
+MP
+
+Mousterian
+
+Grotte del Mig
+
+Corneilla-deConﬂent, PyrénéesOrientales, France
+
+?
+
+MP?
+
+50,000 B.P.?
+
+Drachenloch
+Cave
+
+Tamina valley,
+south of Bad Ragaz,
+Switzerland
+
+?
+
+MP
+
+Scladina Cave
+
+Sclayn, Ardennes,
+Belgium
+
+N
+
+Vogelherd
+
+Near Heidenheim,
+Germany
+
+Y
+
+UP
+
+Mousterian,
+38,650  1500 B.P.
+(Gilot, 1992)
+Aurignacian, average
+32.000 BP (Conard, 2003,
+p. 831; Weiner and Floss,
+2004, p. 61)
+Aurignacian
+
+Grotte du
+Renne
+
+N?
+
+UP
+
+Aurignacian
+
+Fossellone Cave
+
+UP?
+
+Aurignacian/
+Châtelperronian,
+Magdalenian?
+Solutrean or
+Gravettian
+
+Trou de la Mère
+Clochette
+
+Arcy-sur-Cure,
+Yonne, Burgundy,
+France
+Monte Cicero caves,
+San Felice Circeo,
+Latina, Italy
+Rochefort-surNénon, Jura, France
+
+Laussel
+
+UP
+
+Solutrean?
+
+UP
+
+Magdalenian,
+13,300e12,710  150 BP
+(Otte, 1994, p. 230)
+
+Grotte des
+Eyzies-deTayac
+Trou de
+Chaleux
+
+UP
+
+Magdalenian,
+12,650 RCYBP
+Magdalenian
+
+Grotte du Bois
+Laiterie
+Pincevent
+
+UP
+
+UP
+
+UP
+
+UP
+(Neolithic?)
+UP
+
+?
+
+Grotte d’Engis
+
+?
+
+Trou Magrite
+
+UP
+
+?
+
+Ottersum
+(Gennep)
+
+Aggregated fragment, no
+apparent use
+Large fragments (n ¼ ?)
+weighing 2e3 kg from
+sources 30e90 km away
+Large nodule of iron ore
+(remineralised sulphuric
+iron?), locally available
+Several pieces of iron ore
+(remineralised sulphuric
+iron?)
+Limonite nodule
+(remineralised sulphuric
+iron) with one slightly
+concave surface (possibly
+natural)
+Halved nodule in
+association with a hearth
+feature; possible Neolithic
+origin; probable modern
+use traces
+Two geothtite cortical (?)
+fragments remineralised
+from marcasite or pyrite
+Full nodule with apparent
+band of crushing on
+exterior
+
+Leroi-Gourhan, 1952, 1995 (Fig. 5)
+Perles, 1977; Weiner and Floss,
+2004 (Fig. 6); Roussel, 2005
+(Fig. 105)
+White 2003 (Fig. 24); Hayden 2001
+Jean-Michel Geneste, pers. comm.,
+1990 (in Hayden, 1993); Geneste,
+pers. comm, 2013
+Hugues, 1951; Roussel, 2005
+
+Delage, 1937; Roussel, 2005
+
+Blaize 1986, 1987 (Fig. 7: 16e18);
+Roussel, 2005 (Fig. 106)
+
+Bächler, 1940; Leuzinger-Piccard,
+2003; Weiner and Floss, 2004
+(Fig. 7)
+
+Bonjean et al., 2011
+
+Weiner and Floss, 2004 (Figs. 3e5);
+Riek, 1934
+
+Three irregularly shaped
+fragments, described as
+apparently not utilitarian
+Whole nodule (not yet
+analysed)
+
+de Beaune, 2002
+
+?
+
+Three fragments of pyrite
+
+Roussel, 2005; Perles, 1977
+
+Marquay,
+Dordogne, France
+
+Y
+
+France
+
+Y?
+
+Nodular fragment
+exhibiting many clear
+scratches
+Subcylindrical nodule,
+possibly utilised on one end
+
+de Mortillet, 1909; Weiner and
+Floss, 2004 (Fig. 9); Roussel, 2005
+(Fig. 107)
+Lartet and Christy, 1875; Perles,
+1977
+
+Hulsonniaux,
+Ardennes, Belgium
+
+Y and ?
+
+Collina-Girard, 1998 (Fig. 11);
+Dupont, 1866, Dupont, 1872;
+Prideaux, 1977; Weiner and Floss,
+2004 (Fig. 8); Roussel, 2005
+(Fig. 108)
+
+Profondeville,
+Namur, Belgium
+La-GrandeParoisse, Seine-etMarne, France
+Belgium
+
+Y?
+
+Three pieces: two sulphuric
+iron nodules, one grooved
+due to use, the other not
+described (missing); one
+limonite nodule,
+remineralised after
+sulphuric iron (utilised,
+missing)
+Four nodule fragments
+from same nodule
+Five fragments, not natural
+to the site
+
+Pont-à-Lesse,
+Namur, Belgium
+Limberg,
+Netherlands
+
+?
+
+?
+
+N
+N
+?
+
+Full nodule, no noted signs
+of wear
+Nodule fragment, no visible
+traces of percussion
+Drilled (?) fragment
+
+Paola Villa, pers. comm., 2013
+
+Lozouet and Gautier, 1997; Otte and
+Straus, 1997
+Leroi-Gourhan and Brézillon, 1972
+(Fig. 120); Roussel, 2005 (Fig. 110)
+Collin et al., 1991
+Otte, 1979
+van der Lee, 2000/2001
+
+480
+
+A. Sorensen et al. / Journal of Archaeological Science 42 (2014) 476e486
+
+using ﬂint, sulphuric iron and natural tinder have shown time and
+again that a spark can be captured in fewer than 100 strokes, with
+some instances requiring less than ten strokes (as demonstrated to
+us by Jürgen Weiner, in 2011).
+How might a strike-a-light used once for such a short period of
+time appear in the archaeological record? Could this possibly account for the scarcity of later UP strike-a-lights, and the virtual
+absence of such tools in the MP and early UP? The hypothesised
+early hominin ‘use-and-lose’ mentality towards strike-a-lights and
+the subsequent failure of researchers to recognise these tools as
+such due to less evident microwear traces could account for their
+invisibility in the MP archaeological record, and possibly earlier.
+4. The experiments
+The experimental assemblage is comprised of 18 ﬂint tools used
+for short periods of time: 13 unmodiﬁed ﬂakes, one natural waterworn nodule fragment, two unifacially ﬂaked tools and two bifacially ﬂaked tools (Inline Supplementary Table S1). Extant strike-alights from the experimental comparative collection at the Leiden
+University Laboratory for Artefact Studies (n ¼ 29) were also analysed for this study, but are not formally described here (Inline
+Supplementary Table S2). The experimental assemblage was produced using a basalt hammerstone, with striking platforms prepared via light edge-grinding.
+Inline Supplementary Tables S1 and S2 can be found online at
+http://dx.doi.org/10.1016/j.jas.2013.11.032.
+The raw material used was a single cobble of ﬁne-grained
+Cretaceous ﬂint, dark brown to dark grey in colour with common
+slightly coarser-grained light grey mottles, recovered from a beach
+near Happisburgh, Norfolk, England. The experimental strike-alights were forcibly applied against a single sulphuric iron nodule
+eroded from Cretaceous chalk cliffs overlooking the beach near Cap
+
+Gris-Nez, northwest France. Because of the presence of an oxidised
+mineral cortex (likely goethite), the nodule was broken open to
+expose fresh surfaces prior to experimentation.
+The primary surface selected for use on the ﬂake tools was the
+dorsal edge of the striking platform. The generally greater thickness
+and higher angle of this edge compared to lateral and ventral ﬂake
+edges make for an often sturdier working surface that is more
+resistant to damage.
+Two different methods of applying the ﬂint strike-a-light to the
+sulphuric iron contact material were employed in this study: the
+percussion (striking) method, and the friction (scraping) method.
+To account for potential variation in use traces caused by differences in technique, some experimental pieces were held so the
+working edge was brought across the contact-surface transversely
+to the edge, while others were applied longitudinally (Fig. 1). In
+reality, the exact motion exerted by any particular tool is dependent
+on a host of factors, including the morphology and quality of both
+the strike-a-light and the sulphuric iron, as well as by cultural or
+personal preference, leading to a large number of potential application options.
+Equally as difﬁcult to determine is the average length of time
+needed by Palaeolithic people to kindle a ﬁre. A spark can be
+captured by good tinder in fewer than ten strokes, but can often
+take hundreds of strokes, depending on user proﬁciency, tinder
+quality, and other factors affecting the effectiveness of a strike-alight (e.g. raw material quality and humidity). Assuming Palaeolithic people were generally proﬁcient at ﬁre-making, the total
+number of strokes per ‘ﬁre-making event’ was arbitrarily set at 25
+strokes for our experiments.
+To document how the working edge of a strike-a-light evolves
+over time during the early stages of its use, experimental pieces
+were subjected to 25, 50, 75, or 100 total strokes performed in 25
+stroke intervals; not all experiments completed all four series
+
+Fig. 1. Schematic drawings and photographs of gestures used for experimentation. The strike-a-lights were applied a) transversely and b) longitudinally to the tool edge, using
+percussion (striking) or friction (scraping). Experiments employing the friction method were initially pressed against the surface of the sulphuric iron nodule and then brought
+down abruptly while applying pressure.
+
+A. Sorensen et al. / Journal of Archaeological Science 42 (2014) 476e486
+
+481
+
+Fig. 2. Photographs of sulphuric iron microwear traces formed on ﬂint strike-a-lights: a) striations after scraping transverse to the edge one time, Experiment 2009 (original
+magniﬁcation 100); b) edge-rounding after scraping transverse to the edge 100 times, Experiment 2009 (original magniﬁcation 10); c) edge-crushing after striking longitudinally
+to the edge 75 times, Experiment 2001 (original magniﬁcation 10); d) traces on a ﬂake removed via retouch after being scraped longitudinally to the edge 50 times, Experiment
+1951b (original magniﬁcation 200; white arrows point to micro-potlids; highly reﬂective areas indicate sulphuric iron residue); e) traces on edge-removal (<5 mm) detached
+while scraping transverse to the edge, Experiment 1951a (original magniﬁcation 200); f) typical microscopic striations and polish on an extensively used and heavily ﬁre-affected
+Neolithic strike-a-light from Zeewijk, The Netherlands (original magniﬁcation 200).
+
+(Inline Supplementary Table S1). The number of strokes per series
+that generated sparks was noted (Inline Supplementary Table S3).
+The ﬂaked tool experiments underwent a further step, in which a
+small section of the utilised edge was retouched to assess the
+preservation potential of the microwear on both the tool and the
+removed ﬂakes after resharpening. Before each series, photos were
+taken at both macroscopic and microscopic scales, and casts were
+made of the working edge using dental moulding gel (vinyl
+polysiloxane).
+After each series, the specimen was cleaned using soap and
+running water to remove excess sulphuric iron residue adhering to
+the working edge. It was found excess residue tended to impede the
+setting process of the moulding gel, thus ruining the casts. Each
+experiment was video recorded. The tool was weighed before and
+after use to account for edge-loss (Inline Supplementary Table S3).
+Any resultant edge-removals were collected after each series using
+a dropcloth. Both the experimental ﬂint tools and the sulphuric iron
+
+contact material were analysed for the presence of use traces. The
+instruments used for analysis include a Nikon SMZ2T binocular
+microscope (10e60 magniﬁcation), a Nikon Optiphot-1 metallographic microscope (50xe400), and a Leica DM6000-M
+metallographic microscope (50e1000).
+Inline Supplementary Table S3 can be found online at http://dx.
+doi.org/10.1016/j.jas.2013.11.032.
+5. Experimental results
+5.1. The strike-a-lights
+Comparable to results attained in previous studies (Collin et al.,
+1991; Johansen and Stapert, 1996; Stapert and Johansen, 1999; van
+Gijn et al., 2006), the forcible application of ﬂint against sulphuric
+iron yielded a regular suite of macroscopic and microscopic traces,
+forming a distinctive pattern of microwear on the ﬂint. These traces
+
+482
+
+A. Sorensen et al. / Journal of Archaeological Science 42 (2014) 476e486
+
+included edge-rounding, edge-removal, crushing, striations, and
+polish, and were all present on the experimental pieces (Fig. 2).
+When assessing archaeological specimens, the degree of rounding
+and the presence of stacked step fractures (i.e. crushing) are the
+most important initial macroscopic identiﬁers of a potential strikea-light, while the presence and character of the striations are the
+most indicative microscopic traces.
+Microscopic traces varied little between experimental pieces (cf.
+Collin et al., 1991). Striations almost invariably appeared as densely
+packed clusters of parallel to sub-parallel linear traces within
+discrete zones of matte, rough polish (Fig. 2a, def). The depth at
+which these striations incised into the surface of the polish tended
+to be greater than striations observed within polish produced by
+softer materials like wood, hide, siliceous plants, or even soft stone.
+Variability between experiments was primarily restricted to the
+preservation (i.e. distribution) of traces. This is dictated by the
+different ‘edge-stabilisation’ processes inherent in the friction and
+percussion application methods, whereby the working surface
+becomes more rounded (i.e. homogeneous) as protrusions are
+removed. The friction method had a largely abrasive effect on an
+edge, wearing away the surface relatively quickly and resulting in
+an overall smoother and rounded appearance (Fig. 2b) with more
+prevalent and continuous zones of microscopic traces than on tools
+having utilised the percussion method (cf. Collin et al., 1991).
+Whether the strike-a-light was applied in a transverse or longitudinal direction to the working edge had little bearing on the formation or preservation of these traces after the initial stabilisation
+phase. Sub-circular pits (i.e. ‘micro-potlids’) were observed occasionally within zones of polish, presumably caused by frictionderived heat (Johansen and Stapert, 1996) (Fig. 2d). This unique
+type of removal was observed almost exclusively on pieces
+employing the friction method.
+The percussion method, in contrast, appeared to homogenise a
+surface via successive crushing of high spots, resulting in the
+removal of numerous small angular-blocky fragments, occasional
+micro-ﬂakes, and some larger ﬂakes. Crushing appeared as densely
+stacked step fractures, with the small, newly created edges adding a
+degree of ‘grip’ that seemed to aid in spark production (Fig. 2c). This
+phenomenon was particularly prevalent on naturally rounded
+surfaces (Inline Supplementary Table S1, Experiment 2006). However, when excessive surface loss was caused by crushing, zones of
+polish and striations were generally restricted to isolated high
+points and/or along the peripheries of the utilised area.
+Small, clustered edge-removals were ubiquitous on the experimental pieces and, depending on the degree of use, were generally
+present for the entire length of the effective working edge. Unifacially worked edges were more susceptible to edge-loss than
+bifacial edges, especially when applied using a transverse motion.
+Following the basic principles of ﬂintknapping, this can be attributed to edge-removals tending to follow ridges between extant
+ﬂake scars along the direction of force. In general, edge damage
+tended to be more extensive using the transverse technique for
+both the percussion and friction method.
+The characteristic microwear traces discussed above were also
+observed on the majority of both incidental edge-removals and
+purposefully detached resharpening ﬂakes. These traces were often
+hardly noticeable macroscopically, but invariably occurred on the
+dorsal side of the removal at or near the proximal end. This phenomenon appeared on even the smallest of chips, some less than
+5 mm (Fig. 2d, e).
+5.2. The sulphuric iron contact material
+Though not the primary aim of this study, we analysed the
+interior and exterior surfaces of the sulphuric iron nodule used as
+
+the contact material for our strike-a-light experiments to discern
+and describe any traces that could help identify utilisation on
+archaeological specimens.
+Prolonged use of the interior surfaces of the sulphuric iron
+nodule resulted in the development of distinct, well-developed
+traces (Inline Supplementary Fig. S1). The friction method often
+produced shallow, sub-parallel and intersecting linear grooves
+cross-cutting the radial crystal pattern of the nodule. After prolonged use, the surface became mostly ﬂat and homogeneous,
+obscuring much of the original radial crystal pattern. Continued
+usedespecially with the percussion methoddcreated a shallow
+depression (cf. Beugnier and Pétrequin, 1997). Being prone to
+chemical decomposition, the fresh surfaces rapidly oxidised, often
+obscuring ﬁner striations (though this is not always the case
+archaeologically, see Pawlik, 2004). However, an area of iron oxide
+cortex at the edge of the nodule fragment was also scratched, and
+this area better retained use traces due to its more chemically stable
+state (Inline Supplementary Fig. S2).
+Inline Supplementary Figs. S1 and S2 can be found online at
+http://dx.doi.org/10.1016/j.jas.2013.11.032.
+The initial forcible opening of the nodule created three lensshaped primary impact scars following an extant fracture on the
+exterior surface, along which the nodule ultimately parted. Exactly
+opposite these primary impact scars were two secondary impact
+scars and one zone of scufﬁng from contact with the anvil stone.
+These two impact scars possessed a very similar spacing and
+morphology to the primary impact scars (Inline Supplementary
+Fig. S3). While these features may not be directly associated with
+ﬁre-making, they could imply anthropogenic opening of a nodule
+for that purpose on archaeological specimens where ﬁner traces are
+no longer present.
+Inline Supplementary Fig. S3 can be found online at http://dx.
+doi.org/10.1016/j.jas.2013.11.032.
+5.3. Strike-a-light effectiveness
+Spark generation frequencies and degree of edge-stabilisation
+(inferred from weight of edge-removals) per series were recorded
+for each experimental tool (Inline Supplementary Table S3). However, given the small sample size and the variability therein, little
+can be said of this data (statistically) other than strike-a-lights are
+indeed capable of propagating sparks early on in their use lives
+despite generally higher edge-attrition rates than on heavily used
+pieces with more stable edges. The fact that these tools can indeed
+produce sparks from the beginning of their use lives renders moot
+the observations of previous experimenters that the ‘effectiveness’
+of a strike-a-light increases with use (Collin et al., 1991), given the
+inferred short-term nature of expedient strike-a-light use. Based on
+our experiments (and experiences), we would argue effectiveness
+is dependent on user expertise, the morphology of the tool and the
+gesture used, and over time reﬂects more the degree of edge stabilisation than an actual increase in spark production. More experiments focussing on strike-a-light effectiveness are needed to
+provide the empirical data necessary to say more on this subject.
+6. Identiﬁcation of strike-a-light wear
+Experiments show that even very short-term usage of a strike-alight can produce abundant and readily identiﬁable microscopic
+wear traces (Fig. 2). In fact, these traces appeared on salient portions of a tool edge even after a single stroke, albeit minimally
+(Fig. 2c). Macroscopically, however, it was sometimes difﬁcult to
+discern the pre-utilised state from very brief usage as a strike-alight. Incipient rounding was visible with the aid of a stereomicroscope, and under high magniﬁcation (100), striations and
+
+A. Sorensen et al. / Journal of Archaeological Science 42 (2014) 476e486
+
+polish were often readily apparent. Distinct traces have also been
+observed on minute edge fragments (<5 mm) removed during use
+or from subsequent retouch (Fig. 2d, e). This suggests that the
+former presence of a strike-a-light on a site could potentially be
+identiﬁed even when the tool itself is absent.
+Previous experiments revealed tool faces (as opposed to edges)
+to also be effective at driving sparks, a technique that could allow
+for the utilisation of a tool as a strike-a-light without risking
+potentially severe edge-damage. Therefore, when looking for
+strike-a-light use traces, the entire surface of a tool should be
+examined, not only the edges.
+The relative hardness of sulphuric iron is 6e6.5 on the Mohs
+scale of mineral hardness; this is only slightly softer than ﬂint,
+which averages 7. This comparable hardness, coupled with its ﬁnegrained nature and crystalline structure, is responsible for the
+distinctive microwear traces it imparts onto ﬂint. Other stony materials could potentially leave similar traces, but detailed microwear studies and experimentation, while not exhaustive, have
+allowed researchers to distinguish between them (Astruc, 2002;
+Johansen and Stapert, 1996). Despite light edge-grinding incurred
+during the knapping process, analysis of unused edges on experimental tools in this study showed few traces were left by the softer
+basalt hammerstone.
+Sulphuric iron residue was present on the working surfaces of
+all the experimental pieces. Observed residue was randomly
+distributed within, and/or on the peripheries of, zones of polish,
+though it may be noted that residue appeared to be more prevalent
+on high points than in recesses. However, despite the presence of
+sulphuric iron residue on some Neolithic and Bronze Age strike-alights (Pawlik, 2004), and having been potentially observed on late
+UP specimens (Stapert and Johansen, 1999), the probability of such
+residue being preserved on archaeological pieces recovered from
+most Palaeolithic deposits is low due to the susceptibility of the
+mineral to chemical decomposition. Similarly, shiny prehensile
+‘gloss’ caused by extensive handling and the presence of ﬁne sulphuric iron powder generated during use (Rots, 2012), a characteristic feature of later curated specimens (Beugnier and Pétrequin,
+1997; van Gijn and Niekus, 2001), may not be found on expedient
+Palaeolithic examples.
+Identifying strike-a-lights in the archaeological record is a
+difﬁcult task for a number of reasons. A strike-a-light is an
+ephemeral tool that may have only been needed once at a site to
+start a ﬁre, if at all. Assuming ﬁre was not transported to a site
+from another location, as documented ethnographically for a
+wide range of hunter-gatherers, e.g. in Tasmania (Roth, 1899;
+Völger, 1972) and Tierra del Fuego (Gusinde, 1931, 1937, 1974;
+Roebroeks and Villa, 2011a), a new ﬁre needs only to be lit
+once and then maintained until the camp is broken. Considering
+ﬁre is often kindled at or very near the hearth location, the
+chances of incidental thermal alteration of a discarded strike-alight is considerable. Fortunately, direct exposure to ﬁre will
+not necessarily adversely affect well-developed traces of use, as
+evidenced by the presence of very distinct rounding, striations
+and polish on an extensively thermally altered Neolithic strike-alight (Fig. 2f) from the Dutch site of Zeewijk (García-Díaz, in
+preparation). Nevertheless, various other taphonomic factors,
+including mechanical and chemical post-depositional processes,
+can potentially obscure or obliterate microwear, as can subsequent reuse of a working edge.
+7. Archaeological test cases
+We analysed a limited number of MP lithic assemblages to test
+for evidence of strike-a-light use. We performed cursory examinations of ﬂint specimens with a binocular microscope to identify
+
+483
+
+‘artefacts of interest’ with ‘suspect’ surfaces exhibiting slight
+rounding or crushing. These pieces were then examined with an
+incident-light microscope to identify use traces comparable to
+known experimental and archaeological microwear features of
+strike-a-lights. To date, approximately 21,500 lithic artefacts have
+been analysed from sites ranging in age from as early as MIS 8 to
+MIS 3, including the Last Interglacial site Neumark-Nord 2 (n ¼ c.
+8700) in Germany (Sier et al., 2011), the late Middle Pleistocene
+deposits at La Cotte à la Chèvre (n ¼ c. 8000) on Jersey (Channel
+Islands, UK) (Callow, 1986; McBurney, 1963; Sinel, 1912, 1914),
+Scaldina Cave (from Layers 1A and 5, dating to MIS 3 and a cold
+phase of the Weichselian Early Glacial, respectively) in Belgium
+(n ¼ 4351) (Bonjean et al., 2011; Pirson et al., 2008), the MIS 5b-5c
+open-air site Remicourt (n ¼ 376) also in Belgium (Bosquet et al.,
+2004), and a small collection of exogenous ﬂints (n ¼ 96) from
+inﬁll deposits in late Middle Pleistocene volcanos in the Eifel region
+of western Germany, at Plaidter Hummerich, Herchenberg,
+Schweinskopf-Karmelenberg, Kunkskopf, Eiterköpfe, Nickenicher
+Sattel, In den Wannen and Tönchesberg. These ﬂints were imported
+as early as the late Saalian (MIS 6), though mainly during the Early
+Weichselian (MIS 5), from ﬂint sources more than 100 km away
+(Floss, 1994).
+The Neumark-Nord 2 assemblage was sampled from the large
+amount of material excavated there, with some fragments alluding
+to the presence of ﬁre (including heated ﬂints, charred bones and
+charcoal), though no formal hearth locations were observed. La
+Cotte à la Chèvre was selected due to the contextual association of a
+sulphuric iron nodule (Table 2) and a MP hearth (Sinel, 1912, 1914).
+Unfortunately, only a small fraction of the assemblage from the
+initial excavations by Sinel remain in the current collection, the
+remainder being from 1960s excavations of remnant and disturbed
+deposits (Callow, 1986; McBurney, 1963). Possible heavy trampling
+coupled with poor curation of the lithic materials from la Chèvre
+has led to poor preservation of microwear traces. At Scladina Cave,
+the recovery from layer 1A (and only this layer in the whole cave
+sequence) of two small geothite after marcasite/pyrite fragments
+(Table 2)dpossibly derived from a sulphuric iron nodule cortexdalong with the presence of burned bone (Bonjean et al., 2011),
+provided the impetus to examine the ﬂint artefacts from this site.
+Unfortunately, much like the lithics from la Chèvre, the artefacts
+were heavily patinated precluding identiﬁcation of use traces. The
+artefacts from Remicourt were very well preserved, however, some
+constituent pieces of glued reﬁtting sequences could not be analysed in the short amount of time available. The small Eifel ﬂint
+assemblage was examined to explore the hypothesis that these
+exotic pieces may have been transported to this ﬂint-sparse area of
+Germany for the purpose of ﬁre-making en route. However, the
+abundance of both quartz and quartzite in the associated assemblages made it unlikely that these ﬁner, more easily worked ﬂint
+pieces were used for such a potentially destructive task, though
+exhausted tools of good quality raw material are known to have
+been preferentially selected for reuse as strike-a-lights at some
+later Neolithic sites (Honegger, 2001).
+Of the large number of artefacts evaluated using the binocular
+microscope, only a fraction (w1.2%) were subjected to further
+analysis with a high-powered microscope. While a number of these
+artefacts exhibited macroscopically observable edge-rounding or
+crushing, microscopic evidence consistent with likely use as a
+strike-a-light was not observed. It should be stressed that strike-alights do not frequently occur even in later assemblages, so their
+absence in those analysed for this study is perhaps not surprising,
+especially given some of the less-than-ideal circumstances
+mentioned for each site (e.g. no hearth structures, deposition in
+coarse-grained and/or geologically dynamic sediments resulting in
+poor artefact preservation, or small sample size). Unfortunately, the
+
+484
+
+A. Sorensen et al. / Journal of Archaeological Science 42 (2014) 476e486
+
+question as to whether or not these results reﬂect an actual absence
+of strike-a-light use remains open.
+8. Conclusions and recommendations
+The use of expedient strike-a-light methods by late UP huntergatherers is supported by experimental and archaeological data
+(Stapert and Johansen, 1999; Johansen and Stapert, 2001), but has
+only been observed in the north of Europe. Neandertals lived,
+survived, and thrived in these colder northern latitudes far longer
+than modern humans, making them the likely progenitors of artiﬁcially kindled ﬁre (Roebroeks and Villa, 2011a). Yet to date, only
+one tool possessing the requisite attributes to be considered as
+having been expediently used as a strike-a-light is known to have
+been recovered from a MP context (Rots, 2011, in press). This one
+ﬁnd can hardly be considered a trend, however, which some researchers might take as a sign that Neandertals were on the whole
+incapable of producing ﬁre (Sandgathe et al., 2011a, 2011b).
+Conversely, few researchers would infer that modern humans were
+incapable of making ﬁre at will during the UP despite the fact
+thatdat the momentdstrike-a-lights appear to be just as lacking
+from the ﬁrst three-quarters of this period as they are from the MP.
+However, the literature does allude to examples of Aurignacian
+tools with comparable microwear traces (Symens, 1988), or those
+vaguely described as possessing conspicuously rounded ends, but
+whose functions have yet to be assessed using modern analytical
+methods (e.g. Patte, 1937, not included in Table 1). Has enough work
+been done to identify early strike-a-lights to properly assess their
+prevalence in the archaeological record? Could this virtual absence
+be due to the fact that neither Neandertals nor early modern
+humans possessed this technology, save for a few very localised
+‘chance’ innovations? Or was wood-on-wood friction perhaps the
+preferred method for producing ﬁre, the equipment itself having
+either been burned or rotted away?
+
+We have proposed an alternative scenario with the expedient
+strike-a-light model: the invisibility of ﬁre production in the
+Palaeolithic record is an artefact of the ephemeral nature of this
+tool type in hunter-gatherer societies. The identiﬁcation of the
+Bettencourt piece as a possible strike-a-light lends credibility to
+the idea that Neandertals were capable of making ﬁre (Rots, 2011,
+2013). Furthermore, sulphuric iron nodules in Palaeolithic contexts can act as possible ﬁre production proxies. This is most true
+for the UP Laussel and Trou de Chaleux nodules (Fig. 3) that
+exhibit obvious traces of use as ﬁre-making equipment. The fact
+that these typically more readily weathered pieces exist while
+deﬁnitive examples of their more durable ﬂint strike-a-light
+counterparts are lacking is the best indication that informal ﬂint
+implements used as strike-a-lights are likely present but not
+readily recognised, having instead been ‘lost in the crowd’ among
+large collections of lithic artefacts.
+Misidentiﬁcation of macroscopic traces could be one cause of
+this. Edge-rounding or crushing on ﬂakesdspeciﬁcally on the
+dorsal edge of the proximal enddis typically attributed to edgegrinding for the purpose of preparing a striking platform. In terms
+of ﬁre-making, however, this edge is important for two reasons: 1)
+for larger ﬂakes, it is often the most robust edge on a ﬂake, making
+it ideal for use as a readymade strike-a-light; and 2) for smaller
+chips and ﬂakes, it is potentially the former working edge of a tool
+on which wear traces may still be preserved, as experiments have
+shown. Furthermore, the continuation of edge-rounding or
+crushing onto the ventral side of the striking platform is also a
+clear indication of possible use as a strike-a-light, as this cannot
+happen purely from platform preparation.
+Analysts should be aware of the tell-tale macroscopic traces of
+strike-a-light use, speciﬁcally crushing (stacked step fractures) and/
+or surface rounding that contrast with ‘sharp’ edge-terminations
+found on unmodiﬁed specimens (Fig. 2a, b). If encountered while
+cataloguing a collection or conducting lithic analyses, these suspect
+pieces should be set aside for analysis by a microwear specialist.
+Deeply incised and densely clustered (sub)parallel striations in
+zones of matte polish are the most obvious microscopic signs of use
+as a strike-a-light (Fig. 2cef).
+Artefacts exhibiting these traces can be used to infer the presence of ﬁre-making on sites where direct evidence of burning is
+lacking due to taphonomic variables. When actively seeking evidence of ﬁre production in a large collection, focus should be placed
+on artefacts recovered at or near hearth locations, includingdif
+possibledsmall edge-removals recovered by sieving. Only through
+the systematic analysis of a larger sample of artefacts from wellpreserved (i.e. open-air sites in loessic depositional settings) and
+well-excavated sites exhibiting strong evidence for controlled use
+of ﬁre will it be possible to determine if and when pre-modern
+human hunter-gatherers utilised stone-on-stone ﬁre production
+on a regular basis.
+Acknowledgements
+
+Fig. 3. Images of utilised UP sulphuric iron nodules: a) photograph of Trou de Chaleux
+(Belgium) nodule with deeply incised groove (Ó IRSNB, Brussels; in Collina-Girard,
+1998); b) drawing of Laussel (France) nodule exhibiting multiple linear use traces
+(after de Mortillet, 1909; also in Roussel, 2005).
+
+Part of this research was funded by a SPINOZA-grant from the
+Netherlands Organisation for Scientiﬁc Research (N.W.O.). We
+would like to thank the following people for facilitating access to
+collections for analysis: Olga Finch with Jersey Heritage (St. Hellier,
+Jersey, UK), Olaf Jöris and Sabine Gaudzinski-Windheuser with the
+Römisch-Germanisches Zentralmuseum (RGZM) Archaeological
+Research Institute (Monrepos, Neuwied, Germany), Dominique
+Bonjean with Archéologie Andennaise ASBL (Sclayn-Andenne,
+Belgium) and Ivan Jadin with the Royal Belgian Institute of Natural
+Sciences (Brussels, Belgium). We thank Dick Stapert (Groningen,
+The Netherlands), Veerle Rots (Liège, Belgium) and Jürgen Weiner
+(Bonn, Germany) for feedback and various forms of support.
+
+A. Sorensen et al. / Journal of Archaeological Science 42 (2014) 476e486
+
+William Whittaker (Iowa City, USA) helped edit the text, for which
+we are very grateful. An anonymous reviewer provided useful
+comments on an earlier draft of the paper. Finally, thanks to Bas de
+Geus (Delft, The Netherlands) and Joanne Porck (Chania, Crete,
+Greece) who helped illustrate and prepare the ﬁgures.
+References
+Arts, N., Deeben, J., 1976. Een Federmesser nederzetting langs de kapeldijk te
+Westelbeers, provincie Noord-Brabant. Stichting Brabants Heem, Eindhoven.
+Astruc, L., 2002. L’outillage lithique taillé de Khirokitia: analyse fonctionnelle et
+spatiale. In: CRA Monographies, vol. 25. CNRS Editions, Paris.
+Bächler, E., 1940. Das alpine Paläolithikum der Schweiz. In: Monographien zur Urund Frühgeschichte der Schweiz. Verlag Birkhäuser & Co., Basel.
+Bächler, H., 1947. Die ersten Bewohner der Schweiz: Das alpine Paläolithikum. A.
+Francke, Bern.
+Barton, R., 1992. Hengistbury Head, Dorset. In: The Late Upper Palaeolithic and Early
+Mesolithic Sites, vol. 2. Oxford University School of Archaeology, Oxford.
+Barton, R.N.E., Roberts, A.J., 1996. Reviewing the British Late Upper Palaeolithic: new
+evidence for chronological patterning in the Lateglacial record. Oxf. J. Archaeol.
+15, 245e265.
+Bellomo, R.V., 1994. Methods of determining early hominid behavioural activities
+associated with the controlled use of ﬁre at FxJj 20 Main, Koobi Fora, Kenya.
+J. Hum. Evol. 27, 173e195.
+Berna, F., Goldberg, P., Horwitz, L.K., Brink, J., Holt, S., Bamford, M., Chazan, M., 2012.
+Microstratigraphic evidence of in situ ﬁre in the Acheulean strata of Wonderwerk Cave, Northern Cape province, South Africa. Proc. Natl. Acad. Sci. U. S. A.
+109, E1215eE1220.
+Beugnier, V., Pétrequin, P., 1997. Pierres à briquet: utilisation de la marcassite. In:
+Pétrequin (Ed.), Les sites littoraux néolithiques de Clairvaux-les-Lacs et de
+Chalain (Jura), III. Chalain station 3. Editions de la Maison des Sciences de
+l’Homme, Paris, pp. 429e434.
+Beuker, J.P., Niekus, M.J.L.T., 1996. Verder met Vledder: rendierjagers aan de rand
+van een ven. Nieuwe Drentse Volksalm. 113, 91e129.
+Binford, L.R., 1973. Interassemblage variability: the Mousterian and the functional
+argument. In: Renfrew, C. (Ed.), The Explanation of Culture Change: Models in
+Prehistory. Duckworth, London, pp. 227e254.
+Binford, L.R., 1979. Organization and formation processes: looking at curated
+technologies. J. Anthropol. Res. 35, 255e273.
+Blaize, Y., 1986. Le gisement moustérien de la grotte du Mig à Corneilla-de-Conﬂent
+(Pyrénées-Orientales). Cah. Préhist. Protohist. 3, 121e139.
+Blaize, Y., 1987. El jaciment mosterià de la cova deI Mig (Cornellà-de-Conﬂent, el
+Rosselló). Cypsela 6, 37e41.
+Bonjean, D., Di Modica, K., Abrams, G., Pirson, S., Otte, M., 2011. La grotte Scladina:
+bilan 1971-2011. In: Toussaint, M., Di Modica, K., Pirson, S. (Eds.), Le Paléolithique moyen en Belgique. Mélanges Marguerite Ulrix-Closset. Service de
+Préhistoire de l’Université de Liège, Liège, pp. 323e334.
+Bosinski, G., Hahn, J., 1973. Der Magdalénien-Fundplatz Andernach (Martinsberg).
+Rheinland-Verlag.
+Bosquet, D., Giner, P.J., Jadin, I., 2004. L’industrie lithique du site paléolithique
+moyen de Remicourt “En Bia Flo” (province de Liège, Belgique): technologie,
+tracéologie et analyse spatiale. Nucleus 5, 33.
+Brain, C.K., Sillen, A., 1988. Evidence from the Swartkrans cave for the earliest use of
+ﬁre. Nature 336, 464e466.
+Callow, P., 1986. Appendix C: La Cotte à la Chèvre. In: Callow, P., Cornford, J.M. (Eds.),
+La Cotte de St. Brelade, 1961-1978: excavations by C.B.M. McBurney. Geo Books,
+Norwich, pp. 409e411.
+Collin, F., Mattart, D., Pirnay, L., Speckens, J., 1991. L’obtention du feu par percussion:
+approche expérimentale et tracéologique. Bull. Cherch. Wallonie 31, 19e49.
+Collina-Girard, J., 1998. Le feu avant les allumettes. Éditions de la Maison des sciences de l’homme, Paris.
+Conard, N.J., 2003. Palaeolithic ivory sculptures from southwestern Germany and
+the origins of ﬁgurative art. Nature 426, 830e832.
+Cooper, L., 2002. A Creswellian campsite, Newton Linford. Trans. Leics. Archaeol.
+Hist. Soc. 76, 78e80.
+de Beaune, S.A., 2002. Les fossiles et autres curiosa. In: Schmider, B. (Ed.), L’aurignacien de la grotte du Renne: les fouilles d’André Leroi-Gourhan à Arcy-surCure, Yonne. Centre National de la Recherche Scientiﬁque, Paris, pp. 267e270.
+De Bie, M., Caspar, J.-P., 1997. La signiﬁcation des outillages lithiques dans les industries à Federmesser. Bull. Soc. Prehist. Fr. 94, 361e372.
+de Mortillet, A., 1909. Briquets paléolithiques et néolithiques. In: Congrés Préhistoirique de France IV, Chambéry 1908, pp. 330e333.
+Delage, F., 1937. L’Abri des merveilles à Castelmerle (Sergeac, Dordogne). In: Congrès Préhistorique de France, 12e session, année 1936, Toulouse-Foix, pp. 578e
+608.
+Dibble, H.L., 1984. Interpreting typological variation of Middle Paleolithic scrapers:
+function, style or sequence of reduction? J. Field Archaeol. 11, 431e436.
+Dibble, H.L., 1987. The interpretation of Middle Paleolithic scraper morphology. Am.
+Antiq. 52, 109e117.
+Dibble, H.L., Rolland, N., 1992. On assemblage variability in the Middle Palaeolithic
+of Western Europe: history, perspectives and a new synthesis. In: Dibble, H.,
+Mellars, P. (Eds.), The Middle Palaeolithic: Adaptation, Behaviour and
+
+485
+
+Variability. University of Pennsylvania University Museum Monographs, Philadelphia, pp. 1e28.
+Dupont, E., 1866. Etude sur l’ethnographie de l’homme de l’âge du renne dans les
+cavernes de la vallée de la Lesse, ses caractères, sa race, son industrie, ses
+moeurs. Mém. de l’Académie Royale de Bruxelles.
+Dupont, É.F., 1872. L’homme pendant les âges de la pierre dans les environs de
+Dinant-sur-Meuse. C. Muquardt Éditeur, Brussels.
+Feustel, R., 1974. Die Kniegrotte. Ein Magdalénien-Station in Thüringen. H. Böhlaus
+Nachfolger, Weimar.
+Floss, H., 1994. Rohmaterialversorgung im Paläolithikum des Mittelrheingebietes.
+Habelt, Bonn.
+Frazer, S.J.G., 1930. Myths of the Origin of Fire: An Essay. Macmillan, London.
+Frison, G.C., 1968. A functional analysis of certain chipped stone tools. Am. Antiq. 33,
+149e155.
+García-Díaz V., Technological and Functional Analysis of Single Grave Artifacts from
+North-Holland. Leiden University (in preparation).
+Gechter-Jones, J., Pawlik, A.F., 1998. Ein absolut datiertes Mehrzweckgerät der
+Bronzezeit: Feuerschläger und Meißel. Archäol. Rheinl. 1997, 33e35.
+Gilot, É., 1992. Datation par 14C du Moustérien ﬁnal. In: Otte, M. (Ed.), Recherches
+aux grottes de Sclayn, Le Contexte, vol. 1. Service de Préhistoire de l’Université
+de Liège, Liège, pp. 173e174.
+Gowlett, J.A., Wrangham, R.W., 2013. Earliest ﬁre in Africa: towards the convergence
+of archaeological evidence and the cooking hypothesis. Azania Archaeol. Res.
+Afr. 48, 5e30.
+Gowlett, J.A.J., Harris, J.W.K., Walton, D., Wood, B.A., 1981. Early archaeological sites,
+hominid remains and traces of ﬁre from Chesowanja, Kenya. Nature 294, 125e
+129.
+Grahmann, R., 1956. Urgeschichte der Menschheit; Einführung in die Abstammungs- und Kulturgeschichte des Menschen. W. Kohlhammer, Stuttgart.
+Gusinde, M., 1931. Die Feuerland-Indianer. In: Die Selk’nam, Band I. Anthropos,
+Mödling bei Wien.
+Gusinde, M., 1937. Die Feuerland-Indianer. In: die Yanama, Band II. Anthropos,
+Mödling bei Wien.
+Gusinde, M., 1974. Die Feuerland-Indianer. In: die Halakwulup, Band III. St. Gabriel,
+Mödling bei Wien.
+Hartz, S., 1987. Neue spätpaläolithische Fundplätze bei Ahrenshöft, Kreis Nordfriesland. Offa 44, 5e52.
+Hayden, B., 1993. The cultural capacities of Neandertals: a review and re-evaluation.
+J. Hum. Evol. 24, 113e146.
+Hayden, B., 2001. Richman, poorman, beggarman, chief: the dynamics of social
+inequality. In: Feinman, G.M., Price, T.D. (Eds.), Archaeology at the Millennium.
+Springer, New York, pp. 231e272.
+Henry, A.G., Brooks, A.S., Piperno, D.R., 2011. Microfossils in calculus demonstrate
+consumption of plants and cooked foods in Neanderthal diets (Shanidar III,
+Iraq; Spy I and II, Belgium). Proc. Natl. Acad. Sci. U. S. A. 108, 486e491.
+Hill, K.R., Walker, R.S., Bo
+zi
+cevi
+c, M., Eder, J., Headland, T., Hewlett, B., Hurtado, A.M.,
+Marlowe, F., Wiessner, P., Wood, B., 2011. Co-residence patterns in huntergatherer societies show unique human social structure. Science 331, 1286e
+1289.
+Honegger, M., 2001. L’industrie lithique taillée du Néolithique moyen et ﬁnal de
+Suisse. C.N.R.S. éditions, Paris.
+Hough, W., 1926. Fire as an Agent in Human Culture. Government Printing Ofﬁce,
+Washington D.C.
+Hough, W., 1928. Fire-making apparatus in the United States National Museum. In:
+Proc U S Natl Mus, p. 73.
+Hugues, C., 1951. La grotte de la Verrerie à Macassargues-Montmirat (Gard). Ann.
+Paléontol. 37, 155e174.
+Jacobi, R.M., 1997. The “Creswellian” in Britain. In: Fagnart, J.P., Thevenin, A. (Eds.),
+Le Tardiglaciaire en Europe du Nord-Ouest, Actes du 119eme Congres National
+des Societes Historiques et Scientiﬁques, Paris, pp. 497e505.
+Jacobi, R.M., 2000. The Late Pleistocene archaeology of Somerset. In: Webster, C.J.
+(Ed.), Somerset Archaeology: Papers to Mark 150 Years of the Somerset
+Archaeological and Natural History Society. Somerset County Council, Taunton,
+pp. 45e52.
+James, S.R., 1989. Hominid use of ﬁre in the Lower and Middle Pleistocene: a review
+of the evidence. Curr. Anthropol. 30, 1e26.
+Jeffreys, M.D.W., 1955. What are they? S. Afr. Archaeol. Bull. 10, 26e29.
+Johannes, H., Schuh-Johannes, J., 1991. Die Pilzfunde. In: Busch, R.,
+Schwabedissen, H. (Eds.), Der altsteinzeitliche Fundplatz Salzgitter-Lebenstedt.
+Teil II. Naturwissenschaftliche Untersuchungen. Böhlau Verlag, Köln.
+Johansen, L., Stapert, D., 1995. ’Vuur-stenen’in het Late Palaeolithicum. Paleoaktueel 6, 12e15.
+Johansen, L., Stapert, D., 1996. Experiments Relating to ‘Fire-making Tools’; Lejre
+Research Centre, 1995. A Preliminary Report. Archaeological-Historical Experimental Centre, Lejre.
+Johansen, L., Stapert, D., 1997. Two ‘Epi-Ahrensburgian’ sites in the northern
+Netherlands: Oudehaske (Friesland) and Gramsbergen (Overijssel). Palaeohistoria 39/40.
+Johansen, L., Stapert, D., 2001. Vuurmakers uit het Laat-Paleolithicum revisited.
+Paleo-Aktueel 12, 15e19.
+Koller, J., Baumer, U., Mania, D., 2001. High-tech in the Middle Palaeolithic:
+Neandertal-manufactured pitch identiﬁed. Eur. J. Archaeol. 4, 385e397.
+Lartet, E., Christy, H., 1875. Reliquae Aquitanicae; Being Contributions to Archaeology and Paleonthology of Périgord and the Adjoining Provinces of Southern
+France. Williams & Norgate, London.
+
+486
+
+A. Sorensen et al. / Journal of Archaeological Science 42 (2014) 476e486
+
+Leroi-Gourhan, A., November 29/1952. Early Mousterian Jawbones found at Arcysur-Cure on a unique site continuously occupied for 140,000 years. Ill. Lond.
+News, 902e905.
+Leroi-Gourhan, A., 1995. Les religions de la préhistoire, third ed. Presses Universitaires de France, Paris.
+Leroi-Gourhan, A., Brézillon, M., 1972. Fouilles de Pincevent. Essai d’Analyse Ethnographique d’un Habitat Magdalénien (La Section 36). Gallia Préhistoire, Paris.
+Leroi-Gourhan, A., Jacobi, R.M., 1986. Analyse pollinique et matériel archéologique
+de Gough’s Cave (Somerset). Bull. Soc. Préhist. Fr. 83, 83e90.
+Leuzinger-Piccard, C., 2003. Leben unter urtumlichsten Verhältnissen: Wildenmannlisloch und Drachenloch. In: Kantonsgeschichte, W.K.d.S.-G. (Ed.),
+Sankt-Galler Geschichte 2003: Frühzeit bis Hochmittelalter. Amt für Kultur des
+Kantons St. Gallen, St. Gallen.
+Lozouet, P., Gautier, A., 1997. Coquillages fossiles et restes de ‘briquet’ dans la Grotte
+du Bois Laiterie. In: Otte, M., Straus, L.G. (Eds.), La grotte du Bois Laiterie:
+Recolonisation magdalénienne de la Belgique. Etudes et Recherches Archéologiques de l’Université de Liége, Liége, pp. 320e323.
+Mazza, P.P.A., Martini, F., Sala, B., Magi, M., Colombini, M.P., Giachi, G., Landucci, F.,
+Lemorini, C., Modugno, F., Ribechini, E., 2006. A new Palaeolithic discovery: tarhafted stone tools in a European Mid-Pleistocene bone-bearing bed. J. Archaeol.
+Sci. 33, 1310e1318.
+McBurney, C.B.M., 1963. Report on the Cambridge University excavations, 1962. Bull.
+Annu. Soc. Jersiaise. 18, 339e340.
+Oakley, K.P., 1961. On man’s use of ﬁre, with comments on tool-making and hunting.
+In: Washburn, S.L. (Ed.), Social Life of Early Man. Aldine Publishing Co., Chicago,
+pp. 176e193.
+Otte, M., 1979. Le Paléolithique supérieur ancien en Belgique. Musées royaux d’art et
+d’histoire, Bruxelles.
+Otte, M., 1994. Le magdalénien du trou de Chaleux: Hulsonniaux-Belgique. Etudes
+et Recherches Archéologiques de l’Université de Liège, Liège.
+Otte, M., Straus, L.G., 1997. La grotte du Bois Laiterie: recolonisation magdalénienne
+de la Belgique. Etudes et Recherches Archéologiques de l’Université de Liège,
+Liège.
+Patte, E., 1937. Sur une particularité de certaines lames aurignaciennes à étranglement. Bull. Soc. Préhist. Fr. 34, 447e449.
+Patte, E., 1960. Les briquets dans les sépultures au Néolithique et au Bronze. Bull.
+Soc. Préhist. Fr. 57, 51e55.
+Pawlik, A., 2004. An early Bronze Age pocket lighter. In: Walker, E.A., WenbanSmith, F., Healy, F. (Eds.), Lithics in Action: Papers from the Conference Lithic
+Studies in the Year 2000. Oxbow Books, Oxford, pp. 149e151.
+Peintner, U., Pöder, R., Pümpel, T., 1998. The iceman’s fungi. Mycol. Res. 102, 1153e
+1162.
+Perles, C., 1977. Préhistoire du Feu. Masson, Paris.
+Pirson, S., Court-Picon, M., Haesaerts, P., Bonjean, D., Damblon, F., 2008. New data
+on geology, anthracology and palynology from the Scladina cave pleistocene
+sequence: preliminary results. In: Damblon, F., Pirson, S., Gerrienne, P. (Eds.),
+Memoirs of the Geological Survey of Belgium, vol. 55. Royal Belgian Institute of
+Natural Sciences, Brussels, pp. 71e93.
+Prideaux, T., 1977. Der Cro-Magnon-Mensch. Time-Life Books Nederland,
+Amsterdam.
+Riek, G., 1934. Die Eiszeitjägerstation am Vogelherd im Lonetal. In: Die Kulturen, Bd.
+I. Akademische Verlagsbuchhandlung, Tubingen.
+Roebroeks, W., Villa, P., 2011a. On the earliest evidence for habitual use of ﬁre in
+Europe. Proc. Natl. Acad. Sci. U. S. A. 108, 5209e5214.
+Roebroeks, W., Villa, P., 2011b. Reply to Sandgathe et al.: Neandertal use of ﬁre. Proc.
+Natl. Acad. Sci. U. S. A. 108, E299.
+Roebroeks, W., Kolen, J., Van Poecke, M., Van Gijn, A., 1997. «Site J»: an early
+Weichselian (Middle Palaeolithic) ﬂint scatter at Maastricht-Belvédère, The
+Netherlands. Paléo 9, 143e172.
+Roth, H.L., 1899. The Aborigines of Tasmania. F.King & Sons, Halifax.
+Rots, V., 2011. Tool use and hafting in the Western European Middle Palaeolithic
+(ERAUL 128). In: Toussaint, M., Di Modica, K., Pirson, S. (Eds.), Le Paléolithique
+moyen en Belgique: Mélanges Marguerite Ulrix-Closset. Etudes et Recherches
+Archéologiques de l’Université de Liége, Liége, pp. 277e287.
+Rots, V., 2012. Trace formation, strike-a-lights, and the contribution of functional
+analyses for understanding Palaeolithic contexts. In: Niekus, J.L.T.,
+Barton, R.N.E., Street, M., Terberger, T. (Eds.), A Mind Set on Flint. Studies in
+Honour of Dick Stapert. Barkhuis, Groningen, pp. 149e162.
+Rots, V., Hafting and the interpretation of site function in the European Middle
+Palaeolithic. In: Conard, N. (Ed.), Settlement Dynamics of the Middle Palaeolithic and Middle Stone Age, vol. 4 Kerns Verlag, Tuebingen (in press).
+
+Roussel, B., 2005. La production du feu par percussion de la pierre: Préhistoire,
+ethnographie, expérimentation. Editions Monique Mergoil, Montagnac.
+Sandgathe, D.M., Dibble, H.L., Goldberg, P., McPherron, S.P., Turq, A., Niven, L.,
+Hodgkins, J., 2011a. On the role of ﬁre in Neandertal adaptations in western
+Europe: evidence from Pech de l’Azé IV and Roc de Marsal, France. PaleoAnthropology 2011, 216e242.
+Sandgathe, D.M., Dibble, H.L., Goldberg, P., McPherron, S.P., Turq, A., Niven, L.,
+Hodgkins, J., 2011b. Timing of the appearance of habitual ﬁre use. Proc. Natl.
+Acad. Sci. U. S. A. 108, E298.
+Sauter, F., Stachelberger, H., 1992. Materialuntersuchungen an den Begleitfunden
+des ‘Mannes vom Hauslabjoch’, Die ‘Schwarze Masse’ aus dem ‘Täschchen’. In:
+Höpfel, F., Platzer, W., Spindler, K. (Eds.), Der Mann im Eis. University of Innsbruck, Innsbruck, pp. 442e453.
+Sier, M.J., Roebroeks, W., Bakels, C.C., Dekkers, M.J., Brühl, E., De Loecker, D.,
+Gaudzinski-Windheuser, S., Hesse, N., Jagich, A., Kindler, L., Kuijper, W.J.,
+Laurat, T., Mücher, H.J., Penkman, K.E.H., Richter, D., van Hinsbergen, D.J.J., 2011.
+Direct terrestrial-marine correlation demonstrates surprisingly late onset of the
+last interglacial in central Europe. Quat. Res. 75, 213e218.
+Sinel, J., 1912. The Prehistoric Cave-Dwelling “Cotte à la Chèvre”, St. Ouen. Soc.
+Jersiaise Bull. Annu. 37, 209e212.
+Sinel, J., 1914. Prehistoric Times & Men of the Channel Islands. JT Bigwood, States’
+Printer, Jersey.
+Stapert, D., Johansen, L., 1999. Flint and pyrite: making ﬁre in the Stone Age. Antiquity 73, 765e777.
+Stapert, D., Krist, J.S., Zandbergen, A.L., 1986. Oldeholtwolde, a Late Hamburgian site
+in the Netherlands in Studies in the Upper Palaeolithic of Britain and Northwest
+Europe. In: Roe, D.A. (Ed.), Studies in the Upper Palaeolithic of Britain and
+Northwest Europe. British Archaeological Reports, Oxford, pp. 187e226.
+Symens, N., 1988. Gebrauchsspuren der Steinartefakte. In: Hahn, J. (Ed.), Die Geissenklösterle-Höhle im Achtal bei Blaubeuren I. Fundhorizontbildung und
+Besiedlung im Mittelpaläolithikum und im Aurignacien. Kommissionsverlag/
+Konrad Theiss Verlag, Stuttgart, pp. 177e201.
+Terberger, T., 1996. Die “Riesenhirschfundstelle“ von Endingen, Lkr. Nordvorpommern. Spätglaziale Besiedlungsspuren in Nordostdeutschland. Archäol. Korresp.
+Bl. 26, 13e32.
+Tromnau, G., 1974. Der jungpaläolithische Fundplatz Schalkholz, Kreis Dithmarschen. Hammaburg NF 1, 9e22.
+Turq, A., Roebroeks, W., Bourguignon, L., Faivre, J.-P., 2013. The fragmented character of Middle Palaeolithic stone tool technology. J. Hum. Evol. 65, 641e655.
+van der Lee, A., 2000/2001. Vuurmakers, een hot item. Archeologie 20, 261e268.
+van Gijn, A.L., 2010. Flint in Focus: Lithic Biographies in the Neolithic and Bronze
+Age. Sidestone Press, Leiden.
+van Gijn, A.L., Niekus, M.J.L.T., 2001. Bronze age settlement ﬂint from the
+Netherlands: the Cinderella of lithic research. In: Metz, W.H., van Beek, B.L.,
+Steegstra, H. (Eds.), Patina. Essays Presented to Jay Jordan Butler on the Occasion of his 80th Birthday, Amsterdam, pp. 305e320.
+van Gijn, A.L., van Betuuw, V., Verbaas, A., Wentink, K., 2006. Flint, procurement and
+use. In: Louwe Kooijmans, L.P., Jongste, P.F.B. (Eds.), Schipluiden: a Neolithic
+Settlement on the Dutch North Sea Coast, c. 3500 cal BC. Annalecta Praehistorica Leidensia, Leiden, pp. 129e165.
+Vang Petersen, P., Johansen, L., 1996. Tracking Late Glacial reindeer hunters in
+eastern Denmark. In: Larsson, L. (Ed.), The Earliest Settlement of Scandinavia
+and its Relationship with Neighbouring Areas. Almquist & Wiksell International,
+Stockholm, pp. 75e88.
+Völger, G., 1972. Die Tasmanier. Versuch einer ethnographischen/historischen
+Rekonstruktion. Franz Steiner Verlag, Wiesbaden.
+Weiner, J., 1997. Pyrite vs. marcasite. Or: is everything that glitters pyrite? with a
+structured bibliography on ﬁremaking through the ages. Bull. Cherch. Wallonie
+37, 51e79.
+Weiner, J., 2003. Friction vs. percussion. Some comments on ﬁremaking from Old
+Europe. Bull. Primit. Technol. 26, 10e16.
+Weiner, J., Floss, H., 2004. Eine Schwefelkiesknolle aus dem Aurignacien vom
+Vogelherd, Baden-Württemberg - Zu den Anfängen der Feuererzeugung im
+europäischen Paläolithikum. Archäol. Inf. 27, 59e78.
+White, R., 2003. Prehistoric Art: the Symbolic Journey of Mankind. Harry N Abrams
+Inc, New York.
+Wrangham, R., 2009. Catching Fire: How Cooking Made Us Human. Basic Books,
+New York.
+Wrangham, R., Carmody, R., 2010. Human adaptation to the control of ﬁre. Evol.
+Anthropol. 19, 187e199.
+
+

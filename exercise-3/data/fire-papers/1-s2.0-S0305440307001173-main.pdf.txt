@@ -1,0 +1,1182 @@
+Journal of Archaeological Science 35 (2008) 791e800
+http://www.elsevier.com/locate/jas
+
+Characterisation and blind testing of radiocarbon
+dating of cremated bone
+Jesper Olsen a,*, Jan Heinemeier a, Pia Bennike b, Cille Krause c,
+Karen Margrethe Hornstrup a, Henrik Thrane d
+AMS 14C Dating Centre, Department of Physics and Astronomy, University of Aarhus, DK-8000 Aarhus, Denmark
+Laboratory of Biological Anthropology, Institute of Forensic Medicine, University of Copenhagen, DK-2200 Copenhagen Ø, Denmark
+c
+Roskilde Museum, Sankt Ols Gade 15, DK-4000 Roskilde, Denmark
+d
+Department of Prehistoric Archaeology, Moesgaard, Aarhus University, DK-8270 Hoejbjerg, Denmark
+a
+
+b
+
+Received 9 March 2007; received in revised form 28 May 2007; accepted 19 June 2007
+
+Abstract
+The success of radiocarbon dating of burned or cremated bones depends on the exposed temperature during burning and the degree of recrystallisation of the inorganic bone matrix. We present a method for characterisation of likely cremated bones by employing visual inspection,
+infrared spectrometry and carbon stable isotope analysis on the bio-apatite fraction. The method of radiocarbon dating of cremated bones was
+tested by dating paired samples of bone and associated context materials such as pitch, charcoal and a dendrochronologically dated oak coffin.
+The dating of these paired test samples were largely performed as blind tests and showed excellent agreement between pitch and bone. The
+weighted mean age difference of all test samples is observed to 9  60 14C yr. To test the indicators and the effects of the degree of burning,
+a Late-Neolithic human individual has been studied, as this individual exhibits the full spectrum from low temperature burning (charred) to high
+temperature (‘‘cremated’’) from one end of a single bone to the other. This is reflected as a marked step in numerous parameters as well as in
+a significant difference in 14C age between the charred and the cremated bone samples.
+Ó 2007 Elsevier Ltd. All rights reserved.
+Keywords: Cremated bones; Stable isotopes; Radiocarbon dating; IR spectroscopy; Sample preparation
+
+1. Introduction
+Radiocarbon dating of collagen in well-preserved human
+bone has routinely been carried out for decades, but cremated
+bone samples were always excluded because cremation destroys collagen. However, successful 14C dating of cremated
+bones by using their content of re-crystallised bio-apatite
+was recently reported by Lanting et al. (2001). To the archaeological community this method was a break-through because
+the common burial practice for some prehistoric periods was
+cremation, thus opening such cultural periods to 14C dating
+* Corresponding author. Present address: Department of Earth Sciences,
+University of Aarhus, Hoegh-Guldbergsgade 2, DK-8000 Aarhus, Denmark.
+Tel.: þ45 89 42 94 93.
+E-mail address: jesper.olsen@geo.au.dk (J. Olsen).
+0305-4403/$ - see front matter Ó 2007 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2007.06.011
+
+of human bones. This is, for example, the case for the late
+Danish Bronze Age. Without 14C dating the establishment of
+an absolute chronology of the epochs in the late Danish
+Bronze Age is difficult.
+Radiocarbon dating of bio-apatite is possible because of incorporation of carbonate ions into the inorganic bone matrix in
+living organisms. The carbonate ions originate from the energy
+production in cells and are substituted with phosphate ions in
+the bone matrix into the bio-apatite mineral-like bone structure. (Krueger, 1991; Lee-Thorp and van der Merwe, 1991;
+Munro et al., 2007; Newesely, 1988; Pate and Hutton, 1988;
+Posner, 1969; Saliège et al., 1995; Sandford, 1993; Wright
+and Schwarcz, 1996). By weight the carbonate bone content
+corresponds to 0.5% to 1%. However, 14C dating of the bioapatite fraction has for decades been abandoned due to incorrect
+14
+C results caused by contamination effects (Berger et al.,
+
+792
+
+J. Olsen et al. / Journal of Archaeological Science 35 (2008) 791e800
+
+1964; Hassan et al., 1977; Stafford et al., 1987). In fossil
+bones, exchange reactions with the bicarbonate ions dissolved
+in soil waters lead to 14C contamination and commonly result
+in too young 14C dates of bio-apatite dated samples (Hassan
+et al., 1977; Hedges et al., 1995; Surovell, 2000; Tamers and
+Pearson, 1965), because bicarbonate in soil waters mostly
+originates from root respiration and from cover vegetation,
+which produces CO2 when decomposing (Saliège et al.,
+1995). Apparently, the exchange reaction with the dissolved
+bicarbonate ions does not occur for cremated bones and hence
+the bio-apatite fraction of cremated bone yields reliable 14C
+results as demonstrated by Lanting et al. (2001).
+This is because heating of bones results in numerous microscopic and macroscopic changes which altogether yield
+a more robust and inert bio-apatite structure as a consequence.
+Heating of bones results in changes in strength and solidity
+(Newesely, 1988; Stiner et al., 1995; van Strydonck et al.,
+2005). Furthermore, burned bones develop cracks and show
+considerable shrinkage (Holden et al., 1995; Shipman et al.,
+1984). Along with these morphological alterations colour
+changes are also observed as a function of temperature such
+that bones burned at temperatures lower than approximately
+600  C appear black in contrast to bones burned at temperatures higher than 600  C, which appear white (Holden et al.,
+1995; Shipman et al., 1984). After cremation, bones are very
+fragile and prone to fragmentation (Stiner et al., 1995), but
+they regain their strength by absorption of water by returning
+to an apatite structure forming larger crystals (van Strydonck
+et al., 2005). The most dramatic changes occur at temperatures
+above 600  C observed by enhanced crystal growth (Grupe
+and Hummel, 1991; Holden et al., 1995; Shipman et al.,
+1984; Stiner et al., 1995). Above this temperature the apatite-like structure instantaneously re-crystallises into larger
+crystals (Holden et al., 1995; Shipman et al., 1984). Loss of
+CO2 is also associated with heating of bones (Grupe and
+Hummel, 1991; Haas and Banewicz, 1980; Newesely, 1988;
+Shipman et al., 1984; Stiner et al., 1995). At temperatures
+lower than 225  C weight losses are caused by evaporation
+of water, whereas weight losses at temperatures between
+225  C and 500  C are due to the combustion of the organic
+bone fraction. At still higher temperatures weight losses are
+caused by the decomposition of structural carbonate by release
+of CO2. It has been shown that the presence of carbonate ions
+in the bio-apatite structure causes strains in the crystal structure of the bio-apatite as observed by a broadening in the
+peaks of X-ray diffraction and infrared (IR) spectroscopy patterns (Person et al., 1995; Posner, 1969; Shipman et al., 1984).
+Furthermore it has been shown by X-ray diffraction and IR
+spectroscopy that the loss of structural carbonate is associated
+with an increasing crystalline structure of the bone bio-apatite
+(Person et al., 1995; Shipman et al., 1984).
+To confuse matters, the inorganic bone crystals are gradually altered by diagenetic processes at ambient temperatures,
+where large crystals tend to grow at the expense of small
+ones; a process which may occur over millennia (Krueger,
+1991; Lee-Thorp and van der Merwe, 1991; Person et al.,
+1995; Shipman et al., 1984; Stiner et al., 1995). Therefore,
+
+crucial to radiocarbon dating of cremated or burned bones is
+knowledge about the degree of bio-apatite re-crystallisation
+in order to ensure that they are unaffected by exchange processes with dissolved soil bicarbonate. It is therefore essential
+to characterise the degree of crystallisation in the bone samples to be 14C dated. To this end the cremated bones of humans
+in this study have been characterised by visual inspection, IR
+spectroscopy (crystallinity index (CI) and the carbonate to
+phosphate ratio (C/P)), d13C of bio-apatite and the carbon
+weight percentage. The 14C age of the cremated bones is measured and the results are compared to 14C measurements of
+sample associated context material like pitch and charcoal.
+The differences between the 14C content of the cremated
+bone samples and their associated context materials is evaluated as a function of the degree of burning in order to estimate
+the limitations of 14C dating of cremated bones. Note that in
+the present paper, bones showing clear properties of being
+burned at temperatures higher than approximately 600  C
+are denoted cremated bones. Whereas bones not displaying
+these properties are denoted burned or charred bones.
+2. Methods
+2.1. Sample preparation
+2.1.1. Cremated bone samples
+Two grams of bone sample is soaked in a 1.5% sodium hypochlorite solution to dissolve remaining organic material
+(48 h, 20  C). The sample is then washed and submerged in
+1 M acetic acid to remove post-depositional carbonates as
+well as less crystalline, soluble fractions of bio-apatite (24 h,
+20  C). Next the sample is washed and dried (12 h, 80  C)
+with a bio-apatite yield of approximately 96%. The pre-treated
+sample is crushed and 1.5 g is treated with 100% de-hydrated
+phosphoric acid (8 h, 25  C) to liberate CO2 from which sulphur impurities are removed prior conversion to graphite for
+AMS targets (Ambrose, 1993; Lanting et al., 2001; Lee-Thorp
+and van der Merwe, 1991).
+2.1.2. Charcoal and pitch samples
+Samples for radiocarbon dating were pre-treated by the
+acid-alkali-acid (AAA) method prior to conversion to CO2
+by burning in sealed evacuated ampoules with CuO. The
+AAA method is as follows: 1 M HCl (80  C 24 h) followed
+by 1 M NaOH (80  C one to several days) and finally 1 M
+HCl (Thomsen, 1990).
+Part of the resulting CO2 gas was used for d13C analysis on
+a GV Instruments Isoprime stable isotope mass spectrometer
+to a precision of 0.15&, while the rest was converted to graphite for AMS 14C measurements via reduction with H2 using
+cobalt as a catalyst (Vogel, 1984). All AMS 14C measurements
+were carried out using the EN tandem accelerator at the University of Aarhus (Denmark). The dating results are reported
+as conventional 14C dates in 14C yr BP based on the measured
+14 13
+C/ C ratio corrected for the natural isotopic fractionation by
+normalising the result to the standard d13C value of 25&
+PDB (Andersen et al., 1989).
+
+J. Olsen et al. / Journal of Archaeological Science 35 (2008) 791e800
+
+2.2. Visible inspection of bones
+All samples have been visually inspected for surface and interior colour and burn cracks. As part of the burning process
+cremated human bone undergoes a range of changes in colour
+which varies from a charred black appearance through a range
+of shades of grey and grey/blue to white (Brickley, 2007).
+Through experimental work it has been demonstrated that
+the range of colours produced in burned bone are extremely
+complex and cannot simply be equated with how hot the fire
+was (Mays, 1998). Among others the availability of oxygen
+is very important during burning (Walker and Miller, 2005).
+Burn cracks are reported to develop at temperature above
+600  C (Shipman et al., 1984; Stiner et al., 1995).
+
+2.3. IR spectroscopy
+IR spectra of the bio-apatite bone fraction are represented
+by vibration bands of mainly CO3 and PO4 giving absorption
+peaks at 710, 874 and 1415 cm1 and 565, 603 and 1035 cm1
+of CO3 and PO4 respectively (Garvie-Lok et al., 2004; Stiner
+et al., 1995; Wright and Schwarcz, 1996). The carbonate absorption peak at 710 cm1 is characteristic of CaCO3 and
+can therefore be used to detect absorbed CaCO3 contaminants
+(Wright and Schwarcz, 1996). As the absorption peak height at
+1415 cm1 and 1035 cm1 is proportional to the content of
+carbonate and phosphate, the carbonate content of the samples
+was estimated by the C/P ratio given as C/P ¼ A1415/A1035
+(Garvie-Lok et al., 2004; Wright and Schwarcz, 1996). The
+C/P ratio of fresh bone is approximately 0.23 (Garvie-Lok
+et al., 2004).
+IR spectroscopy provides information on the crystallinity of
+the analysed bio-apatite, and thus on the degree of re-crystallisation of the sample bones. The crystallinity is a function of
+the extent of splitting of the two absorption bands at 603 and
+565 cm1. The crystallinity index (CI) or degree of splitting
+can be estimated by drawing a baseline between 750 and
+495 cm1 and measuring the heights of the absorption lines
+at 603 cm1 (A) and 565 cm1 (B). The sum of the absorption
+lines A and B divided by the distance from the baseline to the
+valley between them gives the CI, defined as: CI ¼ (A603 þ
+A565)/Avalley (Garvie-Lok et al., 2004; Weiner and Bar-Yosef,
+1990; Wright and Schwarcz, 1996). The CI is a function of
+temperature where increasing burning temperatures increase
+the re-crystallisation and thus the CI factor. A CI factor of 3
+indicates burning at low temperatures or diagenetic alterations.
+CI factors above 4 indicate partial re-crystallisation whereas
+a CI factor around 7 indicates complete re-crystallisation
+(Stiner et al., 1995). Non-burned bones show a CI factor
+around 2 to 2.9 (Garvie-Lok et al., 2004; Stiner et al.,
+1995). Thus, a high CI value is an indication of a high burning
+temperature.
+IR spectroscopy was performed on powdered pretreated
+sample material, i.e. bio-apatite. The sample material was
+mixed with KBr and hydraulically pressed into pellets prior
+to measurement of infrared spectra with a Perkin Elmer
+
+793
+
+FTIR spectrometer (Paragon 1000). The spectrum of KBr
+was automatically subtracted by an online computer.
+3. Results
+The tests performed in this study can be divided into two
+subsets: (1) 11 samples were age tested against associated reference material and (2) measurements were performed on
+different bone sections from a Late-Neolithic individual exhibiting a varying degree of burning from charred to cremated
+bone in order to characterise the parameters reflecting this variation. The radiocarbon measurements were performed on two
+graphite targets produced in most instances from the same
+aliquot of sample CO2, but measured at different times in
+the accelerator to avoid possible biases between 14C analysis
+batches. Furthermore, about half of the sample sets presented
+here was submitted blind, i.e. no prior knowledge of intersample dependencies was available to the AMS laboratory
+during analysis.
+3.1. Samples with associated reference material
+Eleven cremated human bone samples have been measured
+and compared to context dated material associated with the
+samples. One sample was tested against a dendrochronologically dated oak coffin, 6 against pitch sealing material from
+the cremation urns and 4 against charcoal. Five of the 11 samples where blind tested, i.e. they were submitted with no information but an ID number. All samples were visually inspected
+for surface and interior colour and presence of burn cracks.
+The data are given in Table 1.
+The human remains of the young (16e18 years old) woman
+in the coffin from Egtved grave were rather poor due to the humid environmental conditions; only her hair, 29 dental crowns,
+some of the nails and skin were preserved (Thomsen, 1929). In
+contrast to this, a number of bones which were found in two
+places in the coffin (at the young woman’s head and left leg)
+with an appearance similar to regular cremated bone samples
+found in urns (same colour, structure, fragmentation and
+form). Fragments of the jaws indicated a child of 5e6 years.
+Cremated bones of this child were used for our dating
+(AAR-8789).
+The 14C date of these bones was tested against the dendrochronological date of the oak coffin, 1370 BC (Christensen,
+2006). This calendar age is converted to a 14C age via the
+14
+C calibration curve (IntCal04, Reimer et al., 2004) to give
+a 14C date of 3054  16 BP (see Fig. 1). Thus, the resulting
+age difference between AAR-8789 and the dendro date is
+74  32 14C yr. Hence the two samples almost agree within
+2s, or in other words the probability that two samples are of
+similar 14C age is 5%.
+Six samples (AAR-8110, -8111, -8112, -9571, -9573 and
+-9576) were collected from burial urns from different sites.
+The radiocarbon dates of the pitch used to seal these urns is
+expected to be of similar age as the cremated bones and
+may serve as age control (Sauter et al., 2001). The age difference between the cremated bone sample AAR-9571 and its
+
+794
+
+Table 1
+Cremated bone samples tested against their associated reference material
+Cremated human bone samples
+
+Associated context material
+
+AAR-8195
+
+Hammelev
+
+a
+
+86.1% 0.2
+
+0.10 3.2
+
+20.7
+
+AAR-8196
+
+Hammelev
+
+a
+
+97.5% 0.3
+
+0.08 5.3
+
+22.3
+
+AAR-8197
+
+Hammelev
+
+a
+
+98.9% 0.2
+
+0.15 3.2
+
+23.0
+
+AAR-8783 (PB1)
+
+Hammelev
+
+a
+
+98.4% 0.4
+
+n/ab
+
+AAR-8789 (PB7)
+
+Egtved
+
+a
+
+98.6% 0.09
+
+0.09 2.6
+
+23.1
+
+98.7%
+96.0%
+96.8%
+92.3%
+94.6%
+96.2%
+
+0.09
+0.06
+0.09
+0.09
+0.15
+0.12
+
+21.6
+22.9
+24.6
+26.1
+23.5
+24.6
+
+900e720
+730e520
+730e520
+925e875
+925e875
+925e875
+
+Prep,
+yield
+
+BC
+BC
+BC
+BC
+BC
+BC
+
+Cwt% C/P
+
+0.2
+0.08
+0.2
+0.1
+0.2
+0.1
+
+CI
+
+n/ab 24.2
+
+5.5
+6.2
+5.2
+4.0
+2.8
+3.5
+
+Colour
+Surface
+
+8980  80 Brown/
+yellow
+8800  46 Brown/
+yellow
+8760  60 Brown/
+yellow
+8870  37 White
+3128  28 Yellow/
+white
+2714  34 White
+2486  25 White
+2502  39 White
+2882  47 White
+2805  45 White
+2829  39 White
+
+Visible Comparison age
+determined by
+Interior burn
+cracks
+
+Type
+
+Comparison
+14
+
+C age
+BP
+
+Age
+difference
+
+White
+
+Yes
+
+White
+
+Yes
+
+White
+
+Yes
+
+White
+
+Yes
+
+White
+
+No
+
+AAR-8198, 8199 & Charcoal 8982  35d
+2  87
+8200
+AAR-8198, 8199
+Charcoal 8982  35d 182  58
+& 8200
+AAR-8198, 8199 & Charcoal 8982  35d 222  69
+8200
+AAR-8198, 8199
+Charcoal 8982  35d 112  51
+& 8200
+Dendro 1370 BC
+Dendro
+3054  16
+74  32
+
+White
+White
+White
+White
+White
+White
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+AAR-9570 (PB32)
+AAR-9568 (PB30)
+AAR-9569 (PB31)
+AAR-4681
+AAR-4682
+AAR-6097
+
+Pitch
+Pitch
+Pitch
+Pitch
+Pitch
+Pitch
+
+2706  35
+2826  34
+2459  41
+2790  45
+2815  40
+2815  40
+
+Dev
+in s
+0.0
+3.2
+3.2
+2.2
+2.3
+
+8  49
+0.2
+340  42c 8.0c
+43  57
+0.8
+92  65
+1.4
+10  60 0.2
+14  56
+0.3
+9  60 c2meas : 33.1
+ 16.9
+
+From the left the measurements on the cremated bone samples are shown (Preparation yield, carbon weight percentage, carbonate to phosphate ratio, crystallinity index, d13C of the bio-apatite bone fraction, 14C
+age and outcome of visual inspection). In the middle columns the reference material data are shown (type of material and 14C age). The columns to the right show the age comparison between the cremated bone
+samples and their associated reference material. The ‘‘Dev in s’’ column shows the deviation from the calculated weighted mean value in units of 1 standard deviation.
+a
+Defined by age of associated context material.
+b
+IR spectrum not available for this sample.
+c
+Outlier value not included in the calculated weighted average and statistics.
+d
+AAR-8198: 9015  60 BP (Pinus sylvestris), AAR-8199: 9030  55 BP (Salix sp.) and AAR-8200: 8875  65 BP (Salix sp.) (c2meas : 3.8  6.0).
+
+J. Olsen et al. / Journal of Archaeological Science 35 (2008) 791e800
+
+Location
+
+AAR-9576 (PB38) Gl. Brydegard
+AAR-9571 (PB33) Lerbjerg
+AAR-9573 (PB35) Lerbjerg
+AAR-8110
+Rom
+AAR-8111
+Rom
+AAR-8112
+Virkelyst
+
+Arch date
+
+d13C%o 14C age
+VPDB
+BP
+
+Lab. No.
+(Blind test ID)
+
+J. Olsen et al. / Journal of Archaeological Science 35 (2008) 791e800
+
+795
+
+dendro date (1370 BC)
+14
+
+AAR-8789: 3128 ± 28 C BP
+68.2% probability
+1440 BC (68.2%) 1385 BC
+
+3300
+
+95.4% probability
+1500 BC (68.2%) 1470 BC
+1460 BC (68.2%) 1360 BC
+1350 BC (68.2%) 1310 BC
+
+14C
+
+age BP
+
+3200
+3100
+3000
+2900
+
+1600
+
+1550
+
+1500
+
+1450
+
+1400
+
+1350
+
+1300
+
+1250
+
+1200
+
+calibrated date BC
+
+Fig. 1. IntCal04 radiocarbon calibration curve with s uncertainty lines (Reimer et al., 2004) and the calibrated probability density function of AAR-8789
+determined by OxCal 3.10 (Bronk Ramsey, 1995, 2001). The dendrochronological determined associated context date for sample AAR-8789 is converted
+to a 14C date by use of the radiocarbon calibration curve to yield 3054 
+16 14C yr.
+
+Fig. 2. 14C age difference between samples and their associated context material. The 14C dates of the associated context materials are determined by either
+dendrochronology (see Fig. 1) or 14C measurements of pitch and charcoal.
+Note that sample AAR-8783 is not shown due to an undetermined CI value
+of this sample. One pitch sample is considered an outlier and the charcoal samples are apparently influenced by the old wood effect (see text and Table 1).
+
+associated pitch sample AAR-9568 amounts to 8 standard deviations and is not included in the statistical analysis. Unlike
+the bone date, the pitch date is incompatible with the archaeological date, pointing to an erroneous identification of the
+sample. For the remaining samples the weighted average age
+difference between cremated bone samples and pitch is
+þ26  26 14C yr (c2meas : 2.7  9.0). Hence the cremated
+bone samples and their related pitch samples are in excellent
+general agreement.
+Four samples (AAR-8195, -8196, -8197 and -8783) were
+tested against a charcoal dated context. The weighted average
+age of the three charcoal samples (AAR-8198, -8199 and
+-8200) from the Hammelev site is 8982  35 BP (c2meas :
+3.8  6.0, see Table 1) yielding a weighted average age difference between the cremated bone samples and the charcoal
+samples of this site of 140  34 14C yr (c2meas : 25.0  7.8).
+Thus the cremated bone samples are on average 140 14C yr
+younger than their context related charcoal samples. However,
+the charcoal dates may be affected by the ‘‘old wood’’ effect,
+and if we instead use the youngest charcoal date (AAR-8200:
+8875  65 BP) for comparison as the date least affected by
+this effect, then the bone-charcoal 14C age difference amounts
+to only 31  87 14C yr (c2meas : 3.6  7.8).
+The 14C age difference between the cremated bone samples
+and their associated reference materials are shown in Fig. 2
+as a function of CI.
+
+the right femur. It was obvious that the individual had been
+cremated in the grave. The bones were burnt in different degrees, but they were still articulated and in situ. Some of the
+bones were white, while others had an almost blue or charred
+appearance. Grave goods consisted, among other things, of
+a 20 cm long dagger of flint, type IIa (Lomborg, 1973), which
+had been burnt. This dagger is a status symbol connected to
+the male sphere. Based on the grave goods, the grave is dated
+to the late Neolithic. Furthermore the grave gods reveal that
+this buried individual probably was a male, which was confirmed by the bioanthropological study of the skeleton.
+Three bones of this partially cremated individual have been
+studied and 14C dated; the left and right humeri (upper arms)
+and the left radius (lower arm bone), see Table 2. The study of
+the left radius in 7 sections from its proximal to its distal end
+(AAR-9390 to AAR-9396) shows the full spectrum from
+charred to cremated bone in all measured parameters. Visual
+observation reveals that the samples go from totally black
+charred bone with no indications of burn cracks to completely
+white bone with clear indications of burn cracks (see Fig. 3).
+Also the CI shows values from 3.5, indicative of low temperature burning (charred), to high temperature at 5.0 (cremated)
+(see Figs. 4 and 5). This tendency is further observed in the
+d13C values of the dated bio-apatite fraction going from
+16& for charred samples to 23& for fully cremated as
+well as in the carbon weight percentage (C wt%) and the carbonate to phosphate ratio (C/P) as displayed in Fig. 5. The
+charred sample from the left upper arm (AAR-8785) shows
+the same values as the charred samples from the left radius,
+whereas the right upper arm (AAR-8784) has been exposed
+to a higher temperature than the left, although not with indicative signs of temperatures above 600  C (cremation) (see
+Fig. 5). Note that AAR-8784 and AAR-8785 were submitted
+as part of the blind test.
+The 14C dates from the charred end of left radius
+(AAR-9390: 3614  27 BP) and the charred left upper arm
+
+3.2. A Late-Neolithic partially cremated individual from
+Østerhoved, Sealand
+A fortunate find of an individual with bones of different degrees of burning was made at Østerhoved, south of Skælskør,
+Sealand (parish of Magleby), in an excavation by the Danish
+National Museum of one of a cluster of four burial mounds
+(Krause, in press). The find consisted of the buried individual’s
+cranium, torso, pelvic bones, upper and lower armbones, and
+
+J. Olsen et al. / Journal of Archaeological Science 35 (2008) 791e800
+
+796
+Table 2
+The Late-Neolithic individual
+Bone
+
+Lab. No.
+blind test ID
+
+Yield
+
+Cwt%
+
+C/P
+
+CI
+
+d13C &
+VPDB
+
+14
+
+Colour
+Surface
+
+Interior
+
+Visible
+burn cracks
+
+Left radius
+
+AAR-9390
+AAR-9391
+AAR-9392
+AAR-9393
+AAR-9394
+AAR-9395
+AAR-9396
+AAR-8785 (PB3)
+AAR-8784 (PB2)
+
+77.7%
+87.6%
+80.3%
+94.3%
+74.1%
+92.0%
+95.2%
+93.8%
+95.1%
+
+0.6
+0.6
+0.6
+0.5
+0.2
+0.2
+0.1
+0.5
+0.1
+
+0.26
+0.29
+0.23
+0.26
+0.09
+0.16
+0.10
+0.23
+0.09
+
+3.5
+3.5
+3.7
+4.8
+5.1
+5.0
+5.0
+2.0
+2.9
+
+16.12
+16.13
+16.51
+16.27
+20.53
+23.34
+23.15
+16.0
+20.3
+
+3614  27
+
+Black
+Black
+Black
+Black
+White/black
+White/black
+White/black
+Black
+Grey/black
+
+Black
+Black
+Black
+Black
+White
+White
+White
+Black
+White
+
+No
+No
+No
+No
+Weak signs
+No
+Yes
+No
+No
+
+Left upper arm
+Right upper arm
+
+C age BP
+
+3756  28
+3576  29
+3682  43
+
+The analysis data of the left radius, left upper arm and the right upper arm (preparation yield, carbon weight percentage, carbonate to phosphate ratio, crystallinity
+index, d13C of the bio-apatite bone fraction, 14C age and outcome of visual inspection) are shown. The left radius (AAR-9390 to AAR-9396) exhibits the full
+spectrum from charred bone to cremated bone (see also Figs. 3, 5 and 6).
+
+(AAR-8785: 3576  29 BP) are very similar, with an average
+14
+C age of 3596  20 BP. The 14C date of the right upper arm
+(AAR-8784: 3682  43 BP) falls somewhere between the
+charred and the cremated samples of the left radius (AAR9390 and AAR-9396), in agreement with the trend in the other
+parameters (see Figs. 5 and 6). The age difference between the
+average charred bone samples and the fully cremated one
+(AAR-9396: 3756  28 BP) of the Late-Neolithic individual
+is significant, 160  34 14C yr. Unfortunately, no reference
+material was available from the grave to provide a context
+14
+C date for comparison, but theoretically one would rely on
+the date of fully cremated bone as discussed below.
+4. Discussion
+In general the cremated bone and the associated context
+dated samples are in excellent agreement with a weighted
+mean difference of 9  60 14C yr (see Table 1 and Fig. 2).
+
+However, all cremated bone samples associated with charcoal
+dated context samples appear younger with age differences up
+to 220 14C yr. Commonly, charcoal is not a preferred material
+for accurate comparisons due to the ‘‘old wood’’ effect as also
+noted by Lanting et al. (2001) who observed large age differences in some cases when using charcoal as context dated reference material for cremated bone samples. In contrast, pitch
+is likely to represent the perfect context material for cremated
+bone samples as it seems reasonable that urns are sealed very
+shortly after the time of death of the individual and that the
+pitch has been extracted mainly from the outer tree rings or
+bark from live or fairly fresh trees such as birch (Sauter
+et al., 2001). Therefore, the excellent agreement between the
+paired bone and pitch samples with an overall age difference
+of þ26  26 14C yr confirms the reliability of the method of
+radiocarbon dating of cremated bones. However, the overall
+internal consistency of the data as reflected by the large scatter
+(Table 1), indicates that other factors than the ‘‘old wood’’
+
+Fig. 3. The left radius bone samples of the Late-Neolithic individual exhibiting samples from charred to cremated. Note the difference of charred samples in one
+end (AAR-9390) to the cremated samples in the other end (AAR-9396).
+
+J. Olsen et al. / Journal of Archaeological Science 35 (2008) 791e800
+
+Fig. 4. Examples of IR spectra of charred (AAR-9390) and cremated bones
+(AAR-9396). Note the higher splitting of the absorption peaks at 603 cm1
+and 565 cm1 of the cremated bone indicative of higher CI together with
+the lower carbonate content as seen by reduced absorption peak at 1415 cm1.
+
+effect may be at play. It may be noted that the CI values of the
+test samples range from about 2.5 and up to 6.5, thus their
+values span from normal bones to bones burned above
+600  C (see Fig. 2 and Table 2). Strikingly, a correlation between the degree of re-crystallisation, i.e. burn temperature
+as represented by the CI values and the age difference between
+the cremated bone samples and their associated context material cannot be observed. On the other hand this may reflect the
+absence of in situ contamination unlike the partial cremated
+individual.
+The age discrepancy between the cremated bone sample
+AAR-8789 (see Table 1) and the associated dendrochronologically dated oak coffin is very large and close to disagreement.
+As the bone sample turn out to be older than the coffin raises
+the interesting question of a marine or freshwater diets
+
+797
+
+influencing the 14C age of an individual as is commonly
+known from radiocarbon dating on the collagen fraction of
+human bones (see e.g. Ambrose, 1993; Ambrose and Norr,
+1993; Arneborg et al., 1999; Bonsall et al., 2004; Cook
+et al., 2001; DeNiro and Epstein, 1978; Fischer et al., in
+pressa,b; Noe-Nygaard, 1988; Noe-Nygaard et al., 2005;
+Richards and Hedges, 1999; Richter and Noe-Nygaard,
+2003). In general the bio-apatite bone fraction may offer an alternative material for paleodietary studies (Garvie-Lok et al.,
+2004; Hedges, 2003; Koch et al., 1997; Lee-Thorp and van
+der Merwe, 1991; Passey et al., 2005), but unfortunately there
+is not yet a direct method for obtaining paleodietary information by the bio-apatite fraction on cremated bones. Paleodietary studies on bone collagen reflects mainly the protein
+component of the diet (Hedges, 2003; Milner et al., 2004;
+Schwarcz, 2000), in contrast to paleodietary studies applying
+the bio-apatite fraction where the d13C values reflects whole
+diet of the individual including lipids and carbohydrates and
+in-excess protein (Hedges, 2003). Therefore it is believed
+that the bio-apatite fraction is less liable to 14C reservoir effects in contrast to the collagen (protein) fraction when derived
+from protein rich marine diets. On the other hand, very little is
+known about the isotope fractionation during the cremation
+process though it seems clear that the burning of bones yields
+very negative and more and less similar d13C values (this study
+and Lanting et al., 2001). This may suggest that the CO2 loss
+during the burn process of bones blurs the original dietary information contained in the bio-apatite bone fraction. Nevertheless, assuming that the age discrepancy is solely caused by
+a diet consisting partially of marine food and using a marine
+reservoir age of 400 yr this individual (AAR-8789) ends up
+with a marine diet of approximately 19%. Hence, the age discrepancy between the sample AAR-8789 and the oak coffin
+may suggest that the well known problems of 14C reservoir effects on dating the collagen bone fraction may be significant in
+some instances on cremated bones as well. This is clearly
+
+Fig. 5. Shown is the samples of ‘‘partial burned’’ Late-Neolithic individual as function of d13C, CI, C wt% and the C/P ratio. Note that the CI axis is inverted. The
+sample AAR-8785 is charred whereas the sample AAR-8784 is partial cremated. The samples from AAR-9390 to AAR-9396 reflect a gradual change from charred
+to cremated (see text, Table 2, Fig. 3 and Fig. 6 for further details).
+
+J. Olsen et al. / Journal of Archaeological Science 35 (2008) 791e800
+
+798
+
+a matter that needs further clarification and investigation. Alternatively, the CI values of the individual (AAR-8789, Table 1)
+is very low and similar to CI values of normal unburned
+bones. Hence it is possible that the re-crystallisation process
+of the bio-apatite bone fraction towards more robust crystals
+has not taken place for this sample, i.e. individual AAR-8979
+is likely to have been exposed to low temperature burning.
+Hence this opens the possibility of exchange reactions with
+soil carbonate and may thereby potentially explain the observed age offset between the coffin and bone.
+The Late-Neolithic individual exhibiting bones from
+charred to cremated clearly displays significant changes in
+all observed parameters (CI, C wt%, C/P ratio and d13C
+values) on going from charred bones to cremated bones (see
+Fig. 5 and Table 2). The transitional step (Fig. 5) may indicate
+that the re-crystallisation process of the bone matrix may only
+occur above some threshold temperature as observed by others
+(Holden et al., 1995; Munro et al., 2007; Shipman et al., 1984;
+Stiner et al., 1995). This strongly suggests that these parameters are very useful to indicate whether samples have been exposed to high temperature burning (i.e. cremation) or not.
+Interestingly the 14C dates of the charred and cremated bones
+do not statistically agree (c2meas : 23.1  7.8) and thus yields
+a 14C age difference between charred and cremated bones of
+-160  34 14C yr in this case, see also Fig. 6. Hence, indicating that charred bones may turn out younger than cremated
+bones in concord with the hypothesis of exchange reactions
+with soil derived carbonate ions of higher 14C activity when
+bones are exposed to low temperature burning, i.e. re-crystallisation processes of the bone matrix has not taken place.
+Post-burial diagenetic changes of charred samples due to
+only a partial bone matrix re-crystallisation during burning
+may further explain the observed strong correlations between
+the measured 14C dates and the CI, C/P ratio, C wt% and d13C
+values displaying correlation coefficients of 0.85, 0.84,
+
+0.86 and 0.98 respectively (see Table 2 and Fig. 6 as an example). However, note that these correlations are obtained from
+only 4 samples and they may therefore be unrepresentative.
+5. Conclusion
+The study of a Late-Neolithic partially burned individual
+demonstrated an age difference of about 160 14C yr between
+charred and cremated bones which stresses the importance
+of characterising bones to be radiocarbon dated by the cremated bone method (Lanting et al., 2001). By employing infrared spectrometry and d13C analysis on the bio-apatite
+fraction of the Late-Neolithic individual, it has been demonstrated that a remarkably steep transition in parameters such
+as CI, d13C, C/P ratio and C wt% occurs. Hence this significant difference between charred and cremated bones may successfully be applied to determine whether bone samples have
+been exposed to temperatures above 600  C. This characterisation is critical for successful 14C dating of cremated bones as
+the bio-apatite mineral structure becomes more inert to external influences when burned above 600  C.
+The excellent agreement between the 11 paired samples of
+cremated bones and associated context samples such as a
+dendrochronological dated oak coffin, pitch and charcoal
+(of which about half were blind tested) generally confirmed
+the positive results found by Lanting et al. (2001). However,
+the large age difference between the bio-apatite bone sample
+and the associated dendrochronological date illustrate that other
+factors may be at play. Reservoir effects in human bones
+samples are well known from paleodietary studies of bone
+collagen and to a lesser extend as well from studies on the
+bio-apatite fraction of bones. It is likely that the reservoir effects
+may influence 14C dating of cremated bones in a similar way,
+a point that deserves further clarification and investigation.
+Acknowledgement
+
+3800
+R2= 0.96
+
+3700
+
+AAR-8784
+
+3650
+AAR-9390
+
+14C
+
+age BP
+
+The Danish Research Council for the Humanities is
+thanked for their financial support to Karen Margrethe
+Hornstrup and the Danish Natural Science Research Council
+is thanked for their financial support to the AMS 14C Dating
+Centre, Aarhus University, Denmark. Special thanks are due
+to Hans van der Plicht and Anita Aerts-Bijma who provided
+invaluable help on sample preparation as well as fruitful discussions during Jesper Olsen’s visit to CIO.
+
+AAR-9396
+
+3750
+
+3600
+AAR-8785
+3550
+
+References
+‘cremated’
+
+3500
+-24
+
+-23
+
+‘charred’
+-22
+
+-21
+
+-20
+
+-19
+
+-18
+
+-17
+
+-16
+
+-15
+
+13CVPDB
+
+Fig. 6. Shown is the d13C values of the samples from the ‘‘partial burned’’
+Late-Neolithic individual as function of 14C age (see Table 2). The d13C values
+are chosen as a proxy of the degree of cremation, i.e. as observed from Fig. 5.
+The solid line represents a fit to the data with an R2 value of 0.96.
+
+Ambrose, S.H., 1993. Isotopic analysis of paleodiets: methodological and
+interpretive considerations. In: Sandford, M.K. (Ed.), Investigations of
+Ancient Human Tissue. Gordon and Breach Science.
+Ambrose, S.H., Norr, L., 1993. Experimental evidence for the relationship of
+the carbon isotope ratios of whole diet and dietary protein to those of bone
+collagen and carbonates. In: Lambert, J.B., Grupe, G. (Eds.), Prehistoric
+Human Bone. Archaeology at the Molecular Level. Springer, Berlin, pp.
+1e37.
+
+J. Olsen et al. / Journal of Archaeological Science 35 (2008) 791e800
+Andersen, G.J., Heinemeier, J., Nielsen, H.L., Thomsen, M.S., Johnsen, S.,
+Sveinbjörndöttir, A.E., Hjartarson, A., 1989. AMS C-14 dating on the
+Fossvogur sediments, Iceland. Radiocarbon 31, 592e600.
+Arneborg, J., Heinemeier, J., Lynnerup, N., Nielsen, H.L.,
+Sveinbjörndöttir, A.E., 1999. Change of diet of the Greenland Vikings determined from stable carbon isotope analysis and 14C dating of their bones.
+Radiocarbon 41, 157e168.
+Berger, R., Horney, A.G., Libby, W.F., 1964. Radiocarbon dating of bone and
+shell from their organic components. Science 144, 999e1001.
+Bonsall, C., Cook, G.T., Hedges, R.E.M., Higman, T.F.G., Pickard, C.,
+Radovanovic, I., 2004. Radiocarbon and stable isotope evidence of dietary
+change from the mesolithic to the middle ages in the iron gates: New results from Lepenski Vir. Radiocarbon 46, 293e300.
+Brickley, M.B., 2007. A case of disposal of a body through burning and recent
+advances in the study of burned human remains. In: Brickley, M.B.,
+Ferllini, R. (Eds.), Forensic Anthropology. Charles C. Thomas, Springfield,
+pp. 69e85.
+Bronk Ramsey, C., 1995. Radiocarbon Calibration and analysis of stratigraphy: the OxCal program. Radiocarbon 37, 425e430.
+Bronk Ramsey, C., 2001. Development of the radiocarbon program OxCal.
+Radiocarbon 43, 355e363.
+Christensen, K., 2006. Dendrochronological dating of oak coffins from
+the Bronze Age of Denmark and Schleswig. Acta Archaeologica 77,
+162e246.
+Cook, G.T., Bonsall, C., Hedges, R.E.M., McSweeney, K., Boronean, V.,
+Pettitt, P.B., 2001. A freshwater diet-derived 14C reservoir effect at
+the stone age sites in the Iron Gates Gorge. Radiocarbon 43,
+453e460.
+DeNiro, M.J., Epstein, S., 1978. Influence of diet on the distribution of
+carbon isotopes in animal diet. Geochimica et Chosmochimica Acta
+42, 495e506.
+
+Fischer, A., Olsen, J., Richards, M., Heinemeier, J., Sveinbjörnsdóttir, A.E.,
+Bennike, P., in press a. Coast-inland mobility and diet in the Danish Mesolithic and Neolithicdevidence from stable isotope values of humans
+and dogs. Journal of Archaeological Science. doi:10.1016/j.jas.2007.
+02.028.
+Fischer, A., Richards, M., Olsen, J., Robinson, D., Bennike, P., L. KubiakMartens and Heinemeier, J., in press b. The composition of Mesolithic
+food -evidence from a submerged settlement on the Argus Bank, Denmark.
+Acta Archaeologica.
+Garvie-Lok, S.J., Varney, T.L., Katzenberg, M.A., 2004. Preparation of bone
+carbonate for stable isotope analysis: the effects of treatment time and
+acid concentration. Journal of Archaeological Science 31, 763e776.
+Grupe, G., Hummel, S., 1991. Trace element studies on experimentally cremated bone. I. Alteration of the chemical composition at high temperatures. Journal of Archaeological Science 18, 177e186.
+Hassan, A.A., Termine, J.D., Haynes, C.V., 1977. Mineralogical studies on
+bone apatite and their implications for radiocarbon dating. Radiocarbon
+19, 364e374.
+Hedges, R.E.M., 2003. On bone collagendApatite-carbonate isotopic relationships. International Journal of Osteoarchaeology 13, 66e79.
+Hedges, R.E.M., LeeThorp, J.A., Tuross, N.C., 1995. Is tooth enamel carbonate a suitable material for radiocarbon dating? Radiocarbon 37,
+285e290.
+Holden, J.L., Phakey, P.P., Clement, J.G., 1995. Scanning electron microscope
+observations of heat-treated human bone. Forensic Science International
+74, 29e45.
+Haas, H., Banewicz, J., 1980. Radiocarbon dating of none apatite using thermal release of CO2. Radiocarbon 22, 537e544.
+Koch, P.L., Tuross, N., Fogel, M.L., 1997. The effects of sample treatment and
+diagenesis on the isotopic integrity of carbonate in biogenic hydroxylapatite. Journal of Archaeological Science 24, 417e429.
+Krause, C., in press. En senneolitisk brandgrav ved Østerhoved, Sydvestsjælland. Aarbøger for Nordisk Oldkyndighed og Historie.
+Krueger, H.W., 1991. Exchange of carbon with biological apatite. Journal of
+Archaeological Science 18, 335e361.
+Lanting, J.N., Aerts-Bijma, A., van der Plicht, H., 2001. Dating of cremated
+bones. Radiocarbon 43, 249e254.
+
+799
+
+Lee-Thorp, J.A., van der Merwe, N.J., 1991. Aspects of the chemistry of modern and fossil biological apatites. Journal of Archaeological Science 18,
+343e354.
+Lomborg, E., 1973. Die Flintdolche Dänemarks. Studien über Chronologie
+und Kulturbeziehungen des südskandinavischen Spätneolithikums. København, Det Kongelige Nordiske Oldskriftsselskab.
+Mays, S., 1998. The Archaeology of Human Bones. Routledge, London.
+Milner, N., Craig, O.E., Bailey, G.N., Pedersen, K., Andersen, S.H., 2004.
+Something fishy in the Neolithic? A re-evaluation of stable isotope
+analysis of Mesolithic and Neolithic coastal populations. Antiquity
+78, 9e22.
+Munro, L.E., Longstaffe, F.J., White, C.D., 2007. Burning and boiling of modern deer bone: Effects on crystallinity and oxygen isotope composition of
+bioapatite phosphate. Palaeogeography Palaeoclimatology Palaeoecology
+249, 90e102.
+Newesely, H., 1988. Fossil bone apatite. First International Workshop on
+Fossil Bone. Oxford University, Applied Geochemistry.
+Noe-Nygaard, N., 1988. d13C-values of dog bones reveal the nature of changes
+in man’s food resources at the mesolithic-neolithic transition, Denmark.
+Chemical Geology 73, 87e96.
+Noe-Nygaard, N., Price, T.D., Hede, S.U., 2005. Diet of aurochs and early cattle in southern Scandinavia: evidence from N-15 and C-13 stable isotopes.
+Journal of Archaeological Science 32, 855e871.
+Passey, B.H., Robinson, T.F., Ayliffe, L.K., Cerling, T.E.,
+Sponheimer, M., Dearing, M.D., Roeder, B.L., Ehleringer, J.R.,
+2005. Carbon isotope fractionation between diet, breath CO2, and bioapatite in different mammals. Journal of Archaeological Science 32,
+1459e1470.
+Pate, F.D., Hutton, J.T., 1988. The use of soil chemistry data to address postmortem diagenesis in bone mineral. Journal of Archaeological Science 15,
+729e739.
+Person, A., Bocherens, H., Saliege, J.F., Zeitoun, V., Gérard, M., 1995. early
+diagenetic evolution of bone phosphate: an X-ray DiVractometry analysis.
+Journal of Archaeological Science 22, 211e221.
+Posner, A.S., 1969. Crystal chemistry of bone mineral. Physological Reviews
+49, 760e792.
+Reimer, P.J., Baillie, M.G.L., Bard, E., Bayliss, A., Beck, J.W., Bertrand, C.J.H.,
+Blackwell, P.G., Buck, C.E., Burr, G.S., Cutler, K.B., Damon, P.E.,
+Edwards, R.L., Fairbanks, R.G., Friedrich, M., Guilderson, T.P.,
+Hogg, A.G., Hughen, K.A., Kromer, B., McCormac, G., Manning, S.,
+Ramsey, C.B., Reimer, R.W., Remmele, S., Southon, J.R., Stuiver, M.,
+Talamo, S., Taylor, F.W., van der Plicht, J., Weyhenmeyer, C.E., 2004. IntCal04 terrestrial radiocarbon age calibration, 0-26 cal kyr BP. Radiocarbon
+46, 1029e1058.
+Richards, M.P., Hedges, R.E.M., 1999. Stable isotope evidence for similarities in the types of marine foods used by late mesolithic humans
+at sites along the Atlantic coast of Europe. Journal of Archaeological
+Science 26, 717e722.
+Richter, J., Noe-Nygaard, N., 2003. A Late Mesolithic hunting station at Agernæs, Fyn, Denmark. Acta Archaeology 74, 1e64.
+Saliège, J.F., Person, A., Paris, F., 1995. Preservation of 12C/13C original ratio and 14C dating of the mineral fraction of human bones
+from Saharan tombs, Niger. Journal of Archaeological Science 22,
+301e312.
+Sandford, M.K., 1993. Understanding the biogenic-diagenetic continuum: interpreting elemental concentrations of archaeological bone. In:
+Sandford, M.K. (Ed.), Investigations of Ancient Human Tissue. Gordon
+and Breach Science.
+Sauter, F., Graf, A., Hametner, C., Frohlich, J., 2001. Studies in organic archaeometry IIIdPrehistoric adhesives: alternatives to birch bark pitch
+could be ruled out. Arkivoc 2, U26eU31.
+Schwarcz, H.P., 2000. Some biochemical aspects of carbon isotopic paleodiet
+studies. In: Ambrose, S.H., Katzenberg, M.A. (Eds.), Biogeochemical Approaches to Paleodietary Analysis. Kluwer Academic/Plenum Publishers,
+pp. 189e209.
+Shipman, P., Foster, G., Schoeninger, M., 1984. Burnt bones and teeth: an experimental study of color, morphology, crystal structure and shrinkage.
+Journal of Archaeological Science 11, 307e325.
+
+800
+
+J. Olsen et al. / Journal of Archaeological Science 35 (2008) 791e800
+
+Stafford, T.W., Jull, A.J.T., Brendel, K., Duhamel, R.C., Donahue, D., 1987.
+Study of bone radiocarbon dating accuracy at the University-of-Arizona
+Nsf accelerator facility for radioisotope analysis. Radiocarbon 29, 24e44.
+Stiner, M.C., Kuhn, S.T., Weiner, S., Bar-Yosef, O., 1995. Differential burning,
+recrystallization, and fragmentation of archaeological bone. Journal of Archaeological Science 22, 223e237.
+Surovell, T.A., 2000. Radiocarbon dating of bone apatite by step heating.
+Geoarchaeology 15, 591e608.
+Tamers, M.A., Pearson, F.J., 1965. Validity of radiocarbon dates on bone.
+Nature 208, 1053e1055.
+Thomsen, M.S., 1990. AMS Spectometry. Institut for fysik, Aarhus
+Universitet.
+Thomsen, T., 1929. Egekistefundet fra Egtved, fra den ældre Bronzealder. In:
+Nordiske Fortidsminder II.
+
+van Strydonck, M., Boudin, M., Hoefkens, M., de Mulder, G., 2005. 14Cdating of cremated bones, why does it work? Lunula 13, 3e10.
+Vogel, J.S., 1984. Performance of catalytical condensed carbon for use in
+accelerator mass spectrometry. Nuclear Instrumentation and Method in
+Physics Research A 289, 233.
+Walker, P.L., Miller, K.P., 2005. Time, temperature, and oxygen availability:
+An experimental study of the effects of environmental conditions on the
+color and organic content of cremated bone. American Journal of Physical
+Anthropology 40, 216e217.
+Weiner, S., Bar-Yosef, O., 1990. States of preservation of bones from prehistoric sites
+in the Near East: A survey. Journal of Archaeological Science 17, 187e196.
+Wright, L.E., Schwarcz, H.P., 1996. Infrared and isotopic evidence for diagenesis of bone apatite at Dos Pilas, Guatemala: Palaeodietary implications.
+Journal of Archaeological Science 23, 933e944.
+
+

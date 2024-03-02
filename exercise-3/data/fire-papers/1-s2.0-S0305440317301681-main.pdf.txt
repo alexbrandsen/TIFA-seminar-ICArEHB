@@ -1,0 +1,1035 @@
+Journal of Archaeological Science 89 (2018) 32e45
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Formation, morphology and interpretation of darkened faecal
+spherulites
+M.G. Canti a, *, C. Nicosia b
+a
+b
+
+Research Department, Historic England, Fort Cumberland, Eastney PO4 9LD, United Kingdom
+ di Padova, Piazza Capitaniato 7, 35139 Padova, Italy
+Dipartimento dei Beni Culturali, Universita
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 19 June 2017
+Received in revised form
+8 November 2017
+Accepted 18 November 2017
+Available online 1 December 2017
+
+Faecal spherulites are a common indicator of dung in archaeological deposits and most of the basic
+processes of their formation and taphonomy have been explained. However, a darkened form is also
+regularly found, ranging from slightly transparent through to completely opaque. These have been less
+well studied, so we set out here to understand what actually causes the darkening and to determine the
+range of conditions required to produce the changes.
+Darkened spherulites were successfully created by heating dung to between 500  C and 700  C with
+the gaseous products constrained. The maximum production in our experiments was at 600  C. The
+darkened spherulites often expanded during the alteration process and some of the expanded ones
+become distorted. SEM examination was only possible through destructive preparation processes, but
+examples were found showing expansion beyond the normal size range. These had a distinctive internal
+structure characterised by very ﬁne crystallinity and larger scale fracturing, perhaps resulting from
+organic matter loss and/or CaCO3 alteration. Prolonged oxidative heating failed to remove the darkening,
+leading to the possibility that it is partly a structural phenomenon, with opaciﬁcation arising from
+compound relief.
+Based on these ﬁndings, darkened spherulites can now be conﬁdently interpreted as; resulting from
+dung being heated in conditions of limited gaseous exchange to between 500 and 700  C, then not
+heated again beyond ca. 700  C. These sorts of conditions could occur, around the edge of, or beneath,
+any ﬁre where fresh dung is being burned or where the existing stratigraphy has a dung component.
+© 2017 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Keywords:
+Faecal spherulites
+Biominerals
+Calcium carbonate
+Ash
+Caves
+
+1. Introduction
+Faecal spherulites are very small (typically 5e20 mm), approximately spherical, radially crystallised bodies of calcium carbonate
+produced in the digestion of various mammals, but particularly the
+ruminant herbivores (Brochier, 1983; Brochier et al., 1992; Canti,
+1997). They are now a widely-used indicator of herbivore presence in archaeology, mostly in caves and rock shelters of the
+Mediterranean region (e.g. Brochier, 2002; Karkanas, 2006;
+Angelucci et al., 2009; Polo-Díaz, 2010), but also open air sites
+where burial has been rapid or the surrounding sediments are
+suitably alkaline (Brochier, 1984; Matthews et al., 1996; ShahackGross et al., 2014). Spherulite production and preservation is,
+
+* Corresponding author.
+E-mail addresses: Matthew.Canti@HistoricEngland.org.uk
+cristianonicosia@gmail.com (C. Nicosia).
+
+(M.G.
+
+Canti),
+
+however, clearly a global phenomenon and they have been reported from other parts of Eurasia (Matthews and Postgate, 1994;
+Matthews et al., 1996; Castel et al., 2008; Badalyan et al., 2010),
+from Africa (Cremaschi and Trombino, 1999; Shahack-Gross et al.,
+2003) and from South America (Korstanje, 2002; Coil et al., 2003).
+They are increasingly being used within ethnoarchaeological
+studies (see review in Friesem, 2016) to provide numerical data,
+which can be combined with phytolith or archaeobotanical evidence in order to make deductions concerning husbandry, seasonality, dung usage and domestic activities (Cabanes et al., 2007;
+Portillo and Albert, 2011; Elliott et al., 2015; Gur-Arieh et al.,
+2013, 2014; Portillo et al., 2014; Portillo et al., 2017).
+Most of the basic processes of spherulite formation and
+taphonomy are well-understood (Brochier et al., 1992; Canti, 1998,
+1999; Shahack-Gross, 2011; Canti and Brochier, 2017). One aspect
+that is less clear, however, is their occurrence in a darkened or
+opaque form. Darkened spherulites were ﬁrst described in layers of
+burnt manure from sub-recent deposits in a series of caves in Sicily
+
+https://doi.org/10.1016/j.jas.2017.11.004
+0305-4403/© 2017 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+M.G. Canti, C. Nicosia / Journal of Archaeological Science 89 (2018) 32e45
+
+(Brochier et al., 1992). In related experimental work, the darkening
+was replicated by burning sheep dung in an oxidising atmosphere
+at 500  C (Brochier, 1996, 2002). According to the author, the
+darkening resulted from carbonisation of the internal organic
+component of the spherulites. There are various other references to
+darkened or opaque spherulites from archaeological contexts.
+€ nü
+Brochier (1993) reported them from the Neolithic tell of Çayo
+(Turkey); they were observed by Iaconis and Boschian (2007) in
+one of the caves of Sant’Angelo (late Neolithic) and in Grotta dei
+Piccioni (early/middle Neolithic and Bronze age deposits) in central
+Italy. In both these cases the darkening of spherulites was interpreted as the result of dung burning. They were also mentioned in
+discussions of ash deposits at the tell of Al-Rawda (West-Central
+Syria) in Castel et al. (2008), and Polo Díaz et al. (2014) illustrated
+examples from early prehistoric burnt dung deposits of Cova Gran
+de Santa Linya (Spain).
+1.1. What do darkened spherulites look like?
+Ordinary spherulites are fundamentally transparent in plane
+polarised light (PPL), but the view frequently includes structural
+planes and organic matter which produce some internal relief and
+colouring. Under crossed polarised light (XPL), the tiny radial
+crystals are all in extinction when lying in the north, south, east and
+west directions, producing a dark cross which remains in position
+as the microscope stage is rotated. Elsewhere, the crystals not lying
+in these cardinal positions show interference colours arising from
+the strong birefringence of calcium carbonate. Thus, even a
+spherulite as small as 5 mm will show ﬁrst order white between the
+limbs of the extinction cross.
+Darkened spherulites in PPL (Figs. 1a and 2a) are somewhere in a
+range between brown and slightly transparent through to black
+and completely opaque. In most cases, the brown or black
+
+33
+
+colouration takes up almost the whole sphere, with just a small
+clear fringe left at the perimeter. Occasionally, however, the dark
+sector occupies only the middle portion of the spherulite and tends
+then to be obscured by the extinction cross in XPL.
+Darkened spherulites are frequently larger than ordinary
+spherulites, regularly being up to 25 mm in size and occasionally
+more. However, this is not always the case, and many darkened
+spherulites’ diameters fall within the same size range as ordinary
+ones. These observations mean that some or all of them must
+expand during the darkening process. Although they are often
+nearly opaque in XPL (Figs. 1b and 2b), if the microscope light
+source is raised to high levels of brightness, the interference colours
+and extinction cross can still be seen, albeit obscured by the brown
+tone (Brochier, 2002). At the very edge, where the browning is not
+present, the perimeter fringe shows the normal interference
+pattern of spherulites. If a l plate is inserted (Fig. 2c), this thin band
+displays the blue and yellow of the pseudo-uniaxial negative ﬁgure
+described in Canti (1998). Clearly then, although some (or all) of the
+darkened spherulites undergo expansion, the overall radial structure is not changed by the darkening process.
+In addition, a small percentage of the darkened spherulites
+become distinctly non-circular and instead display distorted, often
+lobed shapes (Fig. 3). Many ordinary spherulites are already bilobate due to their crystal layout. In the crystallographic and biomineralogical literature, a successively inﬁlling dumbbell shape
+(also known amongst crystallographers as “wheatsheaf” when
+elongated) is widely viewed as the true growth pattern of spherulitic crystallisation (Morse and Donnay, 1936; Keller and Waring,
+1955; Keller, 1958; Keith and Padden, 1963; Hartshorne and
+Stuart, 1970; Hutter and Bechhoefer, 2000; Chen et al., 2006;
+Beck and Andreassen, 2010; see also Fig. 2 in Canti, 1998). Whilst
+this dumbbell is growing, a spherulite at the right orientation will
+often show the characteristic shape (e.g. Fig. 12f). Once the full
+
+Fig. 1. (a) PPL view of part of a pellet of sheep dung heated at 600  C for 1 h, giving a general view with about 30% darkened spherulites. (b) The same view in XPL.
+
+Fig. 2. Close-up of a cluster of a) PPL and b) XPL darkened spherulites. c) same as b) with l plate inserted to show the remnant of the pseudo-uniaxial negative colours on the
+perimeter (see Canti, 1998). (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+34
+
+M.G. Canti, C. Nicosia / Journal of Archaeological Science 89 (2018) 32e45
+
+Fig. 3. Examples of the distorted shapes regularly found amongst darkened spherulites. Scale bars ¼ 50 mm.
+
+sphere has been produced, however, the developmental origin may
+no longer be visible.
+This morphological characteristic of normal spherulites makes it
+difﬁcult to quantify the distortion rate, because some dumbbellshaped spherulites already show a lobed morphology depending
+on the angle they are resting at in the microscope slide. However,
+an estimate is that around 2e5% of darkened spherulites show the
+distortions, and they appear to be the ones that have enlarged the
+most.
+1.2. Research rationale
+The key issue for microscopists recording darkened spherulites
+in liquid mounts or thin sections is to know what they mean for site
+interpretation. We therefore set out to understand what actually
+causes the spherulites’ darkening including their expansion and
+distortion, and to determine the range of conditions required to
+produce the changes. Based on this information, it should be
+possible to determine how subsequent natural or anthropogenic
+processes are likely to affect the preservation of darkened
+spherulites.
+2. Producing darkened spherulites e methods and results
+Samples of fresh dung were collected from both sheep and goat
+at the Archeopercorso Bostel di Rotzo, Vicenza, Italy. They were
+dried and examined for spherulite content, then high yielding ones
+were used either individually or amalgamated in all the
+
+experiments described below. The experimentation was iterative
+and went through three distinct stages, of which the ﬁrst two need
+only summarising.
+2.1. Whole faecal pellets
+Initially, whole spherulite-rich faecal pellets from both goat and
+sheep were burnt in small pots (Carbolite furnace RWF 12/13), then
+thin sectioned according to standard methods for soil micromorphology (Murphy, 1986). A range of temperatures and burn durations was tested to see if there was a simple relationship. As
+expected, lower temperatures (ca. 200e400  C) mostly had no effect and higher temperatures (700  C and above) routinely
+destroyed the spherulites, producing isotropic morphologies (CaO
+is isotropic) in the pellet remains, which required a period of
+recarbonation in air to develop birefringence again. In these cases,
+the original spherulites were no longer visible, being replaced by a
+wide variety of CaCO3 neoformations. In the key temperature range
+of 400  Ce700  C, high variability was found. Sometimes darkened
+spherulites were abundantly produced (see Fig. 1), but other times
+either incomplete combustion or complete destruction occurred in
+similar repeat experiments, or even at different places within one
+pellet in the same experiment. Attempts were made to overcome
+the variability by averaging large areas through image analysis, but
+the results were inconsistent.
+The conclusion of these experiments was that a single faecal
+pellet will always reach a variety of temperatures unrelated to the
+measured temperature of the furnace, because of small variations
+
+M.G. Canti, C. Nicosia / Journal of Archaeological Science 89 (2018) 32e45
+
+Fig. 4. Fence diagram for the development of isotropy amongst spherulites in <125 mm
+dung powder thinly scattered onto a microscope slide and heated for different times
+and temperatures. The isotropy results from conversion to CaO.
+
+in the organic matter content and porosity, as well as local air
+currents inside the furnace, all of which lead to unpredictable or
+patchy ignition.
+2.2. Ground faecal pellets spread out
+In order to overcome the variable combustion problem, dryground <125 mm spherulite-rich faecal material was scattered
+thinly onto a microscope slide and heated slowly so that oxidation
+was uniform and ignition minimised, thus avoiding patchy overheating. The slide was then examined by using a drop of refractive
+liquid (rather than cutting a thin section) either immediately, or
+after a period of recarbonation in a moist atmosphere. This method
+appeared to produce consistent, uniform heating, but failed to
+produce darkened spherulites in anything other than very small
+numbers. Additionally, it regularly caused conversion of the
+spherulites to CaO within a repeatable range of temperatures and
+times (Figs. 4 and 5).
+The conclusion of these experiments was that the darkening of
+the spherulites might be something occurring in a phase of
+reduction (similar to the charring of plant matter) and that this
+highly oxidising method was simply burning off the organic
+framework of the spherulites too quickly. In order to routinely
+produce darkened spherulites, the experiments had, therefore, to
+both avoid overheating (due to ignition) and maintain reducing
+conditions.
+
+35
+
+put the burning material in a container so that the CO2 produced by
+combustion (which is heavier than air) sits on top of the charring
+material instead of being removed by air currents within the
+furnace. The container size and the level to which it is ﬁlled could
+clearly affect the degree of reduction, so a number of types were
+tested, all based on various small glass tubes available in the laboratory. They were 4, 10 and 15 mm diameter and all about 10 mm
+high. Dried, ground, <125 mm spherulite-rich faecal material was
+added in various quantities ranging from a tiny ~3 mm diameter
+cone of powder sitting on the base of a pot through to half-ﬁlling
+the pots. These different pot size/ﬁll types were tested as replicates of the temperature/time experiments described below. They
+produced relatively small variation, and tubes of 4 mm (diameter) x
+25 mm long were chosen and then used for all the subsequent
+temperature experiments described in this paper. To improve
+repeatability, a similar quantity of dung powder (ca. 10 mm3) was
+always used, and a metal rod almost exactly the same diameter as
+the pot was inserted after the dung powder (Fig. 6). This helped
+prevent any stray draughts entering from above.
+The tubes were warmed up for 20 min to get to temperature,
+ﬁred for the speciﬁed period, then cooled naturally (typically
+45e80 min) to get them back below 300  C (thus preventing any
+further oxidation). On removal from the furnace, they were given
+5 min resting to get down to handling temperature. All through the
+time of heating and cooling, the tubes were kept upright to promote retention of CO2 in the pot.
+3. Examining darkened spherulites e methods and results
+3.1. Distinguishing darkened spherulites by light microscopy
+The ashed dung powder from the burns carried out in small
+tubes was dispersed in Cargille Meltmount and coverslipped to
+make permanent slides. Spherulites were examined in PPL and XPL
+on an Olympus BH2 microscope with or without l plate. For each
+
+2.3. Enclosed in small tubes
+The simplest way to achieve a partially reduced atmosphere is to
+
+Fig. 6. Diagram of glass tube with rod inserted for burning the dung powder to help
+retain CO2 layer over the dung.
+
+Fig. 5. Isotropic spherulites from dung powder spread thinly and heated at 600  C for 1 h (a) PPL and (b) partial-XPL (analyser rotated a few degrees off 90 to show outlines better).
+
+36
+
+M.G. Canti, C. Nicosia / Journal of Archaeological Science 89 (2018) 32e45
+
+time/temperature combination, 1000 spherulites were counted on
+the slide at 200 magniﬁcation (with occasional examination at
+400) and designated to either darkened or normal. As described
+above, darkening usually takes up almost the whole sphere, with
+just a small clear fringe left at the perimeter. These examples clearly
+
+fall into the 'darkened' category. Occasionally, however, the dark
+sector occupies only the middle portion of the spherulite, or the
+dark areas are complex and incomplete. In these situations, we
+counted as darkened only those spherulites whose total dark area
+was large enough to cover half or more of the spherulite's overall
+
+Fig. 7. Examples chosen to show the decision boundary for partially darkened spherulites. (a) darkened (b) borderline darkened. (c) borderline not darkened. (d & e) not darkened,
+with (e) showing an incomplete central dark area. See text for description of the identiﬁcation criteria (scalebars are all 20 mm).
+
+M.G. Canti, C. Nicosia / Journal of Archaeological Science 89 (2018) 32e45
+Table 1
+Quantities of darkened spherulites produced in different burns in the small tubes.
+Temperature regime
+
+% darkened
+
+400
+400
+400
+400
+500
+500
+500
+500
+500
+500
+500
+500
+500
+
+
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+for
+for
+for
+for
+for
+for
+for
+for
+for
+for
+for
+for
+for
+
+0.5 h
+1h
+2h
+3h
+0.5 h
+1h
+2h
+3h
+4h
+5h
+6h
+7h
+8h
+
+0.7
+0.4
+0.0
+0.2
+0.2
+0.7
+2.4
+3.9
+4.1
+5.4
+3.8
+4.8
+7.0
+
+600
+600
+600
+600
+600
+600
+600
+600
+600
+
+
+
+C
+C
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+C
+
+for
+for
+for
+for
+for
+for
+for
+for
+for
+
+0.5 h
+1h
+2h
+3h
+4h
+5h
+6h
+7h
+8h
+
+6.4
+10.2
+12.9
+14.7
+18.9
+15.4
+26.2
+24.7
+25.6
+
+700
+700
+700
+700
+
+
+
+for
+for
+for
+for
+
+0.5 h
+1h
+2h
+3h
+
+16.7
+18.4
+16.9
+All isotropic e none darkened
+
+
+
+
+C
+C
+
+C
+
+C
+
+
+diameter. This notional dividing line coincides roughly with the
+ability to see some darkening under XPL as well as PPL. If a central
+dark area is smaller than half the overall diameter it tends to be
+obscured by the extinction cross; if larger, the impression produced
+
+37
+
+is that the central junction of the extinction cross has an area of
+swelling extending into each of the quadrants. Examples of
+spherulites meeting or not meeting the criteria for being darkened
+are shown in Fig. 7.
+3.2. Percentage darkened at different temperatures and times
+Table 1 shows the results of timed burns in the small blocked
+tubes (see the experimental diagram in Fig. 6). This has produced a
+very clear pattern of increasing darkened spherulite production
+with greater time and temperature up to a maximum at 600  C for
+6 h (Fig. 8). Additional time or higher temperatures thereafter, do
+not produce greater numbers of darkened spherulites.
+3.3. Size distribution
+Size distributions of 565 unheated spherulites were measured,
+as well as 1489 spherulites from the sample heated at 600  C for
+6 h. ImageJ software (https://imagej.net/) was used to measure the
+diameter of each spherulite visible in a series of photomicrographs
+taken at 200 magniﬁcation.
+Although this is only a single data set, general conclusions can
+be drawn without claiming statistical rigour. The size distribution
+curves in Fig. 9 clearly show that, on average, under a heating
+regime of 600  C for 6 h with gases constrained, spherulites expand
+and the distribution of their sizes becomes broader. Unheated
+spherulites were mostly (83%) clustered in the 3e8 mm range, with
+an average diameter of 5.2 mm (st. dev. 1.7), whereas heated but
+undarkened spherulites lay instead mostly (78%) in the range between 6 mm and 12 mm with an average diameter of 9.3 mm (st. dev.
+2.8). As they expand, some spherulites undergo additional changes
+rendering them darker and these changes are associated with even
+
+Fig. 8. Diagram of % spherulites darkened in different burns in the small tubes (data as Table 1).
+
+38
+
+M.G. Canti, C. Nicosia / Journal of Archaeological Science 89 (2018) 32e45
+
+Fig. 9. Size distributions of darkened and normal spherulites, from measurements of 1489 spherulites heated at 600  C for 6 h and 565 unheated spherulites from the same dung
+powder.
+
+greater expansion. Darkened spherulites were mostly (75%) clustered in the range between 12 mm and 19 mm, with an average
+diameter of 14.8 mm (st. dev. 3.5). Moreover, darkened spherulites
+reached sizes (21e27 mm) that the heated but undarkened ones
+never attained in these samples.
+Since we cannot follow individuals through the heating process,
+we only have this size distribution data to assess the nature of the
+expansion. The curves in Fig. 9 would seem to result from all the
+spherulites having expanded on heating, making the tiniest ones
+move into the heated but undarkened size range and those that
+were largest before heating move into the larger size ranges.
+Whether or not this is the right interpretation of the curves, it is
+clear that many heated spherulites showed large size increases
+when they were darkened. Microscopic observation conﬁrms this;
+they were regularly found to be double the size of heated undarkened spherulites and sometimes more.
+3.4. Mineralogy
+X ray diffraction was carried out on the raw dung powder and on
+the sample heated at 600  C for 7 h. The results (Fig. 10) show
+clearly that the dung is rich in calcite and quartz both before and
+after burning. No other calcium carbonate polymorphs were found.
+3.5. SEM morphology
+In order to understand the expansion phenomenon associated
+with darkening, it is necessary to see ordinary and darkened
+spherulites under the SEM, either as whole objects or cut through
+
+to make cross-sections. This is difﬁcult to achieve, due to a coating
+of organic material (or oxidised derivatives from it) which is
+invariably present on the outside.
+Various preparation methods were tested with the aim of
+uncovering the spherulites’ mineral component including heat
+treatment and hydrogen peroxide, but the surface coating
+remained stubbornly present obscuring the morphology (Fig. 11).
+An alternative approach was tried in which <125 mm spheruliterich dung was given prolonged heating to various temperatures
+between 400 and 650  C in order to reduce the organic matter as
+much as possible; then the whole mass repeatedly chopped (on the
+slide) with a fresh scalpel blade. The slide was attached to an SEM
+stub, surrounded with silver dag in order to earth it, and the top
+side gold-coated. This successfully produced a few cross sections
+(Fig. 12 a e e), but they were very scarce on the slide, relying as they
+did on occasional chance interactions of the blade and a spherulite
+at the right angle to produce a possible shear (Fig. 12e), or to rip
+apart the two halves of the dumbbell (Fig. 12b, c and d).
+Another method involved scattering the same type of burnt
+dung powder onto a sticky tape, pressing a second piece of tape
+onto it (sandwiching the powder in between), and then ripping
+them apart (black SEM discs were tried and also proprietary decorators’ edging tape which has a weaker glue). No systematic
+variation with temperature or tape-type was found, but this
+approach generally produced signiﬁcantly larger numbers of
+spherulites with the structure displayed (Fig. 13 a - f).
+Uncovering and morphological exposure of spherulite structure
+was only achievable by these destructive preparation approaches
+followed by examination of the debris.
+
+M.G. Canti, C. Nicosia / Journal of Archaeological Science 89 (2018) 32e45
+
+39
+
+Fig. 10. X ray diffraction results from the dung powder (A) unheated and (B) heated to 700  C for 6 h. Calcite and quartz are the main constituents in both cases, with additional
+peaks probably from incidental materials ingested by the animals - aluminium phosphate (21.5 in A) and carbonate hydroxylapatite (31.9 in B). A likely candidate for the small peak
+at 27.6 in A has not been found.
+
+The techniques failed when tried on unheated spherulites,
+presumably as a result of protection by the coating, so we still have
+no SEM image of the unheated internal structure.
+In order to identify a darkened spherulite, we had to rely on the
+size and morphology of the product, rather than being able to take a
+proven dark spherulite through from polarised light to the electron
+beam. Eventually, using one of our highest-yielding experimental
+residues (600  C for 8 h) pulled apart with tapes, a few examples
+were found with the enlarged and expanded structures which we
+
+believe to be darkened spherulites (Fig. 14).
+
+4. Discussion
+There is a distinct expansion morphology displayed in examples
+(a) to (e) on Fig. 14. The densely packed radial structure visible in
+the normal-size spherulites on Figs. 12 and 13 is replaced by a
+layout in which seemingly individual radial crystals (or aligned
+groups of crystals) can be seen as independent bodies with tiny
+
+40
+
+M.G. Canti, C. Nicosia / Journal of Archaeological Science 89 (2018) 32e45
+
+Fig. 11. Typical spherulites as they appear under SEM if no mechanical or chemical preparation is carried out to disrupt the coating. All heated at 650 for 1 h. Scale bars are 5 mm.
+
+spaces between them. At the same time, the overall sphere has
+been fractured by the expansion process (see especially 14(a), but
+also to a lesser extent (b), (c) and (d)) and whole segments of it are
+dislocated from their original position while still retaining
+approximately the original radial layout. This dislocation may
+explain the lobes and other distortions visible in a small percentage
+of darkened spherulites (see Fig. 3 and associated discussion).
+4.1. What is causing the expansion?
+Calcite heated to the types of temperatures quoted in this paper
+has a moderate coefﬁcient of thermal expansion along the c axis of
+around 25  106/ C (Chessin et al., 1965; Rao et al., 1968). This
+would lead to about 1.0e1.5% length increase for each crystal,
+which would certainly have an impact on the dense spherulitic
+structure and would likely be irreversible on cooling if crystals
+were forced to move relative to each other. However, it could only
+account for a small proportion of the effect seen in our experiments.
+The expansion from ‘unheated’ to ‘heated & not darkened’ on
+Fig. 9 appears to leave the spherulites unchanged in all respects
+except size. It could thus be interpreted as the ﬁrst stage in a
+gradual progression towards the even greater expansion inherent
+in the darkening phase. However, assuming no destruction occurs
+after darkening, this progression would imply the production of
+more and more darkened spherulites as heating continues, and we
+did not ﬁnd this to be the case. More likely, therefore, is that some
+spherulites expand but never darken, whilst others proceed on to
+darkening; both groups stopping at their respective end points,
+regardless of further heating. It may be that the smaller spherulites
+
+are the ones that expand a little but stay undarkened and the larger
+ones expand more dramatically, undergoing both distortion and
+darkening. However, this cannot be deduced from the curves alone
+and proving it would require additional experimentation.
+The greater expansion, associated with darkening (see very
+large spherulites on Fig. 14) entails the apparent development of
+individual crystal units. This could result from the burning out of an
+organic matrix. In addition, heating could result in pitting and
+fracturing due to water-loss in a similar way to the changes found in
+biogenic carbonates by Gaffey et al. (1991). Such processes might
+also lead to some displacement if the combustion gases were
+trapped, causing the intercrystalline spaces to expand.
+Crystal re-arrangement could also be occurring as a result of
+early stages in the calcination process. We can see from Fig. 4 that
+spherulites burnt at 600  C would be turning into CaO if the gases
+were freely exchanging with the atmosphere. They must, therefore,
+be close to this point in the tube-burnt examples and would be
+starting to undergo the complex changes that govern its dynamics.
+The dissociation temperature of CaCO3 is strongly related to the
+concentration of CO2 (Boynton, 1980, Fig 6.2) and a number of authors have recorded the expansion and decrepitation of either
+calcite crystals or limestone under various conditions in laboratory
+studies or real-life lime manufacture (Boynton, 1980, 163e164; see
+also Stanmore and Gilot, 2005).
+The larger scale fracturing of the overall sphere can be seen as
+resulting from major stresses set up by the processes discussed
+above and leading to a variety of crack morphologies. However, the
+destructive sample preparation methodology unfortunately limits
+the deductions possible from these photographs.
+
+M.G. Canti, C. Nicosia / Journal of Archaeological Science 89 (2018) 32e45
+
+41
+
+Fig. 12. Examples of spherulite structure revealed by the scalpel chopping method (see text). a) Group of whole and fragmented spherulites. b) and c) Enlargements of structures
+from a). d) and e) Broken or cut spherulites showing radial structure. f) Whole dumbbell. a) to d) were heated at 550  C for 3 days; e) and f) were 400  C for 3 days.
+
+4.2. What is causing the darkening?
+Following J.E. Brochier’s (1996) suggestion, and the success of
+our tube burning methodology, we assumed that the darkening of
+the spherulites was due to charring of organic matter in the matrix
+of the spherulite. It follows that, if enlarged darkened spherulites
+were re-heated for long enough in fully oxidising conditions, it
+should be possible to burn away all the darkened organic matter
+and leave an enlarged clear spherulite. This would need to be carried out at a temperature high enough to induce complete oxidation of the organic matter, but low enough not to cause the
+transformation to CaO and breakdown of the spherulite structure. A
+range of temperatures and heating times are recommended in the
+literature for the measurement of organic matter by loss-onignition (e.g. 375  C for 16 h (Ball, 1964); 430  C for 24 h (Davies,
+
+1974); 500 for 16 h (Rowell, 1994)). Since loss-on-ignition consists essentially of the removal of organic matter, it was relatively
+simple to use the fence diagram in Fig. 4 to choose a suitable
+temperature. Erring on the side of caution, we chose to oxidise at
+500  C. Our aim was to completely destroy the organic matter, and
+at 500  C there was no risk of transformation to CaO, even with very
+long burns.
+A small quantity of the material previously tube-heated at
+600  C for 7 h (24.7% darkened; see Table 1) was spread thinly on a
+slide and heated to 500  C for various durations. After cooling, the
+powder was gently wetted with a refractive liquid to see if enlarged
+but clear spherulites were present. None could be found, and even
+with further exhaustive heating carried out up to 15 days duration
+there were still large numbers of darkened spherulites present
+(Fig. 15).
+
+42
+
+M.G. Canti, C. Nicosia / Journal of Archaeological Science 89 (2018) 32e45
+
+Fig. 13. SEM views of spherulites from dung powder heated at 650  C for 3 h, and pulled apart by tapes. It seems likely that a) to d) are upturned halves of pulled dumbbells as
+shown more clearly in e) and f).
+
+Although this result shows some reduction in the numbers of
+darkened spherulites after long periods of heating, it prompted us
+to question whether organic matter might not be the only cause of
+darkening. It is hard to believe that such organic material could be
+so deeply embedded between calcite crystals that it failed to oxidise even after 15 days of heating.
+An alternative might be that spherulite darkening partly results
+from compound relief (Canti, 2003) produced by the microscale
+crystal separation which can clearly be seen on the enlarged examples in Fig. 14. The expansion process has led to the creation of
+numerous tiny crystal edges, each of which would have a bold
+outline (relief) in transmitted light. Stacked up to a thickness of
+10e20 mm, the overall effect would be to strongly opacify the
+spherulite, whilst retaining the fundamental crystal layout which
+
+can still be seen under XPL if the light source intensity is maximised. Fig. 16 attempts to simulate this effect by taking the front
+face of the spherulite fragment in Fig. 14c and drawing outlines
+round the crystal edges to represent the pattern of relief. Successive
+smaller and smaller versions of this pattern are then overlaid to
+represent similar faces as they would occur back through the
+thickness of the spherulite. Opacity develops in just a few iterations, depending on the thickness and darkness of the relief, and
+the degree of offset inherent in each overlay positioning.
+
+5. Summary and conclusion
+Our experimentation has produced a number of clear results.
+
+M.G. Canti, C. Nicosia / Journal of Archaeological Science 89 (2018) 32e45
+
+43
+
+Fig. 14. SEM views of spherulites from dung powder heated at 600  C for 8 h, and pulled apart by tapes. a) to d) Based on morphology and size, these are believed to be expanded
+darkened spherulites. e) Shows expanded structure on a medium sized spherulite. f) Probable covered expanded spherulite.
+
+1) Darkened spherulites are produced by heating of fresh dung. If
+whole pellets or other dung aggregates are burnt, patchy concentrations or complete destruction can occur in the same
+experiment due to unpredictable burn characteristics.
+2) Darkening occurs where the combustion gases are constrained
+and temperatures are within a range between 500 and 700  C,
+with a maximum production at around 600  C. Darkened
+spherulites may well commonly exist for a short time, but they
+will only be preserved if the ﬁre is extinguished before they get
+too hot.
+3) Only very small numbers of spherulites are darkened if the
+combustion gases are free to exchange with the air.
+4) Repeatable production in the laboratory can be achieved by
+heating in a blocked tube, i.e. constraining the gaseous products.
+
+This suggests that reduction may be part of what is causing the
+darkening and that the same effect is simply localised in some
+parts of the whole pellet burns (see point 1). The maximum
+number darkened in the blocked tube was around 26% from
+burning at 600  C for 6 h. Longer heating periods did not increase the darkened spherulite percentage.
+5) Most spherulites undergo expansion on heating at 600  C. Some
+expand a smaller amount without changing their optical characteristics, whilst others expand more, also darkening and
+frequently becoming distorted, with the development of distinct
+lobes.
+6) Individual darkened spherulites cannot be identiﬁed in transmitted light then examined under SEM due to the continued
+presence external coatings. However, after destructive
+
+44
+
+M.G. Canti, C. Nicosia / Journal of Archaeological Science 89 (2018) 32e45
+
+Fig. 15. Darkened spherulite percentages recorded after spreading out and re-heating at 500  C for extended time periods (48, 115, 266, 337 and 434 h). A blind test carried out on
+the counting methodology showed it to be accurate to ± 1.5%.
+
+Fig. 16. Diagram to illustrate how compound relief would opacify the fragment of expanded spherulite shown in Fig. 14c. (a) outlines drawn on the crystal edges. (b), (c) and (d) crystal
+outlines successively reduced in size, representing similar crystal planes back through the thickness of the spherulite. If 10 iterations are overlaid, the result is nearly opaque (e).
+
+preparation methods, the expanded remains of burnt spherulites can be seen. Their size and morphology suggest a process
+involving organic matter burn out and/or crystal rearrangement which leaves the fundamental radial structure
+intact. Dislocation of sphere segments appears to account for the
+distortion features seen on some of the large darkened
+spherulites.
+7) The darkening itself is unlikely to be entirely due to organic
+matter, as very long oxidative heating does not remove it. We
+suggest that it is also the result of the compound relief produced
+by multiple crystal edges inside the expanded spherulite.
+Darkened spherulites are not going to be rendered transparent
+over time by oxidation, and therefore enlarged clear ones will
+not be found.
+8) Darkened spherulites are likely to be very delicate due to the
+expansion process. They will be easily destroyed by mechanical
+processes and dark segments should then be visible.
+Although many of the details are still to be understood, ﬁnding
+darkened spherulites in archaeological stratigraphy can now be
+conﬁdently interpreted as resulting from dung being heated in
+conditions of limited gaseous exchange in, around or beneath a ﬁre
+which is then not heated again beyond ca. 700  C. Such situations
+would probably occur around any ﬁre where fresh dung is being
+burned or where the existing stratigraphy has a dung component.
+Since they are still calcite, preservation will be (as with normal
+spherulites) pH and moisture dependent, the main occurrence
+being in caves and rockshelters. Darkened spherulites could also
+occur in household contexts, where the additional information
+about burning conditions could assist in the deductions concerning
+cooking and other domestic activities involving dung usage.
+
+In all our experimental work, we generally found no more than
+about 30% of the spherulites became darkened. However, archaeological samples with greater percentages have been found. More
+than 50% of the spherulites appear to be darkened in part of the
+bal rock shelter, Northern Spain
+Chalcolithic sequence at San Cristo
+(Polo-Díaz et al., 2016, Fig. 6b and c) and up to 70% in the central
+phosphatised feature in Plate 2f of Polo-Díaz (2010), from nearby
+Los Husos II.
+The reason for this discrepancy is not known, but an interesting
+possibility for further research would be to determine whether the
+degree of reduction plays a part in the darkening process. We only
+promoted reduction by partially blocking the gaseous exchange,
+and a more complete experiment could, for example, burn the
+spherulites in pure CO2 to see if it increased the numbers expanded
+or the numbers darkened or both.
+Also, the age of the fresh dung could be signiﬁcant. Moisture
+content changes will occur in storage, which could affect the organic
+component of the spherulites and play a part in determining how
+many will undergo the darkening process when heated.
+Acknowledgements
+Thanks to Ana Polo Díaz, Ruth Shahack-Gross, Hans Huisman,
+Jacques Brochier and members of the 2016 Brno working group for
+useful discussions; to Sarah Paynter and David Dungworth (both of
+Historic England) for the XRD analyses, and help with SEM
+respectively. Part of this research was funded by a 'Royal Society
+Prize' awarded in 2013 to C. Nicosia by the 'Accademia Nazionale
+dei Lincei' (Rome). Dr. C. Bressan is thanked for allowing the
+collection of samples from 'Archeopercorso Bostel di Rotzo'
+archaeological park (Italy).
+
+M.G. Canti, C. Nicosia / Journal of Archaeological Science 89 (2018) 32e45
+
+References
+s, J., 2009. Shepherds
+Angelucci, D., Boschian, G., Fontanals, M., Pedrotti, A., Verge
+and karst: the use of caves and rock-shelters in the mediterranean region
+during the neolithic. World Archaeol. 41, 191e214.
+Badalyan, R.S., Harutyunyan, A.A., Chataigner, C., Le Mort, F., Chabot, J., Brochier, J.,
+Balasescu, A., Radu, V., Hovsepyan, R., 2010. The settlement of AknashenKhatunarkh, a Neolithic site in the Ararat plain (Armenia): excavation results
+2004-2009. TÜBA-AR (Turkish Acad. Sci. J. Archaeol. 13, 185e218.
+Ball, D.F., 1964. Loss-on-ignition as an estimate of organic matter and organic carbon in non-calcareous soils. J. Soil Sci. 15, 84e92.
+Beck, R., Andreassen, J.-P., 2010. The onset of spherulitic growth in crystallization of
+calcium carbonate. J. Cryst. Growth 312, 2226e2238.
+Boynton, R.S., 1980. Theory of calcination. Chapter 6 in Chemistry and Technology of
+Lime and Limestone. Wiley Interscience Publication, Chichester, pp. 159e191.
+ 1983. Combustions et parcage des herbivores domestiques. Le point de
+Brochier, J.E.,
+dimentologue. Bull. la Socie
+te
+ Pre
+historique Française 80, 143e145.
+vue du se
+ 1984. Etude
+
+ologique du site chasse
+en de Malvoisin a
+ Orgon
+Brochier, J.E.,
+ge
+^ ne). Bull. Muse
+e d'histoire Nat. Marseille 44, 19e27.
+(Bouches-du-Rho
+ 1993. Çayo
+€ nü Tepesi. Domestication, rythmes et environment au
+Brochier, J.E.,
+orient 19, 39e49.
+PPNB. Pale
+ 1996. Feuilles ou fumier? Observations sur le ro
+^le des poussie
+res
+Brochier, J.E.,
+rolithiques dans l'interpre
+tation des de
+po
+^ts arche
+ologiques holoce
+nes.
+sphe
+Anthropozoologica 24, 19e30.
+ 2002. Les se
+diments anthropiques. Me
+thodes d’e
+tude et perspectives.
+Brochier, J.E.,
+ologie de la Pre
+histoire: me
+thodes, techniques,
+In: Miskovsky, J.-C. (Ed.), Ge
+opre
+e
+ditions, Paris, pp. 453e477.
+applications. Ge
+ Villa, P., Giacomarra, M., 1992. Shepherds and sediments : geoBrochier, J.E.,
+ethnoarchaeology of pastoral sites. J. Anthropol. Archaeol. 11, 47e102.
+ sito, I., Rodriguez, A., Allue
+, E., Euba, I., Verges, J.M.,
+Cabanes, D., Burjachs, F., Expo
+2007. Formation processes through archaeobotanical remains: the case of the
+Bronze Age levels in El Mirador cave, Sierra de Atapuerca, Spain. Quat. Int. 193,
+160e173.
+Canti, M.G., 1997. An investigation of microscopic calcareous spherulites from
+herbivore dung. J. Archaeol. Sci. 27, 219e231.
+Canti, M.G., 1998. The micromorphological identiﬁcation of faecal spherulites from
+archaeological and modern materials. J. Archaeol. Sci. 25, 435e444.
+Canti, M.G., 2003. Aspects of the chemical and microscopic characteristics of plant
+ashes found in archaeological soils. Catena 54, 339e361.
+Canti, M.G., 1999. The production and preservation of faecal spherulites: animals,
+environment and taphonomy. J. Archaeol. Sci. 26, 251e258.
+ 2017. Faecal spherulites. In: Nicosia, C., Stoops, G. (Eds.),
+Canti, M.G., Brochier, J.E.,
+Archaeological Soil and Sediment Micromorphology. John Wiley & Sons Ltd.,
+pp. 51e54
+ Cuny, A.,
+Castel, C., Archambault, D., Awad, N., Barge, O., Boudier, T., Brochier, J.E.,
+ 2008.
+Gondet, S., Herveux, L., Isnard, F., Martin, L., Quenet, P., Sanz, S., Vila, E.,
+liminaire sur les activite
+s de la mission arche
+ologique franco syriRapport pre
+gion d'Al_Rawda (Shamiyeh): quatrie
+me et cinquie
+me
+enne dans la micro_re
+campagnes (2005 et 2006). Akkadica 129, 5e54.
+Chen, S.-F., Yu, S.-H., Jiang, J., Li, F., Liu, Y., 2006. Polymorph discrimination of CaCO3
+mineral in an ethanol/water solution: formation of complex vaterite superstructures and aragonite rods. Chem. Mater. 18, 115e122.
+Chessin, H., Hamilton, W.C., Post, B., 1965. Position and thermal parameters of oxygen atoms in calcite. Acta Crystallogr. 18, 689e693.
+Coil, J., Korstanje, M.A., Archer, S., Hastorf, C.A., 2003. Laboratory goals and considerations for multiple microfossil extraction in archaeology. J. Archaeol. Sci.
+30, 991e1008.
+Cremaschi, M., Trombino, L., 1999. A micromorphological approach to the site formation processes. In: di Lernia, S. (Ed.), The Uan Afuda Cave. Edizioni all'insegna
+del Giglio, pp. 27e38.
+Davies, B.E., 1974. Loss-on-ignition as an estimate of soil organic matter. Soil Sci.
+Soc. Am. Proc. 38, 150e151.
+Elliott, S., Bendrey, R., Whitlam, J., Aziz, K.R., Evans, J., 2015. Preliminary ethnoarchaeological research on modern animal husbandry in Bestansur, Iraqi
+Kurdistan: integrating animal, plant and environmental data. Environ. Archaeol.
+20, 283e303.
+Friesem, D.E., 2016. Geo-ethnoarchaeology in action. J. Archaeol. Sci. 70, 145e157.
+Gaffey, S.J., Kolak, J.J., Bronnimann, C.E., 1991. Effects of drying, heating, annealing,
+and roasting on carbonate skeletal material,with geochemical and diagenetic
+implications. Geochim. Cosmochim. Acta 55, 1627e1640.
+Gur-Arieh, S., Mintz, E., Boaretto, E., Shahack-Gross, R., 2013. An ethnoarchaeological study of cooking installations in rural Uzbekistan: development
+of a new method for identiﬁcation of fuel sources. J. Archaeol. Sci. 40,
+4331e4347.
+
+45
+
+Gur-Arieh, S., Shahack-Gross, R., Maeir, A.M., Lehmann, G., Hitchcock, L.A.,
+Boaretto, E., 2014. The taphonomy and preservation of wood and dung ashes
+found in archaeological cooking installations: case studies from Bronze and iron
+age Israel. J. Archaeol. Sci. 46, 50e67.
+Hartshorne, N.H., Stuart, A., 1970. Crystals and the Polarising Microscope. Edward
+Arnold, London.
+Hutter, J.-L., Bechhoefer, J., 2000. Banded spherulitic growth in a liquid crystal.
+J. Cryst. Growth 217, 332e343.
+Iaconis, M.A., Boschian, G., 2007. Geoarchaeology of the deposits of Grotta dei
+Piccioni and Grotta Sant'Angelo (Abruzzo, Central Italy), Atti della Societa
+Toscana di Scienze Naturali. Mem. Ser. A 112, 181e188.
+Karkanas, P., 2006. Late Neolithic household activities in marginal areas: the
+micromorphological evidence from the Kouveleiki caves, Peloponnese, Greece.
+J. Archaeol. Sci. 33, 1628e1641.
+Keith, H.D., Padden Jr., F.J., 1963. A phenomenological theory of spherulitic crystallization. J. Appl. Phys. 34, 2409e2421.
+Keller, 1958. Morphology of crystalline polymers. In: Doremus, R.H., Roberts, B.W.,
+Turnbull, D. (Eds.), Growth and Perfection of Crystals. Proceedings of an International Conference on Crystal Growth Held at Cooperstown, New York, 27e29
+August 1958. Chapman & Hall, London.
+Keller, A., Waring, J.R.S., 1955. The spherulitic structure of crystalline polymers. Part
+III. Geometrical factors in spherulitic growth and the ﬁne structure. J. Polym. Sci.
+17, 447e472.
+Korstanje, M.A., 2002. Microfossils in Camelid dung: taphonomic considerations for
+archaeological study of agriculture and pastoralism. In: O'Connor, T. (Ed.),
+Biosphere and Lithosphere. 9th ICAZ Conference, Durham, pp. 69e77.
+Matthews, W., French, C.A.I., Lawrence, T., Cutler, D.F., 1996. Multiple surfaces; the
+€yük Excavations
+micromorphology. In: Hodder, I. (Ed.), On the Surface - Çatalho
+1993-1995. McDonald Institute for Archaeological Research and British Institute
+of Archaeology at Ankara, Cambridge, pp. 301e342, 1996.
+Matthews, W., Postgate, J.N., 1994. The imprint of living in an early Mesopotamian
+city. In: Luff, R., Rowley-Conwy, P. (Eds.), Whither Environmental Archaeology?
+Oxbow Books, Oxford, pp. 171e212. Oxbow Monograph 38.
+Morse, H.W., Donnay, J.D.H., 1936. Optics and structure of three dimensional
+spherulites. Am. Mineral. 21, 391e426.
+Murphy, C.P., 1986. Thin Section Preparation of Soils and Sediments. AB Academic
+Publishers, Berkhamsted.
+ricos y uso del espacio en abrigos bajo roca en la
+Polo Díaz, A., 2010. Rediles prehisto
+n durante el
+Cuenca Alta del Ebro: geoarqueología y procesos de formacio
+Holoceno. Unpublished PhD thesis. Universidad del Pais Vasco (UPV/EHU).
+Polo Díaz, A., Martínez-Moreno, J., Benito-Calvo, A., Mora, R., 2014. Prehistoric
+herding facilities: site formation processes and archaeological dynamics in Cova
+Gran de Santa Linya (Southeastern Prepyrenees, Iberia). J. Archaeol. Sci. 41,
+784e800.
+rez, S., Mújika, J., Albert, R.M.,
+Polo-Díaz, A., Alonso Eguíluz, M., Ruiz, M., Pe
+Fern
+andez Eraso, J., 2016. Management of residues and natural resources at San
+Cristobal rock-shelter: contribution to the characterisation of chalcolithic
+agropastoral groups in the Iberian Peninsula. Quat. Int. 414, 204e225.
+Portillo, M., Albert, R.M., 2011. Husbandry practices and livestock dung at the
+de
+ina, Kef Governorate, northern Tunisia):
+Numidian site of Althiburos (el Me
+the phytolith and spherulite evidence. J. Archaeol. Sci. 38, 3224e3233.
+Portillo, M., Kadowaki, S., Nishiaki, Y., Albert, R.M., 2014. Early Neolithic household
+behavior at Tell Seker al-Aheimar (Upper Khabur, Syria): a comparison to
+ethnoarchaeological study of phytoliths and dung spherulites. J. Archaeol. Sci.
+42, 107e118.
+Portillo, M., Carme Belarte, M., Ramon, J., Kallala, N., Sanmartí, J., Albert, R.M., 2017.
+An ethnoarchaeological study of livestock dung fuels from cooking installations
+in northern Tunisia. Quat. Int. 431, 131e144.
+Rao, K.V.K., Naidu, S.V.N., Murthy, K.S., 1968. Precision lattice parameters and
+thermal expansion of calcite. J. Phys. Chem. Solids 29, 245e248.
+Rowell, D., 1994. Soil Science Methods and Applications. Longman, Harlow.
+Shahack-Gross, R., 2011. Herbivorous livestock dung: formation, taphonomy,
+methods for identiﬁcation and archaeological signiﬁcance. J. Archaeol. Sci. 38,
+205e218.
+Shahack-Gross, R., Marshall, F., Weiner, S., 2003. Geo-ethnoarchaeology of pastoral
+sites: the identiﬁcation of livestock enclosures in abandoned Maasai settlements. J. Archaeol. Sci. 30, 439e459.
+Shahack-Gross, R., Boaretto, E., Cabanes, D., Katz, O., Finkelstein, I., 2014. Subsistence economy in the negev highlands: the iron age and the byzantine/early
+islamic period. Levant 46, 98e117.
+Stanmore, B.R., Gilot, P., 2005. Reviewdcalcination and carbonation of limestone
+during thermal cycling for CO2 sequestration. Fuel Process. Technol. 86,
+1707e1743.
+
+

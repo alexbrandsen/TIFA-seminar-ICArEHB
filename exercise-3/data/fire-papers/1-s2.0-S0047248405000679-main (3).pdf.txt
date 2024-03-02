@@ -1,0 +1,2410 @@
+Journal of Human Evolution 49 (2005) 316e334
+
+U-series and ESR analyses of bones and teeth
+relating to the human burials from Skhul
+Rainer Grün a,b,*, Chris Stringer c, Frank McDermott d, Roger Nathan e,
+Naomi Porat f, Steve Robertson a, Lois Taylor a, Graham Mortimer a,
+Stephen Eggins a, Malcolm McCulloch a
+a
+
+Research School of Earth Sciences, The Australian National University, Canberra, ACT 0200, Australia
+Research Paciﬁc and Asian Studies, The Australian National University, Canberra, ACT 0200, Australia
+c
+Natural History Museum, London SW7 5BD, UK
+d
+Dept. of Geology, University College, Belﬁeld, Dublin 4, Ireland
+e
+Research Laboratory for Archaeology and the History of Art, Oxford University, Oxford OX1 3QJ, UK
+f
+Luminescence Dating Lab, Geological Survey of Israel, Jerusalem 95501, Israel
+
+b
+
+Received 17 December 2004; accepted 20 April 2005
+
+Abstract
+In order to resolve long-standing issues surrounding the age of the Skhul early modern humans, new analyses have
+been conducted, including the dating of four well-provenanced fossils by ESR and U-series. If the Skhul burials took
+place within a relatively short time span, then the best age estimate lies between 100 and 135 ka. This result agrees very
+well with TL ages obtained from burnt ﬂint of 119G18 ka (Mercier et al., 1993). However, we cannot exclude the
+possibility that the material associated with the Skhul IX burial is older than those of Skhul II and Skhul V. These and
+other recent age estimates suggest that the three burial sites, Skhul, Qafzeh and Tabun are broadly contemporaneous,
+falling within the time range of 100 to 130 ka. The presence of early representatives of both early modern humans and
+Neanderthals in the Levant during Marine Isotope Stage 5 inevitably complicates attempts at segregating these
+populations by date or archaeological association. Nevertheless, it does appear that the oldest known symbolic burials
+are those of early modern humans at Skhul and Qafzeh. This supports the view that, despite the associated Middle
+Palaeolithic technology, elements of modern human behaviour were represented at Skhul and Qafzeh prior to 100 ka.
+Ó 2005 Elsevier Ltd. All rights reserved.
+Keywords: Skhul; Skhul II; Skhul V; Skhul IX; Early modern humans; ESR dating; U-series dating
+
+* Corresponding author.
+E-mail address: rainer.grun@anu.edu.au (R. Grün).
+0047-2484/$ - see front matter Ó 2005 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jhevol.2005.04.006
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+Introduction
+The site of Es Skhul is located at Mount
+Carmel, South of Haifa, in the canyon of Nahal
+Mearot, a few hundred metres away from the
+Neanderthal site of Tabun. Figure 1 shows a site
+sketch and the projected positions of the human
+fossils, Skhul I to IX, in the horizontal plan as well
+as in a north-south and east-west cross sections.
+From the positioning of the bones there seems
+little doubt that most of the humans were buried
+intentionally. Until the completion of the 1932
+excavations (Garrod and Bate, 1937), the human
+fossils were considered to represent eight diﬀerent
+individuals since it was thought that specimens II
+and III belonged to the same individual (McCown,
+
+317
+
+1937). An additional specimen, a mandible of
+a child, was found later in the laboratory when
+developing a larger sediment block that contained
+the remains of VII.
+The site was subdivided into three main layers
+(McCown, 1937; McCown and Keith, 1939):
+Layer A (20 to 50 cm thick) contained a mixture
+of Natuﬁan, Aurignacian and Mousterian stone
+tools, Layer B (about 200 cm thick and bearing all
+the human remains) Mousterian stone tools, and
+Layer C (shallow sandy deposits at the base of the
+sedimentary sequence) yielded only a sparse lithic
+industry and no faunal remains.
+Layer B was subdivided into two phases mainly
+distinguished by their hardness. The upper hard
+earth unit B1 resembled plaster of Paris, whereas the
+
+Fig. 1. Position of the human burial sites at Skhul (after Plate L of Garrod and Bate, 1937). Top: horizontal plan below: north-south
+and east-west cross sections. Note that the positions are projections into the respective planes.
+
+318
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+lower breccia B2 was similar to concrete. McCown
+(1937) observed that layer B was remarkably free
+from broken rocks and small stones and that ﬂints
+and bones were scattered in an even manner
+throughout layers B1 and B2. The ﬂints, which
+showed thermal pitting and discoloration by ﬁre,
+were almost always patinated in Layer B1 whilst in
+B2 the artifacts were usually unpatinated. For none
+of the burials could it be established from which
+level they were inserted into the deeper sediments.
+The lithics of Skhul Layers B have been
+compared with those of Tabun C and Qafzeh
+(Garrod and Bate, 1937; Bar-Yosef and Meignen,
+1992), while the macro-faunal remains in Layer B
+appeared to correspond with those of Tabun C to
+D (Bate, 1937).
+Skhul has been the subject of detailed dating
+studies yielding closed system ESR ages on faunal
+teeth in the range of about 55 to 100 ka (Stringer
+et al., 1989) and 46 to 88 ka (McDermott et al.,
+1993), U-series ages on faunal teeth in the range of
+43 to 80 ka (McDermott et al., 1993) and TL on
+burnt ﬂint in the range of about 99 to 134 ka
+(Mercier et al., 1993). Because the human remains
+were apparently intentionally buried, their precise
+relationships with the surrounding sediments are
+unclear - burial may have taken place from today’s
+surface, from level A, or from within level B. Thus,
+the age of the human remains is still subject to
+discussion. In a recent paper (Grün and Stringer,
+2000), we presented our results on an ESR and
+U-series study of a tooth from the Tabun Neanderthal skeleton C1 which, in our opinion, demonstrated that this skeleton was buried from Level B
+into Level C and is thus considerably older
+(122G16 ka) than a recent gamma spectrometric
+analysis of bones had suggested (%40 ka:
+Schwarcz et al., 1998).
+Apart from the problems introduced by intrusive
+burial, many of the ﬁnds from McCown and
+Garrod’s excavations have no coordinates or layer
+assignments. Thus, their exact provenance and
+relationship to the human remains are generally
+unknown, and this unfortunately applies to the
+faunal samples 521, 522, and 851 to 856 presented in
+this paper. In order to circumvent the stratigraphic
+uncertainties surrounding the age of the Skhul
+human remains, we pursued the strategy of ana-
+
+lysing four specimens that were more precisely
+provenanced. First, we directly analysed a molar
+from the Skhul II individual, and second, bone
+fragments from Skhul IX. Two of the Skhul burials,
+V and IX, contained associated mammal bones,
+which were also analysed. Skhul II was found at
+a depth of 1.40 m below the surface in partly
+hardened earth and consisted of ‘‘..about two
+dozen pieces of skull, ten very worn teeth and
+a symphyseal part of the mandible bearing the sockets
+of the incisor, canine, pre-molar, and the ﬁrst molar
+teeth’’ (McCown (1937). Sample 1057 is a tooth
+from a bovid skull directly associated with Skhul IX
+(Fig. 2A). It was found in the hardest breccia of the
+site at a depth of 2.15 m below the surface and its
+inferior surface nearly touched the rock. McCown
+(1937) reported ‘‘The ninth.had been buried 0.90 m
+south of No. V but 65 cm deeper in the deposit.The
+bones lay very nearly upon the rock ﬂoor.A few cm
+north of the broken..end of the femur was a large
+mass of badly crushed bone.the nearly complete.
+skull of a large bovid..The hole made to receive this
+ox skull destroyed not only the legs but most of the
+skeleton as well. The ox skull..must certainly be
+regarded as a later intrusion’’. The exact nature of
+the association of this specimen with the Skhul IX
+burial, and any symbolic signiﬁcance it may have
+had, is therefore uncertain. It may have been of
+greater age, and merely replaced in the grave ﬁll, or
+it may have been inserted, with or without symbolic
+purpose, after the time of burial.
+Finally, sample 1058 is a tooth from a pig
+mandible that was found with the remains of
+Skhul V (see Fig. 2B). The burial was located in
+hard matrix at a depth of 1.25 m below the surface,
+a few cm above the rock ﬂoor. McCown (1937)
+remarked ‘‘In the angle formed by the left forearm
+and right humerus was the mandible of a very large
+pig..There can be no doubt, from its position, and
+from the fact that the left forearm rests upon the
+broken, hinder ends of the mandible, that its
+inclusion in the grave was deliberate.’’ This
+specimen, the lower jaw of a large boar, is by far
+the best-preserved large mammal fossil from
+Skhul, presumably because it was intentionally
+buried with the human body. Drawings and
+photographs of the excavated skeleton conﬁrm
+that it was originally enclosed in the arms of the
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+319
+
+Fig. 2. Relationship of the pig mandible and bovid skull to the Skhul V and IX burials, respectively. Plates LII and LIII from
+‘‘Mugharet Es-Skhul - Description and excavations from ‘‘The Stone Age of Mount Carmel, Volume 1: Excavations at the Wady ElMughara’’ edited by Garrod, D. A. and Bate, D. M. A. (1937). By permission of Oxford University Press (URL www.oup.com).
+
+corpse, with the strong inference of symbolic
+intent. The signiﬁcance of this discovery cannot
+be overestimated as the only other claimed
+symbolic burial of comparable antiquity is that
+
+of the Qafzeh adolescent, apparently buried
+clasping fallow deer antlers (Vandermeersch,
+1970). A more recent study also established the
+use of Ochre at Qafzeh (Hovers et al., 2003). Some
+
+320
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+workers have suggested that the Levantine early
+modern humans should not really be termed
+‘‘modern’’ at all because they lacked symbolic
+behaviour (Klein, 2000). Therefore, establishing
+the age of the Skhul V burial and its symbolic
+association is particularly important.
+
+Experimental Procedures and Results
+For this study, we have carried out TIMS
+U-series dating of faunal material, dentine of
+Skhul II and a bone surface sample of Skhul IX;
+and gamma spectrometric U-series dating on ﬁve
+smaller bone fragments of Skhul IX. Additional
+faunal material, as well as an M3 enamel fragment
+of Skhul II, was analysed by ESR.
+TIMS U-Series Dating
+Thermal ionisation mass spectrometric (TIMS)
+U-series analyses of the faunal material followed
+established procedures (McDermott et al., 1993).
+We also analysed a small surface sample (171 mg)
+of one of the Skhul IX bones, as well as the dentine
+of the tooth from Skhul II, following recently
+described procedures (Grün et al., 1999). The
+results are listed in Table 1.
+Gamma Spectrometric U-Series Dating
+Five smaller bone fragments of Skhul IX
+(Fig. 5) were analysed by gamma spectrometric
+
+U-series dating (Simpson and Grün, 1998)). The
+fragments were sealed together into a heavy duty
+plastic bag with most of the air extracted and
+counted for 56 days to ensure reasonable counting
+statistics. The standard was a 80 ppm BL5 powder
+also sealed in a plastic bag. All emission peaks
+were normalised on the 63 keV peak from 238U
+and isotope ratios were calculated with the use of
+the BL5 standard (for more details on the
+mathematical procedures and error propagation,
+see Simpson and Grün (1998)). The results are
+shown in Table 2. The data can be used for open
+system modelling. Concordance is achieved when
+the 230Th/238U - 231Pa/235U data point coincides
+with the target 234U/238U line (bold line in Fig. 6).
+For more details on open system Pa/U-Th/U
+modelling, see Simpson and Grün (1998) and
+Cheng et al. (1998). The concordance diagrams
+(Fig. 6) indicate that the linear U-uptake model
+seems more appropriate than the early U-uptake
+model.
+ESR Dating
+Apart from a few small remnants, all of the
+sediments at Skhul are now removed and it is not
+possible to measure the gamma dose rate in situ.
+We have therefore analysed a series of sediment
+samples (see Table 3). 21 samples were collected
+from larger specimen in the Natural History
+Museum (NHM) and 10 were attached to the teeth.
+The NHM samples yielded average values of 1.9G
+0.8 ppm U, 2.1G1.2 ppm Th and 0.41G0.21 % K
+
+Table 1
+TIMS U-series results (2-s errors)
+Sample
+521 DE
+522 EN
+854 DE
+854 EN
+856 DE1
+856 DE2
+1057 DE1
+1057 DE2
+1058 DE1
+1058 DE2
+SHK II DE
+SKH IX surface
+
+U (ppm)
+7.69
+3.70
+7.92
+0.48
+38.0
+38.0
+5.05
+4.55
+26.1
+27.8
+60.0
+8.67
+
+234
+
+U/238U
+
+1.075 G .001
+1.096 G .001
+1.068 G .001
+1.063 G .003
+1.093 G .001
+1.038 G .007
+1.132 G .004
+1.046 G .002
+1.070 G .002
+1.070 G .002
+1.073 G .003
+1.052 G .002
+
+230
+
+Th/238U
+
+230
+
+Th/232Th
+
+.565 G .002
+.342 G .001
+.339 G .002
+.349 G .002
+.362 G .001
+.356 G .002
+.684 G .004
+.662 G .012
+.341 G .002
+.334 G .002
+.275 G .006
+.742 G .006
+
+299 G 1
+370 G 1
+376 G .l
+64 G 1
+666 G 3
+3000 G 15
+13700 G 90
+4500 G 260
+22000 G 800
+8770 G 40
+12900 G 700
+548 G 5
+
+Age (ka)
+80.3 G .6
+40.4 G .2
+41.4 G .4
+43.0 G .5
+43.5 G .l
+45.5 G .7
+98.3 G 1.9
+107.8 G 3.9
+41.5 G .5
+40.5 G .4
+32.1 G .8
+131 G 2
+
+321
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+Table 2
+Gamma spectrometric results (*Th/U age for average
+Sample
+
+231
+
+235
+
+Pa/
+
+U
+
+SKH IX
+
+234
+
+238
+
+U/
+
+U
+
+(1.12 G .29)
+
+234
+
+U/238U Z 1.073G.025, Table 3, and initial
+230
+
+Th/
+
+and the sediment attached to the teeth yielded
+2.8G0.6 ppm U, 4.2G2.5 ppm Th and 0.62G0.31
+% K. Although there seems a trend of higher
+concentrations of radioactive elements in the
+samples collected from the teeth, the results of
+both data sets are statistically indistinguishable.
+Table 3
+Neutron Activation analysis of sediment samples from Skhul
+U (ppm)
+
+Th (ppm)
+
+K (%)
+
+Sediment samples from NHM
+NHM1
+1.3
+NHM2
+1.7
+NHM3
+1.2
+NHM4
+1.2
+NHM5
+1.8
+NHM6
+1.3
+NHM7
+1.8
+NHM9
+2.7
+NHM10
+2.0
+NHM11
+2.2
+NHM12
+1.5
+NHM13
+1.3
+NHM14
+1.5
+NHM15
+1.8
+NHM16
+4.6
+NHM17
+1.6
+NHM18
+3.4
+NHM19
+1.3
+NHM20
+2.1
+NHM21
+1.5
+Average NHM
+1.9 G 0.8
+
+2.6
+1.9
+1.2
+4.0
+2.3
+2.5
+1.1
+2.2
+1.0
+1.9
+1.2
+2.2
+0.9
+6.1
+1.2
+2.0
+2.5
+1.8
+1.8
+1.8
+2.1 G 1.2
+
+0.57
+0.32
+0.34
+0.77
+0.58
+0.58
+0.27
+0.39
+0.22
+0.39
+0.40
+0.43
+0.19
+1.05
+0.26
+0.23
+0.43
+0.26
+0.35
+0.33
+0.41 G 0.21
+
+Sediment samples attached to fauna
+521
+2.3
+1.3
+522
+3.8
+4.2
+851
+2.9
+9.0
+852
+2.1
+3.4
+853
+3.3
+6.9
+854
+1.9
+3.6
+855
+2.5
+4.6
+856
+2.9
+5.8
+1057
+2.9
+1.2
+1058
+3.6
+1.9
+Average fauna:
+2.8 G 0.6
+4.2 G 2.5
+
+0.27
+0.79
+1.20
+0.51
+0.97
+0.54
+0.63
+0.75
+0.27
+0.27
+0.62 G 0.31
+
+All sediments:
+
+0.48 G 0.26
+
+2.2 G 0.9
+
+2.8 G 2.0
+
+U
+
+.545 G .029
+
+.724 G .027
+
+Sample
+
+238
+
+230
+
+232
+
+Th/
+
+Th
+
+100 G 9
+
+230
+
+Th/232Th Z 1.5)
+
+EU-Age (ka)
+
+LU-Age
+
+75 G 6*
+61 G 5
+
+172 G 16*
+166 G 19
+
+Therefore, the sets were combined to calculate the
+average inﬁnite sediment matrix dose rate. Including a water content of 10G5%, the average
+sediment values of 2.2G0.9 ppm U, 2.8G2.0 ppm Th
+and 0.48G0.26 %K convert to 444G137 mGy/a
+using the dose rate values of Adamiec and Aitken
+(1998). It can reasonably be assumed that the
+sediment adhering to a tooth provides a better
+estimate of the gamma dose rate in the immediate
+surroundings of the specimen (the volume of about
+5 cm around a tooth provides about 25% of the
+external gamma dose rate, but only about 0.5% of
+the mass of the total volume contributing to the
+external gamma dose rate, see e.g. Nathan and
+Grün, 2003). To account for the diﬀerences
+between the individual sediment samples of
+a speciﬁc tooth and the calculated average
+sediment, the individual gamma dose rates for
+the specimens were calculated using a 25% contribution from the attached sediment samples and
+75% from the averaged value. Note that all
+gamma dose rate values remain well within the
+range of the average gamma dose rate of
+444G137 mGy/a. Samples 1057 and 1058 were
+reported to be close to the base rock. The
+limestone has signiﬁcantly lower concentrations
+of radioactive elements and in an earlier study,
+a gamma measurement in the bedrock of Tabun,
+a cave which occurs in the same limestone ridge as
+Skhul, yielded 90 mGy/a. This means that at the
+interface of the sediment with the bedrock, the
+average gamma dose rate is about 267G69 mGy/a
+(50% of the gamma dose rate from each the
+sediment and the bedrock). At distances of 2 cm
+and 5 cm, the average gamma dose rates increase
+to about 356G103 and 409G123 mGy/a, respectively. For the bovid tooth (1057) two cases were
+calculated (i) that it was within 0 and 5 cm of the
+bedrock (starred in the tables and ﬁgures), and
+(ii) that it was more than 5 cm removed. For the
+pig (1058) it is most likely that it was at least 5 cm
+
+322
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+removed from the bed rock (see also projections of
+the burial of Skhul V in Fig. 1). The site is partly
+shielded by the Carmel Mountain ridge between 40
+and 90  which therefore causes part of the cosmic
+dose rate (10-50% of the hard component) to be
+shielded. For an average depth of 1.75G0.25 m
+(see Fig. 1), a cosmic dose rate of 116G17 mGy/a
+was obtained when using the cosmic dose attenuation functions of Prescott and Hutton (1994). For
+the burial samples, the depths reported by
+McCown (1937) were used. Based on the sediment
+analyses, the average external gamma and cosmic
+dose rates total 560G137 mGy/a. As the deposit
+‘‘as a whole was remarkably free from broken rock
+and small stones’’ McCown (1937), a possible
+‘‘lumpy environment’’ (Schwarcz, 1994), i.e. an
+unknown amount of limestone holders inﬂuencing
+the local gamma dose rate, is of ﬂoccinaucical
+signiﬁcance.
+In order to assess whether the calculated
+combined gamma and cosmic dose rates of
+560G137 mGy/a are reasonable, we also carried
+out four gamma spectrometric measurements at
+the site (for locations see Fig. 1; all measurements
+include the cosmic ray contribution and have an
+uncertainty of about 10%). Measurement #1
+(290 mGy/a) was carried out at the deep end of
+the cave in limestone with some breccia; #2
+(360 mGy/a) at the entrance of the cave, just out
+of the overhang, in a similar environment as the
+previous measurement; #3 (625 mGy/a) in reddish
+sediment in a small alcove; and #4 (530 mGy/a) in
+the slope outside the cave which contained 20 cm
+of soil with boulders beneath. It was thought that
+the slope contained a high amount of spoil
+material from the original excavation. Apart from
+the last measurement, which was measured at
+a depth of 15 cm, all measurements had a full 4p
+symmetry. The diﬀerence between measurements
+#1 and #2 is the increased cosmic ray dose rate
+closer to the entrance of the cave. Measurements
+#3 and #4 agree well with the calculations from the
+sediments, particularly when considering the higher
+cosmic ray component in these measurements
+(both measurements are close to the surface and
+#4 is less shielded by the Mount Carmel ridge).
+A question can be raised: how much are the
+samples inﬂuenced by bones close to the tooth
+
+samples (e.g. the bovid skull, the mandible of the
+pig, or other bones in the close vicinity, see Fig. 2)?
+Nathan and Grün (2003) carried out a simulation
+of the external gamma dose rate for a tooth using
+the 3D scan of Skhul V. They showed that
+a human mandible and skull may provide a contribution of up to about 15% to the total external
+gamma dose rate. However, at the same time,
+about 15% of the sediment dose rate is shielded by
+skull, so that the overall eﬀect of the presence of
+the bones is diminished. Using similar computational strategies as Nathan and Grün (2003), it is
+estimated that both the pig mandible and the
+bovid skull may provide between 10 and 15% of
+the external gamma dose rate to samples 1058 and
+1057. The inﬂuence of any larger bones that are
+further away from a sample is signiﬁcantly less
+than this value. In order to estimate the inﬂuence
+of the bones, inﬁnite matrix dose rates were
+calculated for bone types using the most diﬀering
+U-series data of our set: the dentine of Skhul II
+and the surface of Skhul IX. To simplify the
+calculations for a Skhul II type bone, it was
+assumed that all uranium migrated into the tooth
+at a time that is represented by the U-series age
+(see Nathan and Grün, 2003). Figure 3 shows the
+gamma dose rate contributions of Skhul II and
+Skhul IX type bones on samples with a given age.
+The average inﬁnite matrix dose rate of a Skhul IX
+type bone over its age of 131 ka, 453 mGy/a, is
+indistinguishable from the average sediment dose
+rate of 444G137 mGy/a. If a sample was deposited
+later near a Skhul IX type bone, the average
+gamma dose increases because of ingrowth of
+230
+Th. The average gamma dose rate from a Skhul
+II type bone is signiﬁcantly higher for a 32 ka
+sample (1115 mGy/a), but decreases rapidly for
+older samples due to delayed U-migration. Even in
+the most extreme case (here for the last 32 ka),
+a 15% dose rate contribution from a Skhul II type
+bone would have an overall eﬀect of about
+100 mGy/a, but this would decrease rapidly if
+any U-uptake had taken place. For bones older than
+60 ka, any aberrations of the external gamma dose
+ﬁeld through the presence of bones seem minor.
+The mammal teeth were analysed along established procedures (Grün, 1989). The dose value
+and its error were determined by linearisation of
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+(Grün, 2002; Grün et al., 2001). Dose response
+curves were calculated for each angular step, but
+the data sets where the ﬁtting procedure produced
+large residuals (O 40% of the minimum residual)
+were disregarded (Curnoe et al., 2001). A dose
+value of 93.8G7.8 Gy was obtained. The uranium
+concentration of the tooth fragment was determined by laser ablation ICP-MS (Eggins et al.,
+2003). ESR ages were calculated for the early
+U-uptake (EU) and linear U-uptake (LU) models.
+In conventional ESR studies it is often assumed
+that the correct age of a sample lies between the
+EU and LU age estimates. The results of the ESR
+analysis are shown in Table 4, along with further
+analytical information in the footnotes.
+
+Average Gamma Dose Rate (µ Gy/a)
+
+1200
+
+1000
+
+Skhul II
+
+800
+Skhul IX
+
+600
+
+400
+
+323
+
+Sediment
+
+200
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+Combined ESR-U-Series Dating
+
+Age (ka)
+Fig. 3. Average sediment dose rate (mean and standard
+deviation are shown as shaded area) compared to the average
+dose rates from a Skhul II and Skhul IX type bone on a sample
+with a given age. A 15% contribution from a bone would be
+well within the uncertainties of the sediment gamma dose rate.
+
+the dose response curve and Monte Carlo simulation (Grün and Brumby, 1994), the beta dose rates
+by Monte Carlo simulation (Marsh, 1999) and the
+alpha eﬃciency was set to 0.13G0.02 (Grün and
+Katzenberger-Apel, 1994). There is also a need to
+revise the previously published ESR dates for
+Skhul (Stringer et al., 1989), because of various
+advances in the dating technique during the last
+decade (this was summarised recently in the
+reassessment of ESR dates from Border Cave
+(Grün and Beaumont, 2001)).
+The dose of the human tooth was measured by
+removing a small enamel fragment from the tooth,
+following the procedures of Grün (1995) which
+were also used for the dating of other human
+enamel fragments, such as Florisbad (Grün et al.,
+1996), Tabun C1 (Robertson and Grün, 2000;
+Grün and Stringer, 2000), Swartkrans (Curnoe
+et al., 2001) and Border Cave BC5 (Grün et al.,
+2003). The fragment was mounted in an automated
+goniometer and measured after each irradiation in
+10  steps over 360  (rotation relative to the
+external magnetic ﬁeld). The dose response curves
+were constructed using natural spectrum ﬁtting
+
+Both ESR and U-series dating results on faunal
+materials are dependent on the process of Uuptake. The combination of both methods allows
+the determination of the U-uptake history. The USESR uptake model is based on a continuous Uuptake function (Grün and McDermott, 1994),
+whereas the alternative (CSUS-ESR) model assumes that the uranium migrates into the sample at
+a time that corresponds to the apparent closed
+system U-series age (Grün, 2000). The latter model
+provides a maximum possible open system age for
+given ESR and U-series data. Sample 854 shows
+that the U-series results for the dentine and enamel
+are very similar. This was also assumed for the open
+system age calculations for the other teeth, where
+only one U-series analysis, either on enamel or
+dentine, was carried out. The assumption that
+enamel and dentine have the same apparent Useries ages does not introduce a signiﬁcant age
+uncertainty, because the enamel dose rates are
+small compared to the total dose rates. A sensitivity
+test shows that if the apparent U-series ages of the
+enamel were considerably younger than the dentine
+ages (using an age of 0 ka for the enamel), it would
+have no eﬀect on the age calculations of SKII
+(because the U-concentration in enamel is very
+low), and the crucial samples 1057 and 1058 could
+be older by a maximum of about 6 and 3%,
+respectively. This maximum possible eﬀect is well
+within the error range of the results and has no
+
+Table 4
+Results of chemical analysis and ESR age estimates for samples from Skhul
+Sample
+No.
+
+521A
+521B
+521C
+521D
+522A
+522B
+522C
+851A
+851B
+851C
+852A
+852B
+852C
+853A
+853B
+853C
+854A
+854B
+854C
+854D
+854E
+855A
+855B
+855C
+856A
+856B
+856C
+1057A
+1057B
+1057C
+1057A*
+1057B*
+1057C*
+1058A
+1058B
+1058C
+SK II
+
+DE (Gy)
+
+72.3G6.4
+73.8G4.5
+72.4G1.4
+75.2G5.7
+119.8G8.9
+90.0G8.8
+90.7G8.2
+51.7G0.9
+51.7G0.8
+46.8G1.2
+65.3G1.1
+64.2G0.5
+63.1G0.5
+60.2G0.6
+61.0G0.6
+61.9G0.9
+45.0G0.5
+45.8G0.7
+41.5G0.5
+43.8G0.7
+43.2G0.8
+75.5G1.6
+75.8G1.2
+72.2G1.1
+78.7G1.1
+79.3G0.6
+82.4G1.5
+102.0G4.1
+100.6G2.3
+102.6G2.1
+102.0G4.1
+100.6G2.3
+102.6G2.1
+63.7G1.0
+68.9G1.0
+70.5G1.4
+93.8G7.8
+
+U(EN) U(DE) TT S1/S2 SEDIMENT
+EARLY U-UPTAKE
+(ppm) (ppm) (mm) (mm)
+b-D_
+int:D_
+De-D_
+total D_
+U
+Th
+K
+g-D_
+(ppm) (ppm) (%) ðmGy=aÞ ðmGy=aÞ ðmGy=aÞ ðmGy=aÞ ðmGy=aÞ
+
+AGE
+(ka)
+
+int:D_
+De-D_
+total D_
+ðmGy=aÞ ðmGy=aÞ ðmGy=aÞ
+
+AGE
+(ka)
+
+0.3
+0.3
+0.2
+0.3
+3.2
+2.0
+3.0
+0.7
+0.3
+0.8
+1.1
+1.8
+1.8
+0.5
+0.4
+0.3
+0.2
+0.1
+0.2
+0.2
+0.4
+1.5
+1.5
+0.7
+0.7
+1.0
+1.1
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+0.3
+0.2
+0.2
+0.02C
+
+100G17
+100G16
+106G17
+105G17
+75G8
+69G9
+60G7
+45G4
+49G5
+42G4
+67G7
+58G6
+57G5
+54G5
+56G5
+54G5
+63G9
+68G10
+60G9
+62G9
+59G8
+62G6
+62G5
+66G6
+58G5
+56G4
+59G5
+140G21
+140G21
+142G22
+162G34
+162G33
+164G33
+72G8
+80G10
+82G10
+78G12
+
+34G11
+34G11
+23G12
+35G11
+358G37
+212G25
+309G33
+61G11
+27G9
+70G10
+111G16
+179G21
+176G21
+46G10
+37G10
+27G9
+19G10
+10G10
+19G10
+19G10
+39G10
+150G18
+150G19
+70G13
+67G12
+99G13
+106G16
+26G13
+27G12
+28G13
+28G14
+29G13
+30G13
+31G10
+18G11
+23G11
+2G1
+
+111G20
+112G19
+116G19
+117G21
+103G12
+89G12
+82G11
+52G5
+55G6
+49G5
+82G11
+75G9
+73G9
+64G7
+66G7
+63G7
+69G11
+72G11
+64G10
+67G11
+65G10
+80G9
+80G9
+82G10
+76G8
+74G7
+78G8
+155G25
+153G24
+156G26
+182G42
+181G41
+184G42
+86G11
+94G13
+97G13
+103G19
+
+6.0
+7.3
+7.1
+7.5
+11.3
+10.7
+11.5
+24.4
+27.9
+20.7
+10.9
+11.4
+13.2
+27.8
+25.7
+24.5
+11.0
+9.4
+8.3
+9.6
+8.8
+24.5
+27.0
+28.8
+52.3
+46.7
+48.2
+5.7
+4.9
+4.7
+5.7
+4.9
+4.7
+28.1
+31.6
+31.6
+60.0CC
+
+1200
+1200
+1700
+1500
+1200
+1200
+1200
+1250
+1450
+1450
+1300
+1450
+1330
+1250
+1250
+900
+2200
+2250
+2350
+2200
+2350
+1200
+1250
+1200
+1100
+1000
+1100
+1250
+1250
+1250
+1250
+1250
+1250
+1600
+1750
+1850
+1200
+
+50
+50
+50
+50
+50
+50
+50
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+0
+
+2.3
+2.3
+2.3
+2.3
+3.8
+3.8
+3.8
+2.9
+2.9
+2.9
+2.1
+2.1
+2.1
+3.3
+3.3
+3.3
+1.9
+1.9
+1.9
+1.9
+1.9
+2.5
+2.5
+2.5
+2.9
+2.9
+2.9
+2.9
+2.9
+2.9
+2.9
+2.9
+2.9
+3.6
+3.6
+3.6
+2.2
+
+1.3
+1.3
+1.3
+1.3
+4.2
+4.2
+4.2
+9.0
+9.0
+9.0
+3.4
+3.4
+3.4
+6.9
+6.9
+6.9
+3.6
+3.6
+3.6
+3.6
+3.6
+4.6
+4.6
+4.6
+5.8
+5.8
+5.8
+1.2
+1.2
+1.2
+1.2
+1.2
+1.2
+1.9
+1.9
+1.9
+2.8
+
+0.27
+0.27
+0.27
+0.27
+0.79
+0.79
+0.79
+1.20
+1.20
+1.20
+0.51
+0.51
+0.51
+0.97
+0.97
+0.97
+0.54
+0.54
+0.54
+0.54
+0.54
+0.63
+0.63
+0.63
+0.75
+0.75
+0.75
+0.27
+0.27
+0.27
+0.27
+0.27
+0.27
+0.27
+0.27
+0.27
+0.48
+
+535G105
+535G105
+535G105
+535G105
+632G105
+632G105
+632G105
+682G105
+682G105
+682G105
+565G105
+565G105
+565G105
+657G105
+657G105
+657G105
+564G105
+564G105
+564G105
+564G105
+564G105
+595G105
+595G105
+595G105
+624G105
+624G105
+624G105
+542G103
+542G103
+542G103
+440G128
+440G128
+440G128
+559G101
+559G101
+559G101
+560G139
+
+55G7
+55G7
+40G4
+45G5
+121G13
+121G13
+121G13
+149G17
+129G14
+129G14
+72G8
+65G7
+70G7
+133G14
+133G14
+179G22
+43G4
+42G4
+40G4
+43G4
+40G4
+96G11
+92G10
+96G11
+123G14
+134G16
+123G14
+64G7
+64G7
+64G7
+64G7
+64G7
+64G7
+61G7
+56G6
+54G6
+79G27
+
+77G25
+77G26
+54G25
+79G27
+746G74
+453G49
+647G65
+133G24
+59G20
+152G23
+242G32
+380G43
+374G42
+101G23
+82G22
+59G20
+44G22
+22G22
+42G22
+44G22
+86G23
+319G38
+319G39
+152G26
+142G26
+209G29
+225G31
+61G29
+63G28
+65G30
+64G32
+66G30
+69G31
+69G23
+40G24
+51G23
+4G2
+
+54G6
+66G7
+48G4
+56G5
+95G11
+88G9
+91G9
+180G17
+185G18
+133G13
+85G8
+79G9
+97G9
+214G20
+200G20
+246G26
+53G4
+45G4
+37G3
+46G4
+39G4
+202G21
+215G21
+241G23
+457G45
+438G45
+424G43
+58G5
+48G5
+47G7
+61G7
+50G6
+49G8
+188G19
+201G19
+193G19
+550G85
+
+721G108
+733G108
+677G108
+715G108
+1594G129
+1294G116
+1491G124
+1144G110
+1055G109
+1096G109
+964G110
+1089G114
+1106G113
+1105G110
+1072G110
+1141G112
+704G107
+673G107
+684G107
+697G107
+729G107
+1212G114
+1221G114
+1084G111
+1346G118
+1405G119
+1396G118
+725G108
+717G108
+718G122
+629G131
+620G130
+622G131
+877G105
+856G106
+857G105
+1193G166
+
+LINEAR U-UPTAKE
+
+24G2
+30G3
+21G2
+25G2
+46G4
+42G4
+44G4
+85G8
+87G9
+63G6
+40G4
+37G3
+47G6
+101G10
+94G9
+116G13
+24G2
+20G2
+11G2
+21G3
+18G2
+97G10
+103G10
+114G11
+220G22
+211G22
+204G21
+26G3
+21G2
+21G3
+27G3
+22G2
+22G4
+88G9
+94G9
+90G9
+264G43
+
+648G105
+654G105
+619G105
+640G105
+1157G111
+1007G108
+1106G110
+977G107
+925G106
+944G106
+788G106
+846G107
+858G107
+937G107
+921G107
+979G109
+650G105
+636G105
+640G105
+647G105
+661G105
+938G107
+940G107
+875G107
+1034G109
+1068G109
+1057G109
+658G105
+654G105
+655G109
+559G128
+555G127
+556G128
+739G102
+727G102
+726G102
+904G148
+
+EN Z enamel; DE Z dentine; TT Z total enamel thickness; S1/S2 Z surface layer removed from each side of the enamel samples. Initial 234U/238U Z 1.07G0.03 in enamel and
+dentine for those samples for which this value was not measured (see Table 3); water in dentine and sediment 10G5 wgt.% (for beta dose rate); Neutron activation detection
+limits: U enamel and dentine: 0.1 ppm, Th and U sediment: 0.1 ppm, K sediment: 0.05%; C average U-concentration from laser ablation ICP-MS proﬁle; CC TIMS result.
+*Sample ages calculated to be within 2 to 5 cm distance from the bedrock.
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+bearing on the interpretation of the derived ages.
+The age calculations are listed in Table 5 and the
+US-ESR age calculations are shown in Fig. 3.
+
+Discussion of Age Results
+Before the dating results of the samples are
+discussed, there is a need for some general stratigraphic considerations. There is no doubt that the
+accumulation of the archaeological layers at Skhul
+took place over some considerable, yet unknown,
+time span. The stone tools were originally correlated to Tabun C (McCown, 1936), which has been
+
+Table 5
+Results of combined ESR/U-series dating
+
+521A
+521B
+521C
+521D
+av. 521
+522A
+522B
+522C
+av. 522
+854A
+854B
+854C
+854D
+854E
+av. 854
+856A
+856B
+856C
+av. 856
+1057A
+1057B
+1057C
+av. 1057
+1057A*
+1057B*
+1057C*
+av. 1057*
+1058A
+1058B
+1058C
+av. 1058
+SK2
+
+US-ESR
+Age (ka)
+
+p(EN)
+
+p(DE)
+
+CSUS-ESR
+Age (ka)
+
+104C27
+18
+105C26
+16
+111C28
+16
+110C29
+18
+108C28
+17
+113C22
+17
+C19
+9015
+80C16
+13
+94C19
+15
+67C16
+9
+71C17
+10
+63C15
+9
+66C16
+9
+62C15
+9
+66C16
+9
+69C12
+8
+66C11
+7
+72C12
+8
+69C12
+8
+149C38
+22
+148C35
+21
+145C34
+20
+147C36
+21
+176C75
+34
+173C73
+33
+178C75
+34
+176C74
+34
+85C19
+11
+C22
+9613
+99C23
+13
+93C21
+12
+116C43
+24
+
+.77G.22
+.76G.21
+.70G.22
+.71G.23
+
+.77G.22
+.76G.21
+.70G.22
+.71G.23
+
+.56G.42
+.08G.50
+.14G.32
+
+.56G.42
+.08G.50
+.14G.32
+
+.51G.27
+.43G.29
+.59G.26
+.54G.27
+.60G.25
+
+.45G.28
+.38G.30
+.54G.27
+.48G.28
+.55G.26
+
+.52G.20
+.58G.19
+.46G.21
+
+.52G.20
+.58G.19
+.46G.21
+
+.66G.21
+.64G.20
+.75G.18
+
+.66G.21
+.64G.20
+.75G.18
+
+.44G.39
+.58G.34
+.47G.38
+
+.44G.39
+.58G.34
+.47G.38
+
+.07G.32
+.20G.38
+.23G.39
+
+.07G.32
+.20G.38
+.23G.39
+
+1.07G.87
+
+1.07G.87
+
+106G21
+107G20
+113G20
+112G22
+110G21
+122G20
+95G17
+86G16
+101G18
+68G11
+71G12
+63G10
+66G11
+63G10
+66G11
+72G10
+69G9
+76G10
+72G10
+152G27
+151G26
+147G25
+150G26
+181G46
+177G44
+183G46
+180G45
+87G14
+98G16
+101G16
+95G15
+121G29
+
+*Sample within 2 to 5 cm distance from the bedrock.
+
+325
+
+dated by TL to 150 to 190 ka (Mercier et al., 1995;
+Mercier and Valladas, 2003) and to 105 to 160 ka
+by ESR (Grün and Stringer, 2000). Subsequently,
+the lithics were compared to those from Tabun B
+and Kebara (Jelinek, 1982). If this was the case, the
+archaeological layers at Skhul could have been
+deposited over a long time period: Tabun B has
+been dated to about 120 ka (Grün et al., 1991,
+Grün and Stringer, 2000) and Kebara to about
+60 ka (Valladas et al., 1987; Schwarcz et al., 1989).
+On the other hand, the sedimentation of the
+archaeological layers at Skhul could present
+a relatively short phase within the Tabun B phase.
+If the sedimentation of the archaeological layers
+at Skhul presents a longer phase, then it becomes
+important to know at what stage the burials were
+inserted into the sedimentary sequence. Many of the
+burials are close to the bedrock and covered by more
+than 150 cm of sediments. It seems improbable that
+deep excavations were carried out prior to the
+disposing of the bodies, therefore, the burials most
+likely took place well before the sedimentation of
+layer B concluded. In general, it can be expected that
+the buried material is somewhat younger than the
+surrounding sediment. However, if the burial took
+place at an early stage of sedimentation, the average
+age of layer B and its contents may just as well be
+younger than the buried material. Furthermore,
+since it is very likely that the graves were ﬁlled with
+the excavated material, samples that are found in
+loose association with a burial, such as the bovid
+skull near Skhul IX, could be signiﬁcantly older
+than the burial.
+U-series results on dental material
+All analyses have been carried out on dentine,
+except for sample 522 where enamel was analysed.
+Thus far, we have observed that the U-concentrations and U-series ages are quite homogeneous
+in cross sections and we are unaware of any
+dentine samples that show U-leaching (e.g. Grün
+et al., 1999; Eggins et al., 2003, in press). This
+means that the apparent closed system U-series
+results present minimum age estimates for the
+dentine samples.
+The apparent closed system U-series results
+seems to fall into two time intervals: one from about
+
+326
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+30 to 45 ka, and one from 80 to 110 ka (see Fig. 4a).
+Considering some delays in the U-uptake these
+intervals could widen, perhaps to 50 and 120 ka,
+respectively. It seems that several U-series results on
+human bones from Skhul also fall into the younger
+time range around 40 ka (A. Pike pers. comm.). The
+results could be explained by two processes:
+1) The samples experienced a relatively early
+U-uptake and the U-series age assessments
+are close to the correct age of the samples. This
+would mean that the samples are two distinct
+age populations where the younger one is close
+to the Middle/Upper Palaeolithic (MP/UP)
+transition (as has previously been speculated
+for Tabun (Schwarcz et al., 1998)) with the
+implication that the burials, or at least some of
+them, could be late Middle to early Upper
+Palaeolithic, perhaps inserted from Layer A.
+On the other hand, if the bovid skull is closely
+associated with Skhul IX, then this burial
+would be older than 108 ka, implying that
+Skhul would have been a burial ground over
+a signiﬁcant length of time.
+
+2) Due to the positioning in the site some samples
+have experienced a pulse of later U-uptake
+which is evidenced by the observation that
+many of the apparently younger samples have
+enhanced U-concentrations (see Fig. 4b). Were
+all samples of the same age population, they
+could not be younger than sample 1057 (around
+108 ka) and the apparently younger ages were
+the result of strongly delayed U-uptake.
+Because we did not carry out systematic
+U-series analysis to apply the D-A model of Millard
+(Millard, 1993; Millard and Hedges, 1996; Pike
+et al., 2002), our U-series data alone cannot
+resolve this question.
+U-series results on bone
+The TIMS U-series result on the surface of
+a bone fragment from Skhul IX yielded about
+131 ka. According to the above mentioned D-A
+model, one would expect the oldest age at the
+surface of a bone, and this would be closest to the
+
+Fig. 4. A: Apparent U-series ages. The closed system age estimates fall into two ranges, from about 30 to 50 ka and 80 to 120 ka
+(shaded areas). This could either mean that the samples are of two diﬀerent age groups where the younger one could be close to the
+Middle/Upper Palaeolithic transition, of that the samples with higher U concentrations underwent a later stage of U-uptake, as
+indicated by Fig. 4(B). B: The samples with younger apparent U-series ages have higher U-concentrations. This could have been caused
+by some later U-uptake as indicated by the arrow.
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+correct age of the sample. However, since systematic U-series dating on a cross section was not
+applied, it cannot be excluded that the 131 ka is an
+age overestimate due to U-leaching (e.g. Pike
+et al., 2002). The gamma spectrometric Th/U-Pa/U
+analysis shows that the whole bone shows open
+system behaviour with U-uptake the overriding
+
+327
+
+mechanism (because the apparent Th/U age
+is signiﬁcantly older than the Pa/U age: for
+more details, see Simpson and Grün, 1998).
+Unfortunately, the intrinsically large analytical
+errors of gamma spectrometric measurements
+do not allow for precise open system modelling.
+Nevertheless, the concordance diagrams (Fig. 6)
+
+Fig. 5. Bone fragments from Skhul IX used for gamma spectrometric measurements.
+
+328
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+Fig. 6. Concordance diagrams for the gamma spectrometric results of the bone samples from Skhul IX. A: early U-uptake (closed
+system); B: linear U-uptake. The oﬀset of the data point from the expected 234U/238U line indicates delayed U-uptake in the bones
+(Simpson and Grün, 1998).
+
+show that the open system values are well
+removed from the 234U/238U concordance.
+Within error, concordance is achieved from about
+90 ka.
+ESR results
+The ESR EU and LU age results are shown in
+Fig. 7. Without further knowledge of the U-uptake
+history, it is often assumed that the correct age of
+a sample lies between EU and LU model results.
+However, similar to U-series dating, the closed
+system EU estimate is a minimum age result for
+a sample. Most of the ESR age results actually fall
+into the gap lying between the two time ranges of
+the U-series result. Only the ESR results of one
+
+tooth (851) fall squarely into the younger time
+range of 30 to 50 ka. The other ESR results clearly
+imply that the deposits are older than the MP/UP
+transition. The bovid tooth (1057) is clearly older
+than the majority of the samples, regardless of
+whether it was located near the bed rock (starred
+samples) or further away. The minimum EU
+age estimates for the bovid tooth are about
+141G21 ka.
+Combined U-series ESR results.
+The combination of ESR and U-series age
+estimates allows for the modelling of the U-uptake
+(Grün et al., 1988). Figure 8A shows the combined
+US-ESR results. None of the US-ESR results
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+Fig. 7. ESR age estimates according to early (EU: crosses) and
+linear (LU: diamonds) U-uptake. The two shaded areas, which
+present the two age ranges discussed in Fig. 4A, are included for
+cross reference.
+
+fall into the younger age range of the Middle
+Palaeolithic. Sample 851, which has the youngest
+ESR results, was unfortunately not analysed for
+uranium isotopes and, thus, cannot be modelled.
+The samples seem to fall into three groups: one
+being around 69 ka (samples 854 and 856); the
+second one coinciding with the U-series time period
+of 80 to 120 ka; and the bovid tooth again showing
+considerably older results. The samples do not
+show any trend between age and U-concentration.
+To readdress the questions raised in the U-series
+section: the U-series results on the dentine seem
+more likely to indicate the speciﬁc uranium uptake
+history (as indicated in Fig. 4b) rather than age.
+Some samples were shielded from percolating
+waters by cementation, accumulated uranium only
+at an early stage and have relatively old apparent
+ages. Other samples, in looser matrix or where the
+cement was re-dissolved, may have acquired
+
+329
+
+signiﬁcant amounts in a later stage of deposition,
+showing young apparent U-series ages. For the
+burial samples, it is documented that Skhul II was
+in the least cemented sediment, followed by Skhul V,
+and IX being in the hardest sediment of the site. The
+U-concentrations and apparent ages follow the
+same pattern. Skhul II was most exposed to
+percolating water and hence accumulated the most
+uranium over the longest time, followed by Skhul V.
+The burial of Skhul IX was cemented early on and
+U-accumulation stopped. This is supported by the
+occurrence of patination on the stone tools. The
+ﬂints in layer B1 are patinated, indicating hydration
+(Z exposure to water) over signiﬁcant time spans,
+whereas the older ﬂints in the highly cemented layer
+B2 are unpatinated, i.e. they were signiﬁcantly less
+exposed to water. Figure 8b shows the plot of
+U-concentrations versus p-value, which is a measure
+for the U-uptake history. A p-value of 1 equates
+to a closed system (EU), p Z 0 to linear U-uptake
+and positive p-values to further delayed U-uptake.
+There is some trend between U-concentration and
+p-value (as predicted in Fig. 4b), but there are also
+exceptions, such as samples 522 and 856. Most
+samples fall within error into the EU-LU bracket,
+but Skhul II is clearly outside this range. This is
+another example that the parametric EU-LU
+models have only limited validity.
+The age range of the site
+Sample 851 indicates that deposition of the
+layers at Skhul could have continued to about
+45 ka. On the other hand, this sample could
+perhaps derive from layer A. Samples 854 and
+856 could represent a relatively short time period
+around 69 ka, whereas samples 521, 522 1058 and
+Skhul II fall within the range of 95 to 120 ka.
+Sample 1047 could be somewhat older. Unfortunately, the large errors introduced by the uncertainty in the gamma dosimetry preclude an
+analysis of whether the site accumulated over
+a longer time period or whether it presents
+a reasonably short time period. A c2 test indicated
+that the US-ESR data may well belong to the
+same population whether including sample
+1057 (c2 Z 1.86), 1057* (c2 Z 2.11) or neither
+(c2 Z 1.12). As such, the best estimate for the site
+
+330
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+Fig. 8. A: Combined US-ESR age estimates. The two shaded areas, which present the two age ranges discussed in Fig. 4A, are included
+for cross reference. B: Plot of p-value (a measure of the delay in U-accumulation) versus U-concentration. There is a general trend that
+the samples with higher U-concentration experienced more delayed U-uptake (compare Fig. 4B).
+
+is given by the average and the standard deviation
+of the US-ESR results of 102G26 ka.
+The burial samples
+The U-series results of the bone of Skhul IX
+and the bovid tooth 1057 are very similar,
+indicating that they were deposited within a relatively short time range. There is no doubt,
+however, that the two samples are quite diﬀerent
+to the other samples from the site. The closed
+system TIMS U-series results on both the bone of
+Skhul IX, as well as the bovid tooth, are
+signiﬁcantly older than the other material. For
+the Skhul IX samples, it is found that the burial
+should be older than 90 ka (gamma spectrometry)
+and may be close to 131 ka (bone surface sample).
+The U-series results indicate that the bovid tooth is
+older than 108 ka and, from the EU-ESR results,
+that it is older than 120 ka. The US-ESR have such
+large uncertainties (which is partly caused by the
+problem of unknown distance between the bedrock and the deposited sample), that they do not
+further constrain the age assessment.
+Although the ESR age assessments of Skhul II
+are associated with very large errors, the ESR
+
+results indicate that the Skhul II is signiﬁcantly
+older (O66 ka) than the apparent U-series age
+estimate on the dentine (w 32 ka). The best age
+estimate is given by the US-ESR result of 116C43
+24 ka.
+The pig tooth 1058 associated with the Skhul V
+burial also has a very young U-series age estimate
+(w 40 ka). Again ESR implies a much older age
+(O70 ka), the best age estimate being 93C21
+12 ka.
+If it is assumed that the three burials took place
+over a relatively short time period, then the 2-s
+age ranges of the burial samples would place it in
+the range of 100 to 135 ka. Note that the US-ESR
+results are highly asymmetrical and it is not
+possible to calculate any age estimates if the EU
+ESR age is older than the closed system U-series
+result. As a consequence, the lower age range for
+the burials is constrained by the U-series results of
+1057. If the burial of Skhul IX was older than II
+and V, the best age estimate for the burials of
+Skhul II and V is 98C19
+10 ka (weighted mean of the
+two average US-ESR results).
+Sensitivity test for the US-ESR results
+As pointed out above, the US-ESR results are
+critically dependent on the reconstruction of the
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+331
+
+their mean values, the external gamma dose rate is
+varied in 1 -standard deviation steps (see Table 4).
+There are two limiting factors: the external dose
+rate cannot be negative and the age cannot be
+smaller than the closed system U-series result.
+Figure 9 allows two observations: (I) the Skhul II
+results could possibly overlap with the MP/UP
+transition, the gamma dose rates having been
+underestimated by more than 3 standard deviations, and no other samples falling into this time
+range; and (ii) samples 854 and 856 are most likely
+younger than the burial samples.
+Comparison with TL results
+Fig. 9. Relationship between calculated US-ESR ages and the
+estimate of the external gamma dose rate, expressed in units of
+standard deviations form the mean. The two shaded areas, which
+present the two age ranges discussed in Fig. 4A, are included for
+cross reference.
+
+environmental dose rate. What if it is completely
+wrong? The sensitivity of the US-ESR age
+estimates on the external gamma dose rate is
+shown in Fig. 9. Leaving all other parameters at
+
+The thermoluminescence results of Mercier et al.
+(1993) show somewhat less scattering than the USESR results (Fig. 10a). Due to the even distribution
+of bones and ﬂints throughout the site one would
+generally expect a similar scatter in both data sets.
+However, all ﬂints used for TL dating were
+unpatinated (Mercier, pers. comm), and are therefore derived from the lower, more cemented layer B2.
+The plot of the TL De values vs the internal dose
+
+Fig. 10. A: Thermoluminescence age estimates on burnt ﬂint (Mercier et al., 1997). The two shaded areas, which present the two age
+ranges discussed in Fig. 4A, are included for cross reference. B: Plot of De versus the internal dose rate. This plot either implies that the
+external dose rate for the diﬀerent samples were diﬀerent or that the samples have diﬀerent ages (or a combination of both). The age of
+the apparently older sample ES5 coincides with the age estimates on the samples relating to the Skhul IX burial.
+
+332
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+rates (Fig. 10b) does not result in an isochron from
+which it would be possible to derive an external
+dose rate value (Aitken and Valladas, 1992). This
+may imply either that the external dose rate varied
+from sample to sample or that the samples are of
+diﬀerent ages. Five of the six samples agree very
+well with the range derived from the three burial
+samples of 100 to 130 ka; one sample (ES5) seems
+older, falling into the same age range as the Skhul
+IX samples. Notably, within error, none of the TL
+results is younger than 80 ka.
+Summary of the dating results
+At this stage it is not possible to decide whether
+the burial samples are of the same age population
+or whether Skhul IX is older than II and V. If the
+burials took place within a short time span, then the
+best age estimate lies between 100 and 130 ka. If
+Skhul IX was older than II and V, perhaps around
+140 ka, which could be argued given its lower
+stratigraphic and archaic morphology (Stringer,
+1996) then the best estimate for II and V is
+98C19
+10 ka. The young apparent U-series results are
+more likely a result of delayed U-uptake than real
+age. The age results on the burials are in excellent
+agreement with the thermoluminescence results of
+Mercier et al. (1993). It is not possible for the ages of
+any of the burial samples, except Skhul II, to be of late
+Middle Palaeolithic/early Upper Palaeolithic age.
+Implications
+Because of the relatively large errors involved in
+the age estimations, it is diﬃcult to establish the
+chronological position of the Skhul burials relative
+to those from the early modern human site of
+Qafzeh, as well as the nearby Neanderthal site of
+Tabun. Qafzeh was dated by TL analysis of burnt
+ﬂint (Valladas et al., 1988), giving an age of
+92G5 ka, while ESR analyses of teeth (Schwarcz
+et al., 1988; Grün and Stringer, 1991) yielded EU
+and LU age estimates of 100G10 ka and
+120G8 ka, respectively. A gamma spectrometric
+analysis of Qafzeh yielded results of about 8094 ka (Yokoyama et al., 1997). An ESRAJ-series
+study of dental material from Tabun C1 led to the
+conclusion that the specimen had an age of
+
+122G16 ka and was most likely buried from Layer
+B into Layer C (Grün and Stringer, 2000), thus
+supporting the re-analysis of the original ﬁeld
+notes (Bar-Yosef and Callander, 1999).
+All these age estimates suggest that the three
+burial sites, Skhul, Qafzeh and Tabun are broadly
+contemporaneous, falling within the time range of
+100 to 130 ka. Unfortunately, the present resolution of dating methods does not allow a more
+precise establishment of their relative chronological
+position. The presence of early representatives of
+both early modern humans and Neanderthals in
+the Levant during Oxygen Isotope Stage 5 inevitably
+complicates attempts at segregating these populations by date or archaeological association. Nevertheless, it does appear that the oldest known
+symbolic burials are those of early modern humans
+at Skhul and Qafzeh. This supports the view that,
+despite the associated Middle Palaeolithic technology, elements of modern human behaviour,
+expressed through symbolic burials, were present
+in the Levant prior to 100 ka.
+Acknowledgement
+We are grateful to David Pilbeam, Harvard, for
+providing the tooth of Skhul II. RG is grateful to
+the generous hospitality of St. Catherine’s College,
+Oxford, and the Research Laboratory of Archaeology, Oxford, during the write-up stage of this
+research. We thank A. Pike, E. Rhodes and
+S. Stokes, Oxford, for comments and the NHM
+Palaeontology Conservation Unit for assistance
+with sampling.
+
+References
+Adamiec, G., Aitken, M.J., 1998. Dose-rate conversion factors:
+update. Ancient TL 16, 37e50.
+Aitken, M.J., Valladas, H., 1992. Luminescence dating relevant
+to human origins. Philosophical Transactions of the Royal
+Society of London, Series B 337, 125e250.
+Bar-Yosef, O., Callander, J., 1999. The woman from Tabun:
+Garrod’s doubts in historical perspective. Journal of
+Human Evolution 37, 879e885.
+Bar-Yosef, O., Meignen, L., 1992. Insights into Levantine
+Middle Palaeolithic cultural variability. In: Dibble, H.,
+Mellars, P. (Eds.), The Middle Paleolithic: Adaptation,
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+Behavior, and Variability. The University Museum of the
+University of Pennsylvania, Philadelphia, pp. 163e182.
+Bate, D., 1937. Palaeontology: the fossil fauna of the Wady ElMughara Caves. In: Garrod, D.A., Bate, D.M.A. (Eds.),
+The Stone Age of Mount Carmel. Volume 1: Excavations
+at the Wady El-Mughara. Clarendon Press, Oxford, pp.
+134e233.
+Cheng, H., Edwards, R.L., Murrell, M.T., Benjamin, T.M.,
+1998. Uranium-thorium-protactinium dating systematics.
+Geochimica et Cosmochimica Acta 62, 3437e3452.
+Curnoe, D., Grün, R., Thackeray, F., 2001. Direct ESR dating
+of a Pliocene hominid from Swartkrans. Journal of Human
+Evolution 40, 379e391.
+Eggins, S., Grün, R., Pike, A., Shelley, A., Taylor, L., 2003.
+238
+U, 232Th proﬁling and U-series isotope analysis of fossil
+teeth by laser ablation ICPMS. Quaternary Science Reviews
+22, 1373e1382.
+Eggins, S., Grün, R., McCulloch, M., Pike, A., Chappell, J.,
+Kinsley, L., Shelley, M., Murray-Wallace, C., Spötl, C.,
+Taylor, L., Mortimer, G. In situ U-series dating by laserablation multi-collector ICPMS: new prospects for Quaternary geochronology. Quaternary Science Reviews, in press
+Garrod, D., Bate, D., 1937. The Stone Age of Mount Carmel.
+Vol. 1. Oxford University Press, Oxford.
+Grün, R., 1989. Electron spin resonance (ESR) dating.
+Quaternary International 1, 65e109.
+Grün, R., Stringer, C.B., Schwarcz, H.P., 1991. ESR dating of
+teeth from Garrod’s Tabun Cave collection. Journal of
+Human Evolution 20, 231e248.
+Grün, R., 1995. Semi non-destructive, single aliquot ESR
+dating. Ancient TL 13, 3e7.
+Grün, R., 2000. An alternative model for open system U-series/
+ESR age calculations: (closed system U-series)-ESR, CSUSESR. Ancient TL 18, 1e4.
+Grün, R., 2002. ESR dose estimation on fossil tooth enamel by
+ﬁtting the natural spectrum into the irradiated spectrum.
+Radiation Measurements 35, 87e93.
+Grün, R., Beaumont, P., 2001. Border Cave revisited: A
+revised ESR chronology. Journal of Human Evolution 40,
+467e482.
+Grün, R., Beaumont, P., Tobias, P.V., Eggins, S., 2003. On the
+age of Border Cave 5 human mandible. Journal of human
+Evolution 45, 155e167.
+Grün, R., Brink, J.S., Spooner, N.A., Taylor, L., Stringer, C.B.,
+Franciscus, R.G., Murray, A.S., 1996. Direct Dating of
+Florisbad Hominid. Nature 382, 500e501.
+Grün, R., Brumby, S., 1994. The assessment of errors in the
+past radiation doses extrapolated from ESR/TL dose
+response data. Radiation Measurements 23, 307e315.
+Grün, R., Katzenberger-Apel, O., 1994. An alpha irradiator for
+ESR dating. Ancient TL 12, 35e38.
+Grün, R., McDermott, F., 1994. Open system modelling for Useries and ESR dating of teeth. Quaternary Science Reviews
+13, 121e125.
+Grün, R., Robertson, S., Gordon, M., 2001. Dose evaluation
+on a fossil tooth using an enamel fragment as well
+
+333
+
+as multiple and single powder aliquots. Ancient TL 19,
+5e11.
+Grün, R., Schwarcz, H.P., Chadam, J.M., 1988. ESR dating of
+tooth enamel: Coupled correction for U-uptake and Useries disequilibrium. Nuclear Tracks and Radiation Measurements 14, 237e241.
+Grün, R., Stringer, C.B., 1991. ESR dating and the evolution of
+modern humans. Archaeometry 33, 153e199.
+Grün, R., Stringer, C.B., 2000. ESR and U-series analyses of
+dental material from Tabun C1. Journal of human
+Evolution 39, 601e612.
+Grün, R., Yan, G., McCulloch, M., Mortimer, G., 1999.
+Detailed mass spectrometric U-series analyses of two teeth
+from the archaeological site of Pech de 1’Aze II: implications for uranium migration and dating. Journal of
+Archaeological Science 26, 1301e1310.
+Hovers, E., Hani, S., Bar-Yosef, O., Vandermeersch, B., 2003.
+An early case of color symbolism - Ochre use by modern
+humans in Qafzeh Cave. Current Anthropology 44, 491e522.
+Jelinek, A.J., 1982. The Tabun Cave and Paleolithic Man in the
+Levant. Science 216, 1369e1375.
+Klein, R., 2000. Archeology and the evolution of human
+behavior. Evolutionary Anthropology 9, 17e36.
+McCown, T.D., 1937. Mugharet Es-Skhul. Description and
+excavations. In: Garrod, D.A., Bate, D.M.A. (Eds.), The
+Stone Age of Mount Carmel. Volume I: Excavations at the
+Wady El-Mughara. Clarendon Press, Oxford, pp. 91e107.
+McCown, T.D., Keith, A., 1939. The Stone Age of Mount
+Carmel II: The Fossil Human Remains from the LevalloisoMousterian. Clarendon Press, Oxford.
+McDermott, F., Grün, R., Stringer, C.B., Hawkesworth, C.J.,
+1993. Mass-spectrometric U-series dates for Israeli
+Neanderthal/early modern hominid sites. Nature 363,
+252e255.
+Marsh, R., 1999. Beta-gradient isochrons using electron
+paramagnetic resonance: towards a new dating method in
+archaeology. MSc thesis, McMaster University, Hamilton.
+Mercier, N., Valladas, H., 2003. Reassessment of TL age
+estimates of burnt ﬂint from the Paleolithic site of
+Tabun Cave, Israel. Journal of Human Evolution 45,
+401e409.
+Mercier, N., Valladas, H., Bar-Yosef, O., Vandermeersch, B.,
+Stringer, C., Joron, J.-L., 1993. Thermoluminescence Date
+for the Mousterian Burial Site of Es-Skhul, Mt.Carmel.
+Journal of Archaeological Science 20, 169e174.
+Mercier, N., Valladas, H., Valladas, G., Reyss, J.L.,
+Jelinek, A., Meignen, L., Joron, J.L., 1995. TL dates of
+burnt ﬂints from Jelinek’s Excavations at Tabun and
+their Implications. Journal of Archaeological Science 22,
+495e509.
+Millard, A.R., 1993. Diagenesis of archaeological bone: the case
+of uranium uptake. D.Phil. Thesis, University of Oxford,
+Oxford, UK.
+Millard, A.R., Hedges, R.E.M., 1996. A diﬀusion-adsorption
+model of uranium uptake by archaeological bone. Geochimica et Cosmochimica Acta 60, 2139e2152.
+
+334
+
+R. Grün et al. / Journal of Human Evolution 49 (2005) 316e334
+
+Nathan, R., Grün, R., 2003. Gamma dosing and shielding of
+a human tooth by a mandible and skull cap. Ancient TL 21,
+79e84.
+Pike, A.W.G., Hedges, R.E.M., Van Calsteren, P., 2002. Useries dating of bone using the diﬀusion-adsorption model.
+Geochimica et Cosmochimica Acta 66, 4273e4286.
+Prescott, J.R., Hutton, J.T., 1994. Cosmic ray contributions to
+dose rates for luminescence and ESR dating: large depths
+and long-term time variations. Radiation Measurements 23,
+497e500.
+Robertson, S., Grün, R., 2000. Dose determination on tooth
+enamel fragments from two human fossils. Radiation
+Measurements 32, 773e779.
+Schwarcz, H.P., 1994. Current challenges to ESR dating.
+Quaternary Science Reviews 13, 601e605.
+Schwarcz, H.P., Grün, R., Vandermeersch, B., Bar-Yosef, O.,
+Valladas, H., Tchernov, E., 1988. ESR dates for the
+hominid burial site of Qafzeh in Israel. Journal of Human
+Evolution 17, 733e737.
+Schwarcz, H.P., Buhay, W.M., Grün, R., Valladas, H.,
+Tchernov, E., Bar-Yosef, O., Vandermeersch, B., 1989.
+ESR dating of the neanderthal site, Kebara Cave, Israel.
+Journal of Archaeological Science 16, 653e659.
+Schwarcz, H.P., Simpson, J.J., Stringer, C.B., 1998. Neanderthal
+skeleton from Tabun: U-series data by gammaray spectrometry. Journal of Human Evolution 35, 635e645.
+
+Simpson, J.J., Grün, R., 1998. Non-destructive gamma
+spectrometric U-series dating. Quaternary Science Reviews
+18, 1009e1022.
+Stringer, C.B., 1996. Current issues in modern human origins.
+In: Meikle, W.E., Howell, F.C., Jablonski, N. (Eds.),
+Contemporary Issues in Human Evolution. California
+Academy of Sciences Memoir, 21, pp. 115e134.
+Stringer, C.B., Grün, R., Schwarcz, H.P., Goldberg, P., 1989.
+ESR dates for the hominid burial site of Es Skhul in Israel.
+Nature 338, 756e758.
+Valladas, H., Joron, J.L., Valladas, G., Arensburg, B., Bar-Yosef, O.,
+Belfer-Cohen, A., Goldberg, P., Laville, H., Meignen, L.,
+Rak, Y., Tchernov, E., Tillier, A.M., Vandermeersch, B., 1987.
+Thermoluminescence dates for the Neanderthal burial site at
+Kebara in Israel. Nature 330, 159e160.
+Valladas, H., Reys, J.L., Joron, J.L., Valladas, G., Bar-Yosef, O.,
+Vandermeersch, B., 1988. Thermoluminescence dating of
+Mousterian ‘Proto-Cro-Magnon’ remains from Israel and
+the origin of modern man. Nature 331, 614e616.
+Vandermeersch, B., 1970. Une sépulture moustérienne
+avec oﬀrandes découverte dans la grotte de Qafzeh. Comptes
+rendus de l’Académie des Sciences, Paris D. 270, 298e301.
+Yokoyama, Y., Falguères, C., de Lumley, M.-A., 1997.
+Datation directe d’un crâne Proto-Cro-Magnon de Qafzeh
+par la spèctrometrie gamma non destructive. C.R. Acad.
+Sci. Paris 324 IIa, 773e779.
+
+

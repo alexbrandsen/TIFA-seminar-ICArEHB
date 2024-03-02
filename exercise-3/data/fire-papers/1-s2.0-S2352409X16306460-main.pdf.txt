@@ -1,0 +1,1801 @@
+Journal of Archaeological Science: Reports 10 (2016) 282–292
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science: Reports
+journal homepage: www.elsevier.com/locate/jasrep
+
+Charred bone: Physical and chemical changes during laboratory
+simulated heating under reducing conditions and its relevance for the
+study of ﬁre use in archaeology
+Femke H. Reidsma a,⁎, Annelies van Hoesel a,b, Bertil J.H. van Os b, Luc Megens b, Freek Braadbaart a,c
+a
+b
+c
+
+Human Origins Group, Faculty of Archaeology, Leiden University, Einsteinweg 2, 2333 CC Leiden, The Netherlands
+Cultural Heritage Agency, Smallepad 5, 3800 BP Amersfoort, The Netherlands
+Department of Earth Sciences, Faculty of Geosciences, Utrecht University, Budapestlaan 4, 3058 TA Utrecht, The Netherlands
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 15 April 2016
+Received in revised form 7 October 2016
+Accepted 10 October 2016
+Available online 20 October 2016
+Keywords:
+Bone
+Fire use
+Charring
+Archaeology
+Analytical chemistry
+FTIR
+TGA
+DTMS
+
+a b s t r a c t
+In order to gain insight into the timing and nature of hominin ﬁre use, the effect of heat on the physical and chemical properties of the materials entering the archaeological record needs to be understood. The present study concerns the ﬁre proxy heated bone. Two types of heating can be distinguished: combustion (or burning, with
+oxygen) and charring (without oxygen), for both of which the formation of char is the ﬁrst step. We performed
+a series of controlled laboratory-based heating experiments, in reducing conditions (i.e. charring), covering a
+broad temperature range (20–900 °C), and applied a variety of different analytical techniques. Results indicate
+that charred bone shows a distinctly different thermal alteration trajectory than combusted bone, which has implications for the suitability of the different analytical techniques when identifying and determining past heating
+conditions (charring vs. combustion; temperature) of heated bone from archaeological contexts. Combined, the
+reference data and techniques presented in this study can be used as a robust toolkit for the characterisation of
+archaeological charred bone from various ages and contexts.
+© 2016 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+Fire has played a key role in the development of humankind and fundamentally changed our relationship with the world (Goudsblom,
+1992). The chronological distribution of heated remains in the archaeological record of Europe suggests that ﬁre (the chemical process through
+which heat is generated) has been an integral part of the human technological repertoire from the later Middle Pleistocene (~350 ka) onwards
+(Roebroeks and Villa, 2011), an interpretation that ﬁts well with recently reported data on ﬁre use from the Levant (Shimelmitz et al., 2014).
+Since ﬁre is used in various domestic and non-domestic settings, data
+on its use are crucial for our understanding of human subsistence strategies, fuel management, various pyrotechnologies, mortuary practices,
+and even landscape management (Scherjon et al., 2015; Théry-Parisot,
+2002). In order to reconstruct the heating conditions archaeological
+ﬁre remains were exposed to, and in turn gain insight into the timing
+and nature of the speciﬁc human behaviour that produced them (e.g.
+the function of ﬁreplaces), the effect of heat on the physical and chemical properties of the materials entering the archaeological record needs
+to be understood.
+
+⁎ Corresponding author.
+E-mail address: f.h.reidsma@arch.leidenuniv.nl (F.H. Reidsma).
+
+http://dx.doi.org/10.1016/j.jasrep.2016.10.001
+2352-409X/© 2016 Elsevier Ltd. All rights reserved.
+
+For a ﬁre to be ignited, and remain ablaze, the three components of
+the ﬁre triangle need to be present: heat from an external heat source,
+oxygen, and a fuel (Emmons and Atreya, 1982). It is the carbon-rich organic part of the fuel that carries the energy that can be transformed
+into heat. When organic matter is exposed to heat, thermal energy
+will be absorbed, mainly through radiation, causing the temperature
+of the material to increase. When temperatures approach around
+300 °C, chemical reactions start to take place that gradually change
+the original organic constituents of the material (i.e. charring)
+(Braadbaart et al., 2007). This is a reaction that requires heat, but no oxygen, resulting in the formation of aromatic compounds (i.e. char) and
+the release of volatile gasses (Braadbaart et al., 2007; Rein, 2009). This
+ﬁrst charring is a necessary chemical step towards combustion. In
+the presence of air, when temperatures remain sufﬁciently high
+(N 300 °C), the char and volatiles oxidise (i.e. combustion), producing
+more thermal energy and ﬂames. When the oxidation is completed,
+all organic material will have been removed, leaving only ash (i.e. the
+inorganic components of the fuel) (e.g. Braadbaart et al., 2012; Rein,
+2009). In the absence of oxygen (i.e. charring), with increasing temperatures (N 400 °C), the molecular structure changes, resulting in the formation of polyaromatic, planar sheets and increased ordering of the
+char (e.g. Braadbaart and Poole, 2008). It is important to note that two
+types of heating can be distinguished: combustion (or burning) and
+charring, both of which require the formation of char. Consequently,
+
+F.H. Reidsma et al. / Journal of Archaeological Science: Reports 10 (2016) 282–292
+
+charring is not restricted to reducing conditions. In addition, it should be
+noted that the physical and chemical properties of heated materials do
+not just depend on temperature and the presence or absence of oxygen,
+but also on other heating conditions, such as heating rate (°C/min) and
+exposure time (Braadbaart et al., 2007; Rein, 2009).
+While a lot of work has been done on the effect of heat on organic
+materials, particularly on wood (e.g. Ascough et al., 2008; Braadbaart
+and Poole, 2008; Cohen-Ofri et al., 2006; Scott, 2010), the understanding of another common bioorganic ﬁre residue, heated bone, is far
+more fragmentary. The presence of a high amount of inorganic compounds in bone makes it distinct from wood and other organic plant
+and/or animal tissues. While wood is composed of only about 2 wt% inorganic compounds (Braadbaart and Poole, 2008), bone on average contains 70 wt% inorganic material (White and Folkens, 2005). Bone is a
+composite material in which equal volumes of the organic and inorganic
+constituents are intimately intergrown (for details see Section 2)
+(Pasteris et al., 2014). Because of these speciﬁc properties, bone is affected differently by heat, than organic compounds, for example in terms of
+the ease with which air - and thus oxygen - disperses into the material.
+Combined with the prevalence of heated bone in the archaeological record, this highlights the importance of research focussing on heated
+bone.
+Initially, studies in this direction concentrated on the macroscopically visible manifestations of heating (e.g. Kalsbeek and Richter, 2006;
+Shipman et al., 1984; Stiner et al., 1995). Later, focus was shifted towards the physical and chemical changes underlying the visible manifestations by applying a broad range of analytical techniques including
+Thermogravimetric analysis (TGA) (e.g. Ellingham et al., 2015b; Etok
+et al., 2007; Haberko et al., 2006; Jankovic et al., 2009; Lozano et al.,
+2003; Mkukuma et al., 2004), x-ray ﬂuorescence (XRF) (e.g. Kalsbeek
+and Richter, 2006; Thompson et al., 2011), x-ray diffraction (XRD)
+(e.g. Enzo et al., 2007; Piga et al., 2008; Rogers and Daniels, 2002), Fourier transform infrared spectroscopy (FTIR) (e.g. Figueiredo et al., 2010;
+Lebon et al., 2008, 2010; Mkukuma et al., 2004; Thompson et al., 2009,
+2013), Raman spectroscopy (e.g. Pasteris et al., 2004), and transmission
+electron microscopy (TEM) (e.g. Koon et al., 2003, 2010). While all of
+these studies discuss the thermal alteration of bone, they all concern
+combustion (i.e. heating in the presence of air), with the exception of
+Mkukuma et al. (2004), and generally focus on just one or two analytical
+methods, a limited temperature range or the effect of heat on one speciﬁc bone property (e.g. crystallinity). This means we only have a partial
+understanding of the range of heated bone potentially available in the
+archaeological record, both in terms of heating conditions (e.g. charring
+vs. combustion; temperature) and of the interaction of the organic and
+inorganic properties targeted by the different analytical techniques.
+In order to gain a more comprehensive understanding of the effect of
+heating (i.e. the chemical process of ﬁre) on the physical and chemical
+properties of bone, we performed a series of controlled laboratorybased heating experiments, in reducing conditions (i.e. charring), covering a broad temperature range (20–900 °C), and applied a variety of different analytical techniques. This allows us to gain insight in the effect of
+heat on both the organic and inorganic compounds in bone and their interaction, as well as assess the usefulness of the different techniques for
+the reconstruction of heating conditions in archaeological contexts. The
+combination of techniques applied in this study was chosen in order to
+infer changes in physical (colour, mass loss, TGA, reﬂectance analysis),
+elemental (XRF, CHN), molecular (FTIR, Raman, DTMS), and structural
+(XRD) properties. Furthermore, this speciﬁc combination of techniques
+allows us to address changes in bone organic and inorganic content separately, as well as combined. By taking the process of charring as a
+starting point, we were able to exert more control over the experimental conditions and provide valuable initial baseline data for further
+research. From an archaeological perspective, improving our understanding of charred bone is important since the presence of charred organic materials, including bone, in the archaeological record implies
+that not all char is oxidised during heating, even though the presence
+
+283
+
+of air may be expected in an open ﬁre. It should be noted that charring
+can also occur within an open ﬁre (Albini, 1993). The data generated by
+this study will help archaeologists identify the full range of heated bone
+and reconstruct the heating conditions (e.g. temperature; charring vs.
+combustion) bones from the archaeological record were exposed to.
+Shedding more light on ﬁre function and speciﬁc human behaviour
+(e.g. Braadbaart and Poole, 2008). Furthermore, this study provides
+the ﬁrst comparative standard for charred bone that archaeologists
+can use when reconstructing the taphonomic history of bones heated
+in the past. Essentially, gaining insight into the process of charring is
+the necessary ﬁrst step towards understanding combustion and the effect of diagenesis on heated bone.
+2. What is bone?
+Bone tissue is a composite material that consists of three major
+parts: a large inorganic fraction (about 70 wt%), a much smaller organic
+fraction (about 20 wt%), and water (about 10 wt%). The relative proportions of these constituents depend on the type of bone (cortical or trabecular) and may vary as a result of development and pathology
+(Kuhn et al., 2008; Pasteris, 2014; Weiner, 2010, 102, 105; White and
+Folkens, 2005, 33). The organic fraction mainly consists of an assortment of proteins, of which about 90% belong to a single type known as
+‘type I collagen’ (Boskey, 2007; Weiner, 2010, 105). Collagen is
+characterised by a triple helical structure formed by amino acid chains
+(polypeptides) (White and Folkens, 2005, 42). The collagen molecules
+intertwine to form ﬂexible, slightly elastic ﬁbres, which give the bone
+its supple properties (Boskey, 2007). These ﬁbrillar structures are held
+together by strong hydrogen bonds (Adamiano et al., 2013).
+The inorganic fraction of bone consists of plate shaped nanocrystals
+that are intimately associated, in equal volumes, with the organic matrix, by occupying the empty spaces between the collagen ﬁbrils and individual molecules (Boskey, 2007; Rey et al., 2009). It is these minerals
+that give the bone its hardness and rigidity (Weiner, 2010, 104; White
+and Folkens, 2005, 33, 42). Bone mineral is often described as a poorly
+crystalline carbonated hydroxylapatite (Ca10(PO4)6(OH)2), closely resembling geological hydroxylapatite (HAP). However, this is a persistent misconception that impedes a full understanding of thermal
+alteration in bone. While the material has an atomic arrangement very
+similar to HAP, bone mineral is a highly disordered (non-stoichiometric) apatite, containing a large degree of carbonate substitutions (3–
+8 wt%), lattice vacancies and various other ionic substitutions (e.g.
+HPO4, Na, Mg) (Boskey, 2007; Figueiredo et al., 2010; Kuhn et al.,
+2008; Lebon et al., 2008; Pasteris et al., 2004; Rey et al., 2009; Weiner,
+2010, 86). In addition, recent studies have shown that bone mineral is
+depleted in hydroxyl ions (OH−) and contains water in its apatite structure (Pasteris et al., 2012, 2014; Wopenka and Pasteris, 2005), making it
+distinct from geological hydroxylapatite. Furthermore, mature bone
+may lose its HPO24 − ions (Pasteris, 2014; Wopenka and Pasteris,
+2005). Within this study, the term ‘bone mineral’ is therefore used to
+deﬁne a hydrated hydroxyl-depleted carbonated calcium phosphate
+phase (Ca10 − x[(PO4)6 − x(CO3, HPO4)x](OH)2 − x·nH2O) (cf. Pasteris
+et al., 2004, 2014; Wopenka and Pasteris, 2005).
+3. Materials and methods
+3.1. Sample preparation and heating experiments
+Samples were taken from the cortical part of the femur of a mature
+(9 years old) female bovine (Bos taurus). Bovine bone was chosen as
+an analogy for the large herbivore bones dominating most Pleistocene
+assemblages. Flesh and fat were mechanically removed, after which
+the bone was further cleaned with water at a temperature of 40 °C
+and air-dried. Cleaned bone was cut into longitudinal samples measuring approximately 5 × 5 × 35 mm. All samples were cut from the same
+bone.
+
+284
+
+F.H. Reidsma et al. / Journal of Archaeological Science: Reports 10 (2016) 282–292
+
+All samples were individually charred to the required temperature.
+The temperatures used for this study include 200, 250, 300, 340, 370,
+400, 450, 500, 600, 700, 800, and 900 °C and are based on previous research (Braadbaart, 2004). Additionally, one sample was left unheated
+(20 °C), making for a total of 13 samples. Charring was done under controlled conditions using a Carbolite tube oven (model MTF 12/38/250).
+Individual samples were placed in an open Pyrex© vessel and inserted
+into a 30 cm long Pyrex© tube 18 cm from the inlet. Samples were heated for 60 min in the preheated oven, at atmospheric pressure and under
+constant nitrogen ﬂow (150 ml/min) (cf. Braadbaart et al., 2009). Volatiles were vented. Samples were cooled for 24 h outside the oven, in
+closed sample vials, and then powdered by hand using an agate pestle
+and mortar. The unheated sample was powdered by gently sawing the
+sample with a hand saw. Subsequent analyses were all performed on
+the charred bone samples produced during these heating experiments,
+as well as on the unheated control sample.
+3.2. Physical analysis
+3.2.1. Colour
+Bone colour was determined on the powdered samples using the
+Munsell Soil Color chart (Munsell, 1954).
+3.2.2. Mass loss
+All samples were weighed before and after heating in order to determine the mass loss during each heating experiment. Weighing was
+done after cooling to ensure acclimatisation.
+3.2.3. Thermogravimetric analysis (TGA)
+TGA was performed on a minimal amount of 1 mg of powdered sample, using a LECO TGA 701. Samples were heated to 950 °C with a
+heating rate of 5 °C/min using air as the carrier gas to ensure complete
+combustion. The water content was determined as the mass loss at
+200 °C, the organic content as the mass loss between 200 and 600 °C,
+and the ash content as the remaining mass at 950 °C.
+3.2.4. Reﬂectance analysis
+Reﬂectance analysis was performed on the bone samples charred to
+300 °C and beyond. Samples were embedded in resin blocks and
+polished in accordance with the international standard methods deﬁned in ISO 7404, part 2 (1985). Mean reﬂectance values were obtained
+by measuring a total of 100 randomly selected points (i.e. a statistically
+acceptable population). Reﬂectance was measured under oil immersion
+at a wavelength of 546 nm, using a Leitz motorised DMLA microscope
+equipped with an xyz-stage and a Basler video camera, in accordance
+with the international standard methods deﬁned in ISO 7404, part 5
+(1994).
+3.3. Elemental analysis
+3.3.1. X-ray ﬂuorescence (XRF)
+The elemental composition (elements with atomic number ≥12) of
+powdered sample was measured using a hand-held Thermo Scientiﬁc
+Niton XL3t XRF device with a GOLDD detector equipped with a silver
+anode operating at a maximum of 50 kV and 40 μA. Measurement
+time was set to 110 s and measurements were taken in triplicate. Quantiﬁcation of the elements is based on the presence of oxides. Results are
+presented as wt% of the dry organic free content (dof).
+The machine is factory calibrated and results are used as received.
+The following reference materials were used to check the internal calibration: high Ca and P was checked with Breitlander (Br) SP2, A3, B2b, C3, D2, E2, and F2A. Trace elements and medium level Ca and P and
+other major elements were checked with reference material from:
+ANTR (FK-N, UB-N), IGGE (GSD-1, GSD-2, GSD-3, GSD-4), GSJ (JA-2,
+JB-3, JG-1a, JG-2, JGb-2, JSd-1, JSd-2) USGS, (MAG-1, PCC-1), NIST
+(NISTSRM2710), MINTEK (SARM52, SARM2, SARM6), CCRMP (SO-1),
+
+and pure calcite (J.T.Baker chemicals). Reference values and measured
+values were positively correlated (r2 N 0.98). The performed measurements are semi-quantitative, as bone is not mineralogical equivalent
+to the standards used. However, since all analysed samples have the
+same matrix, the obtained results are mutually comparable.
+3.3.2. CHN analysis
+Carbon (C), hydrogen (H) and nitrogen (N) analysis was executed in
+triplicate on powdered sample using a NA 1500 series 2 NC analyser
+from Fisons Instruments. The temperature in the ﬂash combustion reactor was maintained at 1020 °C, and the combustion products (CO2, H2O
+and N2O) were separated on a Porapak QS column with a length of 2 m.
+Results are presented as wt% of the dry ash free content (daf).
+3.4. Molecular analysis
+3.4.1. Fourier transform infrared spectroscopy (FTIR)
+Single measurements were performed on powdered sample using
+an Attenuated Total Reﬂectance (ATR) Perkin Elmer Spectrum100 FTIR spectrometer, equipped with a diamond ATR crystal. Absorption
+spectra were accumulated in 16 scans, for the 4000–450 cm−1 wavelength range, with a spectral resolution of 4 cm−1. Spectra were background corrected and normalised on the highest peak. The FTIR
+splitting factor (SF), which is often used to deﬁne crystallinity, is calculated following Weiner and Bar-Yosef (1990). The C/P (carbonate/phosphate) ratio was calculated using the height of the carbonate absorption
+−1
+peak at 1417 cm−1 (CO2–
+3 υ3) and the phosphate peak at 1015 cm
+3−
+(PO4 υ3).
+3.4.2. Raman spectroscopy
+Raman spectra were obtained with a PerkinElmer RamanMicro 300
+Raman microscope equipped with a 785 nm laser. Single measurements
+were taken on powdered sample, for the 2000–400 cm−1 wavelength
+range. Spectra were baseline corrected and normalised to the height
+of the 959 cm−1 peak.
+3.4.3. Direct temperature-resolved mass spectrometry (DTMS)
+Single measurements of powdered sample were taken using a JEOL
+SX-102A double focussing mass spectrometer (B/E), with a direct insertion probe equipped with a Pt/Rh (9/1) ﬁlament for analysis under electron ionization (EI) conditions (for details see Braadbaart et al., 2007).
+3.5. Structural analysis
+3.5.1. X-ray diffraction (XRD)
+Powdered sample was attached to an amorphous silica plate using
+resin. Analysis was carried out using a Bruker D8 Discover XRD
+equipped with a 2D General Area Detector Diffraction System
+(GADDS) detector. A copper target X-ray tube (8 mm) was used and operated at 40 kV and 30 mA. The measurements were collected in the 16–
+68° 2θ range, with a step size of 0.04° 2θ and a step time of 5 s.
+Diffractograms were background corrected and normalised to their
+highest peak. Measurements were performed on untreated samples.
+The XRD-crystallinity index (CI) was determined following Person et
+al. (1995). The width of the [002] reﬂection was used to monitor changes in crystal size and/or strain (cf. Person et al., 1995; Rogers and
+Daniels, 2002).
+4. Results
+4.1. Physical analysis
+4.1.1. Colour
+Bone colour (Fig. 1, Table 1) changed from white through yellowwhite and yellow to reddish brown at 300 °C, after this initial change
+
+F.H. Reidsma et al. / Journal of Archaeological Science: Reports 10 (2016) 282–292
+
+285
+
+Fig. 1. Colour changes in bone as a result of heating under reducing conditions. Temperatures in °C.
+
+the bones darkened to black with increasing temperature at 600 °C and
+higher (cf. Munsell, 1954).
+
+4.2. Elemental analysis
+4.2.1. XRF
+Results of the XRF analysis are presented in Table 1 and Fig. 2 and indicate that with increasing temperature and temperature-dependant
+mass loss both the Ca and P content (dof) remain stable (Ca: 43.04 ±
+0.71 wt%, P: 22.99 ± 0.69 wt%).
+
+4.1.2. Mass loss
+Mass loss during heating occurs in two stages (Fig. 2, Table 1): below
+370 °C the increase in mass loss follows an approximately linear trend
+from 10.53 wt% at 200 °C to 24.93 wt% at 370 °C (± 6 wt%/100 °C),
+above 400 °C the increase in mass loss slows down to an approximately
+linear trend of 1.3 wt%/100 °C, from 25.79 wt% at 400 °C to 33.93 wt% at
+900 °C.
+
+4.2.2. CHN analysis
+The C content shows an increase of ±15% between 200 and 450 °C,
+from 49.08 to 63.20 daf wt%, after which the C level remains stable
+(mean: 63.7 ± 0.8 daf wt%) (Table 1, Fig. 4). The N content gradually decreases ±4% towards 450 °C, from 14.10 daf wt% at 200 °C to 9.71 daf
+wt% at 450 °C, and then remains stable as well (mean: 9.8 ± 0.8 daf
+wt%). Results indicate no changes in the H content (mean: 7.33 ± 0.6
+daf wt%). Values for the sample heated to 900 °C appeared to be
+overestimated, due to insufﬁcient sample size, and were therefore not
+included.
+
+4.1.3. TGA
+A number of temperature-dependant trends can be observed in the
+TGA results (Table 1, Fig. 3). Below 200–250 °C mass loss is related to the
+loss of the free and structural (organic) water content. Between 250 and
+500 °C a steep decline in the organic content of approximately 8 wt%/
+100 °C can be observed. This decline slows down between 500 and
+800 °C to approximately 1.2 wt%/100 °C. In the ﬁnal stage (800–
+900 °C) the organic content drops towards 1 wt%. Independently from
+temperature, inorganic mass loss can be seen to ﬂuctuate around 2.8
+wt%.
+
+4.3. Molecular analysis
+4.3.1. FTIR
+FTIR was applied to assess the changes in the mineral and organic fraction of bone under the present experimental conditions (Table 2, Fig. 5).
+The spectrum for unheated bone is characterised by a dominant peak at
+1015 cm−1, which represents the PO3−
+υ3 asymmetric stretching. The
+4
+presence of this peak at this particular location indicates that bone mineral is a non-stoichiometric apatite with substitutions of CO3 and/or HPO4 in
+its crystal lattice (Paschalis et al., 1996). The PO3−
+υ1 symmetric
+4
+
+4.1.4. Reﬂectance analysis
+Reﬂectance analysis was performed to assess changes in the molecular structure of the aromatic compounds. Unfortunately, due to the intimate association and nano scale of the organic and mineral fraction in
+bone, the target area could not be identiﬁed and reﬂectance could not be
+measured. This problem could be addressed by testing if reﬂectance
+analysis can be performed on charred collagen that has been chemically
+extracted from the bone tissue.
+
+Table 1
+Overview of the changes in different bone properties as a result of heating under reducing conditions. *See text.
+Temperature
+
+Colour
+
+Mass loss
+
+FTIR
+
+FTIR C/P
+
+Water
+
+TGA
+Organic
+
+Ash
+
+Ca
+
+XRF
+P
+
+C
+
+CHN
+H
+
+N
+
+SF
+
+CO3 υ3
+
+XRD-CI
+
+XRD
+FWHM 002
+
+°C
+
+Munsell
+
+wt%
+
+wt%
+
+wt%
+
+wt%
+
+dof wt%
+
+dof wt%
+
+daf wt%
+
+daf wt%
+
+daf wt%
+
+–
+
+–
+
+–
+
+2theta
+
+20
+200
+250
+300
+340
+370
+400
+450
+500
+600
+700
+800
+900
+
+White
+Yellow-white
+Yellow
+Reddish brown
+Brown
+Brown
+Brown
+Dark brown
+Black-brown
+Black
+Black
+Black
+Black
+
+0,00
+10,53
+12,90
+18,58
+22,89
+24,93
+25,79
+27,85
+28,51
+29,20
+30,38
+31,90
+33,93
+
+7,33
+5,49
+3,85
+3,24
+3,96
+3,72
+4,70
+5,36
+5,90
+6,02
+5,77
+4,46
+1,70
+
+24,06
+23,96
+23,37
+18,65
+15,59
+13,09
+11,29
+9,39
+8,40
+7,10
+6,11
+4,67
+1,50
+
+65,92
+68,14
+70,17
+73,63
+77,59
+79,95
+80,92
+82,24
+82,69
+83,96
+85,25
+87,95
+94,47
+
+41,43
+43,37
+43,97
+42,77
+43,11
+43,76
+42,85
+43,05
+42,94
+42,13
+44,07
+42,92
+43,18
+
+22,05
+24,00
+23,98
+22,91
+23,06
+22,92
+22,73
+23,05
+22,99
+22,77
+23,73
+23,21
+21,52
+
+47,95
+49,08
+52,82
+58,92
+59,76
+59,85
+65,50
+63,20
+63,25
+64,07
+62,88
+64,58
+*
+
+8,56
+7,85
+7,35
+6,83
+6,99
+7,41
+7,91
+7,48
+7,10
+7,29
+6,65
+6,59
+*
+
+13,84
+14,10
+14,45
+13,65
+12,20
+11,32
+11,70
+9,71
+9,72
+10,08
+8,76
+10,54
+*
+
+3,32
+3,37
+3,60
+3,60
+3,62
+3,67
+3,74
+3,64
+3,62
+3,71
+4,02
+4,29
+4,46
+
+0,31
+0,30
+0,26
+0,23
+0,20
+0,21
+0,19
+0,18
+0,20
+0,16
+0,15
+0,11
+0,08
+
+0,01
+0,01
+0,01
+0,01
+0,01
+0,02
+0,00
+0,00
+0,00
+0,01
+0,02
+0,04
+0,43
+
+0,44
+0,37
+0,39
+0,36
+0,40
+0,37
+0,40
+0,41
+0,38
+0,39
+0,37
+0,38
+0,31
+
+286
+
+F.H. Reidsma et al. / Journal of Archaeological Science: Reports 10 (2016) 282–292
+70
+
+110
+
+100
+60
+
+90
+50
+C, H, N content (daf wt%)
+
+80
+
+70
+
+60
+
+40
+
+30
+
+50
+20
+
+40
+10
+
+30
+0
+
+20
+
+0
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+Fig. 2. Ca (blue) and P (red) content + mass loss (green) (wt% dof) of bone heated under
+reducing conditions as a function of temperature.
+
+stretching can be observed as a shoulder on the dominant phosphate
+peak at 969 cm−1 (Alvarez-Lloret et al., 2006; Berzina-Cimdina and
+Borodajenko, 2012; Figueiredo et al., 2010, 2012; Paschalis et al., 1996).
+Additional phosphate peaks are present at 559 cm−1 and 601 cm−1
+(both PO3−
+υ4 bending) (Berzina-Cimdina and Borodajenko, 2012;
+4
+Figueiredo et al., 2010, 2012). The small hump visible at 471 cm−1 is tentatively attributed to the PO3−
+υ2 bending (Figueiredo et al., 2012). Car4
+bonate peaks can be found at 1452 cm−1 and 1417 cm−1, both CO2–
+3 υ3
+asymmetric stretching (Berzina-Cimdina and Borodajenko, 2012;
+Figueiredo et al., 2010), and at 873 cm−1. The latter can be attributed to
+2−
+both the CO2–
+υ2 bending
+3 υ2 out of phase bending and HPO4
+(Berzina-Cimdina and Borodajenko, 2012; Figueiredo et al., 2012). The
+presence of absorbed water is indicated by the broad band around
+2600–3600 cm−1, which overlaps with several organic components
+(Berzina-Cimdina and Borodajenko, 2012). The organic content of bone,
+
+25
+
+Mass loss (wt%)
+
+20
+
+15
+
+10
+
+5
+
+0
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+900
+
+900
+
+Fig. 3. Organic (o) and inorganic (+) mass loss during TGA as a function of charring
+temperature. Red markers = whole sample, blue markers = powdered sample, lines
+represent mean value.
+
+Fig. 4. C (blue), H (green) and N (red) content (wt% daf) of bone heated under reducing
+conditions as a function of temperature. Values for 900 °C excluded, see text. Line is
+meant to aid the reader.
+
+mainly Type 1 collagen, is represented by a number of amide peaks.
+Amide A and B N\\H stretching can be observed at 3288 cm−1 and
+3086 cm−1, respectively (Berzina-Cimdina and Borodajenko, 2012;
+Figueiredo et al., 2010, 2012). Two smaller peaks in this region, at 2959
+cm−1 and 2887 cm−1, represent the CH2 asymmetric and symmetric
+wagging. Another CH2 wagging peak overlaps with the CO2–
+3 υ3 peaks
+(Figueiredo et al., 2012; Vranceanu et al., 2012). Amide I (C_O
+stretching), II (C\\N stretch and N\\H bend), and III (C\\N stretch and
+N\\H bend) can be found at 1635 cm−1, 1546 cm−1, and 1235 cm−1, respectively (Alvarez-Lloret et al., 2006; Figueiredo et al., 2012; Lin et al.,
+2007; Vranceanu et al., 2012). Finally, the elevated area between 500
+and 750 cm−1 can be attributed to the overlapping vibrations of amide
+IV–VII (Figueiredo et al., 2012; Vranceanu et al., 2012).
+From 200 °C onwards a number of changes can be observed in the
+FTIR spectra (Table 2, Fig. 5). Between 200 and 340 °C there is a decrease
+in absorption of the amide peaks. At the same time the water content
+can be seen to decrease. Less pronounced changes can be observed for
+the phosphate and carbonate peaks between 250 and 340 °C. There is
+2−
+a modest decrease in carbonate content (CO2–
+3 υ3, as well as CO3 /
+3−
+HPO2−
+υ2),
+a
+slight
+narrowing
+of
+the
+PO
+υ3
+peak,
+and
+a
+modest
+in4
+4
+crease in the separation of PO3−
+4 υ1 and υ4. Between 340/370 °C the formation of aromatic compounds at ~ 1600 cm−1 can be observed as a
+reduced rate of decrease in absorption in the amide I and II area. No further changes become apparent from the FTIR spectra until temperatures
+of 600/700 °C are reached. At 600 °C splitting of the PO3−
+υ4 bending
+4
+(splitting factor) starts to occur, which becomes more pronounced between 700 and 900 °C (increase in SF of ±0.25/100 °C, Table 1). In tan2–
+dem, the CO2–
+3 υ3 symmetric and asymmetric stretching and CO3 υ2
+out of phase bending (or HPO2−
+υ2 bending) can be seen to decline,
+4
+from 600 and 700 °C onwards, respectively, resulting in a decrease in
+the C/P ratio (Table 1). In addition, new peaks appear at ~2020 and ~
+700 cm−1 from 700 °C onwards, which increase in intensity towards
+900 °C. Finally, a new shoulder appears on the PO34 − υ3 symmetric
+stretching at 1087 cm−1 when temperatures of 900 °C are reached.
+4.3.2. Raman
+The Raman results for unheated bone (20 °C) show a typical spectrum for bone with a high and narrow symmetric PO4 band near 959
+cm− 1 (not shown). However, upon heating the background ﬂuorescence increases, obscuring the signal of the symmetric PO4 band from
+temperatures as low as 250 °C onwards. The background ﬂuorescence
+
+F.H. Reidsma et al. / Journal of Archaeological Science: Reports 10 (2016) 282–292
+
+287
+
+Table 2
+Changes visible in bone FTIR spectra as a function of temperature during heating under reducing conditions. √ = present, empty cell = absent, green = increase in absorption, red =
+decrease in absorption.
+
+20
+
+200
+
+250
+
+300
+
+340
+
+Amide A + B
+
+√
+
+√
+
+√
+
+√
+
+√
+
+Amide I + II
+
+√
+
+√
+
+√
+
+√
+
+√
+
+Amide III
+
+√
+
+√
+
+√
+
+√
+
+√
+
+Amide IV–VII
+
+√
+
+√
+
+√
+
+√
+
+√
+
+Aromatic compounds
+
+370
+
+400
+
+450
+
+500
+
+600
+
+700
+
+800
+
+900
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+Water (H2O), adsorbed and structural
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+Splitting PO43– v1 symmetric stretching
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+3–
+
+Splitting PO4 v2 and v4 bending
+Change in PO43– v3 peak width
+Shoulder on PO43– v3 symmetric stretching
+
+√
+
+3–
+
+Splitting PO4 v4 bending (=SF)
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+CO32– v2 / HPO42– v2 (out of phase) bending
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+CO32– v3 (a)symmetric stretching
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+√
+
+New peak ~700 cm–1
+
+√
+
+√
+
+√
+
+New peak ~2020 cm–1
+
+√
+
+√
+
+√
+
+600 °C) poses a problem. Furthermore, tests have shown that ﬂuorescence also occurs for isolated heated bone mineral (Pasteris, pers.
+comm.), indicating that it is not simply related to the presence of organic compounds. Raman spectrometry is therefore only deemed useful for
+the analysis of heated bone with the addition of measures addressing
+the ﬂuorescence problem.
+1
+
+PO43- υ3
+
+water
+
+900°C
+
+aromates
+
+PO43- υ4
+
+CO32- υ2 /
+HPO42- υ2
+
+CO32- υ3
+PO43- υ3
+
+CO32- υ2 /
+HPO42- υ2
+
+CO32- υ3
+
+water
+
+600 °C
+
+aromates
+PO43- υ3
+
+aromates
+
+water
+
+PO υ4
+
+PO43- υ3
+
+amide I+II
+
+0
+1
+
+34
+
+CO32- υ2 /
+HPO42- υ2
+
+CO32- υ3
+
+340°C
+
+0
+1
+
+PO43- υ4
+
+CO32- υ3
+
+water + amide
+
+0
+1
+
+PO43- υ4
+
+CO32- υ2 /
+HPO42- υ2
+
+unheated
+0
+3950
+
+3450
+
+2950
+
+2450
+
+1950
+
+1450
+
+Wavelength (cm-1)
+Fig. 5. FTIR spectra of bone heated to selected temperatures under reducing conditions.
+
+950
+
+450
+
+Absorbance
+
+decreases again for higher temperatures, allowing bands near 1590 and
+1360 cm−1 to be observed above 600 °C (not shown). Additionally, the
+peak width of the primary phosphate band (at 959 cm−1) is reduced for
+the highest temperatures compared to that observed for unheated bone
+(not shown). The fact that background ﬂuorescence prevents the meaningful interpretation of a large part of the temperature range (250–
+
+288
+
+F.H. Reidsma et al. / Journal of Archaeological Science: Reports 10 (2016) 282–292
+
+4.3.3. DTMS
+The total ion current (TIC) in the untreated bone sample is
+characterised by one dominant peak resulting from the dissociation of
+the proteins (not shown). The spectrum of unheated bone shows a
+range of mass peaks that are typical of the presence of collagen in the
+sample. Mass peaks m/z 154, 111, 98, 83, 70, 55 and 41 are attributed
+to fragments of the dipeptide glycine-proline (Stankiewicz et al., 1996,
+1997), which forms an important part (ca. 40%) of the collagen in bone
+(Fig. 6A). Hydroxyproline (ca. 10%) is characterised by mass peaks m/z
+210, 186, 138, 94 and 80. Pyrrole (m/z 67, 80, 94) and pyrroline (m/z
+41) are derived from both proline (ca. 12%) and hydroxyproline. Mass
+peak m/z 136 is tentatively attributed to an alkylated homologue of pyrrole. Alanine (ca. 10%), here considered as the proline-alanine dipeptide,
+is characterised by m/z 70. A small lipid fraction is represented by the
+fatty acids m/z 256 (M), C16:0; m/z 260 (M-H2O), C18:3; m/z 278 (M),
+C18:3 and m/z 284 (M), C18:0. The origin of mass peaks like m/z 124,
+164 and 170 cannot be attributed to any amino acid or dipeptide.
+
+100
+
+70
+
+44
+
+28
+
+Untr.
+94
+
+83
+
+111
+
+98
+
+55
+
+50
+
+136 154
+124
+
+From 200 °C onwards, the DTMS spectra show mass peaks that describe the temperature-dependant conversion of the protein rich material. The spectra of the samples heated to 200 and 300 °C are still
+characterised by the proteins present in the collagen (not shown). In
+the sample heated to 340 °C (Fig. 6B) the collagen mass peaks, of relatively low intensity, are accompanied by a series related to new compounds. The latter are recognised as clusters of three mass peaks with
+CH2 (14) mass increments such as m/z 146, 147, 148; 160, 161, 162,
+etc., which correspond to homologue series of condensed aromatic
+compounds (Braadbaart, 2004, 125 and references cited therein). In addition, mass peaks related to alkylated phenols and benzenes, such as
+m/z 91, 92, 94, 107, 108 and 122, can now be observed. These compounds are typical products resulting from the thermal degradation of
+organic material like protein (Braadbaart et al., 2007). At 340 °C the
+thermal degradation of lipids is complete and no markers for this compound are observed. The spectrum of the sample heated to 370 °C has a
+different conﬁguration (Fig. 6C). Protein markers are no longer observed and the spectrum is now characterised by masses representing
+condensed aromatic compounds. Finally, at temperatures higher than
+400 °C the material is characterised by a very low amount of pyrolysis
+products (not shown). These spectra show mass peaks m/z 28 (CO)
+and 44 (CO2) derived from O-containing poly-aromates. Additionally,
+masses representing N-containing compounds are observed, such as
+m/z 27 (HCN), 41 (CH3CN), and 42 (H2CN2). The continued presence
+of m/z 44 relates to the presence of CO2 that is released during the thermal degradation of organic compounds as well as carbonates.
+4.4. Structural analysis
+
+186
+207
+
+0
+
+100
+
+200
+
+300
+
+m/z
+100
+
+28
+
+44
+50
+
+83 94
+70
+
+154
+
+111
+136
+
+4.4.1. XRD
+The results of the XRD analysis are presented in Fig. 7. The
+diffractogram of unheated bone shows a spectrum typical for bone mineral with a relatively sharp peak corresponding to the [002] diffraction,
+followed by a larger broad peak resulting from the combined [202],
+[300], [112] and [211] diffractions also seen in hydroxylapatite
+(Person et al., 1995). Changes in the crystal structure can be observed
+to start around 600 °C and is visible as the increasing separation of the
+combined [202], [300], [112] and [211] peaks, resulting in increased
+crystallinity. This can also be observed from the XRD-CI (Table 1). Crystallinity increases gradually from 700 to 800 °C (from 0.02 to 0.04), and
+exponentially towards 900 °C (0.43). An increase in crystal size and/or
+decrease in strain, as measured through the decrease in peak width of
+
+186
+
+211
+112
+300
+002
+
+0
+
+100
+
+200
+
+202
+
+300
+
+900 °C
+
+100
+
+Intensity (normalised)
+
+m/z
+28
+
+44
+
+800 °C
+
+50
+
+600 °C
+
+67
+
+0
+
+91
+
+108
+
+132 146
+
+174 186
+
+unheated
+20
+
+100
+
+200
+
+300
+
+25
+
+30
+
+35
+
+40
+
+45
+2θ
+
+50
+
+55
+
+60
+
+65
+
+70
+
+m/z
+
+Fig. 6. DTMS-EI spectra of bone heated to selected temperatures under reducing
+conditions. A = untreated, B = 340 °C, C = 370 °C.
+
+Fig. 7. XRD spectra for bone heated to selected temperatures under reducing conditions.
+Spectra are normalised to the highest peak. Peaks that can be used to calculate
+crystallinity are indicated.
+
+F.H. Reidsma et al. / Journal of Archaeological Science: Reports 10 (2016) 282–292
+
+the [002] diffraction, was only observed for the sample heated to 900 °C
+(Table 1). The formation of calcium pyrophosphate (Ca2P2O7) and βtricalciumphosphate (β-TCP) (e.g. Meejoo et al., 2006) was not observed in our sample. However, this is not surprising as these compounds have been found not to develop in bone until temperatures of
+around 1200 °C are reached (Rogers and Daniels, 2002; Younesi et al.,
+2011).
+5. Discussion
+The results of the different analytical techniques are combined to address the aims of this paper: determining the inﬂuence of heating under
+reducing conditions on the organic and inorganic content of bone, and
+determining the applicability of the various analytical techniques in addressing archaeological questions related to the identiﬁcation of heatinduced changes in charred bone and reconstructing past heating conditions. Gaining insight into charred bone and the methods available
+to analyse this material is an important prerequisite for a comprehensive understanding of the full range of types of heated bone present in
+the archaeological record, including combusted bone, as well as diagenetically altered heated bones, both charred and combusted.
+5.1. The effect of heat: organic content
+The ﬁrst phase of heat-induced alteration is characterised by dehydration reactions resulting in the loss of the free water content up to
+100 °C and loss of a large part of the chemically bound water between
+100 and 200 °C (TGA, FTIR). Thermal alteration of the proteins is initiated
+at around 200 °C, as shown by the decrease in collagen markers (200–
+300 °C) and conversion into alkylated benzenes and phenols, and condensed aromatic compounds (300–340 °C) (DTMS). Loss of water continues to occur during this second phase (see FTIR) related to the
+release of volatile gasses (Shaﬁzadeh, 1975). From 370 °C onwards, the
+organic content of bone mainly consists of aromatic compounds. The
+thermal conversion of protein is accompanied by an increase in C content
+(200–450 °C) and a decrease in N content (250–450 °C) (CHN). From
+around 500 °C onwards (but only clearly visible in the FTIR from
+700 °C), the aromatic content slowly declines until at 900 °C only a
+very small amount is left (TGA, FTIR). Despite the decline in organic content the residues remain black at these temperatures. It is striking that
+data presented on bone heated in oxidising conditions shows that the organic content decreases at a faster rate than in charred bone (Ellingham
+et al., 2015b), and is commonly completely lost around 650 °C (e.g.
+Munro et al., 2007; Thompson et al., 2013). Interestingly, DTMS and
+FTIR appear to suggest that between 400 and 600 °C further molecular
+changes occur in the char; the aromatic compounds are still present
+based on FTIR, but only give a minimal signal in the DTMS. Unfortunately,
+reﬂectance analysis to assess the molecular structure of the organic compounds, cannot be applied to thermally altered protein in bone due to its
+intimate association with the bone mineral. However, previous research
+indicated that heat treatment under reducing conditions of biomolecules,
+like proteins and polysaccharides (i.e. the main constituent of wood),
+produces solid residues, composed of aromatic compounds, which are increasingly similar and ultimately indistinguishable (Braadbaart, 2004,
+80). This suggests that the increased ordering and formation of poly-aromatic, planar sheets seen at higher temperatures (N400 °C) in charcoal
+would also take place in the aromatic compounds present in charred
+bone (for details see Braadbaart and Poole, 2008; Braadbaart et al.,
+2009). Finally, the formation of new compounds was observed between
+700 and 900 °C (Fig. 5). These peaks, at ~2020 and ~700 cm−1, have been
+attributed to cyanamide (CN2−
+2 ), which may form at elevated temperatures as the result of a reaction between the calcium of the bone mineral
+and residual C and N from the organic content (Dowker and Elliott,
+1979). This is in agreement with our CHN and DTMS (m/z 27, 42, 43) results, which indicate the continued presence of N within the three-dimensional network of the char (Braadbaart et al., 2007). Nevertheless,
+
+289
+
+at present, the exact reaction resulting in the formation of cyanamide
+in our sample remains unclear.
+
+5.2. The effect of heat: inorganic content
+Thermal alteration of the bone mineral mainly concerns reordering
+of the phosphate (PO4) crystals and a decrease in carbonate (CO3) content, as the Ca and P content remain stable during heating (Table 1).
+Mild changes in the former properties can be observed in the FTIR spectra from 250° to 340 °C. However, these are likely an artefact of the
+changes in organic content that occur around these temperatures and
+with which spectral locations are shared (e.g. overlap of CO3 υ3 and amides/CH2 wagging). Between 340 and 600 °C CO3 and PO4 properties
+ﬂuctuate slightly, but no real changes occur. From temperatures of
+600/700 °C more severe alterations start to occur in the bone mineral,
+with the most pronounced changes concentrating between 800 and
+900 °C. Changes at these high temperatures relate to increased ordering
+of the crystal structure (N600 °C, but most pronounced at 900 °C) and
+increased crystal size and/or decreased strain (~ 900 °C) (FTIR, XRD).
+Additionally, these changes are accompanied by loss of structurally
+bound water and carbonate (FTIR). It should be noted that thermal alteration of the bone mineral appears to occur at a slower rate during
+charring than during combustion. For example, Thompson et al.
+(2013) reported C/P ratio values for combusted bone that dropped
+below 0.10 between 600 and 700 °C, whereas for our study this did
+not happen until 900 °C was reached. Similarly, XRD-CI values for our
+samples remain virtually unchanged until 900 °C, while those reported
+for combusted bone by Munro et al. (2007) steadily increase from temperatures of 275 °C onwards (from 0.07 to 1.27 at 900 °C).
+It has been suggested that at elevated temperatures rehydroxylation
+reactions occur that introduce hydroxyl (OH−) back into the apatite
+structure (e.g. Pasteris et al., 2012; Snoeck et al., 2014). This change
+has been explained as the result of thermal breakdown of CO3 and reaction with structural water or HPO4, resulting in the release of CO2 and
+the formation of OH− and P2O4−
+(when HPO4 is involved) (Pasteris et
+7
+al., 2012). While a reduction in carbonate and structural water can be
+observed in our samples (N 600/700 °C, but most pronounced at
+900 °C), no traces of hydroxyl or pyrophosphate were observed in our
+samples (FTIR/XRD). Based on the present data, the lack of
+rehydroxylation in our charred bone samples cannot be explained.
+However, it may be related to the continued presence of organic material within our temperature range.
+
+5.3. Implications for archaeological research: identiﬁcation and heating
+conditions
+5.3.1. Colour
+Traditionally, heated bones are identiﬁed on the basis of their colour
+and morphology, both characteristics that can be fairly easily recognised
+with the naked eye, as opposed to requiring the aid of analytical techniques (Shipman et al., 1984; Stiner et al., 1995). Our results show
+that colour can also be used to distinguish between unheated and heated bones, when bones are heated under reducing conditions. However,
+due to the absence of oxygen, our bones display a different colour range
+than those described in studies focussing on bones heated in air (e.g.
+Munro et al., 2007). Additionally, bone colour may also vary as a result
+of varying exposure time (e.g. 60 min vs. 120 min). Consequently, colour can only be used as a rough indication of the heating conditions
+(i.e. charring vs. combustion; temperature). It should be noted that
+post-depositional processes may alter the colour of both heated and unheated bones in such a way that they become increasingly similar (e.g.
+Shahack-Gross et al., 1997). Considering the possibility of variations in
+bone colour, it is suggested that this characteristic is merely used as a
+starting point for further research.
+
+290
+
+F.H. Reidsma et al. / Journal of Archaeological Science: Reports 10 (2016) 282–292
+
+5.3.2. TGA
+Archaeological samples of charred bone can be compared to the reference data provided in this paper (Fig. 3), allowing quantitative temperature reconstructions. Future research will supplement this
+correlation curve with more extensive experimental data on the effect
+of oxygen, exposure time and various diagenetic pathways.
+5.3.3. CHN
+Elemental composition has the potential to be used to infer temperature and identify heat-induced changes in bone heated under reducing
+conditions by measuring the C and N content (daf), which showed temperature-dependant changes (Fig. 4). However, temperature estimates
+will only be semi-quantitative as the changes in both elements level
+off at 450 °C.
+5.3.4. FTIR
+FTIR has been applied to bone experimentally heated under
+oxidising conditions and on archaeological material, either with a
+focus on curve-ﬁtting or on crystallinity indices (e.g. Berna et al.,
+2012; Lebon et al., 2008; Thompson et al., 2009, 2013). Our results indicate that FTIR has the potential to be used to identify heat-induced alterations in bone heated under reducing conditions in the same manner, as
+well as the potential to be used to infer past heating temperature. However, since the type and speed of heat-induced alterations in bone heated under reducing conditions appear to differ from those in bone heated
+under oxidising conditions, caution should be taken when determining
+heating temperature. Therefore, the reference data provided in this
+paper (Tables 1 + 2, Fig. 5) should be used when analysing charred
+bone or be used in addition to reference data for combusted bone whenever the heating conditions are unclear. Furthermore, we suggest applying statistics such as Principle Component Analysis when determining
+heating conditions (temperature and/or charring vs. combustion), as
+this will allow for more accurate interpretations (Braadbaart, 2004). Finally, it should be noted that diagenesis may affect FTIR results (e.g.
+Hollund et al., 2013). Research into the effect of different diagenetic
+pathways is therefore needed to supplement the reference data presented here.
+5.3.5. DTMS
+Mass spectrometry also has the potential to be used to identify heatinduced changes in bone heated under reducing conditions and determine maximum heating temperature. However, due to the nature of
+the method, it can only be used to describe changes in the organic components of a material. DTMS cannot be used to distinguish between
+charring and combustion since both heating conditions produce the
+same products for the temperature range DTMS can be applied to,
+b400 °C. However, for higher temperatures reﬂectance analysis
+may be used, as this method also depends on the molecular structure
+of the compounds, provided that the mineral component of the bone
+tissue can be removed.
+5.3.6. XRD
+Because XRD focuses on the inorganic fraction of bone, the method,
+as applied in our study, can only be used to identify heat-induced changes in bone heated under reducing conditions to temperatures of 600 °C
+or higher, with the clearest change visible around 900 °C. However, the
+increase in crystallinity (CI) seen in bones heated to these temperatures
+can also be the result of diagenesis (e.g. Ellingham et al., 2015a). XRD is
+therefore only useful for determining heating conditions (temperature
+and/or charring vs. combustion) in conjunction with other analytical
+techniques. With regard to the use of the crystallinity index (CI), it
+should be noted that different deﬁnitions of the concept exist that characterise crystallinity in slightly different ways. For example, Termine
+and Posner (1966) deﬁne crystallinity as the relative percentage by
+weight of crystalline material, whereas Reyes-Gasga et al. (2013) describe it as the relative volume of crystalline material. Furthermore,
+
+the CI can be calculated either based on peak height (e.g. Person et al.,
+1995; Weiner and Bar-Yosef, 1990) or based on the area under and/or
+between certain peaks (e.g. Termine and Posner, 1966), which have
+been shown to result in different values (Park et al., 2010). One can
+imagine the same problems apply to the FTIR splitting factor. Because
+of these issues and on-going discussion about the meaning of different
+CI values (e.g. see Thompson et al., 2013), care should be taken when
+applying this approach to archaeological material.
+5.3.7. Toolkit approach
+In order to enhance the robusticity of the interpretations of archaeological charred bone, different analytical techniques should be combined. Bone is a bioinorganic material composed of intimately
+associated organic and inorganic components, which results show
+react differently to heat, e.g. at different temperatures. Gaining comprehensive insight into past heating conditions from heated bone therefore
+requires the use of a combination of techniques that target both the organic and inorganic content. In addition, the various analytical techniques target different aspects of the bone, e.g. elemental composition
+(CHN and XRF) versus molecular composition (FTIR and DTMS) versus
+physical properties (TGA and XRD). All of these give you different levels
+of inference, which come with their own speciﬁc limitations. By combining techniques that target different aspects of bone these limitations
+can be partially circumvented, resulting in more accurate interpretations of the archaeological material.
+6. Conclusion
+The use of ﬁre has played a deﬁning role within the development of
+humankind. Heated bone, being more taphonomically durable than
+charcoal due to the presence of a large mineral component, forms an important source of information for gaining a comprehensive understanding of the history and speciﬁcs of ﬁre use through time. It is therefore
+essential to be able to unambiguously identify heated bone in the archaeological record, to trace back when and where ﬁre was used, and
+to reliably determine past heating conditions, such as temperature
+and oxygen level, in order to infer ﬁre function. More fundamental research geared towards identiﬁcation and explanation of the observed
+changes in thermally altered bone is needed. Data of this nature will
+have the advantage of being applicable to different contexts, and will
+not only allow for a better understanding of past heating conditions,
+but also provide insight into the preservation potential of differentially
+heated bone.
+Through a series of controlled laboratory-based heating experiments
+and the application of a broad range of analytical techniques, this study
+demonstrates that bone heated under reducing conditions shows a different thermal alteration trajectory than bone heated in the presence of
+oxygen. In the absence of oxidation reactions the loss of organic compounds is slowed down. As a result of thermal shielding, changes in
+the inorganic fraction of bone are delayed or prevented entirely. These
+ﬁndings reafﬁrm the importance of considering charring and combustion as two different processes, as well as highlight the importance of
+considering the speciﬁc heating conditions when analysing archaeological material. By focussing on the process of charring, this study provides
+valuable initial reference data for the study of an important, yet still underrepresented part of the full range of heated bone potentially available in the archaeological record.
+The difference between the physical and chemical properties of bone
+heated with and without oxygen has implications for the suitability of
+the different analytical techniques when identifying and determining
+past heating conditions of heated bone from archaeological contexts.
+The results of this study show that different/additional reference data
+is required for the characterisation of charred bone. In addition, the retarded effect of heat on the organic and inorganic fraction renders certain techniques, such as XRD, less useful for the analysis of charred
+bone. In order to increase the robusticity of the obtained data, it is
+
+F.H. Reidsma et al. / Journal of Archaeological Science: Reports 10 (2016) 282–292
+
+advisable to apply a combination of techniques that target both the organic and mineral components of bone. This will also allow some of the
+limitations of the individual techniques to be negated. Results suggest
+the most effective toolkit for analysing archaeological charred bone includes at least a combination of TGA, DTMS and FTIR. However,
+robusticity is further improved by adding the other methods presented
+in this paper. Following this approach, the reference data and techniques presented in this study provide the ﬁrst step towards a toolkit
+for the characterisation of archaeological charred bone from various different ages and contexts.
+The archaeological record of ﬁre use contains a complex mixture of
+both charred and combusted bones, most of which will have been affected by post-depositional processes. This study takes an important
+ﬁrst step towards a full understanding of archaeological heated bone
+by providing comprehensive baseline data on charred bone, which can
+be used for identiﬁcation purposes and determining past heating conditions, as well as aid in reconstructing taphonomic histories. Further research is underway to extend the reference data presented here both
+with repeats and blind-tests, as well as to cover the effect of oxygen
+on thermal alteration and the inﬂuence of post-depositional processes
+on both charred and combusted bone.
+Acknowledgements
+We would like to thank the following people from the Dutch Cultural
+Heritage Agency (RCE) for their help with the measurements: Suzan de
+Groot for assistance with the FTIR and Raman, Elisa Selviasiuk for
+performing the Raman, and Henk van Keulen for his assistance with
+the pyMS. Thanks also go out to Wil Roebroeks and Marie Soressi (Faculty of Archaeology, Leiden University) for helpful discussions on the
+subject and feedback on earlier versions of the paper, and to Paul
+Kozowyk for proof-reading. Finally we would like to thank the two
+anonymous reviewers for valuable feedback. This project was funded
+by the Koninklijke Nederlandse Akademie van Wetenschappen
+(KNAW; https://www.knaw.nl/en): Academy Professor Prize program
+2013, awarded to Wil Roebroeks.
+References
+Adamiano, A., Fabbri, D., Falini, G., Giovanna Belcastro, M., 2013. A complementary approach using analytical pyrolysis to evaluate collagen degradation and mineral
+fossilisation in archaeological bones: the case study of Vicenne-Campochiaro necropolis (Italy). J. Anal. Appl. Pyrolysis 100, 173–180.
+Albini, F.A., 1993. Dynamics and modelling of vegetation ﬁres: observations. In: Crutzen,
+P.J., Goldammer, J.G. (Eds.), Fire in the Environment: The Ecological, Atmospheric
+and Climatic Importance of Vegetation Fires. Wiley, Chichester, pp. 703–717.
+Alvarez-Lloret, P., Rodriguez-Navarro, A.B., Romanek, C.S., Gaines, K.S., Congdon, J., 2006.
+Quantitative analysis of bone mineral using FTIR. Macla 6, 45–47.
+Ascough, P.L., Bird, M.I., Wormald, P., Snape, C.E., Apperley, D., 2008. Inﬂuence of production variables and starting material on charcoal stable isotopic and molecular characteristics. Geochim. Cosmochim. Acta 72, 6090–6102.
+Berna, F., Goldberg, P., Horwitz, L.K., Brink, J., Holt, S., Bamford, M., Chazan, M., 2012.
+Microstratigraphic evidence of in situ ﬁre in the Acheulean strata of Wonderwerk
+Cave, Northern Cape province, South Africa. Proc. Natl. Acad. Sci. 109, E1215–E1220.
+Berzina-cimdina, L., Borodajenko, N., 2012. Research of calcium phosphates using Fourier
+transform infrared spectroscopy. In: Theophile, T. (Ed.), Infrared Spectroscopy — Materials Science, Engineering and Technology. INTECH, pp. 123–148.
+Boskey, A.L., 2007. Mineralization of bones and teeth. Elements 3, 387–393.
+Braadbaart, F., 2004. Carbonization of Peas and Wheat — A Window Into the Past: A Laboratory Study.
+Braadbaart, F., Poole, I., 2008. Morphological, chemical and physical changes during
+charcoaliﬁcation of wood and its relevance to archaeological contexts. J. Archaeol.
+Sci. 35, 2434–2445.
+Braadbaart, F., Wright, P.J., van der Horst, J., Boon, J.J., 2007. A laboratory simulation of the
+carbonization of sunﬂower achenes and seeds. J. Anal. Appl. Pyrolysis 78, 316–327.
+Braadbaart, F., Poole, I., van Brussel, A.A., 2009. Preservation potential of charcoal in alkaline environments: an experimental approach and implications for the archaeological
+record. J. Archaeol. Sci. 36, 1672–1679.
+Braadbaart, F., Poole, I., Huisman, H.D.J., van Os, B., 2012. Fuel, ﬁre and heat: an experimental approach to highlight the potential of studying ash and char remains from archaeological contexts. J. Archaeol. Sci. 39, 836–847.
+Cohen-Ofri, I., Weiner, L., Boaretto, E., Mintz, G., Weiner, S., 2006. Modern and fossil charcoal: aspects of structure and diagenesis. J. Archaeol. Sci. 33, 428–439.
+
+291
+
+Dowker, S., Elliott, J., 1979. Infrared absorption bands from NCO− and NCN2− in heated
+carbonate-containing apatites prepared in the presence of NH+
+4 ions. Calcif. Tissue
+Int. 29, 177–178.
+Ellingham, S.T.D., Thompson, T.J.U., Islam, M., Taylor, G., 2015a. Estimating temperature
+exposure of burnt bone — a methodological review. Sci. Justice 55, 181–188.
+Ellingham, S.T.D., Thompson, T.J.U., Islam, M., 2015b. Thermogravimetric analysis of property changes and weight loss in incinerated bone. Palaeogeogr. Palaeoclimatol.
+Palaeoecol. 438, 239–244.
+Emmons, H., Atreya, A., 1982. The science of wood combustion. Proc. Indiana Acad. Sci. 5,
+259–268.
+Enzo, S., Bazzoni, M., Mazzarello, V., 2007. A study by thermal treatment and X-ray powder diffraction on burnt fragmented bones from tombs II, IV and IX belonging to the
+hypogeic necropolis of “Sa Figu” near Ittiri, Sassari. J. Archaeol. Sci. 34, 1731–1737.
+Etok, S., Valsami-Jones, E., Wess, T., 2007. Structural and chemical changes of thermally
+treated bone apatite. J. Mater. Sci. 42, 9807–9816.
+Figueiredo, M., Fernando, A., Martins, G., Freitas, J., Judas, F., Figueiredo, H., 2010. Effect of
+the calcination temperature on the composition and microstructure of hydroxyapatite derived from human and animal bone. Ceram. Int. 36, 2383–2393.
+Figueiredo, M., Gamelas, J., Martins, A., 2012. Characterization of bone and bone-based
+graft materials using FTIR spectroscopy. In: Theophile, T. (Ed.), Infrared Spectroscopy
+— Life and Biomedical Sciences. INTECH, pp. 315–338.
+Goudsblom, J., 1992. The civilizing process and the domestication of ﬁre. J. World Hist. 3,
+1–11.
+Haberko, K., Bucko, M., Brzezinska-Miecznik, J., Haberko, M., Mozgawa, W., Panz, P., Pyda,
+A., Zarebski, J., 2006. Natural hydroxyapatite—its behaviour during heat treatment.
+J. Eur. Ceram. Soc. 26, 537–542.
+Hollund, H.I., Ariese, F., Fernandes, R., Jans, M.M.E., Kars, H., 2013. Testing an alternative
+high-throughput tool for investigating bone diagenesis: FTIR in attenuated total reﬂection (ATR) mode*. Archaeometry 55, 507–532.
+ISO 7404 part 2, 1985. International Standard. Methods for the Petrographic Analysis of
+Bituminous Coal and Anthracited Part 2: Method of Preparing Coal Samples, Ref.
+No. ISO 7404/2–1985(E).
+ISO 7404 part 5, 1994. International Standard. Methods for the Petrographic Analysis of
+Bituminous Coal and Anthracited Part 5: Method of Determining Micro-scopically
+the Reﬂectance of Vitrinite, Ref. No. ISO 7404-5: 1994 (E).
+Jankovic, B., Kolar-Anic, L., Smiciklas, I., Dimovic, S., Arandelovic, D., 2009. The Non-isothermal Thermogravimetric Tests of Animal Bones Combustion. Part I: Kinetic Analysis. Thermochim. Acta 495, 129–138.
+Kalsbeek, N., Richter, J., 2006. Preservation of burned bones: an investigation of the effects
+of temperature and pH on hardness. Stud. Conserv. 51, 123–138.
+Koon, H.E.C., Nicholson, R.A., Collins, M.J., 2003. A practical approach to the identiﬁcation
+of low temperature heated bone using TEM. J. Archaeol. Sci. 30, 1393–1399.
+Koon, H.E.C., O'Connor, T.P., Collins, M.J., 2010. Sorting the butchered from the boiled.
+J. Archaeol. Sci. 37, 62–69.
+Kuhn, L.T., Grynpas, M.D., Rey, C.C., Ackerman, Y.W.J.L., Glimcher, M.J., 2008. A comparison
+of the physical and chemical differences between cancellous and cortical bovine bone
+mineral at two ages. Calcif. Tissue Int. 83, 146–154.
+Lebon, M., Reiche, I., Fröhlich, F., Bahain, J.-J., Falguères, C., 2008. Characterization of archaeological burnt bones: contribution of a new analytical protocol based on derivative FTIR spectroscopy and curve ﬁtting of the nu1nu3 PO4 domain. Anal. Bioanal.
+Chem. 392, 1479–1488.
+Lebon, M., Reiche, I., Bahain, J., Chadefaux, C., Moigne, A.-M., Frohlich, F., Semah, F.,
+Schwarcz, H., Falgueres, C., 2010. New parameters for the characterization of diagenetic alterations and heat-induced changes of fossil bone mineral using Fourier transform infrared spectrometry. J. Archaeol. Sci. 37, 2265–2276.
+Lin, S.-Y., Li, M.-J., Cheng, W.-T., 2007. FT-IR and Raman vibrational microspectroscopies
+used for spectral biodiagnosis of human tissues. Spectroscopy 21, 1–30.
+Lozano, L., Pena-Rico, M., Heredia, A., Ocotlan-Flores, J., Gomez-Cortes, A., Velazquez, R.,
+Belio, I., Bucio, L., 2003. Thermal analysis study of human bone. J. Mater. Sci. 38,
+4777–4782.
+Meejoo, S., Maneeprakorn, W., Winotai, P., 2006. Phase and thermal stability of nanocrystalline hydroxyapatite prepared via microwave heating. Thermochim. Acta 447, 115–120.
+Mkukuma, L.D., Skakle, J.M.S., Gibson, I.R., Imrie, C.T., Aspden, R.M., Hukins, D.W.L., 2004.
+Effect of the proportion of organic material in bone on thermal decomposition of
+bone mineral: an investigation of a variety of bones from different species using thermogravimetric analysis coupled to mass spectrometry, high-temperature X-ray diffraction. Calcif. Tissue Int. 75, 321–328.
+Munro, L.E., Longstaffe, F.J., White, C.D., 2007. Burning and boiling of modern deer bone:
+effects on crystallinity and oxygen isotope composition of bioapatite phosphate.
+Palaeogeogr. Palaeoclimatol. Palaeoecol. 249, 90–102.
+Munsell, 1954. Soil Color Charts. Munsell Color Company, Inc., Baltimore, Maryland 21218.
+Park, S., Baker, J.O., Himmel, M.E., Parilla, P.A., Johnson, D.K., 2010. Cellulose crystallinity
+index: measurement techniques and their impact on interpreting cellulase performance. Biotechnol. Biofuels 3, 10.
+Paschalis, E.P., DiCarlo, E., Betts, F., Sherman, P., Mendelsohn, R., Boskey, A.L., 1996. FTIR
+microspectroscopic analysis of human osteonal bone. Calcif. Tissue Int. 59, 480–487.
+Pasteris, J.D., 2014. Thermodynamic approach provides insights into the aging process of
+biological apatite. Am. Mineral. 99, 145–146.
+Pasteris, J.D., Wopenka, B., Freeman, J.J., Rogers, K., Valsami-Jones, E., Van Der Houwen,
+J.A.M., Silva, M.J., 2004. Lack of OH in nanocrystalline apatite as a function of degree
+of atomic order: implications for bone and biomaterials. Biomaterials 25, 229–238.
+Pasteris, J.D., Yoder, C.H., Sternlieb, M.P., Liu, S., 2012. Effect of carbonate incorporation on
+the hydroxyl content of hydroxylapatite. Mineral. Mag. 76, 2741–2759.
+Pasteris, J.D., Yoder, C.H., Wopenka, B., 2014. Minerals in the human body: molecular
+water in nominally unhydrated carbonated hydroxylapatite: the key to a better understanding of bone mineral. Am. Mineral. 99, 16–27.
+
+292
+
+F.H. Reidsma et al. / Journal of Archaeological Science: Reports 10 (2016) 282–292
+
+Person, A., Bocherens, H., Saliège, J.-F., Paris, F., Zeitoun, V., Gerard, M., 1995. Early diagenetic evolution of bone phosphate : an X-ray diffractometry analysis. J. Archaeol. Sci.
+22, 211–221.
+Piga, G., Malgosa, A., Thompson, T.J.U., Enzo, S., 2008. A new calibration of the XRD technique for the study of archaeological burned human remains. J. Archaeol. Sci. 35,
+2171–2178.
+Rein, G., 2009. Smouldering combustion phenomena in science and technology. Int. Rev.
+Chem. Eng. 1, 3–18.
+Rey, C., Combes, C., Drouet, C., Glimcher, M.J., 2009. Bone mineral: update on chemical
+composition and structure. Osteoporos. Int. 20, 1013–1021.
+Reyes-Gasga, J., Martinez-Pineiro, E.L., Rodriguez-Alvarez, G., Tiznado-Orozco, G.E.,
+Garcia-Garcia, R., Bres, E.F., 2013. XRD and FTIR crystallinity indices in sound
+human tooth enamel and synthetic hydroxyapatite. Mater. Sci. Eng. C 33, 4568–4574.
+Roebroeks, W., Villa, P., 2011. On the earliest evidence for habitual use of ﬁre in Europe.
+Proc. Natl. Acad. Sci. U. S. A. 108, 5209–5214.
+Rogers, K.D., Daniels, P., 2002. An X-ray diffraction study of the effects of heat treatment
+on bone mineral microstructure. Biomaterials 23, 2577–2585.
+Scherjon, F., Bakels, C., MacDonald, K., Roebroeks, W., 2015. Burning the land: an ethnographic study of off-site ﬁre use by current and historically documented foragers
+and implications of the interpretation of past ﬁre practices in the landscape. Curr.
+Anthropol. 56, 299–326.
+Scott, A.C., 2010. Charcoal recognition, taphonomy and uses in palaeoenvironmental analysis. Palaeogeogr. Palaeoclimatol. Palaeoecol. 291, 11–39.
+Shaﬁzadeh, F., 1975. Industrial pyrolysis of cellulistic materials. In: Timell, T.E. (Ed.), Applied Polymer Symposium, p. 153.
+Shahack-Gross, R., Bar-Yosef, O., Weiner, S., 1997. Black-coloured bones in Hayonim Cave,
+Israel: differentiating between burning and oxide staining. J. Archaeol. Sci. 24,
+439–446.
+Shimelmitz, R., Kuhn, S.L., Jelinek, A.J., Ronen, A., Clark, A.E., Weinstein-Evron, M., 2014.
+“Fire at will”: the emergence of habitual ﬁre use 350,000 years ago. J. Hum. Evol.
+77, 196–203.
+Shipman, P., Foster, G., Schoeninger, M., 1984. Burnt bones and teeth: an experimental
+study of color, morphology, crystal structure and shrinkage. J. Archaeol. Sci. 11,
+307–325.
+Snoeck, C., Lee-Thorp, J.a., Schulting, R.J., 2014. From bone to ash: compositional and
+structural changes in burned modern and archaeological bone. Palaeogeogr.
+Palaeoclimatol. Palaeoecol. 416, 55–68.
+
+Stankiewicz, B.A., Van Bergen, P.F., Duncan, I.J., Carter, J.F., Briggs, D.E., Evershed, R.P.,
+1996. Recognition of chitin and proteins in invertebrate cuticles using analytical pyrolysis/gas chromatography and pyrolysis/gas chromatography/mass spectrometry.
+Rapid Commun. Mass Spectrom. 10, 1747–1757.
+Stankiewicz, B.A., Hutchins, J.C., Thomson, R., Briggs, D.E., Evershed, R.P., 1997. Assessment of bog-body tissue preservation by pyrolysis-gas chromatography/mass spectrometry. Rapid Commun. Mass Spectrom. 11, 1884–1890.
+Stiner, M., Kuhn, S., Weiner, S., Bar-Yosef, O., 1995. Differential burning, recrystallization,
+and fragmentation of archaeological bone. J. Archaeol. Sci. 22, 223–237.
+Termine, J.D., Posner, A.S., 1966. Infra-red determination of the percentage of crystallinity
+in apatitic calcium phosphates. Nature 211, 268–270.
+Théry-Parisot, I., 2002. Fuel management (bone and wood) during the lower Aurignacian
+in the Pataud rock shelter (lower Palaeolithic, Les Eyzies de Tayac, Dordogne, France).
+Contribution of experimentation. J. Archaeol. Sci. 29, 1415–1421.
+Thompson, T.J.U., Gauthier, M., Islam, M., 2009. The application of a new method of Fourier transform infrared spectroscopy to the analysis of burned bone. J. Archaeol. Sci.
+36, 910–914.
+Thompson, T.J.U., Islam, M., Piduru, K., Marcel, A., 2011. An investigation into the internal
+and external variables acting on crystallinity index using Fourier transform infrared
+spectroscopy on unaltered and burned bone. Palaeogeogr. Palaeoclimatol. Palaeoecol.
+299, 168–174.
+Thompson, T.J.U., Islam, M., Bonniere, M., 2013. A new statistical approach for determining the crystallinity of heat-altered bone mineral from FTIR spectra. J. Archaeol. Sci.
+40, 416–422.
+Vranceanu, M.D., Saban, R., Antoniac, I., Albu, M., Miculescu, F., 2012. Development and
+characterization of novel porous collagen based biocomposite for bone tissue regeneration. UPB Sci. Bull., Ser. B 74, 145–156.
+Weiner, S., 2010. Microarchaeology: Beyond the Visible Archaeological Record. Cambridge University Press, Cambridge.
+Weiner, S., Bar-Yosef, O., 1990. States of preservation of bones from prehistoric sites in the
+Near East: a survey. J. Archaeol. Sci. 17, 187–196.
+White, T.D., Folkens, P.A., 2005. The Human Bone Manual. Elsevier Academic Press, London.
+Wopenka, B., Pasteris, J.D., 2005. A mineralogical perspective on the apatite in bone.
+Mater. Sci. Eng. C 25, 131–143.
+Younesi, M., Javadpour, S., Bahrololoom, M.E., 2011. Effect of heat treatment temperature
+on chemical compositions of extracted hydroxyapatite from bovine bone ash.
+J. Mater. Eng. Perform. 20, 1484–1490.
+
+

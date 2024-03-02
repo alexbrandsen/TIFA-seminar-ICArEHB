@@ -1,0 +1,1715 @@
+Journal of Human Evolution 89 (2015) 46e56
+
+Contents lists available at ScienceDirect
+
+Journal of Human Evolution
+journal homepage: www.elsevier.com/locate/jhevol
+
+€ ningen
+The age of the Lower Paleolithic occupation at Scho
+Daniel Richter a, b, *, Matthias Krbetschek c, d, y
+a
+
+Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Deutscher Platz 6, 04103 Leipzig, Germany
+€tsstr. 30, 95447 Bayreuth, Germany
+LS Geomorphologie, University of Bayreuth, Universita
+c €
+€r, Institut für Angewandte Physik, TU Bergakademie Freiberg,
+Sachsische Akademie der Wissenschaften, Forschungsstelle Geochronologie Quarta
+Leipziger Straße 23, 09596 Freiberg, Germany
+d
+Freiberg Instruments GmbH, Delfterstr. 6, 09599 Freiberg, Germany
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 7 June 2013
+Accepted 8 June 2015
+Available online 23 July 2015
+
+Thermoluminescence (TL) data are presented for eight samples of heated ﬂint collected at the archae€ ningen 13/I-1 (Cycle I), for which a Holsteinian age is suggested by palynology of
+ological site of Scho
+stratigraphically similar positions within a cyclic sedimentological model for the Quaternary sequence of
+€ ningen. Although the ﬁre responsible for the zeroing of the TL-signal cannot be unequivocally
+Scho
+attributed to human activities, any time difference between a natural ﬁre and the human occupation is
+negligible for a site of this antiquity. The weighted mean age of 321 ± 16 ka places the last heating of the
+ﬂints nominally in the age range of Marine Isotope Stages (MIS) 10 to 8. By inference this data would
+suggest an attribution of the Holsteinian to MIS 9 and may also serve as a maximum age estimate for the
+€ ningen 13/II-4 (Cycle II). Considering the chronometric data available and following an
+spear site of Scho
+€ningen can be considered as
+alternative sedimentological model the age of these two sites at Scho
+belonging to the same climatic cycle. This suggests an attribution to MIS 9, and by inference provides an
+age estimate of 337e300 ka for the oldest spears in human history.
+© 2015 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Thermoluminescence
+TL
+Chronometric dating
+Flint
+Spear horizon
+
+1. Introduction
+Chronostratigraphy, for which stratigraphic information is
+combined with age estimates (Richter, 2015), provides the ultimate framework for the interpretation of human evolution, human behavior, and geological processes of the past. While relative
+age information is sufﬁcient as a ﬁrst approximation, chronostratigraphical information on a deﬁned time scale and/or with
+ﬁxed points in time is necessary to understand sequences of
+€ningen, with its relatively
+processes. The Quaternary site of Scho
+large number of sites and large scale excavations, is situated
+within a long sedimentary sequence, which reﬂects environmental changes and thus provides a unique opportunity to
+investigate hominin land use. The interpretation of climate and
+landscape change, and how these factors inﬂuence hominin
+behavior, requires speciﬁc knowledge of the time depth involved
+in such processes. However, the data necessary for placing the
+numerous and detailed litho- and biostratigraphical descriptions
+
+* Corresponding author.
+E-mail address: drichter@eva.mpg.de (D. Richter).
+y
+Deceased October 15th, 2012.
+http://dx.doi.org/10.1016/j.jhevol.2015.06.003
+0047-2484/© 2015 Elsevier Ltd. All rights reserved.
+
+on such a detailed time scale are largely unavailable for
+€ningen. Previous studies (Heijnis and Urban, 1995; Geyh and
+Scho
+Krbetschek, 2012; Sierralta et al., 2012; Urban and Sierralta,
+2012) obtained a limited number of numerical ages, and therefore the chronostratigraphy is mostly based on models of sedimentation and biostratigraphical correlations (e.g., Urban, 2007a),
+which has led to controversy regarding the age of the famous
+€ningen 13/II-4 (e.g., Jo
+€ ris and Baales,
+spears from the site of Scho
+2003). Here we provide thermoluminescence (TL) data for the
+€ningen,
+stratigraphically lowermost human occupation at Scho
+which sets a maximum age for the level with the famous
+€ningen spears and provides an anchor point for the stratigScho
+€ningen.
+raphies in Scho
+€ ningen and the archaeological
+2. The stratigraphy of Scho
+sites
+€ningen is located about 100 km southeast of Hannover in
+Scho
+the northern foreland of the Harz Mountains and at the southeastern edge of the Triassic limestone ridge called the Elm
+(Thieme, 1997). The area belongs to the northern region of the
+70 km long sub-herzynic basin between Helmstedt and Staßfurt.
+
+D. Richter, M. Krbetschek / Journal of Human Evolution 89 (2015) 46e56
+
+47
+
+The preservation of such a long Middle Pleistocene to Holocene
+sedimentary sequence is rare because of the erosion caused by
+repeating ice advances at various times. Sediments deposited under
+warm climatological conditions alternate with evidence of glacia€nen) of the major advances during Elsterian and
+tions (Grundmora
+Saalian (Drenthe) glacial times.
+Since 1983, archaeological excavations have been conducted in
+€ningen open-air lignite mine almost continuthe area of the Scho
+ously, exposing archaeological sites dating from the Lower Paleolithic to the Iron Age (Thieme and Maier, 1995; Serangeli et al.,
+2012). Preservation of organic material is often exceptional, with
+plant remains, wood, small and large fauna, molluscs, ﬁsh, amphibians, and insects (Thieme, 2007b).
+
+differences in these types of records, correlations are not straightforward. The recent stacking of oxygen isotope data developed by
+Lisiecki and Raymo (2005) functions as a representative model of
+approximate age estimates for marine isotope stages (MIS) and
+provides ages of 424e374 ka for MIS 11, 337e300 ka for MIS 9,
+243e191 ka for MIS 7, and 130 to ~116 ka for MIS 5e (Table 1).
+However, differences between the marine and the terrestrial record
+are known (e.g., the base of the last interglacial [Eemian] appears to
+be about 6 ka younger than the base of MIS 5; Shackleton et al.,
+2003; Sier et al., 2011), and therefore such marine frameworks
+can only serve as references.
+
+€ningen and its
+2.1. The Quaternary stratigraphy of Scho
+chronostratigraphical interpretation
+
+€ningen (Table 1) are up to
+The Pleistocene sediments at Scho
+60 m thick (Urban et al., 1991b; Elsner, 2003), with the majority
+belonging to an Elsterian glaciation age sequence of melt water and
+€ne) at
+glaci-lacustrine deposits, with subglacial till (Grundmora
+its base. This till occasionally occurs in places twice as distinct
+stratigraphical separate layers as Lower and Upper Elsterian
+€ne’ (Urban et al., 1988). The Elsterian is covered by
+‘Grundmora
+interglacial sediments (Hartmann, 1988; Elsner, 2003), which in
+turn are unconformable overlain by glacial deposits attributed to
+€ne) and meltthe Saalian glacial with a subglacial till (Grundmora
+water deposits. This is covered by redeposited loess and soils
+(Mania, 2006), a soft interglacial (Eemian) travertine (Urban,
+1995b), and a loess-soil sequence of early Weichselian glacial age
+(Thieme et al., 1987; Meyer et al., 1995), followed by interglacial
+Holocene organogenic sediments (Thieme et al., 1987).
+Such long stratigraphies are rare, and they provide the opportunity for comparison of terrestrial records with marine sequences,
+where they may shed light on, for example, the position of the
+
+Most chronostratigraphical approaches are relative and therefore can be ambiguous when tie points (e.g., marker horizons) for
+correlations are ill-deﬁned, absent, or poorly documented. Sedimentology combined with palynology and relative stratigraphy
+often correlate terrestrial sequences with marine or ice core records
+or other cyclic systems. However, it is often necessary to provide
+anchor points by chronometric dating methods. The controversial
+€ ris and Baales, 2003) for the Scho
+€ningen
+age models (e.g., Jo
+sequence are primarily based on geological observations (Mania,
+2007), as well as biostratigraphic results, which both provide only
+relative age frameworks (Table 1).
+Such terrestrial frameworks are often linked to isotopic sequences from marine records or ice cores, often implying that
+climate changes are responsible for observed changes in terrestrial
+records and the resultant terrestrial framework. However, given the
+
+€ningen
+2.2. The Quaternary sediments at Scho
+
+Table 1
+€ ningen (modiﬁed after Lang and Winsemann [2012]). The star symbol
+Summarized and simpliﬁed view of the different chronostratigraphic models for the sequences at Scho
+€ningen 13/I-1 and the diamond for Scho
+€ ningen 13/II-4 (spear horizon). Note the inferred attributions to MIS for the channel model
+represents the respective position of Scho
+employing the inherent fundamental assumption of climatic cycles after Mania (1995). The ﬁrst column represents the general North German Quaternary sequence from Litt et
+al. (2007).
+
+48
+
+D. Richter, M. Krbetschek / Journal of Human Evolution 89 (2015) 46e56
+
+Holsteinian interglacial in the isotope chronostratigraphies (MIS 9
+or MIS 11), a topic which is hotly debated (e.g., Desprat et al., 2005;
+Geyh and Müller, 2006; Nitychoruk et al., 2006; Koutsodendris,
+2011; Geyh and Krbetschek, 2012; Stephan et al., 2012). Notable
+€ningen and also
+differences in the pollen assemblages within Scho
+in comparisons with other stratigraphies do not appear to be a
+unique feature because differences in pollen sequences attributed
+to the Holsteinian are recorded elsewhere (e.g., De Beaulieu et al.,
+2001). The differing views on the attribution of pollen assemblages to the Holsteinian may derive from the interpretation and
+deﬁnition of pollen data, and hence the unequivocal attribution to a
+single pollen stage. Given the recent observations on variations
+within Holsteinian pollen sequences (Koutsodendris et al., 2010,
+2011) and sediments it appears that the palynological record is
+complex and that changes in climate might have produced several
+similar pollen assemblages in the time range in question. Regional
+variation and/or differential preservation also complicate matters.
+However, isotope signals appear to provide a possible basis for the
+inclusion of several interglacial-like events in the time range of MIS
+11 and 9. Chronometric dating of sequences, or, as is the case here,
+of single speciﬁc entities within sequences, helps to establish
+chronostratigraphic frameworks and answer questions about the
+age of speciﬁc sites.
+2.3. The palynological biostratigraphic models
+€ningen
+A biostratigraphical model of the formation of the Scho
+sediments (Urban et al., 1988, 2011, 2015; Urban, 1995b, 2007a;
+Urban and Sierralta, 2012) is mainly based on palynological investigations providing a relative chronological sequence within a
+series of sedimentological cycles (Table 1). Liminic-telmatic sediments in adepression of Elsterian age were attributed to the late
+Holsteinian and early Saalian glaciation in the northern part of the
+€ningen mine, unconformable located above erosional interScho
+glacial Holsteinian gravels (Urban et al., 1991a). From the same area,
+a series of peat is unconformable overlain by Saalian moraines
+(Drenthe-Stadial) and attributed to a post-Holsteinian interglacial,
+€ ningen Interglacial (Urban et al., 1991a;
+locally known as Scho
+Urban, 1995b, 2007a). Urban (2007a) describes parallels to the
+€mnitz or Wacken interglacials, while Litt et al. (2007) favors the
+Do
+€mnitz interglacial (Table 1). The Scho
+€ningen Interglacial is bioDo
+stratigraphically located above the Holsteinian interglacial and
+therefore might correlate with Oxygen Isotope Stage (OIS) 7 (Urban,
+2007a). In the southern part of the mine an additional interglacial
+was identiﬁed and named Reinsdorf, being palynologically distinct
+€ningen Interfrom the Holsteinian Interglacial as well as the Scho
+glacial, and located stratigraphically lower from the latter (Urban
+et al., 1991b; Urban, 1995a,b, 1999, 2007a). While Urban (2007a)
+€ningen Interglacials as part of the
+regards the Reinsdorf and Scho
+Saalian complex sensu lato, Litt et al. (2007) interpret the Reinsdorf
+as part of the Holsteinian (Table 1), which corresponds to its lithostratigraphical position (Urban et al., 2011). The Eemian inter€ ningen by its later
+glacial is palynologically represented at Scho
+phases, and early Weichselian Interstadials are present as well
+(Urban, 1995a).
+The mammalian biostratigraphy (Van Kolfschoten, 2012, 2014)
+indirectly conﬁrms the attribution of the glacial sediments to the
+Elsterian and Saalian. The mammals from the deposits lying
+directly above the Elsterian (Holsteinian according to palynology,
+cycle I or channel I in a sedimentological model described below)
+are not discriminating for either exclusive glacial or interglacial
+conditions. The following package of sediments (Reinsdorf/cycle
+II/channel II) contains species younger than Boxgrove, Miesenheim I, Mauer, or Mosbach, but which are older than Maasd e
+re or Weimar-Ehringsdorf. A correlation with
+tricht-Belve
+
+British fauna attributed to MIS 9 is considered as more plausible,
+especially as the water voles do not match the British (MIS 11)
+Holsteinian (Van Kolfschoten, 2014).
+2.4. The sedimentological chronostratigraphic models
+While the attributions of the glacial sediments to the Elsterian
+and Saalian glaciations appear to be unequivocal, several
+competing sedimentological models attempt to explain the depositional history of the observed sequences (Table 1). The lens shaped interglacial sediments were interpreted as ﬁllings of kettle
+holes (Elsner, 1987), tectono-climatologically driven channels
+reﬂecting the glacial series (Mania, 1995, 2006), or as river delta/
+lake deposits in a tunnel-valley (Lang and Winsemann, 2012; Lang
+et al., 2012, 2015).
+According to Mania (1995, 2006), six major channels formed
+due to ﬂuvial erosion during late glacials and due to subrosion
+during the subsequent interglacial (Table 1). Formation occurred
+parallel to the Ofﬂeben salt dome, which caused a shifting of the
+channel positions due to its uprising and subsequently resulted in
+partial overlap of channels (Mania, 1995). The channels are
+€ningen IeVI from old to younger (from West to
+numbered Scho
+East) and correspond to the cycles in Urban (2007a,b). They
+unconformable overlie the Elsterian glacial deposits. The model is
+linked to the biostratigraphical interpretation of the sequence by
+invoking climatological (glacial) cycles as cause of channel formation (Mania, 1995). This provides a more or less ﬁxed time
+frame within a hemispheric system but also requires a good match
+of observed erosion and cyclic patterns with this system, which
+are not always warranted. The interglacial ﬁllings of channel I
+(Holsteinian), channel II (Reinsdorf Interglacial), and channel III
+€ningen Interglacial) consist of ﬁne-grained organogenic
+(Scho
+sediments and peat (Mania, 1995, 2006; Urban, 1995a, 2007a).
+Channel IV is located above the Saalian glacial deposits, and its
+ﬁlling consists of redeposited loess with paleosoils, which are
+interpreted as periglacial formations, occurring between Drenthe
+and Warthe interstadials (Urban, 2007a). The uncomformable
+overlying channel V is ﬁlled with weakly consolidated secondary
+carbonates, peat, and soils, which are placed in the Eemian
+Interglacial, and followed by 6 m loess deposits in which the Late
+Glacial/Holocene channel VI is cut in (Urban, 1995a, 2007a,b;
+Mania, 2006). Correlations with the sedimentary sequence of the
+Ascherslebener See (Mania, 1967), the travertine terraces of Bilzingsleben (Mania, 1999; Mania and Mania, 2005), and the site of
+Neumark-Nord (Mania, 1996, 2004; Mania and Mania, 2008)
+provide a climato-stratigraphical framework within the OIS system (Mania, 2006).
+A contrasting model (Table 1) explains the interglacial sedi€ ningen as a river-delta system, where the
+mentation at Scho
+observed cyclic drying (Verlandungsfolgen) as well as the unconformable overlapping structures are related to lake level changes
+and a delta sedimentation at the crossroad of a lake and the mouth
+of a river (Lang and Winsemann, 2012, Lang et al., 2012, 2015).
+€ningen is located in
+According to this model, the succession at Scho
+the sediment trap of a tunnel valley, and the interglacial sediments
+consist of lateral and vertical stacks of lacustrine deltaic deposits.
+While the observed large scale changes in sea levels are linked to
+climate change (Lang and Winsemann, 2012) the causality of
+observed sedimentology to changes in climate is negated and
+rather related to the nature of depositional regimes of ﬂuvial deltas
+and lake level changes (Lang and Winsemann, 2012). However,
+there are no indications as to why climate changes should invoke
+only major lake level changes. The palynological evidence, however, demonstrates that major changes took place at these particular times. The inherent variability of delta sedimentation
+
+D. Richter, M. Krbetschek / Journal of Human Evolution 89 (2015) 46e56
+
+precludes any correlation with chronostratigraphy, except the
+evidenced glacial deposits of the Elsterian and Saalian glaciations.
+The model by Lang and Winsemann (2012) does not require
+climatological driven changes, and hence allows for short time
+spans between stratigraphical units. But it neither contradicts the
+palynological model.
+Both sedimentological models require considerable ﬂuvial activity, for which there is currently little evidence, as the present day
+creek ‘Missaue’ is rather small and it is questionable whether it was
+ever large enough for such a degree of activity.
+2.5. Chronostratigraphy and numerical ages
+The different views, interpretations, and models for the
+€ ningen sequence lead to rather different age estimates
+Scho
+(Table 1). Neither model can be entirely refuted, and numerical
+dating is required for falsiﬁcation of models or the attribution of
+sedimentological layers or units to marine isotope stages (MIS) or
+any other reference. At present, only a few numerical ages are
+available for the sequence. The majority are 230Th/U-disequilibrium
+dates on peat. While Ueseries ages in general have to be checked
+and corrected for detrital Th, U-series dates on peat must be viewed
+with caution because peat is an open system. The presence of a
+plateau age for several U-series age determinations along the
+proﬁle of the center of a thick layer of peat might indicate quasiclosed system behavior and ages therefore considered as more
+reliable (Geyh, 2008).
+€ningen sequence was attempted
+The ﬁrst dating of the Scho
+with alphaspectrometric 230Th/U-dating, which resulted in un€ningen Interglacial (channel/
+corrected dates on peat from the Scho
+cycle III) of 180 and 227 ka (data from Sierralta et al., 2012), later
+assigned to 320 ka (Heijnis and Urban, 1995), and should be
+viewed with caution. In a more recent study with Thermal Ionization Mass Spectrometry (TIMS), open system behavior was
+detected for most samples (Urban et al., 2011; Sierralta et al.,
+2012). No age results are therefore given for these samples, but
+the ages for the uppermost ﬁve samples from the lower peat at
+€ ningen 13/II (Reinsdorf interglacial, cycle II, level 2c5.2a) were
+Scho
+considered to be reliable. A weighted mean (n ¼ 5 @ 2s) of corrected ages of 294 ± 5 ka (Urban et al., 2011) was considered as
+300 ± 18 ka in Urban et al. (2011) and a weighted mean (n ¼ 4 @
+2s) of corrected ages of 290 ± 5 ka for apparently the same
+samples was given in Sierralta et al. (2012). Inconsistencies in
+these data sets require a re-analysis before ﬁnal conclusions are
+drawn (M. Geyh, pers. comm. 2013), but it appears that the peat,
+€ningen 13/I-4,
+and by inference the spears from the overlying Scho
+are around 300 ka in age.
+There are few alternatives to date the sequence because of the
+lack of datable material, (e.g., neither tephra for 39Ar/40Ar dating,
+nor secondary carbonates for U-series), and it appears that only
+dosimetric dating methods (luminescence and Electron Spin
+Resonance) are suitable. A thermoluminescence (TL) estimate of
+the last heating of a single piece of ﬂint from the archaeological site
+€ningen 13/I-1 (channel/cycle I, layer 1) gave an age of
+of Scho
+470 ± 60 ka (Richter and Thieme, 2012). Such singular dating is not
+providing a precise and good age estimate (Richter, 2007).
+Furthermore, the reanalysis of this data revealed an analytical
+inconsistency in the calculated proportional alpha dose-rate being
+larger than the respective iteratively (Mercier, 1991) calculated
+alpha induced TL. This should not be the case because TL-signal
+growth with aeradiation is linear over the entire datable age
+range, in contrast to the signal from b or g radiation (Mercier, 1992).
+This unexplained contradiction in the analysis, which was not
+observed in the data presented here, has to lead to the rejection of
+this age estimate.
+
+49
+
+€ningen 13/I-1
+2.6. The Paleolithic site of Scho
+Palaeolithic remains occur throughout the Pleistocene stratig€ningen, either in isolation or in association with
+raphy at Scho
+€ ningen are
+faunal remains. All of the major Paleolithic sites at Scho
+stratigraphically located between the Elsterian deposits and the
+Saalian till (Thieme, 2007a; Serangeli et al., 2012). Many of those
+provide excellent preservation of wood remains, which are sometimes modiﬁed (Thieme, 1999), including the famous spears from
+€ningen 13/II-4 (Thieme, 1997; where the ﬁrst arabic number in
+Scho
+the site denomination refers to an area, the roman number to the
+channel/cycle, and the last arabic number to sediment layers
+within).
+€ ningen is labeled as
+The oldest archaeological site at Scho
+€ningen 13/I-1 and is stratigraphically located above Elsterian
+Scho
+deposits. It is attributed to the earliest part of the Holsteinian
+complex because of its location in sediments of the channel I system (Thieme, 2007b). Two different strata were excavated, with the
+€ ningen 13/I-2) containing faunal remains only
+upper one (Scho
+€ningen 13/I-1)
+(mainly bison) and only the lower one (Scho
+providing archaeological material, which was embedded in and on
+top of a gravel deposit. This sediment contains abundant pieces of
+ﬂint, which were transported by glacial activities from the Baltic
+Sea, many of which are frost shattered. Separation of artefact from
+natural material is thus difﬁcult (e.g., Pasda, 2012), especially as the
+€ ningen 13/I-1 are not very diagnostic and
+ﬂint artefacts from Scho
+consist mostly of small ﬂakes and some notched ﬂake tools, which
+are considered to be Lower Paleolithic from a technological and
+typological perspective (Richter and Thieme, 2012). Some ﬂints
+exhibit macroscopic signs of severe heating to high temperature
+like potlids, crazing, and craquelation. However, such macroscopic
+features could be attributed to weathering as well (e.g., Richter,
+2007). Large faunal remains of proboscidaea, Equus mosbachensis
+cf, Bos primigenius, Bos/Bison and Cervus elaphus suggest an open
+landscape (Thieme, 2007b; van Kolfschoten, 2012, 2014).
+€ningen 13/I-1 is the stratigraphically lowermost site at
+Scho
+€ningen, and, regardless of the chronostratigraphical model,
+Scho
+one of the oldest Paleolithic sites in Germany. Establishing its age is
+therefore important not only for pinpointing the stratigraphical
+sequence but also for providing an age estimate for the archaeology
+and, ultimately, a maximum age for the overlying spear horizon of
+€ningen 13/II-4.
+Scho
+3. Thermoluminescence dating
+Here we present thermoluminescence dating results on eight
+€ ningen 13/I-1 to help establish the age of
+heated ﬂints from Scho
+this stratigraphically important site. While chronometric information is needed for the geological stratigraphy, and hence placing the
+archaeology in a chronostratigraphic context, it is also desirable to
+obtain dates for prehistoric events which can be related to human
+activities, like lighting of a ﬁre which caused damage to ﬂint.
+However, unequivocal attribution to human activities can be made
+only on the basis of evident, and sometimes latent (e.g., AlpersonAﬁl et al., 2007), structures. The analysis of the site is ongoing and
+no speciﬁc spatial patterns or evident structures were observed
+during the excavation (H. Thieme, pers. comm.). The thermal alterations of ﬂints from the ﬁnd layer could therefore have been due
+to either past human activities, or the heating could have been
+caused by a natural ﬁre. However, if a natural ﬁre was the cause, we
+would expect to see a large quantity of ﬂints with traces of ﬁre, not
+just a fraction. The nature of the deposit (sandy/gravel) and its
+location at a lake shore are not consistent with environments being
+frequently exposed to ﬁre, and the occurrence of a natural ﬁre is
+therefore unlikely, especially as sediment penetration depths of
+
+50
+
+D. Richter, M. Krbetschek / Journal of Human Evolution 89 (2015) 46e56
+
+natural ﬁres are low (e.g. Richter, 2007). In any case, the time difference between a natural and an anthropogenic ﬁre and/or occupation seems to be negligible for a site of this antiquity because
+neither artefacts nor natural pieces show signs of prolonged surface
+exposure. In fact, both ﬁnd categories have relatively sharp edges
+(H. Thieme, pers. comm.) and therefore any time difference between deposition and heating, if present, must have been
+negligible.
+3.1. Principle of thermoluminescence dating
+Thermoluminescence (TL) dating of heated ﬂint artefacts is a
+well-established method for dating Middle Paleolithic archaeological sites (e.g., Valladas et al., 1988; Mercier et al., 1991; Richter
+et al., 2010b). In contrast to many other methods, the age of a
+past human activity d the lighting of a ﬁre d can be directly
+determined using TL dating.
+In a simpliﬁed model, TL dating is based on the accumulation of
+electrons in excited states in the crystal lattice caused by omnipresent ionizing radiation. The resulting metastable states are
+quantitatively measured by thermoluminescence analysis and
+provide the radiation dose the sample has received since the last
+zeroing (heating, i.e. ﬁre), when excited states were all eliminated
+before accumulation to the present state. Only such metastable
+stages are considered, which have a life-time of at least an order of
+magnitude longer than the age to be determined. If the rates of all
+ionizing radiation sources (dose-rate) at the sample position are
+known, an age can be calculated by dividing the radiation dose by
+the radiation dose-rate.
+Dosimetric dating presumes constant dose-rates over the entire
+burial time. In ﬂint TL dating, dose-rates are comprised of internal
+(a and b) radiation from the inner part of a sample, which is
+considered stable, and external (g and cosmic) dose-rates, where
+the g-component might have varied through time (e.g., Richter,
+2007). The stability of the internal dose-rates is not contested
+over the time range of interest because all parts of the sample are
+discarded that show macroscopical traces of geochemical alterations d like patination d which could indicate changes in isotopic
+composition. Spatially clustered distributions of radioelements can
+lead to inhomogeneous dosimetric ﬁelds within solid samples (hot
+spots), which results in erroneous ages if not corrected for (e.g.,
+Tribolo et al., 2006). However, variations of magnitudes signiﬁcant
+for age determination appear to be linked to visible zonations in
+ﬂint (Schmidt et al., 2013) and thus can be easily detected and
+discarded from analysis.
+The constancy of the external g-dose-rate from the surrounding
+sediment can be veriﬁed for the recent past (e.g., by High Purity
+Germanium [HpGe] g-ray spectrometry), but ancient (repeated)
+occurrences of disturbances (disequilibria) between the members
+of the uranium decay chain, which give rise to the g-dose-rate,
+cannot be excluded by such analysis. However, the failure to detect
+disequilibrium by HpGe g-ray spectrometry is usually interpreted
+as an indication that the decay chains have always been in secular
+equilibrium, and the external g-dose-rate is thus assumed to have
+been stable over the entire burial period.
+HpGe g-ray spectrometry does allow the analysis of only the
+small particles of sediments, but sediment layers in archaeological
+sites often contain larger pieces of rocks. HpGe g-ray spectrometry
+on sediment samples in the laboratory may therefore not be
+representative of the actual radiation conditions at the sampling
+spot (Schwarcz, 1994). Therefore the external g-dose of such
+‘lumpy’ sites is preferentially measured with dosemeters buried at
+least 30 cm deep into the proﬁles (Richter, 2007).
+Flint samples are removed from their context by excavation,
+and the external g-dose-rate therefore cannot be measured at the
+
+sample's exact position. Therefore measurements in positions
+considered as representative of the samples' immediate environment (geometry within a sphere of ~60 cm diameter) have to
+be taken. In order to estimate the external g-dose, several positions next to the samples' locations are measured and the average
+result is used for the age calculation. As a result of this approach,
+the g-dose-rate used for the age calculation is not necessarily
+identical to the g-dose-rate the sample was actually exposed to
+during burial. Therefore, the resulting individual TL ages may be
+too young or too old, which leads to an increased variation in age
+results because a mean external g-dose-rate for all the samples
+has to be used. This also explains the large variability of TL age
+results often observed for a given layer, which is a priori assumed
+to represent a more or less single event of a time length that
+cannot be resolved by the chronometric dating method. However,
+the positions for dosemeters are chosen quasi-randomly and
+their individual geometries are unknown because they are
+inserted 30 cm deep into the sediment proﬁles. This applies to
+the independently and randomly chosen ﬂint samples for dating
+as well. A precise and reliable TL age can be obtained only from a
+large number of samples and where the average external g-doserate was obtained with a large number of dosemeters. This implies an assumption that the heating took place within a
+reasonably short time interval or at the same time for all samples.
+The latter is generally assumed for Paleolithic sites, which
+commonly represent palimpsests that accumulated in time periods too short to be of signiﬁcant relevance for the interpretation. It is therefore necessary to date several samples from a
+Paleolithic layer with TL to provide a good age estimate of the last
+heating and thus the occupation of a site. Alternatively, the
+dosimetric environment can be reconstructed for individual
+rin, 2012), provided that
+samples (Guibert et al., 1998; Gue
+detailed documentation is available or that dose-rates were
+rin and Mercier,
+constantly monitored during excavation (Gue
+2012), which is often not feasible.
+€ningen 13/I-1
+3.2. Sample preparation and dosimetry at Scho
+Heated ﬂint samples were identiﬁed by macroscopic inspection
+€ningen 13/I-1 by H. Thieme, using the
+of the inventory of Scho
+criteria described in Richter (2007), and samples were prepared
+accordingly (see Supplementary Online Material [SOM] for details).
+For the external dose only the g-component needs to be taken
+into account in heated ﬂint TL-dating, because the sample was
+stripped of the parts affected by a and b radiation from the sediment. The preservation of organic material suggests that most of
+€ningen was located below the water table for
+the sequence of Scho
+most of its burial time. Water reduces the g-dose-rate (attenuation)
+signiﬁcantly. Therefore, any dosimetric measurement of the sediments needs to be corrected for complete water saturation of the
+sediments, and the water capacity of the sediment has to be estimated in order to determine the effective external g-dose-rate.
+Several sediment samples in steel tubes of about 10 cm in diameter
+and 20 cm in length were taken from the proﬁles to measure the
+sediment moisture. The tubes, which were completely ﬁlled with
+sediment, were slowly ﬁlled up with water during the course of one
+day, the surplus water removed and then weighed. After several
+weeks of storage at 70  C the dry weights were determined and the
+ratios of the weights provided the water saturation content after
+subtraction of the weight of the steel tubes (Table 2). Results were
+similar for the various samples, and water saturation was only
+slightly higher than the moisture at sampling. The present day ‘as
+is’ g-doses as measured in situ by portable g-ray spectrometry or
+dosemeters (or in the laboratory by HpGe g-ray spectrometry of
+dried sediment material; SOM Table 1) were corrected for the
+
+D. Richter, M. Krbetschek / Journal of Human Evolution 89 (2015) 46e56
+
+The g-dose-rate results from the a-Al2O3:C dosemeters are given
+in Table 3 (two additional ones were lost and one failed the
+analysis).
+The mining activities lowered the water table and the sediments
+are therefore not water saturated any more. To correct for water
+saturation conditions, which prevailed for almost the entire burial
+time, average factors from Table 2 were employed for dose-rates in
+age calculation (Table 3).
+The internal dose-rate of the ﬂint samples may have been
+affected by water saturation, given their location in a watersaturated environment. Therefore, the water saturation of three
+geological, and therefore certainly unheated, ﬂint samples from
+similar geological origin was experimentally determined by immersion in water for one month.
+The internal dose-rates were calculated from the speciﬁc activities of the radioisotopes (U, Th, and K) of the ﬂint samples
+(Table 4; SOM).
+
+Table 2
+Moisture measurements in the laboratory and g-dose-rate correction factors for
+water saturation.
+Tube #
+
+Correction
+Water
+Correction factor for
+Natural
+factor for ‘dry’ ‘present moisture’
+saturation
+moisture
+(% dry weight) (% dry weight)
+g-dose-rate
+g-dose-rate
+
+13 I-2
+13 I-3
+13 I-4
+average
+
+11
+14
+12
+12
+
+14
+18
+17
+16
+
+0.85
+0.82
+0.81
+0.83
+
+0.97
+0.95
+0.96
+0.96
+
+appropriate water saturation conditions (Table 2). Correction followed (Aitken, 1985) and not (Aitken and Xie, 1990) because the
+external g-dose has to be corrected for the size and shape of the
+ﬂint sample (effective external g-dose-rate after Valladas, 1985).
+The in situ g-dose-rate was measured in the ﬁeld with two
+portable g-ray spectrometers, both equipped with NaI crystals of
+different sizes. The Target NanoSpec has multi-channel capabilities,
+while the Harwell spectrometer can discriminate only four channels. The latter instrument therefore provides less resolution and is
+more prone to temperature-dependent drift.
+More reliable results for g-dose-rates of heterogeneous sediments can be obtained by dosemeters, which were placed into the
+sediment body for one year. The accuracy of using this type of
+material and this method was recently demonstrated by Richter
+et al. (2010a). A total of ten a-Al2O3:C dosemeters were implanted in sediment proﬁles at depths of about 40 cm in order to
+compensate for the sloping proﬁles and obtain a 4p-geometry.
+
+3.3. Thermoluminescence measurements
+Seventeen ﬂint samples with macroscopic signs of heating
+(Richter, 2007), mostly originating from the screening of the
+sediments and sampling for dosimetry, were available for TL
+analysis. The exterior as well as the interior material (after
+removal of the outer 2 mm rim) of each ﬂint sample were investigated by the TL heating plateau test after (Aitken, 1985) to
+determine if the prehistoric heating was sufﬁcient to fully erase
+the TL signal to allow dating analysis (Table 4). For the heating
+plateau test (Aitken, 1985) the TL signal is increased by an additional irradiation in the laboratory, and a constant ratio to the
+natural TL signal (heating plateau) over the peak temperature
+range between 350 and 390  C (Fig. 1) provides evidence for the
+past full erasure of the TL signal. Only ten samples passed both
+tests and were therefore sufﬁciently heated for TL-dating analysis,
+but two of these were too small for the method employed here
+(see SOM for measurement details).
+Because the luminescence signal of the samples is close to the
+onset of saturation, a technique similar to the ‘Australian Slide
+Method’ (Prescott et al., 1993) was employed to determine the dose
+the samples received since their prehistoric heating. This paleodose
+was obtained by a multi-aliquot-additive-regeneration (MAAR)
+slide protocol (Valladas and Gillot, 1978; Mercier, 1991, 1992) on the
+90e160 mm grain size fraction. In this protocol the additive and
+regenerated TL data are approximated by an exponential function
+(Fig. 2). While the mathematical function does not correspond to
+the physical processes, it is a sufﬁcient approximation to describe
+the TL growth curves (signal increase as a function of dose) and was
+found to be empirically more appropriate compared to quadratic
+functions, which showed a lesser degree of homoth
+etie (or similarity, see below).
+
+Table 3
+Results of ﬁeld measurements (in situ) and water saturation corrected g-dose-rates
+from a-Al2O3:C dosimeter and portable NaI g-ray spectrometer measurements.
+
+Nutmaq-Harwell
+4-channel
+Nutmaq-Harwell
+4-channel
+NanoSpec
+2  200 NaI(Tl)
+NanoSpec
+2  200 NaI(Tl)
+dosimeter S-11
+dosimeter S-12
+dosimeter S-15
+dosimeter S-16
+dosimeter S-17
+dosimeter S-19
+dosimeter S-20
+Dosimeter average
+a
+
+Position
+
+‘as is’ in situ
+g-dose rate
+(mGy a1)
+
+Water saturation
+corrected
+g-dose rate (mGy a1)
+
+± (%)
+
+1
+
+921
+
+884
+
+13
+
+2
+
+944
+
+906
+
+13
+
+3
+
+620
+
+595
+
+7
+
+4
+
+610
+
+586
+
+9
+
+11
+12
+15
+16
+17
+19
+20
+
+758
+702
+883
+683
+611
+629
+674
+
+728
+673
+848
+656
+586
+603
+647
+678
+
+4
+4
+5
+5
+2
+8
+2
+12a
+
+51
+
+Standard deviation of water saturated dose rates.
+
+Table 4
+Results (1-s) of neutron activation analysis and thermoluminescence measurement results.a
+Sample
+SCHON-3
+SCHON-9
+SCHON-10
+SCHON-12
+SCHON-13
+SCHON-14
+SCHON-15
+SCHON-111
+
+Heating plateau
+( C)
+
+DE-plateau
+( C)
+
+320e400
+350e410
+330e410
+330e410
+310e420
+310e400
+320e430
+330e410
+
+340e375
+360e390
+350e380
+320e370
+340e380
+310e395
+350e380
+360e390
+
+Paleodose
+(Gy)
+299
+270
+409
+281
+275
+261
+304
+311
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+19
+18
+23
+21
+17
+21
+27
+23
+
+b-value
+(Gy cm2)
+0.21
+2.01
+1.58
+1.82
+1.01
+1.40
+2.18
+1.79
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.01
+0.12
+0.08
+0.10
+0.04
+0.10
+0.44
+0.13
+
+U
+(ppm)
+1.22
+0.75
+3.22
+0.90
+0.13
+0.49
+0.96
+0.58
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.03
+0.03
+0.05
+0.03
+0.02
+0.02
+0.03
+0.06
+
+Th
+(ppm)
+0.11
+0.13
+0.14
+0.10
+0.06
+0.05
+0.12
+0.12
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.01
+0.01
+0.01
+0.01
+0.01
+0.01
+0.01
+0.01
+
+K
+(ppm)
+404
+404
+497
+395
+200
+245
+420
+427
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+8
+8
+3
+8
+5
+6
+8
+21
+
+Ḋgeff. ext
+(mGy a1)
+
+Ḋcosmic
+(mGy a1)
+
+631
+641
+646
+647
+644
+647
+641
+630
+
+82
+82
+82
+82
+82
+82
+82
+82
+
+Ḋaeff.
+(mGy a1)
+4
+27
+87
+28
+3
+12
+36
+19
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+1
+2
+4
+2
+1
+1
+7
+2
+
+Ḋbeff.
+(mGy a1)
+213
+145
+513
+165
+36
+92
+177
+122
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+4
+4
+3
+5
+2
+3
+4
+9
+
+a
+The effective external g-dose-rate takes the shape and weight of the sample into account (after Valladas, 1985) and the effective internal dose-rate the sensitivity of the
+sample to a-radiation.
+
+52
+
+D. Richter, M. Krbetschek / Journal of Human Evolution 89 (2015) 46e56
+
+Figure 1. Natural and additive thermoluminescence glow curves (not shifted to a common peak temperature) and ratio (in gray) of 105 Gy additive TL-signal to natural TL-signal
+(heating plateau 350e390  C with no scale) of sample Schon-13. The DE-results over temperature (DE-plateau of 340e380  C) are indicated as black error bars in the top of the
+graph.
+
+Figure 2. TL growth curves (exponential ﬁt) of additive (alpha contribution subtracted; hatched line), regeneration (dark gray line), and shifted (light gray line) regeneration
+(scaled) TL-growth curves of the ﬂint sample Schon-13. The constant TL-ratios (polygon) of the additive to shifted regeneration growth curve for the additive dose points is a
+measure of the similarity (‘homothetie’) of the two growth curves (Mercier, 1991). Glow curves were aligned to natural peak temperature prior to analysis.
+
+The regeneration TL growth curve is subsequently scaled
+(following Sanzelle et al., 1996) and shifted along the dose axis until
+the best ﬁt with the additive growth curve is obtained, which is
+deﬁned as the minimized variation of the ratio of the growth curves
+within the measured dose ranges. A constant ratio of the additive
+TL-signal to the TL-signal of the shifted regenerated TL growth
+curve is a measure of the similarity (homoth
+etie) of the two dose
+response curves and is used as a veriﬁcation of the appropriateness
+of the slide approach (after Mercier, 1991). The shift is the paleodose (Table 4), and TL-age estimates (Table 5) are calculated
+following Aitken (1985).
+
+4. Results
+4.1. Dosimetry results
+HpGe g-ray spectrometry of the ﬁne grained sediment particles
+indicates the recent absence of disequilibria of the U- as well as the
+Th-decay chain (SOM Table 1; SOM Fig. 1). Thus, the long-term
+stability of the external g-dose-rate from the surrounding sedi€ ningen 13/I-1 was assumed.
+ment of the ﬂint samples from Scho
+The results from the different methods of measuring the
+external g-dose-rate vary considerably, by up to a factor of two. Not
+
+D. Richter, M. Krbetschek / Journal of Human Evolution 89 (2015) 46e56
+Table 5
+Age results (1-s) and relative contribution of the effective g-external and internal
+dose-rate to the total dose-rate.
+Sample
+SCHON-3
+SCHON-9
+SCHON-10
+SCHON-12
+SCHON-13
+SCHON-14
+SCHON-15
+SCHON-111
+Weighted average
+
+Ḋeff.
+
+int.
+
+(% total Ḋ)
+23
+19
+45
+21
+5
+13
+23
+16
+
+Ḋgeff.
+
+ext.
+
+(% total Ḋ)
+68
+72
+49
+70
+84
+78
+68
+74
+
+Age (ka)
+321
+302
+308
+304
+359
+313
+325
+365
+321
+
+± 39
+± 37
+± 31
+± 38
+± 50
+± 41
+± 40
+± 46
+± 16
+
+surprisingly, the laboratory HpGe g-ray spectrometry on dry sediment provided the largest dose-rates (dry 1051 mGy a1 and watersaturation corrected 872 mGy a1) because it does not take into
+account neither the contribution of the larger sediment components (gravel and small boulders) nor the sediment layers above
+and below the ﬁnd horizon. The result is therefore not representative of the actual g-dose-rate for the samples. The in-situ doserates measured with the portable equipment are considerably
+lower and yet still differ to some degree as well (Table 3). However,
+as they were recorded in different years, in different seasons, and in
+different positions, some variation is to be expected. The results of
+the Nutmaq-Harwell are considered to be less reliable than those of
+the NanoSpec due to the lower resolution and potential temperature drift problems of the former.
+The g-dose-rates measured by the dosemeters are considered to
+be the most reliable measurement of the external g-dose-rate
+because they provide data for different geometries of the g-doserate, which are caused by differences in gravel content within the
+layer and by its varying thickness, as well as differences in the
+gamma dose-rate from the adjacent layers. The water saturation
+corrected average value of 678 mGy a1 (Table 3), which was used in
+age calculation, lies within the range of the results of the portable
+equipment. As expected for such ‘lumpy’ sediment, some variation
+(sd 14%) is observed (Table 3) and accordingly an uncertainty of 15%
+was employed for age calculation.
+The water saturation of the geological ﬂint samples was determined as <0.01%weight. While heated ﬂint is probably more porous
+compared to unheated ﬂint, it is assumed that the attenuation of
+ionizing radiation by additional water within the sample is neglirin et al.
+gible. The internal dose-rates were calculated after Gue
+(2011) from the speciﬁc radioisotope concentrations of the ﬂint
+samples (Table 4), which were obtained by neutron activation
+analysis (NAA), and accounting for each sample's sensitivity to aradiation (Table 4).
+The cosmic dose-rate of 82 mGy a1 (57 78 445 N, 44 30 825 E at
+108 m a.s.l. after Serangeli et al., 2012) was calculated with the
+software ‘KosmDL’ (P. Karelin, 1997 using data from Prescott and
+Stephan (1982), Barbouti and Rastin (1983), and Prescott and
+Hutton [1994]) for a sediment cover of 15 m prior to excavation
+(Thieme and Maier, 1995), which is assumed to have accumulated
+constantly after burial of the sample. However, the TL-age results
+are not signiﬁcantly 2-s affected for varying sediment overburden
+between 10 and 50 m.
+
+4.2. Thermoluminescence measurement results and TL-ages
+The samples show good heating plateaus of lengths between 30
+and 85 K, and the natural TL-peak occurs at temperatures between
+355 and 375  C at a heating rate of 5 K s1 (Table 4). The paleodoses
+exhibit a large range (Table 4), which is a direct consequence of the
+
+53
+
+differences in radioelement concentrations. Alpha sensitivities are
+in the expected range, except sample SCHON-3, which has an unusually low value (Table 4). However, the calculated age of this
+sample almost equals the average from all samples (Table 5). This is
+also the case for the sample exhibiting the highest concentration in
+uranium (SCHON-10), which, as a consequence, exhibits the largest
+paleodose. The sample with one of the lowest content in uranium
+(SCHON-13) has, as expected, a relatively old age (Tables 4 and 5),
+but an age of similar antiquity is also obtained for SCHON-111,
+which has higher radionuclide concentrations. The sample with
+the second largest dependency on the external gamma dose-rate,
+which might be expected to be more prone to variation in gdose-rate, provides an age close to the overall average. All this indicates that the external dose-rate estimate is appropriate, and we
+conclude that there are no apparent systematic trends in the data.
+Within the limitations of the methods used, the data therefore
+provide reliable age estimates (Table 5).
+The TL-ages, presented in Table 5 at 1-s, show some variability
+between 302 ± 37 ka and 365 ± 46 ka. The calculated ages are
+rather dependant on the external g-dose-rate, which contributes
+between 49 and 84% of the total dose-rate, and the internal dose,
+which is considered stable over burial time, accounts for only
+5e43%. The sample with the lowest proportional contribution of
+the external g-dose-rate (SCHON-10) could be considered to be the
+most reliable (Richter, 2007) because this parameter is the least
+well known and could have undergone ﬂuctuations. For sample
+SCHON-14 the external g-dose-rate is responsible for 78% of the
+total dose-rate, and the age is therefore highly dependent on the
+external dose-rate estimate. The age of 313 ± 41 ka, however, is
+almost identical to the mean from all samples and close to the most
+reliable age from SCHON-10. This might again indicate a good
+approximation of the external dose-rate and that the TL-dating
+overall appears appropriate.
+Statistical tests after Dixon (after Rorabacher, 1991) and Grubbs
+(Grubbs, 1969) show the absence of outliers. The data set belongs to
+a normal distribution which was tested by passing the ShapiroWilk-Test (software package Origin 8) and a Chi-square test.
+Therefore, a weighted average of 321 ± 16 ka (including the systematic uncertainties twice [after Sachs, (1992)]) was calculated as
+the best age estimate for the last heating of these samples under
+the assumption that the heating took place at the same time or
+within the limits of the method.
+5. Discussion and conclusions
+At a level of 95% probability the weighted TL age of 321 ± 16 ka
+€ ningen 13/I-1,
+provides an age range of 353 to 289 ka for Scho
+which nominally comprises marine isotope stages (MIS) 10 to MIS
+8 (MIS after Lisiecki and Raymo, 2005). The pollen and sediment at
+stratigraphically similar locations in channel I within the channel
+system of Mania (1995, 2006) appear to indicate the onset of an
+interglacial climate, which is interpreted as Holsteinian (Urban
+et al., 1991a). This is in accordance with the mammalian record,
+where no species unequivocally attributable to either glacial or
+interglacial conditions were recovered from this cycle, but the
+€ningen
+same mammals occur in the following interglacial at Scho
+(Van Kolfschoten, 2014). Despite the mammals in summary indicating non-glacial conditions (Van Kolfschoten, 2014), it does not
+€ ningen 13/I-1 has to be
+appear to be clear if the site of Scho
+necessarily placed within an interglacial, especially in a rigid isotopic scheme.
+Within the TL-dating age range a nominal correlation to an
+interglacial is possible only for MIS 9. Under the assumption that
+the attribution of this sediment to the Holsteinian is correct, MIS 9
+has to be assigned to the Holsteinian by inference. However, the
+
+54
+
+D. Richter, M. Krbetschek / Journal of Human Evolution 89 (2015) 46e56
+
+€ ningen, as well as the general variable
+palynological data for Scho
+appearance of the Holsteinian in the Northern Central European
+Plain (e.g., De Beaulieu et al., 2001) appear to indicate a rather
+complex picture which does not allow for simple correlations. This
+is also evident by the frequent Central European discrepancy to
+the British record with correlations of the Holsteinian to MIS 9 and
+MIS 11 respectively (e.g., Geyh and Krbetschek, 2012 and references provided above). Especially in light of potential problems in
+pollen preservation, bias in deposition, and other factors in the
+sedimentation environments at a lake shore/partially lacustrine/
+delta/ﬂuvial/channel, i.e. independent of the sedimentological
+model, age estimates based on palynology do not seem to be
+unproblematic.
+While the lacustrine-deltaic sedimentation model (Lang et al.,
+2012) does not require a speciﬁc age, the TL result does not
+appear to be compatible with the channel model for the sequence
+€ ningen proposed by Thieme and Mania (1993), Mania (1998,
+of Scho
+2006). Additionally a disagreement of the presented dating result
+has to be stated with the mammalian record which correlates
+€ ningen 13/I with MIS 11 (Van Kolfschoten, 2014), as well as
+Scho
+with the palynological model if the Holsteinian is correlated with
+MIS 11. However, considering the model put forward by Lang et al.
+€ ningen 13/I and 13/II do not
+(2012, 2015), the sediments of Scho
+have to correspond to different MIS and the only discrepancy of the
+TL-dating result lies with the generally disputed correlation of the
+Holsteinian palynology to MIS 11.
+€ningen 13/I-1 are only
+The mean TL-dating result for Scho
+€ ningen 13/II-2 (Urban
+slightly older than the U-series dating of Scho
+et al., 2011; Sierralta et al., 2012), and within uncertainties the age
+results have to be considered as statistically of the same age. Stra€ nintigraphy, however, provides evidence of the older age of Scho
+gen 13/I-1. These dating results clearly allow for an attribution of
+€ ningen 13/I-1 and 13/II-2 to the same isotopic
+the sediments of Scho
+stage, in accordance with the sedimentation model by Lang et al.
+(2012, 2015) and also with the occurrence of the mammals from
+13/1 in 13/II, which might indicate a short time span between
+sediment depositions.
+€ningen 13/I stratiBoth sedimentological models place Scho
+€ ningen 13/II (Table 1). The TL age estimate of
+graphically below Scho
+€ ningen 13/I-1 may
+321 ± 16 ka for the Lower Paleolithic site of Scho
+therefore, likewise the U-series dating, serve as a maximum age
+€ningen 13/II-4. The
+estimate for the overlying spear layer Scho
+evident interglacial character of the sediments therefore allows for
+the most plausible correlation of the sediments containing the
+spears to Marine Isotope Stage 9, and thus an age range of 337e300
+ka.
+Acknowledgments
+This work was partially supported by the Forschungsstelle
+€ometrie der Heidelberger Akademie der Wissenschaften
+Archa
+located at the Max-Planck Institute for Nuclear Physics in Heidelberg and a 'PhD ﬁnishing grant' from the University of Tübingen.
+We thank G. Wagner for his support, guidance, and help during the
+work conducted at his lab in Heidelberg. We are grateful to E.
+Pernicka (Mannheim/Tübingen) and A. Gouveia (ITN) for providing
+the neutron activation results and G. Cardoso (ITN) for help in the
+lab. We are indebted to H. Thieme for providing the samples and his
+guidance through the site, and we gratefully acknowledge him and
+his excavation crew for their help with placing the dosemeters.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at http://
+dx.doi.org/10.1016/j.jhevol.2015.06.003.
+
+References
+Aitken, M.J., 1985. Thermoluminescence Dating. Academic Press, London.
+Aitken, M.J., Xie, J., 1990. Moisture correction for annual gamma dose. Ancient TL 8,
+6e9.
+Alperson-Aﬁl, N., Richter, D., Goren-Inbar, N., 2007. Phantom hearths and the use of
+ﬁre at Gesher Benot Ya'aqov, Israel. PaleoAnthropology 2007, 1e15.
+Barbouti, A.I., Rastin, B.C., 1983. A study of the absolute intensity of muons at sea
+level and under various thickness absorber. J. Physics G Nuclear Physics 9,
+1577e1595.
+De Beaulieu, J.-L., Andrieu-Ponel, V., Reille, M., Grüger, E., Tzedakis, C.,
+Svobodova, H., 2001. An attempt at correlation between the Velay pollen
+sequence and the Middle Pleistocene stratigraphy from central Europe. Quatern. Sci. Rev. 20, 1593e1602.
+nchez Gon
+~ i, M.F., Turon, J.L., Mcmanus, J.F., Loutre, M.F., Duprat, J.,
+Desprat, S., Sa
+, B., Peyron, O., Peypouquet, J.P., 2005. Is vegetation responsible for
+Malaize
+glacial inception during periods of muted insolation changes? Quatern. Sci. Rev.
+24, 1361e1374.
+€ ningen der Braunschweigischen
+Elsner, H., 1987. Das Quart€
+ar im Tagebau Scho
+Kohlenbergwerke AG, Helmstedt. Diploma, Leibniz University Hannover.
+Elsner, H., 2003. Verbreitung und Ausbildung Elster-zeitlicher Ablagerungen zwi€henzug. Eiszeitalter Gegen 52, 91e116.
+schen Elm und Flechtinger Ho
+Geyh, M., 2008. Selection of suitable data sets improves 230Th/U dates of dirty
+material. Geochronometria 30, 69e77.
+Geyh, M.A., Krbetschek, M., 2012. Zum radiometrischen Alter des Holstein-Interglazials. In: Behre, K.-E. (Ed.), Die chronologische Einordnung der
+€ningen/The chronological setting of the
+pal€
+aolithischen Fundstelle von Scho
+€ningen, Forschungen zur Urgeschichte im Tagebau von
+Palaeolithic site of Scho
+€ ningen 1. Verlag des Ro
+€ misch-Germanischen Zentralmuseums, Mainz,
+Scho
+pp. 155e170.
+Geyh, M.A., Müller, H., 2006. Missing evidence for two Holstein-like interglacials.
+Reply to the comments by J.D. Scourse on: numerical 230Th/U dating and a
+palynological review of the Holsteinian/Hoxnian Interglacial. Quatern. Sci. Rev.
+25, 3072e3073.
+Grubbs, F.E., 1969. Procedures for detecting outlying observations in samples.
+Technometrics 11, 1e21.
+rin, G., 2012. Numerical simulations and modeling of dosimetric effects in
+Gue
+Quaternary sediments: application to luminescence dating methods. Ancient TL
+30, 30.
+rin, G., Mercier, N., 2012. Field gamma spectrometry, Monte Carlo simulaGue
+tions and potential of non-invasive measurements. Geochronometria 39,
+40e47.
+rin, G., Mercier, N., Adamiec, G., 2011. Dose-rate conversion factors: update.
+Gue
+Ancient TL 29, 5e8.
+Guibert, P., Bechtel, F., Schvoerer, M., Müller, P., Balescu, S., 1998. A new method for
+gamma dose-rate estimation of heterogenous media in TL dating. Radiation
+Measurements 29, 561e572.
+€ningen
+Hartmann, T., 1988. Elster- bis Saale-zeitliche Sedimente im Tagebau Scho
+der Braunschweigischen Kohlen-Bergwerke AG, Helmstedt. Diploma, Leibniz
+University Hannover.
+Heijnis, H., Urban, B., 1995. 230Th/234U dating of the Middle and Late Pleistocene
+€ningen/Helmstedt area, Lower Saxony, Germany.
+organic deposits from the Scho
+INQUA, XIV Congress, Berlin, p. 109.
+€ris, O., Baales, M., 2003. Zur Altersstellung der Scho
+€ ninger Speere. In:
+Jo
+Burdukiewicz, J.M., Fiedler, L., Heinrich, W.D., Brühl, E. (Eds.), Erkenntnisj€
+ager
+Kultur und Umwelt des frühen Menschen Festschrift für Dietrich Mania1.
+€ ffentlichungen des Landesamtes für Archa
+€ologie Sachsen-Anhalt e LandVero
+esmuseum für Vorgeschichte, Halle (Saale), pp. 281e288.
+Karelin, P., 1997. Untersuchungen zur Datierungsanwendung des 325 TL-Peaks an
+Quarzen aus dem nordischen Vereisungsgebiet Deutschlands. unpublished
+Dr.rer.nat. thesis. University of Heidelberg.
+Koutsodendris, A., 2011. The Holsteinian interglacial (MIS 11c) as a palaeoclimatic
+analogue to the Holocene: comparison of climate and ecosystem variability.
+€t Frankfurt am Main.
+Ph.D. Dissertation, Goethe Universita
+Koutsodendris, A., Müller, U.C., Pross, J., Brauer, A., Kotthoff, U., Lotter, A.F., 2010.
+Vegetation dynamics and climate variability during the Holsteinian interglacial
+based on a pollen record from Dethlingen (northern Germany). Quatern. Sci.
+Rev. 29, 3298e3307.
+€like, H., Müller, U.C., Dulski, P., Lotter, A.F., Pross, J.,
+Koutsodendris, A., Brauer, A., Pa
+2011. Sub-decadal- to decadal-scale climate cyclicity during the Holsteinian
+interglacial (MIS 11) evidenced in annually laminated sediments. Climate of the
+Past 7, 987e999.
+€ningen: sediLang, J., Winsemann, J., 2012. The 12II DB outcrop section at Scho
+mentary facies and depositional architecture. In: Behre, K.-E. (Ed.), Die chro€olithischen Fundstelle von Scho
+€ningen/The
+nologische Einordnung der pala
+€ningen, Forschungen zur
+chronological setting of the Palaeolithic site of Scho
+€ ningen 1. Verlag des Ro
+€misch-Germanischen
+Urgeschichte im Tagebau von Scho
+Zentralmuseums, Mainz, pp. 39e60.
+€hner, U., Serangeli, J.,
+Lang, J., Winsemann, J., Steinmetz, D., Polom, U., Pollok, L., Bo
+€ningen,
+Brandes, C., Hampel, A., Winghart, S., 2012. The Pleistocene of Scho
+Germany: a complex tunnel valley ﬁll revealed from 3D subsurface modelling
+and shear wave seismics. Quatern. Sci. Rev. 39, 86e105.
+Lang, J., Winsemann, J., Serangeli, J., 2015. The Middle Pleistocene tunnel valleys at
+€ ningen (Germany) as a Paleolithic archive. J. Hum. Evol. 89, 18e26.
+Scho
+
+D. Richter, M. Krbetschek / Journal of Human Evolution 89 (2015) 46e56
+Lisiecki, L.E., Raymo, M.E., 2005. A Pliocene-Pleistocene stack of 57 globally
+distributed benthic 18O records. Paleoceanography 20, 1e17.
+Litt, T., Behre, K.-E., Meyer, K.-D., Stephan, H.-J., Wansa, S., 2007. Stratigraphische
+€r des norddeutschen Vereisungsgebietes. Eiszeitalter
+Begriffe für das Quarta
+Gegen 56, 7e65.
+Mania, D., 1967. Das Quart€
+ar der Ascherslebener Depression im Nordharzvorland.
+Hercynia NF 41, 51e82.
+€ ningen. In:
+Mania, D., 1995. Die geologischen Verh€
+altnisse im Gebiet von Scho
+Thieme, H., Maier, R. (Eds.), Arch€
+aologische Ausgrabungen im Braunkohletagebau
+€ningen, Landkreis Helmstedt. Hahnsche Buchhandlung, Hannover, pp. 33e42.
+Scho
+Mania, D., 1996. Das Interglazial von Neumark-Nord (Geiseltal) e Zum Untersuchungsstand 1994. Spuren der Jagd e Die Jagd nach Spuren. Tübinger Monographien zur Urgeschichte, Tübingen, pp. 217e230.
+Mania, D., 1998. Zum Ablauf der Klimazyklen seit der Elstervereisung im ElbeSaalegebiet. Praehistoria Thuringica 2, 5e21.
+Mania, D., 1999. The Zonal Division of the Lower Palaeolithic Open-Air Site Bilzingsleben. Anthropologie 29, 17e24.
+Mania, D., 2004. Neumark Nord. Geologie eines Interglazials. Praehist. Thuringica
+10, 26e42.
+Mania, D., 2006. Stratigraphie, Klima- und Umweltentwicklung der letzten 400 000
+Jahre im Saalegebiet und Harzvorland (Forschungsstand 2006). Hercynia, NF
+39, 155e194.
+€ningen. In:
+Mania, D., 2007. Das Eiszeitalter und seine Spuren im Tagebau Scho
+€ninger Speere: Mensch und Jagd vor 400 000 Jahren.
+Thieme, H. (Ed.), Die Scho
+Theiss, Stuttgart, pp. 35e61.
+Mania, D., Mania, U., 2005. The natural and socio-cultural environment of Homo
+erectus at Bilzingsleben, Germany. In: Gamble, C., Porr, M. (Eds.), The Individual
+Hominid in Context: Archaeological Investigations of Lower and Middle
+Palaeolithic Landscapes, Locales, and Artefacts. Routledge, New York,
+pp. 98e114.
+olithique du complexe saalien
+Mania, D., Mania, U., 2008. La stratigraphie et le Pale
+gion de la Saale et de l'Elbe. L'Anthropologie 112, 15e47.
+dans la re
+Mercier, N., 1991. Flint palaeodose determination at the onset of saturation. Nuclear
+Tracks and Radiation Measurements 18, 77e79.
+thodes radionucleaires de datation a l'e
+tude du
+Mercier, N., 1992. Apport des me
+ne moyen et
+peuplement de l'Europe et du Proche-Orient au cours du Pleistoce
+rieur. Ph.D. Dissertation, Universite
+ de Bordeaux I.
+supe
+v e
+^que, F., Vandermeersch, B., 1991.
+Mercier, N., Valladas, H., Joron, J.L., Reyss, J.L., Le
+Thermoluminescence dating of the late Neanderthal remains from Saintsaire. Nature 351, 737e739.
+Ce
+€ ﬂe, H.-C., Jordan, H., Mengeling, H., Rohde, P., Streif, H.,
+Meyer, K.-D., Hinze, C., Ho
+€rgeologische Übersichtskarte von Niedersachsen und Bremen, 1:
+1995. Quarta
+500.000. NLfB, Hannover.
+Nitychoruk, J., Binka, K., Ruppert, H., Schneider, J., 2006. Holsteinian Interglacial¼Marine Isotope Stage 11? Quatern. Sci. Rev. 25, 2678e2681.
+Pasda, C., 2012. A study of rocks and ﬂints from Bilzingsleben. Quart€
+ar 59, 7e46.
+Prescott, J.R., Hutton, J.T., 1994. Cosmic ray contributions to dose rates for luminescence and ESR dating: large depths and long-term variations. Radiation
+Measurements 23, 497e500.
+Prescott, J.R., Stephan, L.G., 1982. The contribution of cosmic radiation to the
+environmental dose for TL dating. Latitude, altitude and depth dependances.
+en d'e
+tudes pour les techniques physiques, chiPACT, Revue du groupe europe
+matiques applique
+es a
+ l'arche
+ologie 6, 17e25.
+miques et mathe
+Prescott, J.R., Huntley, D.J., Hutton, J.T., 1993. Estimation of equivalent dose in
+thermoluminescence dating e the ‘Australian slide method’. Ancient TL 11, 1e5.
+Richter, D., 2007. Advantages and limitations of thermoluminescence dating of
+heated ﬂint from Paleolithic sites. Geoarchaeology 22, 671e683.
+Richter, D., 2015. Chronostratigraphy. In: Gilbert, A. (Ed.), Encyclopedia of Geoarchaeology. Springer, Heidelberg.
+Richter, D., Thieme, H., 2012. One ﬁrst chronometric date for the Lower Palaeolithic
+€ningen 13-I. In: Behre, K.-E. (Ed.), Die chronologische
+occupation at Scho
+€olithischen Fundstelle von Scho
+€ ningen/The chronological
+Einordnung der pala
+€ ningen,Forschungen zur Urgeschichte im
+setting of the Palaeolithic site of Scho
+€ningen 1. Verlag des Ro
+€misch-Germanischen ZentralmuTagebau von Scho
+seums, Mainz, pp. 171e182.
+Richter, D., Dombrowski, H., Neumaier, S., Guibert, P., Zink, A.C., 2010a. Environmental gamma dosimetry with OSL of a-Al2O3:C for in situ sediment measurements. Radiation Protection Dosimetry 141, 27e35.
+Richter, D., Moser, J., Nami, M., Eiwanger, J., Mikdad, A., 2010b. New chronometric
+data from Ifri n'Ammar (Morocco) and the chronostratigraphy of the Middle
+Palaeolithic in the Western Maghreb. J. Hum. Evol. 59, 672e679.
+Rorabacher, D.B., 1991. Statistical treatment for rejection of deviant values: critical
+values of Dixon's “Q” parameter and related subrange ratios at the 95% conﬁdence level. Analytical Chem. 63, 139e146.
+Sachs, L., 1992. Angewandte Statistik: Anwendung statistischer Methoden. Springer,
+Berlin.
+Sanzelle, S., Miallier, D., Pilleyre, T., Faïn, J., Montret, M., 1996. A new slide technique
+for regressing TL/ESR dose response curves e intercomparison with other
+techniques. Radiation Measurements 26, 631e638.
+Schmidt, C., Rufer, D., Preusser, F., Krbetschek, M., Hilgers, A., 2013. The assessment of
+radionuclide distribution in silex by autoradiography in the context of dose rate
+determination for thermoluminescence dating. Archaeometry 55, 407e422.
+Schwarcz, H.P., 1994. Current challenges to ESR dating. Quatern. Sci. Rev. 13, 601e605.
+€hner, U., Haßmann, H., Conard, N.J., 2012. Die pleistoza
+€nen FundSerangeli, J., Bo
+€ningen e eine Einführung. In: Behre, K.-E. (Ed.), Die
+stellen in Scho
+
+55
+
+€olithischen Fundstelle von Scho
+€ningen/The
+chronologische Einordnung der pala
+€ ningen, Forschungen zur
+chronological setting of the Palaeolithic site of Scho
+€ ningen 1. Verlag des Ro
+€misch-Germanischen
+Urgeschichte im Tagebau von Scho
+Zentralmuseums, Mainz, pp. 1e22.
+Shackleton, N.J., Sanchez-Goni, M.F., Pailler, D., Lancelot, Y., 2003. Marine isotope
+substage 5e and the Eemian Interglacial. Global and Planetary Change 36,
+151e155.
+€hl, E., De Loecker, D.,
+Sier, M.J., Roebroeks, W., Bakels, C.C., Dekkers, M.J., Bro
+Gaudzinski-Windheuser, S., Hesse, N., Jagich, A., Kindler, L., Kuijper, W.J.,
+€cher, H.J., Penkman, K.E.H., Richter, D., Van Hinsbergen, D.J.J., 2011.
+Laurat, T., Mo
+Direct terrestrial-marine correlation demonstrates surprisingly late onset of the
+last interglacial in central Europe. Quaternary Research 75, 213e218.
+Sierralta, M., Frechen, M., Urban, B., 2012. 230Th/U dating results from opencast
+€ningen. In: Behre, K.-E. (Ed.), Die chronologische Einordnung der
+mine Scho
+€ningen/The chronological setting of the
+pal€
+aolithischen Fundstelle von Scho
+€ningen, Forschungen zur Urgeschichte im Tagebau von
+Palaeolithic site of Scho
+€ningen 1. Verlag des Ro
+€ misch-Germanischen Zentralmuseums, Mainz,
+Scho
+pp. 143e154.
+Stephan, H.-J., Urban, B., Lüttig, G., Menke, B., Sierralta, M. (Eds.), 2012. Palynologische, petrographische und geochronologische Untersuchungen an Abla€tes Mittelpleistoz€
+gerungen der Leck-Warmzeit (spa
+an) und begleitender
+Sedimente. Schweizerbart, Stuttgart.
+Thieme, H., 1997. Lower Palaeolithic hunting spears from Germany. Nature 385,
+807e810.
+Thieme, H., 1999. Lower Palaeolithic throwing spears and other wooden implements
+€ningen, Germany. In: Ullrich, H. (Ed.), Hominid Evolution Lifestyles
+from Scho
+and Survival Strategies. Edition ARCHAEA, Gelsenkirchen, pp. 383e395.
+€ ninger Speere: Mensch und Jagd vor 400 000 Jahren.
+Thieme, H., 2007a. Die Scho
+Theiss, Stuttgart.
+€ningen 13 I: Der bisher
+Thieme, H., 2007b. Die altpal€
+aolithische Fundstelle Scho
+€
+alteste Siedlungsnachweis des Menschen in Niedersachsen. In: Thieme, H. (Ed.),
+€ninger Speere: Mensch und Jagd vor 400 000 Jahren. Theiss, Stuttgart,
+Die Scho
+pp. 211e216.
+Thieme, H., Maier, R., 1995. Arch€
+aologische Ausgrabungen im Braunkohletagebau
+€ningen, Landkreis Helmstedt. Hahnsche Buchhandlung, Hannover.
+Scho
+€ningen 12’ e ein mittelpleistoz€
+Thieme, H., Mania, D., 1993. ‘Scho
+anes Inter€olithischen Funden. Ethnogr.
+glazialvorkommen im Nordharzvorland mit pala
+€ol. Zeitschrift 34, 610e619.
+Archa
+€ologische Schwerpunktuntersuchungen
+Thieme, H., Maier, R., Urban, B., 1987. Archa
+im Helmstedter Braunkohlenrevier (ASHB) e zum Stand der Arbeiten
+1983e1986. Arch€
+aol. Korrespondenzblatt 17, 445e462.
+Tribolo, C., Mercier, N., Selo, M., Valladas, H., Joron, J.L., Reyss, J.L., Henshilwood, C.,
+Sealy, J., Yates, R., 2006. TL dating of burnt lithics from Blombos Cave (South
+Africa): further evidence for the antiquity of modern human behaviour.
+Archaeometry 48, 341e357.
+€rs im Tagebau
+Urban, B., 1995a. Vegetations- und Klimaentwicklung des Quarta
+€ningen. In: Thieme, H., Maier, R. (Eds.), Arch€
+Scho
+aologische Ausgrabungen im
+€ningen. Hahnsche Buchhandlung, Hannover,
+Braunkohlentagebau Scho
+pp. 44e56.
+Urban, B., 1995b. Palynological evidence of younger Middle Pleistocene interglacials
+€ningen) in the Scho
+€ningen open cast lignite
+(Holsteinian, Reinsdorf and Scho
+mine (eastern Lower Saxony, Germany). Mededelingen Rijks Geol. Dienst 52,
+175e186.
+Urban, B., 1999. Middle and Late Pleistocene biostratigraphy and paleoclimate of an
+€ningen: Germany. Chinese Sci. Bull. 44, 30e37.
+open-pit coal mine Scho
+€ ningen, North Germany. In:
+Urban, B., 2007a. Interglacial pollen records from Scho
+nchez Gon
+~ i, M.F., Litt, T. (Eds.), The Climate of Past
+Sirocko, F., Claussen, M., Sa
+Interglacials, Developments in Quaternary Sciences. Elsevier, pp. 417e444.
+€re Vegetations- und Klimaentwicklung im Tagebau
+Urban, B., 2007b. Quarta
+€ningen. In: Thieme, H. (Ed.), Die Scho
+€ninger Speere: Mensch und Jagd vor
+Scho
+400 000 Jahren. Theiss, Stuttgart, pp. 66e75.
+Urban, B., Sierralta, M., 2012. New palynological evidence and correlation of Early
+€ningen 12 B and 13 II, Scho
+€ningen open lignite mine. In:
+Palaeolithic sites Scho
+Behre, K.-E. (Ed.), Die chronologische Einordnung der pal€
+aolithischen Fund€ ningen/The chronological setting of the Palaeolithic site of
+stelle von Scho
+€ningen, Forschungen zur Urgeschichte im Tagebau von Scho
+€ningen 1.
+Scho
+€ misch-Germanischen Zentralmuseums, Mainz, pp. 77e96.
+Verlag des Ro
+€rgeologische und
+Urban, B., Thieme, H., Elsner, H., 1988. Biostratigraphische, quarta
+€ningen', Ldkr. Helmstedt.
+urgeschichtliche Befunde aus dem Tagebau 'Scho
+Z. Dtsch. Ges. Geowiss 139, 123e154.
+€lzer, A., Mania, D., Albrecht, B., 1991a. Eine eem- und
+Urban, B., Elsner, H., Ho
+€ ningen, Landkreis Helmstedt.
+frühweichselzeitliche Abfolge im Tagebau Scho
+Eiszeitalter Gegen 41, 85e99.
+Urban, B., Lenhard, R., Mania, D., Albrecht, B., 1991b. Mittelpleistoz€
+an im Tagebau
+€ningen, Ldkr. Helmstedt. Z. Dtsch. Ges. Geowiss 142, 351e372.
+Scho
+Urban, B., Sierralta, M., Frechen, M., 2011. New evidence for vegetation development
+and timing of Upper Middle Pleistocene interglacials in Northern Germany and
+tentative correlations. Quatern. Int 241, 125e142.
+€hner, U., Lang, J., Van Kolfschoten, T., Winsemann, J., 2015.
+Urban, B., Bigga, G., Bo
+Environmental reconstruction and biostratigraphy of Upper Middle Pleistocene
+€ ningen. J. Hum. Evol. 89, 57e70.
+lakeshore deposits at Scho
+riens
+Valladas, H., 1985. Datation par la thermoluminescence de gisements mouste
+se de Doctorat, Universite
+ Pierre et Marie Curie Paris VI.
+du sud de la France. The
+Valladas, G., Gillot, P.Y., 1978. Dating of the Olby lava ﬂow using heated quartz
+en d'e
+tudes pour les
+pebbles: some problems. PACT, Revue du groupe europe
+
+56
+
+D. Richter, M. Krbetschek / Journal of Human Evolution 89 (2015) 46e56
+
+matiques applique
+es a
+ l'arche
+ologie
+techniques physiques, chimiques et mathe
+2, 141e150.
+Valladas, H., Reyss, J.L., Joron, J.L., Valladas, G., Bar-Yosef, O., Vandermeersch, B.,
+1988. Thermoluminescence dating of mousterian ‘Proto-Cro-Magnon’ remains
+from Israel and the origin of modern man. Nature 331, 614e616.
+€ningen mammalian fauna in biostratigraphical
+Van Kolfschoten, T., 2012. The Scho
+perspective. In: Behre, K.-E. (Ed.), Die chronologische Einordnung der
+
+€ningen/The chronological setting of the
+pal€
+aolithischen Fundstelle von Scho
+€ningen, Forschungen zur Urgeschichte im Tagebau von
+Palaeolithic site of Scho
+€ ningen 1. Verlag des Ro
+€ misch-Germanischen Zentralmuseums, Mainz,
+Scho
+pp. 113e124.
+€ ningen (Germany): a review
+Van Kolfschoten, T., 2014. The Palaeolithic locality Scho
+of the mammalian record. Quat. Int. 326e327, 469e480.
+
+

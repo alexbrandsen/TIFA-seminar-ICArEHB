@@ -1,0 +1,1818 @@
+Journal of Archaeological Science 40 (2013) 2515e2537
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+The black layer of Middle Palaeolithic combustion structures. Interpretation and
+archaeostratigraphic implications
+Carolina Mallol a, *, Cristo M. Hernández a, Dan Cabanes b, Ainara Sistiaga a, Jorge Machado a,
+Ágata Rodríguez b, Leopoldo Pérez a, Bertila Galván a
+a
+
+Palaeolithic Hunter-Gatherer Societies Research Group, Universidad de La Laguna, Departamento de Prehistoria, Antropología e Historia Antigua, Campus de Guajara,
+La Laguna 38071, Tenerife, Spain
+GEPEG e Research Group for Palaecological and Geoarchaeological Studies, Department of Prehistory, Ancient History and Archaeology, University of Barcelona,
+Montalegre, 6-8, 08001 Barcelona, Spain
+
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 1 August 2012
+Received in revised form
+16 September 2012
+Accepted 18 September 2012
+
+Certain aspects of the formation processes of simple, ﬂat archaeological combustion structures such as
+those present in the Middle Palaeolithic record remain unexplained. Such kind of combustion structures
+are commonly affected by postdepositional agents and often, their only distinct, well preserved
+component is a thin black lens on the ground. Hence, understanding the nature of this black lens is
+essential towards archaeological interpretation. From an interdisciplinary microstratigraphic approach,
+we present a case study in which for an entire experimental series of ﬂat combustion structures the black
+layer represents the ﬁre-altered topsoil on which the ﬁre was made. Parallel analysis of archaeological
+Middle Palaeolithic combustion structures from the site of El Salt (Alicante, Spain) reveal similar patterns,
+leading to signiﬁcant implications for archaeological interpretation. In the light of these results, special
+attention must be paid to the formation processes of ﬂat Middle Palaeolithic combustion features, as
+black layers and the material contained in them are not necessarily linked with combustion but with
+preceding activities or events. In such cases, black layers represent intact remnants of occupation
+surfaces, concealing signiﬁcant behavioural and palaeoenvironmental information relevant to the
+reconstruction of Middle Palaeolithic societies.
+Ó 2012 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Combustion
+Neanderthal
+Middle Palaeolithic
+Microstratigraphy
+Micromorphology
+FT-IR
+Phytoliths
+El Salt
+
+1. Introduction
+Archaeological combustion structures have been a central
+object of study within the research of every time period since the
+Eurasian Middle Palaeolithic and African Middle Stone Age, when
+ﬁre started to be habitually used by humans (Roebroeks and Villa,
+2011). Their interest as study objects can be explained by different
+reasons, many of which have been previously pointed out. First,
+the formation of combustion structures is purely anthropogenic.
+Hence, they are direct transmitters of cultural and behavioural
+information (1989). Second, as providers of warmth and sources of
+heat for transforming food and other materials, they play
+a fundamental role in the spatial structuring of human communal
+life, and hence are key to understand the spatial organization of
+
+* Corresponding author. Tel.: þ34 922 31 77 27; fax: þ34 922 31 77 23.
+E-mail addresses: cmallol@ull.es, mallol@mmsh.univ-aix.fr (C. Mallol).
+0305-4403/$ e see front matter Ó 2012 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2012.09.017
+
+speciﬁc human occupations (e.g., Yellen, 1977; Galanidou, 1997;
+Vaquero and Pastó, 2001; Vallverdú-Poch et al., 2005). Third, they
+represent a direct stratigraphic link to the position of the human
+occupation surface on which they were made, which makes them
+a fundamental element of archaeological palimpsest dissection
+(Stevenson, 1991; Bailey, 2007; Henry, 2012; Martínez-Moreno
+et al., 2004).
+In the context of Middle Palaeolithic and Middle Stone Age
+archaeology, combustion features have been crucial as sources of
+evidence supporting complex hominin cognition (i.e., Hayden,
+2012; Meignen et al., 2007; Wadley, 2010). Palaeobotanical and
+zooarchaeological studies have provided information on the
+different kinds of fuel used and their effects on combustion (e.g.,
+Albert et al., 2000, 2003, 2012; Albert and Cabanes, 2007;
+Asmussen, 2009; Cabanes et al., 2010; Costamagno et al., 1999,
+2005, 2010; Théry-Parisot et al., 1996, 2010; Théry-Parisot, 1998,
+2001, 2002; Théry-Parisot and Meignen, 2000; Yravedra et al.,
+2005) and microstratigraphic studies of combustion features
+from different sites have documented examples of recurrent ﬁre
+
+2516
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+making and use, as well as maintenance activities such as ash rake
+out, sweeping and dumping (Berna and Goldberg, 2008; Goldberg
+et al., 2009, 2012; Miller et al., 2010). The functionality of Middle
+Palaeolithic ﬁre places has been a more elusive issue, although
+some insight has been provided by combustion structure sedimentological analysis using organic chemistry techniques, which
+have provided identiﬁcation of molecular biomarkers from speciﬁc
+animal and plant species, suggesting that the presence of such taxa
+in among the ﬁre residues resulted from cooking or refuse (March
+et al., 2008; Sistiaga, 2010; Sistiaga et al., 2011).
+The majority of documented Middle Palaeolithic and Middle
+Stone Age combustion structures are ﬂat, although a few exceptions
+of pit-hearths have been reported (see Dataset 1 in Roebroeks and
+Villa, 2011). The standard conception of a well preserved in situ ﬂat
+Middle Palaeolithic combustion structure representing a single
+combustion event (i.e., from lighting to extinction) comprises
+a stratiﬁed sedimentary sequence made up of a reddish-brown
+layer at the base, overlain by a dark brown/black layer and capped by a white/yellowish or pinkish white layer. The average
+thickness of each layer as documented in the majority of Middle
+Palaeolithic and Middle Stone Age sites ranges between 1 and 3 cm.
+Combustion features from most sites have been postdepositionally
+affected by erosion, reworking, weathering and diagenesis or
+a combination of these processes and normally the sequence is
+devoid of the top white layer or contains only relict evidence of it. In
+such cases, the black layer is considered the main material representative of the combustion structure and becomes a key referential feature from which to approach issues of site structure and site
+functionality, as well as to situate the stratigraphic position of
+a distinct occupation surface. Hence, understanding the nature of
+the black layer is critical.
+Yet, this has been an elusive topic. Simply, the black layer also
+referred to as “carbonaceous layer” or “charcoal layer” is assumed
+to be a representative component of anthropogenic combustion
+activity. A general assumption operating since the ﬁrst monographic volume dedicated to prehistoric ﬁre (Leroi-Gourhan, 1973)
+is that the black layer represents partially combusted or carbonized
+fuel. Hence, a widespread protocol for the excavation of combustion
+remains is to isolate the content of the black layer as representative
+of combustion activity and to follow the topography left behind as
+an occupation ﬂoor marker. However, until now, this assumption
+has not been scientiﬁcally questioned.
+Current data do not agree with this general assumption. There
+is micromorphological evidence from experimental and archaeological ﬁres whose black layers are composed of mixed combustion residues and particles from the topsoil (Wattez, 1990) and
+from ethnoarchaeological ﬁres lacking distinct black layers (Mallol
+et al., 2007). Recent micromorphological studies of combustion
+features from different Middle Palaeolithic sites provide clues into
+the formation of the black layer, but this information is descriptive
+and may lead to different interpretations. For instance, a micromorphological study of the black layers from several combustion
+structures at Kebara, Israel, all of which are between 1 and 2 cm
+thick, shows that they are consistently composed of a mix of siltsized charcoal fragments, terra rossa aggregates and quartz silt
+(Meignen et al., 2007). The microcharcoal fragments could
+represent fuel remnants associated with the combustion event.
+Alternatively, they could be residues of woody plant material
+accumulated either anthropogenically or by natural agents on the
+occupation surface. The geogenic components (soil aggregates and
+quartz grains) could also derive from the top of the substrate
+or have been introduced together with the fuel at the time of
+combustion. The micromorphological evidence does not unequivocally support the widespread assumption that the black layer
+represents fuel remnants.
+
+Documented combustion features from Abric Romaní, Barcelona
+(Layers J and O), most of which lack a distinct ash layer, represent
+a similar case. They have been interpreted as carbonaceous
+anthropogenic facies composed of burnt carbonate rocks and fuelderived residues (Courty et al., 2012; Vallverdú-Poch and Courty,
+2012; Vallverdú-Poch et al., 2012). However, the supporting data
+does not imply that all the components of the carbonaceous layer
+are associated with the combustion activity, and some of them
+could belong to underlying deposits.
+Micromorphological analysis of combustion feature black
+layers from the rich Middle Stone Age sequence of Sibudu,
+Kwazulu-Natal (Goldberg et al., 2009), has provided evidence of
+two main microfacies types: 1) Fibrous organic material in charred
+and humiﬁed state also containing either charcoal or phytoliths,
+sand and silt, interpreted as partially burned matting, and 2)
+Massive charcoal with minute ﬁbrous charcoal mixed with secretinite, burnt seeds or resin/plant gum, and fat-derived char, and
+sometimes calcareous ashes. The latter microfacies has been
+interpreted as representative of classic hearth bases and constitutes strong evidence of black layers possibly derived from fuel
+residues.
+Whether the black layer of a ﬂat combustion structure represents carbonized fuel or charred ﬁne organic material derived from
+the soil substrate has important implications towards archaeological interpretation. In the ﬁrst case, the black layer is representative
+of the original combustion structure and the archaeological material contained in it can be interpreted as material deposited during
+the combustion event, such as food refuse or discarded objects
+tossed in the ﬁre. In the second case, the same archaeological
+material would be unrelated to human activity associated with
+the combustion structure. Instead, it would belong to a broader
+archaeological assemblage related to human activity carried out
+on the occupation surface beneath the ﬁre and preceding it. It is
+clear to see how the distinction between black layer as fuel or as
+substrate must be made prior to excavation of the combustion
+structure, in order to identify accurate archaeological assemblages
+and their corresponding occupation surfaces. In this paper, we
+present selected data relevant to this problem from experimental
+and archaeological settings integrating contextualized micromorphological, lithic, faunal, geochemical and archeobotanical
+data.
+2. Material and methods
+Our methods are based on the view that archaeological site
+formation processes are case-speciﬁc (Goldberg and Macphail,
+2006). Hence, on-site experiments aimed at replicating sitespeciﬁc archaeological features may help us to gain insight into
+archaeological formation processes. In the case of combustion
+structures, site-speciﬁc factors such as wind exposure and type of
+sedimentary substrate are key to understand their formation,
+provided that present-day conditions are comparable to former
+ones. Accordingly, we carried out a series of experiments to try to
+understand the archaeological combustion remains from El Salt
+Middle Palaeolithic open-air site (Alicante, Spain), which has yielded evidence of recurrent Neandertal occupation dating to
+between 60.7  8.9 and 45.2  3.4 ka BP (Galván et al., 1991, 2006a,
+2006b, submitted for publication; Dorta et al., 2010; Gómez et al.,
+2010; Machado et al., 2011; Marrero et al., 2011; Sistiaga et al.,
+2011).
+We made 24 experimental ﬁres in the immediate surroundings of the excavation during the 2010 season (Mallol et al.,
+submitted for publication). The materials and variables tested
+were chosen according to preexisting hypotheses about the
+functionality and formation processes of the combustion
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+assemblages recovered from this archaeological site. The same
+variables were tested in different experiments to ensure duplicated results. The ﬁres were made in the open air a few metres
+from the excavation area to replicate the archaeological setting. In
+ﬁres that did not involve subsequent trampling or other postcombustion actions, thermocouples were inserted at ground
+level, 1e3 cm below the ground and in the ﬂames. The number of
+thermocouples in each ﬁre was constrained by logistical factors
+such as space restrictions and ranged between 3 and 13. The
+weather conditions remained constant throughout the experimental season; average warm temperatures of 28e33  C, with
+a prevailing lack of rain and wind, except for a few incidences of
+brief summer rainstorms (usually during the night) and breezy
+days with random strong squalls.
+Combustion residues were sampled (for micromorphology, bulk
+geochemistry and phytolith analysis) along with adjacent control
+sediment samples. Some of the combustion features were excavated in August, 2010, while others remain in situ for taphonomic
+control.
+Here, we present data from 7 ﬁres that were excavated, sampled
+and analysed and for which we have complete datasets. These are:
+NFT-3, a ﬁre trampled for 20 days; NFT-6, relit daily on 7 consecutive
+
+2517
+
+days with a fresh layer of ivy leaves between each combustion;
+NFT-8, NFT-14 and NFT-15, one-time combustion events lasting
+6:30, 7 and 3 h respectively; and NFT-24 and NFT-16, two ﬁres made
+on top of each other and extinguished with sediment (NFT-16) and
+water (NFT-24) (Table 1). Although data collection for the rest of the
+ﬁres is ongoing, preliminary results suggest that they conform to the
+patterns observed in the data presented here.
+The substrate on which the ﬁres were made conforms to the
+lithology documented in the archaeological deposit and varies
+slightly in its organic content: Table 2 shows a summary of the
+macroscopic and microscopic features observed in control samples
+of the different substrate types on which the ﬁres were made. NFT3, -6 and -16 were made on bare, dry ground, NFT-8 on wet ground,
+NFT-14 on sparsely vegetated ground, NFT-15 on dry, compact
+sediment and NFT-24 on freshly dumped sediment.
+Regarding the archaeological sample, six combustion features
+from El Salt site were selected for comparison with our experimental data: H-30, H-32, H-33, H-43, H-44 and H-45. These belong
+to the stratigraphic unit under current excavation (S.U. X) and are
+associated with archaeological remains and sedimentary facies
+excavated, sampled and documented according to a methodology
+geared at the identiﬁcation of human occupation episodes. The
+
+Table 1
+Main variables of experimental ﬁres.
+Fire ID
+
+Substrate
+
+Relightings
+
+Thermo- Fuela
+couples
+
+Fire feeding
+timeb
+
+Actions during combustion
+
+Extinction Post-combustion
+actions or events
+
+NFT 3
+
+Type 1
+
+None
+
+None
+
+5.4 kg of standard.
+
+3h
+
+At 10 min, ﬂint knapping debris
+tossed in ﬁre.
+At 30 min, 150 g of pork ribs
+with meat tossed in the ﬁre.
+At 1 h 15 min, dry horse
+excrements tossed in the ﬁre.
+
+Natural
+
+NFT 6
+
+Type 1
+
+7, on the
+None
+following
+7 consecutive
+days.
+
+1:
+2:
+3:
+4:
+5:
+6:
+7:
+8:
+
+NFT 8
+NFT 14
+
+Type 2
+Type 3
+
+None
+None
+
+8
+9
+
+1: 9.3 kg of standard.
+2: 8.8 kg of standard
+including leftover
+half-burned branches
+and dry bark.
+3: 14.7 kg of standard
+4: 7 kg of standard
+including leftover
+half-burned branches.
+5: 10.5 kg of standard
+including leftover
+half-burned branches.
+6: 5 kg of standard.
+7: 7.5 kg of standard.
+6: 13.6 kg of standard.
+28 kg of standard.
+16.2 kg of standard
+including 1 semidry
+and 1 rotten branch
+
+NFT 15
+
+Type 4
+
+None
+
+13
+
+NFT 24/16 Loose dry
+1 (NFT-24),
+sediment/Type 1 after 3 days.
+
+3
+
+2
+2
+2
+5
+1
+2
+4
+2
+
+h
+h
+h
+h
+h
+h
+h
+h
+
+23 min
+35 min
+18 min
+5 min
+50 min
+35 min
+
+1: At 20 min, 200 g Pork ribs
+Natural
+tossed in ﬁre.
+2: At 40 min, human baby
+excrements tossed in ﬁre.
+3: At 1 h 20 min, 200 g Pork
+meat tossed in ﬁre.
+4: At 1 h, 12 horse bone fragments
+40 min tossed in ﬁre and removed after
+carbonization.
+4: At 2 h, ﬂint knapping
+by the ﬁre.
+
+6 h 30 min
+7h
+
+None
+At 1 h, limestone cobble tossed
+in ﬁre.
+At 7 h, owl pellets (Bubo bubo)
+tossed in the ﬁre.
+At 7 h 30 min, ﬂint ﬂakes
+tossed in the ﬁre.
+4.9 kg of standard and 3 h
+At 1 h 40 min, a whole pigeon
+3 kg of dry bark.
+tossed in the ﬁre
+1: 10 kg of standard
+1: 1 h 40 min 1: At 1 h 40 min, ﬂint knapping
+and dry pine cones.
+2: 3 h 10 min dust tossed in ﬁre,
+2: 9.5 kg of standard
+and 4 kg of dry sediment dumped.
+including leftover
+2: At 15 min, 4 deer ribs
+half-burned branches
+cooked on embers.
+and a dry blackberry
+branch.
+At 1 h and at 2 h 40 min, eaten
+
+After 3 days, 3
+calcined horse bone
+fragments added to
+the combustion.
+Affected by a 2 h-long
+summer rainstorm
+with heavy drops.
+Trampled for 20 days.
+Covering with a bed of
+green ivy leaves after
+each combustion event.
+These were left in place
+slightly trampled at the
+start of each
+combustion event.
+Affected by a 2 h-long
+summer rainstorm with
+heavy drops
+(after combustion 5).
+
+Natural
+Natural
+
+None
+None
+
+Natural
+
+None
+
+1: Dry
+None
+sediment.
+2: Water.
+
+deer ribs tossed in ﬁre.
+At 3 h 40 min, water dumped.
+a
+b
+
+The standard fuel used was dry Pinus nigra naturally fallen wood: Medium and small branches as the main structure and pine needles and twigs as tinder.
+From lighting to smouldering, or when no more fuel is added to the ﬁre.
+
+2518
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+Table 2
+General description of substrate types involved in the experiments (top 5 cm).
+Substrate
+type
+
+Corresponding
+ﬁres
+
+Macroscopic features
+
+Microscopic features
+
+1
+
+NFT-3
+NFT-6
+NFT-16
+
+Flat surface. Very pale brown, dry, with no vegetal cover
+except for isolated dry grass stalks. Loose surface detritus
+including common silt, sand, and limestone gravel, as well
+as isolated dry twigs, seeds and leaves.
+
+2
+
+NFT-8
+
+3
+
+NFT-14
+
+Flat surface. Dark yellowish brown, wet, with other features
+like Type 1. Resulted from dumping 11 l of water the night
+before the ﬁre was made.
+Slightly sloping surface. Brown, dry, lightly vegetated cover
+(moss and isolated grass stalks). Loose silty and sandy
+aggregates. Isolated dry twigs, seeds and leaves.
+
+Massive sandy clay with common unsorted subangular
+limestone and tufa gravel and sand and few angular, unsorted
+quartz sand grains. Few zig-zag planes and medium
+channels (200e250 mm) ﬁlled with fresh rootlets. Abundant
+organic silt-sand fraction including plant residues (orange, red,
+brown and black-brown concentrations of amorphous matter,
+tissue, individual cells and punctuations, here onwards “OM”)
+and subangular bone fragments (pale yellow); few ascribed to
+microfauna and others undiagnostic).
+Unavailable
+
+4
+
+NFT-15
+
+Small depression. Very pale brown, dry, with no vegetal
+cover. Compact (strongly cemented) silty sand with common
+limestone gravel. Scattered windblown twigs, seeds, leaves
+and tufa grains.
+
+5
+
+NFT-24
+
+Flat surface. Very pale brown, loose unconsolidated sandy clay.
+
+selected combustion features belong to diachronous archaeological
+facies associations (Fig. 1).
+2.1. Micromorphological analysis
+Three oriented sediment samples were collected from the
+remains of each experimental ﬁre and its underlying substrate (2
+samples from the interior and 1 control sample of adjacent sediment). Archaeological sampling involved between one and three
+samples from each combustion feature and its underlying sediment. Previously collected samples from archaeological sediment
+adjacent to the combustion features were analysed as control
+samples. The blocks were collected by applying a plaster cast using
+damp tissue paper and gypsum-impregnated gauze. In the lab, the
+oriented blocks were oven-dried at 60  C for two days and subsequently impregnated in a mix of polyester resin, styrene and
+a catalyser (MEKP) in a 7:3:0.1 ratio. After curing for two weeks, the
+hardened blocks were cut into 1 cm-thick slabs, which were then
+shipped to Spectrum Petrographics Inc. (Vancouver, US) for
+medium sized (7 cm  5 cm  30 mm) thin section manufacture.
+Micromorphological descriptions follow the standard guidelines of
+Stoops (2003). Special attention was paid to presence/absence of
+ﬁssures as potential thermal alteration markers. Bone specimens
+were categorically described as pale yellow, pale yellow with
+brown edges, thermally altered brown and calcined. Pale yellow
+bone is simply described and not interpreted (as unburnt), as
+it could represent low-temperature burning. In experimental
+
+Subangular blocky sandy clay with common unsorted subangular
+limestone and tufa gravel, sand and silt and few angular, unsorted
+quartz sand grains. Common medium channels ﬁlled with fresh
+rootlets. Abundant orange, red, brown and blackebrown OM
+and very few rounded pale yellow bone fragments and rounded
+charcoal fragments.
+Massive, compact sandy calcitic clay with few small vughs
+(100 mm) and few large planes. Common unsorted subangular
+limestone and tufa gravel, sand and silt and few angular, quartz
+ﬁne sand grains. Inorganic, with only isolated punctuations and
+fresh rootlets in large planes. Common rounded pale yellow
+bone fragments and few rounded charcoal fragments.
+Unavailable
+
+samples, plant residues are interpreted as charred when they are
+black in comparison with orange and red control counterparts. In
+archaeological samples, interpretation is more ambiguous, based
+on context (presence of thermally altered bone and ﬂint) and
+absence of micromorphological features indicative of advanced
+humiﬁcation (Babel, 1975).
+2.2. Mineralogy and phytoliths
+Mineralogical and phytolith analyses were carried out on 30
+archaeological sediment samples collected from 4 different
+combustion features. Mineralogical composition was analysed
+using an iS5 FT-IR Nicolet Thermo Scientiﬁc Spectrometer.
+Infrared spectra were obtained using KBr pellets at 4 cm1
+resolution. In addition to mineralogical composition, speciﬁc
+absorptions in the clay spectrum were analysed to identify clays
+exposed to high temperatures (Berna et al., 2007). Phytolith
+concentrations in the sediments were determined using the
+method of Katz et al. (2010). This method is based on the dissolution of carbonates and phosphates by adding 50 ml of 6N HCl to
+about 20 mg of sediment, and the separation of the phytoliths and
+lighter elements from the rest of the fraction using 450 ml of
+sodium polytungstate (2.4 g/ml density). Phytoliths were counted
+and identiﬁed using an Olympus BX-41 optical microscope at
+200 and 400. Identiﬁcation of phytolith morphotypes was
+carried out using the standard literature (Twiss et al., 1969;
+Mulholland and George Rapp, 1992; Piperno, 1988, 2006). The
+
+Fig. 1. Schematic diagram illustrating the stratigraphic position of the archaeological combustion features analysed. La7e9 and XB are different facies associations within S.U. X.
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+2519
+
+International Code for Phytolith Nomenclature was followed
+where possible (Madella et al., 2005).
+2.3. Lithic and faunal remains
+
+Fig. 2. Temperatures recorded at 10 min intervals in the topsoils (0e3 cm) of experimental ﬁres from lighting to smouldering. No thermocouples were inserted in the
+ground for NFT-3 (trampled ﬁre) and NFT-24 (a ﬁre made on top of NFT-16).
+
+The analysis focused on the degree of thermal alteration of lithic
+and faunal objects in relation to their stratigraphic position within
+and adjacent to combustion structures. For the lithics, macroscopic
+variables observed were: Colour, breaks, thermal extractions,
+scales, ﬁssures and thermal gloss (Clemente, 1997) using previously
+obtained referential thermal alteration patterns for the ﬂint types
+documented at El Salt (Dorta et al., 2010) and literature on the topic
+(Domanski and Webb, 1992, 2007; Domanski et al., 2009; Mercieca
+and Hiscock, 2008).
+Analysis of the archaeological faunal remains involved the
+following steps: 1) Taxonomic identiﬁcation. Rabbit e Oryctolagus
+cuniculus, which at El Salt has been shown to derive from owl
+pellets (Sanchis, 2000, 2012; Yravedra, 2006a) was considered as
+non-anthropogenic input; 2) Recording of the degree of burning,
+which was established following six different thermal alteration
+
+Fig. 3. Field views of black layers from experimental ﬁres during excavation.
+
+2520
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+stages: Brown, browneblack, black, blackegrey, grey and white
+(Lyman, 1994). No interpretation regarding burning temperatures
+was made given the unresolved state of current debates on this
+topic (Lyman, 1994; Yravedra, 2006b). The ambiguity is partly due
+to the diversity of factors inﬂuencing the effect of ﬁre on bone
+(internal and external bone structure, environmental conditions,
+combustion time, position within the structure.etc.).
+3. Results
+3.1. Experimental combustion structures
+Summarized descriptions of the sedimentary combustion residues from the experimental ﬁres are presented in Appendix A.
+Fig. 2 shows temperatures recorded in the topsoil (0e3 cm) from
+lighting to smouldering. First, we will outline a series of patterns
+
+observed in all the experiments, followed by remarks speciﬁc to
+particular ﬁres and brief comments on the lithic and faunal
+remains.
+None of the ﬁres showed a stratiﬁed sequence in which one of
+the layers was exclusively composed of incompletely combusted
+fuel (charcoal). In all cases, the residual wood charcoal fragments
+were contained within the top ash layer, which was resting directly
+on the ground. The black layers (Fig. 3) represent the top 0.5e1.5 cm
+of the sedimentary substrate on which the ﬁres were made,
+according to a matching correspondence with the microscopic
+components observed in the control samples (Appendix A). The
+main features observed in the thermally altered soil as different
+from control samples were: 1) Microaggregation of the topsoil (up
+to 5 mm), 2) Horizontal ﬁssuring of the sedimentary mass (between
+5 mm and 3 cm) (Fig. 4) and 3) Carbonization of the silt-sized
+organic particles (Fig. 5).
+
+Fig. 4. Partial thin section scans of combustion residues from two different experimental ﬁres: a) NFT-6, made on unvegetated, dry soil and b) NFT-14, made on sparsely vegetated
+soil. The main microstructural effects of combustion on the substrate were blackening of the top cm and microaggregation at the surface (almost 1 cm in a and only a few mm in b)
+Scale bar ¼ 1 cm. In a, microaggregation is underlain by ﬁssuring up to a few cm in depth, while no microstructural changes were identiﬁed in b below the microaggregated
+segment. c) Detail of contact between microaggregated and ﬁssured topsoil in a (plane polarized light e PPL); d) Microphotograph of a control sample collected adjacent to one of
+the ﬁres. Note the massive microstructure of the natural, unburnt soil (PPL).
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+2521
+
+Fig. 5. Microphotographs showing ﬁre-altered OM in black layers resulting from different experimental ﬁres (a. NFT-8, b. NFT-14) compared to unburnt OM in control samples of
+adjacent soil (c, d). All images in PPL.
+
+Besides these common features, some of the ﬁres provided
+additional signiﬁcant information:
+ In the ﬁeld, the top of the NFT-14 black layer, which resulted
+from burning on a sparsely vegetated substrate, yielded a dark
+olive brown colour. Microscopically, we observed microaggregated sandy clay with charred moss and grass rootlets,
+capped by anatomically connected phytoliths (Fig. 6a, b and c).
+ In NFT-3, a ﬁre trampled on 21 consecutive days, calcitic ash
+was incorporated into the black layer as reworked aggregates
+(Fig. 6c and d). At a microstructural level, the sediment was
+miroaggregated and showed carbonized organic silt, as in the
+other cases.
+ Two ﬁres, NFT-8 and NFT-15, did not yield continuous black
+layers. In NFT-8, the charcoal-rich ash layer was underlain by
+reddish-yellow and black patches of sediment (Fig. 7).
+In localized areas there was a juxtaposition of the reddishyellow and black patches. At a microstructural level, the reddish-yellow patches showed microaggregation and horizontal ﬁssuring but the organic-silt fraction contained in them
+was not thermally affected (Fig. 7a and b). The black patches
+were also ﬁssured and their ﬁne organic matter (hereonwards
+OM) was thermally altered (Fig. 7c and d).
+ In NFT-15, a ﬁre made on a compact, inorganic sedimentary
+substrate, the charcoal-rich ash layer was underlain by 0.5 cm
+of reddish-yellow sediment capped by a thin (10 mm) black
+lining of minute charcoal, punctuations and microaggregates
+(Fig. 7e and f). When compared with the control sample, this
+reddish sediment is weakly ﬁssured.
+Table 3 contains information about the stratigraphic position
+and degrees of thermal alteration of the material remains
+
+associated with each ﬁre and their macroscopic features. Overall,
+materials tossed in the ﬁre were excavated within the ash layer.
+Exceptions are NFT-3, the trampled ﬁre, in which this material was
+found in the black layer and NFT-6, which yielded a ﬂint assemblage
+in the periphery of the black layer derived from ﬂint knapping by
+the ﬁre during combustion event 4. We also note that some ﬂint
+objects placed on the surface prior to combustion showed explosive
+breakage at high temperatures (>400  C), and that some of the
+resulting fragments were ejected several metres outwards. In
+contrast, lithics buried under the experimental surface (e.g.,
+NFT-10-10, not presented here) shattered in situ (Mallol et al.,
+submitted for publication).
+3.2. Archaeological combustion structures
+3.2.1. Sedimentary aspects
+Appendix B shows a summary of the macroscopic and microscopic sedimentary features observed in the selected S.U. X
+archaeological combustion features from El Salt. Mineralogical (FTIR) and phytolith data is presented in Table 5. We will comment ﬁrst
+on relevant observations relating to the black layer, and then on the
+other different kinds of layers documented (ash, reddish brown and
+unaltered sediment underlying and adjacent to the combustion
+structures).
+In the six cases analysed, the archaeological black layer (Figs. 8
+and 9) consists of microaggregated sandy sediment made up of
+carbonized plant litter and unsorted detritic mineral components
+in approximately 1:1 ratio. More than 50% of the mineral fraction is
+unsorted detritic recrystallized tufa ranging from granules to very
+ﬁne sand-sized grains. There are minor proportions (<5%) of quartz
+sand, calcitic Celtis fruit seed coats and a few scattered, ﬁssured ﬂint
+ﬂakes (1e2 mm in length). There is a small amount of clay, which is
+
+2522
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+Fig. 6. a) Field view of NFT-14 during excavation of the black layer. Note the greenish-grey colour at its surface. b) Microphotograph of the NFT-14 stratiﬁed sequence (from base to
+top): Microaggregated topsoil, in situ charred grass and moss, phytoliths in anatomical connection, ﬁssured ﬂint and calcitic ash containing charcoal fragments. c) Detail of
+anatomically connected phytoliths. d) Microphotograph of NFT-3 combustion residues showing preserved topsoil microaggregation and ﬁssuring. e) Detail of trampled NFT-3
+combustion residues showing common fragmented charcoal and bundled calcitic ash. All images in PPL. (For interpretation of the references to colour in this ﬁgure legend, the
+reader is referred to the web version of this article.)
+
+not thermally altered. The rest of the space is ﬁlled with weakly
+bedded brown-to-black plant litter (leaf, stem and root fragments,
+ligniﬁed tissue, epidermis fragments, indistinct organic particles
+and associated spores and fungal hyphae) (Figs. 10 and 11) and
+minor proportions (5%) of diverse coprolitic residues including
+black to brown, subrounded, ﬁbrous, spongy fragments (Fig. 12a
+and b), massive fragments (Fig. 12c and d) and fragments with
+amorphous inﬁllings (Fig. 12e and f). Bone fragments are scarce,
+mostly of microfauna, and exhibit pale to orange colour (see Fig. 10).
+Charcoal fragments are rare and ﬁssured. All the black layers are
+channelled by biogalleries, some of which are partially ﬁlled with
+enchytraeid earthworm faecal pellets (see Fig. 10).
+Four of the combustion features e H-32, H-30, H-33 and H-44,
+yielded relatively well preserved ash layers. Their FT-IR spectra
+
+resemble those from the black layers and underlying sediment in
+that they show calcite and clay in different proportions, together
+with lesser amounts of dahllite and quartz. The H-32 and H-44 ash
+layers contain more calcite than clay, while clay is slightly more
+abundant in H-30 and H-45 ash layers. Clay in the ash layers is
+thermally altered.
+Micromorphologically, all the ash layers show characteristic
+microcrystalline calcium carbonate polygonal and elongated
+aggregates and amorphous domains comparable to our experimental ash samples (Fig. 13a and b). Additional morphologies
+including aligned cellular calcium oxalate crystals from leafs
+(Canti, 2003), Celtis sp. seed coats and other unidentiﬁed cells and
+tissues exhibiting delicate, moss-like morphologies were observed
+in H-44 (Fig. 13e and f). The primary nature of the latter needs
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+2523
+
+Fig. 7. Field view (a) and partial thin section scan (b) of combustion residues from NFT-8. Note the juxtaposition of ﬁssured rubeﬁed and blackened topsoil. c) Micrograph of
+rubeﬁed topsoil. Note the presence of unburnt OM. d) Micrograph of charred OM in blackened topsoil. e) Micrograph showing the NFT-15 rubeﬁed inorganic topsoil capped by a thin
+black lining. f) Detail of the NFT-15 topsoil showing microaggregation and minute charcoal fragments. Views in PPL.
+
+further investigation, as these calciﬁed tissue fragments could
+represent postdepositional plant growth in the wood ash layer. In
+the ﬁeld, a dark olive brown sedimentary layer was identiﬁed
+between the ash and black layers of H-32 (Fig. 14). Microscopically,
+this layer is composed of reddened granular sediment (Fig. 14c)
+containing calcined bone (Fig. 14c and d), amorphous, phosphaterich coprolites with unidentiﬁed inclusions (Fig. 14e and f) and
+
+rare OM. FT-IR spectra from this layer shows a mix of calcite and
+unaltered clay.
+Excavation of H-44, which was recognized in the ﬁeld as a large,
+complex feature with a reddish brown segment between the white
+and black layers (Fig. 15a and b), yielded the following microstratigraphic sequence (from base to top): 1) A characteristic black
+layer as the others previously described, 2) Microaggregated
+
+2524
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+Table 3
+Stratigraphic position and description of thermally altered ﬂint items associated
+with the experimental combustion structures.
+Combustion Stratigraphic position
+feature ID
+NFT-3
+NFT-6
+
+NFT-8
+
+NFT-14
+
+Descriptiona
+
+Black Layer
+Analysis pending.
+White Layer, Black Layer White Layer: Stage 3 ﬂakes (2).
+and Black Layer periphery Black Layer: Stage 1 (11), Stage 2 (3)
+and Stage 3 (1) ﬂakes.
+Black Layer periphery: Stage 2 (5)
+and Stage 1 (8) ﬂakes and a
+Stage 1e2 microdebris accumulations.
+White Layer
+Stage 3 (5) and Stage 2 (5) ﬂakes
+and two Stage 3 microdebris
+accumulations.
+White and Black Layer
+White Layer: Stage 1 (3), Stage 2 (1)
+and Stage 3 (12) ﬂakes and six
+Stage 3 microdebris accumulations.
+Black Layer: Stage 1 (1) and
+Stage 3 (10) ﬂakes and two Stages 1
+and 3 microdebris accumulations.
+
+a
+Referential thermal alteration burning stages (Dorta et al., 2010): 1 ¼ 300e
+400  C ¼ ; 2 ¼ 400e550  C; 3 ¼ 550e700  C.
+
+reddish brown sediment composed of thermally altered clay and
+containing calcitic ash inclusions, calcined bone and tufa grains and
+rare organic punctuations (Fig. 15c and d), 3) A heterogeneous
+calcitic ash layer, as previously described (see Fig. 13e and f), and 4)
+a thin couplet of calcitic ash and thermally altered sediment rich in
+charred OM (Fig. 15e and f). One thin section showed an additional
+millimetric lamina of calcitic ash mixed with carbonized particles
+capping the sequence.
+The sediment adjacent to and underlying the archaeological
+black layers is composed of unaltered clay and is identical to them
+in its lithological composition (Table 4, Fig. 16a and b) but there is
+a near absence of plant litter residues except for common organic
+punctuations and isolated or concentrated, anatomically connected
+
+phytoliths (Fig. 16c and d). Bone, coprolites and charcoal are represented similarly to the black layers. Regarding the latter, the
+excavation record indicates that the majority of charcoal fragments
+larger than 1 cm were found in sediment outside the combustion
+features, not within them.
+3.2.2. Phytoliths
+Regarding phytolith concentrations, these range from 3 to 12
+million with an average of 5.6  2.0 in all the samples analysed,
+regardless of provenience. Besides a few individual samples, there
+are no signiﬁcant differences in phytolith concentrations among
+combustion features or layers within them (Table 5). The percentage
+of weathered morphotypes does not exceed 15% and anatomically
+connected phytoliths (multicells) are relatively abundant in all the
+samples, indicating good phytolith preservation. The presence of
+anatomically connected phytoliths is not related to sediment type
+with the exception of H-30, where multicells are more abundant in
+the ash and black layers than in the underlying sediment.
+Roughly, all the samples show a similar phytolith assemblage,
+characterized by a high presence of Celtis fruits, and in the following
+order smaller amounts of phytoliths from grass leaves, wood and
+bark, dicotyledonous leaves and grass inﬂorescence (Fig. 17). Note
+that the H-32 and H-44 ash layers show more wood and bark than
+grass phytoliths, and that the H-30 ash layer shows the same
+amount of grass inﬂorescence than grass leaves. The high presence
+of dicotyledonous leaves in the H-44 dark olive brown layer is also
+noteworthy. Taking into account differences in phytolith production among grasses, dicotyledonous leaves and wood and bark, the
+proportion of non-grass phytoliths is considerably high in all the
+samples (Albert and Weiner, 2001).
+3.2.3. Lithic and faunal remains
+Appendix C contains summarized descriptions of the stratigraphic position and degrees of burning of the archaeological
+material excavated from the ash and black layers and associated
+
+Table 4
+General description of El Salt e S.U. X sedimentary subunits associated with the archaeological combustion features mentioned in the text.
+Stratigraphic
+subunit
+
+Corresponding
+combustion
+features
+
+Macroscopic features
+
+Microscopic features
+
+La8
+
+H30
+H32
+H33
+
+Light brown, granular sandy clay with common
+limestone and tufa gravel and pebbles. It is
+present in the entire excavated area, being
+thickest away from the back wall (8 cm) and
+pinching out at the wall. It forms a relatively
+ﬂat, microtopographically irregular surface.
+
+La 9
+
+H43
+
+XB
+
+H44
+H45
+
+It underlies La8 with a sharp contact and shows
+very similar color and texture and irregular
+surface. It is thickest at the centre of the
+excavated area (5 cm) and disappears towards
+the periphery (towards and away from the back
+wall). It contains abundant remains
+of Oryctolagus cuniculus.
+It underlies La9 and La10 (a lens documented
+towards the centre of the excavated area) with
+a sharp erosional contact. It is reddish brown
+and ﬁner-grained than the overlying deposits.
+It contains a signiﬁcantly lower proportion of
+limestone and tufa gravel. It remains unexcavated
+and its estimated thickness (from proﬁle
+observation) is 10 cm at the wall, pinching out
+a few metres away from the wall. It has yielded
+common cm-sized charcoal fragments
+throughout the excavation area.
+
+Massive and locally granular, poorly sorted sandy clay
+containing quartz (5% vfs-fs, 1% cs-vcs), rounded
+fossiliferous limestone (20e30% vfs-fs) and subrounded
+recrystallized tufa (30% vcs-granules-pebbles); Abundant
+Celtis sp. seed coats; common pale brown coprolites
+(ﬁbrous and spongy, as well as massive with quartz grains
+and phytoliths); Common pale yellow bone and very few
+ﬁssured charcoal fragments.
+Same lithology as La8 with a higher proportion and better
+sorting of tufa granules and pebbles, which are fresh; Rare
+shell fragments. No Celtis sp. seed coats or coprolites identiﬁed;
+Few ﬁssured charcoal fragments; Common pale yellow bone.
+
+Unavailable
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+2525
+
+Table 5
+FT-IR results, phytolith concentration per gram of sediment, percentage of anatomical connected phytoliths (multicells), average cell number forming the anatomical connected phytoliths, and percentage of weathered morphotypes. Minerals in FT-IR results are sorted by peak height; “¼” means similar peak height for both minerals.
+Combustion feature
+
+Sediment
+
+FT-IR results
+
+Phytoliths in 1 g
+of sediment (millions)
+
+% Anatomical connected
+phytoliths (Multicells)
+
+Average cell number
+in anatomical connected
+phytoliths
+
+% Weathered
+morphotypes
+
+H30
+
+Ash
+Black
+Brown
+Brown
+Reddish Br.
+Reddish Br.
+Ash
+Ash
+Black
+Black
+Black
+Black
+Dark Olive
+Ash
+Ash
+Ash
+Ash
+Ash
+Ash
+Black
+Black
+Black
+Black
+Brown
+Dark Olive
+Reddish Br.
+Reddish Br.
+Ash
+Black
+Black
+
+Cl (b?), Ca, Dh, Qz
+Cl (nb), Ca, Dh, Qz
+Cl (nb), Ca, Dh, Qz
+Cl (nb), Ca (na), Qz
+Cl (nb), Ca, Dh, Qz
+Cl (nb), Ca, Dh, Qz
+Ca (va), Cl (b?), Dh (t)
+Ca (va), Clay (b?), Qz (t)
+Cl (nb), Ca, Dh, Qz
+Cl (nb), Ca, Dh, Qz
+Cl (nb), Ca, Qz
+Ca¼Cl (nb), Qz (la), Dh (t)
+Ca¼Cl (nb), Qz (la), Dh (t)
+Cl (nb), Ca, Qz
+Ca, Cl (b?), Dh, Qz
+Ca, Cl (b?), Dh, Qz
+Cl (b?)¼Ca, Dh, Qz
+Ca, Cl (b?), Dh, Qz
+Cl (b?)¼Ca, Dh, Qz
+Cl (nb), Ca, Qz (t), Dh (t)
+Ca, Cl (b), Dh, Qz
+Cl (nb), Ca, Dh, Qz
+Cl (nb), Ca, Qz, Dh (t)
+Ca¼Cl (b), Dh, Qz (t)
+Ca, Cl (b?), Dh, Qz
+Cl (b), Ca, Dh, Qz
+Cl (b?), Ca, Dh, Qz
+Cl (b?), Ca, Qz (t), Dh (t)
+Cl (nb) ¼ Ca, Qz (t), Dh (t)
+Cl (nb), Ca, Qz (t), Dh (t)
+
+4.4
+5.7
+7.0
+4.7
+9.5
+8.1
+5.2
+4.5
+4.9
+5.3
+4.6
+5.7
+4.1
+5.6
+5.8
+12.5
+3.5
+5.5
+3.1
+7.3
+4.8
+5.3
+6.1
+9.6
+4.6
+3.8
+4.8
+6.2
+4.1
+3.7
+
+24.5
+20.1
+7.5
+16.7
+9.7
+15.3
+17.3
+25.2
+15.4
+3.4
+15.8
+5.6
+1.4
+16.1
+0.0
+31.1
+16.4
+8.9
+22.6
+16.9
+9.0
+12.7
+8.3
+11.5
+20.1
+17.8
+29.0
+17.6
+9.6
+17.2
+
+3.6
+4.4
+4.0
+3.4
+3.1
+3.5
+4.5
+5.3
+7.2
+2.7
+3.4
+2.6
+3.0
+3.0
+0.0
+5.8
+4.0
+2.7
+10.8
+5.5
+5.0
+4.0
+2.8
+3.3
+9.0
+3.9
+7.3
+6.6
+3.0
+4.5
+
+10.3
+7.6
+7.5
+7.7
+7.3
+9.9
+8.1
+5.8
+6.8
+5.1
+8.5
+6.9
+5.3
+7.3
+9.7
+7.8
+13.1
+12.1
+8.0
+8.8
+9.9
+6.9
+9.2
+10.0
+12.1
+14.5
+5.6
+4.6
+6.8
+5.3
+
+H32
+
+H44
+
+H45
+
+Cl ¼ clay; Ca ¼ calcite; Dh ¼ dahllite; Qz ¼ quartz; (b) ¼ burnt clay; (nb) ¼ unburnt clay; (na) ¼ not abundant; (va) ¼ very abundant; (t) ¼ traces.
+
+(overlying, underlying and adjacent) sediment. All the layers analysed contain a mix of thermally altered and unaltered bone and
+lithics and overall, there are less archaeological remains in ash
+layers than in black layers. Bone fragments in ash layers are not
+commonly calcined. From a taxonomic perspective, medium size
+mammals, O. cuniculus and undeterminate fragments are equally
+represented in all the combustion features and exhibit similar
+thermal alteration stages except O. cuniculus, which is rarely
+calcined. The assemblage yielded a relatively low number of
+Perissodactyls, which were identiﬁed in two combustion features:
+In H-32, as thermally altered fragments in sediment adjacent to the
+combustion feature and as unburnt fragments within the ash layer,
+and in H-43, thermally altered within the black layer and unburnt
+in adjacent sediment outside the feature. The black layers yielded
+predominantly unburnt faunal remains except in H-44, which
+yielded a single calcined fragment.
+Regarding the lithics, none were identiﬁed in the H-32 ash layer.
+Lithic objects from the other ash layers (H-30, H-33 and H-44)
+exhibit high degrees of thermal alteration (67.34% of the items
+show features derived from burning at >500  C). Most of these
+(93.87%) are thermal shatter products smaller than 2 cm. In
+contrast, few lithic objects were recorded in sediment overlying the
+ash layers; These are larger than 2 cm, usually belong to the same
+raw material type, and do not exhibit any signs of thermal alteration (e.g., sediment overlying H-44).
+In the black layers, the quantity of lithics varies, ranging from 85
+(H-44) to 8 (H-45) objects. These are generally positioned at the top
+and base of the layer e not excluding the presence of random
+objects in the middle. Although small items (<2 cm) prevail, all the
+black layers contain objects of between 2 and 4.5 cm. All of these
+materials are technologically similar to ones from adjacent areas
+unrelated to combustion and different from the small shatter debris
+
+found in the ash layers. The former include cores, plein débitage
+ﬂakes and retouched pieces. Regarding thermal alteration, lithic
+objects in the black layers are predominantly altered (84%), usually
+at broader yet lower (300e450  C) temperature ranges than the
+lithics in ash layers. Three particular objects stand out: Two from H44 and one from H-43. They were broken into pieces and exhibit
+thermal alteration features representing burning at >400  C.
+Interestingly, reﬁtting fragments were found together, indicating in
+situ breakage.
+4. Discussion
+4.1. General remarks
+Blackening of the top cm of the substrate resulting from
+incomplete combustion of the organic matter contained therein,
+was observed in the all the experimental combustion residues of
+ﬁres made on either sparsely vegetated or bare dry ground containing subsoil OM. This indicates that during combustion, the
+topsoil reached 200  C, the estimated temperature at which charring starts (González-Pérez et al., 2004). Our temperature data
+should be taken with caution given the limitations of thermocouple
+measurements in the light of the complexity of temperature ﬂuctuation in an open air ﬁre context. Turning to the data, values close
+to 200  C are in agreement with our recorded temperature yields
+from NFT-8 (black patches) and NFT-16 (see Fig. 2) and in
+disagreement with our record for NFT-14, which yielded a black
+layer but did not reach topsoil temperatures above 125  C. Possibly,
+our thermocouple was incorrectly positioned deeper into the
+ground. Alternatively, the charring we observe microscopically
+represents early stage OM caramelization, which according to the
+Maillard Reaction is produced between 100 and 154  C (Ellis, 1959).
+
+2526
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+Fig. 8. Field views of the S.U. X combustion features studied here. Scale bars are 50 cm and white arrows indicate North.
+
+Microaggregation and loss of the organic fraction at the top mm of
+the substrate, observed throughout the experimental samples, is in
+agreement with patterns of heat-induced topsoil aggregation
+documented in wildﬁre contexts as resulting from complete
+oxidation of part of the OM and fusion of poorly crystallized
+mineral components (Ulery and Graham, 1993; Giovannini and
+Lucchesi, 1997; Terefe et al., 2008; Mataix-Solera et al., 2011).
+Further data collection regarding soil surface temperatures of
+experimental ﬁres is necessary to accurately determine the point of
+onset of OM charring.
+Variation in the duration of the ﬁres, ranging from 1 to 7 h, and
+the amount of fuel used, from 2 kg to 28 kg did not affect the
+features of the resulting black layer. In all cases, its depth was not
+more than 2 cm e in agreement with the low thermal conductivity
+
+of a dry mineral soil e its composition was predominantly charred
+OM and its microstructure showed microaggregation and ﬁssuring.
+However, a ﬁre made on an inorganic substrate (NFT-15) did not
+yield a black layer, suggesting that the organic content of the topsoil
+is a determining factor in the formation of the black layer. The
+topsoil temperature record in this ﬁre did not go above 50 (see
+Fig. 2), corroborating the poor heat conductivity of inorganic
+sediment. Nonetheless, the available temperature data is insufﬁcient and needs further conﬁrmation.
+NFT-8, a ﬁre made on wet ground, resulted in a patchy
+reddened/blackened substrate. Locally, black patches underlie
+reddened patches. Microscopic observation showed that the OM
+contained in the black patches is ﬁre-altered while that in the
+reddened patches is not. A possible explanation for this pattern is
+
+Fig. 9. Field views of the combustion feature sections sampled for microstratigraphic analysis. Arrows indicate the position of the black layers.
+
+Fig. 10. Microphotographs showing charred OM in the archaeological black layers. All images in PPL.
+
+2528
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+Fig. 11. Close-up microscopic views charred OM in the archaeological black layers. All images in PPL.
+
+that the soil moisture content was not homogeneous and, as soil
+moisture increases thermal conductivity because water is a better
+thermal conductor than air (Chandler et al., 1983) zones that
+remained wet or moist at the time of combustion were not thermally affected or affected last. Given that the thermocouple record
+indicates temperatures below 100  C at the top of the substrate and
+these are too low for mineralogical transformation of iron oxides,
+reddening of these moist zones could have resulted from mineral
+dehydroxylation upon fast water evaporation. Further mineralogical analysis of the clay fraction in dry and moist experimental ﬁres
+in comparison with the control samples will help solve this issue,
+which could have signiﬁcant implications towards interpretation of
+rubeﬁed archaeological combustion features.
+Turning to the Middle Palaeolithic combustion features from El
+Salt, ﬁrst, we corroborate their primary nature from absence of
+characteristic micromorphological features of reworking (Courty
+et al., 1989; Miller et al., 2010). Relatively good mineralogical
+preservation states are corroborated by the FT-IR data. Although
+
+a bone source for the ubiquitous mineral dahllite cannot be
+completely ruled out, the presence of this phosphate mineral in all
+the samples suggest a diagenetic process affecting previously
+deposited carbonates (Karkanas et al., 2000). In agreement with the
+observed microstratigraphic composition of the sediment samples,
+this might be related to the presence of high amounts of organic
+matter rich in phosphates (Shahack-Gross et al., 2004), and also
+points to some postdepositional volume reduction of the sedimentary mass.
+In accordance with our experimental results,
+1) For combustion features with preserved calcitic ash layers (H30, H-32, H-33 and H-44), these represent pine wood ash, in
+addition to unidentiﬁed plants in H-44;
+2) The contacts between the ash layers and underlying deposits
+are sharp;
+3) The black layers are capped by a mm-thick segment of microaggregated inorganic sediment;
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+2529
+
+Fig. 12. Different kinds of coprolitic phosphatic grains found within the archaeological black layers: a, b) Fibrous, spongy grains; a from H-30 and b from H-45; c, d) Massive grains
+with organic punctuations and quartz silt (from H-45); e, f) Massive grains with unidentiﬁed amorphous inclusions and seed fragments (from H-32). All images in PPL except
+d (crossed polarized light - XPL).
+
+4) All of the archaeological black layers represent ﬁre-altered
+organo-mineral deposits rich in plant litter, with rather few
+charcoal fragments, no ash and rare animal fat-derived char
+fragments. Overall, the thickness of these black layers varies
+according to their stratigraphic position (e.g., H32, H30 and
+H33 are all 1.5e2 cm thick; H44-1 and H45 are both 2 cm thick)
+but never exceeds 2 cm. Their bulk composition in comparison
+with adjacent and underlying archaeological sediment (unrelated to combustion features) is strikingly similar. Their main
+difference lies in the presence or absence of ﬁre-altered plant
+litter.
+5) Only ash layer samples stand out by their mineralogical
+composition (presence of calcite and altered clay) and by their
+combustion feature-speciﬁc phytolith types (e.g., wood and
+bark phytoliths). The black layer sediment samples yielded
+unaltered clay and phytolith assemblages that do not show
+signiﬁcant differences from the underlying sediment samples.
+
+6) Overall, the taxonomic nature of the faunal remains from black
+layers resembles that from their adjacent and underlying
+sediment.
+7) Technologically and quantitatively, lithic objects from black
+layers resemble those from their adjacent and underlying
+sediment, are commonly thermally altered to temperatures
+below 450  C and occasionally show in situ breakage. In contrast,
+the ash layers yielded signiﬁcantly less, smaller and technologically distinct objects (shatter debris heated to >500  C).
+Hence, it is possible that the archaeological black layers represent
+portions of the Neanderthal occupation substrate charred as an effect
+of ﬁres made on them. Similar features identiﬁed in a Mesolithic
+combustion feature from Balma de l’Abeurador (Hérault, France)
+were interpreted as litière incendié, or burned soil litter (Wattez,
+1990). At El Salt, prevalence of plant residues in the ﬁrst stages of
+disintegration, organic ﬁne substance representing more advanced
+
+2530
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+Fig. 13. a, b) Microphotographs showing calcitic ash from H-32. Images in XPL. cef) Ash from H-44: Aligned Calcium oxalate crystals (c), Incompletely combusted Celtis sp. seed
+coats (d) and unidentiﬁed plant tissue exhibiting moss-like morphology (e, f). aed in XPL and eef in PPL.
+
+decay and the presence of spores and fungal hyphae, suggest that the
+surfaces occupied by the Neanderthals from the studied S.U. X facies
+were covered by plant residues in early stages of degradation.
+Supporting evidence comes from organic chemistry analyses of
+El Salt combustion features (Sistiaga et al., in preparation-a, in
+preparation-b). First, spectra from the black layers and adjacent
+sediment show similar n-alkanes distribution patterns with an odd
+over even predominance ranging between C21 and C37 (maximum
+at C29) (Fig. 18). The high proportion of n-C29 alkanes appears to
+derive from leaves or non-woody biomass (Van Bergen et al., 1997),
+whereas n-C31 alkanes represent grasses or mosses (Maffei, 1996;
+Van Bergen et al., 1997; Sistiaga et al., in preparation-a). Interestingly, this pattern was particularly clear at the top of the H-32 black
+layer, which showed an olive brown colour in the ﬁeld. Experimental ﬁre NFT-14, which was made on a surface covered with
+grass and moss, also yielded an olive brown layer below the ash.
+The presence of grass phytoliths (both in NFT-14 and in H-32) is in
+agreement with this hypothesis, which needs further experimental
+
+testing. Second, the H-30, H-32 and H-33 black layers show presence of C28 sterols (Sistiaga et al., in preparation-b), possibly
+related to fungal activity or microbial biomass associated with plant
+litter, in agreement with our micromorphological observations.
+Fibrous spongy coprolites identiﬁed microscopically within the
+black layers are comparable to those reported in Holocene stabling
+contexts (e.g., Macphail et al., 1998; Macphail and Goldberg, 2010;
+Matthews et al., 1996), suggesting they might derive from herbivores. This points to penecontemporaneous herbivore activity and
+plant litter formation; a process that was suddenly interrupted by
+anthropogenic burning. Turning again to organic chemistry data,
+this is in agreement with high proportions of 5b-stigmastanol (see
+Fig.18) e a biomarker of faecal herbivore contribution to the soil lipid
+fraction, identiﬁed in the H-32 black layer (Sistiaga et al., in
+preparation-b).
+The spatial distribution of the associated lithic and faunal
+record together with the evidence mentioned above points to
+the possibility of site abandonment during the formation of the
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+2531
+
+Fig. 14. a) Field view of H-32. Note the succession of a black, dark olive brown and white layer. b) Microscopic view of the H-32 stratiﬁed sequence. The white layer is composed of
+calcitic wood ash and the dark olive brown and black layers have an organo-mineral composition. Image in plane polarized light. The olive brown layer is microaggregated and
+contains calcined teeth and bone fragments (c, d) and phosphate-rich coprolite fragments with unidentiﬁed inclusions (e, f). All images in PPL except f (XPL). (For interpretation of
+the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+black layer. First, although O. cuniculus bone fragments are
+frequent in white and black layers, as well as in their adjacent
+sediment, the fragments within white layers are not calcined.
+Likewise, the H-30 and H-32 ash layers yielded unburnt medium
+size mammal bone fragments. This evidence suggests natural
+(non-anthropogenic) accumulation of animal bone on abandoned combustion features. In our experiments, ﬂint and bone
+tossed in the ﬁre were consistently thermally altered. Thus, it is
+possible that the unburnt archaeological items reﬂect postdepositional redistribution of remains belonging to an overlying
+deposit. Overall, black layers did not yield calcined bone fragments except for H43 and H45. Strongly thermally altered lithic
+objects from these black layers are small-sized. This suggests
+possible trampling or reworking. Accordingly, trampling is suggested by the micromorphological features evidenced in H-43,
+and H-45 is strongly bioturbated.
+
+Second, while the ash layers contain predominantly small ﬁreshattered debris, which is in agreement with our experimental
+data, lithic remains from the black and adjacent layers, which are
+larger objects (ﬂakes, cores, retouched pieces, etc., representing
+different events of tool production and use) are usually concentrated
+towards the top and base of black layers, with less items in between.
+This evidence points to the possible existence of two different
+occupation surfaces separated by a plant litter accumulation.
+Organic chemistry data support this hypothesis. Spectra from the
+top and base of the H-32 black layer (Fig. 18) show an elevated
+proportion of coprostanol (Sistiaga et al., in preparation-b). This
+sterol has been effectively used as a proxy indicator for human faecal
+deposition (Bull et al., 1999, 2002; Leeming et al., 1996; Birk et al.,
+2011) and is a good marker of human occupation. The phosphate
+rich, complex coprolite fragments micromorphologically identiﬁed
+at the top of the H-32 black layer could represent human excrements.
+
+2532
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+Fig. 15. a) Field view of H-44 during excavation. A transect left in situ for sampling displays a succession of ash and reddish sediment overlying the black layer. b) Detail of the H44
+sequence. Note the overlying H-32 feature (including its substrate). c) Microphotograph of the microaggregated reddish sediment containing thermally altered tufa grains. d) Detail
+of reddened microaggregates. Both images in PPL. e) H-44 thin section scan showing a thin black/white couplet on top of the main combustion sequence. Scale bar is 1 cm. f) Detail
+of calcitic ash in the middle lamina; g) Detail of charred OM in the basal lamina. All images in PPL. (For interpretation of the references to colour in this ﬁgure legend, the reader is
+referred to the web version of this article.)
+
+Further micromorphological investigation and spatial distribution
+analyses focussing on reﬁts and grouping of lithic raw material units
+are needed to test the hypothesis of site abandonment during the
+formation of the black layer.
+
+4.2. Broader implications
+Our results offer a cautionary note on the excavation methods
+applied to ﬂat archaeological combustion structures. According to
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+2533
+
+Fig. 16. Microphotographs showing identical lithological composition between black layers and underlying sediment (a in PPL and b in XPL) and presence of ﬁbrous spongy
+phosphatic grains in the latter sediment (c, d).
+
+our study, the combustion event could be represented solely by the
+archaeological material and sediment contained within the top
+white or grey (ash) layer, and everything underneath could belong
+to human activity predating the combustion event. Hence, unless
+
+they are charcoal-rich e a condition that can be tested microscopically in the ﬁeld, black and rubeﬁed/browned layers should
+be excavated in conjunction with their adjacent sediment and
+the archaeological material contained in these layers should be
+
+Fig. 17. Figure showing the anatomical origin of the identiﬁed phytoliths. When possible, results of samples from the same combustion feature or layer have been averaged.
+
+2534
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+Fig. 18. Organic chemistry analysis performed on sediment samples from the H-32 combustion feature. Histograms on the left show the relative abundance of n-alkanes in each layer of the combustion structure. H32 WL and H32 BL
+show heat-induced reduction of long-chain n-alkanes while the odd over even predominance of long chain alkanes in H-32 AS and specially H-32 GL points to the presence of incompletely combusted grasses or mosses. Partial GC/MS
+chromatograms on the right are from different H-32 layers. Sterols present in H32 GL and US are indicative of human faecal deposition whereas the BL predominant sterol represents ruminant faecal material and plant residues.
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+analysed as part of the assemblages that surround the combustion
+feature. Our experiments yielded particular physical indicators of
+combustion over a substrate with buried remains, such as in situ
+ﬂint breakage. These may also guide the excavator to establish the
+nature of the black layer in the ﬁeld.
+On the other hand, although our experimental and archaeological samples did not yield any example of black layers composed
+mainly of charcoal fragments, several such cases have been reported in Palaeolithic contexts from different time periods that
+have been investigated through micromorphology (e.g., for the
+Middle Palaeolithic: Sibudu e microfacies Type 3, Goldberg et al.,
+2009). In such cases, calcitic ash has been reported in association
+with the charcoal, pointing to the possible existence of a former
+(postdepositionally lost) thicker charcoal-rich ash layer comparable
+to our experimental examples. Alternatively, such charcoal-rich
+massive layers could be explained by speciﬁc pyrotechnological
+traditions. For instance, an early Neolithic (Cardial) case from
+Grotte d’Unang (Vaucluse, France e Structure O.A.B.-1.2.3-8) and an
+Azilian case from l’Abri de La Fru (Haute-Savoie, France e Couche 3)
+which yielded massive charcoal black layers were interpreted as
+smothered ﬁres based on supporting experimental data (Wattez,
+1990). Finding additional microstratigraphic markers of speciﬁc
+pyrotechnological Middle Palaeolithic traditions will help explain
+the evidence found in sites like Sibudu.
+From an archaeostratigraphic point of view, our data underlines
+the importance of a correct reading of anthropogenic combustion
+residues before attempting to interpret settlement dynamics. There
+have been numerous spatial distribution studies based on data
+derived from archaeological combustion features, e.g., Abric
+Romaní (Vallverdú-Poch et al., 2005), El Salt (Marrero et al., 2011),
+Abric del Pastor (Machado et al., submitted for publication, Marrero
+et al., 2011), Bolomor (Sañudo and Fernández, 2007), Tor-Faraj
+(Henry, 2012), Kebara (Meignen et al., 2007), Roca dels Bous
+(Martínez-Moreno et al., 2004) and Roc de Marsal (Aldeias et al.,
+2012). All of these have provided information on particular ways
+in which Neandertal groups organized their activities in space and
+most of them are assimilated with the ethnographic patterns
+documented by Binford in the late 1970s and early 80s in what is
+referred to as the “Hearth-Assemblage Model” (Binford, 1978,
+1983). Such studies would beneﬁt from high resolution characterization of the corresponding black layers as to whether they
+represent fuel or charred residues of a pre-combustion occupation
+surface. Then, stratigraphically accurate associations between lithic
+and bone remains inside and outside the combustion features could
+be established.
+5. Conclusions
+The results presented here provide an explanation about the
+nature of the black layer of ﬂat combustion structures, leading us
+to argue against the categorical interpretation of archaeological
+black layers as fuel residue. We have provided experimental data
+that shows cases in which combustion activity residues are
+associated only with the ash layer of the combustion structure,
+while everything underneath (including material contained in the
+black layer) is associated with activity preceding the ﬁre. This
+distinction is relevant towards identiﬁcation and interpretation of
+human living surfaces in archaeological palimpsests. Thus the
+results have signiﬁcant implications towards excavation methods
+and interpretation of archaeological combustion features. Further
+research into the nature of El Salt S.U. X burned substrates will
+provide information about the kinds of surfaces on which the
+Neandertals from this site lived, and correlations between these
+surfaces and the lithic and faunal assemblages will aid us in the
+reconstruction of their daily activities. Finally, the results from this
+
+2535
+
+study are case in point to the importance of studying archaeological contexts integrating different datasets at a micrographic
+scale in order to characterize complex anthropogenic deposits
+correctly.
+Acknowledgements
+We thank The Leakey Foundation for full sponsorship of the
+Neandertal Fire Technology Project, which allowed the work and
+discoveries presented here. We are also thankful for the support of
+ASPR (Peabody Museum, Harvard University) and to the members
+of the research team “Sociedades cazadoras-recolectoras paleolíticas” based at Universidad de La Laguna for their support and
+help with ﬁeld and laboratory tasks. Archaeological research at El
+Salt is funded by Spanish IþD Project HAR2008-06117/HIST, and the
+Cultural Heritage Department of the Valencia Government, under
+the direction of Professor Bertila Galván of Universidad de La
+Laguna. Micromorphological, phytolith and mineralogical research
+was funded by Juan de La Cierva postdoctoral grants to C. Mallol
+and D. Cabanes.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at http://
+dx.doi.org/10.1016/j.jas.2012.09.017.
+References
+Albert, R., Cabanes, D., 2007. Fire in prehistory: an experimental approach to
+combustion processes and phytolith remains. Isr. J. Earth Sci. 56 (2e4), 175e189.
+Albert, R.M., Bar-Yosef, O., Meignen, L., Weiner, S., 2000. Phytoliths in the Middle
+Paleolithic deposits of Kebara cave, Mt. Carmel, Israel: study of the plant
+materials used for fuel and other purposes. J. Archaeol. Sci. 27 (10), 931e947.
+Albert, R.M., Bar-Yosef, O., Meignen, L., Weiner, S., 2003. Quantitative phytolith
+study of hearths from the Natuﬁan and Middle Palaeolithic levels of Hayonim
+Cave (Galilee, Israel). J. Archaeol. Sci. 30 (4), 461e480.
+Albert, R.M., Berna, F., Goldberg, P., 2012. Insights on Neanderthal Fire Use at
+KebaraCave (Israel) through high Resolution Study of Prehistoric Combustion
+Features: evidence from phytoliths and thin sections. Quat. Int. 247, 278e293.
+Albert, R.M., Weiner, S., 2001. Study of phytoliths in prehistoric ash layers using
+a quantitative approach. In: Meunier, J.D., Coline, F. (Eds.), Phytoliths, Applications in Earth Sciences and Human History. A.A. Balkema Publishers, Amsterdam, pp. 251e266.
+Aldeias, V., Goldberg, P., Sandgathe, D., Berna, F., Dibble, H., McPherron, S.P., Turq, A.,
+Rezek, Z., 2012. Evidence for Neandertal use of ﬁre at Roc de Marsal (France).
+J. Archaeol. Sci. 39, 2414e2423.
+Asmussen, B., 2009. Intentional or incidental thermal modiﬁcation? Analysing site
+occupation via buried bone. J. Archaeol. Sci. 36, 528e536.
+Babel, U., 1975. Micromorphology in soil organic matter. In: Gieseking, J.E. (Ed.), Soil
+Components. Organic Components, vol. 1. Springer-Verlag, Berlin, Heidelberg,
+New York, pp. 369e473.
+Bailey, G.N., 2007. Time perspectives, palimpsests and the archaeology of time.
+J. Anthropol. Archeol. 26, 198e223.
+Berna, F., Goldberg, P., 2008. Assessing Paleolithic pyrotechnology and associated
+hominin behavior in Israel. Isr. J. Earth Sci. 56, 107e121.
+Berna, F., Behar, A., Shahack-Gross, R., Berg, J., Boaretto, E., Gilboa, A., Sharon, I.,
+Shalev, S., Shilshtein, S., Yahalom-Mack, N., Zorn, J.R., Weiner, S., 2007. Sediments exposed to high temperatures: reconstructing pyrotechnological
+processes in Late Bronze and Iron Age Strata at Tel Dor (Israel). J. Archaeol. Sci.
+34, 358e373.
+Binford, L.R., 1978. Dimensional analysis of behavior and site structure: learning
+from an Eskimo hunting stand. Am. Antiq. 43 (3), 330e361.
+Binford, L.R., 1983. In Pursuit of the Past. Decoding the Archaeological Record.
+Thames & Hudson, New York.
+Birk, J.J., Teixeira, W.E., Neves, E.G., Glaser, B., 2011. Faeces déposition on Amazonian
+Anthrosols as assesed from 5b-stanols. J. Archaeol. Sci. 38, 1209e1220.
+Bull, I.D., Simpson, I.A., van Bergen, P.F., Evershed, R.P., 1999. Muck ‘n’ molecules:
+organic geochemical methods for detecting ancient manuring. Antiquity 73,
+86e96.
+Bull, I.D., Lockheart, M.J., Elhmmali, M.M., Roberts, D.J., Evershed, R.P., 2002. The
+origin of faeces by means of biomarker detection. Environ. Int. 27, 647e654.
+Cabanes, D., Mallol, C., Expósito, I., Baena, J., 2010. Phytolith evidence for hearths
+and beds in the Late Mousterian occupations of Esquilleu Cave (Cantabria,
+Spain). J. Archaeol. Sci. 37 (11), 2947e2957.
+Canti, M.G., 2003. Aspects of the chemical and microscopic characteristics of plant
+ashes found in archaeological soils. Catena 54 (3), 339e361.
+
+2536
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+
+Chandler, C., Cheney, Ph., Thomas, Ph., Trabaud, L., Williams, D., 1983. Fire in
+Forestry: Forest Fire Behavior and Effects, vol. I. John Wiley and Sons, New York.
+Clemente, I., 1997. Thermal alteration of Flint implements and the conservation of
+microwear polish: preliminary experimental observations. In: Ramón Millán, A.,
+Bustillo, M.A. (Eds.), Siliceous Rocks and Culture. Monografía Arte y Arqueología, vol. 42. Universidad de Granada, Granada, pp. 525e535.
+Costamagno, S., Griggo, C., Mourre, V., 1999. Approche Experimentale d’un problème taphonomique. Utilisation de combustible osseaux au Paleolithique. Préhistorie Européene 13, 167e194.
+Costamagno, S., Théry-Parisot, I., Brugal, J.P., Guibert, R., 2005. Taphonomic consequences of the use of bones as fuel: experimental data and archaeological
+applications. In: O’Connor, T. (Ed.), Proceedings of the 9th ICAZ conference,
+Durham 2002. Biosphere to Lithosphere. New Studies in Vertebrate
+Taphonomy. Oxbow Books, Oxford, pp. 52e64.
+Costamagno, S., Théry-Parisot, I., Kuntz, D., Bon, F., Mensan, A., 2010. Taphonomic impact of prolonged combustion on bones used as fuel. Palethnologie
+2, 97e109.
+Courty, M.A., Goldberg, P., Macphail, R.I., 1989. Soils and Micromorphology in
+Archaeology. In: Cambridge Manuals in Archaeology. Cambridge University
+Press, Cambridge.
+Courty, M.A., Carbonell, E., Vallverdú-Poch, J., Banerjee, R., 2012. Microstratigraphic
+and multi-analytical evidence for advanced Neanderthal pyrotechnology at
+Abric Romani (Capellades, Spain). Quat. Int. 247, 294e312.
+Domanski, M., Webb, J.A., 1992. Effect of heat treatment on siliceous rocks used in
+prehistoric lithic technology. J. Archaeol. Sci. 19, 601e614.
+Domanski, M., Webb, J.A., 2007. A Review of heat treatment research. Lithic Technol.
+32, 153e194.
+Domanski, M., Webb, J.A., Glaisher, R., Gurba, J., Libera, J., Zakóscielna, A., 2009. Heat
+treatment of Polish ﬂint. J. Archaeol. Sci. 36, 1400e1408.
+Dorta, R.J., Hernández, C.M., Molina, F.J., Galván, B., 2010. La alteración térmica en
+los sílex de los valles alcoyanos (Alicante, España). Una aproximación desde la
+arqueología experimental en contextos del Paleolítico Medio: El Salt. Recerques
+del Museu d’Alcoi 19, 33e64.
+Ellis, G.P., 1959. The Maillard reaction. Adv. Carbohydr. Chem. 14, 63e134.
+Galanidou, N., 1997. Home is Where the Hearth is. The Spatial Organisation of the
+Upper Palaeolithic Rockshelter Occupations at Klithi and Kastritsa In Northwest
+Greece. In: BAR International Series 687. Oxford.
+Galván, B., Hernández, C.M., Mercier, N., Mallol, C. The last Neandertals of Mediterranean Iberia. New Chronological Framework for the Site of El Salt (Alcoy,
+Spain), submitted for publication.
+Galván, B., Francisco, Ma.I., Hernández, C.M., Bischoff, J.L., Fumanal, Ma.P.,
+Estrella, M.J., 1991. El yacimiento de El Salt (Alcoy, Alicante). In: VIII Reunión
+sobre Cuaternario: Medios sedimentarios, cambios ambientales y hábitat
+humano. Resúmenes y sesiones. Universidad de Valencia, Valencia.
+Galván, B., Hernández, C.M., Francisco, Ma.I., 2006a. Territorio y producción lítica en
+los valles de Alcoy (Alicante) durante el Paleolítico Medio. Aproximación al
+modo de vida de los neandertales en la montaña Alicantina. In: Martínez, G.,
+Morgado, A., Rodríguez, A., Alfonso, J.A. (Eds.), Sociedades Prehistóricas,
+Recursos abióticos y Territorio. Actas de la IIIa Reunión de trabajo sobre aprovisionamiento de recursos abióticos en la Prehistoria. Universidad de Granada,
+Loja, Granada, pp. 135e158.
+Galván, B., Hernández, C.M., Francisco, Ma.I., Rodríguez, A., 2006b. Datos para la
+caracterización del Final del Musteriense en los valles de Alcoi. In: Cabrera,
+Bernaldo de Quirós, F., Maillo, J.F. (Eds.), En el Centenario de la Cueva del Castillo: el ocaso de los Neandertales. UNED, Cantabria, pp. 129e141.
+Giovannini, G., Lucchesi, S., 1997. Modiﬁcations induced in soil physico-chemical
+parameters by experimental ﬁres at different intensities. Soil Sci. 162, 479e486.
+Goldberg, P., Macphail, R.I., 2006. Practical and Theoretical Geoarchaeology. Blackwell Publishing, Oxford.
+Goldberg, P., Miller, C.E., Schiegl, S., Ligouis, B., Berna, F., Conard, N.J., Wadley, L.,
+2009. Bedding, hearths, and site maintenance in the Middle Stone Age of
+Sibudu Cave, KwaZulu-Natal, South Africa. Arch. Anth. Sci. 1 (2), 95e122.
+Goldberg, P., Dibble, H.L., Berna, F., Sandgathe, D., McPherron, S.P., Turq, A., 2012.
+New Evidence on Neandertal use of Fire: examples from Roc de Marsal and
+Pech de l’Azé IV. Quat. Int. 247, 325e340.
+Gómez, D., Mallol, C., Galván, B., Hernández, C.M., 2010. Una visión geoarqueológica
+del yacimiento musteriense de El Salt (Alcoy, Alicante) a partir de la micromorfología de suelos. Recerques del Museu d’Alcoi 19, 19e32.
+González-Pérez, J.A., González-Vila, F.J., Almendros, G., Knicker, H., 2004. The effect
+of ﬁre on soil organic matterda review. Environ. Int. 30, 855e870.
+Hayden, B., 2012. Neandertal social structure? Oxford J. Arch. 31 (1), 1e26.
+Henry, D.O., 2012. The palimpsest problem, hearth pattern analysis, and Middle
+Paleolithic site structure. Quat. Int. 247, 246e266.
+Karkanas, P., Bar-Yosef, O., Goldberg, P., Weiner, S., 2000. Diagenesis in prehistoric
+caves: the use of minerals that form in situ to assess the completeness of the
+archaeological record. J. Archeol. Sci. 27, 915e929.
+Katz, O., Cabanes, D., Weiner, S., Maeir, A.M., Boaretto, E., Shahack-Gross, R., 2010.
+Rapid phytolith extraction for analysis of phytolith concentrations and assemblages during an excavation: an application at Tell es-Saﬁ/Gath, Israel.
+J. Archaeol. Sci. 37, 1557e1563.
+Leeming, R., Ball, A., Ashbolt, N., Nichols, P., 1996. Using faecal sterols from humans
+and animals to distinguish faecal pollution in receiving waters. Water Res. 30,
+2893e2900.
+Leroi-Gourhan, 1973. Séminaire sur les structures d’habitat: témoins de combustion. Collège de France, Paris.
+
+Lyman, R.L., 1994. Vertebrate Taphonomy. In: Cambridge Manuals in Archaeology.
+Cambridge University Press, Cambridge.
+Machado, J., Hernández, C.M., Mallol, C., Galván, B. Lithic Production, Site
+Formation and Middle Palaeolithic Palimpsest Analysis. In: Search of Human
+Occupation Episodes at Abric del Pastor Stratigraphic Unit IV (Alicante,
+Spain), submitted for publication.
+Machado, J., Hernández, C.M., Galván, B., 2011. Contribución teórico-metodológica
+al análisis histórico de palimpsestos arqueológicos a partir de la producción
+lítica. Un ejemplo de aplicación para el Paleolítico medio en el yacimiento de El
+Salt (Alcoy, Alicante). Recerques del Museu d’Alcoi 20, 33e46.
+Macphail, R.I., Goldberg, P., 2010. Archaeological materials. In: Stoops, G.,
+Marcelino, V., Mees, F. (Eds.), Interpretation of Micromorphological Features of
+Soils and Regoliths. Elsevier, Amsterdam, pp. 589e622.
+Macphail, R.I., Cruise, G.M., Mellalieu, S.J., Nibblet, R., 1998. Micromorphological
+interpretation of a “turf-ﬁlled” funerary shaft at St. Albans, United Kingdom.
+Geoarchaeology 13, 617e644.
+Madella, M., Alexandre, A., Ball, T., 2005. International code for phytolith nomenclature 1.0. Ann. Bot. 96, 253e260.
+Maffei, M., 1996. Chemotaxonomic signiﬁcance of leaf wax alkanes in the Gramineae. Biochem. Syst. Ecol. 24, 53e64.
+Mallol, C., Marlowe, F., Porter, C., Wood, B., Bar-Yosef, O., 2007. Earth, wind and
+ﬁre: ethnoarchaeological signals of Hadza ﬁres. J. Archaeol. Sci. 34 (12),
+2035e2052.
+Mallol, C., Hernández, C., Cabanes, D., Machado, J., Sistiaga, A., Pérez, L., Dorta, R.,
+Gómez, D., Galván, B. Experimental Data on Flat Combustion Structures.
+Proceedings of the 14th International Working Meeting on Soil Micromorphology. Lleida 8e14 July 2012, submitted for publication.
+March, R., Dorta, R., Sistiaga, A., Galván, B., Hernández, C.M., 2008. Tras el fuego de
+los neandertales. Actas del VII Congreso Ibérico de Arqueometría. In: Química
+Orgánica aplicada a las estructuras combustión del yacimiento musteriense de
+El Salt (Alcoy, Alicante). Departamento de Prehistoria del Instituto de Historia,
+CSIC & Museo Arqueológico Nacional, Madrid, pp. 28e41.
+Marrero, E., Hernández, C.M., Galván, B., 2011. El análisis espacial en el estudio de
+las secuencias de facies arqueosedimentarias. Criterios para identiﬁcar eventos
+de ocupación en yacimientos del Paleolítico Medio: El Salt y el Abric del Pastor
+(Alcoy, Alicante, España). Recerques del Museu d’Alcoi 20, 7e32.
+Martínez-Moreno, J., Mora, R., de la Torre, I., 2004. Methodological approach for
+understanding middle Palaeolithic settlement dynamics at La Roca dels Bous
+(Noguera, Catalunya, Northeast Spain). In: Conard, N.J. (Ed.), Settlement
+Dynamics of the Middle Paleolithic and Middle Stone Age, vol. 2. Kerns Verlag,
+Tübingen, pp. 393e414.
+Mataix-Solera, J., Cerdà, A., Arcenegui, V., Jordán, A., Zavala, L.M., 2011. Fire effects
+on soil aggregation: a review. Earth Sci. Rev. 109 (1e2), 44e60.
+Matthews, W., French, C.A.I., Lawrence, T., Cutler, D.F., Jones, M.K., 1996. Microstratigraphic traces of site formation processes and human acitvities. World
+Archaeol. 29, 281e308.
+Meignen, L., Goldberg, P., Bar-Yosef, O., 2007. The hearths at Kebara Cave and their
+role in site formation processes. In: Bar-Yosef, O., Meignen, L. (Eds.), Kebara
+Cave, Mt Carmel, Israel: the Middle and Upper Paleolithic Archaeology, Part I,
+pp. 91e122.
+Mercieca, A., Hiscock, P., 2008. Experimental insights into alternative strategies of
+lithic heat treatment. J. Archaeol. Sci. 38, 2634e2639.
+Miller, C.E., Conard, N.J., Goldberg, P., Berna, F., 2010. Dumping, sweeping and
+trampling: experimental micromorphological analysis of anthropogenically
+modiﬁed combustion features. Palethnologie 2, 25e37.
+Mulholland, S.C., George Rapp, J., 1992. Phytolith Systematics: an introduction. In:
+George Rapp, J., Mulholland, S.C. (Eds.), Phytolith Systematics. Emerging Issues.
+Plenum Press, New York, London, pp. 1e13.
+Piperno, D.R., 1988. Phytolith Analysis: an Archeological and Geological Perspective.
+Academic Press, San Diego.
+Piperno, D.R., 2006. Phytoliths: a Comprehensive Guide for Archaeologists and
+Paleoecologists. AltaMira Press, Lanham, MD.
+Roebroeks, W., Villa, P., 2011. On the earliest evidence for habitual use of ﬁre in
+Europe. Proc. Natl. Acad. Sci. U. S. A. 108, 5209e5214.
+Sanchis, A., 2000. Los restos de Oryctolagus cuniculus en las tafocenosis de Bubo
+bubo y Vulpes vulpes y su aplicación a la caracterización de registro faunístico
+arqueológico. Saguntum PLAV 32, 31e50.
+Sanchis, A., 2012. Los lagomorfos del Paleolítico medio en la vertiente mediterránea
+ibérica. Serie de Trabajos Varios: 115. In: Humanos y otros predadores como
+agentes de aporte y alteración de los restos óseos en yacimientos arqueológicos.
+Diputación de Valencia: Servicio de Investigación Prehistórica.
+Sañudo, P., Fernández, J., 2007. Análisis espacial del nivel IV de la Cova del Bolomor
+(La Valldigna, Valencia). Saguntum 39, 9e26.
+Shahack-Gross, R., Berna, F., Karkanas, P., Weiner, S., 2004. Bat guano and preservation of archaeological remains in cave sites. J. Archeol. Sci. 31, 1259e1272.
+Sistiaga, A., 2010. Química orgánica aplicada al estudio de las estructuras de
+combustión del Paleolítico Medio de El Salt (Alicante, España). DEA thesis,
+Universidad de La Laguna, Facultad de Geografía e Historia, Departamento de
+Prehistoria, Historia Antigua y Antropología.
+Sistiaga, A., March, R., Hernández, C.M., Galván, B., 2011. Aproximación desde la
+química orgánica al estudio de los hogares del yacimiento del Paleolítico medio
+de El Salt (Alicante, España). Recerques del Museu d’Alcoi 20, 47e70.
+Sistiaga, A., March, R., Mallol, C., Hernández, C.M., Galván, B. Biomolecular evidence
+from Neanderthal ﬁreplaces. A study of Stratigraphic Unit X from the Middle
+Paleolithic site of El Salt (Alcoy, Spain), in preparation-a.
+
+C. Mallol et al. / Journal of Archaeological Science 40 (2013) 2515e2537
+Sistiaga, A., March, R., Mallol, C., Hernández, C.M., Galván, B. The application of
+steroidal biomarkers to assess ancient faecal input: the Neanderthal site of El
+Salt (Alcoy, Spain), in preparation-b.
+Stevenson, M.G., 1991. Beyond the formation of hearth-associated artifact assemblages. In: Kroll, E.M., Price, T.D. (Eds.), The Interpretation of Archaeological
+Spatial Patterning. Plenum Press, New York, pp. 269e299.
+Terefe, T., Mariscal-Sancho, I., Peregrina, F., Espejo, R., 2008. Inﬂuence of heating on
+various properties of six Mediterranean soils. A laboratory study. Geoderma
+143, 273e280.
+Théry-Parisot, I., 1998. Economie du combustible et paéocologique en context
+glaciaire et périglaciaire, Paléolithique Moyen et Supérieur du Sud de la France
+(Anthracologie, expérimentation, taphonomie). Université de Paris I, Panthéon
+Sorbonne.
+Théry-Parisot, I., 2001. Économie des combustibles au Paléolithique. Paris. In:
+Dossier de Documentation Archéologique, vol. 20. CNRS.
+Théry-Parisot, I., 2002. Fuel Management (Bone and Wood) during the Lower
+Aurignacian in the Pataud Rock Shelter (Lower Paleolithic, Les Eyzies de Tayac,
+Dordogne, France). J. Archaeol. Sci. 29, 1415e1421.
+Théry-Parisot, I., Meignen, L., 2000. Economie des combustibles dans l’abri moustérien des Canalettes, de l’expérimentation á la simulation des besoins énergétques. Gallia Préhistoire 32, 45e55.
+Théry-Parisot, I., Chabal, L., Ntinou, M., Bouby, L., Carré, A., 2010. From wood to
+charcoal: an experimental approach to combustion. Palethnologie 2, 79e81.
+Théry-Parisot, I., Gril, J., Vernet, J.L., Meignen, L., Maury, J., 1996. Coal used for fuel at
+two prehistoric sites in Southern France: Les Canalettes (Mousterian) and Les
+Usclades (Mesolithic). J. Archaeol. Sci. 23 (4), 509e512.
+Twiss, P.C., Suess, E., Smith, R.M., 1969. Morphological classiﬁcation of grass phytoliths. Soil Sci. Soc. Am. J. 33, 109e115.
+Ulery, A.L., Graham, R.C., 1993. Forest ﬁre effects on soil color and texture. Soil Sci.
+Soc. Am. J. 57, 135e140.
+Van Bergen, P.F., Bull, I.D., Poulton, P.R., Evershed, R.P.,1997. Organic geochemical studies
+of soils from the Rothamsted classical experiments. Org. Geochem. 26, 117e135.
+
+2537
+
+Vallverdú-Poch, J., Courty, M.A., 2012. Microstratigraphic analysis of level j deposits:
+a dual PaleoenvironmentalePaleoethnographic contribution to Paleolithic
+Archeology at the Abric Romaní (Chapter 4). In: Carbonell i Roura, E. (Ed.), High
+Resolution Archaeology and Neanderthal Behavior: Time and Space in Level J of
+Abric Romaní (Capellades, Spain), Vertebrate Paleobiology and Paleoanthropology. Springer, pp. 77e133.
+Vallverdú-Poch, J., Allué, A., Bischoff, J.L., Cáceres, I., Carbonell, E., Cebrià, A., GarcíaAntón, D., Huguet, R., Ibáñez, N., Martínez, K., Pastó, I., Rosell, J., Saladié, P.,
+Vaquero, M., 2005. Short human occupations in the Middle Palaeolithic level i
+of the Abric Romaní rock-shelter. J. Hum. Evol. 48, 157e174.
+Vallverdú-Poch, J., Alonso, S., Bargalló, B., Bartrolí, R., Campeny, G., Carrancho, A.,
+Expósito, I., Fontanals, M., Gabucio, J., Gómez, B., Prats, J.M., Sañudo, P., Solé, A.,
+Vilalta, J., Carbonell, E., 2012. Combustion structures of archaeological level O
+and mousterian activity areas at the Abric Romaní rockshelter (NE Iberian
+Peninsula). Quat. Int. 247, 313e324.
+Vaquero, M., Pastó, I., 2001. The deﬁnition of spatial units in Middle Palaeolithic
+sites: the hearth-related assemblages. J. Archaeol. Sci. 28 (11), 1209e1220.
+Wadley, L., 2010. Cemented ash as a receptacle or work surface for ochre powder
+production at Sibudu, South Africa, 58,000 years ago. J. Archaeol. Sci. 37, 2397e
+2406.
+Wattez, J., 1990. Dynamique de Formation des Structures de Combustion de la Fin
+du Paléolithique au Néolitique Moyen. Approche Méthodologique et Implications Culturelles. Ph.D. dissertation, Université de Paris I.
+Yellen, J., 1977. Archaeological Approaches to the Present e Models for Reconstructing the Past. Academic Press, New York.
+Yravedra, J., 2006a. Implicaciones tafonómicas del consumo de lagomorfos por
+Búho Real (Bubo Bbbo) en la interpretación de los yacimientos arqueológicos.
+AnMurcia 22, 33e47.
+Yravedra, J., 2006b. Tafonomía aplicada a Zooarqueología. UNED Ediciones, Madrid.
+Yravedra, J., Baena, J., Arrizabalaga, A., Iriarte, M.J., 2005. El empleo del material óseo
+como combustible durante el Paleolítico Medio y Superior en el Cantábrico.
+Observaciones experimentales. Museo de Altamira, Monografías 20, 369e383.
+
+

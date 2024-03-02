@@ -1,0 +1,1794 @@
+Journal of Archaeological Science 77 (2017) 125e142
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Initial micromorphological results from Liang Bua, Flores (Indonesia):
+Site formation processes and hominin activities at the type locality of
+Homo ﬂoresiensis
+Mike W. Morley a, *, Paul Goldberg a, b, Thomas Sutikna a, c, Matthew W. Tocheri d, e,
+Linda C. Prinsloo a, Jatmiko c, a, E. Wahyu Saptomo c, a, Sri Wasisto c, Richard G. Roberts a
+a
+
+Centre for Archaeological Science, School of Earth and Environmental Sciences, University of Wollongong, Wollongong, NSW 2522, Australia
+€ologie, Eberhard-Karls-Universita
+€t Tübingen, Rümelinstrasse 23, 72070 Tübingen, Germany
+Institut für Naturwissenschaftliche Archa
+Pusat Penelitian Arkeologi Nasional, Jakarta 12510, Indonesia
+d
+Department of Anthropology, Lakehead University, Thunder Bay, ON P7B 5E1, Canada
+e
+Human Origins Program, Department of Anthropology, National Museum of National History, Smithsonian Institution, Washington DC 20013, USA
+b
+c
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 20 March 2016
+Received in revised form
+31 May 2016
+Accepted 8 June 2016
+Available online 29 June 2016
+
+Liang Bua, a karstic cave located on the island of Flores in eastern Indonesia, is best known for yielding
+the holotype of the diminutive hominin Homo ﬂoresiensis from Late Pleistocene sediments. Modern
+human remains have also been recovered from the Holocene deposits, and abundant archaeological and
+faunal remains occur throughout the sequence. The cave, the catchment in which it is located and the
+gross aggradational phases of the sediment sequence have all been subject to a great deal of scientiﬁc
+scrutiny since the discovery of the holotype of H. ﬂoresiensis in 2003. A recent program of geoarchaeological research has extended analyses of the site’s deposits to the microstratigraphic (micromorphological) level. The stratigraphic sequence in the cave is well deﬁned but complex, comprising
+interstratiﬁed sediments of diverse lithologies and polygenetic origins, including volcanic tephras, ﬁnegrained colluvium, coarse autogenic limestone gravels, speleothems and anthropogenic sediments, such
+as combustion features. The sedimentological and chemical heterogeneity suggest that processes of site
+formation and diagenesis varied markedly through time, both laterally and vertically. We present initial
+results from samples collected in 2014 from an excavation area near the rear of the cave, which yielded
+radiocarbon ages from charcoal that ﬁll an important temporal gap in the chrono-stratigraphic sequence
+of previously excavated areas of the site. The results indicate marked changes in site environment and
+hominin activity during the Late Pleistocene, relating primarily to the degree to which the cave was
+connected to the hydrogeological system and to the varying intensities of use of the cave by hominins.
+Importantly, we identify anthropogenic signs of ﬁre-use at the site between 41 and 24 thousand years
+ago, most likely related to the presence of modern humans.
+© 2016 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Liang Bua
+Homo ﬂoresiensis
+Modern human
+Late Pleistocene
+Micromorphology
+Geoarchaeology
+Fire-use
+
+1. Introduction
+Flores is a tectonically active, oceanic island situated in the
+central sector of the Indonesian Archipelago and forms part of the
+Banda Volcanic Arc (Westaway et al., 2009a,b) (Fig. 1a). Liang Bua is
+a large karstic cave situated in the central western part of the island
+(Fig. 1b,c) and formed in the base of the northern slopes of a low
+mountain of Miocene limestone (Fig. 2a,b). It probably developed
+originally as a sub-surface dissolution chamber, or doline, which
+
+* Corresponding author.
+http://dx.doi.org/10.1016/j.jas.2016.06.004
+0305-4403/© 2016 Elsevier Ltd. All rights reserved.
+
+subsequently collapsed and was exposed sub-aerially as the adjacent riverdthe Wae Racangdcut laterally and vertically into its
+ﬂoodplain (Westaway et al., 2009a). The 2001e2004 excavations at
+Liang Bua recovered the remains of a previously unknown hominin
+species, Homo ﬂoresiensis, and this discovery has raised many
+interesting questions about the evolutionary history of this enigmatic species and past patterns of hominin dispersals and interactions between Africa and Island Southeast Asia (Brown et al.,
+2004; Morwood et al., 2004, 2005; Dennell and Petraglia, 2012;
+Boivin et al., 2013; Cooper and Stringer, 2013; Bellwood, 2014;
+Dennell et al., 2014; Groucutt et al., 2015; Reyes-Centeno et al.,
+
+126
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+Fig. 1. (a,b) Location of Liang Bua on the island of Flores in Island Southeast Asia; (c) plan of the site with the area of focus for the present study denoted by the red rectangle, and
+the location of the stratigraphic column on the western proﬁle (Fig. 4) indicated by the red arrow (modiﬁed from Sutikna et al., 2016). (For interpretation of the references to colour
+in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+2015; Sutikna et al., 2016; Wurster and Bird, 2016).
+Ongoing excavations at Liang Bua are revealing a deep and
+spatially complex series of interstratiﬁed clastic sediments and
+chemical precipitates (Fig. 2cee), the deposition of which most
+likely correlates with marked changes in depositional environment
+at the site over the last two hundred millennia (Westaway et al.,
+2009b; Sutikna et al., 2016). A robust understanding of the formation, preservation and degradation of the site is essential to
+draw meaningful inferences about the rich assemblages of stone
+artefacts and hominin and other faunal remains recovered from the
+deposits. This need has become even more apparent following the
+recently revised interpretation of the stratigraphy and chronology
+of the Liang Bua deposits and the H. ﬂoresiensis remains found
+within them (Sutikna et al., 2016). This new evidence suggests that
+all skeletal remains of H. ﬂoresiensis and artefacts attributed to this
+species are between about 100e60 and 190e50 thousand years
+(ka) old, respectively (Sutikna et al., 2016), and do not extend until
+~17 or 13e11 thousand calibrated radiocarbon (14C) years before
+present (ka cal. BP) as suggested previously (Morwood et al., 2004,
+2005, 2009; Roberts et al., 2009).
+Deposits dated to between ~46 and 20 ka cal. BP are conspicuously missing from the main areas excavated previously and this
+hiatus in the stratigraphic record covers a crucial time period of
+potential hominin prehistory on Flores (Sutikna et al., 2016) (Fig. 3).
+Currently, the earliest evidence for modern humans on Flores
+comes from the Holocene sequence at Liang Bua and suggests a
+
+relatively continuous presence at the site after ~11 ka cal. BP
+(Morwood et al., 2004, 2005, 2009; Moore et al., 2009). In contrast,
+archaeological evidence suggests modern humans were on Timor
+by ~42 ka cal. BP (O’Connor et al., 2011; O’Connor, 2007, 2015) and
+had reached Australia by ~50 ka ago (Roberts et al., 1990, 1994;
+Turney et al., 2001; Bowler et al., 2003; Allen and O’Connell,
+2014; Clarkson et al., 2015; Hiscock, 2015; O’Connell and Allen,
+2015). The discovery and documentation of ~46e20 ka deposits
+at Liang Bua or elsewhere on Flores would potentially provide
+critical details for addressing questions regarding potentially latesurviving populations of H. ﬂoresiensis and/or an earlier presence
+of modern humans on the island.
+In 2011, an area of 1 m by 2 m (Sector XXIV) was excavated in the
+middle rear of the cave (Figs. 1c and 2c). The primary goal of this
+excavation was to document the possible southernmost extent of
+tephra T3 (~50e47 ka), one of eight tephras (T1eT8) identiﬁed in
+the stratigraphic sequence at Liang Bua (Sutikna et al., 2016). T3 is a
+key stratigraphic layer that overlies all known H. ﬂoresiensis remains. In 2014, a charcoal sample from 152 cm depth (below the
+present surface of the cave ﬂoor) in Sector XXIV returned an unexpectedly early age of 34.5e33.9 ka cal. BP (95% conﬁdence interval). This result was 15 millennia older than any of the 14C ages
+obtained previously from Liang Bua (Roberts et al., 2009) and raised
+the possibility that much of the unexplored rear of the cave could
+preserve deposits within the 46e20 ka cal. BP interval, thus
+providing a more complete picture of site formation and hominin
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+127
+
+Fig. 2. (A) Geomorphological context of Liang Bua (blue arrow), situated at the base of a low hill, and (B) view of the interior of the cave taken from near the rear wall; (C) view from
+the central rear of the cave looking northeast, showing Sector XXIV (the focus of this study) in the foreground and indicated in green; in the background are excavated sectors near
+the eastern wall (see Fig. 1c); (D) lower part of sequence exposed in west proﬁle of Sector XXIV, with combustion feature (red arrow, Unit 5), iron-stained layer with ﬂowstones
+(upper black arrow, Unit 4), ﬂowstone separating Units 2 and 3 (lower black arrow), and truncation horizon at Unit 1e2 interface shown by dashed line, scale is 10 cm (yellow bar in
+bottom right corner); (E) upper ﬂowstone separating Units 8 and 9 with manganese oxide horizon beneath, scale in bottom right corner is 10 cm). Photographs in (A) and (B) by
+Djuna Ivereigh (IndonesiaWild.com). (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+activities over the last ~190 ka. Thus, a 1 m by 2 m area (Sector
+XXVII) immediately adjacent to the north wall of Sector XXIV was
+excavated (Fig. 1c) in 2014 and additional charcoal samples were
+obtained for radiocarbon dating.
+In an earlier geomorphological study of Liang Bua, Westaway
+et al. (2009a, b) divided the cave into a rear and front chamber,
+with coarse conglomeritic and ﬁne colluvial sediments deposited at
+the rear, and a deep, well-stratiﬁed sequence at the front. They
+reconstructed diachronic changes in depositional environments by
+employing broad-scale sedimentological and geomorphological
+observations from several exposures across the site, using luminescence, electron-spin resonance, uranium-series and 14C chronologies (Roberts et al., 2009). They identiﬁed a number of
+processes driving sediment accumulation and degradation,
+including ﬂuvial (riverine sediments), colluvial (slopewash),
+chemical precipitation (ﬂowstone formation), volcanic (aeolian
+tephra) and post-depositional processes (subsidence and slumping). However, they did not attempt to reconstruct in ﬁne detail the
+depositional and post-depositional environments at the site.
+To develop high-resolution models of depositional and postdepositional change at Liang Bua, a program of multi-scalar geoarchaeological research was initiated in 2014, focussing initially on
+Sector XXIV because of its potential to provide new information
+regarding the history of the site during this previously undocumented period. We targeted the western wall of this sector to
+improve our understanding of the formation and preservation of
+
+sediments located in the rear of the cave, and their association with
+those recorded at the southern edge of the front chamber. The
+wider goals of this geoarchaeological research are to analyse the
+site and stratigraphy at varying scales, from the macro to the micro,
+using a suite of ﬁeld and analytical techniques, including landscape
+geomorphological survey, sedimentology, micromorphology, and
+vibrational spectroscopy (i.e., Fourier-transform infrared [FTIR] and
+Raman spectroscopy). Here we report initial results from the microscale component of the study. Our speciﬁc aims were to investigate
+and clarify the environmental conditions during deposition of each
+lithological layer, identify the diagenetic processes that have
+occurred (e.g., any modiﬁcation of the sediments or the material
+contained within them) and to explore possible signals of hominin
+behaviour preserved within the deposits potentially spanning the
+chronological gap from ~46 to 20 ka ago. Together, these data
+provide critical and much needed context for interpreting the
+environmental history of the site and its rich archaeological and
+palaeontological record.
+2. Methods
+Backﬁll was removed from the previously excavated 1 m by 2 m
+portion of Sector XXIV. Detailed macro- and micro-stratigraphic
+descriptions of the ~4 m depth of deposits exposed along the
+western wall of the Sector were undertaken in the ﬁeld, and ten
+lithological units were identiﬁed (referred to here as Units 1e10).
+
+128
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+Fig. 4. Stratigraphy of western proﬁle of Sector XXIV. Units (encircled numbers),
+micromorphological samples (rectangles), calibrated radiocarbon ages (in ka cal. BP,
+black numerals) and previously reported U-series ages (in ka, blue numerals;
+Westaway et al., 2007a; Sutikna et al., 2016) are indicated. (For interpretation of the
+references to colour in this ﬁgure legend, the reader is referred to the web version of
+this article.)
+
+Fig. 3. Stratigraphic schemes compiled from multiple exposures of the sequence
+across Liang Bua (at left, modiﬁed from Sutikna et al., 2016) and of Sector XXIV (at
+right), the focus of this study. The thicknesses of the sediment columns are only
+approximate and are not to scale, representing roughly 15 m and 4 m of vertical
+sequence, respectively. This disparity in thicknesses is related to the relatively shallow
+depth of deposits at the rear of the cave. Cross-correlation between the sequences is
+possible using a ﬂowstone and tephra T3, with possible correlation between lower
+ﬂowstones indicated. The 46e20 ka gap in the sequence reported by Sutikna et al.
+(2016) is mostly ﬁlled by the new sequence dated in the rear of the cave. The new
+14
+C ages (in ka cal. BP) are shown in red; ages in blue are from Sutikna et al. (2016). (For
+interpretation of the references to colour in this ﬁgure legend, the reader is referred to
+the web version of this article.)
+
+Six samples for micromorphological analysis (MM4eMM9) were
+collected to characterise the major stratigraphic units and
+
+microfacies (Fig. 4, Tables 1 and 2); samples MM1eMM3 were
+collected from Sector XII to target speciﬁc tephra layers that do not
+occur in Sector XXIV and were not included in this study.
+Micromorphology samples were collected as oriented blocks
+using plaster bandages to retain their integrity. Once extracted,
+these samples were shipped to the University of Wollongong
+(Geoarchaeology Laboratory in the Centre for Archaeological Science), where they were partially unwrapped and oven-dried at
+40  C for ﬁve days or until dry. Each block was impregnated with
+crystic resin (Dalchem) diluted with styrene at a ratio of 9:4 and
+catalysed with methyl ethyl ketone peroxide (MEKP) to yield
+12.5 ml per litre of resin/styrene mixture. After curing for seven
+days, the samples were returned overnight to the drying oven at
+50  C. They were then trimmed with a circular saw ﬁtted with a
+diamond encrusted masonry saw blade into 50 mm by 75 mm
+‘wafers’ that were sent to Spectrum Petrographics (Vancouver, WA,
+USA) for manufacture of the ﬁnal thin sections.
+Thin sections were observed with stereo and petrographic microscopes at magniﬁcations ranging from 8 to 200 under planepolarised light (PPL) and cross-polarised light (XPL). In addition,
+thin sections were scanned on a ﬂatbed scanner at 2400 dpi, both in
+reﬂection mode and without the ﬂatbed cover (Goldberg and
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+129
+
+Table 1
+Summary characteristics of the lithological units under examination for this study, using ﬁeld-data collected in 2014 and 2015. The ages are based on the new radiocarbon
+chronology presented in this study (see Table 3), except: (*) U-Th ages measured previously on calcite ﬂowstones (Westaway et al., 2007a; Sutikna et al., 2016); (1) broad age
+ranges estimated by the dating of associated units in this study and Sutikna et al. (2016).
+Unit Description (sedimentology)/Nature of interface with underlying unit
+no.
+
+Field interpretation
+
+10
+
+Recent to sub-recent cave ﬂoor sedimentation e multiple Possible
+origins including colluvial, aeolian and bedrock attrition
+Neolithic
+hearth?
+e
+Possibly wetter conditions, causing post-depositional
+alteration of underlying ﬂowstone
+Fine-grained colluviation in humid conditions
+e
+Humid conditions, laminar sheetﬂow.
+Post-depositional diagenetic transformation of carbonate
+ﬂowstone
+Occasional
+Coarse, autogenic limestone gravel originating from the
+combustion
+physical breakdown of the walls and roof. Presence of
+water attested by carbonateebonded sediments? Generally bi-products
+dry?
+Abundant evidence of reworked combustion bi-products, Frequent
+but without intact combustion features. Layers of indurated combustion
+sediment within this unit suggest periods of standing water bi-products
+within otherwise dry period
+Reworking of eroded parent bedrock by colluviation and Combustion
+bi-products
+spalling of material from walls and roof. Sporadic use of
+cave by hominins
+Combustion
+Coarse autogenic material originating from the physical
+breakdown of the parent limestone intermixed with coarse feature, hearth
+colluvium. Shift to drier conditions?
+Anthropogenic burning activity
+
+9
+
+e
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+e
+2
+
+1
+
+Firm to compact, silts and silty clays. Homogeneous with very weak
+bedding. Becomes looser towards the modern ground surface. Organic
+rich
+Clay silt with frequent sand-sized inclusions of calcium carbonate and
+occasional ﬁne sand
+Flowstone
+Laminar calcite speleothem overlying manganese-stained and cemented
+sediment
+Variably compact sands with frequent poorly-sorted limestone gravels. A
+thick (~5 cm) bed of carbonate-cemented sediment is present within this
+unit. Occasional charcoal fragments and ﬂecks recorded in the lower
+region
+Partially indurated sand with occasional to moderate frequencies of
+limestone gravel. Distinct lenses and beds of ash and ﬁne charcoal
+interspersed in the matrix
+
+Archaeomaterial
+
+Moderately compact silts with frequent small limestone gravel and
+calcareous granular inclusions. Very occasional anthropogenic inputs,
+including ﬁne charcoal ﬂecks and fragments
+Loose, limestone gravel in a sandy matrix, ﬁning upwards to medium to
+small gravels in clay silt matrix. Occasional charcoal fragments and/or
+ﬁnely divided charcoal powder interspersed within the sediment matrix.
+Localised lenticular burnt feature present in upper part of this unit
+containing abundant ash and charcoal
+Flowstone and iron pan
+Surface stabilisation, humid, wetting-drying? Iron-panning e
+Thin upper and lower ﬂowstones (~1e2 cm), seal a compact Fe-stained
+sediment
+e
+Firm and homogeneous, clay-rich silts with very occasional ﬁne gravel Re-activation of colluvial sedimentation
+inclusions. This unit has afﬁnities with Unit 2, but with a higher clay
+content. The distal end of tephra T3 is present within this unit where it
+banks up against and pinches out on the angled lower surface
+Flowstone
+Surface stabilisation, laminar sheetﬂow
+e
+Firm, weakly stratiﬁed and sub-horizontally bedded, clay silts with sandsized and ﬁne gravel inclusions. Blocky structure. Pale and calcareous
+towards upper contact. Fine white laminae of calcium carbonate increase
+in uppermost 0.10 m directly beneath ﬂowstone
+Firm to compact, horizontally bedded, ﬁne to medium, interbedded
+sands, silts and clay. Layers exhibit various bedform morphologies
+including ripples with clay drapes and iron-stained foresets
+
+Thin
+Age
+section
+e
+
+e
+
+e
+
+e
+
+MM4
+
+e
+
+MM4
+
+25.0
+e24.4
+
+MM5
+
+31.1
+e34.5
+
+MM6
+
+33.3
+
+MM6
+
+38.3
+e40.9
+
+e
+
+46.6*
+
+MM7
+
+~50
+e471
+
+e
+
+49.9*
+
+Colluvial sediments accumulating on angled slope of cave e
+ﬂoor topography. Calcareous laminae may foreshadow
+formation of overlying ﬂowstone?
+
+MM8
+MM9
+
+~190
+e501
+
+Fluvial, in-channel, channel-marginal and slackwater
+sediments
+
+MM9
+
+~190
+e501
+
+Aldeias, in press); the latter produces an image similar to dark ﬁeld
+illumination and highlights highly reﬂective areas, such as those
+rich in carbonate and iron. Thin section terminology follows that of
+Stoops (2003).
+A total of nine charcoal samples from Sector XXIV and the
+immediately adjacent Sector XXVII were sent to DirectAMS (Seattle,
+WA, USA) for 14C dating, where they were pretreated using acidebaseeacid procedures (Table 3). The 14C content was then
+measured using accelerator mass spectrometry and the conventional 14C ages were converted to calendar-year age ranges at the
+68% and 95% conﬁdence intervals using the SHCal13 southern
+hemisphere calibration data set (Hogg et al., 2013) and CALIB 7.1
+(Stuiver et al., 2016; http://calib.qub.ac.uk/calib/).
+FTIR spectra were recorded in the mid-infrared region
+(600e4000 cm 1) using a Lumos infrared microscope from Bruker.
+The spectra were measured directly on the thin sections MM4B and
+MM6B. All spectra were recorded in absorbance mode using an
+attenuated total reﬂectance (ATR) objective ﬁtted with a germanium ATR crystal. The spectral resolution was 4 cm 1 and 64 individual scans were combined to obtain each spectrum. In cases
+where the FTIR spectrum of the resin also appeared in the spectra, a
+spectrum recorded on a piece of the same resin was subtracted
+using the interactive subtraction option in the OPUS software from
+Bruker.
+
+e
+
+A WITec 3000 Alpha spectrometer was used to obtain the
+Raman spectra. A 532 nm solid state laser (WITec Focus Innovation)
+was used as the excitation source and a long distance 50 Zeiss
+objective focussed the laser on the samples, resulting in a spot size
+of ~2 mm2. The number of acquisitions and acquisition time
+depended on the crystallinity of the material, but typically 10 acquisitions, each of 6 s duration, were made at a spectral resolution
+of 2 cm 1.
+3. Radiocarbon dating
+The 14C dating results for the charcoal samples from Sectors
+XXIV and XXVII are shown in Table 3 and Fig. 4. The 95% conﬁdence
+interval age range of the studied sequence is between ~41.5 and
+24.4 ka cal. BP, conﬁrming that this rear area of the cave preserves
+deposits that are missing only a few metres further to the north in
+all previously excavated areas of the cave. One of the nine samples
+(D-AMS-007553) returned a stratigraphically inconsistent age
+(26.9e26.1 ka cal. BP at the 95% conﬁdence interval) for Unit 5.
+Given the relatively large interstitial void spaces between gravel
+clasts in this layer, it is possible that this anomalously young age
+(relative to two other ages from Unit 5 that accord with the ages
+from Units 6e8) relates to charcoal that has inﬁltrated from higher
+up in the sequence.
+
+130
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+Table 2
+Summary micromorphological characteristics of the units as observed in the thin sections, including interpreted process and inferred depositional environment.
+Thin
+section
+
+Unit no.
+
+Micromorphological characteristics
+
+Process
+
+Depositional environment
+
+MM4A
+
+9
+
+Colluviation (wet)
+
+Sub-recent (mid to late Holocene) colluvial accretion of
+sediments across cave ﬂoor environment
+
+MM4B
+
+9
+8
+
+Very loose and porous structure, with abundant clay
+aggregates, frequently slaked. Common clay coatings on
+mineral grains and within void spaces. Heavily bioturbated.
+Frequent vughs and channel voids
+Same as MM4A
+Severely phosphatised mineral layer overlying manganesestained sediments, most likely due to the presence of
+phosphate above the ﬂowstone (subsequently eroded).
+Authigenic phosphates present below, and local
+decalciﬁcation immediately below modiﬁed ﬂowstone.
+Secondary carbonate precipitation observed in void spaces
+and in lower portion of thin section
+Loosely-packed and porous silty sand with frequent coarse
+angular limestone and speleothem fragments. Poorly
+sorted, with localised patches of ﬁner-grained clays and
+silts. Intensive bioturbation, with silt coatings common. Fine
+charcoal dispersed throughout matrix in low to medium
+quantities. Clay aggregates often mechanically fractured
+Same as MM5A, but with localised Fe-staining and higher
+concentration of ﬁne charcoal fragments and ﬂecks
+Loosely- to moderately-packed silts and sands with coarse,
+angular limestone fragments. Localised patches of ﬁnergrained clays and silts towards upper portion. Infrequent
+charcoal ﬂecks and fragments. Vughs occasionally contain
+re-precipitated calcium carbonate. Occasional Fe-staining of
+silt coatings
+In general, the sediments have close afﬁnities with Unit 6 in
+MM6A. The exception is a micro-stratiﬁed combustion
+feature with very high occurrences of charcoal and ash (the
+latter being partly dissolved and re-crystallised). High
+frequencies of thermally-modiﬁed (cracked and baked) clay
+aggregates, with basal rubiﬁed zone. Sediments below
+feature are highly calcareous, with ﬁner-grained sediments
+above
+Same as Unit 6 in MM6B, but highly calcareous and lower
+concentrations of ﬁnes
+
+Colluviation (dry)
+Mineral
+precipitation
+Diagenesis (guano
+deposition?)
+
+Humid environment with persistent ingress of groundwater
+resulting in carbonate ﬂowstone production. Subsequent
+dissolution and phosphatisation of ﬂowstone, and localised
+decalciﬁcation of underlying calcareous sediments by acidloaded percolating water
+
+Roof spall
+Colluviation (dry)
+
+Coarse sediments accumulated due to physical attrition of
+the walls and roof of the cave, with some minor input of
+colluvium (cracked clay clasts). High porosity with
+relatively large interstitial void spaces. Generally dry
+environment with sporadic groundwater throughput
+
+MM5A
+
+7
+
+MM5B
+
+7
+
+MM6A
+
+6
+
+MM6B
+
+6
+
+5
+
+MM7
+
+3
+
+MM8
+
+2 (upper)
+
+MM9
+
+2 (lower)
+
+1e2
+transition
+1
+
+Fine silts and clays, including clay aggregates and ﬁne clay
+matrix. Coarse components dominated by rounded clay
+aggregates and low frequencies of poorly sorted mineral
+grains (primarily quartz). Occasional small vughs and
+channel voids. Bioturbation evident above ash, and thin lens
+of secondarily deposited ash intermixed with silts and clays.
+Volcanic ash is very ﬁnely laminated with ﬁning-up
+sequence and occasional vesicular pumice grains. Planar
+void present immediately beneath thin volcanic ash, where
+it is also locally decalciﬁed
+Very similar to Unit 3 but with a higher porosity. Vughs and
+planar voids, occasionally coated with silt. Larger clay and
+silt rip-up clasts in upper half. In upper third very ﬁnely
+laminated calcium carbonate and occasional thicker bands
+of calcite with plant cellular structure
+
+Very similar to Unit 7, with evidence of sporadic water
+Roof spall
+Colluviation (dry) throughput evidenced by the increase in ﬁne silts and clays
+Hominin use of ﬁre Combustion feature is in-situ ﬁreplace related to hominin
+activity in this rear area of the site
+
+Roof spall
+Colluviation (dry)
+Colluviation
+Volcanism
+
+Colluviation
+Mineral
+precipitation
+
+Calcareous silt and clay with small quantities of ﬁne sand Colluviation
+(poorly sorted). Abundant clay clasts generally intact.
+Highly calcareous in localised areas. Becomes increasingly
+Fe-stained away from contact with Unit 1
+
+Erosion
+Fluvial
+Interbedded calcite sands, silts and clays. Localised Fesedimentation
+staining occurring within b-fabric of clays and silts, and
+inﬁlling void spaces. Deformation features at upper contact
+and occasional small burrows with silt coatings
+
+Coarse autogenic sediments derived from the walls and roof
+of the cave with minor addition of colluvium under dry
+conditions
+Colluviation under slopewash and gravitational conditions
+Deposition of windborne volcanic ash (tephra), banked up
+against angled surface. Possible thermal reaction with
+underlying sediment and shrinkage of ﬁnes
+Air-borne volcanic ash deposition (Tephra T3). Acid
+environment, promotion of mineral dissolution
+Sheetwash/slopewash sedimentation. Localised diagenesis
+due to acid dissolution of mobile minerals (calcite)
+
+Continuing water ingress to site and slopewash colluviation
+of ﬁnes under wet conditions, with small-scale erosion of
+clays from surface and rear of cave. Increasingly persistent
+surface ﬂow causing calcite precipitation at and below the
+surface, decreasing porosity. Stability of cave ﬂoor causes
+reduction of colluvial input. Biologically-mediated incipient
+ﬂowstone formation
+Newly formed, steep-angled relief initiates slopewash
+sedimentation. Active erosion and re-mobilisation of
+sediments downslope from rear of site, coincident with
+activation of hydrological system connected by ﬁssures in
+bedrock. Calcite present as ﬁne, reworked limestone/calcite
+grains
+River migration away from cave, lowered base level
+River inundation of cave system. Variable energy ﬂuvial
+sedimentation, including deposition of calcareous channel
+sand, and ﬁne-grained slackwater deposits.
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+4. Macro-stratigraphy and micromorphology
+4.1. Thin section MM9 (Units 1 and 2; Figs. 4 and 5)
+Units 1 and 2 occur stratigraphically below tephra T3 and the
+ﬂowstone that underlies it (Fig. 4). Although the ages of these two
+units at this exact location are yet to be determined, they are
+interpreted here to be between ~190 and 50 ka, based on their
+stratigraphic relationships with the rear conglomerate wall and T3,
+respectively (Sutikna et al., 2016). Three distinct lithological facies
+are apparent in thin section MM9, with the two lowermost corresponding to Unit 1 and the upper correlating with Unit 2 (Fig. 5a).
+The upper part of Unit 1 exhibits an erosional contact that dips
+towards the mouth of the cave at an angle of ~45e55 . The basal
+sediments of Unit 1 comprise horizontally-bedded sediments of
+calcareous, iron-stained sand, grading upwards into laminated ﬁne
+sands and silts (Fig. 5b,c), the latter exhibiting deformation structures at the upper interface (e.g., shear and contortions). The sediments from Unit 2 that rest unconformably on Unit 1 consist of
+rounded clay aggregates derived from sediments similar to those
+just beneath the contact, and are cemented by micrite and in some
+cases by sparite.
+4.2. Thin section MM8 (Unit 2; Figs. 4 and 6)
+This sample was taken from the upper part of Unit 2, directly
+beneath a laterally extensive ﬂowstone (~2e4 cm thick) (Figs. 4 and
+6a). The sediments consist of poorly sorted, sand-sized clay aggregates in a clayey, calcitic matrix. In addition, occasional fragments and ﬂecks of charcoal, fragments of ﬂowstone and bone, and
+highly weathered rip-up clasts of silt and clay are present in the
+matrix. In the upper part of the thin section, layers of ﬁnely laminated calcite occur within the matrix (Fig. 6d,e), becoming
+increasingly well-developed towards the top, immediately below
+the base of the ﬂowstone. The increase in these calcite laminae,
+which exhibit an organic cell structure (Fig. 6d), parallels an increase in carbonate cementation.
+4.3. Thin section MM7 (Unit 3; Figs. 4 and 7)
+Thin section MM7 (Unit 3; Fig. 7a) is separated from Unit 2 by
+the ﬂowstone referred to above. Unit 3 bears afﬁnities to Unit 2,
+being clay-rich, densely packed, and poorly sorted (Fig. 7b,c). A
+discrete volcanic tephra with vesicular pyroclasts, which pinches
+out to the south towards the rear of the cave, represents the
+southernmost extent of T3 (~50e47 ka) at Liang Bua. A large planar
+void separates the tephra from the underlying decalciﬁed sediment
+(Fig. 7a), which exhibits weakly developed ﬁssures aligned
+perpendicular to the tephra. Internally, the tephra exhibits a uniform ﬁning-up texture (Fig. 7c,d). Above the primary tephra band
+there is evidence for secondary tephra deposition in the form of a
+thin laminated band, possibly relating to the reworking of the
+primary tephra by sheetwash. Such laminations are absent in the
+primary tephra band, precluding deposition by water of this volcanic ash. In the uppermost 1e2 cm of MM7 (Fig. 7a), the sediments
+become looser and more porous, with local occurrences of grain
+aggregates (~3 mm in diameter).
+4.4. Thin sections MM6A and MM6B (Units 5 and 6; Figs. 4 and 8).
+Units 5 and 6 are between ~41.5 and 32.8 ka cal. BP in age, based
+on the dated charcoal samples from these units (Table 3). Sample
+MM6 includes sediments that indicate a major shift in depositional
+environment. Two thin sections were made from this sample, with
+MM6A (Fig. 8a,b) and MM6B (Fig. 8f) corresponding to the upper
+
+131
+
+half (Unit 6) and lower half (Units 5 and 6) of the sample,
+respectively.
+In the ﬁeld, Unit 5 heralds a marked increase in coarse limestone
+gravel that continues up to and includes Unit 8 (Fig. 4), allied with a
+highly calcareous matrix. At the top of Unit 5 is a lenticular combustion feature that measures ~0.4 m across (Fig. 2d), as observed
+in proﬁle (Figs. 3 and 7a,b). This feature has a distinct internal
+structure, comprising three micro-horizons, which are from bottom
+to top (Fig. 8a):
+1. Reddened substrate formed in a ﬁne-grained, calcareous sand
+and silt, with inclusions of bright red, heat-cracked clay
+aggregates;
+2. Dark, organic-rich layer containing charcoal, ash aggregates,
+some burnt bone and ﬁne sand-sized aggregates of red and
+organic-rich clay; and
+3. Upper calcareous layer of mostly intact micritic ashes (Fig. 8c,d);
+in some areas the calcite has been dissolved and reprecipitated
+as micrite cement.
+Raman and FTIR spectroscopy (Fig. 8e) reveal clay and calcite are
+present throughout thin section MM6B, with the exception of the
+calcareous ash layer, where FTIR spectra of calcite and calcite mixed
+with phosphate were recorded. The position of the strongest band
+in the calcite spectra varied between 1410 and 1390 cm 1, possibly
+due to the varying amount of phosphate present in the structure,
+thereby illustrating the heterogeneous process of diagenesis
+(Fig. 8gei). The pigment colouring the clay yellow was identiﬁed as
+goethite, FeO(OH), which was oxidised to hematite (Fe2O3) when
+baked by the ﬁre.
+Unit 6 occurs in the upper part of thin section MM6B and
+throughout thin section MM6A (Fig. 4). Its composition is very
+similar to Unit 5, but with an increase in void space (Fig. 8f). The key
+characteristics of Unit 6 are high frequencies of coarse autogenic
+material comprising speleothem fragments and limestone spalls
+(500 mme10 mm in maximum dimension; Fig. 8f) originating from
+the cave walls and roof. We observe a signiﬁcant decrease in ﬁnes
+(clays and ﬁne silts) and a marked increase in anthropogenic and
+biogenic components (e.g., charcoal, bone, owl pellet; Fig. 8c). Most
+of these inclusions are fractured and broken; for example, no intact
+features can be seen at the top of thin section MM6A.
+4.5. Thin sections MM5A and MM5B (Unit 7; Figs. 4 and 9).
+Unit 7 is ~34.5e31.1 ka cal. BP in age, based on the dated charcoal samples (Table 3). The coarse components of this lithological
+facies are similar to those in the underlying Unit 6, containing
+frequent, large and angular autogenic limestone and speleothem
+fragments, as well as mechanically fractured clay intraclasts/fragments (Fig. 9aec). Fine charcoal fragments and ash are also scattered throughout the matrix (Fig. 9d,e). Two thin sections were
+made from sample MM5, the upper half of Unit 7 represented by
+MM5A (Fig. 9a) and the lower half by MM5B (not shown).
+The upper part of sample MM5 is noteworthy for its granular
+porosity and abundance of loosely aggregated, angular clay clasts
+(Fig. 9a). The matrix in the lower part of MM5A is calcareous,
+consisting of calcite-cemented, sand-sized limestone particles and
+micritic ash (Fig. 9d,e). By contrast, the upper part of MM5A contains only isolated patches of micritic groundmass, which appear to
+be partially dissolved. Similarly, we noted the presence of etched
+limestone with increased porosity, and dissolved ash and decalciﬁed bone fragments. These features show two cycles of diagenesis: an initial phase represented by calcite cementation of the
+ashes and limestone sand, followed by a phase of patchy calcite
+dissolution. Furthermore, these observations suggest that
+
+132
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+Table 3
+New 14C ages for charcoal from Sectors XXIV and XXVII.
+Sample code
+
+D-AMS-007550
+D-AMS-005947
+D-AMS-007546
+D-AMS-007547
+D-AMS-007549
+D-AMS-007555
+D-AMS-007551
+D-AMS-007552
+D-AMS-007553
+a
+b
+
+Sector/Depth (cm)/Unit
+
+XXIV/143/7
+XXIV/152/7
+XXIV/153/7
+XXIV/154/7
+XXIV/201/6
+XXVII/137/8
+XXVII/237/5
+XXVII/239/5
+XXVII/250/5
+
+Methodsa
+
+ABA/AMS
+ABA/AMS
+ABA/AMS
+ABA/AMS
+ABA/AMS
+ABA/AMS
+ABA/AMS
+ABA/AMS
+ABA/AMS
+
+d13C (‰)
+
+26.3
+28.1
+28.0
+23.7
+33.2
+22.1
+21.7
+27.1
+20.4
+
+14
+
+C (yr BP)
+
+27,954
+30,168
+27,466
+27,587
+29,074
+20,516
+36,323
+33,817
+22,288
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+125
+158
+120
+107
+153
+58
+259
+173
+94
+
+Age
+Median calibrated
+
+Calibrated range (ka cal. BP)
+
+yr cal. BP
+
+68% CIb
+
+95% CIb
+
+31,605
+34,161
+31,263
+31,328
+33,258
+24,616
+40,930
+38,284
+26,463
+
+31.75e31.42
+34.32e33.98
+31.36e31.16
+31.43e31.27
+33.49e33.04
+24.77e24.45
+41.25e40.64
+38.54e38.07
+26.61e26.28
+
+32.03e31.29
+34.52e33.85
+31.46e31.07
+31.53e31.13
+33.66e32.82
+24.95e24.36
+41.48e40.31
+38.70e37.67
+26.85e26.14
+
+ABA, acid-base-acid pretreatment; AMS, accelerator mass spectrometry measurement technique.
+CI, conﬁdence intervals.
+
+decalciﬁcation probably took place from the top down, which is
+consistent with phosphatisation of the overlying deposit (thin
+section MM4B, described below). Some of the calcite within the
+matrix is derived from loose, unbedded aggregates of ash, which
+point to reworking of former combustion features. Bioturbation
+increases in the upper part of MM5A (Fig. 9a), as does porosity, and
+is speciﬁcally exempliﬁed by a large elliptical void (~35 mm across)
+in the middle of sample MM5A; the void is partially inﬁlled with silt
+and clay containing inclusions of limestone and clay clasts.
+
+4.6. Thin sections MM4A and MM4B (Units 8 and 9; Fig. 4 and 10).
+Unit 8 is dated to 25.0e24.4 ka cal. BP, based on a single dated
+charcoal sample (D-AMS-007555 in Table 3). Two thin sections
+were made from sample MM4, which spans Units 8 (MM4B;
+Fig. 10a,b) and 9 (MM4A; not shown). These reveal a distinct change
+in depositional environment, with a switch to wetter environmental conditions indicated by repeated calcite precipitation and
+dissolution cycles (Fig. 10aed). Thin section MM4B captures the
+transition from lithological Units 8 to 9, while MM4A corresponds
+exclusively to Unit 9. In general, these sediments are richer in clay
+than those in Unit 7, and the overall aggregate size is much smaller
+than in the underlying units. The clay is identiﬁed as kaolinite by
+the typical OH stretching vibrations at 3696 and 3620 cm 1 in the
+FTIR spectrum (Fig. 10e). Capping Unit 8, observed in thin section
+MM4B, is a laterally continuous, ~20 mm-thick ﬂowstone. This
+ﬂowstone has been diagenetically altered by phosphatisation
+throughout, along with the precipitation of Mn oxides below the
+top of the crust (Fig. 10a,b,f,g). This Mn oxide is identiﬁed as MnO2,
+with a broad Raman band at 580 cm 1 (Fig. 10e). Manganese oxides
+are sensitive to laser power; although this was kept quite low,
+MnO2 was oxidised to Mn3O4 (655 cm 1) by laser heating
+(Buciuman et al., 1998). A representative FTIR spectrum of the
+phosphate crust shows that the most intense peak, attributed to the
+asymmetric stretch vibration (n3) of the phosphate group, appears
+at 1024 cm 1. This is a 17 cm 1 wavenumber shift from 1041 cm 1
+reported for dahlite, which is the main component of similar crusts
+found in prehistoric caves such as Kebara and Hayonim (Weiner
+et al., 2002). The shift to lower wavenumbers also occurs in some
+Raman spectra, where the position of the symmetric stretch vibration (n1) of the phosphate group has shifted from ~962 cm 1 for
+dahlite to ~950 cm 1 attributed to amorphous calcium phosphate
+(Sauer et al., 1994). A possible explanation is that the humid tropical
+environment of Liang Bua inhibits crystallisation, but further work
+is necessary to verify this interpretation.
+Directly overlying this weathered speleothem, with a sharp
+bounding interface, is a layer of ﬁnely aggregated angular clay
+
+fragments. This uppermost part of the proﬁle contains very loose
+and porous sediments, as well as reworked aggregates that have
+very different compositions.
+5. Discussion
+5.1. Depositional and diagenetic environments inferred from the
+micromorphology
+The results of the micromorphological analyses allow for a
+reﬁned reconstruction of the depositional and diagenetic history of
+Liang Bua between ~190 and 20 ka ago (Fig. 11).
+5.1.1. Unit 1, thin section MM9: ﬂuvial sedimentation and incision
+(~190e120 ka)
+Exposed at the base of the stratigraphic column, we record
+cross-bedded ﬂuvial sands (Unit 1; corresponds with Unit 2 of
+Westaway et al., 2009b) that are consistent with deposition in a
+ﬂuvial, channel-marginal environment, probably sometime between ~190 and 120 ka ago when the Wae Racang still ﬂowed
+within the cave (Roberts et al., 2009; Sutikna et al., 2016). Variations in ﬂow velocity associated with this channel-marginal interaction deposited interstratiﬁed beds of iron-stained, channel sands
+(small bars, medium-energy environment) and ripple bedforms on
+which clay and silt drapes were deposited in a very low-energy
+environment (Fig. 5a). As the river migrated away from the site,
+downcutting into its ﬂoodplain, the upper part of this alluvium was
+truncated, creating a steep-angled surface susceptible to smallscale slumping, and on to which successive sediments were
+deposited (Fig. 2d).
+5.1.2. Unit 2, thin sections MM9 and MM8: colluviation and
+ﬂowstone formation (~190e120 to 50 ka)
+Following the retreat of the river from the cave, slopewash
+colluviation was initiated under humid conditions. The water that
+mobilised these sediments entered the cave via ﬁssures at the rear,
+consistent with previous observations (Westaway et al., 2009b).
+This accords with our observations of downslope movement of
+poorly sorted sediments containing high frequencies of rounded
+clay and silt aggregates, including reworked material scoured from
+Unit 1 beneath. The high frequency of void spaces and the overall
+porous character of these sediments suggest intensive bioturbation
+(probably by burrowing insects) in the damp environment at the
+rear of the cave. As only a small amount of charcoal is present and it
+has been reworked, we cannot ascertain whether it has a natural or
+anthropogenic origin.
+A gradual switch in the hydrology of the cave is marked by the
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+133
+
+Fig. 5. Thin section MM9 from Units 1 and 2. (a) Macroscan (dark ﬁeld view) showing the sharp erosional contact (arrows) between Units 1 and 2. Unit 1, below the contact,
+comprises horizontally-bedded calcareous sands overlain by orange silts and clays. Unit 2 is looser and more calcareous, being secondarily cemented. Rectangle refers to enlarged
+view in (b) and (c); (b) interbedded silt and clay with localised iron staining and mottling. The vertical crack microstructure is due to the clayey nature of the sediment and relates to
+post-excavation drying and shrinking. Some bioturbation is evident by the mm-sized circular void at centre-left ﬁlled with loose material (PPL); (c) lowermost zone showing
+calcareous sand that is locally cemented by sparry calcite (XPL). (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this
+article.)
+
+Fig. 6. Thin section MM8 from Unit 2. (a) Macroscan (dark ﬁeld) shows calcitic laminae representing incipient ﬂowstone formation. The brown, rounded clay aggregates are similar
+in composition to the bedded silts and clays in Unit 1 (b) lower region of thin section shows clay-rich aggregates (with quartz and limestone sand inclusions) that have been
+compressed and plastically deformed (XPL); (c) same as (b), in PPL; (d) ﬂowstone showing ﬁnely laminated structure with biological crusts, again indicating ﬂowstone formation
+partly driven by algae and/or moss growth, as can be seen at the rear of the cave today. (e) detailed view of ﬂowstone at base exhibiting a laminar cellular structure suggesting
+biologically-mediated calcite precipitation. Rounded clay grain in upper right has a similar composition as clays in Unit 1 (PPL).
+
+increasingly frequent calcitic micro-laminae recorded in the sediment directly beneath the well-developed ﬂowstone that immediately overlies Unit 2. These calcitic micro-laminae features show
+signs of biological structures, suggesting they were probably
+formed partly through the presence of algae and/or mosses. Hydrologically, these incipient ﬂowstones record the early stages of
+
+persistent ingress of CaCO3-charged spring ﬂow, precipitating
+calcite into the upper surface of the ﬁne-grained sediment and/or
+within patches of vegetation growing at the rear of the cave. This
+reorganisation of the cave hydrology may reﬂect changes in the
+monsoonal cycle and concomitant ﬂuctuations in precipitation
+(Westaway et al., 2007b, 2009a).
+
+134
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+Fig. 7. Thin section MM7 from Unit 3. (a) Macroscan with distal end of tephra T3 evident. Sediments in the upper 1e2 cm are heavily bioturbated; (b) matrix in upper region of thin
+section showing limestone clast at right (itself containing volcanic grains) and dense, partially aggregated clay-rich matrix with inclusions of volcanic grains (PPL); (c) clay-rich
+matrix with heterogeneous array of coarser components reminiscent of a colluvial diamict (PPL); (d,e) detail of tephra showing clear ﬁning-up sequence (XPL and PPL).
+
+5.1.3. Unit 3, thin section MM7: colluviation and volcanic activity
+(~50e47 ka)
+Above the ﬂowstone that caps Unit 2, we detect a return to
+colluvial sedimentation. Poorly sorted sediments again indicate
+downslope colluviation of both ﬁne clays (travelling partially in
+suspension) and coarser clay aggregates, which have been
+reworked from older deposits further to the rear of the cave, many
+of which are in the process of disaggregating (slaking). The aggregates are more densely packed in the lower half of the thin section
+than in the upper half, above a layer of volcanic ash, which is the
+distal expression of tephra T3. This tephra is thickest (~75 cm) from
+the cave centre to the eastern wall, where it ﬁlls a basin-like
+depression in the relict cave ﬂoor topography (Sutikna et al., 2016).
+In Sector XXIV, the main (macroscopic) tephra band (~5 mm in
+thickness) is clean and homogeneous, and displays a linear ﬁningup composition indicating burial in primary position (see, for
+example, Morley and Woodward, 2011). This observation is supported by a series of planar voids parallel and perpendicular to the
+base of the tephra, consistent with thermal shrinking of the semisaturated clays beneath. A series of impure tephra laminations
+are recognised in the sediment matrix immediately above the
+primary fallout, indicative of remobilisation of tephra sourced from
+elsewhere in the cave or from outside via inﬁltration.
+5.1.4. Units 5e8, thin sections MM6, MM5 and MM4: switch to
+drier conditions, hominin ﬁre-use (~41e24 ka)
+We observe macro- and micro-stratigraphic features in Units
+5e8 that include in situ combustion features and reworked combustion bi-products. This evidence clearly indicates controlled use
+of ﬁre by hominins between ~41 and 24 ka cal. BP. An intact combustion feature interstratiﬁed between Units 5 and 6 presents a
+very well-deﬁned suite of features characteristic of an in situ ﬁreplace. In Unit 7, we identify disassembled combustion bi-products
+concentrated in discrete bands and lenses, interspersed within
+the sediment matrix. These are indicative of the reworking of
+combustion material, either by anthropogenic ‘housekeeping’
+practices (e.g., Goldberg et al., 2009; Miller et al., 2009) or by
+colluviation.
+This ﬁre use by hominins at the site took place against a backdrop of generally drier conditions occurring from midway through
+Marine Isotope Stage 3 to a time broadly equating to the Last Glacial
+Maximum (LGM) (Clark et al., 2009). Sediments with a calcareous
+
+and calcite-cemented matrix, and a general reduction in ﬁne clays
+and silts, support decreased sheetwash and a reduction, or cessation, of water ingress to Sector XXIV. Furthermore, there is evidence
+for increased physical and mechanical attrition of the cave walls
+and roof, with high frequencies of coarse, autogenic limestone
+spalls and speleothem fragments that commonly exhibit an angular
+morphology. Aggregated clay grainsdintroduced into the sediment
+matrix by weathering and dry colluviationdare commonly mechanically fractured, in contrast to the clay aggregates undergoing
+slaking in Units 2 and 3. Lastly, we note enhanced physical
+weathering of inclusions, which is suggestive of sub-aerial weathering in a dry substrate without trampling.
+5.1.5. Units 8 and 9, thin section MM4: return to humid conditions,
+accelerated dissolution processes (~24 ka to present)
+A ﬂowstone that formed directly on top of Unit 8 marks a return
+to more humid conditions at the site, with the initiation of laminar
+sheetﬂow from the rear of the cave. The laterally extensive ﬂowstone covers an area of at least 8 m2 where observed in Sectors
+XXIV and XXVII. It appears intact at the macroscopic scale, but
+micromorphological analysis shows severe diagenesis of this speleothem, with calcite replacement by phosphate throughout.
+Phosphatisation of this ﬂowstone is also associated with precipitation of manganese oxide directly beneath. These phosphate
+crusts (Fig. 9c,d) are similar to those found in prehistoric caves
+elsewhere, such as Kebara and Hayonim (Weiner et al., 1995),
+where their formation has been tied to the presence of bat guano
+(Karkanas et al., 2002; Karkanas and Goldberg, 2010). Furthermore,
+it is likely that percolating water associated with this diagenesis is
+responsible for the decalciﬁcation of Unit 7 seen in sample MM5.
+This water may have formed a perched water-table or occluded
+layer that was previously responsible for cementation of part of
+Unit 8, as seen at the base of thin section MM4B.
+Colluvial slopewash (Unit 9; also Unit 10 that was not sampled
+for this study) signiﬁes a strengthening of humid conditions, with
+an increase in clay and clay intra-clasts. Many of the grain aggregates are angular in shape and appear to have a variety of compositions, characteristic of reworking of weathered material that
+had accumulated in the ﬁssures and across the rear of the cave
+during the preceding dry period; these deposits would have been
+mobilised when reconnected with the karst hydrogeological system. It is clear from the sedimentary record and the slope of the
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+135
+
+Fig. 8. Thin sections MM6B and MM6A from Units 5 and 6. (a) Macroscan of MM6B. The vertical tripartite structure of the combustion feature is shown, with basal reddened
+substrate (1), dark organic-rich layer (2), and an upper calcareous ash layer (3), indicating that this feature is intact and in primary position; (b) note the bright calcareous area in the
+lower part of the dark ﬁeld scan, associated with calcareous environment adjacent to ﬂowstone; (c) remains of rodent bones held within a disintegrating raptor pellet (PPL); (d)
+bedded ashes in the upper part of the combustion feature (PPL); (e) Raman (left) and FTIR spectra recorded from a selected area of MM6Bdsee box in (a)dshowing the distribution
+of calcite and calcite-phosphate mixtures, as well as the iron oxides colouring the clay yellow (goethite) and red (hematite); (f) dark ﬁeld macroscan of MM6A showing heterogeneous nature of the deposit, including angular clasts of limestone and speleothem (roof fall), some of which show localised laminated calcareous coatings (arrows). Also note the
+contrast between these sediments and the ﬁne-grained colluvium from the base of the sequence, where coarse autogenic material is a major component of the inclusions; (g)
+isotropic, phosphatised area in the centre (XPL); (h) detail of laminated calcite coating on speleothem fragment. This stalactitic tufa formed on the limestone before it was detached
+from the ceiling (XPL); (i) lower left-hand quadrant of MM6A. Note the partially decalciﬁed nature of the matrix in the lower right-hand side of the photomicrograph. Mineral grain
+is hornblende (PPL). (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+bounding surfaces that ﬂuctuations in water ingress through ﬁssures in the bedrock at the rear of the cave were instrumental in
+changes in the depositional environment at Liang Bua.
+
+5.2. Key processes and other factors governing sediment deposition
+and diagenesis at Liang Bua
+The results of this study reﬁne our understanding of the
+
+processes, mechanisms and other factors inﬂuencing sediment
+deposition and diagenesis at Liang Bua, building on those identiﬁed
+previously (Westaway et al., 2009b). We discuss each of these, in
+turn, below.
+
+5.2.1. Colluviation
+This is the dominant mode of sedimentation observed in the
+rear of Liang Bua. As originally recognised by Westaway et al.
+
+136
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+Fig. 9. Thin section of MM5A from Unit 7. (a) Dark ﬁeld macroscan showing predominantly angular aggregate grains of orange clay, some of which are fractured, reworked from the
+back of the cave by water ingress occurring during a generally drier period. The elliptical void in the centre is lined with poorly sorted silt and clay that also contains sand-sized
+aggregates of clay. Note the presence of black ﬂecks of charcoal scattered throughout the slide, indicative of anthropogenic inputs. Arrow points to a localised concentration of
+calcareous ash, shown in detail in (bee); (b,c) rounded clay grain at right exhibits a desiccation crack ﬁlled with secondary calcite that is coeval with that in the matrix. Note the
+partially decalciﬁed domain at left that is isotropic in (c) (XPL). These images demonstrate that the sediments were deposited, cemented and then partially decalciﬁed; the latter
+process is likely tied to the phosphatisation visible in the overlying sample MM4 from Units 8 and 9; (d,e) detail showing partially cemented calcitic ashes, with arrows pointing to
+individual ash rhombs in (d). At right is a fragment of bone with recrystallised ash in the voids (PPL and XPL, respectively). (For interpretation of the references to colour in this
+ﬁgure legend, the reader is referred to the web version of this article.)
+
+(2009b), colluviation at this site is associated with slopewash
+processes that are driven by the hydrological dynamics of the karst
+system. Our micro-scale study has revealed high frequencies of clay
+and ﬁne-silt aggregates that were reworked by the erosive action of
+surface water ﬂow. These clay aggregates are clearly derived from
+different sources, and a range of processes are likely to be
+responsible for their transportation, including slopewash, gravity
+and occasional small-scale mudﬂow events. Where we observe
+different types of aggregates in thin section, future research will
+aim to isolate the relative contributions of different source materials. We note that other materials can also contribute to the
+composition of the colluvium, including weathered limestone and
+speleothem fragments, occasional tephra shards and anthropogenic inclusions such as charcoal, burnt bone fragments and stone
+artefacts.
+It should be borne in mind that, for colluviation to occur, there
+has to be relief within the cave system and this relief was most
+likely initiated by a phase of incision by the Wae Racang followed
+by slumping and subsidence of the newly exposed and truncated
+deposits. Periods of stabilisation, perhaps marked by ﬂowstone
+formation, could indicate intervals when relief was reduced due to
+the inﬁlling of the front chamber depo-centre, possibly linked to
+reorganisation of the ﬂuvial system or internal karst hydrology, or
+due to blocking of the entrance by landslides and/or roof collapse
+near the cave entrance.
+Alternation between colluviation and ﬂowstone precipitation
+has been recognised at other tropical cave sites in Southeast Asia
+and Australasia. At the site of Selminum Tem in western New
+Guinea, Gillieson (1986) recorded a recurring sequence of deposits,
+initially with a mass movement, followed by slopewash sedimentation and, ﬁnally, by ﬂowstone formation. Postulating the driver of
+this sequence, he asked if “this sequence reﬂects events in small
+catchments feeding the phreatic passage, then hillslope erosion is
+largely accomplished by periodic phases of instability, resulting in
+pulses of sediment moving out of the catchment” (1986: 542). This
+explanation may explain the depositional sequence observed thus
+far at Liang Bua (or at least in part). Given the variety in fabric of
+
+small clayey clasts recorded in the colluvium, pulses of sediment
+slumping and washing through the ﬁssures and chambers at the
+rear of the site may have occurred during periods of instability. In
+this scenario, capping ﬂowstones form when stability is achieved
+and sediment availability is reduced, which could be linked to
+decreased monsoon frequency and/or intensity, a reduction in
+sediment accommodation space at the site, or some combination of
+these factors.
+
+5.2.2. Speleothem formation
+Speleothems are a common occurrence among the deposits at
+Liang Bua. These include dense clusters of stalactites precipitated
+over much of the ceiling of the cave, buried tabular ﬂowstones that
+conform to the buried cave ﬂoor topography, and large, localised
+stalagmitic masses growing on the cave ﬂoor. The conﬁguration and
+alignment of stalactites on the ceiling of the cave has been discussed previously (Westaway et al., 2009a). Positive phototropism
+is cited as the mechanism responsible for the growing angle of the
+stalactites formed near the entrance since the site was ﬁrst exposed
+to sunlight. Whether uranium-series ages can be obtained from
+these speleothems to further constrain the timing of the opening of
+the cave to the sub-aerial environment requires further
+investigation.
+The formation of tabular ﬂowstones on top of Units 2, 3, 4 and 8
+may be driven by a number of processes, including an increase in
+CaCO3-charged ﬂowing water, a reduction in porosity of the surface
+and sub-surface sediments, or a change in the topography of the
+cave ﬂoor. Gillieson (1986) linked the inception of ﬂowstone formation in caves in the New Guinea highlands to time gaps in
+sediment deposition, which may similarly play a part in ﬂowstone
+formation at Liang Bua.
+Recent work has shown that ﬂowstone formation can be inﬂuenced by biological processes (see, for example, Northup and
+Lavoie, 2001; Taborosi, 2006). Formation of the calcareous
+laminae observed in MM8 is likely to have been biologically
+mediated, given their afﬁnities to the ‘encrusted’ stalactites recorded in cave environments in southern Thailand (Taborosi et al.,
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+137
+
+Fig. 10. Thin section of MM4B from Units 8 and 9. Macroscans in normal (a) and dark ﬁeld (b) view. The lighter, centre part consists of a cm-thick band of ﬂowstone, which has been
+decalciﬁed (shown by dissolution voids) and also phosphatised. The dark staining beneath is secondary manganese oxide. Both phosphate and Mn oxides are common diagenetic biproducts associated with leaching and the presence of bat guano. The upper part is composed of loose aggregates of angular clay clasts and rests on the phosphatic zone with a
+sharp, erosional contact; it is extensively bioturbated. The clay aggregates are similar in composition to the sediments at the bottom of the slide, although the latter are calcareous
+and contain some limestone fragments. The dark ﬁeld scan highlights the light-coloured, calcareous deposits at the base, which contain limestone grains and have been bioturbated.
+Note the lack of reﬂection of the decalciﬁed ﬂowstone that is now phosphatic; (c, d) shows vughs that attest to dissolution of the carbonate and subsequent coating of slightly ironrich, yellow-brown calcareous silt (PPL and XPL, respectively); (e) Raman (left) and FTIR spectra showing the distribution of clay, phosphate and manganese oxide throughout the
+sample; (f) phosphatised ﬂowstone (PPL); (g) phosphatic zone showing ghosts of the original calcite grains that now have low-order birefringence of apatite (XPL). (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+2005). At present, however, we do not have thin sections of other
+calcareous, non-phosphatised ﬂowstones at Liang Bua. Further
+sampling should assess the role of organisms (e.g., algae and
+mosses) in their formation, as well as their palaeoenvironmental
+ramiﬁcations. The presence of biological carbonate structures in
+sample MM7 suggests that the front brow of the cave was open at
+this time, allowing light into the rear of the cave. Once a ﬂowstone
+is sufﬁciently well-developed vertically and laterally to form an
+impermeable barrier to sub-surface ﬂow, it could act to concentrate
+and accelerate surface water ﬂow to lower-lying areas of the cave
+and increase the potential to erode unconsolidated sediments. This
+may have implications, therefore, for the erosion of other strata
+nearer to the front of the cave. The presence of ﬁne plant ﬁlaments
+on the surface of bedrock or existing ﬂowstones, which would trap
+water ﬂowing slowly across its surface, explains the propensity of
+ﬂowstones at Liang Bua to form on steeply angled surfaces.
+A massive stalagmite that exists on the present cave ﬂoor just to
+the east of Sector XXIV is a substantial carbonate accretion that
+
+resembles a stromatolitic stalagmitedthe so-called ‘lobsters’ or
+‘craybacks’ discussed in Taborosi (2006). The growth of these
+structures is linked to the photosynthetic activity of cyanobacteria,
+again suggesting the possibility of obtainingdvia uranium-series
+datingda minimum age for the opening of the cave.
+
+5.2.3. Diagenesis and other post-depositional modiﬁcations
+Diagenetic features recorded in thin sections were identiﬁed
+chieﬂy in the upper third of Sector XXIV’s stratigraphic sequence.
+The heavily phosphatised ﬂowstone capping Unit 8 is associated
+pez-Gonza
+lez et al.,
+with manganese oxide precipitation (e.g., Lo
+2006; Karkanas et al., 2008; White et al., 2009; Karkanas and
+Goldberg, 2010) and is most likely related to guano accumulation
+on the ﬂowstone surface after it formed (e.g., Ford and Williams,
+2007; Karkanas and Goldberg, 2010). It is not only the ﬂowstone
+that has been subject to dissolution in this acidic environmentddissolution of limestone blocks in the sediments immediately beneath and above this ﬂowstone (i.e., the upper part of Unit 8
+
+138
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+and lower part of Unit 9) has resulted in the formation of ‘ghosts’ of
+these clasts (Fig. 10g). In addition, we observed decalciﬁcation of
+the matrix in the sediments immediately beneath the ﬂowstone.
+We also observed a laminar void situated between the upper surface of this ﬂowstone and the immediately overlying, ﬁne-grained
+colluvial sediments, possibly indicating erosion of the guano by
+water ﬂowing across this hard surface. Why this type of diagenesis
+occurs only in the upper part of the sequencedat least in this part
+of the cavedis as yet unknown. However, it may relate to a shift in
+environmental conditions in the cave that catalysed an acidic
+environment in association with the addition of bat guano. Bats are
+regular inhabitants of the cave today and their skeletal remains
+have been recovered consistently throughout the depositional
+sequence, including multiple species of fruit and insectivorous bats
+(van den Bergh et al., 2009).
+5.2.4. Combustion features and ﬁre-use
+Micromorphological evidence of ﬁre-use by hominins is
+restricted to Units 5e8 (the isolated occurrences of charcoal in Unit
+2 cannot unequivocally be associated with hominin activity), which
+represent a temporal interval (~41e24 ka) that is characterised by
+drier palaeoenvironmental conditions (Westaway et al., 2009a).
+The intact combustion feature sampled between Units 5 and 6
+exhibits a tripartite sequence highly diagnostic of an in situ ﬁreplace. Interestingly, this feature contains very low frequencies of
+burnt or calcined bone compared to similar features found in some
+other caves (e.g., Goldberg et al., 2009; Berna et al., 2012; Miller
+et al., 2013). Elsewhere in Southeast Asia, evidence for ﬁre-use
+has been recognised at sites on Borneo and the Philippines
+(Stephens et al., 2005, 2017; Mijares and Lewis, 2009), although this
+has
+been
+limited
+to
+individual
+diagnosticdbut
+disassociateddcomponents (e.g., baked sediment, ash and charcoal
+fragments).
+Higher up the sequence, in Unit 7, we recorded dense concentrations of disaggregated combustion material that likely relate to
+ﬁreplace cleaning, surface trampling or colluviation. Hominin activity in the rear of the cave is perhaps unsurprising as it would
+have formed elevated ground, high and dry above lower-lying areas
+around the cave mouth and eastern wall, where pools of standing
+water and/or muddy conditions unfavourable to subsistence activities might have existed. Such high ground would also have
+served well as a vantage point from which to survey the fringes of
+the valley, allowing for the early warning of approaching prey or
+possibly komodo dragons, the only known large predator on Flores
+and nearby islands during the Quaternary (Hocknull et al., 2009).
+These combustion features represent the oldest unequivocal
+evidence of hearth-like structures at Liang Bua. Although the use of
+ﬁre at Liang Bua has previously been attributed to H. ﬂoresiensis
+(Morwood et al., 2004, 2005), the current stratigraphic and chronological interpretation of the site (Sutikna et al., 2016) and analyses of the recovered ﬁndings raise doubts about the validity of
+this claim. The ‘charred bones’ initially reported by Morwood et al.
+(2004, 2005) within the H. ﬂoresiensis-bearing deposits are clearly
+the result of manganese staining, and no deﬁnitive evidence of
+burnt faunal remains has been recovered during subsequent excavations of these deposits. Similarly, analyses of the “clusters of
+reddened and ﬁre-cracked rocks” (Morwood et al., 2005:1012) from
+within the H. ﬂoresiensis-bearing sediments have demonstrated
+that these stones were not exposed to any signiﬁcant heat source
+(Roberts et al., 2009). Furthermore, the most extensive study so far
+
+Fig. 11. Schematic illustration depicting the changing depositional environments at
+Liang Bua as observed in the micromorphological record, supplemented with data
+from Westaway et al. (2009b). Age estimates are as shown in Fig. 3.
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+of the Liang Bua stone artefact assemblages (Moore et al., 2009)
+found a marked discrepancy in terms of artefact exposure to ﬁre,
+with negligible evidence (<1%) in assemblages associated with
+H. ﬂoresiensis remains, versus almost 18% of stone artefacts of Holocene age attributed to modern humans.
+Given the available evidence, we suggest that the use of ﬁre at
+Liang Buadparticularly the construction of hearth-like structures
+that were presumably used for warmth and/or cookingdis more
+likely a behavioural signature of modern humans than of
+H. ﬂoresiensis. Although this hypothesis requires conﬁrmation by
+additional investigation at Liang Bua and elsewhere on Flores, the
+micromorphological evidence from Sector XXIV suggests that
+modern humans were present on Flores by ~41 ka cal. BP or shortly
+thereafter. If correct, these data corroborate the presence of modern humans in Island Southeast Asia during the last 40 millennia, as
+reported for sites in Laos, Borneo, the Philippines, Sulawesi, Timor,
+Papua New Guinea and Australia (Fox, 1970; Roberts et al., 1990,
+1994; Turney et al., 2001; Dizon et al., 2002; Bowler et al., 2003;
+troit et al., 2004; Storm et al., 2005, 2013; Barker et al., 2007;
+De
+Summerhayes et al., 2010; O’Connor et al., 2011; Barker, 2013;
+Aubert et al., 2014; Allen and O’Connell, 2014; Clarkson et al.,
+2015; Demeter et al., 2015; Hiscock, 2015; O’Connell and Allen,
+2015; O’Connor, 2015).
+Much of the research concerning hominin use of ﬁre originates
+from sites in arid, semi-arid and temperate climatic zones. In humid
+tropical Sri Lanka, combustion features have been recorded in
+Kitulgala Beli-lena rockshelter, where neither bones nor ash are
+preserved and the “absence of microscopic bone fragments contrasts sharply with the abundance of larger bone ﬁnds on site”
+(Kourampas et al., 2009: 692). Whether this is a function of accelerated diagenetic processes occurring at tropical sites, or reﬂects
+the fact that meat processing was not the primary purpose of these
+ﬁres, remains an open question. Moreover, further work is warranted to explore the precise baseline conditions that promote or
+hinder bone preservation, and the potential bi-products or markers
+of bone dissolution processes (e.g., Stiner et al., 2001).
+5.2.5. Volcanic activity
+Sutikna et al. (2016) proposed that multiple processes were
+responsible for the emplacement of tephra T3 at Liang Bua, with the
+upper sub-unit associated with a period of water pooling and minor, localised reworking within the cave. This interpretation is
+consistent with the evidence of wetter conditions indicated by the
+micromorphological analysis of this stratum (Unit 3). However,
+given the absence of water-derived laminae and the generally pure
+composition of the tephra in this area, it is possible that this
+remnant of T3 preserved in the rear of the cave is still in primary,
+wind-emplaced position, with the reworked upper portion of T3
+conﬁned to lower-lying areas of the site. A discrete band of impure
+tephra, observed ~5 mm above the primary fall, may indicate minor
+reworking of T3 by sheetwash or represent evidence of a small,
+secondary fall-out event. At Dalan Serkot Cave on Luzon in the
+Philippines, Mijares and Lewis (2009) used micromorphology to
+identify a volcanic ash layer that displays grading characteristics,
+which they claim are consistent with reworking by ﬂowing water.
+At Liang Bua, it is an open question whether the blanket of tephra
+across much of the cave ﬂoor and the catchment area disrupted
+processes driving sedimentation within the cave, but colluviation
+was likely sufﬁciently persistent to bury at least the distal end of T3
+before other parts of it were eroded by other sub-aerial
+mechanisms.
+5.2.6. Cave ﬂoor topography and relief
+The ﬂoors of caves and rockshelters commonly exhibit complex
+topographies. This is nowhere more prevalent than in humid
+
+139
+
+tropical regions where cut, ﬁll and slumping eventsdoften associated with marked changes in seasonal precipitationdcan create
+dramatic topographic features and highly irregular cave ﬂoor surfaces (e.g., Glover, 1979; Gillieson, 1986; Barker et al., 2005;
+Stephens et al., 2005; Gilbertson et al., 2005). Previous work at
+Liang Bua has shown that the topography of the cave ﬂoor was
+highly irregular prior to, and in the early stages of, inﬁlling with
+sediments and chemical precipitates (Westaway et al., 2009b). This
+topographic template dictated sediment deposition during the ﬁnal
+Late and terminal Middle Pleistocene, with clastic material
+funnelled down and through conduits and channels in the limestone ﬂoor of the cave, and between large boulders and stalagmites
+(e.g., Westaway et al., 2009a,b). This topography would have
+regulated the erosional capabilities of overland ﬂow. The stratigraphic sequence of excavated sediments along the eastern wall of
+the cave is more than 11 m deep (Morwood et al., 2009; Westaway
+et al., 2009b; Sutikna et al., 2016) and this area appears to have
+acted as a low-lying sediment depo-centreda local ‘sink’ for sediments delivered from the rear, and most likely also from the front,
+of the cave. This scenario suggests that if the cave originally formed
+as a collapsed doline, then the rim of this chamber is likely to be
+preserved beneath the front aperture.
+At least one major cut-and-ﬁll event has been recorded in the
+cave that has had profound implications for the preservation of
+archaeological sediments (Sutikna et al., 2016). This pattern of
+repeated accumulation and erosion, often followed by slumping
+and mass movements, is a common theme observed in many parts
+of the stratigraphic sequence, which is similar to that recorded in
+New Guinea by Gillieson (1986). Work is ongoing to identify the
+geomorphic processes that drive these cut-and-ﬁll events, and to
+ultimately link the sequence recorded inside the site to the river
+valley outside. These are likely to include ﬂuctuations in water
+throughput or ﬂow concentration from the rear of the cave to the
+front, linked to a reorganisation of the karst hydrological system; a
+change in the topographic template of the site, over which subsequent sediments are deposited; and/or a switch in the mode of
+sediment deposition (e.g., from clastic to precipitate).
+5.2.7. Correlation with palaeoenvironmental records in island
+Southeast Asia
+The results of this study are spatially constrained to a limited
+area of the cave, so correlating changes in cave environment to the
+wider catchment or regional climate record is necessarily tentative.
+That said, we recognise three distinct phases of environmental
+change in the sedimentological record at Liang Bua that appear to
+be driven by reorganisation of the cave hydrology, presumablydbut not as yet demonstrablydlinked to ﬂuctuations in precipitation on Flores. Using the new radiocarbon chronology
+presented here, we can provisionally correlate these hydrological
+changes with isotopic (v18O and v13C) proxies measured on speleothems from Flores and Java (Westaway et al., 2007b, 2009a) and
+make comparisons with other proxy palaeoenvironmental data
+from Island Southeast Asia.
+A marked switch from humid colluviation to gravel production
+under a dry climate occurs in the sequence sometime after ~47 ka
+and prior to ~41e38 ka. This may correlate with a period of
+persistent groundwater conditions identiﬁed in the speleothem
+record, with a peak in humidity occurring 44e41 ka (Westaway
+et al., 2009a). The onset of autogenic gravel production and
+calcareous sedimentation coincides with hominin ﬁre-use at Liang
+Bua from ~41 to 38 ka and correlates with a signiﬁcant reduction in
+humidity from ~39 ka (Westaway et al., 2009a). This drier period on
+Flores may correlate with the dry conditions and abundant C4
+grasses indicative of an open savannah-type landscape recorded on
+Palawan in the Philippines (Wurster et al., 2010). In the Liang Bua
+
+140
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+sedimentological record, we observe a return to humid colluviation
+after 25e24 ka, perhaps as a southerly expression of the wet event
+recorded on Palawan at ~23e21 ka (Bird et al., 2007; Lewis et al.,
+2008). Stalagmite records from Flores show a sharp increase in
+monsoonal precipitation after the LGM, with the interglacial atmospheric circulation system fully restored by ~13 ka (Westaway
+et al., 2007b).
+During the time period relevant here to hominin migrations into
+(and out of) the region (~60e20 ka), maximum sea levels rarely
+attained elevations closer than 50 m below current mean sea level
+(Lambeck and Chappell, 2001). Such low sea levels suggest that
+most of the Sunda Shelf was exposed throughout this period (Voris,
+2000), thus permitting overland crossings as far east as the eastern
+coasts of Bali and Borneo, possibly via an open savannah corridor
+(Bird et al., 2005; Wurster and Bird, 2016). Further penetration
+eastward at this time required sea crossings over the perilous
+straits separating the Indonesian islands east of Wallace’s Line, or
+across the longer (but potentially safer) passages from the north via
+either the Philippines or Sulawesi, whether by choice or serendipitous circumstance (e.g., Birdsell, 1977; O’Connor, 2007;
+O’Connell et al., 2010; Morwood and Jungers, 2009; Dennell et al.,
+2014).
+The environmental reconstruction for Liang Bua presented here
+is insufﬁciently ﬁnely-resolved to correlate with extant, highresolution palaeoenvironmental datasets for Sunda and Wallacea,
+although we have endeavoured to situate our ﬁndings within a
+regional biogeographic and palaeoclimatic framework. A larger
+data set is required to explore in more detail the relationship between on-site environmental change and precipitation-driven
+reorganisation of the karst hydrologydthis will be the focus of
+further study.
+6. Conclusions
+The results of this micromorphological study are derived from a
+single area of Liang Bua (a 1 m-wide by ~4 m-deep proﬁle near the
+rear of the site), which represents only a small fraction of the voluminous deposits preserved in the cave. Despite this modest window into the evolution of the site, the results substantiate and
+reﬁne previous work, extending our knowledge of the depositional
+and post-depositional history of the cave and of hominin activities
+taking place at the site.
+Field observations suggest that colluviated sediments are
+derived primarily from the rear of the cave, and the micromorphological results show that these sediments were deposited during oscillations between drier and wetter conditions. Variations in
+ﬂowstone morphologies are consistent with a variety of depositional processes, and these inferences are supported by observations of the thin sections, where thin laminae of biological
+derivation are clearly visible. Localised bioturbation of the Liang
+Bua depositional sequence is a typical occurrence, which is not
+surprising given studies of other tropical cave sediments such as at
+Niah Cave (Stephens et al., 2005, 2017). However, the degree to
+which bioturbation has affected the integrity of the archaeological
+evidence at Liang Bua appears to be minor, but further research on
+these effects is warranted.
+Results of ongoing work in different areas of the cave should
+help reﬁne interpretations of the sedimentary dynamics at Liang
+Bua. We have documented chemical diagenesis in the upper
+20e35 cm of Unit 8 in Sector XXIV, but it remains to be shown if the
+same processes occur to the same extentdif at alldin other parts of
+the cave at the same or different depths and in other stratigraphic
+units. Documenting phosphatisation, for example, is signiﬁcant in
+revealing locations of roosting animals, the presence of erosion,
+stabilisation of surfaces and gaps in the stratigraphic record (e.g.,
+
+thin section MM4B). It may also be important for locating any regions of locally enhanced or reduced radioactivity, which could
+inﬂuence the radionuclide concentrations in sediments and faunal
+remains sampled for luminescence, electron-spin resonance and
+uranium-series dating (e.g., Weiner et al., 2002).
+Our micromorphological observations of combustion features
+and bi-products from sediments dated to ~41e24 ka are of particular interest. First, the microstratigraphic organisation of these
+features reveals that we are dealing with largely undisturbed
+structures that can be used to make inferences about hominin
+behaviour, such as the spatio-functional use of speciﬁc areas of the
+site and food processing strategies. Second, the primary context of
+the combustion features and their stratigraphic association with a
+suite of new 14C ages suggests that modern humans are the most
+likely candidates for this ﬁre-use. If this hypothesis is borne out by
+further research, then the initial arrival of modern humans at Liang
+Bua can be extended to at least ~41 ka cal. BP. As the gap narrows
+between the time of arrival of modern humans and the latest parts
+of the H. ﬂoresiensis sequence (~50 ka; Sutikna et al., 2016), ongoing
+investigations at the site will address the question of whether deposits of intermediate age contain any evidence of overlap and
+interaction between the two hominin groups.
+Acknowledgements
+We thank the following for funding support: the Australian
+Research Council for an Australian Laureate Fellowship
+(FL130100116) to R.G.R., the University of Wollongong for a postgraduate scholarship to T.S., the Canada Research Chairs Program to
+M.W.T., the Smithsonian Institution’s Scholarly Studies Program to
+M.W.T. and the Waitt Foundation/National Geographic Society
+(grant 2121-2) to M.W.T and T.S. Additional funding was provided
+by the Peter Buck Fund for Human Origins Research and the
+Smithsonian Institution’s Human Origins Program. We also thank I
+Made Geria, V.N. Sene, I Dewa Kompiang and the entire Liang Bua
+Team from Teras, Golo Manuk and Bere. Fieldwork was authorised
+by Pusat Penelitian Arkeologi Nasional (Jakarta, Indonesia) and
+Pemerintah Daerah Kabupaten Manggarai (Flores, Nusa Tenggara
+Timur).
+References
+Allen, J., O’Connell, J.F., 2014. Both half right: updating the evidence for dating ﬁrst
+human arrivals in Sahul. Aust. Archaeol. 79, 86e108.
+Aubert, M., Brumm, A., Ramli, M., Sutikna, T., Saptomo, E.W., Hakim, B., Dosseto, A.,
+2014. Pleistocene cave art from Sulawesi, Indonesia. Nature 514 (7521),
+223e227.
+Barker, G., 2013. Rainforest foraging and farming in Island Southeast Asia. In:
+McDonald Institute Monographs, vol. 1. McDonald Institute of Archaeological
+Research, Cambridge.
+Barker, G., Barton, H., Bird, M., Daly, P., Datan, I., Dykes, A., Farr, L., Gilbertson, D.,
+Harrisson, B., Hunt, C., Higham, T., 2007. The ‘human revolution’ in lowland
+tropical Southeast Asia: the antiquity and behaviour of anatomically modern
+humans at Niah Cave (Sarawak, Borneo). J. Hum. Evol. 52 (3), 243e261.
+Bellwood, P., 2014. First Migrants: Ancient Migration in Global Perspective. John
+Wiley & Sons.
+Berna, F., Goldberg, P., Horwitz, L.K., Brink, J., Holt, S., Bamford, M., Chazan, M., 2012.
+Microstratigraphic evidence of in situ ﬁre in the Acheulean strata of Wonderwerk cave, northern Cape province, South Africa. Proc. Natl. Acad. Sci. U. S. A.
+109 (20), E1215eE1220.
+Bird, M.I., Taylor, D., Hunt, C., 2005. Palaeoenvironments of insular Southeast Asia
+during the last glacial period: a savanna corridor in Sundaland? Quat. Sci. Rev.
+24 (20), 2228e2242.
+Bird, M.I., Boobyer, E.M., Bryant, C., Lewis, H.A., Paz, V., Stephens, W.E., 2007. A long
+record of environmental change from bat guano deposits in Makangit Cave,
+Palawan, Philippines. Earth Environ. Sci. Trans. R. Soc. Edinb. 98 (01), 59e69.
+Birdsell, J.B., 1977. The Recalibration of a Paradigm for the First Peopling of Greater
+Australia. In: Sunda and Sahul: Prehistoric Studies in Southeast Asia, Melanesia,
+and Australia, pp. 113e167.
+Boivin, N., Fuller, D.Q., Dennell, R., Allaby, R., Petraglia, M.D., 2013. Human dispersal
+across diverse environments of Asia during the upper Pleistocene. Quat. Int.
+300, 32e47.
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+Bowler, J.M., Johnston, H., Olley, J.M., Prescott, J.R., Roberts, R.G., Shawcross, W.,
+Spooner, N.A., 2003. New ages for human occupation and climatic change at
+Lake Mungo, Australia. Nature 421, 837e840.
+Brown, P., Sutikna, T., Morwood, M.J., Soejono, R.P., Jatmiko, Saptomo, E.W.,
+Due, R.A., 2004. A new small-bodied hominin from the Late Pleistocene of
+Flores, Indonesia. Nature 431, 1055e1061.
+Buciuman, F., Patcas, F., Craciun, R., Zahn, D.R.T., 1998. Vibrational spectroscopy of
+bulk and supported manganese oxides. Phys. Chem. Chem. Phys. 1, 185e190.
+Clark, P.U., Dyke, A.S., Shakun, J.D., Carlson, A.E., Clark, J., Wohlfarth, B.,
+Mitrovica, J.X., Hostetler, S.W., McCabe, A.M., 2009. The last glacial maximum.
+Science 325, 710e714.
+Clarkson, C., Smith, M., Marwick, B., Fullagar, R., Wallis, L.A., Faulkner, P., Manne, T.,
+Hayes, E., Roberts, R.G., Jacobs, Z., Carah, X., 2015. The archaeology, chronology
+and stratigraphy of Madjedbebe (Malakunanja II): a site in northern Australia
+with early occupation. J. Hum. Evol. 83, 46e64.
+Cooper, A., Stringer, C.B., 2013. Did the Denisovans cross Wallace’s line? Science 342
+(6156), 321e323.
+Demeter, F., Shackelford, L., Westaway, K., Duringer, P., Bacon, A.M., Ponche, J.L.,
+Wu, X., Sayavongkhamady, T., Zhao, J.-X., Barnes, L., Boyon, M.,
+Sichanthongtip, P., Senegas, F., Karpoff, A.-M., Patole-Edoumba, E., Coppen, Y.,
+Braga, J., 2015. Early modern humans and morphological variation in Southeast
+Asia: fossil evidence from Tam Pa Ling, Laos. PLoS One 10 (4), e0121193.
+Dennell, R., Petraglia, M.D., 2012. The dispersal of Homo sapiens across southern
+Asia: how early, how often, how complex? Quat. Sci. Rev. 47, 15e22.
+Dennell, R.W., Louys, J., O’Regan, H.J., Wilkinson, D.M., 2014. The origins and
+persistence of Homo ﬂoresiensis on Flores: biogeographical and ecological perspectives. Quat. Sci. Rev. 96, 98e107.
+troit, F., Dizon, E., Falgue
+res, C., Hameau, S., Ronquillo, W., Se
+mah, F., 2004. Upper
+De
+Pleistocene Homo sapiens from the Tabon cave (Palawan, the Philippines):
+description and dating of new discoveries. Comptes Rendus Palevol 3 (8),
+705e712.
+troit, F., Se
+mah, F., Falgue
+res, C., Hameau, S., Ronquillo, W., Cabanis, E.,
+Dizon, E., De
+2002. Notes on the morphology and age of the Tabon Cave fossil Homo sapiens.
+Curr. Anthropol. 43 (4), 660e666.
+Ford, D., Williams, P.D., 2007. Karst Hydrogeology and Geomorphology. John Wiley
+& Sons.
+Fox, R.B., 1970. The Tabon caves: archaeological explorations and excavations on
+Palawan island, Philippines. Natl. Mus. Philipp. Monogr. (No. 1)
+Gilbertson, D., Bird, M., Hunt, C., McLaren, S., Banda, R.M., Pyatt, B., Rose, J.,
+Stephens, M., 2005. Past human activity and geomorphological change in a
+guano-rich tropical cave mouth: initial interpretations of the Late Quaternary
+succession in the Great Cave of Niah, Sarawak. Asian Perspect. 16e41.
+Gillieson, D., 1986. Cave sedimentation in the New Guinea highlands. Earth Surf.
+Process. Landforms 11 (5), 533e543.
+Glover, I.C., 1979. The effects of sink action on archaeological deposits in caves: an
+Indonesian example. World Archaeol. 10 (3), 302e317.
+Goldberg, P., Miller, C.E., Schiegl, S., Ligouis, B., Berna, F., Conard, N.J., Wadley, L.,
+2009. Bedding, hearths, and site maintenance in the middle stone age of Sibudu
+cave, KwaZulu-Natal, South Africa. Archaeol. Anthropol. Sci. 1 (2), 95e122.
+Goldberg, P., Aldeias, V., 2016. Why does (archaeological) micromorphology have
+such little traction in (geo)archaeology? Archaeol. Anthropol. Sci. (online, in
+press).
+Groucutt, H.S., Petraglia, M.D., Bailey, G., Scerri, E.M., Parton, A., Clark-Balzan, L.,
+Jennings, R.P., Lewis, L., Blinkhorn, J., Drake, N.A., Breeze, P.S., Inglis, R.H.,
+Deves, M.H., Meredith-Williams, M., Boivin, N., Thomas, M.G., Scally, A., 2015.
+Rethinking the dispersal of Homo sapiens out of Africa. Evol. Anthropol. 24 (4),
+149e164.
+Hiscock, P., 2015. Cultural diversiﬁcation and the global dispersion of Homo sapiens:
+lessons from Australia. In: Kaifu, Y., Izuho, M., Goebel, T., Sato, H., Ono, A. (Eds.),
+Emergence and Diversity of Modern Human Behaviour in Paleolithic Asia. Texas
+A&M University Press, College Station, pp. 225e236.
+Hocknull, S.A., Piper, P.J., van den Bergh, G.D., Due, R.A., Morwood, M.J.,
+Kurniawan, I., 2009. Dragon’s Paradise Lost: Palaeobiogeography, evolution and
+extinction of the Largest-ever terrestrial Lizards (Varanidae). PLoS One 4 (9),
+e7241.
+Hogg, A.G., Hua, Q., Blackwell, P.G., Niu, M., Buck, C.E., Guilderson, T.P., Heaton, T.J.,
+Palmer, J.G., Reimer, P.J., Reimer, R.W., Turney, C.S.M., Zimmerman, S.R.H., 2013.
+SHCal13 Southern Hemisphere calibration, 0e50,000 years cal BP. Radiocarbon
+55, 1889e1903.
+Karkanas, P., Goldberg, P., 2010. Phosphatic features. In: Stoops, G., Mees, F. (Eds.),
+Interpretation of Micromorphological Features of Soils and Regoliths. Elsevier
+B.V, pp. 521e541.
+Karkanas, P., Rigaud, J.P., Simek, J.F., Albert, R.M., Weiner, S., 2002. Ash bones and
+guano: a study of the minerals and phytoliths in the sediments of Grotte XVI,
+Dordogne, France. J. Archaeol. Sci. 29 (7), 721e732.
+Karkanas, P., Schepartz, L.A., Miller-Antonio, S., Wang, W., Huang, W., 2008. Late
+middle Pleistocene climate in southwestern China: inferences from the stratigraphic record of Panxian Dadong cave, Guizhou. Quat. Sci. Rev. 27 (15e16),
+1555e1570.
+Kourampas, N., Simpson, I.A., Perera, N., Deraniyagala, S.U., Wijeyapala, W.H., 2009.
+Rockshelter sedimentation in a dynamic tropical landscape: late PleistoceneeEarly Holocene archaeological deposits in Kitulgala Beli-lena, southwestern
+Sri Lanka. Geoarchaeology 24 (6), 677e714.
+Lambeck, K., Chappell, J., 2001. Sea level change through the last glacial cycle.
+Science 292 (5517), 679e686.
+
+141
+
+Lewis, H., Johnson, K., Ronquillo, W., 2008. Preliminary results of speleothem dating
+from Tabon cave, Palawan, Philippines: moisture increase at the last glacial
+maximum. Hukay 12, 35e50.
+pez-Gonza
+lez, F., Grandal-d’Anglade, A., Vidal-Romaní, J.R., 2006. Deciphering
+Lo
+bone depositional sequences in caves through the study of manganese coatings.
+J. Archaeol. Sci. 33 (5), 707e717.
+Mijares, A.S.B., Lewis, H.A., 2009. Cave sites in northeastern Luzon, Philippines: a
+preliminary soil micromorphological study. Asian Perspect. 48 (1), 98e118.
+Miller, C.E., Conard, N.J., Goldberg, P., Berna, F., 2009. Dumping, sweeping and
+trampling: experimental micromorphological analysis of anthropogenically
+modiﬁed combustion features. Palethnologie 2009, 25e37.
+Miller, C.E., Goldberg, P., Berna, F., 2013. Geoarchaeological investigations at Diepkloof rock Shelter, western Cape, South Africa. J. Archaeol. Sci. 40 (9),
+3432e3452.
+Moore, M.W., Sutikna, T., Jatmiko, Morwood, M.J., Brumm, A., 2009. Continuities in
+stone ﬂaking technology at Liang Bua, Flores, Indonesia. J. Hum. Evol. 57,
+503e526.
+Morley, M.W., Woodward, J.C., 2011. The Campanian Ignimbrite (Y5) tephra at
+Crvena Stijena rockshelter, Montenegro. Quat. Res. 75 (3), 683e696.
+Morwood, M.J., Jungers, W.L., 2009. Conclusions: implications of the Liang Bua
+excavations for hominin evolution and biogeography. J. Hum. Evol. 57,
+640e648.
+Morwood, M.J., Soejono, R.P., Roberts, R.G., Sutikna, T., Turney, C.S.M.,
+Westaway, K.E., Rink, W.J., Zhao, J.X., van den Bergh, G.D., Due, R.A., Hobbs, D.R.,
+Moore, M.W., Bird, M.I., Fiﬁeld, L.K., 2004. Archaeology and age of a new
+hominin from Flores in eastern Indonesia. Nature 431, 1087e1091.
+Morwood, M.J., Brown, P., Jatmiko, Sutikna T., Saptomo, E.W., Westaway, K.E.,
+Due, R.A., Roberts, R.G., Maeda, T., Wasisto, S., Djubiantono, T., 2005. Further
+evidence for small-bodied hominins from the late Pleistocene of Flores,
+Indonesia. Nature 437, 1012e1017.
+Morwood, M.J., Sutikna, T., Saptomo, E.W., Jatmiko, Hobbs, D.R., Westaway, K.E.,
+2009. Preface: research at Liang Bua, Flores, Indonesia. J. Hum. Evol. 57,
+437e449.
+Northup, E., Lavoie, D., 2001. Geomicrobiology of caves: a review. Geomicrobiol. J. 18
+(3), 199e222.
+O’Connell, J.F., Allen, J., Hawkes, K., 2010. Pleistocene Sahul and the origins of
+seafaring. In: Anderson, A., Barrett, J.H., Boyle, K.V. (Eds.), The Global Origins
+and Development of Seafaring. McDonald Institute of Archaeological Research,
+Cambridge, pp. 57e68.
+O’Connell, J.F., Allen, J., 2015. The process, biotic impact, and global implications of
+the human colonization of Sahul about 47,000 years ago. J. Archaeol. Sci. 56,
+73e84.
+O’Connor, S., 2007. New evidence from East Timor contributes to our understanding
+of earliest modern human colonisation east of the Sunda Shelf. Antiquity 81,
+523e535.
+O’Connor, S., 2015. Crossing the Wallace line: the maritime skills of the earliest
+colonists in the Wallacean Archipelago. In: Kaifu, Y., Izuho, M., Goebel, T.,
+Sato, H., Ono, A. (Eds.), Emergence and Diversity of Modern Human Behaviour
+in Paleolithic Asia. Texas A&M Univ. Press, College Station, pp. 214e224.
+O’Connor, S., Ono, R., Clarkson, C., 2011. Pelagic ﬁshing at 42,000 years before the
+present and the maritime skills of modern humans. Science 334, 1117e1121.
+Reyes-Centeno, H., Hubbe, M., Hanihara, T., Stringer, C., Harvati, K., 2015. Testing
+modern human out-of-Africa dispersal models and implications for modern
+human origins. J. Hum. Evol. 87, 95e106.
+Roberts, R.G., Jones, R., Smith, M.A., 1990. Thermoluminescence dating of a 50,000year-old human occupation site in northern Australia. Nature 345, 153e156.
+Roberts, R.G., Jones, R., Spooner, N.A., Head, M.J., Murray, A.S., Smith, M.A., 1994. The
+human colonisation of Australia: optical dates of 53,000 and 60,000 years
+bracket human arrival at Deaf Adder Gorge, Northern Territory. Quat. Sci. Rev. 13
+(5), 575e583.
+Roberts, R.G., Westaway, K.E., Zhao, J.-X., Turney, C.S., Bird, M.I., Rink, W.J.,
+Fiﬁeld, L.K., 2009. Geochronology of cave deposits at Liang Bua and of adjacent
+river terraces in the Wae Racang valley, western Flores, Indonesia: a synthesis
+of age estimates for the type locality of Homo ﬂoresiensis. J. Hum. Evol. 57 (5),
+484e502.
+Sauer, G.R., Zunic, W.B., Durig, J.R., Wuthier, R.E., 1994. Fourier Transform Raman
+spectroscopy of synthetic and biological calcium phosphates. Calcif. Tissue Int.
+54, 414e420.
+Stephens, M., Rose, J., Gilbertson, D.D., Canti, M.G., 2005. Micromorphology of cave
+sediments in the humid tropics: Niah cave, Sarawak. Asian Perspect. 44 (1),
+42e55.
+Stephens, M., Rose, J., Gilbertson, D.D., 2017. Post-depositional alteration of humid
+tropical cave sediments: micromorphological research in the Great Cave of
+Niah, Sarawak, Borneo. J. Archaeol. Sci. 77, 109e124.
+Stiner, M.C., Kuhn, S.L., Surovell, T.A., Goldberg, P., Meignen, L., Weiner, S., BarYosef, O., 2001. Bone preservation in Hayonim Cave (Israel): a macroscopic and
+mineralogical study. J. Archaeol. Sci. 28 (6), 643e659.
+Storm, P., Aziz, F., de Vos, J., Kosasih, D., Baskoro, S., van den Hoek Ostende, L.W.,
+2005. Late Pleistocene Homo sapiens in a tropical rainforest fauna in east Java.
+J. Hum. Evol. 49 (4), 536e545.
+Storm, P., Wood, R., Stringer, C., Bartsiokas, A., de Vos, J., Aubert, M., Kinsley, L.,
+Grün, R., 2013. U-series and radiocarbon analyses of human and faunal remains
+from Wajak, Indonesia. J. Hum. Evol. 64 (5), 356e365.
+Stuiver, M., Reimer, P. J., & Reimer, R. W. (2016). CALIB 7.1. [WWW program and
+documentation], http://calib.qub.ac.uk/calib/.
+
+142
+
+M.W. Morley et al. / Journal of Archaeological Science 77 (2017) 125e142
+
+Summerhayes, G.R., Leavesley, M., Fairbairn, A., Mandui, H., Field, J., Ford, A.,
+Fullagar, R., 2010. Human adaptation and plant use in highland New Guinea
+49,000 to 44,000 years ago. Science 330 (6000), 78e81.
+Stoops, G., 2003. Guidelines for Analysis and Description of Soil and Regolith Thin
+Sections. Soil Science Society of America, Madison, WI.
+Sutikna, T., Tocheri, M.W., Morwood, M.J., Saptomo, E.W., Jatmiko, Due, R.A.,
+Wasisto, S., Westaway, K.E., Aubert, M., Li, B., Zhao, J.-X., Storey, M.,
+Alloway, B.V., Morley, M.W., Meijer, H.J.M., van den Bergh, G.D., Grün, R.,
+Dosseto, A., Brumm, A., Jungers, W.L., Roberts, R.G., 2016. Revised stratigraphy
+and chronology for Homo ﬂoresiensis at Liang Bua in Indonesia. Nature 532,
+366e369.
+Taborosi, D., Hirakawa, K., Sawagaki, T., 2005. Carbonate precipitation along a
+microclimatic gradient in a Thailand cavedcontinuum of calcareous tufa and
+speleothems. J. Cave Karst Stud. 67 (1), 69e87.
+Taborosi, D., 2006. Biologically inﬂuenced carbonate speleothems. Geol. Soc. Am.
+Spec. Pap. 404, 307e317.
+Turney, C.S.M., Bird, M.I., Fiﬁeld, L.K., Roberts, R.G., Smith, M., Dortch, C.E., Grün, R.,
+Lawson, E., Ayliffe, L.K., Miller, G.H., Dortch, J., Cresswell, R.G., 2001. Early human occupation at Devil’s Lair, southwestern Australia 50,000 years ago. Quat.
+Res. 55, 3e13.
+, K., van den
+van den Bergh, G.D., Meijer, H.J.M., Awe, R.D., Morwood, M.J., Szabo
+Hoek Ostende, L.W., Sutikna, T., Saptomo, E.W., Piper, P.J., Dobney, K.M., 2009.
+The Liang Bua faunal remains: a 95 k. yr. sequence from Flores, East Indonesia.
+J. Hum. Evol. 57 (5), 527e537.
+Voris, H.K., 2000. Maps of Pleistocene sea levels in Southeast Asia: shorelines, river
+systems and time durations. J. Biogeogr. 27 (5), 1153e1167.
+
+Weiner, S., Goldberg, P., Bar-Yosef, O., 2002. Three-dimensional distribution of
+minerals in the sediments of Hayonim Cave, Israel: diagenetic processes and
+archaeological implications. J. Archaeol. Sci. 29, 1289e1308.
+Westaway, K.E., Morwood, M.J., Roberts, R.G., Zhao, J.-x., Sutikna, T., Saptomo, E.W.,
+Rink, W.J., 2007a. Establishing the time of initial human occupation of Liang
+Bua, western Flores, Indonesia. Quat. Geochronol. 2 (1), 337e343.
+Westaway, K.E., Zhao, J.-x., Roberts, R.G., Chivas, A.R., Morwood, M.J., Sutikna, T.,
+2007b. Initial speleothem results from western Flores and eastern Java,
+Indonesia: were climate changes from 47 to 5 ka responsible for the extinction
+of Homo ﬂoresiensis? J. Quat. Sci. 22 (5), 429e438.
+Westaway, K.E., Roberts, R.G., Sutikna, T., Morwood, M.J., Drysdale, R., Zhao, J.-x.,
+Chivas, A.R., 2009a. The evolving landscape and climate of western Flores: an
+environmental context for the archaeological site of Liang Bua. J. Hum. Evol. 57
+(5), 450e464.
+Westaway, K.E., Sutikna, T., Saptomo, W.E., Morwood, M.J., Roberts, R.G., Hobbs, D.R.,
+2009b. Reconstructing the geomorphic history of Liang Bua, Flores, Indonesia: a
+stratigraphic interpretation of the occupational environment. J. Hum. Evol. 57
+(5), 465e483.
+White, W.B., Vito, C., Scheetz, B.E., 2009. The mineralogy and trace element
+chemistry of black manganese oxide deposits from caves. J. Cave Karst Stud. 71
+(2), 136e143.
+Wurster, C.M., Bird, M.I., Bull, I.D., Creed, F., Bryant, C., Dungait, J.A., Paz, V., 2010.
+Forest contraction in north equatorial Southeast Asia during the last glacial
+period. Proc. Natl. Acad. Sci. U. S. A. 107 (35), 15508e15511.
+Wurster, C.M., Bird, M.I., 2016. Barriers and bridges: early human dispersals in
+equatorial SE Asia. Geol. Soc. Lond. Spl. Publ. 411 (1), 235e250.
+
+

@@ -1,0 +1,887 @@
+Journal of Anthropological Archaeology 44 (2016) 177–184
+
+Contents lists available at ScienceDirect
+
+Journal of Anthropological Archaeology
+journal homepage: www.elsevier.com/locate/jaa
+
+Are we missing the ‘‘sweet spot” between optimality theory and niche
+construction theory in archaeology?
+Mary C. Stiner ⇑, Steven L. Kuhn
+School of Anthropology, P.O. Box 210030, University of Arizona, Tucson, AZ 85721-0030, USA
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 12 January 2016
+Revision received 2 June 2016
+Available online 20 July 2016
+Keywords:
+Niche construction
+Behavioral ecology
+Co-evolution
+Optimality models
+Domestication
+Village emergence
+Paleolithic residential camps
+Fire technology
+Human evolution
+
+a b s t r a c t
+Proximate decision models, such as those derived from optimal foraging theory (OFT), are important tools
+for predicting individual behavior and identifying contradictions to our assumptions. The models are
+effective for exposing anomalies because they play upon basic resource needs and costs in situations
+where human behavior cannot be observed directly. These decision models are not enough, however,
+to account for the larger processes by which repeated interactions change the nature of co-evolving species, including humans, and alterations of the conditions of selection across generations. At least two
+levels of mechanics and their respective temporal domains must be recognized in co-evolutionary studies. These are the primary mechanics of day-to-day decisions and actions, and the compounding mechanics of emergent phenomena that may affect the evolutionary history of populations. Local rules and goals
+generally govern decisions of individuals or small groups of individuals as they try to balance competing
+needs. Compounding rules govern emergence of larger phenomena which unfold unpredictably for generations to come. Contra some recent claims, one family of theory cannot replace the function of the
+other; rather they are complimentary, by speaking to very different scales of phenomena. We develop
+these points through a consideration of both primary and compounding dynamics in two distinct evolutionary forums: the developmental evolution of the hearth-centered residential camp in the Middle
+Pleistocene and the ‘‘domestic-selective” environment of a formative village at the beginning of the
+Holocene.
+Ó 2016 Elsevier Inc. All rights reserved.
+
+1. Introduction
+Optimal foraging theory (OFT) and related concepts from
+behavioral ecology are by now well established in anthropology,
+thanks in large part to the work of Jim O’Connell, his colleagues
+and students. The best OFT studies are those that expose behavioral anomalies, departures from the predictions of a well-parsed
+model (e.g., Barlow and Metcalfe, 1996; Bright et al., 2002;
+Broughton, 1994; Buonasera, 2015; Gremillion et al., 2014;
+Hawkes et al., 1982; Kuhn, 1994; Lupo, 2007; O’Connell et al.,
+1988; Stiner, 2001; Ugan et al., 2003; Winterhalder and Smith,
+2000). It is the very simplicity of narrowly framed, rigorous models
+that allows anthropologists to winnow-out false assumptions and
+to identify the dominant currencies and organizational features
+of human behavior within and across cultures.
+
+⇑ Corresponding author.
+E-mail addresses: mstiner@email.arizona.edu (M.C. Stiner), skuhn@email.arizona.edu (S.L. Kuhn).
+http://dx.doi.org/10.1016/j.jaa.2016.07.006
+0278-4165/Ó 2016 Elsevier Inc. All rights reserved.
+
+Generative evolutionary theories, including Co-evolution
+Theory and Evolutionary Developmental Theory (EvoDevo),1 are
+well established in the biological sciences. They have a much more
+limited history of application in anthropology. Evolutionary Developmental Theory is gaining traction recently due to anthropologists’
+growing motivation to address complex problems such as dynamic
+networks and webs of social interaction. Of the many variants of
+EvoDevo, the concept of Niche Construction (Odling-Smee et al.,
+2003) is the one most widely discussed by archaeologists (e.g.,
+Smith, 2011; O’Brien and Laland, 2012). One may wonder why
+archaeologists were not quicker to take up niche construction
+
+1
+For our purposes, co-evolution and developmental theories fall under the same
+general rubric, simply because they deal with generative phenomena (physical and/or
+behavioral) that arise from interaction and create selective conditions that are
+heritable. We introduce them as separate terms initially in recognition of differences
+that are important to specific applications. What the two areas of theory share in
+common is a potential for ‘‘plastic” modulation of form or behavior as the result of
+repeated reciprocal or feedback across generations. That the interactions may be
+among living organisms or between organisms and a mutable environment are
+important but secondary distinctions.
+
+178
+
+M.C. Stiner, S.L. Kuhn / Journal of Anthropological Archaeology 44 (2016) 177–184
+
+theory (NCT), as it seems exceptionally well suited to holistic studies of human beings and their environment. In particular, NCT
+places a strong emphasis on a dynamic heritable environment (similar to ecosystem engineering, Jones et al., 1997), and humans create
+artificial environments around themselves as a rule. One obstacle
+may be the difficulty of really testing NCT in modern contexts
+(see Odling-Smee et al., 2013; Matthews et al., 2014), much more
+so in archaeological and paleontological studies of past processes.
+Another important stumbling block that has surfaced in recent literature, and the one we will address in this paper, is the belief that the
+different sorts of theory named above exist on single plane of utility
+and are thus in conflict at the ontological level (Smith, 2011; Zeder,
+2012). We argue that this is not the case, and that it is high time to
+consider the conceptual and operational relations between OFT and
+NCT in particular (see also Bliege Bird, 2015; Gremillion et al.,
+2014).
+Some background to EvoDevo is important to the argument we
+present here. Laubichler and Maienschein (2007) trace Evo-Devo
+thinking to 19th century notions of ‘‘generative” process in evolutionary biology. Rooted in early ideas of organismic development,
+the theoretical potential of generative process was pursued mainly
+within the confines of embryology, the study of the developing
+individual (Laubichler and Maienschein, 2007). The generative
+paradigm has been overshadowed in most other areas of life
+science by the great successes of classic (Darwinian) evolutionary
+theory. Today, generative refers to how interactions among a set
+of finite rules yield unanticipated behaviors or other surprising
+outcomes. It is difficult or impossible to predict such outcomes
+using simple human brain-power, but computer simulation modeling shows that they can be a consequence of simple rules (e.g.,
+Andersson et al., 2014; Barton et al., in press; Ullah et al., 2015).
+The unforeseen patterns that emerge can be physiological, social
+and/or cognitive in nature, and thus would seem to be very relevant to research on human evolution.
+An overload of data and nagging gaps in evolutionary explanation have given new urgency to integrating development and
+evolution in the biological and social sciences. Refinements in
+co-evolution and EvoDevo theory have been part of this recent
+trend. The idea of co-evolution from the 1960–1970s (e.g.,
+MacArthur and Levins, 1967) focused on how the interactions
+among living organisms may disproportionately shape and constrain the evolutionary pathways of one or both taxa by altering
+the conditions of selection. Niche construction differs from classic
+co-evolution theory in that it focuses on co-evolution of the
+organism and its environment, which may also alter the conditions of selection over the long run (Odling-Smee et al., 2003;
+Laland et al., 2000).
+Interaction and ‘‘inter-activeness” are central conditions to all
+EvoDevo and Co-evolutionary theories. Whether the linkages arise
+from random historical processes or structural basins of attraction,
+it is the dynamic of interaction that moves the evolutionary processes along. The interactions may be intense or diffuse, but there
+must be repeated cycles of action and reaction (feedback influences) to produce an evolutive effect.
+Much of what we shall consider in this essay concerns the necessary relationships between two distinct levels of theory for arc
+haeology—optimality-based decision models and niche construction, a type of evolutionary developmental theory. First we will
+lay out what we see as some key logical relations between optimal
+foraging theory (OFT) and niche construction theory (NCT). We will
+then illustrate our argument using two archaeological examples of
+very different ages: (a) the emergence of hearth-focused residential camps during the Middle Pleistocene in Eurasia; and, (b) the
+birth of the village among early sedentary foragers in Central Anatolia at the beginning of the Holocene.
+
+2. Functional hierarchy in theory
+To study human evolution in the broad sense is, more often
+than not, to study co-evolution—the co-evolution of biology and
+culture, predator and prey, parasite and host, human and domesticate, technology and body. Humans are an exceptionally manipulative species, and their influence on other organisms and the
+physical environment is everywhere to be seen. Humans are not
+altogether unique for being manipulative, but they hold an
+extreme status in natural systems. Aspects of the foragerproducer transition, including constructed environments and risk
+management practices, as well as the links between stockkeeping and zoonotic diseases, are common examples of feedbacks
+that have promoted co-evolution. The human-constructed environment has become part of the arena of selective influences in
+our evolution.
+The fact that humans get caught up in intense interactive spirals
+of all sorts begs explanation, yet seems to lie beyond what much
+current theory can accommodate. We have seen that close interactions between humans and animals, or between humans and
+plants, can push the evolutionary process in unprecedented directions, often quite rapidly. But how does it work? And how do
+immediate constraints and day-to-day behaviors participate in
+locking people into reciprocal evolutionary pathways with other
+species and things?
+Co-evolution models vary in the specific mechanics of change.
+Some early ones viewed the process as largely independent of
+the physical environment such as Van Valen’s (1973) Red Queen
+hypothesis. The tendency to interact brings on selective behavioral
+constraints that span generations, such as in the case of competition (e.g., Schoener, 1974, 1983). Other, more recent models
+emphasize how biotic interactions cumulatively alter the selective
+physical environment for future generations, a proposition that is
+essential to keystone species effects and niche construction alike
+(compare Jones et al., 1997; Brown and Heske, 1990; Laland
+et al., 2000). By modifying the sources of selection in the heritable
+environment, highly ‘‘interactive” species are said to co-direct their
+evolution mainly through positive feedback loops. The pros of their
+actions must generally outweigh the cons (though the cons can be
+significant), and the organisms must be flexible enough to keep
+adjusting to the changes wrought by the interactions. The modifying activities must persist over multiple generations in order to
+have a directional effect in evolution, either through Darwinian
+natural selection (Laland et al., 2000) or some neutral processes
+(e.g., Lansing and Cox, 2011).
+The ‘co-evolvants’ experience directional selection not simply
+because they are locked in an intense relationship but also because
+their interactions alter the conditions of life for their descendants.
+While the term ‘environment’ often implies physical surroundings,
+social and inter-specific interaction can also be important parts of
+the selective environment. Importantly, repeated feedback will
+provoke a host of new challenges that must also be solved in some
+way (Tainter, 1988). The spiraling nature of feedback relations may
+eventually lock the species into new states of existence, making it
+very difficult to retreat to earlier states (Andersson et al., 2014).
+The big picture emerges from small dynamics. Herein lies the
+key to integrating the different levels of theory, such as between
+OFT and NCT. There is the matter of short-term intentional or
+goal-directed decisions, and there is the matter of the structures
+that emerge and ultimately envelop the selection process. The
+short-term goals and constraints that motivate people are of fundamental importance to archaeology. These models play upon
+basic resource needs and costs that humans cannot ignore while
+balancing the checkbook of life. Because archaeologists cannot
+observe prehistoric behaviors directly, assumptions about basic
+
+M.C. Stiner, S.L. Kuhn / Journal of Anthropological Archaeology 44 (2016) 177–184
+
+energy and time budgets supply a much-needed foundation for
+predicting common agent decisions and learning when and where
+they do not apply. Constraining factors are often the main topic of
+investigation when using optimality models.
+Optimality models are not enough, of course, to account for the
+larger processes by which repeated interactions change the conditions of selection across generations. Thus we must recognize at
+least two levels of mechanics and their respective time-space
+domains in co-evolutionary (including NCT) studies. There is the
+question of what happens day to day on the ground (primary
+mechanics) and there is the question of larger-scale emergent phenomena that affect the populations across generations (compounding mechanics). Local rules generally govern individual decisions;
+the agents are goal-driven in fulfilling and balancing competing
+needs. A very different set of rules govern emergent phenomena
+which unfold as they will over larger scales and create conditions
+that may be inescapable for generations to come.
+
+3. Swinging and missing
+Niche construction theory, the brainchild of John Odling-Smee
+(1988; Odling-Smee et al., 2003), has attracted the attention of
+many anthropologists recently. The behavioral flexibility afforded
+by culture enables humans to engage in niche construction to an
+unprecedented degree. Indeed, classic forms of human-animal
+and human-plant co-evolution are accompanied by niche construction (e.g. Smith, 2011; O’Brien and Laland, 2012). Yet some
+recent statements about the supremacy of NCT over behavioral
+ecology seem misdirected (see Smith, 2015; Zeder, 2012). Granted,
+there are isolated statements in the primary NCT literature—that
+non-NCT models view adaptation as a one-way process (e.g.,
+Laland et al., 2000). Though hardly the central thesis of the biological papers on NCT, the claim has generated unnecessary confusion
+about the relations between co-evolution models and basic economic ones. We can probably chalk this up to competitive branding, since all co-evolutionary processes invoke feedback
+mechanisms. The espoused contest between human behavioral
+ecology (HBE) and NCT raised by Zeder (2012) is nothing more
+than a red herring (Broughton et al., 2010). Such misapprehensions
+on the part of archaeologists can do us a service, however, in
+exposing a functional hierarchy between co-evolutionary theories
+and theories that deal with the primary goal-driven actions of
+agents. The fact that many of the empirical patterns that attract
+NCT thinkers come from research based on simpler models, such
+as those from behavioral ecology, testifies to the potentially complementary relations between these distinct levels of theory. HBE
+and NCT simply aren’t functional replacements of one another.
+A related and equally dubious claim about the power of NCT
+concerns the role of human intentionality in guiding long-term
+change (Zeder, 2012). Generative change occurs on too large a time
+scale to be anticipated by the agency of individuals (Stiner and
+Feeley-Harnik, 2011). Meeting short-term goals in human-animal
+and human-plant interactions would have been partly or wholly
+deliberate, both for culture-bearing humans and the partner species. But the unintended consequences that are niche construction
+and co-evolution unfold from these interactions over long periods
+and at multiple spatial and demographic scales. These larger outcomes are in fact unpredictable.
+What can we say about the long term value of behavioral ecology approaches, such as those championed over several decades by
+Jim O’Connell and many others? The key point is that NCT must be
+integrated hierarchically with simple decision models, such as
+from OFT, if archaeological applications are ever to get off the
+ground. OFT considers the proximate, conscious decisions of individuals based on the needs of survival and reproduction. NCT
+
+179
+
+addresses the emergent dynamics generated by interactions
+between individuals following economic agendas, the species
+interacted with, and the abiotic and biotic environments that supported all the players. The challenge for archaeologists is to document the causative spiral of interactions that generate complexity,
+including novel solutions to emerging problems, which in turn
+generate new problems that also must be solved.
+
+4. The rise of the hearth-centered residential camp in the
+Paleolithic
+Simple innovations in food processing have had transformative
+effects on the architecture of the human face, digestive system, and
+systems of cooperative labor. Arguably these conditions, aided by
+the existence of fire places in particular, also created new selective
+environments for hominin social interaction. The habit of processing certain foods at central or safe places emerged very early in
+human evolution, well before we have robust evidence for the regular use fireplaces. Transport of food and artifacts for the purposes
+of processing was a footing upon which other, more derived behaviors could evolve. This historical precedent therefore is central to
+modeling and investigating some fundamental ideas about niche
+constructing processes in the Pleistocene. It is integral, for example, to the development of the hearth-centered base camp, which
+had fully emerged by the Middle Paleolithic period (Kuhn, 2012;
+Kuhn and Hovers, 2013; Rolland, 2004).
+Pleistocene hominins’ decisions about food transport and processing were no doubt guided first by objectives centering on the
+ability to raise the value of collected or hunted foods. This is where
+optimality models have been especially valuable in archaeological
+research—modeling and testing the motivations for moving food in
+terms of balancing the costs of food transport and the gains from
+additional, intensive processing. We can show that marrow extraction and near-bone tissue removal were practiced based on information about the body parts of prey most often carried to safe
+places, after primary butchery in the field. Later in prehistory bone
+and meat processing took place at camps and was enhanced with
+the aid of fire (see below).
+These actions were spurred by the physical and social motivations of individuals. Regular transport of food to processing hubs
+nonetheless came to affect nearly every corner of human existence,
+by creating a unique interaction bubble where a variety of social
+and economic feedback processes could operate over hundreds of
+thousands of years. Regardless of hominins’ intentions when carrying food to a reliable heat source, for example, it would have been
+very difficult to avoid sharing meat with whomever was present at
+the destination. This is where the theoretical domain of niche construction has great analytical value for archaeologists. The emergence of hearths as reliable and nearly universal facilities in
+camps set distinct premiums on the ability to defer foraging benefits, cooperate in foraging and other labor (Stiner et al., 2011), and
+pool the energetic gains from cooking food (Carmody and
+Wrangham, 2009).
+The ramifications of fire technology and central place foraging
+developed over millennia. Hominins began using fire long before
+it became widespread. The earliest well accepted case for use of
+fire dates to nearly 800,000 years ago at Gesher Benot Ya’akov on
+the upper Jordan river (Goren-Inbar et al., 2004). However, evidence of fire use is quite sporadic until around 400,000 years ago
+(e.g., Karkanas et al., 2007; Shimelmitz et al., 2014), and evidence
+for fire does not become ubiquitous until about 250,000 years
+ago (Roebroeks and Villa, 2011; Rolland, 2004). Early rare cases
+of fire in archaeological sites therefore seem to represent instances
+of invention, whereas the increasing incidence across sites and
+regions clearly represents the main period of innovation
+
+180
+
+M.C. Stiner, S.L. Kuhn / Journal of Anthropological Archaeology 44 (2016) 177–184
+
+(Maclaurin, 1953; Marchetti, 1980), that is the widespread development and adoption of a reliable and well controlled technology.
+The interval between 500,000 and 250,000 years ago roughly
+coincides with the final, rapid phase of hominin brain expansion.
+The neocortex or forebrain--the area of the human brain that plays
+a large part in planning, logic, emotional control, among other
+advanced cognitive functions--enlarged the most (Rightmire,
+2003). Robin Dunbar’s (2003) social brain hypothesis poses an
+explicit model of the mechanics of cognitive selection in a constrained social space that a reliable heat source may create. Building upon the Theory of Mind, Dunbar considers how ecological and
+physical problems could often be solved through new modes of
+cooperation. Social solutions require more elaborate networks
+built on empathy and an ability to model the intentions of other
+individuals. The mental processes he proposes would put heavy
+demands on the neocortex area, or executive functions, of the
+human brain. For Richard Wrangham and others (e.g., Wrangham
+and Carmody, 2010), fire technology is also key. Fire was simultaneously a means for extracting energy from food and the environment more efficiently and an artificial forum that pulled the
+possibilities for social evolution onto a new path. As such, fire
+became both an aid and an anchor in social networking and cooperation (Gamble, 1999; Gowlett, 2006).
+To return to the main theme of this paper, fire-centered camps
+resulted in an intense selective environment that was bound foremost by its energetic efficiency, in spite of what initially would
+have been rising social costs (having to share more than expected,
+for example). The basic processing benefits and other physical
+advantages of hearths outweighed the new social constraints
+imposed within this unprecedented interaction space. One can
+expect social roles and contracts to restructure rapidly under these
+conditions. Thus, in considering the theoretical and analytical relations between optimality in foraging and niche construction, we
+must not lose sight of what pulled individuals to these places again
+and again. Specific and acute considerations of cost and benefit set
+by the nutritional properties of animal tissues, food-getting technology, and the need for shelter motivated individuals to start
+gathering around fires. There is no need to imagine that they anticipated the long-term effects of this practice, revolutionary as they
+were.
+To demonstrate niche constructing effects one needs evidence
+of cyclical feedback pathways between hominin behavior and the
+emergent social spaces on an evolutionary time scale. This cannot
+be achieved without some appeal to basic economic behaviors. In
+the absence of direct behavioral observations, modeling and testing expectations seems the best way to proceed. One line of evidence for niche construction effects can be found in contrasting
+modes of hearth-centered meat eating between the late Lower
+Paleolithic and the early Middle Paleolithic periods in the Levant.
+All cases involved transport of selected ungulate body parts to cave
+sites for further processing, and all sites present evidence of fireplaces (e.g., Meignen et al., 1989, 2006, 2010; Karkanas et al.,
+2007; Stiner, 2005; Stiner et al., 2011). We may therefore assume
+that the basal motivation of food processing was common to all
+cases. At the late Lower Paleolithic site of Qesem Cave (Gopher
+et al., 2005), butchering activities involved a limited range of tasks,
+mainly simple de-fleshing and marrow extraction. These activities
+were very clearly oriented to hearths and many of the processing
+tasks were assisted by fire (Stiner et al., 2009, 2011). The tool
+marks and their anatomical placements on meat-bearing ungulate
+bones are redundant, quite heavy-handed and focused almost
+exclusively on cutting actions. When cut marks occur in patches
+on limb shafts, the orientations are more chaotic than is typical
+in Middle Paleolithic cave sites studied by the same methods. In
+fact the cut mark patterns of both the Middle and early Upper Paleolithic comparators exhibit significantly greater regularity (statis-
+
+tically) in the orientations of cut marks over small areas of bone.
+The more diverse orientations of cut marks on prey bones from
+Qesem Cave suggest that hominin butchering postures, or the ways
+of holding a body part while cutting away the meat, varied a great
+deal. Comparable data from Middle Paleolithic and early Upper
+Paleolithic sites from the Levant and elsewhere instead generally
+exhibit a more ‘‘surgical” quality, with careful use of tools and
+much consistency in postures (Stiner et al., 2009, 2011).
+Among recent humans, butchering of large animals tends to
+involve a chain of focused tasks performed by one or a few persons,
+and it tends to result in well aligned marks on bone surfaces. These
+observations have social significance in that butchering procedures
+guide many of the formalities of food distribution and sharing that
+follow. We therefore may be seeing evidence of a simpler or less
+evolutionarily derived pattern of meat consumption around
+hearths during the late Lower Paleolithic that was social, but less
+socially canalized than those typical of Middle Paleolithic and later
+humans. Lesser motor coordination seems not to be the explanation for the contrast, given the skillful tool manufacturing abilities
+of late Lower Paleolithic hominins (Barkai et al., 2005). The evidence for procedural interruptions or diverse positions while cutting flesh at Qesem Cave might instead reflect more hands
+(including less experienced hands) removing meat from any given
+limb bone, rather than receiving shares through the butchering
+work of one skilled person. The feeding pattern from shared
+resources at Qesem Cave thus appears to have been more individualized than in the Middle and later Paleolithic, with limited or no
+formal ‘‘apportioning” of meat. If the tendencies noted at Qesem
+Cave for tool mark patterns prove to be widespread, the data
+may expose subtle but potentially important differences in the
+practical and social mechanics of meat sharing in a constrained
+social space between the late Lower Paleolithic and the Middle
+Paleolithic.
+
+5. The birth of village life at the end of the Pleistocene
+Early villages sprang from a newly sedentary lifestyle and
+strong commitment to plant cultivation in the Middle East. As critical as these initial conditions were for setting new constraints on
+human social and economic activities, they did not determine the
+specific paths that village evolution followed. Developmental histories vary considerably across the Middle East.
+Villages were the product of many complex interactions
+between social constraints, incipient animal and crop management, structural adjustments, waste accumulation, and other factors. The benefits and problems that arose in one corner of
+human existence frequently nudged other domains, forcing or
+favoring reorganization of social space and technology, and the
+reverse. It is normal for humans to solve new problems by resorting to a domain of culture where the cost of switching or innovation is lower, to preserve an important advantage in another
+domain. This situation results in offset feedback loops that inadvertently lever humans into altered states of existence.
+Asßıklı Höyük (AH) in Central Anatolia, Turkey, is well suited for
+studying interactive processes of village development at a fine scale
+because of its precocious history of animal management and agriculture, deep stratigraphy, and extraordinary preservation. AH is
+the earliest known early Pre-Pottery Neolithic (PPN) settlement in
+Central Anatolia (Duru, 2002, 2013; Esin and Harmankaya, 1999;
+Özbasßaran, 1998; Özbasßaran and Duru, in press). Its mounded
+anthropogenic deposits span more than 1500 years of continuous
+occupation that began around 10,500 cal BP (Quade et al.,
+submitted for publication; Stiner et al., 2014).
+The relations between individual human decisions and niche
+construction can be explored from diverse viewpoints at AH, but
+
+M.C. Stiner, S.L. Kuhn / Journal of Anthropological Archaeology 44 (2016) 177–184
+
+here we will focus on human-animal interactions to trace probable
+feed-back effects between humans and the built environment in
+the contexts of (a) meat storage practices, (b) caprine management,
+and (c) animal commensalism. The plant record of AH is also very
+rich, but fewer data are available for discussion as yet.
+Architectural designs at AH underwent a remarkable evolution
+in less than 1000 years (Duru, 2002, 2013; Özbasßaran, 1998;
+Özbasßaran and Duru, in press). The dominant structures of the earliest occupations were circular or oval and made of wattle-anddaub over a reed and wood skeleton. Architectural designs soon
+shifted to rounded semi-subterranean mud-brick structures,
+accompanied by informal wooden surface structures. The earliest
+structures were relatively porous to traffic. They were separated
+from one another by substantial outdoor spaces where many different activities were carried out daily. The walls rose less than a
+meter above the ground surface, with most of the interior insulated
+by the sediment. Later circular buildings had moderately taller
+walls of mud-brick. Residential structures culminated in densely
+packed rectangular mud-brick buildings constructed at ground
+level, with mud-brick walls up to 2 m high and entrances through
+the roof rather than through the sides of each building (Duru, 2002,
+2013; Özbasßaran, 1998). The majority of daily activities within the
+village likewise moved from the ground surface alongside the
+buildings to the tops of elevated buildings. What remained of
+ground-level open spaces by the later period were a small number
+of formal passages the weaved among rectangular buildings and
+which led out to shared middens.
+Three of the most obvious changes in village architecture therefore are increasing above-ground wall height, building shape from
+rounded to rectangular, and open to densely packed layouts. Building height increased rapidly over just a few centuries, well before
+densely packed rectangular designs came into use. The fact that
+building walls quickly rose out of the ground, without any substantial change in the internal ceiling height of buildings, suggests new
+problems of keeping certain things out of the interiors and off the
+roofs.
+5.1. Meat storage
+Food storage is widely evidenced in Epi-Paleolithic and Mesolithic hunter-gatherer sites (Testart, 1982). The emphasis was on
+plant mast in some instances and more on animal parts in others.
+Yet many late Pleistocene and early Holocene people laid some
+food away for future use. Food storage practices underwent further
+changes and intensified with neolithization (Kuijt, 2009). At the
+level of individual decision making, early food storage efforts must
+initially have been motivated by a desire to increase food security
+though lean times of year. Food storage behavior nonetheless has
+larger social ramifications in that it can alter control or rights of
+access to an out-of-season resource. Sharing rules and sharing
+pools may also be affected, particularly if individual economic
+decisions become less constrained or ‘‘entangled” by the decisions
+of others in the community (Stephens and Krebs, 1986: 7). Scholars
+have proposed a variety of motivations for food storage, ranging
+from attempts to control food risk to individual quests for social
+power (Hayden, 2009; Kuijt, 2009; Testart, 1982). What matters
+most for this discussion is the fact that food hoarding restructures
+the food supply, pitching more of peoples’ effort to the social and
+physical demands of protecting and preserving the concentrated
+resource. Parts of deceased organisms or those in a dormant state
+are the common foci of food storage world-wide, but live animals
+can also be stored.
+The AH community was dedicated to plant cultivation (including
+early domesticated einkorn wheat [Van Zeist and Jan De Roller,
+2003]) on the Melendiz floodplain from the start. Because gardens
+require vigilant protection from plant predators, living amongst
+
+181
+
+the gardens on the upper floodplain would have been necessary.
+Hunting in areas around the permanent settlement under these circumstances would depress local wild ungulate populations. Depletion of game could occur regardless of whether climate was
+benevolent or harsh, simply because the consumer population was
+concentrated at one location and tethered to productive gardens.
+Snow cover and harsh winds would have been major impediments
+to long-distance hunting in winter (January-April, based on recent
+conditions), particularly in the surrounding uplands. This situation
+would place new premiums on meat and fat storage of any sort.
+The rise in caprine exploitation almost certainly was about
+maintaining reliable access to meat throughout the year; secondary products (milk, wool) become important somewhat later
+in the Neolithic (Buitenhuis, 1997; Greenfield, 1989; Helmer
+et al., 2007; Halstead and Isaakidou, 2013; Stiner et al., 2014). Several kinds of storage are possible in the case of caprines, including
+drying or smoking cuts of meat, rendering fat, and live-storage of
+animals. Storage of rendered animal fat at AH is very likely, given
+the abundance of stone-boiling facilities there. However the bulk
+of stored meat would have been in the form of live captive animals.
+Early management, in other words, was a highly flexible if smallscale method for growing and live-storing meat and fat. The food
+transport costs and related risks were reduced by growing some
+animals on site, redirecting some of humans’ energy to feeding
+(storing fodder for) and protecting the captive animals. Live storage bridged the meat supply through winter (Stiner et al.,
+submitted for publication). Such storage also introduced new complexities to the design and ‘‘life cycles” of structures, labor and
+social entitlements for human generations to come.
+5.2. Caprine management
+The early PPN residents of AH practiced a simple variant of
+caprine management (Stiner et al., 2014). Sheep were the main target of management but some goats were also kept during all periods. The human-caprine relationship was an evolving mutualism, a
+classic form of co-evolution. Humans gained access to a more
+secure meat source, and the caprines obtained food and possibly
+a higher reproductive output under the umbrella of human protection. It is significant that sheep were the main subject of early
+management at AH. Located within the natural range of wild
+sheep, the species was a staple prey item since the time the village
+was founded. This fact provides one line of evidence for an in-situ
+evolution rather than importation of management strategies from
+another region. The emphasis on caprines increased rapidly over
+the following centuries (ca. from 50% to 90% caprines, based on
+skeletal specimen counts, Stiner et al., 2014), with corresponding
+declines in the use of small game and other wild ungulate species.
+Sheep body size declined gradually and continuously, and this
+trend is accompanied by refinements and possibly standardization
+in management strategies (Buitenhuis et al., submitted for
+publication). Management ultimately resulted in domesticated
+caprines by the late the PPN, but the AH story unfolds well before
+true domestication of sheep or goats. Earliest co-dependency
+between caprines and humans is evidenced at AH by in-situ dung
+accumulations between the buildings, indicating that animals were
+stabled (Mentzer, submitted for publication), and zooarchaeological data on caprine age and sex structure indicate some degree of
+human-imposed selection (Stiner et al., 2014). There are also spatial indications of the distinct economic status of caprines in relation to other prey animals. Caprine bones are more equably
+distributed both inside and outside of buildings, and across the site
+as a whole, than are the bones of other ungulate species. Caprines
+supplied the meat that everyone ate most of the time, whereas the
+distributions of other animal remains are much more idiosyncratic
+(Stiner et al., submitted for publication).
+
+182
+
+M.C. Stiner, S.L. Kuhn / Journal of Anthropological Archaeology 44 (2016) 177–184
+
+Early architectural changes suggest that incipient caprine management forced the re-design of wall heights and social and workrelated spaces within the community. Initially caprines were stationed in very small numbers and scattered across the settlement.
+Later, they were kept in greater numbers in one or a few larger
+enclosures at the edge of the village. The early, rapid increase in
+above-ground wall heights was likely a response to the destructive
+trampling and climbing habits of goats and early varieties of sheep,
+which can destroy mud-plastered surfaces in a matter of minutes
+or hours. It is more difficult to claim feedback effects between
+the increasing density of structures on the mound and caprines
+management. There is a clear connection, however, between refuse
+build-up, which accelerated with time, and recycling of animal
+waste. Captive ungulates can fill an area with dung in a remarkably
+short time. At AH, dung was transformed from the status of raw
+waste to a binder for construction. It also became an important
+alternative to increasingly scarce wood fuel (Mentzer, 2013; Mentzer, n.d.). While dung was employed in these ways from the earliest period of occupation, its many uses grew disproportionately in
+scope and importance.
+The early village environment was a mixture of natural and
+human-made structural elements—natural floodplain sediments,
+gathered clay, reeds and wood. One thousand years later, the village was an entirely human-made construction composed of
+imported and recycled mud, reeds and wood, and large amounts
+of dung. The later constructions simply could not exist in the
+absence of the animal waste of which they were made. The village
+went from having a open breezy layout and limited privacy to a
+highly insulated, dense arrangement with very private interiors.
+This increasingly artificial physical environment exerted its own
+selective influences on residents, shielding from them from natural
+elements while concentrating other irritants around them (smoke,
+dust, pests, pathogens). One can be sure that many of the observed
+structural modifications also hold information about shifting social
+relations and boundaries within the community, even if our views
+on the subject are more speculative.
+5.3. Commensals
+Many of the behavioral and structural adjustments that humans
+made in the service of their own needs at AH created microenvironments and resource concentrations for small vertebrates
+and invertebrates. The maze of structures within the settlement
+and alterations of the land at its margins were particularly attractive to mice (Apodemus spp.), dwarf hamsters (Cricetulus, especially
+C. migratorius), green toads (Bufo viridis), and hedgehogs (Erinaceaus concolor).
+Toads and hedgehogs may have gained food, shelter, and possibly a reproductive advantage, without harming the human residents. These relations could have verged toward mutualism in
+that toads and hedgehogs feed on insects and other invertebrates
+in refuse piles. Near exclusion of these animals in the later phases
+of occupation (Bailey, 2016) was more likely have been caused
+incidentally by habitat loss within the settlement as waste management intensified and architectural in-filling proceeded.
+Most of the rodent bones at AH are found inside structures,
+indicating that they were attracted specifically to sheltered conditions (Bailey, 2016; Stiner et al., submitted for publication). Mice
+(Apodemus spp.) and dwarf hamsters (Cricetulus, especially C.
+migratorius) dominate the rodent fauna, and both genera tend to
+invade human-built structures. These rodents bring no benefits
+to humans, and a small number of mice can easily spoil large
+amounts of stored seeds and other plant foods. The residents of
+AH may not have been affected much by rodent-borne diseases,
+given the early dates of the settlement, but burgeoning synan-
+
+thropic relations may have set the stage for new trajectories of disease evolution (McFarlane et al., 2012).
+The relative frequency of mouse and hamster bones (and preserved coprolites) is highest in the earliest occupations, when
+structures were made of more porous materials and separated by
+substantial outdoor spaces. The later structures were composed
+mainly of thick mudbrick walls and plasters, and each residential
+structure had one small sealable room. Some of these architectural
+changes seem to have been better for keeping rodents away from
+dry-stored foods.
+In summary, people erected buildings and other facilities at AH
+in a very deliberate manner. The village domestic environment was
+built cumulatively through a multitude of individual decisions
+spanning hours, days or years. However, the village entity was
+arguably an emergent property of the cultural system and one that
+reciprocally influenced the evolution of the community. The
+increasingly artificial physical environment of the village grew
+unpredictably and brought on novel selective conditions for its
+inhabitants. Problem-solution feedbacks related to keeping livestock, waste accumulation, and plant storage, for example, mutually levered changes in living space design.
+6. Conclusions
+The dawn of hearth-centered residential camps in the Middle
+Pleistocene and early sedentary villages at the beginning of the
+Holocene exemplify the emergent nature of complex human selection environments. These are examples of how small-scale behaviors may lead to unanticipated selective effects across generations.
+Anthropologists may need to re-consider the working relations
+between the theories of niche construction (and other coevolutionary dynamics) and behavioral ecology in order to understand how these phenomena have come about. Most recent claims
+that niche construction is fundamental to changes in human
+behavior are both too general and too post hoc to provide genuinely new insights. And the claim that foraging theory and niche
+construction are antithetical is just wrong, and counter-productive
+to boot. Integrating research on niche construction in humans with
+testable individual (agent) decision models really can provide us
+with some of the tools we desperately need for understanding
+complex co-evolutionary processes.
+Anthropologists frequently get caught up in debates about the
+inherent ‘‘rightness” of certain theories. Yet the only thing that is
+right about any theoretical viewpoint is its utility for answering
+(rather than accommodating) important questions. It seems clear
+that all theoretical tools have limitations for testing ideas and
+building knowledge. It is worthwhile, therefore, to consider how
+distinct scalar and mechanical properties of seemingly different
+kinds of theory can lead to a much more powerful toolkit for studying the past. The logical and analytical relations between OFT and
+NCT represent one important example.
+The practical challenge of the niche-construction agenda is documenting and testing clear propositions about the cyclical spiral of
+stimulus and response in cultural sequences. Research must begin
+from a careful consideration of the dominant currencies and choice
+principles in play. Currencies can vary tremendously and not all are
+archaeologically accessible, but fortunately the choice principles
+tend to fall into just a few major domains: maximization, risk minimization and variance minimization (Stephens and Krebs, 1986).
+Balancing cost and gain has occupied much of HBE modeling
+efforts, whereas the choice principle of stability probably needs
+more attention, particularly with regard to human strategies for
+controlling environmental variation (e.g., storage, insulation
+technologies). A related element of stability in a choice principle
+concerns the potential scope of cooperation within groups. Accord-
+
+M.C. Stiner, S.L. Kuhn / Journal of Anthropological Archaeology 44 (2016) 177–184
+
+ing to J. Maynard Smith (1982, cited in Stephens and Krebs, 1986:
+7), situations in which payoffs of a decision co-depend on the decisions made by other individuals make stability the best choice
+principle to follow.
+Many of the agent decisions upon which complex cultural systems develop and change are about balancing the inputs and outputs of life under a given set of circumstances. We can continue to
+benefit from a rich and growing legacy of behavioral ecology
+research on food transport, processing and storage, central place
+foraging, technology and raw material trade-offs, and prey choice.
+These kinds of studies help us tease out some of the microdynamics that underpin the grand niche constructing processes
+in human evolution. Life certainly is more complex than any optimizing model assumes, but these simple models will continue to
+provide us with some important building blocks for unpacking
+the complexities of dynamic human systems.
+Acknowledgments
+We take this opportunity thank Karen Lupo and Brian Codding
+for organizing a very stimulating SAA session of which this paper
+was one contribution. We are deeply grateful to them and to Jim
+O’Connell, John Odling-Smee, Kevin Laland, and Claes Andersson
+for many stimulating conversations that have led up to this essay.
+Thanks also to two anonymous JAA reviewers for their helpful
+comments and criticisms.
+References
+Andersson, C., Törnberg, A., Törnberg, P., 2014. An evolutionary developmental
+approach to cultural evolution. Curr. Anthropol. 55 (2), 154–174.
+Bailey, K.S., 2016. The Microfauna Assemblages of Asßikli Höyük; Invasive Taxa in an
+Early Village Sequence in Central Anatolia Unpublished MA Thesis. School of
+Anthropology, University of Arizona, Tucson, AZ.
+Barkai, R., Gopher, A., Shimelmitz, R., 2005. Middle Pleistocene blade production in
+the Levant: an Amudian assemblage from Qesem cave, Israel. Eur. Prehist. 3,
+39–74.
+Barlow, R.K., Metcalfe, D., 1996. Plant utility indices: two Great Basin examples. J.
+Archaeol. Sci. 23 (3), 351–371.
+Barton, C.M., Ullah, I.I.T., Bergin, S.M., Sarjoughian, H.S., Mayer, G.R., BernabeuAuban, J.E., Heimsath, A.M., Acevedo, M.F., Riel-Salvatore, J.G., Arrowsmith, J.R.,
+2016. Experimental socioecology: integrative science for anthropocene
+landscape dynamics. Anthropocene (in press).
+Bliege Bird, R.L., 2015. Disturbance, complexity, scale: new approaches to the study
+of human-environment interactions. Annu. Rev. Anthropol. 44, 241–257.
+Bright, J., Ugan, A., Hunsaker, L., 2002. The effect of handling time on subsistence
+technology. World Archaeol. 34 (1), 164–181.
+Broughton, J.M., 1994. Declines in mammalian foraging efficiency during the Late
+Holocene, San Francisco Bay, California. J. Anthropol. Archaeol. 13, 371–401.
+Broughton, J.M., Cannon, M.D., Bartelink, E.J., 2010. Evolutionary ecology, resource
+depression, and niche construction theory: applications to central California
+hunter-gatherers and Mimbres-Mogollon agriculturalists. J. Archaeol. Method
+Theory 17 (4), 371–421.
+Brown, J.H., Heske, E.J., 1990. Control of a desert-grassland transition by a keystone
+rodent guild. Science 250 (4988), 1705–1707.
+Buitenhuis, H., 1997. Asßıklı Höyük: a protodomestication site. Anthropozoologica
+25–26, 655–662.
+Buitenhuis, H., Peters, J., Pöllath, N., Stiner, M.C., Munro, N.D., Saritasß, Ö., 2016. Asßikli
+Höyük: the faunal remains from levels 2 and 3: changes towards full
+domestication. In: Ozbasaranm, M., Duru, G. (Eds.), The Early PPN
+Occupations of Asıklı Höyük in Central Anatolia, Essays in Honor of Ufuk Esin,
+Ege Press, Istanbul (submitted for publication).
+Buonasera, T.Y., 2015. Modeling the costs and benefits of manufacturing expedient
+milling tools. J. Archaeol. Sci. 57, 335–344.
+Carmody, R.N., Wrangham, R.W., 2009. The energetic significance of cooking. J.
+Hum. Evol. 57, 379–391.
+Dunbar, R.I.M., 2003. The social brain: mind, language, and society in evolutionary
+perspective. Annu. Rev. Anthropol. 32, 163–181.
+Duru, G., 2002. Architectural indications for the origins of Neolithic Central
+Anatolia. In: Gerard, F., Thissen, L. (Eds.), The Neolithic of Central Anatolia,
+CANeW International Table Ronde. Ege Yayınları, Istanbul, pp. 171–180.
+Duru, G., 2013. Tarihöncesinde insan-mekan, topluluk-yerlesßme ilisßkisi: Mö 9. bin
+solu -7. bin basßı, Asßıklı and Akarçay Tepe [Human-space, CommunitySettlement: 9–7th mil BC Asßıklı and Akarçaytepe] Unpublished PhD
+Dissertation. Department of Prehistory, Istanbul University, Istanbul.
+
+183
+
+Esin, U., Harmankaya, S., 1999. Asßıklı, neolithic in Turkey, the cradle of civilisation.
+In: Özdoğan, M., Basßgelen, N. (Eds.), Neolithic in Turkey. Arkeoloji ve Sanat,
+Istanbul, pp. 115–132.
+Gamble, C.S., 1999. The Palaeolithic Societies of Europe. Cambridge University Press,
+Cambridge.
+Gopher, A., Barkai, R., Shimelmitz, R., Khalaily, M., Lemorini, C., Heshkovitz, I., Stiner,
+M.C., 2005. Qesem Cave: an Amudian site in central Israel. J. Israel Prehistory
+Soc. 35, 69–92.
+Goren-Inbar, N., Alperson, N., Kislev, M.E., Simchoni, O., Melamed, Y., Ben-Nun, A.,
+Werker, E., 2004. Evidence of Hominid control of fire at Gesher Benot Ya‘aqov,
+Israel. Science 304, L725–L727.
+Gowlett, J.A.J., 2006. The early settlement of northern Europe: fire history in the
+context of climate change and the social brain. C.R. Palevol 5, 299–310.
+Greenfield, H.J., 1989. Zooarchaeology and aspects of the secondary products
+revolution: a Central Balkan perspective. Zooarchaeologia 3 (1–2), 191–200.
+Gremillion, K.J., Barton, L., Piperno, D.R., 2014. Particularism and the retreat from
+theory in the archaeology of agricultural origins. Proc. Natl. Acad. Sci. 111 (17),
+6171–6177.
+Halstead, P., Isaakidou, V., 2013. Early stock-keeping in Greece. In: Colledge, S.,
+Conolly, J., Dobney, K., Manning, K., Shennan, S. (Eds.), The Origins and Spread of
+Domestic Animals in Southwest Asia and Europe. Left Coast Press, Walnut
+Creek, CA, pp. 129–144.
+Hawkes, K., Hill, K., O’Connell, J.F., 1982. Why hunters gather: optimal foraging and
+the Ache of eastern Paraguay. Am. Ethnol. 9 (2), 379–398.
+Hayden, B., 2009. The proof is in the pudding: feasting and the origins of
+domestication. Curr. Anthropol. 50 (5), 597–601.
+Helmer, D., Gourichon, L., Vila, E., 2007. The development of the exploitation of
+products from Capra and Ovis (meat, milk, and fleece) from the PPNB to the
+Early Bronze Age in the northern Near East (8700–9200 cal BP).
+Anthropozoologica 42 (2), 41–69.
+Jones, C.G., Lawton, J.H., Shachak, M., 1997. Positive and negative effects of
+organisms as physical ecosystem engineers. Ecology 78, 1946–1957.
+Karkanas, P., Shahack-Gross, R., Ayalon, A., Bar-Matthews, M., Barkai, R., Frumkin, A.,
+Gopher, A., Stiner, M.C., 2007. Evidence for habitual use of fire at the end of the
+Lower Paleolithic: site formation processes at Qesem Cave, Israel. J. Hum. Evol.
+53 (2), 197–212.
+Kuhn, S.L., 1994. A formal approach to the design and assembly of mobile toolkits.
+Am. Antiq. 59 (2), 426–442.
+Kuhn, S.L., 2012. Emergent patterns of creativity and innovation in early
+technologies. In: Elias (Ed.), Origins of Human Innovation and Creativity.
+Elsevier, Amsterdam, pp. 69–88.
+Kuhn, S.L., Hovers, E., 2013. Alternative pathways to complexity: evolutionary
+trajectories in the Middle Paleolithic and Middle Stone Age. Curr. Anthropol. 54
+(S8), S176–S182.
+Kuijt, I., 2009. What do we really know about food storage, surplus, and feasting in
+preagricultural communities? Curr. Anthropol. 50 (5), 641–644.
+Laland, K.N., Odling-Smee, J., Feldman, M.W., 2000. Niche constructions, biological
+evolution, and cultural change. Behav. Brain Sci. 23, 131–175.
+Lansing, J.S., Cox, M., 2011. The domain of the replicators: selection, neutrality, and
+cultural evolution. Curr. Anthropol. 52 (1), 1–22.
+Laubichler, M.D., Maienschein, J., 2007. Embryos, cells, genes, and organisms:
+reflections on the history of evolutionary developmental biology. In: Sansom, R.,
+Brandon, R.N. (Eds.), Integrating Evolution and Development, From Theory to
+Practice. The MIT Press, Cambridge, MA, pp. 1–24.
+Lupo, K.D., 2007. Evolutionary foraging models in zooarchaeological analysis: recent
+applications and future challenges. J. Archaeol. Res. 15 (2), 143–189.
+MacArthur, R.H., Levins, R., 1967. The limiting similarity, convergence, and
+divergence of coexisting species. Am. Natural. 101, 377–385.
+Maclaurin, W.R., 1953. The sequence from invention to innovation and its relation
+to economic growth. Quart. J. Econ. 67 (1), 97–111.
+Marchetti, C., 1980. Society as a learning system: discovery, invention, and
+innovation cycles revisited. Technol. Forecast. Soc. Chang. 18 (4), 267–282.
+Matthews, B., De Meester, L., Jones, C.G., Ibelings, B.W., Bouma, T.J., Nuutinen, V.,
+van de Koppel, J., Odling-Smee, H., 2014. Under niche construction: an
+operational bridge between ecology, evolution, and ecosystem science. Ecol.
+Monogr. 84 (2), 245–263.
+McFarlane, R., Sleigh, A., McMichael, T., 2012. Synanthropy of wild mammals as a
+determinant of emerging infectious diseases in the Asian-Australasian region.
+EcoHealth 9 (1), 24–35.
+Meignen, L., Bar-Yosef, O., Goldberg, P., 1989. Les structures de combustion
+moustériennes de la grotte de Kébara (Mont Carmel, Israël). In: Olvie, M.,
+Taborin, Y. (Eds.), Nature et Fonctions des Foyers Prehistoriques. Memoires du
+Musée de Préhistoire d’Ile de France, vol. 2. APRAIF, Nemours, pp. 141–146.
+Meignen, L., Bar-Yosef, O., Stiner, M.C., Kuhn, S.L., Goldberg, P., Weiner, S., 2010.
+Apport des analyses minéralogiques (en spectrométrie infrarouge à transformée
+de fourier) à l’interprétation des structures anthropiques: Les concentrations
+osseuses dans les niveaux Moustériens des Grottes de Kébara et Hayonim
+(Israël) Dec. PALEO Dec. Suppl. 3, 93–107.
+Meignen, L., Bar-Yosef, O., Speth, J.D., Stiner, M.C., 2006. Middle Paleolithic
+settlement patterns in the Levant. In: Hovers, E., Kuhn, S.L. (Eds.), Transitions
+before the Transition: Evolution and Stability in the Middle Paleolithic and
+Middle Stone Age. Springer, New York, pp. 149–169.
+Mentzer, S.M., 2013. Microarchaeological approaches to the identification and
+interpretation of combustion features in prehistoric archaeological sites. J.
+Archaeol. Method Theory 21 (3), 616–668.
+
+184
+
+M.C. Stiner, S.L. Kuhn / Journal of Anthropological Archaeology 44 (2016) 177–184
+
+Mentzer, S.M., 2016. Micromorphology of level 4 structures, Trench 4GH, Asıklı
+Höyük, (2008–2012 field seasons). In: Ozbasaranm, M., Duru, G. (Eds.), The
+Early PPN Occupations of Asıklı Höyük in Central Anatolia, Essays in Honor of
+Ufuk Esin, Ege Press, Istanbul (submitted for publication).
+O’Brien, M.J., Laland, K.N., 2012. Genes, culture, and agriculture: an example of
+human niche construction. Curr. Anthropol. 53 (4), 434–470.
+O’Connell, J.F., Hawkes, K., Blurton Jones, N., 1988. Hadza hunting, butchering, and bone
+transport and their archaeological implications. J. Anthropol. Res. 44, 113–161.
+Odling-Smee, F.J., 1988. Niche constructing phenotypes. In: Plotkin, H.C. (Ed.), The
+Role of Behavior in Evolution. MIT Press, Cambridge, pp. 73–132.
+Odling-Smee, F.J., Erwin, D.H., Palkovacs, E.P., Feldman, M.W., Laland, K.N., 2013.
+Niche construction theory: a practical guide for ecologists. Q. Rev. Biol. 88 (1),
+3–28.
+Odling-Smee, F.J., Laland, K.N., Feldman, M.W., 2003. Niche Construction: The
+Neglected Process in Evolution. Monographs in Population Biology, vol. 37.
+Princeton University Press, Princeton, NJ.
+Özbasßaran, M., 1998. The heart of a house: the hearth, Asßıklı Höyük, a pre-pottery
+neolithic site in Central Anatolia. In: Arsebük, G., Mellink, M.J., Schirmer, W.
+(Eds.), Light on Top of the Black Hill: Studies Presented to Halet Çambel Ege
+Yayinlari, Istanbul, pp. 555–566.
+Özbasßaran, M., Duru, G., 2016. The Early Sedentary Community of Cappadocia:
+Asßıklı Höyük. Troisièmes Rencontres d’Archéologie de l’IFEA, CappadociaNovember 2013 (in press).
+Quade, J., Stiner, M.C., Copeland, A., Clark, A.E., Özbasßaran, M., 2016. Summary of
+carbon-14 dating at Asßıklı Höyük. In: Ozbasaranm, M., Duru, G. (Eds.), The Early
+PPN Occupations of Asıklı Höyük in Central Anatolia, Essays in Honor of Ufuk
+Esin, Ege Press, Istanbul (submitted for publication).
+Rightmire, G.P., 2003. Brain size and encephalization in early to Mid-Pleistocene
+Homo. Am. J. Phys. Anthropol. 124 (2), 109–123.
+Roebroeks, W., Villa, P., 2011. On the earliest evidence for habitual use of fire in
+Europe. Proc. Natl. Acad. Sci. 108, 5209–5214.
+Rolland, N., 2004. Was the emergence of home bases and domestic fire a punctuated
+event? A review of the Middle Pleistocene record in Eurasia. Asian Perspect. 43,
+248–280.
+Schoener, T.W., 1974. Resource partitioning in ecological communities. Science 185,
+27–39.
+Schoener, T.W., 1983. Field experiments on inter-specific competition. Am. Nat.
+122, 240–285.
+Shimelmitz, R., Kuhn, S.L., Jelinek, A.J., Ronen, A., Clark, A.E., Weinstein-Evron, M.,
+2014. ‘Fire at will’: the emergence of habitual fire use 350,000 years ago. J. Hum.
+Evol. 77 (2014), 196–203.
+Smith, B.D., 2011. General patterns of niche construction and the management of
+‘wild’ plant and animal resources by small-scale pre-industrial societies. Philos.
+Trans. R. Soc. B: Biol. Sci. 366 (1566), 836–848.
+Smith, B.D., 2015. A comparison of niche construction theory and diet breadth
+models as explanatory frameworks for the initial domestication of plants and
+animals. J. Archaeol. Res. (2015), 1–48
+
+Stephens, D.W., Krebs, J.R., 1986. Foraging Theory. Princeton University Press,
+Princeton, NJ.
+Stiner, M.C., 2001. Thirty years on the ‘‘broad spectrum revolution” and paleolithic
+demography. Proc. Natl. Acad. Sci. 98 (13), 6993–6996.
+Stiner, M.C., 2005. The Faunas of Hayonim Cave, Israel: A 200,000-Year Record of
+Paleolithic Diet, Demography, and Society. Peabody Museum of Archaeology
+and Ethnology, Harvard University, Cambridge.
+Stiner, M.C., Barkai, R., Gopher, A., 2009. Cooperative hunting and meat sharing
+400–200 kya at Qesem Cave, Israel. Proc. Natl. Acad. Sci. 106 (32), 13207–
+13212.
+Stiner, M.C., Barkai, R., Gopher, A., 2011. Hearth-side socioeconomics, hunting and
+paleoecology during the late Lower Paleolithic at Qesem Cave, Israel. J. Hum.
+Evol. 60 (2), 213–233.
+Stiner, M.C., Buitenhuis, H., Duru, G., Kuhn, S.L., Mentzer, S.M., Munro, N.D., Pöllath,
+N., Quade, J., Tsartsidou, G., Özbasßaran, M., 2014. A forager-herder trade off,
+from broad-spectrum hunting to sheep management at Asßıklı Höyük, Turkey.
+Proc. Natl. Acad. Sci. 111 (23), 8404–8409.
+Stiner, M.C., Feeley-Harnik, G., 2011. Energy and ecosystems. In: Shryock, A., Smail,
+D.L. (Eds.), Deep History: The Architecture of Past and Present. University of
+California Press, Berkeley, CA, pp. 78–102.
+Stiner, M.C., Munro, N.D., Cristidou, R., 2016. Zooarchaeological evidence on humananimal interactions within the early PPN (level 4) settlement at Asßıklı Höyük.
+In: Ozbasaran, M., Duru, G. (Eds.), The Early PPN Occupations of Asıklı Höyük in
+Central Anatolia, Essays in Honor of Ufuk Esin, Ege Press, Istanbul (submitted
+for publication).
+Tainter, J.A., 1988. The Collapse of Complex Societies. Cambridge University Press,
+Cambridge.
+Testart, A., 1982. The significance of food storage among hunter-gatherers:
+residence patterns, population densities, and social inequalities. Curr.
+Anthropol. 23 (5), 523–537.
+Ugan, A., Bright, J., Rogers, A., 2003. When is technology worth the trouble? J.
+Archaeol. Sci. 30 (10), 1315–1329.
+Ullah, I.I.T., Kuijt, I., Freeman, J., 2015. Toward a theory of punctuated subsistence
+change. Proc. Natl. Acad. Sci. 112, 9579–9584.
+Van Valen, L., 1973. A new evolutionary law. Evol. Theory 1, 1–30.
+Van Zeist, W., Jan De Roller, G., 2003. Some notes on the plant husbandary of Asßıklı
+Höyük. In: Van Zeist, W. (Ed.), Reports on Archaeobotanical Studies in the Old
+World, Groningen, pp. 115–142.
+Winterhalder, B., Smith, E.A., 2000. Analyzing adaptive strategies: human
+behavioral ecology at twenty-five. Evol. Anthropol. 9 (2), 51–72.
+Wrangham, R.W., Carmody, R.N., 2010. Human adaptation to the control of fire.
+Evol. Anthropol. 19, 187–199.
+Zeder, M., 2012. The broad spectrum revolution at 40: resource diversity,
+intensification, and an alternative to optimal foraging explanations. J.
+Anthropol. Archaeol. 31, 241–264.
+
+

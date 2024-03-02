@@ -1,0 +1,1697 @@
+Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science: Reports
+journal homepage: www.elsevier.com/locate/jasrep
+
+Funerary taphonomy: An overview of goals and methods
+Christopher J. Knüsel a,⁎, John Robb b
+a
+De la Préhistoire à l'Actuel: Culture, Environnement, et Anthropologie (PACEA), Université de Bordeaux, UMR 5199 PACEA, Bâtiment B8, Allée Geoffroy Saint Hilaire, CS 50023,
+Pessac Cedex 33615, France
+b
+Division of Archaeology, Department of Archaeology and Anthropology, University of Cambridge, Downing Street, Cambridge CB2 3DZ, United Kingdom
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 24 February 2016
+Received in revised form 12 May 2016
+Accepted 14 May 2016
+Available online 31 May 2016
+
+a b s t r a c t
+Funerary taphonomy has come of age as an important ﬁeld in osteoarchaeology. Its goal is to reconstruct funerary
+practices by using taphonomic evidence, including both evidence recorded during excavation (particularly the
+context and state of articulation of human remains) and evidence observable in subsequent laboratory analysis
+(such as element representation and traces of burning, animal modiﬁcation, cut-marks, and fragmentation).
+This article – intended as a systematic introduction to the ﬁeld – gives an overview of funerary taphonomy. It
+ﬁrst discusses the goals and theoretical questions, and then reviews the wide range of methods available to archaeologists using human remains to investigate funerary behaviour. It ﬁnishes with a review of how taphonomists have approached particular issues, such as single burials, commingled multiple depositions, cannibalism,
+and the cultural reuse of human skeletal parts.
+© 2016 Published by Elsevier Ltd.
+
+1. Introduction: funerary taphonomy - 40 years old and
+still emerging
+Funerary taphonomy – the study of how taphonomic changes aid
+the interpretation of funerary practices – is an emerging ﬁeld. Since
+the foundation of archaeology in the 19th century, archaeologists have
+tried to infer funerary practices from human bone depositions, but for
+many years the study was shackled by unhelpful concepts and missing
+methodologies. Conceptually, the biggest limitation was simply not
+realising the scope of the question. Humans throughout history have
+dealt with dying and the dead in an amazing variety of ways. But for
+many years, archaeologists have responded unimaginatively and
+ethnocentrically by forcing our interpretations into a few simple, familiar categories such as ‘burial’ and ‘cremation’. For example, when
+disarticulated bones were uncovered, archaeologists often assumed
+that they must have resulted from accidentally disturbed single primary
+burials and investigated no further. The result was to normalise the archaeological record, making a range of funerary practices invisible and
+cutting off an opportunity to investigate the rich variety of human
+deathways. In turn, this limited both what data were recorded – there
+was little impetus to examine bone depositions in any detail – and the
+development of new methods. Moreover, because of the disciplinary divide between biological anthropology and archaeology, many archaeologists excavating burials were ill-equipped to deal with anything but
+complete skeletons, while it is fair to say that the average practitioner
+⁎ Corresponding author.
+E-mail addresses: christopher.knusel@u-bordeaux.fr (C.J. Knüsel), jer39@cam.ac.uk
+(J. Robb).
+
+http://dx.doi.org/10.1016/j.jasrep.2016.05.031
+2352-409X/© 2016 Published by Elsevier Ltd.
+
+of biological anthropology tended to prioritise more complete specimens yielding metric, morphological or palaeopathological information
+and viewed post-mortem processes as interference rather than as
+information.
+Taphonomic methods in osteoarchaeology really began to emerge in
+the 1980s, and they arose from at least three distinct sources. Within archaeological science, the ﬁrst real ﬂourishing of taphonomic methods
+was in vertebrate palaeontology (and, latterly, archaeozoology, see
+Stodder (2008)). Scholars such as Behrensmeyer and Hill (1980);
+Brain (1981); Olsen and Shipman (1988); Shipman and Rose (1983);
+Behrensmeyer (1978, 1982); Lyman (1994); Lyman and Fox (1989)
+and Weigelt (1989) aimed to elucidate how Pleistocene faunal assemblages formed. In archaeology, following Binford's (1981) conceptual
+lead, scholars attempted to create middle-range theories of how processes such as waterborne sorting and deposition of bones occurred
+and what their archaeological signatures were. The second source
+came from forensic anthropology. Researchers such as Haglund and
+Sorg (1997, 2002) focused upon questions such as how an exposed
+body decomposes in different environmental circumstances, and how
+taphonomic agents such as carnivore scavenging and burning can be
+identiﬁed. This line of research established many important taphonomic
+vectors that have been further developed more recently (Pokines and
+Symes, 2014). However, focused as it was upon crime scene investigation, it rarely investigated the formation of large assemblages and their
+statistical patterning. It also reﬂected assumptions which ﬁt modern
+Western deathways but may misrepresent the situation in other cultures, for instance that exposure, cut-marks, and burning are deviations
+rather than potentially part of normative processes. While providing invaluable methods, neither body of research really directly addressed the
+
+656
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+questions which bioarchaeologists and osteoarchaeologists investigating
+funerary contexts are most concerned with, socio-cultural variation in
+ancient deathways.
+The third ancestral body of research consists of sporadic, creative attempts to investigate funerary taphonomy directly. Ubelaker's (1974)
+study of the Nanjemoy Creek ossuaries in Maryland, USA, stands as a landmark exploration, a pioneering attempt to relate statistical patterns in
+bone preservation and deposition to an ethnographic model of burial ritual. In Britain, the Death, Decay and Reconstruction volume (Boddington et
+al., 1987) was an innovative effort to apply forensic insights to archaeological interpretations, with contributions such as Brothwell's (1987)
+sharp-eyed reading of disarticulation reﬂecting transport and delayed
+burial at the medieval Jewbury cemetery in York (UK) and Waldron's
+(1987) original consideration of the baseline survival of different skeletal
+elements in archaeological sites. But the ﬁeld was slow to develop. For example, British Neolithic archaeologists have made often rather off-thecuff inferences about funerary ritual since the ﬁrst collective tombs
+were excavated in the 19th century, but it was only in the 1990s that
+the ﬁrst systematic taphonomic investigations were done (Whittle and
+Wysocki, 1998; Saville, 1990; cf. Dunham et al., 2003 for a parallel example in North America). The ﬁrst really rigorous methods for documenting
+cannibalism emerged around the same time (White, 1992; Villa et al.,
+1985, 1986a, 1986b; Turner and Turner, 1995, 1998). Buikstra and
+Ubelaker's (1994) manual devoted a chapter to methods for documenting
+funerary taphonomy. The most recent development, archaeothanatology,
+started in France in the 1980s (Duday et al., 1990) but is only now making
+its presence felt in English language publications (Duday, 2006, 2011).
+The hallmark of this inﬂuential school is close reading of element disposition, combined with observation of how decomposition inﬂuences the
+patterns of disarticulation observed in graves and how these patterns permit inferences about how corpses were originally deposited.
+Over the last two decades, therefore, the taphonomic study of the funerary process has emerged as a coherent ﬁeld with commonly posed
+theoretical questions (see below) and a suite of widely used methods.
+However, it has rarely been drawn together as a coherent ﬁeld, and it
+is often still taught as an add-on rather than an essential component
+of bioarchaeology, osteoarchaeology and funerary archaeology. Many
+skeletal samples remain uninvestigated, often because they are perceived as too small or too fragmented to repay study, and some were
+disposed of without even dating them (see, for example, Armit et al.,
+2011). This is, of course, a misapprehension; taphonomic effects on assemblage patterning are fundamental to understanding social and cultural aspects of burial. Moreover, taphonomy provides important
+information; as one of us teaches his students, the less your fragmented
+assemblages tell you about biology, the more they will tell you about taphonomy. But the result is that one learns far less than one could about
+the cultural variation in how humans globally have disposed of the
+dead – or kept them and continued to interact with them.
+2. Theoretical agenda: deathways and transformation
+The theoretical platform of funerary taphonomy can be stated quite
+concisely. What are deathways about? (Parker Pearson, 1999) Traditional culture-historical approaches in archaeology often assumed that
+deathways simply reﬂected past beliefs. At most, they provided archaeologists with a convenient marker of ethnic group identity. In 1960s
+New Archaeology, attention shifted to social structure; differences in
+burial were taken to mark differential social ranking (Binford, 1972;
+Saxe, 1971; O'Shea, 1984). While deathways are inevitably political in
+some ways, simplistic or mechanical versions of this view came under
+criticism for omitting the contextual meanings of burial. For instance,
+even in highly inegalitarian societies, deathways may emphasise solidarity and equality, perhaps even masking or inverting inequality
+(Ucko, 1969; Parker Pearson, 1982). One cannot assume a priori that
+deathways express uniformly held cultural beliefs, social distinctions,
+or even religious belief in the common modern sense.
+
+Instead, to the extent that a single universal model can be assumed,
+deathways are about the process of dying. As Kellehear (2007) argues,
+although medically death may be a momentary event, the social process
+of dying is often a prolonged one involving many participants: the dying
+person, of course, but also family and kinfolks, medical specialists, religious specialists, people arranging and processing the dead body,
+mourners and attendants, ritual performers, legal certiﬁcants, heirs,
+drivers, cooks, and so on. The concerted work of all of these serves to accomplish a social and ontological transition in the status of the deceased. In many modern societies, this is commonly understood as a
+transition from an animate living being to an inanimate object incapable
+of social interaction, but in many societies the dead continue to be social
+agents potentially interacting with the living in new and different ways,
+both beneﬁcially and harmfully (Kellehear, 2007; Robb, 2013). Three
+points about this transformation are particularly relevant for taphonomic studies:
+1. All societies have multiple ways of dealing with the dead, which reﬂect not only social status or marginality but also factors such as
+the circumstances of death, whether it is seen as polluting or problematic, and so on. Moreover, these are interdependent to form coherent funerary programmes; for instance, only if a commemorated
+single deposition is the norm does denying an individual interment
+form an important stigma or sanction.
+2. The ontological transformation is almost always accomplished
+through direct action on the physical remains of the deceased (by actions such as burial, burning, deﬂeshing, mummiﬁcation, reburial,
+dissection, and exposure).
+3. Often the transformation from a living entity to a dead (but possibly
+still social) entity takes place over a protracted period of on-going interaction with the remains of the dead.
+It is precisely to understand the complexity of these physical actions
+on the dead body and their accompanying social transformation that require funerary taphonomic investigation. Epistemologically, funerary
+taphonomy employs a suite of methods which furnish a classical Middle
+Range Theory (Binford, 1977: they help us get from the static patterns
+detectable in archaeological assemblages and contexts to the dynamic
+processes which produced them. These processes included a wide
+range of environmental and anthropogenic processes. The particular
+focus of funerary taphonomy is to identify patterning which results
+from human funerary practices. Once this is achieved, we can then go
+further if we wish to incorporate these practices in a global interpretation of the ritual system motivating these practices.
+3. Terminology
+The term ‘taphonomy’ is used variably. It originally referred to all
+processes affecting, speciﬁcally, animal remains, whether cultural or
+natural, in their transition from the biosphere to the lithosphere
+(Lyman, 2010). There is considerable variation in how the term is
+used now. It can be extended to human remains (Haglund and Sorg,
+2002; Nawrocki, 2009), to botanical remains, and to artefacts, if not to
+all the processes forming archaeological sites generally (although see
+Lyman (2010) for a dissenting view). Some authors (including one of
+the present authors, CJK) take an approach originating in the natural sciences, seeing taphonomic study as aimed at distinguishing naturally-occurring phenomena from socially or culturally meaningful actions
+effected by human agency. However, other authors (including JER) follow a philosophical argument that such a deﬁnition imposes a strong
+and potentially misleading a priori distinction between ‘natural’ and
+‘cultural’. We leave the reader to decide his/her own philosophical
+framework; in either case the key point is that osteoarchaeologists can
+use taphonomic methods to understand the processes, both anthropogenic and non-anthropogenic, forming an assemblage.
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+3.1. Anatomical terms
+No method, no matter how robust and meticulously applied, can
+compensate for unclear terminology. To begin with, it is best to record
+bones, parts of bones, and parts of the body using standard terms,
+such as those used in the Terminologia Anatomica (FIPAT, 2011); for instance, use ‘tibia and ﬁbula’, rather than ‘leg’, which is often
+misappropriated to mean the entire lower limb, and ‘humerus’ rather
+than ‘arm’ which is often misused to indicate the entire upper limb
+(cf. Knüsel, 2014). Similarly, standard anatomical terms should be
+used to indicate how skeletal elements are positioned (see CalaisGermain, 1993) and how they relate to one another within the grave
+(Knüsel, 2014). Correct use of vocabulary avoids ambiguity, is used
+across disciplines, and clearly differentiates the once-ﬂeshed body
+from its skeletal armature. For example, disarticulated remains of the
+cephalic extremity have been interpreted as ‘skull cults’ in contexts as
+diverse as those from Iron Age Europe (cf. Armit, 2006, 2012) to the
+Natuﬁan and Pre-Pottery/Aceramic Neolithic in the Near East (cf.
+Cauvin, 1997, 2000), but terminological confusion often prevents understanding precisely how such deposits were formed. The ‘cranium’ refers only to that structure which houses the brain (the neurocranium)
+and accommodates the sense organs of the face (the viscerocranium
+or facial skeleton). The term ‘skull’ refers to both the cranium and the
+mandible (see Knüsel, 2014; Boulestin, 2015). For taphonomy, the distinction is important; the cranium and mandible travel together only
+if there are soft tissues remaining to connect them, so ﬁnding a complete skull without a body may imply that it was deposited as an at
+least partially ﬂeshed head, while ﬁnding just a cranium without the
+mandible may imply that it was moved, collected, curated, or re-used
+long after death. Using terms such as ‘skull’ and ‘cranium’ interchangeably obscures data collection and analysis for skeletal part representation, and conﬂates practices as diverse as headhunting, cranial
+collecting, injuries due to interpersonal violence, and forms of judicial
+punishment. As a general rule, it is best to use element names as these
+are what is uncovered archaeologically, the soft tissues of the body having been altered in the decomposition process.
+3.2. Skeletons in context
+Describing depositions requires careful use of terminology. Especially in English language publications, terms for depositions have been
+used inconsistently and are often interpretive rather than descriptive.
+They vary with time periods and create apparent continuities or discontinuities in funerary practice regardless of what is actually going on archaeologically. One fundamental observation is that how human
+remains are deposited is far more variable than the grave structures
+that often lend their names to depositional types (cf. Andrews and
+Bello, 2006: 15). The most egregious example is ‘burial’ itself. As Martin
+Smith (2015) notes, the word ‘burial’ has been used for a grave containing a corpse, for the buried corpse itself, the act of burying a corpse, and
+the act of burying something else. Moreover, archaeologists often speak
+colloquially of ‘burials’ to refer to any human bone deposition, even
+when the bodies involved were never actually buried.
+Table 1 lists recommendations for terms to describe depositions of
+human remains; the patterning that deﬁnes them is discussed further
+below.
+4. Taphonomic data: ﬁeld data vs. laboratory data
+Taphonomic data can be divided into two kinds: data that must be
+collected in the ﬁeld during excavation, and data that can be collected
+from the assemblage in the laboratory. The former comprise detailed
+observations of how the bones were lying within their depositional context and their associations within structures such as tombs, grave cuts
+and cofﬁns. They also include observations on how bones of the skeleton relate to objects around them such as grave inclusions (objects
+
+657
+
+Table 1
+Recommended terms for describing human bone depositions.
+Term
+
+Deﬁnition and notes
+
+Deposition
+
+Any archaeological ﬁnd of human remains; a good
+generic term rather than ‘burial’
+The cut feature in which a body or bodies have been
+intentionally deposited
+A body which has been intentionally placed within a
+grave and covered with earth
+The original placement of the corpse, often inferred
+when bones are in anatomical articulation, modiﬁed
+only by the processes of decomposition in situ
+A subsequent placement of human remains, following
+movement from their primary location; often inferred
+when persistent articulations are disarticulated,
+particularly when they are placed or re-deposited in a
+patterned way
+Simultaneous deposition of several bodies in the same
+place
+Human remains deposited successively over time
+rather than in a single episode, often inferred from
+variations in completeness and articulation among the
+remains
+Mixed deposits of disarticulated and often fragmented
+bones from multiple individuals; this mixing
+sometimes includes animal remains and/or artefacts
+A deposition of multiple individuals in a single episode
+(for instance, following a disaster, a massacre or
+epidemic); a mass grave is indicated by large numbers
+of articulated individuals placed tightly together and
+often in layers, in a single feature, and sometimes in a
+disordered state (i.e. in various orientations), which
+departs from the norm in a given time and place. These
+individuals often bear a common pattern of traits
+related to the mode (i.e. the means by which death was
+caused, such as by blunt force trauma) and manner (i.e.
+the circumstances of death, as in homicide by armed
+violence or disease, such as the Black Death, an
+instance where the pathogen responsible can be
+identiﬁed (see Bos et al., 2011)
+
+Grave
+Burial
+Primary deposition
+
+Secondary deposition
+
+Multiple deposition
+Collective deposition
+
+Commingled remains
+
+Mass grave
+
+placed in graves), or whether objects were placed with the deceased
+as ‘grave goods’, those directly associated with the skeleton (for instance, objects which were worn such as decorative jewellery or parts
+of clothing or accessories) (see Henry-Gambier (2008) for an example
+of this distinction). Once such contexts and associations are severed
+during excavation, they can never be recovered; skeletal assemblages
+and associated artefacts, ﬁeld notes, photographs and drawings are all
+that remains. In contrast, laboratory data can be collected from assemblages preserved in collections, in some cases long after excavation. In
+some cases (such as element representation) they may even be recoverable from ‘legacy’ data in archives or reports if they are sufﬁciently detailed and free from recovery biases (Lorentz, 2016–in this issue, gives
+a good example of combining archive and original data as funerary taphonomy develops within a research region).
+5. In the ﬁeld: contextual analysis and articulation
+The spatial arrangement of bones relates to the state of the corpse
+when it was deposited but also, importantly, to subsequent movement
+by human and natural agents, including those produced by plants and
+animals (see below). These in situ observations focus ﬁrst and foremost
+on the ‘ﬁrst-order’ relationships of articulations between bones, which
+indicate whether bones found together belong to the same region of
+the body and to a single individual. First order relationships cannot be
+determined in the laboratory after skeletal remains have been removed
+from their context. ‘Second-order relationships’ are based on tightﬁtting joints that can be re-articulated in the laboratory, such as those
+between metatarsals two and three, the atlas and axis vertebrae, the intermediate and lateral cuneiforms, and the second metatarsal, talus, calcaneus, and lateral cuneiform. Re-association of these elements can
+
+658
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+approach 70–90% accuracy. Re-associations are much harder to establish for joints between most long bones (Villena-Mota et al., 1996; see
+Byrd and LeGarde (2014) for osteometric sorting in forensic situations).
+Clearly, ﬁrst order relationships that can be observed and recorded in
+the ﬁeld are far preferable to laboratory re-associations that are less reliable and often impossible.
+‘Articulated’ remains are those found in anatomical connection as
+they would be in a living body; ‘disarticulated’ remains have lost such
+relationships, and semi-articulated skeletons are characterized by a
+mixture of articulated and disarticulated joints. Note that, while
+osteoarchaeologists sometimes use ‘semi-articulated’ to describe a skeleton in which some joints remain articulated and others are not, in an
+archaeothanatological perspective, an individual joint is either articulated or not (but see paradoxical articulation, below). Persistent joints,
+those held in anatomical connection by major ligamentous and tendinous attachments, remain in articulation for a longer period of time during decomposition. Most of the weight-bearing joints of the body are
+persistent joints, such as the knee, the ankle, and those of the pelvic
+basin and of the lumbar vertebrae. They also include the atlanto-occipital joint between the cranium and the atlas. Due to its strong soft tissue
+support and complex morphology, the humero-ulnar component of the
+elbow also often remains articulated for a longer time, but the
+acetabulo-femoral joint can be considered a labile joint because it is
+maintained by ephemeral capsular ligaments and rotates into the void
+left by the decomposition of gluteal muscles (see Duday, 2011: 27;
+Duday and Guillon, 2006: 138–139). Because persistent joints are
+large, they are more easily recorded, but because they persist in articulation for a far longer period of time, the information they provide about
+funerary treatment, body position and decomposition may not be as informative as that from the labile joints, which are the key to deﬁning funerary treatments, as in secondary depositions.
+Disarticulation and bone movement are key to determining whether
+bones are in a primary or secondary deposition. The concept of ‘secondary burial’ was originally coined by Hertz (Hertz, 1960; Leclerc, 1990;
+Huntington and Metcalf, 1991) to describe a burial in two locations,
+one after the other; these are termed ‘secondary depositions’ here as
+they may not have been buried per se, as in curated remains that are
+subsequently interred (see Knüsel, 2014). Primary and secondary depositions are often deﬁned through skeletal part representation and the
+arrangement of skeletal elements. The more labile elements, those
+that disarticulate more quickly when connective soft tissues decompose, include the terminal phalanges of the hands and feet, the patella,
+hyoid, cervical vertebrae, and the joints of the scapulo-thoracic and
+the costo-sternal articulations. In primary depositions these bones are
+present and often remain in anatomical connection, especially if supported by sediment, but some movement may occur due to voids created by decayed soft tissue depending on the original position of the
+corpse. To take a commonly encountered example, in supine primary
+depositions, the bones of the hands often fall into the pelvic basin as
+the abdominal soft tissues decompose, while the persistent joints remain in place. Similarly, the ribs and sternum (i.e. manubrium and corpus sterni) move downwards as the rib cage collapses due to
+decomposition of its soft tissue contents, while the thoracic and lumbar
+vertebrae remain in articulation. In secondary depositions, the labile
+bones of the extremities are disarticulated and are often lost in the
+movement of the remains from the primary to the secondary place of
+deposition and elements that form persistent articulations are often
+no longer in anatomical connection as well.
+For depositions involving more than a single corpse, the term ‘collective’ refers to successive deposition of corpses in the same feature over
+time (see Bocquentin and Garrard, 2016–in this issue, for an example),
+whereas inhumations that occur at one time deﬁne a multiple deposition. Collective depositions are suggested by the variable states of articulation of the remains found in them, as deposition of subsequent
+remains disturbs those already in place. Multiple depositions, being deposited at one time, lack this variation. The term ‘mass grave’ is
+
+interpretive and can only be used when simultaneous deposition of
+many bodies suggests a causative agent such as violence, disaster, or
+disease. The term ‘secondary treatment’, or as Stodder (2008: 93) refers
+to them, ‘secondary mortuary rites,’ is reserved for those instances
+when remains have been moved from the place of primary deposition
+but replaced in the same feature (cf. Haddow et al., 2015). Commingled
+remains are those in which remains from multiple individuals are
+mixed together, and often with other remains such as animal bones or
+artefacts. The term ‘commingled’ has been applied loosely to refer to
+both forensic contexts (Adams and Byrd, 2014), where the goal is to
+identify speciﬁc individuals from contexts comprising many individuals,
+and to archaeological contexts (Osterholtz et al., 2014). The distinctions
+outlined here are often not apparent until after laboratory analysis has
+been completed and the remains are studied in conjunction with their
+contexts as recorded in ﬁeld records. This indicates that ﬁeld interpretations are very much hypothetical until analysis of the remains has been
+completed.
+Although most analysis of bone articulation and movement aims
+simply at qualitative interpretations of the process of decomposition,
+more formal spatial analysis can reveal subtle patterning. In the
+pioneering study in this line, Ubelaker (1974) used statistical analysis
+of bone distributions to argue that people re-depositing bodies in the
+Nanjemoy Creek ossuary gathered major bones into discrete bundles
+for re-deposition, and then gathered up smaller bones they had missed
+and scattered them randomly in the ossuary. More recently, Geographic
+Information Systems (GIS) analysis holds substantial potential. In
+Beckett's (2011) study, although all the bone in the Neolithic Irish
+tomb of Parknabinnia was completely disarticulated, GIS analysis revealed residual patterning showing that bodies had originally been deposited with a consistent orientation. Similarly, Whittle et al. (2006)
+and Galer (2006) were able to reconstruct the original deposition and
+placement of once articulated remains of several individuals in the Neolithic long barrow at Ascott-under-Wychwood (Oxfordshire, UK), even
+some years after the material had been excavated, through skeletal reanalysis, GIS, and use of the photographic and ﬁeld records.
+In reconstructing bone position and movement, reﬁtting or
+conjoining studies can be useful. Such studies are rarely done, mostly
+for practical reasons; as assemblages increase in size, the number of
+possible conjoins between fragments increases exponentially, and for
+many assemblages, the chances of ﬁnding reﬁts between fragments is
+low enough that it may not be worth the considerable effort of systematically comparing fragments. Occasionally, however, conjoining studies
+can be informative. For example, in a relatively small assemblage from a
+Bronze Age collective tomb in Kunji Cave, Iran, differential patterns of
+reﬁts showed that crania had remained within the tomb and been
+crushed in place, while long bones had been thrown out of the tomb
+during reuse (Emberling et al., 2002).
+5.1. Field retrieval and processing
+It is best to use wooden, bamboo or plastic clay-modeling tools to excavate human remains; they reduce the damage done by metal tools.
+Whatever tools are used, the tools employed should be noted and any
+accidental damage caused during excavation should also be noted.
+This will help to differentiate excavation damage from taphonomic
+changes. Once taphonomic data have been recorded in situ, skeletal remains should be excavated as quickly as possible (which is why the recording protocol needs to be established beforehand), both to protect
+them from environmental damage and because skeletons left exposed
+on sites often attract looters or vandals. Bones should be protected
+from strong direct sunlight, as drying too rapidly can crack and split
+them. As regions of the body are lifted, these should be placed in open
+plastic bags and labelled with the region of the body, such as ‘left
+upper limb’, ‘right pectoral girdle’, and so on. Ideally, phalanges of the
+hand and foot should be collected by side and ray (i.e. by digit) as side
+cannot be determined once these bones are removed from context.
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+When bones are lifted, all sediments should be ﬁne screened to recover
+small bones, fragments and particularly loose teeth. Once excavated,
+bones should be washed lightly in clean water or gently brushed with
+soft brushes. Delicate specimens should be wrapped in acid-free
+paper. Robust plastic storage containers of all sizes should be made
+ready to receive remains; non-standard, former grocery boxes are
+often of poor quality, are difﬁcult to stack, and most importantly denigrate the importance of remains.
+Prior to lifting the bones, those required for speciﬁc analyses should
+be identiﬁed as such in the ﬁeld, photographed, labelled and planned. If
+good photographic records and/or drawings are available, these can be
+reconstructed after ﬁeldwork to some extent from records, but information will always be less certain and some will be lost entirely. Once fragmentary bones are removed from context, identifying them is much
+more difﬁcult, and these should be collected by element and labelled.
+Bones should not be treated with chemical substances such as preservatives, consolidants or glues, as this can damage them over time (generations of anthropologists have struggled to remove the ‘preservatives’
+helpfully applied by their predecessors from important specimens)
+and render them useless for future chemical analysis. Such chemical
+substances could potentially also be confused with archaeological substances. If it is absolutely necessary to treat remains with chemical substances, specimens of untreated material (conventionally, cranial, rib
+and femur shaft fragments due to the differences in remodelling in
+these elements) should be retained for later biochemical analyses, including for dating, isotopic and aDNA and other protein-based analysis,
+such as Zooarchaeology by Mass Spectrometry (ZOOMS) (Buckley et al.,
+2008, 2009, 2013), for histological analysis (Jans, 2005; Booth, 2015;
+Booth et al., 2015), and for the analysis of grave ﬁlls to recover signatures of materials placed in the grave or resulting from decomposition
+(Brettell et al., 2014, 2015; Schotsmans et al., 2014). Fragile bones can
+be measured in situ for long bone length and sex determination from
+the ossa coxae before lifting them, using for example, Murail et al.
+(2005), in case they fragment irremediably upon excavation. Sediment
+samples can be collected from directly adjacent to the skeleton for comparison with bone chemistry, for recovery of palaeobotanical remains
+such as pollen (Tipping, 1994; Leroi-Gourhan, 1975, 1998), and
+phytoliths (Ryan, 2011); plant macrofossils can be recovered from
+grave ﬁll (cf. Kreuz (2000) and Preiss et al. (2005) for a Roman cremation example). Sediment samples should also be taken from the anterior
+surface of the sacrum for evidence of intestinal parasites; sediments
+from inside the cranium and near the feet should also be taken as controls (P. Mitchell, pers. comm.).
+Both l'anthropologie du terrain/archaeoanthropology (Duday,
+2006), and Anglo-American osteoarchaeology (Buikstra, 1977,
+2006; Larsen, 1997, 2006), argue for the inclusion of trained
+osteoarchaeologists/bioarchaeologists in ﬁeld excavation programmes.
+The osteoarchaeologist/bioarchaeologist should be involved from the
+early planning stages of the project, not as an after-thought once excavation has already commenced. Osteoarchaeological data collection
+should be built into site excavation plans (Buikstra, 1977, 2006;
+Larsen, 1997, 2006). Archaeothanatology is a notational system used
+within an anthropologie du terrain approach which employs a pro
+forma system with multiple drawings and/or photographs to record
+the state of articulations of the joints (Duday, 2006). There are several
+record sheets in use created to inventory the remains of neonates, children and adults (for a good adult example, see Courtaud, 1996) (Fig. 1).
+These can be linked to a computerised record on portable digital devices; working digitally is as accurate and less time-consuming, all but
+eliminating paper copies except in dusty or wet ﬁeld settings. Digital
+methods for recording currently being developed include the application of 3D meshing and ArcScene® software to create Virtual Taphonomy, which integrates image-based 3D modeling techniques with a 3D
+GIS platform (cf. Wilhelmson and Dell'Unto, 2015) or the use of less sophisticated Structure from Motion (SfM) modeling techniques that require only a digital camera and two pieces of software: Agisoft
+
+659
+
+Fig. 1. Skeletal inventory chart for recording a skeleton with space for annotating
+articulations between bones (prepared by Seán Goddard, Department of Archaeology,
+University of Exeter for CJK).
+
+PhotoScan® and MeshLab® (Knüsel et al., 2013; Forte et al., 2015).
+The latter requires between 15 and 50 digital images taken in the ﬁeld
+in rapid succession to cover all aspects of the grave contents, with the
+software used to combine (‘mesh’) them into a computer 3D model
+that can be manipulated on the screen (Fig. 2).
+
+6. Bone census, NISP, MNE, MNI, and element representation
+Once an assemblage has been excavated, what follows is an exercise
+in creating usable data from an inherently messy situation. The
+same analytical logic applies to all depositions, whether discrete or
+commingled, but it is rarely applied formally to discrete inhumations;
+hence this discussion focuses upon commingled depositions, which
+are the typical focus of such analysis.
+
+660
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+Fig. 2. 3D model of human bone deposition. Sk. 30007, an adult male, from Neolithic Çatalhöyük, primary deposition in Building 119 from the North Area of the site. A complete marble
+‘macehead’ can be seen near the right shoulder and close to the cranium of this individual. (3D image courtesy of Scott Haddow, Çatalhöyük Research Project).
+
+Different methods supply data for different analytical goals, such as
+supplying a descriptive inventory for a site report, estimating how
+many people may have been deposited at the site, and modeling the
+processes which formed the assemblage. An initial concentration on
+the demographic constituents, the numbers of individuals represented
+in an assemblage (based on the Minimum Number of Individuals
+(MNI), is now accompanied by questions of differential preservation
+among skeletal elements and part representation to identify pre- and
+post-depositional effects on assemblages, based on the MNE (Minimum
+Number of Elements). These inﬂuences on assemblage constituents developed to capture taphonomic processes as well as social behaviours
+that include, for example, differential treatment of skeletal elements
+and processes involving loss or destruction of some elements as part
+of extended and multi-stage funerary processes that might include retention of elements of the cephalic extremity (cranium and/or mandible) or other elements or anatomical regions as part of secondary
+treatments of the remains of the deceased (see above). Since an assemblage inevitably contains both reliable, detailed information and
+broader, more poorly-deﬁned information, the art form consists of devising categories and criteria which will isolate data amenable to statistical analysis; this inevitably means letting go of some patterning which
+can be seen intuitively but which is too amorphous to record
+unambiguously.
+Assemblage analysis begins with three questions:
+1. How well-preserved is each region of each bone?
+2. How extensively preserved is each region of each bone present?
+3. Overall, what bones (and what regions of each bone) are present?
+These are related but distinct questions. For example, compare a
+bone which is entirely present but the surface of which has entirely
+eroded away (100% complete according to criterion 2, but poorly preserved according to criterion 1), and one which is half missing but retains its surface (50% complete according to criterion 2, but wellpreserved according to criterion 1). The former adds more information
+for a count of how many individuals may be present in the assemblage
+but contributes nothing to the sample size for palaeopathological or
+taphonomic bone modiﬁcation; the latter is the converse. The quality
+of bone preservation (Criterion 1) can be recorded using Bello and
+Andrews (2006) Bone Preservation Index, which records the amount
+of original bone surface remaining. Methods for tabulating the quantity
+of bone remaining (Criterion 2) traditionally use one of a number of recording systems for breaking each bone down into discrete regions and
+then estimating how much of each region remains (for instance, 25%,
+25% to 50%, 50% to 75%, 75% to complete). There are two commonlyused methods for dividing the skeleton into census regions: Buikstra
+and Ubelaker (1994) present the most widely used version, while
+
+Knüsel and Outram (2004); (Outram et al., 2005) present a version designed to create skeletal regions comparable with those used for animal
+skeletons in order to enable comparative taphonomic study (see Mack
+et al. (in press), for a recent modiﬁed application of this method).
+These ‘zonation’ methods can also be used to get true percentage completeness by dividing the number of zones present by the total number
+theoretically present in an entire skeleton or part of the skeleton. Comparison of the two methods on a highly fragmented, commingled assemblage shows relatively minor differences between the results
+(Knüsel et al., 2016, see also Lambacher et al., 2016–in this issue).
+The resulting counts of how many of each skeletal region are present
+furnish the basis for a systematic bone census (see also Robb, in this
+issue). Using the counts of bone regions present, one can estimate the
+minimum number of each bone which must have originally been present in order to create the observed assemblage (this is the Minimum
+Number of Elements, or MNE). In calculating the MNE, it is common
+to include only those elements or zones which are 50% or more present,
+to avoid counting highly fragmented bones several times. Since bones
+do not always come in complete elements, the MNE for each fragment
+can be used to calculate how many complete elements must have
+been present to supply the bones present in the assemblage. This can
+then be used to compare with other assemblages directly, or because
+many studies provide only MNI to calculate the Minimum Number of Individuals to do this. When a complete skeleton contains multiple examples of a bone – left ribs, manual phalanges, thoracic vertebrae, and so
+on and especially if these are fragmented – the MNE is divided by the
+number of that element present in the body to get the MNI. For example,
+25 left ribs must derive from at least three individuals). Although the
+logic of calculating the MNE and MNI is standard, there are two key
+points of variation in practice. One concerns how to calculate the
+MNE. In a large, highly fragmented assemblage, it is simplest to base it
+upon bone region counts as outlined above, usually counting adults
+and juveniles separately. However, osteologists sometimes try to lay
+out assemblages and assess which fragments come from the same
+bones, a conjoining exercise, and identify individuals based on additional information such as bone size, texture, sex, palaeopathological conditions, or other distinguishing characteristics. This can result in a
+different MNE. Similar logic can be applied to deriving the MNI (for example, if an assemblage contains only a very robust humerus and a very
+small radius which are unlikely to come from the same individual, mechanical tabulation will yield an MNI of 1, while common sense might
+suggest an MNI of 2).
+By and large, the smaller the assemblage, the more scope for such
+common-sense based, ad hoc assessment there is; the larger the assemblage, the more standardised tabulation provides a more reliable guide.
+Secondly, for many sites, the osteologist has to decide how to integrate
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+archaeological information into the calculation. Consider a tomb with an
+inner chamber containing 5 left femora and 3 mandibles, and an outer
+ritual area containing 2 left femora and 6 mandibles. If one assumes
+that these are completely separated depositional areas, the overall site
+MNI is 11, with at least 5 individuals deposited inside the chamber
+and 6 deposited outside it. But if one assumes that bones moved around
+the site and remains both within and outside the tomb could represent
+the same individual, then the MNE is 9 (as there are a total of 9 mandibles on the site). As this simple example shows, archaeologists and osteologists have to work closely together in integrating contextual
+information hermeneutically into the bone analysis; many real-life
+cases are much more complex.
+Taphonomic interpretation per se really begins once the bone census
+is done. One key question is how to interpret the MNE and MNI. In spite
+of all temptations and pressures from the site director, the MNI should
+never be interpreted as ‘how many people were deposited at the site’.
+The smaller and better-preserved the assemblage, the more likely the
+MNI is to provide a realistic estimate, most obviously in a single grave
+containing a single skeleton - but even many single graves often incorporate recycled fragments of earlier burials. Particularly for larger assemblages and highly fragmented assemblages, the MNI will be a
+gross underestimate, while the NISP (Number of Identiﬁable Specimens) will be an over-estimate. There have been attempts to develop
+alternative measures of the most likely number of individuals (e.g.
+Adams and Konigsberg, 2004; Nikita, 2014; Nikita and Lahr, 2011), but
+they rely upon matching pairs of bones and have proven difﬁcult to
+apply in many assemblages (see the discussion above about ‘secondorder’ relationships).
+For taphonomic interpretation, the most widely used tool has been
+the Bone Representation Index (Bello and Andrews, 2006), formally
+pioneered by Dodson and Wexlar (1979) but independently developed
+by other researchers too. This simply measures how well-represented
+each bone is relative to the number we would expect if each of the
+MNI came from a complete skeleton. For example, if the MNI is 10 and
+each were complete, one would expect 10 mandibles, 20 femora, and
+240 ribs; if the excavated assemblage contains 5 mandibles, 15 femora,
+and 12 mid-thoracic ribs (i.e. those not identiﬁable as ribs 1, 2, 10, 11,
+and 12), the BRI equals 50% for mandibles, 75% for femora, and 5% for
+ribs. This provides a formalised way of saying that femora are better represented than mandibles in this assemblage, and ribs are strongly
+under-represented. It is typical to calculate the BRI for all parts of a skeleton, sometimes grouping similar elements such as hand and foot
+bones. One can then interpret this fact in terms of taphonomic processes. One mundane factor, essential to consider, is how the assemblage
+was recovered archaeologically. All recovery techniques potentially create biases. Most obviously, ‘grab’ samples in which excavators collect
+bones as they excavate result in variation according to how experienced
+in recognising bone they are, and how much care they use in recovering
+small bones or fragments; in contrast, when sediments are systematically sieved, recovery of small bones, fragments and teeth is much better
+and more standardised. Different techniques of excavation and soil conditions might also bias the resulting sample, particularly as regards fragile bones.
+In terms of human action, element representation is often
+interpreted in terms of two kinds of forces: taphonomic destruction
+which preferentially removes smaller or more fragile bones from the assemblage, and cultural preferences about which bones to destroy, remove, collect or preserve. For example, if small or fragile bones are
+under-represented in an assemblage, it is often taken as suggesting
+that the bones have been moved from a primary to secondary context,
+losing or destroying some elements en route (see, for example,
+Crozier, 2016–in this issue; Triantaphyllou, 2016–in this issue) (Fig.
+3a), although taphonomic processes may be more complex (cf. Robb,
+2016–in this issue). In Beckett's (2011) examination of three Irish Neolithic tombs, element representation was critical in showing two tombs
+dominated by cranial and long bones, probably deposited secondarily;
+
+661
+
+in the third, small residual bones were over-represented, suggesting
+that burials were primarily deposited in the tomb and then large
+bones were removed for deposition elsewhere (Fig. 3b).
+7. Bone modiﬁcation
+Some of the most important taphonomic data include evidence of
+how bones have been modiﬁed by various forces and agents. This
+section reviews current methods and standards for recording and
+interpreting bone modiﬁcation. Note that, unlike anatomical terms, no
+standard set of terms exists to describe bone surface modiﬁcations
+(James and Thompson, 2015). Variable terminology has contributed to
+controversy over taphonomic and human modiﬁcation of bone, often
+in contexts that document the earliest presence of human behaviours
+in the past. James and Thompson (2015) recommend separating description of marks on bones from interpretation of the presumed activities that created them, using 3D images to highlight diagnostic
+differences, and using statistical testing to identify overlap or difference
+in the appearance of bone surface marks.
+7.1. Weathering
+Behrensmeyer's (1978) standards for recording weathering have
+long served to document surface exposure of remains, though Brickley
+and McKinley (2004) provide more current standards. This process
+commences with gradual drying that initially produces cracking in the
+surface cortical bone and advances to ﬁssuring and splintering leading
+to fragmentation of the bone (Fig. 4a and b). The time necessary to progress from one step to another varies with local environmental conditions: in one study, bones exposed in a sheltered temperate setting
+(Somerset, UK) at the base of a slope surrounded by vegetation failed
+to produce any of these changes despite seven years of exposure
+(Andrews and Cook, 1985). These weathering features due to drying resemble thermal changes in bone due to exposure to ﬁre, another form,
+albeit accelerated, of drying.
+7.2. Plant, animal, bird and insect damage
+Plant roots often leave meandering, multi-directional grooves with a
+rounded cross-section (Haglund, 1997, for an example, see Valentin and
+Le Goff, 1998: 94, Fig. 3) (Fig. 5). In Valentin and Le Goff's (1998) example of a secondary burial of a Mesolithic individual at the otherwise Neolithic megalithic tomb at La Chausée-Tirancourt (Somme, France), root
+etching that crossed dry fractures indicated that the remains had been
+buried prior to being broken during their movement from a primary
+to a secondary place of deposition.
+Animals – most commonly rodents and canids - frequently modify
+human remains. Rodent gnawing is identiﬁable as paired, broad, shallow, ﬂat-bottomed grooves made by their continuously growing incisors (Fig. 6), particularly on bone ends and diaphyseal crests (as in
+Klippel and Synstelien's (2007) study of brown rats (Rattus norvegicus)
+and squirrels (Sciurus carolinensis) in North America). In contrast, canid
+chewing produces pits, the impressions left by the cusps of teeth; punctures, crushing breakage produced by canine and carnassial teeth; scoring produced by teeth being dragged over bone; furrows caused by
+cheek teeth that run longitudinally along the diaphyses of bones into
+the marrow cavity, as well as spiral fractures (Haglund, 1997) (Fig. 7).
+Moreover, canids can impact both the surface appearance and the distribution and differential survival of human remains (Haglund et al., 1988,
+1989). In the Paciﬁc Northwest of North American, canids can contribute to skeletonising exposed human remains in 28 days, and completely
+disarticulating and scattering them within 2 months; after a year bones
+may be so widely scattered that many may no longer be recovered
+(Haglund, 1997). Although this study may reﬂect the particular environment of the Paciﬁc Northwest, analogous patterning elsewhere
+highlights the considerable effect of both domestic and wild canids on
+
+662
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+Fig. 3. a) Sample bone representation chart of labile elements (in grey), the absence of which can suggest a secondary deposition (prepared by Seán Goddard, Department of Archaeology,
+University of Exeter for CJK); b) element representation in three Irish Neolithic tombs (Beckett, 2011, Fig. 5, p. 406).
+
+archaeological remains. When coupled with lack of rodent gnawing,
+canid modiﬁcation can indicate the deposition of remains following a
+relatively brief period of exposure prior to deposition (Møllerup et al.,
+2016–in this issue).
+Birds can also affect assemblages. Although many birds apparently
+leave few physical signs, the beaks and talons of some, such as the
+large African Crowned Eagle (Stephanoaetus coronatus), leave nicks,
+punctures, and perforations on remains, as well as removing the facial
+bones and cranial bases of young cercopithecoid monkeys, their major
+prey species. They also scatter bones, altering part representation
+(Sanders et al., 2003). Initial work on scavenging by birds suggests
+that there are species and regional environmental and climatic differences in how bird scavenging affects animal carcasses (Reeves, 2009;
+
+Dabbs and Martin, 2013) and human cadavers (Spradley et al., 2012).
+While vultures do not seem to leave surface features on bone, they
+may move, skeletonise and disarticulate remains; controlled experiments suggest that vultures can skeletonise remains over time scales
+ranging from ﬁve hours to two months. Vulture scavenging on exposed
+bodies may create distinctive archaeological patterns, especially affecting the bones of the limbs (Pilloud et al., 2016–in this issue).
+Insects arrive at decomposing corpses in staggered phases and have
+different lifecycles, making them useful in medico-legal circumstances
+to determine how long an individual has been dead (Post-Mortem Interval, PMI) (Anderson and Cervenka, 2002). Insect remains have also
+been recovered in archaeological circumstances. Huchet (1996) determined the season of death in remains dating to the 10th century A.D.
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+663
+
+Fig. 6. a) Rodent gnawing on margins of red deer cranium (photo courtesy of Martin
+Smith, from Smith (2006)); (b) rodent gnawing from the KOPAL (Konya Basin
+Palaeoenvironments Project) Trench at Neolithic Çatalhöyük (Turkey) (photograph C.
+Knüsel).
+
+Fig. 4. Weathering of animal bone, a) Behrensmeyer stage 2, left, and b) stage 3, right
+(photographs courtesy of Richard Madgwick, Cardiff University, and Hampshire
+Museum Services, UK).
+
+More recent work demonstrates the physical effects of insects on skeletal remains (Huchet, 2014a and b). Huchet et al. (2011) demonstrate extensive surface alteration of both cortical and underlying cancellous
+bone in a Moche period female burial from the site of Huaca de la
+Luna, Peru, due to consumption of bone by termites. In a Levantine
+Bronze Age context, Huchet et al. (2013) observed dermestid beetle
+tunnelling to create pupal chambers; its extent, affecting many bones
+of the same individual, suggests that remains were left exposed for
+some time prior to their eventual deposition.
+7.3. Fracture patterns
+
+Fig. 5. Root damage with impact scar from probable projectile trauma on left femur,
+Neolithic Durrington Walls, Wiltshire (UK). (Photograph C. Knüsel).
+
+How a bone is broken can be informative about its history. The basic
+principle is that, after death, bones gradually lose their collagen content,
+becoming less elastic and more brittle; thus, bones fracture differently
+before death (ante-mortem) and after death (post-mortem). Fractures
+in the bone that occur shortly before or shortly after death are termed
+‘peri-mortem’ (Ubelaker, 2015); note that the term 'peri-mortem' refers
+here not to a narrow interval immediately around death, but to a variable longer interval during which bone retains the biomechanical responses of living bone. For taphonomic history, the key point to
+ascertain is when fractures occurred (Ubelaker and Montaperto, 2014:
+32). There are a number of terms and sets of categories used to assess
+this.
+The term ‘dry fracture’ came into the funerary archaeological literature to describe fractures encountered in archaeological bone assemblages, both animal (Outram, 2002, 2004) and human (Villa and
+Mahieu, 1991; White, 1992; Lyman, 1994; Valentin and Le Goff, 1998;
+Galloway, 1999). In French, Valentin and Le Goff (1998) describe these
+
+664
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+Fig. 7. Neolithic skeletal material from Adlestrop Long Barrow, Gloucestershire, UK, exhibiting damage consistent with scavenging by canids (elements not to scale, image prepared by
+Martin Smith, Bournemouth University, from photographs by Graham Norrie).
+
+fractures as ‘dentelée’, notched or crenelated, descriptive terms similar
+to those employed by Morlan (1984: 165, Table 1), who used the
+words ‘rough’ and ‘pebbly’ to describe the fracture surfaces of these broken bones. These are equivalent to fractures described as ‘dry bone fractures’ by Outram et al. (2005) in a comparative study of intermingled
+human and animal remains. In medico-legal contexts fracture outline,
+angles and surfaces are used to evaluate when fractures occurred
+(Sauer, 1998; Symes et al., 2014) and similar features are used in
+zooarchaeological analyses to elucidate the taphonomic history of assemblages and their composition (Karr and Outram, 2012a), as well as
+to differentiate human from natural agency (Karr and Outram, 2012b).
+Fractures show a characteristic evolution as bone dries out, although
+there will be variation according to element and species (Fig. 8). When
+fresh bone breaks, the resulting ‘wet’, ‘fresh’ or ‘green’ (i.e. perimortem) fractures have obtuse, sharp fracture angles/margins, helical
+or spiral outlines and smooth fracture surfaces (Knüsel, 2005) (Fig. 8b,
+c). There is no evidence for bone formation that identiﬁes healing as
+in ante-mortem fractures, those that occur in a living person (compare
+Fig. 8a and b). ‘Dry fractures’ occur as time passes after death and
+bone loses much of its organic component (Orschiedt, 1997, Valentin
+and Le Goff, 1998). In dry fractures, the fracture outline can be helical
+or spiral, in this trait resembling a peri-mortem fracture (Fig. 8d), but
+they possess relatively square-edged and undulating/irregular fracture
+margins that are at right angles to their fracture surfaces, and the fracture surfaces are usually noticeably rougher and more irregular (see
+above descriptions from Valentin and Le Goff and Morlan), in comparison to the smoothness of peri-mortem fracture surfaces (cf. Knüsel,
+2005; Outram et al., 2005; Symes et al., 2012: 348ff., Symes et al.,
+2014). The presence of dry fractures indicates that the bones had been
+disturbed or moved after deposition but while still retaining sufﬁcient
+collagen content to retain some biomechanical properties of fresh
+bone. As time passes and the bone becomes increasingly mineralized,
+this change in morphology continues, and fractures on bone which contains largely the crystalline hydroxyapatite component and little collagen, tend increasingly to result in blocky, rectangular fragments with
+rough, irregular margins, the fracture surfaces of which are corrugated
+and have spicules of bone protruding from them (Fig. 8e, f). Recent or
+new fractures, such as those that result from excavation damage or curatorial breakage, are usually readily distinguished not only by this morphology, but also by the lack of staining from the soil matrix.
+What is less straightforward, however, is assigning a time interval to
+this progression. In experimental research, Wieberg and Wescott
+
+(2008) induced blunt force trauma on pig remains at regular intervals
+after death and then assessed the alteration characteristics of the
+resulting bone fractures. They found that peri-mortem and (immediately) post-mortem fractures could not be reliably distinguished until after
+about ﬁve months after death. Moreover, these studies show how fracture mechanics vary with environmental conditions such as temperature, moisture, and range of environmental variation. Freezing, for
+example, alters these patterns and will delay the degradation of collagen content such that fractures will resemble peri-mortem ones for a
+longer period (Karr and Outram, 2015). One can therefore often readily
+distinguish between breakage happening around death (i.e. perimortem) vs. long after death (new or mineralized breaks) (see
+below), but caution is needed in trying to pin ﬁne-grained timescales
+around fractures within the ﬁrst years after death.
+7.4. Burning
+Human remains are frequently burned. The ﬁrst interpretive question is whether they have been intensively, perhaps intentionally
+burned, as in a cremation, or casually burned, less evenly and at lower
+temperatures. But even within each of these categories, taphonomic
+analysis can reveal important variations (for instance, how systematic
+cremation was, whether burning occurred when bones were ﬂeshed,
+fresh or dry, etc.). There are no standard, clear procedures for recording
+burning in medico-legal circumstances (Mayne Correia, 1997; Mayne
+Correia and Beattie, 2002; Symes et al., 2008), nor is there a single standard source or analytical procedure in osteoarchaeology. Nevertheless,
+even cremated remains from modern crematoria with their high temperatures and concentrated ﬁres leave identiﬁable fragments (Bass,
+1984), and these remains, once considered unpromising, are now seen
+as much more amenable to meaningful analysis.
+How many individuals and how many times remains were deposited in a feature can be determined with fragment identiﬁcation and thorough recording, much as for unburned remains (Naji et al., 2014; de
+Becdelievre et al., 2015). Colour variations in burned bone are often recorded along a spectrum from scorched (blackened in places) to an intermediate grey to fully burnt or calcined (white) (compare Fig. 9a
+and b). Such changes reﬂect the temperature of the ﬁre, but they also relate to the length and intensity of exposure to ﬁre/thermal heating
+(Mayne Correia and Beattie, 2002; see Thompson et al., 2016–in this
+issue, for difﬁculties in interpreting such changes). More recent
+methods rely on digital media, such as those using a spectrophotometer
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+665
+
+Fig. 8. Fractures, showing a) ante-mortem healed rib fractures in different stages of healing from healed, top, to incompletely healed, bottom, from the medieval Augustinian friary at Hull
+Magistrate's Court (UK) (© BARC, Archaeological Sciences, University of Bradford), b) peri-mortem fracture with spalling of cortical surface, right ulna of Towton 30, Late Medieval period,
+Yorkshire (UK), c) peri-mortem fracture of femur, Neolithic period, Scaloria Cave, Italy; note helical/spiral fracture outline, sharp fracture margin and smooth fracture surface; d) dry
+fracture, left femur from Bronze Age Velim Skalka, Czech Republic; note helical/spiral fracture outline, undulating fracture margin and irregular fracture surface; e) fractures on
+mineralised human rib (uppermost) and cranial bone (lowermost) with jagged fracture outline and irregular fracture surface with spicules of bone from Towton, Late Medieval period,
+Yorkshire (UK); f) typical fractures on mineralised bone from Scaloria Cave, cranial vault fragments, Neolithic period, Italy; note rectilinear fragments and unweathered borders; g)
+fractures on mineralised bone, right femur, Scaloria Cave, Neolithic, Italy; note similar rectilinear fractures on proximal end and distal ends, though the former is old and concreted and
+the latter is recent excavation damage. (Photographs C. Knüsel and J. Robb).
+
+666
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+Fig. 9. Evidence of heat exposure, 9a) scorching in clavicle fragment, Scaloria Cave, Italy. 9b) calcination, Neolithic cremation, Ardnamurchan, Scotland (photographs J. Robb).
+
+and a CIELAB (Commission Internationale de l'Eclairage - lightness (L) of
+the red (A) and yellow (B) ranges), device-dependent colour space for
+recording colour changes (Devlin and Herrmann, 2008). Resonance,
+
+the differing sounds made by variously burnt bones when struck has
+also been applied to Neolithic cremated remains to assess the circumstances of their burning (de Becdelievre et al., 2015).
+
+Fig. 10. Cut-marked bones from Neolithic Scaloria Cave, Italy. a) right scaphoid; b) spinous process, cervical vertebra; c) clavicle midshaft; d) cranial vault. (photographs J. Robb and C.
+Knüsel).
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+7.5. Cut-marks
+Cut-marks result when bones are cut by a sharp blade which leaves
+traces upon the bone. When this happens during life (as in sharp force
+trauma) and is survived for some time (i.e. ante-mortem or in vivo trauma, see Fig. 8b), the bone usually remodels and effaces the marks; the
+term ‘cut-mark’ is thus typically used for peri-mortem traces upon
+bone, those that occurred around the time of death when the bone
+still retained its collagen component. In faunal remains, cut-marks usually result from butchering activity; in human remains, they can result
+from many causes, including peri-mortem violence, funerary practices,
+such as deﬂeshing and dismemberment, and surgery.
+Cut marks can have several typical morphologies (Fig. 10). The most
+commonly identiﬁed are short, straight incisions in bone, often running
+transversely across bone diaphyses. These are often distinguished by
+their v-shaped cross-section, as marks resulting from other causes,
+such as carnivore chewing, root marking, or rodent gnawing, are distinguished by their rounded or ﬂat-bottomed section. Particularly when
+they are made by stone tools, they also often exhibit ﬁne striations within the cut-mark which result from tiny irregularities in the blade edge.
+Cut-marks resulting from a transverse slicing motion are often seen
+around joint capsules and at site of tendon or ligament attachments,
+where they may be produced while disarticulating or removing muscle
+mass from a body. However, cut-marks may take several other forms
+(White, 1992). A blade cutting the cranial vault may leave several linear
+incisions, as in scalping| (see Olsen and Shipman, 1994). A heavy blow
+with a sharp weapon or implement may leave deeper chop marks, perhaps with some adjacent crushing, or even sever bone completely. A direct impact with a blunt instrument may leave pit-like anvil scars with
+radiating fracture lines and internal (i.e. endocortical or endocranial
+bevels, for an example, see Knüsel and Outram, 2006: 257, Figs. 17.3
+and 17.4). When a blade is forced down a bone lengthwise to remove
+tissue from it, it may leave long scrape marks, or it may cut into the
+bone and then jump off it for some distance before cutting into it
+again, leaving ‘chatter marks’ (White, 1992).
+Cut-marked bones are known from throughout human history. Although cut-marks are often associated with possible cannibalism, they
+may equally well be produced in funerary practices. White (1986) identiﬁed multiple incised cut-marks on the zygoma, orbit and cranial vault of
+the Bodo cranium from Ethiopia attributed to funerary deﬂeshing. This
+600,000-year-old specimen (Smith and Ahern, 2013) presents, at present,
+the earliest osteoarchaeological evidence of funerary behaviour,
+surpassed only by the poorly dated but earlier Stw 53 cranium from
+Sterkfontein, South Africa, a late Australopithecine or early member of
+the genus Homo which has cut-marks on the maxilla suggesting removal
+of facial and masticatory musculature (Pickering et al., 2000). Similar ﬁndings of cut-marks in Neandertals from Krapina, Croatia, probably also resulted from funerary practices rather than from cannibalism (Trinkaus,
+1985; Russell, 1987a, 1987b); breakage and mixing with animal remains
+in the Krapina assemblage was an artefact of depositional processes, and
+part representations suggests that the remains had been rapidly buried.
+The Krapina bones exhibited short incised marks in a ‘ladder-series’ arrangement (Russell, 1987b) that is similar to those made during scraping
+dried tissue from bones prior to interment (cf. Olsen and Shipman, 1994).
+A similar pattern in a disarticulated and commingled Neolithic assemblage from Grotta Scaloria (Puglia), Italy, probably results from ritual
+deﬂeshing (Robb et al., 2015). Sporadic reports of cut-marked bones
+have also come from Mesolithic sites, such as Margaux Cave (Dinant, Belgium) (Toussaint, 2011) and Kent's Cavern (Devon, UK) (Schulting et al.,
+2015). Among the most enigmatic sites is Herxheim, Germany, where
+cut-marks and patterned destruction of bones may relate either to cannibalism (Boulestin et al., 2009; Boulestin and Coupey, 2015), or to funerary
+processing (Orschiedt and Haidle, 2006, 2012), or both from different
+parts of the same site. The same appears to characterize a mixed assemblage of human and animal remains from the Halaﬁan Neolithic site of
+Domuztepe, southestern Turkey (Kansa et al., 2009).
+
+667
+
+While large cut-marks may be clearly visible, small or very ﬁne ones
+may be difﬁcult to see. When cut-marks are suspected, all bone surfaces
+should be examined carefully under low to medium magniﬁcation with
+hand lenses and microscopy, with obliquely raking light to throw ﬁne
+surface features into relief. When a possible cut-mark is found, ordinary
+or SEM microscopy can be invaluable in conﬁrming it, and in recording
+details of its morphology (see Wallduck and Bello, 2016–in this issue,
+who describe use of a Focus Variation Microscope, which combines visualisation with quantiﬁcation of cut-marks).
+8. Putting all the evidence together: the process of taphonomic
+interpretation
+Unlike some forms of archaeological science, taphonomic interpretation does not have rigidly deﬁned core methods. Instead, it is grounded
+in two basic principles:
+1. Interpretation begins with the archaeological context of bone
+assemblages.
+2. The analyst should use all available evidence to reconstruct the depositional and post-mortem history of the assemblage.
+From this starting point, analysis consists of combining all the various sources of evidence reviewed above to reach an interpretation, as
+in Moutaﬁ and Voutsaki's contribution to this volume. This process requires sensitivity to context. Although the literature is often written in
+simplistic tropes such as ‘disarticulation equals secondary deposition’,
+such cookbook interpretations are misleading; all of the forms of evidence reviewed above can bear several interpretations, and often
+which interpretation is more likely depends upon what other taphonomic data reveal about the assemblage. To take an example from our
+own recent work, the Neolithic ritual site of Scaloria Cave, Italy, presented an almost completely disarticulated assemblage with frequent cut
+marks, a very low prevalence of peri-mortem or fresh breakage, sporadic casual burning, an almost complete lack of animal damage, and low
+representation of fragile and small bones (Robb et al., 2015). We
+interpreted the site as a place where the bones of people who were already dead were periodically gathered and deﬂeshed. Some strands of
+evidence were more central to this than others (for instance, detailed
+study showed that cut marks were located principally on areas where
+tough residual soft tissue would adhere to bones, not where butchery
+of a fresh body would dictate). But the interpretation depended not
+upon any one of these strands of evidence, but on all of them and
+upon features of the archaeological context (for instance, that there
+were no artefacts formally associated with the bones, the cave also
+contained quotidian use as a shelter which could account for the burning, and the radiocarbon dates for these modiﬁed bones all clustered
+around a single short interval). To generalise from this, in any assemblage, some methods will be inapplicable or uninformative – this is particularly the case with assemblages from old excavations and with
+archive ‘legacy’ data, but the overall interpretation will emerge as a holistic result of all the available data.
+Nevertheless, interpretation is not entirely free-form and unique for
+every site, and the taphonomic literature tends to be written in bundles
+of case studies focusing upon a particular problem. We conclude this introduction with a quick review of some of the most important of these.
+8.1. Nuancing single burials
+Single burials – articulated, primary inhumations in graves – were
+the normative mode of burial in some of prehistory, in much of the Classical world, and in many medieval and modern societies. Archaeologists
+commonly excavate cemeteries with hundreds or even thousands of
+them. Normally, they are given little or no taphonomic thought, as the
+basic process of deposition – one body, one grave, one episode –
+seems self-evident. But taphonomic investigation can still provide useful insights inaccessible in other ways. One issue is timing of funerary
+
+668
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+practices. Study of articulation within the body itself can reveal details
+such as movement or delay before burial (Brothwell, 1987) and delayed
+burial alters the preservation of bone and the disposition of the skeleton
+(see below). Another issue is variation in burial treatment. The
+pioneering work of Boddington (1996) at Raunds Furnells, Northamptonshire (UK), examined whether taphonomic details such as body
+position, as indicated by skeletons found with closely-aligned,
+‘parallel-sided’ upper and lower limbs, a type of ‘wall effect’ in
+archaeothanatological terms (see Nilsson Stutz, 2016–in this issue),
+could indicate whether bodies were deposited in shrouds and/or cofﬁns
+of which there now remains no trace. Nilsson Stutz (in this issue) provides another example of reading taphonomically complex single
+burials in terms of whether they were bound, wrapped, or not. Similarly,
+one major focus of archaeothantology (Duday, 2006, 2011) has been to
+establish whether a body decomposed in an open space or when
+surrounded by earth. A third issue is the subsequent history of the
+grave. Disturbance of primary inhumations may suggest whether or
+not they were marked on the surface of the cemetery and how much
+concern with leaving graves preserved in perpetuity there was, or perhaps to aid return to them to retrieve human remains. In a novel methodological approach, micromorphological study of grave ﬁll sediments
+may reveal the depositional processes of burial in unprecedented detail
+(Aspöck and Banerjea, 2016–in this issue).
+
+8.2. Reading commingled depositions
+Interpreting commingled depositions is a classic problem for funerary taphonomy, and a classic problem in equiﬁnality; a very wide range
+of taphonomic processes can result in a mass of mixed bones from many
+individuals (Osterholtz et al., 2014). For example, there are well-known
+archaeological examples of commingled deposits resulting from
+(among other possibilities):
+• a deeply layered mass grave in which bones mix as soft tissues decompose, as in many more recent war crimes sites (indeed, Møllerup et al.,
+this volume, may provide one example of this);
+• a collective ossuary to which whole bodies are added one at a time
+over long periods, as in many European Neolithic and Copper Age
+tombs and in Maya cenotes (cf. Moutaﬁ and Voutsaki, 2016–in this
+issue);
+• a secondary deposition in which bones are placed following burial and
+disinterment from a primary site of deposition, as in many ossuary
+sites in the Eastern Woodlands of North America;
+• a natural crevice or trap which collects bones being moved from elsewhere by natural processes, as in some deep sink-hole or cave deposits, including important Neolithic and Palaeolithic sites.
+
+Moreover, there is no guarantee that an assemblage results
+from only a single process; it is common for commingled assemblages
+to involve multiple funerary practices and/or well as natural sorting
+factors.
+In distinguishing between these scenarios, some of the important
+questions to ask are: were the bones all deposited at the same time, or
+were they deposited sequentially (sometimes indicated by differences
+in articulation)? Were whole bodies deposited, or partial bodies, or
+bones no longer associated with soft tissues (sometimes indicated by element representation)? Did bones move around within the site (sometimes indicated by differences in element representation in different
+contexts, and by conjoins across contexts)? Were the bones selected,
+sorted or arranged in any way? Traditionally, the two most important
+taphonomic criteria have been element representation curves and articulation. However, neither of these can be interpreted on their own, and
+by combining taphonomic and contextual evidence, it is often possible
+to nuance interpretation of a commingled deposition considerably.
+
+8.3. Interpreting residual bone
+Residual bone – bone left over after other processes have removed
+part of the body – is a common archaeological deposit, and probably the
+most overlooked and understudied. Many funerary practices, such as exposure and excarnation, leave only odd fragments of bone behind. In Zoroastrianism, the earliest world religion, the dead were exposed on
+Towers of Silence, ‘dakhmas’, to be deﬂeshed by birds (vultures and
+corvids, crows and ravens) an hypothesis entertained by Peters and
+Schmidt (2004) for the Epi-palaeolithic ritual centre of Gobekli Tepe
+(southeastern Turkey), leaving no archaeological deposit other than residual bones. Similarly, practices of secondary deposition may leave only
+small overlooked bones at the place of primary deposition. Another kind
+of residual bone comes from the casual re-deposition of unwanted bone.
+In crowded medieval and modern urban graveyards, charnel from disturbed earlier graves was often piled in above or below a body deposited
+in a new grave. Such charnel deposits often include major bones; at the
+same time, small bones from disturbed burials simply became dispersed
+in the soil. Similarly, institutions such as medical schools and hospitals
+often had unmarked pits where medical waste was unceremoniously
+discarded (see contributions in Nystrom, 2016). As the example of disturbed burials within a graveyard suggests, the archaeological signature
+of residual bone will vary greatly, depending upon the processes involved;
+probably the two unifying patterns are highly disturbed, completely
+disarticulated remains, and an assemblage with anomalous patterns of
+both element representation and size (see Robb, 2016–in this issue).
+8.4. Substantiating cannibalism
+Cannibalism is a controversial and often politicised allegation, and,
+historically, cannibalism has often been alleged whenever fragmented,
+burned, or cut bones were encountered (Knüsel and Outram, 2006).
+Documenting cannibalism carefully and reliably is an important challenge and responsibility for funerary taphonomy.
+Cannibalism comes in several forms. Ethnographically, examples of
+funerary cannibalism are far from uncommon, and involve ingesting
+variable quantities of human ﬂesh, which may be that of friends or family consumed out of commemoration rather than enemies consumed
+out of hostility (e.g. Conklin, 2001). It is clear that the osteological signature of funerary cannibalism will be highly variable, perhaps minimal
+and difﬁcult to recognise. In contrast, in nutritional cannibalism, the primary purpose is simply to use other humans as a nutritional resource.
+While many examples of systematic nutritional cannibalism involve exceptional starvation conditions (e.g. the Donner party (Dixon et al.,
+2010)), ethnographic examples are not unknown, for example, in historic Polynesia (Degusta, 1999). The osteological signature of nutritional
+cannibalism is better deﬁned.
+Based on now classic studies by Villa et al. (1985, 1986a, 1986b),
+Turner and Turner (1999), and White (1992) (reviewed in Knüsel and
+Outram, 2006), the signatures of nutritional cannibalism include the
+following:
+1. Human and animal remains are found in the same context and spatial relationships (through recording and conjoining) meaning that
+the discard history is similar.
+2. Human and animal remains display a similar element representation.
+3. Patterns of bone modiﬁcation are similar for animal and human remains, with similar features in similar frequency and location. The
+human remains display cut and chop marks, percussion striae, anvil
+abrasions, internal vault release (bevelling), adhering ﬂakes, inner
+conchoidal scars, crushing of cancellous bone, and peeling of cortical
+bone. The remains have these features in the same frequency and anatomical location.
+4. Peri-mortem fractures are similar in both human and faunal remains.
+These indicate processing bones to retrieve marrow and brains for
+consumption.
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+5. Human bones, like animal bones, show evidence for burning and/or
+cooking of both whole elements and of previously fractured
+elements.
+6. Human bones display human tooth impressions (Fernández-Jalvo
+and Andrews, 2011), although these can be difﬁcult to distinguish
+from those of other carnivores, especially canid species (reviewed
+in Boulestin and Coupey, 2015: 70–74). Coprolite analysis may also
+demonstrate consumption of human ﬂesh directly (Marler et al.,
+2000).
+These features may be corroborated by secondary evidence which
+helps to discount other explanations, including an absence of carnivore
+or rodent gnawing, a palaeodemographic proﬁle with little age or sex
+bias, (i.e. unlike battle-related sites, where males predominate), and
+an absence of evidence for mortuary ritual, such as grave cuts, burial
+treatment, associated artefacts, or care in the placement of remains.
+This taphonomic signature, however, represents an extreme model of
+a phenomenon which may rarely occur so clearly and which is often
+combined with other processes. For example, at the Neolithic site of
+Herxheim, Germany, peri-mortem cranial trauma, a skewed mortality
+proﬁle, and non-local strontium signatures accompany evidence for
+cut-marks directed at dismemberment of corpses; this conjunction of
+evidence suggests cannibalism in the context of violent inter-group conﬂict, perhaps following the killing of individuals taken in raids
+(Boulestin and Coupey, 2015). Note also that, of these criteria, only
+the last directly documents the ingestion of human ﬂesh in an incontrovertible way. For example, it is theoretically possible to imagine people
+denigrating enemies by destroying their bodies in much the same way
+as animals are butchered as a symbolic statement without actually
+ingesting them. In this line, cases interpreted as Ancestral Pueblo cannibalism (Turner and Turner 1999; White, 1992) have also been
+interpreted as witch executions (Darling, 1998; Ogilvie and Hilton,
+2000) or other forms of extreme violence. Cannibalism is thus both potentially a heterogeneous and poorly bounded phenomenon and one
+very difﬁcult to conclusively demonstrate.
+
+669
+
+include individuals in primary burials, with elements still in connection
+and often in tightly ﬂexed positions, which may indicate their having
+been bundled and stored for a period before being deposited in the
+grave. Some of these individuals may have been smoked or placed in
+an anaerobic environment to stop putrefaction. These remains, then,
+have much longer biographies than that indicated by their ﬁnal inhumation context. Even after they were later committed to the ground, they
+retained evidence for the delayed putrefaction in this initial postmortem period. Smith et al., 2016–in this issue, develop this line of
+research still further for British Neolithic burial from Canada Farm,
+Wiltshire. Deeper in the past, Grine et al. (2015) argue for delayed burial
+of an Early Pleistocene Paranthropus robustus specimen from Swartkrans
+Cave, based on histological analysis which suggest that the individual
+had remained intact after death based on evidence of putrefactive changes associated with gut bacteria in this mandibular fragment.
+8.6. Bones as material culture: the further life of human bones
+Human bones may have long biographies, as objects of memory and
+social action. The range of common uses for human bone is remarkable:
+• As objects of memory (particularly of a group's ancestors) or veneration (e.g. with the relics of important spiritual persons such as saints,
+Freeman, 2011); prehistoric examples of this may include retaining
+crania for re-use (cf. Bocquentin and Garrard, this volume), as with
+the famous Pre-Pottery Neolithic plastered skulls of the Levant.
+• As trophies of war or as evidence of punishment (for instance, following the Restoration of the monarchy in England in 1660, Oliver
+Cromwell's body was dug up, decapitated, and his embalmed head
+displayed as that of a traitor (Fitzgibbons, 2008; Tarlow, 2008);
+• As a culturally signiﬁcant raw material, to be shaped into new objects
+for magical or political uses;
+• As a source of knowledge (e.g. anatomical, biological, or archaeological teaching and research collections (cf. Mitchell et al., 2011 on remains retained for teaching).
+
+8.5. Delayed burial: desiccation and mummiﬁcation
+Funerary processes often involve delayed burial, both for practical
+reasons (seasonality, the need to assemble groups for a funeral) and
+to retain remains for ceremonial use, sometimes for quite long periods
+(cf. Hanna et al., 2012; Parker Pearson et al., 2005), with or without desiccation (drying) and/or intentional preservation such as mummiﬁcation. Where this involves whole bodies rather than ancestral or trophy
+bones, osteologists have been slow to consider it as a possibility or to develop means of studying it.
+One intriguing taphonomic hypothesis holds that delayed deposition can alter the process of disarticulation, resulting in a pattern
+known as ‘paradoxical disarticulation’ (Duday and Guillon, 2006;
+Maureille and Sellier, 1996; Sellier and Bendezu-Sarmiento, 2013),
+which reverses the relationship between labile and persistent articulations, with labile connections being maintained and persistent joints
+being disarticulated. Paradoxical disarticulation thus might be an indication of desiccation/mummiﬁcation (Maureille and Sellier, 1996),
+and has also been observed in bodies deposited in ‘seated’ positions
+(Ortiz et al., 2013, Rottier, 2016–in this issue).
+An alternative approach involves combining osteological, archaeological and, importantly, histological analysis. Booth et al. (2015) identiﬁed individuals not buried immediately but treated in a manner that
+stopped or delayed putrefaction. Individuals buried rapidly were more
+poorly preserved than those kept above-ground for a period of time before eventual, delayed burial. In their sample, exposure to the ambient
+environment created natural mummies without chemical drying agents
+such as natron, as found in ancient Egypt. Some British Bronze Age individuals lack histological signs of bone decay, suggesting that selected individuals were preserved for above-ground display or use. These
+
+Through such uses, some bones may remain in circulation for centuries or even millennia. Taphonomic evidence for the long-term use of
+human bone will vary greatly, but some important clues include: a highly selective range of elements (particularly crania or crania and associated mandibles), discrepancies between the dates of the bone and of the
+context in which it was found, and particularly signs of use or modiﬁcation. The latter can range from light use-wear, to practical modiﬁcations
+of bone such as cut-marks on ribs created when organs of historic European aristocrats were removed for separate curation and/or burial
+(Mafart et al., 2004), to the labelling, packaging, and invasive sampling
+many archaeological collections undergo, to complete transformation
+(as when human bone is fashioned into receptacles, ornaments, or
+other objects).
+9. The horizons of the ﬁeld
+The taphonomy of funerary practices has emerged from the
+shadows between archaeology and biological anthropology. No longer
+a nascent ﬁeld, it has acquired a body of methods and concepts; it
+should form part of the training of every osteoarchaeologist. Moreover,
+it is proving an essential component of research that should be built into
+any research programme with plans to recover human remains from archaeological sites. This is by no means to say that funerary taphonomy is
+a ﬁnished method; that is far from the reality of the present situation.
+There are numerous areas where basic research is lacking. We mention
+here three basic directions.
+The ﬁrst is basic methodological groundwork, which remains
+patchy. In all parts of funerary taphonomy, the role of the depositional
+environment in preservation and taphonomic patterning is largely yet
+
+670
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+to be explored, though key work is being carried out to explore this in
+forensic contexts (e.g. Schotsmans et al., in press), but some key
+elements remain empirically grounded in case studies rather than
+controlled experimental observations. Replicative experiments with
+human cadavers as opposed to those of animals would be of use
+not only in medico-legal but also in archaeological circumstances.
+For example, considering exposure to scavenging animals (cf. Hill,
+1980: Fig. 8.1, Hill and Behrensmeyer, 1984), most actualistic studies
+to date involve North American and East and South African scavenging
+species, so there is clearly work to be done in Europe, the Near East,
+and other parts of the world. This geographic incompleteness also has
+a diachronic perspective. Mallye et al. (2012) show that Neandertals,
+possibly bearded vultures (Gypaetus barbatus), and dholes (Cuon
+alpinus), a species that is not found in Europe but is found in Central,
+South and Southeast Asia today, were responsible for bone accumulation in Noisetier Cave in the Pyrenees. To take another example, there
+has been surprisingly little replicative research on the possibility of
+distinguishing cut-marks made by tools of different materials, or with
+different gestures. Another methodological void is element representation proﬁles. These are typically established by citing a handful of welldocumented comparative cases where we know historically (or can
+infer with some conﬁdence) the funerary practices and taphonomic
+environment involved and the osteological data have been recorded
+well and in detail. But it would be valuable to build a systematic library
+of element representation data; this would help us to understand
+the variation in element proﬁles generated by a given funerary practice,
+and it would allow us to assess the amount of equiﬁnality in
+proﬁles generated by several interacting variables and the amount of
+conﬁdence with which we can make inferences. We could cite similar
+examples of lacunae in basic research in each category of evidence
+reviewed above.
+In a wider sense, two current general developments in archaeological science will doubtless change taphonomic studies fundamentally.
+One is digital methods of recording and analysing data, including GIS,
+3D virtual reconstruction, and recording bone preservation and associations between bones. Anyone who has ever had to plan and record a
+three-dimensional jumble of commingled bone will agree that such depositions push the limits of ﬁeld recording. Digital applications such as
+photogrammetric reconstruction offer an entirely new way of
+visualising and analysing bone depositions, which may be not only
+faster, more efﬁcient and precise but also expand our ability to imagine
+and reconstruct depositional processes. The other novel method is analysis of ancient DNA. Although aDNA analysis is currently too expensive
+to apply en masse to more than selected specimens, it may someday
+offer entirely new ways of studying funerary practices. For example, it
+would be enlightening to be able to determine sex from fragmented,
+disarticulated adult bones, as well as juvenile bones; aDNA analysis
+could make the entire problem of determining an MNE and MNI obsolete by giving concrete answers to how many people a commingled assemblage represents; and genetic ‘conjoins’ could open new methods
+for assessing bone movement and relatedness among commingled
+remains.
+A ﬁnal direction for developing the ﬁeld concerns heritage studies.
+'Public archaeology' is the fastest-growing sector of archaeology, and,
+unlike even a decade ago, most archaeological research now has a component of public outreach. Funerary taphonomy can raise controversial
+issues, as in debates over Ancestral Pueblo cannibalism. But equally
+often, it can help resolve such debates, for instance by posing alternative, more culturally contextualised interpretations. In a more profound
+sense, human bodies are human stories, and funerary taphonomy helps
+to reconstruct the stories of bodies at a universal moment, the transition
+from life to death and after-death. Detailed study of deathways can reveal the great variety of ways in which people in all cultures have
+dealt with this important life transition. And it can help reveal a more
+vivid and people-centred past that engrosses the public as well as professional archaeologists.
+
+Acknowledgements
+We are grateful to the participants in the session ‘Beyond Burial’ at
+the 2014 European Archaeological Association meeting in Istanbul. CJK
+thanks the presenters and participants in the roundtable discussion on
+‘burial terminology’ at the 2015 meeting of the EAA (European Archaeological Association) in Glasgow, upon which the terminology section of
+this contribution draws, including Martin Smith (Bournemouth University, UK), Fanny Bocquentin, Philippe Chambon, Pascal Sellier (all CNRS,
+UMR 7041, ArScAn, Paris, France), Aurore Schmitt (UMR 7268, ADES,
+Université d'Aix-Marseille, France). Liv Nilsson-Stutz (Emory University, USA), and Edeltraud Aspöck and Estella Weiss-Krejci (both Austrian
+Academy of Sciences, Institute for Oriental and European Archaeology
+(OREA)). The interpretation of their contributions is the ﬁrst author's
+own, and they bear no responsibility for any errors in transmission.
+We thank Jo Buckberry and Alan Ogden, both from the Biological Anthropology Research Centre (BARC), University of Bradford, Richard
+Madgwick of Cardiff University and Hampshire Museums Services,
+and Martin Smith of Bournemouth University for the use of the images
+they provided to illustrate this chapter. Seán Goddard, Department of
+Archaeology, University of Exeter, kindly provided the line drawings
+that appear in this piece. We thank Piers Mitchell (Division of Biological
+Anthropology, University of Cambridge) for his protocols for parasite
+analysis. We are also grateful to two anonymous reviewers for their
+careful and thoughtful comments, which have improved this article
+substantially.
+References
+Adams, B.J., Byrd, J.E. (Eds.), 2014. Commingled Human Remains: Methods in Recovery,
+Analysis, and Identiﬁcation. Academic Press, Amsterdam.
+Adams, B.J., Konigsberg, L.W., 2004. Estimation of the most likely number of individuals
+from commingled human skeletal remains. Am. J. Phys. Anthropol. 125, 138–151.
+Anderson, G.S., Cervenka, V.J., 2002. Insects associated with the body: their use and
+analyses. In: Haglund, D., Sorg, M.H. (Eds.), Advances in Forensic Taphonomy:
+Method, Theory, and Archaeological Perspectives. CRC Press, Boca Raton,
+pp. 173–200.
+Andrews, P., Bello, S.M., 2006. Pattern in human burial practice. In: Gowland, R.L., Knüsel,
+C.J. (Eds.), Social Archaeology of Funerary Remains. Oxbow Books, Oxford, pp. 14–29.
+Andrews, P., Cook, J., 1985. Natural modiﬁcations to bones in a temperate setting. Man 20,
+675–691 (N.S.).
+Armit, I., 2006. Inside Kurtz's compound: headhunting and the human body in prehistoric
+Europe. In: Bonogofsky, M. (Ed.), Skull Collection, Modiﬁcation and DecorationBritish
+Archaeological Reports Vol. 1539. Archaeopress, Oxford, pp. 1–14.
+Armit, I., 2012. Headhunting and the Body in Iron Age Europe. Cambridge University Press,
+Cambridge.
+Armit, I., Schulting, R., Knüsel, C.J., Shepherd, I., 2011. Death, decapitation and display?
+The Bronze and Iron Age human remains from the Sculptor's Cave, Covesea, Northeast Scotland. Proc. Prehist. Soc. 77, 251–278.
+Aspöck, E., Banerjea, R., 2016. Formation processes of a re-opened early Bronze Age inhumation grave in Austria: the soil thin section analyses. J. Archaeol. Sci.: Reports, Special Issue on Funerary Taphonomy 10, 791–809 (in this issue).
+Bass, W.M., 1984. Is it possible to consume a body completely in a ﬁre? In: Rathbun, T.A.,
+Buikstra, J.E. (Eds.), Human Identiﬁcation: Case Studies in Forensic Anthropology.
+Charles C. Thomas, Springﬁeld, IL, pp. 159–167.
+Beckett, J.F., 2011. Interactions with the dead: a taphonomic analysis of burial practices in
+three megalithic tombs in County Clare, Ireland. J. Eur. Archaeol. 14, 394–418.
+Behrensmeyer, A.K., 1978. Taphonomic and ecologic information from bone weathering.
+Paleobiology 4 (2), 150–162.
+Behrensmeyer, A.K., 1982. Time resolution in ﬂuvial vertebrate assemblages. Paleobiology
+8 (3), 211–217.
+Behrensmeyer, A.K., Hill, A.P., 1980. Fossils in the Making: Vertebrate Taphonomy and Paleoecology. University of Chicago Press, Chicago and London.
+Bello, S.M., Andrews, P., 2006. The intrinsic pattern of preservation of human skeletons
+and its inﬂuence on the interpretation of funerary behaviours. In: Gowland, R.L.,
+Knüsel, C.J. (Eds.), Social Archaeology of Funerary Remains. Oxbow Books, Oxford,
+pp. 1–13.
+Binford, L.R., 1972. Mortuary practices: their study and potential. In: Binford, L.R. (Ed.), An
+Archaeological Perspective. Seminar Press, New York, pp. 108–243.
+Binford, L.R., 1977. For Theory Building in Archaeology: Essays on Faunal Remains, Aquatic
+Resources, Spatial Analysis and Systemic Modelling. Academic Press, London.
+Binford, L.R., 1981. Bones: Ancient Men and Modern Myths. Academic Press, New York.
+Bocquentin, F., Garrard, A., 2016. Natuﬁan collective burial practice and cranial pigmentation: a reconstruction from Azraq 18 (Jordan). J. Archaeol. Sci.: Reports, Special Issue
+on Funerary Taphonomy 10, 693–702 (in this issue).
+Boddington, A., 1996. Raunds Furnells: The Anglo-Saxon Church and Churchyard. English
+Heritage, London.
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+Boddington, A., Garland, N., Janaway, R.C. (Eds.), 1987. Death, Decay and Reconstruction.
+Manchester University Press, Manchester.
+Booth, T.J., 2015. An investigation into the relationship between funerary treatment
+and bacterial bioerosion in European archaeological human bone. Archaeometry
+http://dx.doi.org/10.1111/arcm.12190.
+Booth, T.J., Chamberlain, A.T., Parker Pearson, M., 2015. Mummiﬁcation in Bronze Age
+Britain. Antiquity 89, 1–20.
+Bos, K.I., Schuenemann, V.J., Golding, G.B., Burbano, H.A., Waglechner, N., Coombes, B.K.,
+McPhee, J.B., DeWitte, S.N., Meyer, M., Schmedes, S., Wood, J., Earn, D.J.D., Herring,
+D.A., Bauer, P., Poinar, H.N., Krause, J., 2011. A draft genome of Yersinia pestis from victims of the Black Death. Nature 478, 506–510.
+Boulestin, B., 2015. Conservation du crâne et terminologie: pour en ﬁnir avec quelques
+mots de tête! Skull conservation and terminology: time to get our heads together!
+Bull. Mem. Soc. Anthropol. Paris 27, 16–25.
+Boulestin, B., Coupey, A.-S., 2015. Cannibalism in the Linear Pottery Culture: The Human Remains From Herxheim. Archaeopress, Oxford.
+Boulestin, B., Zeeb-Lanz, A., Jeunesse, C., Haack, F., Arbogast, R.-M., Denaire, A., 2009. Mass
+cannibalism in the Linear Pottery Culture at Herxheim (Palatinate, Germany). Antiquity 83, 968–982.
+Brain, C.K., 1981. The Hunters or the Hunted? University of Chicago Press, Chicago
+Brettell, R.C., Stern, B., Reifarth, N., Heron, C., 2014. The ‘semblance of immortality’? Resinous materials and mortuary rites in Roman Britain. Archaeometry 56, 444–459.
+Brettell, R.C., Schotsmans, E.M.J., Walton Rogers, P., Reifarth, N., Redfern, R.C., Stern, B.,
+Heron, C., 2015. ‘Choicest unguents’: molecular evidence for the use of resinous
+plant exudates in late Roman mortuary rites in Britain. J. Archaeol. Sci. 53, 639–648.
+Brickley, M., McKinley, J.I. (Eds.), 2004. Guidelines to the Standards for Recording Human
+RemainsInstitute of Field Archaeologists Paper No. 7. BABAO; IFA, Southampton.
+Brothwell, D.R., 1987. Decay and disorder in the York Jewbury skeletons. In: Boddington,
+A., Garland, A.N., Janaway, R.C. (Eds.), Death, Decay, and Reconstruction. Manchester
+University Press, Manchester, pp. 22–26.
+Buckley, M., Collins, M.J., Thomas-Oates, J., 2008. A method of isolating the collagen (I)
+alpha 2 chain carboxytelopeptide for species identiﬁcation in bone fragments. Anal.
+Biochem. 374, 325–334.
+Buckley, M., Collins, M.J., Thomas-Oates, J., Wilson, J., 2009. Species identiﬁcation of bone
+collagen using matrix-assisted laser desorption/ionization mass spectrometry. Rapid
+Commun. Mass Spectrom. 23, 3843–3854.
+Buckley, M., Melton, N.D., Montgomery, J., 2013. Proteomics analysis of ancient food vessel stitching reveals 4000-year-old milk protein. Rapid Commun. Mass Spectrom. 43,
+1–8.
+Buikstra, J.E., 1977. Biocultural dimensions of archaeological study: a regional perspective.
+In: Blakely, R.L. (Ed.), Biocultural Adaptation in Prehistoric America. The University of
+Georgia Press, Athens (GA), pp. 67–84.
+Buikstra, J.E., 2006. A historical introduction. In: Buikstra, J.E., Beck, L.A. (Eds.),
+Bioarchaeology: the Contextual Analysis of Human Remains. Academic Press, Amsterdam, pp. 7–25.
+Buikstra, J.E., Ubelaker, D., 1994. Standards for Data Collection From Human Skeletal Remains. Arkansas Archaeological Survey, Fayetteville.
+Byrd, J.E., LeGarde, C.B., 2014. Osteometric sorting. In: Adams, B.J., Byrd, J.E. (Eds.),
+Commingled Human Remains: Methods in Recovery, Analysis, and Identiﬁcation. Academic Press, Amsterdam, pp. 167–191.
+Calais-Germain, B., 1993. Anatomy of Movement. Eastland Press, Seattle (WA).
+Cauvin, J., 1997. Naissance des dévinités, Naissance de l'Agriculture: La Révolution des
+Symboles au Néolithique. CNRS, Paris.
+Cauvin, J., 2000. The symbolic foundations of the Neolithic Revolution in the Near East. In:
+Kuijt, I. (Ed.), Life in Neolithic Farming Communities: Social Organization, Identity,
+and Differentiation. Kluwer Academic/Plenum Publishers, New York, pp. 235–251.
+Conklin, B., 2001. Consuming Grief: Compassionate Cannibalism in an Amazonian Society.
+University of Texas Press, Austin.
+Courtaud, P., 1996. “Anthropologie de sauvetage”: vers une optimisation des méthodes
+d'enregistrement. Présentation d'une ﬁche anthropologique. Bull. Mem. Soc.
+Anthropol. Paris 8, 157–167 (n.s.).
+Crozier, R., 2016. Fragments of death. A taphonomic study of human remains from
+Neolithic Orkney. J. Archaeol. Sci.: Reports, Special Issue on Funerary Taphonomy
+10, 725–734 (in this issue).
+Dabbs, G.R., Martin, D.C., 2013. Geographic variation in the taphonomic effect of vulture
+scavenging: the case for Southern Illinois. J. Forensic Sci. 58, S20–S25.
+Darling, J.A., 1998. Mass inhumation and the execution of witches in the American Southwest. Am. Anthropol. 100, 732–752.
+de Becdelievre, C., Thiol, S., Santos, F., Rottier, S., 2015. From ﬁre-induced alterations on
+human bones to the original circumstances of the ﬁre: an integrated approach of
+human cremains drawn from a Neolithic collective burial. J. Archaeol. Sci. Rep. 4,
+210–225.
+Degusta, D., 1999. Fijian cannibalism: osteological evidence from Navatu. Am. J. Phys.
+Anthropol. 110, 215–241.
+Devlin, J.B., Herrmann, N.P., 2008. Bone color as an interpretative tool of the depositional
+history of archaeological cremations. In: Schmidt, C.W., Symes, S.A. (Eds.), The Analysis of Burned Human Remains. Academic Press, London, pp. 109–135.
+Dixon, K., Novak, S., Robbins, G., Schablitsky, J., Scott, G., Tasa, G., 2010. Men, women and
+children starving: archaeology of the Donner family camp. Am. Antiq. 75, 627–657.
+Dodson, P., Wexlar, D., 1979. Taphonomic analysis of owl pellets. Palaeobiology 5,
+279–284.
+Duday, H 2006. L'Archéothanatologie ou l'archéologie de la mort. Translated by Knüsel,
+C.J. In: Gowland R.L. and Knüsel, C.J. (eds.) Social Archaeology of Funerary Remains.
+Oxbow Books, Oxford, pp. 30–56.
+Duday, H 2011. The Archaeology of the Dead: Lectures in Archaeothanatology. Translated by
+Cipriani, A.M. and Pearce, J. Oxbow Books, Oxford.
+
+671
+
+Duday, H., Guillon, M., 2006. Understanding the circumstances of decomposition when
+the body is skeletonized. In: Schmitt, A., Cunha, E., Pinheiro, J. (Eds.), Forensic Anthropology and Medicine: Complementary Sciences From Recovery to Cause of Death.
+Humana Press, New Jersey, pp. 117–157.
+Duday, H., Courtaud, P., Crubézy, E., Sellier, P., Tillier, A.-M., 1990. L'anthropologie de “terrain”: reconnaissance et interprétation des gestes funéraires. Bull. Mem. Soc.
+Anthropol. Paris 2 (3–4), 26–49.
+Dunham, G., Gold, D., Hantman, J., 2003. Collective burial in Late Prehistoric interior Virginia: excavation and analysis of the Rapidan Mound. Am. Antiq. 68, 109–128.
+Emberling, G., Robb, J., Speth, J., Wright, H., 2002. Kunji Cave: early Bronze Age burials in
+Luristan. Iran. Antiq. 37, 47–104.
+Fernández-Jalvo, Y., Andrews, P., 2011. When humans chew bones. J. Hum. Evol. 60,
+117–123.
+FIPAT (Federative International Programme on Anatomical Terminologies), 2011.
+Terminologia Anatomica: International Anatomical Terminology. second ed. Thieme,
+Stuttgart and New York.
+Fitzgibbons, J., 2008. Cromwell's Head. The National Archives, London.
+Forte, M., Dell'Unto, N., Jonsson, K., Lercari, N., 2015. Interpretation process at Çatalhöyük
+using 3D. In: Hodder, I., Marciniak, A. (Eds.), Assembling Çatalhöyük. Maney Publishing, Leeds (UK), pp. 43–57.
+Freeman, C., 2011. Holy Bones, Holy Dust: How Relics Shaped the History of Medieval Europe.
+Yale University Press, New Haven and London.
+Galer, D., 2006. The human remains. In: Benson, D., Whittle, A. (Eds.), Building Memories:
+The Neolithic Cotswold Long Barrow at Ascott-under-Wychwood, Oxfordshire.
+Oxbow, Oxford, pp. 189–220.
+Galloway, A., 1999. Broken Bones: Anthropological Analysis of Blunt Force Trauma.
+Charles Thomas, Springﬁeld, IL.
+Grine, F.E., Bromage, T.G., Daegling, D.J., Burr, D.B., Brain, C.K., 2015. Microbial osteolysis in
+an Early Pleistocene hominin (Paranthropus robustus) from Swartkrans, South Africa.
+J. Hum. Evol. 85, 126–135.
+Haddow, S.D., Sadvari, J.W., Knüsel, C.J., Hadad, R., 2015. A tale of two platforms:
+commingled remains and the life-course of houses at Neolithic Çatalhöyük. In:
+Osterholtz, A. (Ed.), Theoretical Approaches to Analysis and Interpretation of
+Commingled Human Remains. Springer, New York, pp. 5–29.
+Haglund, W.D., 1997. Dogs and coyotes: postmortem involvement with human remains.
+In: Haglund, W.D., Sorg, M.H. (Eds.), Forensic Taphonomy: The Postmortem Fate of
+Human Remains. CRC Press, Boca Raton, pp. 367–381.
+Haglund, W.D., Reay, D.T., Swindler, D.R., 1988. Tooth mark artifacts and survival of bones
+in animal scavenged human skeletons. J. Forensic Sci. 33, 985–997.
+Haglund, W.D., Reay, D.T., Swindler, D.R., 1989. Canid scavenging/disarticulation sequence
+of human remains in the Paciﬁc Northwest. J. Forensic Sci. 34, 587–606.
+Haglund, W.D., Sorg, M.H. (Eds.), 1997. Forensic Taphonomy: The Postmortem Fate of
+Human Remains. CRC Press, Boca Raton.
+Haglund, W.D., Sorg, M.H. (Eds.), 2002. Advances in Forensic Taphonomy: Method, Theory, and Archaeological Perspectives. CRC Press, Boca Raton.
+Hanna, J., Bouwman, A.S., Brown, K.A., Parker Pearson, M., Brown, T.A., 2012. Ancient DNA
+typing shows that a Bronze Age mummy is a composite of different skeletons.
+J. Archaeol. Sci. 39, 2774–2779.
+Henry-Gambier, D., 2008. Comportement des populations d'Europe au Gravettien: pratiques funéraires et interprétations. Paléo 20, 165–204.
+Hertz, R., 1960. A contribution to death and the right hand. Death and the Right Hand.
+Free Press, New York. Translated by R. Needham and C. Needham.
+Hill, A., 1980. Early post-mortem damage to the remains of some contemporary east African mammals. In: Behrensmeyer, A.K., Hill, A. (Eds.), Fossils in the Making. University Chicago Press, Chicago, pp. 131–152.
+Hill, A., Behrensmeyer, A.K., 1984. Disarticulation patterns of some modern East African
+mammals. Paleobiology 10 (3), 366–376.
+Huchet, J.B., 1996. L'Archéoentomologie funéraire: une approached originelle dans
+l'interpretation des sépultures. Bull. Mem. Soc. Anthropol. Paris 8 (3–4), 299–311.
+Huchet, J.-B., 2014a. Approche ichnologique et taphonomique des alterations
+ostéolytiques dues aux insectes en contexte archéologique. In: Denys, C., PatouMathis, M. (Eds.), Manuel de Taphonomie. Muséum National d'Histoire Naturelle
+CNRS, Errance, Paris, pp. 185–207.
+Huchet, J.-B., 2014b. Insect remains and their traces: relevant fossil witnesses in the reconstruction of past funerary practices. Anthropologie 52 (3), 329–346 (Brno).
+Huchet, J.-B., Deverly, D., Gutierrez, B., Chauchat, C., 2011. Taphonomic evidence of a
+human skeleton gnawed by termites in a Moche-civilisation grave at Huaca De La
+Luna, Peru. Int. J. Osteoarchaeol. 21, 92–102.
+Huchet, J.-B., Le Mort, F., Rabinovich, R., Blau, S., Coqueugniot, H., Arensburg, B., 2013.
+Identiﬁcation of dermestid pupal chambers on Southern Levant human bones: inference for reconstruction of Middle Bronze Age mortuary practices. J. Archaeol. Sci. 40,
+3793–3803.
+Huntington, R., Metcalf, P., 1991. Celebrations of Death: The Anthropology of Mortuary Ritual. Cambridge University Press, Cambridge.
+James, E.C., Thompson, J.C., 2015. On bad terms: problems and solutions within
+zooarchaeological bone surface modiﬁcation studies. Environ. Archaeol. 20 (1),
+89–103.
+Jans, M.M.E., 2005. Histological Characterization of Diagenetic Alteration of Archaeological
+Bone. Vrije Universiteit Amsterdam, Amsterdam.
+Kansa, S.W., Gauld, S., Campbell, S., Carter, E., 2009. Whose bones are those? Preliminary
+comparative analysis of fragmented human and animal bones in the ‘death pit’ at
+Domuztepe, a Late Neolithic settlement in Southeastern Turkey. Anthropozoologica
+44 (1), 159–172.
+Karr, L.P., Outram, A.K., 2012a. Actualistic research into dynamic impact and its implications for understanding differential bone fragmentation and survivorship.
+J. Archaeol. Sci. 39, 3443–3449.
+
+672
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+
+Karr, L.P., Outram, A.K., 2012b. Tracking changes in bone fracture morphology over time:
+environment, taphonomy, and the archaeological record. J. Archaeol. Sci. 39,
+555–559.
+Karr, L.P., Outram, A.K., 2015. Bone degradation and environment: understanding,
+assessing and conducting archaeological experiments using modern animal bones.
+Int. J. Osteoarchaeol. 25, 201–212.
+Kellehear, A., 2007. A Social History of Dying. Cambridge University Press, Cambridge.
+Klippel, W.E., Synstelien, J.A., 2007. Rodents as taphonomic agents: bone gnawing by
+brown rats and gray squirrels. J. Forensic Sci. 52 (4), 765–773.
+Knüsel, C.J., 2005. The physical evidence of warfare - subtle stigmata? In: Parker Pearson,
+M., Thorpe, I.J.N. (Eds.), Warfare, Violence, and SlaveryBritish Archaeological Reports
+International Series Vol. 1374. Archaeopress, Oxford, pp. 49–65
+Knüsel, C.J., 2014. Crouching in fear: terms of engagement for funerary remains. J. Soc.
+Archaeol. 14 (1), 26–58.
+Knüsel, C.J., Haddow, S.D., Sadvari, J.W., Dell'Unto, N., 2013. Bioarchaeology in 3D: threedimensional recording of human burials at Neolithic Çatalhöyük. Poster Presentation,
+82nd Meeting of the American Association of Physical Anthropologists (AAPA), Knoxville, Tennessee, USA, April 16, 2013.
+Knüsel, C.J., Outram, A.K., 2004. Fragmentation: the zonation method applied to
+fragmented human remains from archaeological and forensic contexts. Environ.
+Archaeol. 9, 85–97.
+Knüsel, C., Outram, A., 2006. Fragmentation of the body: comestibles, compost, or customary rite? In: Gowland, R., Knüsel, C. (Eds.), Social Archaeology of Funerary Remains.
+Oxbow, Oxford, pp. 253–278.
+Knüsel, C., Robb, J., Tafuri, M., 2016. The Upper Cave: taphonomic analysis of treatment of
+the dead. In: Elster, E., Isetti, E., Robb, J., Traverso, A. (Eds.), The Archaeology of Grotta
+Scaloria: Ritual in Neolithic Southeast Italy. Cotsen Institute of Archaeology, UCLA, Los
+Angeles, pp. 145–192.
+Kreuz, A., 2000. Functional and conceptual archaeobotanical data from Roman cremations. In: Pearce, J., Millet, M., Struck, M. (Eds.), Burial, Society and Context in the
+Roman World. Oxbow, Oxford, pp. 45–51.
+Lambacher, N., Gerdau-Radonic, K., Bonthorne, E., Valle de Tarazaga Montero, F.J., 2016.
+Evaluating three methods to estimate the number of individuals from commingled
+contexts. J. Archaeol. Sci.: Reports, Special Issue on Funerary Taphonomy 10,
+674–683 (in this issue).
+Larsen, C.S., 1997. Bioarchaeology: Interpreting Behaviour From the Human Skeleton. Cambridge University Press, Cambridge.
+Larsen, C.S., 2006. The changing face of bioarchaeology: an interdisciplinary science. In:
+Buikstra, J.E., Beck, L.A. (Eds.), Bioarchaeology: The Contextual Analysis of Human Remains. Academic Press, Amsterdam, pp. 375–415.
+Leclerc, J., 1990. La notion de sépulture. Bull. Mem. Soc. Anthropol. Paris 2 (3–4), 13–18
+(n.s.).
+Leroi-Gourhan, A., 1975. The ﬂowers found with Shanidar IV, a Neandertal burial in Iraq.
+Science 190, 562–564.
+Leroi-Gourhan, A., 1998. Shanidar et ses ﬂeurs. Paléorient 24 (2), 79–88.
+Lorentz, K.O., 2016. Challenges for funerary taphonomy viewed through prehistoric Cyprus. J. Archaeol. Sci.: Reports, Special Issue on Funerary Taphonomy 10, 757–768
+(in this issue).
+Lyman, R.L., 1994. Vertebrate Taphonomy. Cambridge University Press, Cambridge.
+Lyman, R.L., 2010. What taphonomy is, what it isn't, and why taphonomists should care
+about the difference. J. Taphonomy 8 (1), 1–16.
+Lyman, R.L., Fox, G.L., 1989. A critical evaluation of bone weathering as an indicator of
+bone assemblage formation. J. Archaeol. Sci. 16, 293–317.
+Mack, J.E., Waterman, A.J., Racila, A.-M., Artz, J.A., Lillios, K.T., 2016. Applying
+zooarchaeological methods to interpret mortuary behaviour and taphonomy in
+commingled burials: the case study of the Late Neolithic site of Bolores, Portugal.
+Int. J. Osteoarchaeol. http://dx.doi.org/10.1002/oa.2443 (in press).
+Mafart, B., Pelletier, J.-P., Fixot, M., 2004. Post-mortem ablation of the heart: a medieval
+funerary practice. A case observed at the cemetery of Ganagobie Priory in the French
+Department of Alpes de Haute Provence. Int. J. Osteoarchaeol. 14, 67–73.
+Mallye, J.-B., Costamagno, S., Boudadi-Maligne, M., Prucca, A., Lauroulandie, V.,
+Thiébaut, C., Mourre, V., 2012. Dhole (Cuon alpinus) as a bone accumulator
+and new taphonomic agent? The case of Noisetier Cave (French Pyrenees).
+J. Taphonomy 10 (3–4), 317–347.
+Marler, R.A., Leonard, B.L., Billman, B.R., Lambert, P.M., Marler, J.E., 2000. Biochemical evidence of cannibalism as a prehistoric Puebloan site in southwestern Colorado. Nature 407, 74–78.
+Maureille, B., Sellier, P., 1996. Dislocation en ordre paradoxal, momiﬁcation et décomposition:
+observations et hypotheses. Bull. Mem. Soc. Anthropol. Paris 8 (3–4), 313–327 (n.s.).
+Mayne Correia, P., 1997. Fire modiﬁcation of bone: a review of the literature. In: Haglund,
+W.D., Sorg, M.H. (Eds.), Forensic Taphonomy: The Postmortem Fate of Human Remains. CRC Press, Boca Raton, pp. 275–293.
+Mayne Correia, P.M., Beattie, O., 2002. A critical look at methods for recovering, evaluating
+and interpreting cremated human remains. In: Haglund, W.D., Sorg., M.H. (Eds.), Advances in Forensic Taphonomy: Method, Theory, and Archaeological Perspectives.
+CRC Press, Boca Raton, pp. 435–450.
+Mitchell, P., Boston, C., Chamberlain, A., Chaplin, S., Chauhan, V., Evans, J., Fowler, L.,
+Powers, N., Walker, D., Webb, H., Witkin, A., 2011. The study of anatomy in England
+from 1700 to the early 20th century. J. Anat. 219, 91–99.
+Møllerup, L., Tjellden, A.K.E., Hertz, E., Holst, M.K., 2016. Postmortem exposure interval of
+an Iron Age human assemblage from Alken Enge, Denmark. J. Archaeol. Sci.: Reports,
+Special Issue on Funerary Taphonomy 10, 819–827 (in this issue).
+Morlan, R.E., 1984. Toward the deﬁnition of criteria for the recognition of artiﬁcial bone
+alterations. Quat. Res. 22, 160–171.
+Moutaﬁ, I., Voutsaki, S., 2016. Commingled burials and shifting notions of the self at the
+onset of the Mycenaean era (1700-1500 BC): the case of the Ayios Vasilios North
+
+Cemetery. Laconia, J. Archaeol. Sci.: Reports, Special Issue on Funerary Taphonomy
+10, 780–790 (in this issue).
+Murail, P., Bruzek, J., Houët, F., Cunha, E., 2005. DSP: a tool for probabilistic sex diagnosis
+using worldwide variability in hip bone measurements. Bull. Mem. Soc. Anthropol.
+Paris 17 (3–4), 167–176 (n.s.).
+Naji, S., de Becdelièvre, C., Djouad, S., Duday, H., André, A., Rottier, S., 2014. Recovery
+methods for cremated commingled remains: analysis and interpretation of small
+fragments using a bioarchaeological approach. In: Adams, B.J., Byrd, J.E. (Eds.),
+Commingled Human Remains: Methods in Recovery, Analysis, and Identiﬁcation. Academic Press, Amsterdam, pp. 33–56.
+Nawrocki, S.P., 2009. Forensic taphonomy. In: Blau, S., Ubelaker, D.H. (Eds.), Handbook of
+Forensic Anthropology and Archaeology. Left Coast Press, Walnut Creek (CA),
+pp. 284–294.
+Nikita, E., 2014. Estimation of the original number of individuals using multiple skeletal
+elements. Int. J. Osteoarchaeol. 24 (5), 660–664.
+Nikita, E., Lahr, M.M., 2011. Simple algorithms for the estimation of the initial number of individuals in commingled skeletal remains. Am. J. Phys. Anthropol. 146,
+629–636.
+Nilsson Stutz, L.G., 2016. Disturbing the dead. Archaeothanatological analysis of the Stone
+Age burials at Zvejnieki, Latvia (excavated 2006-2009). J. Archaeol. Sci.: Reports, Special Issue on Funerary Taphonomy 10, 715–724 (in this issue).
+Nystrom, K.C., 2016. The Bioarchaelogy of Dissection and Autopsy in the United States.
+Springer, New York.
+Ogilvie, M.D., Hilton, C.E., 2000. Ritualized violence in the prehistoric American Southwest. Int. J. Osteoarchaeol. 10, 27–48.
+Olsen, S.L., Shipman, P., 1988. Surface modiﬁcation on bone: trampling versus butchery.
+J. Archaeol. Sci. 15, 535–553.
+Olsen, S.L., Shipman, P., 1994. Cut-marks and peri-mortem treatment of skeletal remains
+on the northern Great Plains. In: Owsley, D., Jantz, R. (Eds.), Skeletal Biology of the
+Great Plains: Migration, Warfare, Health and Subsistence. Smithsonian Institution
+Press, Washington, pp. 377–387.
+O'Shea, J.M., 1984. Mortuary Variability: An Archaeological Investigation. Academic Press,
+Orlando.
+Orschiedt, J., 1997. Beispiele für Sekundärbestattungen vom Jungpaläolithikum bis zum
+Neolithikum. Ethnographisch-Archäologische Zeitshrift 38, 325–345.
+Orschiedt, J., Haidle, M.N., 2006. The LBK enclosure at Herxheim: theatre of war or ritual
+centre? References from osteoarchaeological investigations. J. Conﬂ. Archaeol. 2 (1),
+153–167.
+Orschiedt, J., Haidle, M.N., 2012. Violence against the living, violence against the dead on
+human remains from Herxheim, Germany: evidence of a crisis and mass cannibalism? In: Schulting, R.J., Fibiger, L. (Eds.), Sticks, Stones, and Broken Bones. Oxford University Press, Oxford (212-137).
+Ortiz, A., Chambon, P., Molist, M., 2013. “Funerary bundles” in the PPNB at the archaeological site of Tell Halula (middle Euphrates valley, Syria): analysis of the taphonomic
+dynamics of seated bodies. J. Archaeol. Sci. 40, 4150–4161.
+Osterholtz, A.J., Baustian, K.M., Martin, D.L. (Eds.), 2014. Commingled and Disarticulated
+Human Remains: Working Towards Improved Theory, Method, and Data. Springer,
+New York.
+Outram, A.K., 2002. Bone fracture and within-bone nutrients: an experimentally based
+method for investigating levels of marrow extraction. In: Miracle, P., Milner, N.
+(Eds.), Consuming Passions and Patterns of Consumption, McDonald Institute Monograph Series. McDonald Institute, Cambridge, pp. 51–64.
+Outram, A.K., 2004. Applied models and indices vs. high resolution, observed data: detailed fracture and fragmentation analyses for the investigation of skeletal part abundance patterns. J. Taphonomy 2 (3), 167–184.
+Outram, A.K., Knüsel, C.J., Knight, S., Harding, A.F., 2005. Understanding complex
+fragmented assemblages of human and animal remains: a fully integrated approach.
+J. Archaeol. Sci. 32 (12), 1699–1710.
+Parker Pearson, M., 1982. Mortuary practices, society, and ideology: an
+ethnoarchaeological case study. In: Hodder, I. (Ed.), Symbolic and Structural Archaeology. Cambridge University Press, Cambridge, pp. 99–113.
+Parker Pearson, M., 1999. The Archaeology of Death and Burial. Sutton, Stroud,
+Gloucestershire.
+Parker Pearson, M., Chamberlain, A., Craig, O., Marshall, P., Mulville, J., Smith, H.,
+Chenery, C., Collins, M., Cook, G., Craig, G., Evans, J., Hiller, J., Montgomery, J.,
+Schwenninger, J.-L., Taylor, G., Wess, T., 2005. Evidence for mummiﬁcation in
+Bronze Age Britain. Antiquity 79, 529–546.
+Peters, J., Schmidt, K., 2004. Animals in the symbolic world of Pre-Pottery Neolithic
+Göbekli Tepe, south-eastern Turkey: a preliminary assessment. Anthropozoologica
+39 (1), 179–218.
+Pilloud, M.A., Haddow, S.D., Knüsel, C.J., Larsen, C.S., 2016. A bioarchaeological and forensic reassessment of vulture deﬂeshing and mortuary practices and Neolithic
+Çatalhöyük. J. Archaeol. Sci.: Reports, Special Issue on Funerary Taphonomy 10,
+735–743 (in this issue).
+Pickering, T.R., White, T.D., Toth, N., 2000. Cutmarks on a Plio-Pleistocene hominid from
+Sterkfontein, South Africa. Am. J. Phys. Anthropol. 111, 579–584.
+Pokines, J.T., Symes, S.A. (Eds.), 2014. Manual of Forensic Taphonomy. CRC Press, Boca
+Raton.
+Preiss, S., Matterne, V., Latron, F., 2005. An approach to funerary rituals in the Roman
+provinces: plant remains from a Gallo-Roman cemetery at Faulquemont (Moselle,
+France). Veg. Hist. Archaeobot. 14, 362–372.
+Reeves, N.M., 2009. Taphonomic effects of vulture scavenging. J. Forensic Sci. 54 (3),
+523–528.
+Robb, J., 2013. Creating death: an archaeology of dying. In: Nilsson Stutz, L., Tarlow, S.
+(Eds.), The Oxford Handbook of the Archaeology of Death and Burial. Oxford
+University Press, Oxford, pp. 441–458.
+
+C.J. Knüsel, J. Robb / Journal of Archaeological Science: Reports 10 (2016) 655–673
+Robb, J., 2016. What can we really say about skeletal part representation, MNI and funerary ritual? A simulation approach. J. Archaeol. Sci.: Reports, Special Issue on Funerary
+Taphonomy 10, 684–692 (in this issue).
+Robb, J., Elster, E., Isetti, E., Knüsel, C.J., Tafuri, M., Traverso, A., 2015. Cleaning the dead:
+Neolithic ritual processing of human bone at Scaloria Cave, Italy. Antiquity 89
+(343), 39–54.
+Rottier, S., 2016. The seated dead: evidence of funerary complexity from the Early Late
+Bronze Age, 14th-12th centuries BCE in France. J. Archaeol. Sci.: Reports, Special
+Issue on Funerary Taphonomy 10, 810–818 (in this issue).
+Russell, M.D., 1987a. Bone breakage in the Krapina hominid collection. Am. J. Phys.
+Anthropol. 72, 373–379.
+Russell, M.D., 1987b. Mortuary practices at the Krapina Neanderthal site. Am. J. Phys.
+Anthropol. 72, 381–397.
+Ryan, P., 2011. Plants as material culture in the Near Eastern Neolithic: Perspectives from
+the silica skeleton artifactual remains at Çatalhöyük. J. Anthropol. Archaeol. 30,
+292–305.
+Sanders, W.J., Trapani, J., Mitani, J.C., 2003. Taphonomic aspects of crowned Hawk-eagle
+predation on monkeys. J. Hum. Evol. 44, 87–105.
+Saville, A., 1990. Hazleton North: The Excavation of a Neolithic Long Cairn of the CotswoldSevern Group. English Heritage, London.
+Sauer, N.J., 1998. The timing of injuries and manner of death: distinguishing among antemortem, perimortem and postmortem trauma. In: Reichs, K.J., Bass, W.M. (Eds.), Forensic Osteology: Advances in the Identiﬁcation of Human Remains, second ed.
+Charles C. Thomas, Springﬁeld, IL, pp. 321–332.
+Saxe, A.A., 1971. Social dimensions of mortuary practices in a Mesolithic population from
+Wadi Halfa, Sudan. Am. Antiq. 36 (3), 39–57.
+Schotsmans, E.M.J., Marquez-Grant, N., Forbes, S., 2016. Taphonomy of Human Remains:
+Forensic Analysis of the Dead and the Depositional Environment. Wiley-Blackwell, Oxford (in press).
+Schotsmans, E.M.J., Wilson, A.S., Brettell, R., Munshi, T., Edwards, H.G.M., 2014. Raman
+Spectroscopy as a non-destructive screening technique for studying white substances
+from archaeological and forensic burial contexts. J. Raman Spectrosc. 45, 1301–1308.
+Schulting, R.J., Bello, S.M., Chandler, B., Higham, T.F.G., 2015. A cut-marked and fractured
+Mesolithic human bone from Kent's Cavern, Devon, UK. Int. J. Osteoarchaeol. 25,
+31–44.
+Sellier, P., Bendezu-Sarmiento, J., 2013. Différer la décomposition: le temps suspendu? Les
+signes d'une momiﬁcation préalable. Les Nouvelles de l'archéologie 132, 30–36.
+Shipman, P., Rose, J., 1983. Early hominid hunting, butchering, and carcass-processing behaviors: approaches to the fossil record. J. Archaeol. Sci. 2, 57–98.
+Smith, F.H., Ahern, J.C., 2013. The Origins of Modern Humans: Biology Reconsidered. WileyBlackwell, New York.
+Smith, M.J., 2006. Bones chewed by canids as evidence of human excarnation: a British
+case study. Antiquity 80, 671–685.
+Smith, M.J., 2015. Dead certainties – the need to pin down ideas and deﬂate conﬂations.
+Terminology in funerary archaeology roundtable discussion, 5 September 2015. European Association of Archaeologists (EAA) Conference, Glasgow.
+Smith, M.J., Allen, M.J., Delbarre, G., Booth, T., Cheetham, P., Bailey, L., O'Malley, F., Parker
+Pearson, M., Green, M., 2016. Holding on to the past: Southern British evidence for
+mummiﬁcation and retention of the dead in the Chalcolithic and Bronze Age.
+J. Archaeol. Sci.: Reports, Special Issue on Funerary Taphonomy 10, 744–756 (in this
+issue).
+Spradley, M.K., Hamilton, M.D., Giordano, A., 2012. Spatial patterning of vulture scavenged human remains. Forensic Sci. Int. 219, 57–63.
+Stodder, A.L.W., 2008. Taphonomy and the nature of archaeological assemblages. In:
+Katzenburg, M.A., Saunders, S.R. (Eds.), Biological Anthropology of the Human Skeleton, second ed. Wiley-Liss, Hoboken, NJ, pp. 71–114.
+Symes, S.A., L'Abbé, E.N., Chapman, E.N., Wolff, I., Dirkmaat, D.C., 2012. Interpreting traumatic injury to bone in medicolegal investigations. In: Dirkmaat, D. (Ed.), A Companion to Forensic Anthropology. Wiley, Oxford, pp. 340–389.
+Symes, S.A., L'Abbé, E.N., Stull, K.E., LaCroix, M., Pokines, J.T., 2014. Taphonomy and the
+timing of bone fractures in trauma analysis. In: Pokines, J.T., Symes, S.A. (Eds.), Manual of Forensic Taphonomy. CRC Press, Boca Raton, pp. 341–365.
+Symes, S.A., Rainwater, C.W., Chapmen, E.N., Gipson, D.R., Piper, A.L., 2008. Patterned thermal destruction of human remains in a forensic setting. In: Schmidt, C.W., Symes, S.A.
+(Eds.), The Analysis of Burned Human Remains. Academic Press, Amsterdam,
+pp. 15–54.
+Tarlow, S., 2008. The extraordinary story of Oliver Cromwell's head. In: Borić, D., Robb, J.
+(Eds.), Past Bodies: Body-centered Research in Archaeology. Oxbow, Oxford,
+pp. 69–78.
+
+673
+
+Thompson, T., Szigeti, J., Gowland, R.L., Witcher, R.E., 2016. Death on the frontier: military
+cremation practices in the north of Roman Britain. J. Archaeol. Sci.: Reports, Special
+Issue on Funerary Taphonomy 10, 828–836 (in this issue).
+Tipping, R., 1994. Ritual ﬂoral tributes in the Scottish Bronze Age-palynological evidence.
+J. Archaeol. Sci. 21, 133–139.
+Toussaint, M., 2011. Intentional cutmarks on an Early Mesolithic human calvaria from
+Margaux Cave (Dinant, Belgium). Am. J. Phys. Anthropol. 144, 100–107.
+Triantaphyllou, S., 2016. Staging the manipulation of the dead in Pre- and Protopalatial
+Crete, Greece (3rd- early 2nd mill. BCE): from body wholes to fragmented body
+parts. J. Archaeol. Sci.: Reports, Special Issue on Funerary Taphonomy 10, 769–779
+(in this issue).
+Trinkaus, E., 1985. Cannibalism and burial at Krapina. J. Hum. Evol. 14, 203–216.
+Turner II, C.G., Turner, J.A., 1995. Cannibalism in the prehistoric Southwest: occurrence,
+taphonomy, explanation and suggestions for standardized world deﬁnition.
+J. Anthropol. Sci. 103, 1–22.
+Turner II, C.G., Turner, J.A., 1999. Man Corn: Cannibalism and Violence in the American
+Southwest. University of Utah Press, Salt Lake City.
+Ubelaker, D., 1974. Reconstruction of Demographic Proﬁles from Ossuary Skeletal Samples.
+Smithsonian Institution, Washington, D.C.
+Ubelaker, D., 2015. The concept of perimortem in forensic science. In: Gerdau-Radonić, K.,
+McSweeney, K. (Eds.), Trends in Biological AnthropologyProceedings of the British
+Association for Biological Anthropology and Osteoarchaeology 13th and 14th Annual
+Conference in Edinburgh and Bournemouth. Oxbow Books, Oxford, pp. 95–99.
+Ubelaker, D.H., Montaperto, K.M., 2014. Trauma interpretation in the context of biological
+anthropology. In: Knüsel, C.J., Smith, M.J. (Eds.), The Routledge Handbook of the
+Bioarchaeology of Human Conﬂict. Routledge, London, pp. 25–38.
+Ucko, P.J., 1969. Ethnography and archaeological interpretation of funerary remains.
+World Archaeology 1 (2), 262–280.
+Valentin, F., Le Goff, I., 1998. La sepulture secondaire mésolithique de La ChausséeTirancourt: fractures sur os frais ou os secs? l'Anthropologie 102, 91–95.
+Villa, P., Bouville, C., Courtin, J., Helmer, D., Mahieu, E., Shipman, P., Belluomini, G., Branca,
+M., 1986a. Cannibalism in the Neolithic. Science 233, 431–437.
+Villa, P., Courtin, J., Helmer, D., Shipman, P., Bouville, C., Mahieu, E., Belluomini, G., Branca, M.,
+1986b. Un cas de cannibalisme au Néolithique: boucherie et rejet de restes humains et
+animaux dans la grotte de Fontbrégoua à Salernes (Var). Gallia Préhist. 29, 143–171.
+Villa, P., Helmer, D., Courtin, J., 1985. Restes osseux et structures d'habitat en grotte:
+l'apport des remontages dans la Baume Fontbrégoua. Bull. Soc. Préhist. Fr. 82 (10–
+12), 389–421.
+Villa, P., Mahieu, E., 1991. Breakage patterns of human long bones. J. Hum. Evol. 21, 27–48.
+Villena-Mota, N., Duday, H., Houët, F., 1996. De la ﬁabilité des liaisons ostéologiques. Bull.
+Mem. Soc. Anthropol. Paris 8 (3–4), 373–384.
+Wallduck, R., Bello, S.M., 2016. Cutting decaying bodies: micro-morphometric analysis of
+cut-marks on Mesolithic-Neolithic human remains from Lepenski Vir and Vlasac, Serbia.
+J. Archaeol. Sci.: Reports, Special Issue on Funerary Taphonomy 10, 703–714 (in this
+issue).
+Waldron, T., 1987. The relative survival of the human skeleton: implications for
+palaeopathology. In: Boddington, A., Garland, A.N., Janaway, R. (Eds.), Death, Decay
+and Reconstruction: Approaches to Archaeology and Forensic Science. Manchester
+University Press, Manchester, pp. 149–162.
+Weigelt, J., 1989. Recent Vertebrate Carcasses and their Paleobiological Implications.
+Translated by J. Schaefer. University of Chicago Press, Chicago.
+White, T.D., 1986. Cut marks on the Bodo cranium: a case of prehistoric deﬂeshing. Am.
+J. Phys. Anthropol. 69, 503–509.
+White, T.D., 1992. Prehistoric Cannibalism at Mancos 5MTUMR-2346. Princeton University
+Press, Princeton.
+Whittle, A., Galer, D., Benson, D., 2006. The layout, composition and sequence of the
+human bone deposits. In: Benson, D., Whittle, A. (Eds.), Building Memories: The Neolithic Cotswold Long Barrow at Ascott-under-Wychwood, Oxfordshire. Oxbow, Oxford, pp. 137–188.
+Whittle, A., Wysocki, A., 1998. Parc le Breos Cwm transepted long cairn, Gower, West Glamorgan: date, contents, and context. Proc. Prehist. Soc. 64, 139–182.
+Wieberg, D.A., Wescott, D.J., 2008. Estimating the timing of long bone fractures: correlation between the postmortem interval, bone moisture content, and blunt force trauma fracture characteristics. J. Forensic Sci. 53 (5), 1028–1034.
+Wilhelmson, H., Dell'Unto, N., 2015. Virtual taphonomy: a new method integrating excavation and postprocessing in an archaeological context. Am. J. Phys. Anthropol. 157,
+305–321.
+
+

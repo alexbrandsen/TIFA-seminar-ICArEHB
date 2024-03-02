@@ -1,0 +1,1401 @@
+Journal of Human Evolution 70 (2014) 49e60
+
+Contents lists available at ScienceDirect
+
+Journal of Human Evolution
+journal homepage: www.elsevier.com/locate/jhevol
+
+Experimental heat treatment of silcrete implies analogical reasoning
+in the Middle Stone Age
+Lyn Wadley a, *, Linda C. Prinsloo b
+a
+b
+
+Evolutionary Studies Institute, University of the Witwatersrand, PO Wits, 2050, South Africa
+Department of Physics, University of Pretoria, Private Bag X20, Hatﬁeld 0028, South Africa
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 27 August 2013
+Accepted 6 November 2013
+Available online 5 April 2014
+
+Siliceous rocks that were not heated to high temperatures during their geological formation display
+improved knapping qualities when they are subjected to controlled heating. Experimental heat treatment of South African silcrete, using open ﬁres of the kind used during the Middle Stone Age, shows that
+the process needed careful management, notwithstanding recent arguments to the contrary. Silcrete
+blocks fractured when heated on the surface of open ﬁres or on coal beds, but were heated without
+mishap when buried in sand below a ﬁre. Three silcrete samples, a control, a block heated underground
+with maximum temperature between 400 and 500  C and a block heated in an open ﬁre with maximum
+temperature between 700 and 800  C, were analysed with X-ray powder diffraction (XRD), X-ray ﬂuorescence (XRF), optical microscopy, and both Fourier transform infrared (FTIR) and Raman spectroscopy.
+The results show that the volume expansion during the thermally induced a- to b-quartz phase transformation and the volume contraction during cooling play a major role in the heat treatment of silcrete.
+Rapid heating or cooling through the phase transformation at 573  C will cause fracture of the silcrete.
+Successful heat treatment requires controlling surface ﬁre temperatures in order to obtain the appropriate underground temperatures to stay below the quartz inversion temperature. Heat treatment of
+rocks is a transformative technology that requires skilled use of ﬁre. This process involves analogical
+reasoning, which is an attribute of complex cognition.
+Ó 2014 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Silcrete
+a- to b-quartz phase transformation
+Controlled heating
+Transformative technology
+Complex cognition
+Homo sapiens
+South Africa
+
+Introduction
+Living members of Homo sapiens have complex cognition that
+includes attributes such as ﬂuid intelligence and innovative
+thought (Wynn and Coolidge, 2011), abstract thought (Barnard,
+2010), the ability to multi-task (Amati and Shallice, 2007), and
+the use of recursion and concepts of past and future (Haidle, 2010;
+Reuland, 2010). Executive functions of the brain that are dependent
+on frontal lobe-linked abilities enable these cognitive attributes
+and facilitate goal-directed actions, anticipation of problems,
+response inhibition, planning over long distances or time, and
+analogical reasoning (Coolidge and Wynn, 2001, 2005; Wynn and
+Coolidge, 2003, 2011). The development of these cognitive attributes appears to have been gradual and incremental and it seems
+possible to trace their presence through time using archaeological
+evidence for various technologies. Advances are evident at the
+
+* Corresponding author.
+E-mail addresses: Lyn.Wadley@wits.ac.za (L. Wadley), Linda.Prinsloo@up.ac.za
+(L.C. Prinsloo).
+http://dx.doi.org/10.1016/j.jhevol.2013.11.003
+0047-2484/Ó 2014 Elsevier Ltd. All rights reserved.
+
+beginning of the Middle Stone Age (MSA) about 300 000 years (ka)
+ago, probably coinciding with the advent of H. sapiens. Backed tools
+appeared in Zambia at about this time (Barham, 2002), and
+Ambrose (2001, 2010) proposes that composite-tool making began
+with this invention. He hypothesizes that the procedure involves
+planning and coordination of numerous, separate tasks and that the
+new behaviours evolved alongside frontal lobe development in the
+human brain. Early composite-tool making is endorsed by the East
+African discovery, at a similar age, of tiny stone points that would
+have needed hafting for their effective use (Brooks et al., 2006).
+Other attributes of complex cognition become apparent later in the
+archaeological record, though future research is likely to shift the
+chronological boundaries further back in time. As previously suggested (Wadley et al., 2009; Wadley, 2010a, 2013), the making of
+compound adhesives involves not only careful planning, but also
+multi-tasking, which is another attribute of complex cognition. The
+manufacturing process requires combining diverse raw materials,
+often from remote sources, and transforming them, usually irreversibly, through the use of pyrotechnology. The artisan needs to
+simultaneously mix ingredients, control ﬁre temperature, and
+mentally rotate stone tools to create the desired composite product.
+
+50
+
+L. Wadley, L.C. Prinsloo / Journal of Human Evolution 70 (2014) 49e60
+
+Compound adhesive manufacture took place in Sibudu and Rose
+Cottage, South Africa, by at least 70 ka (Wadley et al., 2004;
+Lombard, 2006). An ochre-rich compound described as paint was
+found in Blombos Cave in a layer dated to about 100 ka
+(Henshilwood et al., 2011). The manufacture of this paint would
+have required the same mental processes needed for compound
+adhesive production.
+Equipment designed to function, not immediately, but at a
+future time, implies the cognitive ability to integrate action across
+space and through time (Wynn and Coolidge, 2003), and it provides
+another of the attributes denoting living H. sapiens cognition.
+Snares are a good example of equipment used for remote capture of
+prey. Being able to delay gratiﬁcation and envisage action removed
+from supervision in both space and time engages modern executive
+functions of the brain (Wynn and Coolidge, 2003). There is circumstantial evidence for the use of snares at Sibudu by 65 ka
+(Wadley, 2010b), but future research may disclose an earlier origin.
+The use of bow and arrow at a similar period (Lombard and
+Phillipson, 2010) seems further evidence for thought processes
+that were akin to our own. Lombard and Haidle (2012) argue that
+such complementary tool sets imply cognitive ﬂexibility that would
+enable the conceptualization of technological symbiosis.
+Transformative technologies generate discernible links between
+complex cognition and items of material culture. Recent examples
+of transformative technologies that imply enhanced executive
+functions include alloying metals and ﬁring ceramics (Wynn and
+Coolidge, 2007). The innovative processes transform natural
+products through combining raw materials prior to a sophisticated
+use of pyrotechnology. Comparable transformative technologies
+used earlier than metal working and ceramics include the creation
+of compound adhesives and other compound products, which were
+previously discussed, and also the deliberate heat treatment of rock
+or ochre. This technology involves planning, patience and considerable expertise and understanding of the properties of all the
+natural products involved. Here we argue that the introduction of
+heat treatment also implies analogical reasoning and the ability to
+envisage action removed from view. This attribute of complex
+cognition has not previously been demonstrated through archaeological evidence. We explain the connection between heat treatment and analogical reasoning in more detail later.
+The term heat treatment applies when heating is deliberate,
+especially when ﬁre and rocks are simultaneously manipulated, but
+arbitrating between deliberate and accidental heating of rocks can
+be difﬁcult. When hearths are built above buried items such as
+rocks, stone tools or botanical remains, these can burn and be
+altered post-depositionally without this being the intention of the
+artisans (Pierce et al., 1998; Sievers and Wadley, 2008; Asmussen,
+2009). However, heat-treated siliceous rocks exhibit changes in
+lustre (gloss) (Rowney and White, 1997) and sometimes in colour,
+too. The ﬂaked surfaces of heat-treated rocks commonly have a
+greasy lustre that is distinguishable from the dull outer surface of
+the rock prior to it being struck (Purdy and Brooks, 1971; Rowney
+and White, 1997). Gloss on heated stone tools is present in the
+scars knapped after, and not before, heat treatment (Brown et al.,
+2009). Making a distinction between accidental and deliberate
+burning is therefore possible in these instances. A digital imaging
+method that limits intra-analyst bias can distinguish colour of unburned and burned silcrete (Oestmo, 2013).
+Controlled heating of siliceous rocks makes them better for
+knapping than untreated rocks. For example, Brown et al. (2009)
+found that thin bifacial points could be knapped with a higher
+ ski
+success rate on heated than unheated silcrete. Flints that Doman
+et al. (2009) buried in sand, then subjected to slow heating and
+cooling, exhibited substantial reduction in fracture toughness
+(fracture toughness is measured in joules/mm2 and represents the
+
+difﬁculty of propagating a crack through a substance). Flakes could
+be knapped from these rocks using less energy than would have
+been required without heating. Stone tool knappers who used heattreated rocks thousands of years ago may not have understood the
+structural changes that took place, but they clearly knew that correct heating processes made siliceous rocks relatively easy to ﬂake
+with effective end results. Changes made to siliceous rocks during
+controlled heat treatment can facilitate not only ﬂake removal, but
+also ﬁne pressure ﬂaking (Cotterell and Kamminga, 1992;
+ ski and Webb, 1992; Webb and Doman
+ ski, 2009; Mourre
+Doman
+et al., 2010). This retouching technique for shaping stone tools involves using a retoucher, such as a piece of bone, to exert pressure
+close to a tool’s edge to produce distinctive, invasive scars (Mourre
+et al., 2010). Pressure ﬂaking was once thought to be an Upper
+Palaeolithic innovation that appeared about 20 ka ago, but recent
+knapping experiments uphold the interpretation of pressure
+ﬂaking on bifacial points excavated from the 75 ka Middle Stone
+Age levels at Blombos Cave, South Africa (Mourre et al., 2010). The
+Blombos silcrete points are said to have been heat treated after
+initial ﬂaking, but prior to pressure ﬂaking (Mourre et al., 2010). In
+other words, point preforms were heated; they would have been
+smaller than silcrete cores, but larger than the ﬁnished points. Heat
+treatment at Blombos is thus thought to have taken place during,
+rather than before, the stone tool manufacturing process.
+At another South African archaeological site, Pinnacle Point, all
+twelve of the tested silcrete stone tools from PP5-6, and the Still Bay
+biface from Blombos Sands, had been heated (Brown et al., 2009).
+Some of the heat treated pieces are from 164 ka occupation layers.
+The thermomagnetic history of these silcrete tools determines that
+they were heated once only to maximum temperatures between
+300  C and 400  C (Brown et al., 2009). This is precisely the range of
+temperatures that Purdy and Brooks (1971) found most suitable for
+heating chert.
+Previous heat treatment research
+The method of heating siliceous rocks affects their eventual
+ ski et al. (2009) heated ﬂint pieces in a laborausefulness. Doman
+tory oven to a peak temperature of 400  C that was held for 2 h.
+Some experimental ﬂints were buried 30 mm deep in a sand bath in
+the oven; others were exposed. When expansion and contraction
+are rapid, fractures can be explosive (Purdy and Brooks, 1971), and a
+high frequency of uncovered specimens exploded in the oven
+ ski et al. (2009). This is said by these reduring heating by Doman
+searchers to be the result of the high coefﬁcient of thermal
+expansion of the quartz in siliceous rocks. They also conclude that
+siliceous rocks, such as chert and ﬂint, remain undamaged when
+heated to 300  C and 400  C, but rapid cooling or heating, or
+temperatures above 400  C, produce brittleness and/or heat fracturing. The term heat fracturing describes the physical stresses
+(that form fractures like crenation, potlidding, and surface crazing),
+regardless of whether the heating was intentional or accidental
+(Mercieca, 2000). While slow and steady heat treatment is one
+solution, Mercieca and Hiscock (2008) conclude that this may not
+be a necessity; heat treatment can sometimes be carried out in
+aerobic conditions if the rock pieces to be heated are small enough.
+This is because large items fracture at lower temperatures than
+small ones, which have higher cracking and fracture thresholds.
+Increasing specimen size reduces the resistance of the rock to heat
+fracturing when suddenly exposed to heat (Mercieca, 2000).
+Lithic blanks or preforms can be controlled for size more accurately than can temperature during the heating event (Mercieca
+and Hiscock, 2008), thus knappers can exercise some control over
+the outcomes of the heating process through standardizing rock
+specimen size. Mercieca and Hiscock (2008) used differently sized
+
+L. Wadley, L.C. Prinsloo / Journal of Human Evolution 70 (2014) 49e60
+
+silcrete pieces to demonstrate their point: they cut experimental
+blocks into 10  10  10 mm (1 cm3) for the smallest cubes and
+40  40  40 mm (64 cm3) for the largest cubes. The 64 cm3 cubes
+were more susceptible than the small cubes to undesirable fracture
+during increases of temperature. The temperature above which
+unwanted fracturing occurred in the small silcrete cubes varied
+from 700  C to 900  C, but it was lower for the larger blocks. While
+it seems that knappers might be able to use simple, open ﬁres to
+heat treat the tiniest pieces of rock, it is clear that doing this with
+larger blanks would be risky, notwithstanding the suggestion by
+Schmidt et al. (2013) that South African silcrete can be treated in a
+simple way on an open ﬁre or in coals scraped from such a ﬁre. An
+added complication when heating a relatively large block of silcrete, even if it does not explode, is that water is not easily evacuated from its centre and heat treatment can be unsuccessful as a
+result (Schmidt et al., 2013).
+Not all siliceous rocks behave identically to the same thermal
+conditions. Flint is of marine origin, while silcrete is a terrestrial
+sedimentary rock and these geological distinctions produce structural differences that affect the behaviour of the rocks (Schmidt
+et al., 2012a, 2013). Most heat treatment studies have been carried out on ﬂint. Flint does not occur in South Africa and, instead,
+silcrete was heated and used by people who lived in the Southern
+and Western Cape during the Middle Stone Age. This means that it
+is really important to use South African rocks for experiments,
+rather than relying on European observations on ﬂint.
+Purdy and Brooks (1971) maintain that, during heating, the
+quartz crystals in siliceous rocks recrystallize. Schmidt et al.
+(2012a,b) argue against this and claim that heating leads to a loss
+of silanol (SiOH) and the creation of new SieOeSi bonds, a reaction
+that begins between 200  C and 300  C, resulting in increased
+hardness in heated siliceous rocks. They suggest that ‘pore-closing’
+and pore-water loss help to improve ﬂaking properties of silcrete,
+most likely by making the rock more ﬁne-grained. When heating
+relatively large pieces of ﬂint, pore water is not easily evacuated
+from their centres (Schmidt et al., 2012a) and heat treatment may
+be unsuccessful as a result.
+Most experiments (save those by Brown et al., 2009) to heat
+treat rocks have been conducted in laboratory furnaces. Electrical
+furnaces reduce variables and enable consistent outcomes during
+heating experiments, so the method has much to recommend it.
+
+51
+
+However, artisans that heat treated rocks in the Middle Stone Age
+had to do it in the ﬁeld. They had to cope with variables inherent in
+ﬁrewood, soil surfaces and rocks. The recent laboratory experiments with South African silcrete (Schmidt et al., 2013) contradict
+the results of earlier ﬁeld-based experiments by Brown et al.
+(2009). This suggests that laboratory and ﬁeld-based heat treatment experiments may have inherent inequalities. We conducted a
+new ﬁeld-based experiment to examine the issue.
+Experimental heat treatment methods
+Silcrete preparation
+A single large silcrete block was obtained from the Pinnacle
+Point area. This was ﬁrst sliced with a diamond saw into ﬁve portions (numbers 1 to 5 in the experiments) and small blocks were
+then cut from each slice (numbered for example 1ae1d from slice
+1). Three sizes of blocks were cut to maximize the rock surface
+(100  65  20 mm; 80  50  20 mm and 50  30  20 mm;
+Table 1). The morphology of the original silcrete block meant that
+slices and smaller blocks could not be cut accurately. The masses
+and measurements of the small blocks are therefore not even
+(Table 1). Before and after heating, the blocks were photographed,
+weighed on a digital balance, and length, breadth and thickness
+were measured with digital callipers.
+Silcrete is not a homogeneous rock and two different phases can
+be visually detected in some of the blocks (Fig. 1). The bulk of the
+sample consists of a very hard greyish rock, which is difﬁcult to cut
+even using a diamond saw. This hard phase is interspersed with a
+light yellow to red powdery phase, which is easy to cut and even to
+scrape off. When cutting the rocks in rectangles it was inevitable
+that some of the powdery areas were included in the samples.
+Fires 1 and 2 and Coal Beds 1 and 2
+Fires were lit in the open on a sandy substrate. Soil moisture
+readings were obtained with a Theta Probe soil moisture sensor
+(Type ML2x) (Table 2). Acacia erioloba (an indigenous southern
+African taxon) ﬁrewood was weighed and wood moisture readings
+were taken using a MC-7825S moisture meter (Table 2).
+
+Table 1
+Silcrete heat treatment experiment: Mass of each silcrete block before and after heating, size of the blocks, temperatures administered, and the end result (the piece either
+remained whole or was fractured).
+Before heating
+
+Length mm Breadth mm Thickness mm After heating Heat loss Heating position Max. temp.  C Hours 300e400  C Hours >400  C
+
+Sample Mass g
+1a
+5a
+1b
+1d
+2e
+3a
+2c
+3b
+4b
+5b
+3c
+4a
+5c
+1c
+2a
+4c
+2b
+2d
+3d
+
+72.5
+83.8
+64.3
+289.5
+359.5
+56.9
+87.8
+60.2
+301.9
+313.2
+169.7
+88.0
+280.0
+180.1
+78.8
+340.4
+82.3
+66.5
+264.0
+
+50.8
+53.0
+52.0
+100.5
+100.5
+51.6
+55.6
+50.9
+100.0
+102.1
+82.9
+50.0
+103.1
+82.4
+53.5
+52.9
+51.4
+53.3
+102.6
+
+32.1
+32.4
+32.1
+65.8
+65.5
+32.0
+31.6
+32.1
+62.7
+60.8
+50.8
+31.3
+61.3
+52.1
+34.0
+31.9
+31.3
+31.3
+65.0
+
+17.4
+20.7
+17.7
+17.4
+22.1
+15.0
+20.8
+15.5
+20.2
+19.7
+16.2
+23.3
+17.9
+17.4
+19.6
+20.1
+20.0
+20.3
+15.7
+
+Mass g
+
+g
+
+N/A
+N/A
+64.3
+285.0
+354.0
+56.9
+87.7
+60.1
+296.0
+308.0
+169.5
+87.8
+276.8
+179.9
+78.8
+339.4
+82.0
+66.4
+260.5
+
+N/A
+N/A
+0.0
+4.5
+5.5
+0.0
+0.1
+0.1
+5.9
+5.2
+0.2
+0.2
+3.2
+0.2
+0.0
+1.0
+0.3
+0.1
+3.5
+
+Control, no heat
+Control, no heat
+Buried, Fire 1
+Buried, Fire 1
+Buried, Fire 1
+Buried, Fire 1
+Buried, Fire 2
+Buried, Fire 2
+Buried, Fire 2
+Buried, Fire 2
+Coal Bed 1
+Coal Bed 1
+Coal Bed 1
+Coal Bed 2
+Coal Bed 2
+Coal Bed 2
+In Fire 1
+In Fire 1
+In Fire 1
+
+N/A
+N/A
+406.5
+406.5
+406.5
+406.5
+419.4
+419.4
+419.4
+419.4
+572.7
+572.7
+572.7
+520.8
+520.8
+520.8
+761.8
+761.8
+761.8
+
+N/A
+N/A
+3.75
+3.75
+3.75
+3.75
+4.00
+4.00
+4.00
+4.00
+3.00
+3.00
+3.00
+0.25
+0.25
+0.25
+0.00
+0.00
+0.00
+
+N/A
+N/A
+0.25
+0.25
+0.25
+0.25
+0.50
+0.50
+0.50
+0.50
+1.75
+1.75
+1.75
+2.50
+2.50
+2.50
+4.25
+4.25
+4.25
+
+Result
+
+N/A
+N/A
+Whole
+Whole
+Whole
+Whole
+Whole
+Whole
+Whole
+Whole
+Fractured
+Whole
+Fractured
+Whole
+Whole
+Fractured
+Fractured
+Fractured
+Fractured
+
+52
+
+L. Wadley, L.C. Prinsloo / Journal of Human Evolution 70 (2014) 49e60
+
+allowed to cool underground before being excavated. All blocks
+were weighed after cooling.
+Optical microscopy
+Thin sections of unheated and heated blocks were cut and these
+were examined under plane and cross polarized light using an
+optical microscope.
+FTIR and Raman spectroscopy
+
+Figure 1. Silcrete sample 2c after heating, showing the two phases that create an
+inhomogeneous rock. The reddish powdery phase is at the top right and the remainder
+of the sample is the hard, grey phase. The scale bar is 1 cm.
+
+Small excavations were made into the sandy substrate and silcrete blocks were laid ﬂat on the level surfaces under both Fire 1
+(blocks 1b, 1d, 2e and 3a) and Fire 2 (blocks 2c, 3b, 4b and 5b)
+(Fig. 2). Thermoprobes were placed on the exposed surfaces of the
+blocks, then blocks and probe tips were covered with 25 mm of
+sand (Fig. 2). In the case of Fire 1, blocks 2b, 2d and 3d were placed
+on the sand surface directly under the ﬁrewood (Fig. 2B). The ﬁre
+was set using a ﬁre starter, twigs for tinder, and A. erioloba logs (see
+Table 2 for mass of wood used). A thermoprobe was placed in the
+middle of each tepee-shaped ﬁre and also near the ﬁre perimeter.
+After lighting the ﬁres, the ﬁrst temperature readings were taken at
+5 min and at 15 min thereafter, using Extech temperature data
+loggers (HD200) with dual K-type thermoprobes, each 50 cm in
+length. In the case of Fire 1, coals were removed after 2 h to create
+separate Coal Bed 1. Blocks 3c, 4a and 5c were laid on the coal bed
+and a thermoprobe was placed in its centre. The temperatures at
+the top and base of the silcrete blocks were not equal even after 2 h,
+so coals were then heaped on top of the blocks on the coal bed for a
+further 2 h. The blocks were then removed from the coal bed and
+also from the ﬁre. Coal Bed 2 was created from a ﬁre lit especially
+for the purpose. Blocks 1c, 2a and 4c were laid on the coal bed
+without being covered with additional coals. Buried blocks were
+Table 2
+Experimental ﬁres, mass of ﬁrewood, wood and soil moisture, temperatures at 5 min
+and maximum temperatures reached.
+
+Fourier Transform infrared (FTIR) transmission/absorbance
+spectra of powdered samples were recorded using a Bruker Golden
+Gate Attenuated Total Reﬂection (ATR) cell, which ﬁts into the
+macro sample compartment of a Vertex 70v (Bruker Optics) spectrometer. The sample compartment was evacuated during acquisitions and the contact area between the sample and the diamond
+ATR crystal is 2 mm diameter. Spectra were recorded with 64 acquisitions at 4 cm1 resolution over a spectral range of 8000e
+600 cm1.
+Infrared reﬂectance spectra were recorded using a Hyperion
+microscope attached to the same Vertex 70v (Bruker Optics)
+spectrometer. The samples were placed directly under the 10
+microscope objective and a spot selected for analysis. The spectra
+were then recorded using a 15 IR objective after optimizing the
+focus to obtain the maximum signal. Spectra were recorded with
+128 acquisitions at 4 cm1 resolution over a spectral range of
+8000e600 cm1.
+Micro-Raman spectroscopy was performed with a T64000
+Raman spectrometer from HORIBA Scientiﬁc, Jobin Yvon Technology (Villeneuve d’Ascq, France). The 514.6 nm laser line of a mixed
+gas KryptoneArgon laser (Coherent) was used as excitation source.
+The 10, 50 or 100 objectives of an Olympus microscope were
+used depending on the spot size of the area of interest. The spectra
+were acquired using two acquisitions of 120 s with a spectral resolution of w2 cm1.
+XRD and XRF measurements
+In order to determine the elemental composition and mineralogical phases, the samples were powdered and analysed using Xray ﬂuorescence (XRF) and X-ray powder diffraction (XRD).
+The samples were milled in a tungsten carbide vessel and prepared for XRD analysis using a back loading preparation method
+and then analyzed using a PANalytical X’Pert Pro powder diffractometer with X’Celerator detector and variable divergence- and
+receiving slits with Fe ﬁltered Co-Ka radiation. The phases were
+identiﬁed using X’Pert Highscore Plus software. The relative phase
+amounts (weight%) were estimated using the Rietveld method
+(Autoquan Program) (Table 3). Amorphous phases, if present, were
+not taken into consideration in the quantiﬁcation.
+The samples were dried at 100  C and roasted at 1000  C to
+determine Loss On Ignition (LOI) values. For each sample, 1 g
+Sample was mixed with 6 g Lithium teraborate ﬂux and fused at
+1050  C to make a stable fused glass bead. The Thermo Fisher
+ARL9400 XPþ Sequential XRF with WinXRF software was used for
+analyses. Blank and certiﬁed reference materials are analysed with
+each batch of samples and are included in the results.
+
+Initial
+mass
+wood kg
+
+Total
+mass
+wood kg
+
+Wood
+moisture %
+
+Soil
+moisture
+3
+m m3
+
+Fire 1
+Coal Bed 1
+
+5.0
+N/A
+
+16e39
+
+0.008e0.014
+
+460
+N/A
+
+775.0
+572.7
+
+Fires 1 and 2 and Coal Beds 1 and 2
+
+Fire 2
+Coal Bed 2
+
+6.5
+4.5
+
+8.0
+Coals from
+Fire 1
+9.5
+7.5
+
+0.008
+
+530
+123
+
+765.0
+619.0
+
+The maximum below-ground temperature in Fire 1 was 406.5  C
+and the maximum above-ground temperature was 761.8  C
+
+Experimental
+ﬁre
+
+Max.
+Temp.
+
+C at temp.  C
+5 min
+
+Results
+
+L. Wadley, L.C. Prinsloo / Journal of Human Evolution 70 (2014) 49e60
+
+53
+
+Figure 2. A. Silcrete blocks prior to burial in sand under Fire 1. The position of the probes on samples 1d and 2e enabled the recording of their temperatures throughout the
+experiment. B. The setting of Fire 1 prior to lighting it. Sample 3d is visible under the wood. C. Fire 1 (top left) and Coal Bed 1 (bottom right) with silcrete samples 3c, 4a and 5c.
+
+(Table 1). The maximum temperature reached by Coal Bed 1 was
+572.7  C. The ﬁre ramp rate was steep: after 5 min the ﬁre temperature had reached 460  C and by 15 min the temperature was
+540.9  C. The underground ramp rate was considerably slower with
+temperatures above 300  C being reached only after 1.5 h. Underground temperatures over 300  C were held for 3.7 h (Table 1).
+The temperature in the centre of Fire 2 ramped to 530  C in
+5 min and the maximum temperature reached was 765  C. The
+perimeter of the ﬁre remained cooler (Fig. 3), reaching a maximum
+temperature of 671  C after 2 h. Notwithstanding the variation in
+temperatures at the perimeter and in the centre of the ﬁre, the two
+underground temperatures developed similarly. All of the underground temperatures rose slowly and steadily and decreased in the
+same way.
+Coal Bed 2 was maintained for only 2.5 h, which is the period
+that Schmidt et al. (2013) suggest is necessary for heat treatment of
+silcrete. The maximum temperature reached was 520.8  C, achieved when the coals were ﬁrst scraped from the ﬁre.
+
+The type and amount of ﬁrewood inﬂuence the above ground
+temperatures and their duration. The A. erioloba used for the experiments maintained above ground temperatures of between
+700  C and 600  C for several hours, produced good coals and
+successfully heated the subsurface to between 400  C and 300  C.
+Fire 1 burned 8.0 kg of wood and Fire 2 burned more wood (9.5 kg).
+Notwithstanding the increase in the use of fuel in Fire 2, the ﬁre
+performance was unaffected and neither maximum above nor
+below ground temperatures were substantially different from those
+achieved by Fire 1.
+The visual effect of heating on the silcrete blocks
+Blocks 1b, 1d, 2e and 3a buried in sand under Fire 1 remained
+whole at the end of the process (Table 1). All other blocks directly
+under the ﬁre fractured and would not have been usable for
+knapping (Fig. 4). Blocks 3c and 5c on Coal Bed 1 fractured, but the
+small, thick 4a remained whole. Blocks 2c, 3b, 4b and 5b buried
+
+54
+
+L. Wadley, L.C. Prinsloo / Journal of Human Evolution 70 (2014) 49e60
+
+Table 3
+XRF results for the silcrete control sample, sample 2b (heated in Fire 1) and 3b
+(buried under Fire 2).
+%
+SiO2
+TiO2
+Al2O3
+Fe2O3
+MnO
+MgO
+CaO
+Na2O
+K2O
+P2O5
+Cr2O3
+NiO
+V2O5
+ZrO2
+CuO
+LOI
+TOTAL
+
+Control
+
+2b
+
+3b
+
+95.84
+1.54
+0.01
+0.23
+0.01
+<0.01
+<0.01
+0.01
+0.03
+<0.01
+<0.01
+0.01
+0.01
+0.10
+<0.01
+1.26
+99.05
+
+97.71
+1.53
+0.01
+0.19
+0.01
+<0.01
+<0.01
+0.01
+0.02
+<0.01
+<0.01
+0.01
+0.01
+0.10
+<0.01
+0.02
+99.59
+
+97.65
+1.42
+0.01
+0.18
+0.02
+<0.01
+<0.01
+0.01
+0.01
+<0.01
+0.01
+0.01
+0.01
+0.10
+<0.01
+0.27
+99.14
+
+Figure 3. Temperatures recorded for Fire 2, above ground in the centre of the ﬁre,
+above ground on the edge of the ﬁre, and underground. Note the variability in the
+above ground temperatures compared with the regularity of the underground
+temperatures.
+
+under Fire 2 remained whole. Blocks 1c and 2a remained whole on
+Coal Bed 2, but the large block 4c fractured. Some heated blocks lost
+mass (Table 1). The powdery phases turned bright red due to
+oxidation to hematite of the iron-containing phases.
+
+Optical microscopy
+In Fig. 5, a micrograph (10 optical lens) under plane polarized
+light of a thin section of a control sample is shown. The material is
+very ﬁne grained with a dense and massive texture. Quartz grains
+are surrounded by a dense microcrystalline to cryptocrystalline
+quartz matrix. The anatase and/or rutile form part of the matrix,
+most probably disseminated throughout the cement or matrix.
+Lighter and darker areas are easily discernible showing an inhomogeneous distribution of some coloured phases. All of the bigger
+quartz grains (in all three samples) show undulatory extinction,
+implying stress. Optically, no real differences between the heated
+and control sample were observed.
+XRD and XRF
+The XRD measurements determined that all three samples
+consist of more than 95% a-quartz. Minor phases that were determined are titanium dioxide (rutile, anatase), a high temperature
+phase of a-quartz, namely cristobalite, hematite and pyrocroite. The
+accuracy for the minor phases might be questionable and inﬂuenced by the detection limits of the instrument, as well as the part
+of sample analyzed, as the minor phases in silcrete are inhomogeneously distributed (see Fig. 5). Reliable quantiﬁcation of the
+minor phases was therefore not possible.
+The XRD results are in line with the XRF results (Table 3) with
+SiO2 more than 95% for all three samples. The Loss on Ignition
+values in Table 3 reﬂect the amount of volatiles lost during heating, but also the weight gained due to oxidation during heating,
+mainly through the formation of hematite and elemental analysis
+shows that Fe is present in all the samples. The values should be
+interpreted together with the water loss of the samples in the ﬁre
+experiments (see Table 1). The control sample was not heated
+before analysis and it therefore reﬂects a maximum water loss as
+well as maximum oxidation, which results in an overall weight
+loss of 1.26%. This value is higher than the weight loss calculated
+from the silcrete heated in the ﬁre experiments, where larger
+samples were used and in which water may still be trapped even
+after heating at the highest temperature. It can also be deduced
+that the water loss was in fact greater as oxidation increased the
+weight. Sample 2b was heated to 761.8  C in open air where
+oxidation occurred on the outside of the sample and 0.36%
+moisture was lost. Heating of a powdered sample of 2b to 1050  C
+in the laboratory on balance resulted in a very small gain in
+weight. Sample 3b was heated to 419.4  C with a water loss of
+0.17% and, because the sample was buried, the minimum amount
+of oxidation occurred. After roasting there was a 0.27% weight gain
+attributed to oxidation.
+
+Figure 4. Silcrete blocks after heating. A. Undamaged blocks heated underground (Fire1). B. and C. Blocks that fractured during above ground heating in Fire 1 and Coal Bed 1.
+
+L. Wadley, L.C. Prinsloo / Journal of Human Evolution 70 (2014) 49e60
+
+Figure 5. Micrograph (10) of control sample, plane polarised light.
+
+FTIR/NIR
+The silcrete samples used for FTIR and Raman analyses are
+control pieces that were not heated, sample 2b (heated in open ﬁre
+with a maximum temperature of 761.8  C, fractured) and 3b
+(heated under ﬁre with a maximum temperature of 419.4  C, not
+fractured) as described in Table 1. The mid-infrared absorbance
+spectra of the powdered samples are identical with the strong peak
+originating from SieO vibrations of a-quartz at 1053 cm1 dominating the spectra (see spectrum of control sample in Fig. 6). The
+other main peaks are the characteristic 778/792 cm1 doublet
+(Fig. 6) of a-quartz representing bending vibrations. In contrast to
+Schmidt et al. (2013), bands that can be attributed to water or OH
+groups were not observed between 3000 and 3800 cm1 or in the
+Near Infrared Region (NIR) region (>4000 cm1) of the spectrum
+where overtone bands occur. This might be because they recorded
+transmission spectra of 1 mm thick slices of the sample, which
+would result in stronger absorption than for powdered samples
+recorded with the ATR cell where only the top surface of the sample
+is probed. Another factor is that ATR measurements result in
+spectra with lower absorption in the high wavenumber region due
+
+Figure 6. Comparison of the FTIR absorbance spectra of the two different phases of the
+control (unheated) silcrete sample recorded with an ATR (attenuated total reﬂection
+cell) attachment.
+
+55
+
+to the dependence of the depth of penetration on the wavelength of
+the incident light. However, comparison with the absorbance
+spectrum of the powdery phase present in the control sample
+(Fig. 6, top) shows that an organic phase is present by the
+appearance of peaks attributed to CeH stretch and OeH vibrations.
+This also has an inﬂuence on the SieO stretch vibrations, where the
+large envelope of SeO vibrations is split. Traces of the organic
+material might also be present in the solid part of the silcrete
+samples as very small peaks at the same positions are also seen in
+the spectrum of the control sample.
+Reﬂectance infrared spectra were recorded on sample ﬂakes
+that were detached in a way to simulate knapping of stone tools. As
+the sample surfaces are not homogeneous, 20 spectra were recorded for each sample on different spots and were averaged using the
+Opus software (Fig. 7). In contrast to the absorbance spectra, bands
+originating from water and OH vibrations are clearly visible as the
+intensity of surface species are enhanced in reﬂectance mode. The
+decrease in the intensity of the water bands clearly shows that,
+during the heating process, adsorbed water is lost as also observed
+by Schmidt et al. (2013). This water loss is in accordance with the
+data in Table 1 where the weight loss of sample 3b is 0.17% and for
+sample 2b is 0.36%. The water loss was attributed by Schmidt and
+colleagues to the loss of silanol groups on the quartz surface,
+without taking into consideration that anatase and rutile also have
+surface OH groups that will contribute to the water loss. It can also
+be seen that the intensity of the reststrahlen bands (residual rays)
+increases dramatically from the control sample to the heated
+samples 3b (419.4  C) and 2b (761.8  C). This is most likely due to an
+increase of crystallinity in the heated samples.
+Raman spectroscopy
+In Fig. 8 a selection of spectra recorded on a freshly ﬂaked surface of the control sample is presented. The most prominent bands
+in the spectra originate from a-quartz and two different polymorphs of titanium dioxide, namely rutile and anatase (Table 4).
+Titanium dioxide (TiO2) occurs in nature as three different polymorphs namely anatase, rutile and brookite, each with a different
+crystal structure. Rutile is the most stable phase and anatase and
+brookite reverts to rutile upon heating. Both rutile and anatase have
+large Raman cross sections and although the intensity of the peaks
+
+Figure 7. FTIR reﬂectance spectra recorded on the control sample, the sample heated
+underground (3b) and the sample heated in the ﬁre (2b) using the hyperion
+microscope.
+
+56
+
+L. Wadley, L.C. Prinsloo / Journal of Human Evolution 70 (2014) 49e60
+
+is quite high, it is not a reﬂection of the percentage of either of the
+phases present in the sample (see XRF Table 3). In contrast, cristobalite, a high temperature phase of quartz, is present in the same
+concentration range (Table 3) but was not detected in any of the
+Raman spectra recorded of the samples as it does not have a strong
+Raman spectrum. Hematite was also not detected in any of the
+samples. The characteristic peaks for a-quartz, rutile, anatase and
+the third phase of titanium oxide (TiO2), namely brookite, are
+summarized in Table 4. Spectra (a) e (d) reﬂect the variation of
+spectra recorded on the sample and all contain more than one of
+the components with spectrum (a) nearly pure rutile, spectrum (d)
+mostly quartz and spectrum (e) mainly anatase. In spectrum (c)
+peaks belonging to brookite are also observed, but this was only
+observed for a few sampling spots and is therefore not present in
+any signiﬁcant concentration as conﬁrmed by XRF data (Table 3).
+Raman spectra recorded on sample 3b heated at 420  C and
+buried underneath the ﬁre did not differ much from those recorded
+on the control sample. In contrast, in Fig. 9, a selection of spectra
+recorded on sample 2b, heated in the ﬁre at 761  C, is given and it is
+clear that there is a large variation in the position and full width at
+half maximum (FWHM) of the characteristic peak of a-quartz at
+464 cm1. A shift of peak position is an indication of stress in a solid
+sample and a shift to lower wavenumbers indicates tensile stress
+(due to volume increase), while a shift to higher wavenumbers is a
+sign of compressive stress. A build up of stress is usually the cause
+of fractures. Broadening of peaks implies an increase in disorder
+and therefore suggests that large changes are taking place within
+the quartz crystals.
+Heating silcrete will lead to various temperature dependent
+changes taking place in the sample. At normal pressure, trigonal
+quartz (a-quartz) transforms progressively from 200 to 573  C into
+hexagonal b-quartz at 573  C, at which temperature the transition
+is instantaneous (Raman and Nedungadi, 1940). During the transition from a- to b-quartz, the atoms in the crystal lattice only get
+slightly displaced relative to each other without breaking any SieO
+bonds. The changes in the samples are not drastic, but are accompanied by a gradual increase of the thermal expansion coefﬁcient,
+which becomes nearly inﬁnite near the transition point, where
+
+Figure 8. Raman spectra recorded on control sample.
+
+Table 4
+Raman peaks of the a-quartz and the three phases of titanium dioxide (TiO2) namely
+anatase, rutile and brookite.
+Mineral
+
+Position of
+Raman peaks
+(cm1)
+
+a-quartz
+
+128 (m), 207 (m), 265 (w), 356 (w), 394, 450, 464 (vs), 697 (w),
+795 (vw), 1072 (vw), 1085 (vw),1161 (vw)
+143 (vs), 197 (w), 399 (m), 513 (m), 639 (s)
+153 (w), 237 (m), 446 (s), 610 (s)
+125, 152 (vs), 194, 246, 324 (m), 412, 492, 545, 640
+
+Anatase
+Rutile
+Brookite
+
+vs ¼ very strong, s ¼ strong, m ¼ medium, w ¼ weak, vw ¼ very weak.
+
+after it drops to a small negative value (Raman and Nedungadi,
+1940). During heating there is therefore a volume increase of
+quartz crystals and it has been shown that the transition (at 573  C)
+is accompanied by a prominent water loss originating from ﬂuid
+inclusions (Barker and Robinson, 1984). In the ceramic industry this
+phenomenon is known as the a- to b-quartz inversion, which is
+accompanied by a volume increase of about 2e4% and can lead to
+cracking of ceramic ware if heating/cooling occurs too quickly
+through the inversion temperature (Kerr and Wood, 2004). In the
+industry, this is known as ‘dunting,’ and the resultant faults as
+‘dunts’ (Harman, 2000). To avoid such thermal shock faults, cooling
+rates not exceeding 50  C/hour have been recommended. Furthermore, cracking caused by the a- to b-quartz inversion is recognized
+in the ceramic industry from other kinds of fractures by a shiny
+appearance along the break (Harman, 2000). The reported gloss in
+the fresh scars of silcrete that has been knapped after heating is also
+an indication that quartz inversion plays a major role in determining the properties of the heated samples.
+The maximum temperature of the silcrete sample 3b, heated
+underground, is below the a- to b-quartz phase transition, but the
+increase in expansion coefﬁcient takes place from temperatures
+>200  C, inducing stress in the crystals. The volume increase of
+quartz crystals during this stage will promote the diffusion of ions/
+water/organic phase or any defect out of the more open quartz
+structure, and if cooling takes place at a slow rate the end product
+will have fewer defects and therefore a higher degree of crystallinity than the original material. However, small hairline cracks
+similar to those caused by uneven heating in an open ﬁre might also
+be introduced in the structure by the heating and cooling process
+and this might be the reason for improved knapping properties, but
+further research is necessary to conﬁrm this suggestion. For sample
+2b heated in the ﬁre, the temperature at 761  C is well above this
+phase transition and it can be assumed that it took place, that water
+was released from inclusions in the quartz, and that the reversion
+back to a-quartz transpired upon cooling. However, in the spectra
+in Fig. 9 the main peak of quartz appears in various positions between 464 cm1 and 459 cm1, which is the position of this peak in
+b-quartz, indicating that the inversion back to a-quartz was
+incomplete. The phase transition can be observed in Raman spectra
+by the broadening and shifting to lower wavenumbers of the peaks
+at 464 to 459 and 206 to 165 cm1, respectively, together with the
+disappearance of the peak at 355 cm1 (Shapiro et al., 1967). This
+shift of the 464 cm1 Raman peak upon heating, was also recorded
+by Schmidt et al. (2012a) for chalcedony in ﬂint, In Fig. 9, the shift of
+the 206 cm1 peak is also clearly visible. The spectrum of rutile is
+included in the ﬁgure to show that the broadening of the 464 cm1
+peak is not due to the overlap of the rutile peak at 440 cm1
+because the other peaks of rutile are absent in the spectra. The
+resultant material is a mixture of highly crystalline quartz, but with
+remaining pockets of b-quartz residues that are under strain. This
+can lead to future fracturing.
+
+L. Wadley, L.C. Prinsloo / Journal of Human Evolution 70 (2014) 49e60
+
+57
+
+present according to the XRF results. Small peaks at the positions of
+the zircon peaks were present in some spectra recorded on the
+control sample; the spectrum of only zircon might indicate that the
+crystal size of zircon has increased.
+It is suggested that although there are other contributing factors,
+quartz inversion is the main cause for fractures appearing in silcrete
+samples heated in an open ﬁre. Developing techniques to avoid
+cracking caused by this phenomenon requires the same skills
+regardless of whether the people are from the Middle Stone Age in
+South Africa, the Upper Palaeolithic in Europe, or from a modern
+day ceramic factory. The solution is also the same, namely heating
+and cooling at a very slow rate.
+Discussion and conclusions
+
+Figure 9. Examples of Raman spectra recorded on sample 2b that was heated in the
+ﬁre to 761.8  C.
+
+Quartz inversion is not the only cause for cracking in the ceramic
+industry and also not in heated silcrete or concrete. Uneven heating
+or cooling, pressure caused by water evaporation, or the combustion of organic material in the sample, can also play a role (Harman,
+2000). Water loss/combustion of an organic phase (see Fig. 6)
+during the heating experiments using large pieces of silcrete will
+cause pressure inside the samples due to the formation of water
+vapour/gas, which cannot escape. If the sample is then rapidly
+cooled, the outside surfaces will cool faster than the rock centre
+causing contraction, which will lead to fracturing. Such problems
+can be avoided by heating and cooling the samples underground at
+a slow rate. The changes taking place in silcrete during heating are
+particularly complex if the anatase to rutile phase transition and
+oxidation of iron phases to hematite are taken into account.
+Anatase generally transforms to rutile at temperatures between
+600 and 700  C, but many factors inﬂuence the exact temperature
+(Hanoar and Sorrell, 2011). Two of these factors are stress and
+reducing conditions, which ﬁt the conditions of the sample heated
+underground where there is stress due to the volume increase of
+the quartz particles, and a lack of oxygen. A spectrum recorded on
+the red sphere in the image (Fig.10) is a rutile spectrum from the
+heated sample, 2b. In the control sample pure rutile spectra (Fig. 8)
+were recorded on yellowish particles, while in the heated samples
+only red particles were visible. This is an indication that the red
+colouring inside the heated samples originates from rutile. Synthetic rutile is white and used as a white pigment, but rutile formed
+in nature is red and also derives its name from the red colour (Latin
+‘rutilus’, meaning ‘reddish’). It is suggested that rutile contributes to
+both the red colour and gloss of heated silcrete samples. Further
+research is necessary to elucidate the precise role of the anatase to
+rutile phase transition in the changed properties observed in
+heated silcrete. In Fig. 11, the surface of a fragment of silcrete that
+broke off in the ﬁre is shown. The red discolouration is typical of
+these broken fragments and in Fig. 11 spectra are shown that were
+recorded on the red line. Peaks typical of a disordered hematite can
+be distinguished as well as spectra of a- and b-quartz. Iron oxides
+and hydroxides are oxidized to hematite in normal atmospheric
+conditions and for samples heated in the ﬁre the oxidation process
+will start on the outside edges, bringing further stress to the sample. A spectrum of zircon was also recorded on the red part of the
+sample. Zircon was not detected with XRD measurements, but Zr is
+
+All silcrete blocks heated experimentally in an open ﬁre fractured, so this ﬁrst method of heat treatment seems unsatisfactory.
+Reasons for fracturing on open ﬁres were discussed in detail in the
+Results section. Rapid surface heating can induce large stresses in
+solids, possibly leading to surface roughening, yielding, or fracture.
+Raman spectra recorded on sample 2b, a silcrete block heated in the
+ﬁre at 761  C, illustrate a large variation in the position and full
+width at half maximum (FWHM) of the characteristic peak of aquartz at 464 cm1. A shift of peak position is an indication of stress
+in a solid sample, and build up of stress is usually the cause of
+fractures. Broadening of peaks implies disorder and this demonstrates that large changes are taking place within the quartz crystals. In the case of sample 2b, and almost certainly also in the case of
+the other blocks heated in open ﬁres or coal beds, the a- to b-quartz
+inversion, accompanied by a volume increase of about 2e4% would
+have contributed to the fracturing.
+Secondly, rocks were heated on coals scraped from the ﬁre. Fifty
+percent of our experimentally heated silcrete blocks fractured using
+this method.
+Thirdly, we buried silcrete blocks for underground heating. The
+reducing environment underground provided a safe and reliable
+environment for heating the rocks and all of the experimental
+blocks that were buried were successfully heat treated without
+damage. Raman spectra recorded on sample 3b heated at 420  C
+and buried in sand underneath the ﬁre did not differ much from
+
+Figure 10. Raman spectrum recorded on the red sphere in the image using the 100
+objective of the Olympus microscope attached to the Raman instrument, which results
+in a spot size of w1e2 mm. (For interpretation of the references to colour in this ﬁgure
+legend, the reader is referred to the web version of this article.)
+
+58
+
+L. Wadley, L.C. Prinsloo / Journal of Human Evolution 70 (2014) 49e60
+
+Figure 11. a) Close-up of the red line in a. b) Image of the surface of sample 2b where it naturally fractured in the ﬁre. c) Raman spectra recorded on red part of sample. (For
+interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+those recorded on the control sample, which received no heat at all.
+The reducing environment also inhibits the oxidation reaction of
+iron to hematite, which can contribute to stress in the material,
+resulting in fractures. The challenge when heating buried silcrete is
+to obtain and sustain an underground temperature of between
+300  C and 400  C for sufﬁcient time to heat the interior of the
+rocks.
+Our results undoubtedly contradict some of those of Schmidt
+et al. (2013), who argue that silcrete can be heat treated quite
+simply in a ﬁre or on embers. They had high success rates heat
+treating silcrete from the Diepkloof area under aerobic conditions
+in an electrical furnace. Why might the two sets of results be so
+dissimilar? We can think of several possibilities, but there may be
+others that we have not thought of. First, ﬁres lit in the ﬁeld heat
+rocks differently from those in electrical furnaces. Rocks in open
+ﬁres or on coal beds make direct contact with ﬂaming wood or
+searing coals; rocks in electrical furnaces contend only with hot air.
+Secondly, geological variations between the Diepkloof and Pinnacle
+Point silcrete may produce different thermal reactions. Schmidt
+et al. (2013) alluded to this possibility after one ﬂake fractured
+during an experiment to test the effects of placing silcrete ﬂakes in
+an oven pre-heated to 550  C. Chemical signatures of silcretes
+
+developed in association with different bedrock types are indeed
+different, to the extent that they can be used in provenancing (Nash
+et al., 2013).
+thirdly, the main experiment by Schmidt et al. (2013) involved
+slowly heating silcrete slabs cut to a thickness of approximately
+0.5 mm, whereas our blocks were considerably larger and were cut
+to sizes intended to replicate those of tool preforms. It is well
+known that the size of particles used for thermal analyses has a
+direct inﬂuence on the results (Flüglein, 2013) and as Mercieca
+(2000) points out, the size of silcrete blocks is relevant to heat
+treatment because large rocks fracture at lower temperatures than
+small ones. Water loss during the heating experiments with larger
+pieces of silcrete will cause stress inside the sample due to the
+formation of water vapour/gas, which cannot escape. If the sample
+is then rapidly cooled, the outside surfaces will cool fast causing
+contraction, which will result in fracture because the internal part
+of the sample cools at a different rate. The decrease in the intensity
+of the water bands plainly shows that adsorbed water is lost during
+heating, as was also observed by Schmidt et al. (2013). They
+attributed water loss to the loss of silanol groups on the quartz
+surface. They did not take into account that anatase and rutile also
+have surface OH groups that contribute to water loss in the silcrete.
+
+L. Wadley, L.C. Prinsloo / Journal of Human Evolution 70 (2014) 49e60
+
+The intensity of the reststrahlen bands (residual rays) increases
+radically from the control sample to the heated samples 3b
+(419.4  C) and 2b (761.8  C), and this change most likely occurred
+when crystallinity increased in the heated samples. Recrystallization was proposed as the cause of mechanical transformations in
+ ski and Webb, 1992; Doman
+ ski et al., 2009), a
+heated ﬂint (Doman
+conclusion that is not supported by researchers such as Schmidt
+et al. (2012a). Nonetheless, our results conﬁrm that although
+recrystallization did not take place, crystallinity increased in our
+heated silcrete samples.
+Electrical furnaces maintain standardized conditions and reduce
+the numbers of variables in experiments. They play an important
+role in the investigation of conditions under which natural products change. However, they do not truly reproduce situations faced
+by people who lived during the Middle Stone Age. Changeable or
+unpredictable conditions are inevitable in ﬁeld-based ﬁres where
+the ramp rate can be rapid and the ﬁre can reach high temperatures
+quickly. It consequently seems risky to place items for heat treatment directly in an open ﬁre, and such behaviour seems impractical
+when rock sources are distant and effort is invested in preform
+production. It seems more probable that people in the Middle Stone
+Age heat treated preforms by burying them just below the ground
+surface, and lighting a ﬁre or placing coals on sand above the buried
+rocks. This method of heat treatment would allow the simultaneous use of the ﬁre for domestic purposes and would not require a
+special ﬁre. As demonstrated by Fire 1, it is possible to heat at least
+four preforms simultaneously under a small ﬁre using about 8 kg of
+wood. The use of 9.5 kg of wood in Fire 2 did not substantially increase the temperatures achieved by this ﬁre compared with those
+of Fire 1.
+Since no measuring instruments were available in the Middle
+Stone Age, people needed to know the thermal properties of ﬁrewood from local tree taxa. They also needed to understand relationships between ﬁre temperatures, fuel load, duration of heat,
+and the items that they sought to transform. Thermal relationships
+are even more elaborate for anaerobic heating. The heating of
+buried items is affected by depth of burial and the texture of the
+substrate (Sievers, 2013), as well as properties of the surface ﬁre.
+The artisan must therefore control underground temperatures
+indirectly through management of surface temperatures and the
+substrate in which the items are buried. A mental algorithm must
+be calculated based on a ﬁre’s above ground performance. This
+process requires analogical reasoning and thinking about the
+qualities of out-of-sight rocks and the changes being wrought to
+them. Heat treatment is a good example of a transformative technology that involves not only analogical thought and response inhibition, but also organization across space and time, contingency
+planning, mental rehearsal and thought experiment e all attributes
+that Wynn and Coolidge (2009) attribute to enhanced executive
+functions of the brain. In this regard, the results of our experiments
+complement previous research that points to other proxies for
+complex cognition in the MSA, for example, snares, compound
+adhesives and paints, and perforated, ochre-coloured sea shells
+(Wadley et al., 2009; Wadley, 2010b; Henshilwood et al., 2011;
+Vanhaeren et al., 2013).
+It is true that the concept of underground heating of rocks may
+have been discovered accidentally, for example during raking out
+disused ﬁreplaces, but the success of the transformation implies
+achieving speciﬁc temperatures for the product being heated. Siliceous rocks that have been heated and subsequently knapped
+exhibit a distinct gloss that can be quantitatively measured on
+freshly exposed surfaces (Brown et al., 2009).
+We have shown that cognitive attributes that we recognize in
+ourselves, for example, analogical reasoning and the ability to
+multi-task, were needed for heat treating rocks. Both analogical
+
+59
+
+reasoning and the ability to control action remotely imply cognitive
+abilities characteristic of people like us. Analogical reasoning is the
+sine qua non of H. sapiens brains (Wynn and Coolidge, 2009).
+Although Mourre et al. (2010) demonstrate that silcrete cannot be
+pressure ﬂaked without heat treatment, heat treatment is not a
+technical necessity for producing effective tools. At Sibudu, for
+example, stone knappers created well-shaped segments (crescents)
+and Still Bay bifacial points from rocks like hornfels and dolerite
+that were not heat treated, and which would not have been
+responsive to heat treatment because of their geological histories.
+Accordingly, when heat treatment unquestionably occurs, it provides an example of decoupling technical need and production
+method. It connects the social realm with that of technology, in
+addition to demonstrating the cognitive complexity of the people
+making use of heat treatment.
+Acknowledgements
+Thanks to Kyle Brown and Justin Pargeter for the silcrete block,
+to Grant Cawthorn and the technical team in the Geology Department, University of the Witwatersrand, for cutting the block and
+making the thin sections, to Dave Billing of the Chemistry Department for the XRD readings, and to Silje Bentsen for accessing Acacia
+erioloba wood. Thanks also to Wiebke Grote and Jeanette Dykstra,
+University of Pretoria, for optical microscopy and XRF measurements, respectively. Research by LW is funded by the National
+Research Foundation (NRF) of South Africa. Opinions expressed in
+the paper are not necessarily those of the NRF.
+References
+Amati, D., Shallice, T., 2007. On the emergence of modern humans. Cognition 103,
+358e385.
+Ambrose, S.H., 2001. Paleolithic technology and human evolution. Science 291,
+1748e1753.
+Ambrose, S.H., 2010. Coevolution of composite-tool technology, constructive
+memory, and language implications for the evolution of modern human
+behaviour. Curr. Anthropol. 51 (Suppl. 1), S135eS147.
+Asmussen, B., 2009. Intentional or incidental thermal modiﬁcation? Analysing site
+occupation via burned bone. J. Archaeol. Sci. 36, 528e536.
+Barham, L., 2002. Backed tools in Middle Pleistocene central Africa and their
+evolutionary signiﬁcance. J. Hum. Evol. 43, 585e603.
+Barker, C., Robinson, S.J., 1984. Thermal release of water from natural quartz. Am.
+Mineral. 69, 1078e1081.
+Barnard, P.J., 2010. From executive mechanisms underlying perception and action to
+the parallel processing of meaning. Curr. Anthropol. 51 (Suppl. 1), S39eS54.
+Brooks, A., Nevell, L., Yellen, J.E., Hartman, G., 2006. Projectile technologies of the
+African MSA: implications for modern human origins. In: Hovers, E., Kuhn, S.L.
+(Eds.), Transitions before the Transition: Evolution and Stability in the Middle
+Paleolithic and Middle Stone Age. Springer, New York, pp. 233e255.
+Brown, K., Marean, C.W., Herries, A.I.R., Jacobs, Z., Tribolo, Z., Braun, D., Roberts, D.L.,
+Meyer, M.C., Bernatchez, J., 2009. Fire as an engineering tool of early modern
+humans. Science 325, 859e862.
+Coolidge, F.L., Wynn, T., 2001. Executive functions of the frontal lobes and the
+evolutionary ascendancy of Homo sapiens. Cambridge Archaeol. J. 11, 255e260.
+Coolidge, F.L., Wynn, T., 2005. Working memory, its executive functions, and the
+emergence of modern thinking. Cambridge Archaeol. J. 15, 5e26.
+Cotterell, B., Kamminga, J., 1992. Mechanics of Pre-industrial Technology. Cambridge University Press, Cambridge.
+ ski, M., Webb, J., 1992. Effect of heat treatment on siliceous rocks used in
+Doman
+prehistoric lithic technology. J. Archaeol. Sci. 19, 601e614.
+ ski, M., Webb, J., Glaisher, R., Gurba, J., Libera, J., Zakoscielna, A., 2009. Heat
+Doman
+treatment of Polish ﬂints. J. Archaeol. Sci. 36, 1400e1408.
+Flüglein, E., 2013. About the inﬂuence of the particle size on the thermal behaviour
+of inorganic powders. NETZSCH-Gerätebau GmbH Application Note 029 E 03/
+13.
+Haidle, M.N., 2010. Working-memory capacity and the evolution of modern
+cognitive potential: implications from animal and early human tool use. Curr.
+Anthropol. 51 (Suppl. 1), S149eS166.
+Hanoar, D.A.H., Sorrell, C.C., 2011. Review of the anatase to rutile phase transformation. J. Mater. Sci. 46, 855e874.
+Harman Jr., C.G., 2000. Drying and Firing Solutions: Cooling Dunts. The Ceramic
+Industry. Webpage: http://www.ceramicindustry.com/articles/drying-ﬁringsolutions-cooling-dunts (accessed 19.08.13.).
+
+60
+
+L. Wadley, L.C. Prinsloo / Journal of Human Evolution 70 (2014) 49e60
+
+Henshilwood, C.S., d’Errico, F., van Niekerk, K.L., Yvan Coquinot, Y., Jacobs, Z.,
+Lauritzen, S.-E., Menu, M., García-Moreno, R., 2011. A 100,000-year-old ochreprocessing workshop at Blombos Cave, South Africa. Science 334, 219e222.
+Kerr, R., Wood, N., 2004. Science and Civilisation in China. In: Chemistry and
+Chemical Technology, Part 12, Ceramic Technology, vol. 5. Cambridge University
+Press, Cambridge, p. 57.
+Lombard, M., 2006. First impressions of the functions and hafting technology of Still
+Bay pointed artefacts from Sibudu Cave. South. Afr. Humanit. 18 (1), 27e41.
+Lombard, M., Haidle, M., 2012. Thinking a bow-and-arrow set: cognitive implications of Middle Stone Age bow and stone-tipped arrow technology. Cambridge
+Archaeol. J. 22, 237e264.
+Lombard, M., Phillipson, L., 2010. Indications of bow and stone-tipped arrow use
+64,000 years ago in KwaZulu-Natal, South Africa. Antiquity 84, 635e648.
+Mercieca, A., 2000. Burnt and broken: An experimental study of heat fracturing in
+silcrete. Aust. Archaeol. 51, 40e47.
+Mercieca, A., Hiscock, P., 2008. Experimental insights into alternative strategies of
+lithic heat treatment. J. Archaeol. Sci. 35, 2634e2639.
+Mourre, V., Villa, P., Henshilwood, C.S., 2010. Early use of pressure ﬂaking on lithic
+artifacts at Blombos Cave, South Africa. Science 330, 659e662.
+Nash, D.J., Coulson, S., Staurset, S., Smith, M.P., Ullyott, J.S., 2013. Provenancing silcrete in the Cape coastal zone: Implications for Middle Stone Age research in
+South Africa. J. Hum. Evol. 65, 682e688.
+Oestmo, S., 2013. Digital imaging technology and experimental archeology: a
+methodological framework for the identiﬁcation and interpretation of ﬁre
+modiﬁed rock (FMR). J. Archaeol. Sci. 40, 4429e4443.
+Pierce, C., Adams, K.R., Stewart, J.D., 1998. Determining the fuel constituents of
+ancient hearth ash via ICP-AES analysis. J. Archaeol. Sci. 25, 493e503.
+Purdy, B.A., Brooks, H.K., 1971. Thermal alteration of silica minerals: an archaeological approach. Science 173, 322e325.
+Raman, C.V., Nedungadi, T.M.K., 1940. The alpha beta transformation of quartz.
+Nature 145, 147.
+Reuland, E., 2010. Imagination, planning, and working memory: the emergence of
+language. Curr. Anthropol. 51 (Suppl. 1), S99eS110.
+Rowney, M., White, J.P., 1997. Detecting heat treatment on silcrete: experiments
+with methods. J. Archaeol. Sci. 24, 649e657.
+Schmidt, P., Masseb, S., Laurent, G., Slodczyk, A., Le Bourhis, E., Perrenoud, C.,
+Livage, J., Fröhlich, F., 2012a. Crystallographic and structural transformations of
+sedimentary chalcedony in ﬂint upon heat treatment. J. Archaeol. Sci. 39, 135e
+144.
+Schmidt, P., Bellot-Gurlet, L., Slodczyk, A., Fröhlich, F., 2012b. A hitherto unrecognised band in the Raman spectra of silica rocks: inﬂuence of hydroxylated SieO
+
+bonds (silanole) on the Raman moganite band in chalcedony and ﬂint (SiO2).
+Phys. Chem. Minerals 39, 455e464.
+Schmidt, P., Porraz, G., Slodczyk, A., Bellot-gurlet, L., Archer, W., Miller, C.E., 2013.
+Heat treatment in the South African Middle Stone Age: temperature induced
+transformations of silcrete and their technological implications. J. Archaeol. Sci.
+40, 3519e3531.
+Shapiro, S.M., O’Shea, D.C., Cummins, H.Z., 1967. Raman scattering study of the
+alpha-beta phase transition in quartz. Phys. Rev. Lett. 19 (7), 361e364.
+Sievers, C., 2013. Experimental sedge bedding ﬁres and the taxonomic implications
+for Sibudu Cave, KwaZulu-Natal. S. Afr. Archaeol. Bull. 68, 200e210.
+Sievers, C., Wadley, L., 2008. Answering a burning question: experimental carbonisation of fruiting structures in and under archaeologically recovered
+hearths. J. Archaeol. Sci. 35, 2909e2917.
+Vanhaeren, M., d’Errico, F., van Niekerk, K.L., Henshilwood, C.S., Erasmus, R.M., 2013.
+Thinking strings: Additional evidence for personal ornament use in the Middle
+Stone Age at Blombos Cave, South Africa. J. Hum. Evol. 64, 500e517.
+Wadley, L., 2010a. Compound-adhesive manufacture as a behavioural proxy for
+complex cognition in the Middle Stone Age. Curr. Anthropol. 51 (Suppl. 1),
+S111eS119.
+Wadley, L., 2010b. Were snares and traps used in the Middle Stone Age and does it
+matter? A review and a case study from Sibudu. South Africa. J. Hum. Evol. 58,
+179e192.
+Wadley, L., 2013. Recognizing complex cognition through innovative technology in
+Stone Age and Palaeolithic Sites. Cambridge Archaeol. J. 23, 163e183.
+Wadley, L., Williamson, B.S., Lombard, M., 2004. Ochre in hafting in Middle Stone
+Age southern Africa: a practical role. Antiquity 78, 661e675.
+Wadley, L., Hodgskiss, T., Grant, M., 2009. Implications for complex cognition from
+the hafting of tools with compound adhesives in the Middle Stone Age, South
+Africa. Proc. Natl. Acad. Sci. 106, 9590e9594.
+ ski, M., 2009. Fire and stone. Science 325, 820e821.
+Webb, J., Doman
+Wynn, T., Coolidge, F.L., 2003. The role of working memory in the evolution of
+managed foraging. Before Farming 2003/2002 (1), 1e16.
+Wynn, T., Coolidge, F.L., 2007. A Stone Age meeting of minds. Am. Sci. 96, 44e51.
+Wynn, T., Coolidge, F.L., 2009. Implications of a strict standard for recognizing
+modern cognition in prehistory. In: de Beaune, S.A., Coolidge, F.L., Wynn, T.
+(Eds.), Cognitive Archaeology and Human Evolution. Cambridge University
+Press, Cambridge, pp. 117e127.
+Wynn, T., Coolidge, F.L., 2011. The implications of the Working Memory Model for
+the evolution of modern cognition. Int. J. Evol. Biol., 741357.
+
+

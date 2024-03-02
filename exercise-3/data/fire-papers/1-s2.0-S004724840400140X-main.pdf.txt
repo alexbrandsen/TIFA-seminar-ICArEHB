@@ -1,0 +1,1637 @@
+Journal of Human Evolution 48 (2005) 157e174
+
+Short human occupations in the Middle Palaeolithic
+level i of the Abric Romanı́ rock-shelter
+(Capellades, Barcelona, Spain)
+J. Vallverdúa,b,*, E. Alluéa,b, J.L. Bischoﬀ c, I. Cáceresa, E. Carbonella,
+A. Cebriàa, D. Garcı́a-Antóna, R. Hugueta,b, N. Ibáñeza, K. Martı́neza,
+I. Pastóa, J. Rosella, P. Saladiéa,d, M. Vaqueroa,*
+a
+
+Area de Prehistòria, Departament d’Història i Geograﬁa, Universitat Rovira i Virgili,
+Plaça Imperial Tàrraco, 1, 43.005 Tarragona, Spain
+b
+Fundación Atapuerca
+c
+US Geological Survey, 345, Middleﬁeld Road, Menlo Park, CA 94025, United States
+d
+Fundación Duques de Soria
+Received 26 March 2004; accepted 6 October 2004
+
+Abstract
+This paper presents a multidisciplinary study on the size of the occupied surfaces, provisioning strategies and
+behaviour planning at the Romani rock-shelter, using the Middle Palaeolithic record of the level i. This level is dated
+around 46.000 BP through U/Th ages. A behavioural interpretation is proposed, which emphasises the activities and the
+systemic value of the archaeological artefacts and structures.
+Occupation patterns are identiﬁed on the basis of the accumulations formed by human activities. These
+archaeological accumulations, consisting of artefacts and hearths, are easily deﬁned visually as spatial units. The
+relationships between these accumulations, established by means of reﬁtted remains, indicate that diﬀerences can be
+established between: 1) small and medium-sized occupation surfaces; 2) restricted and diversiﬁed provisioning
+strategies. This variability suggests that diﬀerent modes of occupation are represented in the same archaeological level.
+The human activities reveal the generalization of ﬁre technology. In almost all sizes of the occupation surfaces, the
+exploitation of vegetal resources near the Abric Romani marks the threshold of the restricted provisioning strategy.
+Limited use and fragmented knapping activities are recorded in the lithic assemblage. Faunal remains show diﬀerential
+transport. The exploitation of lithic, faunal and vegetal resources characterizes the diversiﬁed provisioning strategy.
+The small occupation surfaces and restricted provisioning strategies suggest short settlements in the Abric Romani.
+This shorter occupation model complements the longer diversiﬁed provisioning strategy recorded in both small and
+medium-sized occupied surfaces. The selection of precise elements for transport and the possible deferred consumption
+* Corresponding authors. Tel.: C34 977 250640.
+E-mail addresses: josep@prehistoria.urv.es (J. Vallverdú), mavr@iea.urv.es (M. Vaquero).
+0047-2484/$ - see front matter Ó 2004 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jhevol.2004.10.004
+
+158
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+in the diversiﬁed provision strategy suggest an individual supply. In this respect, Neanderthal occupations in the
+Romani rock-shelter show a direct relation to: 1) hunting strategic resources; 2) high, linear mobility.
+Ó 2004 Elsevier Ltd. All rights reserved.
+Keywords: Middle Palaeolithic; Neanderthals; rock-shelter occupation patterns; Abric Romanı́
+
+Introduction
+Behavioural strategies are currently considered
+to be one of the most essential components in
+interpreting the archaeological record of prehistoric hunter-gatherers. This is especially clear in
+the case of the European Middle Palaeolithic, since
+behaviour has become central to the debate on the
+biological and cultural characterisation of Neanderthals and their role in the evolutionary
+sequence of human populations. Of the various
+domains that deﬁne human behaviour, settlement
+patterns are particularly important due to their
+eﬀects on the variability of lithic and faunal
+assemblages, a long-standing issue in Middle
+Palaeolithic research.
+Research into settlement patterns, then, focuses
+on two interrelated issues: on the one hand, the
+modes and types of occupation and, on the other,
+mobility strategies. Both issues can be approached
+using theoretical models derived from ethnoarchaeological studies, which provide the sole available
+referent to deﬁne the variability spectrum in the
+archaeological record. Nevertheless, these models
+give rise to a series of signiﬁcant problems and,
+although most archaeologists are aware of them,
+their implications are rarely accepted. The main
+problem derives from the diﬀerent time scales that
+characterise the archaeological and ethnoarchaeological records. Archaeological units e generally
+established using stratigraphic criteria e are not
+correlated with the time scale observed in the
+ethnographic context. On the contrary, they are
+the product of cultural and natural formation
+processes that have taken place over diﬀerent
+periods of time. Unlike the occupational contemporaneity of the material remains documented in
+a settlement of current hunter-gatherers, archaeological levels are palimpsests that normally include
+remains of diﬀerent occupational events, which
+
+cannot be distinguished only by stratigraphic
+criteria.
+Although at present archaeologists tend to
+recognise that the archaeological units they
+analyse are palimpsests, their reconstruction of
+settlement patterns often does not take into
+account this temporal framework. As a matter of
+fact, many interpretations seem to assume that all
+the remains recovered in an archaeological level
+are contemporaneous or, at least, correspond to
+the same occupation type. The aim of this paper is
+to identify the occupation modes represented in
+level i of the Abric Romanı́ site (Capellades,
+Spain). We assume from the start that several
+occupational events may have contributed to its
+formation. We also assume that these events could
+have been diﬀerent, as far as factors like the
+duration of the occupation or group size are
+concerned. Our approach to the archaeological
+record is, therefore, to deﬁne spatial units that are
+vertically and horizontally well characterised inside the stratigraphic level. Establishing the
+temporal relationships between these units is one
+of the main aims of this research. Their synchronicity will not be assumed, but justiﬁed by the
+connections found between them. This procedure
+will make it possible to show the variability of
+occupational models, which would go unnoticed if
+the archaeological level were approached as
+a homogeneous unit.
+In this paper we adopt a multidisciplinary
+approach to the so-called mousterian variability
+(Binford, 1973; Bordes, 1981). We aim to bring
+together diﬀerent theoretical and methodological
+perspectives, such as lithic technology, zooarchaeology, taphonomy and spatial analysis. The
+archaeological interpretation is based on a behavioural approach, which takes into account the
+processual nature of interpretation, and the
+systemic value of the material remains and
+
+159
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+dates obtained at the Abric Romanı́ site are
+considerable (Bischoﬀ et al., 1988; Bischoﬀ and
+Fitzpatrick, 1991; Carbonell et al., 1994), and the
+stratigraphic succession has been dated by U/Th
+between 70 and 40 ka BP. This time span extends
+from the middle of OIS 3 back to OIS 5
+(Dansgaard et al., 1993). In addition, human
+occupations have contributed to the sedimentary
+composition with materials that are suitable for
+radiocarbon dating. This research has made it
+possible to verify and calibrate the U/Th and C14
+dates in key biocultural periods, like the Middle/
+Upper Palaeolithic boundary at the Abric Romanı́
+(Bischoﬀ et al., 1994), or the Upper Pleistocene/
+Holocene boundary at the Abric Agut (Vaquero
+et al., 2002)
+The vegetation at the cornices of the Cinglera
+del Capelló is outstanding because of the presence
+of species encrusted by carbonates. There is an
+abundance of diﬀerent mosses, but the presence of
+bryophyte pseudomorphs (Dydymodon, Eucladium,
+Ctenidium) and the fern Adiantum capillus-veneris
+(Carbonell, 1992) in fossil travertines is particularly signiﬁcant. This is an association that is
+
+the archaeological structures. This paper deals
+with the organisational strategies of the occupational events on level i of the Abric Romanı́.
+
+Antecedents and geo-ecological framework
+of Abric Romanı́ and level i
+The Abric Romanı́ is a sedimentary deposit
+located in a cliﬀ known as the Cinglera del
+Capelló, at the village of Capellades (50 km west
+of Barcelona, 280 m above sea level) (Fig. 1). The
+Cinglera is made up of carbonated quaternary
+sediments of lacustrine and spring origin. The
+complex neotectonic history of the Capellades area
+and the fault of the river Anoia have contributed
+to the cliﬀ formation. At the beginning of the 20th
+century, Amador Romanı́ carried out intense
+archaeological activity at the Cinglera del Capelló,
+and several pleistocene and holocene sites were
+found and documented (Bartroli et al., 1995). The
+dates of these deposits have been established by
+archaeological seriation and radiometric dating at
+diﬀerent sites. The quantity and quality of U/Th
+
+1
+
+Anoia
+
+An
+
+oia
+r
+
+41°
+33'
+
+c
+
+0
+
+B
+
+N
+
+2
+
+ive
+
+r
+
+3
+
+Abric
+Romaní
+
+32'
+
+4
+
+31'
+
+5
+
+60 km
+
+6
+7
+
+0 - 400 m
+> 400 m
+
+Penedès
+
+C, Capellades
+
+8
+9
+
+B, Barcelona
+0
+
+Km
+
+5
+
+1°41'42'
+
+10
+11
+
+Regional framewok
+
+EUROPE
+
+Fig. 1. Geographic and geologic location of the Abric Romanı´ (Capellades, Anoia, Barcelona) in the NE of the Iberian Peninsula.
+Legend of the geological framework of the Capellades area (IGME, 1973, 1975). 1, Plutonic Rock. 2, Palæozoic. 3, Mesozoic. 4,
+Coenozoic. 5, Quaternary travertine. 6, Quaternary undiﬀerentiated. 7, anticline. 8, syncline. 9, thrust fault. 10, reverse fault (?). 11,
+fault.
+
+160
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+characteristic of dripping environments, which are
+called Adiantetea communities, typical in travertine
+deposits (Folch, 1981).
+Twelve archaeological levels (from A to M)
+have been excavated so far at the Abric Romanı́
+sequence. Except for level A (Early Upper Palaeolithic), all the other levels correspond to Middle
+Palaeolithic occupations. Amador Romanı́ mostly
+excavated the uppermost archaeological layers at
+the beginning of the 20th century and they provide
+only very fragmentary information on human
+strategies. It is from level H downwards (Carbonell,
+1992) that the archaeological ﬁeldwork carried
+out since 1983 has exposed a continuous surface
+suitable for a spatial reading of the archaeological
+record. Level i, mainly excavated between 1991
+and 1992, is in this context. The chronology of
+level i has been established by U/Th at ca.
+46 ka BP. The U/Th dates correspond to
+the travertine layers overlying and underlying
+this level. We have four results for the underlying
+travertine: 48.6 G 2.3; 46.9 G 2.6; 46.5 G 1.5 and
+46.3 G 2.4. The overlying travertine has been
+dated at 45.1 G 3.1 ka BP. This layer has recently
+been dated at 46.6 G 1.7 ka BP (Bischoﬀ, per.
+com. 1.07.02).
+According to the pollen analysis, level i is
+located in the coldest phase of the Abric Romanı́
+stratigraphy (Burjachs and Julià, 1994). This pollen
+zone is characterised by low percentages of
+arboreal pollen. The dominance of Asteraceae,
+Poaceae, and Artemisia suggests steppe vegetation.
+The archaeological excavation of level i exposed
+a large surface of over 195 m2. Nevertheless, in
+some areas ancient excavations had already removed the level. These areas were basically Pits 1
+and 2, excavated by Amador Romanı́ (Bartroli
+et al., 1995). During the ﬁfties, Dr. Eduard Ripoll
+cleaned Pit 1 and excavated two L-shaped trenches
+that also aﬀected level i. In Romani’s and Ripoll’s
+stratigraphies, level i appears as Bed 11.
+Level i is located on a discontinuity surface,
+which is documented in all the available sections of
+the trial excavations in the archaeological interventions mentioned earlier. This surface was
+formed by gours or pools situated along a stepped
+surface. Two transversal travertine bars separating
+three relatively ﬂat surfaces formed these steps.
+
+The two upper surfaces contained metre-size gours
+close to the travertine bars and joined by small
+paleo-channels. In the lowermost surface, the
+gours were centimetre-size. In the sedimentary
+deposits ﬁlling the gours, level i overlay a series of
+low energy facies (laminated sands). In fact, the
+archaeological record is mostly included in a layer
+of crystalline gravels from the shelter’s wall. The
+surfaces regularised by the travertine bars, where
+the gours are situated, consisted of travertine
+accretions and tuﬀaceous bioconstructions.
+The discontinuity surface where level i was
+documented was fossilised by a tabular stratum.
+This stratum was also overlaid throughout the
+shelter by a discontinuity surface with metre-size
+and centimetre-size gours in travertine accretion
+deposits. Archaeological level H is located over
+this stratum.
+Sedimentary processes of subaerial exposure e
+such as stromatolithic accretion and cryoclastism e
+are common in the lithological composition of
+archaeological level i. It should be emphasised
+that the sedimentary successions at the top and
+the bottom of level i do not contain archaeological remains. Excavation over a large surface
+made it possible to characterise the various
+lithological contexts where the archaeological
+remains are located: crystalline gravels, laminated
+sands of gour ﬁllings and travertine deposits.
+The structures and archaeological record of the
+well-preserved human occupations correspond to
+a phase of dry sedimentation. At least, this phase is
+drier than the one corresponding to the succession
+of gour facies and travertine accretion, which
+indicates wetter sedimentary processes with a predominance of dripping from the shelter’s ceiling
+(Giralt and Julià, 1996). The detailed archaeostratigraphy indicates that these wetter facies are
+distributed before and after the formation of the
+archaeological record from human activities.
+
+Materials and methods
+The interpretation of the archaeological record
+from level i is the outcome of a multidisciplinary
+study recently published in a monographic book
+(Carbonell, 2002). Below we synthesise the results
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+provided by the diﬀerent analytic domains: lithic
+technology, use-wear analysis of artifacts, raw
+material provisioning, zooarchaeological and taphonomic studies of faunal remains, identiﬁcation
+and characterization of vegetal remains (basically
+charcoal and wood pseudomorphs). Finally, we
+describe and analyse the evident structures
+(Meignen, 1994). The most common archaeological structures are hearths. Other archaeological
+structures documented in the rock-shelter are the
+product of travertine blocks moving inside the
+shelter. Other natural features, such as large
+blocks, or the stalagmite of the Coveta Ripoll,
+may have been used in occupation patterns. Coveta
+Ripoll is a small dissolution cavity close to the wall
+of the rock-shelter delimited by a speleothem
+development from the wall and the ground.
+The lithic assemblage
+The number of lithic remains recovered in level i
+is relatively low (about 500 remains larger than
+1 cm), especially if we take into account that the
+amount of surface excavated was extensive. Flint is
+the dominant raw material (60%), although the
+variability is considerable compared to other
+archaeological levels of the Abric Romanı́ succession (Carbonell et al., 1996a; Carbonell et al.,
+1996b). The percentage of quartz and limestone
+was also signiﬁcant (39%). At other archaeological
+levels, especially the uppermost ones, the dominance of ﬂint is more pronounced. In this respect,
+level i resembles the immediately underlying
+archaeological level Ja, characterised by a signiﬁcant use of quartz and limestone, both of which
+should be considered as strictly local, since they
+are available and plentiful in the vicinity of the
+site. The geological formations bearing a signiﬁcant
+quantity of ﬂint are further away, although only
+5 km from the shelter. In addition, there are large
+outcrops of good quality ﬂint within a 15 km
+radius.
+The technological processes are characterised
+by a ﬂexible reduction strategy, aimed at maximising the number of ﬂakes per core. The knapping methods should be placed in a context deﬁned
+by the absence of hierarchical cores and a low
+degree of predetermination. These characteristics
+
+161
+
+are common in the framework of discoid methods.
+Nevertheless, the small number of cores found in
+level i prevents the reduction strategies from being
+reconstructed in detail. The number of retouched
+artifacts is also very low and almost all of them are
+denticulates and notches, as is the case with the
+other Middle Palaeolithic levels at the Abric
+Romanı́. The technological processes indicate
+low intensity knapping activities, and use-wear
+analyses also show a limited use of artifacts. The
+reduction sequences are temporally and spatially
+very fragmented. There is some relationship
+between the evidence of woodworking and reduction sequences where most of the chaıˆne
+ope´ratoire is present at the site. On the other
+hand, the artifacts used in butchering are items
+transported from reduction sequences carried out
+elsewhere. In general, the retouched artifacts seem
+to correspond to cores knapped outside the
+shelter. Transport is therefore a key factor in the
+provisioning and use of raw materials.
+The spatial distribution of lithic remains shows
+some well-deﬁned and delimited accumulations,
+corresponding to the location of core reduction
+sequences. The size and raw material of the artifacts
+in these accumulations are clearly homogeneous,
+which, in turn, indicates a small number of
+knapping episodes. Moreover, the various accumulations are not connected by reﬁts. The absence of
+artifact transport between the main knapping areas
+suggests that they were not contemporaneous and
+may belong to diﬀerent occupation events.
+The faunal remains
+The faunal remains are made up of equid,
+cervid and bovid and they clearly show evidence of
+human activity directed towards obtaining animal
+nutrients. The analysis of cut marks, bone
+fractures, and signals of burning on bones indicated a primary access pattern to these herbivores, mostly prime-age adults. The prey was not
+brought into the camp as complete carcasses;
+cranial and limb parts were selected and transported to the rock-shelter. The axial elements of
+cervid were also transported occasionally. Large
+longitudinal cut-marks on bones also suggest that
+strips of meat were obtained (Bunn, 1983).
+
+162
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+The technique of fracturing bone to obtain the
+marrow consists of separating the diaphysis and
+the epiphysis. It is important to note that
+epiphyses were systematically destroyed, since
+their representation in the record is almost null.
+The areas of bone breakage are spatially well
+delimited. One of these areas is located beside the
+Coveta Ripoll. Another is located in the squares
+I-J/53-54, close to a travertine block.
+The impact of other taphonomic agents is low.
+For instance, carnivore marks have only been
+recognised in 1.5% of the bone remains. Of the
+natural agents, water stands out as it aﬀects 9.9%
+of the bones, even though most of the rounding
+and smoothing aﬀects only one side (the one
+exposed to the surface). This, in turn, also suggests
+weak water streams. However, we do not rule out
+the possibility that, in certain areas of the rockshelter, the record was displaced. Finally, the
+incidence of trampling and weathering in the
+record is particularly low (1.3% and 0.5%
+respectively).
+
+been recognized. There are many oxalate crystals
+in most of the samples and prismatic shapes of
+Pinus sp., although some of the parenchymatous
+tissue shapes may belong to Pinus sylvestris.
+Over 100 wood imprints (WI) are documented
+in level i. Their average length is 30 cm and their
+average width 7 cm. The most outstanding imprints from level i are a trunk (measuring 3 x 0.5 x
+0.5 meters) (Fig. 2) and two large accumulations.
+One of them is located beside a hearth and the
+other one on top of it, in a position that looks like
+a tripod that has fallen on top of a hearth (Fig. 3)
+(Carbonell and Castro-Curiel, 1995). There is also
+another group consisting of a dense concentration
+of small imprints that we interpret as the remains
+of woodworking activities. The ratio of burned to
+unburned remains in these imprints is 1:4 (burned/
+unburned). In many imprints, only the distal
+segment is burned.
+
+The archaeobotanic record
+The archaeobotanic record of Level i is diverse
+and peculiar, since we have been able to recover
+diﬀerent categories of macro and micro remains:
+wood imprints (WI), charred woods, charcoals
+and phytoliths.
+A total of 452 charcoals were recovered from
+the hearths. The main taxon identiﬁed was Pinus
+silvestris/nigra salzmannii. This taxon includes two
+species, scots pine and black pine, that currently
+grow at over 800 m above sea level and which have
+been recognised in about 60% of the charcoals.
+Similarly, as in the rest of the sequence, the
+prevalent percentage of conifers denotes the
+existence of a forest growing near the site.
+Furthermore, pinewood was preferred as fuel
+because of its abundance in the immediate
+environment (Allué, 2002).
+Phytolith analysis was performed on both the
+regular sediments from level i and the sediments
+from the hearths. Gymnosperms, and in particular
+tracheids, are the most important silicate phytoliths. Phytoliths from gramineae are less common
+and cells from the Festucoideae subfamily have
+
+Fig. 2. Imprint on a tree trunk from level i.
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+Fig. 3. Singular tripod of wooded imprints from level i.
+
+Hearths
+Sixteen hearths have been recorded on level i.
+They are ﬂat, without preparations and blocks,
+and correspond to individual episodes of combustion. Hearths and archaeological artefacts are
+spatially associated. The accumulations of archaeological material in and around hearths show an
+occupational pattern characterised by the absence
+of human secondary deposits. The micromorphological analysis of hearths also shows the absence
+of secondary deposits, and an intensity of combustion lower than 300 degrees (Carbonell, 2002).
+Anthropic and naturally located travertine blocks
+There are many travertine blocks from the
+shelter’s roof and wall. The spatial distribution of
+these blocks shows two types of accumulations.
+One line of blocks, parallel to the wall of the
+shelter, was formed as a result of the roof
+collapsing. Other groups of travertine blocks are
+located outside this line. These blocks clearly have
+a stratigraphic relation with the archaeological
+assemblage and hearths, which suggests displacement during human occupations. In the ﬁeldwork,
+these associations of blocks are known as Internal
+Organisation of Travertine (IOT).
+Spatial distribution: observed accumulations
+The problems involved in characterising the
+archaeological assemblage of level i can be summed
+
+163
+
+up with the concept of ‘‘living ﬂoor’’ (Bordes,
+1975). We propose an empirical approach based on
+the concept of accumulation: an area where the
+archaeological assemblage formed by natural
+and anthropic processes can be easily delimited
+by means of visual observation (Villa, 1988)
+(Fig. 4).
+Archaeological remains are spatially clustered
+in well-delimited accumulations that are generally
+only a few centimetres thick. They can be easily
+deﬁned as spatial analytical units, especially when
+they are related to hearths (Vaquero and Pastó,
+2001). Each accumulation is referred to with
+Arabic numbers (Table 1 and Fig. 5). Our archaeostratigraphic research, based on the vertical plot of
+the remains larger than 2 cm and the depth of the
+archaeological structures such as hearths and
+travertine blocks (Canals, 1993), indicated the
+presence of stratiﬁed and non-stratiﬁed accumulations (Carbonell, 2002). The stratiﬁed accumulations have a clear diachronous archaeological
+record, whereas the non-stratiﬁed accumulations
+only show one horizon of remains. Stratiﬁed
+accumulations are subdivided using a letter (Table
+1). Despite the high resolution of the sedimentary
+processes and their chronostratigraphy (Bischoﬀ
+et al., 1988), and because of the lack of correspondence between these processes and the time
+span of the human occupations, the stratiﬁed and
+non-stratiﬁed accumulations should be considered
+as occupational palimpsests or a long-term exposed surface, in the sense of a geological palimpsest (Riba, 1997).
+Accumulations and natural formation processes
+Archaeological materials from the bottom of
+level i are located in accumulation 12c, which
+consists of bone remains recovered in gour
+deposits (L-K/45-46 squares). In this accumulation
+3 MNI of cervid without stone tools have been
+identiﬁed. Taphonomic analysis of these red deer
+bones show that this assemblage is redeposited
+(Cáceres, 1995). A bone reﬁt between accumulations 12c and 11c has been documented. Other
+archaeological materials inside gours have been
+recognized in accumulation 13b.
+The archaeostratigraphy of level i is better
+deﬁned in accumulation 11 (Carbonell, 2002).
+
+164
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+Fig. 4. Accumulations observed on level i. Legend. A, travertine cliﬀ of the shelter. B, gour. C, travertine block. D, hearth. E, wood
+imprint. F, boundary of diﬀuse accumulation. G, ancient archaeological surveys.
+
+During the ﬁeldwork, we recognised two phases of
+cultural formation (11b and 11c), with two hearths
+(III and IV) separated by a sterile layer. We also
+identiﬁed a third accumulation (11a) by means of
+an archaeostratigraphical analysis. This accumulation is made up of a senile equid tooth, a jaw
+fragment of bovid and a wood imprint. The
+stratigraphical relations between these archaeological materials enable us to characterise the main
+natural formation processes of level i. From the
+base to the top these are as follows:
+The senile equid tooth from this accumulation
+11a can be related to another isolated tooth
+located in square M49 (accumulation 13b). This
+
+skeletal element was the key in determining the
+only MNI of senile equid. It was found in the base
+of a succession of gour facies.
+The bovid mandible from accumulation 11a
+suggests a relationship with other bovid elements
+from accumulation 14c near hearth IX, which
+determine the only MNI of bovid in this level.
+The natural processes that formed the wood
+imprints from accumulation 11a show a relation
+with the wood imprints from accumulations 6, 14b
+and 12a.
+Accumulation 11a is formed of archaeological
+remains that show a spatial relation with other
+accumulations attributed to diﬀerent sedimentary
+
+Table 1
+Synthetic table of archaeological components observed and analysed in level i accumulations
+LITHICS REMAINS
+FLINT
+H
+
+LIMESTONE
+
+QUARTZITE
+
+1
+
+2
+
+3
+
+1
+
+2
+
+3
+
+1
+
+2
+
+3
+
+1
+
+2
+
+3
+
+1
+
+2
+
+C
+I
+I
+D
+I
+C
+D
+D
+
+S
+M-L
+S
+S-M
+M
+S-M
+M-L
+S-M
+
+I
+-
+
+I
+D
+I
+I
+C
+D
+D
+
+M-L
+S-M
+S
+S
+S
+S
+S-M
+
+E
+E
+I
+I-E
+I
+-
+
+D
+I
+I
+D
+D
+D
+I
+I
+D
+
+M-L
+M-L
+M-L
+M-L
+S-M-L
+M-L
+M
+M
+M-L
+
+-
+
+-
+
+-
+
+E-sE-C
+E
+E
+E
+sE-C
+E
+E
+E-C
+C
+E
+
+C-AX
+C-AP
+C
+C-AP
+AP
+C
+C
+C-AP
+AP
+C
+
+-
+
+I
+I
+D
+C
+I
+I
+I
+
+S
+S
+S-M
+S-M
+S
+M-L
+S-M
+
+I
+I-E
+-
+
+I
+D
+I
+I
+C
+I
+
+M-L
+M-L
+M-L
+M-L
+S-M-L
+M-L
+
+i
+-
+
+I
+I
+I
+
+L
+L
+L
+
+E-C-B
+C
+E-C
+E-C
+E-sE-C
+C
+E-C
+E
+E-C
+E-C
+E-C-B
+
+C-AP
+C-AP
+C-AP
+AX-AP
+C-AX-AP
+C-AX-AP
+C-AP
+C
+C-AX-AP
+C-AX-AP
+C-AX-AP
+
+I
+A
+II
+VIII
+X
+XI
+A
+XIII
+XV
+XVI
+
+A
+A
+A
+P
+P
+A
+P
+P
+A
+P
+
+A
+A
+P
+P
+A
+P
+P
+A
+A
+A
+
+M
+W
+W
+M
+M
+
+I
+I
+I
+-
+
+A
+III
+IV
+VII
+V
+A
+VI
+A
+A
+XIV
+IX
+
+A
+P
+P
+A
+P
+A
+P
+A
+A
+P
+A
+
+A
+P
+A
+A
+P
+A
+P
+A
+A
+P
+A
+
+M
+W
+W
+W-M
+-
+
+I
+I
+E
+I-E
+-
+
+QUARTZ
+
+C M-L
+D M-L
+D M-L
+I M-L
+C S-M-L
+-
+
+3
+
+4
+
+H H 1E
+H 1E
+L L H L L L 1E
+H H
+H
+L
+L
+H
+L
+L
+H
+L
+
+5
+
+6
+
+A
+A
+A
+-
+
+E?
+I
+
+1E
+A
+E?
+1E
+sA
+E
+1C
+sA
+3C 2A-1sA 1E
+A
+E
+1E
+S
+E?
+1E
+A
+1B
+E?
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+ACCUMULATIONS
+NON-BEDDED
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+BEDDED
+11a
+11b
+11c
+12a
+12b
+12c
+13a
+13b
+14a
+14b
+14c
+
+IOT WI UW A
+
+FAUNA REMAINS
+
+General legend. H: hearth, with a roman number. IOT: Internal Organization of Travertines. WI, wood imprints. A: absence. P: presence. Lithic remains legend. UW A:
+usewear analyses; W, wood; M, meat. 1, lithic reﬁtting; I, internal; E, external. 2, density of lithic remains: C, concentrated (O10 remains mÿ2); D, dispersed (2-10
+remains mÿ2); I, isolated (1 remains mÿ2). 3, format of lithic remains: S, small (!3 cm); M, medium (3-5.5 cm); L, large (O5.5 cm).
+Faunal remains legend. 1, Speciﬁc determination: E, equid; sE, senile equid; C, cervid; B, bovid. 2, Skeletal elements: C, cranial; AX, axial. AP, apendicular. 3, number of
+burnt remains: H, high; L, low. 4, location of INM and number: E, equid, C, cervid, B, bovid. 5, Age: A, adult; sA, subadult; S, senile. 6, faunal reﬁttings: E, external; I,
+internal.
+
+165
+
+166
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+Fig. 5. Roman number for hearths and Arabic number for accumulations for the spatial archaeological record on level i.
+
+layers. The bovid remains from accumulation 14c
+are on the top of gour deposits. The stratigraphic
+position of the equid tooth, however, is 20 cm
+below hearth VI, in accumulation 13b. Thus, the
+bovid remains are later than the dental remains of
+the senile Equus. These archaeostratigraphic relations show that accumulation 11a is polygenetic
+with redeposited and displaced remains.
+We also identiﬁed disturbed materials in accumulation 14a. They are separated from the lower
+accumulation 14b by a layer of silty gour sediments. These remains show orthogonal orientation
+amongst them, which suggests displacement by
+stream action (Isaac, 1989).
+In conclusion, we have identiﬁed two moments of
+natural formation processes of the archaeological
+
+assemblages. The ﬁrst one is in the base of level i, in
+accumulation 12c, and can be characterised by the
+redeposition of archaeological remains. These
+archaeological materials are inside gours with little
+horizontal displacement. The second stratigraphic
+context is at the top of the level, where natural
+formation processes like re-sedimentation made
+accumulations 11a and 14a. These accumulations
+also consist of bone and vegetal remains (charcoals
+and wood imprints). It is also worth pointing out
+that they have a low density of archaeological
+materials.
+Finally, lithic reﬁts are not located in these
+accumulations, which are formed by natural processes. Some bone reﬁts, however, have been
+identiﬁed, such as the ones in 11a and 13b.
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+Accumulations and anthropic formation processes
+The evidence of accumulations formed by
+natural processes allows us to consider the
+existence of accumulations through anthropic
+processes. Cultural accumulations can be characterised by the same archaeostratigraphic and
+lithological context with a stratigraphic connection
+between artifacts and archaeological structures
+such as hearths and travertine blocs.
+On the basis of the presence of reﬁts, we have
+distinguished two kinds of accumulations: ones
+that are related, characterised by connections
+between diﬀerent accumulations, and ones that
+are unrelated, characterised by the absence of
+connections with other clusters, although some
+reﬁts have been identiﬁed within them.
+Some accumulations cannot be properly characterised, because of the ancient excavations.
+Therefore, we do not take into account the
+accumulations formed by the archaeological record around hearths VII, XII and XV. These
+accumulations make it very diﬃcult to make
+a comparative characterisation.
+Non-related anthropic accumulations
+Accumulation number 1 contains hearth I and
+a dense concentration of ﬂint. In this accumulation
+some faunal remains from equid, small equid, and
+cervid have also been identiﬁed. The use wear of
+a ﬂint ﬂake from this accumulation shows that it
+had been used in meat processing.
+The archaeological record from accumulation
+11b is very speciﬁc. There are cervid remains, with
+no axial parts. It also contains hearth III and an
+Internal Organization of Travertine (IOT). The
+ﬂint and limestone remains, connected by reﬁts,
+form a dense lithic concentration over the hearth.
+Some of these lithic remains present a thermal
+impact. The functional analysis of one of the ﬂint
+ﬂakes from this accumulation shows traces of
+woodwork. Some internal reﬁts have been found
+on the periphery of this accumulation, close to
+accumulation 5.
+Accumulation 11c appears around hearth IV
+and contains a high diversity of archaeological
+remains. The lithic assemblage consists of ﬂint and
+quartz. The faunal remains correspond to cervids
+and equids.
+
+167
+
+Accumulation 13a consists of the archaeological remains located around hearth VI, and it is not
+clearly delimited with respect to accumulation 14c
+around hearth IX. These two accumulations
+presented a high diversity of faunal remains of
+equids, cervids and bovids. Moreover, the lithic
+assemblage is characterised by the absence of ﬂint
+and the presence of a quartzite reﬁtting. There are
+no reﬁts between accumulations 13a and 14.
+Accumulation 8 includes hearth XIII, an Internal Organization of Travertine, and lithic and
+faunal remains. It should be pointed out that there
+are few bone remains, and that these belong to an
+equid cranium. The lithic assemblage around the
+hearth consists of quartz, ﬂint and limestone.
+Accumulation 5, with hearth X, has very few
+lithic and bone remains. Three cervid tibiae and
+a small equid tibia make up the bone record of this
+accumulation. The lithic assemblage consists of
+quartz, ﬂint and limestone. This accumulation has
+reﬁttings near the travertine blocks in squares
+M-N58-59, between accumulations 5 and 7.
+Accumulation 7 has no hearth, and has an
+internal limestone reﬁtting. This accumulation is
+partly limited by the above mentioned travertine
+blocks. One of the lithic remains has traces of
+woodworking.
+Related anthropic accumulations
+Lithic and bone reﬁtting between accumulations suggest that there is a connection between the
+non-stratiﬁed accumulations 3-4-6 and 10 and the
+stratiﬁed ones 12b-14b. These related accumulations have a high degree of material diversity. The
+main raw materials are ﬂint and limestone, followed by quartz. The faunal remains are dominated by equids.
+Accumulations 3-4 and 6 are not clearly characterized because of the old archaeological excavations. Accumulation 3, with hearth II, has
+dispersed lithic and bone remains, including an
+equid molar with a singular modiﬁcation (Fig. 6).
+This same modiﬁcation has also been documented
+in another equid molar found at accumulation 14b,
+near hearth XIV. Accumulation 3 contains large
+wooded imprints (WI) that belong to a tree trunk.
+Accumulation 4 has more bone remains and few
+lithic remains, but there is a lithic reﬁtting between
+
+168
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+Discussion
+
+Fig. 6. Two horse molars with deep incisions on their surface
+from accumulations 3 and 14b. These horse teeth are from the
+same individual. They were 8 meters apart. The marks on their
+surface are currently being studied.
+
+accumulations 3 and 4. Accumulation 6 shows
+a high degree of burnt bones and near hearth XI
+there is also a group of large wood imprints.
+The related accumulation 14b has the greatest
+density of archaeological material. These archaeological remains, around hearth XIV, are located in
+front of the stalagmite that delimits the entrance to
+the Coveta Ripoll. This accumulation has various
+internal and external reﬁttings of ﬂint and limestone that show connections with accumulations
+12b, 10 and 6. It is also characterised by small lithic
+and bone remains, as well as small WI fragments.
+In this accumulation, there are a large number of
+equid cranial fragments, and also a few axial cervid
+bones. It also contains many burned bone remains.
+Additionally, the functional analysis of a ﬂint ﬂake
+showed that it had been used on wood and meat.
+In accumulation 10, the faunal assemblage
+consists of reﬁtted equid dental and mandible
+remains. The use-wear analyses indicate that a ﬂint
+ﬂake had been used in meat processing.
+Accumulation 12b includes hearth V and its
+archaeological record consists of a few ﬂint and
+limestone remains, and abundant cervid and equid
+faunal remains. There are also many dispersed WI,
+although there is a group of three lying together
+over hearth V, which suggests the analogy with
+a tripod mentioned earlier (Carbonell and CastroCuriel, 1995).
+
+Level i consists of accumulations formed by
+natural and cultural processes. The record of the
+accumulations formed by anthropic processes is
+located basically around archaeological structures,
+such as hearths and Internal Organization of
+Travertines. The record of the cultural accumulations shows two diﬀerent sedimentary moments
+for human occupation, which had already been
+documented during the ﬁeldwork and veriﬁed by the
+archaeostratigraphic and lithic study (Carbonell,
+2002).
+The lithic and faunal reﬁtting made it possible
+to distinguish between related and unrelated
+accumulations. The lithic and faunal composition
+of some accumulations is often highly speciﬁc.
+This is due to sedimentary processes limiting the
+formation of developed occupational palimpsests,
+in the framework of a centennial-millennial time
+span. Also, the dripping sedimentary processes e
+related to the above mentioned wetter facies e
+may have limited the suitability of the rock
+shelter for human occupation (Vallverdú et al., in
+press).
+The main activities identiﬁed in these accumulations are the following (Table 2):
+1. Knapping activities, as well as the consumption and abandonment of faunal remains.
+These activities have been identiﬁed at the
+non-related accumulations 1, 2, and 8 and 13a
+and 14c and the related accumulations 2, 12b,
+4, 6, 14b and 10.
+2. Butchering activities. These activities have
+been identiﬁed at accumulations 11b, 14b and
+10. In the ﬁrst, there is evidence of the
+butchering of a cervid that shows no axial
+skeleton. Butchering activities at the related
+accumulations 14b and 10 e near the Coveta
+Ripoll e have been linked to the abandonment
+of equid cranial elements.
+3. Animal biomass conservation. These activities
+may have taken place at accumulation 12b.
+This accumulation contains the tripod on
+hearth V (Carbonell and Castro-Curiel, 1995).
+The interpretation of the meat conservation
+activities is based on the large longitudinal
+
+169
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+Table 2
+Main anthropic accumulations, estimated surface (in m2) and human activities
+ACCUMULATION
+
+ARCHEOLOGICAL
+MATERIAL
+
+ACTIVITIES
+
+6
+
+7
+
+Wood imprint.
+Flint, quartz, limestone.
+Equid.
+
+Vegetal exploitation and partial consumption.
+Lithic transport and exploitation.
+Animal transport and consumption.
+
+9
+
+1
+
+Hearth I.
+Flint.
+Equid, cervid.
+
+Vegetal exploitation and consumption.
+Lithic transport and exploitation.
+Animal transport and consumption.
+
+9
+
+9
+
+Hearth XV.
+Flint, quartz, limestone.
+Cervid.
+
+Vegetal exploitation and consumption.
+Lithic transport and exploitation.
+Animal transport and consumption.
+
+12
+
+5
+
+Hearth X.
+Flint, quartz, limestone.
+Cervid, equid.
+
+Vegetal exploitation and consumption.
+Lithic transport and exploitation.
+Animal transport and consumption.
+
+12
+
+8
+
+Hearth XIII.
+Flint, quartz, limestone.
+Equid.
+
+Vegetal exploitation and consumption.
+Lithic transport and exploitation.
+Animal transport and consumption.
+
+16
+
+11C
+
+Hearth IV.
+Flint, quartz.
+Cervid, equid.
+
+Vegetal exploitation and consumption.
+Lithic transport and exploitation.
+Animal transport and consumption.
+
+16
+
+13A C 14C
+
+Hearth VI, IX.
+Quartz, limestone, quartzite.
+Cervid, equid, bovid.
+
+Vegetal exploitation and consumption.
+Lithic transport and exploitation.
+Animal transport and consumption.
+
+20
+
+11B
+
+Hearth III.
+Flint, quartz, limestone,
+Quartzite. Cervid.
+
+Vegetal exploitation and consumption.
+Lithic exploitation and supply.
+Animal butchering and consumption.
+
+140
+
+3 C 4 C 6 C 10 C
+2B C 14B
+
+Hearth II, V, VIII, XI, XIV, XVI
+Wood imprints
+Flint, quartz, limestone.
+Equid, cervid, bovid.
+
+Vegetal exploitation and partial consumption.
+Lithic exploitation and supply.
+Animal butchering.
+Immediate and differed consumption.
+
+SURFACE
+(m2)
+
+cut marks mentioned above, which show that
+meat strips may have been cut.
+4. Exploitation and consumption of vegetal
+resources. These activities are recorded in
+almost all the accumulations on level i. There
+are also other areas with vegetal remains
+unrelated to ﬁre, such as the small WI
+fragments at accumulation 14b. Traces of
+woodworking were also identiﬁed through
+traceological analyses at accumulations 12b,
+11b, 7 and 3.
+Occupational models at level i
+The size of the accumulations formed by
+anthropic activities and the analysis of the
+
+diﬀerent categories of the record have made it
+possible to identify two occupation models at the
+shelter in level i. The ﬁrst has a small surface
+area while the second is medium sized. Both
+models are based on the distinction between the
+related and unrelated accumulations (Figs. 7
+and 8).
+Occupation model of the small surface
+The small model can be characterised by the
+occupation of a surface between 9 and 20 square
+meters (Table 2). The superimposition of lithic and
+faunal remains around or over the hearths
+characterises this model of occupation (Vaquero
+and Pastó, 2001). The lithic activities identiﬁed in
+the technological study are the introduction of
+
+170
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+Fig. 7. Spatial location for the hearths and internal reﬁtted archaeological material from the small model.
+
+large ﬂakes and retouched artefacts, partially
+reduced cores and limestone blocks.
+This model shows two types of animal resource
+provisioning: in-site processing and consumption,
+or transport and consumption of animal parts
+processed outside the site.
+Occupation model on the medium-sized surface
+This occupation model occupies 120 square
+meters (Table 2). The various materials are
+distributed diﬀerently on the surface. The faunal
+remains are concentrated towards the exterior of
+the area, at accumulations 4 and 12a. The lithic
+remains tend to cluster at the accumulations near
+to the wall, where the small faunal and lithic
+remains overlap, just as they do in the small
+
+occupation model. There are knapping sequences,
+the introduction of limestone cobbles, and large
+ﬂakes and retouched objects. Faunal remains show
+that animal biomass was exploited, processed,
+conserved and consumed at the site.
+The fragmentation of the medium-sized occupation models, with a central domestic area and
+a specialized peripheral area, has been described by
+ethnoarchaeologists (Yellen, 1977; Binford, 1987).
+No secondary accumulation related to intentional
+refuse has been described. The overlapping of
+structures (hearths and IOT) and archaeological
+remains, as well as the clearly delimited accumulations, suggest the absence of this type of deposits.
+The identiﬁcation of a domestic zone and
+specialised areas, in the medium-sized occupation
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+171
+
+Fig. 8. Spatial location of hearths and external and internal reﬁtted archaeological material from accumulations in the medium-sized
+model.
+
+model, indicates an occupation pattern that was
+more common during the Upper Paleolithic
+(Simek, 1987). So, on level i the occupation model
+varies according to the size of the occupied surface.
+Exploitation models at the Abric Romanı´
+and territorial mobility
+The provisioning strategies identiﬁed show
+a threshold of minimal activity, related to the
+exploitation of the vegetal materials from the
+surroundings of the site for fuel. This indicates
+that ﬁre technology was widespread during this
+period (Binford, 1988) and is present in almost all
+
+the accumulations of human formation processes
+(Arteaga et al., 2001). The combustion activities
+around the hearths show a speciﬁc combustion of
+pinewood (Allué, 2002).
+The restricted provisioning strategy is characterised by highly fragmented fauna and lithic
+operatory sequences, and suggests the existence
+of a previous provisioning site. The Abric Romani
+was basically a place of passage (Bibouac). The
+restricted strategy of lithic and faunal resources
+shows that the immediate surroundings were not
+exploited (Table 3).
+The diversiﬁed strategy documents the exploitation of lithic and faunal resources from the shelter’s
+
+172
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+Table 3
+Main human activities according to the kind of resources and the occupation models
+MODELS
+Small sized extension
+and restricted provision
+Small sized extension
+and diversiﬁed provision
+Middle sized extension
+and diversiﬁed provision
+
+VEGETAL RESOURCES
+
+ANIMAL RESOURCES
+
+Combustion and conﬁguration
+
+Final consumption
+
+Combustion and conﬁguration
+
+Zone of processing and ﬁnal
+consumption
+Specialized zone of
+processing and ﬁnal
+consumption
+
+Combustion and conﬁguration
+
+immediate environment. This diversiﬁed exploitation is recorded through the input and output of
+lithic elements, the primary or secondary provisioning strategy and a possible deferred treatment
+of animal and lithic resources. The selection of
+
+LITHIC RESOURCES
+Introduction of tools and ﬁnal
+knapping sequences
+Final knapping sequences and
+introduction raw material
+Introduction of tools, Final and
+initial knapping sequences and
+introduction of raw material
+
+precise elements for transport and consumption at
+the site has been designed as a strategy of
+provisioning individuals (Khun, 1995).
+The exploitation models on level i show that
+the groups were highly mobile. The diversiﬁed
+
+Fig. 9. Density of burned fauna per square metre from level i.
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+provisioning strategy probably complements the
+restricted one. This is based on accumulation 11b
+(Table 3), which is small and has a diversiﬁed
+exploitation. In these accumulations large quantities of burned bones coincide with diversiﬁed
+provisioning strategies (Fig. 9).
+It is also possible to suggest the absence of
+previous occupation sites characterised by a diversiﬁed exploitation and a deferred consumption
+of resources. In this way, regardless of the
+demography or size of the occupied surface, the
+mobility of the group is directly related to
+the exploitation of hunting strategic resources.
+The linear mobility between diverse geographical
+areas and low segregation suggest the planning of
+long movements with the abandonment of easily
+replaceable objects and the transport of surplus.
+Acknowledgements
+The Generalitat de Catalunya, Diputació de
+Barcelona, Ajuntament de Capellades and the
+Romanyà-Valls Company provided ﬁnancial support for the research and ﬁeldwork in the Abric
+Romani. The Fundación Atapuerca supports the
+research of E. A., R. H. and J. V.; P. S. has a grant
+provided by the Fundación Duques de Soria.
+
+Bibliography
+Allué, E., 2002. Dinámica de la vegetación y explotación del
+combustible leñosos durante el Pleistoceno Superior y el
+Holoceno del Noreste de la Penı́nsula Ibérica a partir del
+análisis antracológico. Ph.D. Dissertation, Universitat
+Rovira i Virgili.
+Arteaga, I., Allué, E., Pastó, I., Vallverdú, J., Carbonell, E.,
+2001. Els fogars del paleolı́tic mitjà de l’Abric Romanı́
+(Capellades, Anoia). Cypsela 13, 11e27.
+Bartroli, R., Cebrià, R., Muro, I., Riu, E. y Vaquero, M., 1995.
+A frec de ciència. L’Atles d’Amador Romani i Guerra.
+Ajuntament de Capellades, Capellades. 232 pp.
+Binford, 1973. Interassemblage Variability -the Mousterian
+and the functional argument. In: Renfrew, C. (Ed.), The
+Explanation of Culture Change: Models in Prehistory.
+Duckworth, London, pp. 225e254.
+Binford, L.R., 1988. En busca del pasado. Descifrando el
+registro arqueológico. Crı́tica, Barcelona.
+Binford, L.R., 1987. Researching ambiguity: frames of reference and site structure. In: Kent, S. (Ed.), Method and
+
+173
+
+Theory for Activity Area Research. Columbia University
+Press, New York, pp. 449e512.
+Bischoﬀ, J.L., Fitzpatrick, J.A., 1991. U-series dating of impure
+carbonates: An isochron technique using total-sample
+dissolution. Geochimica et Cosmochimica Acta 55,
+543e554.
+Bischoﬀ, J.L., Julià, R., Mora, R., 1988. Uranium-series dating
+of the Mousterian Occupation at Abric Romani, Spain.
+Nature 332, 68e70.
+Bischoﬀ, J.L., Ludwing, K., Garcia, J.F., Carbonell, E.,
+Vaquero, M., Staﬀord, T.W., 1994. Dating of the basal
+Aurignacian Sandwich at Abric Romani (Catalunya, Spain)
+by Radiocarbon and Uranium-series. Journal of Archaeological Science 21, 541e551.
+Bordes, F., 1975. Sur la notion de sol d’habitat en préhistoire
+paléolithique. Bulletin de la Société Prehistorique Française
+72, 139e144.
+Bordes, F., 1981. Vingt-cinq ans après: le complexe moustérien
+revisité. Bulletin de la Société Préhistorique Française 78,
+77e87.
+Bunn, H.T., 1983. Comparative analyses of modern bone
+assemblages from a San Hunter-Gatherer camp in the
+Kalahari desert, Botswana, and from a Spotted Hyena den
+near Nairobi Kenia. In: Clutton-Brock, J., Grigson, C.
+(Eds.), Animals and Archaeology. 1, Hunters and their
+Prey. pp. 143e148. Oxford: British Archaeologica Reports
+International Series 163.
+Burjachs, F., Julià, R., 1994. Abrupt climatic changes during the
+last glaciation based on pollen analysis of the Abric Romani,
+Catalonia, Spain. Quaternary Research 42, 308e315.
+Cáceres, I., 1995. Estudio Tafonómico de los Procesos de
+Formación del n.(i) del Abric Romanı́ (Capellades, Barcelona). La inﬂuencia de la actividad antrópica. M.A.
+Dissertation, Universitat Rovira i Virgili.
+Canals, A., 1993. Méthode et téchniques archéostratigraphiques pour l’étude des gisements archéologiques en sédiment
+homogène: application au complexe CIII de la Grotte de
+Lazaret, Nice (Alpes Maritimes). Ph.D. Dissertation,
+Museum d’Histoire Naturelle.
+Carbonell, E., 1992. Abric Romanı́, nivell H: un model
+d’estratègia ocupacional al Plistocè Superior mediterrani.
+Estrat 5, pp. 159e308.
+Carbonell, E., 2002. Abric Romanı́ nivell i. Models d’ocupació
+de curta durar de fa 46.000 anys a la Cinglera del Capelló
+(Capellades, Anoia, Barcelona). Universitat Rovira i Virgili
+Press, Tarragona.
+Carbonell, E., Castro-Curiel, Z., 1995. Wood pseudomorphs
+from level i at Abric Romani (Barcelona, Spain). Journal of
+Field Archaeology 22, 376e384.
+Carbonell, E., Cebrià, A., Allué, E., Cáceres, I., Castro, Z.,
+Diaz, R., Esteban, M., Ollé, A., Pasto, I., Rodriguez, X.P.,
+Rosell, J., Sala, R., Vallverdú, J., Vaquero, M., Vergés,
+J.M., 1996a. Behavioural and organizational complexity in
+the Middle Palaeolithic from The Abric Romani. In:
+Carbonell, E., Vaquero, M. (Eds.), The Last Neandertals.
+The First Anatomically Modern Humans. Universitat
+Rovira i Virgili Press, Tarragona, pp. 385e434.
+
+174
+
+J. Vallverdú et al. / Journal of Human Evolution 48 (2005) 157e174
+
+Carbonell, E., Cebrià, A., Rosell, J., Sala, R., Vaquero, M.,
+1996b. Els conjunts III i IV de l’Abric Romanı́ de
+Capellades (campañes 1988-1994). Una seqüència d’ocupacions del paleolı́tic mitjà. Tribuna d’Arqueologia 1994-1995,
+27e38.
+Carbonell, E., Giralt, S., Vaquero, M., 1994. Abric Romanı́
+(Capellades, Barcelone, Espagne): une importante séquence
+anthropisée du Pleistocène Supérieur. Bulletin de la Société
+Préhistorique Française 91 (1), 47e55.
+Dansgaard, W., Johnsen, S.J., Clausen, H.B., Dahl-Jensen, D.,
+Gundestrup, N.S., Hammer, C.U., Hvidberg, C.S., Steﬀensen, J.P., Svelnbjornsdottir, A.E., Jouzel, J., Bond, G., 1993.
+Evidence for general instability of past climate from 250-kyr
+core record. Nature 364, 218e220.
+Folch, R., 1981. La vegetació dels paı̈sos catalans. Ketres,
+Barcelona.
+Giralt, S., Julià, R., 1996. The sedimentary record of the
+Middle-Upper Palaeolithic transition in the Capellades area
+(NE Spain). In: Carbonell, E., Vaquero, M. (Eds.), The Last
+Neandertals. The First Anatomically Modern Humans.
+Universitat Rovira i Virgili Press, Tarragona, pp. 365e376.
+Isaac, G., 1989. Towards the interpretation of occupation
+debris: some experiments and observations. In: Isaac, B.
+(Ed.), The Archaeology of Human Origins. Cambridge
+University Press, Cambridge, pp. 191e205.
+Khun, S.L., 1995. Mousterian Lithic Technology, An Ecological Perspective. Princenton University Press, Princenton.
+
+Meignen, L., 1994. L’analyse de l’organisation spatiale dans les
+sites du paléolithique moyen: structures évidentes, structures
+latentes. Préhistoire et Anthropologie Méditérranéénnes 3,
+7e23.
+Riba, O. (Dir.), 1997. Diccionari de Geologia. Enciclopèdia
+Catalana. Barcelona.
+Simek, J.F., 1987. Spatial order and behavioural change in the
+French Palaeolithic. Antiquity 61, 25e40.
+Vallverdú, J. Vaquero, M., Courty, M.A., Carbonell, E., in
+press. Procesos sedimentarios rápidos y ocupaciones humanas poco frecuentes. La sección del Pleistoceno Superior
+de la coveta nord del Abric Romanı́ (Capellades, comarca
+de l’Anoia, Barcelona). IV Reunion Nacional de Geoarqueologia. Almazán. Spain.
+Vaquero, M., Esteban, M., Allué, E., Carbonell, E., Bischoﬀ,
+J.L., 2002. Middle Palaeolithic Refugium, or Archaeological
+Misconception? A New U-series and radiocarbon chronology of Abric Agut (Capellades, Spain). Journal of
+Archaeological Science 29, 953e958.
+Vaquero, M., Pastó, I., 2001. The deﬁnition spatial units in
+Middle Paleolithic sites: the hearth-related assemblages.
+Journal of Archaeological Science 28, 1209e1220.
+Villa, P., 1988. A propos d’analyse spatiale et de taphonomie.
+Les nouvelles de l’archeologie 31 (Printemps 1988), 55e59.
+Yellen, J.E., 1977. Archaeological Approaches to the Present:
+Models for Reconstructing the Past. Academic Press, New
+York.
+
+

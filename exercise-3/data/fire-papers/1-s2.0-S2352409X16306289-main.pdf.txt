@@ -1,0 +1,1663 @@
+Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science: Reports
+journal homepage: www.elsevier.com/locate/jasrep
+
+Overview of environmental changes and human colonization in the
+Balearic Islands (Western Mediterranean) and their impacts on
+vegetation composition during the Holocene
+Francesc Burjachs a,b,c,⁎, Ramon Pérez-Obiol d, Llorenç Picornell-Gelabert e,f, Jordi Revelles g,
+Gabriel Servera-Vives e, Isabel Expósito b,c, Errikarta-Imanol Yll b,c
+a
+
+ICREA, Pg. Lluís Companys 23, 08010 Barcelona, Catalonia, Spain
+IPHES, Institut Català de Paleoecologia Humana i Evolució Social, Campus Sescelades URV, ediﬁci W3, 43007 Tarragona, Catalonia, Spain
+c
+URV, Universitat Rovira i Virgili, Àrea de Prehistòria, Avinguda Catalunya 35, 43002 Tarragona, Catalonia, Spain
+d
+UAB, Universitat Autònoma de Barcelona, Departament de Biologia Animal de Biologia Vegetal i d'Ecologia, 08193 Bellaterra, Catalonia, Spain
+e
+UIB, Universitat de les Illes Balears, ArqueoUIB, Palma, Mallorca, Spain
+f
+UMR 7209 Archéozoologie, Archéobotanique: Sociétés, Pratiques et Environnements, Muséum National d'Historire Naturelle, Centre National de la Recherhce Scientiﬁque, Paris, France
+g
+UAB, Universitat Autònoma de Barcelona, Departament de Prehistòria, 08193 Bellaterra, Catalonia, Spain
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 15 February 2016
+Received in revised form 9 September 2016
+Accepted 29 September 2016
+Available online 6 October 2016
+Keywords:
+Insularity
+Holocene climatic changes
+Pollen analysis
+Anthracology
+Fire
+Naviform and Talayotic cultures
+Western Mediterranean
+
+a b s t r a c t
+According to radiometric dates and the current state of research, the Balearic Islands were not colonized by
+humans prior to c. 4420/4220 cal yr BP. Therefore, it is possible to know the natural evolution of the landscape
+of the Balearic Islands for the ﬁrst two-thirds of the Holocene (c. 10,000 to c. 4300 cal yr BP). This study aims
+to improve our understanding of the respective roles of human societies and/or climate in the transformation
+of vegetation cover during the Late Holocene in this Western Mediterranean archipelago. The results show the
+importance and control of climate oscillations in the evolution of vegetation throughout the Early and Middle Holocene. Our data clearly show that the transformation of the landscape started before the ﬁrst human settlements.
+In Minorca (north-eastern Gymnesian Islands), this upheaval occurred between 5825 and 4675 cal yr BP (fourth
+to third millennium BC), while in Majorca (the largest of the Gymnesian Islands) the transition is less well dated,
+oscillating between 7169 and 2535 cal yr BP. In the southern Pityusic Islands, observed changes in Ibiza are less
+pronounced and coincide with the 4.2 cal kyr BP climate event, synchronous with human colonization. The correlation between forest ﬁres and rapid climate events, as well as the resilience of vegetation until the Middle Ages
+(tenth century) in Ibiza, suggest that the evolution of climatic conditions is the preponderant parameter for
+explaining Holocene vegetation changes on these islands.
+© 2016 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+Palaeoecological research focused on the Holocene has allowed for
+assessing the relationship between climate change and vegetation history. Generally, drying and cooling oscillations are documented during the
+Holocene, and a transition from wetter to drier conditions is observed in
+the Mediterranean area, which consolidated after the Middle-to-Late Holocene transition and affected the landscape conﬁguration with the expansion of Mediterranean sclerophyllous woodland (Jalut et al., 2000;
+Roberts et al., 2001; Sadori and Narcisi, 2001; Carrión et al., 2010;
+Pérez-Obiol et al., 2011). However, there is debate about the causes of
+changes in vegetation evolution from the Neolithic onwards due to the
+⁎ Corresponding author at: IPHES, Institut Català de Paleoecologia Humana i Evolució
+Social, Campus Sescelades URV, ediﬁci W3, 43007 Tarragona, Catalonia, Spain.
+E-mail address: francesc.burjachs@icrea.cat (F. Burjachs).
+
+http://dx.doi.org/10.1016/j.jasrep.2016.09.018
+2352-409X/© 2016 Elsevier Ltd. All rights reserved.
+
+increasing trend of human impact. The adoption of farming practices presupposes an alteration of natural landscapes and presents a remarkable
+new factor to consider when investigating palaeoenvironmental changes
+(Ruddiman, 2003; Ruddiman et al., 2015), and especially vegetation
+changes, as found in some pollen records from the Mediterranean area
+(Riera-Mora and Esteban-Amat, 1994; Sadori and Narcisi, 2001; Yll et
+al., 2003; Drescher-Schneider et al., 2007; Colombaroli et al., 2008; Kouli
+and Dermitzakis, 2008; Vannière et al., 2008; Vescovi et al., 2010;
+Marinova et al., 2012; Revelles et al., 2015).
+Islands have always been considered ‘experimental laboratories’ for
+the detailed study of environmental change because of their high sensitivity (isolated areas and low resilience) to climatic and anthropic factors. Most studies have shown that the human colonization of islands
+contributed to environmental change and landscape transformation
+(Flenley et al., 1991; Dumont et al., 1998; Vigne, 1999; Prebble and
+Dowe, 2008). However, with more detailed research, it is possible to
+
+846
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+assess whether climatic factors were important variables in vegetation
+resilience (Athens et al., 2002; Sáez et al., 2009; Cañellas-Boltà et al.,
+2013; Rull et al., 2013, 2015). Distinguishing between the two aforementioned factors is often very difﬁcult, especially considering possible
+sedimentary hiatuses and reversals in radiometric dating in the studied
+palaeoenvironmental sequences (e.g. Horrocks et al., 2013). This does
+not facilitate an understanding of natural landscape evolution and the
+role of humans in such changes. Our interest in the Balearic Islands
+stems from the fact that human presence is not attested until around
+c. 4320 cal yr BP (2500–2300 cal BC), with a population increase occurring around 3650 cal yr BP. The archipelago, with islands of small and
+medium dimensions (Table 1), is located in the Western Mediterranean
+(Fig. 1) and presents a typical Mediterranean climate (Table 1).
+In Minorca and Mallorca, potential vegetation is typically Mediterranean, made up of Balearic evergreen oak forests (with Quercus ilex as the
+main component) and, in lower and windier areas, shrub formations related to thermo-Mediterranean forests (Peinado and Rivas-Martínez,
+1987). These are dominated by Olea europaea var. sylvestris, Prasium
+majus, Euphorbia dendroides, and Phillyrea rodriguezii (Rivas-Martínez,
+1987). The domain of the Phoenician juniper (Juniperus phoenicea) appears in Ibiza and Formentera.
+This article summarizes pollen and anthracological results obtained
+up to now in the largest archipelago of the Western Mediterranean in
+archaeological and natural contexts. The fact that the Balearic Islands
+were uninhabited until the Late Holocene permits assessment of the climatic control of vegetation evolution in a Mediterranean area during
+the Middle Holocene. We aim to show the importance of climate in
+the Mediterranean Holocene landscape with or without human inﬂuence. Here, we i) evaluate the inﬂuence of climate change on vegetation
+evolution during the Middle-to-Late Holocene, ii) reconstruct the impact of human colonization on the landscape from the Late Holocene
+onwards, and iii) assess natural differences and compare climate change
+inﬂuence and vegetation evolution between the islands.
+2. History of human occupation
+Archaeological evidence from the Balearic Islands is relatively recent
+compared to other insular Mediterranean territories, and to date there
+are no vestiges from the Neolithic period (Micó, 2005, 2006). Nevertheless, the dates of the ﬁrst occupation and permanent human settlement
+of these islands are not well deﬁned yet. Although evidence reveals that
+humans arrived on these islands during the sixth millennium BP, the
+most detailed dates for their arrival range from 4850 to 4300 cal yr BP
+(2900–2350 cal yr BC) (Alcover, 2008; Guerrero and Calvo, 2008;
+Guerrero and Calvo, 2008). From then onwards, Chalcolithic settlements are developed on all the islands (Calvo et al., 2002; Calvo and
+Guerrero, 2002; Micó, 2006) (Table 2), but remains from this period
+are still rare. However, it is clear that around 4300–3800 cal yr BP a sedentary culture with demographic continuity throughout the archipelago
+developed, known as the Naviform (Middle Bronze Age) (Guerrero,
+2007; Lull et al., 1999). It was from this time that cyclopean
+
+monumental architecture appeared with the generalization of
+navetiforms—megalithic structures forming the Naviform villages.
+These villages do not present surrounding walls or urban traces. Later,
+around 2850–2750 cal yr BP (900–800 cal yr BC), Naviform society experienced structural changes culminating in the birth of the Talayotic
+Culture (Early Iron Age) (Lull et al., 1999; Guerrero et al., 2002). This culture involved a monumental architecture of public buildings and varied
+typologies, with the so-called talayots being the most representative.
+From 2500 cal yr BP (550 cal yr BC), the destruction of some Talayotic
+villages is detected, as well as the diversiﬁcation of funeral rituals and
+the emergence of new religious monuments. These changes led to the
+birth of post-Talayotic Culture (Late Iron Age), which extended until
+the Roman conquest of the Balearic Islands in 2073 cal yr BP (123
+cal yr BC) (Lull et al., 1999; Guerrero et al., 2002). With this conquest,
+the Romanization of the archipelago began, which resulted in the creation of three cultural and economic focal points: the new cities of Palma,
+Pollentia, and Bocchoris. Roman domination lasted until 1416 cal yr BP
+(534 CE), when the Vandal conquest opened a period of instability
+with the domination of or relationship with Byzantium. This period
+ended with the conquest and domination of the archipelago by Muslims
+in 1048 cal yr BP (902 CE), and later in 721 cal yr BP (1229 CE) with the
+Christian conquest, which annexed the Balearic archipelago to the
+Catalano-Aragonese crown.
+3. Reviewed sites and palaeovegetation data
+These islands have not been widely studied from a
+palaeoenvironmental perspective. For this study, we selected the sites
+which have well-dated continuous palynological sequences (Fig. 1).
+From the island of Minorca, we selected the sites of Cala'n Porter (Yll
+et al., 1997; Carrión et al., 2012), Algendar (Yll et al., 1997;
+Pérez-Obiol and Sadori, 2007; Carrión et al., 2012), and Es Grau
+(Burjachs, 2006; Carrión et al., 2012). From Majorca, we chose the site
+of Albufera d'Alcúdia (Burjachs et al., 1994; Pérez-Obiol and Sadori,
+2007; Carrión et al., 2012), while on Ibiza we selected the site of Prat
+de Vila (Yll et al., 2009; Carrión et al., 2012). In addition, the sites of
+Els Closos de Can Gaià, Son Ferrer (Picornell-Gelabert et al., 2012), Cas
+Canar (Llergo-López and Riera-Mora, 2010), Cornia Nou (Portillo et al.,
+2014), Cova de Sa Parra (Yll, 2011), and Cap de Barbaria-II (Revelles
+and Burjachs, 2015) were chosen, taking into account anthracological
+(Picornell-Gelabert, 2012) and pollen analyses conducted in archaeological contexts (Fig. 1).
+3.1. Minorca
+The three sequences studied on the island of Minorca are, ﬁrst, Es
+Grau, which is particularly well dated; second, Algendar, which was
+the subject of a high-resolution analysis; and, third, Cala'n Porter,
+which is an incomplete sequence that includes, nevertheless, the moment of vegetation transition. These pollen sequences show an abrupt
+change in the composition of the vegetation between 5825 and 4675
+
+Table 1
+Data for localization, area, and climate ranges of the Balearic Islands (Western Mediterranean).
+GYMNESIAN
+Minorca
+Area (km2)
+Coordinates
+Highest elevation (masl)
+Average temperature in January (°C)
+Average annual temperature (°C)
+Average temperature in August (°C)
+Temperature amplitude (°C)
+Range of annual rainfall (mm)
+Evapotranspiration (l/yr)
+Rainfall deﬁcit (l/yr)
+
+39° 59′ 08″ N 4° 06′ 53″ E
+358
+10.7
+16.8
+25
+14.3
+592–654
+848
+300–500
+
+PITYUSIC
+Majorca
+
+Cabrera
+
+Ibiza
+
+Formentera
+
+3640
+39° 37′ N 2° 57′ E
+1445
+9.3
+16
+24.6
+15.3
+402–1342
+839–864
+
+15
+39° 09′ N 2° 57′ E
+172
+10.5
+17
+26
+15.5
+334–416
+
+571
+38° 59′ N 1° 26′ E
+475
+7–8
+17.9
+28–30
+18,2
+332–620
+820–920
+
+83
+38° 42′ N 1° 27′ E
+195
+9–10
+18.3
+30–31
+20
+371–414
+880–940
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+847
+
+Fig. 1. Location of archaeological sites and natural sequences included in this study on a vegetation map. Legend for archaeological sites: CG (Clossos de Can Gaià, Majorca, Bronze Age), TSF
+(Son Ferrer, Majorca, Bronze and Iron Ages), HV (Hospitalet Vell, Majorca, Bronze Age), SFO (Son Fornès, Majorca, Iron Age and Roman), SFE (Son Ferragut, Majorca, Iron Age), FR (Son
+Fred, Majorca, Iron Age), SP (Ses Païses, Majorca, Iron Age and Roman), CC (Cas Canar, Majorca, Iron Age), CN (Cornia Nou, Minorca, Bronze and Iron Ages), B (Biniparratx, Minorca,
+Iron Age), T (Talatí, Minorca, Iron Age), CdP (Cova des Pas, Minorca, Bronze Age), CdC (Cova des Càrritx, Minorca, Bronze Age), TG (Torre d'en Galmès, Minorca, Iron Age), CM (Cova
+des Mussols, Minorca, Bronze Age), CP (Cova de Sa Parra, Formentera, Iron Age), CB (Cap Barbaria II, Formentera, Bronze Age).
+Source of vegetation map: Forest Map of Spain (zones 9–8, 10–7, 10–8, 11–6/7; Ruiz, 2008).
+
+yr cal BP (Table 3). During the ﬁrst two-thirds of the Holocene, the vegetation landscape was largely dominated by Buxus, Juniperus, Ephedra,
+and Thymelaea, accompanied by deciduous tree species (mainly Corylus,
+Quercus deciduous, and Tilia; Figs. 2, 3, and 4; Table 4). In contrast, the
+last third of the Holocene is dominated by wild olive (Olea), oaks
+(Quercus evergreen type), mastic (Pistacia cf. lentiscus), heathers (Erica
+spp.), and rockroses (Cistus spp., Figs. 3 and 4). However, since the M7
+event (c. 7.2 cal kyr BP; Fig. 9), before the sudden transition, changes
+in the vegetation composition are identiﬁed, and they can be connected
+with the global trend towards an increase in drought (Bar-Matthews et
+
+Table 2
+Chronology of the Balearic Islands cultures.
+Age cal BP
+
+Age cal BCE or CE
+
+cultures
+
+721 - 0
+1048 - 721
+1416 – 1048
+2073 – 1416
+2500 – 2073
+2850/2750 – 2500
+2850/2750
+3050/3000
+3050/3000
+3600/3500
+3600 / 3500
+4300 / 3800
+4450 – 4300
+4850 - 4750
+
+1229 - 1950 AD
+902 - 1229 AD
+534 - 902 AD
+123 BC - 534 AD
+550 BC - 123 BC
+900/800 - 550 BC
+900/800 BC
+1100/1050 BC
+1100/1050 BC
+1650/1550 BC
+1650/1550 BC
+2350/1850 BC
+2500 - 2350 BC
+2900 - 2800 BC
+
+Christians
+Muslims
+Vandals and Byzantium
+Rome
+Postalaiotic (Late Iron Age)
+Talaiotic (Early Iron Age)
+transition
+Naviform – Talaiotic (Late Bronze Age)
+Naviform
+(Middle Bronze Age)
+Early Bronze Age
+Chalcolithic
+
+al., 1999; Bond et al., 2001; Fletcher et al., 2010; Bar-Matthews and
+Ayalon, 2011; Pérez-Sanz et al., 2013; Chabaud et al., 2014; Donges et
+al., 2015). It is possible to observe this tendency through the decrease
+of Corylus and Buxus and the simultaneous increase of Juniperus, Ephedra, and Thymelaea (Figs. 2, 3, and 4). An accentuation of driest environments is also noted from c. 6.2 to 5.9 cal kyr BP (M6/B4 event; Figs. 2, 4,
+and 9), and it is associated with the highest representation of taxa such
+as cf. Juniperus, while Buxus begins to decline.
+3.2. Majorca
+The palynological sequence studied in Majorca is located on the
+Albufera of Alcúdia (Fig. 1; Burjachs et al., 1994). The stratigraphic
+framework is constrained and did not permit the development of an
+age-depth model to precisely interpret the timing of the vegetation
+changes during the Holocene (Fig. 5). However, the results suggest a
+sudden shift around c. 4900 cal yr BP (Table 3), where the predominance of Juniperus, Ephedra, Quercus spp., Corylus, and Buxus changed towards the prevalence of wild olive (Olea), pines (Pinus), and oaks
+(evergreen Quercus). The beginning of this landscape change occurred
+after the M6 event (c. 6.2 cal kyr BP; Fig. 9), especially with the fall in
+Juniperus/Ephedra and the rise of evergreen Quercus and Pistacia.
+3.3. Ibiza
+Two palynological sequences have been studied on this island (Yll et
+al., 2009; Carrión et al., 2012). The present study, however, only used
+
+848
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+Table 3
+Radiocarbon dates for natural sequences used in this study and extrapolated ages of the abrupt change in vegetation (grey bars) that occurred in the Balearic Islands. The date of the vegetation transition is based on the main cluster division (CONISS in Figs. 2–6; Grimm, 1987). All dates used in the text and diagrams were calibrated using CalPal software (http://
+www.calpal-online.de/) and were obtained using the AMS method.
+
+Site
+
+Lab reference
+
+Cala'n Porter
+
+Beta/LLNL–95128
+
+Depth
+(cm)
+
+860
+
+Material
+
+Uncalibrated
+age BP
+
+Calendric age
+cal BP
+
+68% range cal
+BP
+
+Calendric
+age cal
+AD/BC
+
+Organic sediment
+
+4450 ± 50
+
+5110 ± 128
+
+4982 – 5238
+
+3160 ± 128
+
+1015
+
+Algendar
+
+5825
+
+Beta/LLNL–95129
+
+1020
+
+Organic sediment
+
+5120 ± 60
+
+5851 ± 75
+
+5775 – 5926
+
+3901 ± 75
+
+Beta/LLNL–95131
+
+2080
+
+Organic sediment
+
+7720 ± 60
+
+8506 ± 57
+
+8448 – 8563
+
+6556 ± 57
+
+Beta–67283
+
+2400
+
+Organic sediment
+
+7920 ± 60
+
+8796 ± 130
+
+8665 – 8926
+
+6846 ± 130
+
+670
+
+Organic sediment
+
+4090 ± 60
+
+4647 ± 124
+
+4523 – 4771
+
+2697 ± 124
+
+Beta–80371/CAMS–18672
+
+675
+
+Es Grau
+
+4675
+
+Beta–80372/CAMS–18673
+
+935
+
+Organic sediment
+
+4940 ± 50
+
+5678 ± 51
+
+5626 – 5729
+
+3728 ± 51
+
+Beta–80373/CAMS–18674
+
+1560
+
+Organic sediment
+
+6170 ± 70
+
+7071 ± 91
+
+6980 – 7162
+
+5121 ± 91
+
+Beta–80374/CAMS–18675
+
+2345
+
+Organic sediment
+
+8550 ± 50
+
+9526 ± 22
+
+9503 – 9548
+
+7576 ± 22
+
+Beta–99035
+
+3
+
+Sediment
+
+Modern
+
+Beta–99036
+
+32
+
+Sediment
+
+790 ± 50
+
+726 ± 36
+
+690 – 762
+
+1224 ± 36
+
+Beta–99037
+
+132
+
+Sediment
+
+1060 ± 50
+
+992 ± 49
+
+942 – 1041
+
+958 ± 49
+
+Beta–99038
+
+232
+
+Sediment
+
+2230 ± 50
+
+2244 ± 68
+
+2176 – 2312
+
+294 ± 68
+
+Beta–99039
+
+332
+
+Sediment
+
+3610 ± 50
+
+3929 ± 62
+
+3866 – 3991
+
+1979 ± 62
+2992 ± 66
+
+Beta–99040
+
+432
+
+Sediment
+
+4350 ± 50
+
+4942 ± 66
+
+4876 – 5008
+
+Beta–99041
+
+532
+
+Sediment
+
+4350 ± 50
+
+4942 ± 66
+
+4876 – 5008
+
+2992 ± 66
+
+Beta–88394
+
+567
+
+Palynological residue
+
+4440 ± 70
+
+5090 ± 144
+
+4945 – 5234
+
+3140 ± 144
+
+Beta–88395
+
+573
+
+Palynological residue
+
+4770 ± 60
+
+5477 ± 96
+
+5381 – 5573
+
+3527 ± 96
+
+Beta–88396
+
+614
+
+Coral
+
+5510 ± 60
+
+6318 ± 64
+
+6254 – 6382
+
+4368 ± 64
+
+Beta–99042
+
+632
+
+Sediment
+
+6290 ± 60
+
+7219 ± 58
+
+7161 – 7277
+
+5269 ± 58
+
+Beta–99043
+
+732
+
+Sediment
+
+6820 ± 60
+
+7667 ± 50
+
+7616 – 7717
+
+5717 ± 50
+
+Beta–99044
+
+830
+
+Sediment
+
+7180 ± 60
+
+8024 ± 62
+
+7961 – 8086
+
+6074 ± 62
+
+570
+
+Alcúdia
+
+5350
+
+Beta–88397
+
+950
+
+Wood
+
+7060 ± 60
+
+7890 ± 55
+
+7834 – 7945
+
+5940 ± 55
+
+Beta–99045
+
+952
+
+Sediment
+
+7110 ± 60
+
+7932 ± 55
+
+7876 – 7987
+
+5982 ± 55
+
+Beta–69333
+
+315
+
+Organic sediment
+
+107 ± 0.7
+
+152 ± 85
+
+67 – 237
+
+1798 ± 85
+
+Beta–69334
+
+395
+
+Organic sediment
+
+2440 ± 60
+
+2535 ± 128
+
+2406 – 2663
+
+585 ± 128
+
+Beta–69335
+
+555
+
+Organic sediment
+
+6270 ± 70
+
+7169 ± 94
+
+7074 – 7263
+
+5219 ± 94
+
+Ua–2732
+
+785
+
+Organic sediment
+
+7060 ± 110
+
+7876 ± 105
+
+7771 – 7981
+
+5926 ± 105
+
+Poz–23489
+
+105
+
+Organic sediment
+
+2210 ± 30
+
+2238 ± 61
+
+2177 – 2299
+
+288 ± 61
+
+Poz–23372
+
+264
+
+Peat
+
+3415 ± 35
+
+3668 ± 41
+
+3626 – 3709
+
+1718 ± 41
+1781 ± 70
+
+530
+
+Prat de Vila
+
+4901
+
+267
+
+3700
+
+Poz–23490
+
+270
+
+Palynological residue
+
+3445 ± 35
+
+3731 ± 70
+
+3661 – 3801
+
+Poz–24989
+
+504
+
+Organic sediment
+
+2895 ± 35
+
+3041 ± 60
+
+2981 – 3101
+
+1091 ± 60
+
+Poz–23373
+
+626
+
+Palynological residue
+
+17910 ± 90
+
+21532 ± 356
+
+21176 – 21888
+
+19582 ± 356
+
+the Prat de Vila sequence (Figs. 1 and 6) because it is the best dated
+(Table 3). This island, along with Formentera (without natural pollen
+records to date), constitutes the southernmost part of the archipelago,
+with a clear thermo-Mediterranean bioclimatic domain. It presents different vegetation communities and a distinctive landscape evolution,
+compared to the northernmost Balearics islands (Majorca and Minorca).
+At the beginning of the middle Holocene, around 8000 cal yr BP, the vegetation landscape was dominated by oaks (Quercus spp.), pines (probably Pinus halepensis), and some deciduous arboreal species (Corylus,
+Alnus, etc.), whereas during the Late Holocene the vegetation was
+
+dominated by pines and herbaceous plants (NAP; Fig. 6). Juniperus,
+Buxus, Olea, and Ephedra are signiﬁcantly less represented in Ibiza
+than in the Gymnesian Islands. It must be highlighted that the synchrony of vegetation changed with recognized climatic events (Fig. 9), especially after the dry/cold M7 event (c. 7.4 cal kyr BP), where a decline in
+Quercus spp. and a simultaneous increase in Pinus is observed, until the
+M6 event (c. 6.2 cal kyr BP; Fig. 9). After this arid phase, a period characterized by the dominance of evergreen Quercus began, with a maximum peak around 4.7 cal kyr BP. From this period, the values of
+Quercus spp. decreased while Pinus values simultaneously increased.
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+849
+
+Fig. 2. Pollen diagram of Cala'n Porter (Minorca), selected taxa. Climatic events (M8 to M4) correspond to Minorca events (Frigola et al., 2007), and B4 corresponds to Bond event 4 (Bond et
+al., 1997). The events are marked with blue bars. The grey bar shows the transition towards the ﬁrst settlements. The grey double curve in some taxa corresponds to an exaggeration of the
+real value for better visualization.
+
+From 3.7 cal kyr BP, a major change in the composition of vegetation occurred, probably related to the anthropization of Ibiza and the effects of
+the post-M4 dry event (Fig. 9).
+4. Composition of vegetation during the Holocene
+It is remarkable that before humans arrived on these islands, Majorca and Minorca (Gymnesian Islands) had signiﬁcantly different landscape compositions relative to Ibiza and Formentera (Pityusic Islands)
+and the nearby Iberian coast. During the ﬁrst part of the Holocene, the
+northern island landscapes were basically composed of endemic box
+(Buxus cf. balearica), Mediterranean junipers (Juniperus cf. phoenicea, J.
+cf. oxycedrus), some oaks (Quercus deciduous and evergreen type),
+and a small presence of pines (Pinus). Between 5825 and 4675 cal yr
+BP (more precisely dated in Es Grau to around 5350 cal yr BP; Table
+3), the composition of the plant landscape changed abruptly, becoming
+a maquia-type landscape with the presence of wild olive and evergreen
+oaks (Quercus cf. coccifera, Q. cf. ilex, Q. cf. suber), which still remain at
+present. Meanwhile, the vegetation composition in Ibiza was similar
+to that of the nearby Iberian continental coast (only about 100 km
+away), where Pinus and Quercus were predominant. Likewise, vegetation changes occurred more gradually than on the Gymnesian Islands
+(e.g. Elx site in Carrión et al., 2012).
+Palaeobotanical data (Figs. 7 and 8) obtained from archaeological excavations reinforce the concept of human impact on landscapes from
+the ﬁrst permanent occupation. Thus, by comparing pollen data obtained in archaeological contexts with those obtained from natural sites, we
+ﬁnd a dominance of the same taxa (Fig. 7). In the archaeological sediments, signiﬁcant quantities of ruderal and crops taxa are found,
+
+suggesting disrupted environments around the sites from the Early
+Bronze Age (Naviform period). Besides, anthracological data (Fig. 8),
+with the same predominance of taxa identiﬁed in the pollen analysis,
+further indicate uniformity in the exploitation of taxa existing in the
+landscape over time (from the Bronze Age to Romanization): Naviform,
+Talayotic, and post-Talayotic cultures.
+It is also noteworthy that anthracology revealed the presence of taxa
+that are difﬁcult to determine through pollen analysis due to low conservation or the dispersal of the pollen, especially, ﬁg tree (Ficus carica),
+Clematis lianas, laurel (Laurus nobilis), lavender (Lavandula sp.), and
+myrtle (Myrtus communis) (Picornell-Gelabert, 2012; Fig. 8).
+5. Human settlements and associated ecological changes
+The Balearic archipelago was the last in the Mediterranean to be colonized by humans. Despite numerous studies focusing on the arrival of
+the ﬁrst humans in these Western Mediterranean islands, the dates remain highly uncertain (Ramis et al., 2002; Alcover, 2008). At present,
+one radiocarbon date for ovicaprid bone associated with Bell-Beaker
+pottery, dated to 4327 ± 62 cal yr BP (calendric age) or 2470–2270
+cal yr BC (95.4% probability) (Aramburu-Zabala and MartínezSánchez, 2015), can be accepted as the oldest trace of human
+occupation.
+Importantly, the abrupt change in vegetation composition in the
+Gymnesian Islands occurred between 5825 and 4675 cal yr BP (Table
+3) and thus before the ﬁrst documented human presence on the islands.
+Further evidence of this mismatch between landscape changes and
+human impacts is provided by the record of the extinction of the only
+two autochthonous small mammals (Bover and Alcover, 2008). Eliomys
+
+850
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+Fig. 3. Pollen diagram of Algendar (Minorca), selected taxa. Climatic events (M8 to M1) correspond to Minorca events (Frigola et al., 2007) and the 9.3 event according to Rasmussen et al.
+(2014). Events are marked with blue bars. The grey bar shows the transition towards the ﬁrst settlements. The grey double curve in some taxa corresponds to an exaggeration of the real
+value for better visualization.
+
+Fig. 4. Pollen diagram of Es Grau (Minorca), selected taxa. Climatic events (M8 to M1) correspond to Minorca events (Frigola et al., 2007), marked with blue bars. The grey bar shows the
+transition towards the ﬁrst settlements. The grey double curve in some taxa corresponds to an exaggeration of the real value for better visualization.
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+851
+
+Table 4
+Correlation between the most represented taxa in the studied sequences, taking into account the intervals of Minorca events (Frigola et al., 2007). Legend: ↓ decrease, ↑ increase, ~ stability.
+K-age (cal BP)
+
+Minorca events
+
+1.6-2.5
+
+M1
+to
+M2
+
+2.5-3.2
+
+M2
+to
+M3
+
+3.2-4.2
+
+M3
+to
+M4
+
+4.2-5.0
+
+M4
+to
+M5
+
+5.0-6.2
+
+M5
+to
+M6
+
+6.2-7.2
+
+M6
+to
+M7
+
+7.2-8.2
+
+M7
+to
+M8
+
+8.2-9.3
+
+M8
+to
+9.3 event
+
+Algendar
+
+Es Grau
+
+Alcúdia
+
+Prat de Vila
+
+AP ↓
+Olea ↓
+Erica ↑
+Pistacia ↑
+Cistus ↑
+Cerealia-t. ↑
+AP ↑
+Olea ↑
+Erica ↓
+Pistacia ~
+Cistus ~
+AP ↓
+Olea ~
+Pinus ~
+Erica ↑
+Poaceae ~
+
+AP ~
+Olea ~
+Erica ~
+Pistacia ↑ Cistus ↓
+Cerealia-t. ↑
+
+AP ~
+Olea ~
+Erica ~
+Pistacia ↓ Cistus ~
+Cerealia-t. ↑
+
+AP ~
+Olea ~
+Erica ↓
+Pistacia ↑
+Cistus ↑
+AP ↓
+Olea ↓
+Pinus ↑
+Erica ↑
+Poaceae ↓
+
+AP ↓
+Olea ~
+Erica ↑
+Pistacia ↑
+Cistus ~
+AP ~
+Olea ~
+Pinus ↑
+Erica ~
+Poaceae ~
+
+AP ~
+Olea ~
+Erica ~
+Pistacia ↓
+Cistus ~
+Cerealia-t. ↑
+AP ↓
+Olea ~
+Erica ↑
+Pistacia ~
+Cistus ↑
+AP ↑
+Olea ~
+Pinus ↑
+Erica ↓
+Poaceae ~
+VEGETATION
+TRANSITION
+AP ↓
+Olea ↑
+Erica ↓
+Quercus ↓
+Juniperus ~
+Buxus ↓
+Ephedra ↓
+Corylus ↓
+Poaceae ↑
+
+AP ↓
+Olea ↑
+Erica ↑
+Quercus ↑
+Juniperus ↓
+Buxus ↓
+Ephedra ↓
+Corylus ↓
+Poaceae ↑
+VEGETATION
+TRANSITION
+AP ↓
+Buxus ↓
+Juniperus ↓
+Corylus ~
+Ephedra ~
+Pinus ~
+Poaceae ↓
+Erica ↑
+
+AP ↑
+Buxus ↓
+Juniperus ↑
+Corylus ~
+Ephedra ↑
+Pinus ↓
+Poaceae ↑
+Erica ↑
+AP ↓
+Buxus ~
+Juniperus ~
+Corylus ↓
+Ephedra ↑
+Pinus ↓
+Poaceae ~
+AP ↑
+Buxus ~
+Juniperus ~
+Corylus ~
+Ephedra ~
+Pinus ↓
+Poaceae ↓
+
+AP ↓
+Olea ↑
+Erica ↑
+Quercus ~ Juniperus ↓ Buxus ↓
+Ephedra ↓
+Corylus ~
+Poaceae ↑
+
+Cala'n Porter
+
+AP ~
+Olea ~
+Erica ~
+Quercus ~ Juniperus ~ Buxus ~
+Ephedra ↓
+Corylus ~
+Poaceae ~
+
+AP ↓
+Olea ↑
+Erica ~
+Quercus ↑ Juniperus ↓ Buxus ↓
+Ephedra ↓
+Corylus ~
+Poaceae↑
+
+AP ↓
+Buxus ↓ Juniperus ↓ Corylus ↓
+Ephedra ~
+Pinus ↓
+Poaceae ~
+Erica ~
+
+VEGETATION
+TRANSITION
+AP ↓
+Buxus ↓ Juniperus ↓ Corylus ~
+Ephedra ~
+Pinus ~
+Poaceae ↓
+Erica ~
+
+AP ↑
+Buxus ~ Juniperus ↑
+Corylus ↓
+Ephedra ~
+Pinus ↑
+Poaceae ↓
+
+VEGETATION
+TRANSITION
+AP ↓
+Buxus ↓
+Juniperus ↑
+Corylus ↓
+Ephedra ↑
+Pinus ↑
+Poaceae ~
+Erica ↑
+AP ~
+Buxus ~ Juniperus ~
+Corylus ~
+Ephedra ~
+Pinus ~
+Poaceae ~
+
+AP ~
+Buxus ~
+Juniperus ~
+Corylus ~
+Ephedra ~
+Pinus ~
+Poaceae ↑
+Erica ~
+AP ↑
+Buxus ↑ Juniperus ↑
+Corylus ↓
+Ephedra ~
+Pinus ~
+Poaceae ↓
+
+AP ↑
+Buxus ~
+Juniperus ~ Corylus ~
+Ephedra ~
+Pinus ~
+Poaceae ↓
+
+AP ~
+Buxus ↑
+Juniperus ~ Corylus ↓
+Ephedra ↓
+Pinus ↑
+Poaceae ~
+
+AP ↑
+Buxus ↑
+Juniperus ~ Corylus ↑
+Ephedra ↑
+Pinus ↓
+Poaceae ↓
+
+VEGETATION
+TRANSITION
+AP ↓
+Buxus ↓ Juniperus ↑ Corylus ↓
+Ephedra ↑
+Pinus ~
+Poaceae ↑
+Erica ~
+
+AP ~
+Buxus ↓
+Juniperus ↑ Corylus ↑
+Ephedra ↑
+Pinus ~
+Poaceae ↓
+Erica ~
+
+morpheus (=Hypnomys morpheus) and Asoriculus hidalgoi (=Nesiotites
+hidalgoi), which inhabited these islands, probably disappeared c. 6715
+cal yr BP and c. 4869 cal yr BP, respectively, clearly before the arrival
+of the ﬁrst humans.
+On the other hand, the extinction of the unique large fauna
+of the Gymnesian Islands—the endemic goat-like deer Myotragus
+balearicus—was likely associated with the arrival of human societies
+on Majorca and Minorca, and occurred later than the aforementioned
+sudden vegetation change (Alcover et al., 1999; Bover and Alcover,
+
+AP ↑
+Buxus ↑
+Juniperus ~
+Corylus ~
+Ephedra ~
+Pinus ↓
+Poaceae ↓
+Erica ↓
+
+AP ↓
+Buxus ~
+Juniperus ~
+Corylus ~
+Ephedra ↑
+Pinus ↑
+Poaceae ↑
+Erica ↑
+AP ↑
+Buxus ~
+Juniperus ↑
+Corylus ↓
+Ephedra ~
+Pinus ↓
+Poaceae ↓
+
+2003). Simultaneously, the Gymnesian Islands had an atypical plant
+community based on boxwood and hazel, signiﬁcantly different from
+the plant communities of Ibiza, an island lacking large fauna. It may be
+said that Myotragus played a role in shaping this vegetation. For example, the scarce importance of pines (Pinus) on the Gymnesian Islands,
+which differs from Ibiza (which means ‘island of pines’ in Phoenician),
+is noteworthy. Does this suggest that seedling pines were a preferred
+food for goat-like deer rather than junipers? Moreover, it is difﬁcult to
+understand how this goat-like deer became extinct due to climatic
+
+852
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+Fig. 5. Pollen diagram of Albufera d'Alcúdia (Majorca), selected taxa. Climatic events (M8 to M1) correspond to Minorca events (Frigola et al., 2007), marked with blue bars. The grey bar
+shows the transition towards the ﬁrst settlements. The grey double curve in Cerealia-type and anthropic taxa corresponds to an exaggeration of the real value for better visualization.
+
+Fig. 6. Pollen diagram of Prat de Vila (Ibiza), selected taxa. Climatic events (M7 to M1) correspond to Minorca events (Frigola et al., 2007), marked with blue bars. The grey bar shows the
+transition towards the ﬁrst settlements. The grey double curve in some taxa corresponds to an exaggeration of the real value for better visualization. Chenopodiaceae and Pteridophyta
+excluded from the total sum. Note that dates in brackets at the bottom of the diagram were not used because they are incoherent.
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+853
+
+Fig. 7. Summary of pollen analysis results of the main wood taxa and the sum of herbaceous ruderal taxa and crop taxa obtained from samples obtained in archaeological contexts. Legend
+for acronyms: EBA (Early Bronze Age), MBA (Middle Bronze Age), LBA (Late Bronze Age), IAI (Iron Age I), IAII (Iron Age II). Acronym sites (e.g. TSF) are the same as those reported in Fig. 1.
+‘SU’ correspond to ‘stratigraphic unit’. Ruderal taxa: Plantago sp., P. major/media, P. lanceolata, Polygonum sp., Rumex sp., Rumex acetosa, Rumex acetosella, Papaveraceae, Urticaceae,
+Artemisia, Cirsium; crops: Cerealia-type.
+
+change—without taking into account the competition of humans or
+other animals—considering it had survived since the Pliocene, having
+experienced many different climate changes. Some conjectures can be
+made, such as an epidemic disease that spread through contact with
+other animals brought by humans (MacPhee and Marx, 1997; Bover
+and Alcover, 2008), or other situations, such as over-depredation
+(Diamond, 1989; Costa-Ribas, 2000). In any case, the debate about the
+cause, or combination of causes, of the extinction of the Myotragus remains open, along with proper dating of human arrival on the
+archipelago.
+Furthermore, anthropogenic pollen indicators (Behre, 1986; Brun,
+2011) could be helpful for clarifying the entrance of humans on these
+islands, but these taxa are naturally common throughout the Holocene,
+before and after human arrival (Figs. 2–6; Cerealia-type Cannabaceae,
+Juglans, Vitis, Plantago, Asphodelus, Rumex, Urticaceae, located to the
+right of the diagrams). However, they could have become more abundant after human colonization and with the occurrence of new animals
+and crops brought by humans (Fig. 7).
+6. Climate interpretation of vegetation evolution
+First, deliberately avoiding deterministic climatic assumption, this
+study aims to demonstrate the existence of natural changes in vegetation composition on the Balearic Islands before the arrival of the ﬁrst
+humans. Indeed, humans were not responsible for the transformation
+of plant landscapes during the ﬁrst two-thirds of the Balearic Holocene.
+Thus, the curves in Figs. 9 and 10 show that environmental moisture
+(mesic trees) had a tendency to decrease throughout the Holocene,
+while shrubs (indicating more arid conditions) rose. This is interpreted
+
+as a tendency towards minor rainfall and an increase in seasonality. All
+shrubs present in the Balearics are well adapted to summer dryness.
+Nevertheless, in the Gymnesian Islands, the mesic trees were more
+abundant than shrubs until the 4.3 event (Figs. 9 and 10), while in the
+Pityuses shrubs dominated earlier, since 7.2 cal kyr BP (M7, Fig. 11a).
+North–south differences are thus clearly evidenced.
+Moreover, it is possible to establish a link between the minimum
+values of mesic trees and global cooling episodes (Bond et al., 1997;
+Mayewski et al., 2004; Frigola et al., 2007) associated with greater aridity in the Mediterranean (Jalut et al., 2000; Fletcher et al., 2010). These
+correlations are quite obvious, especially for the major events at 8.2,
+5.9, and 4.3 (Carozza et al., 2015), but also for the minor events at 9.5/
+9.2, 7.5/7.3, 2.9/2.7, and 1.55/1.38 cal kyr BP (Fig. 9) (Bond et al., 1997;
+Bar-Matthews et al., 1999; Cacho et al., 2001; Frigola et al., 2007;
+Fletcher et al., 2010; Fletcher and Zielhofer, 2013; Rasmussen et al.,
+2014; Donges et al., 2015). Therefore, it is evident that these global climate events directly inﬂuenced the composition and evolution of the
+vegetation of these islands. Similarly, forest ﬁres (charcoal in Fig. 11b)
+had a visibly natural origin before the arrival of the ﬁrst humans and
+can be correlated with global climate events, especially those taking
+place at 8.2, 5.9, and 4.3 cal kyr BP (Burjachs and Expósito, 2015).
+The date of the human colonization of these islands during the
+Chalcolithic period coincides with the 4.3 climatic event, while the transition from the Bronze Age to the Iron Age synchronizes with the 2.8
+event. Likewise, the 1.4 event correlates with the end of the Western
+Roman Empire (Figs. 3, 4, 5, 6, and 11b). It is logical to suppose that
+these are not coincidences, and that climate events are important variables to consider in historical studies since they can promote or accelerate social changes.
+
+854
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+Fig. 8. Synthesis of anthraco-analysis results for the islands of Minorca and Majorca during prehistory. Axis ‘y’ represents the number of archaeological layers presenting each one of the
+identiﬁed taxa (axis ‘x’); ‘n’ represents the number of archaeological layers corresponding to each of the chronological periods. The anthracological data was gathered and discussed in
+Picornell-Gelabert (2012), containing data from 37 archaeological layers from 14 archaeological sites in Mallorca and Minorca.
+
+Fig. 9. Correlation of global Holocene climatic events: Minorca events (Frigola et al., 2007), Alborán events (Cacho et al., 2001; Fletcher et al., 2010), Bond events (Bond et al., 1997), RCC
+(rapid climatic change periods; Mayewski et al., 2004), HOCLAT Project (Wanner et al., 2011), forest decline intervals (Fletcher and Zielhofer, 2013), South Pyrenees (Pérez-Sanz et al.,
+2013), Soreq Cave (Bar-Matthews and Ayalon, 2011), Hoti Cave (Bond et al., 2001), Asian monsoon dry periods (Donges et al., 2015), and Blytt-Sernander periods, with AP, mesic tree,
+and shrub pollen percentages at the Algendar (Minorca) and Prat de Vila-1 (Ibiza) sites. Blue vertical bars correspond to the Minorca events range; vertical black lines inside blue
+vertical bars correspond to the ‘central age’ of this event (Frigola et al., 2007). The yellow vertical bar correspond to the chronological range of the ﬁrst human settlements.
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+855
+
+856
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+Fig. 10. Trends in mesic trees (Quercus deciduous-type, Tilia, Fagus, Ligustrum, Corylus, Alnus, Ulmus, Populus, Salix) and shrubs (Erica, Pistacia, Rhamnus, Cistus, Cistaceae, Helianthemum,
+Coriaria, Thymelaea, Myrtus) through the Middle and Late Holocene at Algendar (Minorca) according to pollen analysis. Narrow grey bars correspond to events in Bond et al. (1997)
+and blue bars to Minorca events (Frigola et al., 2007). The yellow bar shows the range of the ﬁrst human presence.
+
+In the nearby continental areas, zones with local substrates and climates similar to the Gymnesian Islands do not show these abrupt
+changes. The sequences from Amposta and Torreblanca (Dupré et al.,
+1994; Pérez-Obiol et al., 2011) reﬂect ecosystems absorbing the disturbances. The pollen data suggest that this could be because many mesic
+forests are present in the region, even in ecotonic habitats. For example,
+Pinus sylvestris or deciduous Quercus, which prior to the Middle Holocene developed at a lower elevation than at present, were simply
+displaced with increased seasonality. In any case, the trends identiﬁed
+in the Balearic palaeoenvironmental records do not seem to be reﬂected
+in the continental ones.
+The Pityusic Islands do not show correlating abrupt changes, and the
+starting point appreciated in the changing trends is quite different. The
+Middle Holocene climate change affected xeric communities that were
+already established. The precipitation changes allowed the continuation
+of the woody xeric landscapes. If we consider the nearby semi-arid regions of the continent, the San Rafael sequence in Almería
+(Pantaleón-Cano et al., 2003; Carrión et al., 2012) and Cabo de Gata
+(Burjachs and Riera, 1996; Jalut et al., 2000) shows an abrupt vegetation
+change after the Holocene optimum. A radical landscape transformation
+was produced by the establishment of the steppe conditions and persists today. This fact is related to a threshold phenomenon: the mean
+annual precipitation is less than 250 mm and does not facilitate the
+spread and development of woody formations, which is not appreciable
+in the landscape trends of Ibiza.
+7. Conclusions
+Based on the examination of the available chronological,
+palaeoenvironmental, and archaeobotanical data, the main ﬁndings of
+this study are as follows:
+i) Substantial differences existed between the palaeovegetation of
+the Gymnesian Islands (northeast Balearic archipelago) and the
+Pityusic Islands (southwest Balearic archipelago). Before the arrival of the ﬁrst humans, the vegetation and fauna in the
+Gymnesian Islands were in equilibrium with the climate during
+the ﬁrst two-thirds of the Holocene.
+ii) Regarding palaeovegetation, there are good correlations
+between the data from natural sites and the data from archaeological excavations.
+
+iii) Each global and rapid climatic event during the Holocene
+corresponded to steps in the evolution of vegetation on the
+islands. With the current state of available radiometric and palynological data, abrupt vegetation changes are observed at 5200
+cal yr BP in S′Albufera d'Alcúdia (Majorca), at 5825 cal yr BP in
+Cala'n Porter (Minorca), at 5350 cal yr BP in Es Grau (Minorca),
+and at 4675 cal yr BP in Algendar (Minorca).
+iv) Some changes took place before the permanent occupation of
+these islands by human societies. Further studies based on
+chronostratigraphy are needed to discriminate the anthropogenic and climatic origins of these vegetation changes occurring between the Middle and Late Holocene.
+v) Different pollen types commonly used as ‘anthropogenic indicators’ are not relevant for the studied natural sites since they are
+found before and after human colonization of the Balearic
+Islands, and the percentages are similar.
+
+New multidisciplinary research could produce more accurate
+knowledge about vegetation changes linked to climate and anthropic
+factors during the Holocene in the Balearic Islands.
+
+Acknowledgements
+J. Revelles was a beneﬁciary of an FPU pre-doctoral contract from
+the Ministry of Education, Culture, and Sports of the Spanish government. G. Servera-Vives was supported by the Ministry of Economy
+and Competitiveness of the Spanish government (“Juan de la Cierva”
+post-doctoral Program). Ll. Picornell-Gelabert was funded by a postdoctoral grant from the Government of the Balearic Islands (Council
+for Education and University), a grant from the European Social Fund
+(PD/022/2013), and a “Beatriu de Pinós” fellowship (2014 BP_A
+00216). Finally, the work of Ll. Picornell-Gelabert and de G.
+Servera-Vives is part of the project HAR2012-32602 by the Ministry
+of Economy and Competitiveness of the Spanish government: ‘Live
+between islands: insular landscapes, connectivity, and material culture in the communities of the Balearic Islands during recent prehistory (2500–123 years BC)’. We also want to thank the four referees as
+well as the editor (M.G.) of this special issue for suggestions that
+helped improve the paper.
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+857
+
+Fig. 11. a) Trends in mesic trees (Quercus deciduous-type, Corylus, Alnus, Ulmus, Salix) and shrubs (Erica, Pistacia, Rhamnus, Cistus, Cistaceae, Helianthemum, Thymelaea) through the Middle
+and Late Holocene at Prat de Vila (Ibiza) according to pollen analysis. b) Relationship between palynological micro-charcoal and total trees (AP), with Pinus excluded. Narrow grey bars
+correspond to events described in Bond et al. (1997) and blue bars to Minorca event intervals (Frigola et al., 2007). The yellow bar shows the range of the ﬁrst human presence.
+
+References
+Alcover, J.A., 2008. The ﬁrst Mallorcans: prehistoric colonization in the western Mediterranean. J. World Prehist. 21 (1), 19–84.
+Alcover, J.A., Pérez-Obiol, R., Yll, E.I., Bover, P., 1999. The diet of Myotragus balearicus Bate
+1909 (Artiodactyla: Caprinae), an extinct bovid from the Balearic Islands: evidence
+from coprolites. Biol. J. Linn. Soc. 66, 57–74.
+Aramburu-Zabala, J., Martínez-Sánchez, J.A., 2015. La cova de Son Pellicer (Calvià, Mallorca). Salas 1 (niveles inferiores) Y3 unpublished results.
+Athens, J.S., Toggle, H.D., Ward, J.V., Welch, D.J., 2002. Avifaunal extinctions, vegetation
+change, and Polynesian impacts in prehistoric Hawai'i. Archaeol. Ocean. 37 (2), 57–78.
+Bar-Matthews, M., Ayalon, A., 2011. Mid-Holocene climate variations revealed by highresolution speleothem records from Soreq Cave, Israel and their correlation with cultural changes. The Holocene 21 (1), 163–171.
+Bar-Matthews, M., Ayalon, A., Kaufman, A., Wasserburg, G.J., 1999. The Eastern Mediterranean paleoclimate as a reﬂection of regional events: Soreq cave, Israel. Earth Planet.
+Sci. Lett. 166 (1–2), 85–95.
+Behre, K.E. (Ed.), 1986. Anthropogenic Indicators in Pollen Diagrams. A.A. Balkema,
+Rotterdam.
+Bond, G., Kromer, B., Beer, J., Muscheler, R., Evans, M.N., Showers, W., Hoffmann, S., LottiBond, R., Hajdas, I., Bonani, G., 2001. Persistent solar inﬂuence on north Atlantic climate during the Holocene. Science 294 (5549), 2130–2136.
+Bond, G., Showers, W., Cheseby, M., Lotti, R., Almasi, P., deMenocal, P.B., Priore, P., Cullen,
+H., Hajdas, I., Bonani, G., 1997. A pervasive millennial-scale cycle in North Atlantic Holocene and glacial climates. Science 278, 1257–1265.
+Bover, P., Alcover, J.A., 2003. Understanding late quaternary extinctions: the case of
+Myotragus balearicus (Bate, 1909). J. Biogeogr. 30 (5), 771–781.
+
+Bover, P., Alcover, J.A., 2008. Extinction of the autochthonous small mammals of Mallorca
+(Gymnesic Islands, western Mediterranean) and its ecological consequences.
+J. Biogeogr. 35 (6), 1112–1122.
+Brun, C., 2011. Anthropogenic indicators in pollen diagrams in eastern France: a critical
+review. Veg. Hist. Archaeobotany 20 (2), 135–142.
+Burjachs, F., 2006. Palinología y restitución palinológica. Ecosistemas - Revista Cientíﬁca y
+Técnica e Ecología y Medio Ambiente 15 (1), 1–10.
+Burjachs, F., Expósito, I., 2015. Charcoal and pollen analysis: examples of Holocene ﬁre dynamics in Mediterranean Iberian Peninsula. Catena 135, 340–349.
+Burjachs, F., Riera, S., 1996. Canvis vegetals i climàtics durant el neolític a la façana
+mediterrània ibèrica. Rubricatum 1 (I), 21–27.
+Burjachs, F., Pérez-Obiol, R., Roure, J.M., Julià, R., 1994. Dinámica de la vegetación
+durante el Holoceno en la isla de Mallorca. In: Mateu, I., Dupré, M., Güemes, J.,
+Burgaz, M.E. (Eds.), Trabajos de Palinología Básica y Aplicada. Universitat de València, València, pp. 199–210.
+Cacho, I., Grimalt, J.O., Canals, M., Sbafﬁ, L., Shackleton, N.J., Schoenfeld, J., Zahn, R., 2001.
+Variability of the western Mediterranean Sea surface temperature during the last
+25,000 years and its connection with the Northern Hemisphere climatic changes.
+Paleoceanography 16 (1), 40–52.
+Calvo, M., Guerrero, V.M., 2002. Los inicios de la metalurgia en Baleares. El calcolítico, El
+Tall, Palma de Mallorca.
+Calvo, M., Guerrero-Ayuso, V.M., Salvà-Simonet, B., 2002. Los orígenes del poblamiento
+balear. Una discusión no acabada. Complutum 13, 159–191.
+Cañellas-Boltà, N., Rull, V., Sáez, A., Margalef, O., Bao, R., Pla-Rabes, S., Blaauw, M., ValeroGarcés, B., Giralt, S., 2013. Vegetation changes and human settlement of Easter Island
+during the last millennia: a multiproxy study of the Lake Raraku sediments. Quat. Sci.
+Rev. 72, 36–48.
+
+858
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+
+Carozza, L., Berger, J.-F., Burens, A., Marcigny, C., 2015. Society and environment in Southern France from the 3rd millenium to the beginning of the 2nd millennium BC:
+2200 BC a tipping point? In: Meller, H., Arz, H.W., Jung, R., Rich, R. (Eds.), 2200 BC
+– A Climate Breakdown as a Cause for the Collapse of the Old World?, pp. 335–364
+Carrión, J.S., Fernández, S., González-Sampériz, P., Gil-Romera, G., Badal, E., Carrión-Marco,
+Y., López-Merino, L., López-Sáez, J.A., Fierro, E., Burjachs, F., 2010. Expected trends and
+surprises in the Lateglacial and Holocene vegetation history of the Iberian peninsula
+and Balearic Islands. Rev. Palaeobot. Palynol. 162, 458–475.
+Carrión, J.S., Fernández, S., González-Sampériz, P., López-Merino, L., Peña, L., Burjachs, F.,
+López-Sáez, J.A., García-Antón, M., Carrión-Marco, Y., Uzquiano, P., Postigo, J.M.,
+Barrón, E., Allué, E., Badal, E., Dupré, M., Fierro, E., Munuera, M., Rubiales, J.M.,
+García-Amorena, I., Jiménez-Moreno, G., Gil-Romera, G., Leroy, S., García-Martínez,
+M.S., Montoya, E., Fletcher, W., Yll, I.E., Vieira, M., Rodríguez-Ariza, M.O., Anderson,
+S., Peñalba, C., Gil-García, M.J., Pérez-Sanz, A., Albert, R.M., Díez, M.J., Morales, C.,
+Gómez-Manzaneque, F., Parra, I., Ruiz-Zapata, B., Riera, S., Zapata, L., Ejarque, A.,
+Vegas, T., Rull, V., Scott, L., Andrade, A., Pérez-Díaz, S., Abel-Schaad, D., Moreno, E.,
+Hernández-Mateo, L., Sánchez-Baena, J.J., Riquelme, J.A., Iglesias, R., Franco, F.,
+Chaín, C., Figueiral, I., Grau, E., Matos, M., Jiménez-Espejo, F., Arribas, A., Garrido, G.,
+Finlayson, G., Finlayson, C., Ruiz, M., Pérez-Jordá, G., Miras, Y., 2012. Paleoﬂora y
+Paleovegetación de la Península Ibérica e Islas Baleares: Plioceno-Cuaternario.
+Ministerio de Economía y Competitividad, Madrid.
+Chabaud, L., Sánchez-Goñi, M.F., Desprat, S., Rossignol, L., 2014. Land-sea climatic variability in the eastern North Atlantic subtropical region over the last 14,200 years: atmospheric and oceanic processes at different timescales. The Holocene 24 (7), 787–797.
+Colombaroli, D., Vannière, B., Emmanuel, C., Magny, M., Tinner, W., 2008. Fire–vegetation
+interactions during the Mesolithic–Neolithic transition at Lago dell'Accesa. Tuscany,
+Italy. The Holocene 18, 679–692.
+Costa-Ribas, B., 2000. Plantejaments per a l'anàlisi del procés d'establiment humà en
+petits medis insulars. El cas de l'arxipièlag balear. In: Guerrero, V.M., Gornés, S.
+(Eds.), Colonización humana en ambientes insulares: interacción con el medio y
+adaptación cultural. Servei de Publicacions de la Universitat de les Illes Balears,
+Palma de Mallorca, pp. 11–72.
+Diamond, J., 1989. The present, past and future of human caused extinctions. Philos.
+Trans. R. Soc. Lond. B325, 469–477.
+Donges, J.F., Donner, R.V., Marwan, N., Breitenbach, S.F.M., Rehfeld, K., Kurths, J., 2015.
+Non-linear regime shifts in Holocene Asian monsoon variability: potential impacts
+on cultural change and migratory patterns. Clim. Past 11 (5), 709–741.
+Drescher-Schneider, R., de Beaulieu, J.-L., Magny, M., Walter-Simonnet, A.V., Bossuet, G.,
+Millet, L., Brugiapaglia, E., Drescher, A., 2007. Vegetation history, climate and
+human impact over the last 15000 years at Lago dell'Accesa (Tuscany, central Italy).
+Veg. Hist. Archaeobotany 16, 279–299.
+Dumont, H.J., Cocquyt, C., Fontugne, M., Arnold, M., Reyss, J.-L., Bloemendal, J., Oldﬁeld, F.,
+Steenbergen, C.L.M., Korthals, H.J., Zeeb, B.A., 1998. The end of moai quarrying and its
+effect on Lake Rano Raraku, Easter Island. J. Paleolimnol. 20 (4), 409–422.
+Dupré, M., Pérez-Obiol, R., Roure, J.M., 1994. Análisis polínico del sondeo TU de la turbera
+de Torreblanca (Castellón, España). In: Mateu-Andrés, I., Dupré-Ollivier, M., GüemesHeras, J., Burgaz-Moreno, M.E. (Eds.), Trabajos de Palinología básica y aplicada.
+Universidad de València, València, pp. 165–174.
+Flenley, J.R., King, A.S.M., Jackson, J., Chew, C., Teller, J.T., Prentice, M.E., 1991. The late Quaternary vegetational and climatic history of Easter Island. J. Quat. Sci. 6 (2), 85–115.
+Fletcher, W.J., Zielhofer, C., 2013. Fragility of Western Mediterranean landscapes during
+Holocene Rapid Climate Changes. Catena 103, 16–29.
+Fletcher, W.J., Sánchez-Goñi, M.F., Peyron, O., Dormoy, I., 2010. Abrupt climate changes of
+the last deglaciation detected in a western Mediterranean forest record. Clim. Past 6
+(2), 245–264.
+Frigola, J., Moreno, A., Cacho, I., Canals, M., Sierro, F.J., Flores, J.A., Grimalt, J.O., Hodell, D.A.,
+Curtis, J.H., 2007. Holocene climate variability in the western Mediterranean region
+from a Deepwater sediment record. Paleoceanography 22 (2), 1–16.
+Grimm, E.C., 1987. Coniss: a Fortran 77 program for Stratigraphically constrained cluster
+analysis by the method of incremental sum of squares. Comput. Geosci. 13, 13–35.
+Guerrero, V.M., 2007. Prehistoria de las Islas Baleares. Registro arqueológico y evolución social
+antes de la Edad del Hierro. British Archaeological Reports International Series. 1690.
+Guerrero, V.M., Calvo, M., 2008. Resolviendo incertidumbres. Nuevos datos sobre las
+primeras ocupaciones humanas de las Baleares. In: Hernández, M., Soler, J., López, J.
+(Eds.), Actas del IV Congreso del Neolítico Peninsular II. Museo Arqueológico de Alicante, Alicante, pp. 331–339.
+Guerrero, V.M., Calvo, M., Salvà, B., 2002. La cultura talayótica. Una sociedad de la edad del
+Hierro en la periferia de la colonización fenícia. Complutum 13, 221–258.
+Horrocks, M., Marra, M., Baisden, W.T., Flenley, J., Feek, D., González-Nualart, L., HaoaCardinali, S., Gorman, T.E., 2013. Pollen, phytoliths, arthropods and high-resolution
+14C sampling from Rano Kau, Easter Island: evidence for late quaternary environments, ant (Formicidae) distributions and human activity. J. Paleolimnol. 50 (4),
+417–432.
+Jalut, G., Esteban-Amat, A., Bonnet, L., Gauquelin, T., Fontugne, M., 2000. Holocene climatic
+changes in the western Mediterranean, from south-east France to south-east Spain.
+Palaeogeogr. Palaeoclimatol. Palaeoecol. 160, 255–290.
+Kouli, K., Dermitzakis, M.D., 2008. Natural and cultural landscape of the Neolithic settlement of Dispilió: palynological results. Hell. J. Geosci. 43, 29–39.
+Llergo-López, Y., Riera-Mora, S., 2010. Estudio polínico de muestras sedimentarias de los
+yacimientos arqueológicos de Ses Païses y Cascanar, (Mallorca, Islas Baleares).
+Universitat de Barcelona unpublished results.
+Lull, V., Micó, R., Rihuete, C., Risch, R., 1999. La Cova des Carritx y la Cova des Mussol.
+Ideología y Sociedad en la Prehistoria de Menorca. Consell Insular de Menorca,
+Ajuntament de Ciutadella, Fundació Rubió Tudurí Andromaco, Barcelona.
+MacPhee, R.D.M., Marx, P.A., 1997. The 40,000-year plague. Humans, hyperdisease, and
+ﬁrst-contact extinctions. In: Goodman, S.M., Patterson, B.D. (Eds.), Natural Change
+
+and Human Impact in Madagascar. Smithsonian Institution Press, London-Washington, pp. 169–217.
+Marinova, E., Tonkov, S., Bozilova, E., Vajsov, I., 2012. Holocene anthropogenic landscapes
+in the Balkans: the palaeobotanical evidence from southwestern Bulgaria. Veg. Hist.
+Archaeobotany 21, 413–427.
+Mayewski, P.A., Rohling, E.E., Stager, J.C., Karlen, W., Maasch, K.A., Meeker, L.D., Meyerson,
+E.A., Gasse, F., van Kreveld, S., Holmgren, K., Lee-Thorp, J., Rosqvist, G., Rack, F.,
+Staubwasser, M., Schneider, R.R., Steig, E.J., 2004. Holocene climate variability. Quat.
+Res. 62 (3), 243–255.
+Micó, R., 2005. Cronología absoluta y periodización de la prehistoria reciente las Islas Baleares. BAR International Series 1373.
+Micó, R., 2006. Radiocarbon dating and Balearic prehistory. Reviewing the periodization
+of the prehistoric sequence. Radiocarbon 48 (3), 421–434.
+Pantaleón-Cano, J., Yll, E.I., Pérez-Obiol, R., Roure, J.M., 2003. Palynological evidence for
+vegetational history in semi-arid areas of the Western Mediterranean (Almería,
+Spain). The Holocene 13, 109–119.
+Peinado, M., Rivas-Martínez, S., 1987. La Vegetación de España. Servicio de Publicaciones
+de la Universidad de Alcalá, Alcalá de Henares.
+Pérez-Obiol, R., Sadori, L., 2007. Similarities and dissimilarities, synchronisms and
+diachronisms in the Holocene vegetation history of the Balearic Islands and Sicily.
+Veg. Hist. Archaeobotany 16 (4), 259–265.
+Pérez-Obiol, R., Jalut, G., Julià, R., Pèlachs, A., Iriarte, M.J., Otto, T., Hernández-Beloqui, B.,
+2011. Mid-Holocene vegetation and climatic history of the Iberian Peninsula. The Holocene 21, 75–93.
+Pérez-Sanz, A., González-Sampériz, P., Moreno, A., Valero-Garcés, B., Gil-Romera, G.,
+Rieradevall, M., Tarrats, P., Lasheras-Álvarez, L., Morellón, M., Belmonte, A., Sancho,
+C., Sevilla-Callejo, M., Navas, A., 2013. Holocene climate variability, vegetation dynamics and ﬁre regime in the central Pyrenees: the Basa de la Mora sequence (NE
+Spain). Quat. Sci. Rev. 73, 149–169.
+Picornell-Gelabert, L., 2012. Paisaje vegetal y comunidades prehistóricas y protohistóricas
+en Mallorca y Menorca (Illes Balears): una aproximación desde la antracología PhD
+dissertation Universitat de Barcelona.
+Picornell-Gelabert, L., Servera-Vives, G., Riera, S., Allué, E., 2012. The study of prehistoric sacred sites and sacred plants: a case study of Son Ferrer funerary mound in Majorca,
+Balearic Islands. In: Pungetti, G., Oviedo, G., Hooke, D. (Eds.), Sacred Species and Sites.
+Cambridge University Press, Cambridge, Advances in biocultural diversity, pp. 428–434.
+Portillo, M., Llergo, Y., Ferrer, A., Anglada, M., Plantalamor, L., Albert, R.M., 2014.
+Actividades domésticas y molienda en el asentamiento talayótico de Cornia Nou (Menorca, Islas Baleares): resultados del estudio de microfósiles vegetales. Revista
+d'Arqueologia de Ponent 24, 311–321.
+Prebble, M., Dowe, J.L., 2008. The late Quaternary decline and extinction of palms on oceanic Paciﬁc islands. Quat. Sci. Rev. 27 (27–28), 2546–2567.
+Ramis, D., Alcover, J.A., Coll, J., Trias, M., 2002. The chronology of the ﬁrst settlement of the
+Balearic Islands. J. Mediterr. Archaeol. 15 (1), 3–24.
+Rasmussen, S.O., Bigler, M., Blockley, S.P., Blunier, T., Buchardt, S.L., Clausen, H.B.,
+Cvijanovic, I., Dahl-Jensen, D., Johnsen, S.J., Fischer, H., Gkinis, V., Guillevic, M., Hoek,
+W.Z., Lowe, J.J., Pedro, J.B., Popp, T., Seierstad, I.K., Steffensen, J.P., Svensson, A.M.,
+Vallelonga, P., Vinther, B.M., Walker, M.J.C., Wheatley, J.J., Winstrup, M., 2014. A stratigraphic framework for abrupt climatic changes during the Last Glacial period based
+on three synchronized Greenland ice-core records: reﬁning and extending the INTIMATE événement stratigraphy. Quat. Sci. Rev. 106, 14–28.
+Revelles, J., Burjachs, F., 2015. Informe de l'anàlisi arqueopalinològica del jaciment de “Cap
+de Barbaria II” (Formentera, Illes Balears). Campanyes d'excavació arqueològica
+2013–2014. Universitat Autònoma de Barcelona unpublished results.
+Revelles, J., Cho, S., Iriarte, E., Burjachs, F., van Geel, B., Palomo, A., Piqué, R., PeñaChocarro, L., Terradas, X., 2015. Mid-Holocene vegetation history and Neolithic
+land-use in the Lake Banyoles area (Girona, Spain). Palaeogeogr. Palaeoclimatol.
+Palaeoecol. 435, 70–85.
+Riera-Mora, S., Esteban-Amat, A., 1994. Vegetation history and human activity during the
+last 6000 years on the central Catalan coast (northeastern Iberian Peninsula). Veg.
+Hist. Archaeobotany 3, 7–23.
+Rivas-Martínez, S., 1987. Memoria del Mapa de Series de Vegetación de España. 1:
+400.000. ICONA, Madrid.
+Roberts, N., Meadows, M.E., Dodson, J.R., 2001. The history of Mediterranean-type environments: climate, culture and landscape. The Holocene 11, 631–634.
+Ruddiman, W.F., 2003. The Anthropocene greenhouse era began thousands of years ago.
+Climate Change 61 (3), 261–293.
+Ruddiman, W.F., Ellis, E.C., Kaplan, J.O., Fuller, D.Q., 2015. Deﬁning the epoch we live in.
+Science 348, 38–39.
+Ruiz, J., 2008. Mapa Forestal de España. Escala 1:200.000 (MFE200). Dirección General de
+Medio Natural y Política Forestal. Ministerio de Medio Ambiente, y Medio Rural y Marino, Madrid.
+Rull, V., Cañellas-Boltà, N., Margalef, O., Sáez, A., Pla-Rabes, S., Giralt, S., 2015. Late Holocene vegetation dynamics and deforestation in Rano Aroi: implications for Easter
+Island's ecological and cultural history. Quat. Sci. Rev. 126, 219–226.
+Rull, V., Cañellas-Boltà, N., Sáez, A., Margalef, O., Bao, R., Pla-Rabes, S., Valero-Garcés, B.,
+Giralt, S., 2013. Challenging Easter Island's collapse: the need for interdisciplinary
+synergies. Front. Ecol. Evol. Paleoecol. 1 (paper 3), 1–5.
+Sadori, L., Narcisi, B., 2001. The postglacial record of environmental history from Lago di
+Pergusa, Sicily. The Holocene 11, 655–672.
+Sáez, A., Valero-Garcés, B.L., Giralt, S., Moreno, A., Bao, R., Pueyo, J.J., Hernández, A., Casas,
+D., 2009. Glacial to Holocene climate changes in the SE Paciﬁc. The Raraku Lake sedimentary record (Easter Island, 27°S). Quat. Sci. Rev. 28 (25–26), 2743–2759.
+Vannière, B., Colombaroli, D., Chapron, E., Leroux, A., Tinner, W., Magny, M., 2008. Climate
+versus human-driven ﬁre regimes in Mediterranean landscapes: the Holocene record
+of Lago dell'Accesa (Tuscany, Italy). Quat. Sci. Rev. 27, 1181–1196.
+
+F. Burjachs et al. / Journal of Archaeological Science: Reports 12 (2017) 845–859
+Vescovi, E., Ammann, B., Ravazzi, C., Tinner, W., 2010. A new late-glacial and Holocene record of vegetation and ﬁre history from Lago del Greppo, northern Apennines, Italy.
+Veg. Hist. Archaeobotany 19, 219–233.
+Vigne, J.-D., 1999. The large "true" Mediterranean islands as a model for the Holocene
+human impact on the European vertebrate fauna? Recent data and new reﬂections.
+In: Benecke, N. (Ed.), The Holocene History of the European Vertebrate Fauna
+Modem Aspects of Research. Verlag Marie Leidorf GmbH - Rahden/Westf, Berlin,
+pp. 295–321.
+Wanner, H., Solomina, O., Grosjean, M., Ritz, S.P., Jetel, M., 2011. Structure and origin of
+Holocene cold events. Quat. Sci. Rev. 30 (21–22), 3109–3123.
+Yll, E.I., 2011. Anàlisi pol·línica de mostres de la cova de Sa Parra. In: Marlasca, R., López,
+J.M., Colomar, M., Escandell, M.J. (Eds.), La Mola de Formentera, un paisatge per a la
+
+859
+
+investigació i la recuperació social de la Prehistòria a les Pitiüses 2001–2011.
+Formentera-Eivissa unpublished rapport.
+Yll, R., Burjachs, F., Expósito, I., 2009. Descobrint els paisatges del passat. In: Marí, M. (Ed.),
+Vila i Ses Feixes. Els camins de l'aigua, GEN-GOB Eivissa, Eivissa, pp. 19–40.
+Yll, R., Carrión, J.S., Pantaleón, J., Dupré, M., La Roca, N., Roure, J.M., Pérez-Obiol, R., 2003.
+Palinología del Cuaternario reciente en la Laguna de Villena (Alicante). Anales de
+Biología 25, 65–72.
+Yll, E.I., Pérez-Obiol, R., Pantaleón-Cano, J., Roure, J.M., 1997. Palynological evidence for climatic change and human activity during the Holocene on Minorca (Balearic Islands).
+Quat. Res. 48, 339–347.
+
+

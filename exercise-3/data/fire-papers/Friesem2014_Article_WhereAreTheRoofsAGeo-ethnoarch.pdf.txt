@@ -1,0 +1,1835 @@
+Archaeol Anthropol Sci (2014) 6:73–92
+DOI 10.1007/s12520-013-0146-3
+
+ORIGINAL PAPER
+
+Where are the roofs? A geo-ethnoarchaeological study
+of mud brick structures and their collapse processes, focusing
+on the identification of roofs
+David E. Friesem & Georgia Tsartsidou &
+Panagiotis Karkanas & Ruth Shahack-Gross
+Received: 4 February 2013 / Accepted: 20 May 2013 / Published online: 10 June 2013
+# Springer-Verlag Berlin Heidelberg 2013
+
+Abstract Unlike floors that have been given a lot of attention in archaeological research, the study of roofs is long
+neglected. Here, we present a study of modern abandoned
+and burnt mud brick structures, conducted in southern Israel
+and northern Greece. Using macroscopic observations and
+interviews together with micromorphology, mineralogical,
+phytolith, and phosphate analyses, we show that roofs
+should be sought in close proximity to floors. We show that
+roofs practically seal activity remains on floors; thus, the
+importance of identifying roofs in the archaeological record
+lies mainly with the ability to estimate the integrity of floors
+and floor assemblages. While human behavior and maintenance practices are major factors in the deposition of primary activity remains on floors, the timing of roof collapse
+determines how well activity remains will be preserved. In
+addition, we show that the roof plays a major role in the
+degradation process of mud structures as wall degradation is
+enhanced after the collapse of the roof resulting in accumulation of mud brick degradation material on top of the
+collapsed roof. As most roofs in antiquity seem to have
+D. E. Friesem (*) : R. Shahack-Gross
+Kimmel Center for Archaeological Science, Weizmann Institute
+of Science, 76100 Rehovot, Israel
+e-mail: david.friesem@weizmann.ac.il
+R. Shahack-Gross
+e-mail: ruth.shahack@weizmann.ac.il
+D. E. Friesem
+Jacob M. Alkow Department of Archaeology and Ancient Near
+Eastern Civilizations, Tel Aviv University, 69978 Tel Aviv, Israel
+G. Tsartsidou : P. Karkanas
+Ephoreia of Palaeoanthropology–Speleology of Southern Greece,
+Ardittou 34b, 11636 Athens, Greece
+G. Tsartsidou
+e-mail: gtsartsidou@ymail.com
+P. Karkanas
+e-mail: pkarkanas@hua.gr
+
+been composed of degradable vegetal materials, we found
+that not only they leave little evidence for their presence, but
+they also mix with vegetal activity remains. We therefore
+use the accumulation of mud brick debris as an indicator for
+the location of degraded roofs. Using microstratigraphy for
+the identification of both floors and roofs is significant in
+order to locate activity remains in the archaeological sedimentary sequence and to evaluate their state of preservation.
+Keywords Roof . Floor . Ethnoarchaeology .
+Geoarchaeology . Site formation processes .
+Microstratigraphy
+
+Introduction
+In comparison to other architectural features, collapsed roofs
+composed originally of easily degradable materials (e.g.,
+vegetal matter and mud) are difficult to identify in archaeological sites. Degradable roofing materials seem to have
+been common since antiquity until modern times. In the Old
+World, durable roofing, in the form of fired clay tiles and/or
+thin slate slabs, has been sporadically reported from the
+Early Bronze Age (ca. 2500 B.C.) in ancient Greece
+(Wiencke 1989). From the Archaic period (ca. early seventh
+century B.C.), durable roof materials were used across wide
+geographical regions, but mainly in monumental architecture (Sapirstein 2009; Wikander 1990). The degradable nature of most roofs thus explains why so few roofs have been
+identified at archaeological sites. Yet, the importance of
+roofs for archaeological interpretation is undisputable.
+Firstly, roofs demarcate protected areas where human (or
+livestock) activities take place, usually activities that are
+different from those conducted in open, unroofed areas.
+Second, roofs of various materials may relate to socioeconomic differences within settlements. Third, identifying
+roofs in archaeological stratigraphic sequences is important
+
+74
+
+for elucidating the integrity of strata and floor assemblages
+(Schiffer 1985). The latter is basic for research into activity
+areas and socioeconomy. Surprisingly few studies have been
+conducted specifically on roofs in the archaeological record.
+Thus, we carried out an ethnoarchaeological study that
+explores the degradation and collapse (i.e., taphonomy) of
+roofs in Old World mud brick structures and the relationship
+between roofs, floors, and activity remains in abandonment
+and conflagration contexts.
+In abandonment ethnographic contexts, three key studies
+mention roofs. McIntosh (1977) excavated a decaying modern
+mud structure in Ghana, which originally had a thatched roof.
+He noticed that once the roof fell into disrepair, mud walls began
+to decay, which resulted in accumulation of clay within the
+decaying house. Goodman-Elgar (2008) conducted a micromorphological study of modern abandoned mud structures in
+Bolivia. She noted that the organic matter from roof fall attracts
+soil fauna, which in turn promotes bioturbation of floor deposits,
+destroying the integrity of the earthen floor. Milek (2012) investigated an abandoned farm complex in Iceland where roofs were
+made of turf. She observed that roof parts collapsed or dangled
+following rotting and collapse of support poles. Once this happens, two processes act simultaneously: penetration of light and
+promotion of grass growth and bioturbation on the structure’s
+floor, and enhanced wall degradation and collapse. Milek (2012)
+further noted that a collapsed roof may seal and protect a
+structure’s activity floor from major postdepositional disturbance. Most other studies dealing with abandoned structures
+point out that abandoned structures tend to be infilled by waste
+from secondary use and during the last stages of abandonment
+they act as dumping areas (e.g., Healan 2000; Ziadeh-Seely
+1999). Recently Friesem et al. (2011) showed that abandoned
+mud brick structures are also infilled by sediments from the
+decaying mud walls mixed to various degrees with windblown materials. Clearly, in the context of planned abandonment, the identification of roof remains among the variety of
+sediments and artifacts deposited is difficult.
+Ethnographic studies of conflagration contexts have not
+been reported, to our knowledge. Archaeological experiments
+have shown that, in the case of mud structure conflagration, a
+thatched roof will be the first to catch fire, collapse, still
+burning, on the floor within minutes after the fire started,
+forming an accumulation of ash and burnt deposits directly
+on the floor (Bankoff and Winter 1979; Friede and Steel 1980).
+Gordon (1953) noted that burning down houses was easier and
+faster in thatch roofed houses relative to mud roofed houses. In
+archaeological contexts, the presence of a burnt layer above a
+floor is usually interpreted as a conflagration event (Friede and
+Steel 1980; Gordon 1953; Namdar et al. 2011; Stevanovic
+1997; Twiss et al. 2008). Other options have been demonstrated, such as accumulation of wind-blown ash and charcoal prior
+to roof collapse (Namdar et al. 2011), or external fuel deposited
+beneath the roof in the processes of a deliberate house
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+conflagration (Stevanovic 1997; Twiss et al. 2008). A few
+studies proposed that burnt deposits on floors originated from
+the roof itself (Wasley 1957; Wilshusen 1986).
+Based on the above information, the study of roofs in ethnographic conflagration and abandonment contexts is crucial for
+constructing Middle Range Theory pertaining to the relationship
+among roofs, floors, and activity remains. A study of this sort
+must consider microstratigraphy and the study of microartifacts.
+Previous studies highlighted the usefulness of combining
+ethnoarchaeological observations and sampling with
+geoarchaeological analyses (e.g., Boivin 2000; Gé et al. 1993;
+Goldberg and Whitbread 1993; Goodman-Elgar 2008;
+Karkanas and Efstratiou 2009; Macphail et al. 2004; Matthews
+et al. 1997; Milek 2012; Shahack-Gross et al. 2005, 2009). Most
+of these studies focused on the identification of floors, their
+formation, maintenance, and activity remains of various types,
+with the overall aim of reconstructing human behavior. Other
+studies investigated degradation and depositional processes and
+thus the manner by which abandoned habitation and/or ephemeral sites (and the materials within them) transform into an
+archaeological site (e.g., Boivin 2001; Friesem et al. 2011;
+Goldberg and Whitbread 1993; Goodman-Elgar 2008; Mallol
+et al. 2007; Mcintosh 1974; Milek 2012; Shahack-Gross et al.
+2003; Terry et al. 2004; Tsartsidou et al. 2008).
+The study of roofs, their degradation processes, their
+relationship to floors and floor assemblages, and their overall role in archaeological site formation has been neglected.
+Therefore, the aim of the study presented here is to supply
+macro- and microscopic observations on the role of roofs in
+archaeological site formation and interpretation. The research strategy that we employed to approach this archaeological question is studying collapsed and buried sediments
+in mud brick structures that have not been in use in the last
+10–65 years. We will show that such abandoned structures
+and the sediments within them have undergone degradation
+to the extent that they appear quite similar to an archaeological site. Thus, we followed archaeological methods (excavation, recording, and sampling) in several such abandonment ethnographic contexts. In so doing, the study has two
+important advantages—it analyzes sediments that are practically archaeological, and it exploits the availability of
+direct and indirect ethnographic information. The research
+reported below was conducted in two different geographic
+areas (arid southern Israel and temperate northern Greece),
+employing a variety of microarchaeological techniques.
+
+The ethnoarchaeological contexts
+Gvulot, western Negev, Israel
+An abandoned mud brick house was located in the Besor
+semi-arid area (150–200 mm average annual precipitation)
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+near Kibbutz Gvulot in southwestern Israel (Fig. 1a). There
+is no direct historical or ethnographic documentation of the
+Gvulot mud house itself. General information collected and
+published by explorers in Palestine during the nineteenth
+and early twentieth centuries (e.g., Canaan 1932–1933;
+Dalman 1928–1942) and later more specific information
+regarding the Besor area compiled by Gazit (1986, 2000)
+indicate that the Gvulot mud house was built by Bedouins
+(nomadic pastoralists), who settled in the region during the
+nineteenth and early twentieth centuries, under the Ottoman
+and the British mandatory regimes. This relates to a process
+that started in the first half of the nineteenth century in
+which large populations of Egyptian peasants and
+Bedouins migrated from the Sinai Peninsula to the Besor
+region encouraged by economic opportunities and relative
+security due to diminishing tribal conflicts in the area under
+the Ottoman regime. Under these stable conditions, the
+Bedouins were encouraged by the Ottoman Sultans to settle
+down and cultivate the land (Gazit 2000). These
+sedentarized Bedouins partly kept their housing tradition
+by building their mud brick farm houses in an architectural
+plan similar to that of the black tent, i.e., a living section
+composed of two rooms, one for men and the other for
+women, and a large walled courtyard (Gazit 1986). These
+mud brick houses did not have any windows. The roof was
+built as follows: a lower level of large wooden beams
+covered by a braid of vegetal stems (e.g., dry reeds, palm
+leaves, thorn bushes, or cornstalks), the latter covered by
+mud mixed with straw (Canaan 1932–1933; Gazit 1986).
+Figure 2 shows a possible modern parallel for such roof
+construction technique observed in 2011 in Uzbekistan.
+Fig. 1 Location and appearance
+of the study areas. a The Gvulot
+mud house, southern Israel
+(looking northeast) at the end of
+the second season of excavation
+(April 2011). Length of wall in the
+foreground is about 8 m. b Part of
+the abandoned mud brick village
+of Kranionas, northern Greece.
+Most of the structures in this
+village are either totally
+abandoned (decaying) or in use as
+animal shelters and/or storage of
+fodder
+
+75
+
+Based on the above information, and on large amounts of
+Gaza Ware, a local pottery typical of the Ottoman period
+(Gazit 1986), scattered in the vicinity of the studied house,
+Gazit suggested that the Gvulot mud house was built in the
+early twentieth century (D. Gazit personal communication.
+It was abandoned in 1948 as the Besor area suffered from
+the outcomes of war between Egypt and Israel. Since the
+early 1950s, the region has been used by the Israeli army as
+training grounds. The studied mud house is thus decaying
+since 1948.
+Field work at this house was carried out in April 2009
+and May 2011. Friesem et al. (2011) reconstructed the house
+shape, wall heights, and locations of roofed and unroofed
+areas. In addition, they conducted geoarchaeological analyses by which they were able to identify sediment infill
+sources at the abandoned house—pure mud brick material,
+pure wind-blown sandy sediments, and gray sediments,
+which are a mixture of mud brick and wind-blown sediments. They further noted that these three types of sediments filled the area of the abandoned house in
+alternating/interfingering layers that seem to be related to
+rainy periods (i.e., mud slurry movements with or without
+wind-blown sand) and dry windy periods (i.e., wind-blown
+sand infill). In addition, the floor surface was identified as a
+local soil termed “husmas” (sandy soils with calcareous
+concentrations, or Calcic Rhodoxeralf; Singer 2007). The
+floor surface is generally white. At places, it was found to be
+as much as 30 cm thick, indicating that the house was built
+on a flattened soil surface rather than soil that was brought
+and spread while the house was built (Table 1; for more
+details, see Friesem et al. 2011).
+
+76
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+Fig. 2 Roof construction
+observed in rural Uzbekistan
+(Samarkand area, 2011). a Early
+stages of roof construction:
+wooden beams form the roof
+skeleton. b Later stages of
+construction: the wooden beams
+are covered by wood branches
+and leaves. c Final stages of
+construction: mud is plastered
+over the vegetal roof
+
+Kranionas, northern Greece
+The village of Kranionas is located 12 km north-west of
+Kastoria, at 817 m above sea level where average annual
+precipitation is 700 mm (Fig. 1b). Almost all structures in
+the village are built from mud bricks. The following information was recorded by us during a 1-week field work at the
+village (May 2010) through interviews with Mr. and Mrs.
+Lovatsis, who were born in the village, lived in it until its
+abandonment and now live in a nearby village.
+The village of Kranionas was established during the early
+nineteenth century by Greek and Slavic speakers. The subsistence economy was based on agriculture and herding.
+Agricultural staples were primarily wheat, supplemented
+by barley and rye. Corn was introduced around 1951.
+Livestock was primarily sheep, but also some goats, cows,
+donkeys, and horses/mules. Small livestock were kept in
+mud brick built enclosures, while the larger animals were
+kept on the ground floors of houses (Fig. 3a). The animals’
+dung was scooped out from stables and enclosures periodically, piled up on threshing floors for the winter time where
+it underwent composting processes, and used in the spring
+for fertilizing fields and for coating threshing floors.
+During the Greek Civil War (1946–1949) most of the
+population left the village for security reasons. A few
+returned to the village after 1950; however, between 1967
+and 1974, during “The Colonels Regime,” the village inhabitants were forcefully relocated to a modern, cementbuilt, village about 1 km west of the original mud brick
+village. As the expelled inhabitants from Kranionas still care
+
+for their old houses, they keep maintaining some of them.
+Several structures are still used today, mostly as barns and
+animal shelters.
+The village houses are mostly two storied with the lower
+floor having been used as a stable for family owned livestock and the upper floor being used for the people living
+spaces (Fig. 3a). The houses and many other structures were
+built of sun-dried mud bricks and wooden beams. Sun-dried
+bricks were prepared from local red soil mixed with water
+and chaff, the light material from wheat threshing and
+winnowing (but sometimes also heavier parts such as
+stems). Mud brick walls were usually constructed above
+two to three courses of stones put into foundation trenches.
+In some houses, the walls were covered by thin layers of
+lime wash. The floors were made from mud and very rarely
+replastered, and the internal structure/furnishing of the houses was mainly built from wood.
+All roofs in the village were originally thatched by local
+rye stems put on oak beams and branches. Roof tiles were
+introduced into the region after World War II, which
+changed the construction technique of roofs so that large
+oak beams were covered by a braid of willow and poplar
+thin branches and fern leaves, which were then covered by
+the commercial roof tiles. Occasionally, imported sedges
+and reeds were used. Structures used for purposes other than
+human living, such as stables and barns, were either kept
+with their original thatched roofs or replaced by tiled roofs
+(Fig. 3b). Roofs were maintained by replacing broken tiles
+every 2–3 years. The wooden beams were almost never
+replaced.
+
+Before 1930: built as a
+barn for animal fodder
+1947–1951: sporadic use
+1951–1980: reuse for storage
+of animal fodder
+1980: conflagration
+
+Kranionas C
+Barn
+(temperate climate)
+
+Oak beams and
+branches
+covered by
+commercial
+roof tiles
+
+Oak beams and
+branches
+covered by
+commercial
+roof tiles
+
+Soil Bt horizon (=floor)
+Reworked Bt material
+Roof tiles and infiltrated sediment
+Degraded mud brick sediment
+
+Bt horizon of the local soil Soil Bt horizon
++ Grass fibers trampled into floor
++ Elevated concentrations of phytoliths and
+Reworked Bt material
+phosphate in the floor–roof complex
+Black (charred) vegetal layer
+Gray (ashed) vegetal and dung material + Phytolith morphologies show
+high levels of rye and
+Roof tiles and infiltrated sediment
+domestic cereals
+Degraded mud brick sediment
+
++ Lime plaster patches
++ Elevated concentrations of phytoliths
+and phosphate in the floor–roof
+complex
++ Planar voids and dung
+spherulites indicate degraded
+dung in enclosure
++ Phytolith morphologies indicate
+wild grasses and small amounts
+of domestic cereals
+
++ Elevated concentrations of phytoliths
+and phosphate at the level of the
+floor–roof complex
++ Phytolith morphologies
+indicate wild grasses and
+small amounts of domestic cereals
+
++ Elevated phosphate levels in the vicinity
+of the roof beams
++ No phytoliths associated
+with the roof remains
++ One small area with elevated phytolith
+concentrations including phytoliths
+indicative of domestic cereals
+
+“Husmas” paleosol surface (=floor)
+Windblown dust
+Decayed roof beam mixed
+with sediment
+Degraded mud brick sediment
+
+Bt horizon of the local soil Soil Bt horizon
+Reworked Bt material
+Trampled livestock dung
+Charred dung mixed with burnt
+plants and roof tiles
+Degraded mud brick sediment
+
+Bt horizon of the
+local soil
+
+Microscopic remains
+
+Stratigraphy (from bottom to top)
+
+a
+
+All floors are beaten earth
+
+The type of activity, structure history and roof composition are inferred from historical sources for the Gvulot mud house, while for Kranionas localities, the data are well based on detailed
+information from the owners of the studied structures. Floor composition, stratigraphy, and microscopic remains are all inferred based on our own observations and analyses
+
+Before 1930: built as an
+animal enclosure
+1947–1951: sporadic use
+1951–1980: reuse of space
+as an animal enclosure
+for sheep and few goats
+1980: conflagration
+
+2000: roof collapse and
+no later use
+
+Floor compositiona
+
+Local paleosol termed
+Large wooden
+“husmas”: light-colored
+beams covered
+soil due to high
+by a braid of
+concentration of
+vegetal stems,
+calcite in a brown
+the latter covered
+loam matrix
+by mud mixed
+with straw
+
+Roof composition
+
+Before 1930: built as a barn
+Oak beams and
+for animal fodder
+branches
+1947–1951: planned abandonment
+covered by
+commercial
+1951–2000: sporadic use
+roof tiles.
+for fodder storage
+
+Kranionas B
+Animal enclosure
+(temperate climate)
+
+Kranionas A
+Barn
+(temperate climate)
+
+Domestic Bedouin Early twentieth century:
+dwelling
+built by Bedouins for
+dwelling in an architectural
+plan similar to that of the black
+tent 1948: planned
+abandonment
+
+Gvulot (arid climate)
+
+History
+
+Activity
+
+Locality
+
+Table 1 Summary of attributes related to each of the four studied contexts
+
+Archaeol Anthropol Sci (2014) 6:73–92
+77
+
+78
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+Fig. 4 The study contexts. a Aerial photograph of Kranionas, looking
+north, showing the location of the abandoned Barn in locality A (A)
+and the location of the burnt down animal enclosure (B) and barn (C).
+Photograph by E. Efthimiou. b Drawing of Gvulot mud house showing
+the location of excavation trenches (dashed gray areas, according to
+year of excavation). The western part of the structure was roofed
+Fig. 3 Examples of construction tradition in Kranionas. a Typical twostoried mud house with animal shelter at the ground floor and human
+habitation space at the upper floor. b Roof made of wooden beams
+covered by reeds and small branches covered by commercial roof tiles
+
+The current study is based on excavation and sampling of
+two types of context in Kranionas: simple abandonment and
+abandonment due to accidental burning. Owing to the detailed ethnographic information available through conversations with Mr. and Mrs. Lovatsis, the study was carried out
+in three structures owned by the family of Mr. and Mrs.
+Lovatsis, with their agreement and under their supervision
+(Fig. 4a). Each structure was assigned a different locality
+based on information on its history of use (Table 1):
+1. Locality A: a barn built before 1930 and used for storage
+of mostly cereals in the form of wheat straw in bunches
+tied together with rye stems, wild grasses, and branches of
+wood with their leaves. All these were used as animal
+fodder, and after 1951, corn stalks were also stored there
+for animal fodder. The barn was not in use between 1947
+and 1951 when the village was abandoned. Between 1951
+and 2000, it was used sporadically for storage of fodder,
+while after 2000, when its roof collapsed, it was abandoned permanently. The roof was built from oak beams
+and branches covered by commercial roof tiles. The floor
+is the local soil, untreated, according to Mr. Lovatsis. The
+
+barn floor was cleaned with wooden forks and brooms
+every spring and then covered by fresh wooden branches.
+2. Locality B: an enclosure mainly for sheep and very few
+goats, built before 1930. The animals were kept in the
+enclosure only during the winter, while in the summer, they
+were grazing up in the mountains. The enclosure was roofed
+with oak beams and commercial roof tiles. The floor is the
+local soil, untreated, according to Mr. Lovatsis. This floor
+accumulated dung and was thus cleaned two to three times
+per year by scooping up the dung with a flat wooden shovel
+followed by sweeping with brooms. The floor was then left
+open for a day to aerate, and then dry lime (quicklime) was
+spread on the surface for hygienic purposes.
+3. Locality C: a barn where cereal for animal fodder was
+stored, including bunches of wheat stems and leaves
+tied together with rye stems, wild grasses, wood
+branches, and corn stalks. The roof was the same construction as in locality B. The floor is similar to locality
+B and cleaning was conducted in the same manner as in
+locality A but dry lime was not used.
+Localities B and C are parts of the same structural unit
+but represent different activities and use of space. After the
+1947 abandonment of the village, the structures were still
+sporadically used for keeping livestock and their fodder. In
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+1951, both localities were reused by the Lovatsis family for
+keeping their sheep and few goats and their fodder. However,
+in 1980, both localities were destroyed by fire that spread from
+nearby fields into the village. Eye witnesses recall that flames
+reached the roof height and that the roofs in both localities B
+and C collapsed during this event. After this conflagration, the
+structure was never used again.
+
+Study methods
+Fieldwork strategy
+The Gvulot mud house was excavated in two seasons (2009
+and 2011), each lasted 5 days. Overall, six trenches were
+opened, dug to a depth of at least 10 cm below the contact of
+the infill sediments with the house floor (Fig. 4b). The floor has
+been identified in the 2009 season as a horizontal white sediment layer composed of a calcitic local sandy paleosol termed
+“husmas” (for more details, see Friesem et al. 2011). All
+macroscopic items found during the excavations were recorded
+stratigraphically; profiles were drawn and photographed and
+sediments were sampled for microarchaeological analyses including mineralogy, phosphate and phytolith concentrations,
+and micromorphology. Bulk samples (ca. 10 g each) were
+collected along sedimentary profiles, while undisturbed blocks
+for micromorphological analysis were collected at various localities along the contact between the house floor and the infill
+sediments.
+In Kranionas, one trench was opened in each locality.
+The trenches were excavated to a depth of about 10 cm
+below the assumed floor levels, which were estimated
+based on the presence of roof tiles and changes in the
+sediment properties. In locality A (abandoned barn), the
+trench cut through the barn’s wall, starting about 1 m
+outside the structure and ending about 1 m within the
+structure (Fig. 8). At localities B and C, the trenches
+were dug from the center of each structure and ended at
+the wall faces (Figs. 10 and 11). This trenching strategy
+thus enabled observations and sampling both next to walls and
+along room spaces. Macroscopic remains were recorded
+stratigraphically, profiles were drawn and photographed, and
+sediments were sampled vertically along sedimentary profiles in a similar manner to that described above for the
+Gvulot mud house.
+Laboratory techniques
+Mineralogy using Fourier transform infrared spectroscopy
+Bulk samples were analyzed using Fourier transform infrared (FTIR) spectroscopy in order to identify organic and
+mineral components and evaluate heating temperature of
+
+79
+
+clay minerals. FTIR spectra were obtained using KBr pellets
+at 4 cm−1 resolution with a Nicolet 380 Spectrometer and
+interpreted using an internal library of infrared spectra of
+archaeological materials (Weiner 2010).
+Two contexts in Kranionas experienced conflagration
+(localities B and C). The infrared spectrum of clays is
+sensitive to changes with heating (Berna et al. 2007).
+Structural water is usually lost at temperatures lower
+than 500 °C, while other structural changes to the
+alumino-silicate components occur at higher temperatures. As different types of clay are characterized by
+different structural reactions to different heating temperatures, we heated clay found in the vicinity of Kranionas to
+different temperatures. Pure clay was extracted from soils
+sampled in the vicinity of Kranionas following the method
+of Berna et al. (2007). The purified clay was characterized
+using infrared spectroscopy, and then weighed portions were
+heated in a furnace oven (Adam Mandel Ltd.©) for 4 h at 400,
+450, 500, 600, and 900 °C. The dominant clay type in the
+soils in the vicinity of Kranionas is kaolinite
+(Al2Si2O5(OH)4); thus, this mineral is a major component in the Kranionas mud bricks. Its reaction to heating
+is presented in Fig. 5 showing that structural changes
+first occur at 450 °C with a disappearance of the absorption bands at 3,620, 3,697, and 1009 cm−1. These
+changes are followed by the shifting of the 535 cm−1
+absorption band to 555 cm−1, at 500 °C, whereas exposure to temperatures higher than 600 °C results in a
+growing shift of the main silicate absorption band from
+1,032 cm−1 towards higher wavenumbers (see also
+Shoval et al. 2011). This experimental calibration makes
+it possible to reconstruct the temperatures to which clay
+minerals were exposed during the conflagration event
+that led to the final abandonment of localities B and
+C in Kranionas.
+Phosphate concentration analysis
+Phosphate concentrations were determined from representative bulk samples. The method is based on the procedure of Rypkema et al. (2007) with the following modifications: The initial weight of the samples was downscaled to 50 mg of sediment, and 1 M HCl was added at
+the beginning of the procedure in order to dissolve calcite
+in the studied sediments. Examination of two representative samples using FTIR spectroscopy showed no remains
+of carbonates after adding the acid. The total phosphate
+extracted in this method from the samples was measured
+using a UV spectrophotometer (Ocean Optics USB650
+UV/VIS spectrometer) at 600 nm wavelength. The instrumental limit of detection is about 0.02 % PO4. At concentrations higher than 0.05 % PO4, the instrumental
+precision is about 11 %.
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+557
+
+1039
+
+553
+534
+
+1032
+1011
+
+400°C
+
+3435
+3438
+
+a
+4000
+
+3500
+
+915
+
+536
+
+3699
+3622
+
+b
+
+3697
+3620
+
+915
+
+536
+
+450°C
+
+1030
+1009
+
+c
+
+1032
+
+500°C
+
+1032
+
+600°C
+
+3431
+
+d
+
+3435
+
+e
+
+900°C
+
+3437
+
+3442
+
+f
+
+561
+
+1084
+
+80
+
+25°C
+3000
+
+1500
+
+1000
+
+500
+
+Wavenumbers (cm-1)
+
+wooden material identified during the excavation at Gvulot
+was cleaned from attached sediment by washing and sonicating in distilled water several times for 20 min each. The wood
+phytoliths were extracted by ashing (500 °C for 4 h) followed
+by dissolution in 6 N HCl, washing, drying, and weighing
+(Albert et al. 1999). The phytolith concentration in the wood is
+presented as per 1 g of ash (to account for the concentration
+expected in an archaeological context after the degradation of
+the wood organic matter where carbonates are preserved, as in
+Gvulot).
+Phytolith concentrations at Gvulot were generally low
+(see results below); therefore, morphotype analysis was
+carried out only in sediment samples with phytolith concentrations higher than 30,000 phytoliths per 1 g sediment and
+in the wood sample. In most samples, more than 200
+phytoliths with consistent morphologies (and no less than
+125 such phytoliths) were identified in order to obtain a
+20 % error (Albert et al. 1999; Albert and Weiner 2001).
+Phytolith extraction from Kranionas sediments followed
+the procedure of Tsartsidou et al. (2008) which is suited to
+organic-rich sediments from ethnoarchaeological contexts.
+The phytoliths were analyzed under a petrographic microscope at ×400 magnification by counting at least 200
+phytoliths of consistent morphology in each slide when possible. Samples in which <50 phytoliths were counted on a
+slide were not included in the qualitative analysis. The
+phytoliths were classified according to the International
+Code for Phytolith Nomenclature (Madella et al. 2005).
+Cereals were identified only from multicellular phytoliths
+(silica skeletons) that originate from inflorescences.
+Micromorphology
+
+Fig. 5 FTIR spectra of the clay fraction (kaolinite) extracted from the soil
+sampled in the vicinity of Kranionas, showing spectral changes with
+heating at various temperatures for 4 h. These spectral changes are used
+as “fingerprints” for reconstruction of heating temperatures (see text). a
+Unheated. b Heated to 400 °C showing no structural changes. c Heated to
+450 °C showing disappearance of the absorption bands at 3,697 and
+3,620 cm−1 (i.e., loss of structural water), the Si–O–Si absorption at
+1,009 cm−1 and the Al–O–H absorption at 915 cm−1. d Heated to 500 °C
+showing shifting of the 535 cm−1 Si–O–Al absorption to 555 cm−1. e
+Heated to 600 °C showing shift of the main silicate Si–O–Si absorption
+from 1,032 to 1,039 cm−1. f Heated to 900 °C showing further shift of the
+main silicate absorption band to 1,084 cm−1 and broadening of this absorbance band, which indicate a change in lattice parameters of the clay
+crystalline structure (Berna et al. 2007). The Y axis gives the relative
+absorbance intensity
+
+Undisturbed monolithic sediment blocks were sampled in
+both Gvulot and Kranionas using jackets made of Plaster of
+Paris. The blocks were dried in an oven at 50 °C for 3 days and
+then impregnated using a 9:1 mixture of polyester resin with
+acetone and 1 % v/v MEKP. Precut sample slices, measuring
+2×3 inches, were sent to Quality Thin Sections, Tucson, AZ,
+USA, where 30-μm thick thin sections were prepared. The
+thin sections were studied using polarizing light microscopes
+(Nikon Labophot2-LOP, Nikon Eclipse 50iPOL and Zeiss
+Axioscope Pol 40) at various magnifications (×12.5, 20, 40,
+50, 100, and 400). Micromorphological descriptions follow
+the terminology of Bullock et al. (1985) and Stoops (2003).
+
+Phytolith analyses
+
+Results and discussion
+
+Phytoliths from the Gvulot mud house were extracted from
+representative bulk sediment samples following the procedure
+of Katz et al. (2010) and counted using a petrographic microscope (Nikon Eclipse 50iPOL) at ×200 magnification. A
+
+Gvulot mud house
+Friesem et al. (2011) reconstructed two large walled spaces
+based on their 2009 excavation season. A larger space
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+(about 9×8.5 m) was defined in the east, which was
+interpreted as a courtyard, and a smaller space (about 5×
+8.5 m) was identified in the west—preserving higher mud
+brick walls than in the east—which was interpreted as the
+roofed living quarters (Fig. 4b). In the 2011 season, a
+division of the roofed area, probably into men’s and
+women’s quarters, was found constructed of a small mud
+brick wall. This observation fits the expected house structure based on Gazit (1986). Despite this find, we treat the
+roofed area as one unit, as there was no direct ethnographic
+information available in the study of this house.
+Apart from a relatively dense scatter of broken Gaza
+Ware sherds outside the house, artifacts related to the original occupation of the house found on the house floor were
+very scarce (Fig. 6a). This relatively “empty” floor indicates
+that abandonment was planned and that the house inhabitants took most of their possessions (Brooks 1993; Joyce
+and Johannessen 1993; Schiffer 1972, 1976, 1985, 1987;
+Stevenson 1982). Yellow sandy sediment covers most of the
+house floor, indicating accumulation of wind-blown material immediately upon house abandonment. This thin yellow
+layer is overlain by brown and gray sediments, which are the
+result of slurry flows of decaying mud bricks from the house
+walls (interpretation of sediment origins is based on Friesem
+et al. 2011). These layers of sediment are associated with
+
+Fig. 6 Macroscopic artifacts found in the Gvulot mud house excavation. a Metal artifacts characteristic of early twentieth century Bedouin
+material culture exposed directly on the house floor related to its
+original occupation. Scale bar=20 cm. b Metal barrels exposed in the
+infill sediment related to army activity in the abandoned house during
+the 1950s and 1960s. Width of the trench=1 m
+
+81
+
+artifacts dated to the 1950s and 1960s left by Israeli soldiers.
+The latter artifacts are mostly large, including metal barrels
+and asbestos sheets, which are concentrated in the northern
+part of the house’s roofed area (Fig. 6b).
+Results of the microscopic analyses are summarized in
+Table 1. One locality in the excavated area, close to the
+southern wall in the roofed area, included the remains of
+wooden beams interpreted as parts of the house’s original
+roof. These wood remains, which were exposed about 3 cm
+above the house’s floor, are associated with yellow windblown sediment, indicating that the roof collapsed some
+time after the house was abandoned (Fig. 7a). The wooden
+remains, identified as Abies alba, a European conifer (N.
+Liphschitz: personal communication), were covered by a
+thick accumulation of mud bricks, interpreted as the inwards
+collapse remains of the houses’s southern wall, which were
+further covered by brown and gray mud brick decay material and wind-blown sand (Fig. 7b). A coin issued in 1952
+and a plastic bag stamped with the date of 1968 were found
+in the sediments above this collapse, i.e., the collapse predates the 1960s.
+Phosphate analysis in the vicinity of the roof remains
+showed that, while the wood itself and sediments associated
+with it have concentrations of about 0.2 % phosphate, sediments below or above the wood remains are deficient of
+phosphate (i.e., below the instrumental detection limit,
+which is 0.02 % phosphate; Fig. 7a). These results indicate
+that decayed roofing materials may leave clear chemical
+signatures. The sediment between the roof beams, originating from a mixture of degraded wood and infill sediment, is
+practically devoid of phytoliths, while the wood and sediments below and above it include very small amounts of
+phytoliths (lower than 30,000 phytoliths per 1 g of sediment) (Fig. 7a). Phytolith morphotype analysis shows that
+while the wood remains included only dicotyledonous
+wood/bark phytoliths (as expected), sediments below and
+above the wood remains were composed of a mixture of
+monocotyledonous and dicotyledonous phytoliths. These results indicate that, with such low phytolith concentrations in
+wooden materials (see also Albert 2000; Tsartsidou et al.
+2008), the phytolith signature of wooden roof beams would
+be very difficult to identify archaeologically and that the wood
+phytoliths may readily be mixed with other types of phytoliths
+given bioturbation activity in the sediments. Indications for
+other types of vegetation composing the roof were not found.
+Micromorphological analysis confirms the macroscopic
+interpretation in the field, i.e., the placement of the wooden
+beams on wind-blown sediment above the house floor and
+their being covered by mud brick material. The organic
+components in the sampled wood beams are in a process
+of degradation (Fig. 7c).
+We note that phytolith analyses from various localities on
+the house floor found only one “hot spot”—an accumulation
+
+82
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+tools and pottery sherds (Fig. 6a). A few localities with
+elevated phosphate readings (about 0.9 % PO4) were identified along the house infill sediments, all of them associated
+with the Israeli soldiers’ activities. No indications for livestock keeping in the house courtyard have been identified
+despite rigorous mineralogical, phytolith, phosphate, and
+micromorphological analyses. Livestock was not kept in
+the Gvulot mud house courtyard.
+In conclusion, activity remains in the abandoned Gvulot
+mud house were very few. Roof remains were identified only
+in a small area close to the southern wall of the roofed area,
+overlain by a thick accumulation of wall collapse. We assume
+that roof remains preserved specifically in this locality due to
+the fast burial of the roof material under wall collapse. This
+indicates that chances for preservation of organic roof remains
+may be possible if shortly after roof collapse walls also collapse and seal the burial environment, as much as possible,
+from oxygen. Phosphate and phytolith analyses indicate that
+when wooden remains leave such a weak signal, it would be
+practically impossible to identify roof remains using these
+methods in an abandonment context.
+Kranionas
+Results from all localities are summarized in Table 1.
+Below, we present the results in detail.
+Locality A
+
+Fig. 7 The roof context in Gvulot mud house. a The preserved wooden
+beam (middle of photograph) sandwiched between infill sediments that
+accumulated on the white floor surface (below beam) and mud brick
+collapse (above beam). Phytolith concentrations (green values; millions
+per 1 g sediment) and phosphate concentrations (yellow values; weight %)
+show that the wooden roof remains are characterized by slightly elevated
+phosphate concentrations relative to the surrounding sediments. b A wider
+view showing that the roof wooden beam remains (1) are overlain by
+massive wall collapse (2) preserving intact bricks in its lower part, which is
+overlain by alternating wind-blown and mud brick decay sediments (3). c
+Microphotograph of the roof wooden beam in thin section showing the
+cellular structure of the wood tissue associated with degradation features
+such as microfauna excrement (1) and humification (blackening) of parenchyma cells (2). Plane polarized light
+
+of cereal phytoliths (350,000–650,000 phytoliths/g sediment dominated by echinate long cells and psilate parallelepiped elongate cells) in association with Bedouin metal
+
+The original barn measured about 2.5×5m. In May 2010,
+only two standing walls were present, with the eastern wall
+preserved to a height of about 2 m and the western wall
+preserved to about 1 m above the present day surface
+(Fig. 8a). Both wall stumps are located at the center of small
+mounds composed of their own decayed mud brick material.
+A trench of about 2.5×0.6 m was excavated traversing the
+mud brick western wall from outside into the barn’s interior
+(Fig. 8b), to a depth of about 1.3 m below surface. The
+trench cut through four courses of mud bricks, leaving the
+stone foundation intact and deeper below the barn’s floor.
+The barn’s floor was assumed to be located below a layer of
+roof tiles that was found only in the eastern part of the trench
+where the barn was located. A few centimeters below the
+tiles, the natural dark red soil substrate was found.
+FTIR analysis of sediments and mud bricks from locality
+A reveals that all sediments have similar mineralogical
+compositions, including mainly clay (mostly kaolinite) and
+quartz (Fig. 9). Micromorphological analysis made it possible to identify anthropogenic activity remains on both sides
+of the wall, at different depths. We were informed that,
+outside the barn (on the west), a vegetable home garden
+used to be present. On the east, inside the barn, the activity
+remains included microcharcoal fragments and organic
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+83
+
+Fig. 8 The abandoned barn in locality A, Kranionas. a View of the
+locality showing that only partial walls are left standing. The mud wall
+on the left is about 5 m long. b The trench excavated in locality A. Note
+the stone foundation (middle of photograph) overlain by three to four
+courses of mud bricks (seen in the section). The barn is to the left of
+this wall. Roof tiles (marked in section) were identified only inside the
+barn. The stratigraphy within the barn, from bottom upwards, consists
+
+of a lower red soil covered by roof tiles, which are overlain by an
+accumulation of mud brick degradation material. Phytolith concentrations (green values; millions per 1 g sediment) and phosphate concentrations (yellow values; weight %), show very low concentrations in
+both parameters in the degraded brick material whereas close to the
+barn floor (deduced from the presence of roof tiles) the values are
+significantly higher. Scale bar=20 cm
+
+matter. The activity remains inside the barn were associated
+with a dark brown bioturbated silty soil layer, which was
+overlain by roof tiles. Thus, it appears that the roof remains
+lie on the barn’s earth floor. Phytolith and phosphate concentrations in the dark brown soil layer are higher (0.1–0.6
+million phytoliths per 1 g sediment and 0.19–0.16 % phosphate) than in sediments associated with the roof tiles (0.003–
+0.006 million phytoliths per 1 g sediment and <0.02 % phosphate) as well as in mud brick degradation sediments above
+the roof tile layer (0.002–0.01 million phytoliths per 1 g
+sediment and <0.02 % phosphate) (Fig. 8b). Phytolith concentrations in mud bricks are low (0.1 million phytoliths per
+1 g sediment and <0.02 % phosphate).
+The main difference in phytolith morphotypes between the dark brown soil at the bottom of the section
+and other sediments that accumulated within the abandoned barn is a slightly higher percentage of grass
+inflorescence phytoliths in the dark brown soil relative
+to the sediments above (Fig. 10a). The percentage of
+leaf/stem phytoliths is similar in all sediment samples.
+Cereal phytoliths in this locality are very few, identified
+sporadically only in sediments above the dark brown
+
+soil (Fig. 10b). There is no correspondence between
+high phytolith concentrations and presence of cereals
+in the dark brown soil, identified as the barn’s floor.
+It is unclear whether the higher phytolith and phosphate
+concentrations in the dark brown soil represent activity
+(vegetal storage) remains, vegetal matter from the collapsed roof or both.
+Comparing this abandonment context to that at Gvulot mud
+house, we observe a similar pattern in which the roof collapsed either directly on the floor or on postabandonment fill
+slightly above it, and only after its collapse the surrounding
+mud brick walls began to degrade. The microstratigraphic
+sequence is thus repetitive—floor, possible thin layer of
+postabandonment sediment, roof remains, and degraded mud
+brick material. In both abandonment contexts (e.g., Gvulot
+and locality A in Kranionas), we observed very low concentrations of phosphate and phytoliths in the floor deposits, but
+yet higher than in fill deposits. We note that mud bricks from
+Gvulot and Kranionas do not contain significant amounts of
+phytoliths despite being tempered with vegetal matter. This
+reflects the much higher volume of mineral matter relative to
+vegetal temper in the bricks.
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+474
+534
+
+1078
+1038
+
+3416
+
+1080
+1034
+
+84
+
+534
+532
+
+1032
+1009
+
+3444
+
+1032
+1009
+915
+
+471
+
+1078
+
+3437
+
+3697
+3620
+
+535
+
+469
+
+1078
+
+d
+
+3695
+3620
+
+e
+
+469
+
+915
+
+1082
+1032
+
+3444
+
+469
+
+1082
+1033
+1009
+
+3451
+
+f
+3697
+3620
+
+536
+
+473
+
+g
+
+534
+915
+
+3450
+
+b
+3697
+3620
+
+470
+
+1033
+1011
+915
+
+1082
+
+3435
+
+3697
+3620
+
+534
+
+c
+
+a
+3500
+
+3000
+
+1500
+
+1000
+
+500
+
+Wavenumbers (cm-1)
+
+Fig. 9 Representative FTIR spectra of sediments from Kranionas. a
+The local red soil in the vicinity of the village showing it is composed
+mainly of kaolinite and quartz with their main absorption bands at
+1,032 and 1,082 cm−1, respectively. b Mud brick from the abandoned
+barn in locality A showing the same composition as the local soil. c
+Sediment below the roof tiles in locality A showing similarity to the
+local soil spectrum. d Mud brick from the wall surface at locality B
+showing minor structural changes in the kaolinite correlating to exposure to about 400–450 °C (cf. Fig. 5b and c; note reduction in absorbance for the bands at 3,965, 3,620, 1,009, 915, and 532 cm−1). e Gray
+sediment from the floor of locality B showing that heating at the floor
+level did not exceed 400 °C. f Mud brick from the wall surface at
+locality C, showing structural changes of the kaolinite correlating to
+exposure to about 500–600 °C (cf. Fig. 5d–e). g Black sediment on the
+floor of locality C showing structural changes of the kaolinite correlating to exposure to about 450 °C (cf., Fig. 5c)
+
+Locality B
+A long (about 12 m) mud brick wall is preserved in the
+northern part of this locality, with two shorter walls to its
+east and west (Fig. 11a). The walls preserve to a height of
+
+about 2 m. Mud brick degradation by rain is apparent in the
+upper part of the walls, forming sharp triangular edges of
+mud material without clear brick structure. The middle and
+bottom parts of the walls preserve clear brick contacts
+(Fig. 11a). The preserved bricks are covered by red and
+black hard crusts, possibly as a result of exposure to fire.
+A trench of 2×0.5 m was excavated from the center of the
+structure to the northern wall to a depth of about 40 cm from
+surface, some 20 cm below the local natural red soil on
+which the structure was built (Fig. 11b). Above the buried
+soil surface, a mixed layer of gray and black sediments with
+visible vegetal matter and roof tiles was exposed.
+Occasional sintered glassy material fragments were encountered during the excavation. This thin layer (about 5 cm) of
+activity remains is covered by topsoil including dense
+masses of grass roots from present vegetation. Closer to
+the wall, the activity remains are covered by mud brick
+material (Fig. 11b).
+FTIR analyses of sediments and bricks from locality B
+(Fig. 9) show that the mineralogical composition is dominated by clay and quartz. Specific changes in the infrared
+spectrum of clays enable the identification of alteration by
+heat. Altered clay has been identified in this locality in the
+outer crusts of mud bricks and in the gray and black infill
+sediments. The degree of change correlates to temperatures
+around 400–450 °C (Fig. 5). The local red soil shows no
+signs of clay alteration.
+Micromorphological analysis from locality B shows that
+the red local soil is a Bt horizon (based primarily on the
+presence of in situ formation of clay coatings; Fig. 11c).
+Gradual compaction towards the uppermost part of the soil
+is observed. The most compacted zone is the topmost 1 cm,
+including a few subhorizontal planar voids. The topmost
+1 mm is a thin green-yellow layer that includes the same
+mineral coarse grains as the local soil, but is depleted in clay
+and iron (Fig. 11c). The planar voids and vughs below the
+iron-depleted layer include iron/manganese oxyhydroxide
+hypocoatings, apparently formed by deposition of the
+leached-out iron from the depleted layer. The platy structure,
+indicative of trampling in this case (e.g., Macphail et al. 2004),
+developed synchronically with hydromorphic conditions that
+promoted leaching of iron from the topmost part of the soil.
+Above the iron-depleted part of the compacted soil, occasional
+thin platy fragments of lime plaster (Fig. 11d) are found. The
+lime plaster formed following hydration and recarbonation of
+the dispersed quicklime that was spread on the enclosure floor.
+Above and between the lime plaster fragments, a layer of
+microlaminated animal dung, characteristic of stabling, is
+found (Fig. 11c topmost part). The indicators for dung in this
+layer include the microlaminated organic matter and
+phytoliths, and presence of dung spherulites and phosphate
+nodules (c.f., Shahack-Gross 2011). Above the compressed
+(trampled) dung remains, a layer containing charred dung
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+85
+
+Fig. 10 Phytolith morphotypes at the various localities in
+Kranionas. Control natural soil samples outside the village, Mb
+A/B mud bricks from the village, MDS mud brick degradation
+sediment, TL tile layer, DBS dark brown soil, G&B gray and
+black layer, RS red soil, GL gray layer, BL black layer. a Percentages of grass leaf/stem and inflorescence phytoliths. Note the
+
+significant higher values of inflorescence phytoliths in the gray
+layer in Locality C. b Percentages of cereal (wheat, barley, and
+rye) phytoliths based on multicell abundances. Note the higher
+values of cereal phytoliths in the gray and black layers in locality
+C, also present in the soil material just below the floor surface
+indicating cereals have been trampled into the floor substrate
+
+mixed with burnt plants and degraded mud brick is observed
+(Fig. 11e). Macroscopically, this layer includes roof tiles.
+Overall, the micromorphological data show unequivocal evidence for stabling of animals at this locality. In addition, it
+shows a microstratigraphic sequence that includes from bottom to top: the soil substrate–floor with patches of lime
+plaster–patches of laminated livestock dung–roof material
+including tiles and charred vegetal matter, and infiltrated
+sediment–degraded mud brick sediment. Note that the activity
+remains and roof material may be mixed.
+Phytolith and phosphate analyses show low concentrations of phytoliths and phosphates in the lower red soil (0.01
+million phytoliths per 1g sediment and 0.14 % phosphate)
+and in the mud brick degradation sediment above the tiles
+(0.02 million phytoliths per 1 g sediments and <0.02 %
+phosphate) (Fig. 11b). Phytolith and phosphate concentrations in the gray and black dung layers are significantly
+higher (0.2–3 million phytoliths per 1 g sediment and 0.7–
+2 % phosphate) as expected (Shahack-Gross et al. 2003;
+Tsartsidou et al. 2008) (Fig. 11b). Phytolith morphologies in
+the dung layer are dominated by grass-derived phytoliths.
+
+The relative abundance of grass leaf/stem and inflorescence
+phytoliths is similar in all sediment types in this locality
+(Fig. 10a). Cereal phytoliths of various types (e.g., rye,
+barley, and wheat) are present in low percentages in one
+sample that originates from the root area of modern vegetation at the top part of the section. This sample also contains
+a higher amount of grass inflorescence phytoliths. This
+phytolith assemblage is most probably related to modern
+vegetal material rather than past human activities. The lack
+of cereal phytoliths in the identified dung remains in locality
+B indicates fodder based on free ranging (i.e., wild grasses)
+and cereal hay (Fig. 10b). Overall, the phytolith and phosphate concentration data aid in identifying the location of
+activity remains in locality B but is not useful in determining
+the type of activity.
+Locality C
+Located to the east of locality B (Fig. 12a), the walls of this
+barn preserve to a height of about 3 m. Wall degradation
+patterns are similar to those observed in locality B, but we
+
+86
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+Fig. 11 a View of localities B
+and C, looking north. The length
+of the wall in the background is
+about 12 m. b The trench opened
+in locality B, showing the red
+local soil at the bottom, gray and
+black thin layer of activity
+remains overlain by a layer of
+roof tiles, and mud brick
+degradation material that
+accumulated on top of the tiles
+closer to the wall (on the right).
+Phytolith concentrations (green
+values; millions per 1 g sediment)
+and phosphate concentrations
+(yellow values; weight %) show
+that the thin layer of activity
+remains has slightly elevated
+values in contrast to the lower
+local soil and the upper mud brick
+material infill. Scale bar=20 cm.
+c Micromorphological thin
+section from locality B showing
+microstratigraphic details. The
+lower red sediment is a Bt soil
+horizon on which the stabling
+activity took place. Gradual
+compaction is observed towards
+the floor surface. The topmost
+part of the compacted soil is
+depleted from iron which forms
+coatings on planar voids and
+vughs below the depleted surface.
+In certain localities, this irondepleted layer is overlain by lime
+plaster fragments (d XPL), which
+are overlain by microlaminated
+animal dung remains (c
+uppermost part, and e lower part).
+The latter is overlain by
+bioturbated sediment that
+includes charred vegetal matter
+and mud brick degradation
+sediments (e upper part, PPL)
+
+note that their higher standing compared to other walls
+seems to be due to their relative protection from rain by
+large tree canopies (Figs. 11a and 12a). A trench of 1×
+0.4 m was excavated from the center of the structure
+towards the eastern mud brick wall with a maximum
+depth of 0.9 m near the wall (Fig. 12a). As in locality
+B, the lower part of the section is composed of local red
+soil on which the structure was built. The surface of the
+red soil is overlain by a thin (about 1 cm) black layer,
+and an about 3-cm thick layer of mixed gray powdery
+and black sediments with charred vegetal matter. This
+ashy layer is overlain by an about 25-cm thick layer
+composed mostly of roof tiles mixed with brown sediments (Fig. 12a and b). Some of the tiles include black
+
+patches and/or a glassy appearance. The uppermost part
+of the section is composed of brown sediment, apparently
+the decay products of mud bricks sloping down from the
+wall to the center of the structure, their thickness ranging
+about 10–40 cm.
+FTIR analyses of crusts on bricks along the eastern
+wall show that alteration of clay minerals due to heating
+was different at different heights of the wall, with
+temperatures around 400 °C affecting bricks in the
+lower and upper parts of the wall while bricks from
+the middle part of the wall (about 1.5 m above the
+presumed floor) were exposed to temperatures around
+500–600 °C (Figs. 9f and 12a). Clay minerals associated with the ashy layer below the roof tiles were also
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+87
+
+Fig. 12 The excavated section and the preserved mud wall in locality C.
+a Reconstructed temperatures based on the infrared spectra of clays. Note
+that only the outermost few mm have been affected by heat. Scale bar=
+20 cm. b Close up showing the red local soil at the bottom of the section,
+overlain by a thin (about 1 cm) black layer, and an about 3 cm thick layer
+of gray sediment with charred (black) vegetal matter. These are overlain
+by about 25 cm thick layer of roof tiles mixed with brown sediments,
+which in turn is overlain by mud brick degradation material. Phytolith
+concentrations (green values; millions per 1 g sediment) and phosphate
+concentrations (yellow values; weight %) show that slightly elevated
+values can be found in the gray and black layers in contrast to the lower
+soil and the upper decayed mud brick material. Scale bar=20 cm. c Scan
+
+of a micromorphological thin section showing microstratigraphic details.
+The upper part of the red soil (d lower right) is compressed and contains
+dusty silty clay with trampled-in organic matter. This topmost part of the
+floor is overlain by a black layer of charred plant fibers (d middle and e
+bottom). A gray ashy layer above the black layer includes decayed
+organic matter, dung spherulites and wood ash pseudomorphs (e top).
+This layer also includes a dung coprolite (f) associated with ash. g
+Microphotograph from the gray layer showing a glassy feature (1; note
+the bubbles). h Microphotograph of another part in the gray layer,
+showing calcitic wood ash crystals (1) and clay coatings indicative of
+postdepositional clay infiltration (2). All microphotographs are in plane
+polarized light except for (h), which is in crossed polarized light
+
+exposed to relatively low temperatures (400–500 °C)
+during the conflagration event. The local lower red soil
+and the upper infill mud brick degradation sediment do
+not bear evidence for clay alteration, i.e., they were
+exposed to temperatures lower than 400 °C (Fig. 12a).
+
+Micromorphological analysis of the lower part of the
+section (Fig. 12c, d) shows that the lower red soil is a
+disturbed Bt horizon with iron oxide nodules, clay coatings,
+and impregnated pedofeatures (Stoops 2003) similar to the
+soil in locality B. The uppermost 1 mm of the soil surface is
+
+88
+
+composed of compacted fine grained dusty silty clay and
+organic vegetal matter that was trampled into the barn’s
+floor during activity (Fig. 12d). In this thin activity layer,
+the lower part of the plant remains is preserved in its organic
+form, while their upper part has been charred (Fig. 12d).
+These charred plant remains are overlain by the thin black
+layer that is composed entirely of charred vegetal matter
+(Fig. 12c–e). These features represent the earthen floor of
+the barn with its activity remains. The gray ashy layer above
+includes decayed organic matter, dung spherulites, and
+wood ash pseudomorphs (Fig. 12e). This layer also includes
+a whole ashed dung coprolite (Fig. 12f), blackened grass
+phytoliths with a melted appearance, and silicate glassy
+phases that may be attributed to partial melting of roof tile
+fragments (Fig. 12g, h). All these features indicate exposure
+to very high temperatures. Overall, the micromorphological
+data show a microstratigraphic sequence that includes from
+bottom to top: the soil substrate–floor with trampled-in grass
+fibers–black charred vegetal layer–gray ashed vegetal and
+dung material–roof tiles and infiltrated sediment–degraded
+mud brick sediment. Note that the activity remains and roof
+material may be mixed in the gray ash layer.
+Phytolith and phosphate analyses from locality C show
+similar patterns as in locality B (Fig. 12b), i.e., low amounts
+of phytoliths and phosphates in the lower red soil and the
+upper brown mud brick degradation sediment (0.03-0.2
+million phytoliths per 1 g sediment and <0.02–0.2 % phosphate). The thin black layer in contact with the floor contains low concentrations of phytoliths and moderate concentrations of phosphates (0.04–0.4 million phytoliths per 1 g
+sediment and 0.3–0.7 % phosphate), while the gray ashy
+layer above it contains high concentrations of phytoliths and
+phosphates (1.0–8.5 million phytoliths per 1 g sediment and
+0.6–1.1 % phosphate). Phytolith morphologies in the black
+and gray layers are dominated by grass-derived phytoliths.
+The relative abundance of grass leaf/stem and inflorescence
+phytoliths is similar in all sediment types in this locality,
+except for one sample originating from the gray layer that
+has significantly higher amount of inflorescence phytoliths
+(Fig. 10a). Cereal phytoliths of barley and wheat are present
+in low percentages, except for three samples that originate
+from the gray and black layers (Fig. 10b). As in locality B,
+the phytolith and phosphate concentration data here aids in
+identifying the location of activity remains. Moreover, in
+locality C, phytolith morphological data pinpoints the primary activity of cereal storage.
+Localities B and C are interpreted together as they were
+abandoned following the same conflagration event.
+Although the localities differ in their original function, both
+show similar depositional patterns. Burning intensity and
+locations were reconstructed based on the fingerprinting of
+clay alteration with infrared spectroscopy. The hard crusts
+on bricks are clearly the product of heat alteration. While
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+bricks in the wall in locality B show alteration at relatively
+low temperatures (not higher than 450 °C), bricks along the
+wall in locality C were exposed to similarly low temperatures in the lower and uppermost part of the wall, but higher
+temperatures were recorded in the middle part of the wall
+(around 500–600 °C). We interpret these observation to
+indicate that where large amounts of organic matter were
+stored (i.e., locality C barn) flames reached higher onto wall
+faces, and as there was relatively more fuel in locality C, the
+intensity of fire was stronger as is evident from clay alteration temperature reconstructions, as well as the presence of
+larger amounts of macroscopic glassy materials (sintered
+roof tiles?) in the conflagration debris. The ashy layers
+contain microscopic materials and features that indicate
+exposure to different temperature regimes, e.g., an ashed
+dung pellet alongside partially melted phytoliths and roof
+tiles. We interpret this to be the result of mixing of floor
+material burning in situ with disintegrating roof material
+during the conflagration process. Later infiltration of
+unburnt clay in the form of clay coatings is present in the
+ashy layer as well. FTIR analysis of these portions of the
+deposit contain unheated clay and could be interpreted as
+unaffected by fire.
+We note that while clay alteration was observed on the
+wall bricks, decayed brick material that covers the conflagration remains does not show signs for clay alteration by
+heat. Indeed, we noted that clay alteration was evident only
+as thin (1–2 mm) crusts on brick surfaces; thus, we expect
+that when a burnt wall degrades and small amounts of
+altered clay mix with the larger volume of degraded
+unaltered brick material, the end product is dominated by
+nonaltered clays. We note that the formation of hard crusts
+on the inner face of burnt walls may promote their preservation relative to unburnt walls.
+While infrared analyses of bulk sediments of the floor
+surface and ashy accumulation above it, in both localities,
+show mild alteration of clay (about 400–500 °C), micromorphological analyses enable to disentangle the various
+stages of the process. The disintegration of roof material
+and its settling down on the floor during the conflagration
+probably contributes to sealing of the floor material from
+oxygen and high temperatures, thus promoting carbonization of vegetal matter at the floor level and ashing of the
+same vegetal matter higher up in the accumulation of debris.
+Field observations show that the roof in both localities
+collapsed directly on the floor with its activity remains. We
+note that dung was identified in the barn, and upon further
+conversation with Mr. Lovatsis, we learned that young
+lambs were kept in warm barns in their first weeks of life.
+Phytolith and phosphate concentrations have been found as
+useful tools for identifying layers of activity remains.
+However, for specific identification of the type of activity,
+it is important to use other methods. In locality B, the
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+89
+
+stabling activity could have been identified only through
+micromorphology, while at locality C, the cereal storage
+activity could have been identified only through phytolith
+morphotype analysis.
+
+implies that the use of microstratigraphic techniques is crucial for archaeological studies focusing on activity remains.
+
+Archaeological implications
+
+Criteria and methods for identification of floors were extensively published (e.g., Boivin 2000; Courty et al. 1989;
+Davidson et al. 1992; Goldberg and Macphail 2006;
+Karkanas and Efstratiou 2009; Macphail et al. 2004;
+Matthews et al. 1997; Milek 2012). Once the locations of the
+roof and floor are approximated at an archaeological site, the
+sediments in between can be studied to search for activity
+remains. Our results show that this is not an easy task and that
+a variety of microstratigraphic (geoarchaeological) methods is
+needed to obtain as full information as possible. First, we show
+that due to the formation of a closely associated floor–roof
+complex, microscopic remains regarded primarily as activity
+remains may in fact derive from a mixture between floor and
+roof assemblages. Differentiation between roofing material and
+activity remains is especially complicated in contexts where the
+same vegetal matter is used for both, as for example, it was
+shown by Tsartsidou et al. (2008) that rye serves both for
+thatching roofs and is stored under such roofs to fodder animals, or when vegetal matting was placed on a floor.
+In abandonment contexts, we observed that identification
+of the floor–roof complex is more difficult than in conflagration contexts, despite the use of a multitude of
+microstratigraphic methods. The floor was difficult to identify (unless it was clearly constructed), the layer of activity
+remains could not be easily separated from the roof remains,
+and the activity remains did not bear an unequivocal signature for the type of activity. In the Gvulot mud house, where
+planned abandonment took place, phosphate and phytolith
+concentrations from sediments sampled in about 20 localities directly on the house’s floor were negligible. Thus, we
+could not identify activity remains using a variety of microscopic techniques, except for one small area where cereals
+seem to have been present. In Kranionas, relatively high
+concentrations of phytoliths and phosphates in locality A
+indicate the location of activity remains, but as phytolith
+morphologies are mostly from wild grasses, and phosphate
+concentrations are lower than 0.2 %, this context cannot be
+interpreted as a barn.
+In the conflagration contexts in Kranionas, the stratigraphic sequence was much clearer, but interpretational
+issues arise. In locality B, dung remains have been identified, but these rested directly on lime plaster. In an archaeological context, such an association cannot be easily
+interpreted—either that the plaster and dung are synchronous and the dung represents the original activity or that the
+plaster represents an original surface and the dung accumulated during secondary or postabandonment activity. Indeed,
+
+In abandonment contexts, archaeologists face great challenges in identifying primary activity remains (Ascher
+1968; Cameron and Tomka 1993; Lange and Rydberg
+1972; Schiffer 1972, 1976, 1985, 1987; Stevenson 1982;
+Wood and Johnson 1978; Ziadeh-Seely 1999). In this study,
+we noted that, in all case studies presented here, the activity
+remains are “sandwiched” between the floor and roof of the
+studied mud structure (Figs. 7, 8, 11, and 12). This highlights the importance of identifying not only floors but also
+roofs in the archaeological record. Below, we discuss
+criteria by which roofs may be identified in archaeological
+contexts where building with mud was practiced, based on
+several independent lines of evidence including macroscopic field observations and microscopic analyses. In addition,
+we discuss the implications of roof identification to the
+study of activity remains on floors.
+Identification of roofs in mud brick building contexts
+While identification of floors has been given a lot of attention in archaeology, identification of roofs was neglected.
+Roof material is difficult to identify archaeologically because in most nonmonumental archaeological structures
+predating the Roman period, fired clay tiles are not
+expected. This is most probably not only because vegetal
+roofs are not preserved macroscopically but also because no
+systematic studies have been carried out in order to understand where, in an archaeological sedimentary sequence,
+roof remains should be sought. The outcome is that roofs
+are nonexistent in most excavation reports, unless charred
+beams or an occasional pattern on mud that is provisionally
+interpreted as “reed impressions” have been identified (e.g.,
+Balbo et al. 2012; Stevanovic 1997). Here, we show that
+roof remains, in either abandonment or conflagration contexts, should be sought just above the floors, on milli- to
+centimeter scales. In addition, we show that, in mud brick
+structures, once the roof collapsed, wall degradation is accelerated (e.g., in locality A the wall almost flattened in
+about 10 years after roof collapse). Thus, collapsed roof
+material is sealed by mud brick debris. We suggest that roof
+remains should be sought close to floors, under accumulations of degraded mud brick wall material. Criteria and
+methods for identification of degraded mud brick wall material can be found in Friesem et al. (2011; in preparation).
+The expected close proximity of roof remains to floors
+
+Difficulties and complications in identification of primary
+activity remains
+
+90
+
+the practice of dispersing quicklime on the surface of the
+enclosure of locality B was rather unexpected as lime plastered floors are commonly assumed by archaeologists to indicate special preparation, while in this case, the activity was
+rather mundane. In locality C, dung remains have been identified mixed with large amounts of vegetal matter. Phytolith
+analysis indicated the presence of cereals alongside wild
+grasses. In an archaeological context, this case would too have
+two optional interpretations—either a barn and enclosure at
+the same place or an enclosure only as livestock may be
+foddered by both wild grasses and cereals. In these two cases,
+based on the ethnographic information, we know that the first
+interpretations presented for each locality are the correct ones.
+However, were these finds identified in an archaeological
+contexts, we would not be able to determine without a doubt
+which of the two interpretations is correct. We do note though
+that the majority of indicators in each locality support their
+original use, while maintenance and/or inconsistent activities
+add minor “noise” in the form of small fragments of lime
+plaster in locality B and a few dung pellets in locality C. Our
+results show that there is no one method that can be applied to
+all types of contexts in order to elucidate types of activities. In
+locality B, the stabling activity is identified only through
+micromorphology, while in locality C, cereal storage is identified solely on the basis of phytolith morphotype analysis.
+The identification of iron leaching in relation to hydromorphic conditions in locality B seem to be related to the
+function of the floor for animal stabling because such conditions have not been identified in the other two floor
+contexts. Macphail et al. (2004) noted that liquid animal
+waste in stables created anaerobic and acidic conditions that
+promoted phosphatic crust formation and leaching of dung
+spherulites. Milek (2012) noted localized formation of ironbearing authigenic minerals (siderite and vivianite) under
+reducing conditions in the floor deposits in a sheephouse. It
+is possible that iron mobilization and reprecipitation could
+be used as an indicator for subsurface conditions within
+animal pens.
+Lastly, in both abandonment and conflagration contexts,
+we note that activity remains deposited on the floors result,
+after degradation, in very thin layers (milli- to centimeter
+thick) irrespective of the length of occupation. This is the
+result of human maintenance practices. The cleaning practice
+of the animal enclosure in locality B (two to three times per
+year) and the barn (once a year) result in little deposition of
+activity remains over 50 years of use (see also Milek 2012).
+Roofs and formation processes in domestic contexts
+The results of this study show that roofs have a major role in
+the degradation process of mud brick structures and, at the
+same time, in the preservation of activity remains on living
+floors. As long as the roof is intact, primary as well as
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+secondary activities may take place on the floor of any given
+structure. Rapid collapse of roofs followed by rapid degradation of mud brick walls are key processes for preservation
+of original activity signatures, macroscopic as well as microscopic. This is illustrated in the conflagration contexts
+studied here. Theoretically, rapid burial due to human demolition will also result in preservation of floor deposits.
+Formation processes are more complicated where a lag in
+time exists between actual abandonment and roof collapse.
+Such lags in time make it possible for secondary activities to
+take place over the original activity signatures and for natural materials, such as dust and vegetation, to accumulate
+and mix with the primary and/or secondary use remains.
+This sequence of events is illustrated in the two abandonment contexts studied here. Thus, original activity remains
+are better preserved in contexts of fast roof collapse such as
+catastrophic events of conflagration, earthquakes, volcanic
+eruptions, and flash floods.
+As roofs protect mud walls from degradation, roof collapse is normally followed by accelerated mud wall degradation. In Gvulot, immediately after the roof collapse, there
+is evidence for major wall collapse (Fig. 7). We note that the
+rate of mud wall decay would be different in different
+climatic areas. Due to the aridity of the Gvulot area, wall
+stumps survived for 60 years to a height of about 2 m in
+certain places. For comparison, mud brick degradation material reached 1 m height over the floor in Gvulot in a matter
+of 60 years postabandonment (with about 50 % of it originating from wind-blown sand), while in locality A in
+Kranionas, it reached the same thickness in about 10 years
+without any contribution of wind-blown sediments.
+The faster the degradation of mud walls, the better
+chances for activity remains to be preserved in situ. This
+may be the reason why geoarchaeological signatures for
+activity remains were clearer in Kranionas locality A relative to Gvulot. Overall, better chances of preservation of
+activity remains are expected in fast roof collapse events at
+temperate climatic regions, i.e., fast roof collapse seals
+activity remains in situ, and fast wall degradation rapidly
+disconnects activity remains from oxygen and thus from
+complete degradation.
+
+Conclusions
+Microstratigraphy is invaluable for identifying the location
+of floors, roofs, and activity remains that are sandwiched
+between them. Ethnoarchaeological field work in abandoned mud brick settlements, coupled with microscopic
+analytical methods, sheds light on the complexity of these
+formation processes and suggests ways for better understanding and interpreting archaeological contexts. We show
+that roofs collapse directly on floors and thus seal activity
+
+Archaeol Anthropol Sci (2014) 6:73–92
+
+remains (primary and/or secondary) deposited on and within
+the floors. The manner by which a roof collapses, whether
+immediately or long after structure abandonment, determines how well activity remains will be preserved. This,
+together with floor maintenance practices, greatly affects the
+ability to identify original activities in archaeological
+contexts.
+We have shown that, once roofs collapse, mud walls are not
+protected from the elements, and therefore, their degradation
+is enhanced, resulting in accumulation of mud brick degradation material on top of the collapsed roof. This indicates that
+an archaeological stratum should thus be identified based on a
+stratigraphic sequence as follows: floor–activity remains–
+roof–sediment from degraded mud walls. This stratigraphic
+sequence was observed in both abandonment and conflagration contexts. We note that the direct contact between vegetal
+floor activity remains and vegetal roof remains may be obscured even microscopically, resulting in analysis of mixed
+floor–roof vegetal assemblages.
+Overall, this research emphasizes the importance of roof
+identification for reconstruction of human activities and for
+understanding site formation processes. Such identification
+can only be achieved by careful microarchaeological study
+of archaeological sedimentary sequences.
+Acknowledgments We are grateful to Mr. and Mrs. Lovatsis, who let
+us into their former and present houses with generous hospitality,
+without whom the project in Kranionas could not have been carried
+out. We are also indebted to Dan Gazit without whose guidance the
+excavation in Gvulot mud house could not have been conducted. We
+would like to thank those who helped us in the excavation at Gvulot:
+Itamar Ben Ezra, Efrat Bocher, Dan Cabanes, Maite Cabanes, Shira
+Gur-Arieh, Noa Lavi, and Aren Maeir who contributed the equipment.
+This research was funded by a grant from the Israel Science Foundation, Focal Initiatives in Research in Science and Technology (grant no.
+527/09 to R. Shahack-Gross), and the Kimmel Center for Archaeological Science at the Weizmann Institute. Finally, we thank Steve Weiner
+for his helpful comments and support, and the two anonymous reviewers for their useful suggestions.
+
+References
+Albert RM (2000) Study of ash layers through Phytolith analyses from
+the Middle Paleolithic levels of Kebara and Tabun caves.
+Dissertation, University of Barcelona
+Albert RM, Weiner S (2001) Study of Phytoliths in prehistoric ash layers
+from Kebara and Tabun caves using a quantitative approach. In:
+Meunier JD, Colin F (eds) Phytoliths: applications in earth sciences
+and human history. A.A. Balkema, Lisse, pp 251–266
+Albert RM, Lavi O, Estroff L, Weiner S, Tsatskin A, Ronen A, LevYadun S (1999) Mode of occupation of Tabun Cave, Mt Carmel,
+Israel during the Mousterian Period: a study of the sediments and
+phytoliths. J Archaeol Sci 26:1249–1260
+Ascher R (1968) Time’s arrow and the archaeology of a contemporary
+community. In: Chang KC (ed) Settlement archaeology. National
+Press Books, Palo Alto, pp 43–52
+
+91
+Balbo AL, Iriarte E, Arranz A, Zapata L, Lancelotti C, Madella M,
+Teira L, Jimenez M, Braemer F, Ibanez JJ (2012) Squaring the
+circle: social and environmental implications of Pre-Pottery
+Neolithic building technology at Tell Qarassa (South Syria).
+PLoS One 7:e42109
+Bankoff A, Winter F (1979) A house-burning in Serbia. Archaeology
+32:8–14
+Berna F, Behar A, Shahack-Gross R, Berg J, Boaretto E, Gilboa A,
+Sharon I, Shalev S, Shilstein S, Yahalom-Mack N, Zorn JR,
+Weiner S (2007) Sediments exposed to high temperatures:
+reconstructing pyrotechnological processes in Late Bronze and
+Iron Age strata at Tel Dor (Israel). J Archaeol Sci 34:358–373
+Boivin N (2000) Life rhythms and floor sequences: excavating time in
+rural rajasthan and neolithic Catalhoyuk. World Archaeol 31:367–
+388
+Boivin N (2001) 'Archaeological science as anthropology': time, space
+and materiality in rural India and the ancient past. Dissertation,
+University of Cambridge
+Brooks RL (1993) Household abandonment among sedentary plains
+societies: behavioral sequences and consequences in the interpretation of the archaeological record. In: Cameron CM, Tomka SA (eds)
+Abandonment of settlements and regions: ethnoarchaeological and
+archaeological approaches. Cambridge University Press,
+Cambridge, pp 178–187
+Bullock P, Fedoroff N, Jongerius A, Stoops G, Tursina T (1985)
+Handbook for soil thin section description. Waine Research,
+Wolverhampton
+Cameron CM, Tomka SA (1993) Abandonment of settlements and
+regions: ethnoarchaeological and archaeological approaches.
+Cambridge University Press, Cambridge
+Canaan T (1932–3) The Palestinian Arab house: its architecture and
+folklore. J Palestine Orient Soc 12–13:223–247; 1–83
+Courty MA, Goldberg P, Macphail R (1989) Soils and micromorphology in archaeology. Cambridge University Press, Cambridge
+Dalman G (1928–42) Arbeit und sitte in Palästina. Bertelsmann,
+Gütersloh
+Davidson DA, Carter SP, Quine TA (1992) An evaluation of micromorphology as an aid to archaeological interpretation.
+Geoarchaeology 7:55–65
+Friede HM, Steel RH (1980) Experimental burning of traditional
+Nguni huts. Afr Stud 39:175–181
+Friesem D, Boaretto E, Eliyahu-Behar A, Shahack-Gross R (2011)
+Degradation of mud brick houses in an arid environment: a
+geoarchaeological model. J Archaeol Sci 38:1135–1147
+Gazit D (1986) The Besor region. Ministry of Education and Culture,
+Tel-Aviv
+Gazit D (2000) Settlements processes in the Besor region in the days of
+the sultan Abed Elhamid the 2nd. In: Schwartz J, Amar Z, Ziffer I
+(eds) Jerusalem and the Land of Israel, Arie Kindler volume.
+Ingeborg Rennert Center for Jerusalem Studies and Eretz-Israel
+Museum, Tel-Aviv, pp 183–186
+Gé T, Courty MA, Matthews W, Wattez J (1993) Sedimentary formation processes of occupation surfaces. In: Goldberg P, Nash DT,
+Petraglia MD (eds) Formation processes in archaeological context. Prehistory Press, Madison, pp 149–163
+Goldberg P, Macphail R (2006) Practical and theoretical
+geoarchaeology. Blackwell, Oxford
+Goldberg P, Whitbread I (1993) Micromorphological study of a
+Bedouin tent floor. In: Goldberg P, Nash DT, Petraglia MD
+(eds) Formation processes in archaeological context. Prehistory
+Press, Madison, pp 165–188
+Goodman-Elgar M (2008) The devolution of mudbrick:
+ethnoarchaeology of abandoned earthen dwellings in the
+Bolivian Andes. J Archaeol Sci 35:3057–3071
+Gordon DH (1953) Fire and the sword: the technique of destruction.
+Antiq 27:149–152
+
+92
+Healan DM (2000) What a dump! rapid abandonment as seen from the
+perspective of nonrapid impermanent abandonment at Tula,
+Hidalgo. Mayab 13:103–107
+Joyce AA, Johannessen S (1993) Abandonment and the production of
+archaeological variability at domestic sites. In: Cameron CM,
+Tomka SA (eds) Abandonment of settlements and regions:
+ethnoarchaeological and archaeological approaches. Cambridge
+University Press, Cambridge, pp 138–153
+Karkanas P, Efstratiou N (2009) Floor sequences in neolithic Makri,
+Greece: micromorphology reveals cycles of renovation. Antiq
+83:955–967
+Katz O, Cabanes D, Weiner S, Maeir AM, Boaretto E, Shahack-Gross
+R (2010) Rapid Phytolith extraction for analysis of Phytolith
+concentrations and assemblages during an excavation: an application at Tell es-Safi/Gath, Israel. J Archaeol Sci 37:1557–
+1563
+Lange FW, Rydberg CR (1972) Abandonment and post-abandonment behavior at a rural Central American house-site. Am Antiq 37:419–
+432
+Macphail RI, Cruise GM, Allen MJ, Linderholm J, Reynolds P (2004)
+Archaeological soil and pollen analysis of experimental floor
+deposits; with special reference to Butser ancient farm,
+Hampshire, UK. J Archaeol Sci 31:175–191
+Madella M, Alexandre A, Ball T (2005) International code for
+phytoliths nomenclature 1.0. Annals of Botany 96:253–260
+Mallol C, Marlowe FW, Wood BM, Porter CC (2007) Earth, wind, and
+fire: ethnoarchaeological signals of Hadza fires. J Archaeol Sci
+34:2035–2052
+Matthews W, French CAI, Lawrence T, Cutler DF, Jones MK (1997)
+Microstratigraphic traces of site formation processes and human
+activities. World Archaeol 29:281–308
+Mcintosh RJ (1974) Archaeology and mud wall decay in a WestAfrican village. World Archaeol 6:154–171
+Mcintosh RJ (1977) Excavation of mud structures—experiment from
+West-Africa. World Archaeol 9:185–199
+Milek KB (2012) Floor formation processes and the interpretation
+of site activity areas: an ethnoarchaeological study of turf
+buildings at Thverá, northeast Iceland. J Anthr Archaeol 31:119–
+137
+Namdar D, Zukerman A, Maeir AM, Katz JC, Cabanes D, Trueman C,
+Shahack-Gross R, Weiner S (2011) The 9th century BCE destruction layer at Tell es-Safi/Gath, Israel: integrating macro- and
+microarchaeology. J Archaeol Sci 38:3471–3482
+Rypkema HA, Lee WE, Galaty ML, Haws J (2007) Rapid, in-stride soil
+phosphate measurement in archaeological survey: a new method
+tested in Loudoun County, Virginia. J Archaeol Sci 34:1859–
+1867
+Sapirstein P (2009) How the corinthians manufactured their first roof
+tiles. Hesperia: J Am Sch Class Stud Athens 78:195–229
+Schiffer MB (1972) Archaeological context and systemic context. Am
+Antiq 37:156–165
+Schiffer MB (1976) Behavioral archaeology. Academic, New-York
+Schiffer MB (1985) Is there a "Pompeii Premise" in archaeology? J
+Anthr Res 41:18–41
+Schiffer MB (1987) Formation processes of the archaeological record.
+University of New Mexico Press, Albuquerque
+
+Archaeol Anthropol Sci (2014) 6:73–92
+Shahack-Gross R (2011) Herbivorous livestock dung: formation, taphonomy, methods for identification, and archaeological significance. J Archaeol Sci 38:205–218
+Shahack-Gross R, Marshall F, Weiner S (2003) Geo-ethnoarchaeology
+of pastoral sites: the identification of livestock enclosures in
+abandoned Maasai settlements. J Archaeol Sci 30:439–459
+Shahack-Gross R, Albert RM, Gilboa A, Nagar-Hilman O, Sharon I,
+Weiner S (2005) Geoarchaeology in an urban context: the uses of
+space in a Phoenician monumental building at Tel Dor (Israel). J
+Archaeol Sci 32:1417–1431
+Shahack-Gross R, Gafri M, Finkelstein I (2009) Identifying threshing
+floors in the archaeological record: a test case at Iron Age Tel
+Megiddo, Israel. J Field Archaeol 34:171–184
+Shoval S, Yadin E, Panczer G (2011) Analysis of thermal phases in
+calcareous Iron Age pottery using FT-IR and raman spectroscopy.
+J Therm Anal Calorim 515–525
+Singer A (2007) The soils of Israel. Springer, Berlin
+Stevanovic M (1997) The age of clay: the social dynamics of house
+destruction. J Anthr Archaeol 16:334–395
+Stevenson MG (1982) Toward an understanding of site abandonment
+behavior: evidence from historic mining camps in the southwest
+Yukon. J Anthr Archaeol 1:237–265
+Stoops G (2003) Guidelines for analysis and description of soil and
+regolith thin sections. Science Society of America, Madison
+Terry RE, Fernandez FG, Parnell JJ, Inomata T (2004) The story in the
+floors: chemical signatures of ancient and modern Maya activities
+at Aguateca, Guatemala. J Archaeol Sci 31:1237–1250
+Tsartsidou G, Lev-Yadun S, Efstratiou N, Weiner S (2008)
+Ethnoarchaeological study of Phytolith assemblages from an
+agro-pastoral village in northern Greece (Sarakini): development
+and application of a Phytolith difference index. J Archaeol Sci
+35:600–613
+Twiss KC, Bogaard A, Bogdan D, Carter T, Charles MP, Farid S,
+Russell N, Stevanovic M, Yalman NE, Yeomans L (2008) Arson
+or accident? The burning of a Neolithic house at Çatalhöyük,
+Turkey. J Field Archaeol 33:41–57
+Wasley WW (1957) Highway salvage archaeology by the Arizona state
+museum, 1956–1957. Kiva 23:17–19
+Weiner S (2010) Microarchaeology: beyond the visible archaeological
+record. Cambridge University Press, Cambridge
+Wiencke MH (1989) Change in Early Helladic II. Am J Archaeol
+93:495–509
+Wikander Ö (1990) Archaic roof tiles the first generations. Hesperia: J
+Am Sch Class Stud Athens 59:285–290
+Wilshusen RH (1986) Relationship between abandonment mode and
+ritual use in Pueblo I Anasazi Protokivas. J Field Archaeol
+13:245–254
+Wood WR, Johnson DL (1978) A survey of disturbance processes in
+archaeological site formation. In: Schiffer MB (ed) Advances in
+archaeological method and theory. Academic, New York, pp 315–
+381
+Ziadeh-Seely G (1999) Abandonment and site formation processes: an
+ethnographic and archaeological study. In: Kapitan T (ed)
+Archaeology, history and culture in Palestine and the Near East:
+essays in memory of Albert E. Glock. Scholars Press, Atlanta, pp
+127–150
+
+

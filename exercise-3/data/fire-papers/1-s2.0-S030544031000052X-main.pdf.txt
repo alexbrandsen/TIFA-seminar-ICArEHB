@@ -1,0 +1,1617 @@
+Journal of Archaeological Science 37 (2010) 1785–1797
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Paleosol charcoal: Reconstructing vegetation history in relation to agro-pastoral
+activities since the Neolithic. A case study in the Eastern French Pyrenees
+Marie-Claude Bal a, *, Christine Rendu b, Marie-Pierre Ruas c, Pierre Campmajo d
+a
+
+GRAMP (Grup de Recerca en Arees de Muntanya i Paisatge), Despatx B9/1100, Departament de Geograﬁa, ediﬁci B, Universitat Autonoma de Barcelona, 08193 Bellaterra, Espagne
+FRAMESPA UMR5136, 5 allées Antonio Machado, 31058 Toulouse Cedex 9, France
+c
+UMR 7209 CNRS-MNHN, 55 rue Buffon, 75231 Paris cedex 05, France
+d
+Chercheur associé, TRACES-CRPPM-UMR 5608, 39 Allées Jules Guesde, 31000 Toulouse, France
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 29 September 2009
+Received in revised form
+15 January 2010
+Accepted 28 January 2010
+
+This article uses a method that combines pedoanthracological and pedo-archaeological approaches to
+terraces, complemented with archaeological pastoral data, in order to reconstruct the history of ancient
+agricultural terraces on a slope of the Enveitg Mountain in the French Pyrenees. Four excavations
+revealed two stages of terrace construction that have been linked with vegetation dynamics, which had
+been established by analyses of charcoal from the paleosols and soils of the terraces. Pedo-archaeological
+descriptions of these terrace soils reveal their ancient origins and their long-term use. Their chronology
+was established by radiocarbon dating of single charcoal fragments and charcoal lenses originating in the
+paleosols. Combining radiocarbon dating with pedo-archaeology resulted in a more reliable chronology.
+Moreover, the Bronze Age was found to be a crucial period in the history of land-use. This study also
+highlights the role of ﬁre in the construction of this land-use pattern.
+Ó 2010 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Paleosol
+Charcoal
+Vegetation dynamics
+Agricultural terraces
+Taphonomy
+Pastoralism
+
+1. Introduction
+Soil terracing, present in most of the mountainous regions of the
+world, is one of the most spectacular human modiﬁcations of the
+landscape. The study of ancient agricultural terraces, in association
+with their soils, represents an essential historical source and
+enables a better understanding of the anthropic change of landscape (Sandor, 2006). This study combines pedoanthracological
+analyses and pedo-archaeological descriptions of terrace excavations situated between 1600 and 2000 m altitude in the Eastern
+Pyrenees. The aim is to reconstruct the history of terrace systems in
+relation to the landscape and to land-use changes since the
+Neolithic period.
+As important as it may seem, soil terracing has been little
+studied in Europe in a multi-proxy approach that combines geoarcheological excavations with pedosedimentary and chemical
+analyses of elements from the terrace soil (palaeoenvironment and
+archaeology). In Greece and southern France, Poupet (2000) and
+Harfouche (2007) combined pedology and archaeology to shed
+light on ancient agricultural terrace systems. In Italy, in Vislario,
+Nisbet (1983) has studied agricultural terrace soils using pedo* Corresponding author. Tel.: þ34 935868092; fax: þ34 935812001.
+E-mail address: marieclaude.bal@uab.cat (M.-C. Bal).
+0305-4403/$ – see front matter Ó 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2010.01.035
+
+archaeological descriptions, the micromorphology of paleosols,
+and analyses of phytolith and charcoal. His study showed the
+beneﬁts of this method for understanding the relationship between
+terrace construction and landscape changes over time in a mountain system since the Second Iron Age.
+Interdisciplinary approaches are more common in Latin America. In these studies, pedology allowed them to detect paleosols or
+BT horizons that indicated the ancient origins of agricultural terrace
+systems.
+In the Peruvian Andes, Sandor and Eash (1991, 1995; Sandor,
+2006) have shown the interest of complementing the pedological
+descriptions of terrace soils and paleosols with radiocarbon dates of
+charcoal from these paleosols. This information, placed within the
+surrounding archaeological context, enabled them to reconstruct
+the agricultural history of the Colca Valley. When successive paleosols can be observed (Chicha-Soras Valley), radiocarbon dating of
+charcoal extracted from paleosols provides information about
+phases of use, abandonment and reconstruction of the terraces
+(Kemp et al., 2006) at different cultural periods.
+It is also possible to identify cultivated plant species through
+different methods: 1) palynological analyses carried out on a sedimentary sequence situated close to the terraces (Branch et al.,
+2007); 2) stable carbon isotopes present in organic matter (Webb
+et al., 2004); 3) pollen, phytolith and diatom analyses in the
+
+1786
+
+M.-C. Bal et al. / Journal of Archaeological Science 37 (2010) 1785–1797
+
+terrace soil (Trombold and Israde-Alcantara, 2005). This latter
+study in Quemada, Mexico, also localized the cultivation of
+different agricultural products (Agave, Oppuntia and Zea mays) in
+the upper and lower parts of the entire terrace system.
+The question of the chronology of agricultural systems is a key
+part of these articles, which highlight the difﬁculty in obtaining
+precise dating of the construction and use of terraces. These
+uncertainties are essentially linked to the reworking of soils and
+paleosols before their protection and, therefore, the reworking of
+elements that they contain, i.e. charcoal and pottery. One article in
+particular (Borejsza et al., 2008) focuses on the establishment of
+a chronology of agricultural terrace systems and colluvium deposits
+of La Laguna in Mexico. The chronology of these terraces was
+obtained by describing their pedosedimentary history and by using
+radiocarbon dating and the OSL method (Optically Stimulated
+Luminescence).
+
+Our study in the Pyrenees (Fig. 1) treats: 1) excavations which
+systematically revealed two generations of terraces as evidenced
+by paleosols connected with buried terrace walls, 2) the
+movement of charcoal in these soils and the use of charcoal
+radiocarbon dating to reconstruct chronology, and 3) the relationship between vegetation dynamics, the role of ﬁre, and
+ancient agro-pastoral activities. The results emphasize the
+importance of the Bronze Age period in the anthropic shaping of
+the mountain landscape. Finally, we propose a taphonomical
+model to shed light on the relationship between charcoal and
+paleosol.
+2. Study area
+The study area is located in the Eastern Pyrenees, in the
+Cerdagne region (Fig. 1), which is a vast plateau surrounded by
+
+Fig. 1. Location of Cerdagne and Enveig Mountain.
+
+M.-C. Bal et al. / Journal of Archaeological Science 37 (2010) 1785–1797
+
+1787
+
+After the high altitude plateau of Maura and La Padrilla
+(2300 m), which was leveled out by ﬂuvioglacial erosion, the
+mountain slopes down gently forming a nearly ﬂat zone at an
+altitude of 2100 m called the Pla de l’Orri. There is a peat bog in the
+center which has been the subject of palynological analysis (Galop,
+1998). The soils found there are not highly differentiated, such as
+rankosols and thicker soils such as brunisols. The environment is
+
+mountains at 100 km west of the city of Perpignan. Annual mean
+precipitation is 637 mm.
+The Carlit Mountain range is a granite relief that dominates the
+plateau and reaches 2921 m in altitude. The Enveitg slope forms
+the western part of this mountain range, and is oriented towards
+the south. The Enveitg slope is 2000 ha in size and ranges from
+1200 to 2600 m in altitude (Fig. 2).
+
+2579
+2558
+
+2584
+
+2500
+2581
+
+15
+2400
+
+2300
+
+Cerd2
+
+16
+
+75
+
+La Padrilla
+
+49
+
+Maura
+
+22
+
+2300
+
+42
+
+High mountain
+
+Ras del Cucut
+
+13
+
+12
+
+2360
+
+Co
+
+2200
+
+Intermediary area mountain
+
+100
+2 Cerd8
+
+itg
+llad del M
+es
+
+4
+
+Cerd7
+
+Pla de l'Orri
+Orri
+del
+Roig ?
+
+101
+130
+88
+
+128
+
+100
+
+Charb. 1
+
+Orri de Salit
+
+Cerd3bis, Cerd9, Cerd11, Cerd12
+
+190
+
+85
+
+0
+
+81
+
+7
+
+80
+Orri
+d'en Corbill 82
+79
+
+83
+
+8
+R
+
+Terrasses
+des devèses
+
+1700
+
+Cerd5 Cerd5bis, Cerd6, Cerd13
+
+R
+
+i
+
+. de
+
+ng
+ol
+
+.d
+
+Salit
+
+R
+
+e
+
+na
+Be
+
+Ces Cases
+
+1600
+
+Low mountain
+
+ra
+eB
+.d
+
+1800
+
+Feners
+Brangol’
+
+Bena
+Salit
+
+Plateau
+
+Le
+
+Ca
+
+ro
+
+l
+1500
+
+1400
+
+Latour de Carol
+1300
+
+1
+2
+Enveig
+
+3
+
+Sta Eulalia
+
+4
+5
+6
+
+00
+
+12
+
+7
+8
+9
+
+N
+0
+
+1000 m
+
+10
+11
+
+1. Limit of the territory - 2. Wood recolonization - 3. Pine-wood (Pinus sylvestris/uncinata)
+4. milking corridor - 5. shep detailed - 6. shep no-detailed.
+7. secondary schelter - 8. palynological sampling - 9 pastoral area detailed
+10. terraces and excavations - pedo-anthracological sampling. 11. Charcoal kiln
+
+Fig. 2. Locations of soil charcoal sampling, peat bog, archaeological sites in the Enveig slope.
+
+1788
+
+M.-C. Bal et al. / Journal of Archaeological Science 37 (2010) 1785–1797
+
+covered with grass, with occasional Juniperus communis, Juniperus
+nana, Pinus uncinata and Cytisus purgans.
+Between 2100 and 1900 m, the slope becomes steeper and
+reveals large blocks and boulders of granite lodged in the granite
+sand. On these soils, which are thinner and poorer in organic matter
+(lithosols), the vegetation that has developed is composed of
+P. uncinata, J. communis and J. nana, C. purgans, and Calluna vulgaris.
+At 1900 m, l’Orri d’en Corbill is a small pass with a gentle slope
+where rankosols developed, enriched by sediment from the slope.
+At the bottom of the slope, near the Brangoly stream, between 1500
+and 1700 m, is a zone of large meadows enclosed by drystone walls
+called Devesas del Cavaller. These meadows have been re-colonized
+by C. purgans, J. communis and J. nana, Ilex aquifolium, Rosa canina,
+Salix cf pirenaica, P. uncinata and Pinus sylvestris, and Rhododendron
+ferrugineum. The terraces excavated in this study are located at
+l’Orri d’en Corbill and Devesas de Cavaller.
+
+pastoral indicators and cereal percentages increase again from
+500 cal AD (1450 cal. yr BP). At an altitude of 1900 m, carpological
+analysis revealed the presence of rye seeds in a hut from the Early
+Middle Ages (Ruas, 2003). This evidence and the presence of
+ancient terraces suggest that local agriculture existed during this
+period.
+During the High Middle Ages (1200–1450 cal AD (750–500 cal.
+yr BP)), massive forest clearings changed the landscape, which then
+came to resemble its current state. Forest taxa reached its lowest
+percentage, while archaeological and palynological data show that
+the mountain economy was increasingly specialized in pastoral
+activities.
+
+3. Archaeological context and vegetation history
+
+Pedoanthracology was deﬁned by Thinon (1992) and developed by Carcaillet and Thinon (1996) with the aim of studying
+vegetation dynamics from the Holocene (Thinon, 1992; Talon,
+1997; Carcaillet, 2001a,b) using charcoal originating from mountain soils undisturbed by man (and thus the exclusion of archaeological contexts) (Thinon, 1992). Usually, pedoanthracological
+samples are taken every 5–10 cm, from the bedrock towards the
+surface of the pit, after having made pedological descriptions of
+the varied soil horizons. Any colluvium or bioturbation traces are
+also noted.
+The case of terraces is different, as their soils are greatly
+disturbed. More often than not, terrace construction begins with
+the building of a wall on the substrate, followed by back-ﬁlling of
+the gap between the wall and slope. On the one hand, the disturbance of soils connected with the construction of the terrace also
+results in the disturbance of the charcoal in these soils (Sanborn
+et al., 2006; Kemp et al., 2006). Yet, on the other hand, the
+construction of a wall leads to the accumulation of charcoal
+connected with the various phases of exploitation, abandonment,
+or re-use of the terrace. This mixture of charcoal from multiple
+phases means that a particular methodological approach is
+required. Archeo-pedological descriptions of soils and paleosols
+from the terraces reveal their construction methods as well as longterm changes. These descriptions allow a charcoal sampling
+methodology to be developed and an analysis of the radiocarbon
+dates from charcoal to be done on a case-by-case basis. Examining
+the origins of the charcoal and its preservation in this geoarchaeological context is indispensable for constructing a hypothetical model of the agricultural use of these terraces in relation to
+the changing vegetation dynamics since the Neolithic period.
+The charcoal mass (¼speciﬁc anthracomass, AM) is expressed as
+mg of extracted charcoal per kg of dry soil fraction ﬁner than 5 mm,
+excluding stones.
+
+The terraces analyzed here are located within a pastoral zone in
+which archaeological research has been ongoing for 20 years.
+At ﬁrst, these excavations focused exclusively on pastoral sites at
+high altitude. Surveys have revealed 58 sites. 18 of them (spread
+among 1900, 2100, 2200 and 2350 m in altitude) have been excavated (Fig. 2). They documented 49 levels of occupation which
+range from 5700 cal BC (7650 cal. yr BP) to the present day (Rendu,
+2001, 2003). Three peat bog cores were extracted at altitudes of
+2100, 2200 and 2350 m for sedimentary charcoal and palynological
+studies (Galop, 1998; Vannière et al., 2001). Results were compared
+to the archaeo-anthracological and carpological studies of pastoral
+site layers (Davasse et al., 1997; Ruas, 2003).
+The Neolithic and Chalcolithic sites, dating from 4200 to
+3200 cal BC (6150–5150 cal. yr BP), are located at 2100 m and ca.
+2300 m at the limit of the ancient timberline, and seem to correspond to a bipolar system using mid-altitude forest clearances and
+alpine pastures. Increases in pollinic pastoral indicators (Plantago
+lanceolata, Rumex and Artemisia, Cichorioideae, Chenopodiaceae)
+and ﬁre frequency show that forests were cleared for pastoral landuse (Galop, 1998; Vannière et al., 2001) from ca. 3000 cal BC. This
+ﬁrst expansion of grazing land has since been conﬁrmed in other
+sites in the Pyrenees (Galop, 2006; Miras et al., 2007).
+The Bronze Age (around 2200–800 cal BC; 4150–2750 cal. yr BP)
+at Enveitg is marked by an increase in the ﬁre frequency (Vannière,
+2001) and in pollinic pastoral indicators (Galop, 1998). Deforestation concerned primarily the medium altitude forest, and some of
+the pinewoods at higher altitudes. This anthropogenic impact was
+accompanied by the construction of large structures. For example,
+at 2100 m, site 88 (1800–1200 cal BC; 3750–3150 cal. yr BP) appears
+more likely to have been a summer farm than a simple shepherd’s
+hut. Data obtained from the western Pyrenees (Calastrenc et al.,
+2006; Rendu et al. in press) and in the Alps (Walsh et al., 2005)
+also conﬁrm that the Bronze Age was a signiﬁcant period of
+anthropic construction of mountainous slopes. Previous research
+has only considered this high level of Bronze Age organization from
+a pastoral point of view. However, the data presented in this article
+allows for a more complex understanding of the interactions
+between agrarian and pastoral practices.
+The period 500 cal BC–400 cal AD (2450–2350 cal. yr BP; Iron
+Age and Antiquity) is marked by a continuous decline in pastoral
+indicators, well under way from 900 cal AD (2850 cal. yr BP)
+onwards, and by a long phase of pine re-colonization (Galop, 1998).
+Pastoral sites were rare and agro-pastoral activities appear to have
+relocated to the foothills. Two charcoal kilns found at 2100 m
+altitude, between 100 cal BC and 200 cal AD; 2050–1750 cal. yr BP),
+reveal pinewood exploitation, probably for metallurgy. Pollinic
+
+4. Methods
+4.1. A pedoanthracological approach
+
+4.2. Sampling
+The four pits discussed in this article were chosen from among
+eleven pits that were excavated along an altitudinal transect (Figs. 2
+and 3).
+Seven of these correspond to terrace pits, all of which present
+a paleosol and a buried terrace. Among the seven, three (Cerd5Cerd5bis, Cerd6 and Cerd13) are situated between 1600 and 1700 m
+altitude at Deveses del Cavaller, on the west-facing slope; three
+(Cerd3bis, Cerd11 and Cerd9) were excavated at 1900 m altitude at
+Orri d’en Corbill, on the south-facing slope; two of them were dug
+at 2100 m altitude at Pla de l’Orri (also on the south-facing slope),
+one of which was in an archaeological context (Cerd7) the other on
+pasture ground (Cerd8).
+
+M.-C. Bal et al. / Journal of Archaeological Science 37 (2010) 1785–1797
+
+1789
+
+organo-mineral horizon of this paleosol contains a large quantity
+(mass) of charcoal. Two or three sample levels were deﬁned in the
+paleosol: one level, situated deep in the horizon of decomposition
+and alteration of the granite bedrock (horizon C); and one or two
+levels in the organo-mineral horizon of the paleosol. The terrace
+soil, which had undergone a new pedogenesis since covering the
+paleosol, has also been divided into two to three sample levels. The
+samples were taken from the base towards the surface of the pit in
+order to avoid contamination between levels. Each section was
+described using the pedological referential of AFES (1995).
+4.3. Charcoal extraction and radiocarbon dating
+
+Fig. 3. An example of terrace excavation at 1900 m altitude. (A): Alignments of stones
+of buried terrace; (B): wall of the second stage of terraces.
+
+Another pit was excavated on pasture soil (Cerd2) at 2350 m
+altitude. Lastly, the pit Cerd12 at Orri d’en Corbill is located uphill
+from an ancient enclosure wall; two charcoal kilns were found in
+this pit buried underneath more than 1.50 m of sediment.
+The four pits discussed in this article are the most representative
+of the excavations conducted on terrace soil, namely: Cerd6, Cerd5Cerd5bis, Cerd13 and Cerd3bis.
+The pits (ca. 2  4 m) were excavated by mechanical shovel from
+the front towards the back of the terrace. In two cases (Cerd3bis and
+Cerd13), the pit openings were widened (to 20 m2) to verify
+whether stones found in the proﬁles corresponded to walls. Clear
+alignments of stones were found which are consistent with
+a buried terrace.
+Sample levels were deﬁned according to pedo-archaeological
+descriptions of altitude terraces (Harfouche et al., in press;
+Harfouche and Poupet, 2004). All the pits excavated on the
+terraces show the same proﬁle characterized by a paleosol connected to a buried terrace which lies under the current terrace. The
+
+Charcoal extraction was performed by ﬂotation. This operation
+is carried out using a column of sieves of different mesh sizes (5; 2;
+0.8 and 0.4 mm). A binocular microscope is used for sorting, in
+order to extract the charcoal to be identiﬁed. Charcoal was
+observed under an incident light microscope (100x, 200x, 500x)
+and was identiﬁed in reference to the literature (Jacquiot et al.,
+1973; Schweingruber, 1990) and to a charred wood reference
+collection. Charcoal fragments impossible to identify were ascribed
+to ‘‘n.id.’’ or ‘‘vitriﬁed.’’ ‘‘Vitriﬁed’’ charcoals are those that have
+reﬂective properties like a mirror and have no visible anatomical
+structure (Touﬂan and Talon, 2009). For the moment, the way they
+are produced is unknown.
+Twelve samples from terrace excavations were dated by AMS 14C
+(Table 1). Each date corresponds to one fragment of charcoal. AMS
+14
+C dating was carried out at the VERA laboratory (Austria) and the
+POZNAN laboratory (Poland). The dates were calibrated as BP and
+as AD/BC by the CALIB program (Stuiver and Reimer, 1993) version
+5.0 based on the data set Intcal04 (Reimer et al., 2004), and
+reported as intercept with 2 sigma.
+5. Results
+5.1. Excavation descriptions
+At Deveses del Cavaller, the Cerd6 and Cerd5bis pits are at
+a distance of approximately 10 m from each other. The Cerd13 pit is
+situated in the same agricultural terracing system. The Cerd6 pit
+
+Table 1
+Radiocarbon dated charcoals. Samples were extracted from soil and paleosol terraces. Calibrated dating was computed using the calibration program Calib5.
+Lab.-Nr
+
+Site-terraces
+
+Dated charcoal
+
+Sample level and depth
+
+Age
+(14C yr BP)
+
+Calibrated yr BP
+
+Cal. yr AD/BC (2s)
+
+Poz-17564
+Poz-17560
+
+Cerd13
+Cerd3bis
+
+Pinus sylvestris/uncinata
+Pinus sylvestris/uncinata
+
+1265  30
+2005  30
+
+1167–1283, P ¼ 0,91
+1881–2005, P ¼ 0,97
+
+667 (734) 783 cal AD
+56 (61) 69 cal AD
+
+Vera-2951
+
+Cerd3bis
+
+Pinus sylvestris/uncinata
+
+2745  30
+
+2768–2889, P ¼ 0.95
+
+940 (881) 819 cal BC
+
+Poz-17561
+
+Cerd3bis
+
+Pinus sylvestris/uncinata
+
+3070  30
+
+3215–3362, P ¼ 1
+
+1413 (1346) 1266 cal BC
+
+Poz-9153
+
+Cerd5bis
+
+Abies alba
+
+3575  35
+
+3823–3977, P ¼ 0.91
+
+2028 (1927) 1874 cal BC
+
+Poz-17562
+Vera-2949
+
+Cerd6
+Cerd6
+
+Abies alba
+Abies alba
+
+3585  30
+3590  25
+
+3829–3978, P ¼ 0,99
+3836–3933, P ¼ 0.84
+
+2029 (1938) 1880 cal BC
+1984 (1943) 1887 cal BC
+
+Vera-2948
+
+Cerd3bis
+
+Abies alba
+
+3730  20
+
+4067–4149, P ¼ 0.58
+
+2200 (2133) 2118 cal BC
+
+Vera-3256
+
+Cerd13
+
+Pinus sylvestris/uncinata
+
+4090  40
+
+4512–4711, P ¼ 0.71
+
+2762 (2654) 2563 cal BC
+
+Vera-2694
+
+Cerd5
+
+Abies alba
+
+4120  30
+
+4528–4713, P ¼ 0.72
+
+2764 (2701) 2579 cal BC
+
+Vera-2950
+Vera-3255
+
+Cerd3bis
+Cerd13
+
+Abies alba
+Abies alba
+
+Organo-horizon surface
+Organo-mineral surface,
+Ah1 horizon; 25 cm
+Organo-mineral horizon
+of paleosol 2bAh,
+base of a stone; 60 cm
+Organo-mineral horizon Ah2;
+30 cm
+Organo-mineral horizon of
+paleosol 2bAh; 55 cm
+Horizon S, 65 cm
+Lens on top of the
+organo-mineral horizon
+of paleosol; 85 cm
+Organo-mineral horizon of
+paleosol 2bAh; 58 cm
+Before ancient wall of terrace;
+95 cm; level IV
+Lens on top of stone and on base
+of organo-mineral
+horizon of paleosol; 70 cm
+Organo-mineral horizon Ah2; 30 cm
+Inside wall of the ancient terrace
+
+4135  25
+4185  35
+
+4569–4743, P ¼ 0.70
+4612–4767, P ¼ 0.74
+
+2794 (2729) 2620 cal BC
+2818 (2774) 2663 cal BC
+
+1790
+
+M.-C. Bal et al. / Journal of Archaeological Science 37 (2010) 1785–1797
+
+(Fig. 4, Table 2), 2 m deep, shows two superimposed terraces, the
+ﬁrst one of which is buried and is connected with a 1 m thick
+paleosol (Harfouche et al., in press; Bal, 2006, 2008; Bal et al., 2008).
+The soil of the second terrace that covers the paleosol is developed,
+indicating that it could be ancient. In the upper part of the paleosol,
+a charcoal lens (99.9% of charcoal for a lens) was found that has
+been preserved by a rapid arrival of sediment, which in turn has
+undergone pedogenesis. This second organo-mineral horizon,
+overlying the lens, also corresponds to the buried terrace. Six
+sample levels were delimited within the pit. Level I corresponds to
+the organo-mineral horizons, with Ah1 and Ah2 containing
+a signiﬁcant root system. Level II corresponds to the eluvial horizon
+E and is marked by biological activity featuring the presence of
+Lumbricidae galleries and turricules. Level III is delimited by a redbrown BP horizon with more angular aggregates. Levels IV and V
+were taken from the organo-mineral horizon 2bAh of the paleosol
+which contained large quantities of charcoal. This last level was
+further divided into two sample levels. Level VI corresponds to the
+pedological horizon Sal. A few fragments of the charcoal lens
+identiﬁed as Abies alba found at the surface of the paleosol were
+sampled.
+A ﬁrst test pit, Cerd5, situated at 10 m from Cerd6, also contained a charcoal lens of A. alba dated 4713–4528 cal BP at a depth
+of 70–80 cm.
+This observation led us to open a second pit in the same terrace,
+Cerd5bis (Fig. 5, Table 3). It contains two stages of terraces much
+like those found in Cerd6. The soil retained by the wall of the upper
+terrace covered a paleosol corresponding to a buried terrace. The
+whole of the pit was subject to ﬁve sample levels. The ﬁrst (from 5
+to 20 cm) corresponds to both the surface organo-mineral horizon,
+Ah1, and also to the underlying organo-mineral horizon, Ah2, in
+which a highly developed root system as well as signiﬁcant biological activity were found. The second sample level corresponds to
+the pedological horizon BP. Level III was sampled in the organo-
+
+Table 2
+Field description of the Cerd6 terrace proﬁle.
+Depth/cm
+
+Horizon
+
+Macro morphology
+
+0–15
+
+Ah1
+
+15–30
+
+Ah2
+
+30–60
+
+E
+
+60–80
+
+BP
+
+80–120
+
+2bAh
+
+120–150
+
+Sal
+
+150–200
+
+C
+
+200–base
+
+R
+
+Very dark greyish brown (10YR 3/2);
+sandy loam; few very small stones;
+moderate ﬁne granular; abundant roots;
+clear boundary to
+Greyish brown (10YR 5/2); sandy silt loam;
+few very small stones; moderate ﬁne
+granular; abundant roots and earthworms
+tunnels; abrupt boundary to
+Light greyish (10YR 5/4) horizon; sandy loam;
+clear boundary to
+Red-brown (10YR 4/4) including aggregate;
+few very small stones; abundant roots and
+earthworms tunnels; illuvial horizon enriched
+in clay and ferric oxide; sharp boundary to
+Very dark greyish brown (10YR 3/2); sandy silt
+loam; terrace wall; strong ﬁne granular;
+abundant micro-roots; Abies alba charcoal lens
+on top; sharp boundary to
+Yellowish ochre (10YR 5/8); sandy silt; crumbly
+structure; medium stones; clear boundary to
+Yellow (10YR 7/8); sandy loam; medium and
+large stones; clear boundary to
+Granit substrate
+
+mineral horizon 2bAh of the paleosol, this level being richer
+(244 ppm) in charcoal than other levels in the same pit (Level II:
+11 ppm).
+Level IV corresponds to the structural aluminic horizon (Sal),
+while level V corresponds to the alteration of the bedrock horizons
+annotated C.
+Pit Cerd13 (Fig. 6, Table 4) contains a buried terrace with stone
+blocks of signiﬁcant size underneath the upper terrace. The soil
+which cover the paleosol is differentiated. Four levels were
+delimited over the whole of the structure. The ﬁrst corresponds to
+
+Fig. 4. Cerd6 excavation, anthracomass and identiﬁcation of charcoal (Baise et al., 1995; Munsell, 1994).
+
+M.-C. Bal et al. / Journal of Archaeological Science 37 (2010) 1785–1797
+
+1791
+
+Fig. 5. Cerd5 and Cerd5bis excavations, anthracomass and identiﬁcation of charcoal.
+
+the pedological horizons Ah2 and E. The BP horizon, situated just
+above the paleosol and part of the recent terrace soil, was chosen as
+the second level. Level III corresponds to the organo-mineral
+horizon of the paleosol. Level IV corresponds to an ancient E
+horizon (ochre-orange color) and is dated earlier than the buried
+terrace construction.
+This level was covered by the organo-mineral horizon (2bAh) of
+the paleosol. The 2bAh horizon was initially retained by the wall of
+the buried terrace, but the wall later collapsed and the 2bAh
+horizon slid over the top of the wall.
+The pit Cerd3bis (Fig. 7, Table 5) revealed the same layout of two
+successive terrace systems. However, the Ah2 horizon does not
+correspond to a sudden addition of sediment but rather to a slow
+process of accretion. This accretion process corresponds to sediment which slid down the slope and then differentiated, and
+covered the buried terrace after abandonment. The ﬁrst sample
+level (level I) corresponds to the surface organo-mineral horizon
+(Ah1) and contains several roots and micro-roots. Level II, between
+Table 3
+Field description of the Cerd5 and Cerd5bis terrace proﬁle.
+Depth/cm
+
+Horizon
+
+Macromorphology
+
+0–7
+
+Ah1
+
+7–20
+
+Ah2
+
+20–40
+
+BP
+
+40–60
+
+2bAh
+
+60–80
+
+Sal
+
+80–100
+
+C
+
+100–base
+
+R
+
+Very dark greyish brown (10YR 3/2);
+sandy loam; few very small stones; moderate
+ﬁne granular; abundant roots; clear boundary to
+Greyish brown (10YR 5/2); sandy silt loam;
+few very small stones; moderate ﬁne granular;
+abundant roots and earthworms tunnels;
+abrupt boundary to
+Pale brown (10YR 6/3); sandy silt loam;
+few very small stones; medium subangular
+blocky; few roots; abrupt boundary to
+Very dark greyish brown (10YR 3/2); sandy silt
+loam; terrace wall; strong ﬁne granular;
+abundant micro-roots; charcoals; sharp
+boundary to
+Yellowish brown (10YR 5/8); sandy silt loam;
+crumbly structure; medium and large stones;
+clear boundary to
+Yellow (10YR 7/8); sandy loam; medium and
+large stones; clear boundary to
+Granit substrate
+
+25 and 45 cm deep, corresponds to the Ah2 horizon. The organomineral horizon (2bAh) of the paleosol connected with the
+terrace represents level III of the sample. A ﬁnal level IV was
+sampled in the horizon Sal and in the alteration of the bedrock
+horizons (C).
+5.2. Pedoanthracological results
+The ligneous paleovegetation was reconstructed from taxa
+identiﬁcation and from current ecological characteristics of these
+taxa (Thinon, 1992).
+All sample levels contain charcoal, from the bedrock to the
+surface horizon. Identiﬁcation to genus level is possible for charcoal
+sized 0.4 mm. The two taxa most frequently identiﬁed are two
+conifers: A. alba and P. silvestris/uncinata (present respectively in 19
+and 30 levels out of 33 levels sampled for the nine pits). Between
+1700 m and 2100 m, Ericaceae (C. vulgaris) and Papilionaceae
+(genus C. purgans) appear respectively in 5 and 6 levels out of 33
+analyzed levels. Three additional taxa appear only rarely: Corylus
+avellana and Salix (cf pyrenaica) are present in only 1 level out of 33,
+level III (2bAh) of the Cerd3bis, and Juniperus (communis and
+J. nana) appear only in level II (Ah2) in the Cerd3bis pit. Unidentiﬁable charcoal is present in the sample levels corresponding to
+paleosol organo-mineral horizons from the Cerd6 and Cerd3bis
+pits. This charcoal cannot be identiﬁed because of their state of
+preservation (altered structure). All taxa that have been identiﬁed
+are also present today on the study site except for ﬁr (A. alba).
+The pits present high total anthracomasses (ASM) (369 mg kg1
+for Cerd5bis, 847 mg kg1 for Cerd13); some even extremely high
+(3925 mg kg1 for Cerd6; 1330 mg kg1 for Cerd3bis). The pits are
+characterized by a high proportion of charcoal in the organomineral horizons of their paleosols. In fact, these horizons
+provide between 66% and 95% of the total anthracomass. Branch
+et al. (2007) also highlighted the importance of charcoal-rich
+horizons Ah and bAh corresponding respectively to the surface
+horizon and to the paleosol of an agricultural terrace proﬁle situated in the Peruvian Andes. At 1700 m altitude in the shade, ﬁr
+(A. alba) is present in Cerd6 and Cerd13 pits. Fir has not been
+identiﬁed in the surface level (I; Ah1 and Ah2 horizons) of the
+
+1792
+
+M.-C. Bal et al. / Journal of Archaeological Science 37 (2010) 1785–1797
+
+Fig. 6. Cerd13 excavation, anthracomass and identiﬁcation of charcoal.
+
+Cerd5bis pit. Pine (P. sylvestris/uncinata), which has been found in
+four levels of Cerd13, is absent from level V (base of 2bAh horizon)
+of the Cerd6 pit and from levels II (BP) and V (C) of the Cerd5bis pit.
+Vitriﬁed charcoal fragments were found in level III (BP) and level V
+and VI of Cerd6. The best representation of ﬁr can be found in the
+pedoanthracological proﬁles of Cerd6 and Cerd13, particularly in
+the 2bAh horizons, which correspond to level IV and V of Cerd6,
+(ASP: speciﬁc anthracomasses respectively 318 mg kg1 and
+3444 mg kg1) and level III of Cerd13 (ASP of 534 mg kg1).
+Table 4
+Field description of the Cerd13 terrace proﬁle.
+Depth/cm
+
+Horizon
+
+Macromorphology
+
+0–10
+
+Ah1
+
+10–40
+
+Ah2
+
+40–70
+
+E
+
+70–90
+
+BP
+
+Very dark greyish brown (10YR 3/2);
+sandy loam; few very small stones;
+moderate ﬁne granular; abundant roots;
+clear boundary to
+Greyish brown (10YR 5/2); sandy silt loam;
+few very small stones; moderate ﬁne
+granular; abundant roots and earthworms
+tunnels; abrupt boundary to
+Very pale brown (10YR 7/3); sandy silt loam;
+few very small stones; ﬁne subangular blocky;
+many roots; clear boundary to
+Brown (10YR 5/3); sandy loam; few very small
+stones; medium subangular blocky; few roots;
+abrupt boundary to
+Very dark greyish brown (10YR 3/2); sandy silt
+loam; terrace wall; strong ﬁne granular;
+abundant micro-roots; charcoals; sharp
+boundary to
+Yellowish ochre horizon (10YR 5/8); sandy
+silt loam; crumbly structure; medium and
+large stones; clear boundary to
+Yellowish (10YR 7/8); sandy loam; medium
+and large stones; clear boundary to
+Granit substrate
+
+90–140
+
+2bAh
+
+140–150
+
+Sal
+
+150–160
+
+C
+
+160–base
+
+R
+
+Charcoal extracted from the 2bAh horizon of paleosol (level III) of
+Cerd5bis reveals a mixed population of ﬁr/pine with a dominance
+of ﬁr (210 mg kg1 for A. alba against 32 mg kg1 for P. uncinata/
+sylvestris). This tendency rapidly diminishes and inverses in the
+surface levels (A. alba: 11 mg kg1 in level II (BP) and P. uncinata/
+sylvestris: 65 mg kg1 in level I, (Ah1 and Ah2 horizons)) (Figs. 4–6).
+At 1900 m altitude on the south-facing slope, pine and ﬁr are
+present throughout the Cerd3bis pit (Fig. 7). Ericaceae and Papilionaceae (essentially small branches) have been identiﬁed in the
+2bAh horizon of the paleosol and in the surface levels. Juniperus
+appears only in level II (Ah2), hazel (C. avellana) and willow (Salix
+(cf pirenaica)) were only identiﬁed in level III (2bAh). A signiﬁcant
+proportion of unidentiﬁable species come from this same level. The
+vitriﬁed charcoal fragments are poorly represented at the base (Sal)
+of the Cerd3bis proﬁle. At this altitude, pine trees are found in
+greater abundance compared to ﬁrs throughout the whole of the pit
+and particularly in the organo-mineral horizon of the paleosol
+(2bAh) with an ASP of 786 mg kg1 for the Cerd3bis pit. These pines
+are accompanied by shrub in this horizon and in certain levels
+above.
+5.3. Dating
+Samples of two taxa (Table 1), P. sylvestris/uncinata and A. alba,
+which dominate the assembling charcoal, were submitted for
+dating. The dating range from 4767–4612 cal. yr BP to 1283–
+1167 cal. yr BP (2817–2662 cal BC to 783–667 cal AD), i.e. from the
+Chalcolithic to the late Middle Ages.
+Nine out of twelve dates are situated between the Chalcolithic
+and the Bronze Age (between 4767–4612 and 3362–3215 cal. yr. BP;
+1412–1265 ca. BC). Out of these nine dates, six correspond to
+charcoal (fragments or lenses) from buried terrace paleosols. Only
+the Cerd3bis pit shows inversions in the age–depth relationship
+
+M.-C. Bal et al. / Journal of Archaeological Science 37 (2010) 1785–1797
+
+1793
+
+Fig. 7. Cerd3bis excavation, anthracomass and identiﬁcation of charcoal.
+
+between the dates of the charcoal found in the organo-mineral
+horizon of the paleosol and the soil situated above. For the same
+pit Cerd3bis, an isolated charcoal fragment identiﬁed as P. uncinata/
+sylvestris originating from the 2bAh horizon of the paleosol is dated
+during the transition Bronze Age/Iron Age (Vera-2951). Finally, the
+most recent dates, Antiquity (Poz-17560) and late Middle Ages
+(Poz-17564), correspond to charcoal found in the ﬁrst 25 cm of the
+Cerd3bis and Cerd13 pits.
+6. Discussion
+6.1. Dating and layers
+The charcoal lens (3933–3836 cal. yr BP; 1983–1886 cal BC;
+Vera-2949) of pit Cerd6 situated on the surface of the paleosol
+Table 5
+Field description of the Cerd3bis terrace proﬁle.
+Depth/cm
+
+Horizon
+
+Macromorphology
+
+0–3
+
+A0A1
+
+3–25
+
+Ah1
+
+25–45
+
+Ah2
+
+45–65
+
+2bAh
+
+65–75
+
+Sal
+
+75–80
+
+C
+
+80–90
+90–base
+
+M
+R
+
+Very dark greyish brown (10YR 3/2); sandy loam;
+few very small stones; moderate ﬁne granular;
+abundant roots and micro-roots; abrupt
+boundary to
+Brown (10YR 5/3); loamy sand; few very small
+stones; moderate ﬁne granular; abundant roots;
+clear boundary to
+Brown (10YR 4/3); loamy sand; few very small
+stones; moderate ﬁne granular; abundant roots;
+sharp boundary to
+Dark yellowish brown (10YR 3/4); sandy silt
+loam; terrace wall; strong ﬁne granular;
+abundant micro-roots; charcoals; sharp
+boundary to
+Yellowish brown (10YR 5/8); sandy silt loam;
+crumbly structure; medium and large stones;
+clear boundary to
+Yellowish (10YR 7/8) horizon; sandy loam;
+medium and large stones; clear boundary to
+Yellowish brown (10Y/R 5/6) layer;
+Granite substrate
+
+marks the end of the use of the paleosol. This end was nevertheless
+temporary, since a new pedogenesis indicates a second phase of
+usage of this same buried terrace. This change is dated during the
+Bronze Age. The lens of A. alba from the Cerd5 pit dating from 4713
+to 4528 cal. yr BP (2763–2578 cal BC) is situated at the base of the
+2bAh horizon of the paleosol. In this case, the dating provides an
+estimation that the bottom part of paleosol dates from the Chalcolithic. The 600–1100 years which separate these two lenses, as
+well as the re-use of the buried terrace of Cerd6, indicate a continuity in the paleosol’s use and gives a coherent chronological
+framework for the dates obtained from the other paleosols in
+Deveses.
+In fact, the dates obtained from isolated charcoal fragments in 1)
+the 2bAh from Cerd5bis (3977–3823 cal. yr BP; 2027–1873 cal BC),
+2) the center of the wall of the agricultural terrace of Cerd13 (4767–
+4612 cal. yr BP; 2817–2662 cal BC), 3) in level IV (ochre-orange
+horizon) which precedes the building of the wall (Cerd13: 4711–
+4512 cal. yr BP; 2761–2562 cal BC) and 4) at Cerd6 within the BP
+horizon just above the paleosol (Cerd6: 3978–3829 cal. yr. BP;
+2028–1879 cal BC), are all situated within the chronological bracket
+deﬁned by the dates of the two lenses (4800–3800 cal. yr BP; 2850–
+1850 cal BC). This range cannot be determined with complete
+certainty, however, because dates are established using charcoal
+from wood which may have already been dead for a long time
+before the ﬁre (Gavin, 2003). Radiocarbon dating can overestimate
+the age of the event and this incertitude leads to classifying the use
+of buried terraces within a wide chrono-cultural period: the end of
+the Chalcolithic and the Bronze Age.
+For the Cerd3bis pit, inversions of radiocarbon dating on charcoal from the 2bAh horizon contained in the buried terrace and
+from the Ah2 horizon have been observed (Table 1). The date
+4743–4569 cal. yr BP (Vera 2950; 2793–2619 cal BC), obtained from
+a charcoal fragment from the Ah2 horizon, is dated 2000 years
+before those obtained from charcoal from the 2bAh horizon (Vera2951: 2889–2768 cal. yr BP; 939–818 cal BC). Within the 2bAh
+paleosol, the two dates are very far apart from each other: Vera2948 (2199–2117 cal BC; 4149–4067 cal. yr BP) and Vera-2951.
+
+1794
+
+M.-C. Bal et al. / Journal of Archaeological Science 37 (2010) 1785–1797
+
+These date inversions are due to colluvium phenomena that
+resulted in a signiﬁcant reworking of the charcoal in the soil and
+lead to even greater uncertainty regarding terrace dating (Sandor
+and Eash, 1995; Kemp et al., 2006). There are, however, limits to
+these re-workings: no charcoal is dated later than the end of the
+Bronze Age (Vera-2951) in the Ah2 and 2bAh horizons. Moreover,
+in all of the four pits, all the datings carried out on charcoal (fragments or lenses) from the paleosols connected with the buried
+terraces range from the Chalcolithic to the transition Bronze
+Age–Iron Age. The two most recent dates (Table 1) correspond to
+charcoal originating from the surface horizon (Cerd3bis: Poz17560: Antiquity and Cerd13-Poz-17564: late Middle Ages). Even
+though charcoal movements disturb the stratigraphy within each
+soil (Carcaillet and Thinon, 1996; Carcaillet, 2001a; Carnelli et al.,
+2004; Schwartz et al., 2005; Bal et al., 2008), it is possible to
+consider that the assembling charcoal follow a stratigraphy linked
+to the superposition of the paleosol and of the differentiated soil. In
+addition, the results from radiocarbon dating are remarkably
+consistent, since nine out of twelve datings give the same period of
+Chalcolithic – Bronze Age.
+6.2. Vegetation dynamics
+In all of the pits, pedoanthracological analyses reveal the presence
+of two dominant taxa, A. alba and P. sylvestris/uncinata, between 1600
+and 1900 m altitude. In comparing plant dynamics, in all of the pits,
+ﬁr- and pine-trees were observed in the deepest levels. Paleovegetation revealed by the assembling charcoal from the 2bAh
+horizons of the paleosols show that at an altitude of 1600 m (Cerd5bis,
+Cerd6 and Cerd13), the ﬁr-tree predominated in a mixed population
+of ﬁr and pine, whereas at 1900 m at Orri d’en Corbill, landscape
+vegetation was composed of pinewood accompanied by ﬁr (Cerd3bis). This vegetation proﬁle is similar to the one observed for the end
+of the Iron Age until Antiquity in an archaeo-anthracological analysis
+of pastoral huts excavated at the same location (Davasse et al., 1997).
+At 2100 m at Pla de l’Orri, in three pits not discussed in this article, the
+ﬁr-tree was not identiﬁed (Bal, 2006). This altitude corresponds to the
+distribution of P. uncinata. Thus, all of the pedoanthracological
+proﬁles are consistent with the theoretical altitudinal distributions of
+taxa. Datings carried out on fragments of ﬁr and pine show that they
+were present between 1600 and 1900 m altitude during the end of the
+Chalcolithic Period and the Bronze Age (Table 1). Pine was present
+during the Iron Age, Antiquity and the late Middle Ages.
+The charcoal of superﬁcial horizons, which date from after the
+abandonment of this ﬁrst generation of terraces, shows that this
+vegetation transformation started from this period onwards.
+At 1700 m altitude, as at 1900 m, the ﬁr-tree was always present,
+but in smaller quantities, and the proportion of pine to ﬁr was
+systematically inversed. Today, the ﬁr is no longer part of the taxa
+present on the slopes studied here (but it can be found in the
+nearby valleys). Throughout the entire Enveitg slope, these results
+conﬁrm the dynamics previously described based on the pollen
+record of Pla de l’Orri (Galop, 1998; Vannière et al., 2001). The
+presence of the ﬁr-tree at Enveitg is documented from 7332 –
+6686 cal. yr BP; 5383 – 4937 cal BC and it began to decline in ca.
+5420–5321 cal. yr BP (3471–3372 cal BC, estimated age). The
+pedoanthracological and the archaeo-pedological data make it
+possible to link vegetation dynamics with the precise location of
+human activities on the slope.
+6.3. Reconstruction of an agro-pastoral landscape through charcoal
+analysis at the end of Chalcolithic and during the Bronze Age
+At the end of the Chalcolithic and during the Bronze Age,
+terraces were built between 1600 m and 1900 m altitude. Fire
+
+played a role in their construction and maintenance. The following
+elements suggest that there was not only one ﬁre, but many: 1) the
+organo-mineral charcoal-rich horizons of the paleosol; 2) the
+nearby presence of two lenses, one situated at the base, the other at
+the summit of one of these horizons (Cerd5 and Cerd6); and 3) the
+dates obtained from charcoal. The succession observed at Cerd6
+provides one possible model for human activity on the site: tree
+clearing, terrace construction, exploitation, end of exploitation,
+reforestation, ﬁre (presence of the lens), small sediment contribution (covering of the lens), followed by a new phase of activity that
+always corresponded to the buried terrace. This model can be
+interpreted in different ways: slash-and-burn, with short phases of
+cultivation alternating with phases of reforestation, or perhaps long
+phases of exploitation interspersed with periods of abandonment.
+None of the evidence currently available enables us to privilege one
+hypothesis over another. Whatever the exploitation pattern that
+these terraces have undergone, the Bronze Age was a key period in
+the construction of soils on the Enveitg Mountain. Moreover, this
+importance of the Bronze Age period has also been shown by the
+results of archaeological excavations of pastoral sites on the slope
+(see above; Rendu et al., 2009). The high degree of organization of
+these pastoral sites is similar to those of the ﬁrst generation of
+terraces.
+At the regional scale, the hypothesis of the complexity of agropastoral systems in the Bronze Age is further supported by the
+data originating from the archaeological site of Llo. There, at
+1600 m, regular cultivation is suggested by the carpological analysis
+of carbonized seeds found in a Late Bronze Age dwelling. The
+farmers developed an agro-pastoral system which associated hulled barley (Hordeum vulgare) and peas (Pisum sativum) (Ruas et al.,
+2009). This system was also linked to the breeding of sheep, goats
+and cattle and with a diversiﬁed production (Bréhard and
+Campmajo, 2005). These data also suggest complex forms of
+agro-pastoral exploitation.
+The second generation terrace soils have not been protected by
+post-deposit fossilization. It is impossible to date their use and to
+estimate the time interval which separates the two terrace generations. No element of absolute chronology allows us to date the
+cessation of exploitation on these superﬁcial terraces. Potentially
+1000–2000 years old, the soils of these terraces are the current
+soils. Archaeology, palynology, and historical sources distinguish
+many phases of abandonment (Antiquity and the Late Middle Ages)
+or expansion (Early and High Middle Ages and the modern period).
+These sources also distinguish different kinds of exploitation:
+possible slash-and-burn during the Early Middle Ages, grazeland
+clearing by ﬁre during modern times, pastoral and meadow usages,
+and occasionally potato crops at the beginning of the 20th century.
+Pedoanthracology, however, reveals two long periods which
+corresponds to two successive soils, marked by different dynamics
+of ﬁre, vegetation, and sedimentation.
+6.4. Taphonomical processes: charcoal production, dispersion and
+preservation
+6.4.1. Charcoal production
+Charcoal, being the result of burnt vegetation, can be produced
+by different sources. The primary sources are natural forest ﬁres
+caused by lightning or anthropogenic in relation to agro-pastoral
+practices (Carcaillet et al., 1997; Moore, 2000). Charcoal kilns or
+hut ﬁreplaces, settlements situated on a slope, or any craft activity
+employing wood as fuel also produce charcoal, whose dispersion is
+possible after disassembling the structure. Charcoal can therefore
+be found diffused in the surrounding soils. Concerning the terraces,
+charcoal production can be linked to different practices. Fire is of
+course used for clearing a space for terrace construction (Alcaraz,
+
+M.-C. Bal et al. / Journal of Archaeological Science 37 (2010) 1785–1797
+
+1999), as well as for the maintenance phase or re-exploitation after
+re-colonization by vegetation. Burning the vegetation can
+contribute to fertilization of the ground (Sigaut, 1975). A third
+situation also needs to be mentioned, not that of direct production
+but of charcoal contribution through manure which includes ashes
+and charcoal originating from the domestic hearth.
+6.4.2. Dispersion and bioturbation
+Charcoal then undergoes several processes such as dispersion
+and bioturbation (Carcaillet, 2001a,b; Sanborn et al., 2006) that
+contribute to their fragmentation and to their burial in the ground.
+In the ﬁrst instance, wind and hydric erosion are responsible for
+the rapid dispersion and deposition of charcoal on the surface of
+the ground just after a ﬁre (Clark, 1988; Trabaud, 1989; Thinon,
+1992; Lynch et al., 2004). Charcoal fragments larger than 0.4 mm
+are generally not transported more than approximately 10 m
+during a ﬁre (Ohlson and Tryterud, 2000), contrary to ﬁner particles
+(around 100 microns) (Clark et al., 1998). However, the intensity of
+the ﬁre, the production site’s geographical location, and the
+weather conditions will determine whether one or the other will
+predominate.
+Bioturbation leads to the presence of charcoal at different soil
+depths. This is generated by the action of Lumbricidae, of pararthropods, and of Formicidae which provoke the movement of
+charcoal by the creation of galleries in the soil (Davidson, 2002;
+Davidson et al., 2002). Numerous Coleoptera and larvae also live
+in the interstices of the soil. Scarabaeoidea larvae can be found in
+the Cerdagne soils at a depth of more than 40 cm. Bioturbation
+caused by plant roots also signiﬁcantly affects the soil. The root’s
+progression in the soil while growing can lead to the ﬁssuring of
+certain bedrocks. They create channels and lead to the mixing of
+diverse mineral and organic elements of the soil (Gabet et al.,
+2003). When a root dies, it frees up a channel which can be
+rapidly ﬁlled by the process of water inﬁltration. Roots participate
+therefore in the fragmentation of charcoal by creeping inside the
+anatomic structures (Thinon, 1992) as well as in their displacement
+in the soil. The alteration horizons of the bedrock usually contain
+charcoal, which proves the importance of burial. Vertical
+pedological processes caused essentially by soil mesofaune favor
+the incorporation of small pieces of charcoal into the surface
+horizons.
+All of these activities that contribute to the burial and the
+fragmentation of charcoal (Thinon, 1992; Talon, 1997) can also
+induce inversions in the relationship between the age of charcoal
+and the depth of the sample (Gavin, 2003). For soils at altitude
+above the timberline, the displacement of charcoal during transport by man (charcoal kiln production) is considered accidental
+(Talon, 1997). The absence of anthropogenic reworking of the soil
+also coincides with an absence of anthropogenic soil charcoal
+displacement (for example, by activities linked to agriculture).
+These movements are essentially due to soliﬂuction, colluvium
+contribution, and bioturbation phenomena. Cattle trampling also
+disturbs the organo-mineral surface horizons in highly pastured
+zones.
+The situation is completely different for terrace soils. They are
+also subject to bioturbation and colluvium contribution
+phenomena, but they are also highly reworked by human beings.
+This reworking is however not total: the supporting wall is built
+directly on the granite bedrock after having removed the soil, but
+on both sides of this wall soil horizons can be preserved (Harfouche,
+2007). Charcoal found in small quantities today in deep horizons,
+especially in bedrock alteration horizons, probably originate from
+ﬁres prior to the construction of the buried terrace.
+The organo-mineral horizon of paleosols retained by buried
+terrace walls represents the agricultural soil horizon of these
+
+1795
+
+terraces. For each of these excavated terraces, the ancient surface
+horizon is rich in charcoal of a size greater than 0.8 mm, 2 mm, and
+5 mm, with some being greater than 2 cm in diameter.
+These pedoanthracological results obtained on the terraces can
+be compared to those originating from soils undisturbed by
+humans and situated in the same geographical context. Two
+pedoanthracological pits excavated on pasture soil at 2300 m and
+2100 m altitude, (Cerd2 and Cerd8 pits, not discussed here, Bal,
+2006, p 97) contained very small charcoal fragments (sized
+<0.8 mm), with a respective total anthracomass of 22 and 450 ppm.
+Furthermore, their distribution in the soil is diffuse throughout the
+proﬁle. Without neglecting bioturbation phenomenon, these
+differences in size, quantity and dispersion of charcoal suggest that
+the organo-mineral horizons of agricultural terrace paleosols
+contain a large proportion of charcoal as a result of terrace usage,
+which can therefore shed light on the type of soil management.
+6.4.3. Uses of terrace soil
+In order to identify the type of soil management, an analogue is
+needed which would allow for comparisons between soils linked to
+regular cultivation and soils resulting from slash-and-burn or
+burning grazeland for cultivation. The addition of manure often
+contains artifacts (shards of eroded ceramics) which have not been
+found in this study area. Yet this does not mean that manure was
+not added; it is possible that other fertilizing methods were used,
+such as direct fertilization by the herds.
+One hypothesis for explaining the signiﬁcant concentration of
+charcoal in the organo-mineral horizon of paleosols is that of ﬁre
+clearings. These ﬁres could play a role in complex technical and
+temporal cycles, as discussed above. The soils covering the paleosols are related to a second terrace generation. For all of the
+terraces, surface levels present much less charcoal than paleosol
+surface horizons (for example Cerd6-level IV: 327 ppm; Cerd6-level
+III: 19 ppm; Cerd6-level II: 1 ppm). The signiﬁcant differences in
+anthracomass between paleosols and present soils represent two
+anthracocoenoses revealing at least two different types of paleovegetation, chronologically separated by a sufﬁciently long time
+lapse enabling the differentiation of the surface soil. The relative
+poorness in charcoal of the present soil horizons can be related to
+several phenomena, perhaps combined: 1) less tree cover, 2) less
+use of ﬁre for agricultural purposes, 3) phases of pastoral use and 4)
+a lower rate of post-deposition preservation.
+6.4.4. Preservation
+The covering over of paleosols results in remarkable charcoal
+preservation. For terrace construction, covering took place by
+colluvium contribution or by anthropogenic sediment addition.
+This event could have happened very quickly, leading to the preservation of charcoal and charcoal lenses. In this case, the protection
+would be maximal and therefore avoid transport and fragmentation of charcoal in the paleosol. When this process happens over
+a longer period of time, elements at the surface of the soil are able
+to undergo the diverse processes described in this article, i.e.
+dispersion and bioturbation, before the paleosols were covered.
+The quantity of paleosol charcoal alone, however, is not a sufﬁcient
+indicator of the degree of protection, since quantity may be also
+linked to ﬁre frequency or the duration of agricultural activities. It is
+therefore necessary to complement the quantity of charcoal with
+other elements: 1) a pedological description of the surface soil
+which indicates its age; 2) the degree of charcoal fragmentation; 3)
+the presence of charcoal lenses. At Cerd5 and Cerd6, the lenses
+indicate that a rapid covering prevented their fractioning and their
+dispersion. Furthermore, soils situated above the paleosols present
+differentiated horizons which therefore indicate their age of at least
+several centuries. Cerd13 and Cerd3bis also contain differentiated
+
+1796
+
+M.-C. Bal et al. / Journal of Archaeological Science 37 (2010) 1785–1797
+
+horizons. There is a difference, however, for the Ah2 and 2bAh
+horizons of Cerd3bis which results partly from colluvium additions
+containing charcoal of different ages. The preservation of charcoal
+within this paleosol is more difﬁcult to interpret.
+7. Conclusions
+By combining pedoanthracological and pedo-archaeological
+approaches, this study has demonstrated that:
+- Charcoals from paleosol and/or soil of agricultural terraces are
+good bio-indicators for reconstructing local vegetation
+dynamics related to agricultural practices and for showing the
+role of ﬁre in ancient agriculture.
+- The two stages of terraces are linked to successive phases of
+vegetation and correspond to different phases of construction
+and use (other authors show a similar model in the Peruvian
+Andes, Branch et al., 2007). For the moment, there is not
+enough evidence to date the beginning of the usage of the
+upper terrace.
+- The Bronze Age seems to have been a turning point in the agropastoral construction, land-use, and transformation of the
+mountain landscape.
+- The progressive disappearance of A. alba, which has been
+replaced by pine forest expansion in Enveitg slope since the
+Chalcolithic.
+- In order to more accurately date and reconstruct the history of
+agricultural land-use, it is preferable to combine soil descriptions which estimate the antiquity of the terracing system with
+radiocarbon dates from charcoal in the paleosol.
+- A charcoal taphonomical model in this complex context helps
+to disentangle the production and preservation of charcoal
+within the two stages of the terrace systems.
+Acknowledgements
+Financial support was provided by the Ministère de la Culture
+and the CNRS, program entitled ‘‘Cerdagne: estivage et structuration sociale d’un espace montagnard’’, and by a post-doctoral grant
+from the University Autonoma of Barcelona, Department of Geography, Gramp laboratory. We thank the Geode laboratory and JeanPaul Métailié for help and support during the doctorate; Elisabeth
+Bille, Marc Conesa, Denis Crabol, and Didier Galop for constructive
+discussions during ﬁeld work and workshops; Brigitte Talon,
+Christopher Carcaillet, and Michel Thinon for pedoanthracological
+discussions; P. Poupet and R. Harfouche for the help during Enveitg
+sampling and soil descriptions. We would also like to thank Cynthia
+J. Johnson for her assistance in editing this article.
+References
+Alcaraz, F., 1999. Les terrasses méditerranéennes, entre terroirs et paysages
+(nord-ouest du bassin méditerranéen). Thèse de géographie, Toulouse,
+Université de Toulouse-Le Mirail, vol. I et vol. II.
+Baise, D., Jabiol, B., Gobat, J.M., 1995. Le référentiel pédologique. Association Française de l’Etude des Sols.
+Bal, M.C., 2006. Constructions et dynamiques des espaces et des terrasses agropastoraux en zone intermédiaire des Pyrénées du Néolithique à nos jours
+(Cerdagne, Pays Basque et Pays de Sault), approche archéoenvironnementale
+par la pédoanthracologie. Thesis, Département de Géographie, laboratoire
+Geode, Université de Toulouse II. http://tel.archives-ouvertes.fr.
+Bal, M.C., Harfouche, R., Poupet, P., Campmajo, P., Rendu, C., 2008. Archaeoenvironmental studies of cultivation terraces in the Enveig Mountain (Cerdagne) in Eastern Pyrenees (France), use of pedo-anthracology. In: Bar
+International (Ed.), Proceedings of the III International Meeting of Anthracology,
+Lecce, June 2004.
+Bal, M.C., 2008. Approche géoarchéologique des terroirs montagnards par la
+pédoanthracologie: l’exemple de la montagne d’Enveig (Pyrénées Orientales,
+France). In: Galop, D. (Ed.), Paysages et environnement. De la reconstitution du
+
+passé aux modèles prospectifs. Presses universitaires de Franche-Compté,
+Besançon, pp. 141–158.
+Borejsza, A., Rodriguez-Lopez, I., Frederick, C.D., Bateman, M.D., 2008. Agricultural
+slope management and soil erosion at La Laguna, Tlaxcala, Mexico. Journal of
+Archaeological Science available online.
+Branch, N.P., Kemp, R.A., Silva, B., Meddens, F.M., Williams, A., Kendall, A.,
+Pomacanchari, C.V., 2007. Testing the sustainability and sensitivity to climate
+change of terrace agricultural systems in the Peruvian Andes: a pilot study.
+Journal of Archaeological Science 34, 1–9.
+Bréhard, S., Campmajo, P., 2005. Exploitation des animaux domestiques et structuration de l’espace montagnard à l’Âge du Bronze: Llo (Cerdagne, PyrénéesOrientales). Anthropozoologica 40 (1), 217–233.
+Calastrenc, C., Le Couédic, M., Rendu, C., with collaboration of Bal M.-C., 2006.
+Archéologie pastorale en vallée d’Ossau. Problématiques, méthodes et
+premiers résultats. Archéologie des Pyrénées Occidentales et des Landes 25,
+11–30.
+Carcaillet, C., Thinon, M., 1996. Pedoanthracological contribution to the study of the
+evolution of the upper treeline in the Maurienne Valley (North French Alps):
+methodology and preliminary data. Review of Palaeobotany and Palynology 91,
+399–416.
+Carcaillet, C., Barakat, H.N., Panaistois, C., Loisel, R., 1997. Fire and late-Holocene
+expansion of Quercus ilex and Pinus pinaster on Corsica. Journal of Vegetation
+Science 8, 85–94.
+Carcaillet, C., 2001a. Are Holocene wood-charcoal fragments stratiﬁed in alpine and
+subalpine soils? Evidence from the Alps based on AMS 14C dates. The Holocene
+11 (2), 231–242.
+Carcaillet, C., 2001b. Soil particles reworking evidences by AMS 14C dating of
+charcoal. Earth and Planetary Sciences 332, 21–28.
+Carnelli, A.L., Theurillat, J.P., Thinon, M., Vadi, G., Talon, B., 2004. Past uppermost
+tree limit in the Central European Alps (Switzerland) based on soil land soil
+charcoal. The Holocene 14 (3), 393–405.
+Clark, J.S., 1988. Particle motion and the theory of charcoal analysis: source area,
+transport, deposition, and sampling. Quaternary Research 30, 67–80.
+Clark, J.S., Lynch, J., Stocks, B.J., Goldammer, J., 1998. Relationships between charcoal
+particles in air and sediments in west-central Siberia. The Holocene 8 (1), 19–29.
+Davasse, B., Galop, D., Rendu, C., 1997. In: Burnouf, J. (Ed.), Paysages du Néolithique à
+nos jours dans les Pyrénées de l’Est d’après l’écologie historique et l’archéologie
+pastorale, J.P. Éditions APDCA-Sophia Antipolis, Gap, pp 577–599.
+Davidson, D.A., 2002. Bioturbation in old arable soils: quantitative evidence from
+soil micromorphology. Journal of Archaeological Science 29, 1247–1253.
+Davidson, D.A., Bruneau, P.M.C., Grieve, I.C., Young, I.M., 2002. Impacts of fauna on
+an upland grassland soil as determined by micromorphological analysis.
+Applied Soil Ecology 20, 133–143.
+Gabet, E.J., Reichman, O.J., Seabloom, E.W., 2003. The effects of bioturbation on soil
+processes and sediment transport. The Annual Review of Earth and Planetary
+Science 31, 249–273.
+Galop, D., 1998. La forêt, l’homme et le troupeau dans les Pyrénées, 6000 ans
+d’histoire de l’environnement entre Garonne et Méditerranée. GEODE, Laboratoire d’Ecologie Terrestre, Framespa, Université Toulouse-Le Mirail.
+Galop, D., 2006. La conquête de la montagne Pyrénéenne au Néolithique.
+Chronologie, rythmes et transformations des paysages à partir des données
+polliniques. In: Guilaine, J. (Ed.), Populations néolithiques et environnement.
+Editions Errance, pp. 279–295.
+Gavin, D.G., 2003. Holocene ﬁre history of a coastal temperate rain forest based on
+soil charcoal radiocarbon dates. Ecology 84, 186–201.
+Harfouche, R., Poupet, P., 2004. Construction et évolution des paysages montagnards: sols, paléosols et aménagements agricoles. Sondages dans les terrasses de la montagne d’Enveig. In: Rendu, C., et al. (Eds.), Estivage et
+structuration sociale d’un espace montagnard: la Cerdagne. Rapport PCR, pp.
+47–59.
+Harfouche, R., 2007. Histoire des paysages méditerranéens terrassés: aménagements et agriculture. In: BAR (Ed.), International Series, vol. 1634. Archaeopress,
+Oxford, 265 pp.
+Harfouche, R., Poupet, P., Ruas, M.P., Campmajo, P., Rendu, C., Bal, M.C. Aux marges
+de l’ ager: forêt, pâturages et. agriculture dans la montagne pyrénéenne.
+In Actes VIIe colloque AGER Dynamique et gestion des forêts et des zones
+rurales marginales (friches, landes, marais.), Rennes, Octobre 2004, in press.
+Jacquiot, C., Trenard, Y., Dirol, D., 1973. Atlas d’anatomie des bois des Angiospermes
+(essences feuillues). Centre Technique du Bois, Paris.
+Kemp, R., Branch, N., Silva, B., Meddens, F., Williams, A., Kendall, A., Vivanco, C.,
+2006. Pedosedimentary, cultural and environmental signiﬁcance of paleosols
+within pre-hispanic agricultural terraces in the southern Peruvian Andes.
+Quaternary International 158, 13–22.
+Lynch, J.A., Clark, J.S., Stocks, B.J., 2004. Charcoal production, dispersal, and deposition from the fort providence experimental ﬁre: interpreting ﬁre regimes
+from charcoal records in boreal forests. Canadian Journal of Forest Research 34,
+1642–1656.
+Miras, Y., Ejarque, A., Riera, S., Palet, J.M., Orengo, H.A., Euba, I., 2007. Dynamique
+holocène de la végétation et occupation des Pyrénées andorrannes depuis le
+Néolithique ancien, d’après l’analyse pollinique de la tourbière de Bosc dels
+Estanyons (2180 m), Vall del Madriu, Andorre. Comptes Rendus Palevolution 6
+(4), 291–300.
+Moore, J., 2000. Forest ﬁre and human interaction in the early Holocene woodlands
+of Britain. Palaeogeography, Palaeoclimatology, Palaeoecology 164, 125–137.
+Munsell, 1994. Soil color charts (revised edition).
+
+M.-C. Bal et al. / Journal of Archaeological Science 37 (2010) 1785–1797
+Nisbet, R., 1983. In: Corsac, Geda (Ed.), Vislario archeologia e paleoecologia di un
+terrazzamento alpino, Contributi di M. Cima e R. Macphail.96 pp., ill., cart., bibl.,
+rèsumé, summary, note.
+Ohlson, M., Tryterud, E., 2000. Interpretation of the charcoal record in forest soil:
+forest ﬁres and their production and deposition of macroscopic charcoal. The
+Holocene 10 (4), 519–525.
+Poupet, P., 2000. Science du sol et archéologie. A propos d’un exemple délien:
+archeology and the science of soil: on an example of Delos. Etudes Rurales
+153–154, 1–114.
+Reimer, P.J., Baillie, M.G.L., Bard, E., Bayliss, A., Beck, J.W., Bertrand, C., Blackwell, P.G.,
+Buck, C.E., Burr, G., Cutler, K.B., Damon, P.E., Edwards, R.L., Fairbanks, R.G.,
+Friedrich, M., Guilderson, T.P., Huguen, K.A., Kromer, B., McCormac, F.G.,
+Manning, S., Bronk Ramsey, C., Reimer, R.W., Remmele, S., Southon, J.R.,
+Stuiver, M., Talamo, S., Taylor, F.W., van der Plitch, J., Weyhnemeyer, C.E., 2004.
+Intcal04 terrestrial radiocarbon age calibration, 0–26 cal kyr BP. Radiocarbon
+46, 1029–1058.
+Rendu, C., 2001. Fouiller des cabanes de bergers: pour quoi faire? In: Guilaine, J.
+(Ed.), La très longue durée Etudes Rurales, vols. 153–154, pp. 151–176.
+Rendu, C., 2003. La montagne d’Enveig, une estive pyrénéenne dans la longue
+durée. Canet, Trabucaire.
+Rendu, C., Calastrenc, C., Le Couédic, M., Galop, D., Rius, D., Cugny, C., Bal, M.C.
+Montagnes et campagnes d’Oloron dans la longue durée. Premiers résultats
+d’un programme interdisciplinaire. In: D’Iluro à Oloron Sainte-Marie, un millénaire d’histoire, Colloque de la Fédération Aquitania, 7-8-9 décembre 2005, à
+paraı̂tre dans les suppléments de la revue Aquitania, in press.
+Rendu, C., Bille, E., Conesa, M., Calastrenc, C., Campmajo, P., Crabol, D., 2009. Margins
+and centers in the shaping of the Pyrenean slopes. In: Medieval Dynamics within
+the Long-term Perspective, Medieval Rural Settlement in Marginal Landscapes,
+Ruralia VII, 8–14th September 2007, Cardiff. Brepols, Turnhout, pp. 235–251.
+Ruas, M.P., 2003. Des céréales et des fruits dans le niveau incendié de la cabane 81.
+In: Rendu, C. (Ed.), La montagne d’Enveig. Une estive pyrénéenne dans la longue
+durée. Canet, Trabucaire, pp. 393–412.
+Ruas, M.-P., Bouby, L., Campmajo, P., 2009. Agriculture en montagne cerdane au
+Bronze ﬁnal: les données carpologiques de Llo-Lo Lladre (Pyrénées-Orientales),
+De Méditerranée et d’ailleurs., Mélanges offerts à Jean Guilaine. Archives
+d’Ecologie Préhistorique, Toulouse, pp. 639–660.
+Sanborn, P., Geertsema, M., Timothy Jull, A.J., Hawkes, B., 2006. Soil and
+sedimentary charcoal evidence for Holocene forest ﬁres in an inland
+temperate rainforest, east-central British Columbia, Canada. The Holocene
+16 (3), 415–427.
+Sandor, J.A., Eash, N.S., 1991. Signiﬁcance of ancient agricultural soils for long-term
+agronomic studies and sustainable agriculture research. Agronomic Journal 83,
+29–37.
+
+1797
+
+Sandor, J.A., Eash, N.S., 1995. Ancient agricultural soils in the Andes of southern
+Peru. Soil Science Society American Journal 59, 170–179.
+Sandor, J.A., 2006. Ancient agricultural terraces and soils. In: Warkentin (Ed.),
+Footprints in the Soil: People and Ideas in Soil History. Elsevier, Amsterdam.
+Schwartz, C., Thinon, M., Goepp, S., Schmitt, C., Casner, J., Rosique, T., Wuscher, P.,
+Alexandre, A., Dambrine, E., Martin, C., Guillet, B., 2005. Premières datations
+directes de défrichements protohistoriques sur les chaumes secondaires des
+Vosges (Rossberg, Haut-Rhin). Approche pédoanthracologique. Comptes
+Rendus Geoscience 337, 1250–1256.
+Schweingruber, F.H., 1990. Anatomie europaı̈scher Hölzer – Anatomy of European
+Woods. Eidgenössische Forschungsanstalt für Wald, Schnee und Landschaft,
+Birmensdorf. Bern und Stuttgart, Haupt.
+Sigaut, F., 1975. L’agriculture et le feu, rôle et place du feu dans les techniques de
+préparation du champ de l’ancienne agriculture européenne. EHESS, Mouton & Co.
+Stuiver, M., Reimer, P.J., 1993. Extended 14C data base and revised calib 3.0 14C age
+calibration program. Radiocarbon 35, 215–230.
+Talon, B., 1997. Evolution des zones supra-forestières des Alpes sud-occidentales
+françaises au cours de l’Holocène. Analyse pédoanthracologique. Thèse de 3e
+cycle. Université d’Aix-Marseille III.
+Thinon, M., 1992. L’analyse pédoanthracologique, aspects méthodologiques et
+applications. Thèse ès sciences, Université d’Aix Marseille III.
+Touﬂan, Talon, B., 2009. Spatial reliability of soil charcoal analysis: the case of
+subalpine forest soils. Ecoscience 16 (1), 23–27.
+Trabaud, L., 1989. Les feux de forêts, mécanismes, comportement et environnement.
+France-sélection, 278 pp.
+Trombold, C.D., Israde-Alcantara, I., 2005. Paleoenvironment and plant cultivation
+on terraces at La Quemada, Zacatecas, Mexico: the pollen, phytolith and diatom
+evidence. Journal of Archaeological Science 32, 341–353.
+Vannière, B., 2001. Feu, agro-pastoralisme et dynamiques environnementales en
+France durant l’Holocène, analyse du signal incendie, approches sédimentologiques et études de cas en Berry, Pyrénées et Franche-Comté. Institut
+National Agronomique, Paris-Grignon, 327 pp.
+Vannière, B., Galop, D., Rendu, C.,, Davasse, B., 2001. Feu et pratiques agro-pastorales
+dans les Pyrénées Orientales: le cas de la montagne d’Enveitg (Cerdagne,
+Pyrénées Orientales, France), Sud-Ouest Européen. Environnement et
+Anthropisation 11, 29–42.
+Walsh, K., Mocci, F., Court-Picon, M., Tzortzis, S., Palet-Martinez, J.M., 2005. Dynamique du peuplement et activités agro-pastorales durant l’âge du Bronze dans
+les massifs du Haut Champsaur et de l’Argentierois (Hautes-Alpes). Documents
+d’Archéologie Méridionale 28, 25–44.
+Webb, E.A., Schwarcz, H.P., Healy, P.F., 2004. Detection of ancient maize in lowland
+Maya coils using stable carbon isotopes: evidence from Caracol, Belize. Journal
+of Archaeological Science 31, 1039–1052.
+
+

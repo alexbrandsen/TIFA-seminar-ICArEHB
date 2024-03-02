@@ -1,0 +1,1085 @@
+Journal of Archaeological Science: Reports 18 (2018) 747–757
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science: Reports
+journal homepage: www.elsevier.com/locate/jasrep
+
+Dynamics of ﬁre, precipitation, vegetation and NDVI in dry forest
+environments in NW Argentina. Contributions to environmental
+archaeology
+
+T
+
+L. Susana Burrya, Patricia I. Palaciob, Mariano Somozaa, Matilde E. Trivi de Mandria,
+Henrik B. Lindskougc, M. Bernarda Marconettoc,⁎, Héctor L. D'Antonid
+a
+
+Laboratorio de Palinología y Bioantropología, Departamento de Biología, Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Mar del Plata, Argentina
+CONICET, Laboratorio de Palinología y Bioantropología, Departamento de Biología, Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Mar del Plata,
+Argentina
+c
+Instituto de Antropología de Córdoba, CONICET, Facultad de Filosofía y Humanidades, Universidad Nacional de Córdoba, Av. Hipólito Yrigoyen 174, CP 5000, Córdoba
+Capital, Argentina
+d
+NASA Ames Research Center, Moﬀet Field, CA, USA
+b
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Fire
+Precipitation
+NVDI
+Hindcasting model
+Environmental archaeology
+Remote sensing
+Northwestern Argentina
+
+Fire has shaped the environment and has been important for human cultural development. In this paper, we
+propose to study past ﬁre events using ecological modelling. For instance, the ecology of ﬁre can help us to
+understand and interpret archaeological problems related to past settlement patterns or environmental scenarios. Variation in ﬁre regimens are related to both, vegetation and precipitation ﬂuctuations. Recently, we
+have model past ecosystem dynamics using remote sensing in the Ambato Valley (Catamarca NW Argentina)
+ranging from 442 to 1998 CE. Our aim here is to use remotely sensed vegetation data to enhance our understanding of environmental disturbance in the period 2000–2011. We characterised the spatial-time dynamics of
+the annual NDVI as an indicator of vegetation functioning. Then we related the NDVI dynamics to precipitation
+and ﬁre events in an arid highland environment in the area. Further, we analysed the vegetation data (monthly
+NDVI, MODIS/TERRA satellite, 1km2 pixels), and the climate data: annual precipitation. Then we calculated the
+NDVI annual average of every pixel and the NDVI anomalies of every year over the studied period. Lastly, we
+related NDVI data with annual precipitation and compared the NDVIs prior to and after known ﬁre events in this
+period. On a spatial scale, the results show that the NDVI values were (a) low in shrublands and in cultivated
+areas, (b) medium in grasslands and piedmont forest with anthropic impact, and (c) high in highland forests.
+Within the studied time-period, extreme positive and negative anomalies were detected. The precipitation interannual variations were greater than the NDVI inter-annual variations, thus demonstrating that in some areas of
+the valley the horizontal precipitation can make important contributions to the ecosystem humidity. Extreme
+negative anomalies were observed the year of ﬁre and ﬁre scars at least for the next two years. These results
+demonstrate the relation between structure and function of vegetation, precipitation and ﬁre. Understanding
+these relations can enable us to explain results when hindcasting (“predicting” what happened during past
+episodes of climate change) palaeoenvironmental conditions and ﬁre events, thus helping us to interpret different archaeological contexts related to ﬁre events.
+
+1. Introduction
+During the last couple of years, we have worked with palaeoenvironmental reconstructions in the Ambato Valley, Catamarca Province,
+northwestern Argentina (Lindskoug, 2010; Lindskoug, 2014;
+Lindskoug, 2016a; Lindskoug and Marconetto, 2014; Marconetto, 2008;
+Marconetto, 2009; Marconetto, 2010; Marconetto and Lindskoug, 2015;
+
+⁎
+
+Corresponding author.
+E-mail address: bernarda.marconetto@gmail.com (M.B. Marconetto).
+
+http://dx.doi.org/10.1016/j.jasrep.2017.05.019
+Received 25 October 2016; Received in revised form 20 April 2017; Accepted 15 May 2017
+Available online 16 June 2017
+2352-409X/ © 2017 Elsevier Ltd. All rights reserved.
+
+Marconetto et al., 2014; Marconetto et al., 2015). At the same time, an
+ethnographical work about the perception of climate and ethnometeorology was published (Bussi, 2015). We initiated these studies because of the necessity to understand the environmental context of past
+populations in the inhabited area. Archaeological evidence shows that
+the earliest occupations of the area took place during the Formative
+Period at the beginning of the ﬁrst millennium. Settlement data seems
+
+Journal of Archaeological Science: Reports 18 (2018) 747–757
+
+L.S. Burry et al.
+
+to climatic variations; not only that, but also the ecosystem functioning
+usually has a more rapid response in time than it does in structure.
+Therefore, the use of functional attributes represents a clear advantage
+to the characterisation of ecosystems into bio zones (Paruelo et al.,
+1998). An additional beneﬁt is that functional attributes can be monitored through satellite data (Malingreau, 1986) which apart from exploring the vegetation dynamics, help describe the spatial heterogeneity of ecosystems. Moreover, D'Antoni and Spanner (1993) used
+satellite images to build models for paleoecology. Time series of continuous earth surface observations based on vegetation estimates have
+also signiﬁcantly improved the comprehension of plant variation from a
+regional to a global scale (Fensholt et al., 2009; Schucknecht et al.,
+2013). They allow monitoring the ecosystem dynamics.
+
+to indicate that the area had been continuously occupied until around
+900–1000 according to AMS dating (Marconetto et al., 2014), which
+corresponds to the Regional Integration Period and the last phase of
+Aguada occupation in the area. Several of the archaeological sites in the
+area, Iglesia de Los Indios, Martínez 2 and Piedras Blancas, associated
+to the Aguada Culture, indicated a rapid abandonment as a result of ﬁre
+events (Gastaldi, 2010; Laguens, 2006; Lindskoug, 2016a; Lindskoug,
+2016b; Marconetto and Gordillo, 2008). The ﬁrst palaeoenvironmental
+studies had indicated a possible drought at the end of the occupation of
+the area by the Aguada culture at the end of the ﬁrst millennium
+(Marconetto, 2009; Marconetto, 2010). These evidence led us to initiate
+studies about past ﬁre regimes in the area (Lindskoug, 2010; Lindskoug,
+2014; Lindskoug, 2016a; Lindskoug, 2016b; Lindskoug and Marconetto,
+2014), to analyse whether the abandonment of the valley in the last
+phase of the Aguada occupation was related to forest ﬁres. Further, we
+also applied a method to analyse the past vegetation based on an ecosystem-process model (D'Antoni, 2006; Marconetto et al., 2015) called
+Hindcasting Ecosystems Model (HEMO). This model uses Normalised
+Diﬀerence Vegetation Indexes (NDVI) to make retrodictions about past
+vegetation patterns in the Late Holocene. The HEMO is a model that
+employs non-linear methods, like the Artiﬁcial Neural Network, built
+from a training model with modern NDVI and growth ring data or some
+other annual resolution proxy. The NDVI is calculated from spectroscopic satellite data. Satellites orbiting the earth get periodical data,
+available at open databases such as NOAA, NASA, thus obtaining time
+series. The NDVI is related to the vegetation cover and productivity,
+and indirectly, to precipitation, temperature, drainage, mineralogical
+composition and soil biota, and to all those factors that determine the
+vegetation status. Time series from NDVI data allow supervising the
+ecosystem dynamics. Then, from the training model, the retrodiction of
+old-time NDVI (paleo-NDVI) at an annual resolution is done, employing
+the training model and the growth rings belonging to the period to be
+retrodicted.
+Thus, the HEMO permits the estimation of the vegetation status and
+the variations suﬀered in the past. Those changes can be compared with
+other contemporaneous environmental factors. The HEMO has already
+retrodicted the paleo-NDVI of the Ambato having obtained the ﬁrst
+results for the period 442–1998 CE. It also detected great intensity
+paleo-NDVI ﬂuctuation periods in the V and XV centuries. Furthermore,
+the model proved to be sensitive to global-scale phenomena, such as the
+Little Ice Age and the Medieval Warm Period Valley (Burry et al., 2017;
+Marconetto et al., 2015).
+In this paper, we aim to characterise the spatial distribution and the
+annual dynamics of the NDVI (period 2000–2011) in a highland forest
+environment northwest of Argentina and to relate the NDVI dynamics
+with precipitation and ﬁre events to see possible patterns, which can
+help to understand the ecology of ﬁre in the area. The knowledge of the
+modern ecosystem dynamics will let improve our description of the
+vegetation-precipitation-ﬁre relationship of the area, which will eventually lead to the posing of more precise palaeoenvironmental inferences.
+The application of this in the ﬁeld of environmental archaeology can
+help us to understand the palaeoenvironmental context of the past
+Aguada society in the area and can be used in other areas with similar
+environmental conditions to analyse past societies from diﬀerent angles.
+
+1.2. NDVI
+The Normalised Diﬀerence Vegetation Index (NDVI) is related to
+plant cover and the vigour and productivity of vegetation while time
+series permit the monitoring of the ecosystem dynamics. Time and
+space variations of the plant photosynthetic activity have close relation
+with the soil water availability, especially in arid to sub-humid ecosystems (Fabricante et al., 2009; Iglesias et al., 2010; Ji and Peters,
+2003; Justice et al., 1985; Nicholson et al., 1990; Tucker et al., 1985).
+However, the warmer temperatures of the growing season increase the
+plant productivity in cold environments (Srur et al., 2011). In this
+sense, NDVI time series have been compared to climatic variable time
+series, with the aim of exploring correspondences between geophysical
+elements and variations of the green index (Herrmann et al., 2005;
+Hickler et al., 2005; Xiao and Moody, 2005).
+1.3. Precipitation
+Diverse authors have found a connection between the mean annual
+precipitation and the spatial variations of NDVI on a regional level
+(Lauenroth, 1979; Le Houérou, 1984; McNaughton, 1985); however,
+time patterns could be explained not only by precipitation but also by a
+set of factors (Jobbágy et al., 2002; Lauenroth and Sala, 1992; Le
+Houérou et al., 1988). Therefore, the NDVI time dynamic behave in a
+complex manner seemingly either because of the vegetation memory or
+because of the inertia with regard to previous precipitation periods
+(Nicholson et al., 1990; Oesterheld et al., 2001; Ogle and Reynolds,
+2004; Wiegand et al., 2004).
+1.4. Fire
+Moreover, ﬁre is also a factor that controls the vegetation dynamics
+and it frequently aﬀects forest-shrubby/herbaceous ecotonal areas
+(Bond and van Wilgen, 1996). In addition, ﬁre aﬀects the increasing or
+decreasing woody biomass within a landscape (Murphy et al., 2014).
+Fire regimes are inﬂuenced by both climatic factors controlling the fuel
+production and human activity (Bond and van Wilgen, 1996; Grau and
+Veblen, 2000). The vegetation vigour and the hydric state of fuels can
+determine the ignition probability, conditioning to some extent the
+propagation of ﬁre (Burgan et al., 1998). In mesic forests, ﬁre is more
+frequent during continuous dry periods that can last from less than a
+year to many decades. In contrast, in relatively dry forests, ﬁre can be
+limited by shortage of ﬁne fuel. Moreover, ﬁre occurrence often increases a year or a few years after above-average moisture availability
+(Grau and Veblen, 2000). By allowing the monitoring of vegetation
+conditions at a regional scale, the NDVI data can detect ﬁre events that
+have already occurred and provides an insight into the potential risks of
+ﬁre (Zipoli et al., 2000).
+
+1.1. Ecosystems
+Understanding of the environmental disturbance impact over a region requires of a characterisation of the vegetation state. Ecosystems
+can be characterised either by their structural or by functional parameters. The characterisation of an ecosystem by their structural parameters alone shows some deﬁciencies, for example the inertia of the
+vegetation structure can defer the perception of the ecosystem response
+to a disturbance (Milchunas and Lauenroth, 1995) or to changes related
+
+1.5. Archaeology and ﬁre
+Evidence of ﬁre in the archaeological and geological records can
+748
+
+Journal of Archaeological Science: Reports 18 (2018) 747–757
+
+L.S. Burry et al.
+
+Fig. 1. Location of the Ambato Valley, Catamarca province, Argentina.
+
+Lindskoug and Marconetto, 2014). We could determine that ﬁre was an
+integral part of the landscape before human occupation. The sampled
+stations demonstrated a varying pattern of ﬁre regimes in the Ambato
+Valley. It could also be determined that the landscape in some ways
+must have been shaped by these ﬁre regimes. The analysed stations
+showed that ﬁre was recurrent and was part of the ecosystem in the
+area, and that during the occupation of the valley there were several
+ﬂuctuations throughout time (Lindskoug, 2016a).
+The conditions for ﬁres were present in the Ambato Valley. Ignition
+sources existed, both natural, in the form of lightning strikes, and anthropogenic. Increasing human activity in the area would have made
+the anthropogenic sources increasingly common. In the case of the
+Ambato Valley, there is high biomass availability, with a dominance of
+forest on the valley ﬂoor and on the lower hillsides, while higher up on
+the hillsides grasslands dominate. The natural vegetation must have
+been a highly available source of fuel for the ﬁres, with all of the different fuel sizes present in our study area: ﬁne, medium, and coarse.
+Some areas, especially the grasslands higher up on the slopes, have
+abundant ﬁne-sized fuel and are therefore highly ﬂammable. In these
+areas, ﬁre would have spread very quickly. The climatic conditions
+must have increased the risk of ﬁre immensely, especially since there
+was a drought in the ﬁnal phase of the occupation. Although low precipitation during drought does not increase the biomass (fuel load), it
+aﬀects the available fuel in the area by causing the vegetation to grow
+slowly. However, drought also aﬀects fuel availability by making the
+existing biomass drier, so the total available fuel in the area increases. If
+wetter years were present prior to the drought detected in the ﬁnal
+phase, there would have been a larger accumulation of biomass and an
+increased amount of fuel in the area. When a ﬁre hit it could have been
+devastating because of this large biomass build-up. Regular ﬁres are
+necessary to prevent large biomass accumulations that can later create
+
+provide speciﬁc clues as to why sites or even regions were abandoned.
+Microcharcoal extracted from sedimentary sequences or sampled from
+archaeological sites can give us information on biomass burning and
+can be used as an indicator of past ﬁre events. Marlon et al. (2008) have
+stated that ´ﬁre is a key earth system process aﬀecting ecosystems, landsurface properties, the carbon cycle, atmospheric chemistry, aerosols
+and human activities.’ In some cases, ﬁre can be seen as a transformer
+on a social-cultural level in society, as in the case of diﬀerent resources
+such as food; also, in the burning of the dead in death rituals, and, most
+importantly, as will be discussed in this paper, as a transformer of the
+surrounding environment. Verhoeven (2000) has argued for close links
+among death rituals, ﬁre, and abandonment as transformers of both
+human and material life in Neolithic sites in the Near East. According to
+him, ritual practises of intentionally burnt settlements can be associated
+with mortuary rituals in the area, and a posterior abandonment of the
+settlement. Ethnographical evidence of ﬁre associated to rituals and
+house abandonment after someone passed away exists for Amazonas
+and the Chaco area (Kopenawa and Albert, 2013; Tola, 2006). In these
+cases, ﬁre is seen as a kind of puriﬁcation. It is also possible that ﬁres
+could have covered up traces of abandonment patterns as has been
+discussed in the case of our study area (Lindskoug, 2016a; Lindskoug,
+2016b).
+1.6. Traces of ﬁre in the Ambato Valley
+Our earlier studies in the area had conﬁrmed important information
+about the ecology of ﬁre in the Ambato Valley. To study the past ﬁre
+regimens in the area 17 locations were sampled in the valley. Two
+hundred and ﬁfteen sediment samples were analysed for microcharcoal
+showing that since at least 4500 BP the area had been regularly aﬀected
+by ﬁre, according to 10 AMS dates obtained (Lindskoug, 2016a;
+749
+
+Journal of Archaeological Science: Reports 18 (2018) 747–757
+
+L.S. Burry et al.
+
+valley's occupation was ﬁrst dated to around 1000 ± 100 CE (Gordillo,
+2005; Marconetto, 2007). However, new analysis and calibration of the
+radiocarbon dates has established that the event most probably took
+place no later than 900 CE (Marconetto et al., 2014). We based this
+interpretation not just on the radiocarbon dates, but also mainly on the
+stratigraphic relationships between diﬀerent objects in settlement units
+at the Piedras Blancas site.
+
+extensive ﬁres with great intensity and severity. All this evidence led us
+to further investigate the past and present ﬁre regimens in the area.
+2. Study area
+2.1. Natural environment
+The Argentine north-west is characterised by arid environments,
+which evidence low-dynamic ecosystemic processes and a highly variable productivity in time and space (Iglesias et al., 2010; Noy-Meir,
+1973; Noy-Meir, 1985). Within this area and under the inﬂuence of an
+arid climate the Ambato Valley is located in a highland environment
+made up of sub-parallel belts (Difrieri, 1958). This valley is located in
+the province of Catamarca (Argentina) and is situated between 27°54′
+to 28°03′S and 65°45′to 65°55′W forming part of Río Los Puestos basin.
+The valley lies in the Sierras Pampeanas, a highland environment and
+limits with the summits of Sierra de Humaya to the west and Graciana
+Balcozna to the east (Fig. 1). The precipitation regime varies from 500
+to 800 annual mm and most of the rain falls in summer (October
+through March), with a mean temperature of 24–26 °C in the warmest
+month and 8–10 °C in the coldest month (De la Orden and Quiroga,
+1997; Palmieri et al., 2005). The elevation and exposure of the slopes
+furnish the diﬀerent sectors with climatic peculiarities.
+As for the phytogeographic characterisation, the Ambato Valley,
+belongs to the Monte Province (xerophytic shrubland) (Cabrera, 1976).
+The valley is located in a transition zone leading to the Chaqueña
+Province (xerophilous forest); it limits to the west with the Prepuneña
+Province (xerophytic shrubland with cacti) and to the northeast and
+east with the Yunga (Subtropical Montane Cloud Forest), which receives water not only from rainfall but also from fog precipitation, the
+so-called ‘horizontal precipitation’. The particular situation of the
+valley, in close contact with diﬀerent phytogeographic regions, allows
+it to hold representative species of every region with noticeable differences among slopes (Marconetto, 2008). Within this frame, De la
+Orden and Quiroga (1997) have established diﬀerent vegetation units
+(Fig. 2 and Table 1). Each vegetation unit is deﬁned by the altitudinal
+variable and the ﬂoristic composition. The vegetation close to the river
+comprises the units/area most exploited by the past population. Several
+wildland ﬁres have hit the area, including an extensive ﬁre in December
+2009. The ﬁre started in an eastern valley parallel to Ambato Valley,
+ran down Sierra Graciana Balcozna and it propagated southwards
+(Lindskoug, 2016a).
+
+3. Materials and methods
+3.1. Vegetation data
+We worked with monthly NDVI data from the time record of the
+spectrometer MODIS, TERRA (code: MOD13A3). We used images
+1 km2 pixels (years 2000 to 2011) from the Ambato Valley (http://
+LPDAAC.usgs.gov).
+3.2. Precipitation data
+Due to the absence of climatic data for the Ambato Valley, we used
+annual precipitation data from the Estación Aero Catamarca (28°28′S,
+65°47′W) at 50 km south of the valley issued by the National
+Meteorological Service (SMN).
+3.3. Data analysis
+NDVI monthly data were averaged to obtain the annual NDVI
+(NDVIa) for every pixel, where a = 2000 to 2011.
+3.3.1. Spatial scale
+We calculated for every pixel the average NDVI for the period
+2000–2011 (NDVIp), where p = period 2000–2011, with the aid of the
+programme GRASS (2012). From the resulting data, an NDVIp map was
+made.
+3.3.2. Time scale
+For every pixel, the diﬀerence between NDVIa and NDVIp was calculated for every year: NDVId = NDVIa − NDVIp.
+Then, the standard deviation (sd) for each year and for every pixel
+was calculated.
+With the aim of visualizing the magnitude of the deviations of the
+NDVIa, anomalies were calculated. The anomalies are deviations from
+the NDVI values of a period with respect to an average value of a reference period (López et al., 1991), represented here by the ratio
+NDVId/sd.
+Maps of the anomalies from the Ambato Valley (period 2000–2011)
+were made with the QGIS software (2014). The following scale of deviations was used: extreme positive anomaly (NDVIa > 2sd), medium
+positive
+anomaly
+(1sd ≤ NDVIa ≤ 2sd),
+no
+anomaly
+(− 1sd ≤ NDVIa ≤ 1sd), medium negative anomaly (−2sd ≤
+NDVIa ≤ −1sd) and extreme negative anomaly (NDVIa < −2sd)
+(Britos and Basconcelo, 2012).
+Correlations between the NDVIa of each pixel and the annual precipitation both of the same year and the three previous years were
+done: (0), (−1), (−2) and (−3) for the year, one, two and three years
+earlier, respectively. A map was made that shows pixels with the largest
+correlations between NDVIa and precipitation of the year and the three
+lag years. The NDVIa – precipitation correlation coeﬃcient (r2) was
+calculated.
+
+2.2. The archaeological landscape in the Ambato Valley
+> 700 archaeological sites, including agricultural terraces and
+structures for animal herding and settlement units, have been recorded
+in the Ambato Valley, around 130 of which are settlement units. Most of
+the residential units are found on the ﬂuvial plain, between the ﬁrst and
+second terraces of the Los Puestos River, between approximately 1050
+and 1090 m asl. The agricultural terraces are located on the third natural terrace and in the piedmont area. In the area between the agricultural terraces, the landscape is also dotted with residential units
+(Assandri, 2007; Figueroa, 2010). The sites recorded are concentrated
+in the southern part of the valley, but this probably reﬂects the fact that
+this area has been more intensively surveyed than the northern part.
+The residential sites are usually rectangular but have diﬀerent sizes and
+compositions.
+The Formative Period is represented in the valley by two mound
+sites, El Altillo and Martínez 3, although most sites in the valley have
+been radiocarbon dated and are chronologically situated between the
+sixth and eleventh centuries AD (Marconetto et al., 2014). This period
+corresponds to the development of the Aguada culture in the Ambato
+Valley and is known as the Regional Integration period according to
+Pérez Gollán (1994). The radiocarbon dates associated with the ﬁre
+regimes are also discussed in Marconetto et al. (2014). The end of the
+
+4. Results
+4.1. Spatial variation of NDVI in the Ambato Valley
+The NDVIp for the period 2000–2011 in the Ambato Valley ranged
+between 0.43 and 0.63. The lowest values were observed in the centre,
+750
+
+Journal of Archaeological Science: Reports 18 (2018) 747–757
+
+L.S. Burry et al.
+
+Fig. 2. Physiographic characterisation of the Ambato Valley.
+(Modiﬁed from De la Orden and Quiroga, 1997).
+
+of the ongoing year (0), the previous year (− 1) and the three years
+earlier (−3); and also pixels with r2 < 0.6 and r2 ≥ 0.6 (Fig. 5).
+Correlations NDVIa - precipitation showed that the southern and
+eastern piedmonts of the valley were correlated to precipitations of the
+year (no lag) while the central and western zones and the eastern
+summits were correlated with precipitations of the previous year (year
+− 1). Few isolated pixels were correlated to three years before precipitations (− 3) and none to two years before precipitations (− 2).
+These correlations gave an r2 > 0.6, mainly in pixels of the western
+slope and north of the valley, which showed a one year lag (year −1);
+r2 smaller than 0.6 were seen in pixels of the eastern slopes and south of
+the valley, most of them having no lag (Fig. 5).
+
+northwestern and a small northeastern sector (Fig. 3). The highest values were evidenced in the south-west and east of the valley.
+4.2. Temporal variation of the annual NDVI (2000–2011) – anomalies
+The NDVIa condition in relation to the NDVIp for the period under
+study is displayed in Fig. 4. Pixels with standard deviations > 1
+(medium anomaly) and 2 (extreme anomaly) were observed in all the
+studied period, except for the year 2006 that showed no anomalies.
+In the year 2001, the anomalies were greater than the average in the
+entire valley. Extreme anomalies were evidenced mainly in the northcentre of the valley, and medium anomalies in the south. In contrast, in
+the year 2009 medium and extreme negative anomalies were observed
+in the slopes of the hills, while in the centre of the valley no anomalies
+were registered. In the year, 2010 medium negative anomalies were
+observed in the centre of the valley and extreme negative anomalies in
+the south in agreement with the area covered by the December 2009
+ﬁre. In the year, 2011 medium positive anomalies were observed in the
+north and east of the valley, while in the south, medium negative
+anomalies persisted as in 2009.
+
+5. Discussion
+This model serves as a tool to ﬁne tune paleoenvironmental reconstructions related to past ﬁre regimens and can be of use in the ﬁeld
+of environmental archaeology and paleoecology. As for our study area,
+the Ambato Valley, which has multiple archaeological sites aﬀected by
+ﬁre, the model can help in adjusting the past ﬁre regimens associated to
+for example abandonment and droughts. In areas with related archaeological scenarios associated with ﬁre events, it will be possible to
+analyse similar environments and/or archaeological contexts. However,
+we will not centre the discussion on the archaeological sites with evidence of ﬁre here, this has been done in other cases (Lindskoug, 2016a;
+Lindskoug, 2016b). In the case of microcharcoal studies, this model can
+reinforce the reconstructions. As our earlier studies has shown the area
+was regularly aﬀected by ﬁres (Lindskoug, 2016a; Lindskoug and
+Marconetto, 2014) and also by drought (Marconetto, 2010; Marconetto,
+2009), together with the vegetation reconstructions done by the HEMO
+modelling (Marconetto et al., 2015) we have been able to ﬁne tune the
+past environmental context of the Aguada society. Using these tools, we
+
+4.3. Relation NDVIa – ﬁre
+The NDVIa condition during 2009 (ﬁre occurrence year), 2010 and
+2011 in relation to the mean NDVIp are shown in Fig. 4. Extensive areas
+with extreme and medium negative anomalies were noticeable in 2009.
+The following years negative anomalies persisted in the south of the
+valley, both extreme (year 2010) and medium (year 2011).
+4.4. Relation NDVIa– precipitation
+The map shows the NDVIa – precipitation correlation with rainfalls
+751
+
+Journal of Archaeological Science: Reports 18 (2018) 747–757
+
+L.S. Burry et al.
+
+origin (Scott, 2000). However, lightning is the most common factor as
+an ignition source. In all cases moisture conditions are important
+(Carcaillet, 1998), since ﬁres are more frequent when there is a large
+amount of fuel available and lower humidity.
+The analysis of the spatial variation of the NDVI average (period
+2000–2011) (NDVIp) in the Ambato Valley, permitted the distinction of
+diﬀerent sectors of photosynthetic activity of vegetation, according to
+the vegetation physiognomy and the presence - absence of agricultural
+exploitation.
+We could establish an association between diﬀerent NDVI values
+and the observed physiognomic units: the highest values agree with
+forests; the intermediate values with piedmont forests and grasslands;
+and the lowest ones with the shrubland, grassland-shrubland mosaic
+and zones with both perennial and annual cultures. Paruelo et al.
+(1998) arrived to similar conclusions while doing on a regional scale,
+an NDVI spatial zonation in Patagonia, ﬁnding high, medium and low
+values for the sub Antarctic forest, grass - steppe and shrub semi-desert
+steppe, respectively. Also, Zerda and Tiedemann (2010), through NDVI
+values taken in the dry Chaco (Santiago del Estero, Argentina) have
+shown to have more photosynthetic activity the forest than the grassland.
+The low NDVI values from the cultivation area sectors would be
+indicative of plant cover seasonal variations. Since this work was developed at an annual time scale, seasonal diﬀerences in the phenology
+of crops tend to smooth out. Thus, high NDVI values in the growing
+season get blurred by lack or very scanty plant cover, with low NDVI in
+senescent or annual crops harvest periods (Goward et al., 1985), or at
+the dormancy time of perennial plants.
+With respect to the temporal variation (2000–2011) of the NDVI in
+the Ambato Valley, the anomalies show the intensity of the annual
+variations. Negative standard deviations of the NDVI mean values are
+indicators of dryness; thus, anomalies represent the intensity of
+droughts (Britos and Basconcelo, 2012). The quantiﬁcation of the
+standard deviations from the annual NDVI mean values (period
+2000–2011) (NDVIp) of the Ambato Valley permitted us the detection
+of the annual NDVI temporal variation and its magnitude. The year
+2001 was a non-dry year, with medium and extreme positive anomalies, in the whole valley. Conversely, except for the centre of the valley,
+2009 was a dry year. The rest of the years showed slight variations in
+the degree of dryness of the various areas, with isolated cases of both
+positive and negative anomalies in some pixels.
+Fire in the central part of the Ambato Valley occurred in December
+2009 when many trees were burnt. This fact was witnessed by the inhabitants of the region and could be determined in the ﬁre coverage
+area through the observed medium negative anomalies in the centre of
+the valley and the extreme negative anomalies in the south. According
+to Lindskoug (2016a) this event left vegetation consequences for many
+years. However, according to our microcharcoal studies in the area ﬁre
+has been part of the ecosystem since at least 4500 BP (Lindskoug,
+2016a; Lindskoug and Marconetto, 2014). Fires in the area have been
+recurrent with diﬀerent intensity and extension not only aﬀecting the
+present population but also the past societies living in the area and
+especially their cultivated areas (Lindskoug, 2016a; Lindskoug, 2016b).
+When summarizing the NDVI behaviour throughout the decade of
+study, we could detect medium and extreme positive anomalies in
+2001, when abundant plant mass must have been produced. Then, nonanomaly years followed all along the valley. Medium and extreme negative anomalies extensively registered at both slopes in 2009, and later
+came the ﬁre.
+Thus, in that year, because of the drought, a low hydric state must
+have been existed, increasing the ignition probability and somewhat
+conditioning the propagation of ﬁre (Burgan et al., 1998). In this sense,
+the relation dryness - ﬁre has been reported by Bond and van Wilgen
+(1996), among others. Also, it should be considered that the abundance
+of plant material in the forests accumulated since 2000 was the ﬁre fuel
+(Grau and Veblen, 2000). In this way, the relationship between ﬁre
+
+Table 1
+Characterisation of Valle de Ambato, Catamarca, Argentina. Numbers refers to vegetation
+units in Fig. 1.
+(Modiﬁed from De la Orden and Quiroga, 1997).
+Great
+Landscape
+
+Landscape
+
+Vegetation
+units
+
+Height m asl
+
+Dominant species
+
+Superior
+Rocky
+Side
+
+Sierras
+Graciana
+Balcozna
+Sierra de
+Humaya
+
+1. Grassland
+(summits of
+hills)
+2. Grass
+3. Grasslandshrubland
+mosaic
+
+1250–1920
+
+Stipa sp.
+
+1800–2280
+1150–1850
+
+Piedmont
+
+Sierras
+Graciana
+Balcozna
+
+Sierra de
+Humaya
+
+Altos de
+Singuil
+Fluvial plain
+
+4. Grasslandsuﬀrutices
+mosaic
+
+1500–2200
+
+5. Forest
+
+1100–1800
+
+6. Grassland
+
+1200–1650
+
+7. Forestshrubland
+mosaic (sup.)
+
+1100–1450
+
+8. Forestshrubland
+mosaic (inf.)
+
+1160–1300
+
+9. Open forest
+
+1030–1300
+
+10. Forest
+
+1200–1300
+
+11. Grasslandshrub mosaic
+
+1100–1300
+
+12. Grassland
+with shrub
+
+1000–1200
+
+13. Shrubland
+
+1280–1560
+
+14. Open
+forest
+15. Gallery
+forest
+
+1000–1200
+
+Bromus sp.
+Fagara coco
+Schinopsis
+haenkeana
+Acacia caven
+Celtis pallida
+Stipa sp.
+Festuca sp.
+Lippia sp.
+Baccharis sp.
+Stipa sp.
+Festuca sp.
+Schinopsis
+haenkeana Acacia
+visco
+Stipa sp.
+Festuca sp.
+Schinopsis
+haenkeana Acacia
+visco
+Mimosa farinosa
+Prosopis nigra
+Geoﬀroea
+decorticans
+Mimosa farinosa
+Schinus sp.
+Prosopis sp.
+Aspidosperma
+quebracho blanco
+Acacia visco
+Lithraea ternifolia
+Acacia aroma
+A. caven
+Stipa sp.
+Stipa sp.
+Acacia aroma
+Prosopis torquata
+Mimosa farinosa
+Schinus sp.
+Prosopis nigra
+
+1000–1200
+
+Celtis tala
+
+can enhance the understanding of the past environmental conditions in
+the area. These models can also improve the proxies to reconstruct the
+past environment related to periods and ﬂuctuations in humidity and
+vegetation pattern. These associations are fundamental in the reconstructions; and we argue that the model can detect and reinforce
+these ﬂuctuations in ﬁre regimens related to the vegetation history, ﬁre
+and variations in humidity.
+In terms of wildﬁres, the link between drought and natural ﬁres has
+been considered extensively by various scholars (see for example Long
+and Whitlock, 2002; Whitlock et al., 2003; Meyer and Pierce, 2003). As
+there have been indicators of aridity detected in the study area, the
+conditions of the occurrences of wildﬁres were established through the
+analysis of the anatomy of charred logs of Geoﬀroea decorticans recovered in contexts associated with ﬁnal occupation of the valley
+(Marconetto, 2010; Marconetto, 2009). These ﬁres may have had either
+natural or anthropogenic origins. The ignition sources of natural wildﬁres are principally associated with volcanic activity (not applicable to
+the study area), lighting strikes, sparks from rock falls, and spontaneous
+combustion, but also to accidental combustion that is anthropogenic in
+
+752
+
+Journal of Archaeological Science: Reports 18 (2018) 747–757
+
+L.S. Burry et al.
+
+Fig. 3. Map of Valle de Ambato with NDVIp, period 2000–2011.
+
+grassland was associated to precipitation of the year in its southern area
+and to the previous year in the north. On the eastern side of Sierras de
+Graciana Balcozna the Subtropical Montane Cloud Forest is located,
+with annual precipitation ranging between 1000 and 2400 mm
+(Cabrera, 1976). This Montane Cloud Forest apart from receiving water
+through vertical precipitation, has an important horizontal precipitation contribution; in fact, the fog represents 10–40% of the water
+contribution to the ecosystem (Hunzinger, 1995). This horizontal precipitation is the one that crosses through the Sierras Graciana Balcozna
+summits and covers the highland grassland area of the western side of
+the hills. Therefore, because of the fog the highland grasslands from the
+Ambato Valley do not depend on vertical precipitations correlations
+render/show/evidence low values.
+The best correlations with the previous year were evidenced in the
+grassland-shrubland mosaic of the western side of the valley. The ﬂuvial
+plain forests, now very much impacted by walnut tree, soy and corn
+cultures were as well better correlated with the previous year rainfalls.
+The dry Chaco has, according to the NDVI dynamics and in the
+presence of rainfall and temperature variations, a forest with greater
+stability than the natural grassland due to a greater diversity of species
+in the forest, and mainly to rooted woody plants, which explore the
+deepest soil layers and do not depend on precipitations (Zerda and
+Tiedemann, 2010). On the contrary, the Chaco grassland immediately
+reacts after precipitation, which is highly expected because of the great
+eﬃciency of the root system in using water. Therefore the grasses with
+a more superﬁcial root systems than trees and shrubs, show growth
+pulses connected to precipitation (Villagra et al., 2011).
+The forest and some sectors west of the Ambato Valley have a high
+correlation with precipitations of the year of the rainfall or the previous
+year, sometimes with a low NDVI-precipitation correlation, thus demonstrating that the forest dynamic is slightly altered by rainfall variations. Particularly, in the Prosopis nigra and Geoﬀroea decorticans
+forests, woody plants have access to deep water reservoirs through the
+development of extensive root systems (Villagra et al., 2011; Dalmasso,
+2010), and thus these species do not strictly depend on precipitations.
+Therefore, the low forest and grassland - precipitation correlations
+observed in our analysis would indicate more stability in these units
+than in those with shrub predominance. Our analysis showed that due
+to the independence between the forest and grassland vigour-rainfall,
+the low forest and grassland-precipitation correlations would indicate
+
+sources and NDVI negative anomalies could be veriﬁed in this study.
+Therefore, we can show that the ﬁre was related to climatic factors
+controlling the fuel production. This ﬁre-anomaly relation was also
+demonstrated in the Spanish forest (Vázquez et al., 2001). Sectors south
+of the valley that had been aﬀected by ﬁre, the following year showed
+the smallest NDVI values, evidencing a low plant cover.
+In 2011, all pixels had increased NDVI values. Those pixels that had
+shown extreme negative anomalies (burnt areas), in the last year of
+study showed medium negative anomalies, indicative of ﬁre scars,
+while pixels with negative means in 2010, in 2011 showed no
+anomalies and pixels without anomalies in 2010 presented medium
+positive anomalies in 2011. That is, the increasing NDVI evidenced a
+recovery of all the vegetation units, possibly before better climatic
+conditions.
+We found relations between NDVI and precipitation. In the
+Argentine Puna, Baldassini (2010), found that the annual precipitation
+was the main climatic factor associated to the spatial variability of
+primary productivity. In our present work, we detected areas with
+NDVI's best correlated with the year of precipitation and others with the
+previous year. The time-lag shows to be an important phenomenon
+since it reveals how quickly the ecosystem responds to the climate
+change impacts (Gao et al., 2016). The forest and grassland NDVI's
+related either with the year of precipitation or to the previous one,
+while shrublands correlated only with the previous year precipitation.
+Sectors of the valley with NDVI-precipitation correlations of more than
+two or more previous years were not found.
+The forests which showed a relation with rainfalls of the year (no
+lags), were mainly in the southern and eastern piedmont (Fig. 5). Similarly, in the Sahel and East Africa, Nicholson et al. (1990) found that
+plant formation in arid environments respond clear and immediately to
+precipitation. The same responses were obtained by Wang et al. (2003)
+in the Central Great Plains (USA), especially after dry periods. However, many of the correlations NDVI-precipitation from the Ambato
+Valley were low (< 0.6), especially those southwest of the valley. This
+situation shows the low relationship existing between the NDVI of the
+forests south of the valley and the year of the precipitation.
+In relation to grasslands, we have observed that the largest NDVI precipitation correlations belong to the same or previous year. Only
+some pixels had high correlations. On the western side of Sierra
+Graciana Balcozna, in the summit of the hill at 1250–1920 m asl. The
+753
+
+Journal of Archaeological Science: Reports 18 (2018) 747–757
+
+L.S. Burry et al.
+
+Fig. 4. NDVI anomalies, Valle de Ambato, period 2000–2011.
+
+previous month rainfalls. Because of this, the relationship between
+NDVI and precipitation of the diﬀerent zones of the Ambato Valley
+should be explored at shorter time scales.
+The absence of a closer relationship between precipitation and annual NDVI could also be related to the diﬀerence of rainfall according to
+the topography as well as to the lack of quantitative information on the
+contribution of moisture. In this study, the low spatial resolution of the
+precipitation data did not allow a more detailed assessment of the
+
+more stability in these units than in those with shrub predominance.
+Fabricante et al. (2009) found a low correlation between the interannual variation of the NDVI and the annual precipitation, current and
+previous, in arid ecosystems of North Patagonia. In contrast, it was
+highly correlated to the accumulated precipitation in the few months
+before the growing season. Furthermore, Iglesias et al. (2010) found in
+dry forests of western Argentina a correlation between precipitation
+and NDVI, which, in general, showed to be greater when related to the
+754
+
+Journal of Archaeological Science: Reports 18 (2018) 747–757
+
+L.S. Burry et al.
+
+Fig. 5. Map of Valle de Ambato with the best NDVIa - precipitation correlations. Correlation with rainfall of the ongoing year (0); correlation with the previous year rainfall (−1);
+correlation with the three years earlier rainfall (− 3). X indicates pixels with an NDVIa – precipitation correlation > 0.6 (r2 ≥ 0.6).
+
+evidenced the fact that some zones of the Ambato Valley are more
+sensitive to rainfalls of the ongoing year while others are to the previous year. On the other hand, we must emphasize the importance of
+fog coming from the Yungas, showing that in some areas of the valley
+the horizontal precipitation can make important contributions to the
+ecosystem humidity.
+On the other hand, these models can serve to adjust the comprehension of the result of the paleaoenvironmental retrodiction. Thus this
+type of analysis is a good complement to the study of past ﬁre regimens
+based on microcharcoal studies. This model can help us adjust the
+variations in the past ﬁre regimens especially with the impossibility of
+radiocarbon dating all soil samples extracted in the ﬁeld when studying
+the past wildland ﬁre events.
+Finding these associations linked with the paleoenvironmental retrodictions that stretches to archaeological epochs will permit to consider potential ﬁre scenarios in the past that can be of interest to resolve
+diﬀerent problems in the ﬁeld of archaeology, especially related to
+environmental factors, which could have aﬀected past societies.
+
+relationship NDVI-precipitation. On the other hand, there is a need to
+inquire into this relationship on diﬀerent time scales.
+This work on the modern NDVI dynamic and its relation to precipitation and ﬁre will permit improving the interpretation of annual
+paleo-NDVI ﬂuctuations detected along the last 1600 years in the
+Ambato Valley by means of the Hindcasting Ecosystem Model
+(Marconetto et al., 2015). Associations can be made with diﬀerent local
+or global environmental conditions (D'Antoni et al., 2016).
+This study represents a contribution to future archaeological studies
+for the retrodiction of the environment and ﬁre events.
+6. Conclusions
+The implications of this study can be considered from two points of
+view: ﬁrstly, the usefulness of this kind of models to describe local
+ecological variables in the study area and secondly, its application to
+paleoenvironmental reconstructions and its use in environmental archaeology and paleoecology associated to past ﬁre events.
+In relation to the local ecological variables we can conclude that a
+spatial variation of the annual NDVI linked to the type of vegetation of
+the Ambato Valley is evidenced. Both the south western and piedmont
+forests, and the summit grasslands of Sierra Balcozna show the highest
+NDVI values; the shrub-grassland mosaic has medium values. However,
+the shrub-grassland mosaic characterised by cultured annual species,
+like soy and corn, and deciduous trees (walnut trees) shows the lowest
+NDVI values. This diﬀerence can be explained by the wide NDVI seasonal variations of cultures that smooth the annual NDVI of the agricultural sector.
+Regarding the NDVI temporal variation, anomalies were detected
+during all the studied period. In 2009, extreme negative anomalies were
+registered, representing a particularly dry year with probable accumulation of ﬂammable material. Coincidently, at the end of 2009 a ﬁre
+of great magnitude occurred.
+As for the vegetation types, the NDVI-precipitation relation
+
+Conﬂict of interests
+The Authors declare that there is no conﬂict of interest.
+Acknowledgements
+The MODIS-TERRA (MOD13A3) data product were obtained
+through the online Data Pool at the NASA Land Processes Distributed
+Active Archive Center (LP DAAC), USGS/Earth Resources Observation
+and Science (EROS) Center, Sioux Falls, South Dakota (https://lpdaac.
+usgs.gov/data_access). The collection of precipitation data was furnished by the National Meteorological Service (SMN) from Argentina.
+This work was supported through grants by: SECyT - Universidad
+Nacional de Mar del Plata EXA 754/16, SECyT - Universidad Nacional
+de Córdoba 2014-2016. UNC (Resolución Secyt 203/14 and Resolución
+755
+
+Journal of Archaeological Science: Reports 18 (2018) 747–757
+
+L.S. Burry et al.
+
+Ji, L., Peters, A.J., 2003. Assessing vegetation response to drought in the northern Great
+Plains using vegetation and drought indices. Remote Sens. Environ. 87, 85–98.
+Jobbágy, E.G., Sala, O.E., Paruelo, J.M., 2002. Patterns and controls of primary production in the Patagonian steppe: a remote sensing approach. Ecology 83, 307–319.
+Justice, C.O., Townshend, J.R.G., Holben, B.N., Tucker, C.J., 1985. Analysis of the phenology of global vegetation using meteorological satellite data. Int. J. Remote Sens. 6,
+1271–1318.
+Kopenawa, D., Albert, B., 2013. The Falling Sky: Words of a Yanomami Shaman. Harvard
+University Press.
+Laguens, A.G., 2006. Continuidad y ruptura en procesos de diferenciación social en comunidades aldeanas del Valle de Ambato, Catamarca, Argentina (S. IV–X d.C.),
+Chungará (Arica). 38. pp. 211–222.
+Lauenroth, W.K., 1979. Grassland primary production: North American Grasslands in
+perspective. In: French, N.R. (Ed.), Perspectives in Grassland Ecology: Results and
+Applications of the US/IBP Grassland Biome Study. Springer New York, New York,
+NY, pp. 3–24.
+Lauenroth, W.K., Sala, O.E., 1992. Long-term forage production of North American
+shortgrass steppe. Ecol. Appl. 2, 397–403.
+Le Houérou, H.N., 1984. Rain use eﬃciency: a unifying concept in arid-land ecology. J.
+Arid Environ. 7, 213–247.
+Le Houérou, H.N., Bingham, R.L., Skerbek, W., 1988. Relationship between the variability
+of primary production and variability of annual precipitation in world arid lands. J.
+Arid Environ. 15, 1–18.
+Lindskoug, H.B., 2010. Tras las huellas del fuego. Aportes del análisis de microcarbones a
+la arqueología del Valle de Ambato (Catamarca), XVII Congreso Nacional de
+Arqueología Argentina/Simposio 27: Utilización de indicadores físicos, químicos y
+biológicos en la resolución de problemas arqueológicos, Mendoza, Argentina. pp.
+1405–1410.
+Lindskoug, H.B., 2014. In pursuit of the ﬁre. Contributions of microcharcoal analysis to
+the archaeology of the Ambato Valley (Catamarca). In: Kligmann, D.M., Morales,
+M.R. (Eds.), Physical, Chemical and Biological Markers in Argentine Archaeology:
+Theory, Methods and Applications, British Archaeological Reports (BAR)
+International Series 2678. Archaeopress, Oxford, pp. 117–130.
+Lindskoug, H.B., 2016a. Forest Fires and Abandonment Patterns from the Aguada Culture,
+Northwest Argentina. A Paleoenvironmental Study Based on the Analysis of
+Microcharcoals in the Ambato Valley, Catamarca Province. British Archaeological
+Reports International Series 2803 (BAR), Oxford.
+Lindskoug, H.B., 2016b. Fire events, violence and abandonment scenarios in the Ancient
+Andes: the ﬁnal stage of the Aguada culture in the Ambato Valley, Northwest
+Argentina. J. World Prehist. 29, 155–214.
+Lindskoug, H.B., Marconetto, M.B., 2014. Paleoecología de fuegos en el Valle de Ambato
+(Catamarca), Intersecciones en Antropología. 15. pp. 23–37.
+Long, C.J., Whitlock, C., 2002. Fire and vegetation history from the coastal rain forest of
+the Western Oregon Coast Range. Quat. Res. 58, 215–225.
+López, S., González, F., Llop, R., Cuevas, J.M., 1991. An evaluation of the utility of NOAA
+AVHRR images for monitoring forest ﬁre risk in Spain. Int. J. Remote Sens. 12,
+1841–1851.
+Malingreau, J.P., 1986. Global vegetation dynamics: satellite observations over Asia. Int.
+J. Remote Sens. 7, 1121–1146.
+Marconetto, M.B., 2007. Aportes de la Antracología a la cronología del Valle de Ambato.
+In: Marconetto, M.B., Babot, P., Oliszewski, N. (Eds.), Paleoetnobotánica del cono sur:
+Estudios de casos y propuestas metodológicas, Museo de Antropología, FFyH. UNC y
+Ferreyra editor, Córdoba, pp. 197–218.
+Marconetto, M.B., 2008. Recursos Forestales y el proceso de diferenciación social en
+tiempos prehispánicos. Valle de Ambato, Catamarca, Oxford.
+Marconetto, M.B., 2009. Rasgos anatómicos asociados al estrés hídrico en carbón vegetal
+arqueológico, Valle de Ambato (Catamarca), ﬁnes del primer milenio. Darwin 47,
+247–259.
+Marconetto, M.B., 2010. Paleoenvironment and anthracology: determination of variations
+in humidity based on anatomical characters in archealogical plant charcoal (Ambato
+Valley, Catamarca, Argentina). J. Archaeol. Sci. 37, 1186–1191.
+Marconetto, M.B., Gordillo, I., 2008. Los Techos del Vecino: análisis antracológico de
+restos de construcción carbonizados de los sitios “Iglesia de los Indios” y “Piedras
+Blancas” (Catamarca). Darwin 46, 213–226.
+Marconetto, M.B., Lindskoug, H.B., 2015. Lo que el fuego nos dejó. Aportes de la
+antracología al proyecto arqueológico Ambato (Catamarca, Argentina)
+Comechingonia. Revista de Arqueología. 19. pp. 55–75.
+Marconetto, M.B., Gastaldi, M.R., Lindskoug, H.B., Laguens, A.G., 2014. Merging the
+matrix: stratigraphy, radiocarbon dates, and ﬁre regimens in the Ambato Valley
+(Catamarca, NW Argentina). Radiocarbon 56, 189–207.
+Marconetto, M.B., Burry, L.S., Palacio, P., Somoza, M., Trivi, M., Lindskoug, H.B.,
+D'Antoni, H., 2015. Aporte a los estudios paleoambientales del Valle de Ambato
+(Catamarca) a partir de la reconstrucción del paleo NDVI (442–1998 AD), Mundo de
+Antes. 9. pp. 45–68.
+Marlon, J.R., Bartlein, P.J., Carcaillet, C., Gavin, D.G., Harrison, S.P., Higuera, P.E., Joos,
+F., Power, M.J., Prentice, I.C., 2008. Climate and human inﬂuences on global biomass
+burning over the past two millennia. Nat. Geosci. 1, 697–702.
+McNaughton, S.J., 1985. Ecology of a grazing ecosystem: the Serengeti. Ecol. Monogr. 55,
+259–294.
+Meyer, G.A., Pierce, J.L., 2003. Climatic controls on ﬁre-induced sediment pulses in
+Yellowstone National Park and central Idaho: a long-term perspective. For. Ecol.
+Manag. 178, 89–104.
+Milchunas, D.G., Lauenroth, W.K., 1995. Inertia in plant community structure: state
+changes after cessation of nutrient-enrichment stress. Ecol. Appl. 5, 452–458.
+Murphy, B.P., Lehmann, C.E.R., Russell-Smith, J., Lawes, M.J., 2014. Fire regimes and
+woody biomass dynamics in Australian savannas. J. Biogeogr. 41, 133–144.
+
+Rectoral 1565/14) - SECyT. PIP/CONICET 112/2011 01 00548.
+References
+Assandri, S., 2007. Procesos de Complejización Social y Organización Espacial en el Valle
+de Ambato (Catamarca-Argentina), Sede Iberoamericana Santa María de la Rábida.
+132 Universidad Internacional de Andalucía, Maestría en Arqueología Social en
+Iberoamérica.
+Baldassini, P., 2010. Caracterización ﬁsonómica y funcional de la vegetación de la Puna
+mediante el uso de sensores remotos. 121 Facultad de Agronomía, Universidad de
+Buenos Aires (unpublished).
+Bond, W.J., van Wilgen, B.W., 1996. In: Shipley, J.W. (Ed.), Fire and Plants. Population
+and Community Biology Series Springer, Netherlands, pp. 263.
+Britos, A., Basconcelo, S., 2012. Informe Sequía 2011 Análisis de las Anomalías del Índice
+Verde (NDVI), Subsecretaría de Agricultura Familiar, Delegación Córdoba, Equipo
+del Norte.
+Burgan, R., Klaver, R., Klaver, J., 1998. Fuel models and ﬁre potential from satellite and
+surface observations. Int. J. Wildland Fire 8, 159–170.
+Burry, L.S., Marconetto, M.B., Somoza, M., Palacio, P., Trivi, M., 2017. Ecosystem modeling using artiﬁcial neural networks: an archaeological tool. J. Archaeol. Sci. Rep (In
+revision).
+Bussi, M., 2015. Decompostura o muerte. Una aproximación etnográﬁca a las relaciones
+entre humanos y fenómenos meteorológicos en Los Castillos (Catamarca), Facultad de
+Filosofía y Humanidades, Universidad Nacional de Córdoba. (unpublished) pp. 162.
+Cabrera, A., 1976. Regiones ﬁtogeográﬁcas argentinas, Enciclopedia Argentina de
+Agricultura y Jardinería, second ed. Acme, Buenos Aires, pp. 1–85.
+Carcaillet, C., 1998. A spatially precise study of Holocene ﬁre history, climate and human
+impact within the Maurienne valley, North French Alps. J. Ecol. 86, 384–396.
+Dalmasso, A., 2010. Silvicultura Urbana II. Árboles apropiados para la provincia de
+Mendoza. Inca Editorial Cooperativa de Trabajo Ltd, Mendoza.
+D'Antoni, H.L., 2006. Hindcasting Ecosystems.
+D'Antoni, H.L., Spanner, M.A., 1993. Remote sensing and modern pollen dispersal in
+Southern Patagonia and Tierra Del Fuego (Argentina): models for palaeoecology.
+Grana 32, 29–39.
+D'Antoni, H.L., Marconetto, M.B., Somoza, M., Palacio, P.I., Trivi, M., Burry, L.S., 2016. El
+modelado ecosistémico a través de redes neuronales como herramienta arqueológica,
+in: Serie Monográﬁca y Didáctica, P.d.l.F.d.C.N.e.I.M.L.d.l.U.N.d.T. (Ed.). XIX
+Congreso Nacional de Arqueología Argentina, San Miguel de Tucumán, pp. 1071.
+De la Orden, E.A., Quiroga, A., 1997. Fisiografía y vegetación de la Cuenca del Río Los
+Puestos, Departamento de Ambato, Catamarca, Revista de Ciencia y Técnica. IV. pp.
+27–45.
+Difrieri, H.A., 1958. Las regiones naturales. In: de Aparicio, F., Difrieri, H.A. (Eds.), La
+Argentina. Suma de Geografía, Editorial Peuser, Buenos Aires, pp. 353–471.
+Fabricante, I., Oesterheld, M., Paruelo, J.M., 2009. Annual and seasonal variation of NDVI
+explained by current and previous precipitation across Northern Patagonia. J. Arid
+Environ. 73, 745–753.
+Fensholt, R., Rasmussen, K., Nielsen, T.T., Mbow, C., 2009. Evaluation of earth observation based long term vegetation trends — intercomparing NDVI time series
+trend analysis consistency of Sahel from AVHRR GIMMS, Terra MODIS and SPOT
+VGT data. Remote Sens. Environ. 113, 1886–1898.
+Figueroa, G.G., 2010. Organización de la producción agrícola en contextos sociales no
+igualitarios: El caso del Valle de Ambato, Catamarca, entre los siglos VII y XI d.C.,
+Doctorado en Historia. Facultad de Filosofía y Humanidades, Universidad Nacional
+de Córdobapp. 349 (unpublished).
+Gao, Q., Schwartz, M., Zhu, W., Wan, Y., Qin, X., Ma, X., Liu, S., Williamson, M., Peters,
+C., Li, Y., 2016. Changes in global grassland productivity during 1982 to 2011 attributable to climatic factors. Remote Sens. 8, 384.
+Gastaldi, M.R., 2010. Cultura Material, Construcción de Identidades y Transformaciones
+Sociales en el Valle de Ambato. Primer Milenio d.C, Facultad de Ciencias Naturales y
+Museo, Universidad Nacional de La Plata. (unpublished) pp. 561.
+Gordillo, I., 2005. Dimensión temporal del sitio La Rinconada: Su interpretación y aportes
+a la historia del Período Medio, La Cultura de La Aguada y sus expresiones regionales.
+V Mesa Redonda La Cultura de la Aguada y su dispersión, MCN, UNLaR, EUDELAR,
+SECyT, La Rioja. pp. 159–171.
+Goward, S.N., Tucker, C.J., Dye, D.G., 1985. North American vegetation patterns observed with the NOAA-7 advanced very high resolution radiometer. Vegetatio 64,
+3–14.
+GRASS, D.T., 2012. Geographic Resources Analysis Support System (GRASS) 474
+Software, 6.4.2 ed. Open Source Geospatial Foundation.
+Grau, H.R., Veblen, T.T., 2000. Rainfall variability, ﬁre and vegetation dynamics in
+neotropical montane ecosystems in north-western Argentina. J. Biogeogr. 27,
+1107–1121.
+Herrmann, S.M., Anyamba, A., Tucker, C.J., 2005. Recent trends in vegetation dynamics
+in the African Sahel and their relationship to climate. Glob. Environ. Chang. 15,
+394–404.
+Hickler, T., Eklundh, L., Seaquist, J.W., Smith, B., Ardö, J., Olsson, L., Sykes, M.T.,
+Sjöström, M., 2005. Precipitation controls Sahel greening trend. Geophys. Res. Lett.
+32 (n/a-n/a).
+Hunzinger, H., 1995. La precipitación horizontal: su importancia para el bosque y a nivel
+de cuencas en la Sierra San Javier, Tucumán, Argentina. In: Brown, A., Grau, H.R.
+(Eds.), Investigación, Conservación y Desarrollo en selvas Subtropicales de Montaña.
+Proyecto de Desarrollo Agroforestal L.I.E.Y., Tucumán, Argentina, pp. 53–58.
+Iglesias, M.R., Barchuk, A., Grilli, M.P., 2010. Dinámica estacional e interanual del NDVI
+en bosques nativos de zonas áridas argentinas, Revista de Teledetección. 34. pp.
+44–54.
+
+756
+
+Journal of Archaeological Science: Reports 18 (2018) 747–757
+
+L.S. Burry et al.
+
+In: Concepciones de la muerte entre los tobas (qom) del Chaco argentino, Alteridades.
+16. pp. 153–164.
+Tucker, C.J., Vanpraet, C.L., Sharman, M.J., Van Ittersum, G., 1985. Satellite remote
+sensing of total herbaceous biomass production in the senegalese sahel: 1980–1984.
+Remote Sens. Environ. 17, 233–249.
+Vázquez, A., González-Alonso, F., Cuevas, J.M., Calle, A., Casanova, J.L., 2001. Análisis
+de la relación existente entre indicadores de la sequía deducidos mediante
+teledetección y la incidencia de los incendios forestales en España. III Congreso
+Forestal Español, Granada, Spain.
+Verhoeven, M., 2000. Death, ﬁre and abandonment. Archaeological Dialogues 7, 46–65.
+Villagra, P.E., Giordano, C., Alvarez, J.A., Cavagnaro, J.B., Guevara, A., Sartor, C.,
+Passera, C.B., Greco, S., 2011. Ser planta en el desierto: estrategias de uso de agua y
+resistencia al estrés hídrico en el Monte Central de Argentina. Ecol. Austral 21,
+29–42.
+Wang, J., Rich, P.M., Price, K.P., 2003. Temporal responses of NDVI to precipitation and
+temperature in the central Great Plains, USA. Int. J. Remote Sens. 24, 2345–2364.
+Whitlock, C., Shafer, S.L., Marlon, J., 2003. The role of climate and vegetation change in
+shaping past and future ﬁre regimes in the northwestern US and the implications for
+ecosystem management. For. Ecol. Manag. 178, 5–21.
+Wiegand, T., Snyman, A.H., Kellner, K., Paruelo, M.J., 2004. Do grasslands have a
+memory: modeling phytomass production of a semiarid South African grassland.
+Ecosystems 7, 243–258.
+Xiao, J., Moody, A., 2005. A comparison of methods for estimating fractional green vegetation cover within a desert-to-upland transition zone in central New Mexico, USA.
+Remote Sens. Environ. 98, 237–250.
+Zerda, H.R., Tiedemann, J.L., 2010. Dinámica temporal del NDVI del bosque y pastizal
+natural en el Chaco Seco de la Provincia de Santiago del Estero, Argentina, Ambiência
+- Revista do Setor de Ciências Agrárias e Ambientais. 6. pp. 13–24.
+Zipoli, G., Costantini, R., Romanelli, S., Bottai, L., Maselli, F., 2000. Use of Satellite and
+Ancillary Data for the Evaluation of Structural and Meteorological Forest Fire Risks in
+Tuscany (Central Italy), IATACNR, Pisa, 16–20 October 2000. Florence, Italy.
+
+Nicholson, S.E., Davenport, M.L., Malo, A.R., 1990. A comparison of the vegetation response to rainfall in the Sahel and East Africa, using normalized diﬀerence vegetation
+index from NOAA AVHRR. Clim. Chang. 17, 209–241.
+Noy-Meir, I., 1973. Desert ecosystems: environment and producers. Annu. Rev. Ecol. Syst.
+4, 25–51.
+Noy-Meir, I., 1985. Desert ecosystems structure and function. In: Evenari, M., Noy-Meir,
+I., Goodall, D.W. (Eds.), Hot Deserts and Arid Shrublands. Elsevier, Amsterdam and
+New York, pp. 93–103.
+Oesterheld, M., Loreti, J., Semmartin, M., Sala, O.E., 2001. Inter-annual variation in
+primary production of a semi-arid grassland related to previous-year production. J.
+Veg. Sci. 12, 137–142.
+Ogle, K., Reynolds, J.F., 2004. Plant responses to precipitation in desert ecosystems: integrating functional types, pulses, thresholds, and delays. Oecologia 141, 282–294.
+Palmieri, C.N., Quiroga, A., Olmos, L.R., De la Orden, E.A., Carma, M.I., 2005.
+Caracterización hidroclimática de siete localidades del Departamento Ambato,
+Provincia de Catamarca, Argentina, Revista del CIZAS. 6. pp. 7–17.
+Paruelo, J.M., Jobbágy, E.G., Sala, O.E., 1998. Biozones of Patagonia (Argentina). Ecol.
+Austral 8, 145–153.
+Pérez Gollán, J.A., 1994. El proceso de integración en el Valle de Ambato: Complejidad
+social y sistemas simbólicos. Rumitacana 1, 33–41.
+QGIS, D.T., 2014. QGIS Geographic Information System. Open Source Geospatial
+Foundation Project.
+Schucknecht, A., Erasmi, S., Niemeyer, I., Matschullat, J., 2013. Assessing vegetation
+variability and trends in north-eastern Brazil using AVHRR and MODIS NDVI time
+series. Eur. J. Remote. Sens. 46, 40–59.
+Scott, A.C., 2000. The Pre-Quaternary history of ﬁre. Palaeogeogr. Palaeoclimatol.
+Palaeoecol. 164, 281–329.
+Srur, A.M., Villalba, R., Baldi, G., 2011. Variations in Anarthrophyllum rigidum radial
+growth, NDVI and ecosystem productivity in the Patagonian shrubby steppes. Plant
+Ecol. 212, 1841–1854.
+Tola, F., 2006. Después de muerto hay que disfrutar, en la tierra o en el mundo celestial.
+
+757
+
+

@@ -1,0 +1,974 @@
+Journal of Archaeological Science 37 (2010) 2106e2116
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Preservation of fungi in archaeological charcoal
+M. Moskal-del Hoyo a, *, M. Wachowiak b,1, R.A. Blanchette c, 2
+a
+
+Departament de Prehistòria i Arqueologia, Universitat de València, Avgda. Blasco Ibáñez 28, 46010 Valencia, Spain
+Smithsonian Museum Conservation Institute, Smithsonian Institution, Museum Support Center, 4210 Silver Hill Road, Suitland, MD 20746, USA
+c
+Department of Plant Pathology, 1991 Upper Buford Circle, 495 Borlaug Hall, University of Minnesota, St. Paul, MN 55108-6030, USA
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 4 November 2009
+Received in revised form
+12 February 2010
+Accepted 15 February 2010
+
+During the analysis of wood charcoal remains from archaeological sites, it is common to ﬁnd different
+microorganisms and different forms of degradation present in the plant tissue. However, one may
+encounter difﬁculties when attempting to identify these microorganisms and determine when their
+attack occurred. This paper focuses on preservation aspects related to the microorganisms in wood and
+demonstrates the structural changes that take place in different types of decayed wood after it was
+converted into charcoal. The study seeks to determine whether the microbial attack found in archaeological woods took place before the burning of the wood or after. Burning experiments were conducted
+using wood that had been decayed by various types of fungi including white-rot, brown-rot, and soft-rot.
+The laboratory burnt wood samples showed decay patterns that were comparable to those observed in
+archaeological charcoal samples, indicating that signs of fungal infestation and features of decay can be
+preserved after burning with micromorphological details of mycelium and cell wall attack evident. This
+indication may provide important information related to the gathering of deadwood as fuelwood. In
+addition, examples of decayed wood preserved in archaeological charcoal assemblages are described.
+Their relationship to the archaeological context and environmental conditions may suggest different
+interpretative models concerning wood management strategies applied by past societies.
+Ó 2010 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Wood charcoal
+Fungal attack
+Biodeterioration
+Deadwood collection
+Anthracology
+Archaeobotany
+
+1. Introduction
+Anthracology is a discipline that investigates the remains of
+wood charcoals from archaeological excavations and natural
+deposits (Chabal et al., 1999). The charcoal is a ﬁnal product of the
+carbonization process as well as a result of incomplete combustion
+during the charring process (Braadbaart and Poole, 2008; Fengel and
+Weneger, 1983; Smart and Hoffman, 1988). The charcoal retains the
+anatomical structure of the wood and may permit its botanical
+identiﬁcation. Their taxonomic identiﬁcation depends on anatomical characteristics of the species, the size of the charcoal fragments,
+and their state of preservation (Chabal et al., 1999; Schweingruber,
+1982). In the ﬁeld of anthracology, a special methodology that
+advances both palaeoethnographical and palaeoenvironmental
+information exists that has demonstrated the importance of charcoal analysis in archaeobotany and archaeology (Asouti and Austin,
+2005; Badal García, 1992; Chabal, 1997; Chabal et al., 1999; Carrión
+
+* Corresponding author. Tel.: þ34 963983428/963864093; fax: þ34 96 3983887.
+E-mail
+addresses:
+magdalena.moskal@uv.es
+(M.
+Moskal-del
+Hoyo),
+wachowiakm@si.edu (M. Wachowiak), robertb@umn.edu (R.A. Blanchette).
+1
+Tel.: þ1 301 238 1218.
+2
+Tel.: þ1 612 625 0202; fax: þ1 612 625 9728.
+0305-4403/$ e see front matter Ó 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2010.02.007
+
+Marco, 2005; Figueiral and Mosbrugger, 2000; Heinz and
+ ska-Zaja˛ c and Wasylikowa, 2005; Marguerie
+Thièbault, 1998; Lityn
+and Hunot, 2007; Ntinou, 2002; Smart and Hoffman, 1988).
+One of the purposes of anthracological analysis is to gain
+palaeoethnographic information about wood used by humans. For
+example, in the case of fuelwood, there is an assumption that ﬁrewood gathering derives from simple necessity based on availability
+and effort required rather than intentional selection of a particular
+species of wood, which is called “Principle of Least Effort”
+(Shackleton and Prins, 1992). Ethnographic studies have shown that
+this important human activity depends on the wood's abundance,
+the ease of collecting, and the ability to transport the wood. Deadwood recovered from a forest in the proximity to the habitation site
+fulﬁlls these requirements, and the documentation of its gathering
+may lead to the formulation of new hypotheses that permit
+understanding the management of forest communities by past
+societies (Asouti, 2005; Asouti and Austin, 2005; Salisbury and Jane,
+1940; Théry-Parisot, 2001). Palaeoethnographic information concerning the use of deadwood recovered from forest ﬂoor or attached
+to standing trees may be obtained after observing characteristic
+features of the decayed wood such as changes in anatomical
+structure and the presence of microorganisms, and determining if
+the microbial attack took place before or after burning.
+
+M. Moskal-del Hoyo et al. / Journal of Archaeological Science 37 (2010) 2106e2116
+
+The main objective of the present study is to conﬁrm that hyphae
+and other structures produced by microorganisms can be preserved
+within the wood charcoal after the burning process. In previous
+work, Schweingruber (1982, p. 204) had indicated that in charcoal,
+fungal hyphae may be preserved in addition to structural features of
+the wood. Also, Théry-Parisot (2001) conducted signiﬁcant experiments related to the detection of rotten wood and driftwood in
+charcoaliﬁed samples. Théry-Parisot had demonstrated that hyphae
+may be preserved in the charcoal fragments after the burning
+process. This statement later served as a basis for an assessment of
+the deadwood present in the anthracological assemblages (Badal,
+2004; Carrión Marco, 2005). Reﬂectance microscopy is a promising method that may help to prove the microbial preservation
+within the charcoal structure and may also serve as a technique that
+can distinguish between burnt and uncharred material. In particular, the incidences of microbial and animal organs along with the
+remnants of the arthropod's fecal pellets were documented in the
+plant material. The analysis showed that both the aforementioned
+materials and the charcoals exhibited high reﬂectance, conﬁrming
+their charred conditions (Scott et al., 2000). Nonetheless, the way
+the microbes are preserved in the charcoals still remains unclear.
+Heiss and Oeggl (2008) recently performed studies on a fuelwood
+used in prehistoric copper mines in which special attention was
+paid to fungus-infected charcoal fragments. However, the evaluation of the pre-burning attack was based on the supposition that
+“wood-decaying fungi are destroyed during the carbonization”
+(Heiss and Oeggl, 2008, p. 214). Therefore, only the material in
+which hyphal imprints are observed was taken into account in the
+gatheredestored wood interpretation while charcoals with fungal
+hyphae were considered to result from modern contamination.
+Also, it was important to examine the charcoal fragments
+to determine if characteristic patterns were preserved in the
+anatomical structure of decayed wood. Many studies have
+demonstrated special features related to the different types of wood
+degradation observed in xylem (Blanchette et al., 1990; Blanchette,
+2000, 2003; Eriksson et al., 1990) and it would be valuable to verify
+if the same pattern could be documented in the wood structure
+after charcoaliﬁcation. It is important to observe whether the
+changes in microstructure of the cell walls (erosion or cavities) may
+also be evident after burning, since homogenization of all cell layers
+happens during this process. This objective may in turn conﬁrm
+fungal actions in the wood before the burning process and thereby
+indicate the use of infested wood by the humans in the past.
+Finally, some examples of archaeological charcoals that exhibit
+the characteristics of decayed wood are presented and discussed in
+relation to their contexts.
+2. Background
+During the analysis of charcoal fragments, different groups of
+organisms are usually observed within the anatomical structure of
+the wood; however, their identiﬁcations and mode of attack are
+difﬁcult to establish. These groups include mainly fungi, bacteria,
+and animals such as insects or nematodes which are responsible
+for degradation processes of living and dead plants in almost all
+environments (Blanchette, 2000, 2003; Caneva et al., 2008;
+Eriksson et al., 1990; Koestler et al., 2003). The microbial attack
+observed in the charcoal might have happened at different times
+and places. First, the infestation could have happened to the wood
+before the burning process. In this case, the wood may have become
+infested in its natural environments before being collected by
+humans or after it was gathered and later stored. Second, the
+charcoal could have been attacked by microorganisms during
+a post-depositional period that could have included the deposition
+in the soil at the archaeological site or in the museum environment
+
+2107
+
+after its excavation, or both (Blanchette, 2000; Badal, 2004;
+Marguerie and Hunot, 2007; Théry-Parisot, 2001). Identiﬁcation
+of the species, and knowing their ecological preferences, may help
+determine the initial moment of attack, e.g., whether living trees,
+deadwood, charcoal, humid or dry conditions, etc. Nevertheless,
+many of the microorganisms exhibit similar anatomical characteristics or appear in rather broad natural environments that makes
+their identiﬁcation quite uncertain (Alexopoulos et al., 1996;
+Balows et al., 1992).
+The largest groups of fungi which are responsible for wood
+degradation belong to the Basidiomycetes, which attack both
+angiosperms and gymnosperms, and can even decompose the
+heartwood of living conifers. Other groups are representatives of
+Ascomycetes and Deuteromycetes. In addition, bacteria may
+degrade the wood, especially in environments which exclude
+fungal competition. Bacteria may also take part in multi-organism
+decomposition processes. On the basis of morphological changes
+in wood caused by microbial attack, three major types of decay are
+distinguished: brown-rot, white-rot, and soft-rot. Wood structure
+and chemical composition have a major inﬂuence on microbial
+attack since different microorganisms specialize in degrading
+different wood components. The main structural components of
+wood cell walls are polymeric which include cellulose, hemicellulose, lignin, and other minor polymeric substances. They are
+located in different areas of the cell walls and their proportions vary
+signiﬁcantly depending on cell types, plant group (angiosperms or
+gymnosperms) or species. Brown-rot fungi preferentially decompose cellulose and hemicellulose (polysaccharides) as a source of
+carbohydrates, which are mainly located in secondary cell wall
+layer. Some groups of them may also cause limited degradation of
+lignin. In advanced states of decay, the cells lose rigidity but the
+main structure of the wood is unchanged. Also, shrinkage of the
+cells in the brown-rotted wood occurs and results in cracking into
+cubical pieces. White-rot fungi may preferentially degrade lignin,
+which is principally concentrated in the middle lamella region
+(lignin-selective fungi) or some white-rot fungi may degrade all cell
+wall components simultaneously. White-rot fungi are characterized by a great diversity of wood-decay types and all of them
+produce a white color in the wood due to extensive lignin alteration
+or removal from the cells. Soft-rot fungi are Ascomycetes that show
+preference for cellulose and hemicellulose, but they do not appear
+to degrade lignin within the middle lamella. Some soft-rot fungi
+may erode the secondary wall completely while others produce
+cavities within the secondary walls. The distinctive appearance of
+these cavities is related to the cellulolytic microﬁbrillar orientation
+that changes in different layers of cell walls (Blanchette et al., 1990;
+Blanchette, 2000, 2003; Eriksson et al., 1990; Fengel and Weneger,
+1983; Zabel and Morrell, 1992).
+Among all groups of fungal-decayed wood, the most common
+are the microbes responsible for white and brown rot, whereas the
+soft-rot fungi usually appear in restricted environments of very wet
+or dry conditions. In natural environments, two main groups
+(white-rot or brown-rot fungi) dominate, but they are hardly
+represented in ancient wood collections while soft rot dominates in
+archaeological wood. This is consistent with the preservation of
+wood over time since in favorable conditions a variety of microorganisms quickly decompose all kinds of organic matter. The
+wooden material may be preserved in extremely dry or waterlogged conditions in which a limited group of microorganisms
+thrive. These habitats favor soft-rot fungi and exclude mostly
+white- and brown-rot competitors (Rayner and Boddy, 1988;
+Blanchette, 2000, 2003). In archaeological charcoal, all of the
+fungal groups may be found, although their presence is directly
+related to the archaeological context. In the charcoal assemblages
+that result from domestic fuelwood, white-rot and brown-rot fungi
+
+2108
+
+M. Moskal-del Hoyo et al. / Journal of Archaeological Science 37 (2010) 2106e2116
+
+are prevalent in the deadwood gathered from the forest. These
+microbes may also appear in the remains of burnt wooden
+constructions, especially when the material was previously in
+contact with the ground. It is less probable but not impossible to
+ﬁnd soft-rot fungi in the charcoals, but their presence could be
+limited depending on the environmental conditions.
+Three major groups of wood-rot fungi may appear together in the
+process of wood deterioration and may be accompanied by other
+organisms such as bacteria and insects that may contribute to wood
+deterioration processes. This presents additional difﬁculties when
+trying to identify the cause of wood degradation. The nature of these
+relationships presents very wide diversity from symbiosis to parasitic associations, and the major food sources may constitute the
+wood itself as well as insect feeding on fungi in wood (i.e., mycophagous insects) (Blanchette et al., 1990; Blanchette, 2000, 2003;
+Eriksson et al., 1990; Gilbertson, 1984; Harrington, 2005; Zabel and
+Morrell, 1992). When studying deadwood that was gathered from
+the forest ﬂoor, different organisms related to forest soil ecology
+should be of special interest, and one group of microorganisms is
+particularly worth mentioning: ﬁlamentous bacteria of Actinomycetales order. This group may deteriorate the wood components
+and play an important role in the decomposition of organic matter in
+the soil. Hyphae and spore chains that belong to this group are
+present within the charcoals and may occasionally be incorrectly
+identiﬁed as fungi. However, their hyphae may be generally distinguished from fungal hyphae on the basis of their smaller dimensions
+(Eriksson et al., 1990; Kutzner, 1981; Lechevalier and Lechevalier,
+1981; Rayner and Boddy, 1988).
+Another problem with regard to the fungi found in the charcoals
+is related to the possibility of observing the agents of post-burning
+attacks. Charcoal is the most ubiquitous plant material found in
+archaeological sites because of its lack of valuable nutrients after
+burning for microbiological decomposers. There is a group of fungi
+that grow on burnt areas and may be responsible for charcoal
+degradation. They belong mainly to the class of Discomycetes of
+the Ascomycotina subdivision but some may also represent
+Basidiomycotina. All of the various names of these microorganisms,
+such as anthracobionts, carbonicolous, pyrophilous, ﬁreplace fungi
+or phoenicoid fungi, indicate their appearance after burning, in the
+substrates rich in charcoal material. However, these fungi are not
+specialized in charcoal decomposition and their preferred habitat is
+related to the heat-treated soils that stimulate their germination.
+Some of them may appear on the tree after partial burning and
+the presence of injuries can favor the development of a new
+community. Also, these unoccupied substrates provide great
+opportunity for rapid colonization that excludes competition
+(Alexopoulos et al., 1996; Carpenter and Trappe, 1985; Petersen,
+1974; Rayner and Boddy, 1988).
+
+Fomitopsis pinicola as the fungal species responsible for the wood
+decay since the sample was taken directly behind a basidiocarp.
+Fruiting bodies were not found on the other samples so the speciﬁc
+fungus causing the attack was not known. However, anatomical
+observations were made on these decayed wood samples to characterize the speciﬁc type of decay that was present.
+3.2. Burning process
+Small pieces of infected wood (3e5 cm) were burned at
+temperatures between 300 and 350  C. Each sample was divided
+into two parts for charcoal making; the ﬁrst sample was burned
+wrapped in aluminum foil in order to reduce the oxygen supply
+while the second one was burned with unlimited oxygen. Many
+different factors such as ﬁre temperature, length of exposure,
+location of the ﬁre, position of the wood in the ﬁre, diameter of
+the wood, and humidity of the wood can inﬂuence the charcoaliﬁcation processes (Braadbaart and Poole, 2008; Panshin and de
+Zeeuw, 1980; Smart and Hoffman, 1988; Théry-Parisot, 2001).
+The design of representative burning experiments becomes
+particularly difﬁcult when there is limited availability of historic
+wood samples. Both the foil-wrapped and unwrapped samples are
+designed to simulate charcoal making in an open-air ﬁreplace. The
+ﬁrst group may represent the charcoal produced with partly
+restricted oxygen supply, such as under other burnt wood and
+ashes in the center of the ﬁre (Smart and Hoffman, 1988). The
+second group may correspond to the wood and charcoal located in
+the periphery of the ﬁre. The relatively low temperature is also
+associated with the charring process, where the charcoal is
+usually preserved when the temperature of the ﬁre goes below
+350  C (Braadbaart and Poole, 2008). Again, the size and condition
+of the wood has inﬂuence on the low temperature rate of
+charring. Small and dried pieces of wood began to burn with
+ﬂames shortly after reaching 280e300  C and their exterior
+surfaces started converting quickly into ashes. For this reason,
+wood beginning to convert to ash was sprayed with water in
+order to stop the combustion.
+3.3. Scanning electron microscopy sample preparation
+Wood and charcoal fragments were ﬁrst examined using
+a reﬂected light microscope and then pieces of three anatomical
+sections were prepared: transverse (T.S.), longitudinal tangential
+(L.T.S.), and longitudinal radial (L.R.S.). All fragments were manually
+broken, and put on the aluminum stubs with adhesive tabs.
+Samples were coated with gold/palladium and later examined
+using scanning electron microscopy (Hitachi model S-3400N
+VP-SEM; Hitachi model S-4100).
+
+3. Material and methods
+
+4. Results and discussion
+
+3.1. Wood samples
+
+4.1. Experimental results
+
+Six wood samples that represent the major fungal degradation
+groups were prepared for conversion to charcoal. The ﬁrst group
+included two samples, a coniferous wood Tsuga sp. (Fig. 1) and
+a hardwood (Populus sp.), infected with brown-rot. The second
+group of hardwoods was infected with white-rot fungi and
+included one sample from a deciduous oak (Quercus sp.; Fig. 2) and
+two poplar samples (Populus sp.; Fig. 3). All of these woods were
+collected from downed trees on the ground in a natural forest. The
+last group consisted of pine wood from a prehistoric great house
+dwelling in New Mexico (Blanchette et al., 2004) that had advanced
+stages of soft-rot decay (Pinus sp.; Fig. 4). Moreover, in the case of
+the brown-rot coniferous sample, it was possible to identify
+
+Observations of wood and charcoal samples under the microscope show similarities in decay patterns, and hyphae were identiﬁed in both types of samples, the foil-wrapped and unwrapped
+samples (Figs. 1e4).
+4.1.1. Brown rot
+In the coniferous wood sample attacked by brown-rot fungi, the
+typical “wavy” appearance of degraded cells can be observed in the
+T.S. of wood and charcoal samples (Fig. 1a and d). Fungal hyphae are
+also present in both samples and are numerous in all anatomical
+sections (Fig. 1aef). In the L.T.S. the hypha penetrates tracheids via
+bordered pits and also enters a ray directly through the cell wall
+
+M. Moskal-del Hoyo et al. / Journal of Archaeological Science 37 (2010) 2106e2116
+
+2109
+
+Fig. 1. Wood (aec) and charcoal (def) fragments with brown-rot fungi: Tsuga sp. Transverse section (a and d), longitudinal tangential section (b and e), longitudinal radial section (c
+and f).
+
+(Fig. 1b and e). The ﬁne structure of fungi is preserved in the
+charcoal after burning and even calcium oxalate crystals that are
+associated with the hyphae remain clearly visible (Fig. 1c and f).
+These crystal structures may be related to hyphal metabolism
+products and some fungi may produce different types of deposits
+(Eriksson et al., 1990). Elemental analysis of these samples showed
+the presence of mainly calcium and potassium. In the L.R.S., a more
+deteriorated structure of the wood was seen in some areas of the
+fragments. This is the result of an extensive removal of cell content,
+producing holes in their walls, and is a result of consumption of the
+polysaccharides together with lignin (Fig. 1c and f). Moreover, the
+wood was infested by F. pinicola, a species that has been reported
+as capable of causing lignin modiﬁcation (Eriksson et al., 1990,
+p. 53). The comparison between two kinds of samples e burnt with
+limited oxygen and open to the air e showed no differences in
+preservation of microbes in the charcoal.
+In hardwood samples (Populus sp.), the same pattern of wood
+decay was observed since the loss of strength resulting from fungal
+attack caused distortion of plant tissue and the presence of a thin
+
+framework of ligniﬁed tissue. Also, fungal hyphae were well
+preserved and were mainly observed within the vessels. Once
+again, the same characteristics were observed in samples from both
+types of charcoaliﬁcation processes.
+4.1.2. White rot
+Two examples of white-rot fungi that show different stages of
+wood decay are presented. The ﬁrst one, (Quercus sp. deciduous,
+Fig. 2) illustrates an exceptionally advanced stage of decay that
+originated from simultaneous degradation of all cell wall
+components. The infected wood was characterized by a spongy
+appearance and showed an extensive growth of mycelia, which ﬁlled
+most of the fragile and deteriorated oak tissues, as observed under
+the reﬂected light microscope (also seen in SEM images Fig. 2aec).
+After burning, both the charring and the carbonization processes left
+all characteristic patterns of decay previously observed in the wood
+(Fig. 2def). In the T.S. (Fig. 2d) and L.R.S. (Fig. 2f), earlywood vessels
+were ﬁlled with fungal mycelium and fungal attacks were concentrated in the area of uniseriate and multiseriate rays that caused
+
+2110
+
+M. Moskal-del Hoyo et al. / Journal of Archaeological Science 37 (2010) 2106e2116
+
+Fig. 2. Wood (aec) and charcoal (def) fragments with white-rot fungi: Quercus sp. deciduous. Transverse section (a and d), longitudinal tangential section (b and e), longitudinal
+radial section (c and f).
+
+erosion of the cell walls and large voids. Also in the L.T.S., the attack of
+ray parenchyma was observed together with the degradation of all
+cell wall components (Fig. 2e). Widespread fungal mycelia were also
+seen in the L.R.S. that at lower magniﬁcation showed remnants of
+wood structure (Fig. 2f).
+In the second piece of wood (Populus sp.), the attack by whiterot fungi was less developed (Fig. 3). The charcoals showed
+evidence of fungal preservation after charcoaliﬁcation, and the
+image of the decayed wood was very comparable to that obtained
+from the charcoal. The fungal hyphae were grouped mainly in the
+vessels and their metabolic products, in the form of crystal oxalate
+salts, were also observed (Fig. 3a, c, d, e, and f). White-rot fungi that
+commonly decayed the sapwood of various angiosperms, such as
+Odontia bicolor, commonly produce these calcium crystals in early
+stages of decay. In the L.R.S., selective degradation of lignin was
+observed in the region of ray-vessel intersections where the middle
+lamella was not present (Fig. 3b and e), whereas in the L.T.S. lignin
+removal resulted in separation of axial tissues (Fig. 3f). Also, the ray
+parenchyma in the L.T.S. was more deteriorated and this suggesting
+
+that these cells, which are rich in polysaccharides, were the ﬁrst
+colonized. In some regions of the vessels, a simultaneous degradation was documented as hyphae eliminated all cell components
+and produced holes around the pitting (Fig. 3b, e and f). Another
+poplar wood sample attacked by white-rot fungi showed similarities regarding the preservation of fungal hyphae and the indication
+of a wood-decay pattern of similar degradation type.
+4.1.3. Soft rot
+In the T.S. of coniferous wood and charcoal, the cavities
+completely ﬁll the cell walls of tracheids leaving areas of middle
+lamella untouched (Fig. 4a and d). The typical pattern of the cavities
+was more evident in the longitudinal sections, especially in the
+L.R.S. in which there were cavities of cell walls and around bordered
+pits in diverse orientations (Fig. 4c and f). The ray parenchyma cells
+were also colonized as was observed in both transverse and
+longitudinal tangential sections (Fig. 4a, b, d and e). Furthermore,
+after burning took place, fungal hyphae in all charcoal fragments
+were preserved in the form of hyphal imprints and were present in
+
+M. Moskal-del Hoyo et al. / Journal of Archaeological Science 37 (2010) 2106e2116
+
+2111
+
+Fig. 3. Wood (aec) and charcoal (def) fragments with white-rot fungi: Populus sp. Transverse section (a and d), longitudinal tangential section (b and e), longitudinal radial section
+(c and f).
+
+the cell lumen as individual hypha or as a mass of mycelia. Since,
+this was from a sample of prehistoric wood, the hyphae present and
+responsible for causing the decay may have been very old and only
+residual imprints of the fungal cells remained in the wood before
+burning.
+The experiments have demonstrated the preservation of fungal
+mycelium in test charcoals after the burning process. The fungi
+were present in all anatomical wood sections, mainly as hyphae
+that penetrated cell walls and formed accumulations of mycelia.
+Apart from individual hyphae, many fungal imprints were also
+observed. It was noticed that if hyphae colonized the cell lumen,
+after burning they were preserved in the lumen (Figs. 1e4), and if
+they were older collapsed hyphae, they occurred as imprints
+(Fig. 3c and f). Therefore, the results suggested that hyphae are
+preserved in the charcoal exactly as they appear in the wood before
+charcoaliﬁcation. Consequently, it is possible to deduce prior attack
+on the wood by the presence of fungi in both forms as hyphae and
+as imprints. Furthermore, the way the hyphae occur within the
+
+lumen is also signiﬁcant. Only the hyphae that appear attached
+directly to the cell walls and emerge from behind the cell wall
+surface should be taken into account as evidence for pre-burning
+activities. It is not possible to identify the fungus producing the
+decay by observing only the fungal hyphae since there are no
+structural differences among most species or genera. At times
+hypha can be accompanied by spores or calcium oxalate crystals
+but many fungi classiﬁed as white- and brown-rot Basidiomycetes
+can produce them.
+In many cases the pattern of wood deterioration may help in the
+characterization of the wood-decaying organisms. Observing the
+macrostructure of the wood may help signiﬁcantly in determining
+its decay type. In brown rot, the fungi cause the characteristic wavy
+appearance due to the lack of strength, particularly visible in the
+transverse section but also seen in longitudinal ones. The same
+group is distinguished by forming cubical cracks in the wood. In
+some advanced stages of decay, the cell walls begin to have
+a porous aspect as polysaccharides are extensively removed. Some
+
+2112
+
+M. Moskal-del Hoyo et al. / Journal of Archaeological Science 37 (2010) 2106e2116
+
+Fig. 4. Wood (aec) and charcoal (def) fragments with soft-rot fungi: Pinus sp. Transverse section (a and d), longitudinal tangential section (b and e), longitudinal radial section
+(c and f).
+
+of the brown-rot fungi also decompose some lignin that may result
+in the destruction or an extremely fragile middle lamella that
+appears degraded. This could mimic some stages of a white rot.
+Soft-rot fungi are characterized by forming biconical and cylindrical
+cavities in the secondary cell walls but some forms of soft rot such
+as the erosion of the secondary wall can appear similar to early
+stages of attack by a white-rot fungus (Blanchette et al., 1990;
+Blanchette, 2000, 2003; Eriksson et al., 1990; Schwarze, 2007). As
+a result, it is important to remember that some features characteristic for one rot group may also be characteristic of another
+group. Moreover, wood can be a source of nutrition for different
+groups of wood-rot fungi, and combination of attack such as
+brown rot following a white rot or soft rot (Blanchette, 2003;
+Eriksson et al., 1990; Rayner and Boddy, 1988). Therefore, identiﬁcation of microorganisms preserved in charcoal on the basis of
+wood-decay patterns may be difﬁcult since features such as color of
+the wood are not observable. Nonetheless, all the above-described
+microscopic characteristics serve as tools for compiling general
+information that may indicate possible uses of decayed wood.
+
+In archaeological charcoal there may also be modern fungal
+hyphae coming from plant roots or soils that frequently overgrow
+the ancient material and use the structure of the charcoal as support.
+Modern attack also can take place in the storage area after
+excavation. This is especially true for charcoal samples after ﬂotation
+methods or water sieving recovery techniques are employed, or if
+the charcoals are kept together with uncharred roots or other plant
+material that are not completely dried out. In these cases, anthracological analysis of the sample may also help distinguish between
+possible pre-burning attack and modern infected samples. Some
+microbial uncharred mycelia may exhibit characteristic colors
+observable under the reﬂected light microscope. For example, the
+surface of a few charcoals from the same sample from a Bronze Age
+necropolis of Kokotów (Poland) was covered by fresh mycelia of
+white color that under higher magniﬁcation showed violet and
+green colors (Moskal-del Hoyo, unpublished data). Taking into
+considerations the morphology of these microorganisms, it is
+possible that they correspond to some ﬁlamentous bacteria of
+Actinomycetales order and especially to the Streptomycetaceae
+
+M. Moskal-del Hoyo et al. / Journal of Archaeological Science 37 (2010) 2106e2116
+
+family (Kutzner, 1981). Streptomycetes are very ubiquitous but they
+are most typical in the soil habitats where they act as decomposers
+(Kutzner, 1981; Williams et al., 1984). They may also colonize and
+degrade wood (Eriksson et al.,1990) but in the case of charcoals from
+Kokotów, the colored mycelia may suggest their post-burning
+activities. The growth of microbes on these charcoals might have
+been favored by the recovery of the soil samples and their storage
+under conditions that may have favored their growth. Finally, it can
+be stated that modern fungal infestation most likely covers the
+surface of charcoals and only fungi found inside freshly broken
+charcoal fragments could be the result of pre-burning activities.
+Nevertheless, the phenomenon of possible modern attack by
+different agents requires more detailed studies.
+4.2. Archaeological results
+A few examples of archaeological charcoal that showed symptoms of pre-burning fungal attack were compared to the abovedescribed wood-decay patterns (Fig. 5). The ﬁrst charcoal came
+
+2113
+
+} ) that belonged to the
+from an eastern Hungarian site (Nagyköru
+early Neolithic Körös culture (Raczky et al., in press). This charcoal
+of ivy (Hedera helix) in the T.S. showed insect attack in the form of
+round axially situated holes within the plant tissue (Fig. 5a) that
+were also ﬁlled with fungal hyphae; however, in this section the
+ultrastructure of the wood did not present obvious fungal
+degradation. On the other hand, in the L.R.S. some hyphae and
+hyphal imprints occurred in the vessels (Fig. 5b). The attack caused
+holes around the pitting that demonstrated their ability to degrade
+all cell wall components. The attack was not at an advanced stage
+and the wood-decay pattern was not very evident, nevertheless the
+pre-burning microbial activity in the wood may be seen. This
+charcoal fragment was found within an apparent disposal pit
+together with other remnants of domestic fuelwood, burnt animal
+bones, fragments or lithic material and pottery. In general, the
+} is characterized by the prescharcoal assemblage from Nagyköru
+ence of wood of small diameter that may correspond to branch
+woods or twigs of different arboreal and bushy taxa (oak, elm, ivy,
+plum, buckthorn), and the majority shows clear evidence of
+
+Fig. 5. Archaeological charcoal samples with pre-burning microbial attack: a. Hedera helix, transverse section; b. Hedera helix, longitudinal radial section; c. Prunus sp., transverse
+section; d. Prunus sp., longitudinal tangential section; eef. Pinus sylvestris, transverse section.
+
+2114
+
+M. Moskal-del Hoyo et al. / Journal of Archaeological Science 37 (2010) 2106e2116
+
+microbial and insect attack (Moskal-del Hoyo, in press). This
+settlement represents the group of northernmost sites of the ﬁrst
+Neolithic cultures in Tisza River valley and in the proximity of the
+site there are no traces of previous Mesolithic occupation detected
+(Raczky et al., in press). As a consequence, this new site was located
+in an area of unexploited woodland which shows an abundance of
+different kinds of fuelwood. The large amount of dry wood is
+expected at this site since it was a typical mature forest in which
+deadwood forms an important part of the tree biomass (Rayner and
+Boddy, 1988). Therefore, the management of wood resources at the
+settlement corresponds to the ﬁrst situation in the “Principle of
+Least Effort” model testiﬁed by Shackleton and Prins (1992). In this
+case, the gathering of ﬁrewood corresponded to very little collection effort based on high availability of dry wood. Usually the
+deadwood formed in the forest litter or attached to standing trees
+requires prolonged periods of time and good ecological conditions
+of humidity and temperature to be colonized by decomposers
+(Rayner and Boddy, 1988) and have signiﬁcant micromorphological
+changes present that are characteristic of decayed wood. It is
+possible that the charcoal assemblage coming from Nagykörü, in
+which a great quantity of attacked wood of small diameter is
+detected, represents the model of easy collectable deadwood for
+domestic ﬁres. Diversity of taxa that exhibit a pattern of decayed
+wood may also conﬁrm this hypothesis and indicate the preference
+for dead older wood found on the ground.
+The second charcoal fragment (Fig. 5c and d) came from the late
+Neolithic settlement of Polgár-CsTszhalom located in eastern
+Hungary (Raczky and Anders, 2008). This fragment was very fragile
+and was characterized by distortion of wood tissues, particularly
+vessels and ﬁbers (Fig. 5c). The rays were also deteriorated, but it
+was still possible to identify it as Prunus sp. In longitudinal sections,
+all charcoal fragments were cracked into cubical pieces (Fig. 5d),
+but this pattern was different from the cracks usually found in
+charcoal as a result of a burning process (Carrión Marco, 2005;
+Marguerie and Hunot, 2007; Théry-Parisot, 2001). All the features
+of the Prunus fragment indicated that brown-rot fungi probably
+degraded it. The Polgár-CsTszhalom site represents the northernmost tell settlement known from the Carpathian Basin which
+together with another external horizontal settlement constitutes
+an important complex center of the Upper Tisza River region,
+extended along an area of 28 ha (Raczky and Anders, 2008). The
+late Neolithic occupation of the site is divided into three main
+phases that correspond to a duration of about 500 years (ca.
+4940e4500 cal. BC: Raczky et al., 2007). The Prunus charcoal fragment described above was found together with the remnants of
+other tree taxa (oak, elm and dogwood/cornelian cherry) within
+sediments of one of the houses dated to the oldest phase of the tell.
+The exact provenance of this charcoal sample (domestic ﬁrewood
+versus construction elements) is not well deﬁned due to the
+leveling of layers before the preparation of the subsequent
+construction in the tell, thus the interpretation of the meaning of
+the presence of decayed wood is not obvious. However, it is possible
+that it was used previously as construction material and the
+brown rot is decay that occurred in the structure. This type of
+decay dominates in building wood (Rayner and Boddy, 1988,
+pp. 453e460, Table 12.2). Moreover, it should be added that the
+charcoal assemblage from different archaeological features located
+in diverse contexts (refusal pits, ﬂoors of houses, hearths, ditches)
+from other two recent phases constitutes a sample of wood used in
+the settlement in the apogee of human occupation in the region
+(Moskal-del Hoyo, unpublished data). In those phases, the woodland area should have manifested some changes following
+systematic and continued gathering of wood for different purposes.
+} site, it is probable that in the vicinity
+In contrast with the Nagyköru
+there was very little dry wood available and probably some fresh
+
+wood was also regularly used. This condition may correspond to the
+situation described by Shackleton and Prins (1992) as typical for
+long-established occupation areas. Particularly in recent phases of
+the Polgár-CsTszhalom tell in the charcoals there are almost no
+signs of decayed wood. This may conﬁrm the progressive lack of dry
+wood. Probably the deadwood still selected in the vicinity of the
+site was gathered before the advanced development of a decay
+community could expand. The only example of decayed wood was
+observed in the context of houses, associated with ash and oak
+charcoal. In this case, it likely represents remnants of some reused
+timber used for construction as both of these woods were preferentially used for these purposes. The possibility of wood recycling
+has been previously noted in archaeological sites and is known
+from ethnographic examples (Asouti, 2005).
+A third charcoal fragment was from the wood used in a funerary
+pyre and came from the Bronze Age necropolis of Kokotów
+(Kraków, Poland) (Matoga, unpublished; preliminary results:
+Matoga et al., 2009). This fragment belonged to a small branch or
+a young shoot of common pine (Pinus sylvestris) (Fig. 5e). At higher
+magniﬁcation, the cell walls of the majority of tracheids were
+eroded and cells had holes near the lumen surface (Fig. 5f). Hyphae
+of various diameters were preserved in the wood structure. It is
+probable that this wood was infested by a white-rot fungus that
+simultaneously removed all cell wall components. Moreover, the
+biodeterioration of the branch wood also conﬁrmed its source
+among the litter, since this part of wood is typically more resistant
+to microbial attack. This is especially true in gymnosperms, in
+which compression wood is formed (Blanchette, 2000, 2003). The
+charcoal analysis from the necropolis of Kokotów comprises more
+than 100 graves (Moskal-del Hoyo, unpublished data; preliminary
+results: Moskal-del Hoyo, 2008) in which 15 taxa and different
+types of gathered wood were documented: trunks, branch woods,
+twigs, barks, and conifer cones. Also the presence of many branch
+woods that showed microbial deterioration may indicate that part
+of the wood prepared for the rituals of cremation was obtained
+from deadwood found in the forest. These observations together
+with taxonomical analysis may demonstrate a special pattern of
+wood selection for funerary purposes. In this case, the data suggest
+a more opportunistic model of wood selection of funerary fuel,
+which was probably motivated by the need for collection of a large
+amount of wood that was generally required for cremation, as
+shown by modern analogy (e.g. Sikandar et al., 1989).
+Three examples presented above correspond to white-rot or
+brown-rot fungi but on basis of the presence of hyphae or decay
+patterns, the exact place in which the attack occurred cannot be
+indicated as the same characteristics may represent considerable
+number of diverse fungi. Moreover, the fungi that cause white or
+brown rot play an important role in wood decomposition of
+different habitats in the woodland. They invade the deadwood that
+is accumulated in the forest ﬂoor but they also colonize dead
+branches or twigs attached to standing trees. The same fungi also
+decompose remains of dead standing trees. Some Basidiomycetes
+that are mainly responsible for wood decomposition in the forest
+have also developed different strategies to colonize a living tree.
+This usually constitutes a very hostile habitat for fungi growth due
+to its high content of water in the sapwood, unfavorable aeration
+and formation of mechanical barriers and allelopathic chemicals.
+Compared to the decomposers of deadwood, these organisms
+represent a minor group of fungi. They mostly take advantages of
+some disturbance produced to a tree (ﬁre scars, insect wounds,
+mechanical injuries, etc.) which allow them to enter the heartwood, avoiding the barriers composed by the bark and sapwood,
+but they may also behave as active pathogens. The action of fungi in
+a living tree may be lethal but the plant may also recover depending
+on the type of fungal attack and the degree of damage (Rayner and
+
+M. Moskal-del Hoyo et al. / Journal of Archaeological Science 37 (2010) 2106e2116
+
+Boddy, 1988; Schwarze et al., 2000). Furthermore, the same wooddecay pattern is also associated with fungi inhabiting wood outside
+of woodland communities, in wood either utilized as timber and
+raw material or stored (Rayner and Boddy, 1988). Even though the
+exact habitat of decayed wood found in archaeological assemblages
+cannot be stated, its presence indicates the selection of dry wood of
+different origins, from the forest ﬂoor or above-ground parts of
+trees and stored wood (Théry-Parisot, 2001, p. 50, Fig. 12). The
+differences in deadwood and living trees attacked by fungi cannot
+be easily discerned. However, in either case, their recovery may be
+related to the selection of wood that is easier to collect compared to
+the labor-intensive processing of wood from a healthy tree.
+The presence of white-rot or brown-rot fungi in these three
+archaeological sites is not unexpected since they are ubiquitous in
+temperate regions. In general, the climatic zone should be taken
+into consideration when trying to investigate the importance of
+gathering of deadwood for domestic purposes. This is because in
+temperate ecosystems the rate of wood decay is relatively high
+compared to desert or tundra communities and is relatively slow
+compared to a tropical rainforest (Rayner and Boddy, 1988). For
+example, for a fallen tree in some temperate forests the microbial
+colonization phase is about two years and it takes approximately 15
+years for the advanced decomposition (Théry-Parisot, 2001, p. 39);
+in tropical forests, a big tree can completely decompose in 10 years;
+in sub-Alpine forests this process may take more than 70 years
+(Rayner and Boddy, 1988, p. 308). Despite some general macroenvironmental trends, the wood-decay rate cannot be easily
+determined since it is a dynamic and complex process. In the same
+environment, characteristics such as wood diameter, exposure of
+the surface or presence of bark and different microclimatic conditions inﬂuence and modify the processes of wood decay (Rayner
+and Boddy, 1988). Therefore, the presence of pre-burning activities of fungi in wood coming from temperate regions might be
+easier observed than in other zones. It is also important to
+remember that deadwood does not necessarily represent decayed
+wood. For example, in the Tucson area (Arizona, USA) the radiocarbon datings of deadwood recovered from the vicinity of the
+archaeological sites demonstrated that due to the climatic conditions unfavorable for fungi growth (high temperature and low
+moisture) linked with characteristics of local wood (dense and
+hard), deadwood may be preserved for more than a millennium in
+the environment (Schiffer, 1996, pp. 310e312). However, some
+fungi, such as soft rot, do grow and degrade the wood (Blanchette
+et al., 2004), and if that is the case, decay patterns even in this
+location may help to identify the type of wood used as fuelwood.
+The observation of fungi in charcoal assemblages as part of
+anthracological analysis of archaeological charcoals may give
+additional information concerning the models of wood management by past societies (Asouti and Austin, 2005; Théry-Parisot,
+2001) and thus is related mostly to palaeoethnographic aspects of
+wood usage. The aforementioned observations and case studies
+(Théry-Parisot, 2001; Asouti, 2005) have demonstrated that the
+presence or absence of wood attacked by fungi within a particular
+charcoal assemblage should be interpreted individually as it
+depends on different archaeological contexts which introduce many
+variables of interpretation. First, a geographic situation of the site
+(lowland, mountains, temperate zones, deserts, proximity of the
+rivers, etc.) and climatic period (Interpleniglacial, maximum of Ice
+Age, Atlantic period, Subatlantic period, etc.) indicate different
+woodland communities (boreal forest, temperate broad-leaved
+forest, temperate needle-leaved evergreen forest, riverine forests,
+unexploited woodland, etc.). Second, a type of site (mobile huntergatherers campsite, seasonal site, settlement, long-term multiphase
+site, industrial area, etc.) related to a type of activities concerning
+the use of ﬁre (domestic, industrial or ritual hearths, funerary pyre,
+
+2115
+
+etc.) constitute a remarkable difference when interpreting charcoal
+assemblages. Third, some taphonomic problems should also be
+taken into account for the formulation of different hypotheses and
+ﬁnally, the charcoal sampling strategies during archaeological
+excavations may inﬂuence the results. It is important to emphasize
+that the search for decayed wood should be integrated in the
+charcoal analysis at the beginning of the study because the detection of fungi and their activities may require more detailed observations during the identiﬁcation (Asouti, 2005, p. 219). Finally, if the
+charcoal assemblages that are characterized by the abundance of
+decayed wood form the basis for further palaeoecological interpretation, it should be additionally analyzed according to its
+ecological representativeness (Godwin and Tansley, 1941; ThéryParisot, 2001).
+5. Conclusions
+The biodeteriorated structure of wood and the fungi responsible
+for its decay exhibit similar characteristics in both wood and
+charcoal samples. Charcoal produced using a limited or unlimited
+oxygen supply seems to have little inﬂuence on the preservation of
+fungi because in both kinds of samples hyphae were documented
+as individual hypha, mass of mycelia or as hyphal imprints. The
+patterns of decayed wood attacked by the three major wood-rot
+groups may be a valuable source of information when conducting
+an anthracological analysis since the preservation of altered wood
+structure is found in the macrostructure of archaeological charcoals
+as well as the ultrastructure of the wood. Archaeological charcoal
+shows evidence of microbial/insect presence and one of the main
+problems is to determine the initial moment of their attack and
+whether the attack occurred before or after burning. The results
+presented here show the possibility of recognizing pre-burning
+microbial activity because of the preservation of both fungal
+hyphae and wood deteriorated structures after burning. Although
+the identiﬁcation of the fungal agent is often possible by examining
+the type of decay present, difﬁculties can be encountered if mixed
+decayed patterns occur.
+The recognition of the decayed wood in the archaeological
+charcoal assemblage as part of the anthracological analysis may be
+a source of relevant palaeoethnographic information but there is an
+archaeological context at each site that indicates the possibility of
+further models of interpretation.
+Acknowledgements
+The authors would like to express their gratitude to Dr. R.J.
+Koestler and Dr. P. DePriest from the Smithsonian Museum
+Conservation Institute and Prof. Dr. E. Badal from the University of
+Valencia for their valuable comments. We would like to thank Prof.
+Dr. P. Raczky, Dr. A. Anders (Eötvös Loránd University, Budapest),
+A. Matoga (Archaeological Museum, Kraków), and the Kraków
+Archaeological Team for Excavation of the Motorways for providing
+archaeological charcoals. Special thanks to J. Watson (MCI) and the
+personnel of SEM Laboratory (University of Valencia) for their help.
+M. Moskal-del Hoyo would also like to thank the University of
+Valencia (program “V Segles”) for the ﬁnancial support provided
+while conducting research at the Smithsonian's Museum Conservation Institute.
+References
+Alexopoulos, C.J., Mims, C.W., Blackwell, M., 1996. Introductory Mycology. Wiley,
+New York.
+Asouti, E., 2005. Woodland vegetation and the exploitation of fuel and timber at
+Neolithic Çatalhöyük: report on the woodecharcoal macro-remains. In:
+Hodder, I. (Ed.), Inhabiting Çatalhöyük. Reports from the 1995e1999 Seasons.
+
+2116
+
+M. Moskal-del Hoyo et al. / Journal of Archaeological Science 37 (2010) 2106e2116
+
+Çatalhöyük Research Project 4, McDonald Institute Monograph. McDonald
+Institute for Archaeological Research and British Institute of Archaeological at
+Ankara, Cambridge, pp. 213e258.
+Asouti, E., Austin, P., 2005. Reconstructing woodland vegetation and its exploitation
+by past societies, base on the analysis and interpretation of archaeological wood
+charcoal macro-remains. Environmental Archaeology 10, 1e18.
+Badal García, E., 1992. L'anthracologie préhistorique: à propos de certains problèmes méthodologiques. Bulletin de la Société Botanique de France. Actualités
+Botaniques 139 (2/3/4), 167e189.
+Badal, E., 2004. Análisis antracológico de los restos del fuego doméstico del abrigo
+de los Baños (Ariño, Teruel). In: Utrilla, P., Rodanés, J.M. (Eds.), Un asentamiento
+epipaleolítico en el valle del Río Martín. El Abrigo de los Baños (Ariño, Teruel).
+Monografías Arqueológicas 39. Universidad de Zaragoza, pp. 63e74.
+Balows, A., Trüper, H.G., Dworkin, M., Harder, W., Schleifer, K.-H. (Eds.), 1992, The
+Prokaryotes: a Handbook on the Biology of Bacteria: Ecophysiology, Isolation,
+Identiﬁcation, Applications, vol. 1e4. Springer-Verlag, New York,.
+Blanchette, R.A., 2000. A review of microbial deterioration in archaeological wood
+from different environments. International Biodeterioration and Biodegradation 46, 189e204.
+Blanchette, R.A., 2003. Deterioration in historic and archaeological woods from
+terrestrial sites. In: Koestler, R.J., Koestler, V.R., Charola, A.E., NietoFernandez, F.E. (Eds.), Art, Biology and Conservation: Biodeterioration of Works
+of Art. Metropolitan Museum of Art, New York, pp. 328e347.
+Blanchette, R.A., Held, B.W., Jurgens, J.A., Haight, J.E., 2004. Wood deterioration in
+Chacoan great houses of the southwestern United States. Conservation and
+Management of Archaeological Sites 6, 204e212.
+Blanchette, R.A., Nilsson, T., Daniel, G., Abad, A., 1990. Biological degradation of wood.
+In: Rowell, R.M., Barbour, J. (Eds.), Archaeological Wood: Properties, Chemistry,
+and Preservation. American Chemical Society, Washington, pp. 141e174.
+Braadbaart, F., Poole, I., 2008. Morphological, chemical and physical changes during
+charcoaliﬁcation of wood and its relevance to archaeological contexts. Journal
+of Archaeological Science 35, 2434e2445.
+Caneva, G., Nugari, M.P., Salvadori, O., 2008. Plant Biology for Cultural Heritage:
+Biodeterioration and Conservation. The Getty Conservation Institute, Los
+Angeles, CA.
+Carpenter, S.E., Trappe, J.M., 1985. Phoenicoid fungi: a proposed term for fungi that
+fruit after heat treatment of substrate. Mycotaxon 23, 203e206.
+Carrión Marco, Y., 2005. La vegetación mediterránea y atlántica de la Península
+Ibérica. Nuevas secuencias antracológicas, S.I.P. In: Serie de Trabajos Varios, 104.
+Diputación Provincial de Valencia, Valencia.
+Chabal, L., 1997. Forêts et sociétés en Languedos (Néolithic ﬁnal, Antiquité tardive).
+L'anthracologie, méthode et paléoécologie. In: Documents d’Archéologie
+Française, 63. Ed. de la Maison des Sciences de l’Homme, Paris.
+Chabal, L., Fabre, L., Terral, J.-F., Théry-Parisot, I., 1999. L'Anthracologie. In:
+Ferdière, A., Bourquin-Mignot, Ch., Brochier, J.-E., Chabal, L., Crozat, S., Fabre, L.,
+Terral, J.-F., Théry-Parisot, I. (Eds.), La Botanique. Collection “Archéologiques”.
+Ed. Errance, Paris, pp. 43e104.
+Eriksson, K.-E.L., Blanchette, R.A., Ander, A., 1990. Microbial and Enzymatic Degradation of Wood and Wood Components. Springer-Verlag, Berlin.
+Fengel, D., Weneger, G., 1983. Wood: Chemistry, Ultrastructure, Reactions. W. de
+Gruyter, Berlin.
+Figueiral, I., Mosbrugger, V., 2000. A review of charcoal analysis as a tool for
+assessing Quaternary and Tertiary environments: achievements and limits.
+Palaeogeography, Palaeoclimatology, Palaeoecology 164, 397e407.
+Gilbertson, R.L.,1984. Relationship between insects and wood-rotting basidiomycetes.
+In: Wheeler, Q., Blackwell, M. (Eds.), FunguseInsects Relationships: Perspective in
+Ecology and Evolution. Columbia University Press, New York, pp. 130e165.
+Godwin, H., Tansley, A.G., 1941. Prehistoric charcoals as evidence of former vegetation, soil and climate. Journal of Ecology 29, 117e126.
+Heinz, C., Thièbault, S., 1998. Characterization and palaeoecological signiﬁcance of
+archaeological assemblages during Late and Post-Glacial phases in Southern
+France. Quaternary Research 50, 56e68.
+Heiss, A.G., Oeggl, K., 2008. Analysis of the fuel wood used in Late Bronze Age and
+Early Iron Age copper mining sites of Schwaz and Brixlegg area. Vegetation
+History and Archaeobotany 17 (2), 211e221.
+Harrington, T.C., 2005. Ecology and evolution of mycophagous. In: Vega, F.E.,
+Blackwell, M. (Eds.), InsecteFungal Associations: Ecology and Evolution. Oxford
+University Press, Oxford, pp. 257e291.
+Koestler, R.J., Koestler, V.R., Charola, A.E., Nieto-Fernandez, F.E. (Eds.), 2003. Art,
+Biology and Conservation: Biodeterioration of Works of Art. Metropolitan
+Museum of Art, New York.
+Kutzner, H.J., 1981. The family Streptomycetaceae. In: Starr, M.P., Stolp, H.,
+Trüper, H.G., Balows, A., Schelegel, H.G. (Eds.), The Prokaryotes: a Handbook on
+Habitats, Isolation and Identiﬁcation of Bacteria, vol. II. Springer-Verlag, Berlin,,
+pp. 2027e2090.
+Lechevalier, H.A., Lechevalier, M.P., 1981. Introduction to the order Actinomycetes.
+In: Starr, M.P., Stolp, H., Trüper, H.G., Balows, A., Schelegel, H.G. (Eds.), The
+
+Prokaryotes: a Handbook on Habitats, Isolation and Identiﬁcation of Bacteria,
+vol. II. Springer-Verlag, Berlin, pp. 1915e1922.
+ ska-Zaja˛ c, M., Wasylikowa, K., 2005. Przewodnik do badan
+ archeLityn
+.
+obotanicznych. Vademecum Geobotanicum, Sorus, Poznan
+Marguerie, D., Hunot, J.-Y., 2007. Charcoal analysis and dendrology: data from
+archaeological sites in north-western France. Journal of Archaeological Science
+34, 1417e1433.
+
+Matoga, A., Zubrzycki, Z., Zysnarska, M., 2009. Wste˛ pne wyniki ratowniczych badan
+wykopaliskowych, przeprowadzonych w latach 2005e2007 na stanowisku 19
+w Kokotowie, gm. Wieliczka. Archaeological Museum of Cracow (Poland),
+Kraków. http://www.ma.krakow.pl/badania_terenowe/kokotow (last visited
+22.01.10.).
+Moskal-del Hoyo, M., 2008. Anthracological analysis from a Bronze Age necropolis
+at Kokotów (Poland). In: 4th International Meeting of Anthracology, 8e13
+September 2008, Brussels.
+Moskal-del Hoyo, M. Wood charcoal remains from Early Neolithic Settlement at
+} (Eastern Hungry). In: Koz1owski, J.K., Raczky, P. (Eds.), Neolithization
+Nagyköru
+of the Carpathian Basin: Northernmost Distribution of the Starcevo-Körös
+Culture. The Polish Academy of Arts and Science, Kraków. Eötvös Loránd
+University, Institute of Archaeological Science, Budapest. Kraków, in press.
+Ntinou, M., 2002. La Paleovegetación en el Norte de Grecia desde el Tardiglaciar
+hasta el Atlántico. Formaciones Vegetales, Recursos y Usos. BAR IS, 1083.
+Oxford.
+Panshin, A.J., de Zeeuw, C., 1980. Textbook of Wood Technology: Structure, Identiﬁcation, Properties, and Uses of the Commercial Woods of the United States and
+Canada. McGraw-Hill, New York.
+Petersen, P.M., 1974. Fireplace fungi in an arctic area: middle west Greenland. Friesia
+10, 270e280.
+Raczky, P., Domboróczki, L., Hajdú, Z., 2007. The site of Polgár-CsTszhalom and its
+cultural and chronological connections with the Lengyel culture. Eötvös Loránd
+University, Institute of Archaeological Science, Budapest. Kraków. In:
+Koz1owski, J.K., Raczky, P. (Eds.), The Lengyel, Polgár and Related Cultures in the
+Middle/Late Neolithic in Central Europe. The Polish Academy of Arts and
+Science, Kraków, pp. 49e70.
+Raczky, P., Anders, A., 2008. Late Neolithic spatial differentiation at PolgárCsTszhalom, eastern Hungary. In: Bailey, D.W., Whittle, A., Hoffman, D. (Eds.),
+Living Well Together? Settlement and Materiality in the Neolithic of South-East
+and Central Europe. Oxbow Books, pp. 35e53.
+Raczky, P., Sümegi, P., Bartosiewicz, L., Gál, E., Kaczanowska, M., Koz1owski, J.K.,
+Anders, A. Ecological barrier versus Mental Marginal Zone? Problems of the
+northernmost Körös culture settlements in the Great Hungarian Plain.
+Römisch-Germanishes Zentralmuseum Tagungen, vol. 2, in press.
+Rayner, A.D.M., Boddy, L., 1988. Fungal Decomposition of Wood: Its Biology and
+Ecology. Wiley, New York.
+Salisbury, E.J., Jane, F.W., 1940. Charcoals from Maiden Castle and their signiﬁcance
+in relation to the vegetation and climatic conditions in prehistoric times.
+Journal of Ecology 28, 310e325.
+Schiffer, M.B., 1996. Formation Processes of the Archaeological Record, second ed.
+University of Utah Press, Salt Lake City.
+Schwarze, F.W.M.R., 2007. Wood decay under the microscope. Fungal Biology
+Reviews 21, 133e170.
+Schwarze, F.W.M.R., Engels, J., Mattheck, C., 2000. Fungal Strategies of Wood Decay
+in Trees. Springer, Berlin.
+Schweingruber, F.H., 1982. Mikroskopische Holzanatomie, Komisionverslag. In: F.
+Flück-Wirth (Ed.), Internationale Buchhandlung für Botanik und Naturwissenschaften, CH-9053 Teufen AR.
+Scott, A.C., Cripps, J.C., Collinson, M.E., Nichols, G.J., 2000. The taphonomy of charcoal following a recent heathland ﬁre and some implications for the interpretation of fossil charcoal deposits. Palaeogeography, Palaeoclimatology,
+Palaeoecology 164, 1e31.
+Shackleton, C.M., Prins, F., 1992. Charcoal analysis and the “Principle of Least
+Effort” e a conceptual model. Journal of Archaeological Science 19, 631e637.
+Sikandar, M., Tripathi, B.D., Shukla, S.C., 1989. Possible ecological effects of dead
+body cremation on the bank of river Ganga at Varanasi. Journal of Tropical
+Ecology 30, 90e95.
+Smart, T.L., Hoffman, E.S., 1988. Environmental interpretation of archaeological
+charcoal. In: Hastorf, Ch.A., Popper, V.S. (Eds.), Current Palaeoethnobotany.
+Analytical Methods and Cultural Interpretations of Archaeological Plant
+Remains. The University of Chicago Press, Chicago, pp. 167e205.
+Théry-Parisot, I., 2001. Économie du combustible au Paléolithique. Anthracologie,
+Expérimentation, Taphonomie. In: Dossier de Documentation Archéologique,
+20. C.N.R.S., Paris.
+Williams, S.T., Lanning, S., Wellington, E.M.H., 1984. Ecology of Actinomycetes. In:
+Goodfellow, M., Mordawski, M., Williams, S.T. (Eds.), The Biology of the Actinomycetes. Academic Press, London, pp. 481e528.
+Zabel, R.A., Morrell, J.J., 1992. Wood Microbiology: Decay and Its Prevention.
+Academic Press, San Diego.
+
+

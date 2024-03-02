@@ -1,0 +1,2174 @@
+Journal of Archaeological Science 40 (2013) 4331e4347
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+An ethnoarchaeological study of cooking installations in rural
+Uzbekistan: development of a new method for identiﬁcation of fuel
+sources
+Shira Gur-Arieh a, b, Eugenia Mintz a, c, Elisabetta Boaretto a, c, Ruth Shahack-Gross a, *
+a
+
+The Kimmel Center for Archaeological Science, Weizmann Institute of Science, Hertzel St., Rehovot 76100, Israel
+The Martin (Szusz) Department of Land of Israel Studies and Archaeology, Bar-Ilan University, Ramat Gan 52900, Israel
+Weizmann Institute-Max Planck Center for Integrative Archaeology, D-REAMS Radiocarbon Laboratory, Weizmann Institute of Science,
+Rehovot 76100, Israel
+
+b
+c
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 15 April 2013
+Received in revised form
+31 May 2013
+Accepted 1 June 2013
+
+Mud constructed cooking installations such as ovens and hearths are common in modern, pre-modern
+and archaeological domestic contexts in West and Central Asia. Archaeological cooking installations
+are primarily identiﬁed using analogy of shape and size to ethnographic installations. The study presented here establishes direct evidence to the use of ﬁre within mud constructed cooking installations,
+thus providing means for reducing ambiguity in identiﬁcation of archaeological cooking installations. In
+addition, we present here a newly developed method that enables a clear-cut distinction between wood
+and dung ashes used as fuel materials in many modern and archaeological domestic contexts. The study
+is based on an ethnoarchaeological research in rural households at the Republic of Uzbekistan that was
+followed by geoarchaeological analyses of installation walls, wood ash, dung ash and wood and dung
+standards collected in the study area. Field work included ethnographic observations, interviews with
+informants and temperature measurements during cooking experiments. We show that changes in the
+clay mineral structure due to exposure to high temperatures on the interior walls of cooking installations
+can be detected using FTIR (Fourier Transform Infrared) spectroscopy, providing for the ﬁrst time direct
+evidence to the use of ﬁre within such installations. We demonstrate that the temperature recorded by
+clay alteration on installation walls as well as in the ashes left on installation bottoms does not correspond to baking or cooking temperatures. We also show that the newly developed method, based on the
+ratio of wood ash pseudomorphs to dung spherulites, separates between wood and dung ashes with very
+high certainty. Yet, we identify a range of values where differentiation between wood and dung ashes is
+uncertain, and suggest it results from intensive mixing processes. Lastly, we show that phytolith morphotype analysis is an insufﬁcient tool, if used alone, for distinguishing wood from dung ashes in the
+study area. The newly developed tools for temperature estimation within mud constructed installations
+and for fuel origin determination contribute to better understanding of cooking-related practices, and
+can be applied to archaeological contexts worldwide.
+Ó 2013 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Cooking
+Oven
+Tandir
+Ochock
+Ash pseudomorphs
+Dung spherulites
+Phytoliths
+Fuel
+PSR
+
+1. Introduction
+The manipulation of raw animal and vegetal materials into edible
+and nutritious food is a hallmark of human evolution (Carmody and
+Wrangham, 2009; Organ et al., 2011; Wollstonecroft, 2011;
+Wrangham, 2009). Cooking probably developed with the earliest
+systematic use of ﬁre by hominins, inferred from the identiﬁcation of
+hearths associated with burnt animal bones as early as the Lower
+
+* Corresponding author. Tel.: þ972 8 934 3254.
+E-mail address: ruth.shahack@weizmann.ac.il (R. Shahack-Gross).
+0305-4403/$ e see front matter Ó 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2013.06.001
+
+Palaeolithic ca. 400,000 years ago (Roebroeks and Villa, 2011).
+Hearths can therefore be regarded as the earliest cooking installations. Mud constructed cooking installations are a much later
+development in human history, possibly dating as early as the PPNB
+culture in the southern Levant and Southeastern Anatolia, some
+7000 years ago (Lyons and D’Andrea, 2003). The research presented
+here focuses on mud constructed cooking installations, speciﬁcally
+those related to west and central Asian types.
+Mud constructed cooking installations in west and central Asia
+have been described from pre-modern times by explorers, ethnographers and ethnoarchaeologists (e.g., Avitsur, 1971; Dalman,
+1964; Frankel, 2011; Kramer, 1982; McQuitty, 1984, 1993; Mulder-
+
+4332
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+Heymans, 2002; Parker, 2011; Parker and Üzel, 2007; Weinstein,
+1973). These installations can be broadly separated into baking installations (dome-shaped ovens known as Tanur/Tandir, Tabun, and
+two-storied ovens known as Wagdiah/Arsah/Mogadeh) and fryingroasting-boiling installations (hearths of various types). The Tanur is
+a large (between 80 and 150 cm high and 50e80 cm in diameter)
+cylindrical shaped installation built from soil with a ventilation hole
+at its base, and a large opening at the top. It is either dug into the
+surface of activity (Kramer, 1982), incorporated into a mud built
+superstructure (Crawford, 1981) or is free standing with at least one
+coating layer for insulation (McQuitty, 1984). It is usually fueled with
+wood, dung, and/or crop processing waste located at its base while
+the dough for bread is placed on its inner walls.
+The Tabun is a hemispherical installation shorter than the Tanur
+(30 cm high and about 80 cm in diameter) with a wide opening at
+the top from which the dough is inserted (McQuitty, 1984). Tabun
+shapes and sizes vary regionally (Frankel, 2011; McQuitty, 1993). In
+northern Jordan, for example, the Tabun has a side opening from
+which wood fuel and olive pulp after pressing (jift) are inserted,
+and a built base where the dough is laid to bake. In southern Jordan
+and in Israel Tabuns are laid on top of a shallowly excavated area
+covered by river pebbles or potsherds. These installations have no
+side opening, and the fuel (mostly crushed dung and crop processing waste) is piled around the installation from the outside.
+Fuel is kept warm constantly all year long whereas refueling (and
+thus more intensive burning) occurs prior to every daily use.
+Ethnographic research on similar and other types of cooking
+installations was also carried out in other parts of the world where
+cooking installations were (and are) still in use. For example,
+Greenhouse et al. (1981) studied the botanical residues from the
+use of earth ovens lined with pebbles by a group of Pima Indians in
+the Gila River reservation. Thoms (2008) studied cook-stone features used by North American Indians, and Amouretti (1986)
+documented the use of a pit oven in the Sahara. Spatial distribution patterns related to the use of hearths were studied in forager
+societies in different parts of the world (Binford, 1998; Fisher and
+Strickland, 1989, 1991), while studies on the botanical remains
+resulting from fueling hearths with dung were conducted by Miller
+in Iran (Miller, 1984b) and Reddy in India (1998).
+Archaeologically, hearths are prevalent in sites in west Asia since
+the Middle Palaeolithic while installations that somewhat resemble
+Tanurs and/or Tabuns in shape and size are prevalent since the
+Early Bronze Age (4the3rd millenniums BC). A special hearth type,
+consisting of a pavement of river pebbles, is known for example
+from Iron Age (ca. 3200 years BP) Israel and is ethnically associated
+with the Philistine culture (Gur-Arieh et al., 2012 and references
+therein). Field identiﬁcation of these archaeological installations is
+based on simple analogy of shape and size between ethnographic
+and archaeological installations, sometimes coupled with attention
+to presence of burnt fuel (ash) within or on archaeological installations, and somewhat also assisted by the general archaeological context (e.g., domestic context). While most of these
+identiﬁcations may be correct, we ﬁnd that they are based on
+insufﬁcient and inconclusive data. The following questions are
+crucial for better ﬁeld identiﬁcation of cooking installations:
+
+were used during operation of archaeological installations. While
+ethnographic studies generally showed that wood and dung are the
+most widely-used fuels (Kramer, 1982; McQuitty, 1993; Miller,
+1982, 1984a, 1984b; Miller and Marston, 2012; Parker and Üzel,
+2007; Pierce et al., 1998; Samuel, 1989; Zapata Peña et al., 2004),
+no study to date touched upon the proportions of such fuels within
+speciﬁc installations. We therefore carried out an ethnoarchaeological research that was geared toward identifying physical and chemical criteria by which it could be determined whether
+a mud installation has been used for cooking, and toward understanding what types of fuel can be identiﬁed from ashes found
+within cooking installations. The ethnoarchaeological research
+treated the modern installations and ashes as if they were
+archaeological, i.e., we carried out sampling in a manner similar to
+sampling archaeological installations and sediments in an archaeological context, for later geoarchaeological analyses.
+1.1. Research area
+The ethnoarchaeological study was conducted in Uzbekistan in
+collaboration with the Samarkand Institute of Archaeology, Uzbek
+Academy of Sciences.
+The Republic of Uzbekistan is located in central Asia within the
+Aral Sea basin. About 80% of its area is arid or semi-arid while the
+climate in the lowlands and mid-altitude is Mediterranean with
+wet winters and dry summers (Gintzburger et al., 2003). More than
+60% of the population lives in rural areas, of which about 34%
+subsist on agro-pastoralism (Payziyeva and Paiziev, 2012). The
+research reported here was conducted ca. 25 km south of Samarkand, in the Karatyube Mountains area. The area is semi-arid with
+about 300 mm annual precipitation that carries mid-latitude
+steppe vegetation (Fig. 1).
+The research was carried out in two villages, Sivasoy at the eastern
+part of the mountain ridge and Tolly at the western part of the same
+ridge, among two subsistence agro-pastoral families. Like other
+families in the research area, these families live in households that
+include a house for a nuclear family and separate houses for married
+sons and their families. Households include a courtyard where
+various economic and social activities are carried out daily, a garden
+(that carries perennial vegetables as well as fruit trees) and animal
+enclosures (Kandiyoti,1999 and personal observations). In these rural
+areas, houses are built from mud and vegetal materials, electricity
+supply is scarce if existing, and although gas stoves are sometimes
+used, the main means of cooking, baking and heating are traditional
+installations. These traditional installations, locally called tandir and
+ochock, are built from mud and vegetal matter (most commonly
+straw). The tandir is a baking oven almost identical to the Turkish
+installation bearing the same name. The ochock is a partially enclosed
+hearth used for cooking, which includes roasting, frying and stewing.
+Cooking with the ochock is a daily task while baking takes place every
+two to three days. The general aridity of the environment, coupled
+with herd products due to the pastoral component in the economy of
+the society, dictates use of wood, dung and/or crop processing waste
+as fuel for cooking and baking activities.
+2. Materials and methods
+
+1. Is there evidence for heat within these installations?
+2. Is the associated ‘ash’ indeed ash?
+3. Is the associated ‘ash’ in situ, or a later dumping event into an
+unused installation?
+We could not ﬁnd ethnographic documentation geared toward
+answering these questions. Another research question that did not
+receive much attention in archaeological research at historical sites
+in west Asia relates to the identiﬁcation of the type/s of fuel that
+
+2.1. Field work
+Field work was conducted for a period of two weeks during
+October 2011 and included ethnographic observations, interviews,
+experimentation with various fuel types, and sampling of sediments, raw fuel materials, ash, and installation wall parts. The study
+in the Sivasoy household was made possible owing to the wife of
+the household’s owner. Additional information was obtained by
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+4333
+
+Fig. 1. Maps showing Uzbekistan (inset) and the region of the study area. The location of the villages of Sivasoy and Tolly, in relation to the Karatyube Mountains and Samarkand, is
+marked. Maps obtained from Ó2013 Google.
+
+conversations with two of her daughters-in-law. The study in the
+Tolly household was made possible with the help of the wife of the
+youngest son of the household’s owner (Figs. 1 and 2a, b). Interviews were conducted with the help of an Uzbek interpreter.
+Material sampling, temperature measurements and experimentation with various types of fuel were all conducted under full
+permission.
+
+2.2. Field experiments
+Field experiments, designed to measure the temperature ranges
+during cooking and baking in ochocks and tandirs were conducted
+in both households. Five experiments were carried out in Sivasoy,
+two in the tandir and three in the ochock. The variable tested was
+the type of fuel, i.e., wood was used as fuel in one experiment and
+
+Fig. 2. (a) Sivasoy household, showing the main family house surrounded by fruit trees. (b) Tolly household, showing the general landscape and semi-arid environment. Arrows
+point at the location of the kitchen structures. (c) An ochock in the ﬁnal stages of cooking (Sivasoy). Note the placement of thermometer detectors, one within the glowing fuel and
+another below the cooking utensil. (d) A tandir during initial stages of space heating (Sivasoy) showing placement of thermometer detectors, one within the glowing fuel and the
+other inserted through a ventilation hole close to the tandir’s back wall. Note the heavily sooted walls behind both installations, and the soot close to the tandir’s main opening.
+
+4334
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+dung in the second, using the same installation and cooking/baking
+the same type of food. Four experiments were carried out in Tolly,
+two in each installation, once with wood and once with dung. The
+repetition of fuel type in the same installation was purposefully
+done in order to evaluate the reproducibility of results.
+In each experiment, the weight of fuel used during the cooking
+activity was recorded using a portable scale. Temperature along the
+cooking activity was recorded every few minutes using two
+portable thermometers (Newtron TM 5005, useful for temperatures
+up to 1300  C with precision of 1  C  0.3%). One detector was
+placed within the burning fuel at the bottom of each installation.
+The second detector was placed between the installation wall and
+the cooking pot in order to measure the temperature just below the
+pot’s bottom in the case of ochock experiments, while in tandir
+experiments the second detector was placed in the back of the
+installation, hanging from the ventilation hole or from the main
+opening, as close as possible to the tandir’s wall in order to record
+baking temperature on tandir walls as best as possible (Fig. 2c, d).
+Samples for laboratory analyses were collected following the
+experiments, after the installation walls and/or fuel cooled down.
+Installation walls were sampled by scraping or chipping small
+fragments from the bottom and top of the wall, inside and out. Ash
+from the remains of fuel material inside the installations was
+sampled as well. Different (unburnt) fuel materials were collected
+in both villages, including various plants and dung cakes. In Sivasoy,
+a household midden where ashes are regularly discarded was
+excavated as if it was an archaeological feature, sectioned and ashy
+sediments were sampled vertically along its proﬁle. The location of
+each sample was marked with a numbered note and photographed.
+The following laboratory analyses were conducted in order to study
+the effect of heat on installation walls and sediments, and whether
+fueling practices can be deduced from ash.
+2.3. FTIR (Fourier Transform Infrared) spectroscopy
+FTIR analyses were conducted in order to determine the
+mineralogical composition of sediments and evaluate whether
+calcite and clay minerals have been transformed due to heating
+(Berna et al., 2007; Regev et al., 2010; Weiner, 2010). Spectra were
+obtained using Nicolet 380 FT-IR spectrometer (Thermo Electron
+Corporation), collected between 4000 and 250 cm1 at 4 cm1
+resolution using the KBr method. The results were evaluated based
+on a reference library (Weiner, 2010) and by conducting a heating
+experiment speciﬁc to the soils from the study area (see Section 2.4
+below).
+2.4. Soil heating experiment
+Local soils around Sivasoy and Tolly are composed primarily of
+clay (dominated by illite) and calcite. Samples of about 50 mg of soil
+were heated for 4 h in a furnace oven (Adam Mandel T21Ó), each to
+a different maximal temperature as follows: 200, 300, 400, 500,
+600, 700, 800 and 900  C. After cooling, the heated soil was
+analyzed using FTIR spectrometry and a reference of the spectral
+changes to the local soil with increased heating was built (Fig. 3a).
+Two major criteria enable deduction of the temperature to which
+the soil has been exposed. The ﬁrst is based on changes in the
+infrared spectrum of the clay fraction in the soil which initially
+undergoes signiﬁcant change when burnt at 500  C noted by the
+disappearance of the peaks at 527, 915 and 3620 cm1. When
+exposed to higher temperatures the main clay absorbance band
+shifts gradually from 1029 cm1 to 1048 cm1 (Fig. 3a). These
+changes occur due to irreversible structural changes in the clay
+mineral lattice (Berna et al., 2007). The second criterion is a change
+in the infrared spectrum of the calcite present in the soil. When
+
+heated to 800e900  C calcite breaks down into calcium oxide
+(CaO), that immediately upon cooling absorbs humidity and forms
+calcium hydroxide (Ca[OH]2). This material is identiﬁed using
+infrared spectroscopy by the presence of an absorbance band at
+3643 cm1 (Weiner, 2010) (Fig. 3a). These changes in the infrared
+spectra of clay and calcite in soil thus provide means to determining
+the maximal temperature to which these minerals in a cooking
+installation wall were exposed to.
+2.5. Microscopy
+Microscopic remains that are expected to be found, and are
+indicative of fueling materials include opal phytoliths, dung
+spherulites and wood ash pseudomorphs. All three were studied
+using a polarized light microscope (Nikon Labophot2-POL).
+2.5.1. Quantiﬁcation of ash pseudomorphs and dung spherulites
+Both ash pseudomorphs and dung spherulites are micro remains composed of calcite, each indicative of speciﬁc fuel material
+(Braadbaart et al., 2012; Canti, 2003; Lancelotti and Madella, 2012;
+Matthews, 2010). Ash pseudomorphs are created when calcium
+oxalate crystals (CaC2O4$H2O) that form in living plants undergo
+heating to at least 450  C (see Shahack-Gross and Ayalon, 2013 for a
+detailed description of their formation). Their typical shapes are
+druses (crystal cluster), rombohedral and prismatic crystals that are
+more common in dicotyledonous plants (hereafter dicots), and
+raphides or styloids that are more common in monocotyledonous
+plants (hereafter monocots) (Franceschi and Nakata, 2005; Prychid
+and Rudall, 1999) and their size range is typically 10e50 mm. They
+are dark gray in plane polarized light (PPL) and have high order
+interference colors in cross polarized light (XPL) (Canti, 2003;
+Shahack-Gross and Ayalon, 2013). Dung spherulites are spherical
+bodies ranging 5e20 mm composed of radially crystallized monohydrocalcite that forms in the intestines of animals, especially ruminants (Canti, 1997; Shahack-Gross, 2011). Under cross polarized
+light they can be identiﬁed by their permanent cross of extinction
+and low order white to second order orange interference colors
+(Brochier, 1983; Shahack-Gross, 2011).
+In order to determine quantitatively whether fuel in cooking
+installations was composed of wood, dung or both, quantiﬁcation of
+these microscopic remains is necessary. Oxalates in monocot plants
+are often rare to absent (Prychid and Rudall, 1999), therefore, styloids and raphides are not expected to be found in high quantities
+in dung ash. Rhombohedral and prismatic oxalate crystals are expected in high quantities in wood ash. Druses are known in both
+monocot and dicot plants and are expected in both dung and wood
+ashes.
+While dung spherulites have been quantiﬁed recently from
+archaeological sediments (Albert et al., 2008; Berna et al., 2007;
+Portillo et al., 2009; Simpson et al., 2003), their quantiﬁcation
+was based on counting inhomogeneous samples prepared by
+mixing a weighed aliquot of sediment sample with a high viscosity
+gluing material (usually Entellan New, Merck), on a microscope
+slide. We present here a new procedure that allows for homogenous spread of microscopic remains, based on the phytolith rapid
+extraction method of Katz et al. (2010) that takes advantage of the
+low viscosity of a heavy liquid solution prepared from sodium
+polytungstate.
+The procedure is as follows: Between 5 and 40 mg sediment or
+ash are weighed using an analytical balance (Sartorius
+BP121S  0.1 mg) and sieved through a 150 mm sieve in order to
+eliminate grains larger than ash pseudomorphs and/or dung
+spherulites (if the sediment contains aggregates they can be gently
+crushed with the edge of a spatula). When working with fresh ash,
+less than 10 mg should be weighed in order to avoid sample
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+4335
+
+Fig. 3. (a) FTIR spectra of soil from the Sivasoy area heated to various temperatures in laboratory conditions. The spectral changes that occur at different temperatures allow using
+these signatures for determination of heat exposure in cooking installation walls and ashes. Note that the absorption bands characteristic of clay (red labels) and calcite (blue labels)
+change with temperature as follows: At 500  C the clay absorptions at 527, 915 and 3620 cm1 disappear and the calcite absorptions remain unchanged. At 600  C the main clay
+absorption shifts from 1032 to 1037 cm1, a change that continues to 1046 cm1 gradually with increasing temperature to 900  C. From 600  C to 900  C the calcite absorptions
+change as well, noted by lowering of the calcite characteristic absorptions relative to the clay absorptions, and appearance/formation of calcium hydroxide (Ca(OH)2) absorbance
+band at 3643 cm1 (b) FTIR spectra obtained from: (1) Inner wall of tandir showing clay spectrum indicative to heating at about 600  C (red labels), and presence of the mineral
+anhydrite (CaSO4; green labels). (2) Outer wall of tandir showing spectra characteristic of unheated clay (red labels) and unheated calcite (blue labels). (3) Dung ash from a cooking
+experiment showing spectra of clay and calcite heated at about 900  C (main clay absorption at 1047 cm1 and presence of calcium hydroxide absorption at 3643 cm1). Note that
+this ash spectrum also includes absorption bands characteristic of calcium phosphate (black labels). (For interpretation of the references to color in this ﬁgure legend, the reader is
+referred to the web version of this article.)
+
+overloading, but in the case of archaeological samples between 30
+and 40 mg sediments should be weighed due to their mixed nature.
+The sieved sediments are then placed in a 0.5 ml conical centrifuge
+tube and 500 ml of 2.4 g/ml sodium polytungstate (SPT,
+Na6(H2W12O40)$H2O) (Sometu Ltd., Berlin) are added. The tubes are
+vortexed for about three seconds until the suspension is homogenous and then sonicated for 10 min (ColeeParmer Ultrasonic
+Cleaner) in order to ensure disaggregation. The tubes are then
+vortexed again and 50 ml of the solution are immediately pipetted
+out, placed on a microscope slide, and covered by a 24  24 mm
+cover slip.
+Counting is performed using a polarized light microscope at
+400 magniﬁcation. Counting is conducted cumulatively in 15
+random ﬁelds across the slide, once in PPL where ash pseudomorphs are better identiﬁed, and once in XPL where dung spherulites are better identiﬁed. The results are calculated as follows in
+order to standardize the results presented as the amount of each
+microscopic remain per 1 g of sediment:
+
+no: of micro remains counted
+ area of the slide
+area counted
+¼ no: of micro remains on the slide ðin 50 mlÞ ¼ A
+
+(1)
+
+A10ð¼no:of micro remains in all solutionð500 mlÞÞ
+1000
+initial sample weight ðmgÞ
+¼no:of micro remains in1g sediment
+
+(2)
+
+Equation (1) calculates the number of microscopic remains
+under the entire cover slip, i.e., within 50 ml of the sample solution.
+The “area counted” is calculated by multiplying the measured area
+of one ﬁeld with the number of ﬁelds counted. Equation (2) calculates the number of microscopic remains in 1 g of sediment by
+also accounting for the fact that the result of Equation (1) (value A)
+represents 10% of the total sample (50 ml out of 500 ml).
+
+4336
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+To evaluate the reproducibility of the method for ash pseudomorphs, fresh ashes of oak (Quercus calliprinus) and pomegranate
+(Punica granatum) wood and bark were prepared experimentally in
+the laboratory by burning small branches in the furnace for 4 h at
+550  C after washing with distilled water and sonicating for 30 min
+to remove external contamination. These two species were chosen
+because initial observations and measurements of ash pseudomorphs showed that pseudomorphs from oak are larger (ranging
+15e50 mm) than those of pomegranate (ranging 10e25 mm). We
+thus tested the procedure’s reproducibility using pseudomorphs of
+different sizes. Counting triplicates of 8 sub-samples of oak ash and
+13 of pomegranate ash gave an average error of 11% (Table 1).
+To replicate possible mixing of ash with other types of sediment
+in an archaeological site, two samples from each species were
+prepared by mixing fresh ash with powdered mud brick in predetermined weight ratios of 1:2 and 1:4. We therefore expect
+that ash pseudomorph concentrations from each mixture will be a
+third or a ﬁfth of the pseudomorph concentration in fresh ash. Each
+sample was counted in triplicate. The results show that pseudomorph concentrations reduced as expected, and the measurement’s average error is 14% (Table 1). Fresh dung and wood ashes
+from the study area were used to determine the reproducibility in
+dung spherulite counting. Three sub-samples were counted in
+triplicates resulting in an average error of 31% (Table 1). We
+conclude that the maximal error in ash pseudomorph and dung
+spherulite quantiﬁcation is in the order of 30%.
+We note that SPT has a pH of about 4.5 in the working density
+(2.4 g/l) (Skipp and Brownﬁeld, 1993). This raised a concern that
+some of the calcitic micro-remains might dissolve during the procedure. However since the results are reproducible and previous
+work showed that reaction between calcite and SPT starts only after
+one hour (Skipp and Brownﬁeld, 1993), it is methodologically safe
+to use SPT for this procedure.
+The method was applied to study ashes produced during the
+ﬁeld experiments, ashes produced in the laboratory from collected
+fresh fuel materials, and sediments from the Sivasoy ash midden.
+Preparation of ash in the laboratory from fresh Uzbek wood fuel was
+preceded by cleaning of about 10 g of twigs from adhering dust
+through sonication (30 min), washing with distilled water and
+
+drying in the oven at 50  C overnight. Preparation of ash in the
+laboratory from fresh Uzbek dung was preceded by homogenization
+(light grinding) of about 6 g of cow dung and of sheep/goat dung
+that was used by the informants to fuel the cooking installations. All
+these fuel materials were burnt at 500  C for 4 h in a furnace oven.
+The ashes were weighed after cooling to room temperature.
+2.5.2. Phytolith analysis
+Phytoliths are hydrated silica (opal) particles that form in living
+plants. Thus they provide, to some extent, taxonomic information
+about the plant material brought to a site (Piperno, 2006). Two
+parameters in phytolith analysis may be used to differentiate dung
+from wood ashes. Phytolith concentrations in wood/bark are much
+lower than in grasses (i.e., dung), and phytolith morphologies in
+wood/bark and grass are distinctively different (Albert et al., 1999;
+Piperno, 2006).
+Phytolith analysis was performed according to the rapid
+extraction method of Katz et al. (2010). About 20 mg of sediment
+were placed in a 0.5 ml conical tube and dissolved by adding 50 ml
+HCl 6N. 450 ml of SPT (2.4 g/ml) were added, the sample vortexed
+for about three seconds and sonicated for 10 min. The samples were
+centrifuged for 5 min at 5000 rpm (Eppendorf centrifuge 5418).
+Only opaline particles that could unequivocally be identiﬁed as
+phytoliths have been counted. The samples included many multicell phytoliths (silica skeletons). Unlike conventional procedures,
+the multi-cellular phytoliths were not counted as 1, but the total
+number of individual cells within them was counted. The reason for
+this decision stems from taphonomical considerations. Sediments
+with low phytolith concentrations sometimes result from poor
+phytolith preservation (Cabanes et al., 2011, 2012). Thus counting a
+multi-cellular phytolith as one phytolith lowers the concentration
+results in a manner that a well preserved sample might erroneously
+be considered a poorly preserved one. Phytolith morphologies were
+studied and identiﬁed according to the standard literature
+(Mulholland and Rapp, 1992; Madella et al., 2005; Piperno, 1988).
+Wood/bark and dicot leaves phytoliths were identiﬁed based on the
+presence of characteristic morphologies (mainly irregular, parallelepipedal blocky and thin, platelet, spheroid, dicot hair, hair base,
+polyhedral, and tracheid phytoliths; Albert et al., 2000).
+
+Table 1
+Quantities of ash pseudomorphs and dung spherulites in Oak (Quercus calliprinus), Pomegranate (Punica granatum), weighed mixtures of these wood ashes with mud brick
+material, and dung ash from ethnoarchaeological cooking experiments. For each material the number of samples tested and the number of repetitions on each sample is listed,
+as well as the average result and average error (presented in percentage as the coefﬁcient of variance between the standard deviation and average).
+Material
+
+No. of samples
+
+Number of slides
+counted from each
+
+Total
+
+Average micro-remains
+(ash pseudomorphs/dung
+spherulites) per 1 g ash (106)
+
+Clean oak ash (Quercus calliprinus)
+Clean pomegranate ash (Punica granatum)
+Oak ash (Quercus calliprinus) þ mud brick 1:2
+Oak ash (Quercus calliprinus) þ mud brick 1:4
+Pomegranate ash (Punica granatum) þ mud brick 1:2
+Pomegranate ash (Punica granatum) þ mud brick 1:4
+Wood ash from cooking experiment in Uzbekistan SUZ 60
+
+6
+11
+1
+1
+1
+1
+3
+3
+1
+3
+1
+3
+7
+3
+1
+4
+1
+3
+2
+3
+
+3
+3
+3
+3
+3
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+
+18
+33
+3
+3
+3
+3
+12
+
+56
+191
+20
+10
+76
+31
+5
+
+Wood ash from cooking experiment in Uzbekistan SUZ 70
+Wood ash from cooking experiment in Uzbekistan SUZ 95
+Dung ash from cooking experiment in Uzbekistan SUZ 78
+Dung ash from cooking experiment in Uzbekistan SUZ 147
+Dung ash from cooking experiment in Uzbekistan SUZ 147
+Dung ash from cooking experiment in Uzbekistan SUZ 147
+
+
+
+
+
+
+
+
+
+6.9
+17.9
+2.1
+3.0
+0.7
+3.9
+1.6
+
+Error (%)
+
+12.0
+9.1
+10.8
+30.1
+1.0
+12.8
+31.2
+
+10
+
+1  0.4
+
+35.7
+
+10
+
+4  0.4
+
+11.6
+
+16
+
+37  5.4
+
+14.6
+
+13
+
+70  14.0
+
+20.1
+
+10
+
+21  6.4
+
+31.3
+
+11
+
+4  2.8
+
+76.3
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+3. Results
+3.1. Ethnographic observations
+The houses in the study area are traditionally built of unbaked
+mud bricks or “pachsa” (local term for large blocks of casted mud),
+on stone foundations (di Cugno et al., 2013 and our own observations). Most work is done by men, but we also observed women
+participating in the building process. The households are usually
+comprised of a main family house where the owner’s nuclear
+family lives, usually in two rooms; one for storage and working and
+another that serves for sleep, hosting and other tasks such as
+preparation of dough for baking. Additional houses may be added
+as the owner’s sons marry and build their own houses. Old
+damaged houses serve for storage or for animal keeping. In Sivasoy
+the household included the owner’s house and two additional
+houses for his sons’ families. In Tolly the owners, an elderly couple,
+live in an old structure while the main house is used by their
+youngest son’s family. Old structures in this household serve for
+storage and animal keeping.
+Households are frequently parts of villages. Both Sivasoy and
+Tolly are well-spread villages thus neighbors are found only several
+hundreds of meters from the main family house. In both Sivasoy
+and Tolly water supply was from a nearby stream channel. The
+families subsist on herding (mostly sheep and goats, but also cows
+depending on the relative wealth of the family) and small scale
+horticulture (grapevines, fruit trees, seasonal vegetables). Poplar
+trees, used as building materials and fuel, are tended as well.
+
+4337
+
+In all households, a speciﬁc roofed structure is dedicated for
+cooking (Fig. 2a, b). Such ‘kitchen’ always includes at least one
+tandir and benches for food preparation and placement of utensils.
+The tandir is usually built of two layers made of soil. The inner layer
+which is made of ﬁne carefully smoothed soil, is often bought from a
+local professional builder, and brought unbaked to be placed in the
+kitchen. The outer layer, composed of local soil that includes coarse
+rock fragments, mixed with chaff and sometimes goats’ hair, is laid
+by the resident woman/women. We observed two ways of placing
+tandirs within ‘kitchens’ e one by orienting the main opening
+vertically so that it is facing the roof and the tandir’s ventilation
+hole/s is thus found close to the ground surface. With this type of
+installation orientation the women have to bend over the opening
+in order to bake (Fig. 4a). The second possibility of tandir orientation is by placing it so that its main opening is facing the room
+interior and the ventilation hole/s is at the back, close to the room
+wall. The main opening of the installation is ﬁxed at a height that
+ﬁts the chest height of an average person thus it does not require
+bending in order to insert or take out the bread (Fig. 4b, c).
+The ochock is a partially enclosed hearth (key hole or horseshoe
+shaped) built from soil mixed with chaff. It may be located either
+indoors within a kitchen, or outdoors e either attached to a house
+wall or not (Fig. 5). The ochock includes two large openings, one at
+its top on which cooking utensils are balanced and one in front
+where fuel is added. Cooking on the ochock is mostly done using a
+large metallic bowl (Fig. 5).
+The kitchen in Sivasoy includes one functioning tandir, one old
+tandir that is used for meat roasting in special occasions, and one
+
+Fig. 4. (a) A tandir in a village close to Tolly, oriented vertically. Note the ventilation hole at the ground level (arrow). (b) The main tandir in the Sivasoy household (arrow), bought
+from a professional tandir builder, oriented horizontally on a mud bench. The installation on the left is an old tandir that was built by the informant on top of an old ochock which
+went out of use. (c) Bread cakes being baked inside the Sivasoy tandir. Arrow points at the tip of the thermometer detector that measured wall temperature. Note that glowing
+embers are piled away from the baking bread, to avoid accidental bread burning. Also note the natural cracks and broken areas in tandir walls. (d) Woman at Sivasoy sticking dough
+onto the hot tandir wall wearing an arm protector made from an old coat sleeve. (e) A metal pot with water, placed on hot embers after baking in the tandir was over.
+
+4338
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+Fig. 5. (a) An ochock that was built attached to the kitchen exterior wall at Sivasoy. (b) Free standing ochocks at Tolly. Note the horseshoe shape of these installations, the placement
+of cooking utensils (resembling Woks) on their top opening, and occasional mud benches that may, or may not, be associated with them.
+
+ochock. Another ochock, built outside the kitchen but attached to
+the kitchen’s wall, is used primarily by one of the sons’ brides that
+lives in the household. The kitchen in Tolly included a functioning
+tandir and an old tandir. Several ochocks in Tolly are concentrated
+in a small area (3  2 m) outdoors. We noted that kitchen walls are
+covered by thick black soot, especially above and around ochocks,
+probably due to the combination of oil and soot following frying
+activities. Installation internal walls and close to openings are also
+blackened by soot (Figs. 4 and 5).
+Fuel materials, primarily wood and dung, are stored indoors.
+Wood fuel in Sivasoy is mostly poplar (Populus sp.) while in Tolly it
+is mostly mulberry (Morus sp.). Dung in different stages of preparation (into ‘dung cakes’) is present around the household, on
+house walls or in the cow and sheep sheds (Fig. 6). When ready
+(dry), dung cakes are stored in the fuel storage area together with
+wood, and other materials not necessarily related to fuel (Fig. 6). In
+Sivasoy dung cake preparation takes place inside the cow-shed
+during the winter where the cakes are stuck on the internal
+walls to dry. During the summer the cows are herded away from
+the household, in grazing grounds at high elevations in the
+mountains. Dung cakes are prepared on the ground at the summer
+camp and are brought back to the village in a car. In principle dung
+cakes are said to be stored for winter use only. The wife of the
+house owner at Sivasoy complained that her brides tend to use
+dung also in the summer. The informant in Tolly prefers using
+wood over dung because she perceives the former as cleaner and
+better smelling.
+Baking and cooking are solely the domain of women. Dough is
+prepared by mixing ﬂour, water and some yeast (commercially
+bought) in a large metal bowl. When the dough is ready it is shaped
+into balls and laid to leaven. The leavened dough is worked into ﬂat
+“cakes” of approximately 30 cm in diameter. The dough cakes are
+then perforated using a wooden device. Approximately 10e20
+bread cakes are prepared in a baking episode and last for about 3
+days in an extended family of ca. 10e15 people.
+Despite difference in the orientation of tandir ovens in the two
+villages, bread baking is similar. Fire is lit within the tandir using
+dry grass or small branches followed by insertion of wood, dung
+cakes, or both. The ﬁre is fueled so that high ﬂames are created as
+well as much smoke. At this point the tandir walls are covered by
+black soot. The fuel is mixed occasionally with a metal pole until it
+is thoroughly turning into embers. According to the informants, the
+indication that it is time to insert the dough is when the soot on the
+tandir internal walls is completely burnt away. The dough cakes are
+then sprinkled with water, placed on a round textile cushion and
+the wet surface is stuck onto the tandir walls using an arm
+
+protection made from a sleeve of an old coat (Fig. 4d). While the
+bread is baking it is occasionally sprayed with water to prevent it
+from burning. Dough placed in the lower part of the tandir wall is
+more prone to burning. The heat in this part of the tandir is
+controlled by covering the embers in certain localities of too high a
+temperature with cold ash or a piece of metal to decrease the heat.
+In cases the heat at the lower part of the tandir is not sufﬁcient for
+proper baking, embers were shifted closer to the dough to locally
+elevate the temperature. Sometimes the main opening of the tandir
+was covered by a metal utensil in order to keep the heat within.
+When the bread is ready it is pulled out from the walls and slightly
+wiped with some water.
+We observed only preparation of meat stews in the ochocks. The
+cooking of meat stew was very similar in both households and
+started by heating some oil followed by addition of potato slices,
+peppers, onions and meat. Water was then added and the stew was
+left to boil for about 30e60 min. We noticed that once cooking or
+baking activities ceased a kettle was always placed on the embers to
+boil water for tea (Fig. 4e).
+3.2. Field experiments
+Table 2 details the type and amount of fuel used in each
+experiment and the time elapsing between initial ﬁre lighting and
+end of cooking.
+The temperature measured during the experiments in the
+ochocks shows a fast increase in the space (from ambient temperature to 600e700  C in 10 min or less). The space temperature
+was unstable when wood was used as fuel, ﬂuctuating upwards
+each time more wood was added (Fig. 7a.1). When dung was used
+as fuel the space temperature rose as fast as using wood, but was
+kept steadier over time (Fig. 7a.2). The temperature measured
+within the burning fuel rose slower than the temperature in the
+space (from ambient temperature to 400e800  C in 10e30 min),
+and was kept relatively stable over time, slowly decreasing after the
+initial increase (Fig. 7a.3). Note that temperatures were measured
+also after the cooking activity was completed.
+There does not appear to be a difference in temperature
+behavior in the tandir space when used with wood or dung
+(Fig. 7b.1). The wood produces a fast rise of relatively high temperature (700e800  C in 25 min at Sivasoy, and 10 min at Tolly).
+The use of dung also produced a fast increase of temperature but it
+did not reach more than 600  C. The temperature behavior
+measured within the tandirs fuel also shows a fast increase, but
+stays relatively steady between 400 and 500  C, without signiﬁcant
+differences between wood and dung (Fig. 7b.2).
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+4339
+
+Table 2
+A list of the ﬁeld experiments conducted using the two types of fuel in the two
+installation types at the two studied households. Experiment #6 started with
+glowing embers at the tandir due to previous use of this installation on the same day.
+The thermometer that was placed in the space of the tandir in experiment #7 disfunctioned after 20 min. The time column indicates time measured from the
+beginning of ﬁre to the end of cooking (i.e., until the food is taken out of the installations). Note that the temperature measurements presented in Fig. 7 continued
+after the food was taken out of the installations.
+
+Fig. 6. (a) Dung cakes drying on a house wall at the village of Sivasoy. (b) Fuel storage
+in an old kitchen at Sivasoy household, including dung cakes at the left and poplar
+twigs at the center. Behind the poplar twigs the outline of an old tandir is visible on the
+wall, delineated by black soot. Note the general un-tidy organization of this storage
+room, including its un-swept ﬂoor. (c) A section in the Sivasoy household midden
+where ash from tandirs and ochocks, as well as other food remains such as bones and
+feathers, old clothing and tools, are discarded. Note the layers formed by various
+discard episodes.
+
+3.3. FTIR
+FTIR spectra of samples collected from walls of installations
+were used to assess the level of clay and calcite alteration due to
+exposure to heat, based on the experimental data we produced in
+the laboratory (Fig. 3a).
+Two ochocks were sampled in Sivasoy and three at Tolly. Samples taken from inner walls at the lower parts of the walls included
+
+Experiment
+number
+
+Village
+
+Installation
+
+Fuel
+
+1
+2
+3
+4
+5
+6
+
+Sivasoy
+Sivasoy
+Sivasoy
+Tolly
+Tolly
+Sivasoy
+
+Ochock
+Ochock
+Ochock
+Ochock
+Ochock
+Tandir
+
+Wood
+Dung
+Wood
+Wood
+Dung
+Wood
+
+7
+
+Sivasoy
+
+Tandir
+
+8
+
+Tolly
+
+Tandir
+
+9
+
+Tolly
+
+Tandir
+
+Weight
+(kg)
+
+Time
+(h)
+
+Food
+
+6.5
+6.5
+6.8
+3.1
+4.2
+4.5
+
+2:08
+1:36
+1:09
+0:54
+0:50
+0:57
+
+Dung
+
+19.5
+
+1:20
+
+Dung
+(þwood)
+Wood
+
+8.6
+(þ1)
+5.7
+
+1:00
+
+Meat stew
+Meat stew
+Meat stew
+Meat stew
+Meat stew
+10 Bread
+cakes
+10 Bread
+cakes
+16 Bread
+cakes
+12 Bread
+cakes
+
+0:40
+
+heat-altered clay in the range of 500e600  C in both Sivasoy and
+Tolly (Fig. 3b.1). Samples collected from the top part of ochocks
+inner walls did not include heated clay, except for one sample from
+Sivasoy. Samples taken from exterior walls of the various ochocks
+showed no signs of clay alteration due to heat (Fig. 3b.2), even when
+heavily sooted, except for one sample from Tolly. In all ash samples
+collected inside the ochocks the clay fraction showed signs of
+exposure to very high temperatures ranging between 700  C and
+900  C. In three of these seven ash samples calcium hydroxide
+(Ca(OH)2) was present, supporting exposure to temperatures as
+high as 800e900  C (Fig. 3b.3).
+Tandir walls should be intact in order to carry out baking. This
+limited the number of samples collected and focused the sampling
+mostly in areas already cracked within the tandirs. In Sivasoy,
+tandir inner walls were exposed to 500e900  C both at the bottom
+(close to the installation ﬂoor where the fuel was located), as well
+as higher on the back wall. At Tolly the clay in the inner walls at the
+bottom was not altered in one case and altered at about 600  C in
+the other and a sample taken from the interior wall at the opening
+of the old tandir contained unaltered clay. Five out of six samples
+from the ﬂoors of Tolly’s tandirs included clay minerals that were
+altered at temperatures in the range of 400e500  C.
+All exterior walls of installations from both villages showed no
+signs for heat-altered clay. The clay fraction in the ash samples
+collected from inside the tandirs showed alteration due to exposure
+to temperatures in the range of 700e900  C, one sample also
+contained calcium hydroxide (Ca(OH)2) that supports exposure to
+such high temperatures. Anhydrite (CaSO4) was identiﬁed on the
+interior walls of all tandirs.
+3.4. Quantities of ash pseudomorphs, dung spherulites and
+phytoliths
+Quantities of ash pseudomorphs, dung spherulites and phytoliths were ﬁrst determined in fuel materials collected in both
+households. These materials, including wood, cow dung and sheep/
+goat dung, were ashed in laboratory controlled conditions (500  C
+for 4 h) and served as standards in this study (Table 3). Using the
+information of weight percentage left from each fuel material after
+burning, the quantities of the three micro-remains were calculated
+per 1 g of organic fuel material, i.e., before burning (Table 3). Wood
+standards had no dung spherulites, as expected, variably high
+
+4340
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+Ochock space wood
+
+Time since lighting (hh:mm)
+
+Ochock space dung
+
+Tandir fuel wood/
+wood dung
+
+b.2
+
+Temperature ºC
+Time since lighting (hh:mm)
+
+Time since lighting (hh:mm)
+
+Ochock fuel wood/
+wood dung
+
+Temperature ºC
+
+a.3
+
+Tandir space wood/
+wood dung
+
+Time since lighting (hh:mm)
+
+Temperature ºC
+
+a.2
+
+b.1
+
+Temperature ºC
+
+Temperature ºC
+
+a.1
+
+Time since lighting (hh:mm)
+Fig. 7. Plots showing the temperature measured during the various cooking experiments in ochocks (a) and tandirs (b). Green symbols represent the use of wood and black symbols
+represent the use of dung as fuel materials. Squares represent experiments that took place in Sivasoy (note a square with black cross representing a second ochock experiment in
+Sivasoy), and triangles represent experiments that took place in Tolly. (a.1) Temperatures measured in ochock spaces, just below the cooking vessel, in experiments using wood as
+fuel. (a.2) Temperatures measured in ochock spaces, just below the cooking vessel, in experiments using dung as fuel. (a.3) Temperatures measured within burning ochock fuel in
+experiments using wood and dung. (b.1) Temperatures measured in tandir spaces, close to the tandir wall, in experiments using wood or dung. (b.2) Temperatures measured within
+burning tandir fuel in experiments using wood or dung. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+amounts of ash pseudomorphs (7 and 17 million in 1 g organic fuel
+material), and low quantities of phytoliths. Pseudomorphs included
+rhombs, prisms and occasionally druses. Two cow dung and one
+sheep/goat dung standards contained low amounts of ash pseudomorphs (1.2 and 1.7 million in 1 g organic fuel material), while
+the other sheep/goat dung standard contained about 5 million ash
+pseudomorphs. These differences reﬂect diverse dietary habits of
+animals (Cowlishaw and Alder, 1960; Meyer et al., 1957). Pseudomorphs included rhombs, prisms and occasionally druses, and
+notably no styloids or raphides (the latter typical of monocot
+plants). Both sheep/goat dung standards contain more spherulites
+than cow dung. Phytolith quantities in the fuel standards range
+between 0.04 and 0.07 million per 1 g of wood and between 7 and
+15 million per 1 g of dung (Table 3).
+
+Quantities of micro-remains in the standard fuel materials were
+used to calculate their expected amounts in 1 g of ash left after
+burning theoretical mixtures of wood and dung, taking into account the different weight loss of each sample (Table 4).
+3.4.1. Modeling phytolith concentrations vs. a Pseudomorphs/
+Spherulites Ratio (PSR)
+Plotting the three parameters of micro-remains present in the
+fuel materials was simpliﬁed by calculation of a Pseudomorphs/
+Spherulites Ratio (hereafter PSR). This value takes advantage of the
+facts that wood does not contain dung spherulites and has low
+phytolith concentrations while dung contains variable amounts of
+wood ash pseudomorphs, dung spherulites and phytoliths
+depending on livestock diet (for a detailed explanation see Section
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+4341
+
+Table 3
+Quantities of phytoliths, ash pseudomorphs and dung spherulites in clean and pure (standard) wood and dung fuels from Sivasoy and Tolly. The weight loss due to burning was
+used in order to calculate the amount of the micro-remains in 1 g of the organic matter. The last column gives the PSR values in each material. Note that although we rely here
+on 4 dung samples only, the spherulite concentration in these samples is consistent with previous studies where spherulites have been quantiﬁed from modern dung ash
+(Shahack-Gross and Finkelstein, 2008).
+Sample
+
+Cow dung
+Sheep/goat
+dung
+Wood
+
+Weight
+
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+
+175 Sivasoy
+118 Tolly
+79 Sivasoy
+104 Tolly
+89 Sivasoy
+154 Tolly
+
+Phytoliths
+
+Ash pseudomorphs
+
+Dung spherulites
+
+Initial
+weight (g)
+
+Final weight (g)
+after 4 h 500  C
+
+Weight %
+left
+
+Counted in
+1 g ash 106
+
+Calculated for
+1 g fuel 106
+
+Counted in
+1 g ash 106
+
+Calculated for
+1 g fuel 106
+
+Counted in
+1 g ash 106
+
+Calculated for
+1 g fuel 106
+
+5.717
+5.719
+5.605
+5.228
+1.861
+9.487
+
+1.101
+1.548
+1.321
+1.322
+0.046
+0.511
+
+19.3
+27.1
+23.6
+25.3
+2.5
+5.4
+
+78.4
+39.1
+28.9
+46.8
+1.7
+1.3
+
+15.10
+10.60
+6.80
+11.80
+0.04
+0.07
+
+6.2
+6.4
+19.7
+4.8
+272.1
+321.9
+
+1.2
+1.7
+4.6
+1.2
+6.7
+17.3
+
+9.9
+94.5
+256.8
+420.8
+e
+e
+
+1.9
+25.6
+60.5
+106.4
+e
+e
+
+4.4) (Table 3). A two-dimensional plot of PSR and phytolith concentrations was thus built in which the values of ashed standards
+and their theoretical mixtures (Table 4) can be easily appreciated
+(Fig. 8a,b). It can be seen that pure wood ash does not have a PSR
+value because it does not contain spherulites, however, if we
+arbitrarily consider the presence of 1 dung spherulite in pure wood
+ash, PSR values can be calculated and they are in the range of
+hundreds of millions. For such pure wood ash, phytolith concentrations are low (below 2 million phytoliths per 1 g ash) and it plots
+at the far lower right of the graph (Fig. 8a). Pure dung, with high or
+low dung spherulite content, plots at the upper/middle left part of
+the graph having distinctively low PSR values (always below 1) and
+phytolith concentrations above 20 million in 1 g ash (Fig. 8a). For
+comparison, the values obtained from a local soil sample are
+plotted as well, falling at the lower left part of the graph (i.e., low
+amounts of all micro-remains; Fig. 8a). A clear separation in values
+between pure wood and pure dung ashes is thus evident.
+When mixtures of wood and dung are used to fuel an installation, mixing curves are expected to form between PSR values and
+between phytolith concentrations. We calculated such mixtures
+
+PSR
+
+0.60
+0.07
+0.08
+0.01
+e
+e
+
+using standard dung and wood samples from the study area
+(Table 4). Mixing wood with spherulite-rich dung forms a steep
+mixing curve (Fig. 8b) indicating that very large amounts of wood
+are required to shift the dung signature away from a PSR value
+lower than 1, and phytolith concentrations decrease rapidly. Mixing
+wood with spherulite-poor dung (Fig. 8b) forms a moderately
+sloping mixing curve that requires lower amounts of wood to shift
+the dung signature from PSR value lower than 1 while phytolith
+concentrations do not change drastically. We note that large
+amounts of wood relative to dung are required to obtain PSR values
+of 10 and above, thus any PSR value above 10 indicates wood as the
+major fuel component. Interpretation of samples with PSR values
+between 1 and 10 having low phytolith concentrations (below 20
+million in 1 g ash) is most difﬁcult because it cannot be concluded
+with certainty whether such values represent well-preserved
+samples, predominance of wood ash, predominance of dung ash,
+or ash mixed with soil material. We therefore deﬁne this range as “a
+gray area” (Fig. 8b). The patterns presented in Fig. 8b thus serve as a
+quantitative model that allows approaching interpretation of unknown fuel sources.
+
+Table 4
+Calculation of the expected concentrations of phytoliths, ash pseudomorphs and dung spherulites in ashes resulting from mixing the standard wood and dung (the latter with
+either high or low spherulite concentrations), at different ratios. The PSR values of each theoretical mixture are given as well. These data were used to create Fig. 8b.
+
+Wood: dung
+(high spherulites)
+SUZ 154: 104
+
+Wood: dung
+(low spherulites)
+SUZ 154: 175
+
+Sample
+
+Initial
+weight (g)
+
+Final weight (g)
+after 4 h 500  C
+
+Calculated phytoliths
+per 1 g ash (106)
+
+Calculated ash
+pseudomorphs
+per 1 g ash (106)
+
+Calculated
+dung spherulites
+per 1 g ash (106)
+
+PSR of theoretical
+results
+
+1:30
+1:10
+1:5
+1:2
+1:1
+2:1
+5:1
+8:1
+10:1
+20:1
+40:1
+50:1
+100:1
+1:30
+1:10
+1:5
+1:2
+1:1
+2:1
+5:1
+8:1
+10:1
+20:1
+40:1
+50:1
+100:1
+
+31
+11
+6
+3
+2
+3
+6
+9
+11
+21
+41
+51
+101
+31
+11
+6
+3
+2
+3
+6
+9
+11
+21
+41
+51
+101
+
+7.55
+2.55
+1.55
+0.55
+0.30
+0.35
+0.50
+0.65
+0.75
+1.25
+2.25
+2.75
+5.25
+5.75
+1.95
+1.00
+0.43
+0.24
+0.29
+0.44
+0.59
+0.69
+1.19
+2.19
+2.69
+5.25
+
+47.1
+46.5
+45.6
+43.1
+39.7
+34.2
+24.4
+19.1
+16.7
+10.6
+6.5
+5.6
+3.6
+78.8
+77.5
+75.6
+70.4
+63.3
+52.6
+35.2
+26.6
+22.9
+13.9
+8.2
+6.9
+4.3
+
+7.1
+11.6
+18.0
+36.0
+61.9
+102.6
+175.8
+215.3
+232.8
+278.4
+308.8
+315.7
+330.5
+9.3
+15.1
+23.4
+45.9
+77.3
+123.8
+199.8
+237.2
+253.1
+292.5
+317.3
+322.8
+334.3
+
+423.0
+417.5
+409.4
+387.1
+354.8
+304.2
+212.9
+163.8
+141.9
+85.2
+47.3
+38.7
+20.3
+10.0
+9.8
+9.6
+8.9
+8.0
+6.6
+4.3
+3.2
+2.8
+1.6
+0.9
+0.7
+0.4
+
+0.02
+0.03
+0.04
+0.10
+0.20
+0.30
+0.83
+1.30
+1.60
+3.30
+6.50
+8.20
+16.30
+0.90
+1.50
+2.50
+5.20
+9.70
+18.80
+46.00
+73.20
+91.40
+182.10
+363.60
+454.30
+907.98
+
+4342
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+a
+
+b
+
+c
+
+Fig. 8. (a) A plot of PSR vs. phytolith concentrations in standard wood and dung ash. This plot shows that pure wood ash and pure dung ash have very distinctive ranges of PSR and
+phytolith concentrations. A soil sample plots in a distinctively different area relative to the two ash types. (b) PSR vs. phytolith concentrations in calculated mixtures of wood and
+dung in changing ratios based on standard wood and dung samples from the study area (data in Table 4). Gray diamonds represent mixtures of wood with spherulite-rich dung, and
+black diamonds represent mixtures of wood with spherulite-poor dung. Mixtures between these two end members create distinctive mixing curves. PSR values above 10 indicate
+predominance of wood ash while PSR values below 1 indicate predominance of dung ash. PSR values between 1 and 10 associated with phytolith concentrations lower than 20
+million in 1 g ash, are difﬁcult to assign to a speciﬁc fuel origin (“gray area”). These data serve as an empirical model for interpretation of ashes from ethnographic installations and
+middens, and consequently archaeological sediments. (c) A plot showing the PSR vs. phytolith concentrations in ethnoarchaeological wood ash (gray triangles), dung ash (black
+triangles) and the Sivasoy midden sediments (gray circles). All ethnographic samples fall on the range between pure wood ash and pure spherulite-rich dung ash with relatively low
+phytolith concentrations.
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+4343
+
+3.4.2. PSR and phytolith values in ethnographic ashes of known fuel
+materials
+Quantities of ash pseudomorphs, dung spherulites and phytoliths were determined in fresh wood and dung ash samples from
+cooking experiments, four control soil samples, and sediment
+samples collected from the household midden at Sivasoy (Table 5).
+Ash pseudomorph quantities are higher in installations fueled by
+wood, and dung spherulite quantities are higher in installations
+fueled by dung (Table 5). While there is a general higher quantity of
+phytoliths in ethnographic dung ashes (8e17 million per 1 g of
+dung ash) vs. those in wood ash (5e10.5 million per 1 g of wood
+ash) these quantities overlap.
+Fig. 8c shows the results from the ethnographic ashes. All but 1
+of the wood ash samples (Table 5) have PSR values well above 10
+and low-medium quantities (5e10.5 million per 1 g ash) of phytoliths, placing them in the expected range for wood ash. Dung ash
+samples have PSR values lower than 1, and medium quantities of
+phytoliths (8e17 million per 1 g ash). Despite the relatively low
+phytolith concentrations, the PSR value clearly indicates a dung ash
+origin. The results obtained from the ashes of known fuel thus
+support the usefulness of the PSR and phytolith concentration plot.
+We note that all ethnographic wood ash samples contain dung
+spherulites and that phytolith concentrations in ethnographic dung
+ash samples are lower than expected. This indicates that certain
+other taphonomic processes occur (see Discussion).
+
+3.5. Phytolith morphologies
+
+3.4.3. PSR and phytolith values in ethnographic ashes of unknown
+fuel sources
+The usefulness of the PSR to phytolith-concentration plot was
+tested on ashy sediments of an unknown fuel origin in the form of a
+layered midden at the Sivasoy household (Fig. 6c, Table 5). One
+sample had no dung spherulites and 1.7 million ash pseudomorphs
+per 1 g sediment, and therefore was unequivocally identiﬁed as
+wood ash. One sample, having a PSR value well above 10 and low
+phytolith concentrations is safely interpreted as wood ash. Two
+samples have PSR values below 1 and the highest phytolith concentrations indicating they originate primarily from dung ash.
+Three samples fell within the “gray area”.
+
+4.1. Identiﬁcation of archaeological cooking installations
+
+Differentiating wood from dung ash using phytolith morphologies is based on the premise that monocot phytoliths will be more
+abundant in dung as it is mainly composed of digested grass, while
+dicot phytoliths will be more abundant in wood and bark. Past
+research showed that monocots not only produce up to 20 times
+more phytoliths than dicot wood and bark and 16 times more
+phytoliths than dicot leaves, they are also present as an exterior
+contamination on dicot bark (Albert et al., 2003). All samples
+studied, including fresh wood and dung ashes as well as sediments
+from the Sivasoy household midden, contain phytoliths of both
+monocots and dicots. Both wood and dung ash samples are variable
+in the relative proportions of monocots/dicots (Fig. 9). We note that
+certain wood and dung ash samples may have similar phytolith
+morphotype compositions. The phytolith morphotype analysis in
+this ethnographic case study does not contribute to distinguishing
+between the two fuel types (see explanation in Section 4.4).
+4. Discussion
+The study presented here touches upon issues related to
+archaeological inferences associated with cooking. It relates to the
+mere identiﬁcation of installations as used for cooking, to their use
+temperatures and fueling materials.
+
+A basic question often encountered during excavation is
+whether installations that resemble cooking installations recorded
+ethnographically were indeed used for cooking in the past. In most
+publications we found that interpreting certain features as cooking
+installations relies mostly on resemblance based on the form/shape
+of archaeological installations to ethnographic ones (e.g., Parker,
+2011). Sometimes these interpretations are supported by context.
+We would like to emphasize that ashes within archaeological installations cannot be used as an indicator for in situ burning that
+occurred within the installation because ashes may have been
+
+Table 5
+Quantities of phytoliths, ash pseudomorphs and dung spherulites in 1 g ash/sediment from the ethnoarchaeological samples (local soil, wood and dung ashes from cooking
+experiments, and the Sivasoy midden). Calculated PSR values of each sample are also given.
+Sample
+Soil
+
+Fresh wood ash
+
+Fresh dung ash
+
+Sivasoy household
+midden
+
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+SUZ
+
+62
+76
+80
+117
+60
+70
+89
+95
+131
+155
+168
+78
+147
+167
+174
+63
+64
+65
+66
+67
+68
+69
+
+Phytoliths per 1 g
+ash/sediment (106)
+
+Ash pseudomorphs per 1 g
+ash/sediment (106)
+
+Dung spherulites per 1 g
+ash/sediment (106)
+
+PSR
+
+0.52
+3.80
+3.72
+1.07
+9.13
+5.53
+4.99
+10.52
+4.81
+7.31
+6.55
+14.31
+16.69
+8.37
+11.20
+6.95
+4.34
+3.87
+2.54
+15.26
+1.59
+14.82
+
+0.24
+0.14
+0.14
+0.00
+14.98
+116.56
+85.33
+50.98
+75.58
+150.73
+98.61
+4.30
+3.60
+0.23
+2.66
+1.24
+0.14
+1.71
+0.47
+1.75
+11.97
+0.69
+
+0.00
+0.21
+0.00
+0.00
+5.16
+1.21
+0.91
+3.82
+1.41
+6.96
+0.31
+37.07
+69.78
+20.70
+3.76
+0.49
+0.08
+0.00
+0.24
+15.80
+0.20
+5.75
+
+e
+0.67
+e
+e
+2.90
+96.00
+93.55
+13.36
+53.61
+21.64
+319.63
+0.12
+0.05
+0.01
+0.71
+2.55
+1.77
+e
+1.98
+0.11
+59.58
+0.12
+
+4344
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+Fig. 9. A diagram showing the relative percentages of phytolith morphotypes grouped into monocots (dark gray), dicots from wood/bark (gray), dicots from leaves (white),
+unassigned origin (light gray), melted (black) and weathered (very light gray), in ethnographic ash samples from cooking experiments, the Sivasoy midden and one dung standard.
+The midden samples are ordered from left to right according to stratigraphy, from bottom to top. Note the high variability in morphotype proportions in wood ash and the
+resemblance in dicot and monocot proportions between certain wood and dung ashes.
+
+discarded into unused installations that served for purposes not
+related to ﬁre, such as storage.
+In order to approach the question whether certain archaeological installations have been used with ﬁre, the FTIR analyses of
+installation walls, presented in this study, is very useful. We show
+that in both tandirs and ochocks the outer side of the installation
+walls were not affected by heat, while the inner walls were affected
+by heat so that they contained evidence for alteration of calcite and
+clay minerals in temperatures in the range of 500e900  C, similar
+to temperatures recorded by us during cooking practices.
+We note that the degree of clay alteration is variable on the
+installations’ inner walls (i.e., 70% of the inner wall samples
+included altered clay), possibly reﬂecting the inconsistent behavior
+of ﬁre within installations during different use episodes. This
+observation indicates that when sampling an archaeological
+installation in order to test whether it was used with ﬁre, sampling
+strategy should consider the amount of samples and their location
+on the installation’s inner and outer walls.
+Once an archaeological installation has been proven to include
+heat-altered clay on its internal walls, it may be interpreted as a
+cooking installation also considering its archaeological context.
+Note that kilns may also produce similar patterns, but their
+archaeological context is expected to differ from that of domestic
+cooking installations. Such positive identiﬁcation allows going into
+the next stage of inference, i.e., estimation of cooking temperature
+and identiﬁcation of fueling materials.
+4.2. Estimating cooking temperatures
+Our results show that the temperatures recorded by clay alteration on tandir inner walls are in the range of 700e900  C. However,
+we noted that the actual baking was done only after the temperature
+dropped to 250e300  C. Thus it appears that in baking ovens clay
+alteration records the initial heating of the oven space and walls
+prior to actual baking. The temperatures recorded on ochock inner
+walls are in the range of 500e600  C while the maximum temperatures recorded at the base of the cooking pot during food preparation were up to 700  C. We note that such high temperatures lasted
+
+for short periods of time (no longer than 15 min per installation
+operation) during the cooking activity. This observation indicates
+that the installation walls could not have been thoroughly heated
+which may explain the lower temperatures recorded on ochock inner walls relative to tandir inner walls. As cooking in the ochock
+involved liquids (oil, water) the danger of food burning is lower than
+during baking. This allows cooking at high ﬁre temperatures. We
+noted that after the initial frying, at high temperature, simmering of
+stews occurred at lower temperatures accompanied by stopping the
+addition of fuel into the cooking installation, which allowed for a
+slow decrease in cooking temperature with time.
+We noted that soot forms during the initial stages of combustion, and is later partially oxidized. Soot is oxidized when in direct
+contact with ﬂames within the cooking installations, however,
+some soot may remain close to the openings of cooking installations e ventilation holes, tandir mouth, and ochock sides.
+Thick accumulation of oily soot was recorded on walls above
+ochocks where frying activities took place. The chances of preservation of these patterns were not studied by us.
+4.3. Fuel selection, preferences and efﬁciency
+Several factors determining fuel selection in rural environments
+have been identiﬁed in past research, among them availability, cost
+(in time and/or money), fuel efﬁciency and fuel redundancy (i.e., if
+the fuel material is not needed to other purposes as building material or fertilizer) (Davis, 1995; Gwavuya et al., 2012; Hoeck et al.,
+2007; Hosier and Dowd, 1987; Joon et al., 2009). Availability primarily relates to the environment, whether it is wooded or arid,
+and to the economic base of the residents (i.e., whether or not
+keeping livestock that supplies dung). Another interesting factor
+that affects fuel choice is cultural such as the Maasai general
+avoidance from using dung for cooking as it is regarded ‘un-clean’
+(Shahack-Gross et al., 2004) or the taboo on using speciﬁc tree
+species among the Fang villagers in Equatorial Guinea (Picornell
+Gelabert et al., 2011).
+Fuel selection in the study area seemed to have been primarily
+guided by availability. The sparsely wooded nature of the
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+environment coupled with herd keeping favors the use of dung over
+wood. This tendency has been previously observed in other rural arid
+areas such as Iran (Kramer, 1982; Miller, 1984b). In the study area
+wood was mostly used during the summer while dung was prepared
+as dry cakes and stored for use during the winter. Yet, there was no
+strict seasonal separation as personal preferences also play a role.
+Fuel energetic efﬁciency may also play a role in decisions
+regarding which fuel to use during cooking. Looking at the results
+of our cooking experiments it is hard to point out the more efﬁcient fuel (Table 2). When using the same amount of wood vs.
+dung in the same ochock at Sivasoy, the whole process lasted
+30 min less with the dung, but then in the ochock in Tolly it took
+1.1 kg more dung for the same time of cooking (about 50 min).
+When looking at the tandir experiments we see that in both cases
+baking with dung as fuel required larger amounts (15 kg more at
+Sivasoy, and 3 kg more at Tolly) and also lasted longer (23 min
+longer at Sivasoy, and 20 min at Tolly). Note that tandir volumes in
+both villages are about the same. On the other hand comparing the
+span of time the temperature stays above 500  C we see that in all
+cases the dung is more efﬁcient (11 min more in average with the
+ochock, and 7.5 min more with the tandir). Taken together, the
+heterogeneity of the results suggests that from an energetic point
+of view, there is not much difference between dung and wood as
+fuel materials.
+4.4. Identifying fuel materials
+Fuel identiﬁcation in archaeological sites helps reconstruct the
+environment (climate and ﬂora), and it can provide evidence for
+animal husbandry. Previous studies either rely on the analysis of
+charred macro-remains (e.g., Miller et al., 2009), on micromorphological identiﬁcation of wood ash (e.g., Mentzer and Quade,
+2013 and references therein), or on morphological and quantitative analysis of phytoliths and dung spherulites (e.g., Katz et al.,
+2007; Portillo et al., 2009).
+In this study we developed a method for the simultaneous
+quantiﬁcation of ash pseudomorphs and dung spherulites. The
+method is accurate and reproducible (11% error for ash pseudomorphs and 30% error for dung spherulites). Analysis of the ethnoarchaeological ash samples of known origin showed that in both
+wood and dung ashes ash pseudomorphs and dung spherulites
+were present. The presence of wood ash pseudomorphs in herbivore dung is explained as resulting from livestock consumption of
+bark and dicot leaves as well as certain monocots that contain
+calcium oxalate crystals (Prychid and Rudall, 1999). On the other
+hand, the presence of dung spherulites in wood ash can only be
+explained in relation to human behavior, i.e., that mixing between
+wood and dung ashes occurs within the installations, despite
+(almost) daily removal of ashes. We observed that ash removal was
+done haphazardly, without care for cleanliness but care for space
+for the next batch of fuel. Thus ash from former uses was often
+mixed with newly forming ashes, and in the case of tandirs these
+were manually mixed together by the cooks with a metal pole, as
+part of the baking process and not due to the use of different fuels
+together.
+We note that Canti (1999) reported absence of spherulites in
+dung of certain animals, including sheep. Theoretically, such
+random examples of zero spherulites in dung will result in a PSR
+value typical of wood ash, further leading to an erroneous identiﬁcation of dung ash as wood ash. However, because dung cakes are
+produced from a mixture of sheep, goat and cow dung, it will be
+rare (if not impossible) to envision fueling a cooking installation
+with dung that does not contain any spherulites.
+Quantiﬁcation of dung spherulites and ash pseudomorphs in
+ashes of known origin showed that spherulite-rich dung is more
+
+4345
+
+prevalent than spherulite-poor dung, making the latter’s mixing
+curve (Fig. 8b) irrelevant in this ethnographic case study. In order to
+shift the PSR value characteristic of dung ash (lower than 1) into the
+wood ash range (PSR higher than 10) quite intensive mixing is
+required (about 60 times more wood than dung; Table 4). The PSR
+values obtained from ethnographic dung ash are restricted in range
+(between 0 and 1) while PSR values for ethnographic wood ash are
+spread across a wide range (3e900) (Fig. 8c). These values reﬂect
+variable degrees of mixing between wood and dung ashes. We
+deﬁned a “gray area”, ranging between PSR values of 1 and 10 and
+phytolith concentration that is less than 20 million per 1 g ash,
+indicating a range of values that in an archaeological case will be
+difﬁcult to supply a clear-cut inference as to the fuel source. The
+“gray area” reﬂects intensive mixing in which one cannot differentiate whether both fuel materials have been used together or
+whether mixing occurred due to rake-out activities. We noted that
+rake out is intended simply to clear the installation space rather
+than keeping it clean, thus ashes from previous use episodes
+remain at the installation’s bottom and will mix with ash that forms
+in later use episodes. Other types of mixing may also result in
+obtaining values in the “gray area” (see Section 4.5 below).
+Our results indicate that phytolith analysis by itself is not sensitive enough to identify fuel origin in the case of fuel mixtures,
+even when combining both phytolith concentration and morphological analyses. Theoretically, wood/bark can be distinguished
+from grasses based on morphotype composition. However, we note
+that human behavior may obscure this theoretical separation. First,
+we observed that each cooking event begins with starting a ﬁre
+using grasses and small twigs. As monocots (grasses) produce more
+phytoliths than wood and bark, it is expected that in all ashes
+produced in cooking installations monocot phytoliths will be more
+abundant, even if the main fueling material was wood. Second, an
+important observation we made is the mixing that occurs at
+installation bases in relation to incomplete ash rake-out between
+consecutive cooking events. A good example is the comparison
+between sample SUZ 155 originating from wood ash and sample
+SUZ 167 originating from dung ash. Both contain ca. 7e8 million
+phytoliths in 1 g ash, of which about 80% are from monocots and
+10e15% from dicots (Table 5, Fig. 9). In the absence of quantitative
+spherulite and pseudomorph data, both samples will be interpreted
+as originating from dung with some dicot contribution. However,
+when considering the PSR values of these samples, it is clear that
+SUZ 155 is predominantly wood ash with PSR value of 22, while
+SUZ 167 is dung ash with PSR value of 0.01. Thus the PSR e phytolith quantity combination is very powerful for identiﬁcation of
+the predominant ash origin.
+When applying the new method to ash of unknown origins in
+the Sivasoy midden, we were able to assign with high certainty 4
+out of the 7 samples analyzed to their speciﬁc fuel sources. Future
+research will be carried out in order to better understand the
+meaning of samples possessing PSR and phytolith concentrations
+values that plot in the so-called “gray area”.
+4.5. Taphonomic considerations
+As noted above, the “gray area” between PSR values 1 and 10
+indicates much mixing between wood and dung fuel/ashes. Can it
+also result from taphonomic changes? Considering that these
+micro-remains are calcitic, they are soluble in acidic conditions. It is
+possible that one of them is more soluble than the other. Future
+experiments are designed to test this taphonomic possibility. In
+addition, we postulate possible mixing of ashes with other types of
+sediments e possibly clayey materials from the installations’ walls
+and soil material in the Sivasoy dumped ashes. This possibility
+should also be studied in more detail in the future.
+
+4346
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+
+5. Summary and conclusions
+In this study we have dealt with questions concerning the
+identiﬁcation of cooking installations, reconstructing temperature
+ranges within them and identifying fuel materials that were used to
+operate them. Archaeologists identify certain features to be cooking
+installations based on analogies of form and context of the
+archaeological installations to ethnographic ones. These identiﬁcations are usually supported by the discovery of ashes within installations without considering alternative processes that might
+have led to the presence of non in-situ ash inside installations that
+were not originally related to ﬁre use (such as ash discarded into
+storage bins that went out of use). This study adds another tool for
+identiﬁcation of cooking installations, namely the identiﬁcation of
+heat-altered minerals (clay, calcite) on their inner walls. This can be
+easily and efﬁciently done using FTIR analyses, which can also be
+done directly at the archaeological site using portable FTIR spectrometers (Weiner, 2010). The study reported below contributes to
+the research of cooking installations worldwide, regardless of the
+speciﬁc environment, speciﬁc installation shapes and speciﬁc
+subsistence practices of its inhabitants. This study focuses on the
+physical and chemical attributes of materials used in a traditional
+society. The patterns that will be described below rely on universal
+laws in chemistry and physics of materials (a materials science
+approach). For example, the way wood or dung burn in Uzbekistan
+is just the same as they will burn almost anywhere else around the
+world (i.e., except for high altitude areas that are oxygen deﬁcient).
+Similarly, the way that heat within an Uzbek installation affects the
+chemistry of its walls is expected to be similar in cooking installations elsewhere around the world. Therefore, the patterns
+reported in this study can be applied to most other places on the
+globe.
+Our results show that the temperatures recorded by clay alteration on tandir inner walls (700e900  C) reﬂect the initial heating
+of the oven prior to actual baking, the latter done at 250e300  C.
+The temperatures recorded on ochock inner walls (500e600  C)
+better match actual cooking temperatures (700  C and lower). We
+also found that wood and dung burn alike during the operation of
+the studied installations.
+The method developed for the quantiﬁcation of ash pseudomorphs and dung spherulites was proved to be accurate and
+reproducible. We introduced the plot of PSR vs. phytolith concentration in ashes and determined experimentally that almost pure
+wood ash is characterized by PSR values above 10 and phytolith
+concentrations below 1 million in 1 g ash. Pure dung ash is characterized by PSR values lower than 1 and more than 20 million
+phytoliths in 1 g ash. The ethnographic ashes studied did not always fall within these distinctive ranges, indicating that mixing
+processes between fuel sources occur. Ashes with PSR values between 1 and 10 and phytolith concentrations below 20 million in
+1 g ash fall into a “gray area” were intensive mixing occurred and
+thus interpretation as to the dominant fuel source is highly
+uncertain.
+Mixing processes became evident primarily by the presence of
+dung spherulites in ash from installations fueled by wood only. We
+explain this phenomenon as primarily reﬂecting human behavior e
+either by consciously using different fuel types in the same burning
+event, or by unconsciously mixing the different fuel ashes in relation to rake-out activities.
+Lastly, we noted that phytolith morphotype analysis was surprisingly not useful in distinguishing between fuel sources. The
+reasons are probably (a) the original variability in livestock diet and
+thus in certain cases resemblance of dung phytoliths to dicotdominated wood ash, and (b) the mixing that occurs within
+installation bottoms. We suggest that this observation should be
+
+taken as a caution by phytolith specialists working at agricultural
+and agro-pastoral contexts. We believe that for most sites predating the Neolithic such caution is less signiﬁcant (but see for
+example Miller et al., 2009).
+Acknowledgments
+We thank Berdimuradov Amridin director of the Yahyo Gulomov
+Institute of Archaeology at Samarkand branch of the Academy of
+Science, Republic of Uzbekistan for permission to conduct the study
+and assistance during ﬁeldwork. We thank Surat Kubayev and
+Rahmatullah Rasulov for interpretation and ﬁeld assistance, the
+Beknazarov family that hosted us, Abdumanon Yerkulov who
+introduced us to the village of Tolly, and the Italo-Uzbek Project
+“The Archaeological Map of the Middle Zeravshan Valley” directed
+by Maurizio Tosi, who introduced us to the study area in 2009.
+Special thanks to Aren M. Maeir for his advice and support. The
+study was supported by the Kimmel Center for Archaeological
+Science (Weizmann Institute), and grants from the Israel Science
+Foundation, Focal Initiatives in Research in Science and Technology
+(Grant no. 527/09 to R. Shahack-Gross), the German Israel Foundation for Research and Development (Grant # 1080-132.4/2009 to
+A. Maeir and J. Maran), the F.I.R.S.T. (Bikura) Track of the Israel
+Science Foundation (Grant # 32/11 to A. Maeir, E. Weiss and L.
+Horwitz) and the Kuchinsky Fund From the Martin (Szusz)
+Department of Land of Israel Studies and Archaeology, Bar-Ilan
+University, (to S. Gur-Arieh).
+References
+Albert, R.M., Bar-Yosef, O., Meignen, L., Weiner, S., 2003. Quantitative phytolith
+study of hearths from the Natuﬁan and Middle Palaeolithic levels of Hayonim
+Cave (Galilee, Israel). Journal of Archaeological Science 30, 461e480.
+Albert, R.M., Lavi, O., Estroff, L., Weiner, S., Tsatskin, A., Ronen, A., Lev-Yadun, S.,
+1999. Mode of occupation of Tabun Cave, Mt Carmel, Israel during the Mousterian Period: a study of the sediments and phytoliths. Journal of Archaeological
+Science 26, 1249e1260.
+Albert, R.M., Shahack-Gross, R., Cabanes, D., Gilboa, A., Lev-Yadun, S., Portillo, M.,
+Sharon, I., Boaretto, E., Weiner, S., 2008. Phytolith-rich layers from the Late
+Bronze and Iron Ages at Tel Dor (Israel): mode of formation and archaeological
+signiﬁcance. Journal of Archaeological Science 35, 57e75.
+Albert, R.M., Weiner, S., Bar-Yosef, O., Meignen, L., 2000. Phytoliths in the Middle
+Palaeolithic deposits of Kebara Cave, Mt Carmel, Israel: study of the plant
+materials used for fuel and other purposes. Journal of Archaeological Science 27,
+931e947.
+Amouretti, M.C., 1986. Le pain et l’huile dans la Grèce antique. Les Belles Lettres,
+Paris.
+Avitsur, S., 1971. Baking Installations and Implements. Machon Avshalom, Tel-Aviv.
+Berna, F., Behar, A., Shahack-Gross, R., Berg, J., Boaretto, E., Gilboa, A., Sharon, I.,
+Shalev, S., Shilstein, S., Yahalom-Mack, N., Zorn, J.R., Weiner, S., 2007. Sediments
+exposed to high temperatures: reconstructing pyrotechnological processes in
+Late Bronze and Iron Age Strata at Tel Dor (Israel). Journal of Archaeological
+Science 34, 358e373.
+Binford, L.R., 1998. Hearth and home: the spatial analysis of ethnographically
+documented rock shelter occupations as a template for distinguishing between
+human and hominid use of sheltered space. In: Conard, N.J., Wendorf, F. (Eds.),
+Middle Paleolithic and Middle Stone Age Settlement Systems. A.B.A.C.O. Edizioni, Forli, pp. 229e240.
+Braadbaart, F., Poole, I., Huisman, H.D.J., van Os, B., 2012. Fuel, ﬁre and heat: an
+experimental approach to highlight the potential of studying ash and char
+remains from archaeological contexts. Journal of Archaeological Science 39,
+836e847.
+Brochier, J.E., 1983. Combustion et parcage des herbivores domestiques. Le point
+de vue du sedimentologue. Bulletin de la Societe Prehistorique Francaise 80,
+143e145.
+Cabanes, D., Weiner, S., Shahack-Gross, R., 2011. Stability of phytoliths in the
+archaeological record: a dissolution study of modern and fossil phytoliths.
+Journal of Archaeological Science 38, 2480e2490.
+Cabanes, D., Gadot, Y., Cabanes, M., Finkelstein, I., Weiner, S., Shahack-Gross, R.,
+2012. Human impact around settlement sites: a phytolith and mineralogical
+study for assessing site boundaries, phytolith preservation, and implications for
+spatial reconstructions using plant remains. Journal of Archaeological Science
+39, 2697e2705.
+Canti, M.G., 1997. An investigation of microscopic calcareous spherulites from
+herbivore dungs. Journal of Archaeological Science 24, 219e231.
+
+S. Gur-Arieh et al. / Journal of Archaeological Science 40 (2013) 4331e4347
+Canti, M.G., 1999. The production and preservation of faecal spherulites: animals,
+environment and taphonomy. Journal of Archaeological Science 26, 251e258.
+Canti, M.G., 2003. Aspects of the chemical and microscopic characteristics of plant
+ashes found in archaeological soils. Catena 54, 339e361.
+Carmody, R.N., Wrangham, R.W., 2009. The energetic signiﬁcance of cooking.
+Journal of Human Evolution 57, 379e391.
+Cowlishaw, S.J., Alder, F.E., 1960. The grazing preferences of cattle and sheep. Journal
+of Agricultural Science 54, 257e265.
+Crawford, H.E.W., 1981. Some ﬁre installations from Abu Salabikh. Paleorient 7,
+105e114.
+di Cugno, S., Mantellini, S., Berdimuradov, A., 2013. Traditional techniques, resources exploitation and archaeological record: an ethnographical study from
+the oasis of Samarkand (Uzbekistan). In: Lugli, F., Stoppiello, A.A., Biagetti, S.
+(Eds.), Ethnoarchaeology: Current Research and Field Methods, Conference
+Proceedings, Rome, Italy, 13the14th May 2010. Archaeopress.
+Dalman, G., 1964. Arbeit und Sitte in Palastina. G. Olms, Hildesheim.
+Davis, M., 1995. Fuel choice in rural communities. Energy for Sustainable Development 2, 45e48.
+Fisher, J.W., Strickland, H.C., 1989. Ethnoarchaeology among the Efe pygmies, Zaire:
+spatial organization of campsites. American Journal of Physical Anthropology
+78, 473e484.
+Fisher, J.W., Strickland, H.C., 1991. Dwellings and Fireplaces: Keys to Efe Pygmy
+Campsite Structure, Ethnoarchaeological Approaches to Mobile Campsites:
+Hunter-gatherer and Pastoralist Case Studies, pp. 215e236.
+Franceschi, V.R., Nakata, P.A., 2005. Calcium Oxalate in Plants: Formation and
+Function, Annual Review of Plant Biology. Annual Reviews, Palo Alto, pp. 41e71.
+Frankel, R., 2011. Cooking installations in the Talmudic literature. Katedra 139, 79e
+114 (in Hebrew).
+Gintzburger, G., Toderich, K.N., Mardonov, B.K., Mahmudov, M., 2003. Rangelands of
+the Arid and Semi-arid Zones in Uzbekistan. Cirad, Montpellier.
+Greenhouse, R., Gasser, R.E., Gish, J.W., 1981. Cholla Bud roasting pits: an ethnoarchaeological example. Kiva 46, 227e242.
+Gur-Arieh, S., Boaretto, E., Maeir, A., Shahack-Gross, R., 2012. Formation processes in
+Philistine hearths from Tell es-Saﬁ/Gath (Israel): an experimental approach.
+Journal of Field Archaeology 37, 121e131.
+Gwavuya, S.G., Abele, S., Barfuss, I., Zeller, M., Müller, J., 2012. Household energy
+economics in rural Ethiopia: a cost-beneﬁt analysis of biogas energy. Renewable
+Energy 48, 202e209.
+Hoeck, T., Droux, R., Breu, T., Hurni, H., Maselli, D., 2007. Rural energy consumption
+and land degradation in a post-Soviet setting- an example from the west Pamir
+mountains in Tajikistan. Energy for Sustainable Development 11, 48e57.
+Hosier, R.H., Dowd, J., 1987. Household fuel choice in Zimbabwe: an empirical test of
+the energy ladder hypothesis. Resources and Energy 9, 347e361.
+Joon, V., Chandra, A., Bhattacharya, M., 2009. Household energy consumption
+pattern and socio-cultural dimensions associated with it: a case study of rural
+Haryana, India. Biomass and Bioenergy 33, 1509e1512.
+Kandiyoti, D., 1999. How to Get It Wrong in Rural Uzbekistan: an Ethnographic
+Critique of Household Survey Categories (Discussion Paper No. 106). UN
+Research Institute for Social Development, Geneva.
+Katz, O., Gilead, I., Bar, P., Shahack-Gross, R., 2007. Chalcolithic agricultural life at
+Grar, Northern Negev, Israel: Dry farmed cereals and dung-fueled hearths.
+Paléorient 33, 101e116.
+Katz, O., Cabanes, D., Weiner, S., Maeir, A.M., Boaretto, E., Shahack-Gross, R., 2010.
+Rapid phytolith extraction for analysis of phytolith concentrations and assemblages during an excavation: an application at Tell es-Saﬁ/Gath, Israel. Journal of
+Archaeological Science 37, 1557e1563.
+Kramer, C., 1982. Village Ethnoarchaeology: Rural Iran in Archaeological Perspective. Academic Press, New York.
+Lancelotti, C., Madella, M., 2012. The ‘invisible’ product: developing markers for
+identifying dung in archaeological contexts. Journal of Archaeological Science
+39, 953e963.
+Lyons, D., D’Andrea, A.C., 2003. Griddles, ovens, and agricultural origins: an ethnoarchaeological study of bread baking in highland Ethiopia. American Anthropologist 105, 515e530.
+Madella, M., Alexandre, A., Ball, T., 2005. International code for phytolith nomenclature 1.0. Annals of Botany 96, 253e260.
+Matthews, W., 2010. Geoarchaeology and taphonomy of plant remains and microarchaeological residues in early urban environments in the Ancient Near East.
+Quaternary International 214, 98e113.
+McQuitty, A., 1984. An ethnographic and archaeological study of clay ovens in
+Jordan. Annual of the Department of Antiquities of Jordan 28, 259e268.
+McQuitty, A., 1993. Ovens in town and country. Berytus: Archaeological Studies 42,
+53e76.
+Mentzer, S.M., Quade, J., 2013. Compositional and isotopic analytical methods in
+archaeological micromorphology. Geoarchaeology 28, 87e97.
+Meyer, J.H., Lofgreen, G.P., Hull, J.L., 1957. Selective grazing by sheep and cattle.
+Journal of Animal Science 16, 766e772.
+Miller, N.F., 1982. Economy and Environment of Malyan, a Third Millennium City in
+Southern Iran. In: Anthropology. The University of Michigan, Ann Arbor.
+Miller, N.F., 1984a. The interpretation of some carbonized cereal remains as remnants of dung cake fuel. Bulletin on Sumerian Agriculture 1, 45e47.
+Miller, N.F., 1984b. The use of dung as fuel: an ethnographic example and an
+archaeological application. Paléorient 10, 71e79.
+
+4347
+
+Miller, N.F., Marston, J.M., 2012. Archaeological fuel remains as indicators of ancient
+West Asian agropastoral and land-use systems. Journal of Arid Environments
+86, 97e103.
+Miller, N.F., Zeder, M.A., Arter, S.R., 2009. From food and fuel to farms and ﬂocks.
+Current Anthropology 50, 915e924.
+Mulder-Heymans, N., 2002. Archaeology, experimental archaeology and ethnoarchaeology on bread ovens in Syria. Civilisations 49, 197e221.
+Mulholland, S.C., Rapp, G.J., 1992. Phytolith systematics: an introduction. In: George
+Rapp, J., Mulholland, S.C. (Eds.), Phytolith Systematics: Emerging Issues. Plenum
+Press, New York - London, pp. 1e13.
+Organ, C., Nunn, C.L., Machanda, Z., Wrangham, R.W., 2011. Phylogenetic rate shifts
+in feeding time during the evolution of Homo. Proceedings of the National
+Academy of Sciences 108, 14555e14559.
+Parker, B., 2011. Bread ovens, social networks and gendered space: an ethnoarchaeological study of Tandir ovens in Southeastern Anatolia. American Antiquity 76, 603e627.
+Parker, B., Üzel, M., 2007. The tradition of tandır cooking in Southeastern Anatolia:
+an ethnoarchaeological perspective. In: Takaoglu, T. (Ed.), Ethnoarchaeological
+Investigations in Rural Anatolia. Ege Yayinlari, Istanbul.
+Payziyeva, S., Paiziev, A., 2012. Food security in Uzbekistan. In: Alpas, H., Smith, M.,
+Kulmyrzeav, A. (Eds.), Strategies for Achieving Food Security in Central Asia.
+Springer, Netherlands, Dordrecht, pp. 43e56.
+Picornell Gelabert, L., Asouti, E., Martí, E.A., 2011. The ethnoarchaeology of ﬁrewood
+management in the Fang villages of Equatorial Guinea, Central Africa: implications for the interpretation of wood fuel remains from archaeological sites.
+Journal of Anthropological Archaeology 30, 375e384.
+Pierce, C., Adams, K.R., Stewart, J.D., 1998. Determining the fuel constituents of
+ancient hearth ash via ICP-AES analysis. Journal of Archaeological Science 25,
+493e503.
+Piperno, D.R., 1988. Phytolith Analysis: an Archeological and Geological Perspective.
+Academic Press, San Diego.
+Piperno, D.R., 2006. Phytoliths: a Comprehensive Guide for Archaeologists and
+Paleoecologists. AltaMira Press, Lanham, MD.
+Portillo, M., Albert, R.M., Henry, D.O., 2009. Domestic activities and spatial distribution in Ain Abu Nukhayla (Wadi Rum, Southern Jordan): the use of phytoliths
+and spherulites studies. Quaternary International 193, 174e183.
+Prychid, C.J., Rudall, P.J., 1999. Calcium oxalate crystals in monocotyledons: a review
+of their structure and systematics. Annals of Botany 84, 725e739.
+Reddy, S.N., 1998. Fueling the hearths in India: the role of dung in paleoethnobotanical interpretation. Paléorient 24, 61e69.
+Regev, L., Poduska, K.M., Addadi, L., Weiner, S., Boaretto, E., 2010. Distinguishing
+between calcites formed by different mechanisms using infrared spectrometry:
+archaeological applications. Journal of Archaeological Science 37, 3022e3029.
+Roebroeks, W., Villa, P., 2011. On the earliest evidence for habitual use of ﬁre in
+Europe. Proceedings of the National Academy of Sciences 108, 5209e5214.
+Samuel, D., 1989. Their staff of life: initial investigations on ancient Egyptian bread
+baking. In: Kemp Barry, J.K. (Ed.), 1989. Amarna Reports V. Egypt Exploration
+Society, London, pp. 253e290.
+Shahack-Gross, R., 2011. Herbivorous livestock dung: formation, taphonomy,
+methods for identiﬁcation, and archaeological signiﬁcance. Journal of Archaeological Science 38, 205e218.
+Shahack-Gross, R., Ayalon, A., 2013. Stable carbon and oxygen isotopic compositions
+of wood ash: an experimental study with archaeological implications. Journal of
+Archaeological Science 40, 570e578.
+Shahack-Gross, R., Finkelstein, I., 2008. Subsistence practices in an arid environment: a geoarchaeological investigation in an Iron Age site, the Negev Highlands, Israel. Journal of Archaeological Science 35, 965e982.
+Shahack-Gross, R., Marshall, F., Ryan, K., Weiner, S., 2004. Reconstruction of spatial
+organization in abandoned Maasai settlements: implications for site structure
+in the pastoral Neolithic of East Africa. Journal of Archaeological Science 31,
+1395e1411.
+Simpson, I.A., Vésteinsson, O., Adderley, W.P., McGovern, T.H., 2003. Fuel resource
+utilisation in landscapes of settlement. Journal of Archaeological Science 30,
+1401e1420.
+Skipp, G.L., Brownﬁeld, I., 1993. Improved Density Gradient Separation Techniques
+Using Sodium Polytungstate and a Comparison to the Use of Other Heavy
+Liquids. U.S. Geological Survey, Denver, CO.
+Thoms, A.V., 2008. The ﬁre stones carry: ethnographic records and archaeological
+expectations for hot-rock cookery in western North America. Journal of
+Anthropological Archaeology 27, 443e460.
+Weiner, S., 2010. Microarchaeology. Beyond the Visible Archaeological Record.
+Cambridge University Press, New York.
+Weinstein, M., 1973. Household structures and activities. Anatolian Studies 23,
+271e276.
+Wollstonecroft, M.l., 2011. Investigating the role of food processing in human
+evolution: a niche construction approach. Archaeological and Anthropological
+Sciences 3, 141e150.
+Wrangham, R., 2009. Catching Fire: How Cooking Made Us Human. Basic books,
+New York.
+Zapata Peña, L., Peña-Chocarro, L., Esté, J.J.I., Urquijo, J.G., 2004. Ethnoarchaeology in
+the Moroccan Jebala (Western Rif): wood and dung as fuel. In: Neumann, K.,
+Butler, A., Kahlheber, S. (Eds.), Food, Fuels and Fields -Progress in African
+Archaeobotany. Heinrich - Barth - Institut, Köln, pp. 163e175.
+
+

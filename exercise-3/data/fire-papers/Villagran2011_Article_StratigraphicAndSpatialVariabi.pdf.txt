@@ -1,0 +1,1975 @@
+Archaeol Anthropol Sci (2011) 3:357–378
+DOI 10.1007/s12520-011-0074-z
+
+ORIGINAL PAPER
+
+Stratigraphic and spatial variability in shell middens:
+microfacies identification at the ethnohistoric site
+Tunel VII (Tierra del Fuego, Argentina)
+Ximena S. Villagran & Andrea L. Balbo &
+Marco Madella & Assumpció Vila & Jordi Estevez
+
+Received: 25 February 2011 / Accepted: 18 July 2011 / Published online: 9 August 2011
+# Springer-Verlag 2011
+
+Abstract Based on ethnographic accounts from the
+eighteenth to the twentieth century, functional areas
+have been identified within Fueginian shell middens. In
+this context, archaeological microfacies acquire a
+functional meaning when the microscopic record is
+
+X. S. Villagran (*)
+Institute of Geosciences, Universidade de São Paulo (IGc/USP),
+Rua do Lago 562, Cidade Universitária,
+05508-080 São Paulo, Brazil
+e-mail: villagran@usp.br
+A. L. Balbo : A. Vila
+Department of Archaeology and Anthropology,
+Institución Milá y Fontanals,
+Spanish National Research Council (IMF/CSIC),
+C/Egipcíaques 15,
+08001 Barcelona, Spain
+A. L. Balbo
+e-mail: balbo@imf.csic.es
+A. Vila
+e-mail: avila@imf.csic.es
+M. Madella
+ICREA, Department of Archaeology and Anthropology,
+Institución Milá y Fontanals,
+Spanish National Research Council (IMF/CSIC),
+Barcelona, Spain
+e-mail: marco.madella@icrea.es
+X. S. Villagran : J. Estevez
+Department of Prehistory, Facultad de Filosofía y Letras,
+Universidad Autónoma de Barcelona (UAB),
+Edifici B, Campus UAB,
+08193 Bellaterra, Spain
+J. Estevez
+e-mail: jordi.estevez@uab.es
+
+compared to information gathered from ethnology,
+macroscopic observations made during excavation, and
+experimental modern analogues. All these lines of
+evidence were combined for the first time at Tunel
+VII, an eighteenth/nineteenth century shell midden
+occupied repeatedly by Yamana people, the last hunter–
+gatherer–fisher groups of the Beagle Channel. The
+sampling strategy involved three sets of samples: (1)
+two stratigraphical columns taken from the hut “entrance”
+and from a portion of the shell midden (i.e., the
+surrounding refuse shell ring), (2) thin sections from five
+hearths representing successive phases of frequentation of
+the hut, and (3) experimental burnt valves of Mytilus
+edulis, the main malacological component of the site.
+Comparison of microfacies from groups (1) and (2)
+provided microscopic indicators to distinguish between
+shell dumping areas and occupation surfaces. Comparison
+of microfacies within columns from group (1) allowed
+recognizing periods of site abandonment and periods of
+more intense/longer site frequentation. The experimental
+samples from M. edulis served as a reference to
+characterize the five central hearths in terms of maximum
+burning temperatures reached. Different burning structures were correlated to the season of hut frequentation
+and to their location (and function) within different
+portions of the hut. The intra-site micromorphological
+comparison strategy within a well-documented ethnohistorical context provides valuable indicators for the
+identification of functional areas in archaeological contexts when ethnographical information is not available.
+Keywords Geoarchaeology . Micromorphology .
+Microfacies . Yamana . Intra-site analyses . Beagle Channel
+
+358
+
+Introduction
+Geoarchaeological research on shell middens has mostly
+focused on two subjects: environmental reconstructions
+based on shell assemblages, used as indicators of past
+climatic conditions, and the relationship between sedimentary evolution and human occupation of coastal settings,
+based on the definition of sea-level fluctuations (see
+Bateman et al. 2008; Butzer 2004; Cannon 2000; Compton
+and Franceschini 2005; Cortez-Sanchez et al. 2008;
+Erlandson et al. 2005; Fedje and Christensen 1999; Morey
+and Crothers 1998; Whittaker and Stein 1992, among
+others). Research has also been done to distinguish
+anthropogenic from natural shell deposits (Henderson et
+al. 2002; Rosendahl et al. 2007) and to understand
+archaeological stratigraphies and site formation processes
+(Morey et al. 2002; Stein 1992a, b, c, 1996; Stein et al.
+1992; Vila et al. 2010). Much less investigation has been
+conducted on cultural refuse deposition patterns and the
+meaning underlying the construction of shell middens,
+frequently conceived as mono-functional sites resulting
+from the sequential accumulation of dumped food items.
+Zooarchaeological analysis has traditionally been used to
+study human behavior underlying shell accumulations,
+specifically with respect to prehistoric subsistence, foraging
+strategies, and resource intensification (see Bailey 1977;
+Bicho 1994; Bird et al. 2002; Claasen 1986a, b; Gassiot and
+Estevez 2005; Jerardino 1997; Jerardino et al. 1992;
+Kennett 2005; Milner et al. 2007; Reitz 1988; Stiner et al.
+2003; Waselkov 1987, among others). In this respect,
+spatial variation within shell deposits remains an underexplored subject. Tonner (2005) provides an example of
+spatial analysis in shell middens at Dunefield, Western Cape
+(South Africa), a shell midden site occupied between ca.
+1,400 and 1,300 AD. The author studies refuse management by spatially analyzing shell assemblages from a large
+excavation area, thus identifying functional areas such as
+living floors and specific locations for food processing and
+waste management.
+In this paper, we propose a geoarchaeological approach
+to the spatial analysis of Tunel VII, an ethnohistorical shell
+midden located on the northern coast of the Beagle Channel
+(Tierra del Fuego, Argentina; Fig. 1a; Estévez and Vila
+1996). The site dates to the eighteenth/nineteenth century
+AD and has been ascribed to Yamana fisher–hunter–
+gatherer groups, the inhabitants of the channel coastal areas
+before and during European colonization (Fig. 1b, d, e).
+European travelers, missionaries, and chroniclers, have
+provided extensive ethnographic information relative to
+these coastal populations, accounting for the social,
+cultural, economical, and behavioral dynamics associated
+to shell midden formation (e.g., Bridges 1975 [1947];
+Darwin 1839; Despard 1863; Gusinde 1986 [1937];
+
+Archaeol Anthropol Sci (2011) 3:357–378
+Fig. 1 Study area and ethnographic pictures taken from the Yamana,
+inhabitants of the Beagle Channel coasts. a Map with location of
+Tunel VII and other archaeological shell middens in the shores of the
+Beagle Channel. b Photograph of the Beagle Channel coast taken in
+1950 by Greten Motsny; the arrows indicate the location of three
+Yamana huts. c Photograph of a Yamana hut taken by the Mission
+Scientifique du Cap Horn in 1882–1883; note the shell accumulation
+leading to the entrance of the hut. d Photograph of a Yamana family
+outside the residence hut (the Mission Scientifique du Cap Horn in
+1882–1883). e Yamana woman sitting on a shell midden (Mission
+Scientifique du Cap Horn 1882–1883)
+
+Lothrop 1928; Martial 2005 [1888]; Spears 1895; Wilkes
+1844). These sources describe Yamana shell middens as the
+result of the sequential accumulation of debris around a
+central living area (Fig. 1c, e). Each shell midden
+corresponds to a hut built with logs, tree branches, and
+animal skins where one to three families lived around a
+central fire, constantly lit to provide heat and light
+(Fig. 1c, d). Peripheral smaller auxiliary hearths would
+also be lit for individuals that could not access the central
+space (especially children; Hyades and Deniker 1891).
+Some chroniclers report that mollusks were discarded
+around the central living space to form ring-shaped shell
+accumulations, which built a solid protection against
+strong winds and running water. The archaeological record
+from historic and older shell middens of the Beagle
+Channel corroborates ethnographical descriptions of these
+round huts where daily activities (e.g., stone knapping and
+food preparation) were performed around a central hearth.
+The secondary combustion areas have also been archaeologically identified in the periphery of the hut, even on top
+of the shell ring (Estévez and Vila 2006; Estevez et al.
+2001; Orquera 1996; Orquera and Piana 1996a, 1999a,
+2000; Piana et al. 2000; Wunsch 1996).
+The recent chronology of Tunel VII and its association with a well-documented ethnic group allows two
+sets of data to be explored and integrated: archaeological and ethnohistorical. These sources are used here to
+support the geoarchaeological study of spatial patterning
+within shell middens based on microfacies (mF) characterization. The concept of microfacies is commonly
+used to study the depositional and diagenetic histories
+of carbonate rocks through sedimentological and paleontological data that can only be extracted from thin
+section analyses (Flügel 2004). The concept was later
+adapted to archaeological micromorphology by Courty
+(2001) as a fundamental tool to understand the formation
+of archaeological strata and their spatiotemporal variability, and it has been applied in several recent works
+(Goldberg et al. 2009; Villagran et al. 2009, 2010).
+Archaeological microfacies are defined by grouping
+similar micromorphological characteristics in thin sections.
+The similarities indicate an analogous origin for the
+microfacies, meaning that the same deposition agent was
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+359
+
+360
+
+responsible for its formation (Courty 2001). Therefore,
+microfacies are not necessarily confined to specific portions
+of the site stratigraphy and may appear recurrently in the
+horizontal excavation and vertical successions. The characterization of archaeological microfacies is used in this
+article to unmask the complexity that lies under the
+supposedly simple accumulation of refuse and to expose
+the intricate sequence of activities that may concur to the
+formation of shell midden sites. In this respect, two lines of
+evidence related to formation processes will be provided:
+anthropic depositional and climatic post-depositional. This
+information will be complemented by the correlation and
+three-dimensional association of microfacies from stratigraphic profiles and from samples taken from inside the
+central living space within the shell midden. This combined
+approach will account for the complete depositional history
+and evolutionary dynamics of site formation.
+
+Tunel VII shell midden
+Tunel VII is located on the northern coast of the Beagle
+Channel (Fig. 1a), about 12 km east from the city of
+Ushuaia (Tierra del Fuego, Argentina), in a coastal setting
+currently dominated by cold sub-Antarctic climate (average temperature, 5°C; mean annual rainfall, 570 mm) and
+intense winds (Heusser 2003). Tunel VII exemplifies the
+last occupation phases of a long tradition of fisher–hunter–
+gatherer populations that inhabited the channel coasts over
+the past 6,500 years (Orquera and Piana 1999a). In
+historic times, these populations became known as
+Yamana, a nomadic society relying on the coastal
+ecosystem and supported by canoes and specialized bone
+and lithic technology. Their subsistence was mainly based
+on sea mammal and guanaco hunting, fishing, mollusk
+collection, and bird capture (Estevez et al. 1996, 2001;
+Mameli and Estevez 2004; Orquera 1999; Orquera and
+Piana 2000, 2001).
+Tunel VII was excavated from 1988 to 1993 over a
+surface of 72 m2 to investigate in detail the sequence of
+occupation events and the distribution of activity areas. The
+used method of excavation aimed at maximizing the
+amount and definition of the recorded data (Orquera and
+Piana 1992, 1996b). The general configuration of the site
+reflects the patterns described in ethnographic sources: a
+small entrance leading to the center of the hut (approx.
+3.5 m in diameter) characterized by the presence of
+successive hearths and a peripheral shell ring resulting
+from the periodic accumulation of discarded food items,
+charcoal, and other types of daily refuse. During excavation, researchers identified ten re-occupation episodes
+spanning the eighteenth and nineteenth centuries (Estévez
+and Vila 2006; Orquera 1996; Piqué 1999).
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+The 30- to 60-cm-thick stratigraphy of Tunel VII can be
+summarized as follows (from top to bottom): (a) reddish
+brown colluvial sediments (layer A); (b) intra-stratified
+shell midden (layer B); colluvial reddish brown palaeosol
+(layers C and D); and (c) pebble beach (layer P). Layer B is
+formed by an imbricate succession of shell lenses, shelldominated earths (20–50% fine fraction), black earths (with
+a minor shell component), and pebble lenses (Estévez and
+Vila 2000, Orquera 1996; Orquera and Piana 1996b, 2000).
+The ten different occupation episodes were identified within
+layer B in association to central hearths with accompanying
+lenses of shell-dominated earths, faunal remains, and
+artifacts. Thin lenses of black (organic) earths between
+hearth layers were interpreted as representative of site
+abandonment (Estévez and Vila 2006, Vila et al. 2010).
+According to the archaeofaunal assemblages, the shell
+midden hut was occupied temporally in different seasons for
+resting, food preparation, tool production and maintenance.
+Great amounts of wood from local tree species (mainly
+Nothofagus sp.) were brought to the site to maintain the
+fire of the central hearth constantly lit through the
+occupation season (Piqué 1999). Tossing of discarded
+food items and tool-making debris from successive
+seasonal occupations led to the creation of the peripheral
+shell rings (Estévez and Vila 2006). Archaeologists agree
+with ethnographic accounts that such shell ring would
+provide protection from the intense winds battering the
+channel shore (Estévez and Vila 2006; Orquera and Piana
+1999; Verdun 2010; Wunsch 1996).
+The spatial arrangement of activities performed at Tunel
+VII and their accompanying residues are thus ethnographically and archaeologically documented. This gives us the
+chance of linking archaeological microfacies with specific
+activity areas within the site and the opportunity to build a
+framework for potential inferences of our micromorphological results to shell midden sites where ethnohistorical
+information is missing.
+
+Materials and methods
+Undisturbed sediment samples for micromorphological
+analysis were collected from Tunel VII during fieldwork
+in 1992. The collection strategy involved vertical and
+horizontal sampling to capture the sequential and spatial
+distribution of activities within the shell midden. Two 60cm columns were collected from the south profile of the
+shell midden (facing the beach): Column 11 (west column)
+was taken from the shell ring access leading to the central
+habitation area, and column 12 (east column) was taken
+from the shell ring (Fig. 2a, c). Horizontal samples were
+collected from five hearths identified in the central
+habitation area during the excavation of the site (AC4,
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+361
+
+Fig. 2 Microstratigraphy of the shell ring at Tunel VII shell midden. a
+Photograph of the site with location of micromorphological sampling
+columns 11 and 12. b Microfacies identified in the sampling columns
+with mutual stratigraphic correlations (marked with dashed lines). c
+
+Schematic profile of Tunel VII with the main macrostratigraphic units,
+as defined by Orquera (1996), and location of sampling columns for
+micromorphology. d Table with description of the six microfacies
+identified in the shell ring from the analyses of columns 11 and 12
+
+AC5, AC6, AC8, and AC10; Fig. 3a, b). The hearths
+examined in the present study have previously been
+spatially analyzed by Wunsch (1996), Piqué (1999), and
+Estévez and Vila (2006). Each hearth corresponds to five
+(out of ten) occupation phases defined for Tunel VII during
+excavation (Fig. 4).
+Both sets of samples were oven-dried and impregnated under vacuum with a mixture of polyester resin,
+catalyst, and acetone as diluent following procedures
+described in Solé (1991). Thin sections were made in the
+
+1990s at the Jaume Almera Institute of Geology (CSIC).
+Analyses were done using a Leica MZ95 stereomicroscope and a Leica DM2500 optical microscope. Thin
+sections were observed under plane-polarized light (PPL)
+and cross-polarized light (XPL) following guidelines in
+Bullock et al. (1985), Courty et al. (1989), Fitzpatrick
+(1993), and Stoops (2003).
+Thin sections from column 11 have been previously
+analyzed (Balbo et al. 2010; Vila et al. 2010). These authors
+identified three activities through a set of micromorpholog-
+
+362
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+Fig. 3 Microstratigraphy of the central habitation area at Tunel VII
+shell midden. a Photograph of the site when the excavation was
+finished and the lowermost hearth, AC10, was revealed (first
+occupation hearth). b Location of sampled hearths 10, 8, 6, 5, and 4
+and its relation with the sampling columns in the shell ring, and with
+
+field unit B35. c Microfacies 7 identified in the central habitation area
+of the shell midden from hearths AC4, AC5, and AC6. d Microfacies
+8 from hearths AC6, AC8, and AC10. e Table with description of the
+two hearth microfacies from the central habitation area
+
+ical indicators, mainly based on the characterization of the
+coarse fraction. The activities included: single tossing
+events (low taxon variation, low fragmentation of shells in
+banded subparallel distribution); frequentation phases (high
+taxon variation, higher fragmentation of shell and random
+distribution); and temporary abandonment of the site
+(formation of angular blocky soil aggregates).
+For the present study, the microstratigraphy of Tunel VII
+is presented and discussed following archaeological microfacies identification (Courty 2001). The microstratigraphic
+analyses of Balbo et al. (2010) are extended by defining
+
+eight microfacies from column analyses and horizontal
+samples (from the central hearths), which represent different activities within the shell midden. To define the
+microfacies, we relied on differences of four main micromorphological characteristics:
+1. Coarse fraction components: the diversity, frequency,
+completeness, orientation, and distribution of these is
+fundamental for microfacies description, and it gives
+important clues to interpret the nature of the depositional activity.
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+363
+
+Fig.
+
+4 Five of the ten occupations identified by Estévez and Vila
+(2006) in Tunel VII shell midden, with location of the central hearths
+sampled for this study. AC10 corresponds to the hearth lit during the
+inaugural occupation of the site; the fifth occupation (AC8) would
+have occurred during winter; the sixth occupation (AC6) happening in
+summer; the seventh occupation (AC5) in autumn; and eighth and nine
+occupations (AC4) occurring very close in time, pointing to a
+summer–spring frequentation of the site (Colonese et al. 2011; Estévez
+and Vila 2006; Juan-Muns 1992; Mameli 2004)
+
+4. c/f ratio: The relation between coarse and fine fractions
+is fundamental to measure the variation between
+microfacies that show the same composition, but that
+may have been produced by different activities.
+
+Results
+Stratigraphy of the shell ring: column 12
+Table 1 summarizes the micromophological description of
+the seven thin sections analyzed from column 12. The
+coarse fraction for all thin sections is composed of shells
+(mostly mussels), rounded gravel-sized rock fragments,
+charcoal, and some burnt bone fragments. Most fragmented
+shell valves are complete and interconnected (interconnection means that the shells were broken but remained in
+situ). Rock fragments are frequently cracked but not
+displaced. The micromass is generally black (PPL),
+opaque/cloudy, and undifferentiated, formed by fine granules of polymorphic organic matter, tissue residues, microcharcoal, and some fine bone fragments (Figs. 5, 6, 7, and
+8). Some fungal spores were observed, especially in the
+lower profile. A consistent pedofeature is the presence of
+transparent (PPL) acicular calcium carbonate crystals (a few
+micrometers thick and 20–40 μm long; Fig. 5c). The
+predominant microstructure (interconnected mammilated
+granules) is the result of biological action previously
+observed in the upper horizons of regional soils (Villagran et
+al. 2011). The recent chronology of the site has allowed the
+good preservation of the original organic component in the
+form of partially decomposed wood and forest litter (Fig. 6d).
+Six microfacies were identified within the shell ring
+stratigraphy (column 12) based on observed differences in:
+(a) coarse fraction components, (b) microstructure, (c)
+porosity, and (d) c/f ratio. Being the shell ring built from
+residues originating from the central habitation area, the
+observed microfacies may be associated to different
+activities performed inside the hut.
+2. Microstructure: It gives valuable information on the degree
+of post-depositional transformations and pedogenesis.
+3. Porosity: It helps in clarifying the anthropogenic compaction and/or biological alteration of the sediments.
+
+Microfacies 1 (sample 2B)
+This corresponds to the topmost layer of the shell ring
+(Fig. 2b, d). It appears only once through the vertical
+
+1
+2
+3
+4
+3
+3
+4
+3
+3
+5
+2
+2
+3
+4
+
+Int. microagg.
+Blocky
+Int. microagg.
+Int. microagg.
+Int. microagg.
+Int. microagg.
+Int. microagg.
+Int. microagg.
+Int. microagg.
+Int. microagg.
+Blocky
+Blocky
+Int. microagg.
+Int. microagg.
+
+30
+20
+40
+30
+40
+40
+50
+40
+40
+60
+30
+30
+40
+50
+
+Cx. pack.
+Planes
+Cx. pack.
+Cx. pack.
+Cx. pack.
+Cx. pack.
+Cx. pack.
+Cx. pack.
+Cx. pack.
+Cx. pack.
+Planes
+Planes
+Cx. pack.
+Cx. pack.
+
+Cl. fn. en.
+Porphyric
+Sg. sp. fn.
+Sg. sp. fn.
+Sg. sp. fn.
+Sg. sp. fn.
+Sg. sp. fn.
+Sg. sp. fn.
+Sg. sp. fn.
+Cl. fn. en.
+Porphyric
+Porphyric
+Sg. sp. fn.
+Sg. sp. fn.
+en.
+en.
+
+en.
+en.
+en.
+en.
+en.
+en.
+en.
+
+50:50
+30:70
+60:40
+90:10
+70:30
+70:30
+90:10
+60:40
+60:40
+80:20
+30:70
+30:70
+50:50
+90:10
+
+−d
+−b
+−d
+−e
+−d
+−d
+−e
+−d
+−d
+−b
+−b
+−b
+−f
+−d
+
+−c
+−b
+−c
+−c
+−c
+−c
+−b
+−b
+−b
+−f
+−b
+−b
+−c
+−b
+−a
+−a
+−a
+−b
+
+−a
+−a
+
+−a
+
+−
+a
+
+−b
+−b
+−c
+−c
+
+−c
+−b
+−b
+−c
+−c
+−c
+−c
+−c
+−b
+
+−a
+
+−a
+−a
+−a
+−a
+−b
+
+−b
+−b
+
+Shell Rock Bone Charcoal Tissue
+
+c/f-related distribution c/f ratio Coarse fraction
+
+Black
+Dark Brown
+Black
+Black
+Black
+Black/light brown
+Black
+Black/light brown
+Black/light brown
+Black/light brown
+Dark brown
+Dark brown
+Black/light brown
+Black/light brown
+
+Fine fraction
+
+Und.
+Crys.
+Und.
+Und.
+Und.
+Und./Crys
+Und.
+Und./Crys
+Und./Crys
+Und./Crys
+Crys.
+Crys.
+Und./Crys.
+Und./Crys.
+
+b-fabric
+
+50%
+50%
+20%
+20%
+
+10%
+50%
+30%
+30%
+40%
+20%
+20%
+20%
+10%
+
+CaCO3
+CaCO3
+CaCO3
+CaCO3
+
+CaCO3
+CaCO3
+CaCO3
+CaCO3
+CaCO3
+CaCO3
+CaCO3
+CaCO3
+CaCO3
+
+Pedofeatures
+
+crystals
+crystals
+crystals
+crystals
+
+crystals
+crystals
+crystals
+crystals
+crystals
+crystals
+crystals
+crystals
+crystals
+
+f
+
+e
+
+d
+
+c
+
+b
+
+a
+
+Frequencies of coarse fraction components based on Bullock et al. (1985): Very dominant (>70%)
+
+Frequencies of coarse fraction components based on Bullock et al. (1985): Dominant (50–70%)
+
+Frequencies of coarse fraction components based on Bullock et al. (1985): Frequent (30–50%)
+
+Frequencies of coarse fraction components based on Bullock et al. (1985): Common (15–30%)
+
+Frequencies of coarse fraction components based on Bullock et al. (1985): Few (5–15%)
+
+Frequencies of coarse fraction components based on Bullock et al. (1985): Very few (<5%)
+
+Pr. porosity, Int. microagg. intergrain microaggregate, Cx. complex, Pack. packing, Sg. single, Fn. fine, Db. double, Sp. space, Cr. coarse, En enaulic, Und. undifferentiated, Crys. crystallitic
+
+8A
+
+6B
+7B
+
+4B
+5B
+
+3B
+
+2B
+
+C12 sample no. mF Microstructure Pr. (%) Voids
+
+Table 1 Description of column 12 (C12) at Tunel VII shell midden with microfacies (mF) identification
+
+364
+Archaeol Anthropol Sci (2011) 3:357–378
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+365
+
+Fig. 5 Photomicrographs of
+thin sections 2B (a) and 3B (b)
+in column 12 (PPL). b Top
+portion of sample 2B representing mF 1 with mussels (m), rock
+fragments (r), and charcoal (c)
+within an intergrain microaggregate micromass composed of
+black granules of polymorphic
+organic matter. c Lower portion
+of sample 2B representing mF 2
+with blocky aggregates (ba),
+formed by freeze–thaw action,
+and detail of acicular calcium
+carbonate crystals in XPL. e Top
+portion of sample 3B representing mF 3 with sub-perpendicular
+orientation of gastropod shells
+(g) and undetermined mollusks
+(s). f Central portion of sample
+3B representing mF 4 with subhorizontal mussels (m) and undetermined mollusks (s). The
+dashed lines indicate the limit
+between microfacies in each thin
+section. Note higher compaction
+and coarser granules in mF 1 (b)
+in relation to mF 3 and 4. Note
+close packing and subhorizontal orientation of shells
+in mF 4 (f) in relation to
+mF 3 (e)
+
+succession and is characterized by low porosity (20%) and
+high compaction in the groundmass. Coarse shell fragments
+are sub-horizontal (50% of the total), mostly fragmented but
+still interconnected. The remaining components of the coarse
+fraction (pebbles, charcoal, and tissue residues) are randomly
+distributed. The micromass is made of interconnected
+granules (200- to 300-μm width; Fig. 5a, b) including
+
+polymorphic organic matter, micro-charcoal, decomposed
+wood, and oxidized plant material.
+Microfacies 2 (samples 2B, 7B, and 8A)
+Corresponds to a type of angular blocky soil developed in
+the shell midden (middensol in Balbo et al. 2010; Fig. 2b,
+
+366
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+Fig. 6 Photomicrographs of
+thin sections 4B (a), with a
+high concentration of limpets
+(lp) and 5B (c) in column 12
+(PPL). b Sample 4B representing mF 3 with sub-horizontal
+mussels (m). d Central portion
+of sample 5B representing mF 4
+with close packing mussels (m)
+and charcoal fragments (c) with
+detail of tissue residue. e Lower
+portion of sample 5B representing mF 3 with charcoal (c) and
+mussels (m). The dashed lines
+indicate the limit between
+microfacies in each thin section.
+Note higher compaction and
+fragmentation of mF 4 (d) in
+relation to mF 3 (b, e)
+
+d). This soil is characterized by an angular blocky
+microstructure formed by partially accommodated prisms
+of approx. 5 × 5 mm, with fine accommodated planes
+inside (Figs. 5a, c, 7c, f, and 8a, b). Blocky peds include
+abundant and randomly distributed shell and bone fragments (fine sand to silt-sized) embedded within a dark
+brown, mostly organic fine fraction with many tissue
+residues and acicular carbonate crystals inside that gives it
+an overall crystallitic b-fabric (Fig. 5c). Coarse shell and
+rock fragments are scarce and concentrated in voids
+between blocky peds.
+Microfacies 3 (samples 3B, 4B, 5B, 6B, 7B, and 8A)
+This microfacies represents most of the shell midden
+profile, reaching a thickness of up to 10 cm in column 11
+and 50 cm in column 12. Its main characteristic is the high
+
+frequency of large shell valves (Fig. 2b, d), always
+interconnected when fragmented. Shells are mostly subhorizontal (60% of the total; Figs. 6c, d and 7a–d), some
+oblique (30%, Fig. 6a–c, e) and a few sub-vertical (10%,
+Fig. 5d, e). Smaller shell fragments are also oriented,
+though most of them are randomly distributed. Less than
+2% of shell fragments show signs of burning. In some
+cases, the periostracum of the shell is still preserved
+(Fig. 7b). Charcoal fragments are larger and better
+preserved here than in other facies. Rock fragments display
+internal cracks, with accommodated planes, frost-shattering
+(Van Vliet-Lanoë 2010), and no reworking. The fine
+fraction is composed of mammilated fine granules (width,
+150–250 μm) formed by a mixture of polymorphic organic
+matter, micro-charcoal, and oxidized plant material. Only in
+the lower parts of the profile does this facies include small
+areas of micritic and sparitic carbonates (Fig. 8b).
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+367
+
+Fig. 7 Photomicrographs of
+thin sections 6B (a) and 7B (c)
+in column 12 (PPL). b Sample
+6B representing mF 3 with
+mussels (m), rock fragments (r),
+and burnt shell (bs), with detail
+of preserved shell periostracum.
+d Top portion of sample 7B
+representing mF 3 with mussels
+(m). e Central portion of sample
+7B representing mF 5 with
+rounded pebbles. f Lower
+portion of sample 7B representing mF 2 with bone fragment (b)
+inside blocky aggregate. The
+dashed lines indicate the limit
+between microfacies in each thin
+section. Note the good preservation of whole shells
+in MF 3 (a–d)
+
+Microfacies 4 (samples 3B, 5B, and 8A)
+This microfacies is <2 cm thick in both columns and is
+always associated to mF 3 (either on top of mF 3 or
+underneath). This facies is characterized by a high c/f ratio
+and banded distribution of shell fragments, densely packed
+and horizontal (Fig. 2b, d). The fine fraction is similar to
+that described for mF 3, but is less abundant, and
+
+mammilated granules are fine (100–150 μm) and loose
+(Figs. 5d, e, 6c, d, and 8a, c)
+Microfacies 5 (sample 7B)
+It is a band of rounded pebbles (approx. 2 cm; Fig. 2b, c).
+Inter-clastic space is partially filled with mammilated
+crumbs (as described for mF 3 and 4; Fig. 7c, e).
+
+368
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+Fig. 8 Photomicrographs of
+thin section 8A (a) in column
+12 (PPL). b Top portion of
+sample 8A representing mF 2
+with mussels (m), bone (b),
+charcoal (c), and rock fragments
+(r) inside blocky aggregates,
+with detail of weathered beach
+bone. c Low portion of sample
+8A representing mF 4 with
+sub-horizontal close packing
+mussels (m). The dashed lines
+indicate the limit between
+microfacies in each thin section
+
+Microfacies 6 (samples 5A and 6A of column 11)
+This microfacies is exclusively located in the lower half
+of column 11, and it has been previously studied in
+Balbo et al. (2010) (Fig. 2b, d). It is fine fractiondominated, with randomly distributed fragmented shells
+(10% burnt shell), pebbles, and charcoal with the same
+micromass as mF 3.
+The habitation area: hearths AC 4, 5, 6, 8, and 10
+The micromorphological description of the five central
+hearths from Tunel VII is summarized in Table 2. A
+stark difference emerges between microfacies from the
+shell ring and from the central hut depression. Burnt
+shells, mostly highly fragmented mussel shells, prevail in
+the central area. The fine fraction is composed of microcharcoal, micrite, and rubified clay with low frequency of
+coarse charcoal fragments, seldom associated with a
+spongy to chamber microstructure. Burning of mussel
+shells is evidenced among others by the presence of interlaminar fissuration, laminar deformation, irregular texture,
+reddish, dark brown and black coloration, and inner
+pseudo-vacuoles (Villagran et al. 2011). Organic and/or
+tissue residues are virtually absent. All rock fragments are
+oxidized and in situ fissured into smaller angular fragments, indicating chemical and physical weathering,
+probably related to exposure to repeated heating/cooling
+cycles. Pedofeatures include impure calcitic coatings, ortic
+iron nodules moderately to strongly impregnated (more
+
+frequent in the lower hearths, AC8 and 10), impure calcite
+and micro-charcoal coatings, and occasional acicular
+calcium carbonate crystals, observed in the upper hearths
+(AC4 and 5).
+All hearths present strong similarities in coarse fraction
+components and pedofeatures. Nevertheless, they can be
+grouped into two microfacies (Fig. 3c–e) depending on
+differences in:
+(a) Frequency of shells burnt at temperatures above vs.
+below 500°C,
+(b) Porosity,
+(c) Microstructure (intergrain microaggregate vs. chamber
+microstructure), and
+(d) Micromass composition (loose microcharcoal crumbs
+vs. massive rubified clay and impure ash).
+Microfacies 7 (samples AC4a,b,c,, AC5, and AC6a,b)
+This comprised a mixture of burnt shell (at diverse
+temperatures, but mostly above 200°C), rock fragments
+(many of them oxidized and cracked), burnt bone, and
+coarse charcoal (Figs. 9, 10, 11). Shells have a horizontal
+distribution and shell fragments are interconnected
+(Fig. 9b). The fine fraction has loose and interconnected
+black granules and crumbs, mainly made of microcharcoal, oxidized tissue, and micrite (Fig. 9a, b).
+Pedofeatures include impure calcite coatings, ortic iron
+nodules inside micritic aggregates, and acicular calcium
+carbonate crystals
+
+1
+
+1
+
+1
+
+1.2
+
+1.2
+
+2
+
+2
+
+2
+
+4b
+
+4c
+
+5
+
+6a
+
+6b
+
+8a
+
+8b
+
+10
+
+Chamber
+
+Chamber
+
+Chamber
+
+Int. microagg.
+
+Int. microagg.
+Spongy
+Int. microagg.
+Spongy
+Int. microagg.
+Spongy
+Int. microagg.
+Spongy
+Int. microagg.
+
+30
+
+20
+
+15
+
+25
+
+25
+
+45
+
+40
+
+35
+
+35
+
+e
+
+d
+
+c
+
+b
+
+a
+
+Dominant (50–70%)
+
+Frequent (30–50%)
+
+Common (15–30%)
+
+Few (5–15%)
+
+Very few (<5%)
+
+Cl./sg. sp. fn. enaulic
+
+Cl./sg. sp. fn. enaulic
+
+Cl./sg. sp. fn. enaulic
+
+Cl./sg. sp. fn. enaulic
+
+Cl./sg. sp. fn. enaulic
+
+Cl./sg. sp. fn. enaulic
+
+Chm.
+Chn.
+
+Sg/db. sp. porphyric
+
+Chm. Chn. Plns. Cl./sg. sp. porphyric
+40:60
+
+50:50
+
+60:40
+
+50:50
+
+70:30
+
+90:10
+
+80:20
+
+80:20
+
+80:20
+
+–b
+–c
+–b
+–b
+–b
+–b
+–d
+–d
+–c
+
+–e
+–d
+–d
+–d
+–d
+–c
+–c
+–d
+–c
+
+–b
+
+–b
+
+–a
+
+–a
+
+–a
+
+–a
+
+–a
+
+–a
+
+–a
+
+–a
+
+–b
+
+–b
+
+–c
+
+–d
+
+–b
+
+–a
+
+Shell Rock Bone Charcoal
+
+c/f-related distribution c/f ratio Coarse fraction
+
+Chm. Chn. Plns. Cl./sg. sp. porphyric
+
+Cx. pack.
+
+Cx. pack.
+
+Cx. pack.
+
+Cx. pack.
+
+Cx. pack.
+
+Cx. pack.
+
+Chm. chambers, Chn. channels, Plns. planes, Cl. close
+
+1
+
+4a
+
+AC Sample no. mF Microstructure Pr. (%) Voids
+
+Table 2 Micromorphological description of hearths (AC) at the central area of Tunel VII with microfacies (mF) identification
+
+Reddish brown (90%)
+Gray (10%)
+Reddish brown (70%)
+Gray (30%)
+
+Black (40%)
+Light brown (60%)
+Black (90%)
+Light Brown (10%)
+Black (90%)
+Light Brown (10%)
+Black (95%)
+Light Brown (5%)
+Dark brown (50%)
+Reddish Brown (50%)
+Dark brown (60%)
+Reddish Brown (40%)
+Reddish brown (90%)
+Gray (10%)
+
+Fine fraction
+
+Crys.
+Crys.
+Crys.
+Crys.
+
+Crys.
+Crys.
+Crys.
+Crys.
+
+Und.
+Crys.
+Und.
+Crys.
+Und.
+Crys.
+Und.
+Crys.
+Crys. Crys.
+
+b-fabric
+
+90% burnt shell
+
+100% burnt shell
+
+100% burnt shell
+
+80% burnt shell
+
+80% burnt shell
+
+80% burnt shell
+
+60% burnt shell
+
+80% burnt shell .
+
+80% burnt shell
+
+Observations
+
+Archaeol Anthropol Sci (2011) 3:357–378
+369
+
+370
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+Fig. 10 Thin section of the hearth identified as AC6 in the central
+habitation area of Tunel VII shell midden, with photomicrograph
+(PPL) of undetermined mollusks (s) and pendent calcitic coating (cc)
+formed by translocation of saturated soil material. Thin sections from
+AC6 show areas of loose microcharcoal crumbs and micrite with
+rubified clay. Most shells are burnt with 50% at temperatures above
+500°C
+
+Fig. 9 Thin sections of the upper hearths in the central habitation area
+of Tunel VII shell midden (AC4 and AC5) representing mF 7. a Thin
+section of AC4 with photomicrograph (PPL) of groundmass composed
+of burnt shell fragments (bs) within loose microcharcoal aggregates
+(PPL). b Thin section of AC5 with photomicrographs (PPL) of
+groundmass composed of burnt mollusk shell (bs) and charcoal (c)
+within fine crumbs of microcharcoal. Most shell fragments were burnt
+at temperatures below 500°C, with 20–40% burnt at temperatures
+above 500°C in AC4 and 30% in AC5
+
+Microfacies 8 (samples AC6a,b, AC8a,b, and AC10)
+The coarse fraction is composed of randomly distributed
+shell fragments burnt at temperatures in excess of 500°C,
+oxidized and cracked rock fragments, burnt bones, and
+weathered beach bones. The micromass is micritic impure
+ash, micro-charcoal crumbs, and rubified clay with chamber
+microstructure (Figs. 10 and 11). The presence of POCC
+aggregates (see Canti 2003) suggests the good preservation
+of ashes. Scarce coarse charcoal fragments (<2%) and the
+absence of tissue residues, as in mF 7, indicate complete
+combustion of organic components. Iron oxide nodules and
+impregnative hypocoatings within ashes (moderately to
+highly impregnated) are present, as well as remnants of
+micro-laminated crescent-shaped calcitic coatings (Fig. 10).
+Bioturbation is evidenced by channel and chamber voids
+(Fig. 11a, b).
+
+Thin sections from AC6 showed a mixed composition,
+with equal proportions of loose microcharcoal crumbs and
+coarse aggregates of micrite and rubified clay (Fig. 10). The
+coarse fraction is a combination of that observed in mF 7
+and 8, with shell burnt at medium and high temperatures,
+oxidized and cracked pebbles, charcoal, and burnt bone.
+This suggests that AC6 includes a reworked mixture of
+both identified microfacies. Alternatively, these may represent different microfacies within the same combustion
+structure.
+
+Discussion
+The micromorphological study of samples from Tunel VII
+(following both vertical and horizontal distributions) allows
+observing the arrangement of different components in terms
+of microfacies within the shell midden. This geoarchaeological approach, supported with ethnographic data, reveals
+how shell midden sites may provide information on a
+variety of past human activities other than food consumption and tossing. Moreover, the micromorphological analysis of shell middens provides helpful information on site
+taphonomy and intra-site environmental conditions.
+Faunal composition of the shell midden
+Most of the shell valves (around 95%) identified in thin
+section are Mytilidae (mussels). The remaining proportion
+(5%) belongs to other species of mollusks. The high
+proportion of mussels in the thin sections is consistent with
+previous archaeofaunal analyses from Tunel VII deposits,
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+371
+
+preserved following thermal alteration of hydroxyapatite,
+enhancing bone resistance to dissolution (Berna et al. 2004;
+Karkanas et al. 2000). This also indicates the higher
+fragmentation of bones after burning, which can be related
+to cleaning activities and re-deposition of the hearth
+content, in conjunction with the tossing of bigger remains
+outside the central area.
+Stratigraphic microfacies
+
+Fig. 11 Thin sections of the lower hearths in the central habitation
+area of Tunel VII shell midden (AC8 and AC10) representing mF 8. a
+AC8 with photomicrograph (PPL) of chamber microstructure (ch) with
+burnt shell (bs), burnt bone fragments (bb), channel voids (cn), and
+weathered beach bone (wb). b Thin section of AC10 with photomicrograph (PPL) of burnt shell (bs), rock fragments (r), and channel
+voids (ch). The micromass of all samples for AC8 and AC10 is
+composed of micritic impure ash, microcharcoal, and rubified clay.
+Most shell fragments were burnt at temperatures above 500°C (100%
+in AC8 and 50% for AC10)
+
+with around 5% of bones (mammal, fish, and bird)
+against 92% of mussels and 3% of limpets (Nacella
+magellanica and Nacella deaurata—Gmelin, 1791) and
+snails (Trophon geversianus and Acanthina monodon—
+Pallas, 1774; Estevez et al. 1996; Orquera and Piana 2001;
+Verdun 2006, 2010). Mussel valves are easily identified in
+thin section thanks to their strong violet and pink color
+(Figs. 5b, d, 6b, d, e, 7b, d, and 8b, c). Limpets are
+identified by their shape (straight shell fragment when
+broken and bent shell when complete) and yellowish brown
+color (Figs. 6a and 7a). Snails are identified by undulated
+surfaces and convoluted shapes (Fig. 5e).
+Macroscopic bone remains in the faunal assemblage are
+well preserved and just a low proportion of them is burnt
+(Orquera and Piana 2001). However, most bone fragments
+observed in the thin section show clear signs of burning
+(Fig. 11a). These burnt bone splinters may have been better
+
+Previous work on thin sections from Tunel VII showed that
+at least three daily activities can be identified from the
+study of its microstratigraphic succession, which include:
+(1) tossing of discarded food items outside the hut, (2) site
+frequentation (cleaning/maintenance of the central hut), and
+(3) site abandonment (Balbo et al. 2010). The relationship
+between microfacies and different activities was established
+on the basis of characteristics of the coarse fraction
+(frequency of components, fragmentation, compaction,
+and interconnection of shell fragments), microstructure,
+and c/f ratio.
+The first microfacies (mF 1) is found within the upper
+portion of column 11 (Fig. 2b, d), and it has a mixture of
+shell midden components and fresh organic residues
+(including wood and forest litter). This microfacies does
+not seem associated with the formation of the shell midden,
+but rather with the deposition of eroded shell midden
+material and forest litter, covering mF 2, which represents
+the final abandonment of the site.
+All events identified as mF 2 (that appears three times in
+column 11 and twice in column 12; Fig. 2b, d) correspond
+to thin layers of fine colluvial and/or Aeolian sediment
+deposited over the shell midden, especially in its central
+area, during phases of site abandonment. This indicates that
+the round shell midden functioned as a sediment trap,
+concentrating fine sediments from the surrounding slopes
+(mostly moraines and rock outcrops). The fine fraction
+predominance of mF 2 favored the formation of angular
+blocks (Figs. 5a, 7c, and 8a) as a result of frost desiccation
+retraction (Van Vliet-Lanoë 2010) of the surface of the shell
+midden. Thus, mF 2 corresponds to moments of site
+abandonment, characterized by deposition of colluvial
+and/or Aeolian sediments and the development of incipient
+edaphic taits (i.e., a shallow angular blocky microstructure).
+The stratigraphic correlation of columns 11 and 12
+(dashed lines in Fig. 2b) indicates three moments of longterm site abandonment and middensol formation on the site:
+one near the bottom of the shell midden; another in the
+center of column 11, which correlates to the top of column
+12; and a last one at the top of column 11. The correlation
+of mF 2 at the center of column 11 (thin section 4A) with
+the top of column 12 (thin section 2B) is marked by field
+layer B35 (Fig. 2b, c), a concave-shaped, 2- to 3-cm-thick
+
+372
+
+black organic layer that covered almost the entire shell
+midden. This layer contained the charcoal fragments used
+for dendrochronological dating of the site (1776 and
+1898 AD; Piana and Orquera 1996). The sequence of ten
+occupations, and the five central hearths studied here, are
+all situated under layer B35. This shows the dissimilarity
+in the sedimentation rates of the central occupation area,
+only 25 cm thick, and the peripheral shell ring, more than
+40 cm thick.
+Microfacies 3 dominates the two columns (Fig. 2b, d),
+representing almost half of the shell midden profile in
+column 12 and nearly a third of the profile in column 11.
+The higher frequency of whole shells, the diversity and
+random distribution of coarse fraction components (including many charcoal fragments, pebbles, and burnt bone), and
+the fine loose granules of the micromass lead to the
+interpretation that mF 3 represents tossing of discarded
+items on the hut outer perimeter where the Yamana used to
+deposit the waste of daily indoor activities. This fast and
+conspicuous accumulation may have been motivated by the
+desire to maintain a clear central area, but also to build a
+protective basement wall for the habitation area (Bridges
+1975 [1947]; Gusinde 1986 [1937]; Martial 2005 [1888]).
+Microfacies 4 appears as 1- to 2-cm-thick lenses that are
+always associated to mF 3, with the exception of the base of
+column 12 (Fig. 2b, d). Shells in mF 4 have banded
+distribution, are more compacted and more fragmented. The
+fine fraction is less abundant than in mF 3. Therefore, mF 4
+is interpreted as representing episodes of surface pressure
+(trampling) that caused the fragmentation and compaction
+of discarded shells. The episodic nature of these trampling
+events is deduced from the fact that most shell fragments
+are still interconnected, indicating little reworking. This
+subtle feature can be used for the identification of
+discontinuities between stratigraphic units during the
+fieldwork.
+At the base of column 12, mF 4 contains approx. 5% of
+sea mammal bones showing calcite birefringence and wide
+dissolution areas around osteons (Fig. 7b). These attributes
+are associated to the mineralogical and morphological
+characteristics of weathered bones from the beaches of the
+Beagle Channel (Villagran et al. 2011). The presence of
+weathered bones at the base of the shell midden is coherent
+with the proximity of the underlying palaeo-beach substrate
+and pebbles.
+Microfacies 6 is the only one from the midden
+passageway (column 11) that was not found in the
+peripheral shell ring (column 12; Fig. 2b, d). Balbo et al.
+(2010) interpreted the portion of column 11 (identified here
+as mF 6) as representing moments of longer/more intense
+frequentation of the site with reorganization of its microscopic components. The low c/f ratio of mF 6 and the
+random distribution of complete and fragmented shell
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+showing exposure to different temperatures support this
+interpretation. Also, mF 6 contains the highest frequency of
+burnt shell fragments of all column microfacies, indicating
+its direct connection to the central hearths. Microfacies 6 is
+present in the lower portion of column 11 and disappears in
+the upper half of the midden stratigraphy, where mF 3
+becomes dominant. This transition indicates that the central
+hut was displaced and the passage way became part of the
+peripheral ring of a nearby new hut. This inflection point in
+the spatial organization of the shell midden (the transition
+from mF 6 to 3 is manifested by field layer B35 (Fig. 2b, c).
+Hearths microfacies
+The five central hearths from Tunel VII analyzed here
+(Fig. 3a, b) represent two microfacies (Fig. 3c–e). Apart
+from AC6 (presenting traits of both mF 7 and 8), all
+analyzed hearths belong to either mF 7 or mF 8.
+Microfacies 7 is associated to the upper hearths (AC4
+and 5) and includes burnt shell, pebbles, charcoal, and bone
+fragments embedded in a micromass composed of fine
+microcharcoal crumbs (Figs. 9 and 10). By comparison
+with the experimental model of temperature-related transformations (of Mytilus edulis Linneaus, the main malacological component of Tunel VII) made by Villagran et al.
+(2011), we infer that shell fragments in mF 7 were burnt at
+moderate temperatures, not higher than 500°C. The overall
+characteristics of the mixture of burnt components and the
+absence of a rubified substrate indicate that this type of
+hearths reached moderate temperatures (350–450°C according to classification in Wattez 1992).
+Microfacies 8 is part of the lower group of hearths (AC8
+and 10) and includes pebbles, burnt shell, and bone
+fragments (Fig. 11) embedded in a low porosity micritic
+micromass with rubified clay. According to the experimental model proposed by Villagran et al. (2011), shell
+fragments in mF 8 were burnt at temperatures above 500–
+600°C. The presence of shell burnt at high temperatures and
+the observed rubification indicate that this type of hearths
+represents high-intensity combustion structures (see Mallol
+et al. 2007; Schiegl et al. 1996; Wattez 1992; Weiner et al.
+2002). The overall good preservation of the microscopic
+characteristics observed for mF 8 agrees with the taphonomic model from modern analogues proposed in Villagran
+et al. (2011), i.e., the high porosity of shell middens and the
+rain regime of the Beagle Channel allow the preservation of
+combustion features or ash layers only if situated over a
+clayey substrate in a calcium-saturated soil solution that
+prevents carbonate leaching. Bioturbation, indicated by the
+presence of channels and chamber voids, did not completely obliterate the original arrangement of materials.
+The transition from hearth mF 8 to 7 is marked by a
+layer of colluvial black sediments (Orquera 1996) that is
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+restricted to the central habitation area (not visible in either
+of the two columns at the peripheral shell ring). The fact
+that type 7 is the only hearth microfacies observed on the
+top of this layer could be explained by taphonomy and/or
+past human action, though a combination of the two factors
+is the most likely. In the first case, the predominance of
+hearth mF 7 in the upper hearths could be related to a
+reduced accumulation of colluvial sediments. Such reduction would have hampered the preservation of the upper
+combustion structures since a decrease in the sediment
+accumulation rate would have made the substrate more
+porous, increasing the potential for erosion and leaching.
+This situation is contrary to the circumstances in the lower
+hearths where the presence of colluvial/Aeolian sediments
+suggests higher sedimentation rates, less erosion, and better
+preservation (see Mallol et al. 2007).
+The situation mentioned above does not explain the
+predominance of shell burnt at higher temperatures in the
+lower hearths (mF 8). In this respect, the second scenario
+would depend on the hearths above this layer of black
+sediments systematically firing at lower temperatures than
+those situated underneath. In fact, faunal and stable isotope
+analyses show that occupation phases associated to AC5
+and 4 correspond to autumn and summer/spring frequentation of the site, respectively. In contrast, AC8 corresponds
+to a winter occupation phase (Colonese et al. 2011; Estévez
+and Vila 2006; Juan-Muns 1992; Mameli 2004). This
+suggests that the differences observed between mF 7 and
+8 may be related to the changing heating needs of the hut
+inhabitants, e.g. seasonal circumstances (winter hearths
+demanding more intense fires) or hearth location within
+the hut (secondary hearths being less intense). In this
+scenario, the mixture of mF 7 and 8 observed for AC6
+(Fig. 10) may indicate the reworking of residues from a
+high-intensity hearth with the remains of a lower temperature hearth, two combustion structures lit simultaneously
+within the hut during this occupation phase (see Fig. 4).
+This mixture could be related to the daily occupation and
+trampling inside the central hut.
+Micromorphological traits as palaeoenvironmental proxies
+The angular blocky aggregates that characterize mF 2
+indicate the action of freeze–thaw processes in the shell
+midden (Figs. 5a, c, 7c, f, and 8a, b; Van Vliet-Lanoë
+2010). Lower concentrations of fine sediment in other
+microfacies limited the post-depositional effects of freeze–
+thaw cycles in other portions of the shell midden.
+However, the random and/or vertical distribution of shell
+fragments within mF 3 and 6, and the presence of frostshattered rock fragments may also be considered as
+evidence of frost within the profile (Van Vliet-Lanoë
+2010). The lack of silt coatings on blocky aggregates,
+
+373
+
+formed after micro-erosion and particle translocation by
+repetitive freeze–thaw cycles, suggests that mF 2 represents single episodes of frost formation followed by rapid
+cooling (Van Vliet-Lanoë 2010).
+The physical distortion caused by frost action can also be
+observed at a lower scale in the mollusk assemblages.
+Acicular carbonate crystals observed extensively in the
+shell ring and in the upper layers of the central habitation
+area (Fig. 5c) are from the physical weathering of shell
+valves. These acicular crystals appear as fine needles
+detaching from shell valves and fragments, resulting in
+random meshes of needles or massive single-crystal
+accumulations within the matrix that suggest reworking
+and redistribution of the original meshes. For their
+appearance, these acicular crystals may be confused with
+needle-fiber calcite, a type of authigenic carbonates (biomineralizations) formed by fungi in the rhizosphere during
+the early stages of pedogenesis (Beckze-Deák et al. 1997;
+Bajnócky and Kovács-Kis 2006; Jones and Kahle 1993;
+Verrecchia and Verrecchia 1994).
+In Tunel VII, the acicular carbonates are produced by
+frost action that disaggregates the thin laminae of carbonate
+crystals that compose the valves of mollusks. The weathered surface of the shell absorbs water molecules that enter
+the intra-crystalline space. When water freezes and
+expands, it causes the breakdown of the inner laminae,
+releasing thousands of carbonate needles into the sediment.
+The fine fraction of mF 2, where frost action is most
+evident, shows the greatest concentration of acicular
+crystals. This indicates intense freeze–thaw action that
+affected both the sediment and the mollusk assemblage.
+The preservation of acicular crystals at Tunel VII, in spite
+of the constant rains and the low temperatures recorded in
+the Beagle Channel (that would favor carbonate dissolution), is another indicator of calcium-saturated soil solution
+inside the shell ring. This means that inside the shell
+midden, the weathering is predominantly physical (postdepositional weathering is mainly related to freeze–thaw
+processes) and only on a lesser scale due to carbonate
+dissolution.
+Freeze–thaw is not the only process affecting the
+integrity of the shell midden. Biological action is also
+evident, mainly in the peripheral part of the shell ring,
+because of the interconnected granular microstructure
+(Figs. 5e, f, 6b, d, e, and 7b, d). The high concentration
+of organic material in this area of daily waste disposal
+favors the action of microorganisms related to organic
+matter decomposition and larger soil fauna. In the central
+hearths, channel and chamber voids also denote the action
+of soil organisms within the shell midden matrix. Here,
+again, in spite of low temperatures, biological action is
+common, as also observed in natural forest and prairie soils
+of the Beagle Channel (Villagran et al. 2011).
+
+374
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+Spatial differences within Tunel VII have emerged earlier
+from the analysis of the relative composition of shell, bone,
+pebbles, and fine sediment concentrations in sediment
+samples from the central hut (14 samples that included
+
+seven of the ten central hearths) and from the peripheral
+shell ring (21 samples; Orquera and Piana 2000, 2001,
+Verdun 2006, 2010). Verdun (2010) concluded that higher
+densities of shells appear in the periphery (the shell ring),
+while the highest frequency of pebbles and fine sediments
+characterizes the central area. Likewise, correspondence and
+principal components analyses showed the existence of a
+strong inverted relationship between the number of shells and
+the amount of pebbles and fine sediment (Verdun 2010).
+The micromorphological analyses from this study show
+other significant differences between the central area and
+the periphery of the hut (Fig. 12). For instance, burnt shells
+are virtually absent in the shell ring. The exception is for some
+pieces in mF 6 (column 11) associated with the passage space
+that connects the living hut, where the central hearths were
+maintained constantly lit, with the exterior. Chroniclers
+describe the practice of throwing mollusks into the fire to
+open the shell and extract the meat (Gusinde 1986 [1937];
+Martial 2005 [1888]; Wilkes 1844). However, the scarce
+
+Fig. 12 Microfacies identified in Tunel VII shell midden from the
+peripheral shell ring (sampling column 12), the passage way into the
+hut (sampling column 11), and the main hearths at the central
+
+habitation area (identified as AC4, AC5, AC6, AC8, and AC10). The
+figure on the right side shows a reconstruction of the Yamana hut on
+the shores of the Beagle Channel
+
+Other pedofeatures in the central habitation area include
+impure calcite coatings (Fig. 10), micro-charcoal coatings,
+ortic iron nodules, and impregnative iron hypocoatings. All
+these features are related to the constant rains that
+characterize the climate of the Beagle Channel. In this
+respect, iron nodules and hypocoatings denote episodes of
+water saturation of the central area, more compacted than
+the rest of the shell midden, while impure coatings show
+the translocation of saturated soil material. The predominance of iron nodules and hypocoatings shows that water
+saturation could have lasted for several days, but not long
+enough to favor the depletion of iron (Lindbo et al. 2010).
+Vertical and spatial microfacies variability at Tunel VII
+
+Archaeol Anthropol Sci (2011) 3:357–378
+
+evidence of heating in the shell fragments from the peripheral
+ring may indicate that not all the mollusks that entered this
+structure were in fact consumed or that the temperature in
+which the mussels were heated was too low to alter the shells.
+Microfacies analysis of the shell ring column indicates
+its formation through the disposal of mostly unburnt
+shells, pebbles, plant material, charcoal, and burnt bone.
+Chroniclers have described these episodes (Bridges 1975
+[1947], Despard 1863; Gusinde 1986 [1937]; Martial 2005
+[1888]) as part of the maintenance routine of the living
+space, occasionally leading to the formation of shell
+mounds as tall as the huts. Concentrations of ash, clay,
+and pebbles are higher in the central area, where they also
+appear to be more compacted. These observations are
+consistent with ethnographic accounts reporting that
+Yamana fires were lit over accumulations of round pebbles
+(Lovisato 1884) and shells (Bridges 1987 [1933]), and that
+food waste was occasionally thrown into the fire (Gusinde
+1986 [1937]). The existence of two types of hearths
+emerges from the microfacies analysis proposed here.
+Different combustion structures seem to have served
+different functions, expressed in their maximum combustion temperatures (winter vs. summer hearths and main vs.
+peripheral hearths).
+
+Conclusion
+The shell midden site Tunel VII comprises two main areas
+that can be defined on morphological and compositional
+grounds: (a) the peripheral shell ring and (b) the central
+habitation area. Ethnographical sources describe these as
+distinct areas in Yamana settlements. From our analyses,
+differences between column microfacies (mF 1–6) and
+hearth microfacies (mF 7 and 8) observed at Tunel VII
+reflect the sedimentological and spatial complexity of
+archaeological shell middens. The social space that is
+defined by and comprised within the shell midden contains
+a variety of sedimentary signatures that can be deciphered
+through microfacies analysis, combining ethnographic and
+geoarchaeological indicators. The micromorphological
+analysis performed at Tunel VII gives the possibility of
+characterizing spatial and sedimentary differences within a
+shell midden that are elusive in the field and often
+overlooked in the microscopic record. Even though most
+components are common to the shell ring and to the central
+hearths, differences in relative frequency, pre-depositional
+alteration, arrangement, and preservation are significant
+indicators of the intricate web of events that concur to
+building the archaeological shell midden.
+The existence of central and peripheral areas within
+Yamana shell middens does not imply the discrimination of
+one space in favor of the other. The space delimited by the
+
+375
+
+shell midden, the activities therein performed, and the
+progressive accumulation of residues are mutually
+connected and interrelated, and need to be considered as a
+whole. The peripheral shell ring is genetically dependent
+from the central area. This accumulation of residues would
+not exist independently of the daily activities performed by
+Yamana people living inside the hut. On the other hand, the
+circular residue accumulation assumes a protective role
+beyond its simple function as waste receiver. It may also
+include components not related to consumption and daily
+discard. More than being a mere area for the accumulation
+of material not tolerated inside the living space, the circular
+shell ring is charged with further function. Thanks to the
+available ethnographic chronicles, we can link the sedimentary record with known anthropic features that allow us
+to see the complete configuration of the site as a continuum
+of daily processes, actions, and social space construction
+among prehistoric fisher–hunter–gatherers.
+The combination of ethnographic accounts with geoarchaeological observations, and by applying microfacies
+analysis, allows the identification and corroboration of the
+anthropic processes hidden behind the microstratigraphy.
+It also helps verify features observed during excavation of
+the site, such as layers of compacted shells, interpreted in
+the field as trampling surfaces and used as a parameter for
+the identification of stratigraphic units within the shell
+midden. This approach confirms the validity of micromorphological analyses under such methodological premises
+and extends the use of this technique for identification of
+the processes that configured the social space of prehistoric fisher–hunter–gatherers.
+Acknowledgments The authors would like to thank FAPESP
+(Fundação de Amparo à Pesquisa do Estado de São Paulo, process
+no. 08/51264-0) for financially supporting Ximena Villagran’s
+doctoral research and to Bank Santander for allowing her 2010
+research stay at the Department of Archaeology and Anthropology,
+Milá y Fontanals Institution (IMF/CSIC). Special thanks go to Paulo
+Giannini (Universidad de Sao Paulo), Ivana Dragicevic (Universidad
+Autónoma de Barcelona), Rosa Maria Poch (Universidad de Lleida),
+Ester Verdún (Universidad Autónoma de Barcelona), and Myrian
+Alvarez (Centro Austral de Investigaciones Científicas).
+
+References
+Bailey G (1977) Shell mound, shell middens, raised beaches in the
+Cape York Peninsula. Mankind 11:132–143
+Bajnócky B, Kovács-Kis V (2006) Origin of pedogenic needle-fiber
+calcite revealed by micromorphology and stable isotope composition—a case study of Quaternary paleosol from Hungary.
+Chemie der Erde 66:203–212
+Balbo A, Madella M, Vila A, Estevez J (2010) Micromorphological
+perspectives on the stratigraphical excavation of shell middens: a
+first approximation from the ethnohistorical site Tunel VII, Tierra
+del Fuego (Argentina). Journal of Archaeological Science
+37:1252–1259
+
+376
+Bateman MD, Carr AS, Murray-Wallace CV, Roberts DL, Holmes PJ
+(2008) A dating intercomparison study on Late Stone Age coastal
+midden deposits, South Africa. Geoarchaeology 23:715–741
+Beckze-Deák J, Langhor R, Verrecchia EP (1997) Small scale CaCO3
+accumulations in selected sections of the European loess belt.
+Morphological forms and potential for paleoenvironmental
+reconstructions. Geoderma 76:221–252
+Berna F, Matthews A, Weiner S (2004) Solubilities of bone mineral
+from archaeological sites: the recrystallization window. Journal of
+Archaeological Science 31:867–882
+Bicho NF (1994) The end of the paleolithic and the mesolithic in
+Portugal. Curr Anthropol 5:664–674
+Bird DW, Richardson JL, Veth PM, Barham A (2002) Explaining
+shellfish variability in middens on the Meriam Islands, Torres
+Strait, Australia. Journal of Archaeological Science 29:457–469
+Bridges L (1975 [1947]) El último confín de la Tierra. Marymar,
+Buenos Aires
+Bridges T (1987 [1933]) Yamana-English dictionary. Zagier & Urruty
+Publicaciones, Buenos Aires
+Bullock P, Fedoroff N, Jongerius A, Stoops G, Tursina T, Babel U
+(1985) Handbook for soil thin section description. Waine
+Research Publications, Wolverhampton
+Butzer K (2004) Coastal Aolian sands, paleosols and Pleistocene
+geoarchaeology of the Southwestern Cape, South Africa. Journal
+of Archaeological Science 31:1743–1781
+Cannon A (2000) Settlement and sea-levels on the central coast of
+British Columbia: evidence from shell midden cores. American
+Antiquity 65:67–77
+Canti MG (2003) Aspects of the chemical and microscopic characteristics
+of plant ashes found in archaeological sois. Catena 54:339–361
+Claassen C (1986a) Shellfishing seasons in the Prehistoric Southeastern
+United States. American Antiquity 51:21–37
+Claassen C (1986b) Temporal patterns in marine shellfish species use
+along the Atlantic Coast in the Southeastern United States.
+Southeastern Archaeology 5:120–137
+Colonese A, Camarós E, Verdún E, Estevez J, Giralt S, Rejas M
+(2011) Integrated archaeozoological research of shell middens:
+new insights into hunter-gatherer-fisher exploitation in Tierra del
+Fuego. Journal of Island and Coastal Archaeology (in press)
+Compton JS, Franceschini G (2005) Holocene geoarchaeology of the
+sixteen mile beach barrier dunes in the Western Cape, South
+Africa. Quaternary Research 63:99–107
+Cortez-Sanchez M, Morales-Muñiz A, Simón-Vallejo M, BergadáZapata M, Delgado-Huertas A, López-García P, López-Sáez JA,
+Lozano-Fransico MC, Riquelme-Cantal JA, Roselló-Izquierdo E,
+Sanchez-Marco A, Vera-Peláez JL (2008) Palaeoenvironmental
+and cultural dynamics of the Coast of Malaga (Andalusia, Spain)
+during the Upper Pleistocene and Early Holocene. Quaternary
+Science Reviews 27:2176–2193
+Courty MA (2001) Microfacies analysis assisting archaeological
+stratigraphy. In: Goldberg P, Holliday VT, Reid Ferring C
+(eds) Earth sciences and archaeology. Kluwer, New York, pp
+205–239
+Courty MA, Goldberg P, Macphail R (1989) Soils and micromorphology in archaeology. Cambridge University Press,
+Cambridge
+Darwin C (1839) Journal and remarks (1832–1836). In: Narrative of
+the surveying voyages of His Majesty’s ships Adventure and
+Beagle between the years 1826–1836. Examination of the
+southern shores of South America. Volume III. Henry Colburn,
+London
+Despard GP (1863) Fireland, or, Tierra del Fuego. Sunday at Home
+10:676–680, 696–698, 716–718, 731–734, 744–748
+Erlandson JM, Rick T, Peterson C (2005) A geoarchaeological
+chronology of Holocene dune building on San Miguel Island,
+California. The Holocene 15:1227–1235
+
+Archaeol Anthropol Sci (2011) 3:357–378
+Estévez J, Vila A (1996) Etnoarqueologia: el nombre de la cosa. In:
+Estevez J, Vila A (eds) Encuentros en los conchales fueguinos,
+Treballs d’Etnoarqueologia 1. CSIC-UAB, Barcelona, pp 17–23
+Estévez J, Vila A (2000) Estratigrafías en contexto. Krei 5:29–66
+Estévez J, Vila A (2006) Variability in the lithic and faunal record
+during ten reocupations of a XIX century Yamana hut. Journal of
+Anthropological Archaeology 25:408–423
+Estevez J, Juan-Muns N, Martinez J, Piqué R, Schiavini A (1996)
+Zooarqueología y antracología: estrategias de aprovechamiento
+de los recursos animales y vegetales en Túnel VII. In: Estevez J,
+Vila A (eds) Encuentros en los conchales fueguinos, Treballs
+d’Etnoarqueologia 1. CSIC-UAB, Barcelona, pp 143–238
+Estevez J, Piana E, Schiavini A, Juan-Muns N (2001) Archaeological
+analyses of shell middens in the Beagle Channel, Tierra del
+Fuego Island. International Journal of Osteoarchaeology 11:24–
+33
+Fedje DW, Christensen T (1999) Modeling paleoshorelines and
+locating Early Holocene coastal sites in Haida Gwaii. American
+Antiquity 64:635–652
+FitzPatrick EA (1993) Soil microscopy and micromorphology. Wiley,
+New York
+Flügel E (2004) Microfacies of carbonate rocks: analysis, interpretation and application. Springer, Berlin
+Gassiot E, Estevez J (2005) Last foragers in coastal environments: a
+comparative study of the Cantabrian Mesolithic, Yamana of
+Tierra del Fuego and archaic foragers in the Central American
+coasts. In: Grier C, Uchiyama J (eds) Beyond affluent foragers.
+Oxbow Press, Oxford, pp 80–105
+Goldberg P, Miller C, Schiegl S, Ligouis B, Berna F, Conrad N,
+Wadley L (2009) Bedding, hearths, and site maintenance in the
+Middle Stone Age of Sibudu Cave, KwaZulu-Natal, South
+Africa. Journal of Archaeological and Anthropological Sciences
+1:95–122
+Gusinde M (1986 [1937]) Los Yamana. CAEA, Buenos Aires
+Henderson W, Anderson LC, McGimsey C (2002) Distinguishing
+natural and archaeological deposits: stratigraphy, taxonomy and
+taphonomy of Holocene shell-rich accumulations from the
+Louisiana Chenier plain. Palaios 17:192–205
+Heusser CJ (2003) Ice Age southern Andes—a chronicle of paleoecological events. Developments in Quaternary Science 4:1–240
+Hyades P, Deniker J (1891) Mission Scientifique du Cap Horn 1882–
+1883, Tome VII, Anthropologie, Ethnographie. Gauthier-Villar et
+fils Imprimeurs-Libraires, Paris
+Jerardino A (1997) Changes in shellfish species composition and mean
+shell size from a Late-Holocene record of the west coast of southern
+Africa. Journal of Archaeological Science 24:1031–1044
+Jerardino A, Castilla JC, Ramirez JM, Hermosilla N (1992) Early
+coastal subsistence patterns in central Chile: a systematic study of
+the marine invertebrate fauna from the site of Caraumilla-1. Latin
+American Antiquity 3:43–62
+Jones B, Kahle CF (1993) Morphology, relationship and origin of fiber
+and dendrite calcite crystals. Journal of Sedimentary Petrology
+63:1018–1031
+Juan-Muns N (1992) La pesca com alternativa econòmica per als
+Yàmana, nòmades canoers del Canal Beagle. Dissertation,
+Universitat Autònoma de Barcelona
+Karkanas P, Bar-Yosef O, Goldberg P, Weiner S (2000) Diagenesis in
+prehistoric caves: the use of minerals that form in situ to assess
+the completeness of the archaeological record. Journal of
+Archaeological Science 27:915–929
+Kennett D (2005) The Island Chumash. Behavioral ecology of a
+maritime society. University of California Press, Berkeley
+Lindbo DL, Stolt MH, Vepraskas MJ (2010) Redoximorphic features.
+In: Stoops G, Marcelino V, Mees F (eds) Interpretation of
+micromorphological features of soils and regoliths. Elsevier,
+Amsterdam, pp 129–147
+
+Archaeol Anthropol Sci (2011) 3:357–378
+Lothrop SK (1928) The Indians of Tierra del Fuego. Museum of the
+American Indian, Heye Foundation, New York
+Lovisato D (1884) Appunti etnografici con accenni geologici sulla
+Terra del Fuoco. Cosmos VIII 4:97–108, 5:129–151
+Mallol C, Marlowe F, Wood B, Porte C (2007) Earth, wind and fire:
+ethnoarchaeological signals of Hadza fires. Journal of Archaeological Science 34:2035–2052
+Mameli L (2004) La gestión del recurso avifaunístico por las
+poblaciones canoeras del archipiélago fueguino. Dissertation,
+Universitat Autònoma de Barcelona
+Mameli L, Estevez J (2004) Etnoarqueozoología de aves: el ejemplo
+del extremo Sur Americano. Treballs d’Etnoarqueologia 6
+Martial LF (2005 [1888]) Misión al Cabo de Hornos. Zagier & Urruty
+Publications, Buenos Aires
+Milner N, Barret J, Welsh J (2007) Marine resource intensification in
+Viking age Europe: the molluscan evidence from Quoygrew,
+Orkney. Journal of Archaeological Science 34:1461–1472
+Morey DF, Crothers GM (1998) Clearing uo clouded waters: palaeoenvironmental analysis of fresh wáter mussel assemblages from
+the Green River Shell middens, western Kentucky. Journal of
+Archaeological Science 25:907–926
+Morey DF, Crothers GM, Stein JK, Fenton JP, Herrmann N (2002)
+The fluvial and geomorphic context of Indian Knoll, an
+archaic shell midden in West-Central Kentucky. Geoarchaeology
+17:521–533
+Orquera LA (1996) Tunel VII: la estratigrafia. In: Estevez J, Vila A
+(eds) Encuentros en los conchales fueguinos, Treballs d’Etnoarqueologia 1. CSIC-UAB, Barcelona, pp 83–103
+Orquera LA (1999) El consumo de moluscos por los canoeros del
+extremo sur. Relaciones de la Sociedad Argentina de Antropología 24:307–327
+Orquera LA, Piana E (1992) Un paso hacia la resolución del
+palimpsesto. In: Borrero LA, Lanata L (eds) Análisis
+Espacial en la Arqueología Patagónica. Ayllu, Buenos Aires,
+pp 21–52
+Orquera LA, Piana E (1996a) Tunel VII en la secuencia arqueológica
+del Canal Beagle: hipotesis y expectativas de los investigadores
+argentines. In: Estevez J, Vila A (eds) Encuentros en los
+conchales fueguinos, Treballs d’Etnoarqueologia 1. CSIC-UAB,
+Barcelona, pp 25–45
+Orquera LA, Piana E (1996b) Túnel VII: la excavación. In: Estevez J,
+Vila A (eds) Encuentros en los conchales fueguinos, Treballs
+d’Etnoarqueologia 1. CSIC-UAB, Barcelona, pp 47–74
+Orquera LA, Piana E (1999) Arqueología de la región del Canal
+Beagle (Tierra del Fuego, República Argentina). Publicaciones de
+la Sociedad Argentina de Antropología, Buenos Aires
+Orquera LA, Piana E (2000) Composición de conchales de la costa del
+Canal Beagle: primera parte (Tierra del Fuego, República
+Argentina). Relaciones de la Sociedad Argentina de Antropología
+25:249–274
+Orquera LA, Piana E (2001) Composición de conchales de la costa del
+Canal Beagle: segunda parte (Tierra del Fuego, República
+Argentina). Relaciones de la Sociedad Argentina de Antropología
+26:345–368
+Piana E, Orquera LA (1996) Tunel VII: la cronologia. In: Estevez J,
+Vila A (eds) Encuentros en los conchales fueguinos, Treballs
+d’Etnoarqueologia 1. CSIC-UAB, Barcelona, pp 105–111
+Piana E, Estevez J, Vila A (2000) Lanashuaia: un sitio de canoeros del
+siglo pasado en la costa norte del canal Beagle. Desde el País de
+los Gigantes, Tomo II, Universidad Nacional de la Patagonia
+Austral, Rio Gallegos, pp 455–469
+Piqué R (1999) Producción y uso del combustible vegetal: una
+evaluación arqueológica. Treballs d’Etnoarqueologia 3, CSICUAB, Barcelona
+Reitz E (1988) Faunal remains from Paloma, an archaic site in Peru.
+American Anthropologist 90:310–322
+
+377
+Rosendahl D, Ulm A, Weisler M (2007) Using foraminífera to
+distinguish between natural and cultural shell deposits in coastal
+eastern Australia. Journal of Archaeological Science 34:1584–
+1593
+Schiegl S, Goldberg P, Bar-Yosef O, Weiner S (1996) Ash deposits
+in Hayonim and Kebara caves, Israel: macroscopic, microscopic and mineralogical observations, and their archaeological implications. Journal of Archaeological Science 23:763–
+781
+Solé A (1991) Micromorfología: Métodos y técnicas microscópicas
+aplicadas a la Arqueología. In: Vila A (ed) Arqueología: Nuevas
+tendências. CSIC, Madrid, pp 23–43
+Spears JR (1895) The gold diggings of Cape Horn (a study of life in
+Tierra del Fuego and Patagonia). G.P. Putnam, New York
+Stein J (1992a) The stratigraphy of shell middens. In: Stein J (ed)
+Deciphering a shell midden. Academic, San Diego, pp 1–24
+Stein J (1992b) Interpreting stratification of a shell midden. In: Stein J
+(ed) Deciphering a shell midden. Academic, San Diego, pp 71–
+93
+Stein J (1992c) Sediment analysis of the British Camp shell midden.
+In: Stein J (ed) Deciphering a shell midden. Academic, San
+Diego, pp 135–162
+Stein J (1996) Geoarchaeology and archaeostratigraphy: view from a
+northwest coast shell midden. In: Reitz EJ, Newsom LA, Scudder
+SJ (eds) Case studies in environmental archaeology. Plenum,
+New YorK, pp 35–52
+Stein J, Kornbacher KD, Tyler J (1992) British Camp shell midden
+stratigraphy. In: Stein J (ed) Deciphering a shell midden.
+Academic, San Diego, pp 95–134
+Stiner MC, Bicho N, Lindly J, Ferring R (2003) Mesolithic to
+Neolithic transitions: new results from shell middens of the
+western Algavre, Portugal. Antiquity 77:75–86
+Stoops G (2003) Guidelines for analysis and description of soil
+and regolith thin sections. Soil Science Society of America,
+Madison
+Tonner TW (2005) Later Stone Age shellfishing behaviour at Dunefield midden (western Cape, South Africa). Journal of Archaeological Science 32:1390–1407
+Van Vliet-Lanoë B (2010) Frost action. In: Stoops G, Marcelino V,
+Mees F (eds) Interpretation of micromorphological features of
+soils and regoliths. Elsevier, Amsterdam, pp 81–108
+Verdun E (2006) Análisis de la malacofauna de un conchero. Revista
+Atlántico Mediterránea de Prehistória y Arqueología Social 8:53–
+69
+Verdun E (2010) Molluscs as sedimentary components. MUNIBESuplemento 31:294–301
+Verrecchia EP, Verrecchia KE (1994) Needle-fiber calcite: a critical
+review and a proposed classification. Journal of Sedimentary
+Research 3:650–664
+Vila A, Piana E, Madella M, Barceló J.A, Zurro D, Clemente I, Terradas
+X, Verdún E, Pique R, Mameli L, Briz, I. (2010) Microstratigraphy
+of shell middens of Tierra del Fuego. In: Oosterberg L (ed) Humans:
+evolutions and environment. Proceedings of the XV World Congress
+(Lisbon, 4–9 September 2006). Vol 22 British Archaeological
+Reports, Oxford, pp 109–119
+Villagran X, Giannini P, Deblasis P (2009) Archaeofacies analyses:
+using depositional attributes to identify anthropic processes of
+deposition in a monumental shell mound of Santa Catarina State
+(Southern Brazil). Geoarchaeology 24:311–335
+Villagran X, Klokler D, Nishida P, Gaspar MD, DeBlasis P (2010)
+Lecturas estratigráficas: arquitectura funerária y depositación de
+resíduos em el sambaqui Jabuticabeira II. Latin American
+Antiquity 21:195–216
+Villagran X, Balbo A, Madella M, Vila A, Estevez J (2011)
+Experimental micromorphology in Tierra del Fuego (Argentina):
+building a reference collection for the study of shell middens
+
+378
+in cold climates. Journal of Archaeological Science 38:588–
+604
+Waselkov GA (1987) Shellfish gathering and shell midden archaeology. Advances in Archaeological method and Theory 10:93–210
+Wattez J (1992) Dynamique de formation des structures de combustion de la fin du Paleolithique ao Neolithique moyen. Dissertation, Université de Paris I
+Weiner S, Goldberg P, Bar-Yosef O (2002) Three-dimensional
+distribution of minerals in the sediments of Hayonim cave,
+Israel: diagenetic processes and archaeological implications.
+Journal of Archaeological Science 29:1289–1308
+
+Archaeol Anthropol Sci (2011) 3:357–378
+Whittaker FH, Stein J (1992) Shell midden boundaries in relation to
+past and present shorelines. In: Stein J (ed) Deciphering a shell
+midden. Academic, San Diego, pp 25–42
+Wilkes C (1844) U.S. exploring expedition during the years 1838,
+1839, 1840, 1841, 1842, under the command of Captain Fitz-Roy
+R.N. Volume I. C. Sherman, Philadelphia
+Wunsch G (1996) De la articulación espacial del registro arqueológico
+a la gestión del espacio social: um ejemplo de aplicación del
+análisis de las interrelaciones espaciales (ANITES). In: Estevez J,
+Vila A (eds) Encuentros en los conchales fueguinos, Treballs
+d’Etnoarqueologia 1. CSIC-UAB, Barcelona, pp 127–142
+
+

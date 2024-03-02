@@ -1,0 +1,657 @@
+Journal of Archaeological Science 39 (2012) 381e388
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Seasoned or green? Radial cracks analysis as a method for identifying the use
+of green wood as fuel in archaeological charcoal
+Isabelle Théry-Parisot 1, *, Auréade Henry 1
+CEPAM e UMR 6130 CNRS, UNICE e SJA3, avenue des Diables Bleus, 06560 Nice, France
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 12 November 2010
+Received in revised form
+9 September 2011
+Accepted 23 September 2011
+
+For several years, sociological questions have been central in anthracology. The development of socioeconomic approaches based on the recognition of anatomical signatures in wood has made it possible
+to focus on topics related to ﬁrewood use and its management. The presence of radial cracks (RC) on
+archaeological charcoal is generally interpreted as the result of the burning of green wood. The present
+study proposes a veriﬁcation of this theory by the experimental combustion of seasoned and green wood
+of Scots Pine (Pinus sylvestris L.). Experimenting with this species was a research priority since it was the
+dominant taxon (representing 80e100% of the charcoal remains) identiﬁed in the Palaeolithic European
+sites under consideration.
+The experiments were conducted using two different methods: (i) inside a mufﬂe furnace that allowed
+us to control the combustions, but in which the combustion process is quite different from most
+archaeological situations and (ii) in an open ﬁreplace, less controllable but closer to the archaeological
+conditions. The systematic quantiﬁcation of the number, length and width of the radial cracks (RC)
+measured on the transversal sections of the experimental samples demonstrates that (i) radial cracks
+occur independently of the moisture content of the wood before the combustion (on green and seasoned
+wood); (ii) however, the average number of radial cracks (RC/cm2) allows distinguishing seasoned from
+green wood; (iii) in the mufﬂe furnace, the size of the RC appeared to be a good criterion for discriminating seasoned and green wood, but this observation was not conﬁrmed by the open-air combustions.
+Our results clearly show that the appearance of radial cracks is not diagnostic of the combustion of green
+wood. Nevertheless, the number of radial cracks (RC/cm2) could represent a new method that might help
+identifying the combustion of green wood in archaeological charcoal samples.
+Ó 2011 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Radial cracks
+Charcoal
+Experimentation
+Carbonisation of wood
+Pinus sylvestris
+Fuel
+Anthracology
+
+1. Introduction
+Charcoal analysis is based on the identiﬁcation of residues
+originating from incomplete wood combustion collected in
+archaeological sediments or ﬁreplaces. It is mainly carried out for
+the purposes of palaeoecological or economic interpretations,
+providing information on past vegetation and climate, but also on
+the ways in which past populations managed their ﬁrewood. Thus,
+charcoal assemblages record sociological habits as well as environmental conditions, which lead us to question their palaeoecological representativeness. Archaeological charcoal analysis
+
+* Corresponding author.
+E-mail address: isabelle.thery@cepam.cnrs.fr (I. Théry-Parisot).
+1
+With the contribution of Alain Carré (CEPAM e UMR 6130 CNRS, UNICE e SJA3,
+avenue des Diables Bleus, 06560 Nice, France).
+0305-4403/$ e see front matter Ó 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2011.09.024
+
+also highlights speciﬁc gathering practices or specialised activities
+related to ﬁre (and consequently the functions of the hearth).
+The recent development of socio-economic approaches to ﬁrewood management is based both (i) on taxonomic identiﬁcation
+and (ii) on the recognition of the phenological and physiological
+states of the used wood according to its anatomical signature (i.e.
+deadwood, driftwood, seasoned wood, green wood, and decayed
+wood). Taxonomic identiﬁcation (i), which is the more common
+method employed, provides information on the selected species
+but mainly on the palaeoecological context: biotope, plant
+community, climate, and exploited territories (e.g., riverine forest
+vs. hillslopes). Studying the phenological and physiological states of
+the wood (ii) is a more recent and complementary approach to
+taxonomic identiﬁcation. It provides complementary indications on
+the ways in which wood was collected (e.g., deadwood, driftwood)
+and on its combustion properties, allowing a better understanding
+of it use.
+
+382
+
+I. Théry-Parisot, A. Henry / Journal of Archaeological Science 39 (2012) 381e388
+
+Why is it not possible to deﬁne the fuel properties of the wood
+only from its taxonomical identity? The properties of wood as
+regards combustion depend on four main parameters. These are:
+the intrinsic properties of the species, the size, the phenological
+(moisture content) and the physiological (healthy, dead or rotten)
+states (Théry-Parisot, 2001, 2002; Théry-Parisot et al., 2010).
+Among them, the parameter ‘species’ has the least inﬂuence on the
+behaviour of wood during combustion. These observations are
+supported by most of the ethnographic studies carried out to date.
+For example, the study of traditional northern populations living in
+tundra and taiga environments shows that a single species in
+different states can be used for different purposes: green wood to
+make smudge ﬁres or mixed with dry wood to make the ﬁre last
+longer; rotten wood for hide smoking, etc. (Alix and Brewster,
+2004; Henry et al., 2009).
+As ﬁrewood management is an important factor in this discussion, several authors have developed deductive approaches for
+characterising the phenological and physiological states of the
+wood through the microscopic analysis of charcoal. These
+approaches aim at linking speciﬁc anatomical features observed in
+the microstructure of charcoal fragments to the combustion of
+deadwood, driftwood, seasoned wood, or decayed wood (Théry
+et al., 1996; Théry-Parisot, 2001; Théry-Parisot and Texier, 2006;
+Marguerie and Hunot, 2007; McParland et al., 2009, 2010;
+Moskal-del Hoyo et al., 2010; Scott, 2010; Théry-Parisot et al.,
+2010; Henry, 2011). For this purpose, modern analogues are
+experimentally reproduced in order to establish comparisons with
+the archaeological samples. Nevertheless, the origin of some
+signatures remains a subject of debate. This is the case of radial
+cracks, often interpreted as resulting from the carbonisation of
+green wood, although no experimental studies have clearly
+conﬁrmed this theory.
+The aims of this research were (i) to investigate the relationship
+between the moisture content of Pinus sylvestris and the damage
+caused by carbonisation: on the occurrence of RC, their average
+number/cm2, the average length and width of RC, taking into
+account both artiﬁcial and ‘natural’ experimental conditions; (ii) to
+propose a method that allows identifying the combustion of green
+wood, applicable for archaeological samples.
+2. Previous studies
+In archaeological charcoal, the presence of radial cracks resulting from the shrinkage of wood is a common observation. The
+shrinkage is a well-known process due to the lowering of the
+moisture content below the saturation point of the wood ﬁbres
+(around 30e25%). It occurs naturally during the seasoning of wood,
+but it is artiﬁcially ampliﬁed during the carbonisation process.
+Consequently, the occurrence of radial cracks on charcoal is
+considered as a potential indicator for determining the initial
+moisture content of the wood (i.e. prior to the carbonisation
+process) and, therefore, to discriminate green wood from seasoned
+wood.
+Previous work on this topic provided qualitative results establishing clearly that carbonisation leads to the contraction of the
+entire microstructure of wood. The longitudinal shrinkage varied
+from 6.5% to 24% and the transversal shrinkage varied from 12% to
+35% (Mac Ginnes et al., 1971; Beall et al., 1974; Moore et al., 1974;
+Schweingrüber, 1978; Slocum et al., 1978; Cutter et al., 1980;
+Rossen and Olson, 1985; Stimely and Blankenhorn, 1985;
+Braadbaart and Poole, 2008; Braadbaart et al., 2009; McParland
+et al., 2010). Under speciﬁc conditions, the carbonisation leads to
+the appearance of radial cracks (Zicherman, 1981; Prior and Alvin,
+1983, 1986; Avat, 1991; Thinon, 1992; Prior and Gasson, 1993;
+Scott et al., 2000; Théry-Parisot, 2001; Kumar et al., 2006;
+
+McParland et al., 2007; Pastor-Villegas et al., 2007). According to
+Zicherman (1981), radial cracks appear between 200 and 270  C.
+Their occurrence is due to (1) the shrinkage resulting from the
+evaporation of moisture and (2) the plastic ﬂow due to thermal
+stress. According to Prior and Alvin (1983), radial cracks are typically associated with rays: the larger the rays are, the higher their
+potential for cracking more they potentially crack. Two main
+aspects emerge from the experiments conducted by Prior and Alvin
+(1986): (i) artiﬁcial saturation of wood before pyrolysis increases
+the shrinkage; (ii) the primary characteristics of the wood species
+govern the charring process. For example, the size of the rays and
+the nature of the ﬁbres have an inﬂuence on the appearance of RC.
+The interaction between these and other factors, such as time and
+temperature of the charring, initial moisture content and the size of
+the sample, determines the changes observed. In a subsequent
+study, Prior and Gasson (1993) concluded that the behaviour of all
+woods on charring was greatly inﬂuenced by the nature of their
+ﬁbres: “The initial thickness of ﬁbre walls and the proportion of
+gelatinous to non-gelatinous ﬁbres were the two characters which
+had the greatest effect upon the behaviour of the wood on charring” (Prior and Gasson, 1993: 81).
+In a previous work, one of the authors of the present paper
+studied the effect of the moisture content and temperature on the
+occurrence of radial cracks on three species, P. sylvestris (Scots Pine),
+Populus nigra (Black Poplar) and Quercus petraea (Sessile Oak)
+(Théry-Parisot, 2001: 64e68). The results showed that (i) the
+occurrence of radial cracks is not correlated with the initial moisture
+content; (ii) the RC appear under the effect of several combined
+factors as well as all dimensional changes due to carbonisation; (iii)
+there are differences from one species to the other. The number of
+RC depends on the ‘moisture content’ for P. sylvestris. It depends on
+the ‘sample’ for Q. petraea and on both ‘sample’ and ‘temperature’
+for P. nigra (Théry-Parisot, 2001: 67, Table 17). However, these
+results may have been inﬂuenced by the experimental procedure.
+The samples of P. sylvestris came from freshly cut wood, whereas the
+‘green’ samples of Quercus robur and P. nigra came from artiﬁcially
+rehydrated samples. This difference in procedure could explain the
+heterogeneity of the results. Braadbaart and Poole (2008) also
+observed a differential behaviour of Q. robur (Sessile Oak) and P.
+sylvestris (Scots Pine) when subject to thermal stress: from 310 to
+380  C the multiseriate rays of oak appeared exploded, whereas this
+was not observed on pine, “probably due to the rays being only one
+cell wide” (Braadbaart and Poole, 2008: 2438).
+3. Material and methods
+3.1. Material selected for carbonisation
+The phenological state of the plant material prior to burning is
+a factor potentially determining the characteristics of the produced
+charcoal. The process involved in the occurrence of the radial cracks
+is classically imputed to the behaviour of ﬂuids within tissues
+subject to heating. To consider this effect, two types of samples
+were studied: one composed of living plant material (green wood)
+and one of dry wood that had been seasoned for two years.
+The samples used for the carbonisation experiments are
+branches of P. sylvestris collected from mountain forests in southeastern France. This choice was motivated by two aspects: ﬁrst,
+by the fact that our previous work on this species provided
+promising results. Second, P. sylvestris was the most common
+species in Continental Europe during the Pleistocene (generally
+between 80 and 100% of the charcoal remains). Therefore, it allows
+direct comparisons with the Pleistocene charcoal assemblages we
+studied. Testing this species was a research priority for the study of
+ﬁrewood management during the Palaeolithic period.
+
+I. Théry-Parisot, A. Henry / Journal of Archaeological Science 39 (2012) 381e388
+
+3.2. Carbonisation procedure
+The carbonisation procedure was carried out in two types of
+structures: (i) in a mufﬂe furnace, allowing control over the heating
+process; (ii) in an open ﬁreplace, less controllable but closer to the
+prehistoric conditions.
+(i) Mufﬂe furnace
+The mufﬂe furnace samples consisted of 36 slices of green
+wood and 36 slices of seasoned wood (a total of 72 slices of
+equal size, i.e. 10 cm in diameter and 3 cm thick). Each slice
+was wrapped in aluminium foil and buried in sea sand in order
+to exclude oxygen from the combustion atmosphere. Three
+carbonisation temperatures were chosen in order to evaluate
+the correlation between the occurrence of the radial cracks
+and different temperatures: 300  C (12 green samples/12
+seasoned wood samples), 500  C (12 green samples/12
+seasoned wood samples) and 650  C (12 green samples/12
+seasoned wood samples). These temperatures correspond to
+the classic examples registered in wood ﬁres. In order to test
+the impact of temperature on the appearance of radial cracks,
+the wood samples were carbonised according to the ‘thermal
+shock’ method, i.e. they were introduced into the furnace only
+when the respective temperatures were reached. There, they
+were charred for half an hour before the furnace was switched
+off and the contents left to cool overnight.
+(ii) Open ﬁreplace procedure
+Other experiments were carried out in an open ﬁreplace
+under laboratory conditions in order to limit the known effects
+of extrinsic factors (wind, atmospheric humidity, ﬁreplace
+shape, etc.) on the combustion process. The form, size and
+maintenance of the ﬁre also have a direct effect on its thermal
+behaviour and, consequently, on the residues themselves.
+Therefore, by eliminating (to the greatest degree possible) all
+variation linked to external factors and by standardising the
+experiments as much as possible, we can study the effect of
+the combustion process on the wood anatomy. All the
+combustions followed a strictly identical protocol: each ﬁreplace consisted of 6 logs of 10 cm in diameter and was constructed and maintained identically.
+Four combustions were carried out: two of green wood and
+two of seasoned wood. The temperatures were simultaneously
+recorded using 12 sensors distributed within the ﬁreplace.
+Fifty pieces of charcoal larger than 4 cm were randomly
+sampled at the end of each combustion; a total of 200 pieces of
+charcoal were observed.
+
+383
+
+discrimination between samples according to qualitative independent parameters: the effect of independent nominal variables
+(in this case, the state of the wood: green/seasoned and temperature: 300  C, 500  C and 650  C) on a dependent continuous variable (such as the number of RC/cm2 and their dimensions). Prior to
+the statistical analysis, the homogeneity of our measurements has
+been systematically veriﬁed using Bartlett’s test.
+4. Results
+4.1. Mufﬂe furnace samples
+-Number of radial cracks/cm2/sample
+A ﬁrst observation was that 100% of the charred samples (green
+as well as seasoned wood) from the mufﬂe furnace experiment
+presented radial cracks.
+In Fig. 1, we are able to see that the number of RC/cm2 per sample
+appeared as being primarily related to the moisture content of the
+wood, but also to the burning temperature (Fig. 1). The increase of
+temperature from 300  C to 650  C led to an increase in the number
+of radial cracks, both on green and seasoned wood samples. This
+effect is more notable on green samples, with a mean of almost 12
+RC/cm2 at 300  C, almost 30 RC/cm2 at 500  C and 40 RC/cm2 at
+650  C. The effect of the increase in temperature is less important on
+seasoned wood samples. Nevertheless, it consistently remains less
+important than the impact of the moisture content. The variance
+analysis shows a statistical discrimination between green and
+seasoned samples (p < 0.0001). The number of radial cracks is on
+average ten times greater on the green wood than on the seasoned
+wood samples, 34 RC/cm2 and 3.4 RC/cm2 respectively.
+-Length and width of the radial cracks
+The length and width of the radial cracks were systematically
+measured on each sample in order to evaluate the effect of the
+temperature and humidity rate on their size.
+First, we observed that the length of the radial cracks tended to
+decrease as the temperature rose (Fig. 2a). This effect was more
+relevant on the seasoned wood samples than on the green wood
+ones.
+
+In their ensemble, our observations relate to 272 experimental
+charcoal samples (200 from open-air combustion and 72 from
+mufﬂe furnace).
+3.3. Observations
+After carbonisation, the transversal section of a sample of
+charcoal larger than 4 cm was observed under reﬂected light
+microscopy coupled with image analysis (software Image Pro-Plus).
+All the observations were made on a standard surface of 1 cm2.
+Three parameters were taken into consideration:
+-
+
+Occurrence of radial cracks/sample;
+Number of radial cracks (RC)/cm2/sample;
+Length and width of each observed RC/sample
+
+The statistical analysis of the results was performed through the
+analysis of variances (ANOVA). This method allows evaluating the
+
+Fig. 1. Effect of moisture content and temperature on the number of RC/cm2 (ANOVA
+and test PLSD Fisher) in mufﬂe furnace experiments (MF-Exp). The comparison
+between seasoned and green wood is based on a mean of the three temperatures. The
+pairwise temperature comparisons are based on a mean of the two types of wood
+(seasoned and green).
+
+384
+
+I. Théry-Parisot, A. Henry / Journal of Archaeological Science 39 (2012) 381e388
+
+a
+
+b
+
+Fig. 2. Effect of temperature and moisture content on the length (a) and width (b) of RC/cm2 (ANOVA and test PLSD Fisher), MF-Exp. The comparison between seasoned and green
+wood is based on a mean of the three temperatures. The pairwise temperature comparisons are based on a mean of the two types of wood (seasoned and green).
+
+Considering the mean width of the radial cracks, the observed
+variations seemed to be random and did not allow us to discriminate between the sizes of the cracks as a function of the carbonisation temperature (Fig. 2b). The mean width of the RC is not
+correlated with the carbonisation temperature either on the green
+or on the seasoned wood samples.
+Inversely, the moisture content has a signiﬁcant effect on the
+length (p < 0.0002) and width (p < 0.0073) of the RC (Fig. 3): they
+are larger and longer on seasoned wood samples (Fig. 3def) and
+smaller and less developed on green wood samples (Fig. 3aec). This
+result is highly surprising, because developed slits are usually and
+intuitively imputed to the combustion of green wood. The furnace
+experiments clearly indicate that under the adopted experimental
+conditions (samples introduced in the oven once the proposed
+temperatures were reached), the physical process induces
+numerous small cracks on the green wood whereas the cracks are
+of greater magnitude on the dried wood.
+To summarise, the charring temperature has a relevant effect on
+the RC, but this effect is less important than the effect of the
+moisture content. The occurrence of radial cracks is not a pertinent
+indicator for identifying the moisture content of wood (100% of the
+samples registered radial cracks, even the seasoned wood ones),
+whereas the number and the size of the radial cracks allow such
+a discrimination: the radial cracks are (i) more numerous and less
+developed on green samples, (ii) fewer and more developed on
+seasoned wood samples.
+4.2. Open ﬁreplace combustions
+In an open-air ﬁreplace, the combustion process is not
+controlled and depends on the natural ﬁre process (Fig. 4). Fig. 4
+shows the evolution of the temperatures registered during the
+combustion (each curve corresponds to the mean value of the 12
+sensors per combustion). The heat process did not register notable
+differences between the four experiments. The maximal temperatures reached ranged from 650  C to 750  C and were not related to
+the initial moisture content. The main difference in the behaviour
+of green as compared to seasoned wood is shown by the duration of
+the combustion, which is shorter for seasoned wood (4 h 40 min for
+the seasoned wood vs. 6 h for the dry wood).
+
+We observed that 70% of the green wood and 65% of the
+seasoned wood samples presented radial cracks. The occurrence of
+radial cracks is not dependent on the initial moisture content of the
+wood and is not a diagnostic signature of the humidity of wood
+before combustion.
+Subsequently, we tested the effect of the moisture content on
+the number of RC/cm2/sample (Fig. 5). The number of radial cracks
+can be statistically discriminated according to the moisture
+content: they are four times more numerous on green samples
+(p ¼ 0.0166), with respectively a mean of 8 RC/cm2 on green wood
+samples and a mean of 2 RC/cm2 on seasoned wood samples. The
+relationship between the number of radial cracks and the moisture
+content observed on furnace samples is conﬁrmed by the open-air
+combustion experiments. In contrast to what was observed on the
+furnace samples, the size of the radial cracks is rather standardised
+and no statistical difference appears between green and seasoned
+wood samples (Fig. 6a and b).
+
+5. Interpretation and discussion
+The mufﬂe furnace and open-air combustion experiments
+present similar results but also differences. Some of the differences
+observed between the two approaches could arise because of the
+difference in the initial starting material and charring method (i.e.
+slices and conﬁned conditions in mufﬂe furnace vs. logs and well
+oxygenated conditions in the open-air structure). This is very likely
+to affect the behaviour of wood as a result of charring. Nevertheless,
+the aim of this double experimental approach was not to compare
+both structures but to verify that the promising results obtained
+with the mufﬂe furnace experiments (generally used in experimental procedures) could be reproduced in experimental conditions closer to the archaeological contexts. It would have been
+preferable to adopt an identical protocol, but this is materially
+unrealisable.
+The differences between green and seasoned wood charcoal
+samples are less signiﬁcant in open-air combustions than in
+a furnace. This could be due to the heterogeneous intrinsic and
+extrinsic carbonisation conditions in open-air structures, contrasting with the furnace experiments, where the combustions are
+standardised. Therefore, it is important to be very careful when
+
+I. Théry-Parisot, A. Henry / Journal of Archaeological Science 39 (2012) 381e388
+
+385
+
+Fig. 3. The radial cracks are numerous and less developed on green samples (a, b, c), while fewer and more developed on seasoned wood samples (d, e, f) e MF-Exp.
+
+interpreting charcoal experimental specimens produced in
+furnaces, since they tend to be too standardised and therefore
+difﬁcult to compare to archaeological contexts. It seems preferable
+to experiment in conditions comparable with those prevailing in
+archaeological contexts. Nevertheless, tests carried out in a furnace
+are the only way of controlling the effects of temperature and time.
+The results of the mufﬂe furnace and the open ﬁreplace experiments are highly complementary. This procedure should be
+generalised for the elaboration of charcoal experimental
+collections.
+The results of both experiments clearly indicate that there is no
+relationship between the occurrence of radial cracks and the initial
+moisture content of wood. These results are in accordance with our
+previous work (Théry-Parisot, 2001). The occurrence of this
+phenomenon has to be interpreted as a direct result of the usual
+
+heating process and not as related to the phenological state of the
+wood. The dimensional variations of wood take place in the
+hygroscopic ﬁeld, i.e. between the anhydrous state and the ﬁbre
+saturation point. However, after a phase of seasoning, bound
+moisture always remains in the internal structure of the wood. The
+drying of this residual bound moisture, which occurs during the
+ﬁrst phase of the combustion, generates internal stresses that lead
+to the appearance of radial cracks independently of the wood’s
+moisture content (Avat, 1991; Thuvander and Berglung, 2000). The
+plastic ﬂow (which is the result of the thermal stress on the lignin
+inside the cell walls) involves the cracking of wood without any
+relationship to its moisture content (Zicherman, 1981). Therefore,
+the percentage of archaeological samples presenting radial cracks is
+not an efﬁcient way to identify the combustion of green wood in
+ancient hearths.
+
+386
+
+I. Théry-Parisot, A. Henry / Journal of Archaeological Science 39 (2012) 381e388
+
+a
+
+Fig. 4. Average temperatures recorded during the experimental combustions in open
+ﬁreplace experiments (OFP-exp).
+
+However, both experiments also indicated that the mean
+number of radial cracks per cm2 seems to be correlated with the
+moisture content of the wood. For an equivalent area of observation, green samples always presented a higher mean number of RC.
+The latter were more frequent in the furnace than in the open-air
+combustions, with respectively 34 RC/cm2 and 8 RC/cm2 on green
+wood and 3.4 RC/cm2 and 2 RC/cm2 on seasoned wood. In both
+cases, the differences between green and seasoned wood remain
+statistically signiﬁcant. Even though the phenomenon is less
+important in open-air conditions, the mean number of RC/cm2
+
+b
+
+Fig. 6. Effect of moisture content on the length (a) and width (b) of RC/cm2 (ANOVA
+and test PLSD Fisher), MF-Exp.
+
+Fig. 5. Effect of the moisture content on the number of RC/cm2 (ANOVA and test PLSD
+Fisher), OFP-exp.
+
+appears as a good estimate of the moisture content of wood. These
+results are in agreement with those of Prior and Alvin (1986).
+The results of the furnace experiments also point at the effect of
+the heating temperature on the number of RC, which increased
+proportionally with the increase in temperature. However, this
+parameter was probably overestimated by our protocol, since the
+samples were introduced inside the furnace once the respective
+temperatures were reached. Consequently, a thermal shock was
+produced that is quite an unnatural phenomenon in open-air
+combustion structures. The effect of temperature might therefore
+be more relevant for the study of craft structures such as charcoal
+kilns, inside which temperatures are more conﬁned and stable.
+Nevertheless, this parameter inﬂuences less the mean number of
+RC/cm2 than moisture. This indicates that, in archaeological
+contexts, the type of structure in which the combustion process
+takes place does have an effect on the mean number of RC, but one
+which is far less relevant than the wood moisture content prior to
+charring.
+
+I. Théry-Parisot, A. Henry / Journal of Archaeological Science 39 (2012) 381e388
+
+Thus, the size of the radial cracks seems to constitute a good
+criterion for the discrimination of green and seasoned wood when
+tested on samples charred in the furnace, but appears invalid for
+the characterisation of pieces of charcoal from open-air ﬁreplaces.
+The heterogeneous intrinsic and extrinsic carbonisation conditions
+in open-air structures together with the morphology of the slices
+are probably responsible for those differences. Since they are closer
+to archaeological contexts, a comparison with archaeological
+samples should be based on the results of experiments carried out
+in open-air structures.
+In the open-air combustion, the mean number of RC/cm2
+allowed the statistical discrimination of seasoned from green pine
+wood, ranging from 1.4 to 2.5 RC/cm2 on seasoned wood and from
+6.8 to 8.2 RC/cm2 on green wood. Calculating the mean number of
+RC/cm2 in an archaeological sample would allow discriminating
+seasoned from green pine wood. However, the transposal of this
+method to archaeological contexts should be done carefully. The
+ﬁrst issue concerns possible ways of interpreting the middle value
+of the mean number of RC/cm2: as a mixture of green and seasoned
+wood in a same ﬁre or as successive combustions in the same
+structure? Moreover, successive archaeological deposits, overlapping ﬁreplaces and charcoal mixtures in the same level tend to
+interfere with our interpretations. What we regard as the result of
+one practice (e.g. the use of green wood for a speciﬁc activity) is
+frequently an average representation of multiple/successive practices. Where possible, it is therefore fundamental to distinguish two
+types of depositional contexts: (i) easily identiﬁable, concentrated
+deposits related to a speciﬁc activity (e.g. charcoal from ﬁreplaces,
+kilns or other structures), for which the fuel used may allow documenting the thermal speciﬁcities of the structure (e.g. smoking or
+fumigation); (ii) ‘synthetic’ deposits, i.e. scattered charcoal in the
+archaeological layer, resulting from long-term deposition and
+mixing, difﬁcult to link precisely to speciﬁc activities, but with
+a reliable signiﬁcance concerning the environment (Chabal, 1997;
+Asouti and Austin, 2005; Théry-Parisot et al., 2010).
+6. Conclusions
+The study of radial cracks on the transversal section of experimental samples (P. sylvestris) obtained both in a mufﬂe furnace and
+an open-air structure allows proposing a method for identifying the
+combustion of green wood in archaeological samples.
+We demonstrated that the occurrence of radial cracks is not
+correlated with the moisture content. Therefore, the percentage of
+radial cracks in an archaeological sample is not a relevant indicator
+of the combustion of green wood in ancient hearths. Nevertheless,
+the number of RC/cm2 allowed discriminating seasoned wood from
+green wood. Even though the phenomenon is less important in
+open-air conditions, the mean number of RC/cm2 appears as a good
+estimate of the moisture content of wood, with respectively 34 RC/
+cm2 and 8 RC/cm2 on green wood and 3.4 RC/cm2 and 2 RC/cm2 on
+seasoned wood (in the mufﬂe furnace and open-air structure,
+respectively). Calculating the mean number of RC/cm2 in an
+archaeological sample would allow discriminating seasoned from
+green pine wood.
+However, other issues have to be addressed. Considering that
+archaeological pieces of charcoal are generally smaller than 4 cm,
+can the same method be applied to smaller pieces; or to other
+species of pine; or, more generally, to other gymnosperms and
+angiosperms? A similar study currently developed for Argentinean
+woods tends to conﬁrm our results: the mean number of RC/cm2
+allows discriminating the combustion of green from that of
+seasoned wood (Caruso Fermé and Théry-Parisot, 2011). Further
+experiments have to be conducted, mainly in order to take into
+account (i) differential behaviour from one species to another and
+
+387
+
+(ii) other aspects pertaining to the size and state of wood before
+combustion (e.g. altered/rotten wood, driftwood). When fully
+developed, this method will allow us to attest the combustion of
+green wood in archaeological contexts, and to reconstitute past
+activities related to ﬁre and the use of hearths.
+Acknowledgement
+We are grateful to Raul Carstocea and Clark Warren for their
+helpful corrections of the manuscript.
+References
+Alix, C., Brewster, K., 2004. Not all driftwood is created equal: wood use and value
+along the Yukon and Kuskowim Rivers, Alaska. Alaska Journal of Anthropology
+2 (1), 2e19.
+Asouti, E., Austin, P., 2005. Reconstructing woodland vegetation and its exploitation
+by past societies, based on the analysis and interpretation of archaeological
+wood charcoal macro-remains. Environmental Archaeology 10 (1), 1e18.
+Avat, F., 1991. Contribution à l’étude des traitements thermiques du bois
+(20e300  C): transformations chimiques et caractérisations physico-chimiques.
+Unpublished PhD thesis, Ecole Normale Supérieure des Mines de Paris.
+Beall, F.C., Blankenhorn, P.R., Moore, G.R., 1974. Carbonized wood-physical properties and use as a SEM preparation. Wood and Science 6 (3), 212e219.
+Braadbaart, F., Poole, I., 2008. Morphological, chemical and physical changes during
+charcoaliﬁcation of wood and its relevance to archaeological contexts. Journal
+of Archaeological Science 35 (9), 2434e2445.
+Braadbaart, F., Poole, I., Van Brussel, A.A., 2009. Preservation potential of charcoal in
+alkaline environments: an experimental approach and implications for the
+archaeological record. Journal of Archaeological Science 36 (8), 1672e1679.
+Caruso Fermé, L., Théry-Parisot, I., 2011. Experimentation and combustion properties of Patagonian Andean wood. SAGVNTVM EXTRA 11, 39e40.
+Chabal, L., 1997. Forêts et sociétés en Languedoc (Néolihique ﬁnal, Antiquité tardive). L’anthracologie, méthode et paléoécologie. DAF 63, Editions de la Maison
+des Sciences de l’Homme, Paris, 189 p.
+Cutter, B.E., Cumbie, B.G., Mac Ginnes, E.A., 1980. SEM and shrinkage analyses of
+southern pine wood following pyrolis. Wood Science and Technology 14,
+115e130.
+Henry, A., 2011. Paléoenvironnements et gestion du bois de feu au Mésolithique
+dans le sud-ouest de la France: anthracologie, ethno-archéologie et expérimentation. Unpublished Ph.D., Université de Nice-Sophia-Antipolis, 2 vol.,
+441 p.
+Henry, A., Théry-Parisot, I., Voronkova, E., 2009. La gestion du bois de feu en forêt
+boréale: problématique archéo-anthracologique et étude d’un cas ethnographique
+(Région de l’Amour, Sibérie). In: Costamagno, S., Théry-Parisot, I., Henry, A. (Eds.),
+Fuel Management During the Palaeolithic and Mesolithic Period. New Tools, New
+Interpretations. BAR Int. Se. 1914. Archaeopress, Oxford, pp. 17e37.
+Kumar, R.R., Kolar, A.K., Leckner, B., 2006. Shrinkage characteristics of Casuarina
+wood during devolatilization in a ﬂuidized bed combustor. Biomass and Bioenergy 30 (2), 153e165.
+Mac Ginnes, E.A., Kandel, S.A., Szopa, P.S., 1971. Some structural changes observed in
+the structure of wood. Wood and Fiber Science 3 (2), 77e83.
+Marguerie, D., Hunot, J.Y., 2007. Charcoal analysis and dendrology: data from
+archaeological sites in north-western France. Journal of Archaeological Science
+34 (9), 1417e1433.
+McParland, L.C., Collinson, M.E., Scott, A.C., Steart, D.C., Grassineau, N.V.,
+Gibbons, S.J., 2007. Ferns and ﬁres: experimental charring of ferns compared to
+wood and implications for palaeobiology, palaeoecology, coal petrology, and
+isotope geochemistry. PALAIOS 22 (5), 528e538.
+McParland, L.C., Collinson, M.E., Scott, A.C., Campbell, G., 2009. The use of reﬂectance values for the interpretation of natural and anthropogenic charcoal
+assemblages. Archaeological and Anthropological Science 1, 249e261.
+McParland, L.C., Collinson, M.E., Scott, A.C., Campbell, G., Veal, R., 2010. Is vitriﬁcation in charcoal a result of high temperature burning of wood? Journal of
+Archaeological Science 37 (10), 2679e2687.
+Moore, G.R., Blankenhorn, P.R., Beall, F.C., Kline, D., 1974. Some physical properties of
+birch carbonized in a nitrogen atmosphere. Wood and Fiber Science 6 (3),193e199.
+Moskal-del Hoyo, M., Wachowiak, M., Blanchette, R.A., 2010. Preservation of fungi
+in archaeological charcoal. Journal of Archaeological Science 37 (9), 2106e2116.
+Pastor-Villegas, J., Meneses Rodríguez, J.M., Pastor-Valle, J.F., García García, M., 2007.
+Changes in commercial wood charcoal by thermal treatments. Journal of
+Analytical and Applied Pyrolysis 80 (2), 507e514.
+Prior, J., Alvin, K.L., 1983. Structural changes on charring woods of Dichrostachys
+and Salix from Southern Africa. IAWA Journal 4, 197e206.
+Prior, J., Alvin, K.L., 1986. Structural changes on charring woods of Dichrostachis and
+Salix from Southern Africa: the effect of moisture content. IAWA Journal 7 (3),
+243e249.
+Prior, J., Gasson, P., 1993. Anatomical changes on charring six African hardwoods.
+IAWA Journal 14, 77e86.
+Rossen, J., Olson, J., 1985. The controlled carbonisation and archaeological analysis
+of SE U.S. wood charcoals. Journal of Field Archaeology 12, 445e456.
+
+388
+
+I. Théry-Parisot, A. Henry / Journal of Archaeological Science 39 (2012) 381e388
+
+Schweingrüber, F.H., 1978. In: Zurcher, A.G. (Ed.), Anatomie microscopique du bois.
+Institut fédéral de Recherche Forestière.
+Scott, A.C., 2010. Charcoal recognition, taphonomy and uses in palaeoenvironmental
+analysis. Palaeogeography, Palaeoclimatology, Palaeoecology 291 (1e2), 11e39.
+Scott, A.C., Cripps, J.A., Collinson, M.E., Nichols, G., 2000. The taphonomy of charcoal
+following a recent heathland ﬁre and some implications for the interpretation
+of fossil charcoal deposits. Palaeogeography, Palaeoclimatology, Palaeoecology
+164 (1e4), 1e31.
+Slocum, D.H., Mac Ginnis, E.A., Beall, F.C., 1978. Charcoal yield, shrinkage, and
+density changes during carbonization of oak and hickory woods. Wood Science
+11 (1), 42e47.
+Stimely, G.L., Blankenhorn, P.R., 1985. Effects of species, specimen size, and heating
+rate on char yield and fuel properties. Wood and Fiber Science 17 (4), 477e489.
+Théry, I., Gril, J., Meignen, L., Vernet, J.L., Maury, J., 1996. Coal used for fuel at two
+prehistoric sites in Southern France: Les Canalettes and Les Usclades. Journal of
+Archaeological Science 23, 509e512.
+Théry-Parisot, I., 2001. Economie des combustibles au Paléolithique. Expérimentation, anthracologie, Taphonomie. Dossier de Documentation Archéologique n
+20, CNRS-Editions, 195 p.
+
+Théry-Parisot, I., 2002. Gathering of ﬁrewood during the Palaeolithic. In:
+Thiébault, S. (Ed.), Charcoal Analysis. Methodological Approaches, Palaeoecological Results and Wood Uses. BAR Int. Se. 1063. Archaeopress, Oxford,
+pp. 243e249.
+Théry-Parisot, I., Texier, P.J., 2006. L’utilisation du bois mort dans le site moustérien
+de la Combette (Vaucluse). Apport d’une approche morphométrique des charbons de bois à la déﬁnition des fonctions de site, au Paléolithique. Bulletin de la
+Société Préhistorique Française 103 (3), 453e463.
+Théry-Parisot, I., Chabal, L., Chrazvzez, J., 2010. Anthracology and taphonomy, from
+wood gathering to charcoal analysis. A review of the taphonomic processes
+modifying charcoal assemblages. Palaeogeography, Palaeoclimatology, Palaeoecology 291, 142e153.
+Thinon, M., 1992. L’analyse pédoanthracologique: aspects méthodologiques et
+applications. thèse ès-sciences, Unpublished PhD, University of Aix-Marseille 3,
+317 p.
+Thuvander, F., Berglung, L.A., 2000. In situ observations of fracture mechanisms for
+radial cracks in wood. Journal of Materials Science 35, 6277e6283.
+Zicherman, J.B., 1981. Microstructure of wood char. Wood Science and Technology
+15, 237e249.
+
+

@@ -1,0 +1,1499 @@
+Journal of Archaeological Science 67 (2016) 64e79
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+How heat alters underlying deposits and implications for
+archaeological ﬁre features: A controlled experiment
+Vera Aldeias a, b, *, Harold L. Dibble a, c, d, Dennis Sandgathe e, Paul Goldberg f, g, h,
+Shannon J.P. McPherron a
+a
+
+Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany
+Interdisciplinary Center for Archaeology and Evolution of Human Behavior (ICArEHB), Universidade do Algarve, Faro, Portugal
+Department of Anthropology, University of Pennsylvania, Philadelphia, USA
+d
+Institute of Human Origins, Arizona State University, USA
+e
+Department of Archaeology, Simon Fraser University, Burnaby, Canada
+f
+School of Earth and Environmental Sciences, University of Wollongong, Wollongong, Australia
+g
+€t Tübingen, Tübingen, Germany
+Institute for Archaeological Sciences, Eberhard Karls Universita
+h
+Department of Archaeology, Boston University, Boston, USA
+b
+c
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 24 August 2015
+Received in revised form
+17 December 2015
+Accepted 5 January 2016
+Available online 27 February 2016
+
+While it is true that the use of ﬁre is undoubtedly an important behavioral trait, ﬁre can also leave
+important traces in archaeological deposits, including altering previously deposited sediments and artifacts. The set of controlled experiments reported here do not focus on ﬁre per se, but rather on the
+effects of some of the most important variables underlying the transfer of heat to subsurface sediments.
+These variables, including temperature, duration, sediment type, moisture, and mineralogy, are altered
+here in ways that essentially bracket the range of conditions under which past ﬁres may have existed.
+The results show that sediments as much as 10 cm directly below a heat source routinely reach temperatures of 200  C, with higher temperatures and greater depth of heat transfer possible with longer
+durations or higher surface temperatures. One of the implications of these results is that a surface can
+produce substantial thermal-alterations of archaeological artifacts and sediments deposited much earlier
+in the sequence. Likewise, there are signiﬁcant implications for the analyses and chronometric dating of
+thermally altered sediments and burned artifacts.
+© 2016 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Experimental archaeology
+Fire
+Heat transfer
+Thermal alteration
+Post-depositional processes
+Soil micromorphology
+FTIR
+
+1. Introduction
+Although the earliest use and level of control of ﬁre is a subject
+of current debate (e.g., Berna et al., 2012; Goren-Inbar et al., 2004;
+Preece et al., 2006; Roebroeks and Villa, 2011; Shahack-Gross et al.,
+2014), there is no doubt that pyrotechnology represents one of the
+more signiﬁcant technological achievements in the history of our
+species. For that reason alone, the archaeological study of ancient
+ﬁres e how they were built and maintained (Mallol et al., 2013a;
+March et al., 2014; Mentzer, 2014), the uses that they served (e.g.,
+Attwell et al., 2015; Bentsen, 2014; Brown et al., 2009; Wrangham
+et al., 1999), and generally how they contributed to human adaptations to varying circumstances (e.g., Attwell et al., 2015; Bentsen,
+
+* Corresponding author. Department of Human Evolution, Max Planck Institute
+for Evolutionary Anthropology, Leipzig, Germany.
+E-mail addresses: vera_aldeias@eva.mpg.de, veraldeias@gmail.com (V. Aldeias).
+http://dx.doi.org/10.1016/j.jas.2016.01.016
+0305-4403/© 2016 Elsevier Ltd. All rights reserved.
+
+2014; Carmody and Wrangham, 2009; Wrangham et al., 1999), will
+continue to be an important research focus. Fire also contributes to
+archaeological research more indirectly, preserving evidence of the
+local environment (in terms of the materials used for fuel) and can
+help serve as an “anchor” for analyzing spatial variability in a site
+(e.g., Aldeias et al., 2012; Henry, 2012; Pasto et al., 2000; Sergant
+, 2001). Equally important, ﬁres
+et al., 2006; Vaquero and Pasto
+contribute to archaeological research by providing materials that
+can be dated e either charcoal for radiocarbon, burned ﬂint for
+thermoluminescence (TL) or mineral grains for optically stimulated
+luminescence (OSL).
+Previous archaeological experiments dealing with ﬁre have
+focused on the role of different fuels (Albert et al., 2000; Braadbaart
+ry-Parisot, 2014; Mentzer, 2009; The
+ryet al., 2012; Henry and The
+ry et al., 1996; Yravedra and Uzquiano, 2013), fuel
+Parisot, 2002; The
+ry-Parisot and Henry,
+conditions (Sievers and Wadley, 2008; The
+2012), human actions on ﬁre features (Mallol et al., 2013a; Miller
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+et al., 2010), and thermal artifact alteration (Bennett, 1999;
+Boardman and Jones, 1990; Richter et al., 2011; Schmidt, 2013a;
+Sievers and Wadley, 2008; Stiner et al., 1995). In addition, there
+are numerous examples of how ﬁres are recognized in the
+archaeological record, especially in the absence of structured
+hearths (Albert et al., 2012; Aldeias et al., 2014, 2012; Goldberg
+et al., 2009; Karkanas et al., 2007; Mentzer, 2014). In fact, because
+the direct evidence of ﬁre, such as concentrated areas of ashes and
+charcoals, is easily removed through erosion, chemical diagenesis
+or post-depositional movement, the recognition of combustion
+features can be based on indirect evidence such as the thermal
+alteration of the sediment or the presence of burned materials (e.g.,
+Alperson-Aﬁl et al., 2007; Linford and Platzman, 2004; Sergant
+et al., 2006). The use of such indirect evidence, however, relies on
+certain assumptions regarding the spatial proximity and contemporaneity of the hearth itself and those objects and sediments that
+are thermally altered. One of the basic assumptions is that these
+materials are exposed to burning roughly at the same time that the
+ﬁre is active, i.e., that burned artifacts are contemporaneous with
+the ﬁre.
+In this paper, we will show the extent to which such burning and
+other kinds of thermal alteration can occur post-depositionally due
+to ﬁres that were built on top of previous occupations at a site. We
+are not concerned here with the effects of ﬁre per se, but rather the
+transfer of heat, which bears directly on our understanding of the
+conditions under which objects and sediments may become thermally altered. It is generally expected that post-depositional heating is not a main factor, since soils and sediments are considered to
+be good thermal insulators: that is, they are poor conductors of heat
+and therefore temperatures drop dramatically with depth below a
+heat source. Indeed, some experiments have suggested that the
+heat generated from a ﬁre is limited in terms of the depth to which
+it can affect underlying sediments (Bellomo, 1993; Bennett, 1999;
+Brodard et al., 2015; Campbell et al., 1995; Canti and Linford,
+2000; Linford and Platzman, 2004; March et al., 2014; Sievers
+and Wadley, 2008; Stiner et al., 1995; Werts and Jahren, 2007).
+The results of some of these experiments can be criticized, however, due to the lack of control of some important parameters, such
+as the temperature of the ﬁre used, the duration of heating, and the
+nature and conditions (e.g., substrate composition, water content)
+of the underlying sediments. The aim of the current experiments is
+to apply stricter controls on such parameters, and for this reason we
+did not try to replicate actual ﬁres. Indeed, the questions being
+addressed here are not how people built or maintained ﬁres, what
+kinds of materials were used for fuel, or how big or of what duration the ﬁres were. Rather, our question is much simpler: how does
+heat transfer to underlying sediments, regardless of the source of
+the heat itself. Additionally, this experiment was not designed to
+examine every possible combination of these parameters, but
+rather to bracket a reasonable range of possibilities in order to
+ensure that the results can be extended to most archaeological
+situations. This initial experiment aims to provide a baseline for
+other similar experiments.
+2. Materials and methods
+2.1. Experimental design
+Heat from a ﬁre essentially represents the transfer of thermal
+energy produced by the combustion of fuel to the area surrounding
+the ﬁre itself. Of the fundamental modes of heat transfer, convection (i.e., transfer of heat by the movement of a medium, such as air)
+and radiation (i.e., emitted as electromagnetic waves) are the two
+that primarily affect those sitting around a ﬁre who feel its warmth,
+as the ﬁre warms the air and energy waves reach those surrounding
+
+65
+
+it. The ﬁre will also heat underlying sediments, primarily through
+conduction (also called diffusion, which is the transfer of heat from
+matter to matter). In turn, heat conduction through sediments is
+affected by a number of factors, including the thermal conductivity
+of the materials making up the deposits (e.g., quartz vs. clay minerals), the amount of moisture present, the degree of compaction
+(which can reduce the size and frequency of insulating air within
+voids between grains), and the difference between the temperature
+of the heat source and the underlying sediment (i.e., the temperature gradient).
+This experiment examines the effects of some of the most
+important variables underlying these processes including the input,
+or surface, temperature, the duration of surface heating, and several
+variables reﬂecting the nature of the sediments themselves, especially grain size. To a lesser extent, we also investigated the effects
+of mineralogy, compaction, moisture content, and the presence of
+layers of ash and organic plant matter in the substrate. By controlling the experimental variables, one can isolate and identify the
+speciﬁc properties that guide heat-induced alterations, and thus
+obtain quantitative and predictive data.
+This approach is distinct from replicative or actualistic experimentations, where the goal is to reproduce what is seen today in
+the archaeological record (Lin, 2014). Previous studies dealing with
+pyrotechnology have relied on actual ﬁres as a source of heat (e.g.,
+Bennett, 1999; Mallol et al., 2013a; March et al., 2014; Sievers and
+Wadley, 2008). However, it is difﬁcult to build a ﬁre to achieve a
+particular temperature and maintain it for a speciﬁc period of time
+without signiﬁcant ﬂuctuation. This is due to the fact that within a
+ﬁre temperatures vary greatly depending on the type of fuel used,
+its amount, and frequency of refueling (see Table 1 and references
+therein). While replicative experiments such as these have undeniable value for some type of questions, they are not suitable for
+understanding the individual effects of speciﬁc independent variables contributing to subsurface heat transfer, which is the question
+at the core of our controlled experiments.
+It is also important to bear in mind that in the social sciences,
+there are different kinds of “validity” in terms of experimental
+design: internal, external, and ecological (see discussion in Lin et al.,
+in press). Internal validity concerns the precision of the experiment
+and its reproducibility within the experimental setting, where it is
+possible to conclude accurately that one or more independent
+variables are responsible for variation in the dependent variables of
+question. External validity refers to the potential of the experimental results to be generalized across a wide variety of contexts.
+Ecological validity has to do with how “realistic” the experiments
+are, and many of the actualistic studies of ﬁre mentioned above
+emphasize this kind of validity. However, the problem with experiments that have high ecological validity is that by approaching
+empirical reality, a much larger number of independent variables
+are introduced into the experimental design. This is why, then, the
+present experimental design focuses on increasing the internal and
+external validity, at the expense of ecological validity. In this way,
+we can show more clearly the effects of each individual independent variable in turn. A major beneﬁt of experiments with high
+internal and external validity is that their results are more easily
+and conﬁdently extrapolated to a broader range of conditions. This
+is a major shortcoming of more ecologically valid experiments,
+which have limited extrapolation potential, since their results
+typically apply only to circumstances with conditions identical to
+those existing in the actual experiment.
+2.1.1. Laboratory-based heat experiments
+For our laboratory experiments, we used a high-temperature
+electric heater (from Micropyretics Heater International) which
+relies solely on radiation and not convection to heat the surface of
+
+66
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+Table 1
+Maximum ﬁre temperatures (in degrees C) reported from some previous experimental ﬁres. These data included only the maximum temperature recorded and not the
+duration of these peak temperatures, which is not always reported. The temperature in Bentsen (2013) was taken from a graph, whereas all other temperatures represent
+exact numbers reported by the authors.* ¼ 28 campﬁres,** ¼ 6 tree stump ﬁres,*** ¼ 6 grass ﬁres.
+Fuel type
+Bones
+Grass
+Grass
+Grass
+Peat
+Sedges
+Sundried Sedges
+Tree stump
+Wood
+Wood
+Wood
+Wood
+Wood
+Wood
+Wood
+Wood
+
+Max. Temp
+
+Max. Mean temp
+
+Reference
+
+321
+
+825e605
+195
+225***
+
+ry-Parisot and Costamagno, 2005
+The
+Buenger, 2003
+Bellomo, 1993
+Miller and Sievers, 2012
+Braadbaart et al., 2012
+Miller and Sievers, 2012
+Miller and Sievers, 2013
+Bellomo, 1993
+Stiner et al., 1995
+Canti and Linford, 2000
+Braadbaart et al., 2012
+Bentsen, 2012
+Bentsen, 2013
+Sievers and Wadley, 2008
+Bellomo, 1993
+March et al., 2014
+
+157
+800
+>800
+603
+250**
+900e1000
+995
+800
+800
+739
+670
+538
+
+the sediment. The heater is programmable to particular temperatures and duration of heating, supplying a constant temperature
+throughout its 26 cm diameter. This device was mounted directly
+above a 60  60  40 cm wooden box containing the experimental
+sediments (Fig. 1). As the heat was applied to the surface of the
+sediments, temperatures were recorded continuously for the
+duration of the experiments in 1-min intervals and stored on 4
+channel PCE-T390 contact thermometer devices. Each thermometer was linked to k-type thermocouple probes (from B þ B
+Thermo-Technik GmbH, Donaueschingen, Germany), and these
+were positioned at various depths below the surface and at
+different distances from the center of the heat source (Fig. 1). In
+terms of depth, one thermometer was attached to two probes at the
+surface (directly under the heater and just at its edge). Three other
+thermometers were linked to four probes each and these were
+situated in vertical alignment at depths of 2 cm, 6 cm, 10 cm, and
+20 cm below the surface. In terms of lateral distance from the heat
+source, one thermometer was positioned directly below its center,
+and two others at the edge of the heater and outside the heater's
+diameter e that is, edge corresponds to either 10 cm (in H1eH3)
+or15 cm (in H4eH13) away from the center of the heater and
+outside to 20 cm away from the center (see Fig. 1).
+Several independent variables that are of particular interest to
+archaeological applications were individually varied, resulting in a
+total of 13 experiments with different experimental conditions (see
+Fig. 2). Individual laboratory experiments are named by letter H
+(heat) followed by a sequential number, from H1 to H13. Two main
+temperatures (targeted temperatures of ~600  C and ~950  C) were
+used, although some variation occurred due to the movement of air
+in the room. For most of the experiments the duration of the
+heating was 6 h (after the heater achieved the programmed temperature). The exceptions were one experiment that lasted 9 h (H7),
+one for 19 h (H12), and two experiments with stepped heating in
+which the heat was applied for 2 h, then turned off for 2 h; for the
+latter, this cycle was repeated four times (H8 and H11). Four
+different types of sediment were used that varied in size and
+composition: gravel (mainly quartz and quartzite grains, see
+Supplementary information), quartz sand, limestone sand, and
+clayey silt; these materials reﬂect a range of grain sizes and
+mineralogy that may be found in archaeological sediments. For the
+gravel, two levels of compaction were used: loose (meaning the
+gravel was uncompacted with an abundance of intergranular void
+space) and compacted (achieved by repeatedly rolling the box over
+rough cobblestones). In the latter case, the degree of compaction
+
+600*
+319
+
+was determined by how much more gravel could be put in the box
+after compaction, repeating this process until no further material
+could be added. This same technique was tried for the sands and
+clay, but these sediments did not compact signiﬁcantly. In all cases,
+the sediment was ﬁrst put into a cement mixer, which helped to
+homogenize them, and then poured directly into the box. All of the
+sediment types had very low moisture content (percentage of
+water in clayey silt ¼ 0.06, in sand ¼ 0.058, gravel ¼ 0.71) except for
+one experiment with quartz sand (H12) in which 1.6 L of water
+were added to the sediment. In this case, in order to control the
+moisture percentage and to homogenize its distribution within the
+box, a controlled volume of water was mixed to each bucket of
+sediment and these were individually added into the cement mixer
+before putting it in the box. The resulting moisture content was
+10%, which corresponds to half of the saturation level for this
+sediment (measured to be 20%). In one experiment a 2 cm thick
+layer of wood ash was added to the top of sand directly below the
+heater and in another a 2 cm thick layer of potting soil containing
+plant organic matter and quartz sand (Graberd from OBI brand) was
+added below the surface and covered by a 1 cm thick layer of quartz
+sand.
+2.1.2. Field experiment
+In addition to the thirteen laboratory experiments described
+above (H1 through H13), we also conducted a complementary
+experiment in the ﬁeld using charcoal as a fuel instead of the
+electric heater. This experiment is designated as C (charcoal) 1. This
+experiment allows for some comparison between an actual ﬁre and
+the results obtained under laboratory conditions. This experiment
+generally followed the same protocols as the ones described above.
+A wooden box was ﬁlled with limestone sand containing quartz. A
+small (30 cm diameter) charcoal ﬁre was started and left burning
+for roughly eight hours. Every effort was made to keep the ﬁre
+burning at a consistent temperature, though as is often the case in
+such ﬁeld experiments with high ecological validity, ﬂuctuations
+occurred in the surface temperature as fuel was depleted and
+replenished. Temperature reading protocols followed the ones
+described above for the set of experiments using an artiﬁcial heat
+source.
+2.2. Sampling strategy
+After each experiment, the sediments were excavated and
+photographed both in plan and proﬁle views. Visible alterations to
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+67
+
+Fig. 1. Experimental design: a) Left e view of the experimental setting with the heater located in the center of the sediment-ﬁlled experimental box with the sets of thermometers
+and multiple thermocouples. Right e view of the top of the sediments when the heat is being applied; b) Schematic drawing of experimental setup with thermometers and
+thermocouple locations.
+
+the sediments, namely the surface diameter and thickness of
+rubeﬁed sediment (that is, reddened, baked sediments), were
+measured and photographed. Color designations were assessed by
+using a Munsell Soil color chart on dry samples. In addition to
+control samples of the unburned sediment types, bulk sediment
+samples were systematically taken from the surface-altered sediments and at several depths in the excavated proﬁles.
+Soil micromorphology blocks were collected at the center of the
+burned area using a kubiena box to ensure the undisturbed nature
+of the deposits. From these, a total of 12 thin sections with dimensions of 5  7.5 cm and 30 mm thick were prepared by Spectrum Petrographics (Vancouver, WA, USA), following standard
+procedures of oven drying the sediments and impregnating them
+with an epoxy mixed with styrene and a catalyst. The resulting thin
+sections were analyzed using a petrographic microscope at several
+magniﬁcations and under plane- and cross-polarized light (PPL and
+XPL). Micromorphology descriptions followed the standard terminology deﬁned by Stoops (2003) and Courty et al. (1989) e see
+Supplementary information. Fourier-Transform Infrared Spectrometry (FTIR) analyses were done in bulk samples of heated and
+unheated sediments, and micro FTIR (mFTIR) analyses were performed directly on thin sections taken from the heated sediments.
+
+For bulk samples, about 0.3 mg of sample was homogenized and
+powdered in an agate mortar and pestle. The ground sample was
+mixed with about 40 mg of IR grade KBr powder and pressed into a
+pellet using a manual hydraulic press (by Wasserman). Spectra
+were recorded in transmission mode using an Agilent 660 FTIR
+Spectrometer with a DTGS detector at 4 cm1 resolution and
+averaging of 32 scans e see Supplementary information. mFTIR
+spectra were collected with a Cary 620 FTIR microscope equipped
+with a MCT detector in ATR reﬂectance mode through a germanium
+crystal. The spectra were recorded at 4 cm1 resolution averaging of
+32 scans between 4000 and 700 cm1 range with a 100  100 mm2
+contact spot.
+3. Results
+The physics of heat transfer are well understood. Basically, heat
+moves from higher to lower temperatures, though the rate of heat
+transfer is a function of both conductivity (materials with higher
+conductivity transfer heat faster) and temperature differential
+(heat transfers more quickly with greater differences in temperature). With sediments beneath a heat source, temperature increases most rapidly at the surface, just below the heat source.
+
+68
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+Fig. 2. Summary of the main experimental variables and associated experimental numbers. The values correspond to the heater targeted temperature e temperature reading
+averages and experimental-speciﬁc oscillations are described in the text. Qz sand: quartz sand; Ls Sand: limestone sand; O.M.: plant organic matter. An additional ﬁeld experiment
+using charcoal as fuel and labeled C1 is not represented in the ﬁgure (see text below).
+
+Gradually, the heat travels downward through the sediment, at ﬁrst
+relatively quickly (because of the greater difference in temperature
+between the overlying and underlying sediments), and then progressively slowing as the sediments reach thermal equilibrium.
+Because the amount of total energy at the surface is ﬁxed, the
+temperature at which thermal equilibrium is achieved will be
+lower at lower depths. Once the heat source is turned off, the surface begins to cool rapidly, and, in the experimental situation, this is
+due to both radiation and convection as the heat dissipates into the
+air. However, some of the heat continues to be transferred downward due to conduction and the temperature differential between
+the overlying and underlying sediments. What this means is that, as
+a function of increasing depth, underlying sediments will continue
+to rise for some time after the removal of the heat source (e.g.,
+Fig. 3a). All temperature data produced by this study are available
+as raw research data in Supplementary Information.
+
+3.1. Spatial distribution of heat transfer
+Fig. 3a presents a clear picture of how heat is transferred
+through the sediments, in this case quartz sand (H3). The temperature of the surface, just below the heater, rises quickly and then at
+~30 min stabilizes at around 922  C, with the heat being applied
+continuously for a total of 6 h. The heat is transferred to the underlying sediments, and although the rate of heat transfer decreases with depth, the deeper sediments continue to increase in
+temperature even long after (~4e5 h) the heat source is removed.
+Heat is also transferred laterally away from the heat source, though
+not as dramatically because there is no thermal input directly
+above. The effects of heat lateral diffusion are clearly shown in
+Fig. 3b. This ﬁgure shows the temperatures at the surface (both at
+the center of the heat source and immediately under its edge),
+temperatures at 2 cm depth directly below the heater, and those at
+the same depth in the lateral probes at the edge of the heater and
+
+beyond the heater's edge. It is clear that there is a sharp drop in
+temperatures as the lateral distance increases from the heat source,
+and in fact, sediments 2 cm below the surface but directly under the
+heater rise to a higher temperature than the surface immediately
+adjacent but not directly below the heat source. Although not
+shown here, the lateral temperatures at greater depths below the
+surface taken at the edge of the heater and just outside it are even
+much less affected. For instance, in this experiment the maximum
+temperatures recorded from the probes just at the edge of the
+heater (see Fig. 1) at a depth of 6 cm was 280  C, and 166 C at a
+depth of 10 cm. In the probes located further outside the heater's
+edge (20 cm from center, or 5 cm from the edge of the heater), and
+at a depth of 6 cm, temperatures rose to only about 50  C over the
+starting temperature.
+Thus, sediments that are directly below the heat source are
+heated more quickly and to a higher extent than sediments that are
+located adjacent to or outside that source. The latter show almost
+no change in temperature and little alteration of the sediments
+should be expected. Sediments directly underneath a ﬁre will be
+the ones affected by it, with temperatures dramatically dropping to
+its sides, even at shallow depths.
+
+3.2. Temperature and duration
+As would be expected, the maximum temperature that can be
+obtained at any depth is primarily a function of both the intensity of
+heat (i.e., temperature) at the surface and the amount of time it is
+maintained (see Supplementary Information). Comparing Fig. 3a
+with 3c, it is clear that for the same duration of time and using the
+same sediment type, a cooler source will limit the maximum
+temperature that sediments can achieve. Likewise, if the duration
+of heating time increases (Fig. 3c and d), then the temperature of
+the sediments will rise further, although at both 6 and 9 h the most
+signiﬁcant change occurs within the ﬁrst two to three hours. In
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+69
+
+Fig. 3. Results for different experimental conditions using quartz sand. a) Experiment H3 lasting for 6 h with quartz sand showing the change in recorded temperatures in several
+depths directly underneath the center of the heater. Note that the temperatures at lower depths continue to rise well beyond the time when the heater was turned off (red arrows);
+b) lateral temperatures recorded in H3 experiment at the center of the heater, at its edge and outside the heater; c) and d) temperatures recorded for different durations of heat with
+quartz-sand for 6 h (H4) and for 9 h (H7). Note that the lack of temperatures recorded at surface in (d) was due to batteries failing in the thermometer recording device and not to
+lack of heating being applied e the heater continued the same input temperature for the whole duration of the experiment. e) Stepping of heat in H8, where during each cycle the
+temperatures at depth continue to build up to higher values as highlighted by the yellow arrows for depths of 2 and 6 cm below the surface. (For interpretation of the references to
+color in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+terms of its archaeological implications, what is most interesting is
+that with a duration of 9 h, temperatures rise to over 200  C at
+10 cm below the surface. Eventually, given enough time, however,
+all depths will reach thermal equilibrium and so temperatures at
+each depth will stabilize and remain constant thereafter.
+The graphs shown in Figs. 3 and 4 also show that temperatures
+continue to rise in deeper sediments for some time after the heat
+source is removed. This raises an interesting question: what would
+happen to subsurface temperatures if a ﬁre were extinguished and
+then restarted in the same place? Of course, if the subsurface
+
+sediments cooled to their original starting point, the result would
+be the same. But a shorter interval between ﬁre events e short
+enough that the underlying sediments still retained some of the
+heat e will result in increasingly higher maximum temperatures
+during each cycle, as shown in Fig. 3e (H8). Comparing these results
+to a constant heat at the same temperature (as in experiment H4,
+see Fig. 3c), the results are almost the same. In other words,
+repeated short ﬁre events built in the same location will lead to a
+rise of subsurface temperatures similar to those obtained from a
+longer duration ﬁre of the same temperature.
+
+70
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+Fig. 4. Comparative results between different experimental conditions. a) Comparison between different compaction degrees using gravel; b) Results for temperature changes
+between gravel (H1), quartz sand (H3) and clay (H5); c) Comparison between different moisture contents using dry quartz sand (H3) and moist quartz sand (H12). Note the
+temperature plateau just below 100  C in the wet sediments (red arrows); d) Experiment H10 with an organic layer at 2 cm below the surface. The temperature records at -2 cm are
+within this organic layer and show both the presence of moisture and related temperature plateau just below 100  C (red arrows), and the drop in temperature even though there
+was no change in the surface temperatures (yellow arrow); e) Comparison between quartz sand (H4) versus the same sediments but with an ash layer on top (H9). The rise in
+temperature in H12 sand with ash seen in the ﬁrst minutes at 2 cm reﬂects the high temperature given by the heater before it stabilized to the targeted temperature; f) Field
+experiment using charcoal as fuel instead of the electric heater. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this
+article.)
+
+3.3. Heat transfer in different sedimentary variables
+3.3.1. Compaction
+It would be expected that these general patterns would hold for
+any type of homogeneous sediments, although the absolute values
+of temperature rise at various depths may vary because of the
+distinct conductivities of different sediment types. Other factors
+also play a role in heat conduction through a given sedimentary
+proﬁle. One of these is compaction of the sediments, since the air
+that ﬁlls voids between particles/clasts acts as a thermal insulator.
+
+Again, only the gravel could be compacted to any signiﬁcant degree
+(13.6% more compaction in experiment H2 vs H1, Fig. 4a). Even in
+this case, only the 2 cm depth shows an important difference between the compacted and loose sediment, with an increase rate of
+temperature rise in the compacted sediments when compared to
+the loose ones. The lack of difference in deeper sediments is
+probably due to the fact that even with the “loose” gravel some
+compaction occurs due to the weight of the overlying sediments as
+they were put in the box. Furthermore, in less compacted sediments e although heat transfer occurs more slowly and is less
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+71
+
+Fig. 5. Experiment H10 using a thin layer of buried plant organic matter. a) Plan view of the rubeﬁed sediments at surface, scale is 10 cm high with 1 cm increments. b) Proﬁle view
+€na box used to sample for micromorphology; note the volume loss of the organic layer in the center of the heat and the slight
+of the sediments during excavation showing the Kubie
+rubeﬁcation seen also underneath this black layer (red arrow), the scale is 10 cm high with 1 cm increments;. c) Flatbed scan of the thin section. Note the red hue due to rubeﬁcation
+and the thin black lens overlain by whitish-burned sediments. The yellow squares mark the areas of the photomicrographs. d) Photomicrograph showing the internal structure and
+contact of the organic layer with the quartz-rich sediments above and below, in PPL; scale is 1 mm. e) Detail of the organic black plant matter overlain by reddish-yellow altered
+organic material, in PPL; scale is 200 mm. f) Same as (e) but in XPL. Note the calcitic birefringence of the reddish-yellow organic material. g) Detail of the sharp contact between the
+reddish-yellow and the underlying black organic materials, in PPL. The scale is 100 mm. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the
+web version of this article.)
+
+efﬁcient e, a degree of temperature equilibrium will be reached
+similar to that occurring in more compacted sediments if the heat is
+applied for a long enough duration. These results highlight that
+even a short-term ﬁre built on well compacted sediments (as those
+typically found on archaeological contexts) will lead to a quicker
+rate of temperature rise in the ﬁrst few cm below a ﬁre.
+
+3.3.2. Different sediment types
+Three different types of sediment were used: gravel, quartz
+sand, clayey silt, and limestone sand (see Supplementary material).
+Although the gravel and sand came from the same quarry, the
+clayey silt and the limestone sand comes from different quarries.
+However, in this experiment we are focusing more on the differences in grain size among these different sediment types. As presented in Fig. 4b, for similar mineralogy (gravel, quartz sand and
+clayey silt) a substantial difference (50  C) in temperatures is
+observed only at shallow depths of 2 cm below the surface, with
+quartz-sand reaching the highest temperatures around 800  C. For
+all the other depths, temperatures do not substantially vary independently of the grain sizes of the experimental sediments. Limestone sand (H13) systematically reaches the lowest temperatures in
+all depths, and this is probably linked to mineralogy and the lower
+conductivity of carbonates. What is important to note, however, is
+
+that in all the sediment types, temperatures rose above 200  C at
+10 cm depth, even during the relatively short heating events of 6 h.
+
+3.3.3. Moisture content
+Moisture is another variable that can affect heat transfer, especially as water reaches the temperature where its phase shifts,
+changing it from a liquid to a gas. Because a phase shift requires
+more energy, there is a marked decrease in the rate at which the
+temperature rises, until the conversion is complete. Thus, with
+moist quartz sand (H12), at each depth interval there is a distinct
+temporal plateau as the temperature approaches 100  C and remains there until the water content of the deposits is eliminated
+(see Campbell et al., 1995); afterward the temperature begins to rise
+again (Fig. 4c). Moisture has the effect of decreasing the rate of
+initial temperature increase and lowering the maximum temperature obtained; for each depth interval, this maximum is much less
+than what was obtained with dry sand (Fig. 4c). While these results
+are more striking in wet sand, the effects of inherited moisture
+content in the air-dried clay and organic sediments is also readily
+observable (see Fig. 4b and d).
+
+72
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+3.4. Thermal insulation: the effects of organic matter and ash
+Thus far, only the effect of heat transfer through somewhat
+homogeneous sediments has been described. Obviously, this is
+rarely the case in archeological settings, in which sedimentary
+contexts are often complex and result in the superimposition of
+different sediments that may contain other sorts of materials, some
+of which may act as thermal insulators. This question was
+addressed by applying heat to sediments containing a discrete layer
+of organic matter (H10) and wood ash (H9 and H11). Both materials
+are known to limit conductivity due to either their high moisture
+content or low thermal conductivity (see for instance Canti and
+Linford, 2000).
+Considering ﬁrst the effect of organic matter, a 1 cm thick layer
+of potting soil (composed of predominantly plant organic matter
+mixed with some quartz sand e Fig. 6a) was placed 2 cm below the
+surface and then covered with 1 cm of sand; the same sand ﬁlled
+the rest of the container. Therefore, in this case, the temperature
+probe located at 2 cm depth is recording temperatures directly
+within the organic material. Fig. 4d shows temperatures stabilizing
+just below 100  C, which was the case with the moist sand
+described above and reﬂects the phase change as the moisture in
+the organic matter evaporates. However, this graph then shows a
+signiﬁcant drop in temperature after about four hours, even though
+there was no change in the heat input at the surface (Fig. 4d). We
+interpret this change in temperature to some degree of ignition of
+the organic matter once the moisture has been removed. This
+ignition results in release of heat in an exothermic reaction (which
+is reported for temperatures exceeding 280  C, e.g., DeBano, 1990),
+and this energy is added to the heat from the heater itself, thus
+resulting in even higher temperatures. This effect is less marked but
+still apparent at 6 cm below the surface, though hardly at all at the
+10 cm depth. However, in other sediments containing a more
+substantial amount of organic material, the effect should be much
+more pronounced.
+Substantial changes can be seen in organic matter starting
+around 200  C, with reported complete loss of organic components
+above 450  C (DeBano, 1989). As seen in Fig. 4d, in our experiment
+
+temperatures did not exceed 400  C, and several aspects were
+evident both during the excavation of the sediments and when
+these materials were observed microscopically. In the excavated
+proﬁles, there was a clear loss of volume in the organic layer located
+directly below the heat source (Fig. 5). Interestingly, a thin, dark,
+reddish layer was observed underneath the organic material (see
+Fig. 5b and rubeﬁcation section below). Higher-resolution observations in the thin section revealed that the ﬁrst few mm of this
+layer changed dramatically, and now consisted of yellowish orange
+charred material with calcitic domains overlying a discrete lens of
+still black organic material (Fig. 5). FTIR spectra clearly show the
+mineralogical transformation of the organic material, with the
+appearance of carbonate peaks within the charred layer (Fig. 6).
+With experiment H9 we explored the effects of a 2 cm thick
+layer composed of wood ash in the uppermost part of the heated
+sediments. Normally ash would serve as an insulator with relatively
+poor conductivity (Canti and Linford, 2000), and thus partially
+blocking the transfer of heat to the subsurface sediments. This can
+be seen in Fig. 4e, where the presence of an ash layer (H9) on the
+surface is compared to an identical experiment (H4) without it. In
+spite of the fact that the heater was set to a slightly higher temperature in the ash layer experiment (approximately 625  C), the
+temperature at 2 cm depth barely reaches 300  C. When compared
+to the quartz sand without the ash layer (where there was an
+average surface temperature of ~575  C) there is a temperature
+difference of 115  C at 2 cm depth. The maximum temperatures at
+lower depths were also less in the ash experiment (with a difference of 86  C and 48  C for the 6 cm and 10 cm depth respectively).
+Note also that there is a small spike in the 2 cm temperature in the
+ash experiment, which abruptly decreases after 30 min. Again, this
+is due to fragments of wood in the ash that, as in the case of the
+organic matter described above, contributed to the total heat energy through combustion of the organic components. Once this
+material was burned off, sediment temperature shows a slight drop
+before it continues to rise, matching the energy being produced by
+the heater alone.
+As shown in this experiment, the effects of ash as a thermal
+insulator can be an important factor in cases where stacked hearths
+
+Fig. 6. FTIR spectra. a) transmission spectra on powdered samples, where the lower spectra shows the unheated potting soil of experiment H10, with absorptions bands of organic
+material present (3405, 2926, and 1617 cm1, respectively attributed to OH stretching vibration, CeH symmetric stretching, and OH deformation) mixed with quartz (1083, 797, and
+779 cm1 peaks associated with SieO stretching, and the 694, 513 and 462 cm1 peaks with CeO bending). Above are spectra from the limestone sand used in experiment H13.
+1
+1
+After heating, the sample shows the fundamental vibrations arise from the CO2
+3 ion in calcite, the asymmetric stretch (ʋ3) at 1430 cm , the out-of-plane bending (ʋ2) at 875 cm
+and the in-plane bending vibration (ʋ4) at 712 cm1 and an additional vibrational at 3645 cm1. This suggest the transformation of calcite into quicklime (CaO) and CO2 and, after
+exposed it reacts with atmospheric moisture forming calcite and calcium hydroxide, Ca(OH)2 (Toffolo and Boaretto, 2014). Thus the vibrational peak at 3642 cm1 is attributed to
+the OeH stretching of the Ca(OH)2. b) mFTIR reﬂectance ATR spectra of the heated organic layer from H10 thin section. The top spectrum corresponds to the altered organic matter
+layer, showing absorption bands at 1407, 871 and 713 cm1 associated with calcite [note the shift of the ʋ3 when compared with transmission spectra shown in (a)]. The exact
+location of the spectra is shown in photomicrograph (c) where a larger calcitic domain was targeted (in XPL, with a 200 mm scale). The lower spectrum shows the absorption peaks
+associated with the underlying resin used in thin section impregnation.
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+73
+
+Fig. 7. Summary of visible rubeﬁcation of the sediments and associated subsurface maximum temperatures measured at the center of the heat source. Rubeﬁcation thickness data
+was not collected for experiments H3 and H9. For sample H13, no visible reddening of the sediments was observed (see Fig. 8).
+
+or secondary ashy accumulations (for instance, hearth rake-out or
+ash dumps) are present. Importantly, such deposits might be
+spatially localized even within a given stratigraphic layer, and a ﬁre
+directly overlying such substrates will reach lower subsurface
+temperatures than a similar ﬁre lit in nearby ash-free locations. In
+such cases where a ﬁre is built directly on top of a previous combustion feature with an ash component (i.e., stacked hearths), we
+should expect lower subsurface temperatures in the latter ﬁre than
+those reached in a substrate lacking any signiﬁcant ash content. At
+the same time, however, it is important to keep in mind that an
+initial ﬁre will not be insulated, and so the heat of that ﬁre would
+have been transferred to the subsurface sediments as usual (see
+Section 3.6 below). Subsequent ﬁres, if hot enough or if they were of
+sufﬁcient duration, could still contribute to the alteration of the
+underlying sediments and the objects contained in them, and even
+more so if combustible materials remained in the ashes of the
+previous ﬁres.
+3.5. Color and mineralogical sediment alterations
+Fig. 8 summarizes the results of rubeﬁcation (reddening)
+observed for each experiment except for H3 and H9, for which no
+subsurface color data were taken. For all three sediment types there
+was a systematic alteration from the unheated very pale brown
+gravels and clays (10YR7/4 and 10YR7/3, respectively) and light
+yellowish brown sands (10YR6/4) to a reddish yellow (5YR7/6) area
+that matched the entire diameter of the surface heated area (see
+Fig. 8). A further distinction in color, with an inner circle of redder
+sediments, is visible in quartz sands and clays heated to temperatures of ~950  C (Fig. 8). The gray (2.5Y 6/1) limestone sand heated
+to about the same temperature did not show reddening, and here
+the unheated sands changed to white (10YR 8/1) with a slightly
+
+greenish outer rim (Fig. 8). As seen in the FTIR results (Fig. 6b),
+these heated sediments show the transformation of calcium carbonate to calcium hydroxide (see also Toffolo and Boaretto, 2014).
+In the ash experiment (H11), we observe the complete combustion
+of the black organic wood material in the center of the ashes where
+the heat was more intense. This results in a slight color alteration
+(from gray blackish areas to more homogeneous gray whitish ash
+material) as seen in Fig. 8. No color alterations were observed
+outside the surface diameter of the heat source itself, with the
+sediments adjacent to this heated area remaining unaltered.
+Rubeﬁcation of sediments and soils results mainly from mineral
+weathering and the oxidation of iron forming iron oxides (Canti
+and Linford, 2000; Schwertmann, 1993), which can be formed by
+exposure to high temperatures. The degree of rubeﬁcation is
+dependent primarily on two variables. The ﬁrst is the amount of
+iron initially present in the sediments. For instance, calcium carbonate deposits, such as the limestone sand and ashes used here,
+contain little or no iron, and in our experiments these sediments
+types do not show any reddening after heating. A second variable
+involved in rubeﬁcation is temperature. Fig. 7 shows that macroscopic color alterations occur above the 200  C threshold. This
+onset is presumably associated with mineral transformations, for
+instance from goethite to hematite, which can be induced by
+thermal heating around 240  C and accompanied with a marked
+changed from yellow to red colors (Cornell and Schwertmann,
+2004; Ruan et al., 2002). The thickness of visibly rubeﬁed sediments directly underneath the heat source varies from a maximum
+8.5 cm to only a discrete rubeﬁed lens less than 1 cm thick (Fig. 6b).
+The latter occurs in experiment H11 where ash was used in the
+uppermost sediments overlaying quartz sands, and it was within
+the latter deposits that some reddening was observed. In the case of
+organic-rich deposits, a thin 1 cm of dark reddish color was
+
+74
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+€na boxes used for micromorphology
+Fig. 8. Plan (left) and proﬁle (right) view of sediment alterations. In the proﬁle view, it is possible to see the position of the metal Kubie
+sampling. Scale is 10 cm.
+
+observed directly underlying the organic deposits, in addition to
+the loss of volume and charring of the organic content described
+above.
+As seen in Figs. 5 and 8, when viewed in proﬁle rubeﬁcation has
+a basin shape, with reddening being more extensive (thicker) in the
+center of the heated deposits and thinning out to its sides. This
+shape is illustrative of the way that heat transfer occurs through the
+sediments, with higher temperatures reached directly underneath
+the heat source and temperatures dramatically dropping laterally.
+3.6. Field experiment: charcoal-fueled ﬁre
+In experiment C1, charcoal was used as a fuel instead of the
+electric heat source. As stated earlier, every effort was made to keep
+the ﬁre burning at a consistent temperature, though as is often the
+case in such ﬁeld experiments, the surface temperature ﬂuctuates
+as fuel was depleted and replenished (Fig. 4f). The average temperature, however, was 790  C. The graphic pattern of heat transfer
+shows the initial vaporization of the moisture at the various depth
+intervals, but after two hours, the temperature at 2 cm below the
+surface registered 517  C, or roughly intermediate between the
+temperatures achieved under laboratory conditions for 600  C and
+950  C, and this is also true for the 6 cm and 10 cm depth intervals.
+Similar to the laboratory experiments, temperatures in the underlying deposits continued to rise well after the ﬁre was extinguished.
+At the end of the experiment, a ~1 cm thick layer of ash was formed.
+4. Discussion
+4.1. Summary of results
+Although the laws of thermodynamics for heat transfer have
+long been understood, our purpose in this paper was to focus on
+how ancient ﬁres may have affected their surrounding sediments in
+ways that could affect archaeological interpretations. Other
+
+archaeological experiments dealing with ﬁres and subsurface alterations have been carried out (Bennett, 1999; Campbell et al.,
+1995; Canti and Linford, 2000; March et al., 2014; Sievers and
+Wadley, 2008; Stiner et al., 1995; Wadley, 2009; Werts and
+Jahren, 2007). These experiments tended to focus either on a
+perspective of thermal alteration of artifacts, or under less
+controlled conditions, and often with fewer variables that may
+affect the processes. Table 2 compiles data on subsurface temperature from previous experiments, and shows that there is a wide
+variety of values reached in each of these studies, even for similar
+depths (compare with Table S1 in Supplementary Materials). For
+instance, Bennett (1999) reached temperatures of 244  C at depths
+of 15 cm below the surface in ﬁres lasting for 48 h, and Wadley
+(2009) recorded maximum temperatures of 296  C at a depth of
+10 cm. In other studies, temperatures are substantially different,
+with much lower temperatures even at shallower depths (see
+Table 2). This range of results can be due to differences in several
+experimental parameters (such as surface temperatures, ﬁre
+duration, type of substrate, moisture content, etc.), all of which
+make comparisons and speciﬁc assessments difﬁcult. It is true, of
+course, that archaeological ﬁres were built on many different kinds
+of substrates, undoubtedly varied in terms of their intensity and
+duration, the use of different kinds of fuels, the moisture content of
+the fuel, and other parameters such as the amount of oxygen
+available. While most camp ﬁres are thought to be of limited
+duration, prolonged burning events lasting for 1e3 months are
+known from ethnographic evidence (e.g., Mallol et al., 2007). Our
+goal, however, was not to reproduce the effects of ﬁre under every
+conceivable situation. Rather, what we tried to do here was to
+bracket a number of different variables in order to arrive at
+generalized results that would have the broadest possible relevance
+to archaeological situations. These results are limited to simple,
+general purpose ﬁres that would have been restricted in terms of
+size, intensity, and duration, although the results can easily be
+extrapolated to many other conditions. While the experimental
+
+276e289 318
+430
+
+296
+
+/
+
+72
+
+/
+
+271
+
+232e199
+
+855e892
+456e443
+404
+693
+
+328
+
+660
+
+286e361
+
+670
+
+177e243
+~100
+~120
+
+~150
+
+140
+80
+
+310 145
+
+90
+70
+
+110
+
+90
+85
+
+~150
+
+Temperatures recorded hourly.
+
+408
+
+244
+73.9
+
+506
+
+201
+72
+
+240
+280
+
+370
+
+480
+
+N/A
+
+350
+
+100
+95
+
+a
+
+~300
+390 250
+
+250
+
+~250
+
+~400
+~400
+500 440
+475
+
+410
+
+620 620
+N/A
+680
+
+Depth below 0 (Fire)
+1
+surface
+1.5
+(cm)
+2
+2.5
+3
+3.5
+4
+5
+6.5
+9.5
+10
+15
+25
+
+N/A 640
+
+2h
+Fire or recording
+duration
+
+48 h
+
+Alﬁsols and Clayey Sand Wet, high
+inceptisol
+silt
+clay% B
+horizon
+Sed./soil type
+
+1 he1h20
+
+610
+
+~700
+
+5h
+
+~750
+
+466e760
+
+11 h Rec
+
+562e730
+
+3 h (~6 h Rec) 36 h
+Rec
+
+11 h
+Rec
+
+13 h Rec
+
+4e6 h Rec
+
+818e995 920
+433e436 570
+
+Sandy
+loam
+(Fire5)
+Clay loam Gravel
+(ﬁres 1e2) (ﬁres 3
+e4)
+N/A
+N/A
+Silica-rich
+(Fire1) (Fire2) sand (ﬁre
+3)
+N/A (large ﬁres Sand
+with refueling)
+N/A (small
+ﬁres not
+refueled)
+Dry,
+clayey
+soil
+Wet,
+clayey
+soil
+Sand Wet, silt loam Wet,
+(volcanic ash) silty
+loam
+
+Bentsen, 2013
+March et al.,
+2014
+Campbell et al. 1995
+Bennett,
+1999,a
+Werts and
+Jahren,
+2007
+Reference
+
+Table 2
+Temperatures recorded in the subsurface from previous studies. Compare with our max. temperatures in Table S1, Supplementary Materials.
+
+Sievers and
+Wadley,
+2008
+
+Wadley 2009
+
+Canti and Linford 2000
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+75
+
+conditions may strike some as being more unrealistic (i.e., lacking
+in ecological validity), this is signiﬁcantly offset by the much higher
+internal and external validity offered by the present experimental
+design.
+The temperature of a surface ﬁre is clearly one of the more
+important independent variables examined in this study. Unfortunately, it is generally difﬁcult to estimate temperatures and durations achieve by past ﬁres based on the evidence of ﬁre residues
+alone (Stahlschmidt et al., 2015), but many studies have measured it
+experimentally. Our goal was to bracket the range of temperature
+that could be obtained under most natural settings, and so other
+experimental data provided the upper and lower temperatures that
+we used (see Table 1). Small ﬁres fueled with grasses, leaves, and
+twigs burn quickly and tend to reach only 225  C peak temperatures, although such small ﬁres would have had little to no practical
+use. Experimental bone ﬁres can have temperatures of 825  C,
+wood ﬁres can achieve maximum temperatures above 950  C, and
+our own charcoal ﬁre, C1, had an average temperature of nearly
+800  C. Using the electric heater with a lower limit of roughly
+600  C surface temperature, the experimental results can be
+applied to most small ﬁres, especially those of sufﬁcient intensity to
+leave direct evidence in archaeological deposits. On the other hand,
+our maximum limit of around 950  C may actually be a bit lower
+than the peak temperatures achieved by many past ﬁres. In our
+experiments temperatures were maintained for durations of normally 6 h or 9 h, and ﬁres that were maintained for even longer
+periods could eventually result in higher cumulative temperature
+exposures.
+What our results show is that under a wide variety of conditions,
+including the temperature and duration of the ﬁre, and given
+varying sediments and other parameters, the heat generated by a
+ﬁre will signiﬁcantly raise the temperature of sediments, and other
+objects, directly underlying it. Sediments outside a direct heat input
+will, on the other hand, show little or no thermal alterations, and
+this is true for both laterally-buried sediments or surface sediments
+just on the edge of the ﬁre itself. As it would be expected, with an
+increase in heating time, temperatures below the surface will
+continue to rise until a thermal equilibrium is reached. It is, however, within the ﬁrst two to three hours that the most signiﬁcant
+changes occur in subsurface sediments. Thus, even small ﬁres of a
+limited duration, so-called ephemeral ﬁres, could signiﬁcantly raise
+the temperature of the underlying sediments.
+Other variables, such as compactness, moisture content, and, to
+some extent, the presence of organic matter or ash in the sediments, also affect the transfer of heat to underlying sediments. The
+inﬁltration of water into underlying sediments is dependent on
+several key variables, including grain size, porosity (or compactness), the proximity of groundwater or bedrock, and, of course, the
+amount of water on the surface. Finer grains, such as clay, will
+reduce inﬁltration, effectively serving as a barrier, while coarser
+sediments, or sediments with increased porosity due to plant root
+action, will allow moisture to pass through more quickly. One of the
+bigger factors to consider in archaeological sites is whether or not
+they were sheltered from rainfall, dripping water from a roof,
+increased proximity to phreatic water level, or runoff. If they were,
+then we would expect the moisture in underlying sediments to
+vaporize relatively rapidly under a ﬁre, with the rate of vaporization
+being a function of depth.
+Organic matter works in the opposite fashion by contributing its
+own source of heat as it combusts, and thus will increase the
+amount of heat transferred to underlying sediments. The presence
+of organic matter may be visible either macro- or microscopically,
+as shown in Fig. 5. What is most interesting in this case is that the
+presence of combusted, buried organic matter will have the
+appearance of a surface ﬁre with charred organic matter overlaying
+
+76
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+a thin lens of rubeﬁed substrate, as seen in experiment H10 (see
+also discussion on combustion features black layers in Mallol et al.,
+2013b). Without closer examination, such type of deposits may be
+mistaken for a surface hearth, when in fact they are the result of
+post-depositional burning resulting from a later ﬁre higher in the
+sediments.
+In the case of a hearth built directly above previous combustionderived sediments, if the ash component still contains organic
+matter that was not completely combusted by the previous event,
+this material will initially contribute to the total amount of heat
+produced. However, once that is accomplished, then the ash itself
+tends to act as an insulator to heat transfer. The overall effect on the
+underlying sediments is somewhat complicated, however. In the
+ﬁrst place, the initial ﬁre that produced a layer of ash will have
+already heated the underlying sediments as described here, even
+though the ﬁre is producing a layer of ash itself. This is shown in the
+charcoal-fueled experiment (C1) described above. This experiment
+indicates that a buildup of ash during an initial ﬁre does not
+signiﬁcantly hamper the transfer of heat to the underlying
+sediments.
+The main point to be drawn from these experiments, then, is
+that although sediments are overall poor heat conductors, a surface
+ﬁre will still signiﬁcantly increase the temperature of subsurface
+sediments directly underlying it and any objects within them.
+While the uppermost sediments closest to the ﬁre are more greatly
+affected, temperatures of sediments 10 cme20 cm below the surface can also rise signiﬁcantly, depending primarily on the temperature of the ﬁre itself and its duration.
+4.2. Archaeological implications
+These results have signiﬁcant implications for archaeologists.
+When burned objects are recovered, even if they are not found in
+association with ﬁre residues, an assumption is often made that
+they were burned prior to or at the time of their deposition. The
+temperature values obtained in our experimental setting shows
+that substantial heat can be transferred to the subsurface and such
+
+heat will alter other objects in the ground, including lithics and
+bone (Fig. 9). Previous studies tend to focus on heat alteration of
+speciﬁc artifacts, but do not help on reconstructing under which
+conditions these temperatures are attained in the subsurface. There
+seems to be some degree of variability in terms of the temperatures
+necessary to thermally alter chert. For instance, it has been reported
+that chert can begin to display thermal alteration (cracking, crazing,
+and color changes) starting at 250  C, while the formation of a
+luster requires temperatures around 350  C (Julig et al., 1999 and
+€nder, 1983). Schmidt (2013a) reports on
+citations within; Rottla
+structural changes in ﬂints starting between 200 and 300  C as a
+result of heating (see also Schmidt, 2013b), whereas Weiner et al.
+(2015) show that ﬂints from Manot cave (Israel) have a broadening of speciﬁc FTIR peaks at temperatures above 500  C. In experiments with buried bones, Stiner et al. (1995) described black
+carbonized bones at depths of 6 cm in their experimental ﬁres. In
+their study, none of the buried bones, even those in shallower
+depths, attained a white color associated with fully calcined conditions. However, in experiments attaining longer ﬁre durations (up
+to 48 h of heating), Bennett (1999) reports on bones becoming
+blackened at depths of 10 cm and gray calcined bones in shallower
+depths between 2 and 5 cm. Fruits and seeds buried 5 cm or even
+10 cm directly below a ﬁre can be carbonized, and this carbonization can occur at temperatures as low as 152  C if such temperatures were maintained for long durations (Sievers and Wadley,
+2008). Secondary, post-depositional alteration of other types of
+artifacts can also occur. For instance Wadley (2009) clearly demonstrates that the overwhelming presence of red ochre in archaeological contexts may not necessarily relate to intentional symbolic
+choices, but due to post-depositional heating transforming originally yellow materials into shades of red ochre.
+Examination of thermally-altered sediment may also be
+misleading in terms of the reconstruction of the structure of the ﬁre
+itself. Although heat transfers primarily downward, when seen in
+cross-section the gradient in temperature is somewhat spherical.
+Thus, when viewed in section, a ﬁre that was built on a ﬂat surface
+may appear as though it was made in a depression. These results
+
+Fig. 9. Synthesis of maximum temperatures recorded both in our high-temperature (~950  C) and low-temperature (~600  C) experiments at various depths versus the threshold
+for relevant artifact alterations: 1 Bones calcined at ~650  C (Weiner, 2010); 2 Combustion of cellulose at 310  C (Werts and Jahren, 2007); 3 From 300 to 500  C combustion of the
+organic component of bones (Etok et al., 2007); 4 Structural (Schmidt, 2013a) and color changes (Buenger, 2003, p. 314) in chert starting between 200 and 300  C; 5 Carbonization of
+seeds and fruits at 152  C during long temperature exposures (Sievers and Wadley, 2008). (For interpretation of the references to color in this ﬁgure legend, the reader is referred to
+the web version of this article.)
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+are in agreement with observations made by Bellomo (1993) who
+also describes a basin-shaped conﬁguration of the oxidized sediments underneath campﬁres. A similar feature was also present in
+our C1 experiment done outside laboratory conditions and with
+actual ﬁre. In the archaeological literature, there are several instances of hearths or combustion features described as being
+concave-, basin-, or cuvette-shaped (e.g., Almeida et al., 2009;
+Vallverdú et al., 2012; Wadley, 2012) e (see also March et al.,
+2014 for experimental ﬁres built on pit features). What the experiments described here show is that this structure is not necessarily
+artiﬁcial, i.e., an intentional anthropic construction, but can instead
+simply be an expected result based on how heat penetrates underlying sediments.
+Probably the most signiﬁcant archaeological implications have
+to do with numerical chronology, including TL and OSL. Both of
+these methods rely on the measurement of trapped energy accumulated since the material being dated was last reset by exposure
+to sufﬁcient heat or light. Using the TL method as an example, it can
+thus provide a date for when a piece of ﬂint was burned, and it is
+generally assumed that this burning took place at the time or
+shortly before the object was deposited. Normally, a heating to at
+least 300e400  C is needed to reset a ﬂint (Aitken, 1985; Richter
+et al., 2011) but less heat for longer periods can also reset or,
+importantly, partially reset the clock (Aitken, 1985). As these experiments have shown, these temperatures can be achieved in a
+deposit long after its deposition. In the case of Pleistocene sediments, the deposition of 6e10 cm above an object may represent
+many thousands of years, and, of course, since heat can travel across
+stratigraphic boundaries, the dates for an underlying layer may
+represent the timing of ﬁres in an overlying layer. Thus while ﬁres
+are a necessary condition for the application of TL dating, the spatial
+relationship between ﬁres and heated artifacts is potentially an
+important complicating factor in relating dates to particular sets of
+behaviors. The same is expected to be true for OSL derived ages.
+5. Conclusions
+With the controlled experiments presented here, we aimed to
+understand the effects of heat on subsurface sediments and
+embedded artifacts. With this goal in mind, our experimental
+design included a variety of the kinds of parameters under which
+ﬁres might have occurred in the past e in effect bracketing the
+kinds of conditions surrounding past ﬁres. The problem, of course,
+is that most of these kinds of conditions are difﬁcult, if not
+impossible, to assess for archaeological evidence of ﬁres. So, instead
+of trying to perform experiments with sediments that match those
+of a particular site or level, we tried to bracket a series of different
+parameters in order to arrive at generalized inferences. Hopefully,
+most of the past ﬁres that were present in most archaeological sites
+fall somewhere within the range of parameters utilized here. While
+some ﬁres may have been a bit hotter than our maximum temperatures, or cooler than our minimum ones, or of different durations, overall it should be possible to generalize these results to
+most archaeological situations.
+The results show that ﬁres systematically contribute to signiﬁcant thermal alteration of directly underlying deposits, and such
+alterations have broader implications for archaeological interpretations and dating techniques. The obtained data allows us to
+make the following inferences:
+1. A spatially constrained ﬁre will lead to a substantial rise in
+temperatures of the deposits directly underlying it, with temperature rises dropping dramatically to its sides. This shape for
+lateral heat transfer is always similar, independent of the
+experimental conditions. Therefore, only deposits directly
+
+77
+
+underlying a heat source will be thermally altered, with little or
+no alteration in the sediments and artifacts outside the ﬁre area,
+both in deeper or shallower depths. One should also note that
+the diameter of our heated area is relatively small (26 cm in
+diameter). Substantially larger surface ﬁres are known in the
+archaeological record and these should lead to greater areas
+being affected by the overlying heat source.
+2. Although there are several variables accounting for the
+maximum temperatures reached in the subsurface (intensity of
+heat, its duration, sedimentary moisture, compaction, etc.), it is
+within the ﬁrst two to three hours of heating that the most
+signiﬁcant changes occur. A relatively-short-lived ﬁre event has,
+therefore, the potential to alter underlying deposits and leave
+traces that can be archaeologically discernable (e.g., burned artifacts or rubeﬁcation).
+3. Our results show that under a variety of different experimental
+conditions, temperatures of 200  C are routinely reached at least
+at 10 cm depth in experiments lasting for 6 h. In ﬁres of longer
+durations, and given that temperatures below surface continue
+to rise long after the heat source is extinguished, we can envision higher temperatures being reached at these depths. How
+much the temperature rises will depend on a number of factors,
+including the thickness of the accumulated ash, which will
+eventually start acting as an insulating layer.
+4. When viewed in cross-section, thermally-altered sediments will
+develop a distinctive basin-shape conﬁguration, even though
+the surface was ﬂat. This speciﬁc shape reﬂects the way heat is
+transferred to the underlying sediments, and should not be
+misinterpreted as a ﬁre intentionally built on a depression.
+Similarly, in the presence of previously buried combustible
+material, a ﬁre on top of these deposits can lead to complete or
+partial combustion of the organic components, resulting in deposits that can, at a ﬁrst glance, resemble a surface ﬁre event.
+The experiments presented here show that substantial thermalalterations of previously buried archaeological objects and sediment can occur due to a ﬁre higher in the deposits. In certain
+sedimentary contexts this may represent tens of thousands of years
+between the original deposition and the post-depositional heating
+of the materials. If the temperature and duration are sufﬁciently
+high and long, this can result in a reset or partial reset of the clock
+for luminescence dating applications, which will result in younger
+apparent ages for underlying deposits. This experiment is not the
+last word but serves as a well-documented case of observations on
+selected variables. Further research can use this study as a springboard to investigate the basic characteristics of heat transfer by
+further exploring other parameters that may have repercussions for
+archaeological evidence.
+
+Acknowledgments
+€ thel, Katharina
+We would like to thank Stefﬁ Hesse, Henrik Ro
+€rschner for their valuable supSchilling, Marcel Weiß and Nina Do
+port in raw material purchase and constructing the experimental
+apparatus. Raquel Maria developed the powder FTIR analyses
+rin provided
+presented here. Marion Hernandez and Guillaume Gue
+useful insights and comments on the effects of heat to luminescence dating and moisture content estimations. The limestone sand
+used was kindly provided by Fels-Werke GmbH, Germany. Marcel
+Weiß provided the wood ash used in the present set of experiments. We thank the Max Planck Society for their support of this
+project. Finally, we would like to extend our acknowledgments to
+the two anonymous reviewers, whose comments helped improve
+the present manuscript.
+
+78
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at http://
+dx.doi.org/10.1016/j.jas.2016.01.016.
+References
+Aitken, M.J., 1985. Thermoluminescence Dating. Academic Press, London, Orlando
+and Montreal.
+Albert, R.M., Berna, F., Goldberg, P., 2012. Insights on Neanderthal ﬁre use at Kebara
+Cave (Israel) through high resolution study of prehistoric combustion features:
+evidence from phytoliths and thin sections. Quat. Int. 247, 278e293.
+Albert, R.M., Weiner, S., Bar-Yosef, O., Meignen, L., 2000. Phytoliths in the middle
+palaeolithic deposits of Kebara Cave, Mt Carmel, Israel: study of the plant
+materials used for fuel and other purposes. J. Archaeol. Sci. 27, 931e947.
+Aldeias, V., Goldberg, P., Dibble, H.L., El-Hajraoui, M., 2014. Deciphering site formation processes through soil micromorphology at Contrebandiers Cave,
+Morocco. J. Hum. Evol. 69, 8e30.
+Aldeias, V., Goldberg, P., Sandgathe, D., Berna, F., Dibble, H.L., McPherron, S.P.,
+Turq, A., Rezek, Z., 2012. Evidence for Neandertal use of ﬁre at Roc de Marsal
+(France). J. Archaeol. Sci. 39, 2414e2423.
+Almeida, F., Moreno-García, M., Angelucci, D.E., 2009. From under the bulldozer's
+claws: the EE15 Late Gravettian occupation surface of the Lagar Velho rockshelter. World Archaeol. 41, 242e261.
+Alperson-Aﬁl, N., Richter, D., Inbar, N.G., 2007. Phantom hearths and the use of ﬁre
+at Gesher Benot Ya'aqov, Israel. PaleoAnthropology 1e15.
+Attwell, L., Kovarovic, K., Kendal, J.R., 2015. Fire in the Plio-Pleistocene: the functions of hominin ﬁre use, and the mechanistic, developmental and evolutionary
+consequences. J. Anthropol. Sci. 93, 1e20.
+Bellomo, R.V., 1993. A methodological approach for identifying archaeological evidence of ﬁre resulting from human activities. J. Archaeol. Sci. 20, 525e553.
+Bennett, J.L., 1999. Thermal alteration of buried bone. J. Archaeol. Sci. 26, 1e8.
+Bentsen, S.E., 2014. Using pyrotechnology: ﬁre-related features and activities with a
+focus on the African Middle Stone Age. J. Archaeol. Res. 22, 141e175.
+Berna, F., Goldberg, P., Horwitz, L.K., Brink, J., Holt, S., Bamford, M., Chazan, M., 2012.
+Microstratigraphic evidence of in situ ﬁre in the Acheulean strata of Wonderwerk Cave, Northern Cape province, South Africa. PNAS 109, 7593e7594.
+Boardman, S., Jones, G., 1990. Experiments on the effects of charring on cereal plant
+components. J. Archaeol. Sci. 17, 1e11.
+Braadbaart, F., Poole, I., Huisman, H.D.J., van Os, B., 2012. Fuel, Fire and Heat: an
+experimental approach to highlight the potential of studying ash and char remains from archaeological contexts. J. Archaeol. Sci. 39, 836e847.
+ve
+^que, F., Burens, A., Carozza, L., 2015.
+Brodard, A., Lacanette-Puyo, D., Guibert, P., Le
+A new process of reconstructing archaeological ﬁres from their impact on
+sediment: a coupled experimental and numerical approach based on the case
+study of hearths from the cave of Les Fraux (Dordogne, France). Archaeol.
+Anthropol. Sci. 1e15.
+Brown, K.S., Marean, C.W., Herries, A.I., Jacobs, Z., Tribolo, C., Braun, D., Roberts, D.L.,
+Meyer, M.C., Bernatchez, J., 2009. Fire as an engineering tool of early modern
+humans. Science 325, 859e862.
+Buenger, B.A., 2003. The Impact of Wildland and Prescribed Fire on Archaeological
+Resources. University of Kansas.
+Campbell, G.S., Jungbauer Jr., J.D., Bristow, K.L., Hungerford, R.D., 1995. Soil temperature and water content beneath a surface ﬁre. Soil Sci. 159, 363e374.
+Canti, M., Linford, N., 2000. The effects of ﬁre on archaeological soils and sediments:
+temperature and colour relationships. Proc. Prehist. Soc. Prehist. Soc. 385e396.
+Carmody, R.N., Wrangham, R.W., 2009. The energetic signiﬁcance of cooking.
+J. Hum. Evol. 57, 379e391.
+Cornell, R.M., Schwertmann, U., 2004. Introduction to the Iron Oxides, second ed.
+In: The Iron Oxides: Structure, Properties, Reactions, Occurences and Uses,
+pp. 1e7
+DeBano, L.F., 1989. Effects of Fire on Chaparral Soils in Arizona and California and
+Postﬁre Management Implications.
+DeBano, L.F., 1990. The effect of ﬁre on soil properties. In: Symposium on Management and Productivity of Westero-Montane Forest Soils, April 10e12, Boise,
+ID.
+Etok, S.E., Valsami-Jones, E., Wess, T.J., Hiller, J.C., Maxwell, C.A., Rogers, K.D.,
+Manning, D.A., White, M.L., Lopez-Capel, E., Collins, M.J., 2007. Structural and
+chemical changes of thermally treated bone apatite. J. Mater. Sci. 42,
+9807e9816.
+Goldberg, P., Miller, C.E., Schiegl, S., Ligouis, B., Berna, F., Conard, N.J., Wadley, L.,
+2009. Bedding, hearths, and site maintenance in the Middle Stone Age of
+Sibudu Cave, KwaZulu-Natal, South Africa. Archaeol. Anthropol. Sci. 1 (2),
+95e122.
+Goren-Inbar, N., Alperson, N., Kislev, M.E., Simchoni, O., Melamed, Y., Ben-Nun, A.,
+Werker, E., 2004. Evidence of hominin control of ﬁre at Gesher Benot Ya'aqov,
+Israel. Science 304, 725e727.
+ry-Parisot, I., 2014. From Evenk campﬁres to prehistoric hearths:
+Henry, A., The
+charcoal analysis as a tool for identifying the use of rotten wood as fuel.
+J. Archaeol. Sci. 52, 321e336.
+Henry, D., 2012. The palimpsest problem, hearth pattern analysis, and Middle
+Paleolithic site structure. Quat. Int. 247, 246e266.
+Julig, P.J., Long, D.G.F., Schroeder, H.B., Rink, W.J., Richter, D., Schwarcz, H.P., 1999.
+
+Geoarchaeology and new research at Jerf al-Ajla Cave, Syria. Geoarchaeol. An
+Int. J. 14, 821e848.
+Karkanas, P., Shahack-Gross, R., Ayalon, A., Bar-Matthews, M., Barkai, R., Frumkin, A.,
+Gopher, A., Stiner, M.C., 2007. Evidence for habitual use of ﬁre at the end of the
+Lower Paleolithic: site-formation processes at Qesem Cave, Israel. J. Hum. Evol.
+53, 197e212.
+Lin, S., Rezek, Z., Dibble, H.L., 2016. Experimental design and experimental inference
+in stone artifact archaeology. In: Collard, M. (Ed.), Lithics, Evolution, Science.
+Amerind Foundation (in press).
+Lin, S.C., 2014. Experimentation and Scientiﬁc Inference Building in the Study of
+Hominin Behavior through Stone Artifact Archaeology. University of Pennsylvania (Unpublished).
+Linford, N., Platzman, E., 2004. Estimating the approximate ﬁring temperature of
+burnt archaeological sediments through an unmixing algorithm applied to
+hysteresis data. Phys. Earth Planet. Interiors 147, 197e207.
+ndez, C.M., Cabanes, D., Machado, J., Sistiaga, A., Pe
+rez, L., Galva
+n, B.,
+Mallol, C., Herna
+2013a. Human actions performed on simple combustion structures: an experimental approach to the study of Middle Palaeolithic ﬁre. Quat. Int. 315, 3e15.
+ndez, C.M., Cabanes, D., Sistiaga, A., Machado, J., Rodríguez, T.,
+Mallol, C., Herna
+rez, L., Galv
+Pe
+an, B., 2013b. The black layer of Middle Palaeolithic combustion
+structures. Interpretation and archaeostratigraphic implications. J. Archaeol. Sci.
+40, 2515e2537.
+Mallol, C., Marlowe, F.W., Wood, B.M., Porter, C.C., 2007. Earth, wind, and ﬁre:
+ethnoarchaeological signals of Hadza ﬁres. J. Archaeol. Sci. 34, 2035e2052.
+March, R.J., Lucquin, A., Joly, D., Ferreri, J.C., Muhieddine, M., 2014. Processes of
+formation and alteration of archaeological ﬁre structures: complexity viewed in
+the light of experimental approaches. J. Archaeol. Method Theory 21, 1e45.
+Mentzer, S., 2014. Microarchaeological approaches to the identiﬁcation and interpretation of combustion features in prehistoric archaeological sites. J. Archaeol.
+Method Theory 21, 616e668.
+Mentzer, S.M., 2009. Bone as a fuel source: the effects of initial fragment size disry-Parisot, I., S.C, Henry, A. (Eds.), Gestion des Combustibles
+tribution, in. In: The
+au Paleolithique et au Mesolithique: Nouveaux Outiles, Nouvelles Interpretations, UISPP Proceedings of the XV World Congress Oxford: Archaeopress (BAR International Series 1914). Lisbon, pp. 53e64.
+Miller, C.E., Conard, N., Goldberg, P., Berna, F., 2010. Dumping, sweeping and
+trampling: experimental micromorphological analysis of anthropogenically
+ry-Parisot, I., Chabal, L., Costamagno, S.
+modiﬁes combustion features. In: The
+(Eds.), The Raphonomy of Burned Organix Residues and Combustion Features in
+Archaeological Contexts, Palethnologie, Proceedings of the Round Table, Valbonne, May 27e29, pp. 25e37.
+Pasto, I., Allue, E., Vallverdu, J., 2000. Mousterian Hearths at Abric Romani, Catalonia
+(Spain). In: Neanderthals on the Edge Oxford. Oxbow Books, pp. 59e67.
+Preece, R., Gowlett, J., Parﬁtt, S., Bridgland, D., Lewis, S., 2006. Humans in the
+Hoxnian: habitat, context and ﬁre use at Beeches Pit, West Stow, Suffolk, UK.
+J. Quat. Sci. 21, 485e496.
+Richter, D., Alperson-Aﬁl, N., Goren-Inbar, N., 2011. Employing TL methods for the
+veriﬁcation of macroscopically determined heat alteration of ﬂint artefacts from
+palaeolithic contexts. Archaeometry 53, 842e857.
+Roebroeks, W., Villa, P., 2011. On the earliest evidence for habitual use of ﬁre in
+Europe. Proc. Natl. Acad. Sci. U. S. A. 108, 5209e5214.
+Rottl€
+ander, R.C., 1983. Einführung in die naturwissenschaftlichen Methoden in der
+Arch€
+aologie. Verlag Archaeologica Venatoria, Institut für Vorgeschic der Universit€
+at Tübingen.
+Ruan, H.D., Frost, R.L., Kloprogge, J.T., Duong, L., 2002. Infrared spectroscopy of
+goethite dehydroxylation: III. FT-IR microscopy of in situ study of the thermal
+transformation of goethite to hematite. Spectrochim. Acta Part A Mol. Biomol.
+Spectrosc. 58, 967e981.
+res lithiques: Que se passe-tSchmidt, P., 2013a. Le traitement thermique des matie
+il lors de la chauffe?. In: BAR International Series 2470.
+Schmidt, P., 2013b. What causes failure (overheating) during lithic heat treatment?
+Archaeol. Anthropol. Sci. 1e6.
+Schwertmann, U., 1993. Relations between Iron Oxides, Soil Color, and Soil Formation, 31 ed, pp. 51e69.
+, P., Perdaen, Y., 2006. The ‘invisible’ hearths: a contribution to
+Sergant, J., Crombe
+the discernment of Mesolithic non-structured surface hearths. J. Archaeol. Sci.
+33, 999e1007.
+Shahack-Gross, R., Berna, F., Karkanas, P., Lemorini, C., Gopher, A., Barkai, R., 2014.
+Evidence for the repeated use of a central hearth at Middle Pleistocene (300 ky
+ago) Qesem Cave, Israel. J. Archaeol. Sci. 44, 12e21.
+Sievers, C., Wadley, L., 2008. Going underground: experimental carbonization of
+fruiting structures under hearths. J. Archaeol. Sci. 35, 2909e2917.
+Stahlschmidt, M.C., Miller, C.E., Ligouis, B., Hambach, U., Goldberg, P., Berna, F.,
+Richter, D., Urban, B., Serangeli, J., Conard, N.J., 2015. On the evidence for human
+€ ningen. J. Hum. Evol.
+use and control of ﬁre at Scho
+Stiner, M.C., Kuhn, S.L., Weiner, S., Bar-Yosef, O., 1995. Differential burning, recrystallization, and fragmentation of archaeological bone. J. Archaeol. Sci. 22,
+223e237.
+ry-Parisot, I., 2002. Fuel management (bone and wood) during the lower
+The
+Aurignacian in the Pataud rock shelter (Lower Palaeolithic, Les Eyzies de Tayac,
+Dordogne, France). Contribution of experimentation. J. Archaeol. Sci. 29,
+1415e1421.
+ry-Parisot, I., Henry, A., 2012. Seasoned or green? Radial cracks analysis as a
+The
+method for identifying the use of green wood as fuel in archaeological charcoal.
+J. Archaeol. Sci. 39, 381e388.
+
+V. Aldeias et al. / Journal of Archaeological Science 67 (2016) 64e79
+ry, I., Gril, J., Vernet, J.L., Meignen, L., Maury, J., 1996. Coal used for fuel at two
+The
+prehistoric sites in Southern France: Les Canalettes (Mousterian) and Les
+Usclades (Mesolithic). J. Archaeol. Sci. 23, 509e512.
+Toffolo, M.B., Boaretto, E., 2014. Nucleation of aragonite upon carbonation of calcium oxide and calcium hydroxide at ambient temperatures and pressures: a
+new indicator of ﬁre-related human activities. J. Archaeol. Sci. 49, 237e248.
+
+, A., Bartrolí, R., Campeny, G., Carrancho, A.,
+Vallverdú, J., Alonso, S., Bargallo
+
+ sito, I., Fontanals, M., Gabucio, J., Go
+mez, B., Prats, J.M., San
+~ udo, P., Sole
+, A.,
+Expo
+Vilalta, J., Carbonell, E., 2012. Combustion structures of archaeological level O
+and mousterian activity areas with use of ﬁre at the Abric Romaní rockshelter
+(NE Iberian Peninsula). Quat. Int. 247, 313e324.
+, I., 2001. The deﬁnition of spatial units in Middle Palaeolithic
+Vaquero, M., Pasto
+sites: the hearth-related assemblages. J. Archaeol. Sci. 28, 1209e1220.
+Wadley, L., 2009. Post-depositional heating may cause over-representation of redcoloured ochre in stone age sites. South Afr. Archaeol. Bull. 64, 166e171.
+
+79
+
+Wadley, L., 2012. Some combustion features at Sibudu, South Africa, between
+65,000 and 58,000 years ago. Quat. Int. 247, 341e349.
+Weiner, S., 2010. Microarchaeology beyond the Visible Archaeological Record
+(Cambridge, Cambridge).
+Weiner, S., Brumfeld, V., Marder, O., Barzilai, O., 2015. Heating of ﬂint debitage from
+Upper Palaeolithic contexts at Manot Cave, Israel: changes in atomic organization due to heating using infrared spectroscopy. J. Archaeol. Sci. 54, 45e53.
+Werts, S.P., Jahren, A.H., 2007. Estimation of temperatures beneath archaeological
+campﬁres using carbon stable isotope composition of soil organic matter.
+J. Archaeol. Sci. 34, 850e857.
+Wrangham, R.W., Jones, J.H., Laden, G., Pilbeam, D., Conklin-Brittain, N., 1999. The
+raw and the stolen. Curr. Anthropol. 40, 567e594.
+Yravedra, J., Uzquiano, P., 2013. Burnt bone assemblages from El Esquilleu cave
+(Cantabria, Northern Spain): deliberate use for fuel or systematic disposal of
+organic waste? Quat. Sci. Rev. 68, 175e190.
+
+

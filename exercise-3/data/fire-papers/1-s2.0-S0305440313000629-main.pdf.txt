@@ -1,0 +1,1638 @@
+Journal of Archaeological Science 40 (2013) 3432e3452
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Geoarchaeological investigations at Diepkloof Rock Shelter, Western
+Cape, South Africa
+Christopher E. Miller a, *, Paul Goldberg b, c,1, Francesco Berna b, d,1, 2
+a
+
+Institute for Archaeological Sciences, University of Tübingen, Rümelinstr. 23, 72070 Tübingen, Germany
+Department of Archaeology, Boston University, 675 Commonwealth Ave., Boston, MA 02215, USA
+c
+The Role of Culture in Early Expansions of Humans (ROCEEH), Heidelberg Academy of Science, University of Tübingen, Rümelinstr. 23, 72070 Tübingen,
+Germany
+d
+Department of Archaeology, Simon Fraser University, 8888 University Drive, Burnaby, British Columbia, Canada V5A 1S6
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 22 October 2012
+Received in revised form
+15 February 2013
+Accepted 16 February 2013
+
+The sedimentary sequence at Diepkloof Rock Shelter formed through a complex interaction of depositional and post-depositional processes and was variously inﬂuenced by biogenic, geogenic, and
+anthropogenic agents. Here, we present the results of a micromorphological study of the sediments at
+Diepkloof, focusing in particular on the numerous anthropogenic inputs and modiﬁcations recorded
+within the sequence. By applying the microfacies concept, we were able to identify hearth burning and
+maintenance, bedding construction and burning, and surface modiﬁcation by trampling as major processes that contributed to the formation of the site. The human activities recorded within the sediments
+show a marked change throughout the sequence, implying a shift in the use of the site over time. The
+present study also provides a context for evaluating other classes of artifacts and data collected from the
+site.
+Ó 2013 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Middle Stone Age
+Micromorphology
+FTIR
+Site formation processes
+Combustion features
+
+1. Introduction
+Excavations at Diepkloof Rock Shelter (DRS) have yielded a
+long, cultural sequence spanning MIS 5e3 and including pre-Still
+Bay, Still Bay (SB), Howiesons Poort (HP), post-HP and Later Stone
+Age (LSA) occupations (Table 1) (Parkington et al., 2013; Porraz
+et al., 2013; Tribolo et al., 2013). Such a complete sequence is
+unusual in South Africa. Therefore, DRS provides a rare opportunity to investigate the cultural evolution of modern humans living
+along the western coast of southern Africa during the Middle
+Stone Age (MSA). The archaeological record of DRS, as with any
+archaeological site, does not consist solely of chipped stone, ochre,
+eggshell containers, and ﬂoral and faunal remains. Rather, these
+materials are embedded within a sedimentary matrix that provides the ultimate context for the interpretation of the site
+(Goldberg and Berna, 2010). The present geoarchaeological study
+investigates the site formation processes at DRS, emphasizing the
+
+* Corresponding author. Tel.: þ49 (0) 7071 29 76 511.
+E-mail addresses: christopher.miller@uni-tuebingen.de (C.E. Miller), paulberg@
+bu.edu (P. Goldberg), fberna@bu.edu, francesco_berna@sfu.ca (F. Berna).
+1
+Tel.: þ1 617 358 1666.
+2
+Tel.: þ1 778 782 9674.
+0305-4403/$ e see front matter Ó 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2013.02.014
+
+roles that various depositional and post-depositional agents have
+played in forming this important archaeological sequence.
+Geoarchaeological research at DRS has focused on two main
+issues in the interpretation of the sequence and site. First, we
+wished to investigate the integrity of the various layers and contexts, testing hypotheses developed from the analysis of various
+classes of artifacts. Speciﬁcally, our investigation addresses the
+following questions about the sequence: do we see major depositional hiatuses in the sequence? Do transitions between various
+technocomplexes reﬂect longer-term periods of cultural change, or
+do they represent abrupt changes that have been masked by later
+post-depositional processes, such as bioturbation? And, are precocious technological and symbolic artifacts located within stratigraphically secure contexts?
+Secondly, we wished to identify the various geogenic, biogenic,
+and anthropogenic processes that led to the formation of the DRS
+sequence and understand how these processes changed over time.
+Through the use of micromorphology, geoarchaeologists are able to
+isolate different agents and processes that form a site, making it
+possible to identify human actions that helped to create the geoarchaeological record (Courty et al., 1989). Thus, with the appropriate analytical tools, geoarchaeologists treat deposits as proper
+artifacts (Goldberg and Bar-Yosef, 1998; Goldberg and Berna, 2010;
+Miller, 2011), and by identifying the various human activities that
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+Table 1
+List of Stratigraphic Units (SUs) present in the Main Sector proﬁle (K 6/7eM 6/7)
+and sampled for micromorphological analysis. Corresponding Lithostratigraphic
+Units (LUs) and Technocultural subdivisions (Porraz et al., 2013) are also given. The
+reported Luminescence ages are averages of dates obtained from multiple samples
+from the same SUs, as detailed in Table 3 of Tribolo et al. (2013). Note that the
+averaged date for the Late HP, indicated in parentheses, was obtained from SUs
+OB2e4 in the “Back Sector” (Fig. 2), as described in Tribolo et al. (2013).
+
+3433
+
+that have undergone low-grade metamorphism. Differential
+erosion of the relatively horizontal-lying beds of the TMG at
+Diepkloof is responsible for the formation of both DRS and Diepkloof Kraal. The erosion of weaker, underlying beds, particularly
+a shaley member found at the back of the shelter (Dayet et al.,
+2013), created instability in the more resistant, overlying quartzitic beds at the koppie, leading to extensive collapse and the formation of an overhang. The sizes of rocks that have fallen from the
+walls and roof of the shelter vary from tens of cms to several ms in
+diameter. A large boulder of rockfall (about 13 m across) at the
+entrance to DRS (Fig. 1) is likely responsible for the thick accumulation of sedimentary deposits within the shelter, since it
+formed a semi-enclosed space that protected the site from erosive
+processes.
+The ca. 200 m2 of space within the shelter is largely ﬁlled with
+sediments of variable thickness that accumulated behind this
+boulder. Lenoble and Martineau (2003) used a penetrometer survey to estimate that the thickest accumulations were within the
+K6eL6 sector, which is located toward the entrance of the shelter
+(Parkington et al., 2013). A deep sounding within these squares has
+uncovered a ca. 3.1 m thick sequence. It is not clear if the current
+base of excavation, which ended on top of an accumulation of
+quartzite blocks, is close to bedrock, or if the deposits continue
+signiﬁcantly below (see Parkington et al., 2013, for a detailed discussion of the excavation grid and history of research). Although
+ﬁeld observations from different parts of the excavation trench
+have been included in the geoarchaeological study, the results and
+interpretations presented here are based largely on samples and
+observations collected from the K6eM6 sector, which forms part of
+the Main Sector (M5eM9/N5eN9) used in other analyses (Texier
+et al., 2013) (Fig. 2).
+1.2. Micromorphology and microfacies analysis
+
+contributed to the accumulation of deposits at DRS, we are able to
+construct interpretations of past human behavior. Speciﬁcally, we
+wished to address the following questions: what past human activities contributed to the formation of the sequence? How do these
+activities vary diachronically? And, does the diachronic variation in
+past human activities reﬂect changes in the settlement dynamics of
+the MSA inhabitants of DRS?
+1.1. The site and its geographical and geological setting
+DRS, along with the nearby shelter of Diepkloof Kraal, forms a
+complex of sites (“Diepkloof”) located ca. 180 km north of Cape
+Town within a remnant butte, or koppie, of bedded, quartzitic
+sandstone of the Table Mountain Group (TMG). The sites sit ca.
+100 m above the southern shore of the Verlorenvlei River, which
+meets the Atlantic Ocean at Elandsbaai, approximately 14 km
+northwest of Diepkloof (Parkington et al., 2013). The Ordovician
+TMG dominates the bedrock geology around Diepkloof, and consists of bedded sandstones, siltstones, shales, and conglomerates
+
+In this study we apply the method of micromorphology, coupled
+with detailed ﬁeld observations and Fourier Transform infrared
+(FTIR) spectroscopy of loose sediment samples. Micromorphology
+is the study of intact blocks of sediment that have been indurated
+with a polyester resin, sliced, and made into petrographic thin
+sections. The power of this method lies not just in its ability to
+identify the sedimentary components of an archaeological deposit,
+but in its ability to identify the spatial relationship of sedimentary
+components, microfabrics, and post-depositional features. Therefore, micromorphology is ideal for the study of sites such as DRS,
+where a complex interaction between geogenic, biogenic, and
+anthropogenic processes has led to the formation of the archaeological record.
+Within the Main Sector at DRS, more than 50 stratigraphic units
+(SUs) have been identiﬁed. Most of these SUs do not represent a
+single depositional event, but rather are complexes of discontinuous lenses and beds that form identiﬁable stratigraphic entities
+that can be traced across the area of excavation. If we were to
+count every lens, bed or lamination visible within the DRS
+sequencedeach of which represents a single, depositional
+eventdwe would number them in the hundreds, if not thousands.
+Therefore, it is not practical, or productive, to describe each and
+every depositional event individually. Rather, we have chosen to
+use the concept of microfacies (Courty, 2001; Flügel, 2004;
+Goldberg et al., 2009) to identify key types of deposits that occur
+repeatedly throughout the sequence. At DRS, the individual depositional units e in the form of discontinuous beds, lenses and
+laminations e are referred to as microfacies units (MF units). These
+units in turn are classiﬁed into microfacies types (MF types). Multiple MF units form single stratigraphic units (SUs), which were
+identiﬁed in the ﬁeld and form the main units of analysis for
+
+3434
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+Fig. 1. Diepkloof, the site. A) The Diepkloof complex, with Diepkloof Rock Shelter (DRS) and Diepkloof kraal (DK) indicated. These two shelters formed through differential erosion
+of beds within the Table Mountain group (TMG). B) A large boulder (note people on top for scale) at the entrance to DRS. This boulder created a semi-enclosed space that hindered
+erosive processes, allowing for the accumulation of sediments within the shelter.
+
+excavation and other studies. The excavators gave the SUs names
+(e.g., “Jeff”), which occur in alphabetical order from the top to the
+bottom of the sequence (Parkington et al., 2013). In the geoarchaeological study, we grouped these SUs into four lithostratigraphic units (LUs) that are useful for evaluating larger scale
+diachronic variations in the sequence (Figs. 3 and 4).
+The microfacies concept has been successfully applied in several
+geoarchaeological studies of site formation processes (Courty,
+
+2001; Karkanas et al., 2011; Villagran et al., 2011), including at
+the MSA site of Sibudu, South Africa (Goldberg et al., 2009), which
+has many similarities with DRS. MF types are identiﬁed based on
+the presence of different sedimentary components and their
+structural organization, which can be informative about the mode
+and environment of deposition. At archaeological sites, MF units
+can form through geogenic, biogenic, and anthropogenic processes,
+or a combination of all three. When the depositional agent of the
+
+Fig. 2. Excavation plan of DRS. Micromorphology samples were collected from the “Main Sector.” The location of the proﬁle drawing illustrated in Fig. 3 is indicated by the thick, red
+line. Geoarchaeological ﬁeld observations mentioned in the text were also conducted for the “Trench” and for the “Back Sector”. (For interpretation of the references to color in this
+ﬁgure legend, the reader is referred to the web version of this article.)
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+3435
+
+Fig. 3. The 3.1-m-thick sedimentary sequence of L6/7 and M6/7 at DRS (Fig. 2), showing the sampling locations for micromorphology. LUs 1e4 are indicated, along with the main
+technocultural subdivisions (Porraz et al., 2013), and the stratigraphic occurrence of engraved ostrich eggshells (Texier et al., 2013).
+
+MF unit is largely anthropogenic, the geoarchaeologist can identify
+the human activities responsible for its formation. In particular, by
+examining the anthropogenic MF units, and associations of MF
+types, we are able to interpret the various human actions and behaviors that inﬂuenced the formation of the geoarchaeological
+record.
+One of the strengths of the microfacies approach is that the
+individual anthropogenic MF units possess an inherent spatial
+component. In other words, the ﬁnal human activity that inﬂuenced the formation of the MF unit occurred where it is found.
+Therefore, microfacies analysis of stacked anthropogenic deposits
+allows for a spatial reconstruction of human activities within a site.
+The spatial analysis can incorporate diachronic variation in activities (Goldberg et al., 2009) or lateral variations in activities
+(Villagran et al., 2011; Courty, 2001). The present geoarchaeological
+research at DRS has focused on a column of samples from the Main
+Sector, and so is mostly concerned with diachronic trends in MF
+type variability. Future research at the site will expand the scope of
+analysis to incorporate lateral variation in MF types.
+
+2. Methods
+In 2008 we collected 15 block samples (designated DRS-08-01
+through DRS-08-15) from the east proﬁle of squares L6eM6 in
+the Main Sector of the site (Fig. 3). The blocks of sediment were cut
+from the proﬁle wall and wrapped in plaster bandages in order to
+preserve their integrity. Following transport to the Geoarchaeology
+Laboratory at the University of Tübingen, the blocks were oven
+dried at a temperature of 60  C for ca. 24 h. The samples were then
+indurated under vacuum in a mixture of unpromoted polyester
+resin (Viscovoss), styrene, and MEKP-hardener. Once the mixture
+had achieved a gel-like consistency, the samples were heated again
+at 60  C overnight. The hardened blocks were then sliced and
+subsampled for thin sectioning. Spectrum Petrographics (Vancouver, WA, USA) and P. Kritikakis of the Micromorphology Laboratory
+at the University of Tübingen produced the thin sections, grinding
+the samples to 30m thickness. In total, 45 thin sections were produced, providing nearly complete coverage of the 3.1-m sequence
+in the Main Sector. Thin sections from Spectrum measure
+
+3436
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+have either an anthropogenic, geogenic, or biogenic origin,
+although in some cases, this origin is not always easy to determine.
+A list and description of the sedimentary components identiﬁed in
+thin sections from DRS is included in (Table 2).
+3.2. Diagenetic minerals
+
+Fig. 4. A schematic representation of the different analytical units used in this and
+other studies. Individual microfacies units (MF units) consist of distinct beds, laminations and lenses and are the smallest analytical unit used in the geoarchaeological
+study. Groups of MF units form stratigraphic units (SUs) which were deﬁned in the
+ﬁeld and used as the basic unit of excavation. The SUs were grouped in this study into 4
+lithostratigraphic units (LUs) that were identiﬁed based on larger-scale similarities in
+appearance between the SUs.
+
+50  75 mm and thin sections from Tübingen measure 60  90 mm.
+The thin sections were observed under the naked eye and under
+magniﬁcation (25e200) using a Zeiss Axio Imager petrographic
+microscope with plane-polarized light (PPL), cross-polarized light
+(XPL), oblique incident light (OIL), dark ﬁeld illumination and bluelight ﬂuorescence. Analysis of the thin sections followed procedures described by Stoops (2003) and Courty et al. (1989).
+To compliment ﬁeld and micromorphological analyses, FTIR
+analysis on loose samples was conducted using a Nicolet Nexus 470
+FTIR spectrometer at the Laboratory of MicroStratigraphy at Boston
+University. Representative FTIR spectra were obtained by grinding a
+few tens of micrograms of sample using an agate mortar and pestle.
+About 0.1 mg or less of the sample was mixed with about 50 mg of
+KBr (IR-grade). A 7-mm pellet was made using a hand press (Qwik
+Handi-Press, Spectra-Tech Industries Corporation) without evacuation. The spectra were collected between 4000 and 400 cm1 at
+4 cm1 resolution. The composition of the acquired spectra was
+analyzed by searching relevant standard spectral libraries available
+in-house and from research institutions (Weiner, 2010).
+3. Results
+
+Diagenetic minerals are found throughout the DRS sequence
+and along the walls of the rock shelter itself. In 2010, we collected
+several loose samples of visible authigenic minerals from the
+sediment and samples from the shelter wall for mineralogical
+analysis. Our sampling strategy was aimed at gaining a preliminary
+understanding of the diagenetic minerals present.
+A common secondary mineral at DRS is gypsum (CaSO4$2H2O).
+Within the sedimentary sequence, gypsum is found as soft, powdery nodules, varying from 1 mm in diameter up to 1 cm or more.
+Large crystals of gypsum are also present. Gypsum is also found
+along the shelter walls, where it forms long streaks below ledges on
+which birds roost.
+Also along the shelter walls are white, crystalline minerals
+which form in cracks. X-ray diffraction analysis (conducted by
+Laure Dayet, University of Bordeaux 3) of this mineral revealed it to
+be sveite (KAl7(NO3)4(OH)16Cl2$8H2O). Niter (KNO3) is another
+common nitrate mineral found at DRS, but so far it has been
+identiﬁed only in speciﬁc locations of the site. It is found as a crust
+cementing the surface of the sediments at the site and also as a
+crust along a large boulder which is part of the large rock-fall event
+near the entrance to the site. The crust along the boulder extends
+throughout the entire sedimentary sequence in squares K5/6 and
+L5/6. Spectral peaks associated with nitrates have been found in the
+sedimentary sequence at DRS, but we were not able to assign them
+to any speciﬁc mineral, although minerals resembling nitratite
+(NaNO3) were found in thin section.
+Secondary phosphates are relatively common at DRS and take
+the form of mm-sized, yellowish nodules. FTIR analysis indicated
+the phosphates as dahllite (Ca10(PO4)6(OH)2). Other types of
+phosphates were not identiﬁed in our limited mineralogical analysis, but montgomeryite (Ca4MgAl4(PO4)6(OH)4$12(H2O)) was
+tentatively detected in several thin sections.
+Halite (NaCl), although not generally well preserved in thin
+section, has been reported at DRS by Lenoble (2003).
+3.3. Microfacies
+We recognized seven major MF types e with several subdivisions e within the analyzed sequence at DRS. In Table 3 we
+present descriptions of the MF types, some of which are similar to
+those described at Sibudu (Goldberg et al., 2009). However, the
+deposits from DRS and Sibudu are different enough so that we
+could not directly apply the Sibudu microfacies to the DRS analysis.
+When parallels exist between the two sites, they are indicated in
+Table 3. Photomicrographs of each of the MF types are provided in
+Fig. 5.
+3.4. The stratigraphic sequence and lithostratigraphic units
+Based on ﬁeld observations, we can divide the DRS sequence
+into four distinct lithostratigraphic units (LUs) (Fig. 6). Below we
+present ﬁeld descriptions of the different LUs, along with micromorphological observations.
+
+3.1. Sedimentary components
+Although the sediments at DRS appear very heterogenous in the
+ﬁeld, they are composed of only a few key components that are
+present in variable amounts within different SUs. The components
+
+3.4.1. Lithostratigraphic unit 1
+LU 1, approximately 40 cm thick, is at the base of the sequence
+and corresponds with SUs Nel, Nina, Noel and Mary. Nel is a dark
+reddish brown (5 YR 3/3) silty sand. No sedimentary structures are
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+3437
+
+Table 2
+List and description of components identiﬁed in thin sections of sediment from DRS.
+Components
+
+Description and notes
+
+Sand- and silt-sized grains of
+quartz and other
+siliciclastic minerals
+
+A ubiquitous geogenic component of the sediments at DRS is rounded, ﬁne to medium sand-sized grains of quartz. This sand has its
+ultimate origin in the quartzitic sandstones of the TMG as demonstrated by the sutured rims of many of the sand grains. Most of the
+sand grains were likely deposited as a result of disaggregation of the shelter walls, although some may have a more complex, aeolian
+history. Sand dunes and sheet sands form the local Sandveld landscape around Diepkloof and are a potential minor source for some
+of the sand-sized particles in the site. Some degree of aeolian input to DRS is suggested by the presence of silt-sized grains of quartz
+in some SUs. However, silt is often associated with ashy deposits, suggesting that it may have been transported to the site on
+vegetation used for fuel. Some of the silt could also be derived from the disaggregation of silty members of the TMG bedrock within
+the shelter.
+Occasional feldspar grains and micas are present in the DRS sediment. Like the quartz sand grains, these grains are most likely
+derived from the TMG bedrock. The mica in particular is derived from beds of shale or slate found within the bedrock of the shelter.
+
+“plaquettes” and “éboulis”
+
+Larger fragments of the shelter bedrock are present within the DRS sediments as “plaquettes,” or ﬂat plates of quartzitic sandstone
+produced by salt-induced spalling along the roof and walls of the shelter. Spalling exploited the bedding planes of the quartzitic
+sandstone, forming fragments that are usually 1 cm thick, or less, and 5e10 cm in length, although some larger ones are occasionally
+present. The platy plaquettes are morphologically distinct from blocks of quartzite éboulis found within the shelter’s sediments that
+were deposited as spalling exploited vertical cracks within the bedrock. The inhabitants used the quartzitic éboulis as a raw material
+and also likely transported quartzite from other locations to the shelter.
+
+Silcrete
+
+Pieces of silcrete are also identiﬁable in the micromorphological thin sections and have a clear anthropogenic origin. They were
+transported from both local and exotic locations (Porraz et al., 2013). Some of the fragments have faceted edges, demonstrating their
+relationship to chipped-stone artifacts (Angelucci, 2010)
+
+Organic silt and humiﬁed
+organic matter
+
+Silt-sized fragments of ﬁnely comminuted, humiﬁed organic material make up a signiﬁcant portion of the sediment. The deposition
+of this organic material, as with the larger macrobotanical remains (Cartwright, 2013), is likely a result of natural and cultural
+processes. Some of the organic silt may have originated as plants which were transported to the site by humans for subsistence or
+raw material. However, some of the organic silt may have originated as plant material brought to the site by nesting birds or other
+animals. Another natural source of ﬁnely comminuted organic material is herbivore feces. Windblown leaves and small twigs may
+also account for some of the accumulation of organic silt.
+
+Charcoal
+
+Fragments of charcoal, ranging from silt-sized to over 1 cm, are ubiquitous throughout the DRS sequence. In some SUs the charcoal
+fragments appear rounded, whereas in others they appear angular. Fibrous charcoal (Goldberg et al., 2009) is also present, and likely
+derives from monocotyledonous plants, such as sedges, grasses or reeds (Miller and Sievers, 2012; Wadley et al., 2011). The woody
+charcoal at DRS is sometimes highly fragmented or comminuted as a result of secondary formation of minerals within the charcoal,
+usually gypsum.
+
+Ashes
+
+Ashes, in the form of rhombic, calcareous pseudomorphs of calcium oxalate crystals (Courty et al., 1989; Canti, 2003; Shahack-Gross
+and Ayalon, 2012), are present throughout the sequence, but not in every SU. Some of the ash rhombs appear very fresh, whereas
+other ashes appear cemented or recrystallized. Considering the lithology of the rock shelter, most primary and secondary carbonates
+present within the sediments most likely derive from plant ashes.
+
+Phytoliths
+
+Some of the ash deposits at DRS contain numerous phytoliths, often articulated and laminated. These deposits resemble those found
+at the MSA site of Sibudu, where they were interpreted as the remains of burnt plant bedding (Goldberg et al., 2009; Wadley et al.,
+2011). However, the phytoliths at DRS are intimately associated with calcareous material, which is not often the case at Sibudu.
+Experimental combustion of sedges (the most likely plant used for bedding construction at Sibudu) produced laminated phytolith
+deposits without a signiﬁcant calcareous ash component (Miller and Sievers, 2012). Continuing botanical studies will help identify
+the source of the phytoliths at DRS.
+
+Other combustion-derived
+residues
+
+In addition to ash, charcoal, phytoliths, and burnt bones, other combustion-derived residues are evident in thin section, most notably
+fat-derived char (Goldberg et al., 2009). Although other combustion derived residues are likely present, these are more readily
+identiﬁed by organic petrological analysis (Goldberg et al., 2009).
+
+Coprolites
+
+Occasional fragments of carnivore coprolites are present, but rare, in the DRS sediments. Fragments of carnivore coprolites are
+phosphate rich and exhibit fur pseudomorphs and gas bubbles (Horwitz and Goldberg, 1989).
+
+Bone
+
+Bone fragments are numerous throughout the DRS sequence, and range from sand-sized fragments to pieces several centimeters in
+width. Most of the bones appear burnt, and some appear recrystallized as a result of diagenetic processes. The high degree of
+fragmentation of bones at DRS appears to be the result of trampling (Miller et al., 2009) and also of secondary mineral formation
+(mostly gypsum) within the bone structure. A single burnt ﬁsh bone was also identiﬁed in thin section.
+
+Eggshell
+
+Ostrich eggshell is relatively numerous in thin section, and can be identiﬁed by the palisade of calcite crystals oriented perpendicular
+to the outer wall of the eggshell surface. Most of the ostrich eggshell is well preserved, although some fragments are partially
+dissolved, particularly in MF units that appear largely decalciﬁed. Some fragments of ostrich eggshell have been fragmented by
+secondary growth of gypsum crystals within the shell.
+
+visible, but plaquettes (typically 1e5 cm in width) and other coarse
+components are oriented horizontally. Nina is particularly ashy
+(2.5 YR 6/2, light brownish gray) and forms a wedge that abuts a
+large (20 cm wide) block of quartzitic sandstone that partially deﬁnes the base of excavation. Angular fragments of bone are present
+and appear very white in the ﬁeld, possibly calcined. There are
+several old krotovinas within this LU, suggesting that it has been
+inﬂuenced by bioturbation in the past.
+MF units classiﬁed as MF types “coarse, heterogenousdsand”
+(MF type 1a), “microgranular” (MF type 3), and “ash” (MF type 5)
+are present within LU 1. The lowermost MF unit in LU 1 is represented by MF type 1a. Here the interstitial space between the
+
+quartz sand grains is ﬁlled with organic silt. Calcareous ashes are
+present and generally well preserved, although it appears locally
+decalciﬁed in places. Rounded fragments of charcoal and subrounded fragments of burnt bone are evenly distributed
+throughout the MF unit. Ostrich eggshell fragments (Texier et al.,
+2013) and a mussel shell fragment (Steele and Klein, 2013) are
+visible in thin section. The lowermost MF unit grades into an
+overlying unit of MF type 5, which contains fresh calcareous ashes
+that are partially cemented in places. The base of this unit is deﬁned
+by a cm-thick concentration of rounded charcoal fragments. In
+addition to localized zones of partially dissolved ashes, LU 1 contains secondary minerals, including nitratite and gypsum; the latter
+
+3438
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+Table 3
+List of MF types identiﬁed at DRS, with correlation to microfacies identiﬁed at Sibudu (Goldberg et al., 2009), and genetic interpretations of the MF types.
+MF type #
+
+MF type name
+
+Corresponding MF
+type at Sibudu
+
+Description
+
+Genetic interpretation
+
+1
+
+Coarse, heterogenous
+
+5
+
+Trampled
+
+1a
+
+Coarse, heterogenousd
+sand
+
+7
+
+1b
+
+Coarse, heterogenousd
+organic silt
+Coarse, heterogenousd
+charcoal
+
+N/A
+
+MF type 1 consists of a heterogenous mixture of sand-sized grains of quartz,
+charcoal, humiﬁed organic material, organic silt, burnt bone (both sandsized and larger), and occasionally ashes. The components are typically subangular to sub-rounded, and are mostly sand-sized, although they can range
+from silt-sized to cm-sized. Larger fragments of bone, charcoal, ostrich
+eggshell, and plaquettes can be present, and usually exhibit a horizontal
+orientation. Some larger fragments of bone have sparry calcite attached to
+them, which in some instances is partially dissolved or partially replaced by
+gypsum. Bedding structures are absent, apart from occasional, weak
+grading. Following Stoops (2003), the c/f-related distribution could be
+called “enaulic” (mostly single-spaced equal enaulic), with organic
+fragments and aggregates interspersed within the pore space between the
+sand grains. Occasional zones of secondary minerals, usually gypsum, are
+present in this MF type as well.
+In MF type 1a sand-sized grains of quartz are present in higher percentages
+(40e50%) than in other occurrences of this microfacies type. Other
+components are present, including charcoal, humiﬁed organic material,
+organic silt, and calcareous ashes. Using Stoops’ terminology (Stoops, 2003),
+this MF type would have a “close ﬁne enaulic” c/f related distribution.
+MF type 1b is marked by a higher proportion of organic silt than other
+occurrences of MF type 1.
+MF type 1c is marked by a higher proportion of charcoal, relative to the
+occurrence of other sedimentary components. The larger charcoal
+fragments are typically sub-rounded.
+MF type 2 is characterized by a high proportion of coarse material (larger
+than 1 cm). This may include quartzite fragments, plaquettes, bone, or
+charcoal. The charcoal fragments typically appear rounded in this MF type.
+The coarse components are usually horizontally oriented, and are included
+within ﬁner material that resembles MF type 1 (heterogenous mixture of
+sand-sized quartz grains, charcoal, organic silt, etc.). No clear sedimentary
+structures are visible in this MF type.
+MF type 3 exhibits a microgranular structure and is ﬁner grained than other
+MF types. The components are silt-sized microgranules of humiﬁed organic
+material, silt-sized fragments of charcoal, ﬁne-sand-sized fragments of
+burnt bone, and silt-and sand-sized grains of quartz. Authigenic minerals
+are common (gypsum or phosphates). This MF type is usually very thin (less
+than 2 mm).
+MF type 4 is composed largely of angular to sub-angular fragments of
+charcoal and burnt bone, with a loose, chaotic, structural organization.
+Other combustion-derived residues are present, most notably fat-derived
+char. Sand-sized grains of quartz are present, but in much lower quantities
+than other MF types.
+MF type 5 is dominated by fresh, calcareous pseudomorphs after calcium
+oxalate crystals or other ash-derived materials. Burnt bone, occasional
+charcoal, sand-sized grains of quartz, and combustion-derived residues
+make up the minor components of this MF type. Articulated ashes (Mentzer,
+2012) are also present.
+In MF type 5a the ashes are partially to fully cemented by calcite. They often
+contain articulated ashes.
+In MF type 5b the ashes appear partially to completely dissolved. At DRS the
+ashes are rarely phosphatized, but occasionally dissolved. The remaining
+ash residues are typically siliceous, as described at other Paleolithic cave
+sites such as Kebara and Hayonim (Schiegl et al., 1994; Weiner et al., 1995,
+2002)
+Some ash-rich MF units at DRS also include a high proportion of coarse
+components, including rounded to sub-rounded fragments of charcoal. This
+MF type often appears more open in structure, and the ashes are typically
+decalciﬁed.
+MF type 6 is largely composed of articulated phytoliths within a calcareous
+matrix. Occasional sand-sized grains of quartz and charcoal are present, but
+rare. The phytoliths are typically laminated. Laminated phytolith-rich MF
+units have been described at Sibudu (Goldberg et al., 2009; Wadley et al.,
+2011; Miller and Sievers, 2012), and other sites (Cabanes et al., 2010).
+MF type 7 is characterized by a dominance of ﬁbrous charcoal that is
+microlaminated. The charcoal is occasionally contained within a calcareous
+matrix, with a few sand-sized grains of quartz.
+
+1c
+
+N/A
+
+2
+
+Coarse
+
+N/A
+
+3
+
+Microgranular
+
+N/A
+
+4
+
+Charcoal
+
+3
+
+5
+
+Ash
+
+6
+
+5a
+
+Cemented ash
+
+N/A
+
+5b
+
+Dissolved ash
+
+N/A
+
+5c
+
+Ash with rounded
+components
+
+N/A
+
+6
+
+Phytoliths
+
+4
+
+7
+
+Laminated ﬁbrous
+charcoal
+
+2
+
+is present as microcrystalline nodules that displace the surrounding material.
+Above the ash-rich unit, LU1 exhibits multiple MF units, typically 1e2 cm thick. These units can be classiﬁed as MF type 1a, and
+
+Trampled
+
+Trampled
+Trampled
+
+Trampled (?)
+
+Trampled surface
+
+Hearth base
+
+Hearth top
+
+Hearth top
+Hearth top
+
+Reworked ashes
+(dumped or raked out)
+
+Burnt bedding (top)
+
+Burnt bedding (base)
+
+each is capped with a thin (3e4 mm) MF unit of organic silt, which
+can be classiﬁed as MF type 3 (microgranular). The cyclical alternation between MF types 1b and 3 gives a clearly layered appearance to the upper portion of LU1 and demonstrates that the SUs
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+represent multiple depositional episodes (Fig. 7). The repeated
+occurrence of MF type 3 on top of coarser-grained MF units is a
+pattern continued in LU 2.
+3.4.2. Lithostratigraphic unit 2
+LU 2 is the thickest LU at DRS, approximately 150 cm and spans
+SUs Miles to Joy. This LU also spans several technological subdivisions within the sequence, including MSA-Mike, pre-SB-Lynn,
+the SB, the Early HP, and MSA-Jack. This LU is distinguished by MF
+units of reddish brown sandy silt (ranging in color from 5 YR 2.5/2
+to 10 YR 3/4) interspersed with MF units of charcoal and ash,
+typically several cms in thickness and less than 1 m in extent. The
+ashy MF unit typically overlies the charcoal MF unit.
+MF units classiﬁed as MF types “coarse-heterogenous” (MF type
+1), “coarse” (MF type 2), “microgranular” (MF type 3), “charcoal”
+(MF type 4), “ash” (MF type 5), and “laminated ﬁbrous charcoal”
+(MF type 7) are present in LU 2. At the base of LU 2, we see an increase in the presence of charcoal within the matrix, particularly
+manifesting in MF types 1c and 4. However, the frequency of
+charcoal within the individual MF units below SU Mike is less than
+that found in the rest of LU2. Individual MF units below Mike in LU2
+and LU1, corresponding to SUs Noel through Mark, are largely
+dominated by MF type 1, although an ashy MF unit (MF type 5) and
+another unit composed of laminated ﬁbrous charcoal (MF type 7)
+were identiﬁed within SUs Maggie and Miles. The individual MF
+units in LU 2 below Mike, as elsewhere, are typically 2e5 cm thick.
+Although composed of the same components, and falling into
+roughly the same MF type classiﬁcation, the individual MF units are
+clearly distinguished from one another based on slight variations in
+grain size and proportions of components. Charcoal in these MF
+units is largely rounded and is typically no larger than 5 mm in
+diameter. Burnt bone is common, but fragmented, with some
+showing evidence of being crushed in place (Miller et al., 2009).
+An ashy MF unit found in thin section (Sample DRS-08-13, SUs
+Maggie and Miles) is partially cemented (MF type 5a) and locally
+decalciﬁed (MF type 5b) and has a sharp, irregular contact with the
+overlying MF unit, suggesting some limited physical erosion. The
+ashy MF unit contains numerous burnt bone fragments, as well as a
+1 cm sized fragment of hematite. Although partially cemented, the
+individual ash rhombs are still clearly visible. In places the ashes
+have recrystallized to form sparry coatings around the burnt bone
+fragments, including in areas of the ashy MF unit that have been
+decalciﬁed (Fig. 8). Calcareous ashes are virtually absent from other
+MF units in LU 2 below Mike.
+SU Mike marks a slight change in LU 2. In the ﬁeld, Mike
+occurred as a distinct, 5-cm-thick SU composed largely of
+horizontally-oriented coarse (ca. 5 cm long) bone fragments, lithic
+artifacts, quartzite éboulis, and individual fragments of charcoal. In
+places, Mike appeared clast supported, although some ﬁne material
+(sandy silt) was locally present. In thin section, Mike is also distinct
+and contains numerous coarse components, including burnt bone,
+quartzite éboulis, charcoal, partially decalciﬁed ostrich eggshell
+fragments, and a fragment of burnt coprolite. The bone fragments
+are mostly angular and exhibit a sparry calcareous coating, similar
+to what was seen in the ashy MF unit in SU Maggie/Miles. Charcoal
+fragments are also angular to sub-angular. Some of the quartz
+éboulis exhibit cappings of microgranules, suggesting some
+downward movement of material, possibly as a result of sifting of
+dry material through the clast-supported matrix.
+Above SU Mike, LU 2 develops a repetitive pattern of MF types.
+MF type 1 (coarse, heterogenous) is typically capped by a thin
+(several mm thick) MF unit of MF type 3 (microgranular), which in
+turn is often capped by a couplet of MF type 4 (charcoal) and MF
+type 5 (ash). The repetition of MF types 1,3,4, and 5 reﬂects the ﬁeld
+observations that LU 2 consists of layers of reddish-brown, organic-
+
+3439
+
+rich sandy silts, interspersed with lenses of charcoal and ash. The
+micromorphological analysis shows that the reddish-brown sandy
+silts, which appear relatively homogenous in the ﬁeld, are actually
+composed of numerous, horizontal-lying, individual MF units. A
+typical example of the microfacies succession in LU2 is seen in
+sample DRS-08-09, corresponding to SUs Kate, Julia, Jess (early HP,
+Porraz et al., 2013) (Fig. 9).
+MF units dominated by ash (MF type 5) are relatively common in
+LU2, and are occasionally associated with an underlying MF unit
+composed largely of charcoal (MF type 4). Most of the ashes in LU2,
+however, show some signs of post-depositional chemical alteration,
+either in the form of recrystallization, cementation, or partial or
+complete decalciﬁcation. Often the same ashy MF unit contains
+zones exhibiting various states of calcite preservation. Typically, the
+calcite is better preserved at the top of the ashy MF unit, where in
+some cases the ashes have formed a cemented crust (Fig. 8C and D).
+In other instances, all of the ashes exhibit some degree of decalciﬁcation, but the ashes toward the top of the MF unit appear better
+preserved than those at the base. Burnt bone, articulated ashes
+(Mentzer, 2012), and fragments of charcoal (sometimes well
+rounded) are present in many of the ashy MF units. For several of
+the ashy MF units, the cemented crusts appear fragmented and
+physically eroded.
+Units of MF type 1 in LU 2 resemble those found in LU 1, but
+generally contain more charcoal (MF type 1c). Individual examples
+of MF type 1 in LU 2 are typically separated from one another by MF
+units classiﬁed as MF types 4 and 5. When not separated by these MF
+units of charcoal and ash, stacked MF units of MF type 1 are typically
+separated from one another by MF type 3 (microgranular) or are
+easily distinguished from one another by variations in their components. For example, sample DRS-08-10, which corresponds to SUs
+Logan through Kim (SB), does not contain any charcoal-rich or ashy
+MF units. However, at least six distinct individual MF units are visible
+in this sequence, mostly categorized as MF types 1 or 3 (Fig. 10).
+3.4.3. Lithostratigraphic unit 3
+LU 3 corresponds to SUs Jeff and John (Intermediate HP, Porraz
+et al., 2013) and forms a distinct break in the types of deposits
+found in the DRS sequence. In the ﬁeld it appears generally homogenous, ca. 15e20 cm thick, and is composed of reddish-brown
+(5 YR 2.5/2) sandy, organic silt. Charcoal and ash lenses are absent
+from the LU, and coarse components, such as plaquettes, éboulis,
+and large bone fragments are fewer than in other LUs. The most
+striking characteristic of the unit, apart from the absence of obvious
+combustion features, is the dominance of authigenic minerals.
+Although present in all LUs, white (gypsum) and yellow (phosphate) ﬂecks and nodules permeate LU 3 and locally deﬁne multiple surfaces within the unit.
+In thin section, LU 3 is composed of a stacked sequence of MF
+types “coarse, heterogenous (MF type 1) and “microgranular” (MF
+type 3), similar to portions of the sequence in LUs 2 and 1. Where
+sampled, LU 3 rests directly on a MF unit of cemented ashes that
+have been physically eroded (Fig. 11). Here, the examples of MF Type
+1 contain a higher proportion of organic silt and humiﬁed organic
+material relative to the charcoal-rich LU 2, broadly resembling LU 1.
+However, unlike LU 1, the MF units in LU 3 have similar proportions
+of sand grains as in LU 2. Charcoal fragments, usually no larger than
+8 mm, are sub-rounded to rounded. As noted in the ﬁeld, all MF units
+in LU3 are permeated with authigenic minerals, including gypsum
+nodules, phosphate nodules, and clumps of nitrate minerals.
+3.4.4. Lithostratigraphic unit 4
+LU 4 forms the upper 90 cm of the sequence at DRS, including
+SUs Governor through Denzil in the Main Sector and corresponds
+with the Intermediate HP, the Late HP, and the post-HP
+
+3440
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+Fig. 5. Photomicrographs of the different MF types (see Table 2). A) MF type 1 (coarse heterogenous). PPL. Fragments of burnt bone (bb), charcoal (cc) and sand-sized grains of
+quartz (q). B) MF type 1a (coarse, heterogenousdsand). PPL. Sand-sized grains of quartz (q). C) MF type 1b (coarse, heterogenousdorganic silt). PPL. Sand-sized grains of quartz (q),
+organic material (om). D) MF type 1c (coarse, heterogenousdcharcoal). PPL. Fragments of charcoal (cc), sand-sized grains of quartz (q). E) MF type 2 (coarse). PPL. Plaquettes of
+quartzite (qz), fragments of charcoal (cc). F) MF type 3 (microgranular). PPL. Sand-sized grains of quartz (q), microgranules of organic material (m). G) MF type 4 (charcoal). PPL.
+Fragments of charcoal (cc). H) MF type 5 (ash). XPL. Fresh-appearing rhombs of micritic calcite, or ash (a). I) MF type 5a (cemented ashes). XPL. Cemented ashes (a), sand-sized grain
+of quartz (q). J) MF type 5b (dissolved ashes). PPL. Sand-sized grain of quartz (q), fragment of burnt bone (bb), dissolved ashes (da). K) MF type 5c (ashes with rounded charcoal). PPL.
+Rounded fragment of charcoal (cc), Sand-sized grains of quartz (q). L) MF type 6 (phytoliths). PPL. Fragment of burnt bone (bb), sand-sized grains of quartz (q), laminated phytoliths
+(p). M) MF type 7 (laminated ﬁbrous charcoal). PPL. Fibrous charcoal (fc).
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+3441
+
+Fig. 5. (continued).
+
+technocomplexes (Porraz et al., 2013). In the ﬁeld, LU 4 appears
+markedly different from the other LUs, exhibiting a “layer-cake”
+stratigraphy of beds, lenses and laminations of charcoal and ash
+(some strongly cemented) directly on top of one another. Some of
+the ashy deposits, while only a few cm thick, extend across the entire
+excavated area (e.g., SU Frank), whereas other ash and charcoal MF
+units appear intrusive within the underlying units, resembling en
+cuvette hearths. Other MF units within the sequence are clearly
+laminated (laminae < 1 cm thick) and resemble units described in
+the post-HP sequence at Sibudu where they were interpreted as the
+remains of burnt bedding (Goldberg et al., 2009; Wadley et al., 2011).
+Superﬁcially, LU 4 at DRS resembles the post-HP layers at Sibudu and
+other stacked combustion feature sites, such as Kebara, Israel
+(Goldberg and Bar-Yosef, 1998) and Klasies River, South Africa
+(Singer and Wymer, 1982). LU 4 has been exposed across much of the
+excavated portion of the site, allowing for a more detailed look at
+spatial variation in the deposits. In the Main Sector, SUs of LU 4 are
+relatively horizontal. However, in the Back Sector and Trench
+(Parkington et al., 2013), the MF units dip slightly to the south (into
+the shelter), which explains the presence of thicker post-HP deposits
+in the Trench relative to the rest of the site. The upper portion of LU 4
+appears erosional, since many of the slightly dipping SUs in the
+
+trench are truncated. This erosional contact corresponds to a break
+of about 40 ka between the post-HP deposits and the overlying LSA
+deposits. The erosional contact at the top of the DRS sequence is
+strongly cemented by halite and potassium nitrate (niter). The niter
+crust also extends along the outside of a large boulder that extends
+from the surface to the base of excavations within squares K-L6. Most
+of the LSA deposits were removed during excavations in the 1970s,
+although several LSA pits e which were dug into LU 4 e remain,
+making stratigraphic correlations of this upper unit across the site
+difﬁcult (Parkington et al., 2013).
+In thin section, LU 4 is very distinct from the other LUs at DRS.
+MF type 1 (coarse, heterogenous) is present, and usually dominated
+by MF type 1c (coarse, heterogenousdcharcoal), reﬂecting the ﬁeld
+observation that LU 4 contains a signiﬁcantly higher proportion of
+charcoal compared to underlying units. The charcoal fragments in
+LU 4 appear less rounded than in the underlying LUs, and are
+predominantly ﬁbrous, rather than woody charcoal. Burnt bones
+are numerous, and some show signs of having been crushed in
+place (Miller et al., 2009), indicating trampling. Ashy MF units (MF
+type 5) are numerous, generally well-preserved, and contain articulated ashes. Laminated fragments of ﬁbrous charcoal (MF type 7)
+are present and are associated with an overlying MF unit of
+
+3442
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+the interpretation of depositional and post-depositional processes
+that led to their formation. It is these associations of MF types,
+along with analogy to other sites (e.g., Sibudu), that form the basis
+for the following interpretations.
+
+Fig. 6. Field photograph of the Main Sector (here, M6/7 and N6/7) showing LUs 2e4.
+LU 1 is at the base of the Main Sector and not shown here. LU 2 is marked by layers of
+reddish-brown sandy silt interspersed with lenses of charcoal and ash. LU 3 is a homogenous layer of reddish brown sandy silt, without any obvious combustion features.
+It is also interspersed with numerous nodules of secondary minerals (mostly gypsum
+and phosphate). LU 4 contains a palimpsest of ashy and charcoal-rich lenses. (For
+interpretation of the references to color in this ﬁgure legend, the reader is referred to
+the web version of this article.)
+
+laminated phytoliths (MF type 6)dthe ﬁrst occurrence of this MF
+type within the DRS sequence. Strikingly absent from LU 4 are any
+units of MF type 3 (microgranular). In general, the individual MF
+units within LU 4 appear more compact than in the underlying LUs.
+A typical example of the sequence of MF types in LU4 is found in
+sample DRS-08-05, corresponding to SUs Fox through Fred (Intermediate HP), and illustrated in (Fig. 12).
+4. Discussion
+4.1. Genetic interpretation of MF types and associations
+At DRS we were able to identify seven major MF types, along
+with several subdivisions. Many of the MF types co-occur, aiding in
+
+4.1.1. Trampled deposits (MF types 1 and 3)
+MF types 1 and 3 are commonly associated with one another
+throughout the DRS sequence. Macroscopically, this microfacies association appears as the reddish-brown sandy silty units common in
+LUs 1e3. In this microfacies association, the coarse, heterogenous
+microfacies (MF type 1) is overlain by the microgranular microfacies
+(MF type 3). In addition to sand-sized grains of quartz, organic silt,
+humiﬁed organic material and other components, MF type 1 always
+contains some components that were derived from anthropogenic
+combustion features including ash, charcoal, and burnt bone, as well
+as burnt bone with sparry calcite coatings. These anthropogenic
+components exhibit some degree of rounding, often to an extreme
+degree. The rounding of these burnt components, as well as their
+intimate association with nonburnt components, demonstrates that
+the components of MF type 1 have been redistributed from hearths
+or other combustion features that are no longer intact. The likely
+process for the redistribution of these components is trampling. MF
+type 1 is poorly sorted and exhibits no grading or bedding, thus
+ruling out ﬂowing water (cf. Lenoble, 2003) or wind as possible
+depositional agents. Bioturbation could produce a similar looking
+microfacies; however, the examples of MF type 1 at DRS are only a
+few cm thick and exhibit clear horizontal orientation across the
+proﬁle. Extensive bioturbation would have homogenized the deposits and destroyed the stacking of the individual MF units clearly
+visible in thin section and in the ﬁeld. Colluviation could also produce a similar-looking microfacies; however, the SUs at DRS are
+more or less horizontal, and there is no obvious up-slope source for
+the sediments since the shelter is located at the top of a koppie.
+Therefore, it seems likely that although MF type 1 contains anthropogenic, biogenic, and geogenic components, the formation of this
+microfacies was largely through the effects of human trampling.
+The association of MF type 1 with MF type 3 supports the
+trampling hypothesis. Although a microgranular structure is
+commonly associated with bioturbation (Stoops, 2003; Courty
+et al., 1989), the fact that MF type 3 is always horizontally oriented, is always expressed as a thin, mm-thick capping on top of MF
+type 1, and never cross cuts other MF units, suggests that it is not
+the result of burrowing animals. Rather, Rentzel and Narten (2000)
+have shown through laboratory experiments that microgranular
+structures form in the upper 3 mm of dry sediments that have
+undergone repeated trampling. MF type 3 at DRS ﬁts well with
+these experimental results and suggests that this MF type represents a stable surface that was exposed to trampling (Fig. 13A).
+Authigenic minerals, speciﬁcally mm-sized nodules of gypsum
+and secondary phosphates, are often concentrated within MF type
+
+Fig. 7. Flat-bed scan of sample DRS-08-14 (LU1, SU Mary) with MF units indicated, along with MF types, and microfacies associations and interpretations. In LU 1, we see MF type 1a
+capped by MF type 3 and interpret these microfacies associations as trampled deposits with trampled surfaces. Note that part of the sample was destroyed during collection.
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+3443
+
+Fig. 8. Photomicrographs of altered ashes. A) DRS-08-10c, XPL. Fragment of burnt bone (bb), ash-rhombs (a), sparry calcite, and gypsum (g). Fragments of burnt bone often have
+sparry calcite coatings. Here, we see that the spar is forming from calcareous ashes, and that the spar in turn is being replaced by gypsum. B) DRS-08-12b, XPL. Fragment of burnt
+bone (bb) coated with sparry calcite (c). Note that the spar appears partially dissolved. C) DRS-08-7b, PPL. Ashes within a hearth. The ashes above are cemented (ca), and the ashes
+below are dissolved (da). Similar crusts of cemented ashes are commonly found on top of dissolved ashes in the hearths of DRS, particularly in LU 2. D) Same view as (C), but in XPL.
+
+3 (Fig. 13B). The presence of these minerals within the surface MF
+units suggests that there was little vertical transport of water
+through the DRS sequence. Today, water from precipitation does
+not directly reach the surface of the deposits at DRS (personal
+observation), and a possible source of moisture is water which
+percolated through cracks within the quartzite of the shelter.
+However, the presence of highly soluble nitrates within the cracks
+suggests that the volume of water moving through the shelter
+bedrock is not very high. Another possible source for moisture
+within the shelter is dew or fog which could have wetted the upper
+mm of the deposits, leaving the underlying portion dry. Today, fog
+can be observed within the Verlorenvlei valley. Similarly, on colder
+days, dew can form within the shelter. The repeated wetting of the
+surface by dew or fog would have provided enough moisture to
+precipitate secondary minerals, but would not have provided
+enough moisture to ﬂush out soluble ions.
+MF type 1, MF type 3, and their direct association suggest that
+they were formed by trampling. It is interesting to note that the same
+process has formed two distinct microfacies: one (MF type 1) formed
+through horizontal displacement of sedimentary components and
+another (MF type 3) formed by the modiﬁcation of a relatively stable
+surface. Experiments and micromorphological studies (Rentzel and
+Narten, 2000; Miller et al., 2009) have shown that the results of
+trampling can be expressed differently, based on a number of variables, including substrate type, moisture content, and duration of
+trampling. These studies have also shown that repeated trampling
+can create horizonation within a deposit (Gé et al., 1993; Rentzel and
+Narten, 2000), similar to what we see at DRS. However, it is not clear
+how or why the trampling at DRS shifted from a process of horizontal
+displacement to one that only altered an existing surface. The
+horizonation seen at DRS may be a result of changes in the intensity
+of trampling, or may represent a natural progression in the development and formation of a deposit that is repeatedly trampled.
+
+Future experiments at DRS will hopefully clarify the details of the
+effects of trampling on the deposits and future excavations will
+provide more lateral exposures which should help document the
+original sources of horizontally displaced combusted materials.
+4.1.2. Hearths (MF types 4 and 5)
+Ashy MF units at DRS are commonly, but not exclusively, associated with an underlying MF unit of coarse sub-angular charcoal
+that can also contain burnt bone fragments. This type of conﬁguration is typical for combustion featuresdparticularly hearths
+(Mentzer, 2012; Goldberg et al., 2009; Berna and Goldberg, 2008).
+We can distinguish between charcoal-rich MF units directly associated with hearths and charcoal-rich MF units associated with
+trampling (MF type 1c) based on several key characteristics. First,
+charcoal (along with burnt bone) within MF type 1c is typically
+well-rounded. And second, MF type 1c usually contains a much
+higher proportion of sand-size quartz grains than does MF type 4.
+There are several instances in the DRS sequence where an ashy MF
+unit directly overlies a charcoal-rich MF unit of MF type 1c. However, the charcoal and ash in these instances do not have a direct
+genetic relationship (Mallol et al., 2012) since the charcoal-rich MF
+units contain a notably higher proportion of sand-sized quartz
+grains than the ashy MF units. Therefore, not all combustion features at DRS have a charcoal-rich base. Also notably absent from the
+hearths at DRS are rubiﬁed bases, which are common at Sibudu
+(Goldberg et al., 2009). However, hearths do not always exhibit
+rubiﬁcation (Mentzer, 2012), either as a result of lower burning
+temperatures, shorter burning time, or a lack of material that can be
+rubiﬁed (Canti and Linford, 2000). Based on the high proportion of
+sand-sized quartz grains and organic material within most of the
+DRS sediments, we conclude that the lack of rubiﬁcation is likely
+related to a lack of ferruginous material within the substrate that
+can be rubiﬁed.
+
+3444
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+Fig. 9. Flat-bed scan of sample DRS-08-09 (LU 2, SUs Keegan and Kenny), with MF units indicated, along with MF types, and microfacies associations and interpretations. Here, the
+base of the sequence is represented by a unit of MF type 1 (coarse, heterogeneous), that contains horizontally oriented plaquettes and burnt bone, within a matrix of sand, organic
+silt, and humiﬁed organic material. This MF unit grades into an overlying unit of MF type 3 (microgranular), that is composed of granules of organic silt and is interspersed with
+nodules (1 mm in size) of ﬁnely crystalline gypsum. Resting conformably on MF type 3 is a 2-cm-thick MF unit composed of angular to sub-angular fragments of charcoal and burnt
+bone (MF type 4) which grades into a 1-cm thick ashy MF unit that is largely decalciﬁed (MF type 5b). Some burnt bones with sparry calcite coatings are present in the ashy MF unit.
+The ashes in the top of this MF unit appear more calcareous than in the base of the unit and they also contain numerous gypsum nodules. Resting directly on this MF unit is another
+unit (5-mm thick) of charcoal (MF type 4) which also grades into a 1-cm thick unit of partially decalciﬁed ashes (MF type 5b) that contains numerous gypsum nodules. Overlying
+this ashy MF unit is a unit of MF type 1, which is capped by MF type 3.
+
+Hearth structures can be clearly identiﬁed within the ﬁeld in LU
+2, where they are typically several cm thick, less than a m across,
+and separated from one another by layers of reddish-brown sandy
+silt. Hearth structures are also present in LU 4, although they are
+difﬁcult to identify in the ﬁeld since LU 4 is dominated by MF units
+with large proportions of combusted material, much of it reworked.
+It is only through microfacies analysis that individual, distinct
+combustion features can be identiﬁed in LU 4. While burnt components are present in LU 1 and LU 3, there are no clear hearth
+structures in either of these lithostratigraphic units.
+Ashes are generally well preserved within the combustion features. One interesting characteristic of many of the hearths at DRS,
+particularly within LU 2, is that they often exhibit a cemented
+carbonate crust which overlies partially dissolved ashes. At ﬁrst,
+this seems counterintuitive, since the surface of the ash would
+presumably be exposed to more post-depositional alteration
+processes than the base. However, considering the evidence that
+most soil moisture at DRS was focused in the upper mm or cm of
+the deposits, we can develop a model that explains the cementation
+and dissolution processes of hearth ash at DRS. After abandonment
+of a hearth, the upper ashes were probably exposed to surface
+moisture (dew or fog), which initially e and rapidly-formed a
+cemented, calcareous crust. Once the crust formed it trapped
+
+moisture below it which would have been in contact with more
+organic material and would have led to more acidic conditions. This
+would have eventually led to the partial or complete dissolution of
+ashes below the crust. Because of the cementation, the calcareous
+crust was more resistant to dissolution than the non-cemented
+ashes below, leaving behind a relatively well-preserved crust over
+dissolved ashes. Some of the ashy MF units at DRS exhibit other
+evidence for recrystallization of calcareous ashes. Some of the burnt
+bone in the ashy MF units exhibit sparry coatings of calcite. As with
+the formation of the calcareous crusts, these coating likely formed
+as minimal amounts of moisture from dew or fog accumulated
+around the bones. Sometimes these bones with sparry coatings are
+found outside of combustion features, within MF type 1, suggesting
+that they were reworked from cemented hearths. Many of the
+calcareous crusts at DRS are partially fragmented and show signs of
+physical modiﬁcation. A likely scenario, based on the formation
+processes of MF types 1 and 3, is that the cemented hearths were
+partially eroded by trampling.
+4.1.3. Reworked ash (MF type 5c)
+Not all of the ashy MF units within the DRS sequence are directly
+associated with intact hearths. Some of the ashy MF units contain
+rounded charcoal fragments that are intimately mixed with the ash.
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+3445
+
+Fig. 10. Flat-bed scan of sample DRS-08-10 (LU 2, SUs Logan, Larry and Kim), with MF units indicated, along with MF types, and microfacies associations and interpretations. The
+base of the sequence, corresponding to SU Logan, is a 7 cm-thick example of MF1 that contains some larger, coarser fragments of burnt bone (ca. 2 cm) that do not exhibit any
+preferential orientation. This MF unit also contains articulated ashes, some of which appear partially dissolved; and partially dissolved ostrich eggshell fragments. mm-sized
+gypsum nodules are also present. This MF unit is capped by another unit that we categorize as MF type 1c, that is only 1 cm thick, and contains numerous fragments of
+rounded to sub-rounded charcoal and burnt bone. As in the underlying MF unit, the ﬁne matrix here contains calcite in the form of individual and articulated ashes, as well as sparry
+coatings around burnt bone. This MF unit is in turn overlain by a unit of MF type 1 that lacks the coarser fraction found in the underlying MF unit. Here, calcite is more poorly
+preserved than below, although ostrich eggshell fragments are present. This MF unit corresponds with the lower portion of SU Larry and is capped by a 1-mm thick unit of MF type 3
+that contains secondary phosphate nodules. On top of this example of MF type 3 is another unit of MF type 1, roughly similar to that below, and ca. 7 cm thick. The top of this MF
+unit appears more charcoal rich and contains numerous gypsum nodules, some almost 1 cm in size that were clearly visible in the ﬁeld. The top of this MF unit marks the top of SU
+unit Larry. Overlying this is another unit of MF type 1, similar to below, which is again capped by MF type 3.
+
+These ashes often lack the cemented crusts that are typical of DRS
+hearths, and are more often completely decalciﬁed and composed
+of siliceous material. Furthermore, these ashes exhibit more void
+space compared to the ashes found in hearths, and also contain a
+higher proportion of components not directly related to combustion. In the ﬁeld, these ash deposits are often continuous across the
+area of excavation. In contrast, hearths are limited in horizontal
+extent and appear in proﬁle as distinct lenses. Similar occurrences
+
+of this MF type were identiﬁed at Sibudu (Goldberg et al., 2009) and
+interpreted as ash dumps.
+4.1.4. Burnt bedding (MF types 6 and 7)
+A distinct microfacies association found only in LU 4 is laminated ﬁbrous charcoal (MF type 7) overlain by laminated, articulated phytoliths (MF type 6). This microfacies association was
+described in detail at Sibudu (Goldberg et al., 2009; Wadley et al.,
+
+3446
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+Fig. 11. Flat-bed scan of sample DRS-08-07 (LUs 2 and 3, SUs Joy and Jeff), with MF units indicated, along with MF types, and microfacies associations and interpretations. Here, LU 2
+is expressed as a trampled MF unit (MF type 1c) overlain by a MF unit of altered ashes (MF type 5b), which likely represents an intact hearth. Note the erosional contact on the
+surface of the ashes, which is typical for hearths within LU 2. LU 3 is expressed here as a series of MF type 1b and MF type 3, typical of trampled deposits at DRS. Also note the lower
+proportion of charcoal within the individual MF units in LU 3 relative to those in MF 1.
+
+2011) where it was interpreted as the remains of burnt bedding. At
+Sibudu, this microfacies association occurs frequently, and forms a
+signiﬁcant part of the post-HP deposits. At DRS, only one clear
+example of burnt bedding could be identiﬁed in thin section
+within the Intermediate HP (SU Fred). However, ﬁeld observations
+of LU 4 outside of the sampling area revealed several laminations
+similar to those found at Sibudu, suggesting that bedding construction was more prevalent than suggested by the present
+samples reported here. It is not clear what plants were used for
+the construction of bedding, although sedges, which were used at
+Sibudu (Sievers and Muasya, 2011; Wadley et al., 2011), have been
+identiﬁed (Cartwright, 2013). The laminated, articulated phytoliths
+at DRS are intimately associated with calcareous ashes, which is
+not the case at Sibudu. Experiments at Sibudu showed that
+calcareous ashes were not produced in large volumes by the
+burning of sedge or grass bedding (Miller and Sievers, 2012),
+suggesting that a different type of plant may have been used at
+DRS. This result is not unexpected, given the different ecological
+settings of the two sites. Future geoarchaeological and archaeobotanical research at DRS will aim to clarify the use of speciﬁc
+plants for bedding and combustion.
+4.2. Formation models for the lithostratigraphic units
+A schematic illustration of common microfacies associations in
+the different LUs is provided in Fig. 14. Below, we present site formation models for the different LUs.
+
+4.2.1. LU 1
+The lowermost LU at DRS has the highest proportion of geogenic
+components in the form of sand- and silt-sized grains of quartz. MF
+type 1 in LU 1 contains little anthropogenic material (charcoal and
+burnt bone) compared to overlying LUs. The minimal anthropogenic
+input in LU 1 corresponds with a lower density of lithic artifacts
+within these deposits (Porraz et al., 2013). However, there is evidence within the sediments for human presence, including a wellpreserved combustion feature. Furthermore, despite the primarily
+geogenic origin of the deposits within LU 1, the individual MF units
+exhibit modiﬁcation through trampling, in the form of multiple,
+repeated occurrences of microgranular surfaces.
+LU 1 formed through a gradual accumulation of geogenic and
+biogenic components. Sand- and silt-sized grains of quartz were
+deposited through disaggregation of the shelter walls, likely as a
+result of salt-induced spalling, a process we can still observe
+today. The organic silt and humiﬁed organic fraction in LU 1
+ultimately is derived from vegetation outside of the shelter, and
+was brought to the site either by wind, animals, or humans.
+Some of the ﬁnely comminuted organic material may come from
+disaggregated herbivore coprolites (e.g., rock hyrax or baboon)
+as suggested by the presence of primary phosphatic material
+with some of the humiﬁed organic material. It is also possible
+that humans played a role in the accumulation of some of the
+organic silt and humiﬁed organic material; however, it is likely
+that all three agents (human, animal, wind) contributed to the
+accumulation. Once accumulated, the sand-sized grains of quartz
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+3447
+
+Fig. 12. Flat-bed scan of sample DRS-08-05 (LU 4, SUs Fox, Fannie, Frank and Fred), with MF units indicated, along with MF types, and microfacies associations and interpretations.
+The base of the sample contains a charcoal-rich MF unit (MF type 1c) that is capped by a 2 cm thick ashy MF unit (MF type 5) that is partially decalciﬁed at the base, and cemented at
+the top. This sequence is overlain by a 1.5 cm thick unit of MF type 1c that also contains numerous, individual ash rhombs intimately mixed within the matrix. This MF unit contains
+relatively more sand-sized grains of quartz than units of MF types 5 and 4 in underlying LUs. Above these units is an ashy MF unit (MF type 5c) that is not cemented and contains
+more coarse material than the underlying example of MF type 5, including plaquettes, bunt bone, and sub-angular pieces of charcoal. This in turn, is overlain by a thin (0.5 cm) MF
+unit of MF type 1c, very similar in appearance to the underlying unit of the same MF type. Above this we observe a thin MF unit of partially decalciﬁed ash (MF type 5a) and a 3-cm
+thick unit of MF type 1c that is capped by 0.5-cm thick unit of laminated ﬁbrous charcoal (MF type 7). At the top is a MF unit of laminated, articulated phytoliths (MF type 6) within a
+calcareous matrix.
+
+and humiﬁed organic material were modiﬁed by repeated
+trampling, which formed microgranular surfaces on the individual MF units.
+4.2.2. LU 2
+The transition from LU 1 to LU 2 is gradual and marked by
+an increase in anthropogenic input. The same depositional and
+post-depositional processes acting in LU 1 also inﬂuenced the
+
+formation of LU 2; however, we see a signiﬁcant increase in the
+abundance of anthropogenic components and a corresponding
+decrease in geogenic components in the form of sand-sized quartz
+grains. Combustion features, in the form of charcoal and ash lenses,
+are also numerous, although the presence of charcoal, burnt bone,
+and other combustion-derived residues within trampled MF units
+suggests that there were once many more hearths in LU 2 than are
+visible today (Schiegl and Conard, 2006).
+
+Fig. 13. Photomicrograph of characteristics of surfaces at DRS. A) DRS-08-7a, PPL. Two coarse MF units (MF type 1) (c) separated by a microgranular MF unit (MF type 3) (m). These
+thin, microgranular surfaces are found throughout LUs 1e3 and are likely formed through trampling of a stable surface. B) DRS-08-10b, PPL. The microgranular surfaces are often
+associated with mm or smaller nodules of secondary minerals, such as gypsum or, as seen here, phosphates (p). Sand-sized grains of quartz (q).
+
+3448
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+Fig. 14. Schematic proﬁle of the Main Sector at DRS showing the typical microfacies associations for each LU and the diachronic variation in these associations. LU 1 has a higher
+proportion of geogenic components (sand-sized grains of quartz) than other LUs, but exhibits human inputs and modiﬁcations, particularly in the form of trampled surfaces. LU 2
+exhibits a higher proportion of combustion-derived components, both within the matrix and also in the form of combustion features. The trampled surfaces found in LU 1 are also
+found in LU 2. The hearths in LU 2 were not cleaned out after use, but abandoned, and the ashy tops are often cemented. The presence of combusted material within the trampled
+deposits shows that there were once more hearths present at DRS than visible today. LU 3 contains relatively less charcoal than LU 2, but exhibits trampled surfaces as in LUs 1 and
+2. Rounded fragments of charcoal within these MF units suggest that the occupants were burning hearths, but they may have been centered in a speciﬁc location of the site, outside
+of the current area of excavation. LU 4 is composed of palimpsests of different MF units that were formed through hearth burning and maintenance (rake out and dumping of ashes),
+bedding construction and burning, and trampling. Overall, LU 4 suggests a phase of occupation that was more intense than previous occupations, and that placed a greater emphasis
+on site maintenance practices and the structuring of domestic space.
+
+The presence of well-preserved combustion features surrounded by a matrix of reworked combusted material raises the
+question of why certain hearths were preserved when others were
+destroyed by trampling. A similar issue was raised for the
+numerous combustion features at Kebara, where many of them are
+well preserved and not modiﬁed by trampling (Meignen et al.,
+2007). Many of the preserved combustion features in LU 2 exhibit
+cemented surfaces, which would have made them more resistant to
+physical reworking. Some of the cemented hearths were partially
+reworked by trampling, as exhibited by erosional surfaces on the
+cemented ashes and the incorporation of burnt bone fragments
+with sparry coatings in the trampled MF units. There are several
+hypotheses that we can imagine that would explain the selective
+
+cementation of certain hearths. For instance, the cemented hearths
+may represent surfaces that were exposed on the surface during
+short occupational hiatuses, allowing enough time for the ashes to
+recrystallize. Similarly, the hearths may have become cemented
+during periods of the year when moisture in the form of fog or dew
+was more frequent. Another possibility is that hearths that were
+constructed nearer to the entrance of the shelter were exposed to
+more moisture, leading to cementation, whereas hearths toward
+the back of the shelter were less frequently exposed to moisture. All
+of these hypotheses, particularly those invoking spatial variation in
+cementation, require further excavation and sampling to test.
+The secondary mineral assemblages are variable throughout LU
+2. In the combustion features, calcareous ashes are relatively well
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+preserved, although partially recrystallized. Gypsum nodules are
+often found in the ashy MF units. Bone within the combustion
+features is also relatively well-preserved. Within the trampled
+deposits, calcite appears to have been partially or completely dissolved. Gypsum nodules are common in the combustion features as
+well, but other minerals, such as secondary phosphates (including
+possible montgomeryite) and nitrates are more common. The
+bones also appear partially dissolved and recrystallized in some of
+the trampled deposits. In proﬁle, the variation in diagenesis appears diachronic; however, as pointed out by Goldberg et al. (2009),
+the vertical variation in stacked anthropogenic MF units can also
+reﬂect horizontal variation in the distribution of these MF units. In
+LU 2 at DRS, the variation in secondary mineral assemblages is
+likely the result of horizontal variation in the concentration of
+calcite. Combustion features and other calcareous ashy deposits
+acted as chemical buffers, keeping the pH relatively high (fresh
+wood ashes can have pH values around 13) and preventing the
+recrystallization and dissolution of bone and the formation of
+secondary phosphate minerals that form at low pH (e.g. Crandallite). In these ashy deposits, the calcite can appear partially
+recrystallized, or locally dissolved. The only obvious secondary
+mineral formation in the ashy deposits is gypsum, which likely
+formed from the interaction between ash-derived carbonates and
+guano (Shahack-Gross et al., 2004). Outside of the combustion
+features, in the trampled deposits, ash was present, but mixed with
+other components. Once dispersed within the trampled deposits,
+the calcite was more easily dissolved, thereby reducing the pH of
+the sediments and allowing for the recrystallization of the bones
+(Berna et al., 2004).
+A good example that illustrates the formation processes of LU 2
+is sample DRS-08-09 from the early HP (Fig. 9). Here, we observe a
+trampled deposit with a coarse, underlying MF unit of MF type 1
+and a mm-thick MF unit of MF type 3 (microgranular) on top. This
+microfacies association represents a trampled surface that was
+exposed for some period of time, as demonstrated by the presence
+of mm-sized gypsum nodules at the top of the MF unit. Resting
+directly on this surface is a hearth, which has a clear, charcoal base
+and ash top. The ashes here are partially dissolved at the base and
+recrystallized at the top, suggesting that they were exposed to
+surface processes for a relatively short period of time. Directly
+resting on this hearth is another hearth with a charcoal-rich base
+and ashy top. The ashes in this hearth are also partially dissolved at
+the base and recrystallized at the top. Larger gypsum nodules (up to
+1 cm in diameter) are present at the top of this hearth, again suggesting that it was exposed for some period of time. The hearth in
+turn is overlain by several trampled MF units exhibiting microgranular structures.
+The sequence in sample DRS-08-09 is informative about the
+human activities at the site, and about the spatial relationship
+among different MF types in LU2. Within the entire LU, we see an
+increase in combustion related activities relative to LU1. Hearths
+were constructed on stable surfaces that had previously been
+trampled and exposed, as evidenced by the presence of microgranular cappings and concentrations of diagenetic minerals within
+the uppermost mm of the trampled deposits. The hearths were not
+managed (i.e., cleaned out) but rather, were abandoned after use.
+When burning localities were reused, as seen in sample DRS-08-09,
+the previous hearth had already been abandoned for some time, as
+evidenced by the formation of an alteration crust on the surface of
+the ashes. Generally, however, the positioning of the hearths appears to have been spatially variable during the formation of LU 2.
+As discussed above, the trampled MF type represents areas of human activity outside the area of the hearths (cf. Hayonim Cave e
+Goldberg and Bar-Yosef, 1998). The repeated formation of stable,
+altered surfaces, and the lack of evidence for intensive site
+
+3449
+
+maintenance during LU 2 suggests that visits to the site were
+relatively brief yet repetitive.
+4.2.3. LU 3
+The contact between LU 2 and LU 3 is sharp, but resembles the
+numerous contacts found between individual MF units within LUs
+1 and 2, suggesting that the change in sediment type does not
+represent a signiﬁcant temporal break in the sequence. In the ﬁeld,
+LU 3 appears very distinct from the over- and under-lying deposits.
+It lacks any clear combustion features, appears generally homogenous, and contains relatively higher amounts of diagenetic minerals. Upon closer inspection in the ﬁeld and under the microscope,
+we see that LU 3 is not a massive deposit but rather is composed of
+numerous individual MF units, including MF types 1 and 3. These
+MF units contain a markedly higher proportion of humiﬁed material relative to charcoal and other combustion-derived residues.
+One possible explanation for the less abundant combustionderived residues is that LU 3 represents a decrease in occupational intensity of the site. However, we do not observe a corresponding drop in artifact density within LU3; rather, we see an
+increase in the artifact density within SU Jeff (Porraz et al., 2013). In
+addition, the presence of numerous trampled surfaces within LU 3
+suggests that humans were repeatedly using the shelter during the
+formation of this LU. Another hypothesis is that LU 3 represents a
+shift in the spatial arrangement of activities within the site. If
+hearth burning and other combustion activities were conducted
+elsewhere, speciﬁcally outside of the current area of excavation, we
+would expect to see a relative decrease in combustion features and
+combustion-derived materials within the sampled sequence. If this
+is the case, it would represent a distinct break in the organization of
+space within the site. During the formation of LU 2, the location of
+hearth activity appears variable across all areas of the site. During
+the formation of LU3, on the other hand, hearth burning and related
+activities may have been repeatedly centered within a certain
+location of the shelter. This hypothesis, however, remains untested
+with the current, available exposures at the site.
+4.2.4. LU 4
+This LU marks a dramatic change within the sequence at DRS,
+not only in terms of the frequency of combustion features and
+combustion-derived components, but also in the MF types present.
+Therefore, we interpret LU 4 as not just a shift in the location of
+hearth-centered activities, but rather a change in the types of activities carried out at the site.
+The contact between LU 4 and LU 3 is sharp and similar to
+other contacts between individual MF units throughout the DRS
+sequence. Thus, there is no micromorphological evidence for a
+signiﬁcant hiatus in sedimentation. Some combustion features are
+similar to those present in LU 2. These lenticular hearths are
+comprised of charcoal-rich bases and ashy tops. However, the
+majority of the combustion features in LU4 are not lenticular, but
+are rather laterally extensive deposits of ash and charcoal. In thin
+section, many of these features appear to be ash-dumpsdfeatures
+that result from a type of activity that is not evidenced in the
+underlying LUs. The dark-colored deposits within LU 4 are charcoal rich in thin section, and when not associated with a hearth
+base (MF type 4) are usually categorized as MF type 1c (trampled).
+The trampled deposits within LU4 contain signiﬁcantly more
+abundant charcoal compared to other deposits in the DRS
+sequence and also do not exhibit the microgranular MF type that
+is so common in LUs 1e3. In addition to ash dumps, another
+microfacies association found for the ﬁrst time in LU4 is burnt
+bedding (MF types 6 and 7). Although only one occurrence of this
+microfacies association was identiﬁed in thin section, thin, laterally continuous laminations visible in the ﬁeld within LU 4 at DRS
+
+3450
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+resemble similar laminations that were interpreted as bedding at
+Sibudu (Wadley et al., 2011). This observation implies that burnt
+bedding is more abundant at DRS than might be suggested by the
+present samples.
+Superﬁcially, LU 4 at DRS resembles stacked combustion feature
+deposits from other Middle Paleolithic and MSA sites. However, our
+high-resolution analyses reveal that LU 4 at DRS is most similar to
+deposits such as the post-HP layers at Sibudu (Goldberg et al., 2009;
+Wadley et al., 2011) and Layer 8 at Pech de l’Azé IV, France (Dibble
+et al., 2009), and is not consistent in composition with the stacked
+hearths of Kebara (Meignen et al., 2007) or Hayonim caves, Israel
+(Goldberg and Bar-Yosef, 1998). LU 4 at DRS represents a complex
+palimpsest of multiple occupations in which different, spatiallydeﬁned activities occurred, leaving behind distinct, individual MF
+units. As occupation followed occupation, the different microfacies
+were superposed, creating the stacked, “layer-cake”-like deposit we
+see today. The range of MF types present within LU 4 at DRS suggests that the humans responsible for the accumulation of these
+deposits were living within the shelters very differently from the
+previous occupants. The previous occupants lived atop, and
+extensively trampled, exposed dirt surfaces. In contrast, the LU 4
+occupants constructed surface preparations in the form of organic
+bedding. Once this bedding had served its purpose, it was lit on ﬁre.
+This behavior is a form of site maintenance activity (Goldberg et al.,
+2009; Wadley et al., 2011). Other maintenance behaviors, such as
+hearth rake-out and cleaning, are evidenced by ash dumps, which
+are numerous within LU 4. These features are important for understanding the duration of site occupation, because cleaning of a
+hearth implies its repeated use. This behavior is not evidenced in
+the hearths found in LU 2, which appear to have been abandoned
+after use. When burning localities were reused within LU 2, it was
+only after the existing hearth, presumably from a previous occupation of the site, had been abandoned for some time. In general,
+the deposits of LU 4 are not just the result of an increase in occupational intensity, but they also record a change in the types and
+arrangement of domestic activities occurring at the site. As in the
+post-HP layers at Sibudu (Goldberg et al., 2009) and in the Upper
+Paleolithic layers at Hohle Fels (Miller, 2010), the uppermost lithostratigraphic unit at DRS records a marked increase in sitemaintenance activities.
+4.3. Diagenesis at DRS
+Post-depositional chemical diagenesis at DRS appears complex,
+and we currently have only a partial picture of all relevant diagenetic processes acting at the site. The main diagenetic minerals
+identiﬁed include gypsum, nitrates (both potassium and sodium),
+and phosphates. The gypsum likely has several, non-mutually
+exclusive, origins, including guano (Shahack-Gross et al., 2004),
+ashes (Schiegl and Conard, 2006), and marine aerosols. The location
+of gypsum along the walls of the shelter where birds roost, supports
+the guano hypothesis. However, it is not clear if guano explains the
+occurrence of all forms of gypsum at DRS, particularly within the
+sediments. Gypsum is commonly, but not exclusively, associated
+with ashy MF units, suggesting that the Caþ2 ions in the gypsum
+may be derived from the alteration of calcareous ashes.
+Many of the calcareous ashes at DRS are well preserved, but
+show localized effects of decalciﬁcation and recrystallization.
+Although phosphates, likely derived from guano (Hutchinson,
+1950) and other biological sources, are present, phosphatization
+of ashes does not seem to have been a major diagenetic process at
+DRS. The altered ashes do not ﬂuorescence, as one would expect if
+they were phosphatized. Rather, the altered ashes appear isotropic
+in XPL, suggesting the ash remains are composed mostly of amorphous silica (Schiegl et al., 1996).
+
+Nitrates are also relatively common at DRS and likely have a
+biogenic origin (Sandler et al., 1988). A study of salt encrustations
+on South African rock shelters with active rock hyrax populations
+identiﬁed nitrates, gypsum, and phosphates, along with rarer salts,
+including syngenite (K2Ca(SO4)2$H2O) and polyhalite (K2Ca2Mg(SO4)4$2H2O) (Prinsloo, 2007). Rock hyrax urine, therefore, may
+provide a source of potassium for the formation of niter at the site.
+The occurrence of a thick niter crust on the surface of the site and
+along the surface of a large boulder within the excavation units of
+K5/6 and L5/6 likely formed as a result of capillary action (Weiner,
+2010) as nitrate-rich water was drawn to the surface of the site and
+the boulder. The formation of these crusts is unusual at DRS, where
+most diagenesis appears to have taken place syndepositionally. The
+niter crusts at DRS likely formed relatively late: some time after the
+deposition and surﬁcial erosion of LU 4, between the MSA and LSA
+occupations.
+Although we have only a preliminary understanding of the
+diagenetic processes acting at DRS, the presence of phosphate
+minerals, gypsum, and most importantly, nitrates suggests that the
+sediment moisture regime was arid throughout the deposition of
+the sequence. It is this aridity which accounts for the excellent
+preservation of organic materials at the site. Most of the diagenesis
+at DRS appears to have occurred at or very near the surface of the
+individual MF units. In any case, there is little to no evidence for
+large volumes of water moving throughout the sequence. Rather,
+the concentration and clear association of diagenetic minerals near
+paleosurfaces within the sequence suggest that the main source of
+moisture for the diagenetic reactions was likely dew or fog. The
+intensity of diagenesis generally appears to decrease from the
+bottom to the top of the sequence. This trend is likely a result of the
+higher concentration of calcareous ashes within LU 4, which would
+have acted as a chemical buffer.
+5. Conclusions
+The sequence at DRS formed through a complex interaction of
+depositional and post-depositional geogenic, biogenic and
+anthropogenic processes. Our micromorphological analyses
+demonstrate that humans contributed signiﬁcantly to the formation of the site. Behaviors such as the burning and maintenance of
+hearths, and the construction and burning of bedding contributed
+to primary sedimentation. The modiﬁcation of surfaces through
+trampling contributed to secondary mechanical breakdown and
+redistribution of materials within the site. Furthermore, our study
+provides information and context for the evaluation of the technological and cultural sequence at the site.
+5.1. Archaeosequence
+The evidence for the early appearance of HP technology at DRS
+do not rest solely on radiometric ages (Tribolo et al., 2009, 2013),
+but also on stratigraphic arguments (Porraz et al., 2013). Some elements of HP technology appear below the “Classic HP” (Porraz
+et al., 2013), and Early HP technology co-occurs with bifacial
+technology across six SUs. Our micromorphological observations
+and site formation model do not support the hypothesis that bioturbation or other post-depositional vertical disturbances are
+responsible for the early appearance of HP technologies or cooccurrence of different technological elements. Our analyses
+reveal that the entire DRS sequence is composed of numerous, individual depositional events and well-preserved paleosurfaces. The
+only post-depositional mixing process that is evidenced in thin
+section is trampling, which resulted in the mixing of materials over
+horizontal areas, but only impacted the upper mm of exposed
+surfaces. Had other types of mixing processes occurred, speciﬁcally
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+those that could have moved large artifacts over many cms of
+vertical distance, the individual MF units that we observe would
+not be preserved.
+We also do not observe any major depositional or occupational
+hiatuses within the sequence e except for the boundary between
+the MSA and LSA e a hiatus in occupation observed both stratigraphically and in the radiometric dating sequences (Jacobs et al.,
+2008; Tribolo et al., 2009, 2013). The DRS sequence is therefore
+different from southern African MSA sites, such as Sibudu (Wadley
+and Jacobs, 2006), that contain evidence for repeated hiatuses in
+sedimentation. Although the numerous paleosurfaces at DRS do
+represent discontinuities, they are most likely not laterally extensive or long lived. Anthropogenic deposition at DRS was generally
+constant, but occurred in spatially discrete areas during different
+occupations, so that some surfaces of the shelter experienced
+limited or no deposition while others experienced deposition in the
+form of hearth burning or other human activities. The sum of these
+processes produced a more-or-less continuous stratigraphic
+sequence.
+5.2. Shifting modes of occupation
+One of the most striking visual aspects of the DRS sequence is
+the variation in types of deposits, which we used to deﬁne four
+distinct LUs. Our micromorphological analysis shows that the
+variation in sediments at the site is largely the result of diachronic
+changes in types of human activities conducted at DRS. During the
+deposition of LUs 1e3, corresponding to pre-SB, SB, Early HP, MSAJack and Intermediate HP (type Jeff), hearths were abandoned after
+use, and apparently not maintained (e.g., no rake-out). The surfaces
+of the occupations were not prepared, and show extensive evidence
+for trampling. In LU 4, which corresponds with the Intermediate HP
+(type Fiona), Late HP, and the post-HP, we see a dramatic change in
+the types of activities conducted at the site. Although some hearths
+are clearly preserved, many were cleaned out, and maintained for
+possible reuse. The occupants also began to construct ﬂoor preparations, in the form of bedding. Once this bedding had served its
+purpose, it was lit on ﬁre, likely as part of site maintenance activities (Goldberg et al., 2009; Wadley et al., 2011). In general, the
+diachronic change in the types of anthropogenic deposits at DRS
+suggests a shift in the mode of occupation at the site, with the inhabitants placing a greater investment in the structuring and
+maintenance of their domestic space.
+In sum, micromorphological and FTIR analyses at DRS not only
+provide a context in which to interpret other classes of data, but
+also provide information on human behaviors that are invisible to
+other types of archaeological analysis. Future geoarchaeological
+work at the site will focus on understanding the diagenetic pathways and processes that have chemically altered the archaeological
+record. As excavations continue, we will also expand the spatial
+coverage of sampling in order to test our hypotheses on shifting
+modes and centers of occupation. The results and formation model
+presented here, however, clearly demonstrate that by applying a
+microcontextual (Goldberg and Berna, 2010) approach to the geoarchaeological record, we can investigate deposits as artifacts in
+their own right.
+Acknowledgments
+The Diepkloof excavation has been funded by the French Ministry of Foreign Affairs (MAE, sous-direction de l’Archéologie), the
+Provence-Alpes-Côte d’Azur region, the Aquitaine region, the
+Centre National de la Recherche Scientiﬁque (CNRS) and has
+beneﬁted from additional ﬁnancial support from the Paleontological Scientiﬁc Trust (PAST) and the National Research Foundation
+
+3451
+
+(NRF) of South Africa. Christopher Miller’s position is funded by the
+Carl-Zeiss-Stiftung. We would like to thank Susan Mentzer, Andrew
+Kandel and the anonymous reviewers for providing helpful comments to earlier versions of this manuscript.
+References
+Angelucci, D.E., 2010. The recognition and description of knapped lithic artifacts in
+thin section. Geoarchaeology 25, 220e232.
+Berna, F., Goldberg, P., 2008. Assessing Paleolithic pyrotechnology and associated
+hominin behavior. Israel Journal of Earth Sciences 56, 107e121.
+Berna, F., Matthews, A., Weiner, S., 2004. Solubilities of bone mineral from
+archaeological sites: the recrystallization window. Journal of Archaeological
+Science 31, 867e882.
+Cabanes, D., Mallol, C., Expósito, I., Baena, J., 2010. Phytolith evidence for hearths
+and beds in the Late Mousterian occupations of Esquilleu Cave (Cantabria,
+Spain). Journal of Archaeological Science 37, 2947e2957.
+Canti, M.G., Linford, N., 2000. The effects of ﬁre on archaeological soils and sediments: temperature and colour relationships. In: Proceedings-prehistoric Society, vol. 66. The Prehistoric Society, pp. 385e396.
+Canti, M.G., 2003. Aspects of the chemical and microscopic characteristics of plant
+ashes found in archaeological soils. Catena 54, 339e361.
+, C.Cartwright, 2013. Identifying the woody resources of Diepkloof Rock Shelter
+(South Africa) using scanning electron microscopy of the MSA wood charcoal
+assemblages. Journal of Archaeological Science 40, 3463e3474.
+Courty, M.-A., 2001. Microfacies analysis assisting archaeological stratigraphy. In:
+Goldberg, P., Holliday, V.T., Ferring, C.R. (Eds.), Earth Sciences and Archaeology.
+Kluwer Academic/Plenum, New York.
+Courty, M.-A., Goldberg, P., Macphail, R., 1989. Soils and Micromorphology in
+Archaeology. Cambridge University Press, Cambridge.
+Dayet, L., Texier, P.-J., Daniel, F., Porraz, G., 2013. Ochre resources from the Middle
+Stone Age sequence of Diepkloof Rock Shelter, Western Cape, South Africa.
+Journal of Archaeological Science 40, 3492e3505.
+Dibble, H.L., Berna, F., Goldberg, P., McPherron, S.P., Mentzer, S., Niven, L., Richter, D.,
+Sandgathe, D., Théry-Parisot, I., Turq, A., 2009. A Preliminary Report on Pech de
+l’Azé IV, Layer 8 (Middle Paleolithic, France). Paleoanthropology 2009, 182e219.
+Flügel, E., 2004. Microfacies of Carbonate Rocks: Analysis, Interpretation and
+Application. Springer, Berlin.
+Gé, T., Courty, M.-A., Matthews, W., Wattez, J., 1993. Sedimentary formation processes of occupation surfaces. In: Goldberg, P., Nash, D.T., Petraglia, M.D. (Eds.),
+Formation Processes in Archaeological Context. Prehistory Press, Madison (WI),
+pp. 149e163.
+Goldberg, P., Bar-Yosef, O., 1998. Site formation processes in Kebara and Hayonim
+Caves and their signiﬁcance in Levantine prehistoric caves. In: Akazawa, T.,
+Aoki, K., Bar-Yosef, O. (Eds.), Neandertals and Modern Humans in Western Asia.
+Plenum, New York, pp. 107e123.
+Goldberg, P., Berna, F., 2010. Micromorphology and context. Quaternary International 214, 56e62.
+Goldberg, P., Miller, C.E., Schiegl, S., Ligouis, B., Berna, F., Conard, N., 2009. Bedding,
+hearths, and site maintenance in the Middle Stone Age of Sibudu Cave,
+KwaZulu-Natal, South Africa. Archaeological and Anthropological Sciences 1,
+95e122.
+Horwitz, L.K., Goldberg, P., 1989. A study of Pleistocene and Holocene hyaena
+coprolites. Journal of Archaeological Science 16, 71e94.
+Hutchinson, G.E., 1950. The Biogeochemistry of Vertebrate Excretion. Bulletin of the
+American Museum of Natural History 96, 1e554.
+Jacobs, Z., Roberts, R.G., Galbraith, R.F., Deacon, H.J., Grün, R., Mackay, A., Mitchell, P.,
+Vogelsang, R., Wadley, L., 2008. Ages for the Middle Stone Age of Southern
+Africa: implications for human behavior and dispersal. Science 322, 733e735.
+Karkanas, P., Pavlopoulos, K., Kouli, K., Ntinou, M., Tsrtsidou, G., Facorellis, Y.,
+Tsourou, T., 2011. Paleoenvironments and site formation processes at the
+Neolithic lakeside settlement of Dispilio, Kastoria, Northern Greece. Geoarchaeology: an International Journal 26, 83e117.
+Lenoble, A., 2003. Le rôle du ruissellement dans la formation des sites préhistoriques: approche expérimentale. Unpublished doctoral dissertation, University of Bordeaux I.
+Lenoble, A., Martineau, M., 2003. Apport du pénétromètre à la connaissance d’un
+site préhistorique: le cas de l’abri de Diepkloof, Province du Cap, Afrique du Sud.
+Revue d’Archeometrie 27, 27e36.
+Mallol, C., Hernández, C.M., Cabanes, D., Sistiaga, A., Machado, J., Rodríguez, Á.,
+Pérez, L., Galván, B., 2012. The Black Layer of Middle Paleolithic combustion
+structures. Interpretation and archaeostratigraphic implications. Journal of
+Archaeological Science. http://dx.doi.org/10.1016/j.jas.2012.09.017.
+Meignen, L., Goldberg, P., Bar-Yosef, O., 2007. The Hearths at Kebara Cave and their
+role in site formation processes. In: Bar-Yosef, O., Meignen, L. (Eds.), Kebara Cave
+Mt. Carmel, Israel. The Middle and Upper Paleolithic Archaeology, Part I.
+Peadbody Museum of Archaeology and Ethnology Harvard University, Cambridge, MA, pp. 91e122.
+Mentzer, Susan M., 2012. Microarchaeological approaches to the identiﬁcation and
+interpretation of combustion features in prehistoric archaeological sites. Journal
+of Archaeological Method and Theory, 1e53.
+Miller, C.E., 2010. Formation Processes, Paleoenvironments, and Settlement Dynamics at the Paleolithic Cave Sites of Hohle Fels and Geißenklösterle: a
+
+3452
+
+C.E. Miller et al. / Journal of Archaeological Science 40 (2013) 3432e3452
+
+Geoarchaeological and Micromorphological Perspective. Unpublished Doctoral
+dissertation, University of Tübingen.
+Miller, C.E., 2011. Deposits as artifacts. TÜVA Mitteilung 12, 91e107.
+Miller, C.E., Conard, N.J., Goldberg, P., Berna, F., 2009. Dumping, sweeping and
+trampling: experimental micromorphological analysis of anthropogenically
+modiﬁed combustion features. P@lethnologie 2009, 25e37.
+Miller, C.E., Sievers, C., 2012. An experimental micromorphological investigation of
+bedding construction in the Middle Stone Age of Sibudu, South Africa. Journal of
+Archaeological Science 39, 3039e3051.
+Parkington, J., Rigaud, J.-Ph., Poggenpoel, C., Porraz, G., Texier, P.-J., 2013. Introduction to the project and excavation of Diepkloof Rock Shelter (Western Cape,
+South Africa): a view on the Middle Stone Age. Journal of Archaeological Science
+40, 3369e3375.
+Porraz, G., Texier, P-J., Archer, W., Piboule, M., Rigaud, J.-P., Tribolo, C., 2013. Technological successions in the Middle Stone Age sequence of Diepkloof Rock
+Shelter, Western Cape, South Africa. Journal of Archaeological Science 40,
+3376e3400.
+Prinsloo, L.C., 2007. Rock hyraces: a cause of San rock art deterioration? Journal of
+Raman Spectroscopy 38, 496e503.
+Rentzel, P., Narten, G., 2000. Zur Entstehung von Gehniveaus in sandig-lehmigen
+Ablagerungen: Experimente und archäologische Befunde. Jahresbericht der
+Archäologischen Bodenforschung des Kantons Basel-Stadt, 1999, 107e127.
+Sandler, A., Goldberg, P., Gilbert, D., 1988. Nahal Heimar Cave: Geological Observations on the Sediments. In: Atiqot, vol. 18. Israel Department of Antiquities.
+pp. 64e67.
+Schiegl, S., Conard, N., 2006. The Middle Stone Age sediments at Sibudu: results
+from FTIR spectroscopy and microscopic analyses. Southern African Humanities
+18, 149e172.
+Schiegl, S., Goldberg, P., Bar-Yosef, O., Weiner, S., 1996. Ash deposits in Hayonim and
+Kebara caves, Israel: macroscopic, microscopic and mineralogical observations,
+and their archaeological implications. Journal of Archaeological Science 23,
+763e781.
+Schiegl, S., Lev-Yadun, S., Bar-Yosef, O., Goresy, A.E., Weiner, S., 1994. Siliceous aggregates from prehistoric wood ash: a major component of sediments in Kebara
+and Hayonim caves (Israel) Israel. Journal of Earth Sciences 43, 267e278.
+Shahack-Gross, R., Ayalon, A., 2012. Stable carbon and oxygen isotopic compositions
+of wood ash: an experimental study with archaeological implications. Journal of
+Archaeological Science. http://dx.doi.org/10.1016/j.jas.2012.06.036.
+Shahack-Gross, R., Berna, F., Karkanas, P., Weiner, S., 2004. Bat guano and preservation of archaeological remains in cave sites. Journal of Archaeological Science
+31, 1259e1272.
+
+Sievers, C., Muasya, A.M., 2011. Identiﬁcation of the sedge Cladium mariscus subsp.
+Jamaicense and its possible use in the Middle Stone Age at Sibudu, KwaZuluNatal. Southern African Humanities 23, 77e86.
+Singer, R., Wymer, J.J., 1982. The Middle Stone Age at Klasies River Mouth in South
+Africa. University of Chicago Press, Chicago.
+Steele, T., Klein, R.G., 2013. The Middle and Later Stone Age Faunal remains from
+Diepkloof Rock Shelter, Western Cape, South Africa. Journal of Archaeological
+Science 40, 3453e3462.
+Stoops, G., 2003. Guidelines for Analysis and Description of Soil and Regolith Thin
+Sections. Soil Science Society of America, Madison, WI.
+Texier, P.-J., Porraz, G., Parkington, J., Rigaud, J.-P., Poggenpoel, C., Tribolo, C., 2013.
+The context, form and signiﬁcance of the MSA engraved ostrich eggshell
+collection from Diepkloof Rock Shelter, Western Cape, South Africa. Journal of
+Archaeological Science 40, 3412e3431.
+Tribolo, C., Mercier, N., Valladas, H., Joron, J.L., Guibert, P., Lefrais, Y., Selo, M.,
+Texier, P.-J., Rigaud, J.-P., Porraz, G., Poggenpoel, C., Parkington, J., Texier, J.-P.,
+Lenoble, A., 2009. Thermoluminescence dating of a StillbayeHowiesons Poort
+sequence at Diepkloof Rock Shelter (Western Cape, South Africa). Journal of
+Archaeological Science 36, 730e739.
+Tribolo, C., Mercier, N., Douville, E., Joron, J.-L., Reyss, J.-L., Rufer, D., Cantin, N.,
+Lefrais, Y., Miller, C.E., Parkington, J., Porraz, G., Rigaud, J.-P., Texier, P.-J., 2013.
+OSL and TL dating of the Middle Stone Age sequence of Diepkloof Rock Shelter
+(Western Cape, South Africa): a clariﬁcation. Journal of Archaeological Science
+40, 3401e3411.
+Villagran, X.S., Balbo, A.L., Madella, M., Villa, A., Estevez, J., 2011. Stratigraphic and
+spatial variability in shell middens: microfacies identiﬁcation at the ethnohistoric site Tunel VII (Tierra del Fuego, Argentina). Archaeological and Anthropological Sciences 3, 357e378.
+Wadley, L., Jacobs, Z., 2006. Sibudu Cave: background to the excavations, stratigraphy and dating. Southern African Humanities 18, 1e26.
+Wadley, L., Sievers, C., Bamford, M., Goldberg, P., Berna, F., Miller, C., 2011. Middle
+Stone Age bedding construction and settlement patterns at Sibudu, South Africa. Science 334, 1388e1391.
+Weiner, S., 2010. Microarchaeology, Beyond the Visible Archaeological Record.
+Cambridge University Press, Cambridge.
+Weiner, S., Goldberg, P., Bar-Yosef, O., 2002. Three-dimensional distribution of
+minerals in the sediments of Hayonim Cave, Israel: diagenetic processes and
+archaeological implications. Journal of Archaeological Science 29, 1289e1308.
+Weiner, S., Schiegl, S., Goldberg, P., Bar-Yosef, O., 1995. Mineral assemblages in
+Kebara and Hayonim Caves, Israel: excavation strategies, bone preservation, and
+wood ash remains Israel. Journal of Chemistry 35, 143e154.
+
+

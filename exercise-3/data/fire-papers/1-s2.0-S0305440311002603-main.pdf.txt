@@ -1,0 +1,1196 @@
+Journal of Archaeological Science 38 (2011) 3340e3349
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+The oldest handaxes in Europe: fact or artefact?
+Juan Manuel Jiménez-Arenas a, b, *, Manuel Santonja c, Miguel Botella d, Paul Palmqvist e
+a
+
+Departamento de Prehistoria y Arqueología, Facultad de Filosofía y Letras, Campus de Cartuja s/n, 18071 Granada, Spain
+Instituto Universitario de la Paz y los Conﬂictos, Universidad de Granada, C/Rector López Argüeta, Edif. Centro de Documentación Cientíﬁca, 10871 Granada, Spain
+c
+Centro Nacional de Investigación sobre la Evolución Humana (CENIEH), Paseo Sierra de Atapuerca s/n, 09002 Burgos, Spain
+d
+Laboratorio de Antropología, Facultad de Medicina, Universidad de Granada, Avenida de Madrid 11, 18012 Granada, Spain
+e
+Departamento de Ecología y Geología (Área de Paleontología), Facultad de Ciencias, Campus Universitario de Teatinos, 29071 Málaga, Spain
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 7 June 2011
+Received in revised form
+22 July 2011
+Accepted 23 July 2011
+
+Hominin presence is well documented in a number of Early Pleistocene and early Middle Pleistocene
+European localities. However, the evidence currently available indicates that Acheulean handaxes spread
+in the ﬂuvial basins of Western Europe during MIS 11, w400 kyr ago, associated with Homo heidelbergensis, although a number of early Middle Pleistocene Acheulean assemblages have been dated
+from MIS 16 onwards. For this reason, the magnetostratigraphic dating in Southeast Spain of two
+archaeological localities, the open-air site of Solana del Zamborino (SZ) and the rock-shelter site of Cueva
+Negra del Estrecho del Quípar (EQ), that put back the appearance of handaxes to the Early-Middle
+Pleistocene limit (Scott and Gibert, 2009) is of particular interest, as the new ages suggest that
+H. heidelbergensis was a contemporary of H. antecessor that had the ability to produce Levallois debitage
+and to control ﬁre during the Early-Middle Pleistocene transition. However, we have detected a number
+of errors in the interpretation of the archaeological assemblage from the ﬁrst site as well as striking
+discrepancies with the original faunal lists published for both localities, with several large mammal
+species that are omitted or arbitrarily changed to make the assemblages consistent with the new ages
+deduced from magnetostratigraphy. For this reason, we suggest that: (1) the ﬁnding of reverse polarity in
+the sediments sampled for paleomagnetism in SZ may simply record one of the polarity reversals that
+took place during the Brunhes Chron, although the use by Scott and Gibert (2009) of a composite
+stratigraphic column precludes correlating these levels with a speciﬁc reversal; and (2) the fauna and
+tools of EQ correspond to the late Middle Pleistocene sedimentary inﬁllings of this karst site, while the
+samples taken for paleomagnetism belong to a previous sedimentary cycle during the Matuyama Chron.
+Such interpretations would be in better agreement with the age estimates provided by biostratigraphy
+and also with the currently accepted chronology for the appearance of Acheulean industries in Western
+Europe.
+Ó 2011 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Early Pleistocene
+Acheulean handaxes
+Paleomagnetism
+Biostratigraphy
+Southeast Spain
+
+1. Introduction
+During the last two decades, a number of issues related to the
+earliest arrival of the genus Homo in Europe have been subject to
+intense debate, including the chronology of the ﬁrst human settlements (e.g., Dennell and Roebroeks, 1996, 2005; Dennell, 2003;
+Moncel, 2010), the dispersal routes (e.g., Bar-Yosef and Belfer-Cohen,
+2001; Nikitas and Nikita, 2005), the techno-cultural developments
+
+* Corresponding author. Departamento de Prehistoria y Arqueología, Facultad de
+Filosofía y Letras, Campus de Cartuja s/n, 18071 Granada, Spain. Tel.: þ34
+958248861; fax: þ34 958244089.
+E-mail addresses: jumajia@ugr.es (J. M. Jiménez-Arenas), manuel.santonja@
+cenieh.es (M. Santonja), mbotella@ugr.es (M. Botella), ppb@uma.es (P. Palmqvist).
+0305-4403/$ e see front matter Ó 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2011.07.020
+
+of the population that dispersed out of Africa (e.g., Carbonell et al.,
+1999, 2010; Antón and Swisher, 2004; Toro et al., 2009, in press)
+and both the ecological context and climatic conditions in which this
+dispersal event took place (e.g., Arribas and Palmqvist, 1999;
+Martínez-Navarro, 2004, 2010; Rook et al., 2004; Turner & O’Regan,
+2007; Agustí et al., 2009).
+Up to the mid-nineties, most researchers believed that there
+was no signiﬁcant habitation in Europe before Middle Pleistocene
+times, thus favoring a “short chronology” (Carbonell and Rodríguez,
+1994; Roebroeks & van Kolfschoten, 1994) for the earliest permanent human settlements (i.e., 600e500 kyr, as evidenced in the
+sites of Boxgrove and Mauer; Roberts et al., 1994; Wagner et al.,
+2010). However, this chronology was shortly overturned by the
+discoveries of Early Pleistocene human remains and tools in
+
+J.M. Jiménez-Arenas et al. / Journal of Archaeological Science 38 (2011) 3340e3349
+
+a number of sites from Atapuerca, Spain (Carbonell et al., 1995,
+2008; Bermúdez de Castro et al., 1997, 2010). In addition, an early
+dispersal of Homo out of Africa is now well documented by the
+ﬁnding of Oldowan tools and human skeletal remains in Dmanisi,
+a Caucasian locality at the gates of Europe dated at w1.8 Myr
+(Gabunia and Vekua, 1995; Gabunia et al., 2000, 2001; de Lumley
+et al., 2002; Vekua et al., 2002; Lordkipanidze et al., 2005).
+Cranial remains of this population are broadly similar in shape to
+African Homo ergaster (Rosas and Bermúdez de Castro, 1998;
+Arribas and Palmqvist, 1999; Vekua et al., 2002; Rightmire et al.,
+2006) and show an unexpectedly high level of sexual dimorphism. A very large mandible was ascribed to a new human species,
+Homo georgicus (Gabunia et al., 2002), although this taxonomic
+asignment is far from being unanimously accepted. According to
+Lordkipanidze et al. (2007), the Dmanisi hominins display a mosaic
+of plesiomorphic traits (e.g., small body size, high degree of sexual
+dimorphism, low encephalization and absence of humeral torsion,
+as in Homo habilis) and derived features (e.g., modern-human-like
+body proportions and lower limb morphology indicative of the
+capability of traveling long distances, as in H. ergaster). In addition,
+a recent study on the craniometric variability in the genus Homo
+has shown the morphological afﬁnities between African H. habilis
+(s.l.) and the Dmanisi population (Jiménez-Arenas et al., in press).
+The Dmanisi population is the only one found out of Africa showing
+a genuine Oldowan artifact tradition (Mgeladze et al., 2011), which
+indicates that the earliest members of Homo that dispersed in Asia
+had not developed an Acheulean technology by these times
+(however, it should be kept in mind that classiﬁcation of industries
+from wide-spread regions as ’Oldowan’ is not necessarily useful;
+see discussion in Shea, 2010).
+Hominin presence is well documented during the Early Pleistocene and early Middle Pleistocene at a number of Western European
+sites (e.g., Barranco Leon and Fuente Nueva-3 in the Orce region,
+southeast Spain; Sima del Elefante and Gran Dolina TD-6 at Atapuerca, northwest Spain; Pirro Nord, in Italy; Happisburgh-3 and
+Pakeﬁeld in England), with ages between w1.4 and w0.7 Myr
+(Arzarello and Peretto, 2010; Arzarello et al., 2007; Carbonell et al.,
+1995, 2008; Bermúdez de Castro et al., 1997, 2010; MartínezNavarro et al., 1997; Falguerès et al., 1999; Oms et al., 2000;
+Palmqvist et al., 2005; Moncel, 2010; Parﬁtt et al., 2010). In addition, a number of Mode 1 assemblages dated between 1.57 and
+1.0 Myr have been described in several European localities (e.g., Pontde-Lavaud, Lezignan and Le Vallonnet in France; Monte-Poggiolo
+and Pirro Nord in Italy; Vallparadis in Spain; see review and references in Moncel, 2010), but there are reservations on both their age
+and stratigraphic position, as well as on the artifacts themselves.
+Comparative analyses of the faunal assemblages from these
+European sites with those from Africa, the Near East and Asia
+provide increasing evidence that hominins did not disperse alone
+out of Africa, but were accompanied by other immigrants such as
+the saber-tooth felid Megantereon whitei, the short-faced hyena
+Pachycrocuta brevirostris, the jaguar Panthera gombaszoegensis, the
+hippo Hippopotamus antiquus, and the giant gelada Theropithecus
+oswaldi (Martínez-Navarro and Palmqvist, 1995, 1996; Arribas and
+Palmqvist, 1999; Martínez-Navarro, 2004, 2010; Rook et al.,
+2004). However, while it seems clear that some of these immigrants dispersed into Europe from Africa, as they are found in the
+Levantine corridor (e.g., H. antiquus and M. whitei) and the Caucasus
+(M. whitei) but not in Southern and Central Asia, the dispersal of
+others (e.g., P. brevirostris) would in all probability be from Asia, as
+they were extinct in Africa by Early Pleistocene times (Palmqvist
+et al., 2007, in press).
+It is worth stressing the chronological and technological distance
+between the African Oldowan and the European Mode 1 technocomplex. Oldowan industries in a strict sense range in Africa eand
+
+3341
+
+also in Dmanisie between w2.6 and w1.5 Myr (Semaw, 2000). These
+tools are usually associated with H. habilis, although a number of
+hominins could also potentially be the Oldowan tool-makers. In
+contrast, the Acheulean techno-complex spreads after the emergence
+of H. ergaster. This reinforces the hypothesis pioneered by Isaac (1971),
+in which the Developed Oldowan industries that appear later and last
+up to the Middle Pleistocene are considered as a behavioral and/or
+ecological facies of the Acheulean Industrial Complex. Such an interpretation was initially proposed for the lithic assemblages from Olduvai and Ubeidiyah, and later for the Middle Awash (Hay, 1976; BarYosef and Goren-Inbar, 1993; Clark and Shick, 2002). A uniﬁed technological interpretation has also been proposed also in Europe for the
+Acheulean and for the Middle Pleistocene lithic assemblage without
+handaxes of Venosa-Notarchirico (Piperno, 1999). However, in order
+to test whether the European Mode 1 represents an Acheulean facies,
+as in Africa, it would be necessary to conﬁrm the presence of
+Acheulean industries in the Early Pleistocene, with similar chronologies to those of the oldest Mode 1 assemblages. La Noire in France
+(Moncel, 2010) is a locality to bear in mind, and a ﬁrst evidence in the
+Iberian Peninsula could be Cueva Negra del Estrecho del Río Quípar
+(Scott and Gibert, 2099), although in the latter site only a single
+handaxe from a poorly speciﬁed technological and stratigraphic
+context has been reported (see below). An alternative hypothesis that
+must be considered is that the European Mode 1 had an Asian origin,
+not directly linked to Africa, which is supported by the Asian afﬁnities
+of the skeletal remains attributed to Homo sp. from Sima del Elefante
+(Atapuerca, Spain), the oldest known in Europe (Bermúdez de Castro
+et al., 2011). In any case, it is worth pointing out that, on the one hand,
+the one-to-one association of hominin species with speciﬁc technocomplexes is not necessarily secure. On the other, the assemblages
+from most of the late Early Pleistocene and early Middle Pleistocene
+sites in Europe are relatively small (e.g., Carbonell et al., 1999; Toro
+et al., 2009; Parﬁtt et al., 2005, 2010), which makes it difﬁcult to
+identify the technology present and assess whether handaxes are
+likely to have been present had the assemblage been larger (Santonja
+and Villa, 2006: pp. 432e433).
+Acheulean industries emerged in Africa between 1.65 and
+1.5 Myr (Asfaw et al., 1992; Roche et al., 2003; Gibbon et al., 2009;
+Semaw et al., 2009), but they spread on the ﬂuvial basins of
+Western Europe during MIS 11, w400 kyr ago (Tuffreau and Antoine,
+1995; Bridgland et al., 2006; Antoine et al., 2010; Santonja and
+Pérez-González, 2010). There are, however, a number of early
+Middle Pleistocene localities with Acheulean tools dated from MIS
+16 onwards, including Venosa-Notarchirico (w640 kyr) in Italy, La
+Noire and the lower levels of L’Arago in France, or Boxgrove in
+England (Piperno, 1999; Lefevre et al., 2010; Despriée et al., 2009;
+Falguères et al., 2004; Roberts and Parﬁtt, 1999). The only tool
+found in the Iberian Peninsula with a similar chronology is the
+handaxe from Sima de los Huesos, in the karstic complex of Atapuerca (Carbonell et al., 2003), which has an age estimated in
+>530 kyr (Bischoff et al., 2007). Although the lithic evidence from
+this site only consists of this tool, it represents the clearest association between the Acheulean techno-complex and skeletal remains
+of Homo heidelbergensis.
+The persistence of Mode 1 industries in Europe, especially in the
+Iberian Peninsula ewhere the spread of the Acheulean complex took
+place w1 Myr later than in Africa, as dicussed beforee has been
+tentatively related to the survival of saber-tooth cats in this continent until the Middle Pleistocene (Martínez-Navarro and Palmqvist,
+1995, 1996; Arribas and Palmqvist, 1999). The reason is that these
+predators, given their highly specialized dentition, left abandoned
+ungulate carcasses with large amounts of ﬂesh and all bone nutrients intact. Such resources, crucial for the subsistence strategies of
+hominins in a temperate environment, could be subsequently
+scavenged with the sharp ﬂakes and manuports (i.e., unshaped
+
+3342
+
+J.M. Jiménez-Arenas et al. / Journal of Archaeological Science 38 (2011) 3340e3349
+
+cobbles and split cobbles) characteristic of Mode 1 assemblages, in
+competition with the giant, short-faced hyena P. brevirostris, as
+evidenced in the Orce sites (Palmqvist et al., in press).
+The ecological scenery changed dramatically in the Middle
+Pleistocene with the replacement in Europe of saber-tooths by
+African pantherine cats such as lions and leopards, predators that
+were able to exploit in more depth the carcasses of their prey
+(Arribas and Palmqvist, 1999). This forced the hominins toward
+behavioral and technological improvements that resulted in the
+development of the more effective industries of H. heidelbergensis,
+which replaced the technologically less elaborated tools of earlier
+populations, increasing the hunting abilities during the Middle
+Pleistocene (e.g., as evidenced by the wooden throwing spears from
+Schöningen, w400 kyr; Thieme, 1997). In contrast, the destiny of
+the short-faced hyenas, constrained by their enormous size and by
+a highly specialized anatomy derived from their scavenging
+behavior, was extinction (Martínez-Navarro, 2004, 2010; Palmqvist
+et al., 2007, in press).
+The appearance of the Acheulean techno-complex in Southwestern Europe would be the consequence of an early Middle
+Pleistocene dispersal from Africa of new human contingents.
+The technological variability e archaic Middle Palaeolithic and
+Acheulean e seen in this region during the second half of the Middle
+Pleistocene could even indicate the coexistence of different
+populations (i.e., the descendants of the Early Pleistocene inhabitants
+and the newcomers). Under this interpretation, a parallel transition e
+but delayed w1 Myr e to the one experienced in Africa between the
+Oldowan and Acheulean techno-complexes would not take place in
+Europe (Santonja and Villa, 2006; Santonja and Pérez-González,
+2010). In fact, the possibility of a second dispersal event during the
+Middle Pleistocene is favored by Templeton (2002), who traced from
+molecular data a more recent out of Africa expansion between 0.84
+and 0.42 Myr. According to Hublin (2009), the simultaneity between
+the emergence of bifaces in Europe and the occurrence of similar
+forms of hominins on both sides of the Mediterranean (i.e.,
+H. heidelbergensis in Europe and H. rhodesiensis in Africa) can be seen
+as the likely result of an out of Africa event in the Middle Pleistocene,
+the Acheulean being imported into Europe by a new species of largebrained hominins which replaced the earlier populations that
+developed Mode 1 tools. This dispersal event seems to coincide with
+the appearance in Europe of auroch Bos primigenius, a species
+originating in the African lineage Pelorovis (Martínez-Navarro et al.,
+2007, 2010b; Martínez-Navarro, 2010), and also with the arrival of
+a number of African carnivores (e.g., lion Panthera leo, leopard
+P. pardus and spotted hyena Crocuta crocuta) well known in the
+Middle Pleistocene of Europe (Arribas and Palmqvist, 1999;
+Martínez-Navarro and Rabinovich, 2011). The result of this faunal
+turnover was a change in the interactions between ﬂesh-eating and
+bone-cracking species of the carnivore guild (Palmqvist et al., in
+press), which opened up an opportunity for H. heidelbergensis to
+colonize Europe bearing the Acheulean technology.
+Given the arguments discussed above, the dating in Southeast
+Spain of handaxes that put back the appearance of Acheulean tools
+to the Early-Middle Pleistocene limit (Scott and Gibert, 2009) is of
+particular interest, because the ages reported on the basis of
+paleomagnetic data are w200 kyr older than those considered
+previously for the earliest Acheulean in Western Europe, which
+contradicts the currently accepted chronology for hominin
+dispersal and adaptation in the late Early and early Middle Pleistocene of Europe. In fact, the age considered for one of the sites, in
+which skeletal remains of H. heidelbergensis have been found
+associated with a single handaxe, is even older than the one
+considered for level TD-6 of Atapuerca, in which a Mode 1 tool
+assemblage is associated with H. antecessor (Carbonell et al., 1995;
+Bermúdez de Castro et al., 1997).
+
+2. Acheulean tools in the Early Pleistocene of Europe: turning
+water into wine?
+In an intriguing article (Scott and Gibert, 2009), the Acheulean
+tool assemplages from two archaeological localities, the open-air site
+of Solana del Zamborino (SZ) in the Guadix-Baza basin of Granada
+and the rock-shelter site of Cueva Negra del Estrecho del Quípar (EQ)
+in Murcia, are dated by paleomagnetic polarity to w760 kyr and
+w900 kyr, respectively, which implies that they would be substantially older than those found anywhere else in Europe. In addition,
+given that hominin teeth, initially identiﬁed as early Neanderthals
+(Walker et al., 2006b) but later as H. heidelbergensis (Walker et al.,
+2010), were also found at EQ, the new dating also means that the
+Neanderthal forerunners (i.e., H. heidelbergensis cf. steinheimensis)
+lived during the Matuyama Chron and were contemporary with
+H. antecessor.
+However, we have detected a number of errors in the interpretation of the archaeological assemblage from the ﬁrst site as
+well as striking discrepancies with the original faunal lists published for both localities. In our opinion, the inconsistencies in the
+composition of the faunal assemblages, with arbitrary changes of
+names for large mammal species that tend to make older the
+assemblages, in agreement with the new chronologies, put serious
+reservations on the ages proposed by Scott and Gibert (2009) for
+these localities. For this reason, conclusions on the oldest Acheulean chronology in Europe should be revised.
+Scott and Gibert (2009) sampled magnetostratigraphically a thick
+(>150 m) sedimentary sequence dominated by ﬂuvial deposits
+which includes the SZ fossil quarry excavated by Botella et al. (1976),
+reporting on the ﬁnding of 14 m of reverse polarity below the levels
+with the tools and 12 m of normal polarity within and above these
+beds. For this reason, they concluded that the artifact layers are
+positioned immediately above the Matuyama/Brunhes polarity
+reversal, with an age for these deposits of 770e750 kyr (i.e.,
+10e30 kyr after the polarity change). This age interval was estimated
+using the sediment accumulation rate from a “stratigraphically
+equivalent” section at Cúllar Baza-1, a locality some 40 km distant in
+the Baza subbasin (Gibert et al., 2007) composed of carbonate
+lacustrine sediments that differs from the Guadix subbasin, where is
+located SZ, as the latter shows a predominance of alluvial sediments
+(García-Aguilar and Palmqvist, in press). However, it is worth noting
+that in the lithostratigraphic column that shows the paleomagnetic
+samples (Scott and Gibert, 2009: Fig. 2), ﬁve out of the seven samples
+with reverse polarity situated below the artifact layers were not taken
+in the vertical excavation face of SZ. In fact, the stratigraphic
+description of the samples in which magnetic polarity was measured
+is insufﬁcient and, given that the depth of the stratigraphic proﬁle at
+the SZ site (w30 m; Scott and Gibert, 2009: Fig. 1) did not allow them
+to take all the samples studied, it seems that a number of sedimentary
+sequences from different places were combined in a composite
+stratigraphic column. Under these circumstances, it is difﬁcult to
+place the levels of the excavation quarry of SZ that provided the tools
+in relation to the polarity reversal with conﬁdence. In any case, it
+seems clear that the lowest samples with reversed polarity are not
+from the main proﬁle with the alleged Acheulean artefacts (for
+a stratigraphic diagram of paleomagnetic sampling, see Scott and
+Gibert, 2009: Fig. 1).
+In addition, Scott & Gibert, (2009: SI, Fig. 4) reproduce one of the
+handaxes dated from SZ. In the legend of this ﬁgure, it is
+acknowledged that this handaxe, which appears in the upper row,
+was taken from a previous publication of Botella et al. (1976). Scott
+and Gibert (2009) report the tool as coming from the base of section
+in the excavation quarry. However, Botella et al. (1976: Fig. 6, p. 34)
+describe it as a “cordiform handaxe found in the surface”. Consequently, although there is no doubt that the handaxe comes from
+
+J.M. Jiménez-Arenas et al. / Journal of Archaeological Science 38 (2011) 3340e3349
+
+3343
+
+its original stratigraphic context but was derived from higher up
+the proﬁle.
+The tool assemblage of SZ consists of heart-shaped and lanceolate handaxes made on quartzite and ﬂint as well as single, double
+and transverse sidescrapers. Some of the published handaxes are in
+fact tool(s)-on-handaxes ebifaces support d’outil(s)e and thus
+complex techno-functional units (Boeda, 2001), which are well
+documented in the archaic Middle Palaeolithic of Europe: for
+example, in the Iberian Peninsula they appear in the Middle
+Member of Ambrona (Santonja and Pérez-González, 2006), with an
+age estimated by combined ESR and U-series of 350 Kyr. The two
+handaxes of SZ reproduced by Scott and Gibert (2009: SI, Fig. 4) are
+retouched in several portions of their edge to obtain scrapers
+(Fig. 1). In sum, they are tools-on-handaxes that are not characteristic of the Acheulean techno-complex. The lithic industry of SZ
+was preliminarily considered as Upper Acheulean (Botella et al.,
+1976: p. 36) and other researchers opened the possibility that it
+would correspond to the Middle Palaeolithic (Vega Toscano, 1989:
+p. 337). Indeed, both interpretations converge, because the European tools deﬁned previously as upper or ﬁnal Acheulean are now
+considered as facies of the archaic Middle Palaeolithic (Monnier,
+2006), a concept that ﬁts well with the lithic industry of SZ.
+Moreover, the archaeological record of SZ provides evidence of
+an anthropic ﬁreplace (Botella et al., 1976). This ﬁreplace was
+excavated at Level B (Corte 3) and was interpreted as a hearth
+delimited by quarzite blocks that shape a discrete area and show
+their internal faces burnt (Fig. 2). Such structure was plenty of
+charcoal and contained small fragments of burnt bones. The earliest
+evidence of intentional use of ﬁre in Europe is found at Beeches Pit,
+England (beds 3b, 5, and 6), dated at MIS 11 (Gowlett et al., 2005;
+Preece et al., 2006). Therefore, if the chronology suggested by
+Scott and Gibert (2009) for SZ is correct, this would imply that the
+oldest evidence of intentional use of ﬁre in Europe has an age of
+>750 kyr, which is in disagreement with the chronologies currently
+accepted (see review in Roebroeks and Villa, 2011). For this reason,
+both the interpretation of the archaeological assemblage and the
+evidence for ﬁre need to be taken into account in assessing the date
+for SZ.
+The large mammal assemblage of SZ, ﬁrst studied by MartínPenela (1988), is typical of the second half of the Middle Pleistocene in Mediterranean Europe (Table 1). In fact, most of the species
+identiﬁed in the faunal assemblage from this site are not found
+before Middle Pleistocene times and some of them (e.g., Canis lupus,
+Stephanorhinus hemitoechus, and B. primigenius) are always found in
+
+Fig. 1. Tools-on-handaxes e bifaces support d’outils e made on ﬂint from the site of
+Solana del Zamborino, Granada. The upper tool is a cordiform handaxe found in the
+surface when the excavation of the site took place. The lower tool is a lanceolate
+handaxe with the tip fractured and resharpened. Both were ﬁnished using a soft
+hammer. Nearly the whole edge of the upper handaxe and a portion of the outline of
+the lower handaxe e marked with points in both cases e were retouched and transformed in scrapers.
+
+one of the sedimentary levels of SZ and is coherent with the lithic
+industry of the site (i.e., tools developed on ﬂakes of Mousterian
+appearance, typical of the archaic Middle Palaeolithic), it cannot be
+conﬁdently dated by paleomagnetism because it was not found in
+
+Fig. 2. Evidence of intentional use of ﬁre at Solana del Zamborino: anthropic ﬁreplace
+excavated at Level B (Corte 3) of the site (taken from Botella et al., 1976: Plate V). The
+ﬁreplace preserves fragments of charcoal and burnt bones, and is surrounded by
+quartzite blocks with their internal face burnt.
+
+3344
+
+J.M. Jiménez-Arenas et al. / Journal of Archaeological Science 38 (2011) 3340e3349
+
+Table 1
+Published faunal lists of large mammals for Solana del Zamborino (SZ) and Estrecho del Quípar (EQ). The ﬁrst column includes the most comprehensive faunal lists published
+for both localities before Scott and Gibert (2009). The second provides those taxa that appear in the references cited by Scott and Gibert (2009). The third includes the taxa
+published by Scott and Gibert (2009). The asterisk indicates the taxa preserved in Level A of SZ (lowest archaeological bed, without Acheulean tools). The remaining taxa were
+collected at Levels B, C, and D.
+Martín-Penela (1988) (SZ)
+
+Ruiz-Bustos (1999a) (SZ)
+
+Scott and Gibert (2009) (SZ)
+
+Macaca sylvanus
+Mammuthus trogontherii (*)
+Palaeoloxodon antiquus
+Equus caballus torralbae
+Dicerorhinus hemitoechus
+Cervus elaphus
+Capreolus capreolus
+Dama sp.
+Bos (Bos) primigenius
+Bos (Bison) priscus
+Hippopotamus sp.
+Sus scrofa
+Canis cf. lupus
+Panthera (Leo) spelaea
+Lynx cf. pardina
+Felis sylvestris
+
+Macaca sylvanus
+Mammuthus trogontherii
+Palaeoloxodon antiquus
+Equus caballus
+Stephanorhinus hemitoechus
+Cervus elaphus
+Capreolus capreolus
+Dama sp.
+Bos primigenius
+Bison priscus
+Hippopotamus cf. amphibius
+Sus scrofa
+Canis lupus
+Panthera leo spelaea
+Lynx cf. pardina
+Felis sylvestris
+
+Macaca sp.
+Mammuthus trogontherii
+
+Walker et al. (2006a) (EQ)
+Megaceros sp.
+Stephanorrhinus (Dicerorhinus) cf. hemitoechus
+Equus caballus
+Equidae indet.
+Bison sp.
+Cervus elaphus
+Capra ibex pyrenaica
+
+Walker et al. (2006b) (EQ)
+Megaloceros (Megaceros) giganteus (probably)
+Stephanorhinus (Dicerorhinus) hemitoechus
+
+Scott and Gibert (2009) (EQ)
+Megaloceros sp.
+Stephanorrhinus etruscus
+Equus altidens
+
+Bison sp.
+
+Bison sp.
+
+Macaca cf. sylvanus
+
+Sus sp.
+Macaca sp.
+
+Homo heidelbergensis cf. steinheimensis
+
+Homo sp.
+
+Macaca sylvanus
+Bovidae cf. Bos primigenius
+Homo sapiens cf. neanderthalensis
+or H. heidelbergensis cf. subsp. steinheimensis
+Felidae indet.
+Canidae indet.
+Canis cf. lupus
+Crocuta crocuta cf. spelaea?
+Ursus cf. arctos
+Elephantidae indet.
+Cervidae indet.
+
+sites with chronologies younger than 500 kyr. However, the faunal
+list published by Scott and Gibert (2009: Table 1) e citing RuizBustos (1999a), who followed the taxonomy of Martín-Penela
+(1988) e shows a number of changes in relation to the original
+description of the mammalian assemblage. These changes in the
+attribution of species, not justiﬁed by any critical reassessment of
+their taxonomic afﬁnities, tend to make the assemblage older, in
+agreement with the new age deduced from magnetostratigraphy:
+for example, the Middle Pleistocene horse Equus caballus torralbae
+(now E. ferus torralbae) and the wolf C. lupus are arbitrarily changed
+to the Early Pleistocene Equus cf. sussenbornensis and Early Pleistocene to early Middle Pleistocene Canis mosbachensis, respectively.
+As no explanation is given for these changes, it does seem that Scott
+and Gibert (2009) amended the faunal identiﬁcations so that they
+were consistent with the early Middle Pleistocene age deduced
+from magnetic polarity.
+The composition of the mammalian assemblage identiﬁed in SZ
+(Table 1) is typical of the upper part of the Middle Pleistocene, above
+the Mimomys savini biozone, with an age of w300 kyr (MartínPenela, 1988; Cerdeño, 1989; Ruiz-Bustos, 1997, 1999a, 2002; DíazHernández and Juliá, 2006). In addition, a study by Ruiz-Bustos
+(1999b) of molar tooth size in Quaternary arvicolids showed that
+the ﬁrst lower molar experienced a gradual increase in size
+throughout the Pleistocene in the Arvicola cantiana e A. sapidus
+lineage, which allowed him to deﬁne an equation that relates tooth
+size to absolute age (Ruiz-Bustos,1999b: Fig. 3). This biochronological
+
+Equus cf. sussenbornensis
+
+Bison sp.
+Sus sp.
+Canis mosbachensis
+
+Canis mosbachensis
+Crocuta crocuta
+Ursus sp.
+Dama ‘nestii’ vallonnetensis
+
+index provided coherent age estimates for a number of Pleistocene
+localities of the Betic Chains (e.g., 1.3 Myr for Venta Micena and
+0.7 Myr for Cúllar Baza-1 in the Guadix-Baza basin, 0.9 Myr for Cueva
+Victoria). The value obtained for SZ, 0.3 Myr (Ruiz-Bustos, 1999b:
+Table 1), is in agreement with the late Middle Pleistocene age estimated for this site with the large mammal fauna and is also coherent
+with the lithic industry of SZ in the archaic Middle Palaeolithic
+context of Europe.
+Scott and Gibert (2009) assume a stratigraphic continuity
+between the levels of SZ, which is not deduced from the archaeological and paleontological evidence available. For example,
+although there are lithic tools in Level A, no handaxe was found in it
+(Botella et al., 1976). In addition, this is the only level in which
+remains of elephant Mammuthus trogontherii were unearthed. In
+the other levels, the species present is the straight-tusked Elephas
+antiquus (Martín-Penela, 1988; Ros-Montoya, 2010). This opens an
+interesting debate, as both proboscideans seem to have been
+subject to competitive exclusion, alternating in cold and warm
+periods, respectively (van der Made and Mazo, 2001), which would
+indicate the discontinuity between Level A, the lowest of the
+sequence, and Levels B, C, and D. A similar situation has been
+described for other sites: for example, M trogontherii is found in the
+Buenavista level of the alluvial terraces of the Tajo River in Toledo,
+dated to w300 kyr, while E. antiquus is found in the Pinedo level,
+which is something older (Aguirre, 1964, 1989; van der Made and
+Mazo, 2001).
+
+J.M. Jiménez-Arenas et al. / Journal of Archaeological Science 38 (2011) 3340e3349
+
+A similar scenario can be drawn for the other locality dated by
+magnetostratigraphy, EQ: in this site, Scott and Gibert (2009) report
+on the age of a single handaxe, which is considered to be w900 kyr,
+thus well below the Matuyama/Brunhes reversal. However, it is
+worth noting that the technological context of this handaxe has not
+been published and both the stratigraphy of the site and the position of the tool are not precise enough (see below). Concerning the
+faunal assemblage of EQ, Scott and Gibert (2009) indicate the
+presence of the Etruscan rhino Stephanorhinus etruscus, which has
+a Late Pliocene to Early Pleistocene age, but the species that appears
+in the original references for this site (Walker et al., 2006a, 2006b)
+is the Middle Pleistocene species Stephanorhinus (Dicerorhinus) cf.
+hemitoechus. Similarly, a number of Early Pleistocene taxa which
+were not described previously in the faunal assemblage (e.g., the
+horse Equus altidens, the small-to-medium sized wolf C. mosbachensis and the fallow deer Dama ‘nestii’ vallonnetensis) are cited
+now by Scott and Gibert (2009). In contrast, the faunal list published for EQ includes the equid Equus cf. caballus and the wolf
+Canis cf. lupus (Walker et al., 2006a, 2006b). In addition, skeletal
+remains attributed to H. heidelbergensis, the Middle Pleistocene
+hominin of Europe, have been found in the bone assemblage of EQ
+(Walker et al., 2006b). Therefore, the chronology suggested by Scott
+and Gibert (2009) would imply that this human species lived also
+during the Early Pleistocene, thus coexisting with H. antecessor.
+In contrast, Walker et al. (2006b) presented the site as consistently and convincingly early to mid-Middle Pleistocene, w500 kyr.
+The faunal list of the site (Walker et al., 2006b: p. 9) comprises
+Allophaiomys chalinei, Mimomys savini, Arvicola cf. deucalion, Pliomys episcopalis, Microtus brecciensis brecciensis, Terricola (Pitymys) huescarensis huescarensis, Allocricetus bursae, Apodemus
+ﬂavicollis, cf. Apodemus aff. mystacinus, Prolagus calpensis, Lepus sp.,
+Oryctolagus sp., Stephanorhinus (Dicerorhinus) hemitoechus, Megaloceros (Megaceros) cf. giganteus, Bison sp. and Macaca cf. sylvanus.
+According to this fauna, Walker et al. (2006b: p. 26) argued that the
+assemblage was likely Cromerian IV, possibly equivalent to MIS 11
+or MIS 13. In spite of that, Scott and Gibert (2009: Table 1) cite
+Walker et al. (2006b) as the source for their faunal list, in which
+many species are omitted or arbitrarily changed to suit the paleomagnetic evidence (see Table 1). In addition, Walker et al. (2006b)
+describe in great detail the tool assemblage of EQ as containing
+Acheulean, Levallois and Mousterian artefacts, which is again
+consistent with a mid-Middle Pleistocene age. For this reason, if the
+discovery of three Levallois ﬂakes in EQ (Walker et al., 2006a,
+2006b) situated below the level of the single Acheulean handaxe
+dated by Scott and Gibert (2009) in w900 kyr is conﬁrmed, this
+would also mean that the earliest production of Levallois debitage
+in Western Europe took place at nearly twice the age commonly
+accepted (Tryon et al., 2005; Moncel et al., 2011).
+Finally, in a recent paper, Walker et al. (2010) change completely
+their views on the dating of EQ, accepting without reservations the
+paleomagnetic evidence provided by Scott and Gibert (2009): the
+lithic assemblage is now seen as showing the ﬂexibility of early
+Pleistocene hominins and the futility of imposing rigid typological
+terms on artefact assemblages, the hominins have mutated into
+H. heidelbergensis, the fauna has also changed into being late Early
+Pleistocene, and the palynological record is interpreted as evidencing
+warm moist environmental conditions, probably MIS 21 or MIS 25. In
+fact, Walker et al. (2010) explicitly afﬁrm that biostratigraphy,
+paleomagnetism and preliminary OSL estimates all point to a late
+Early Pleistocene age, slightly before the Matuyama/Brunhes
+boundary, for the deep sedimentary ﬁll excavated in the rock-shelter
+from which the H. heidelbergensis teeth were unearthed. Consequently, Walker et al. (2010) introduce some changes in the faunal list
+(e.g., S. hemitoechus becomes now S. etruscus), although they hold the
+names of others (e.g., the equid is listed again as E. sussenbornesis, as in
+
+3345
+
+Walker et al. (2006b), not E. altidens, as in Scott and Gibert (2009)) and
+there is no mention of C. mosbachensis and Dama ’nestii’ vallonnetensis,
+both cited by Scott and Gibert (2009). The tool assemblage from the
+deep levels of EQ is interpreted now by as showing “early” and
+“middle” Palaeolithic characteristics. Speciﬁcally, Walker et al. (2010)
+describe an Acheulean handaxe, ﬂaked bifacially on a ﬂat limestone
+cobble, along with abundant small ﬂake tools on chert, limestone and
+quartzite, some of which show steep abrupt (“Mousteroid”) edgeretouch and facetted striking platforms, struck by recurrent centripetal ﬂaking from small prepared (“Levallois”) discoidal cores,
+including pointed triangular ﬂakes, sidescrapers, small carinated
+scrapers, proto-limaces, awls, denticulates, notched forms and at least
+one burin, as well as abundant knapping débris.
+3. On the presence of Early Pleistocene human remains in
+southern Spain
+Scott and Gibert (2009: Table 1) also indicate the presence of
+Homo sp. in three sites of Southeast Spain well calibrated magnetostratigraphically that are conﬁdently placed below the Jaramillo
+Subchron. Two of these localities, Venta Micena (VM) and Barranco
+León (BL) are situated in the Guadix-Baza Basin near the village of
+Orce, with ages estimated by biostratigraphy as w1.5 and w1.3 Myr,
+respectively (Oms et al., 2000; Palmqvist et al., 2005; MartínezNavarro et al., 2010a).
+In VM, three fragmentary bone specimens (skull cap VM-0,
+humeral diaphysis VM-1960 and distal humerus VM-3691) have
+been attributed to the genus Homo (Gibert et al., 1989, 1998, 1999a;
+Gibert and Palmqvist, 1995; Lowenstein et al., 1999). However, the
+human afﬁnities of these fossils have been seriously questioned and
+none of them is now accepted as unequivocally human (Palmqvist,
+1997; Moyà-Solà and Köhler, 1997; Martínez-Navarro, 2002;
+Palmqvist et al., 2005). In fact, the last anatomical study of VM0 concluded that this cranial fragment is part of the frontal bones
+of a female ruminant without cranial appendages (MartínezNavarro, 2002) and for VM-1960 there are also reservations on its
+human nature, because the longitudinal curvature and the shape of
+proximal and distal sections of this diaphyseal shaft match the
+anatomy of the unfused ulna of juvenile ruminants (Palmqvist et al.,
+2005). In addition, Arribas and Palmqvist (2002) used a taphonomic approach based on the binomial distribution for estimating
+as negligible the probability that a taxon of the size of an early
+Homo could be represented in the large mammal assemblage of VM
+(which includes >17 000 bones and teeth) by several bones and no
+tooth remains.
+In the case of BL, a small tooth fragment that preserves the
+mesial part of the crown and root (BL-0) has been reported as an
+upper human molar (Gibert et al., 1999b). However, there are
+reservations on the stratigraphic position of the fossil and even on
+its attribution to the genus Homo: in fact, it has been suggested that
+it could belong to a deciduous tooth fragment of H. antiquus,
+a species better represented in the faunal assemblage of this site, as
+the bunodont teeth of hippos show a thick enamel layer that
+matches the anatomy of BL-0 (Arribas and Palmqvist, 2002).
+In the third locality, the karstic site of Cueva Victoria (w1.0 Myr),
+placed near the city of Cartagena, three fossil bones have also been
+attributed to the genus Homo. Two of them are poorly preserved
+distal humeri (CV-1 and CV-2; Gibert et al., 2002) that are even less
+anatomically convincing than specimens VM-1960 and VM-3691
+cited above. The third fossil, CV-0, was initially published as
+a complete medial phalanx of a human hand (Gibert and Pons-Moyà,
+1985). However, although comparative anatomical, radiological and
+morphometric analyses of this fossil seemed to conﬁrm the preliminary diagnosis (Gibert and Pérez-Pérez, 1989; Palmqvist et al., 1996;
+Gibert et al., 2002), it was not compared to phalanges of T. oswaldi, an
+
+3346
+
+J.M. Jiménez-Arenas et al. / Journal of Archaeological Science 38 (2011) 3340e3349
+
+African immigrant in the Early Pleistocene of Europe (Rook et al.,
+2004) that is also recorded at the site (Gibert et al., 1995). Subsequent comparative studies of the anatomy of CV-0 have shown that it
+closely matches the foot phalanges of T. oswaldi, the only primate
+species conﬁdently identiﬁed at Cueva Victoria (Martínez-Navarro
+et al., 2005, 2008; but see also Gibert et al., 2008). In any case, it is
+worth noting that this site lacks a well-deﬁned stratigraphy and most
+of the fossil remains of Early Pleistocene mammals were found in
+fallen blocks inside the karstic cavity.
+Given the evidence discussed above, the only Early Pleistocene
+localities in Western Europe with conclusively identiﬁed human
+remains, apart from those of EQ, are the Atapuercan sites of Sima
+del Elefante and TD-6, dated at w1.3e1.2 Myr (Carbonell et al.,
+2008) and w0.9 Myr (Berger et al., 2008), respectively. Concerning EQ, the age estimated by paleomagnetism for this site implies
+that H. heidelbergensis inhabited Spain in the Matuyama Chron,
+which means that it would be the earliest H. heidelbergensis in both
+Europe and Africa. This seems exceedingly unlikely, as there is no
+indication of the presence of this species in the Atapuercan sites,
+where >150 specimens have now been recovered of a hominin
+most likely H. antecessor (Bermúdez de Castro et al., 1997, 2010;
+Carbonell et al., 2008).
+4. Is magnetostratigraphic dating possible without a good
+geological and biostratigraphic control?
+The arguments discussed above indicate that although magnetostratigraphy is a powerful tool for dating archaeological sites, the
+ages estimated with this geochronological technique must be
+calibrated using a well-deﬁned biostratigraphy, which was not
+done in the study of Scott and Gibert (2009).
+Scott and Gibert (2009: SI, p. 5) argue convincingly that a number
+of European “Middle” Pleistocene sites eand their associated faunae
+have only vaguely established ages, and that the biochronology for
+the latter part of the Early Pleistocene and much of the Middle
+Pleistocene will probably continue to be revised as more precise
+chronologies are applied to dispersed sites and additional stratigraphic sequences are explored and calibrated. However, if we take
+into consideration the information on the composition of the large
+mammal assemblages from SZ and EQ (Martín-Penela, 1988; RuizBustos, 1999a, 1999b, 2002; Walker, 2006a, 2006b) together with
+the interpretation of the magnetostratigraphy made by Scott and
+Gibert (2009) for these sites, this would imply that the ﬁrst appearance in the European fossil record of E. caballus, S. hemitoechus, C.
+lupus, B. primigenius and H. heidelbergensis would be in the Early
+Pleistocene. It is worth noting that we do not argue here for the
+priority of biostratigraphy over paleomagnetism, but on the
+complementarity of both approaches.
+It could be also argued, however, that the paleomagnetic
+polarities measured by Scott and Gibert (2009) in SZ and EQ sites
+(or in nearby, well correlated sections), which both show extensive
+intervals of reversed polarity, are fully independent of the fossils
+and tools contained within the strata and must be integrated into
+the Geomagnetic Polarity Time Scale (GPTS), in this case the last
+global polarity change from Reverse to Normal at 0.78 Myr.
+According to this reasoning, the ﬁnding of negative polarity in the
+beds of these sites would necessarily imply a Matuyama age for
+them, as this would be the youngest date possible.
+However, a number of reversals of the Earth’s magnetic ﬁeld from
+positive to negative polarity took place during the Brunhes Chron, as
+detected in several studies of volcanic and deep marine sedimentary
+sequences. Of these reversals, which may total up to 14 geomagnetic
+episodes lasting 5e10 kyr each, six have been consistently recorded
+and are now established as global phenomena by correlation
+between different sites (Laj and Channell, 2007: Table 1 and
+
+references listed therein). Given the extreme variability of the rates
+of sedimentation in ﬂuvial, lacustrine and karstic environments
+(Sadler, 1981), this opens up the possibility that in the two localities
+the sediments sampled were deposited during one of the short
+polarity reversals that took place during the Brunhes Chron. In such
+a case, a younger chronology for the SZ and EQ sites would be in
+better agreement with the age estimates provided by biostratigraphy (Botella et al., 1976; Martín-Penela, 1988; Walker et al., 2006a,
+2006b; Ruiz-Bustos, 1999a, 1999b, 2002) and also with the chronology for the appearance of Acheulean industries in Western
+Europe (Arribas and Palmqvist, 1999; Santonja and Villa, 2006;
+Semaw et al., 2009; Santonja and Pérez-González, 2010). However,
+given that the stratigraphic context of some of the paleomagnetic
+samples from SZ is not well described and that the stratigraphic
+column is a composite, which makes it difﬁcult to place the tools in
+relation to the Brunhes/Matuyama polarity reversal, we must admit
+that correlation with another reversal during the Brunhes Chron is
+equally uncertain.
+Compared to SZ, the situation for EQ is even more problematic
+to deal with, because the paleomagnetic samples are consistently
+reversed over several meters of deposit at this karst site. For this
+reason, it is less likely that these readings record a short paleomagnetic excursion within the Brunhes Chron, as in the case of SZ.
+It is worth noting, however, that the samples taken by Scott and
+Gibert (2009: Fig. 1) come exclusively from toward the back of
+the cave, and no additional samples were taken in the cave section
+and the front part of the karst deposits. In this case, the error would
+consist in assuming that the paleomagnetic evidence applies to the
+entire site, which suggests another possible explanation for the
+ﬁnding of reversed polarity: according to the information provided
+by Walker et al. (2006b), the complex karst inﬁllings of EQ could
+underwent two sedimentary cycles, the ﬁrst during late Matuyama
+times (hence the reversed polarity). Following tectonic activity
+(described in detail by Walker et al., 2006b), the cave was uplifted,
+and most of its sediments were removed by erosion. The cave then
+reﬁlled in the Middle Pleistocene, incorporating by these times the
+faunal assemblage and lithic artefacts. According to this interpretation, these levels of the cave section would show a normal
+polarity, consistent with the fauna and tools. Only new paleomagnetic analyses developed across the entire karst inﬁllings will
+clarify this issue.
+In summary, paleomagnetic proﬁles e and the absolute “dates”
+measured from them e are not automatically correct and must be
+properly integrated into the site stratigraphy. They are a line of
+evidence that needs checking against over types of evidence (e.g.,
+geological setting and biostratigraphy) on the likely age of a site.
+5. Concluding remarks
+Most archaeological and geochronological evidence indicates
+that Acheulean handaxes appeared in the European record during
+Middle Pleistocene times (w600 kyr), associated with remains of H.
+heidelbergensis. In spite of this, Scott and Gibert (2009) suggested
+a substantially older chronology for the earliest Acheulean of
+Southeast Spain, based on paleomagnetic data for two archaeological localities, Solana del Zamborino (SZ) and Estrecho del Quípar (EQ). However, we have detected a number of errors in their
+interpretation of the tool assemblage from the ﬁrst site as well as
+severe discrepancies with the original faunal lists published for
+both localities, with arbitrary changes of names for large mammal
+species that tend to make the bone assemblages older, as expected
+from their new age estimates. In addition, Scott and Gibert (2009)
+indicate the presence of human remains in three Early Pleistocene sites of Southeast Spain that are well calibrated biostratigraphically and magnetostratigraphically, but where the human
+
+J.M. Jiménez-Arenas et al. / Journal of Archaeological Science 38 (2011) 3340e3349
+
+afﬁnities of the fossils are far from being unanimously accepted.
+Here we argue that the ﬁnding of reverse polarity in the sediments
+sampled for paleomagnetism in SZ could merely reﬂect the fact that
+they were deposited during one of the short polarity reversals that
+took place during the Brunhes Chron. However, the use of
+a composite stratigraphic column for paleomagnetic sampling
+precludes correlating this reversal with a particular event. In the
+case of EQ the situation is more complex, but there is the possibility
+that the faunal assemblage and lithic artefacts do not correspond to
+the Early Pleistocene inﬁllings but were incorporated later, during
+a second sedimentary cycle in the Middle Pleistocene. Such interpretations would result in younger chronologies for these sites,
+which is in better agreement with the ages estimated by biostratigraphy and also with the currently accepted chronology of the
+ﬁrst Acheulean tools in Europe.
+Acknowledgments
+We are especially grateful to Professors B. Martínez-Navarro,
+A. Ruiz-Bustos and P. Villa, whose comments and suggestions on an
+earlier version of this paper helped us to improve the chronological
+aspects discussed. This research has been possible thanks to a Return
+Contract (University of Granada, Spain) to J.M.J.-A. Finantial support
+was provided by research groups HUM-607 and RNM-146 (Junta de
+Andalucía, Spain) and by research projects CGL2008-04896 and
+HAR2008-04577 (Ministerio de Ciencia e Innovación, Spain). And,
+last but not least, we gratefully acknowledge Editor R.G. Klein and
+three anonymous reviewers for their insightful comments and
+helpful criticism of the original manuscript.
+References
+Aguirre de, E., 1964. Los elefantes de las terrazas medias de Toledo y la edad de estos
+depósitos. Notas y Comunicaciones 76, 295e296.
+Aguirre de, E., 1989. Vertebrados del pleistoceno continental. In: Pérez González, A.,
+Cabra, P., Martín Serrano, A. (Eds.), Mapa del Cuaternario de España. Instituto
+Tecnológico Geominero de España, Madrid, pp. 47e69.
+Agustí, J., Blain, H.A., Cuenca-Bescós, G., Bailon, S., 2009. Climate forcing of ﬁrst
+hominid dispersal in western Europe. J. Hum. Evol. 57, 815e821.
+Antoine, P., Auguste, P., Bahain, J.-J., Chaussé, C., Falguères, C., Ghaleb, B., LimondinLozouet, N., Locht, J.-L., Voinchet, P., 2010. Chronostratigraphy and palaeoenvironments of Acheulean occupations in northern France (Somme, Seine
+and Yonne valleys). Quaternary Int. 223-224, 456e461.
+Anton, S.C., Swisher III, C.C., 2004. Early dispersals of Homo from Africa. Ann. Rev.
+Anthropol. 33, 271e296.
+Arribas, A., Palmqvist, P., 1999. On the ecological connection between sabretooths
+and hominids: faunal dispersal events in the lower Pleistocene and a review of
+the evidence for the ﬁrst human arrival in Europe. J. Archaeol. Sci. 26,
+571e585.
+Arribas, A., Palmqvist, P., 2002. The ﬁrst human dispersal to Europe: remarks on the
+archaeological and palaeoanthropological record from Orce (Guadix-Baza basin,
+southeastern Spain). Hum. Evol. 17, 55e78.
+Arzarello, M., Peretto, C., 2010. Out of Africa: the ﬁrst evidence of Italian peninsula
+occupation. Quat. Internat 223e224, 65e70.
+Arzarello, M., Marcolini, F., Pavia, G., Pavia, M., Petronio, C., Petrucci, M., Rook, L.,
+Sardella, R., 2007. Evidence of earliest human occurrence in Europe: the site of
+Pirro Nord (Southern Italy). Naturwissenschaften 94, 107e112.
+Asfaw, B., Beyene, Y., Suwa, G., Walter, R.C., White, T.D., WoldeGabriel, G.,
+Yemane, T., 1992. The earliest Acheulean from Konso-Gardula. Nature 360,
+732e734.
+Bar-Yosef, O., Belfer-Cohen, A., 2001. From Africa to Eurasia e early dispersals. Quat.
+Internat 75, 19e28.
+Bar-Yosef, O., Goren-Inbar, N., 1993. The Lithic Assemblages of ‘Ubeidiya. A Lower
+Palaeolithic Site in the Jordan Valley. Qedem 34. Institute of Archaeology,
+Hebrew University, Jerusalem.
+Berger, G.W., Pérez-Gonzalez, A., Carbonell, E., Arsuaga, J.L., Bermúdez de
+Castro, J.M., Ku, T.L., 2008. Luminescence chronology of cave sediments at the
+Atapuerca palaeoanthropological site, Spain. J. Hum. Evol. 55, 300e311.
+Bermúdez de Castro, J.M., Arsuaga, J.L., Carbonell, E., Rosas, A., Martínez, I.,
+Mosquera, M., 1997. A hominid from the lower Pleistocene of Atapuerca, Spain:
+possible ancestor to Neandertals and modern humans. Science 276, 1392e1395.
+Bermúdez de Castro, J.M., Martinón-Torres, M., Gómez Robles, A., Leyre Prado, M.A.,
+Carbonell, E., 2010. New human evidence of the Early Pleistocene settlement of
+Europe, from Sima del Elefante site (Sierra de Atapuerca, Burgos, Spain). Quat.
+Internat 223e224, 431e433.
+
+3347
+
+Bermúdez de Castro, J.M., Martinón-Torres, M., Gómez Robles, A., Leyre Prado, M.A.,
+Martín-Francés, L., Lapresa, M., Olejniczak, A., Carbonell, E., 2011. Early Pleistocene human mandible from Sima del Elefante (TE) cave site in Sierra de
+Atapuerca (Spain): a comparative morphological study. J. Hum. Evol. 61, 12e25.
+Bischoff, J.L., Ross, W.W., Robert, J.R., Aramburu, A., Arsuaga, J.L., García, N., CuencaBescós, G., 2007. High-resolution U-series dates from the Sima de los Huesos
+hominids yields 600 kyrs: implications for the evolution of the early Neanderthal lineage. J. Archaeol. Sci. 34, 763e770.
+Boeda, E., 2001. Determination des unités tecno-fonctinelles de pièces bifaciales
+provenant de la couche acheuléenne C’3 Base du site de Barbas I. In: Cliquet, D.
+(Ed.), Les industries à outils bifaciaux du Paléolithique moyen d’Europe occidentale, vol. 98. ERAUL, pp. 51e75.
+Botella, M.C., Vera, J.A., de Porta, J., 1976. El yacimiento achelense de la ‘‘Solana del
+Zamborino’’, Fonelas (Granada). Primera campaña de excavaciones, vol. 1. Cuad.
+Prehist. Univ. Granada. 1e45.
+Bridgland, D.R., Antoine, P., Limondin-Lozouet, N., Santisteban, J.J., Westaway, R.,
+White, M.J., 2006. The Palaeolithic occupation of Europe as revealed by
+evidence from the rivers: data from IGCP 449. J. Quat. Sci. 21, 437e455.
+Carbonell, E., Rodríguez, X.P., 1994. Early Middle Pleistocene deposits and artefacts
+in the Gran Dolina site (TD4) of the ‘‘Sierra de Atapuerca’’ (Burgos, Spain).
+J. Hum. Evol. 26, 291e311.
+Carbonell, E., Bermúdez de Castro, J.M., Arsuaga, J.L., Díez, J.C., Rosas, A., Cuenca, G.,
+Sala, R., Mosquera, M., Rodríguez Álvarez, X.P., 1995. Lower Pleistocene hominids and artifacts from Atapuerca-TD6 (Spain). Science 269, 826e830.
+Carbonell, E., Mosquera, M., Rodríguez, X.P., Sala, R., van der Made, J., 1999. Out of
+Africa: the dispersal of the earliest technical systems reconsidered. J. Anthropol.
+Archaeol. 18, 119e136.
+Carbonell, E., Mosquera, M., Ollé, A., Rodríguez, X.P., Sala, R., Vergès, J.M.,
+Arsuaga, J.L., Bermúdez de Castro, J.M., 2003. Les premiers comportements
+funéraires auraient-ils pris place à Atapuerca, il y a 350 000 ans? L’Anthropologie 107, 1e14.
+Carbonell, E., Bermúdez de Castro, J.M., Parés, J.M., Pérez-González, A., CuencaBescós, G., Ollé, A., Mosquera, M., Huguet, R., van der Made, J., Rosas, A., Sala, R.,
+Vallverdú, J., García, N., Granger, D.E., Martinón-Torres, M., Rodríguez, X.P.,
+Stock, G.M., Vergès, J.M., Allué, E., Burjachs, F., Cáceres, I., Canals, A., Benito, A.,
+Díez, C., Lozano, M., Mateos, A., Navazo, M., Rodríguez, J., Rosell, J., Arsuaga, J.L.,
+2008. The ﬁrst hominin of Europe. Nature 452, 465e469.
+Carbonell, E., Sala, R., Rodríguez, X.P., Mosquera, M., Ollé, A., Vergès, J.M., MartínezNavarro, B., Bermúdez de Castro, J.M., 2010. Early hominid dispersals: a technological hypothesis for “out of Africa”. Quat. Internat 223-224, 36e44.
+Cerdeño, E., 1989. Rhinocerotidae (Mammalia, Perissodactyla) de la cuenca de
+Guadix-Baza. In: Alberdi, M.T., Bonadona, F.P. (Eds.), Geología y Paleontología de
+la Cuenca de GuadixeBaza, Trab. Neogeno-Cuat. 11, Museo Nacional de Ciencias
+Naturales. CSIC, Madrid, pp. 273e288.
+Clark, J.D., Schick, K., 2002. Acheulean archaeology of the eastern Middle Awash. In:
+Heinzelin de, J., Clark, J.D., Schick, K.D., Gilbert, W.H. (Eds.), The Acheulean and
+the Plio-Pleistocene Deposits of the Middle Awash Valley, Ethiopia. Annales
+Sciences Géologiques 104, Musée Royal de l’Afrique Centrale, Tervuren, Belgique, pp. 51e121.
+de Lumley, H., Lordkipanidze, D., Féraud, G., García, T., Perrenoud, Ch, Falguères, Ch,
+Gagnepain, J., Saos, Th, Voinchet, P., 2002. Datation par la méthode 40Ar/39Ar de
+la couche de cendres volcaniques (couche VI) de Dmanissi (Géorgie) qui a livré
+des restes d’hominidés fossiles de 1,81 Ma. Comp. Rend. Palevol 1, 181e189.
+Dennell, R.W., 2003. Dispersal and colonisation, long and short chronologies: how
+continuous is the Early Pleistocene record for hominids outside East Africa?
+J. Hum. Evol. 45, 421e440.
+Dennell, R., Roebroeks, W., 1996. The earliest colonization of Europe: the short
+chronology revisited. Antiquity 70, 535e542.
+Dennell, R., Roebroeks, W., 2005. An Asian perspective on early human dispersal
+from Africa. Nature 438, 1099e1104.
+Despriée, J., Voinchet, P., Gageonnet, R., Dépont, J., Bahain, J.-J., Falguères, Ch.,
+Tissoux, H., Dolo, J.-M., Courcimault, G., 2009. Les vagues de peuplements
+humains au Pléistocène inférieur et moyen dans le bassin de la Loire moyenne,
+région Centre, France. Apports de l’étude des formations ﬂuviatiles. L’Anthropologie 113, 125e167.
+Díaz-Hernández, J.L., Juliá, R., 2006. Geochronological position of badlands and
+geomorphological patterns in the Guadix-Baza basin (SE Spain). Quaternary
+Research 65, 467e477.
+Falguères, Ch., Bahain, J.J., Yokoyama, Y., Arsuaga, J.L., Bermúdez de Castro, J.M.,
+Carbonell, E., Bischoff, J.L., Dolo, J.M., 1999. Earliest humans in Europe: the age of
+TD6 Gran Dolina, Atapuerca, Spain. J. Hum. Evol. 37, 343e352.
+Falguères, Ch, Yokoyama, Y., Shen, G., Bischoff, J.L., Ku, T.L., Lumley de, H., 2004. New
+U-series dates at the Caune de l’Arago, France. J. Archaeol. Sci. 31, 941e952.
+Gabunia, L., Vekua, A., 1995. A Plio-Pleistocene hominid from Dmanisi, East Georgia,
+Caucasus. Nature 373, 509e512.
+Gabunia, L., Vekua, A., Lordkipanidze, D., Swisher III, C.C., Ferring, R., Justus, A.,
+Nioradze, M., Tvalchrelidze, M., Anton, S.C., Bosinski, G., Jöris, O., de
+Lumley, M.A., Majsuradze, G., Mouskhelishvili, A., 2000. Earliest Pleistocene
+hominid cranial remains from Dmanisi, Republic of Georgia: taxonomy,
+geological setting, and age. Science 288, 1019e1025.
+Gabunia, L., Anton, S.C., Lordkipanidze, D., Vekua, A., Justus, A., Swisher III, C.C.,
+2001. Dmanisi and dispersal. Evol. Anthropol. 10, 158e170.
+Gabunia, L., de Lumley, M.A., Vekua, A., Lordkipanidze, D., de Lumley, H., 2002.
+Discovery of a new hominid at Dmanisi (Transcaucasia, Georgia). Comp. Rend.
+Palevol 1, 243e253.
+
+3348
+
+J.M. Jiménez-Arenas et al. / Journal of Archaeological Science 38 (2011) 3340e3349
+
+García-Aguilar, J.M., Palmqvist, P. A model of lacustrine sedimentation for the Early
+Pleistocene deposits of Guadix-Baza basin (southeast Spain). Quat. Internat., in
+press.
+Gibbon, R.J., Granger, D.E., Kuman, K., Partridge, T.C., 2009. Early Acheulean technology in the Vaal River Gravels, South Africa, dated with cosmogenic nuclides.
+J. Hum. Evol. 56, 152e160.
+Gibert, J., Pérez-Pérez, A., 1989. A human phalanx from the lower Palaeolithic site of
+cueva Victoria (Murcia, Spain). Hum. Evol. 4, 307e316.
+Gibert, J., Palmqvist, P., 1995. Fractal analysis of the Orce skull sutures. J. Hum. Evol.
+28, 561e575.
+Gibert, J., Pons-Moyà, J., 1985. Estudio morfológico de la falange del genero Homo de
+Cueva Victoria (Cartagena, Murcia). Paleontologia I Evolució 18, 49e56.
+Gibert, J., Ribot, F., Ferrández, C., Martínez-Navarro, B., Caporicci, R., Campillo, D.,
+1989. Anatomical study: comparison of the cranial fragment fromVenta Micena
+(Orce, Spain) with fossil and extant mammals. Hum. Evol. 4, 283e305.
+Gibert, J., Ribot, F., Gibert, L., Leakey, M., Arribas, A., Martínez-Navarro, B., 1995.
+Presence of the cercopithecid genus Theropithecus in cueva Victoria (Murcia,
+Spain). J. Hum. Evol. 28, 487e493.
+Gibert, J., Campillo, D., Arqués, J.M., García-Olivares, E., Borja, C., Lowenstein, J.M.,
+1998. Hominid status of the Orce cranial fragment reasserted. J. Hum. Evol. 34,
+203e217.
+Gibert, J., Campillo, D., Eisenmann, V., García-Olivares, E., Malgosa, A., Roe, D.A.,
+Walker, M.J., Borja, C., Sánchez, F., Ribot, F., Gibert, L., Albadalejo, S., Iglesias, A.,
+Ferrández, C., Maestro, E., 1999a. Spanish late Pliocene and Early Pleistocene
+hominid, paleolithic and faunal ﬁnds from Orce (Granada) and cueva Victoria
+(Murcia). Hum. Evol. 14, 29e46.
+Gibert, J., Gibert, L., Albadalejo, S., Ribot, F., Sánchez, F., Gibert, P., 1999b. Molar tooth
+fragment BL5-O: the oldest human remain found in the Plio-Pleistocene of Orce
+(Granada province, Spain). Hum. Evol. 14, 3e19.
+Gibert, J., Sánchez, F., Ribot, F., Gibert, L., Ferrández, C., Iglesias, A., Gibert, P.,
+González, F., 2002. Restes humaines dans les sediments du Pleistocène inferior
+de la region d’Orce et de Cueva Victoria (au sud-est de l’Espagne). L’Anthropologie 106, 669e683.
+Gibert, L., Scott, G., Martin, R., Gibert, J., 2007. The early to middle Pleistocene
+boundary in the Baza basin (Spain). Quat. Sci. Rev. 26, 2067e2089.
+Gibert, J., Gibert, L., Ribot, F., Ferrández, C., Sánchez, F., Iglesias, A., Walker, M., 2008.
+CV-0, an Early Pleistocene human phalanx from cueva Victoria (Cartagena,
+Spain). J. Hum. Evol. 54, 150e156.
+Gowlett, J.A.J., Hallos, J., Hounsell, S., Brant, V., Debenham, N.C., 2005. Beeches Pit:
+archaeology, assemblage dynamics and early ﬁre history of a Middle Pleistocene
+site in East Anglia, UK. J. Eurasian Prehistory 3, 3e38.
+Hay, R.L., 1976. Geology of the Olduvai Gorge. University of California Press,
+Berkeley.
+Hublin, J., 2009. The origin of Neandertals. Proc. Natl. Acad. Sci. USA 106,
+16022e16027.
+Isaac Ll, G., 1971. The diet of early man: aspects of archaeological evidence from
+Lower and Middle Pleistocene sites in Africa. World Archaeol. II (3), 278e299.
+Jiménez-Arenas, J.M., Palmqvist, P., Pérez-Claros, J.A. A probabilistic approach to the
+craniometric variability of the genus Homo and inferences on the taxonomic
+afﬁnities of the ﬁrst human population dispersing out of Africa. Quat. Internat.,
+in press.
+Laj, C., Channell, J.E.T., 2007. Geomagnetic excursions. In: Kono, M. (Ed.), Treatise in
+Geophysics, vol. 5. Elsevier, pp. 373e416.
+Lefevre, D., Raynal, J.-P., Vernet, G., Kieffer, G., Piperno, M., 2010. Tephro-stratigraphy and the age of ancient southern Italian Acheulean settlements: the sites
+of Loreto and Notarchirico (Venosa, Basilicata, Italy). Quat. Internat. 223-224,
+360e368.
+Lordkipanidze, D., Vekua, A., Ferring, R., Rightmire, G.P., Agustí, J., Kiladze, G.,
+Mouskhelishvili, A., Nioradze, M., Ponce de León, M.S., Tappen, M.,
+Zollikofer, C.P.E., 2005. The earliest toothless hominin skull. Nature 434,
+717e718.
+Lordkipanidze, D., Jashashvili, T., Vekua, A., Ponce de León, M.S., Zollikofer, C.P.E.,
+Rightmire, G.P., Pontzer, H., Ferring, R., Oms, O., Tappen, M., Bukhsianidze, M.,
+Agustí, J., Kahlke, R., Kiladze, G., Martínez-Navarro, B., Mouskhelishvili, A.,
+Nioradze, M., Rook, L., 2007. Postcranial evidence from early Homo from
+Dmanisi, Georgia. Nature 449, 305e310.
+Lowenstein, J.M., Borja, C., García-Olivares, E., 1999. Species-speciﬁc albumin in
+fossil bones from Orce, Granada, Spain. Hum. Evol. 14, 21e28.
+Martín-Penela, A.J., 1988. Los grandes mamíferos del yacimiento achelense de La
+Solana del Zamborino, Fonelas (Granada, España). Antropol. Paleoecol. Hum. 5,
+29e188.
+Martínez-Navarro, B., 2002. The skull of Orce: parietal bones or frontal bones?
+J. Hum. Evol. 42, 265e270.
+Martínez-Navarro, B., 2004. Hippos, pigs, bovids, sabertoothed tigers, monkeys and
+hominids dispersals during late Pliocene and Early Pleistocene times through
+the Levantine Corridor. In: Goren-Inbar, N., Speth, J.D. (Eds.), Human Paleoecology in the Levantine Corridor. Oxbow Books, Jerusalem.
+Martínez-Navarro, B., 2010. Early Pleistocene faunas of Eurasia and hominin
+dispersals. In: Fleagle, J.G., et al. (Eds.), Out of Africa I: The First Hominin
+Colonization of Eurasia. Springer, NY, pp. 207e224.
+Martínez-Navarro, B., Palmqvist, P., 1995. Presence of the African machairodont
+Megantereon whitei (BROOM, 1937) (Felidae, Carnivora, Mammalia) in the lower
+Pleistocene site of Venta Micena (Orce, Granada, Spain), with some considerations on the origin, evolution and dispersal of the genus. J. Archaeol. Sci. 22,
+569e582.
+
+Martínez-Navarro, B., Palmqvist, P., 1996. Presence of the African saber-toothed felid
+Megantereon whitei (BROOM, 1937) (Mammalia, Carnivora, Machairodontidae)
+in Apollonia-1 (Mygdonia basin, Macedonia, Greece). J. Archaeol. Sci. 23,
+869e872.
+Martínez-Navarro, B., Turq, A., Agustí Ballester, J., Oms, O., 1997. Fuente Nueva 3
+(Orce, Granada, Spain) and the ﬁrst human occupation of Europe. J. Hum. Evol.
+33, 611e620.
+Martínez-Navarro, B., Claret, A., Shabel, A.B., Pérez-Claros, J.A., Lorenzo, C.,
+Palmqvist, P., 2005. Early Pleistocene ‘‘hominid remains’’ from southern Spain
+and the taxonomic assignment of the Cueva Victoria phalanx. J. Hum. Evol. 48,
+517e523.
+Martínez-Navarro, B., Palmqvist, P., Madurell, J., Ros-Montoya, S., Espigares, M.P.,
+Torregrosa, V., Perez-Claros, J.A., 2010a. La Fauna de Grandes Mamíferos de
+Fuente Nueva-3 y Barranco León-5: Estado de la Cuestión. In: Toro, I., MartínezNavarro, B., Agustí, J. (Eds.), Ocupaciones Humanas en el Pleistoceno inferior y
+medio de la Cuenca de Guadix-Baza. Junta de Andalucía. Consejería de Cultura.
+Arqueología Monografías, pp. 197e236.
+Martínez-Navarro, B., Pérez-Claros, J.A., Palombo, M.R., Rook, L., Palmqvist, P., 2007.
+The Olduvai’s buffalo Pelorovis and the origin of Bos. Quat. Res. 68, 220e226.
+Martínez-Navarro, B., Palmqvist, P., Shabel, A.B., Pérez-Claros, J.A., Lorenzo, C.,
+Claret, A., 2008. On the supposed human phalanx from Cueva Victoria (Cartagena, Spain). J. Hum. Evol. 54, 157e161. Reply to Gibert et al.
+Martínez-Navarro, B., Rabinovich, R., 2011. The fossil Bovidae (Artiodactyla, Mammalia) from Gesher Benot Ya’aqov, Israel: out of Africa during the early-middle
+Pleistocene transition. J. Hum. Evol. 60, 375e386.
+Martínez-Navarro, B., Rook, L., Papini, M., Libsekal, Y., 2010b. A new species of bull
+from the Early Pleistocene paleoanthropological site of Buia (Eritrea): Parallelism on the dispersal of the genus Bos and the Acheulian culture. Quaternary
+Int. 212, 169e175.
+Mgeladze, A., Lordkipanidze, D., Moncel, M.-H., Despriee, J., Chagelishvili, R.,
+Nioradze, M., Nioradze, G., 2011. Hominin occupations at the Dmanisi site,
+Georgia, Southern Caucasus: Raw materials and technical behaviours of
+Europe’s ﬁrst hominins. J. Hum. Evol. 60, 571e596.
+Moncel, M.-H., 2010. Oldest human expansions in Eurasia: favouring and limiting
+factors. Quat. Internat 223e224, 1e9.
+Moncel, M.-H., Moigne, A.-M., Sam, Y., Combier, J., 2011. The emergence of Neanderthal technical behavior: new evidence from Orgnac 3 (Level 1, MIS 8),
+southeastern France. Curr. Anthropol. 52, 37e75.
+Monnier, G., 2006. The lower/middle paleolithic periodization in western Europe.
+An evaluation. Curr. Anthropol. 47, 709e729.
+Moyà-Solà, S., Kölher, M., 1997. The Orce skull: anatomy of a mistake. J. Hum. Evol.
+33, 91e97.
+Nikitas, P., Nikita, E., 2005. A study of hominin dispersal out of Africa using
+computer simulations. J. Hum. Evol. 49, 602e617.
+Oms, O., Parés, J.M., Martínez-Navarro, B., Agustí, J., Toro, I., Martínez-Fernández, G.,
+Turq, A., 2000. Early human occupation of western Europe: paleomagnetic
+dates for two paleolithic sites in Spain. Proc. Natl. Acad. Sci. USA 97,
+10666e10670.
+Palmqvist, P., 1997. A critical re-evaluation of the evidence for the presence of
+hominids in lower Pleistocene times at Venta Micena, Southern Spain. J. Hum.
+Evol. 33, 83e89.
+Palmqvist, P., Pérez-Claros, J.A., Gibert, J., Santamaría, J.L., 1996. Comparative
+morphometric study of a human phalanx from the lower Pleistocene site at
+Cueva Victoria (Murcia, Spain), by means of Fourier analysis, shape coordinates
+of landmarks, principal and relative warps. J. Archaeol. Sci. 23, 95e107.
+Palmqvist, P., Martínez-Navarro, B., Toro, I., Espigares, M.P., Ros-Montoya, S.,
+Torregrosa, V., Pérez-Claros, J.A., 2005. Réévaluation de la présence humaine au
+Pléistocène inférieur dans le Sud de l’Espagne. L’Anthropologie 109, 411e450.
+Palmqvist, P., Torregrosa, V., Pérez-Claros, J.A., Martínez-Navarro, B., Turner, A.,
+2007. A re-evaluation of the diversity of Megantereon (Mammalia, Carnivora,
+Machairodontinae) and the problem of species identiﬁcation in extinct carnivores. J. Vert. Paleontol 27, 160e175.
+Palmqvist, P., Martínez-Navarro, B., Pérez-Claros, J.A., Torregrosa, V., Figueirido, B.,
+Jiménez-Arenas, J.M., Espigares, M.P., Ros-Montoya, S., De Renzi, M. The giant
+hyena Pachycrocuta Brevirostris: modelling the bone-cracking behavior of an
+extinct carnivore. Quat. Internat., in press.
+Parﬁtt, S.A., Barendregt, R.W., Breda, M., Candy, I., Collins, M.J., Coope, G.R.,
+Durbidge, P., Field, M.H., Lee, J.R., Lister, A.M., Mutch, R., Penkman, K.E.H.,
+Preece, R.C., Rose, J., Stringer, C.B., Symmons, R., Whittaker, J.E., Wymer, J.J.,
+Stuart, A.J., 2005. The earliest record of human activity in northern Europe.
+Nature 438, 1008e1012.
+Parﬁtt, S.A., Ashton, N.M., Lewis, S.G., Abel, R.L., Coope, G.R., Field, M.H., Gale, R.,
+Hoare, P.G., Larkin, N.R., Lewis, M.D., Karloukovski, V., Maher, B.A., Peglar, S.M.,
+Preece, R.C., Whittaker, J.E., Stringer, C.B., 2010. Early Pleistocene human occupation at the edge of the boreal zone in northwest Europe. Nature 466, 229e233.
+Piperno, M. (Ed.), 1999. Notarchirico. Un sito del Pleistocene medio iniziale nel
+bacino di Venosa. Edizioni Osanna, Venosa.
+Preece, R.C., Gowlett, J.A.J., Parﬁtt, S.A., Bridgland, D.R., Lewis, S.G., 2006. Humans in
+the Hoxnian: habitat, context and ﬁre use at beeches pit, West Stow, Suffolk,
+UK. J. Quaternary Sci. 21, 485e496.
+Rightmire, G.P., Lordkipanidze, D., Vekua, A., 2006. Anatomical descriptions,
+comparative studies and evolutionary signiﬁcance of the hominin skulls from
+Dmanisi, Republic of Georgia. J. Hum. Evol. 50, 1151e2141.
+Roberts, M.B., Stringer, C.B., Parﬁtt, S.A., 1994. A hominid tibia from Middle Pleistocene sediments at Boxgrove, UK. Nature 369, 311e313.
+
+J.M. Jiménez-Arenas et al. / Journal of Archaeological Science 38 (2011) 3340e3349
+Roberts, M.B., Parﬁtt, S.A., 1999. Boxgrove: a middle Pleistocene hominid site at
+Eartham quarry, Boxgrove, West Sussex. Archaeological Report no. 17. English
+Heritage, London.
+Roche, H., Brugal, J.P., Delagnes, A., Feibel, C., Harmand, S., Kibunjia, M., Prat, S.,
+Texier, P.-J., 2003. Les sites archéologiques pliopléistocènes de la formation de
+Nachukui, Ouest-Turkana, Kenya: bilan synthétique 1997e2001. Comp. Rend.
+Palevol 2, 663e673.
+Roebroeks, W., Villa, P., 2011. On the earliest evidence for habitual use of ﬁre in
+Europe. Proc. Nat. Acad. Sci. USA 108, 5209e5214.
+Roebroeks, W., van Kolfschoten, T., 1994. The earliest occupation of Europe: a short
+chronology. Antiquity 68, 489e503.
+Rook, L., Martínez-Navarro, B., Howell, F.C., 2004. Occurrence of Theropithecus sp. In
+the late Villafranchian of southern Italy and implication for Early Pleistocene
+"out of Africa" dispersals. J. Hum. Evol. 47, 267e277.
+Ros-Montoya, S., 2010. Los proboscídeos del Plio-Pleistoceno de la Cuenca de
+Guadix Baza y Granada. Unpub. Ph. D. Dissertation Thesis, University of Granada
+Spain.
+Rosas, A., Bermúdez de Castro, J.M., 1998. The Mauer mandible and the evolutionary
+signiﬁcance of Homo heidelbergensis. Geobios 31, 687e697.
+Ruiz-Bustos, A., 1997. Características biostratigráﬁcas y paleoecológicas que implican los mamíferos cuaternarios en las cuencas de la Cordillera Bética. In:
+Rodríguez-Vidal, J. (Ed.), Cuaternario Ibérico. AEQUA, Huelva, pp. 283e296.
+Ruiz-Bustos, A., 1999a. Biostratigraphy of the continental deposits in the Granada,
+Guadix and Baza basins (Betic Cordillera). In: Gibert, J., Sánchez, F., Gibert, L.,
+Ribot, F. (Eds.), The hominids and their environment during the Lower and
+Middle Pleistocene. Museo de Prehistoria y Paleontología, Gibert, J, Granada,
+pp. 153e174.
+Ruiz-Bustos, A., 1999b. The role of the water voles (Arvicola, Rodentia) in the
+quaternary. Estudios Geol. 55, 89e95.
+Ruiz-Bustos, A., 2002. Características climáticas y estratigráﬁcas de los sedimentos
+continentales de la Cordillera Bética durante el Plioceno, a partir de las faunas
+de mamíferos. Pliocénica 2, 44e64.
+Sadler, P.M., 1981. Sediment accumulation rates and the completeness of stratigraphic sections. J. Geol. 89, 569e584.
+Santonja, M., Pérez-González, A., 2006. La industria lítica del miembro estratigráﬁco
+medio de Ambrona (Soria, España) en el contexto del Paleolítico antiguo de la
+Península ibérica. Zephyrus LIX, 95e108.
+Santonja, M., Pérez-González, A., 2010. Mid-Pleistocene Acheulian industrial
+complex in the Iberian peninsula. Quat. Internat 223e224, 154e161.
+Santonja, M., Villa, P., 2006. The Acheulean in Southwestern Europe. In: GorenInbar, N., Sharon, G. (Eds.), Axe Age: Acheulean Toolmaking. From Quarry to
+Discard. Equinox Publishing, London, pp. 429e478.
+Scott, G.R., Gibert, L., 2009. The oldest hand-axes in Europe. Nature 461, 82e85.
+Semaw, S., 2000. The World’s oldest stone artifacts from Gona, Ethiopia: their
+implications for understandings stone technology and Patterns of human
+evolution between 2.6e1.5 million years ago. J. Archaeological Sci. 27, 1197e1214.
+Semaw, S., Rogers, M., Stout, D., 2009. The Oldowan-Acheulian transition: is there
+a "Developed Oldowan" artifact tradition? In: Camps, M., Chauhan, P.R. (Eds.),
+Sourcebook of Paleolithic Transitions. Springer, pp. 173e193.
+Shea, J., et al., 2010. Stone Age visiting cards revisited: a strategic perspective on the
+lithic technology of early hominin dispersal. In: Fleagle, J.G. (Ed.), Out of Africa I:
+The First Hominin Colonization of Eurasia. Springer, NY, pp. 47e64.
+Templeton, A.R., 2002. Out of Africa again and again. Nature 416, 45e51.
+
+3349
+
+Thieme, H., 1997. Lower Palaeolithic hunting spears from Germany. Nature 385,
+807e810.
+Toro, I., Lumley De, H., Fajardo, B., Barsky, D., Cauche, D., Celiberti, V., Gregoire, S.,
+Martínez-Navarro, B., Espigares, M.P., Ros-Montoya, S., 2009. L’industrie lithique
+des gisements du Pléistocène inférieur de Barranco León et Fuente Nueva 3 à
+Orce, Grenade, Spagne. L’anthropologie 113, 111e124.
+Toro, I., Barsky, D., Cauche, D., Celiberti, V., Grégoire, S., Lebegue, F., Moncel, M.H., de
+Lumley, H. The archaic stone tool industry from Barranco León and Fuente
+Nueva 3, (Orce, Spain): evidence of the earliest hominin presence in southern
+Europe. Quat. Internat., in press.
+Tryon, C.A., McBrearty, S., Texier, P.J., 2005. Levallois lithic technology from the
+Kapthurin formation, Kenya: acheulian origin and middle stone age diversity.
+Afr. Archaeol. Rev. 4, 129e199.
+Tuffreau, A., Antoine, P., 1995. Continental northwestern Europe. In: Roebroeks, W.,
+van Kolfschoten, T. (Eds.), The Earliest Occupation of Europe, vol. 27. Analecta
+Praehistorica Leidensia, Leiden, pp. 147e163.
+Turner, A., O’Regan, H.J., 2007. Afro-Eurasian mammalian fauna and early hominin
+dispersals. In: Petraglia, M.D., Allchin, B. (Eds.), The Evolution and History of
+Human Populations in South Asia, pp. 23e39.
+van der Made, J., Mazo, A., 2001. Spanish Pleistocene Proboscidean diversity as
+a function of climate. In: Cavaretta, G., Gioia, P., Mussi, M., Palombo, M.R. (Eds.),
+The World of Elephants: Proceedings of the 1st International Congress, Rome.
+Consiglio Nazionale delle Ricerche, Rome, pp. 214e218.
+Vega Toscano, L.G., 1989. Ocupaciones humanas en el Pleistoceno de la Depresión
+de GuadixeBaza: elementos de discusión. In: Alberdi, M.T., Bonadona, F.P.
+(Eds.), Geología y Paleontología de la Cuenca de GuadixeBaza, Trab. NeogenoCuat. 11. Museo Nacional de Ciencias Naturales. CSIC, Madrid, pp. 327e346.
+Vekua, A., Lordkipanidze, D., Rightmire, G.P., Agustí, J., Ferring, R., Maisuradze, G.,
+Mouskhelishvili, A., Nioradze, M., Ponce de Leon, M., Tappen, M.,
+Tvalchrelidze, M., Zollikofer, C., 2002. A new skull of early Homo from Dmanisi,
+Georgia. Science 297, 85e89.
+Wagner, G., Krbetschek, M., Degering, D., Bahain, J.J., Shao, Q., Falguères, C.,
+Voinchet, P., Dolo, J.M., García, T., Rightmire, G.P., 2010. Radiometric dating of
+the type-site for Homo heidelbergensis at Mauer, Germany. Proc. Natl. Acad. Sci.
+USA 107, 19726e19730.
+Walker, M.J., López-Martínez, M., López-Jiménez, A., 2006a. La cueva Negra del
+estrecho del Quípar en la Encarnación, Caravaca de la Cruz: Campaña de 1999.
+Mem. Arqueol 14, 81e94.
+Walker, M.J., Rodríguez-Estrella, T., Carrión-García, J.S., Mancheño-Jiménez, M.A.,
+Schwenninger, J.L., López-Martínez, M., López-Jiménez, A., San Nicolás del
+Toro, M., Hills, M.D., Walkling, T., 2006b. Cueva Negra del Estrecho del río
+Quípar (Murcia, Southeast Spain): an Acheulian and Levalloiso-Musteroid
+assemblage of Paleolithic artifacts excavated in a Middle Pleistocene faunal
+context with hominin skeletal remains. Eurasian Prehistory 4, 3e43.
+Walker, M.J., López-Martínez, M., Carrión-García, J.S., Rodríguez-Estrella, T., SanNicolás-del-Toro, M., Schwenninger, J.-L., López-Jiménez, A., OrtegaRodrigáñez, J., Haber-Uriarte, M., Polo-Camacho, J.-L., García-Torres, J., CampilloBoj, M., Avilés-Fernández, A., 2010. Cueva Negra del Estrecho del Río Quípar
+(Murcia, Spain): A late Early Pleistocene hominin site with an "Acheulo-Levalloiso-Mousteroid" Palaeolithic assemblage. In: Walker, M.J., Higham, T.F.G.
+(Eds.), Rethinking Palaeolithic chronologies in Europe and the circumMediterranean region. Annual Meeting of the European Association of
+Archaeologists, The Hague.
+
+

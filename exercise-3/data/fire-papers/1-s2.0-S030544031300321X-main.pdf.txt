@@ -1,0 +1,767 @@
+Journal of Archaeological Science 41 (2014) 482e492
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Anthropic activity markers and spatial variability: an
+ethnoarchaeological experiment in a domestic unit of Northern
+Gujarat (India)
+Bernardo Rondelli a, *, Carla Lancelotti a, b, Marco Madella a, c, Alessandra Pecci d,
+Andrea Balbo a, Javier Ruiz Pérez e, Fernanda Inserra d, Charusmita Gadekar f,
+Miquel Ángel Cau Ontiveros c, d, P. Ajithprasad f
+a
+
+Complexity and Socio-Ecological Dynamics (CaSEs), Department of Archaeology and Anthropology, Institució Milà i Fontanals, Spanish National Research
+Council (CSIC), C/Egipciaques 15, 08001 Barcelona, Spain
+b
+Department of Information and Communication Technologies, Universitat Pompeu Fabra, Barcelona, Spain
+c
+Institució Catalana de Recerca i Estudis Avançats (ICREA), Barcelona, Spain
+d
+Equip de Recerca Arqueològica i Arqueomètrica, University of Barcelona (ERAAUB), Barcelona, Spain
+e
+Facultat de Geograﬁa i Història, University of Barcelona, Barcelona, Spain
+f
+Department of Ancient History and Archaeology, MS University of Baroda, Vadodara, Gujarat, India
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 15 November 2012
+Received in revised form
+6 September 2013
+Accepted 11 September 2013
+
+Spatio-temporal understanding of past domestic activities is a key aspect of archaeological reasoning. The
+identiﬁcation of markers of particular anthropic actions through time has become a fundamental issue.
+Chemical analyses of archaeological ﬂoors are an essential tool to investigate and identify anthropic
+markers of past human activities. This paper explores the relative spatial variability of chemical residues
+of ﬂoors in an ethnographic context to provide a constructive basis to experiment with spatial analysis for
+the detection and interpretation of anthropic activity markers. These markers are recognised as anomalies and tendencies in the relative spatial distribution of chemical residues embedded in the ﬂoor. The
+experiment has been carried out in a controlled environment and serves to test the methods and assumptions to be used in archaeological contexts. Spatial interpolations (IDW, Map Algebra and PCA) were
+performed and allowed the identiﬁcation of anomalies in the distribution of residues that can be associated with speciﬁc activities (fuel use, food preparation and consumption, use of ﬁreplaces). Geostatistics
+(Ordinary and Regression Kriging) was used in order to contribute to the identiﬁcation of trends related
+to the use of space and the connected activities (e.g. inner versus outer space, storage versus cooking).
+The results show how the integration of different techniques can improve data interpretation.
+Ó 2013 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Anthropic markers
+Ethnoarchaeology
+Spatial interpolation
+Geostatistics
+Chemical residues
+Spot tests
+ICP-AES
+
+1. Introduction
+This paper shows the potential for the detection and interpretation of anthropic activity markers by using spatial interpolations
+to explore the relative variability of ﬂoor chemical residues within a
+controlled ethnographical context in Northern Gujarat (India). The
+work illustrates different techniques for spatial interpolation and
+analysis, discusses their potential and limitations and provides an
+example of how these can be combined in order to detect relative
+
+* Corresponding author. Tel.: þ34 934423489.
+E-mail addresses: bernardo.rondelli@imf.csic.es, bernardorondelli@yahoo.it,
+bernardorondelli@gmail.com (B. Rondelli).
+0305-4403/$ e see front matter Ó 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2013.09.008
+
+patterns in the distribution of chemical residues. This exercise was
+carried out within a long-term research perspective on the significance and development of anthropic activity markers at domestic,
+settlement and landscape level (French et al., 2009; Lancelotti,
+2010; Lancelotti and Madella, 2012; Sulas and Madella, 2012). The
+concept of anthropic markers was initially used in pollen and soil
+micro-charcoal studies to deﬁne changes in vegetation composition
+due to human activities (intentional forest ﬁres, agriculture, etc.;
+see for example Moore et al., 1991: 189e191). Disciplines such as
+linguistics, biology or chemistry have also thoroughly developed a
+deﬁnition of ‘marker’. However, this notion is still used uncritically
+in archaeological contexts and needs further development, both in
+terms of reference libraries and identiﬁcation protocols, before it
+can be routinely used. The difﬁculty in deﬁning this concept within
+
+B. Rondelli et al. / Journal of Archaeological Science 41 (2014) 482e492
+
+archaeology can be related to the complexity of human behaviour
+and the wide spectrum of possible signatures resulting from the
+same action (including the possibility of equiﬁnality).
+People tend to recurrently use speciﬁc areas of their living space
+(or of the landscape) for certain activities and even when the same
+activity is carried out in more than one location, this rarely occurs
+as a single episode (Barba, 1986, 2007; Ortiz and Barba, 1993).
+Indeed, this enduring use of space produces an accumulation of
+residues (chemical and/or physical) in the deposit, which represent
+the result of the activity that produced them. The accumulation of
+the same residue(s) within an area allows the detection of differential spatial concentration(s) of particular residue(s). Ethnoarchaeology and experimental archaeology (Barba and Ortiz, 1992;
+Middleton, 1996; Pecci, 2003; Pecci et al., 2013) drive the inferential
+reasoning that creates the model(s) connecting the concentration
+of particular residues (proxies) with a speciﬁc activity. We deﬁne
+this/these model(s) as ‘anthropic activity marker’.
+It can be argued that many factors, others than activities, can
+affect the chemical composition of a spatial feature such as a ﬂoor.
+Indeed, the same material used to plaster the ﬂoors has its own
+chemical signature and, similarly, processes of ﬂoor maintenance
+can inﬂuence the chemical/physical signatures. However, we assume that all these can be considered as a background “noise” value
+that can therefore be discounted (see Barba, 2007: 441) and that the
+activities carry out “on top” of this noise will be the ones creating a
+real difference (these points will be discussed in more detail below).
+Chemical analyses of archaeological ﬂoors have been a primary
+tool to investigate and identify past human domestic activities.
+Solid, liquid or semi-liquid substances released during a speciﬁc
+activity are incorporated or absorbed in the ﬂoors and they can be
+extracted and analysed (Barba, 1986, 2007). Research into this has
+been carried out in different parts of the world involving the study
+of different archaeological and ethnoarchaeological contexts, from
+single rooms and buildings to entire regions (for an updated review
+see Middleton et al., 2010; Pecci et al., 2013; Salisbury, 2013; Vyncke
+et al., 2011; Wells and Moreno Cortés, 2010; Wilson et al., 2009).
+Ethnographic contexts offer privileged settings to the study of
+
+483
+
+anthropic markers of domestic activities as they allow for the
+possibility of correlating chemical residues with witnessed activities. This important link is achieved through direct observations
+and non-structured interviews to the people living in the domestic
+compound. Ethnographical contexts offer the chance of experimenting with data in a controlled environment, providing an
+important support to archaeological theory building (see for
+example Boivin, 2000; Lancelotti and Madella, 2012; Milek, 2012)
+and increasing our understanding of temporal rhythms and spatiotemporal uncertainty. Throughout this paper we use the word
+‘experiment’ and the concept of ‘experimenting with data’ not in the
+traditional sense of experimental archaeology as an “imitative
+experiment to replicate past phenomena” (Mathieu, 2002: 12) but
+in the sense of a test under controlled conditions to provide evidence for or against a hypothesis. Spatial interpolation of chemical
+values is a common method in archaeology for extrapolating
+spatially continuous variables from discreet point samples. However, spatial techniques detecting chemical differential concentrations did not entertain critical reﬂexions on their limitations,
+advantages and comparative usefulness (Dore and López Varela,
+2010; Fernandez et al., 2002; Middleton et al., 2010; Pecci et al.,
+2013; Salisbury, 2013; Terry et al., 2004; Vyncke et al., 2011;
+Wells, 2010).
+The present research was developed within a domestic compound in North Gujarat (India) with the speciﬁc aim of improving
+the archaeological reasoning and interpretation of past domestic
+activities in the Indus Civilisation. During the 3rd millennium BC
+North Gujarat was occupied by settlements pertaining to the Indus
+Civilisation and witnessed the emergence of urban sites with
+fortiﬁcation walls and clear urban planning (Kenoyer, 1991, 1998;
+Possehl, 2002). Within these sites many domestic structures have
+been identiﬁed and ‘ﬂoors’ detected by the archaeologists. The
+presence of complex domestic structures drives the question of
+how the space was used in them. The ancient ‘ﬂoors’ are often
+thought to have been constructed using techniques that are
+currently employed in traditional Indian villages (involving the use
+of a mixture of sand, clay, dung and water). Qualitative description
+
+Fig. 1. Location of Jandhala in Northern Gujarat (India) with satellite imagery showing (a) the village and (b) the studied compound (b) (SPOT Imagery acquired on May 2009 and
+retrieved on September 2012 from Google Earth, Copyright 2012).
+
+484
+
+B. Rondelli et al. / Journal of Archaeological Science 41 (2014) 482e492
+
+and analogical reasoning have already been used to relate this
+modern technique to the archaeological evidence (see for example
+Boivin, 2001). However, a quantitative approach considering correlations between past and present records has rarely been applied
+(Lancelotti, 2010; Lancelotti and Madella, 2012).
+2. Materials and methods
+2.1. A domestic compound in Northern Gujarat (India): interviews,
+mapping and ﬂoor/lifecycle
+The present research was carried out in a domestic compound in
+Jandhala, a village in the Patan district of North Gujarat, India
+(Fig. 1). This region is characterised by the Indian monsoon and
+precipitations typical of semi-arid climates. The compound is a
+non-mechanized farmer’s residence, built after the 2001 Gujarat
+earthquake using local materials and traditional techniques (wattle-and-daub, cow dung plastering, wood and other plant materials). The domestic compound belongs to two brothers who live in
+two separate houses and share the same courtyard where animals
+are kept, and where activities (plant processing, charcoal production, etc.) take place (Fig. 2). The two houses have similar layouts: a
+semi-open space on the front (veranda) and an inner space, which is
+composed of a single rectangular room with or without partial
+internal separation. A partially collapsed structure, adjacent to one
+
+of the houses (House A), represents the remains of a dwelling in use
+before the 2001 earthquake.
+For the present work, we limit the analysis and discussion to one
+of the compound’s houses (House A in Fig. 2). This structure was
+visited by the NoGAP team in October 2009 and November 2010
+(Madella et al., 2010). During both visits a topographical survey was
+carried out using a total station, and photogrammetry was performed using a digital camera mounted on a telescopic pole. The
+entire compound and the interior of House A have been registered
+and vectorized in a GIS environment (Figs. 2 and 3). Furthermore,
+unstructured interviews were conducted with the two senior
+members (wife and husband) of the family living in the house. The
+interviews focused on the types and cycles of activities carried out
+in the compound, as well as their spatial distribution within the
+courtyard, veranda and inner house. Speciﬁc attention was given to
+obtaining information on the construction and maintenance of the
+ﬂoors. Floors (as well as walls) are built using diverse proportions of
+sand, clay, cow/buffalo dung and water. The materials used to
+prepare the ﬂoor plaster are all local: the dung is collected from the
+village animals that graze around the house; the inorganic
+component is sourced from nearby locations and it is composed of
+clay and some kankar (caliche). The house foundations are made of
+a level composed mainly of small carbonatic gravel and sand,
+heavily rammed; the main ﬂoor plaster is then laid on top of the
+foundations with a thickness of about 2 cm. Thinner (millimetric)
+
+Fig. 2. Topographical map of the investigated compound of Jandhala highlighting House A. The legend includes the main structures and features recorded in November 2010.
+
+B. Rondelli et al. / Journal of Archaeological Science 41 (2014) 482e492
+
+485
+
+Fig. 3. Detail of the House A with the recorded (1) domestic features and (2) main activities. On the top photos of (a) the entrance with the verandah, (b) the external ﬁreplace (c)
+one of the internal ﬁreplaces.
+
+486
+
+B. Rondelli et al. / Journal of Archaeological Science 41 (2014) 482e492
+
+re-plastering episodes of the entire ﬂoor take place on average four
+times a year together with ad-hoc re-plastering whenever the ﬂoor
+is damaged. In those years when ﬂoors do not need much maintenance, they are still re-plastered at least once, always following
+the end of the monsoon and before diwali (the festival of lights,
+celebrated between mid-October and mid-December according to
+the lunar calendar). Contrary to observations made by Boivin
+(2000, 2001) in Rajasthan, the mixture of ingredients used for replastering in Jandhala does not vary according to yearly festivities
+or speciﬁc family pujas (religious rituals performed in Hinduism as
+an offering to deities, distinguished persons, or special guests).
+Normally the new layer of plaster is applied directly on top of the
+pre-existing one. However, occasionally when parts of the ﬂoor
+suffered major damage the loose layers are scraped away and the
+holes ﬁlled.
+Micromorphology was carried out in order to observe the
+stratigraphical sequence of the ﬂoor construction and to evaluate
+the signiﬁcance of the sampling strategy in terms of the temporal
+representativeness of the samples. Micromorphological ﬂoor
+samples were recovered from the adjacent derelict house to
+minimise damage to the inhabited house. Interviews provided evidence that similar ﬂoor building practices were utilised in both
+House A and the adjacent derelict house. Understanding the cycles
+of ﬂoor maintenance through interviews and micromorphology
+was paramount to evaluate the signiﬁcance of the results obtained
+from the geochemical analysis. The thin section of the ﬂoor showed
+a layered structure with sharp boundaries between the microlayers, which represent the consecutive plastering events. Interference colours observed between the micro-layers are due to the
+accumulation of fragments of plant parenchymatous tissues (Stolt
+and Lindbo, 2010). This suggests that each level was exposed for a
+certain amount of time, allowing for the accumulation of plant
+remains on the surface, in accordance with information gathered
+from interviews. Each micro-layer marks the temporal cycle (3e12
+months) during which activities were carried out on the ﬂoor
+surface and physical/chemical residues were incorporated.
+It was decided that the samples for this study were to be taken
+across all the top micro-layers representing the accumulation of
+several plastering and temporal cycles, which may include one or
+more activities in each cycle. The study of the use of space based on
+ﬂoor chemical analysis has relied on the concept that identiﬁed
+residues are the sum of different activities (or a single activity)
+carried out in a speciﬁc part of the space (Barba, 1986, 2007; Barba
+and Ortiz, 1992; Middleton et al., 2010; Pecci et al. 2013; Sherman
+2011). Hence, the samples in this study represent the sum of cycles of use, and therefore the chemical signatures obtained are
+average indicators of all the residues that fell on the ﬂoor over the
+period of time between the foundation of the house and the
+moment of sampling. On the basis of the interviews, the accumulation of residues corresponded to a total time of about 10 years.
+2.2. Floor chemical residues: chemical elements, phosphates and
+proteins
+Depending on the aims of the study, the available resources, and
+the scale of the area to be investigated, different sampling strategies may be chosen (Wells, 2010). The interior of House A (Fig. 3)
+was sampled following a rectangular lattice of 100 cm. Samples
+were collected with a hollow metal pipe with a diameter of 5 cm,
+penetrating into the upper layers of the ﬂoor up to a depth of 2 cm,
+which included all micro-layers of occupation laid above the ﬂoor
+foundation. A total of 70 samples were collected and analysed.
+All samples were ground to ﬁne powder with an agate mortar,
+quartered and divided into two sub-samples: one for spot-test and
+one for multielement analysis with Inductively Coupled Plasma-
+
+Atomic Emission Spectrometry (ICP-AES). The two techniques are
+complementary thus maximising the recovered information
+(Middleton et al., 2010):
+ Spot tests allow for the analysis of a large number of samples.
+They provide semi-quantitative data indicative of activity areas
+likely to be affected by organic compounds (see Barba, 2007).
+ ICP-AES provides quantitative data on chemical elements,
+including those elements that cannot be identiﬁed with spot
+tests.
+Samples for spot test were treated and assessed for the identiﬁcation of phosphates, fatty acids and protein residues according to
+the methodology proposed by Barba (2007: 442e443). Phosphates
+were assessed by colour intensity on ﬁlter paper. Fatty acids were
+evaluated by differences in quantity and stability of soapy foam.
+Protein residues were assessed by the colour intensity of ammonia
+vapour on pH-indicator strips. The second batch of sub-samples
+was sent to ALS Laboratory Group in Seville (Spain), where they
+were pre-treated with aqua-regia digestion for ICP-AES to measure
+the concentration of 35 main elements. Elements with values
+below the reliable instrument detection limits (IDL) were excluded
+(samples values and analyses are presented in the Supplementary
+data e Annex 1).
+2.3. Statistics and spatial analyses: assessing variability and
+comparing techniques
+Statistical tools are necessary for choosing which spatial interpolation and prediction to apply (see for instance the decision
+making ﬂowchart in Figure 2.3 in Hengl, 2009). In this research,
+basic exploratory and descriptive statistics were performed on
+Log10 transformed data. A logarithmic scale reduces wide-ranging
+quantities to smaller scopes and, in this case, eliminated the differences in scale between values. Correlation between values was
+performed using the Spearman’s bivariate correlation test for nonnormally distributed data (Annex 2). ANOVA tests were used to
+compare means and to detect patterns and similarities between
+samples. Although the analyses were run on a mix of normally and
+non-normally distributed data, ANOVA has been preferred to the
+KruskaleWallis test as it is more robust to the violation of its assumptions (Field, 2005: 542). All statistical analyses were performed with PAWS statistic 18, version 1.1, developed by the Data
+Theory Scaling System Group of the University of Leiden in the
+Netherlands.
+Deterministic methods for spatial interpolation are particularly
+useful when there is no autocorrelation between the spatially
+distributed values (e.g. Inverse Distance Weighting based on the
+extent of similarity, and Radial Basis Functions based on the degree
+of smoothing). However, geostatistics interpolation has proved to
+be a more efﬁcient technique where values are highly correlated
+(for exhaustive literature see Hengl, 2009). In the current case study
+both deterministic and geostatistic techniques are used. Inverse
+Distance Weighting (IDW) has been applied to ICP-AES values. The
+resulting grids have been investigated with principal component
+analyses (PCA e Annex 3 for eigenvalues) and map algebra
+(Salisbury, 2012, 2013) following a series of elemental combinations discussed in Middleton (1996), Milek (2007: 338e339),
+Lancelotti (2010) and Lancelotti and Madella (2012). IDW, Ordinary
+Kriging (OK) and Regression Kriging (RK) (Webster and Oliver,
+2007; Minasny and McBratney, 2007; Sherman, 2011; Cressie and
+Wikle, 2011) have been applied to spot-test values (fatty acids,
+proteins and phosphates). For OK we explored exponential,
+Gaussian, linear and logarithmic semivariogram models, while a
+linear regression model was used for RK with generalized least
+
+B. Rondelli et al. / Journal of Archaeological Science 41 (2014) 482e492
+
+squares (GLS) for estimating the unknown parameters in the linear
+regression. GLS was preferred over ordinary least square (OLS)
+because of the spatial correlation between residuals (Hengl, 2009;
+Hengl et al., 2004, 2007). A detailed description of the implemented
+procedure can be found in Hengl et al. (2007: 27e50). Spatial interpolations and geostatistics were implemented with open source
+software such as GRASS, SAGA GIS and R.
+3. Results
+3.1. Statistical analyses
+Statistical tests on the results of multi-element ICP-AES analysis
+have proved inconclusive in respect to the identiﬁcation of anthropic activity markers. Spearman’s correlation test has highlighted the presence of strong signiﬁcant correlations (p < 0.01)
+between almost all chemical elements from the analysis (Fig. 4). It
+was therefore not possible to extrapolate a signiﬁcant combination
+of elements for this case study. Similarly, the ANOVA mean comparison highlighted the lack of variation between different areas of
+the house (such as inner room versus veranda; Fig. 5a) or between
+speciﬁc activity spaces (such as the area with ﬁreplaces versus the
+area for food storage; Fig. 5b).
+3.2. Spatial analyses
+Regression Kriging proved a satisfactory method for deﬁning
+trends such as the separation between inner and outer space (3.2.1)
+and the identiﬁcation of use areas (storage and eating) within the
+house, as conﬁrmed by the interviews (3.2.2). Principal Component
+Analysis and Map Algebra performed with spatial grids elaborated
+with Inverse Distance Weighting provided interesting results for
+highlighting speciﬁc activities such as burning areas (ﬁreplaces)
+and fuel use (3.2.3).
+3.2.1. The house: inner versus outer space
+The application of Inverse Distance Weighting (IDW), Ordinary
+Kriging (OK) and Regression Kriging (RK) showed some differences
+between the inside and the outside areas. All the distribution maps
+of phosphates based on spot tests results (Fig. 6) pointed out a
+
+487
+
+higher concentration of phosphate in the veranda, probably due to
+the presence of animal dejections and general dirt. This is a common pattern thought to be found in many archaeological and ethnoarchaeological buildings (Barba, 1986; Barba and Ortiz, 1992;
+Pecci et al., 2010). However, in this case, we can appreciate that
+the discriminant power of the representation depends on the
+technique applied. The distribution maps of phosphate created
+with IDW and OK (Fig. 6a and b), although closer to the real values
+of the samples, do not show clear separation between areas. The RK
+(Fig. 6c), on the other hand, distinctly display a neat separation
+between the internal and external portions of the house. The
+introduction of a regression model makes RK a more powerful tool
+to highlight the differences in chemical input between the veranda
+and the inner space, as opposed to a ’more realistic’ (closer to
+sample values) approach using IDW or OK. In this sense the map
+created using RK represents a distribution trend that is more
+explicative and visually clearer than the maps created with the
+other two techniques.
+3.2.2. Floor ranking: repetitive use of space and activity/utility
+domains
+The representation power of RK becomes further evident when
+it is compared with IDW and OK for fatty acids (Fig. 7) and protein
+residues (Fig. 8) distributions, supported by interviews data and
+survey information (Fig. 3). Although the IDW and OK show spatial
+differences related to fats and proteins, it is the RK processing that
+better represents the documented division of space as identiﬁed
+through the survey and interviews. Indeed, it is possible to relate
+the concentration trends of protein residues to the house storage
+area and the concentration trends of the fatty acids residues to the
+area mostly used for milk and food preparation (use of ghee e
+clariﬁed butter e and vegetable oils).
+3.2.3. Activities and ICP-AES values: burning areas and fuel use
+Grid distribution of ICP-AES values using IDW are not signiﬁcant
+per se of speciﬁc activities, but the combination of different grids
+provided interesting results for highlighting the burning areas and
+fuel use. Floor sediments have been explored following several
+different combinations of elements discussed in published literature
+(Fig. 9): a) deposited food remains (Ca, P, K, Mg, Sr); b) living room
+
+Fig. 4. Correspondence analysis of chemical elements, showing strong signiﬁcant correlations (p < 0.01) between most of the analysed elements.
+
+488
+
+B. Rondelli et al. / Journal of Archaeological Science 41 (2014) 482e492
+
+Fig. 5. Boxplots resulting from ANOVA analysis of log10 transformed values for all elements. There are no statistically signiﬁcant differences between the outer (verandah) and inner
+areas (a) of the house or between different zones of the inner area (ﬁreplace vs storage) (b).
+
+sediments (P þ K þ Mg) discussed in Milek (2007: 338e339); c)
+enclosed spaces (Ca þ Sr); and d) burning areas (P þ K) discussed in
+Middleton (1996: 679). This approach, despite a high degree of uncertainty, suggests a separation of the inner space in two activity
+areas (food production and consumption vs. storage). However, a
+separation between the veranda and the inner room is not detectable. Finally, a clear correlation is visible when we compare the
+distribution of anomalies (lower and higher values) with the position of the three ﬁreplaces: the values for the ﬁreplace in the veranda
+are clearly different from the two internal ﬁreplaces. The distribution maps (Fig. 10), based on the PCA of dung elements (Al, Ba, Ca, Co,
+Cr, Fe, Mn, Mo, Ni, Pb) and wood ash (Ca þ K þ Mg þ Al þ P) discussed
+in Lancelotti and Madella (2012), show a high presence of dung in
+the veranda ﬁreplace while the inner ﬁreplaces seem to be characterised by the presence of wood ash.
+4. Discussion
+The results of this controlled ethnoarchaeological study have
+allowed critical and reﬂexive considerations about the archaeological methods used to identify anthropic activity markers, speciﬁcally those related to spatial interpolation based on the chemical
+analyses of ﬂoors. These considerations should contribute in
+developing:
+a) The use of multi-proxy approaches (combination and comparison of data) for the identiﬁcation of domestic activities;
+b) The use of geostatistics regression models for cyclical (multitemporal) trends;
+c) The evaluation of uncertainty in archaeological interpretations.
+
+4.1. A multi-layered approach to reference patterns
+The identiﬁcation of anthropic activity markers through chemical ﬂoor analyses in a controlled ethnographic context allows archaeologists to move beyond the limitations of qualitative and
+descriptive reasoning, and promotes the development of a multilayered approaches to building collections of reference patterns.
+It is especially important in contexts such as the one here studied,
+where traditional statistical methods do not seem adequate to
+distinguish between different activity areas (see paragraph 3.1).
+The downfalls of traditional correlation analyses between elements
+are due to the speciﬁc preparation of the ﬂoor plaster. Indeed the
+chemical composition of the plaster may be the cause of the high
+correlation observed amongst all chemical elements. Where
+traditional statistical studies do not provide clear results the
+application of geostatistics can help tackle the problem, allowing
+for the identiﬁcation of anthropic activity markers. Clear examples
+from this study are the correlation between burning areas and fuel
+use in the studied house, and the identiﬁcation of room divisions
+(for the latter see next Section, 4.2). The interpolation of chemical
+elements concentrations obtained with ICP-MS analyses, that in the
+published literature are associated with food processing and
+burning activities (Milek, 2007; Middleton, 1996), do not provide a
+clear diversiﬁcation of activity areas within the house (Fig. 9). Only
+the ﬁreplaces show distinctive signatures, which differ between the
+internal ones and the veranda hearth. This divergence can be understood and interpreted through the interviews data: the veranda
+cooking area, used mainly during the dry season, has a higher input
+of dung while in the inner house cooking areas (which are used
+mainly during the rainy season) wood is the primary source of fuel.
+
+Fig. 6. Phosphates distribution maps: a) Inverse Distance Weighting with power parameter of 2; b) Ordinary Kriging elaboration as mean representation of the variogram models
+with R2 > 0.7; c) Regression Kriging elaboration using generalized least squares (GLS). GLS is preferred because of the likely spatial correlation between residuals.
+
+B. Rondelli et al. / Journal of Archaeological Science 41 (2014) 482e492
+
+489
+
+Fig. 7. Fatty acid distribution map: a) Inverse Distance Weighting with power parameter of 2; b) Ordinary Kriging elaboration as mean representation of the variogram models with
+R2 > 0.7; c) Regression Kriging elaboration using GLS.
+
+Moreover, the external ﬁreplace seems to be surrounded by values
+that indicate a higher concentration of wood ash (Fig. 10). This is
+consistent with the information collected during the interviews on
+how fuel is arranged when the primary source is dung. In such cases
+dung is placed in the very centre of the ﬁreplace (directly below the
+pot) and kindled and refuelled by means of long sticks of wood that
+normally stick out of the ﬁreplace (Fig. 11). This process results in an
+accumulation of dung ash in the very centre of the structure and a
+scatter of woody ash all around it, with a higher concentration at
+the mouth of the ﬁreplace.
+4.2. Regression models and trend detection
+In archaeology, spatial interpolation of chemical signatures has
+focused mainly on recognition of absolute (outliers between
+different datasets) and/or relative anomalies (outliers within the
+dataset), with less work done in modelling trends. Anomalies
+recognition is the identiﬁcation of exceptional (non-average) values
+(e.g. concentration), repetitively associated with speciﬁc activities
+or structures (for example the burning areas and fuel use discussed
+above). Trend modelling is the estimation of general tendencies in a
+set of values that can highlight changes and it is mostly associated
+with average values rather than exceptions. Both anomalies and
+tendencies can be repetitively associated with a speciﬁc activity
+and therefore they can create patterns.
+While in geochemistry (Zhang et al., 2011) or soil studies
+(Davidovic and Prolovi
+c, 2010; Lark, 2012; White et al., 2012) spatial
+interpolation has used geostatistics to estimate trends and predict
+different probability distributions, in archaeology these techniques
+have rarely been explored and they were applied only in a few
+contexts and/or case studies. Examples of these applications are
+related to surface artefact distribution (Markofsky and Bevan, 2011),
+heterogeneity and non-stationarity in archaeological patterns
+across the landscape (Bevan and Conolly, 2009), and to the validation of agent-based simulation results (Rubio Campillo et al., 2011).
+
+In spite of its potential, geostatistic is still rarely used for the study of
+chemical signatures distribution (Lloyd and Atkinson, 2004).
+Geostatistical interpolations have the advantage of being
+model-based, making it possible to estimate spatial correlations
+between values rather than predicting values at missing locations.
+Kriging is the most commonly used geostatistical technique for
+modelling spatial dependency. Instead of weighting nearby data
+points by a power of their inverted distance (as in the case of
+deterministic approaches), Kriging relies on the spatial correlation
+structure of the data to determine the weighting values. Kriging
+techniques commonly used in soil studies include: Simple (SK),
+Ordinary (OK), Universal (UK), with External Drift (KDE) and
+Regression (RK) Kriging. SK assumes a predeﬁned constant trend in
+the data; OK assumes an unknown constant trend; whereas UK/
+KDE/RK assume a polynomial (non-constant) trend model, derived
+from auxiliary predictors (UK and KDE) or with linear regression
+(RK) and then kriges the regressed values. In this experiment we
+have applied and compared results from OK and RK.
+The results of this study suggest that Regression Kriging (RK) has
+a great potential to represent temporal trends and has been
+underestimated in the archaeological investigation of ﬂoor surfaces
+(Figs. 6, 8 and 9). Results obtained from the application of RK
+differentiated the use of space in our domestic unit, which correlated with information gathered from interviews and survey. By
+using a polynomial regression (which is a mathematical approximation that more correctly models the presence of tendencies and
+cycles in the studied spatial structure), rather than a constant trend
+(such as in OK) or a weighted average (such as in IDW), the RK maps
+highlighted the main distribution trends and removed redundant
+variability. This outcome is particularly signiﬁcant because it correlates with the sampling assumption that each sample represented an accumulation of 10 years of activity. This means that the
+maps elaborated through RK can be interpreted as showing the
+temporal trends in the use of the space. These ﬁrst empirical results
+need to be corroborated with additional ethnographic case studies
+
+Fig. 8. Protein distribution map: a) Inverse Distance Weighting with power parameter of 2; b) Ordinary Kriging elaboration as mean representation of the variogram models with
+R2 > 0.7; c) Regression Kriging elaboration using GLS.
+
+490
+
+B. Rondelli et al. / Journal of Archaeological Science 41 (2014) 482e492
+
+Fig. 9. IDW interpolations a) for deposited food remains (Ca, P, K, Mg, Sr) and b) living room sediments (P þ K þ Mg) discussed in Milek (2007, 338e339), as well as c) enclosed
+space (Ca þ Sr) and d) burning area (P þ K) discussed in Middleton (1996:679).
+
+to further evaluate their signiﬁcance. However, our preliminary
+interpretation is supported by Regression Kriging applications in
+other contexts, such as in soil studies and geochemistry (Eldeiry
+and Garcia, 2010; Zhu and Lin, 2010).
+
+It is evident that by using RK alone, anomalies such as the
+burning areas or the differences between internal/external use of
+fuel would not be detected as these signatures are correlated with
+speciﬁc areas/structures or single point values, not general trend.
+
+Fig. 10. PCA elaboration combining signatures of wood ash after Milek (2007 e Ca þ K þ Mg þ Al þ P) and dung after Lancelotti and Madella (2102 e
+Al þ Ba þ Ca þ Co þ Cr þ Fe þ Mn þ Mo þ Ni þ Pb þ P): a) internal ﬁreplace not in use; b) internal ﬁreplace in use; c) concentration of wood ash at the mouth of the external
+ﬁreplace; d) and e) concentration of wood ash probably resulting from the cleaning of the internal ﬁreplaces; f) external ﬁreplace; g) high concentration of dung elements e this can
+be explained by the position of food containers in these part of the room that prevented routine cleaning of the ﬂoor thus resulting in a stronger signal of the dung used fro
+plastering.
+
+B. Rondelli et al. / Journal of Archaeological Science 41 (2014) 482e492
+
+491
+
+processes that originated the archaeological record. The present
+study is a ﬁrst step forward in this direction.
+Acknowledgement
+
+Fig. 11. A photo of the external ﬁreplace located in the veranda: wood is used to light
+the dung used as fuel, and is the source of the wood ash that is indeed deposited
+around the ﬁreplace structure.
+
+Similarly, by only using the ‘more realistic’ (closer to sample values)
+interpolations (IDW or OK with high accuracy) trend patterns in the
+room use and activities (such as inner versus outer space and
+storage versus cooking) would not be seen.
+5. Conclusions
+This paper has shown the application of diverse interpolation
+techniques to detect spatial variability of ﬂoor chemical residues in
+a domestic unit in Northern Gujarat, with the view of discussing
+potentials and limits for the identiﬁcation of past human domestic
+activity. The identiﬁcation of single events is archaeologically rarely
+possible and archaeological interpretations are mainly based on the
+detection of cumulative evidence of activities, and the connected
+use of space. Repetition of the same activity in a speciﬁc area can
+create spatial variability (concentrations or tendencies) of a residue(s). Ethnographic work is crucial in order to create reference
+libraries and to calibrate the inferential reasoning linking the
+spatial variability with the identiﬁed activity. In the ethnoarchaeological literature, spatial interpretations of the results of
+one speciﬁc analysis of ﬂoor samples (e.g. phosphates) are generally
+based on a single elaboration map resulting from the values of the
+chemical components. The current experiment shows that the
+same set of values can generate different maps (grids) depending
+on the choice of spatial statistical technique. These can be interpreted in different ways. Therefore, the technique applied determines the output and, consequently, the interpretation of the
+original data. It is thus argued here that the effort and resources
+invested in sampling and laboratory analysis should be matched by
+an equivalent effort in exploring the potential of different quantitative analysis and representation techniques. It is paramount that
+the degree of uncertainty introduced by each method and the solutions that each technique can provide (or not) is taken into account. The study of uncertainty in archaeological investigation, as
+in other research domains, is critical (see Bevan et al., 2013; Crema,
+2012) and uncertainty cannot be endlessly considered a “constant”
+in our domain, and therefore ignored as a systematic error
+(Goovaerts, 2001). Although quantitative methods are still not
+widely applied in archaeological research, archaeologists need to be
+aware that exploring alternative scenarios in spatial modelling
+can make the narrative scientiﬁcally more coherent and consistent,
+and thus more useful. Furthermore, the power of analysis offered
+by spatial interpolations opens the possibility to apply a multiproxy
+approach for obtaining a more realistic identiﬁcation of the
+
+We wish to thank the owners of the house who opened the
+doors of their home and allowed us to sample (and damage) their
+ﬂoor: Sakti-ji, Nema-ji, Puri, Sonal and Nita. Our gratitude goes to
+Victoria Yannitto who provided part of the micromorphological
+information, José Luis Mateos, Francesc Cecília, Núria Garcia and
+Juan José García-Granero who helped with survey and sampling. BR
+has worked on this research on a grant from the Spanish Ministry of
+Science and Innovation (SB2009-060) and on a contract from
+SimulPast Consolider Ingenio Project (CSD2010-00034), CL on a
+contract from AGRIWESTMED (ERC-2008 AdG 230561), AB on
+contracts from JAEDoc-ESF (MICINN), CSD2010-00034 and JdC. The
+NoGAP project research has been funded by the Spanish Ministry of
+Science and Innovation (HAR2010-16052) and by the Spanish
+Ministry of Education, Culture and Sport (Proyectos Arqueológicos
+en el Exterior). The spot tests were carried out as part of the activities of the ERAAUB research group (SGR2009-01173), in the
+framework of the project PROFOLANT (PIEF-GA-2009-235863, IEFMC Actions) and the project LRCWMED (HAR2009-08290). We
+acknowledge the useful comments from three anonymous
+reviewers.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at http://
+dx.doi.org/10.1016/j.jas.2013.09.008.
+References
+Barba, L., 1986. La química en el estudio de áreas de actividad. In: Manzanilla, L.
+(Ed.), Unidades habitacionales mesoamericanas y sus áreas de actividad. UNAM,
+Messico, pp. 21e39.
+Barba, L., 2007. Chemical residues in lime-plastered archaeological ﬂoors. Geoarchaeology 22, 439e452.
+Barba, L., Ortiz, A., 1992. Análisis químico de los pisos de ocupación: un caso
+etnográﬁco en Tlaxcala, México. Lat. Am. Antiq. 3 (1), 63e82.
+Bevan, A., Conolly, J., 2009. Modelling spatial heterogeneity and nonstationarity in
+artifact-rich landscapes. J. Archaeol. Sci. 36, 956e964.
+Bevan, A., Conolly, J., Hennig, C., Johnston, A., Quercia, A., Spencer, L., Vroom, J., 2013.
+Measuring chronological uncertainty in intensive survey ﬁnds: a case study
+from Antikythera, Greece. Archaeometry 55 (2), 312e328.
+Boivin, N., 2000. Life rhythms and ﬂoor sequences: excavating time in rural
+Rajasthan and Neolithic Çatalhöyük. World Archaeol. 31 (3), 367e388.
+Boivin, N., 2001. “Archaeological Science as Anthropology”: Space, Time and Materiality in Rural India and the Ancient Past (Unpublished Ph.D. thesis). University of Cambridge.
+Crema, E., 2012. Modelling temporal uncertainty in archaeological analysis.
+J. Archaeol. Method Th. 19, 440e461.
+Cressie, N., Wikle, C., 2011. Statistics for Spatio-Temporal Data. John Wiley & Sons,
+Inc., Hoboken.
+Davidovi
+c, N., Prolovi
+c, V., 2010. Modeling of soil parameters spatial uncertainty by
+geostatistics. Facta Univ. Ser. Archit. Civil Eng. 8, 111e118.
+Dore, C., López Varela, S., 2010. Kaleidoscopes, palimpsests, and clay: realities and
+complexities in human activities and soil chemical/residue analysis. J. Archaeol.
+Method Th. 17, 279e302.
+Eldeiry, A., Garcia, L., 2010. Comparison of ordinary kriging, regression kriging, and
+cokriging techniques to estimate soil salinity using LANDSAT images. J. Irrig.
+Drain. Eng. 136, 355e364.
+Fernandez, F., Terry, R., Inomata, T., 2002. An ethnoarchaeological study of chemical
+residues in the ﬂoors and soils of Q’eqchi’ Maya houses at Las Pozas, Guatemala.
+Geoarchaeology 17, 487e519.
+Field, A., 2005. Discovering Statistics Using SPSS. SAGE, London.
+French, C., Sulas, F., Madella, M., 2009. New geoarchaeological investigations of the
+valley systems in the Aksum area of northern Ethiopia. Catena 78, 218e233.
+Goovaerts, P., 2001. Geostatistical modelling of uncertainty in soil science. Geoderma 103, 3e26.
+Hengl, T., 2009. A Practical Guide to Geostatistical Mapping. University of Amsterdam, Amsterdam.
+Hengl, T., Heuvelink, G., Rossiter, D., 2007. About regression-kriging: from equations
+to case studies. Comput. Geosci. 33, 1301e1315.
+
+492
+
+B. Rondelli et al. / Journal of Archaeological Science 41 (2014) 482e492
+
+Hengl, T., Heuvelink, G., Stein, A., 2004. A generic framework for spatial prediction
+of soil variables based on regression-kriging. Geoderma 120, 75e93.
+Kenoyer, J.M., 1991. Urban processes in the Indus tradition: a preliminary model
+from Harappa. In: Meadow, R.H. (Ed.), Harappa Excavations 1986e1990,
+Monographs in World Archaeology 3. Prehistory Press, Madison, pp. 29e60.
+Kenoyer, J.M., 1998. Ancient Cities of the Indus Valley Civilization. Oxford University
+Press, Karachi.
+Lancelotti, C., 2010. Fuelling Harappan Hearts: Human-Environment Interactions as
+Revealed by Fuel Exploitation and Use (Unpublished Ph.D. thesis). University of
+Cambridge.
+Lancelotti, C., Madella, M., 2012. The “invisible” product: developing markers for
+identifying dung in archaeological contexts. J. Archaeol. Sci. 39, 953e963.
+Lark, R., 2012. Towards soil geostatistics. Spat. Stat. 1, 92e99.
+Lloyd, C., Atkinson, P., 2004. Archaeology and geostatistics. J. Archaeol. Sci. 31, 151e
+165.
+Madella, M., Ajithprasad, P., Lancelotti, C., Rondelli, B., Balbo, A., French, C.,
+Rodríguez, D., García-Granero, J.J., Yannitto, V., Rajesh, S.V., Gadekar, C.S., Briz, I.,
+2010. Social and environmental transitions in arid zones: the North Gujarat
+Archaeological Project d NoGAP. Antiq. Gallery 84.
+Markofsky, S., Bevan, A., 2011. Directional analysis of surface artefact distributions.
+A case study from the Murghab Delta, Turkmenistan. J. Archaeol. Sci. 39, 428e
+439.
+Middleton, W.D., 1996. Identiﬁcation of activity areas by multi-element characterization of sediments from modern and archaeological house ﬂoors using
+inductively coupled plasma-atomic emission spectroscopy. J. Archaeol. Sci. 23,
+673e687.
+Mathieu, J.R. (Ed.), 2002. Experimental Archaeology, Replicating Past Objects, Behaviors and Processes. BAR International Series, vol. 1035. Oxford.
+Middleton, W.D., Barba, L., Pecci, A., Burton, J.H., Ortiz, A., Salvini, L., Suárez, R.R.,
+2010. The study of archaeological ﬂoors: methodological proposal for the
+analysis of anthropogenic residues by spot tests, ICP-OES, and GC-MS.
+J. Archaeol. Method Th. 17, 183e208.
+Milek, K., 2007. Houses and Households in Early Icelandic Society: Geoarchaeology
+and the Interpretation of Social Space (Unpublished Ph.D. Thesis). University of
+Cambridge.
+Milek, K., 2012. Floor formation processes and the interpretation of site activity
+areas: an ethnoarchaeological study of turf buildings at Thverá, northeast Iceland. J. Anthropol. Archaeol. 31, 119e137.
+Minasny, B., McBratney, A.B., 2007. Spatial prediction of soil properties using EBLUP
+with the Matern covariance function. Geoderma 140, 324e336.
+Moore, P.D., Webb, J.A., Collison, M.E., 1991. Pollen Analysis, second ed. Blackwell,
+Oxford.
+P
+Ortiz, A., Barba, L., 1993. La quÃmica en el estudio de
+reas de actividad. In:
+Manzanilla, L. (Ed.), AnatomÃa de un conjunto residencial teotihuacano en
+Oztoyahualco. IIA. UNAM, Mexico, pp. 617e660.
+Pecci, A., 2003. Los alimentos y sus residuos químicos. Arqueología experimental
+para entender actividades prehispánicas. Quaderni di Thule 3, 75e83.
+Pecci, A., Ortiz, A., Barba, L., Manzanilla, L., 2010. Distribución espacial de las actividades humanas con base en el análisis químico de los pisos de Teopancazco,
+
+Teotihuacan. In: Ortiz Diaz, E. (Ed.), VI Coloquio Bosh Gimpera. UNAM, Mexico,
+pp. 453e478.
+Pecci, A., Cau Ontiveros, M., Valdambrini, C., Inserra, F., 2013. Understanding residues of oil production: chemical analyses of ﬂoors in traditional mills.
+J. Archaeol. Sci. 40 (2), 883e893.
+Possehl, G.L., 2002. The Indus Civilization: a Contemporary Perspective. Altamira
+Press, Walnut Creek CA.
+Rubio Campillo, X., Cela, J., Hernàndez Cardona, F., 2011. Simulating archaeologists?
+Using agent-based modelling to improve battleﬁeld excavations. J. Archaeol. Sci.
+39, 347e356.
+Salisbury, R.B., 2012. Soilscapes and settlements: remote mapping of activity areas
+in unexcavated prehistoric farmsteads. Antiquity 86 (331), 178e190.
+Salisbury, R.B., 2013. Interpolating geochemical patterning of activity zones at Late
+Neolithic and Early Copper Age settlements in eastern Hungary. J. Archaeol. Sci.
+40, 926e934.
+Sherman, M., 2011. Spatial Statistics and Spatio-Temporal Data: Covariance Functions and Directional Properties. John Wiley & Sons, Chichester.
+Stolt, M.H., Lindbo, D.L., 2010. Soil organic matter. In: Stoops, G. (Ed.), Interpretation
+of Micromorphological Features of Soils and Regoliths. Elsevier, Amsterdam,
+pp. 369e396.
+Sulas, F., Madella, M., 2012. Archaeology at the micro-scale: micromorphology and
+phytoliths at a Swahili stonetown. Archaeol. Anthropol. Sci. 4, 1e15.
+Terry, R.E., Fernández, F.G., Parnell, J.J., Inomata, T., 2004. The story in the ﬂoors:
+chemical signatures of ancient and modern Maya activities at Aguateca,
+Guatemala. J. Archaeol. Sci. 31, 1237e1250.
+Vyncke, K., Degryse, P., Vassilieva, E., Waelkens, M., 2011. Identifying domestic
+functional areas. Chemical analysis of ﬂoor sediments at the ClassicalHellenistic settlement at Düzen Tepe (SW Turkey). J. Archaeol. Sci. 38, 2274e
+2292.
+Webster, R., Oliver, M., 2007. Geostatistics for Environmental Scientists. John Wiley
+& Sons, Chichester.
+Wells, E., 2010. Sampling design and inferential bias in archaeological soil chemistry. J. Archaeol. Method Th. 17, 209e230.
+Wells, E., Moreno Cortés, J.E., 2010. Chimie du sol et activités humaines anciennes:
+les exemples archéologiques du Mexique et d’Amérique centrale. Etude Gest.
+Sols 17 (1), 67e78.
+White, J., Veronesi, F., Corstanje, R., Kral, F., 2012. A geostatistical analysis of soil
+properties in the Davis Pond Mississippi freshwater diversion. Soil Sci. Soc. Am.
+J. 76, 1107e1118.
+Wilson, C., Davidson, D., Cresser, M.S., 2009. An evaluation of the site speciﬁcity of
+soil elemental signatures for identifying and interpreting former functional
+areas. J. Archaeol. Sci. 36, 2327e2334.
+Zhang, C., Tang, Y., Xu, X., 2011. Towards spatial geochemical modelling: use of
+geographically weighted regression for mapping soil organic carbon contents in
+Ireland. Appl. Geochem. 26, 1239e1248.
+Zhu, Q., Lin, H., 2010. Comparing ordinary kriging and regression kriging for soil
+properties in contrasting landscapes. Pedosphere 20, 594e606.
+
+

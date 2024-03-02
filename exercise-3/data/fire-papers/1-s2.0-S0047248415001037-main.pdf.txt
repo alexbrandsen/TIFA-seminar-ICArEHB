@@ -1,0 +1,1730 @@
+Journal of Human Evolution 85 (2015) 1e21
+
+Contents lists available at ScienceDirect
+
+Journal of Human Evolution
+journal homepage: www.elsevier.com/locate/jhevol
+
+Interpreting human behavior from depositional rates and combustion
+features through the study of sedimentary microfacies at site Pinnacle
+Point 5-6, South Africa
+Panagiotis Karkanas a, b, *, Kyle S. Brown c, Erich C. Fisher d, Zenobia Jacobs e,
+Curtis W. Marean c, f
+a
+
+Ephoreia of Palaeoanthropology-Speleology of Southern Greece, Ardittou 34b, 11636 Athens, Greece
+The Malcolm H. Wiener Laboratory for Archaeological Science, American School of Classical Studies, Souidias 54, 10676 Athens, Greece
+Department of Archaeology, University of Cape Town, Rondebosch 7701, Cape Town, South Africa
+d
+Institute of Human Origins, School of Human Evolution and Social Change, PO Box 872402, Arizona State University, Tempe, AZ 85287-4101, USA
+e
+Centre for Archaeological Science, School of Earth and Environmental Sciences, University of Wollongong, Wollongong, NSW 2522, Australia
+f
+Faculty of Science, Nelson Mandela Metropolitan University, Port Elizabeth, Eastern Cape 6031, South Africa
+b
+c
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 19 December 2013
+Accepted 10 April 2015
+Available online 27 May 2015
+
+Using ﬁne and coarse resolution geoarchaeological studies at the Middle Stone Age site of PP5-6 at
+Pinnacle Point, Mossel Bay, South Africa, we discovered different patterns of anthropogenic input and
+changes in behavior through time. Through the microfacies approach, we documented the various
+geogenic and anthropogenic processes that formed the deposits of the site. By deciphering large scale
+rate differences in the production of these microfacies we estimated anthropogenic input rates and
+therefore gained understanding of occupational duration and intensity.
+The PP5-6 sediments document occupations characterized by small groups and short visits during
+Marine Isotope Stage (MIS) 5. This part of the sequence is characterized by numerous single (and mostly
+intact) hearth structures in a roofspall-rich matrix. During this time the sea was very close to the site and
+the people were focused on exploiting the rocky shores. With the advent of the glacial conditions of
+MIS4, the occupation of the site became much more intense. The occurrence of thick palimpsests of burnt
+remains, sometimes disturbed by small-scale sedimentary gravity processes, supports this conclusion. As
+sea level dropped and the coastline retreated, the geogenic input shifted to predominately aeolian
+sediments, implying an exposed shelf probably associated with a rich but more distant coastal environment. The occupants of PP5-6 turned their preference to silcrete as a raw material and they began to
+make microlithic stone tools. Since sites dating to MIS4 are abundant in the Cape, we suggest that
+populations during MIS4 responded to glacial conditions with either demographic stability or growth as
+well as technological change.
+© 2015 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Micromorphology
+Middle Stone Age
+Formation processes
+Occupational intensity
+
+1. Introduction
+Over the last few years rockshelters and caves in South Africa
+have provided important information regarding anthropogenic
+depositional processes during the Middle Stone Age (MSA).
+Detailed studies at the microscopic scale have revealed ﬁne-scale
+activities (e.g., Goldberg et al., 2009) or have disentangled complex
+* Corresponding author. Current address: The Malcolm H. Wiener Laboratory for
+Archaeological Science, American School of Classical Studies, Souidias 54, 10676
+Athens, Greece.
+E-mail address: tkarkanas@ascsa.edu.gr (P. Karkanas).
+http://dx.doi.org/10.1016/j.jhevol.2015.04.006
+0047-2484/© 2015 Elsevier Ltd. All rights reserved.
+
+stratigraphic sequences and reconstructed sedimentary histories
+(Karkanas and Goldberg, 2010). These studies used a similar
+approach and methodology but the focus was different, mainly
+because of the differences in the structure and formation of the
+sites. In the case of Pinnacle Point 13B (PP13B) the study targeted
+long-term environmental changes and how these regulated
+absence or presence of humans in the site (Karkanas and Goldberg,
+2010), whereas in the case of Sibudu the study focused on ﬁne scale
+human activities and thus ﬁne-grained behaviors (Goldberg et al.,
+2009).
+Site structure and the temporal scale of site formation processes
+limit the resolution of inferences about the behaviors and temporal
+
+2
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+patterns that can be inferred from archaeological ﬁnds. In other
+words, the resolution of any site and consequently its maximum
+capacity to reveal behavioral information are constrained by the
+accumulation rates of anthropogenic and natural sediments (cf.
+Malinsky-Buller et al., 2011). Many sites with varying accumulation
+patterns have been studied and discussed (Butzer et al., 1978;
+Goldberg, 2000; Goldberg et al., 2009; Miller et al., 2013), but
+there are few sites where changes in sedimentary processes can be
+directly linked to behavioral and cultural changes through time.
+Pinnacle Point Site 5-6 (PP5-6) on the south coast of South Africa
+(Fig. 1) provides a good example of such a site because it has a long,
+high-resolution depositional sequence with various types of sediment, and it records major changes in stone artifacts that are argued
+to represent signiﬁcant shifts in behavior (Brown et al., 2009, 2012).
+To gain the maximum information from PP5-6 and therefore exploit
+its intrinsic resolution, we propose here that in addition to using
+microstratigraphic analysis and capturing minutes in remote time
+(cf. Henry, 2012) we should focus on studying both short and long
+term changes in depositional rates of the major contributors to site
+formation and understand the dynamics of anthropogenic and
+geogenic depositional processes. In this way we can reveal the
+pattern of anthropogenic input and how the latter changes though
+time. In other words, we advocate here that understanding past
+human behavior can be accomplished by using simultaneously ﬁne
+
+and coarse resolution studies of the deposits. Finer scale spatial
+observation and analysis can be used to understand single depositional and behavioral events. These phenomena are rarely found
+isolated and pristine, and more commonly they are found distorted
+and as palimpsests. Even when found as the latter, we argue they
+can be safely interpreted when they are contextualized within the
+larger scale. In PP5-6 we often ﬁnd isolated single depositional
+events. Regardless if they are found pristine or distorted, the
+coarser scale can act to guide the interpretation (Bailey, 2007).
+This work is also innovative in the way we interpret geogenic
+depositional processes. The typical unstated goal in most studies of
+anthropogenic deposits, such as living ﬂoors or palimpsests, is that
+the archaeological materials need to be cleaned of the noise produced by natural formation processes that distort the archaeological record. However, a more pragmatic approach may be to
+interpret the archaeological record as a product of these natural
+processes, conditioning the anthropogenic sedimentation and
+possibly even enhancing the visibility of the archaeological record.
+We therefore analyze here geogenic depositional processes with
+the premise that they shape and eventually reveal the conditions of
+occupation rather than destroying evidence of occupation. In the
+same line, anthropogenic activities are considered as depositional
+agents that produce certain sedimentary patterns that structure the
+site in the same way geogenic processes do.
+
+Figure 1. The location of Pinnacle Point and multiple views of Pinnacle Point showing PP5-6 and other important features such as caves and fault zones. A) map of South Africa and
+the location of Pinnacle Point; B) aerial photograph (ortho-rectiﬁed) of Pinnacle Point and the locations of other caves and rockshelters; C) panorama photographed from boat to the
+south-east; and D) a low-oblique aerial photograph taken from a helicopter looking to the southwest.
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+2. The site
+PP5-6 is a rockshelter and cave site in the quartzitic cliffs at
+Pinnacle Point near Mossel Bay, South Africa (Fig. 1). We divided
+the site into two main portions, PP5-6 North and PP5-6 South,
+which were probably connected in the past but are now separated
+by a major eroded area and cliff collapse. Our study is concerned
+with the analysis of the deposits of PP5-6 North, which has the
+form of a slit-cut rockshelter (Figs. 1 and 2). It is divided into three
+areasdthe Northwest Remnant, the Long Section, and the South
+
+3
+
+Remnant (Figs. 2 and 3). The Long Section is the main deposit at
+PP5-6 North and is a ~30 m cone of sediments built up against a
+cliff face and also partially under the rock shelter. The development
+of the rockshelter follows a main south-trending diagonal fault
+breccia visible at its back wall. As with all other rockshelters and
+caves in Pinnacle Point, the PP5-6 site has been formed by more
+than one sea level highstand (Karkanas and Goldberg, 2010;
+Pickering et al., 2013), and the main linear cutting of PP5-6 probably followed a series of regressing sea level highstands
+commencing more than 1.0 Ma (Pickering et al., 2013). The slit-cut
+
+Figure 2. Long Section stratigraphic silhouette showing the stratigraphic aggregates (bottom), Long Section photomosaic proﬁle (middle), and the regional proﬁle of the PP5-6
+complex (top).
+
+4
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+Figure 3. Plan view of PP5-6 South and North showing the excavation grids of the Long Section and the Northwest Remnant. Also shown are the modern erosional gully, erosional
+cliff, and dripline. Note that the dripline along the Long Section was close to the 83726 grid line during most of the time period discussed in this study.
+
+conﬁguration of the cave also deﬁned the morphology of the deposits. The topography of the substrate is not exposed, but it
+probably follows the development of the main fault breccia.
+Deposition therefore probably initially leveled any ﬂoor irregularities at the very bottom of the shelter and then progressively built
+up the sequence. This is actually observed in the structure of the
+horizontally stacked sedimentary sequence (Fig. 2). Although small
+variations in the type of sediments are expected along the cave, its
+shallow conﬁguration, linear development, and constant dipping
+suggest that most of the large-scale geogenic depositional processes were acting throughout the whole horizontal extension of
+the cave (Figs. 2 and 3).
+
+Still observable today, there is a small linear ridge along the
+drip-line made mainly of collapsed material from the overhang that
+always existed. As a result, rain wash was guided towards the
+interior of the ridge along the line of extension of the cave. The
+present manifestation of this process is an active erosion gully
+between the upper half of the cone and a cliff-face located at the
+southern edge that has cut through stratiﬁed deposits (Fig. 3). In
+addition, we have observed ﬂood-waters running down the rockshelter face during extreme rains and ﬂowing down-slope near the
+contact of the sediments and the cliff-face, and the north-south
+pitch of the area near the cliff-face resembles a water-cut gulley.
+The excavated and revealed portion of the Long Section is a
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+continuous >14 m section of exposed MSA deposit. The Northwest
+Remnant is a small portion of sediment stacked against the back
+wall of the rockshelter in the upper northwest part of the site. At
+the base of the Long Section excavation a thick aeolian sand deposit
+was encountered that continues for at least ~2.7 m as revealed with
+a hand auger. The auger hit rock at ~12 m asl, and this could either
+be a shelf or rockfall. We do not know if the sedimentary sequence
+continues below this encountered rock. The dune at the base of the
+Long Section is an aeolian event that has been recognized at several
+sites at Pinnacle Point and is tightly constrained by many OSL ages
+as well as uranium-thorium ages on overlying speleothem that date
+it to ~90 ka (Bar-Matthews et al., 2010; Jacobs, 2010; Marean et al.,
+2010). The top of the PP5-6 section is dated by OSL to ~50 ka (Brown
+et al., 2012), providing a ~40,000 year sequence across ca. 14 m of
+sediment.
+Much of the Long Section is an eroded cliff-face created by two
+or more erosion events that washed away and undercut the sediments of PP5-6 and removed much of the original sediment stack,
+creating two cliff-faces that were the target of our excavations
+(Figs. 2 and 3). Remnants of this eroded sediment are still visible
+cemented to the quartzite cliff walls at the far southern edge of the
+Long Section between PP5-6 North and South. At one time these
+remnants likely wrapped around the cliff and connected PP5-6
+North and South. The result is that today there is a preserved
+cone of deposit at PP5-6 North that rises up vertically ca. 14 m from
+the base of the cone on the far southern end of the Long Section and
+the Northwest Remnant. The erosion proﬁle at the southern end is
+sharp and vertically steep, and resembles more the result of a
+catastrophic detachment of sediment that was undercut and not a
+
+5
+
+long process of rain wash erosion along a slope. This erosion event
+must post-date the youngest MSA deposits at the top of the sediment stack since these are also eroded away. We think that the
+major erosion event included rising sea levels (likely the early and
+middle Holocene high sea levels) cutting away at the deposit from
+the east and south, undermining and washing away deposit that
+projected out onto the now submerged coastal platform and once
+wrapped around to PP5-6 South. The basal sediments of the loose
+dune would have been highly susceptible to such erosion.
+Following this erosive phase, the entire eroded section was draped
+with sediments of mixed colluvial and aeolian nature that eventually formed a weakly developed soil on top and are now vegetated. The ﬁrst seasons of excavation focused on removing this
+“modern” drape of sediment to reveal the sediments of interest.
+During the ﬁrst few seasons we had no clue that this drape
+obscured such a long proﬁle, since only ~2 m of MSA sediment was
+exposed at the surface. The following seasons focused on excavating intact sediment from the entire length of the proﬁle.
+3. Methodology
+3.1. Recording and analyzing the stratigraphy
+We employ several stratigraphic groupings of different scales in
+order to capture visible changes in sedimentation and the ﬁner
+details in behavioral variation embedded within the sedimentary
+shifts (Fig. 4). The excavations were conducted within individual
+stratigraphic lenses and features, collectively titled Stratigraphic
+Units (StratUnits), with all archaeological ﬁnds and sedimentary
+
+Figure 4. Schematic relationship between stratigraphic units and facies and microfacies. Stratigraphic Units (StratUnit: alphanumerical), Sub-Aggregates (SubAggs: person's
+names), and Stratigraphic Aggregates (StratAggs: abbreviations) represent the smaller, intermediate, and higher hierarchical stratigraphic units, respectively, used in the PP5-6
+excavation. A single macroscopically identiﬁed StratUnit consists of one or more microfacies (small letters) that produce the thinnest homogenous deposit identiﬁed in the
+ﬁeld. A group of microfacies showing a distinct lateral and vertical distribution produces a higher order of homogeneity in the ﬁeld, thus deﬁning a facies (capital letters). A facies
+corresponds to higher hierarchical stratigraphic entities, a Subaggregate, or a Stratigraphic Aggregate. Stratigraphic Aggregates may consist of more than one facies. Stratigraphy and
+facies are different ways of describing a depositional sequence. Stratigraphy is based on vertical relationships of depositional units whereas facies is about grouping depositional
+units based on their depositional characteristics and their vertical and lateral interrelationship, most of the time implying a genetic correlation between facies within the same
+group as well.
+
+6
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+observations recorded by total station. These high resolution units
+typically represent subtle anthropogenic or geogenic units, such as
+combustion events, roofspall events of low occupation, etc.,
+recognized primarily by ﬁeld observations. These StratUnits are
+then grouped into larger aggregates termed Sub-Aggregates (SubAggs). These typically take the form of palimpsests of combustion
+features and anthropogenic artifactual/ecofactual clusters, with
+inter-bedded layers of low to non-occupation geogenic units.
+Assignment of StratUnits to Sub-Aggregates is typically done in the
+ﬁeld but they are then reﬁned through GIS-based 2D and 3D study
+of patterning within plotted ﬁnds and plots of the StratUnits.
+SubAggs are then grouped into Stratigraphic Aggregates (StratAggs), our higher hierarchical level of analysis (Figs. 2 and 4). These
+are horizontally continuous across large excavated areas, are typically 50 cm to several meters thick, and reﬂect a homogeneous set
+of formation processes recognized by ﬁeld observations, micromorphological study, and GIS-based analysis of structure within
+plotted ﬁnds. They are sedimentary units that reﬂect major changes
+in geogenic and anthropogenic sedimentary processes.
+
+undisturbed sediment and soil samples under the microscope
+(Courty et al., 1989). In this way each macroscopically deﬁned facies
+were further reﬁned under the microscope and analyzed to one or
+more microfacies (MF; Table 1). In addition, several samples along
+the same combustion feature were collected in order to deﬁne its
+lateral variation. In total, 21 large monoliths (15e70 cm long) were
+collected in the ﬁeld. The samples were jacketed with plaster of
+Paris bandages to secure safe removal. The samples were oven
+dried for several days at ca. 50 C and then impregnated with
+polyester resin diluted with styrene. The hardened blocks were
+then cut into 1 cm thick slabs, photographed, and processed into
+50  75 mm petrographic thin sections by Spectrum Petrographics
+(Vancouver, WA). In total, 83 thin sections from PP5-6 were
+observed in plane-polarized and cross-polarized light at magniﬁcations ranging from 12.5 to 400. High resolution images of the
+entire thin sections were also produced and examined for mesoscopic features. Descriptive terminology of thin sections follows
+that of Bullock et al. (1985; modiﬁed by Stoops, 2003) and Courty
+et al. (1989), but standard sedimentary terminology is also used
+for non-pedogenic features.
+
+3.2. Facies and microfacies
+An important step in interpreting the stratigraphy of a site is to
+understand the related depositional processes. A single depositional process can produce a single visible layer, but so can a set of
+depositional processes operating in a repetitive consistent manner.
+For example, dumping hearth raked-out material in the same
+location in the back of a cave can produce a single combustion layer.
+Therefore, disentangling the stratigraphy of a site is primarily about
+understanding sedimentary processes and their visual manifestation, which is a facies (Fig. 4). A facies type is a group of sediments
+having the same appearance (color, content, structure, and fabric)
+and thus recording distinct depositional processes or groups of
+processes acting at the same time. In the ﬁeld facies are typically
+deﬁned macroscopically, but micromorphology can also deﬁne
+microscopic facies (microfacies). The microfacies approach is a
+recent analytical approach (Courty, 2001), but it has already been
+widely applied with successful results (Goldberg et al., 2009;
+Villagran et al., 2009; Karkanas, 2010; Karkanas et al., 2011;
+Miller et al., 2013). It is important to stress that all microfacies
+are stratigraphic entities that have the potential for both signiﬁcant
+lateral extent and repetitive occurrence (Fig. 4). Only processes that
+result in the formation of stratigraphic units, however thin they are,
+can be recorded as facies or microfacies, and since grouping is an
+indispensable part of this differentiation some lumping is inevitable. This spatial dimension and at the same time the diachronic
+nature of microfacies enables spatial reconstruction of human activities in a site (Miller et al., 2013). An additional very important
+aspect of the concept of facies and microfacies is that there is a
+causal connection between different deposits and therefore only
+certain transitions to other facies are possible (Middleton, 1973).
+For instance, trampled hearth microfacies can be vertically or
+laterally associated with intact hearth microfacies and vice versa. It
+is this knowledge of facies relationships that allows us to correlate
+and interpret anthropogenic and geogenic processes within an
+archaeological site in a comprehensive way. Following this line of
+thought we adopt here the strategy of ﬁrst describing and interpreting sedimentary facies and then building stratigraphy from
+those descriptions and interpretations.
+3.3. Micromorphology
+Field observations deﬁned the major sedimentary facies and
+stratigraphic breaks. These two features were the primary focus of
+more detailed analysis using micromorphology, the study of
+
+4. Results
+4.1. Facies description
+4.1.1. Aeolian facies Aeolian facies are sediments dominated by
+sorted and well-rounded sand. Several microfacies (MF) were
+recognized, each one recording a different depositional process.
+Aeolian sand microfacies (MF) consist of rounded to subrounded medium coarse sand with ﬂuctuating amounts of silt
+and occasionally randomly distributed quartzite roofspall. Sand
+grains consist mostly of quartz, quartzite, shale, feldspar, glauconite, and heavy minerals. Several types of aeolian sand MF were
+identiﬁed. Beige Sand MF contains, in addition, large amounts (ca.
+20e30%) of calcareous well-rounded bioclasts with elongated
+shape. Brown dusty clay microaggregates are rarely observed, and
+they are associated with a few anthropogenic inputs (mostly ﬁne,
+burnt bone). Brown Sand MF is decalciﬁed and contains locally
+brown organic-rich and black charred microaggregates and some
+excremental pedofeatures (Fig. 5a). Red Sand MF has a higher silt
+amount with thin to thick reddish dusty clay coatings and bridged
+grain microstructure. There are also areas with voids completely
+ﬁlled with dusty light reddish clay that occasionally gives way to
+reddish crudely laminated undulated limpid clay coatings (Fig. 5b).
+A variety of the latter MF is particularly enriched in roofspall
+(Roofspall-rich Red Sand MF) and shows preferred orientations of
+clasts but also clustering, banding of the coarser elements, and
+often deformation rotational features (Figs. 6a and 7a). Roofspall is
+of varying sizes but often reaches decametric sizes. Grey Sand MF is
+also decalciﬁed and has thin silty clay coatings, single-grain
+microstructure with some silty clay aggregates and microaggregates of organic-rich excrements, and root remnants. This MF
+is particularly enriched in ﬁne roofspall.
+4.1.2. Roofspall facies Roofspall facies are seen as ﬁnely stratiﬁed
+sequences of sediment dominated by roofspall of various sizes but
+predominately of centimetric size. They usually have light
+yellowish to brownish color.
+All roofspall microfacies are characterized by large amounts of
+almost clast-supported angular roofspall (Figs. 5c and 6b). The
+aeolian sand component is relatively small. A few light yellowish
+phosphatic aggregates were also observed. The Typical Roofspall
+MF often consists of overlapping coarser and ﬁner lenses (clast sizes
+from coarse gravel to ﬁne sand). The fabric is rather random
+without any preferred orientation. This type of MF contains little
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+7
+
+Table 1
+Summary of microscopic description for the microfacies.
+Facies
+Aeolian Sand
+
+Microfacies
+Beige Sand
+Brown Sand
+
+Red Sand
+Roofspall-rich Red Sand
+Grey Sand
+Roofspall
+
+Typical Roofspall
+Matrix-rich Roofspall
+
+Combustion
+
+White Ash/Recrystallized
+Roofspall-rich Ash
+Sand-rich Ash
+Banded Sand-rich Ash
+Deformed Ash-rich Sand
+Cemented Roofspall
+
+Black Sand
+
+Decalciﬁed Clay
+Typical Black Sand
+Deformed Black/Dark Sand
+Clay-rich Black Sand
+
+Micromorphology description
+Rounded to sub-rounded sand-grains, mostly quartz and bioclasts; coarse monic c/f related distribution; packing voids;
+rarely brown dusty clay microaggregates and bridges; very few excremental pedofeatures
+Rounded to sub-rounded sand-grains, mostly quartz; coarse monic c/f related distribution with locally chitonic to enaulic c/f
+related distribution; often brown organic-rich and black charred microaggregates; packing voids; often excremental
+pedofeatures
+Rounded and sub-rounded quartz sand grains; gefuric and chitonic c/f related distribution; packing voids; red clay coatings
+and inﬁllings
+Mixture of rounded sand and quartzite roofspall; packing and channel voids; gefuric and chitonic c/f related distribution;
+red clay coatings and inﬁllings; banded and clustered roofspall distribution; deformation features
+Mixture of rounded sand, quartzite roofspall and soil aggregates; silty clay coatings; chitonic and enaulic c/f related
+distribution; often excremental pedofeatures; complex packing voids
+Quartzite roofspall; coarse monic c/f related distribution; packing voids; thin dusty clay coatings
+Quartzite roofspall with sandy silt; enaulic and gefuric c/f related distribution; few excremental pedofeatures; packing,
+chamber, and channel voids
+Bedded calcitic ash, burnt bone, and burnt shell; massive microstructure; few excremental pedofeatures; some vughs and
+channels; crystallitic b-fabric
+Mixture of burnt material calcitic ash and quartzite roofspall; complex microstructure; enaulic and gefuric c/f related
+distribution; few excremental pedofeatures; vughs, chamber, and packing voids
+Mixture of round quartz sand calcitic ash and other burnt material; close porphyric c/f related distribution; few excremental
+pedofeatures; some channel voids
+Mixture of rounded quartz sand, roofspall, some calcitic ash and burnt material; banded roofspall and sand distribution;
+coarse monic to enaulic c/f related distribution
+Mixture of rounded quartz sand, roofspall, some calcitic ash and burnt material; deformation features; coarse monic to
+enaulic c/f related distribution; complex packing voids
+Quartzite roofspall with some burnt material cemented with calcite; massive microstructure; porphyric c/f related
+distribution
+Orange clay with few burnt remains; vughy microstructure; speckled b-fabric
+Mixture of rounded sand, sub-rounded burnt material, and some quartzite roofspall; enualic c/f related distribution;
+complex packing voids
+Mixture of rounded sand, sub-rounded burnt material, and some quartzite roofspall; enaulic c/f related distribution;
+deformation features; complex packing voids
+Rounded sand and sub-rounded burnt material with red clay; enualic c/f related distribution; red clay coatings and
+inﬁllings; complex packing voids
+
+c/f stands for coarse/ﬁne.
+
+ﬁne matrix with only some ﬁne dusty clay and silty coatings
+(Fig. 5c).
+Another type of roofspall microfacies is Matrix-rich Roofspall
+MF (Figs. 5d and 6c) with voids between the larger roofspall occasionally ﬁlled with rounded sand and angular sand-sized roofspall, implying some kind of sorting by inﬁltration. It is also
+characterized by silty-clay speckled coatings and ﬁne intergrain
+microaggregates consisting of silty excrements. Two types of silty
+coatings are observed, often close to each other. The ﬁrst consists of
+decalciﬁed ﬁne elongated lath-like illitic clay and silty quartz with
+black microcontrasting particles, presumably ﬁne charcoal. The
+coatings are in the form of non-isopachous coatings but also relatively thick vadose features (pendants and bridges), suggesting that
+the ﬁne component is inﬁltrated. The second type of coating consists of dirty grey micrite with very ﬁne black microcontrasting
+particles. It is also in the form of pendants and bridges. Characteristic features often identiﬁed are rotational deformation features
+and banding and clustering of coarser components with often tails
+of ﬁne clasts (Fig. 6c). Occasionally, ﬁne lamination of crudely
+sorted sediment is also observed (Fig. 5d).
+Combustion facies Here combustion facies are described as all
+sediments that bear large amounts of burnt remains in the form of
+ashes, charred, or burnt material or their alteration products (e.g.,
+cemented ash) that give a distinct aspect to the sediment. This
+facies includes several microfacies as well.
+White Ash MF shows a layered appearance and consists of grey
+micrite preserving ash crystals and articulated ash pseudomorphs
+of plant structures (Fig. 5e). Some charcoal is occasionally preserved, particularly at the base of this type of sediment. Large
+amounts of burnt, sometimes exfoliated shell, cracked bone, and
+dispersed reddish silty clay sediment are also associated with this
+
+MF. Shell and bone show varying degrees of burning. Whole shell
+fragments are often preserved almost intact, suggesting minimum
+disturbance. Bioturbation is often intense in the form of channels
+and few excremental aggregates. Recrystallization leads to formation of a new MF (Recrystallized White Ash MF) where micritic ash
+is transformed to sparite and microsparite speckled with microcharcoal and reddish ﬁne silty clay concentrations (Fig. 5h).
+Nevertheless, ash crystals and articulated pseudomorphs are still
+visible.
+Roofspall-rich Ash MF consists of angular and rounded aggregates of recrystallized ashes inside a mixture of aeolian sand and
+roofspall (Fig. 5f). Roofspall tends to be horizontally aligned. Intergrain micro-aggregates consisting of silty excrements are often
+observed, as are micritic coatings and bridges.
+Sand-rich Ash MF is aeolian sand embedded in a dense closeporphyric matrix that consists of reworked ashes mixed with ﬁne
+charred material, exfoliated shell fragments, and burnt bone
+(Figs. 5g and 6d). Ash crystals are occasionally preserved. Channel
+voids imply some bioturbation, and there is also some movement of
+material in the form of grey micritic coatings and even coatings rich
+in ﬁne ashy material. Variable amounts of roofspall are observed
+together with lithic materials. Large clasts tend to be horizontally
+aligned.
+Banded Sand-rich Ash MF is a variety of the MF described above.
+It shows banding and preferred orientation of coarse clasts in
+roofspall-rich zones also associated with burnt remains, mainly
+shell and bone but also ash aggregates and microcharcoal (Fig. 6e).
+Sand-rich zones attain a coarse stratiﬁed appearance with layers of
+clean elutriated sand alternating with silt-rich layers.
+Closely associated with the above MF is the Deformed Ash-rich
+Sand MF. It has the same content as the Banded Sand-rich Ash MF
+
+8
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+Figure 5. Representative photomicrographs of the different microfacies. a) Brown Sand MF with some brown and black microaggregates in between sand grains, Plane Polarized
+Light (PPL); b) Red Clay MF showing aeolian sand with thick red laminated limpid clay coatings, Crossed Polarized Light (XPL); c) Typical Roofspall MF showing openwork quartzite
+roofspall with some sandy silt coatings (XPL); d) Matrix-rich Roofspall with bedded roofspall in between crudely sorted sand grains (XPL); e) White Ash MF with intact ashed and
+charred plant remains (PPL); f) Roofspall-rich Ash MF with bedded roofspall and sand and in between grey ash aggregates and other burnt remains (bone and microcharcoal; PPL);
+g) Sand-rich Ash MF showing sand grains embedded in grey ash. Burnt and unburnt bone and shell, charcoal, channel and chamber voids can be also observed (PPL); h) Cemented
+Roofspall MF overlain by cemented White Ash MF. Roofspall and sand grains are embedded in dark micrite that is recrystallized to lighter-colored sparite cement. Ash crystals are
+still visible in the overlying pure ashy layer that is also recrystallized in areas to sparite (XPL); and i) Decalciﬁcation of cemented Roofspall leaving clay-rich patches (upper left)
+representing Decalciﬁed Clay MF. Grey ash crystals are visible on the top of the quartzite roofspall (XPL).
+
+but is characterized by rotational deformation features sometimes
+visible by the naked eye (Fig. 7c). This and also all the other
+observed Deformed types of MFs (see also below) often show
+coarse particles inclined at the same angle towards the ﬂow direction with the sand fraction ﬂowing and wrapping around the
+coarse clasts (Fig. 6c and f). At the front and back of the large clasts,
+lenses of aligned ﬁner clasts are observed. Although in some cases
+rotational features can superﬁcially resemble bioturbation features,
+they are clearly differentiated by the distinct concentration of
+coarse clasts with the same inclination often in arcuate arrangements, the presence of sharp linear features that represent shearing
+planes, and continuous complex arcuate and linear grain alignments (Figs. 6c and f, 7c, and 8a and b; cf. Menzies and Zaniewski,
+2003; Phillips, 2006; Phillips et al., 2011).
+Cemented Roofspall is another MF related to combustion features (Fig. 5h). The calcite cement is grey micrite recrystallized to
+sparite completely ﬁlling the voids. Dirty micritic vadose features
+are also observed. Micro-charcoal is ubiquitously present within
+the cement. In almost all cases, the cementation is associated with
+
+charred remains, large or small amounts of shell fragments, some of
+them burnt, and very occasionally burnt ﬁne bone. Roofspall in this
+type of MF is very often parallel aligned and sometimes shows
+indication of oxidation due to burning.
+Decalciﬁed Clay MF consists of millimeter thin bands of decalciﬁed orange silty clay sediment with occasional preservation of
+dissolving calcitic ash remnants (Fig. 5i). It is always associated
+with some burnt bone and charred remains and overlies Cemented
+Roofspall MF.
+4.1.4. Black sand facies Black Sand facies is characterized by large
+amounts of black charred material (20e30%) in a predominately
+sand matrix (Figs. 6f, 7d, and 8). The sediment is decalciﬁed and
+generally devoid of bioclasts and shell. Sand is medium coarse
+aeolian well-rounded to sub-rounded sand in ﬂuctuating
+amounts between 30 and 60%, and the rest is roofspall of various
+sizes more often of decimetric sizes. A Roofspall-rich Black Sand
+MF is therefore recognized.
+Typical Black Sand microfacies contain high amounts of coarse
+and ﬁne black microaggregates in between the sand grains (Fig. 8c).
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+9
+
+Figure 6. Representative thin section scans. a) Crudely stratiﬁed Roofspall-rich Red Sand MF showing faint normal grading and parallel alignment of roofspall clasts; b) Openwork
+roofspall (Typical Roofspall) alternating with yellowish Matrix-rich Roofspall MF and overlain by intact White Ash MF rich in burnt shell. Alignment of clasts is observed at the base
+of the hearth and in zones of the underlying roofspall; c) Matrix-rich Roofspall MF showing rotational features, arcuate and linear alignment of clasts and ﬁner tails of clasts behind
+large rotated roofspall clasts. Straight lines mark the long axes of large elongated clasts and dotted lines mark the main lines of ﬁne clast alignment; d) Relatively dense Sand-rich
+Ash MB with most large clasts being horizontally aligned. Some bioturbation is evident in the form of channel voids. A thin discontinuous intact ash layer is shown at the lower part
+of the section (A). Note also the in situ fractured burnt bone at the base (B) and the large amounts of burnt shell, some exfoliated but still intact (SH); SL ¼ silcrete lithic, C ¼ charcoal,
+and R ¼ roofspall; e) Roofspall bands and sorted laminae (left lower part) of darker (ash-rich) sediment inside lighter-colored sand. Some yellowish ﬁne burnt bone and grey shell
+are also visible; and f) Rotational features around two large elongated clasts in Deformed Black Sand MF. Note the alignment of ﬁner clasts shown with dotted lines. The overall
+sense of movement suggests that the large clasts probably rotate past each other.
+
+Most of the aggregates are angular black amorphous charred plant
+material but a few charcoal pieces with plant structure also occur.
+This MF is also closely associated with a Clay-rich Black Sand MF
+where the voids between the sand and the black microaggregates
+are completely ﬁlled with reddish dusty clay coatings, and a welldeveloped close porphyric related distribution is observed (Fig. 8d).
+
+A distinct variety of black sand microfacies is Deformed Black
+MF (Figs. 6f and 8a and b). This MF is particularly characterized by
+widespread development of microscopic rotational features and
+the presence of almost 10e20% of sub-angular to sub-rounded
+sand-sized burnt bone and microaggregated black rounded burnt
+material in between the aeolian sand. Sand grains also have ﬁne
+
+10
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+Figure 7. Photographs of representative resin-impregnated slabs of different stratigraphic aggregates. a) RBSR: Roofspall-rich Red Sand MF showing beds of ﬁne roofspall at the
+lower part with crude sorting and coarse grading (lower middle layer) overlain by matrix-supported coarse roofspall with clustering and diffuse banding; b) LBSR: Single intact
+combustion feature inside roofspall. A red oxidized substrate is observed in the lower right base of the hearth; c) OBS1: Two thin dark combustion-rich layers inside aeolian sand
+(Banded Sand-rich Ash MF). Rotational features are observed in the lower layer where ﬁne sediment wraps around large clasts inclined in the same direction. Tails of ﬁner clasts
+behind the large clasts are marked with arrows; d) SADBS: dark, combustion-rich sediment showing clustering and banding of coarse clasts (Deformed Black Sand MF);
+e) ALBS overlain by SADBS: Beige Sand MF is covered by banded dark and white ash-rich sediments (Sand-rich Ash MF); and f) SADBS: superimposed combustion layers showing
+preservation of two relatively intact ash layers at the bottom and a crudely banded ash remnant in the middle (Sand-rich Ash MF).
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+11
+
+Figure 8. Representative photomicrographs of Black Sand MF, all in PPL. a) Rotational features marked by arcuate and linear clast alignments. Marked also are sharp discontinuities
+probably representing shear planes; b) Rotational feature around a silcrete artifact. Note the arcuate dense alignment of clasts particularly enhanced at the outer front of the artifact
+(red arc); c) Typical Black Sand MF with high amounts of black microaggregates and burnt bone in between the sand grains; and d) Clay-rich Black Sand MF with reddish dusty clay
+coatings ﬁlling the voids between sand, also rich in black microaggregates and burnt bone.
+
+dusty clay coatings. The sediment has dense concentrations of
+stone artifacts, particularly ones made on silcrete often showing
+evidence of burning (i.e., oxidized reddened halos and cracks).
+Some areas are coarser, having large amounts of roofspall and
+coarse bone. Coarse elements are often parallel aligned, and rotational deformation features are preferentially developed above the
+coarser increments. Some parts of this MF are characterized by a
+banded arrangement of coarse and ﬁne roofspall. The variety of
+Clay-rich Black microfacies has also been found in close association
+with the Deformed Black Sand microfacies. A variety of the latter
+MF has relatively less burnt remains and a dark brownish color
+(Deformed Dark Sand MF).
+4.2. Interpretation of microfacies
+Beige Sand MF is aeolian sand sediment showing minimum
+chemical alteration as attested to by the preservation of calcareous
+bioclasts. However, the lack of sedimentary structures such as
+lamination and cross-stratiﬁcation implies disturbance of the
+original deposit by physical processes (e.g., sliding) or anthropogenic activities. We have excavated and examined pristine aeolian
+deposits in similar contexts in several nearby Pinnacle Point caves
+and all show well-developed sedimentary structures. Moreover, the
+occurrence of some areas with microaggregates and anthropogenic
+inputs suggests that part of the disturbance is associated with
+
+human activities. The association of this and Brown Sand MF with
+horizontally laying occupational deposits implies ﬂattening and
+leveling of the sand by the occupational activities since aeolian
+deposition is not expected to make horizontal surfaces in such dune
+systems stacked on cliff faces.
+In the Brown Sand MF all calcareous bioclasts have been dissolved and therefore the sediment is decalciﬁed. Interestingly, this
+MF is also devoid of anthropogenic shell inputs even in sediments
+close to combustion features that contain shell, suggesting that
+they have been decalciﬁed after they settled in their ﬁnal position.
+Reworking of these sands by human activities is supposed by the
+frequent presence of black charred microaggregates. It has to be
+stressed that all aeolian MF except the Beige Sand are also
+decalciﬁed.
+Typical Black Sand MF represents decalciﬁed combustion features mixed with the sand substrate. Indeed, this microfacies and
+its clay-rich variety have been observed at the base of modern
+intact hearths made by the ﬁshermen in the caves. Modern hearths
+also contain an upper ash and shell-rich layer that has not yet been
+decalciﬁed by the dripping water. Based on this resemblance we
+may argue that decalciﬁcation alone has produced an intimate
+mixture of burnt remains and the aeolian sand substrate. Moderate
+trampling cannot be totally excluded. Indeed, the spatial development of most occurrences of this microfacies supports this
+conclusion, as will be described below.
+
+12
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+Red Sand MF is characteristic of pedogenically altered aeolian
+sands showing well-developed red clay coatings and void ﬁllings. In
+particular, the occasionally observed ﬁnely laminated limpid clay
+coatings are the result of slow transport of clay and are characteristic of clay illuviation in Bt horizons (Kühn et al., 2010). The spatial
+development of the Red Sand MF also supports this conclusion (see
+discussion of RBSR stratigraphic aggregate).
+Roofspall-rich Red Sand MF is a pedogenically altered roofspallrich aeolian sand that shows strong evidence of mobilization by
+gravity ﬂow processes. The fabric of the coarse component and the
+microscopic deformation features are typical features of debris ﬂow
+sediments (Bertran and Texier, 1999; Miedema and Jongmans,
+2002; Phillips, 2006). Note that these features are also macroscopically visible, implying relatively large scale movements. The
+fact that the pedogenic clay features are not disturbed suggests that
+pedogenesis affected the sediment after its mobilization.
+Grey Sand MF is mixed aeolian roofspall sediment showing
+strong evidence of bioturbation and reworking in general. This type
+of sediment is restricted in the modern sediment cover on the top
+of the sedimentary sequence.
+Free fall of weathered quartzite bedrock produces Typical
+Roofspall MF on the ﬂoor of the rockshelter. However, comparison
+with samples of modern roofspall deposits shows that this
+microfacies is conspicuously devoid of the silty roofspall component, which suggests that the sediment is instead washed out of the
+silty component. Indeed, the frequent occurrence of vadose-type
+coatings in the closely associated Matrix-rich Roofspall MF supports this interpretation. What is also important for the latter MF is
+the frequent presence of microscopic rotational deformation features (cf. Phillips, 2006), which imply small-scale gravity ﬂow
+processes since macroscopic analogous features were not observed.
+Indeed, the sediment often preserves ﬁne layering, which implies
+that each layer was moved gently by a combination of sheetwash
+and gravity ﬂows at different times independently.
+White Ash MF represents intact ash remains with a typical
+layered appearance that most likely represents overlapping ﬁre
+episodes (Meignen et al., 2007). The recrystallized type of this MF
+preserves several of the features of the intact ash, but layering is
+one of the ﬁrst sedimentary features to be destroyed.
+Roofspall-rich and Sand-rich Ash MFs are typically disturbed
+hearth remains, each one found in a different sediment substrate.
+Although bioturbation and some translocation are evident, the
+dense fabric of these sediments and the horizontal random alignment of the coarser clasts imply displaced and trampled hearth
+remains (Meignen et al., 2007; Miller et al., 2011).
+Cemented Roofspall MF is ubiquitously associated with combustion features and always contains burnt remains. The cementing material appears to be recrystallized ashes. Preferred
+orientation determined by visual inspection of the clasts is also a
+characteristic of this type of microfacies. Other sedimentary features that will imply sheetwash or other sorting and stratiﬁcation
+processes were not observed. Therefore, it appears that this type of
+sediment represents disturbed raked-out and trampled outer parts
+of combustion features. Indeed, these features are always laterally
+or vertically connected with intact cemented hearth remains. The
+Decalciﬁed Clay MF is always found on the top of Cemented
+Roofspall MF and therefore appears to be one of the sources of the
+cementing calcite. The ﬁne clastic component of this MF constitutes the lag of the decalciﬁed ashes. Similar clastic material is
+found dispersed inside pure White Ash MF and becomes more
+apparent in the recrystallized ashes. The growth of larger calcite
+crystals leads to expelling of the clastic impurities and concentration in certain areas.
+Small scale water ﬂows produce Banded Ash-rich Sand MF with
+elutriated sand and silty roofspall-rich alternating laminae. These
+
+water ﬂows represent hyperconcentrated ﬂows (thin slurries) since
+complete separation of bed and suspended load is not observed (cf.
+Bertran and Texier, 1999). Deformed Ash-rich Sand MF is the
+product of small scale gravity ﬂows.
+Larger scale movements due to gravity ﬂows produce Deformed
+Black and Dark Sand MFs with characteristic turbulent fabric.
+Typical rotational microscopic features of debris ﬂow deposits are
+very often observed (Miedema and Jongmans, 2002; Phillips,
+2006). The ﬁner anthropogenic burnt content is usually subrounded, which implies that the material has been reworked during movement. The key point about these MFs is that they have
+high artifact densities with large amounts of burnt material, hence
+their dark color. However, the sediment is totally decalciﬁed,
+implying that shell, if once present, would have been dissolved
+during the process of its formation. Since these types of large scale
+processes in PP5-6 are always associated with burnt remains, we
+suggest that the presence of burnt remains have somehow facilitated the formation of debris ﬂows. Several studies have reported
+that the effect of ash on soil water retention increased with
+increased ash addition and that ash particles absorb water and
+swell (see Stoof et al., 2010 and references therein). Therefore, in an
+unstable sloping sandy substrate, transient presence of oversaturated ash may have led to abrupt failure and ﬂow of the burnt
+remains.
+4.3. Stratigraphy
+A single StratUnit can sometimes consist of a single microfacies
+but normally more than one are included because during excavation it is not always easy to differentiate subtle changes in the
+geogenic depositional processes. On the excavated proﬁles a single
+macroscopically identiﬁed StratUnit consists of one microfacies, or
+a group of microfacies, at a spatial scale that produces a macroscopically homogenous deposit (Fig. 4). A SubAgg consists of multiple StratUnits, is between a StratUnit and StratAgg in thickness
+and complexity, and might be similar to what many archaeologists
+would call a ‘layer.’ The highest hierarchical stratigraphic entity, the
+StratAgg, is a group of SubAggs that overall show a distinct lateral
+and vertical distribution of microfacies, producing a deposit with a
+higher order of homogeneity. However, the concept of a stratum
+includes not only its content but also the attributes of its geometry
+and in particular the nature of its contacts (Courty et al., 1989;
+Goldberg and Berna, 2010). Note that with erosional hiatuses we
+do not necessarily imply signiﬁcant time gaps. Although single
+StratUnits in PP5-6 can show a variety of contacts from gradational
+to sharp and erosional, the nature of most contacts between
+StratAggs can be described as erosional or as a depositional hiatus.
+Obviously, such large changes in the type of sediments imply major
+environmental or anthropogenic changes that normally employ
+destabilization of the depositional system before returning to a new
+equilibrium. However, depositional stasis followed or not by
+pedogenesis and surface alteration can also divide the stratigraphic
+sequence in higher hierarchical units that are separated by mainly
+horizontal and sharp contacts. Therefore, StratAggs are packets of
+layers that are bounded by major erosional unconformities or
+depositional discontinuities.
+As we have already noted, the spatial organization of microfacies and the rhythm of their alternation as well as the geometry of
+the ﬁlled space that is produced in this way make the stratigraphic
+sequence of the site. The geometry of the ﬁll is heavily dependent
+on the topography of the depositional surface; therefore, the
+morphology produced by each deposited layer conditions the
+deposition of the following layer. These elementary concepts are
+followed in the following description and interpretation of the
+stratigraphy of the PP5-6 rockshelter. The main characteristics of
+
+0.7 m
+0.8 m
+4.5 m
+
+1.25 m
+
+3m
+
+Shelly Ashy Dark Brown Sand e SADBS
+Ashy Light Brown Sand e ALBS
+Light Brown Sand and Roofspall e LBSR
+
+Yellowish Brown Sand and Roofspall e YBSR
+
+Yellow Brown Sand e YBS
+
+b
+
+0.3 m
+0.7 m
+Shelly Gray Sand e SGS
+Orange Brown Sand 1 e OBS1
+
+The error for the OSL ages is 1 sigma.
+Note that there is as of yet no excavated stratigraphic connection between the NWR and the rest of the reported Long Section.
+
+96 ± 6
+
+89 ± 5
+
+71 ± 3
+72 ± 3
+81 ± 4
+
+64 ± 3
+69 ± 3
+
+0.75 m
+1m
+Dark Brown Compact Sand e DBCS
+Orange Brown Sand 2 e OBS2
+
+a
+
+Debris ﬂow; aeolian; combustion; decalciﬁcation
+Aeolian; decalciﬁcation; trampling; combustion; debris ﬂow
+
+Combustion; trampling; aeolian
+Aeolian; trampling, combustion; debris ﬂow; sheetwash;
+partial decalciﬁcation
+Trampling; aeolian; combustion
+Aeolian, combustion; trampling
+Free-fall roofspall; sheetwash; small-scale debris ﬂow;
+combustion; trampling; cementation
+Free-fall roofspall; aeolian; sheetwash; small-scale debris ﬂow;
+combustion; trampling
+Aeolian
+
+±
+±
+±
+±
+±
+±
+51
+52
+61
+68
+62
+63
+Aeolian, debris ﬂow; pedogenesis
+Combustion; aeolian; debris ﬂow; decalciﬁcation
+Aeolian, debris ﬂow, combustion; decalciﬁcation
+
+Red Sand, Roofspall-rich Red Sand
+White Ash; Deformed Black Sand
+Typical and Deformed Black Sand
+Brown Sand
+Deformed Black and Dark Sand
+Brown Sand; Typical and Deformed Black Sand;
+Sand-rich Ash
+Sand-rich Ash
+Beige and Brown Sand; Typical Black Sand;
+Sand-rich Ash and Banded Sand-rich Ash
+White and Sand-rich Ash
+Beige Sand; White and Sand-rich Ash
+Typical, Matrix-rich, and cemented Roofspall;
+White and Roofspall-rich Ash; Decalciﬁed Clay
+Typical, Matrix-rich, and Cemented Roofspall;
+White and Roofspall-rich Ash; Decalciﬁed Clay
+Beige Sand
+2.75 m
+0.5 m
+0.7 m
+
+Microfacies
+Approximate thickness
+Stratigraphic Aggregate
+
+Table 2
+Summary of stratigraphic aggregates.
+
+To date, the lowermost exposed StratAgg is the Yellow Brown
+Sand (YBS), which consists solely of Beige Sand MF devoid of any
+anthropogenic input. The aggregate is barely exposed at the foot of
+the sheared face of the Yellowish Brown Sand (YBS) and Light
+Brown Sand and Roofspall (LBSR) StratAggs in the southernmost
+edge of the sedimentary cone of the rockshelter (Fig. 2). This
+sediment undoubtedly played a major role in shaping the present
+morphology of the sedimentary sequence because it probably acted
+as an unstable substrate and triggered the shearing of the sequence
+and the formation of the vertical cliff in this part of the sediment
+cone.
+The YBSR overlies with a sharp contact the sand unit YBS. This
+StratAgg and the overlying LBSR compose a thick sequence consisting of Typical and Matrix-rich Roofspall MF (Figs. 5c and d and
+6b and c) with intervening lenses of combustion microfacies at an
+almost constant proportion both in lateral and vertical dimensions
+(Figs. 7b and 9). Occasionally, lenses and thin layers of aeolian
+microfacies are observed, particularly in the YBSR, but in general
+the aeolian component is small although persistent. The individual
+layers of the LBSR StratAgg dip gently towards the center line of the
+rockshelter and parallel to the back wall, where the stratigraphy
+consists of more StratUnits. As evident in the different roofspall
+microfacies of this StratAgg, washing out and translocation of ﬁne
+grained material as well as recrystallization and local decalciﬁcation of ashes suggest differential loss of material in the center line
+of the cave where water ﬂow was probably more intense. Indeed,
+the indications of small scale movement of the roofspall sediment
+would be the result of this gentle ﬂow, which would have been
+enhanced by the gradual compaction of the central area and the
+formation of a shallow depression zone.
+Combustion features are mostly found with circular to oval
+shapes of less than 1 m diameter. They have irregular outlines
+wedging out to the surrounding roofspall sediment. On the excavated proﬁle the combustion lenses are sometimes cemented and
+appear with variable thickness and length, but their maximum
+thickness is less than about 4e5 cm (Figs. 7b and 9). Distinct, isolated, complete hearth lenses show a reddened, oxidized substrate
+occasionally overlain by a blackish dusty roofspall-rich StratUnit,
+which is typically capped by a cemented white and/or gray ashy,
+often cemented, StratUnit (Fig. 9bed). The reddish and black
+StratUnits are generally less laterally extensive than the overlying
+StratUnits. Interestingly, the red oxidized substrates, clear in the
+ﬁeld, are hardly visible under the microscope and are generally
+represented by Typical or Cemented roofspall MFs. This is due to
+the fact that the strong red coloration in the ﬁeld is the result of the
+change in the state of the iron mineral impurities of the roofspall or
+of the ﬁnely disseminated clastic content of the ash, something that
+cannot be detected easily under the microscope (cf. Mallol et al.,
+2007). The same is true with the dusty black StratUnits that are
+not so distinct on a microscopic scale. This type of sediment is often
+just a variety of Cemented Roofspall MF with a higher microcharcoal content.
+The complete combustion features described above represent
+single, relatively intact hearth structures that are often reported in
+the literature (see Mentzer, 2014 and references therein). Incomplete hearth structures of course also appear in the excavated
+proﬁles because each time the proﬁle is excavated back it cuts
+across different portions of a hearth. Several of the hearth features
+appear as remnants of intact hearths, as these are often sharply
+truncated by roofspall layers. In other cases, the combustion lenses
+
+Main formation processes
+
+4.4. Description and formation of strata
+
+Reddish Brown Sand and Roofspall e RBSR
+Black Compact Sand and Roofspall e BCSR
+North Western Remnant e NWRb
+
+Weighted mean age (ka)a
+
+the StratAggs, their microfacies composition, and their age are
+shown in Table 2.
+
+13
+
+2
+3
+4
+4
+3
+3
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+14
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+Figure 9. a) General photograph of the cliff face of the LBSR unit showing distinct combustion layers inside yellowish roofspall-rich sediment; b) Detail of a sequence of thin
+combustion features, each one separated by a roofspall layer; c) A discrete single hearth characterized by a red oxidized substrate, a dark charcoal-rich layer, and a gray ash-rich cap;
+and d) A thick complex combustion feature is laterally differentiated to discrete single combustion layers separated by roofspall-rich layers. Note the red oxidized substrates.
+
+are thicker and longer and composed of superimposed complete
+and incomplete hearth features. However, careful ﬁeld examination
+and micromorphological analysis revealed that these apparently
+complex features consist of superimposed single complete or
+incomplete hearth features, each one separated by a roofspall layer.
+This separation is more clearly discerned at the edges of the complex combustion features, whereas in the center they appear as
+multi-sequence burnt layers (Fig. 9d). Moreover, every cemented
+microscopic layer can be safely connected with an adjacent hearth
+structure, and most of the hearths are generally separated by
+several centimeters of loose roofspall deposits. Cemented Roofspall
+MF implying trampling and reworking are also observed, particularly in the outer fringes of the combustion lenses but also as
+StratUnits in complex combustion sequences. Nevertheless, the
+characteristic feature of the LBSR is the presence of numerous,
+generally intact, single hearth structures showing relatively small
+disturbance and trampling in their periphery. For sediments of this
+age, the preservation of so many single and intact hearth structures
+is rather remarkable.
+The overlying StratAgg of the Ashy Light Brown Sand (ALBS)
+starts with a layer of Beige Sand MF (Figs. 7e and 10). The contact of
+this aeolian deposit with the underlying LBSR StratAgg is erosional
+towards the inside of the cave, and it drapes quartzite blocks of roof
+collapse towards the outside of the cave (Fig. 10b). The collapse
+probably marks a retreat of the cave roof because it is found almost
+immediately above a relatively strongly cemented column of sediment (in the underlying LBSR) that is related to the ancient dripline
+(close to the 83726 grid line; Fig. 3). The cemented column of
+sediment is characterized by a chaotic distorted appearance of the
+
+coarser components, some of which have vertical positions. This
+feature is most likely the result of liquefaction of wet sediments
+below the drip line. However, the adjacent combustion zones
+continue crudely inside this zone, implying that the reworking was
+not so intense as to destroy the overall stratigraphic integrity of the
+area. There are also thin to thick rhizo-concretions pointing to
+vegetation cover in this zone. After this event the dripline gradually
+moved closer to the wall, but the cave roof probably continued to
+protect most of the overlying SADBS area, which thus prevented
+erosion and alteration of the ashy sequence in that stratigraphic
+aggregate. The ﬁnal retreat to the west of the excavated area
+probably happened much later, after the deposition of BCSR as seen
+in the present gully formation (Fig. 3).
+Combustion microfacies, mainly ash-rich sand, are found in the
+lower part of the ALBS, through which a thick, pure aeolian sand
+SubAgg gives way to the Shelly Ashy Dark Brown Sand (SADBS)
+StratAgg, a thick sequence of overlapping StratUnits of mostly
+trampled combustion microfacies (Figs. 5g and 6d) in a crudely
+stratiﬁed appearance (Figs. 7e and f and 10). This StratAgg is
+subdivided by a thin oxidized aeolian sand StratUnit into upper
+and lower parts. The SADBS lower part generally has a higher sand
+component. In both parts, sediment lay horizontally on the sand
+substrate, and therefore ﬂattening and leveling of the space may
+have occurred through regular occupation and/or intentional
+ﬂattening. What is important with this latter sequence is that it
+has a totally different appearance from the combustion features in
+the lower LBSR sequence. The SADBS consists mainly of horizontally extensive layers of Sand-rich Ash MF occasionally interrupted
+by lenses of pure White Ash MF. However, complete single hearth
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+15
+
+Figure 10. a) The white thick banded ash-rich SADBS unit sandwiched between the aeolian sand units ALBS and OBS1; and b) Huge collapsed quartzite blocks overlain by aeolian
+sand with few dark combustion lenses shown in the left (ALBS) and in turn overlain by the banded ash-rich sediment of SADBS.
+
+features are not discernible, and the overall picture is of a
+cumulative palimpsest with a few isolated lenses of intact hearth
+features identiﬁed mostly microscopically. Importantly, this
+StratAgg is characterized by the ﬁrst appearance of microlithic
+technology (Brown et al., 2012) and also documents a signiﬁcant
+increase in the use of silcrete for stone tool manufacture (Brown
+et al., 2009).
+Through a clear undulating erosional contact the Orange Brown
+Sand 1 (OBS1) StratAgg overlies the SADBS (Figs. 10 and 11a). This
+contact is also demarcated by pockets of typical Black Sand MF,
+which in this case represent in situ decalciﬁed Sand-rich Ash MF.
+The OBS1 StratAgg consists mainly of Beige Sand MF and subordinate Brown Sand regularly interrupted by tabular layers of Sandrich Ash MF thinning out laterally to Banded and Deformed Ashrich Sand MFs (Figs. 6e and 7c). A few intact hearth features were
+observed (White Ash MF) towards the inside of the cave, but in
+general all combustion features represent trampled and reworked
+
+ashes occasionally redistributed by gentle water and gravity ﬂow
+processes. The aeolian sand SubAggs are generally sterile, with
+punctuated SubAggs of strongly anthropogenic material that are
+thin (5e10 cm) palimpsests of combustion features rich in burnt
+bone and shell and lithic artifacts. Interestingly, all anthropogenicrich SubAggs are always associated with conspicuously elevated
+roofspall content. Note that knapped quartzite lithic artifacts can be
+recognized microscopically and differentiated from roofspall (cf.
+Angelucci, 2010).
+The OBS1 is overlain by sediments of the Shelly Gray Sand (SGS)
+StratAgg, which show an increased input of disturbed combustion
+MF (Ash-rich Sand) but still in an aeolian dominated environment
+resembling the SADBS (Fig. 11a). Throughout most of the StratAgg
+there are high frequencies of lithic artifacts, faunal fragments that
+appear burnt, shellﬁsh fragments, and centimetric roofspall. Local
+decalciﬁcation is observed where the aggregate wedges out to the
+overlying StratAggs BCSR and RBSR (Fig. 10).
+
+Figure 11. a) Stratigraphic section of the OBS1, SGS, and RBSR units. OBS1: aeolian sand and intervening grey bands and lenses of ash-rich sediment. Large clasts are occasionally
+inclined in the same direction (tilling; with arrow). SGS: thick, banded grey ash-rich sediments that laterally grade to blackish decalciﬁed layers also showing undulating ﬂowing
+fabrics. The yellow dotted line demarcates the decalciﬁcation front. RBSR lower: red sand with large roofspall ﬂoating in; and b) The red paleosol of the RBSR stratigraphic aggregate.
+
+16
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+The overlying StratAgg OBS2 resembles the OBS1, but the
+aeolian sand is almost exclusively represented by the decalciﬁed
+sands of Brown Sand MF and the intervening combustion SubAggs
+are also decalciﬁed (typical Black Sand MF; Fig. 7c). All occupational
+SubAggs are in the form of horizontally lying tabular bodies with
+generally diffuse but macroscopically well-deﬁned contacts with
+the overlying and underlying sandy SubAggs, which implies minimal physical disturbance but also ﬂattening and leveling of the
+substrate intentionally or by regular occupation (Fig. 12a). Moderate trampling was responsible for the horizontal tabular development of these SubAggs, but occasionally the presence of lenses of
+Deformed Black Sand MF implies gentle gravity ﬂow processes in
+local dipping parts of the layers. Between these concentrations of
+archaeological ﬁnds the aeolian sands are for the most part sterile.
+The OBS2 is overlain by the Black Compact Sand and Roofspall
+(BCSR), a thick, very black, sometimes greasy, complex StratAgg
+very rich in burnt remains that is also very dense in ﬁnds (Figs. 12a
+and b and 13a). Towards the middle of this unit a mostly intact
+white ash feature is observed that was displaced downwards
+(White Ash MF). The rest of the unit is characterized mostly by
+Deformed Black Sand MF with the upper part being more roofspallrich (Fig. 8b). This is the oldest StratAgg in the stratigraphic
+sequence that dips strongly both to the west and to the south,
+making a fan-like feature and implying that the topography of the
+cave changed and the present gully feature running along the
+center line of the cave started forming at about this time or before.
+StratAgg Dark Brown Compact Sand (DBCS) occurs at a lower
+elevation than the BCSR, but it is actually a lateral variation of the
+BCSR and includes eroded sediments of the OBS2 StratAgg (Fig. 12).
+It is also strongly dipping but mainly to the south and east. It has a
+characteristic wavy appearance and truncates the OBS2, SGS, and
+OBS1 StratAggs. Archaeological ﬁnds are extremely dense and
+include high frequencies of lithic artifacts and faunal fragments. It
+consists exclusively of Deformed Black and Dark Sand MFs (Figs. 6f
+and 8a).
+Most of the SubAggs of this complex sequence have their origin
+in the OBS2 and BCSR units. In particular, the BCSR can be followed
+downwards to the DBCS, although a channel feature of the overlying RBSR StratAgg truncates the BCSR and prevents a physical
+connection between the two (Fig. 12a). In addition, each dark
+occupational layer of the OBS2 StratAgg loses its horizontality,
+dipping and ﬂowing to the south at its point of truncation and
+gradually coalescing downwards to one complex aggregate
+together with the lateral variation of the BCSR (Fig. 12). The
+different SubAggs that make up this sequence vary both laterally
+
+and vertically. Upwards and to the north they are dominated by an
+alternation of dark reddish brown coarse roofspall-rich sandy lenses with sharp lower contacts and dark brown sandy layers with
+relatively small amounts of roofspall. The contact of this alternation
+with the OBS2 unit makes a step-like feature every time a SubAgg of
+the DBCS truncates a higher standing OBS2 sand SubAgg. Transverse small channel features are also seen in the areas of truncation
+ﬁlled with roofspall-rich sand (Fig. 12a). In the most southern and
+lower parts, the DBCS consists of crudely stratiﬁed medium and ﬁne
+roofspall in a dark brown sandy matrix with some dark intervening
+lenses that are more sandy than the northern parts (Fig. 6d). The
+lower contact of this sequence is sharp and has the form of a small
+channel ﬂowing to the south (Fig. 11b). In the same area the upper
+most part consists of a lenticular feature with matrix-supported
+coarse decimeter roofspall having variable and even vertical orientations. Downwards, this lenticular feature consists of a clear
+coarse roofspall concentration making an arcuate head that presumably is a debris ﬂow plug (Blikra and Nemec, 1998). At the very
+distal area the DBCS StratAgg truncates the underlying SGS aggregate and at the same time they are sharply truncated by the overlying RBSR aggregate in a similar step-like feature. In sum, the
+overall geometry and development of the DBCS StratAgg show that
+it is a lateral variation of mainly the BCSR and partly of the OSB2,
+dominated by gravity ﬂow processes and shallow sheetwash.
+However, although the DBCS is vertically lower than the OBS2 and
+BCSR, it is derived from them and stratigraphically younger. In
+general, each occupation SubAgg of the OBS2 can be crudely followed in the lower parts of the DBCS, although sometimes more
+than one SubAgg of the OBS2 has contributed to its formation. In
+the same way, the distal and upper parts of the DBCS contain more
+anthropogenic material from the BCSR, to which they are laterally
+connected.
+The sediments of the NWR were excavated early on in our excavations at PP5-6 as it is at high risk of complete erosion, being a
+small remnant stuck to the north-west cliff face of the rockshelter.
+We have not yet connected it stratigraphically through excavation
+to the Long Section, and in fact this may not be possible. Even
+though it is the vertically highest portion of the PP5-6 sediment
+stack so far excavated, it is not the youngest set of deposits. Its
+lateral equivalent in the Long Section must be stratigraphically
+below the RBSR StratAgg. It is also the only excavated portion of the
+upper sequence at the back of the rockshelter and therefore is of
+major importance for understanding spatial variations of depositional processes. The sequence of sediments comprises Brown Sand
+and Deformed Black and Dark Sand MFs. The uppermost dark
+
+Figure 12. Stratigraphic sections showing the relation between the OBS2, DBCS, BCSR, and RBSR aggregate units. a) Note the sequence of transverse channel features truncating the
+OBS1 and the grading of the horizontal combustion layers of the OBS2 into the inclined DBCS unit; and b) Note the complex multilayered structure of the DBCS originating from the
+OBS2 and BCSR and the channelized features in the lower part of the DBCS. A debris-ﬂow plug is evident in the middle upper part of the DBCS.
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+17
+
+Figure 13. a) The thick multilayered black BCSR unit overlying erosionally the OBS2 unit. Note the preservation of the white ashy layer in the middle; and b) Dark combustion-rich
+sediment of NWR having a characteristic undulating ﬂowing appearance.
+
+SubAgg containing Deformed Black and Dark Sand MF is the
+thickest and richest in artifacts including lithic materials, fauna,
+ochre, and a few pieces of fragmentary shell. Some of the artifacts
+also appear to have been burnt and the presence of charcoal was
+also noted. This SubAgg also contains some large roofspall pieces
+ﬂoating inside the sandy matrix (Fig. 13b). Overall, the arrangement
+of the coarser component makes a wavy ﬂowing fabric. The type of
+microfacies and the overall appearance resembles the debris ﬂow
+sequences of the BCSR and the underlying brown sands of the OBS2
+unit, but based on its dating it is probably an earlier phase of the
+same depositional process that produced the BCSR (Table 2).
+The last StratAgg in the sequence is the Reddish Brown Sand and
+Roofspall (RBSR). The majority of this aggregate is composed of
+reddish to brown aeolian sand with varying amounts of centimetric
+and decimetric sized roofspall (Figs. 7a, 11b and 12). The lower part
+is dominated in areas by massive ﬁne and coarse roofspall, which
+therefore suggests a subdivision of the upper aeolian dominated
+part (upper RBSR) and lower roofspall dominated part (lower
+RBSR). Find densities are low and, when present, occur as thin
+lenses suggestive of short occupations. However, it is possible that
+more occupational layers could be found as we move upwards to
+the north in the areas that are not yet excavated. The ﬁnds are
+composed primarily of stone tools and some faunal specimens.
+Most of the aggregate has a reddish color with darker hues in
+the upper part fading downwards (Fig. 11b). The dominant MF is
+that of Red Sand (Fig. 5b) characteristic of pedogenically altered
+dune sand (Bt horizon), which reﬂects considerable landscape
+stability and a prolonged stasis. The overall character of the RBSR is
+analogous to other paleosols exposed in nearby fossil dune systems
+(Oestmo et al., 2014). The lower part of this aggregate (s.s. lower
+RBSR) consists of Roofspall-rich Red Sand MF (Figs. 6a and 7a).
+Coarse clasts have multiple orientations, including sometimes
+vertical. Coarse clasts are often in clusters, lines, and/or tail-like
+structures, implying gravity ﬂow processes (Blikra and Nemec,
+1998). Fine-grained pockets with signs of crude sorting and lamination are also observed, which suggests sheetwash processes
+(Fig. 7a). In most areas the contact with the underlying aggregate is
+
+sharp, wavy, and erosional and dips southwards, thereby truncating
+the OBS2 and OBS1 (Figs. 11 and 12a). Occasionally, channelized
+pockets are also observed. In the upper portion of the StratAgg the
+roofspall content decreases and is concentrated in rather discrete,
+mostly horizontal levels (Roofspall-rich Sand MF). However,
+dispersed roofspall continues to occur inside ﬁrm aeolian sand,
+which dominates the upper part of the StratAgg.
+The top of the StratAgg is characterized by an abrupt change to
+ﬁrm light Grey Sand MF through a sharp strongly wavy contact. The
+3D geometry of this contact is highly complex and forms a rugged
+topography that sometimes makes false stratigraphic reversals due
+to the formation of steep narrow channels with vertical walls and
+that sometimes even undercuts the walls. Fragments of reddish
+clay sandy aggregates coming from below are found inside the ﬁll of
+these channels. This marks a major hiatus related to the erosion of
+the dune soil and formation of the modern vegetation cover, and
+close analogs are found in nearby paleosol exposures.
+5. Discussion
+Most of the geogenic microfacies appear in all StratAggs, but
+their relative proportion is what deﬁnes the overall stratigraphy of
+the site. The relative proportion and rhythm of appearance of each
+geogenic microfacies depicts the contribution of each source's
+input rate, which in turn is controlled by local and regional environmental factors. The above pattern of geogenic sedimentary
+processes under certain circumstances can reveal and enhance the
+visibility and resolution of the anthropogenic input rate. Therefore,
+the appearance of isolated but numerous hearth complexes in the
+lower part of the sequence (YBSR and LBSR) is the result of the high
+and relatively constant rate of geogenic input, particularly roofspall.
+In addition, low rates of anthropogenic activity (particularly
+trampling) prevented their destruction. In contrast, the upper part
+of the sequence is the result of a high, but punctuated rate of
+aeolian input with intervening fast accumulating combustion palimpsests that have been affected by extensive and relative constant trampling.
+
+18
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+Roofspall production is enhanced by sea salt-induced spalling of
+the quartzite bedrock (see also Miller et al., 2013) along the fault
+zone at the back of the cave, and therefore its accumulation rate
+could be partially related to the distance of the site from the sea. At
+present, the site is close to the sea, and thus sea halite crystallization is widespread in the surface sediments and sheared quartzite
+bedrock (Karkanas and Goldberg, 2010). Indeed, the most recent
+Gray Sand MF is overloaded with roofspall (although mixed with
+the sand substrate by erosional and biological processes), and
+generally in all rockshelters active roofspalling is observed predominately along faulted zones. In the past, roofspall production in
+South African quartzite caves has been attributed to frost action
+(see Butzer et al., 1978 and references therein), but in PP5-6 roofspall rich-layers are found during a period of warmer climatic
+conditions and high sea levels (see Table 3).
+On the contrary, dune formation is expected during sea
+regression and transgression (coastline movement in general provided there is an exposed shelf) and exposure of the submerged
+sandy coastal areas in front of the sites (Bateman et al., 2004).
+Erosional or stasis events do not contribute to the stratigraphic
+formation of the LBSR sequence, but they do contribute to part of
+the overlying aeolian sand dominated sequence. However,
+erosional activity in the sequence above the LBSR has led not to a
+major loss of material (except locally) but rather to a redistribution
+of it. Only at the end of the sequence, in the RBSR StratAgg, has
+stasis played a signiﬁcant role and produced the red paleosol. Minor stasis is observed in several parts of the sequence, such as
+cementation and dusty silty-clay coatings in the LBSR. However, in
+contrast with paleosol these types of stasis do not produce major
+stratigraphic brakes. Therefore, we have a generally intact stratigraphydwith disturbed parts that can be crudely reconstructeddwith high rates of geogenic input and ﬂuctuating rates of
+anthropogenic input. It is this combination that gives us the opportunity to interpret in a more constructive way the anthropogenic remains and the associated human behavior.
+The combustion features in the lower section sometimes appear
+in the ﬁeld as intact remains or as complex hearths but actually
+consist of isolated combustion remains of less than ca. 5 cm
+thickness that deﬁne discrete hearth features. The complex internal
+microstratigraphy of all studied intact single hearth features suggests the existence of several combustion events but for a relatively
+short period of time. Internal truncations, erosions, crust formations, or geogenic increments were not observed. A burnt, oxidized
+substrate is very often preserved and, given the small thickness of
+the hearths, it is safe to assume that most combustion features were
+not severely trampled or cleaned and generally not signiﬁcantly
+
+Table 3
+Coastline distances from the PP modern coast for each stratigraphic aggregate as
+calculated by the coastline model of Fisher et al. (2010) that projects the distance to
+the coast over time.a
+StratAgg
+RBSR
+BCSR
+OBS2
+SGS
+OBS1
+SADBS
+ALBS
+LBSR
+YBSR
+YBS
+
+Min distance
+(meters)
+
+Max distance
+(meters)
+
+Average distance
+(meters)
+
+7757
+5734
+3689
+6802
+11,617
+2472
+1777
+803
+1325
+873
+
+14,433
+14,433
+29,558
+29,558
+29,403
+23,826
+22,047
+1568
+4072
+3272
+
+11,559
+10,102
+17,333
+20,744
+20,467
+15,081
+10,671
+1087
+2582
+1446
+
+a
+The model calculates distance at 1500 year time steps. A 1500 year time step
+was included if the sigma of the mean weighted age overlaps with that time
+increment.
+
+disturbed by human activities. Some hearths are protected by only
+a thin cover of geogenic sediments and, while they are not far away
+from other overlying hearths, they are still well-preserved without
+indications of serious anthropogenic disturbance except in their
+periphery. In addition, the preservation of sensitive microscopic
+deformation and other sedimentary features in the surrounding
+roofspall layers further conﬁrm that the sediments were not
+particularly disturbed by anthropogenic activities, thus implying a
+low occupational intensity. Low-energy erosional geogenic processes have truncated several hearths, whereas some do not preserve the upper ashy layer. Given the conﬁguration of the cave, we
+believe that the 4 m thick exposed YBSR and LBSR units extending
+from the back to the front of the rockshelter and followed for
+several meters along is representative of the formation processes
+prevailing in the whole site during this period. It can thus be
+deduced that the intensity of activities in the site at this time was
+low, suggesting a relatively small group of humans staying for
+relatively short periods of time. On the other hand, the frequency of
+combustion features as observed in their vertical and horizontal
+distribution suggests frequent visits to the site, perhaps even on a
+seasonal base. We have measured close to 150 single hearth features in a 4  3 m proﬁle that could be considered as a representative slice in space. Note also that in general the occupants did not
+use the same area for making ﬁres; rather, their choice was random
+and opportunistic, and therefore sometimes people built ﬁres in the
+same area. Finally, we suggest that the human sedimentary input
+rate in relation to the geogenic input was balanced, with the result
+that this distinct pattern of human behavior is revealed. That is, the
+rate of geogenic input in the LBSR appears to be almost constantly
+punctuated by combustion features throughout this sequence.
+Interestingly, well-preserved combustion features have also been
+observed in the lower MSA units of Diepkloof shelter and have also
+been interpreted as the result of relatively brief yet repetitive visits
+(Miller et al., 2013).
+The appearance of thick and extensive sequences of ash-rich
+microfacies in the SADBS and SGS units, however, points to a
+different behavior. The sequences consist of overlapping combustion features with some in situ ﬁne hearth features still preserved,
+but in general trampling and raked out hearth remains dominate
+these units. However, the generally stratiﬁed appearance of the
+SADBS precludes serious and extensive reworking and instead
+implies trampling of fast accumulating deposits in the form of
+frequent hearth construction within shorter intervals. In addition,
+the choice of area for making ﬁres appears more consistent and
+controlled than that of the lower roofspall-dominated sequence.
+Therefore, this area was the locus of intense combustion activities
+and also of intense occupation. Another indication that the ashy
+sequences show intensive occupation rather than long discontinuous occupation is the lack of cemented or decalciﬁed layers inside
+the sequences, although, as mentioned above, this area was very
+close to the dripline and therefore could have been affected by
+external weathering conditions. Indeed, true depositional hiatus is
+evident in the formation of the decalciﬁed erosional interfaces of
+the SADBS and SGS with the overlying layers of pure aeolian sand of
+the OBS1 and OBS2 units, respectively.
+The thick ashy layers of the SADBS and SGS units can thus be
+described as cumulative palimpsests (cf. Bailey, 2007; Henry,
+2012) where successive episodes of anthropogenic deposition
+and activities are superimposed. Generally such accumulations
+are reworked and mixed, but by using micromorphology we have
+isolated original features but also revealed the nature of
+reworking and mixing, allowing us to reconstruct with great
+detail the depositional activities that took place. As we have
+shown, ﬂattening, raking out, and trampling are the dominant
+processes that overprint the successive hearths made in the same
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+general area. In addition, by putting this palimpsest in the larger
+scale perspective of the whole sequence we can understand what
+this depositional patterning means in comparison with all other
+different patterning observed in the rest of the sequence.
+The OBS1 and OBS2 aeolian StratAggs have SubAggs of
+strongly anthropogenic character that have the appearance of
+relatively thin continuous combustion features. These strongly
+anthropogenic SubAggs also show an interesting picture in that,
+even in their small extent, they show reworking by anthropogenic but also by geogenic activities. One important observation
+is that these occupational sediments irrespective of their thickness have high frequencies of roofspall. Apparently, each
+anthropogenic event is de facto associated with a pause in
+aeolian deposition (cf. Machado et al., 2013). This raises the
+possibility that the roofspall depositional rate did not vanish in
+this part of the sequence and the increased aeolian input acted as
+a diluting agent. Therefore, if the anthropogenic depositional rate
+was very low, pure roofspall layers may have been formed in the
+occupational aggregates during periods of low aeolian activity,
+something that is not observed.
+The combustion features of the OBS2 show the same picture as
+the OBS1. They are also inside aeolian sands, but they include
+distinct horizontal tabular combustion beds with large amounts of
+charred and burnt material. Most combustion SubAggs do not show
+in situ features but are rather the product of moderate trampling,
+scufﬁng, and local low-energy geogenic processes. An aeolian
+substrate is inherently a more unstable surface, and thus more
+easily prone to disturbances, than a roofspall substrate, so it is
+difﬁcult to determine if the appearance of combustion beds really
+depicts behavior that differs from that in the LBSR and SADBS. On
+the other hand, severe mixing with the aeolian substrate is not
+observed as suggested by the preservation of the horizontal and
+relatively well-deﬁned lower interfaces. Therefore, the most plausible explanation is that the combustion features represent discrete
+short-term occupational events.
+The impressive thick burnt remains of the BCSR and its partly
+equivalent section of the DBCS are disturbed by medium scale
+gravity ﬂow processes. The NWR should also be included in the
+same type of sediments and, given its thickness and geometry, was
+probably expanding towards the area of the Long Section. Today the
+area between is eroded by the gully that runs along the middle of
+the cave. All of these deposits that apparently extend for several
+square meters along the surface of the shelter characterize a type of
+anthropogenic accumulation that differs in intensity from most of
+the OBS1 and OBS2 occupational SubAggs. They should have originated from thick combustion features most likely similar to the
+SADBS or SGS that were redistributed and moved almost en masse
+as thick and dense slurries. The mobilization was triggered by water
+saturation, probably during extreme rain storms. Furthermore, the
+amount and density of anthropogenic items exceed all other layers.
+The density is much higher than the SADBS, but this can be
+explained by the decalciﬁcation of the debris ﬂow sediments during their mobilization that led to considerable decrease of their
+volume. This also explains the absence of shell in the decalciﬁed
+units which is not an original feature. For instance, combustion
+features inside the OBS1 that are not in a decalciﬁed environment
+contain shell whereas those in the decalciﬁed OBS2 do not. Massive
+decalciﬁcation of aeolian sediments has also been observed in Die
+Kelders Cave I in a similar environmental and archaeological
+context (Goldberg, 2000).
+The rhythm of aeolian accumulation is expected to vary
+considerably with time, and therefore the rate of geogenic formation of the upper sequence could be described as quite irregular.
+Fast aeolian accumulation is suggested for parts of the ALBS, OBS1,
+and OBS2 units where thick aeolian sand layers almost devoid of
+
+19
+
+any anthropogenic input are observed. Fast accumulation is also
+suggested for the SADBS and probably the SGS, and their stratigraphic characteristics and preservation are actually a combination
+of a high anthropogenic input rate and consequent fast burial by a
+high aeolian input rate. Interestingly, in Sibudu Cave extensive
+trampling has been related both to lower and higher rates of
+deposition depending on the nature of the substrate. However, in
+PP5-6 the extensive and constant trampling of the SADBS deposits
+is attributed instead to the intensity of occupation. Higher rates of
+deposition in the upper sequence produced thicker occupational
+deposits than in the lower sequence, and the most probable
+explanation is differences in occupational intensity. The accumulation of the thick decalciﬁed burnt remains of the BCSR and DBCS
+can probably be explained in the same way. The original depositional characteristics of these units are not preserved and therefore
+their fast accumulation can only be hypothesized by their rich
+anthropogenic content, which would be comparable with decalciﬁcation of SADBS type sediments. In this case complete preservation was not possible because the area was directly exposed to
+external weather conditions. Nevertheless, fast burial from the
+overlying thick RBSR protected the burnt remains from total
+erosion.
+In Diepkloof rockshelter high concentrations of hearth burning
+and related activities in certain locations of the rockshelter were
+interpreted either as the result of repeated use of the cave or as a
+shift in spatial arrangement of activities. The latter was not
+actually observed but it was hypothesized as being possibly
+concealed outside the excavated areas (Miller et al., 2013).
+Although this may be the case for PP5-6, the fact that the shelter
+is very shallow and the excavations have revealed an appreciable
+area of the front of the rockshelter makes this possibility unlikely,
+particularly if we take under consideration that the NWR at the
+back of the rockshelter shows similar anthropogenic content and
+formation processes to the equivalent time period in the front
+area units.
+The most intuitive and straightforward way to interpret the
+different occupational pattern between the lower (YBSR and LBSR)
+and the upper (SADBS, SGS, and BCSR) sequence at PP5-6 is to
+assign it to different geogenic processes. However, we have shown
+that the anthropogenic sediments of the lower sequence are undoubtedly the result of small group, short term occupations, and
+that at least certain parts of the upper sequence are incompatible
+with short term visits. The geogenic processes appear different but
+actually it is more about input rate differences rather than presence
+or absence of processes. Therefore, by deciphering these rate differences we have a better estimation of the anthropogenic input
+rates and therefore gain understanding of occupational duration
+and intensity.
+The ALBS and the rock fall unit upon which some of it sits
+represents a major break in the formation of the site. The
+behavioral change observed above the ALBS can imply a use of
+PP5-6 for longer and/or more frequent occupations. This suggests
+that above the ALBS the habitat within the daily foraging radius of
+the site became more attractive, or the overall population structure in the region changed in a way that populations became more
+packed at this time. The weighted mean OSL age estimates for the
+SADBS and ALBS are 71 ± 3 and 72 ± 3 ka, respectively, and ~81 ± 4
+to 89 ± 5 ka for the LBSR and YBSR, respectively (Table 2). This
+sediment change is roughly concordant with the transition from
+warmer conditions of MIS5 to cooler conditions in MIS4 (EPICA
+COMMUNITY MEMBERS, 2004, 2006). A coastline model (Fisher
+et al., 2010) that projects the distance to the coast over time allows us to examine in a more quantitative manner the relation
+between the distance to coast and the sediment change. Table 3
+provides minimum, maximum, and average coastline distances
+
+20
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+
+for each stratigraphic aggregate as calculated by this model. It is
+clear that the shift from roof-spall dominated deposition to
+aeolian deposition (the LBSR-ALBS contact) occurs when there is a
+change from the coastline being near in the LBSR to much more
+distant in the ALBS. Interestingly, despite the displacement of the
+coast during much of MIS4, the sediments show that people were
+still exploiting the coast and transporting shellﬁsh back to PP5-6
+during the SADBS through SGS. The SADBS also marks the introduction of microlithic technology as well as a change in the frequency of raw materials; layers below are dominated by quartzite
+in the YBSR and LBSR, and the SADBS and above have higher
+frequencies of silcrete and other ﬁne grained raw materials that
+can be more efﬁciently used for making microlithic tools. A speleothem isotopic curve for this time span from Pinnacle Point
+shows a temporally concordant shift from stronger winter rain
+and shrubland ﬂora below the ALBS to stronger summer rain and
+C4 grasses above the ALBS (Bar-Matthews et al., 2010). It has been
+hypothesized that this coastal plain supported a substantial
+grassland large ungulate community that likely migrated east and
+west (Marean, 2010), and during times when the plain was most
+exposed the ungulate populations would have been at their
+maximum.
+Despite the cooler conditions of MIS4, archaeological sites
+dating to this time are abundant in the Cape, unlike during the
+prior glacial phase of MIS6 where there is only one with numeric
+ages (PP13B; Marean et al., 2007). In an analysis of the data from
+PP13B (Marean, 2010), it was shown that between ~162 and
+90 ka distance to coast was an excellent predictor of site occupation intensity, and it was argued that populations during MIS6
+were so small that only the top ranked habitat (the coast) was
+exploited such that site occupation intensities rose and fell as the
+coastline approached and retreated. This pattern breaks down
+late in MIS5 and MIS4 as shown by the results from PP5-6. The
+PP5-6 sediments reported here show that during MIS5 there was
+repeated occupation by small groups of hunter-gatherers staying
+for short visits. Overall, in the Cape of South Africa sites dating to
+MIS4 are abundant (Jacobs et al., 2008a,b) and are found in all
+the regions of the Cape (West, South-west, and South coasts) in
+both coastal and terrestrial locations. At PP5-6 the shift to
+microlithic technology suggests an increased importance of large
+mammal hunting as such microliths are typically armaments on
+small long throw projectile weapons (Brown et al., 2012). At this
+time PP5-6 would have afforded an excellent location for hunting
+the large ungulates foraging on the grassy plains between the
+site and the sea, while still providing access to the coastline and
+its food. The intensive occupations during MIS4 revealed by our
+analysis of the sediments of PP5-6 display a local site effect of a
+broader regional shift to larger populations, perhaps larger group
+sizes, and very intensive use of high yield habitats on the edges
+of the grassy plain yet still within collecting distance of the rich
+rocky shores. It appears that populations in the Cape during MIS4
+were resilient in the face of global cooling and environmental
+change in a way that MIS6 populations were not. This may be the
+telltale signs of a fully modern human equipped with the
+cognitive, social, and technological tool-sets that make it possible
+to thrive during challenging climate events (Marean et al., 2014).
+6. Conclusions
+The above approach of using large scale depositional rates of
+unconformably bounded sedimentary units and small scale
+microscopic features gave us the opportunity to simultaneously
+observe and integrate long-term processes with small-scale perceptions and individual actions. The ﬁne scale features depicting
+discrete events can reveal certain behaviors but it is the general
+
+pattern of anthropogenic deposition and its evolution through time
+that revealed overall patterns and changes in behavior.
+In addition, the microfacies approach and the relation of the
+associated formation processes to activity processes and human
+behavior in general offers the possibility of comparing different
+sites in different geographic regions. It is very promising that some
+microfacies observed in PP5-6 are also observed in other MSA sites
+in South Africa, opening the possibility of understanding changes in
+modes of occupation across space and time.
+Our results not only document the value of a microfacies
+approach, but they reveal in a compelling manner a change in
+human behavior of broad signiﬁcance. The PP5-6 sediments
+document occupations characterized by small groups and short
+visits during MIS5. At this time people primarily used quartzite as a
+raw material to produce large stone tools with varying amounts of
+blades, points, and ﬂakes, and they regularly exploited the intertidal zone for shellﬁsh and hunted the plains for large mammals.
+There is a remarkable consistency to the occupations during MIS5
+across this vertically deep accumulation, although there are some
+shifts in the raw material frequencies. Then, as the world shifted to
+glacial conditions with the advent of MIS4, the occupants of PP5-6
+turned their preference to silcrete as a raw material, began to make
+microlithic stone tools, and, while still exploiting the wider plains
+and more distant coast, their occupations of the site became much
+more intense. Elsewhere in the Cape, sites are abundant and found
+in a variety of regions and habitats at this time. This pattern of site
+abundance coincides, as we have shown, with intense occupations
+at PP5-6. Populations during MIS4 responded to glacial conditions
+with population growth and technological change.
+
+Acknowledgments
+We thank Dr. Christopher Miller and an anonymous reviewer for
+their reviews which were very helpful to improve the paper.
+Thanks are due to the MAPCRM staff for their assistance, the Dias
+Museum for ﬁeld facilities, and SAHRA and HWC for permits. This
+research was funded by the National Science Foundation (# BCS9912465, BCS-0130713, BCS-0524087, and BCS-1138073 to Marean), the Hyde Family Foundation, and the Institute of Human Origins (IHO) at Arizona State University.
+
+References
+Angelucci, D.E., 2010. The recognition and description of knapped lithic artifacts in
+thin section. Geoarchaeology 25, 220e232.
+Bar-Matthews, M., Marean, C.W., Jacobs, Z., Karkanas, P., Fisher, E.C., Herries, A.I.R.,
+Brown, K., Williams, H., Bernatchez, J., Ayalon, A., Nilsen, P.J., 2010. A high
+resolution and continuous isotopic speleothem record of paleoclimate and
+paleoenvironment from 90 to 53 ka from Pinnacle Point on the south coast.
+Quatern. Sci. Rev. 29, 2131e2145.
+Bailey, G., 2007. Time perspectives, palimpsests and the archaeology of time.
+J. Anthropol. Archaeol. 26, 198e223.
+Bateman, M.D., Holmes, P.J., Carr, A.S., Horton, B.P., Jaiswal, M.K., 2004. Aeolianite
+and barrier dune construction spanning the last two glacial-interglacial cycles
+from the southern Cape coast, South Africa. Quatern. Sci. Rev. 23, 1681e1698.
+Bertran, P., Texier, J.-P., 1999. Facies and microfacies of slope deposits. Catena 35,
+99e121.
+Blikra, R.H., Nemec, W., 1998. Postglacial colluvium in western Norway: depositional processes, facies and palaeoclimatic record. Sedimentology 45, 909e959.
+Brown, K.S., Marean, C.W., Herries, A.I.R., Jacobs, Z., Tribolo, C., Braun, D.,
+Roberts, D.L., Meyer, M.C., Bernatchez, J., 2009. Fire as an engineering tool of
+early modern humans. Science 325, 859e862.
+Brown, K.S., Marean, C.W., Jacobs, Z., Schoville, B.J., Oestmo, S., Fisher, E.C.,
+Bernatchez, J., Karkanas, P., Matthews, T., 2012. An early and enduring advanced
+technology originating 71,000 years ago in South Africa. Nature 491, 590e594.
+Bullock, P., Fedoroff, N., Jongerius, A., Stoops, G., Tursina, T., 1985. Handbook for Soil
+Thin Section Description. Waine Research Publishers, Wolverhampton.
+Butzer, K.W., Beaumont, P.B., Vogel, J.C., 1978. Lithostratigraphy of Border cave,
+Kwazulu, South Africa: a Middle Stone Age Sequence beginning c. 195,000 B.P.
+J. Archaeol. Sci. 5, 317e341.
+
+P. Karkanas et al. / Journal of Human Evolution 85 (2015) 1e21
+Courty, M.A., 2001. Microfacies analysis assisting archaeological stratigraphy. In:
+Goldberg, P., Holliday, V.T., Ferring, C.R. (Eds.), Earth Sciences and Archaeology.
+Kluver Academic/Plenum Publishers, New York, pp. 205e239.
+Courty, M.A., Goldberg, P., Macphail, R., 1989. Soils and micromorphology in
+archaeology. Cambridge University Press, Cambridge.
+EPICA COMMUNITY MEMBERS, 2004. Eight glacial cycles from an Antarctic ice core.
+Nature 429, 623e628.
+EPICA COMMUNITY MEMBERS, 2006. One-to-one coupling of glacial climate variability in Greenland and Antarctica. Nature 444, 195e198.
+Fisher, E.C., Bar-Matthews, M., Jerardino, A., Marean, C.W., 2010. Middle and Late
+Pleistocene paleoscape modeling along the southern coast of South Africa.
+Quatern. Sci. Rev. 29, 1382e1398.
+Goldberg, P., 2000. Micromorphology and site formation at Die Kelders Cave I,
+South Africa. J. Hum. Evol. 38, 43e90.
+Goldberg, P., Berna, F., 2010. Micromorphology and context. Quatern. Int. 214,
+56e62.
+Goldberg, P., Miller, C.E., Schiegl, S., Ligouis, B., Berna, F., Conard, N.J., Wadley, L.,
+2009. Bedding, hearths, and site maintenance in the Middle Stone Age of
+Sibudu Cave, KwaZulu-Natal, South Africa. Archaeol. Anthropol. Sci. 1,
+95e122.
+Henry, D., 2012. The palimpsest problem, hearth pattern analysis, and Middle
+Paleolithic site structure. Quatern. Int. 247, 246e266.
+Jacobs, Z., 2010. An OSL chronology for the sedimentary deposits from Pinnacle
+Point Cave 13BdA punctuated presence. J. Hum. Evol. 59, 289e305.
+Jacobs, Z., Roberts, R.G., Galbraith, R.F., Deacon, H.J., Grün, R., Mackay, A., Mitchell, P.,
+Vogelsang, R., Wadley, L., 2008a. Ages for the Middle Stone Age of Southern
+Africa: implications for human behavior and dispersal. Science 322, 733e735.
+Jacobs, Z., Wintle, A.G., Duller, G.A.T., Roberts, R.G., Wadley, L., 2008b. New ages for
+the post-Howiesons Poort, late and ﬁnal Middle Stone Age at Sibudu, South
+Africa. J. Archaeol. Sci. 35, 1790e1807.
+Karkanas, P., 2010. Geology, stratigraphy and site formation processes of the
+Upper Palaeolithic and later sequence in Klissoura Cave 1. Eurasian Prehist. 7,
+15e36.
+Karkanas, P., Goldberg, P., 2010. Site formation processes at Pinnacle Point Cave 13B
+(Mossel Bay, Western Cape Province, South Africa): resolving stratigraphic and
+depositional complexities with micromorphology. J. Hum. Evol. 59, 256e273.
+Karkanas, P., Pavlopoulos, K., Kouli, K., Ntinou, M., Tsartsidou, G., Facorellis, Y.,
+Tsourou, T., 2011. Palaeoenvironment and site formation processes of the
+Neolithic lakeside settlement of Dispilio, Kastoria, Northern Greece. Geoarchaeology 26, 83e117.
+Kühn, P., Aguilar, J., Miedema, R., 2010. Textural pedofeatures and related horizons.
+In: Stoops, G., Marcelino, V., Mees, F. (Eds.), Interpretation of Micromorphological features of Soils and Regoliths. Elsevier, Amsterdam, pp. 217e250.
+n, B., 2013. Lithic production, site
+Machado, J., Hern
+andez, C.M., Mallol, C., Galva
+formation and Middle Palaeolithic palimpsest analysis: in search of human
+occupation episodes at Abric del Pastor Stratigraphic Unit IV (Alicante, Spain).
+J. Archaeol. Sci. 40, 2254e2273.
+Malinsky-Buller, A., Hovers, E., Marder, O., 2011. Making time: ‘Living ﬂoors’, ‘palimpsests’ and site formation processes e a perspective from the open-air
+Lower Paleolithic site of Revadim Quarry. Israel. J. Anthropol. Archaeol. 30,
+89e101.
+Mallol, C., Marlowe, F.W., Wood, B.M., Porter, C.C., 2007. Earth, wind, and ﬁre:
+ethnoarchaeological signals of Hadza ﬁres. J. Archaeol. Science 34, 2035e2052.
+Marean, C.W., 2010. Pinnacle point cave 13B (Western Cape Province, South Africa)
+in context: the cape ﬂoral kingdom, shellﬁsh, and modern human origins.
+J. Hum. Evol. 59, 425e433.
+
+21
+
+Marean, C.W., Bar-Matthews, M., Bernatchez, J., Fisher, E., Goldberg, P.,
+Herries, A.I.R., Jacobs, Z., Jerardino, A., Karkanas, P., Minichillo, T., Nilssen, P.J.,
+Thompson, E., Watts, I., Williams, H.W., 2007. Early human use of marine resources and pigment in South Africa during the Middle Pleistocene. Nature 449,
+905e908.
+Marean, C.W., Bar-Matthews, M., Fisher, E., Goldberg, P., Herries, E.A., Karkanas, P.,
+Nilssen, P., Thompson, E., 2010. The stratigraphy of the Middle Stone Age sediments at Pinnacle Point Cave 13B (Mossel Bay, Western Cape Province, South
+Africa). J. Hum. Evol. 59, 234e255.
+Marean, C.W., Cawthra, H.C., Cowling, R.C., Esler, K.J., Fisher, E., Milewski, A.,
+Potts, A.J., Singels, E., De Vynck, J., 2014. Stone Age People in a Changing South
+African Greater Cape Floristic Region. In: Allsopp, N., Colville, J.F., Verboom, T.
+(Eds.), Ecology and Evolution of Fynbos: Understanding Megadiversity. Oxford
+University Press, Oxford, pp. 164e199.
+Meignen, L., Goldberg, P., Bar-Yosef, O., 2007. The hearths at Kebara Cave and their
+role in site formation processes. In: Bar-Yosef, O., Meignen, L. (Eds.), Kebara
+Cave, Part 1. Peabody Museum of Archaeology and Ethnology Harvard University, Cambridge, MA, pp. 91e122.
+Mentzer, S.M., 2014. Microarchaeological approaches to the identiﬁcation and
+interpretation of combustion features in prehistoric archaeological sites.
+J. Archaeol. Method Theor. 21, 616e668.
+Menzies, J., Zaniewski, K., 2003. Microstructures within a modern debris ﬂow deposit derived from Quaternary glacial diamictonda comparative micromorphological study. Sediment. Geol. 157, 31e48.
+Middleton, G.V., 1973. Johannes Walther's Law of the correlation of facies. Geol. Soc.
+Am. Bull. 84, 979e988.
+Miedema, R., Jongmans, T., 2002. Soil formation in Late Glacial Meuse sediments
+related to the Peel Boundary Fault activity. Netherlands J. Geosci./Geologie en
+Mijnbouw 81, 71e81.
+Miller, C.E., Conard, N.J., Goldberg, P., Berna, F., 2011. Dumping, sweeping and
+trampling: experimental micromorphological analysis of anthropogenically
+modiﬁed combustion features. P@lethnologie 2010.2, 25e37.
+Miller, C., Goldberg, P., Berna, F., 2013. Geoarchaeological investigations at Diepkloof
+Rock Shelter, Western Cape, South Africa. J. Archaeol. Sci. 40, 3432e3452.
+Oestmo, S., Schoville, B.J., Wilkins, J., Marean, C.W., 2014. A Middle Stone Age
+Paleoscape near the Pinnacle Point caves, Vleesbaai, South Africa. Quatern. Int.
+350, 147e168.
+Phillips, E., 2006. Micromorphology of a debris ﬂow deposit: evidence of basal
+shearing, hydrofracturing, liquefaction and rotational deformation during
+emplacement. Quatern. Sci. Rev. 25, 720e738.
+Phillips, E., van der Meer, J.J.M., Ferguson, A., 2011. A new ‘microstructural mapping’
+methodology for the identiﬁcation, analysis and interpretation of polyphase
+deformation within subglacial sediments. Quatern. Sci. Rev. 30, 2570e2596.
+Pickering, R., Jacobs, Z., Herries, A.I.R., Karkanas, P., Bar-Matthews, M.,
+Woodhead, J.D., Kappen, P., Erich Fisher, E., Marean, C.W., 2013. Paleoanthropologically signiﬁcant South African sea caves dated to 1.0 million years
+using a combination of U-Pb, TT-OSL and palaeomagnetism. Quatern. Sci. Rev.
+65, 39e52.
+Stoof, C.R., Wesseling, J.G., Ritsema, C.J., 2010. Effects of ﬁre and ash on soil water
+retention. Geoderma 159, 276e285.
+Stoops, G., 2003. Guidelines for Analysis and Description of Soil and Regolith Thin
+Sections. Soil Science Society of America. Madison, Wisconsin.
+Villagran, X.S., Giannini, P.C.F., DeBlasis, P., 2009. Archaeofacies analysis: using
+depositional attributes to identify anthropic processes of deposition in a
+monumental shell mound of Santa Catarina State, Southern Brazil. Geoarchaeology 24, 311e335.
+
+

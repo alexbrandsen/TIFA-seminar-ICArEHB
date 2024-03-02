@@ -1,0 +1,2091 @@
+Archaeological Prospection
+Archaeol. Prospect. 19, 103–121 (2012)
+Published online 4 April 2012 in Wiley Online Library
+(wileyonlinelibrary.com) DOI: 10.1002/arp.1421
+
+Automatic Detection of Pit Structures in
+Airborne Laser Scanning Data
+ØIVIND DUE TRIER1* AND LARS HOLGER PILØ2
+1
+
+Norwegian Computing Center, Section for Earth Observation, P.O. Box 114 Blindern, NO-0314 Oslo,
+Norway
+2
+Oppland County Administration, Section for Cultural Heritage Management, P. O. Box 988, NO-2626
+Lillehammer, Norway
+
+ABSTRACT
+
+This paper describes a new method for the automatic detection of pit structures in airborne laser scanning data
+collected with at least ﬁve emitted pulses per square metre. Oppland County, Norway, has a large number of
+ancient iron production sites and hunting systems. Today, these are manifested as pits in the ground. The iron
+production sites were used 1400–700 yr ago, and consist of charcoal burning pits, often located in groups of four
+around a central oven, which also occasionally can be located as a small mound. The hunting systems were used
+2000–500 yr ago, and consisted of concealed pitfall traps and wooden fences, located on deer trekking routes. The
+fences are gone, but the pits remain. Many of the iron production sites and hunting systems are located in forested areas.
+The current, traditional mapping of these is relatively poor, with many individual pits missing, and poor positional accuracy
+of the ones that are mapped. This means that overlays of cultural heritage sites cannot be trusted when planning new
+highways, residential areas, cabins, etc. Experience suggests that automatic detection is clearly superior to visual
+inspection of the lidar data in ﬁnding small pits or pits that are not easily visible. However, visual inspection is better at
+ﬁnding additional information as human interpretation based on archaeological knowledge can be applied. Combining
+these two methods secures a very good basis for subsequent ﬁeld survey. In conclusion, we demonstrate that automatic
+detection of hunting systems and iron extraction sites in lidar data is a valuable tool in combination with visual inspection
+of the lidar data, prior to ﬁeld survey. Provided that the point density of the lidar data is high enough, the ﬁeld survey can
+be accomplished ten times faster compared with the traditional approach without lidar data. Copyright © 2012 John Wiley
+& Sons, Ltd.
+Key words: Pattern recognition; charcoal burning pits; pitfall traps; digital elevation model; lidar; point density
+
+Introduction
+The increasingly intensive use and modiﬁcation of the
+landscape resulting from modern demands for efﬁcient
+infrastructure and land use (agricultural production,
+mining, energy sources, leisure/tourism facilities, etc.)
+exerts growing pressure on cultural heritage in the
+landscape. In order to match the political intentions of
+updated and sustainable cultural heritage management,
+it is necessary to develop a cost-effective method for
+* Correspondence to: Øivind Due Trier, Norwegian Computing Center, Section for Earth Observation, P.O. Box 114 Blindern, NO-0314
+Oslo, Norway. Lillehammer. E-mail: trier@nr.no
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+locating and monitoring cultural heritage sites. In recognition of this, The Norwegian Directorate for Cultural
+Heritage started a project in 2002 with the overall aim
+of developing a cost-effective method for surveying
+and monitoring cultural heritage sites on a regional
+and national scale. The initial stages focused on detecting soil marks and crop marks in agricultural land
+(Aurdal et al., 2006; Trier et al., 2009).
+Oppland County in Norway has a large number of
+ancient iron production sites and hunting systems.
+Today, these are manifested as pits in the ground. The
+iron production sites were used 1400–700 yr ago, and
+consist of charcoal burning pits, often located in
+groups of four around a central oven, which also
+Received 3 October 2011
+Revised 8 February 2012
+Accepted 14 February 2012
+
+Ø. D. Trier and L. H. Pilø
+
+104
+occasionally can be located as a small mound. The hunting systems were used 2000–500 yr ago, and consisted of
+concealed pitfall traps and wooden fences, located in
+deer trekking routes. The fences are gone, but the pits
+remain. Many of the iron production sites and hunting
+systems are located in forested areas. The current,
+traditional mapping of these is relatively poor, with
+many individual pits missing, and poor positional
+accuracy of the ones that are mapped. This means that
+overlays of cultural heritage sites cannot be trusted when
+planning new highways, residential areas, cabins, etc.
+Airborne laser scanning, or lidar, is a relatively new
+data source that allows very detailed mapping of
+the ground surface, even in forested areas. Recently,
+airborne lidar has been used for the purpose of detecting
+cultural heritage sites. Bewley et al. (2005) used a digital
+elevation model (DEM) derived from lidar height
+measurements to map previously unknown details of
+the Stonehenge World Heritage Site. The height
+accuracy of the lidar measurements was able to reveal
+details that previously had been overlooked. Devereux
+et al. (2005, 2008) explored the possibilities of varying
+the sun elevation and illumination direction when hillshading the lidar DEM, and noted that some structures
+may be missed by human interpretation if only one
+illumination direction is used. They further demonstrated that by using only the lidar pulses that were
+reﬂected by the ground, and not the lidar pulses
+reﬂected by trees, in effect removing the forest vegetation from the DEM, a very detailed elevation model of
+the ground was obtained. For the particular study site,
+more detail was apparent in the DEM than could be seen
+in the existing archaeological map. Hesse (2010)
+subtracted a smoothed version of the ground surface
+DEM from the original to obtain a local height model,
+thus enhancing local detail and suppressing the largescale terrain. The local height model could be viewed
+directly as a grey-scale image. It was often an advantage
+to view both the local height model and a hill-shade
+model of the original ground surface DEM to get the
+landscape context when doing visual interpretation.
+Kokalj et al. (2011) computed the sky-view factor to
+emphasize local detail. Hesse (2010) noticed that some
+archaeological structures, such as burial mounds, can
+be confused with natural phenomena such as small
+natural hills, wood piles, and patches of low vegetation.
+Doneus et al. (2008) and Coluzzi et al. (2010) used fullwaveform lidar to better discriminate between low
+vegetation and structures of archaeological interest.
+Automatic detection in lidar data may be done either
+directly on the lidar point cloud or on a derived DEM
+with a suitably chosen pixel size. Sampath and Shan
+(2010) extracted planar surfaces directly from the point
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+cloud to detect building roofs. Wang and Tseng (2004)
+used an octree subdivision of the point cloud to identify
+planar patches, then merging patches belonging to the
+same plane. To extract buildings, Rottensteiner and
+Briese (2002) ﬁltered the lidar points into terrain and
+off-terrain points in an iterative process, resulting in a
+digital terrain model (DTM), which is a smoothed model
+of the terrain points, and a digital surface model (DSM),
+which is a non-smoothed model of all the lidar points.
+The DTM was subtracted from the DSM, resulting
+in a local height model. This DEM was then used for
+building extraction. Kwak et al. (2007) used the
+TerraScan software to classify lidar points into
+ground, low vegetation, medium vegetation and high
+vegetation. The high vegetation returns were used to
+generate a DSM, while the ground returns gave a
+DTM. By subtracting the DTM from the DSM, a digital
+canopy model (DCM) was obtained, and individual
+trees were extracted from this DEM.
+
+Data and methods
+Airborne lidar height measurements
+In this study, two lidar datasets from Oppland County,
+Norway, have been used (Figure 1, Table 1).
+Olstappen dataset
+For an area surrounding the lake Olstappen in
+Nord-Fron municipality, data were acquired by helicopter, with a minimum of 10 emitted laser pulses per
+square metre. The data set covered a total area of
+29.3 km2, with 7.3 ground hits per square metre on average. This terrain is dominated by open pine forest,
+allowing a large proportion of hits from the ground.
+The dataset is divided into 600 m  800 m tiles (Figure 2).
+This area is known to contain several systems of pitfall
+traps that were used in moose hunting 500–2000 yr ago.
+Øystre Slidre dataset
+For a 400 km2 area in Øystre Slidre municipality,
+lidar data were collected in June 2011, with ﬁve
+emitted pulses per square metre and 2.1 ground hits
+per square metre on average. This area is known to
+contain a number of ancient iron production sites, with
+many visible coal burning pits. The particular choice of
+point density was determined from the analysis of the
+reduced point density datasets presented later. The
+Øystre Slidre data set is subdivided into 1 km by
+1 km tiles, 487 in total.
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Automatic detection of pits in ALS data
+
+105
+
+Figure 1. The two lidar data sets are located in Oppland County, Norway: Olstappen and Øystre Slidre data sets. The maps are downloaded from
+http://kart.statkart.no, copyright: Norwegian Mapping Authority. This ﬁgure is available in colour online at wileyonlinelibrary.com/journal/arp.
+
+Table 1. Lidar acquisition parameters.
+Dataset
+
+Olstappen, Nord-Fron
+
+Øystre Slidre
+
+Date
+Platform
+Instrument
+Field of view
+Emitted pulses
+per area
+Laser wavelength
+Full waveform
+Pulse rate
+Multipulse
+Scan rate
+Height above
+lowest terrain
+Flying altitude
+Flying speed
+Number of strips
+Strip overlap
+Sum strip length
+Mapped area
+
+29 June 2010
+Helicopter
+Leica ALS50-II snr 051
+20
+10 m-²
+
+4–5 June 2011
+Aircraft
+Leica ALS70
+20
+5 m-²
+
+1064 nm
+No
+133 kHz
+No
+63.8 Hz
+650 m
+
+1064 nm
+No
+267.2 kHz
+Enabled
+55.4 Hz
+
+1350 m a.s.l.
+135 knots
+41
+20%
+230 km
+29.3 km²
+
+2500–3200 m a.s.l.
+135 knots
+56
+20%
+512 km
+400 km²
+
+Reduced point density versions of the Olstappen dataset
+In order to simulate the effect of acquiring lidar at
+lower point density, reduced point density versions
+of the Olstappen dataset are produced as follows. For
+each ground reﬂection, a number between 0.0 and 1.0
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+Figure 2. One lidar image tile from the Olstappen data set in Nord-Fron
+municipality, covering a 600 m  800 m area of relatively open pine
+forest. The lidar height data are visualized with hill shading. Twelve
+pitfall traps are clearly visible in the upper right part of the image.
+(This and all other lidar images are north-oriented.)
+
+is drawn randomly from a uniform distribution. Then,
+for each point sampling factor, a ground reﬂection is
+kept if the associated random number is below the
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Ø. D. Trier and L. H. Pilø
+
+106
+sampling factor. For example, if the point sampling
+factor is 0.1, then only ground reﬂections with random
+numbers below 0.1 are included. For each ground
+reﬂection, the associated random number is drawn
+only once, so that if the ground reﬂection is included
+at a speciﬁc point sampling factor, then it is included
+for all higher point sampling factors as well.
+Twenty point sampling factors were used, from
+1.0 to 0.001, resulting in point sampling densities
+between 7.277 and 0.007 points per square metre
+(Table 2).
+
+(i) Create a triangulation of all the ground returns.
+(ii) Convert the triangulation to a digital elevation
+model (DEM) with 0.2 m ground resolution in the
+x and y coordinates, and ﬂoating point-valued
+height values in metres.
+
+Detection method
+The detection method uses the following main steps,
+similar to the ring detection method for soil marks and
+crop marks in optical images (Trier et al., 2009):
+
+Automatic detection of pits in lidar height images
+As we already had a processing chain for the automatic
+detection of circular structures in optical images (Trier
+et al., 2009), it was practical to reuse this processing
+chain, adapting it to the detection of circular pit
+structures in a raster image representation of the lidar
+height data (Figure 3).
+Preprocessing of LAS ﬁles
+The lidar data are available as binary data ﬁles in
+the LAS ﬁle format (LAS Speciﬁcation, 2010), containing
+up to four returns per emitted laser pulse. Each return
+contains x, y and z coordinates in UTM zone 32, and a
+class label denoting ground, vegetation or building
+point. We are only interested in the ground points,
+and prefer to do the detection on a regular grid (image)
+rather than arbitrary points. The following steps
+are used to convert the LAS ﬁles to DEM ﬁles with a
+0.2 m grid in the x–y plane, with ﬂoating point height
+values in metres. This gives 25 grid cells per square
+metre, and appears to preserve all the detail of
+lidar point clouds with up to 10 emitted pulses per
+square metre.
+
+Table 2. Point sampling densities, in points per square metre, for
+the original and the 19 reduced density versions.
+Point
+sampling
+factor
+1.0 (original)
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.25
+0.2
+
+Point
+sampling
+density
+
+Point
+sampling
+factor
+
+Point
+sampling
+density
+
+7.277
+6.549
+5.822
+5.094
+4.366
+3.638
+2.911
+2.183
+1.819
+1.455
+
+0.15
+0.1
+0.08
+0.06
+0.04
+0.02
+0.01
+0.005
+0.003
+0.001
+
+1.092
+0.728
+0.582
+0.437
+0.291
+0.146
+0.073
+0.036
+0.022
+0.007
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+Figure 3. Flowchart of the algorithm for pit detection. This ﬁgure is
+availabe in colour online at wileyonlinelibrary.com/journal/arp.
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Automatic detection of pits in ALS data
+(i) Convolve the DEM height image with templates
+of varying sizes. Threshold each convolution
+result to obtain detections.
+(ii) Merge detections that are closer than a distance
+threshold, keeping the strongest detections.
+(iii) For each detection, compute different measurements of the deviation from an ideal model,
+using different measures than the convolution
+in step 1.
+(iv) Remove detections that have measurement values
+outside prescribed intervals.
+(v) (Optional) Remove detections that are adjacent to
+roads and water courses.
+Pit templates. Each pit template in step 1 is a hemisphere
+with a ring edge (Figure 4). We used 12 pit templates
+with radii from 6 to 17 pixels, that is, 1.2 to 3.4 m, each
+template having 1 pixel (0.2 m) larger radius than the
+next smaller.
+Merging of detections. In step 2, for each detection, if
+another detection is closer than the ﬁrst detection’s
+radius, the two detections are merged, keeping the
+stronger of the two detections. The distance between
+two detections is measured between their centres.
+Computation of attributes. In step 3, the following
+attributes are computed:
+
+(i) Normalized correlation value, that is, the correlation value divided by the radius.
+(ii) Average pit depth, measured as the height
+difference between the lowest point inside the
+pit and the average height on the ring edge
+outside the pit.
+(iii) Minimum pit depth, measured as the height
+difference between the lowest point inside the
+pit and the lowest point on the ring edge.
+(iv) Standard deviation of height values on the ring
+edge.
+
+Figure 4. Pit template. White pixels are +1, black pixels are 1, and
+grey pixels in between. The medium grey pixels outside the white ring
+edge are exactly zero, thus not contributing to the convolution value.
+This particular pit template has a radius of 17 pixels, or 3.4 m.
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+107
+(v) Root mean square deviation from a perfect
+hemisphere, i.e., a perfect U-shaped pit.
+(vi) Root mean square deviation from a perfect Vshaped pit.
+(vii) For each pit, a threshold is deﬁned as the value
+that separates the pixels inside the pit into two
+groups, the 25% of the pixels that are darker than
+the threshold, and the 75% that are brighter. Use
+this threshold to extract a dark segment from a
+square image centred on the pit, with sides equal
+to six times the radius. This is called the
+25%-segment. If this results in a compact, central
+segment inside the pit, connected to a larger
+segment outside the pit, with only a few
+connecting pixels on a ring just outside the pit,
+then the central segment is separated from the
+outside segment. From the extracted segment,
+the following measures are computed:
+Offset – distance from pit centre to the segment’s
+centre.
+Major axis length – as deﬁned by Prokop and
+Reeves (1992).
+Elongation – deﬁned as major axis divided by
+radius (Figure 5)
+(viii) Similar the to above, extract the 50% segment
+and compute offset, major axis and elongation
+from that segment as well
+Thresholds on attribute values. With true pits labelled, the
+pit detections can the be sorted on one attribute at a
+time, to determine suitable thresholds that are able to
+separate at least some false detections from the true.
+The thresholds should not be set too tight, as this
+may lead to true pits being removed by mistake in
+another dataset. In the event of a large number of
+training samples, an attribute selection method (e.g.,
+Somol et al., 1999) and multivariate statistical analysis
+(e.g., Hastie et al., 2009) can be used to design a
+classiﬁer.
+We used the tile in Figure 2 as a guide in selecting a
+subset of the attributes and setting thresholds.
+However, by setting the thresholds too tight there is a
+risk of losing some true detections. Further, the
+datasets with reduced sampling density will probably
+need looser thresholds. So, we relaxed the thresholds
+and used:
+
+normalized correlation > 2.0
+minimum depth > 0.1
+average depth > 0.5
+RMS U-shape < 0.1
+RMS V-shape < 0.1
+25% segment elongation < 4
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Ø. D. Trier and L. H. Pilø
+
+108
+
+Figure 5. Elongation for four pitfall traps (left) and six false detections (right). (Top row) Hill-shaded DEM; (second row) elevation image, with contrast adjusted for visualization; (third row) 25% segments for detections; (fourth to seventh rows) descriptions, major axes, radii and elongations.
+Note that the detection method was run on the elevation image, not on the hill-shade image.
+
+We use this on the entire Olstappen dataset. All
+detections are manually checked by visual inspection
+of the hill-shaded lidar data and labelled with a score
+1–9, with 9 being an obviously correct detection, 5
+being in doubt, and 1 being a clear misdetection.
+Values of 2 or 3 mean probable misclassiﬁcations, but
+somehow resembling a pit, 4 is not used and 6–8 mean
+probable detections. A selection of the automatic
+detections with manually assigned scores in the range
+5–9 are checked in the ﬁeld by archaeologists.
+Next, the dataset is split in two parts: a training set
+and a test set, each containing half the conﬁrmed pits.
+The division was carried out by sorting the conﬁrmed
+pits by the LAS ﬁle names in alphabetical order. We
+want the system to assign score values automatically
+to all detections and these should correspond to how
+conﬁdent the system is that a detection is a potential
+
+cultural heritage pit (Table 3). The automatic detections
+can then be overlain on a map, with, e.g., separate colours for each conﬁdence level, for subsequent
+ﬁeld inspection.
+The training set contains 1129 automatic detections,
+of which 25 are conﬁrmed pits by ﬁeld inspection,
+104 are pits conﬁrmed by visual inspection only and
+the remaining 1000 detections are regarded as non-pits
+by visual inspection only. Each of the 1129 detections
+have 14 attributes that may be used to assign conﬁdence values (Table 4).
+We sort the training set on each of the attributes in
+turn, to ﬁnd reasonable thresholds for each of the conﬁdence levels. Some of the attributes were found to
+have little discriminatory power, and thresholds were
+not used. This results in seven threshold tests (Table 5)
+in a combined IF-test. For a detection to achieve a
+
+Table 4. Attributes for the pit detections.
+Table 3. Conﬁdence values and corresponding score values from
+the automatic method.
+Score value
+1
+2
+3
+4
+5
+6
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+Conﬁdence
+Very low
+Low
+Medium
+Medium high
+High
+Very high
+
+Features used in
+conﬁdence estimation
+
+Features not used
+
+Normalized correlation
+Minimum depth
+Average depth
+RMS difference from U-shape
+RMS difference from V-shape
+25% segment offset
+25% segment elongation
+
+Radius
+Correlation
+Standard deviation on edge
+50% segment offset
+50% segment major axis
+50% segment elongation
+25% segment major axis
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Automatic detection of pits in ALS data
+
+109
+
+Table 5. Example thresholds for assigning conﬁdence values to pitfall trap detections. For conﬁdences ‘very low’ to ‘high’, all tests have to
+be fulﬁlled. A conﬁdence of ‘high’ is upgraded to ‘very high’ if one or more of the tests in the ‘very high’ column are met.
+Feature
+
+Normalized correlation
+Minimum depth
+Average depth
+RMS U-shape
+RMS V-shape
+25% segment offset
+25% segment elongation
+Assigned tag
+
+Conﬁdence
+Very low
+
+Low
+
+Medium
+
+Medium high
+
+High
+
+≥1
+≥ 0.05
+≥ 0.25
+≤ 0.2
+≤ 0.2
+≤ 20
+≤4
+1
+
+≥2
+≥ 0.1
+≥ 0.4
+≤ 0.1
+≤ 0.1
+≤ 10
+≤2
+2
+
+≥ 2.5
+≥ 0.15
+≥ 0.45
+≤ 0.09
+≤ 0.08
+≤8
+≤ 1.75
+3
+
+≥ 3.0
+≥ 0.25
+≥ 0.5
+≤ 0.08
+≤ 0.07
+≤6
+≤ 1.5
+4
+
+≥ 3.5
+≥ 0.4
+≥ 0.55
+≤ 0.07
+≤ 0.05
+≤4
+≤ 1.25
+5
+
+speciﬁc conﬁdence, say, ‘medium’, it has to fulﬁl all the
+seven threshold tests, that is:
+
+The IF-tests are executed in order of increasing
+conﬁdence, from ‘very low’ to ‘high’. For the conﬁdence
+‘very high’, the rule is different:
+
+Very high
+≥1
+≤ 0.02
+≤ 0.015
+6
+
+resolution are labelled as described above. Then, for
+each reduced sampling density, the automatic detections
+are compared with the automatic detections on the full
+resolution as follows. For each detection in the full resolution, the closest detection in the reduced resolution is
+located. If the distance between their centres is less than
+2 m, then the detection is counted as ‘found’ in the
+reduced version.
+
+Results
+Automatic detection of cultural heritage pits in lidar
+data of Olstappen
+
+The detection obtains the best possible conﬁdence
+according to these rules. Note that the thresholds in
+Table 5 and the above IF-tests are only example thresholds. The actual thresholds are optimized manually for
+the training set and are presented below.
+Analysis of reduced point sampling density
+In order to study the effect of reduced point density,
+the detection performance on the reduced versions are
+compared with the detection performance on the
+original version. All automatic detections in the full
+
+Before we could apply the automatic method on the
+test set, the thresholds for the conﬁdence estimation
+step were optimized manually for the training set
+(Table 6). Of the 134 pits in the training set that were
+conﬁrmed by archaeologists, 122 pits achieved
+‘medium’ conﬁdence or better (Table 7) by the automatic method, seven pits received ‘low’ conﬁdence,
+and ﬁve pits were not detected. For the independent
+test set, the results were slightly worse, with fewer true
+detections with very high conﬁdence, and more true
+detections with low or medium conﬁdence than in
+the training set (Table 8). Still, the conﬁdence levels
+
+Table 6. Thresholds, optimized on the Olstappen training set, for assigning conﬁdence values to pitfall trap detections. For conﬁdences
+‘very low’ to ‘high’, all tests have to be fulﬁlled. A conﬁdence of ‘high’ is upgraded to ‘very high’ if one or more of the tests in the ‘very high’
+column are met.
+Feature
+
+Normalized correlation
+Minimum depth
+Average depth
+RMS U-shape
+RMS V-shape
+25% segment offset
+25% segment elongation
+Assigned tag
+
+Conﬁdence
+Very low
+
+Low
+
+Medium
+
+Medium high
+
+High
+
+≥2
+≥ 0.1
+≥ 0.5
+≤ 0.1
+≤ 0.1
+≤ 40
+≤4
+1
+
+≥ 2.5
+≥ 0.1
+≥ 0.5
+≤ 0.1
+≤ 0.085
+≤6
+≤2
+2
+
+≥ 2.5
+≥ 0.23
+≥ 0.5
+≤ 0.07
+≤ 0.07
+≤6
+≤ 1.5
+3
+
+≥3
+≥ 0.4
+≥ 0.55
+≤ 0.05
+≤ 0.05
+≤6
+≤ 1.3
+4
+
+≥ 3.5
+≥ 0.5
+≥ 0.75
+≤ 0.04
+≤ 0.03
+≤5
+≤ 1.2
+5
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+Very high
+≥ 1.0
+≤ 0.02
+≤ 0.015
+6
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Ø. D. Trier and L. H. Pilø
+
+110
+Table 7. The effect of running the automatic conﬁdence assignment on the training set.
+Outcome
+
+Score value
+1
+
+2
+
+3
+
+Very low
+
+Low
+
+Medium
+
+329
+329
+
+7
+517
+524
+
+2
+27
+136
+165
+
+Pit conﬁrmed in ﬁeld
+Pit visually in image
+Not pit visually
+Sum
+
+4
+Conﬁdence
+
+Not
+detected
+
+Sum
+
+26
+108
+1000
+1134
+
+5
+
+6
+
+Medium high
+
+High
+
+Very high
+
+2
+32
+15
+49
+
+5
+17
+3
+25
+
+16
+21
+
+1
+4
+
+37
+
+5
+
+Table 8. The effect of running the automatic conﬁdence assignment on the test set.
+Outcome
+
+Score value
+1
+
+2
+
+3
+
+Very low
+
+Low
+
+Medium
+
+1
+1
+1
+384
+386
+
+2
+11
+13
+1
+375
+389
+
+13
+28
+41
+1
+90
+132
+
+Pit conﬁrmed in ﬁeld
+Pit visually in image
+Sum true pits
+Modern/other in ﬁeld
+Not pit visually
+Sum
+
+4
+Conﬁdence
+
+reﬂect the number of true versus false detections in a
+meaningful way. All detections with ‘very high’ conﬁdence are conﬁrmed pits. Of the ‘high’ conﬁdence
+detections, two of 28, or 7%, are false detections. Of
+the medium high conﬁdence detections, 12 of 46, or
+26%, are false. However, for the ‘medium’ and ‘low’
+conﬁdence detections, there are many more false detections than true detections. All in all, ﬁve of 134, or 4%,
+of the conﬁrmed pits were not detected by the automatic method. The ﬁve missing pits in the test set
+and the ﬁve missing pits in the training set were
+detected by manual visual inspection of a hill-shaded
+
+Not
+detected
+
+Sum
+
+5
+
+45
+88
+133
+4
+862
+999
+
+5
+
+6
+
+Medium high
+
+High
+
+Very high
+
+10
+24
+34
+1
+11
+46
+
+7
+19
+26
+
+8
+5
+13
+
+5
+
+2
+28
+
+13
+
+5
+
+relief visualization of the lidar data and included in
+the ﬁeld inspection.
+The conﬁdence levels reﬂect the trade-off between
+detecting as many pits as possible, while at the same
+time limiting false detection. For example, 114 of 133
+pits of archaeological interest were detected with
+medium conﬁdence or better (Table 9); this is 85.7%
+of the pits of archaeological interest (Table 10). At the
+same time, 103 of the detections with medium
+conﬁdence were false.
+During the ﬁeld work, an assessment was carried out
+for each pit to determine if it was a pitfall trap, a coal
+
+Table 9. Accumulated counts for different conﬁdence levels on the test set.
+Outcome
+
+Score value
+1
+
+Pit conﬁrmed in ﬁeld
+Pit visually in image
+Sum true pits
+Modern/other in ﬁeld
+Not pit visually
+Sum
+
+2
+
+3
+
+Very low
+
+Low
+
+Medium
+
+40
+88
+128
+4
+862
+994
+
+40
+87
+127
+3
+478
+608
+
+38
+76
+114
+2
+103
+219
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+4
+Conﬁdence
+
+Not
+detected
+
+Sum
+
+45
+88
+133
+4
+862
+999
+
+5
+
+6
+
+Medium high
+
+High
+
+Very high
+
+25
+48
+73
+1
+13
+87
+
+15
+24
+39
+
+8
+5
+13
+
+5
+
+2
+41
+
+13
+
+5
+
+5
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Automatic detection of pits in ALS data
+
+111
+
+Table 10. Classiﬁcation rates.
+Outcome
+
+Score value
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Not
+detected
+
+Sum
+
+Conﬁdence
+
+Pits detected (%)
+Pits missed (%)
+
+Very low
+
+Low
+
+Medium
+
+Medium high
+
+High
+
+Very high
+
+96.24
+3.76
+
+95.49
+4.51
+
+85.71
+14.29
+
+54.89
+45.11
+
+29.32
+70.68
+
+9.77
+90.23
+
+137
+
+Table 11. The various types of pit of archaeological interest in the two Olstappen data sets.
+Veriﬁed by ﬁeld inspection
+
+Data set
+
+Training set
+Test set
+Sum
+
+Not veriﬁed
+
+Pitfall trap
+
+Pitfall trap, damaged
+
+Coal pit
+
+Flat coal-buring site
+
+Pit
+
+Uncertain pit
+
+21
+25
+46
+
+0
+2
+2
+
+0
+14
+14
+
+13
+5
+18
+
+108
+88
+196
+
+3
+4
+7
+
+burning pit, or a ﬂat coal burning site (Table 11). The
+majority of pits have not yet been surveyed in the ﬁeld.
+The automatic detection method is able to locate pits
+of archaeological interest in varying surrounding landscape. Pitfall traps were detected in quite ﬂat terrain
+(Figure 6a) and on a moderate ridge (Figure 6b). Also,
+a small pitfall trap that was overlooked during visual
+
+inspection of the lidar data was detected by the
+automatic method (Figure 7).
+However, there are also pits of archaeological interest that the automatic method fails to detect. At one
+location, two of four coal burning pits were missed by
+the automatic method (Figure 8). For the northwestern
+of these (ID = 290), the problem seems to be missing
+
+Figure 6. Two of the pitfall traps in the Olstappen training set. For each of the two pits, three images are given, in clockwise order: hill-shaded relief
+image, elevation image with 0.3 m resolution in height levels, and a ﬁeld image. (a) A pitfall trap in a relatively ﬂat terrain. (b) A pitfall trap on a
+moderate ridge. This ﬁgure is available in colour online at wileyonlinelibrary.com/journal/arp.
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+112
+
+Figure 7. A small pitfall trap in the Olstappen training set. This pit was
+not found during the initial visual inspection of the laser data, but
+detected automatically and conﬁrmed in the ﬁeld. (Upper left)
+Hill-shaded relief image. (Upper right) Elevation image, 0.3 m height
+resolution. (Bottom) Field image. This ﬁgure is available in colour
+online at wileyonlinelibrary.com/journal/arp.
+
+Ø. D. Trier and L. H. Pilø
+ground returns inside the pit due to trees (Figure 9).
+This makes the pit appear ﬂat in the lidar height image.
+For the southwestern of the four pits (ID = 291), the pit
+is ﬁlled with dead branches. The northeastern of the
+four pits (ID = 187) is somewhat distorted in the lidar
+data, due to the trees on one side of the edge of the
+pit, but still the pit is detected by the automatic method
+with ‘medium’ conﬁdence. The southeastern of the four
+pits (ID = 186) is quite small, with 2.5 m diameter, and
+not easy to spot in the ﬁeld even at a short distance
+(Figure 9). Still, the pit is visible in the lidar data
+(Figure 8) and was also detected by the automatic
+method with ‘medium’ conﬁdence.
+The problem with missing ground hits inside
+pits due to trees is also observed at another location
+(Figure 10a). On one occasion the automatic method
+did not detect a pit located on a narrow ridge with a
+steep cliff on one side (Figure 10b). Also, the automatic
+method did not detect pits with shapes that deviated
+too much from ideal pits (Figure 10c and d).
+During the ﬁeld work, 16 charcoal burning sites
+were found (Figures 11 and 12). Each charcoal burning
+site is often surrounded by a circular, shallow ditch,
+but is otherwise ﬂat (Figure 11) or mound-shaped
+(Figure 12). Except for one, these were not detected
+by the automatic method. As the automatic method
+is not designed to detect such shapes, the missed
+charcoal burning sites are not counted in Tables 7–9.
+
+Figure 8. (a) A cluster of four coal pits at an iron extraction site in the Olstappen test set. The two leftmost pits were not detected by the automatic method,
+but detected visually and conﬁrmed in the ﬁeld. The two other pits were detected by the automatic method, with medium conﬁdence. The image in (a) is
+the area covered by the red square in (b), and the image in (b) is the area covered by the red square in (c). The entire image in (c) is a 600 m by 800 m tile.
+This ﬁgure is available in colour online at wileyonlinelibrary.com/journal/arp.
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Automatic detection of pits in ALS data
+
+113
+
+Figure 9. Photos from ﬁeld inspection of the iron extraction site in Figure 8. This ﬁgure is available in colour online at wileyonlinelibrary.com/journal/
+arp.
+
+Another potential problem with the automatic
+method are pits that are split on a tile boundary, or
+are so close to the edge that a pit template would be
+partially outside if the template is centred on the
+pit. We have only seen one example of this in the
+Olstappen dataset (Figure 13). On the other hand,
+the automatic method was able to detect two partially
+collapsed pitfall traps, but with low conﬁdence
+(Figure 14).
+
+Detection of pits in reduced point density versions of
+lidar data
+The analysis was performed on the entire Olstappen
+dataset (Table 12). For the purpose of measuring the
+reduced detection on the datasets with reduced point
+density, detections of categories 5–9, spanning the
+detections labelled ‘in doubt’, ‘probable detection’
+and ‘certain detection’ are considered. These are 262
+in total. For the datasets of reduced point densities,
+the number of detections is given in the two rightmost
+columns of Table 12 as absolute and relative ﬁgures.
+By inspecting the reduced point density datasets it
+can be observed that all pits are degraded in shape as
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+the point density is reduced (Figure 15), and that small
+pits are more affected than large pits. For example, at
+0.29 ground returns per square metre the two larger
+pits are still detected and still resemble pits (Figure 15),
+but one pit has completely vanished and one other
+small pit is so degraded that it is difﬁcult to see.
+By plotting the detection percentages, relative to the
+full resolution dataset, as a function of point density
+per square metre (Figure 16), the recognition rate drops
+slowly from 100% to 82% as the point density is
+reduced from 7.3 to 1.8 ground points per square
+metre. When the point density is reduced further
+below 1.8 points per square metre the recognition
+rate drops more rapidly, reaching 50% at around 0.6
+ground points per square metre. Based on this
+analysis, it was decided to acquire the lidar data for
+Øystre Slidre municipality with ﬁve emitted laser
+pulses per square metre.
+
+Operational use in Øystre Slidre municipality,
+Norway
+Øystre Slidre municipality is known to contain many
+ancient iron production sites, with charcoal burning
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+114
+
+Ø. D. Trier and L. H. Pilø
+
+Figure 10. Examples of pits in the Olstappen training set that were not detected by the automatic method, but detected visually in the lidar data. (a)
+The pit (ID = 14) appears very ﬂat, there seems to be missing ground returns in the data, probably due to trees. (b) A pit (ID = 19) located on a narrow
+ridge with a steep cliff on one side. (c) Pit (ID = 271) with irregular shape. (d) Pit (ID = 276) with irregular shape.
+
+Figure 11. Examples of ﬂat coal burning sites that were not detected by the automatic method, but detected visually in the lidar data: (a) ID = 31
+and (b) ID = 62.
+
+pits as the most visually prominent. These are, in
+general, more varying in size than the pitfall traps
+that dominated the Olstappen data set. Further, it
+was considered more important to assign medium
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+conﬁdence or better to most of the true pits than to
+limit the number of false detections with medium
+conﬁdence or better. In most cases, the false detections
+can be recognized as unlikely from the context of the
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Automatic detection of pits in ALS data
+
+115
+
+Figure 12. A mound-shaped coal burning site (ID = 155). (a) Hill-shaded relief image, at different zoom levels. (b) Elevation image, with bright areas
+having a higher elevation than dark areas. The mound is 0.4 m high and is surrounded by a shallow ditch.
+
+Figure 13. A pit located close to the tile edge. This pit was not detected by the automatic method.
+
+landscape by an archaeologist. Therefore, we used
+lower thresholds (Table 13) in the method that assigns
+conﬁdence values to the detected pits.
+The goal of the ongoing large-area survey in Øystre
+Slidre is to secure a trustworthy basis for cultural
+heritage management in an area with few registered
+ancient monuments, but a large number of unregistered
+monuments. After laser scanning the data was
+submitted to the cultural heritage management
+authorities for visual inspection and to the Norwegian
+Computing Center for automatic detection. The
+resulting inspection and detection ﬁles were then
+submitted to the ﬁeld crew. Control of objects in the ﬁeld
+was undertaken using a Leica DPOS for guidance,
+which displays both visually inspected and automatically detected objects on a projected map. This procedure
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+is extremely efﬁcient and cuts ﬁeld time by about 90%,
+compared with traditional surface surveys. This is only
+a rough estimate by the archaeologists involved, and
+does not include purchasing of lidar data, running the
+automatic detection method and visual inspection of
+the lidar data.
+After the automatic detection method had been
+applied, false detections along roads and water courses
+were manually assigned very low conﬁdence for 36
+tiles. However, in the subsequent ﬁeld work it was
+found that this was not so important, as these situations were easy to spot in the relief-shaded printouts
+of the lidar data that were used in the ﬁeld work. So,
+the manual reassignment of conﬁdence for detections
+along roads and water courses was dropped for the
+remaining tiles.
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Ø. D. Trier and L. H. Pilø
+
+116
+
+Figure 14. Partly collapsed pitfall traps in the Olstappen test set. These pits were detected by the automatic method with ‘low’ conﬁdence.
+
+Table 12. Detection results on reduced point density datasets. Detection categories are from a manual inspection of the detection results
+on the full resolution dataset, with ‘9’ being a certain true detection of a cultural heritage pit, ‘5’ being in doubt, and ‘1’ being a certain false
+detection. Categories 2 and 3 are probable false detections, with something resembling a pit. Categories 6–8 are probable cultural heritage
+pits.
+Point density
+
+Manually assigned score 1–9
+
+Factor
+
+Per m²
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.25
+0.2
+0.15
+0.1
+0.08
+0.06
+0.04
+0.02
+0.01
+0.005
+0.003
+0.001
+
+7.278
+6.549
+5.822
+5.094
+4.366
+3.638
+2.911
+2.183
+1.819
+1.455
+1.092
+0.728
+0.582
+0.437
+0.291
+0.146
+0.073
+0.036
+0.022
+0.007
+
+1756
+1458
+1295
+1170
+1065
+947
+806
+636
+559
+482
+360
+252
+198
+143
+94
+35
+15
+6
+2
+0
+
+164
+141
+136
+124
+108
+97
+79
+75
+62
+53
+43
+33
+29
+22
+16
+4
+1
+0
+0
+0
+
+42
+40
+33
+32
+28
+28
+24
+17
+18
+13
+16
+9
+9
+6
+3
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+35
+33
+32
+30
+29
+26
+21
+19
+17
+15
+11
+6
+6
+6
+3
+1
+2
+0
+0
+0
+
+6
+5
+5
+6
+4
+4
+4
+4
+4
+3
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+
+59
+58
+56
+56
+52
+49
+49
+46
+44
+37
+31
+23
+21
+14
+9
+1
+0
+0
+0
+0
+
+53
+53
+52
+52
+53
+52
+50
+46
+44
+42
+41
+34
+29
+21
+12
+3
+3
+0
+0
+0
+
+109
+109
+107
+107
+107
+106
+103
+103
+105
+101
+91
+82
+74
+71
+47
+26
+9
+1
+0
+0
+
+Initially, most emphasis was placed on the visually
+located objects, while automatically detected pits
+were checked if they had ‘high’ conﬁdence or if they
+were situated in groups, which is typical for iron
+extraction sites. Quickly, however, the ﬁeld crew discovered that in many instances even ‘low’ conﬁdence
+objects were ancient pits. Following this discovery
+most automatically detected objects were checked in
+the ﬁeld – if not obviously false. This led to the
+discovery of a number of sites unnoticed by visual
+inspection of the data.
+As an example of a typical ﬁeld day, a GPS track was
+recorded at Yddin in Øystre Slidre municipality
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+Sum
+5–9
+
+%
+
+262
+258
+252
+251
+245
+237
+227
+218
+214
+198
+176
+147
+130
+112
+71
+31
+14
+1
+0
+0
+
+100.00
+98.47
+96.18
+95.80
+93.51
+90.46
+86.64
+83.21
+81.68
+75.57
+67.1
+56.11
+49.62
+42.75
+27.10
+11.83
+5.34
+0.38
+0.00
+0.00
+
+(Figure 17). The track measures 5.8 km (3.6 miles) and
+was accomplished within 4 h. The track visited 47
+automatic detections and an additional 10 visual
+detections, all marked on the map prior to the
+ﬁeld work. The resulting map of archaeological interpretations gave 13 iron extraction sites and four single
+charcoal burning pits (Figure 18). One of the iron
+production sites was not detected visually in the lidar
+data (Figure 19).
+Some areas contained a very high number of detections, so high that suspicion arose beforehand that
+natural characteristics of the terrain were the cause. This
+was conﬁrmed by ﬁeld inspection. In such areas only
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Automatic detection of pits in ALS data
+
+117
+
+Figure 15. Four pitfall traps at nine different point densities. (Left to right) Original dataset with 7.3 ground points per square metre, reduced dataset
+with 3.6 points per square metre, 1.8 points per square metre, 0.73, 0.29, 0.15, 0.073, 0.036, and 0.007 points per square metre. A green frame
+indicates that the pitfall trap is detected at this resolution, while a red frame indicates that it is not detected. This ﬁgure is available in colour online
+at wileyonlinelibrary.com/journal/arp.
+
+objects with ‘high’ conﬁdence were checked initially, and
+only if these objects proved to be ‘true’ did ﬁeld
+conﬁrmation extend to objects of ‘low’ conﬁdence.
+Experience from the ﬁeld work suggests that automatic detection is clearly superior to visual inspection
+of the lidar data in ﬁnding small pits or pits that are
+not easily visible. Visual inspection is better at ﬁnding
+additional information on sites, because human interpretation based on archaeological knowledge can be
+applied. Combining these two methods secures a very
+good basis for the subsequent ﬁeld survey. Also, automatic detection replaces the need for tedious, accurate
+manual digitizing of pit locations, leaving the operator
+to accept pits in a yes/no manner. Only the very
+
+Figure 16. Detection rates as a function of point density, relative to the
+full resolution dataset.
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+limited number of missed pits needs to be accurately
+digitized manually.
+
+Discussion
+The detection results on the Olstappen test set indicate
+that the automatic method is capable of detecting 95%
+of the pits of archaeological interest that were visible
+in the terrain, while at the same time producing four
+times as many false detections as true detections.
+Experience from ﬁeld work indicates that this is an
+acceptable trade-off. Further, it was observed that the
+automatic method was able to detect several small pits
+that were overlooked by visual inspection of the lidar
+data. The combined use of automatic detection and
+visual inspection prior to ﬁeld survey is now being
+used by archaeologists in Oppland County, Norway,
+for the mapping of ancient hunting systems and iron
+production sites.
+As the automatic method was trained on only one
+geographic area, one risk is that the method was optimized for this area only, and not necessarily applicable
+in other geographic areas, with other varieties of archaeological pits. To compensate for this the conﬁdence
+thresholds were slightly relaxed before the automatic
+method was applied to the Øystre Slidre dataset. The
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Ø. D. Trier and L. H. Pilø
+
+118
+Table 13. Adjusted thresholds for the Øystre Slidre dataset.
+Feature
+
+Normalized correlation
+Minimum depth
+Average depth
+RMS U-shape
+RMS V-shape
+25% segment offset
+25% segment elongation
+Assigned tag
+
+Conﬁdence
+Very low
+
+Low
+
+Medium
+
+Med. High
+
+High
+
+≥1
+≥ 0.05
+≥ 0.25
+≤ 0.2
+≤ 0.2
+≤ 20
+≤4
+1
+
+≥2
+≥ 0.1
+≥ 0.4
+≤ 0.1
+≤ 0.1
+≤ 10
+≤2
+2
+
+≥ 2.5
+≥ 0.15
+≥ 0.45
+≤ 0.09
+≤ 0.08
+≤ 10
+≤ 1.75
+3
+
+≥ 2.5
+≥ 0.25
+≥ 0.5
+≤ 0.08
+≤ 0.07
+≤ 10
+≤ 1.5
+4
+
+≥ 2.5
+≥ 0.4
+≥ 0.55
+≤ 0.07
+≤ 0.06
+≤ 10
+≤ 1.5
+5
+
+Very high*
+≥1
+≤ 0.02
+≤ 0.015
+6
+
+Figure 17. The GPS track of ﬁeld work at Yddin, Øystre Slidre municipality, Oppland County, Norway. This ﬁgure is available in colour online at
+wileyonlinelibrary.com/journal/arp.
+
+ongoing ﬁeld survey in Øystre Slidre municipality
+indicates that the automatic method is able to capture
+almost all pits of archaeological interest in this area
+as well, and that many of the false detections can be
+spotted quite easily by an experienced archaeologist.
+The automatic method is not designed to detect ﬂat
+or mound-shaped charcoal burning sites. It would
+have been useful if the automatic method were able
+to detect these as well. However, one major obstacle
+is the low number of training samples of such sites.
+Also, they are less visible in the data and therefore
+more difﬁcult to detect by an automatic method.
+Another possible extension could be to detect intact
+grave mounds, which are mounds of roughly the same
+size as the pitfall traps. There are forested areas in
+Vestfold County, Norway, that are known to contain
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+intact grave mounds, and when lidar data of sufﬁcient
+point density of such areas become available, an
+attempt can be made to extend the method to detect
+grave mounds and, possibly, other mounds of
+archaeological interest. Further, there is a need for an
+automatic method to detect linear structures in lidar
+data, such as stone fences and walls.
+The results of the experiments with reducing the
+point density of lidar data indicate that 1.8 ground
+returns per square metre is a minimum requirement
+for the detection of pitfall traps. It should be stressed
+that the point densities in the experiments are ground
+returns, excluding vegetation and building returns.
+The speciﬁcations of the datasets refer to the number
+of emitted pulses, some of which never reach the
+ground. Therefore, when the experiments suggest that
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Automatic detection of pits in ALS data
+
+119
+
+Figure 18. Archaeological interpretation of detected pits at Yddin. This ﬁgure is available in colour online at wileyonlinelibrary.com/journal/arp.
+
+Figure 19. Visual detections at Yddin. This ﬁgure is available in colour online at wileyonlinelibrary.com/journal/arp.
+
+at least 1.8 ground hits per square metre is needed, this
+means that the total number of emitted pulses per
+square metre may need to be higher. How much higher
+depends on the vegetation density: denser vegetation
+needs a higher number of emitted pulses to maintain
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+the same ground return density. For our datasets,
+about 70% of the emitted laser pulses hit the ground,
+requiring about 2.5 emitted pulses per square metre
+as a minimum. Further, increased point density makes
+visual interpretation easier, which is important if one
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Ø. D. Trier and L. H. Pilø
+
+120
+wishes to visually verify automatic detections and
+identify false detections and missing detections. Also,
+if smaller archaeological structures are to be mapped,
+higher point density is needed. The Norwegian
+Mapping Authority has started a national lidar data
+acquisition in order to produce a new national digital
+elevation model, with an acquisition resolution of 0.7
+emitted pulses per square metre. For the Olstappen
+dataset, this would result in about 50–55% recognition
+rate. In general, lidar data can be acquired at a very
+high density for an initial, representative small part
+of the area to be mapped. Then, a point reduction
+experiment can be conducted to determine the
+required point density.
+Three other effects are not addressed in the point
+reduction experiment. First, the ﬂying height is higher
+when acquiring lower point densities, meaning that
+the footprint on the ground of each emitted laser pulse
+is larger, which means that the measured elevation is
+averaged over a larger area. Second, the shape of
+the pitfall traps and other pits are more distorted
+(Figure 14), meaning that the manual inspection of
+the detection results could be more difﬁcult. In the
+present experiment, we had the luxury of doing the
+manual inspection on the full resolution dataset. Third,
+the number of false detections may increase.
+In the point reduction experiment, a detection can
+be moved by up to 2 m and still be valid. We have
+not investigated how much detections actually moved
+in the reduced datasets. Obviously, if detections are
+moved, this has implications on the accuracy of the
+centre coordinates of pits. Similarly, reduced point
+density has implications on the measured radii
+and depths of pits.
+In the Olstappen dataset, we observed that a large
+number of false detections occur at water courses and
+along roads (e.g., footpath tunnels, bridges over small
+creeks, etc.). To remove these, GIS layers for roads
+and water courses could be used to mask these areas.
+The reason that these false detections occur at all is that
+we have to tolerate quite substantial deviations from
+an ideal pit to capture the true archaeological pits.
+The amount of deviation is reﬂected in the conﬁdence
+levels.
+When generating the DEM we used the lidar returns
+that were labelled ‘ground’ by the lidar data provider.
+During ﬁeld survey we have observed that low vegetation is sometimes confused with the ground, which
+occasionally may lead to false pits in the DEM. Doneus
+et al. (2008) and Coluzzi et al. (2010) used full waveform lidar to better discriminate between ground and
+low vegetation. At the moment, full waveform lidar
+data are not collected by the commercial lidar data
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+providers. However, this is likely to change in the
+future, as also the forest industry is interested in full
+waveform lidar for better forest inventory estimation
+(e.g., see Pirotti, 2011).
+It should be stressed that no automatic method can
+be expected to ﬁnd 100% of the phenomena of archaeological interest in a dataset. Further, no single dataset
+can be expected to produce a complete archaeological
+map. Even a combination of different data sets, be it
+lidar data, aerial and satellite images, hyperspectral
+scanning, and/or geophysical survey, will give an
+incomplete archaeological map (Powlesland, 2011).
+Indeed, the absence of evidence must not be taken as
+an evidence of absence of archaeology (Powlesland,
+2011). Having said all this, automatic methods may
+be an important tool in providing more complete and
+accurate archaeological maps, especially when applied
+to lidar data with a large number of phenomena of
+archaeological interest.
+In conclusion, we have demonstrated that automatic
+detection of pit structures in lidar data is a valuable
+tool in combination with visual inspection of the lidar
+data, prior to subsequent ﬁeld survey. Provided that
+the point density of the lidar data is high enough, the
+time spent on ﬁeld survey can be reduced by around
+90% compared with the traditional approach without
+lidar data. Obviously, the reduction in ﬁeld time is
+mainly due to the use of lidar data in itself, but automatic detection contributes both by reducing the time
+required for visual interpretation and by detecting pits
+that are missed during visual inspection.
+
+Acknowledgements
+We thank the two anonymous referees for valuable
+comments, the Norwegian Directorate for Cultural
+Heritage for ﬁnancing this project, and Øystre
+Slidre municipality for cost-sharing of the lidar data
+acquisition.
+
+References
+Aurdal L, Eikvil L, Koren H, Loska A. 2006. Semiautomatic search for cultural heritage sites in satellite
+images. In From Space to Place, Proceedings of the 2nd
+International Conference on Remote Sensing in Archaeology, Rome, Italy, December 4–7; 1–6.
+Bewley RH, Crutchley SP, Shell CA. 2005. New light on
+an ancient landscape: lidar survey in the Stonehenge
+World Heritage Site. Antiquity 79: 636–647.
+Coluzzi R, Masini N, Lasaponara R. 2010. Flights into the
+past: full-waveform airborne laser scanning data for
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+Automatic detection of pits in ALS data
+archaeological investigation. Journal of Archaeological
+Science 38(9): 2061–2070.
+Devereux BJ, Amable GS, Crow P, Cliff AD. 2005. The potential of airborne lidar for detection of archaeological
+features under woodland canopies. Antiquity 79: 648–660.
+Devereux BJ, Amable GS, Crow P. 2008. Visualisation of
+lidar terrain models for archaeological feature detection. Antiquity 82: 470–479.
+Doneus M, Briese C, Fera M, Janner M. 2008. Archaeological prospection of forested areas using full-waveform
+airborne laser scanning. Journal of Archaeological Science
+35, pp. 882–893.
+Hastie T, Tibshirani R, Friedman J. 2009. The Elements of
+Statistical Learning. Data Mining, Inference, and
+Prediction. Second Edition. Springer: New York.
+Hesse R. 2010. Lidar-derived local relief models – a new
+tool for archaeological prospection. Archaeological
+Prospection 17: 67–72.
+Kokalj Ž, Zakšek K, Oštir K. 2011. Application of sky-view
+factor for the visualisation of historic landscape features
+in lidar-derived relief models. Antiquity 85: 263–273.
+Kwak, DA, Lee WK, Lee JH, Biging GS, Gong P. 2007.
+Detection of individual trees and estimation of tree height
+using lidar data. Journal of Forest Research 12: 425–434.
+LAS Speciﬁcation. 2010. Version 1.3 – R11, October 24.
+The American Society for Photogrammetry and
+Remote Sensing; 18 pp. http://www.asprs.org/a/society/committees/standards/LAS_1_3_r11.pdf
+(accessed 7 February 2012).
+Pirotti F. 2011. Analysis of full-waveform LiDAR data for
+forestry applications: a review of investigations and
+methods. iForest 4: 100–106. http://www.sisef.it/iforest/show.php?id=562
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+121
+Powlesland D. 2011. Identifying the unimaginable –
+managing the unmanageable. In Remote Sensing for
+Archaeological Heritage Management, Proceedings of the
+11th EAC Heritage Management Symposium, Reykjavik,
+Iceland, 25–27 March 2010, Cowley DC (ed.). Occasional
+Paper No. 5, Europae Archaeologiae Consilium; 17–32.
+Prokop RJ, Reeves AP. 1992. A survey of moment-based
+techniques for unoccluded object representation and
+recognition. CVGIP: Graphical Models and Image Processing 54(5): 438–460.
+Rottensteiner F, Briese C. 2002. A new method for building
+extraction in urban areas from high-resolution lidar data.
+In Proceedings of the ISPRS Technical Commission III
+Symposium 2002, Photogrammetric Computer Vision, 9–13
+September 2002, Graz, Austria. International Archives of the
+Photogrammetry, Remote Sensing and Spatial Information
+Sciences 34(3A): 295–301.
+Sampath A, Shan J. 2010. Segmentation and reconstruction of polyhedral building roofs from aerial lidar point
+clouds. IEEE Transactions on Geoscience and Remote
+Sensing 48(3): 1554–1567.
+Somol P, Pudil P, Novovičová J, Paclík P. 1999. Adaptive
+ﬂoating search methods in feature selection. Pattern
+Recognition Letters 20: 1157–1163.
+Trier ØD, Larsen SØ, Solberg R. 2009. Automatic detection of circular structures in high-resolution satellite
+images of agricultural land. Archaeological Prospection
+16: 1–15. DOI: 10.1002/arp.339.
+Wang M, Tseng YH. 2004. Lidar data segmentation and
+classiﬁcation based on octree structure. In Proceedings
+of the 20th International Society for Photogrammetry and
+Remote Sensing (ISPRS) Congress, Commission III, 12–23
+July, Istanbul, Turkey.
+
+Archaeol. Prospect. 19, 103–121 (2012)
+DOI: 10.1002/arp
+
+

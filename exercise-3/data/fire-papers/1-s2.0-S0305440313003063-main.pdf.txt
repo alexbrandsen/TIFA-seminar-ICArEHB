@@ -1,0 +1,1937 @@
+Journal of Archaeological Science 41 (2014) 214e229
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Tortoise taphonomy and tortoise butchery patterns at Blombos Cave,
+South Africa
+Jessica C. Thompson a, *, Christopher S. Henshilwood b, c
+a
+
+School of Social Science, Archaeology Program, University of Queensland, Michie Building 9, Brisbane, QLD 4072, Australia
+Evolutionary Studies Institute, University of the Witwatersrand, Johannesburg, South Africa
+c
+Institute for Archaeology, History, Culture and Religion, University of Bergen, Norway
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 10 June 2013
+Received in revised form
+19 August 2013
+Accepted 19 August 2013
+
+Tortoises are one of the most common faunal components at many Palaeolithic archaeological sites
+across the Old World. They provide protein, fat, and other ‘animal’ resources in a ‘collectable’ package.
+However, for most sites their interpretation as human food debris is based only on association, rather
+than demonstrated through taphonomic analysis. Because of their very different anatomical conﬁguration compared to mammals, it is difﬁcult to conduct such analyses by directly applying the taphonomic
+methods used to interpret large mammal assemblages. Tortoise-speciﬁc taphonomic analysis is presented here for the Still Bay layers at the important Middle Stone Age (MSA) site of Blombos Cave (BBC),
+Western Cape, South Africa. Research on MSA subsistence systems at sites such as BBC has almost
+exclusively relied on analysis of large ungulate remains, in spite of the fact that many of these key sites
+contain equal or greater numbers of tortoise fragments. In this analysis we show that human modiﬁcation is common on the BBC tortoises, and that there are consistent patterns of fragmentation and
+burning that indicate set processing sequences including cooking while in the shell, hammerstone
+percussion, and human chewing of limbs. The almost exclusive dominance of the angulate tortoise,
+Chersina angulata, is conﬁrmed by full skeletal element analyses rather than only counts of single elements such as humeri. The sex distribution can be reconstructed for this species, and is female-biased.
+For all tortoise assemblages, taxonomic and skeletal element abundance data should be calculated
+from a sample of complete elements, or at minimum the entoplastron and humerus. A sample of shell
+and limb/girdle elements should also be subjected to microscopic bone surface modiﬁcation analysis, as
+modiﬁcations are often rare or subtle but highly informative. Using this approach, analysis of breakage
+patterns, bone surface modiﬁcation, and burning patterns can be understood together to speciﬁcally
+reconstruct tortoise collection, processing, and human dietary signiﬁcance across a range of archaeological sites.
+Ó 2013 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Tortoise
+Blombos cave
+Taphonomy
+Tortoise butchery
+
+1. Introduction
+1.1. Overview
+Tortoise remains are common at Palaeolithic sites across the Old
+World. Where they are assumed to represent human food refuse
+they have formed the basis of studies examining diet breadth,
+palaeodemography, and subsistence (Blasco and Fernández Peris,
+2012a; b; Stiner et al., 2000, 1999). However, only a few studies
+have directly addressed the issue of tortoise taphonomy (Blasco,
+2008; Sampson, 2000; Speth and Tchernov, 2002). Much work
+
+* Corresponding author. Tel.: þ61 7 3365 2765; fax: þ61 7 3365 1544.
+E-mail
+addresses:
+jessica.thompson@uq.edu.au
+(J.C.
+Thompson),
+christopher.henshilwood@wits.ac.za (C.S. Henshilwood).
+0305-4403/$ e see front matter Ó 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2013.08.017
+
+has been done on understanding how larger mammals are captured
+and processed, but there are no established ways of presenting
+taphonomic data from tortoises. Although basic zooarchaeological
+methods of data collection and analysis will be applicable, the
+unique anatomy of tortoises suggests that processing patterns e
+and their archaeological traces e should be very different to that of
+mammals.
+1.2. Tortoises in the South African record
+In South Africa, tortoise remains are found in archaeological
+deposits ranging from Middle Pleistocene to historic sites (CruzUribe and Schrire, 1991; Klein et al., 1999). They are common in
+both Middle Stone Age (MSA) and Later Stone Age (LSA) sites in the
+Western Cape, for example reaching densities of 49e304
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+
+215
+
+Fig. 1. Modern distribution of Chersina angulata (Hofmeyr, 2009), with fossil sites mentioned in the text. SRTM data are used for topography.
+
+individuals/m3 at the LSA site of Byneskranskop (BNK) and 3e18
+individuals/m3 at the LSA/MSA site of Die Kelders Cave 1 (DK1)
+(Cruz-Uribe and Schrire, 1991). Several MSA sites in the Western
+Cape of South Africa, such as Ysterfontein 1 (YFT1), DK1, Boomplaas
+Cave (BPA), Diepkloof Rock Shelter (DRS) and BBC have produced
+large tortoise assemblages but these have only been studied in
+terms of basic counts of individuals and body size comparisons,
+with emphasis on their palaeodemographic and palaeoenvironmental implications (Faith, 2011; Henshilwood et al.,
+2001b; Klein et al., 2004; Klein and Cruz-Uribe, 2000; Steele and
+Klein, 2013).
+Most of these studies have assumed that humans preyed on
+tortoises and that the remains were accumulated at living sites
+(Henshilwood et al., 2001b; Klein and Cruz-Uribe, 1983, 1987,
+2000). At DK1 Klein and Cruz-Uribe (2000:190) conclude that
+because tortoise numbers in both the LSA and MSA layers are
+inversely correlated with the (presumably non-anthropogenic)
+abundances of Cape dune molerats (Bathyergus suillus), “.people
+almost certainly introduced most of the tortoises in both units”. At
+BBC tortoises were assumed to be the result of human predation
+because of the overall association of the faunal assemblage with
+artefacts, the degree of charring on faunal specimens, and the lack
+of macroscopically-visible carnivore damage (Henshilwood et al.,
+2001b).
+The smaller tortoise assemblage from Pinnacle Point Cave 13B
+(PP13B) is the only MSA assemblage that has been studied using
+microscopic taphonomic methods, and for which full NISP and MNI
+counts are available for both limb and shell elements (Thompson,
+2010). This study found that hominin modiﬁcation such as cut
+marks for deﬂeshing, percussion marks for opening the shell, and
+preferential burning patterns from cooking were all rare but present on the assemblage, and in different proportions than similar
+damage on large mammal bones. This raised the possibility that
+tortoises underwent speciﬁc modes of processing quite different
+from mammals, and so should have different fragmentation and
+bone surface modiﬁcation patterns. One way to test this hypothesis
+
+is to conduct the same analysis on a larger tortoise assemblage from
+BBC, which is a site that has comparably-collected taphonomic data
+from the large mammals (Thompson and Henshilwood, 2011).
+1.3. Background to Blombos Cave
+BBC is located on the southern coast of South Africa, approximately 300 km east of Cape Town (Fig. 1). Excavations between
+1992 and 2009 uncovered a stratiﬁed sequence of LSA and MSA
+deposits (Henshilwood, 2008; Henshilwood et al., 2009, 2001b).
+The MSA levels at Blombos Cave are divided into four phases, M1,
+upper M2, lower M2 and M3. These have been dated using thermoluminescence (TL), optically stimulated luminescence (OSL),
+electron spin resonance (ESR) and thorium/uranium to between ca.
+75 to >130 ka (Henshilwood et al., 2002, 2011; Jacobs et al., 2003a,
+2013, 2003b, 2006, 2013, 2003b; Jones, 2001; Tribolo, 2003; Tribolo
+et al., 2006). Summaries of the chronology of the BBC deposits, their
+associated ages, and material culture are provided in Table 1 and
+Fig. 2.
+BBC has played an important role in establishing that complex
+material culture and the expression of symbolic behaviour was
+present in Africa by at least 100 ka (Henshilwood, 2009;
+Henshilwood et al., 2009, 2011). The upper two phases at BBC
+contain Still Bay points (Mourre et al., 2010; Villa et al., 2009), bone
+tools (d’Errico and Henshilwood, 2007; Henshilwood et al., 2001a;
+Henshilwood and Sealy, 1997), engraved ochres (Henshilwood
+et al., 2009, 2002), and perforated Nassarius kraussianus shell
+beads (d’Errico et al., 2005; Henshilwood et al., 2004). The ochres
+and beads have been regarded as primary evidence for modern
+cognitive and symbolic behaviour (Henshilwood, 2009; Vanhaeren
+et al., 2013). The lowest phase (M3) coincides with the high sealevel stand during Marine Isotope Stage (MIS) 5c, and contains
+basin shaped hearths, abundant ochre (some engraved), some ﬁsh
+remains, high frequencies of shellﬁsh, and an ochre-processing
+workshop (Henshilwood, 2012; Henshilwood, 2009; Henshilwood
+et al., 2011; Henshilwood et al., 2001b).
+
+216
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+
+Table 1
+Summary of ages and material culture associated with the BBC stratigraphy.
+Phase
+
+Age (ka)
+
+Method
+
+Dating Citations/Notes
+
+Sterile Sand
+
+69  5
+70  5
+72.73.1
+74  5
+78  6
+76.8  3.1
+ca. 75e72
+84.6  5.8
+78.9  5.9
+78.8  5.6
+ca. 100 to>130
+
+OSL
+
+Henshilwood et al., 2002, Jacobs et al., 2003a, Jacobs, et al., 2006, Jacobs et al., 2003b
+
+OSL
+TL
+
+Jacobs et al., 2003a, Jacobs, et al., 2003b
+Tribolo et al., 2006
+
+OSL
+OSL
+OSL
+
+Jacobs et al., 2006; Possible terminus post quem for Still Bay levels?
+Jacobs et al., 2013; Possible terminus post quem for Still Bay levels?
+Henshilwood et al., 2011, Jacobs et al., 2006
+Jacobs et al., 2013
+
+BBC M1
+
+BBC M2 Upper
+Still Bay overall
+BBC M2 Lower
+
+BBC M3
+
+OSL
+
+Henshilwood, 2012, Henshilwood, 2009, Henshilwood et al., 2011, Henshilwood et al., 2001b
+
+Phase
+
+Material Culture
+
+Details
+
+Material Culture Citations
+
+Sterile Sand
+
+None
+
+N/A
+
+BBC M1
+
+Still Bay points
+Worked bone tools
+
+Demonstrates separation between LSA
+and MSA layers
+Pressure-ﬂaked bifacial foliate points
+made mainly on heat-treated silcrete
+Formal and informal tools
+
+Engraved ochres
+Perforated Nassarius kraussianus shell beads
+with wear facets
+
+Pieces show clear engraved patterns
+Show differences in style of beading
+over time
+
+BBC M2 Upper
+BBC M3
+
+Still Bay points, worked bone tools, shell beads
+Basin shaped hearths and ochre, some
+engraved; Two Haliotis midae (abalone) shells
+with pigment mixture containing ground ochre,
+burnt bone, charcoal, ground quartz and
+associated with grindstones and hammerstones
+
+Ochre-processing workshop and ﬁrst
+recorded use of a container and a
+pigmented compound
+
+The taxonomic composition of the BBC MSA faunal remains has
+been previously reported by Henshilwood et al. (2001b) and
+taphonomic work has been reported by Thompson and
+Henshilwood (2011). Bovids dominate the large mammal sample,
+with small size 1 ungulates such as grysbok/steenbok (Raphicerus
+spp.) very common in the M3 and Upper/Lower M2 phases but with
+more representation of larger ungulates in the M1 phase. Carnivores are rare, which suggests that prolonged carnivore denning
+did not take place (Cruz-Uribe, 1991; Pickering, 2002). Across ungulate body size classes, MSA people are implicated as the primary
+accumulators, with perhaps slightly less human input of small
+ungulates in the lowermost M3 phase (Thompson and
+Henshilwood, 2011).
+A central line of enquiry concerning the emergence of modern
+human behaviour is how changes in human behaviour may have
+been reﬂected in or perhaps even facilitated by changes in diet,
+subsistence, and foraging efﬁcacy (Dusseldorp, 2010; Faith, 2008;
+Klein and Cruz-Uribe, 1996; Marean et al., 2007). The BBC ﬁnds
+support the early use of marine resources recorded at other MSA
+sites along the southern Cape coastline (Klein et al., 2004; Marean
+et al., 2007; Wurz, 2012). However, many unaddressed issues
+remain; for example the actual dietary contribution of the tortoises
+represented by the large quantities of their fossils found at sites
+such as BBC.
+1.4. Ecology of the angulate tortoise
+Southern Africa has the world’s richest diversity of terrestrial
+chelonians (Branch, 1984; Ramsay et al., 2002). At least one
+palaeontological lair site in the Western Cape documents the
+presence of several chelonian species during the Late Pleistocene
+(Peterhans and Singer, 2006), whereas at other non-anthropogenic
+sites chelonians are extremely rare or not reported in taxonomic
+
+Mourre et al., 2010, Villa et al., 2009
+d’Errico and Henshilwood, 2007,
+Henshilwood et al., 2001a;
+Henshilwood and Sealy, 1997
+Henshilwood et al., 2009, Henshilwood et al., 2002
+d’Errico et al., 2005, Henshilwood et al., 2004,
+Henshilwood, 2009,
+Vanhaeren et al., 2013
+As above
+Henshilwood, 2012, Henshilwood, 2009,
+Henshilwood et al., 2011,
+Henshilwood et al., 2001b (hearths and ochre);
+Henshilwood et al., 2011 (ochre workshop)
+
+detail (Klein, 1975; Rector and Reed, 2010). Despite this, almost all
+tortoises that have been reported from MSA sites are Chersina
+angulata, the angulate tortoise (Faith, 2011; Henshilwood et al.,
+2001b; Kandel and Conard, 2012; Klein et al., 2004; Klein and
+Cruz-Uribe, 2000; Steele and Klein, 2013; Thompson, 2010). This
+is a small to medium tortoise not exceeding 250e300 mm in
+maximum length (Branch, 1984; Hofmeyr, 2009; van Heezik et al.,
+1994). It is currently distributed throughout southwestern South
+Africa and southwestern Namibia (Fig. 1). They tolerate a broad
+range of habitats and are found in all major ﬂoral biomes of South
+Africa (Boycott and Bourquin, 1988; Joshua et al., 2010).
+The species is monotypic and sexually dimorphic, with males
+slightly larger than females (Berry and Shine, 1980; Branch, 1984)
+and little morphological variation across its geographic distribution
+(Van Den Berg and Baard, 1994). The sex ratio in wild populations
+from two study areas has been near 1:1, with a preponderance of
+adults in the population (Branch, 1984; van Heezik et al., 1994).
+Most growth occurs within the ﬁrst ten years of an individual’s
+lifespan, which likely lasts about 25 years (Branch, 1984). Males are
+signiﬁcantly more active than females during the summer and
+spring (Keswick et al., 2006; Ramsay et al., 2002), when most
+ﬁghting and courtship occurs. By the time the tortoise has achieved
+an age of about 7e8 years and a weight of approximately 300 g, or
+125 mm in total length males exhibit signiﬁcant morphological
+differences from females (Branch, 1984). The most prominent
+sexually dimorphic feature likely to preserve archaeologically is the
+projecting unpaired gular scute (Mann et al., 2006), manifested
+skeletally as paired elongated epiplastra bones.
+Potential predators for the angulate tortoise are each expected
+to accumulate and modify remains in a way that can be separated
+from human processing and consumption. Black eagles (Aquila
+verreauxii) have been known to drop tortoises from a height
+(Boshoff et al., 1991; Steyn, 1884), and accumulations of tortoise
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+Fig. 2. Layout and stratigraphy of Blombos Cave. Layers sampled for tortoise analysis and total NISP for each sample are indicated. Sampled areas of the cave are indicated, with a “1” where only M1 deposits were sampled, a “3” where
+only M3 deposits were sampled, and a ﬁlled circle where both were sampled.
+
+217
+
+218
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+
+bone occur under raptor roosts (Sampson, 2000). The kelp gull
+(Larus dominicanus) does the same, accumulating smaller tortoises
+up to approximately 130 g (Branch and Els, 1990). Snakes such as
+the Cape cobra (Naja nivea) may prey on juvenile angulate tortoises
+(Haacke et al., 1993). Chacma baboons (Papio cynocephalus ursinus)
+observed at De Hoop Nature Reserve are unable to open larger
+tortoises, but do prey on smaller individuals (Hill, 1999). All of these
+agents would be expected to accumulate mainly small tortoises or
+strictly limb and head elements from larger tortoises, with evidence of ingestion in the form of gastric etching and punctures
+from beaks, talons, and teeth on the bones (Lloveras et al., 2009).
+Bushﬁres also pose substantial risk to tortoise populations (Avery
+et al., 2004; Stuart and Meakin, 1983), and this may have been
+taken advantage of by MSA collectors.
+Although no longer common within the geographic distribution
+of angulate tortoises today, larger African mammalian predators
+were also potential tortoise accumulators in the Western Cape in
+the past. Analogies can be made to the hingeback tortoise (Kinixys
+spekii) in Zimbabwe, which has a large number of mammalian and
+avian predators. Predation rates have been shown to be very high
+on this tortoise, which is a smaller tortoise that reaches maximum
+lengths of between 130 and 140 mm (Coulson and Hailey, 2001). In
+the Western Cape, brown hyenas were likely important accumulators and modiﬁers of angulate tortoises (Avery et al., 2004;
+Peterhans and Singer, 2006; Rector and Reed, 2010).
+2. Material and methods
+2.1. Data collection and entry
+Taphonomic (including microscopy), taxonomic, and skeletal
+element abundance (SEA) data were collected from a sample of the
+top level (CA/NA) of the M1 (Still Bay) phase, which is present
+across the site. Because all elements were examined in detail, the
+sample was by necessity smaller than that reported from the 1992,
+1997, 1998, and 1999 excavation seasons, and which included only
+
+humeri (Henshilwood et al., 2001b). Specimens received individual
+records in the database even if the speciﬁc bone in the sequence
+could not be identiﬁed. Specimens that could only be identiﬁed
+generically as “carapace or plastron” and that were <1 cm in
+maximum length were bulk recorded and bagged together, without
+individual records or microscopic study in either phase. Epiplastra
+were sexed morphologically and more complete specimens were
+measured to obtain a basic area estimate of the triangle formed by
+the epiplastron tip. This area was hypothesised to be larger in males
+because of their larger body size and the additional projection of
+their gulars. The M3 phase was sub-sampled to provide SEA data
+from its top portion (levels CH/CI) for comparative purposes, but a
+full study of the M3 sample (including microscopy and bulk analysis) fell outside the scope of the present work, which focuses on
+the Still Bay deposits.
+2.2. Taxonomic and skeletal element abundances
+A modern skeletal collection was used to identify each specimen
+to taxonomic afﬁnity, element, and side. The normal conﬁguration
+is provided in Fig. 3. Apart from the neurals, it is typically possible
+to tell from where in the shell (which bone and which bone number) any given complete bone derives. Skeletal element abundances
+were evaluated using the Number of Identiﬁed Specimens (NISP)
+and the Minimum Number of Elements (MNE); the highest count
+on the latter provided the Minimum Number of Individuals (MNI).
+The fraction-summation approach was a time-effective and accurate means of estimating the MNE and MNI for most elements
+(Marean et al., 2001). This approach entails recording the fraction of
+a given element that a specimen represents, for example if 50% is
+present than 0.5 is noted in the record. Then all element fractions
+are summed to obtain the MNE. This approach is highly effective for
+tortoises because their elements fragment in consistent portions
+and at consistent landmarks compared to mammals, and are
+frequently nearly complete. Thus, it was not necessary to determine
+the MNE using the visual overlap method or its digital derivative
+
+Fig. 3. Typical conﬁguration of shell elements. Key to carapace (left): NE ¼ Neural, NU ¼ Nuchal, SP ¼ Suprapygal, PY ¼ Pygal, CO ¼ Costal, and MA ¼ Marginal.
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+
+219
+
+Fig. 4. Frequency histogram of the area of the epiplastron (light orange ¼ females; medium blue ¼ males; dark green ¼ ambiguous). The box plot shows the median sizes for the
+three groups, with images of male and female epiplastra indicated with arrows. Scalebar ¼ 1 cm. (For interpretation of the references to colour in this ﬁgure legend, the reader is
+referred to the web version of this article.)
+
+(Marean et al., 2001) for each individual element, which can be
+time-consuming (Lyman, 2008).
+Conjoining was performed on the M1 sample, which also
+assisted with sexing, as it allowed greater conﬁdence in estimations
+of plastron concavity and allowed bones conjoined to the diagnostic epiplastra to be sexed. Tortoises are relatively simple to
+conjoin, particularly in the plastron where bones are thick, preserve
+in a relatively complete state, and there are only 9 elements. Conjoining sets of tortoise bone were digitally photographed from at
+least two different aspects, and unlike individual elements these
+conjoins were drawn as shape ﬁles into ArcGIS following protocols
+
+adapted from Marean et al. (2001) and Abe et al. (2002). This
+provided a visual rather than simply a tabular record of the conjoins, and allowed the spatial distribution of burning across multiple elements to be recorded more objectively.
+2.3. Fragmentation and burning
+Specimens were determined as being either complete or broken.
+Broken specimens had the fracture type speciﬁed as either a fresh
+(excavation) or postdepositional (old) break. The percentage present of the complete specimen was also recorded, as this was the
+
+Table 2
+NISP and MNE for all fragments > 1 cm in the maximum dimension from the two analysed phases.
+
+Carapace
+
+Plastron
+
+Girdle
+
+Limb
+
+Cranial, Pedal,
+and Vertebral
+
+a
+
+Carapace
+Neural
+Costal
+Marginal
+Nuchal
+Suprapygal
+Pygal
+Epiplastron
+Entoplastron
+Hyoplastron
+Hypoplastron
+Hyo/Hypoplastron
+Xiphiplastron
+Plastron
+Carapace/Plastron
+Scapula
+Procoracoid
+Ilium
+Ischium
+Pubis
+Humerus
+Radius
+Ulna
+Femur
+Tibiaa
+Fibulaa
+Limb
+Cranial
+Mandible
+Cervical Vertebra
+Neural Vertebra
+Caudal Vertebra
+Pedal
+Non-ID
+
+NISP M1
+
+MNE M1
+
+NISP M3
+
+MNE M3
+
+Total MNE
+(calculated)
+
+Total NISP
+(phases summed)
+
+Total MNE
+(phases summed)
+
+101
+277
+900
+1118
+66
+37
+56
+154
+77
+176
+180
+181
+145
+170
+613
+51
+28
+39
+28
+49
+51
+20
+18
+45
+29
+20
+60
+3
+16
+1
+70
+32
+4
+2
+
+N/A
+23
+31
+53
+46
+31
+52
+65
+74
+66
+51
+N/A
+62
+N/A
+N/A
+19
+12
+18
+14
+19
+24
+9
+9
+20
+14
+10
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+
+7
+62
+145
+186
+24
+0
+11
+12
+5
+19
+21
+2
+15
+3
+210
+31
+19
+17
+7
+30
+32
+21
+12
+22
+26
+10
+33
+1
+0
+0
+46
+0
+0
+0
+
+N/A
+10
+6
+8
+12
+0
+7
+6
+5
+5
+6
+N/A
+5
+N/A
+N/A
+12
+8
+4
+5
+4
+14
+0
+0
+10
+13
+4
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+
+N/A
+27
+37
+56
+57
+31
+59
+72
+80
+69
+57
+N/A
+67
+N/A
+N/A
+31
+16
+19
+14
+23
+37
+9
+9
+26
+26
+14
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+
+108
+339
+1045
+1304
+90
+37
+67
+166
+82
+195
+201
+183
+160
+173
+823
+82
+47
+56
+35
+79
+83
+41
+30
+67
+55
+30
+93
+4
+16
+1
+116
+32
+4
+2
+
+N/A
+33
+37
+61
+58
+31
+59
+71
+79
+71
+57
+N/A
+67
+N/A
+N/A
+31
+20
+22
+19
+23
+38
+9
+9
+30
+27
+14
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+
+These elements are difﬁcult to side, so this number is the MAU (all elements/2).
+
+220
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+
+basis for the fraction-summation for MNE analysis. The MNE presented here is the highest count on that element type, not that
+speciﬁc individual element within its row and side. For example,
+there are 22 marginals e 11 on each side e and MNE data were
+calculated for each, then the highest number taken as the MNE for
+all marginals.
+A maximum burning stage was recorded from each specimen,
+on a scale of 0e6, with 0 representing an unburned specimen and 6
+representing a fully calcined specimen. Different methods of tortoise preparation, including cooking in the shell, should result in
+differential burning patterns. It was therefore recorded if burning
+was located on the interior of the shell, the exterior, or both. It was
+noted during conjoining that burning patterns often continued
+from one element to the next, clearly indicating that heating had
+taken place while the specimens were connected to one another. To
+better understand these burning patterns they were also drawn
+into ArcGIS.
+The excellent preservation of the BBC fossils (typically pale
+brown or light tan) made colour a ready attribute for recording
+burning patterns. The intensity of burning was recorded for each
+polygon drawn onto the template as either 0 (not present), 1 (present but unburned), 2 (slightly discoloured or with other evidence of
+burning such as light peeling or charcoal ﬂecking), 3 (discoloured
+and with a slight texture change from being heated), 4 (carbonised),
+and 5 (calcined). The polygons were then summed to provide an
+overall map of burning intensity across the shell. The burning intensity map represented where elements of the shell had been most
+commonly and intensely burned, but the map would be affected by
+differential skeletal part representation. For example, if a place on
+the carapace was burned, but that location was only represented
+once in the assemblage, then the burning intensity would appear to
+be very low. An MNE map of the conjoins was therefore also
+generated following Marean et al. (2001), and divided into the
+burning intensity map using the raster math function in ArcGIS. This
+changed the value of each pixel so that the map represented burning
+intensity at each location on the shell divided by the number of
+times that speciﬁc location was present in the assemblage.
+2.4. Bone surface modiﬁcation
+Each fragment in the M1 sample was examined under a 10e40
+binocular zoom light microscope with a ﬁbre-optic halogen light
+shining obliquely across the bone surface following Blumenschine
+et al. (1996). Although microscopic taphonomic methods of bone
+surface modiﬁcation analysis have been well-developed for large
+mammal assemblages, the only similar-aged sites with comparable
+treatment are PP13B in South Africa (Thompson, 2010) and Bolomor Cave in Spain (Blasco, 2008) e both of which have much
+smaller assemblages than BBC. In addition to examining each surface for hominin modiﬁcation, the microscopic work allowed
+detailed recording of taphonomic data such as surface weathering,
+trampling, and geochemical alteration (Behrensmeyer, 1978;
+Domínguez-Rodrigo, 2009; Thompson, 2005), rodent gnawing,
+and gastric etching (Lyman, 1994). Marks were identiﬁed based on
+descriptions and photographs in this body of literature but also on
+the senior author’s experience with fossil assemblages and with
+experimental cut-, percussion-, tooth-, and trample-marked assemblages. The majority of this research has been done on
+mammalian bone, so identiﬁcation of modiﬁcations were conservative and only high-conﬁdence marks are presented here.
+2.5. Details of the sample
+The total sample (M1 and M3) comprised 9686 specimens, with
+5846 larger than 1 cm and thus receiving an individual record. Of
+
+these, 4817 were from M1 and 1029 were from M3. A total of 1197
+specimens were conjoined from M1, comprising 311 conjoining
+units. Of the conjoining units, 296 included at least one element
+conjoined to another along a suture rather than a break. 213 conjoins were from the carapace, three from limb and head elements,
+and the remainder were plastral elements. The largest number of
+components to any conjoining unit was 26.
+3. Results
+3.1. Taxonomic and skeletal element abundances
+Within the sample, 3191 specimens could be conﬁdently identiﬁed to taxon. Of the identiﬁable specimens, 3190 were Chersina
+angulata and one was from the leopard tortoise Geochelone pardalis.
+It is reasonable then to assume that the vast majority of nonidentiﬁed specimens may also be assigned to Chersina. This
+assignment also gains conﬁdence by the substantial size difference
+between the two species, the fact that tortoises and aquatic turtles
+have different shell textures, and the ready differentiation of most
+elements between Homopus (the pancake tortoise) and Chersina.
+This result ﬁts well with previous reports of taxonomic representation performed only using humeri (Henshilwood et al., 2001b).
+From the M1 phase a total NISP of 70 could be assigned to females and 50 to males. Counts on epiplastra in this phase provide
+MNE data that show the same pattern: an MNE of 17 females versus
+10 males. Fisher’s Exact Test shows that there is no signiﬁcant
+difference in the sex ratio obtained using the NISP or the MNE
+(p ¼ 0.83). Of the 164 epiplastra preserved in the M1 sample, 103
+were sufﬁciently complete for measurement. As a total sample
+there is only a single mode in the data, which are right-skewed,
+suggesting a female-biased sex distribution and the inclusion of a
+few very large males. When the morphologically sexed epiplastra
+are separated the males are clearly larger, and the majority of
+specimens classed as “ambiguous” fall towards the female end of
+the distribution (Fig. 4). A KruskalleWallis test conﬁrms that there
+are signiﬁcant differences in the median sizes between the male
+and female datasets, and between the male and ambiguous datasets (Hc ¼ 10.31; p ¼ 0.006), further suggesting that many of the
+ambiguous specimens are females.
+The NISP and MNE data (Table 2) show that elements within the
+carapace and plastron are differentially preserved. Limb and girdle
+elements are poorly represented compared to shell elements, and
+cranial and pedal elements are barely present. The entoplastron
+provides the highest MNE count overall and an MNI of 80 tortoises
+for both the M1 and M3 samples combined. Within individual
+phases, BBC M1 yielded a total MNI of 74 (on the entoplastron) and
+BBC M3 yielded a total MNI of 14 (on the humerus). The layers from
+which the M1 and M3 samples derived were widely separated, and
+there is minimal evidence for stratigraphic mixing between phases
+at BBC (Henshilwood, 2005). Therefore, the total sample studied
+here represents at least 88 individual tortoises.
+3.2. Fragmentation
+The plastron, which is thicker, was much less fragmented than
+the carapace and most often broken along the ‘arms’ that extend
+from the hypo- and hyoplastra and connect to the 4the7th marginals. This join is likely one of the weakest places on the tortoise
+carapace and plastron. Limb and girdle elements were frequently
+complete or simply broken into halves or thirds, unlike mammal
+long bones (Table 3). A comparison of all summed carapace and
+plastron elements to all summed girdle and limb elements shows
+that signiﬁcantly more complete specimens from the shell are
+found in the M1 phase than the M3 phase (p < 0.0001).
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+Table 3
+Completeness of carapace, plastron, girdle, and limb elements in each of the two
+phases. The p-value indicates the signiﬁcance of the difference between the two
+ratios of complete: incomplete elements using Fisher’s Exact Test.
+
+Carapace
+
+Plastron
+
+Girdle
+
+Limbs
+
+Carapace/Plastron
+
+Girdle/Limbs
+
+NISP
+
+M1
+
+M3
+
+M1
+
+M3
+
+p-value
+
+Complete
+Incomplete
+Total
+Complete
+Incomplete
+Total
+Complete
+Incomplete
+Total
+Complete
+Incomplete
+Total
+Complete
+Incomplete
+Total
+Complete
+Incomplete
+Total
+
+1044
+1410
+2454
+382
+345
+727
+143
+52
+195
+135
+48
+183
+1426
+1755
+3181
+278
+100
+378
+
+110
+318
+428
+32
+40
+72
+82
+22
+104
+93
+30
+123
+142
+358
+500
+175
+52
+227
+
+42.5%
+
+25.7%
+
+<0.0001
+
+52.5%
+
+44.4%
+
+0.2166
+
+73.3%
+
+78.8%
+
+0.3266
+
+73.8%
+
+75.6%
+
+0.7894
+
+44.8%
+
+28.4%
+
+<0.0001
+
+73.5%
+
+77.1%
+
+0.3837
+
+221
+
+3.3. Burning
+Detailed burning data are available for the M1 sample only
+(N ¼ 4343). Sampson (2000) indicates that human-accumulated
+tortoise assemblages should have an incidence of burning between 30 and 40%. Charring in the M1 phase is even higher than
+this, at 66.1%. Speth and Tchernov (2002), Thompson (2010), and
+Blasco (2008) all suggest that if tortoises were cooked whole on the
+ﬁre, they should exhibit more charring on the exterior portion of
+their shell than the interior. If most burning was post-depositional
+rather than related to cooking, then it should be randomly
+distributed. 59.3% of all burned specimens were burned on the
+outside only, 38.9% were burned on both the outside and the inside,
+and only 1.8% were burned on the inside only. The carapace was
+more commonly burned than the plastron, and the limbs more
+commonly burned than girdle elements (Table 5). In addition,
+several of the carapace and plastron specimens were burned only in
+speciﬁc and consistent locations (Fig. 6), which map onto what
+would be predicted for tortoises subjected to burning carapace side
+down in the complete shell.
+3.4. Bone surface modiﬁcation
+
+Another measure of fragmentation is the relationship between
+the NISP and the MNE (Lyman, 2008). The ratio of NISP: MNE is
+provided in Table 4. For paired or numbered elements, the NISP was
+ﬁrst divided by the number of times that element occurs in the
+skeleton to compensate for the way the MNE was presented. The
+almost 1:1 relationship between NISP and MNE in the M1 sample
+suggests very low levels of fragmentation. This is in contrast to both
+the mammal data and the assertion by Henshilwood et al.
+(2001b:435) that, “The tortoise sample comprises mainly small
+fragments of carapace and plastron”. In fact, these elements are
+frequently complete or nearly-complete and have simply become
+disassociated from one another. However, there is relatively more
+fragmentation in all elements (including limbs) in the M3 phase.
+The relationship is not as strong between NISP and MNE, and the
+datapoints are more widely scattered (Fig. 5).
+
+Table 4
+NISP:MNE Ratios for tortoise elements at BBC. Note that values below 1.00 are
+impossible, and should be interpreted as values of 1.00. They are an artefact of the
+compensation procedure described in the text.
+
+Carapace
+
+Plastron
+
+Girdle
+
+Limb
+
+Neural
+Costal
+Marginal
+Nuchal
+Suprapygal
+Pygal
+Epiplastron
+Entoplastron
+Hyoplastron
+Hypoplastron
+Xiphiplastron
+Scapula
+Procoracoid
+Ilium
+Ischium
+Pubis
+Humerus
+Radius
+Ulna
+Femur
+Tibia
+Fibula
+
+Ratio NISP:
+MNE M1
+
+Ratio NISP:
+MNE M3
+
+Ratio NISP:
+MNE total
+
+1.34
+1.61
+0.96
+1.43
+1.19
+1.08
+1.18
+1.04
+1.33
+1.76
+1.17
+1.34
+1.17
+1.08
+1.00
+1.29
+1.06
+1.11
+1.00
+1.13
+1.04
+1.00
+
+0.69
+1.34
+1.06
+2.00
+N/A
+1.57
+1.00
+1.00
+1.90
+1.75
+1.50
+1.29
+1.19
+2.13
+0.70
+3.75
+1.14
+N/A
+N/A
+1.10
+1.00
+1.25
+
+1.14
+1.57
+0.97
+1.55
+1.19
+1.14
+1.17
+1.04
+1.37
+1.76
+1.19
+1.32
+1.18
+1.27
+0.92
+1.72
+1.09
+2.28
+1.67
+1.12
+1.02
+1.07
+
+Surface modiﬁcation was readily visible on the BBC tortoises.
+95.4% of all specimens had at least half of their surfaces visible, and
+85.7% of all specimens had their complete surface visible. 99.3% of
+all specimens had surfaces that were not badly exfoliated, unlike
+some of the larger mammal specimens from BBC (Thompson and
+Henshilwood, 2011). 99.8% did not have any dendritic etching
+that might be indicative of roots, fungus, or other bioerosion.
+Manganese ‘ﬂowers’ were observed on some surfaces, diagnosed
+under the microscope as structurally different from burned
+patches.
+98.4% of the specimens had no evidence of being smoothed or
+polished. For those that did, the damage may be from carnivores or
+people licking or sucking the bone and in these cases should be
+associated with other damage such as tooth marks, crushing, or
+gastric etching. In a few rare cases some abrasion occurred well
+after the nutrient extraction phase, after the scutes had worn away
+and exposed the underlying bone (see Inline Supplementary
+Fig. S1).
+Inline Supplementary Fig. S1 can be found online at http://dx.
+doi.org/10.1016/j.jas.2013.08.017.
+The incidence of diagnostic bone surface modiﬁcations that
+occur during the nutritive phase is provided in Table 6. Gastric
+etching overall occurred on 2.6% of the assemblage. As a proportion
+of overall skeletal representation in the same sample there were
+many more gastrically-etched limb and girdle elements (6.6%) than
+carapace/plastron elements (2.2%). This difference is highly significant (p < 0.0001) using Fisher’s Exact Test. Tooth marks occur on
+all elements, but proportions were higher for limb elements than
+other skeletal part categories. They were second highest on girdle
+elements and also occur on the carapace and plastron (often along
+fracture edges). Tooth marks came in a variety of different forms,
+such that it was not possible to establish a direct relationship between tooth mark abundances and carnivore activity, as is often
+assumed for larger mammal assemblages.
+Fig. 7a, b, c, and d show damage to tortoise fossils at BBC that
+suggest human consumption. The tooth marks were associated
+with crushing and peeling of the bone, with small, overlapping,
+bunodont (not punctured) depressions. This damage typically
+occurred along the margins of smaller carapace or plastron fragments, and on the ends of limb or girdle elements. Many of the
+incomplete limb or girdle elements had ends that were chewed
+away, rather than simply snapped or broken off. This type of
+
+222
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+
+Fig. 5. Relationship between NISP and MNE in the M1 and M3 phases.
+
+damage was often associated with polishing or smoothing of the
+fracture edge. Several authors have described such marks left by
+human mastication on mammalian bone (Landt, 2007; Lupo and
+Schmitt, 2005; Pickering and Wallis, 1997; White, 1992), and
+Blasco (2008) has also identiﬁed human chewing on tortoise fragments from Bolomor Cave. Only sixteen marked specimens listed in
+Table 6 could be conﬁdently assigned as carnivore damage. The
+remainder more closely resembled human damage because the
+damage comprised generalised crushing rather than individual
+marks and drags, but it should be cautioned that such damage can
+be ambiguous.
+Tooth marks ascribed to non-human activity (Fig. 7 e, f, g, and h)
+came in the form of small parallel scratches, deeper subparallel
+grooves with a sharp margin for tooth entry, and large punctures,
+usually along the margins of bones. Two fragments exhibited small,
+triangular marks indicative of raptor beak marks (Sanders et al.,
+2003), and these are not included in Table 6. This is possible even
+at sites where no obvious raptor roosts are apparent, as some raptors (particularly the spotted eagle owl, Bubo africanus) will roost on
+the ground as well as in roof cavities (Fry et al., 1988; Reed, 2005).
+All stone tool cut marks occurred either on the inside of the shell
+or on limb elements (Fig. 8), with most on the interior of the
+carapace. Hammerstone percussion marks occurred on the exterior
+of the shell only, usually in association with a crack or fracture edge
+(Fig. 9). It was not expected that they would be common, given that
+while the tortoise still retains some nutritive value the shell is
+covered in tough scute material. Bevelled fracture edges on the
+interior of the shell also occurred, and this has been taken as an
+indication of percussion that may preserve even without corresponding percussion marks (Blasco, 2008).
+
+71.8% of all percussion marks occurred on carapace elements,
+19.7% on the plastron, and the remainder on non-identiﬁable
+fragments. Most of the percussion marks on the carapace
+occurred on the marginals and costals, although this could be
+partially because these elements are more common the skeleton
+overall. It is noteworthy that approximately half (47%) of all percussion marks on marginals were on bone numbers 4e7, which are
+those identiﬁed as being at a weak point where the carapace joins
+the plastron.
+4. Discussion
+4.1. Agent(s) of collection and modiﬁcation
+The majority of complete skeletal elements derived from adult
+tortoises, based on both their size and bone surface texture. It is
+difﬁcult to quantify the population age structure of tortoises at BBC
+based on available published data, which only measure humerus
+size (Henshilwood et al., 2001b). Ecologists have noted several tight
+allometric relationships between various parts of living tortoises
+(Branch, 1984), but unfortunately those that can be measured
+skeletally (for example complete carapace length) require complete
+tortoises. The BBC tortoise elements were disarticulated to such a
+degree as to make this unfeasible, but future work with modern
+tortoises will allow humerus size data to be translated into absolute
+estimates of tortoise size. This will establish cut-offs that would
+eliminate all tortoise predators except humans and larger
+mammalian carnivores.
+
+Table 5
+Distribution of burning across tortoise elements from BBC M1 compared to other
+Middle and early Late Pleistocene sites at which tortoises were consumed by people.
+
+Carapace/Plastron
+Carapace
+Plastron
+Girdle
+Limb
+Vertebra
+Cranial
+
+Total
+BBC M1
+
+Burned
+BBC M1
+
+BBC M1
+
+Kebara
+cave
+
+Bolomor
+cave
+
+PP13B
+
+562
+2289
+1022
+166
+195
+85
+19
+
+371
+1744
+605
+57
+78
+11
+3
+
+66.0%
+76.2%
+59.2%
+34.3%
+40.0%
+12.9%
+15.8%
+
+N/A
+10.2%
+4.0%
+N/A
+9.0%
+N/A
+N/A
+
+N/A
+66.0%
+62.6%
+57.3%
+56.2%
+63.6%
+N/A
+
+21.3%
+13.7%
+21.0%
+18.9%
+18.4%
+0.0%
+0.0%
+
+Fig. 6. The distribution and intensity of burning patterns on the shell, summed for all
+conjoining carapace and plastron units and divided by the MNE for those same
+conjoins.
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+Table 6
+Total counts of specimens bearing a tooth mark of any form (TM), cut mark (CM), or
+hammerstone percussion mark (PM) in the sample from BBC M1.
+
+Carapace/Plastron
+Carapace
+Plastron
+Girdle
+Limb
+Other
+Totals
+
+Total
+
+TM
+
+%TM
+
+PM
+
+%PM
+
+CM
+
+%CM
+
+562
+2289
+1022
+166
+195
+109
+4343
+
+42
+80
+53
+14
+34
+0
+223
+
+7.5%
+3.5%
+5.2%
+8.4%
+17.4%
+0.0%
+
+6
+51
+14
+0
+0
+0
+71
+
+1.1%
+2.2%
+1.4%
+0.0%
+0.0%
+0.0%
+
+9
+23
+4
+0
+8
+0
+44
+
+1.6%
+1.0%
+0.4%
+0.0%
+4.1%
+0.0%
+
+223
+
+In the absence of these data, this discussion will focus on
+taxonomic representation, skeletal element abundance, and bone
+surface modiﬁcation. The assemblage is effectively monotaxic, with
+fewer male than female Chersina at a ratio of 1:1.4 (by NISP) or 1:1.7
+(by MNI). In extant populations the sex ratio has been 1:1.17 and
+1:1.18 in favour of males over an 11-year study period for one area
+(van Heezik et al., 1994), and 1:1.2 in favour of females in another
+(Branch, 1984). The bias in favour of females in M1 may account for
+the smaller overall tortoise size in this phase observed by
+Henshilwood et al. (2001b).
+Sampson (2000) has shown that raptors preferentially drop
+limb, girdle, and skull elements relative to shell elements. However,
+Fig. 10 shows that the BBC data are instead dominated by carapace
+and plastron elements. A closer look shows that each of the
+
+Fig. 7. (a) Human chewing damage along margin of a carapace fragment showing smoothing and polish (white dots); (b) human chewing damage on a limb fragment showing
+smoothing, polish, and splintering (white dots); (c & d) human chewing damage on shell margin fragments showing randomly-oriented areas of crushing; (e) carnivore tooth marks
+showing subparallel scratching with a small indent near the top of the image showing the point of entry; (f) carnivore tooth marks showing subparallel puncture and drag
+characteristics; (g) single large carnivore puncture on shell margin; and (h) triangular indentations interpreted as raptor beak marks.
+
+224
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+
+Fig. 8. Stone tool cut marks on a tortoise limb (a), and scrape marks on the interior of a tortoise shell (b, c). Image at right is enlargement of left.
+
+distributions is signiﬁcantly different from the other (M1 versus
+M3: Ch2 ¼ 3468.7, DF ¼ 2, P < 0.0001; M3 versus VFT: Ch2 ¼ 846.69,
+DF ¼ 2; M1 versus VFT: Ch2 ¼ 60,419, DF ¼ 2, P < 0.0001), implying
+signiﬁcant variability between shell and limb/girdle representation.
+There are relatively more limb and girdle elements present in the
+M3 phase than the Still Bay M1 phase. This could imply more raptor
+input into the assemblage during M3 times.
+However, differential fragmentation between shell and limb/
+girdle elements in each of the phases may lead to overrepresentation of one element class relative to another. The intensity of fragmentation has a large part in determining how
+identiﬁable a given specimen is to a particular element, which then
+controls the threshold at which MNE data can be reliably calculated
+and understood relative to NISP (Lyman, 2008). In the context of
+BBC it is also important because mammal bones were found to be
+less fragmented in the M3 phase (Thompson and Henshilwood,
+2011), suggesting that there was an increased intensity of human
+occupation, trampling, and burning in the more recent phases at
+the site. In this case, it was found that during the M3 phase tortoise
+limb and girdle elements were more fragmented relative to carapace and plastron elements than during the M1 phase. These factors account for the relatively high proportions of limbs/girdles
+during the M3 phase using the NISP, but the MNE data still suggest
+that further microscopic study is needed to fully assess whether it
+was differences in human processing strategies and site use or
+slight differences in the accumulator that best explain variability
+between phases.
+
+Comparisons of skeletal element abundances between the two
+phases also have some important lessons about which tortoise elements to use to calculate MNE and MNI data. The entoplastron
+provided an MNI of 74 for M1, whereas the humerus only provided
+a count of 24. In contrast, the humerus provided the highest MNE
+count in the M3 phase (14), while the entoplastron only provided a
+count of 5. A very tight correlation between NISP and MNE was
+found for M1, but the M3 data were not as closely correlated and
+girdle elements in particular deviated from the trend because they
+were more highly fragmented. This suggests that different taphonomic processes may render samples from different contexts
+incomparable if only a single element or element class is used in
+MNE and MNI calculations. The abundance of the entoplastron in
+the M1 phase highlights the value of this element as a robust bone
+that is likely to preserve in a whole state, be easily identiﬁed and
+counted, and not require siding. These factors make it a good
+candidate for quickly evaluating plastron representation at a site
+relative to limb representation, which can be done using the humerus or femur.
+There is a large body of literature on how diagnostic marks such
+as cut, percussion, and tooth marks are manifested and preserved
+under a variety of experimental conditions (Blumenschine et al.,
+1996). However, there are no comparative experimental models
+for how tortoise bone retains surface modiﬁcations compared to
+mammal bone. Most of the nutrients in a tortoise are on the inside
+of a hard skeleton, whereas most of the nutrients on mammals are
+on the outside. It is therefore quite likely that the unique anatomy
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+
+225
+
+Fig. 9. Percussion marks on the exterior of tortoise shell. Note the proximity of such marks to fracture edges or cracks indicating force applied to the area. Image at right is
+enlargement of left.
+
+and bone structure of tortoises also means that chelonian consumption will have a very different signature from large mammal
+consumption.
+In spite of this, there is abundant evidence from the surface
+modiﬁcation analysis that the tortoises at BBC were predominantly,
+if not exclusively, collected and processed by MSA people. Particularly in the case of the Still Bay sample, all major forms of hominin
+modiﬁcation are present, and in some cases abundant: preferential
+burning throughout the skeleton, percussion marks, bevelled internal fracture edges, human tooth marks, cut marks on limb elements, and scrape marks on the internal portions of the carapace
+and plastron. The differential placement of these modiﬁcations is as
+
+informative as their simple presence, and this also allows for a
+reconstruction of how the tortoises were processed.
+4.2. Tortoise processing strategies
+Of the 80 entoplastra represented in the sample, 32 were parts
+of conjoining units ein most cases as part of a substantial conjoining unit of three or more individual bones. This speaks to a
+considerable level of integrity within the plastron. This, together
+with the placement of the entoplastron in the centre of the
+plastron indicates that the tortoises were brought to the site
+complete.
+
+226
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+
+Fig. 10. Proportions of shell and limb elements present at BBC by NISP and by MNE. Note that only identiﬁable elements are included, so as to make the data comparable to
+Sampson’s (2000) data from the raptor accumulation at Volstruisfontein (VFT).
+
+Differential burning throughout the skeleton indicates tortoises
+were burned while they were still complete. Burning was signiﬁcantly more common on the exterior than the interior of the shell,
+more common on the carapace than the plastron, and it followed a
+distinctive pattern around the shell that suggested the most heat
+was delivered to the top, margins, and where the limbs of the
+tortoise emerge. Limbs were burned more commonly than girdle
+elements. This pattern is consistent with what would be expected if
+the tortoise was placed upside down in the ﬁre, as has been
+documented ethnographically and archaeologically around the
+world (Blasco, 2008; Sampson, 2000; Schneider and Everson, 1989;
+Speth and Tchernov, 2002).
+Avery et al. (2004) report that tortoises killed in sweeping
+bushﬁres do not exhibit much charring on the bone. In contrast,
+tortoises burned in a campﬁre should be exposed to prolonged and
+direct heating. Furthermore, the shell was often broken in areas
+with the most intense burning. This may have been a postdepositional result of increased bone brittleness or MSA people
+may have purposefully heated tortoises to the point that their shells
+became brittle and easier to access (Stiner et al., 1995).
+The presence of cut marks on the limbs and scrape marks on the
+interior of the carapace and plastron indicate that stone tools were
+used to facilitate butchery in different ways. Tools were used occasionally to disarticulate limbs and scrape meat from inside the
+shell e though actualistic work is still required to determine how
+frequently such marks are left. Human chewing and tooth marks on
+the limbs and around the margins of the shell indicate direct consumption with limited used of stone tools in comparison with large
+mammal remains, where stone tools left large quantities of
+butchery marks (Thompson and Henshilwood, 2011). Finally, the
+presence of percussion marks restricted to the exterior of the shell
+indicates that hammerstone percussion was used to open the
+shell e likely at the weakest point along the side of the carapace.
+A likely sequence of processing is that the tortoise was ﬁrst
+placed upside down in the ﬁre. After removal any limbs that had
+become charred were either twisted or cut off and chewed. The
+tortoise was placed on its side on an anvil and struck with a
+hammerstone. The meat was then consumed, with stone tools used
+as needed to scrape remaining meat from inside. After the girdle
+elements were consumed, they and the entire tortoise were discarded. In many cases they were likely thrown back onto the ﬁre, to
+account for the burning observed on both the interior and exterior
+of the shell.
+Indigenous people at the Cape have been recorded using tortoise
+shells as drinking receptacles and storage containers. This extract is
+from the journal, dated 1673, of Wilhelm ten Rhyne (Schapera and
+Farrington, 1933:121): “They do sometimes use cups.or the shells
+
+of tortoises which they have eaten”. In the ca. 2 ka LSA levels at
+Blombos Cave a carapace of the turtle Pelomedusa subrufa showed
+evidence of scrape marks on the interior and grinding on the edges
+suggest its use as a bowl, possibly to store or mix ochre, as both the
+edges and inner surface were ochre stained (Henshilwood, 2008).
+Worked tortoise carapaces are reported from LSA levels at Uniondale
+in the Eastern Cape (Brooker, 1989) and Nelson Bay Cave in the
+southern Cape (Inskeep,1987), but there is no evidence of the tortoise
+shells examined macro- or microscopically from the MSA levels at
+BBC being worked or used as containers. Similarly, no such evidence
+has been reported for other MSA sites. It is possible that at BBC the
+potential value of the shells as containers in the MSA was lessened by
+extensive burning. This, combined with the butchery mark data,
+show that during Still Bay times tortoise processing for food was both
+consistent and common. It is therefore important to consider how
+signiﬁcant tortoises may have actually been as food sources.
+4.3. Tortoises as nutritional packages
+Tortoises are effectively a protein and fat package available in
+collectable form. Studies of different species of tortoise show that
+fat content ranges between about 2% and up to 13% (Kienzle et al.,
+2006; Lapid et al., 2005; Pearse et al., 1925), but most chelonians do
+not have masses of dissectible fat (Pond, 1978). These data suggest
+that tortoises have similar percentages of fat relative to lean meat
+as wild ungulates (Crawford et al., 1970, 2010; Skinner and Louw,
+1996; van Zyl and Ferreira, 2004). An average-sized adult Chersina
+weighs about 860 g (van Heezik et al., 1994). The shells of tortoises
+comprise approximately one-third of total body weight (Kienzle
+et al., 2006), and the estimated gross caloric yield for a Chersina is
+ca. 3332 kJ/796 kcal (Thompson and Henshilwood, 2013).
+Although the overall caloric return of ungulates is higher than
+for tortoises, there are many beneﬁts to tortoise consumption.
+Hunted ungulates have many search and handling costs, while
+technological costs of tortoise processing are negligible. Time and
+energy investment could be made in searching for tortoises, but a
+more efﬁcient method would be to simply collect them opportunistically as they are encountered. Encounter rates could also be
+increased by intentionally foraging for other resources in areas that
+are known to also contain tortoises. This would then mean that the
+only investments are in carrying and processing them: both minimally expensive tasks in terms of both caloric and time expenditure. In this sense they differ from other small prey (Bright et al.,
+2002) or mobile prey (Bird et al., 2009), which incur signiﬁcant
+handling costs relative to their returns.
+Live tortoises can be taken daily, but also be stored until the
+entire animal is ready to be eaten. They can then be cooked and
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+
+consumed without having to prepare the remainder of the animal
+for future use. In contrast, the amount of group coordination
+required to hunt and process a large ungulate (or the coordination
+required to snare or net-drive smaller ungulates) presents a much
+more immediate, socially visible output of investment. Chelonian
+biomass is often very high relative to that of mammals in a given
+area (Iverson, 1982) and encounter rates are expected to be high
+relative to other slow-moving prey. Although the slow growth and
+reproduction of tortoises in general makes their populations susceptible to over-exploitation (Stiner et al., 2000), Chersina populations have a high inherent ability to rebound once intense
+predation pressure is removed (van Heezik et al., 1994). All of these
+factors make tortoises attractive food resources on the South African landscape, and they should have been taken upon encounter
+particularly by individuals within the group who were engaged in
+collecting activities.
+5. Conclusions
+Initial work on MSA subsistence took at face value that the
+faunal remains recovered in association with MSA artefacts were
+solely the result of human subsistence choices. Microscopic
+research at several MSA cave sites along the South African coast has
+shown there is more complexity in large mammal fossil assemblages (Marean et al., 2000; Thompson, 2010; Thompson and
+Henshilwood, 2011), but no comparable study had been done on
+a sizeable tortoise assemblage. Bone surface modiﬁcation of the
+tortoise assemblage at BBC showed that MSA people were the main
+accumulators and modiﬁers of the tortoises in the M1 phase, and all
+other lines of evidence (taxonomic and skeletal element abundances) showed the same to be true for the M3 phase. Burning
+patterns in the M1 phase also demonstrated that tortoises were
+processed by being cooked upside down in their shells, which
+allowed for a general model of tortoise processing to be proposed.
+There is no evidence that tortoise shells were used as containers. A
+contributory factor might be the high degree of burning evident on
+the shells which would render them unsuitable for that purpose.
+This study showed that analyses of skeletal element abundances
+based only on a single element are insufﬁcient in the face of variable taphonomic processes even within the same site. Chersina
+taphonomy and ecology proved to be highly informative about
+aspects of MSA subsistence that have previously been undocumented. For example, the relatively small tortoise size noted by
+Henshilwood et al. (2001b) may be explicable in terms of a femalebiased sex ratio. Other aspects of tortoise taphonomy that should
+be explored in more depth with modern collections are allometric
+body size relationships, relative proportions of butchery marks, and
+burning patterns on bushﬁre-produced tortoises.
+Acknowledgements
+Sven Ouzman and Petro Keene at Iziko: South African Museums
+of Cape Town facilitated access to the BBC tortoise collection.
+Wilhelmina Seconna and Denise Hamerton provided daily access to
+the archaeological and modern collections, as well as laboratory
+space. Guy Thomas was an invaluable lab assistant. Simon van
+Noort provided access to the microscope used to take the photographs of surface modiﬁcation. The original manuscript beneﬁtted
+from the input of four anonymous reviewers. The museum research
+by JCT was funded by a University of Queensland postdoctoral
+research fellowship. Financial support for the BBC project was
+provided to CSH by a European Research Council Advanced Grant,
+TRACSYMBOLS No. 249587, awarded under the FP7 programme at
+the University of Bergen, Norway and by a National Research
+
+227
+
+Foundation/Department of Science and Technology funded Chair at
+the University of the Witwatersrand, South Africa.
+References
+Abe, Y., Marean, C.W., Nilssen, P.J., Stone, E.C., Assefa, Z., 2002. The analysis of
+cutmarks on archaeofauna: a review and critique of quantiﬁcation procedures,
+and a new image-analysis GIS approach. Am. Antiq. 67, 643e663.
+Avery, G., Kandel, A., Klein, R.G., Conard, N., Cruz-Uribe, K., 2004. Tortoises as food
+and taphonomic elements in palaeo landscapes. In: Brugal, J.-P., Desse, J. (Eds.),
+Petits Animaux et Societes Humaines. Du Complement Alimentaire aux
+Ressources Utilitaires, XXIVe rencontres internationales d’archéologie et
+d’histoire d’Antibes. Éditions APDCA, Antibes, pp. 147e161.
+Behrensmeyer, A.K., 1978. Taphonomic and ecologic information from bone
+weathering. Paleobiology 4, 150e162.
+Berry, J., Shine, R., 1980. Sexual size dimorphism and sexual selection in turtles
+(order testudines). Oecologia 44, 185e191.
+Bird, D.W., Bird, R.B., Codding, B.F., 2009. In pursuit of mobile prey: Martu hunting
+strategies and archaeofaunal interpretation. Am. Antiq. 74, 3e29.
+Blasco, R., 2008. Human consumption of tortoises at level IV of Bolomor Cave
+(Valencia, Spain). J. Archaeol. Sci. 35, 2839e2848.
+Blasco, R., Fernández Peris, J., 2012a. Small and large game: human use of diverse
+faunal resources at level IV of Bolomor Cave (Valencia, Spain). Comptes Rendus
+Palevol. 11, 265e282.
+Blasco, R., Fernández Peris, J., 2012b. A uniquely broad spectrum diet during the
+Middle Pleistocene at Bolomor Cave (Valencia, Spain). Quat. Int. 252, 16e31.
+Blumenschine, R.J., Marean, C.W., Capaldo, S.D., 1996. Blind tests on inter-analyst
+correspondence and accuracy in the identiﬁcation of cut marks, percussion
+marks, and carnivore tooth marks on bone surfaces. J. Archaeol. Sci. 23, 493e
+507.
+Boshoff, A.F., Palmer, N.G., Avery, G., Davies, R.A.G., Jarvis, M.J.F., 1991. Biogeograhical
+and topographical variation in the prey of the black eagle in the Cape Province,
+South Africa. Ostrich 62, 59e72.
+Boycott, R.C., Bourquin, O., 1988. The South African Tortoise Book. Southern Book
+Publishers, Johannesburg.
+Branch, W.R., 1984. Preliminary observations on the ecology of the angulate tortoise
+(Chersina angulata) in the eastern Cape Province, South Africa. Amphibia-reptilia 5, 43e55.
+Branch, W.R., Els, S.F., 1990. Predation on the angulate tortoise Chersina angulata by
+the kelp gull Larus dominicanus on Dassen Island, Western Cape. South Afr. J.
+Zool. 25, 235e237.
+Bright, J., Ugan, A., Hunsaker, L., 2002. The effect of handling time on subsistence
+technology. World Archaeol. 34, 164e181.
+Brooker, M.L., 1989. The Holocene sequence from Uniondale Rock Shelter in the
+eastern Cape. South Afr. Archaeol. Bull. Goodwin Ser. 6, 17e32.
+Coulson, I.M., Hailey, A., 2001. Low survival rate and high predation in the African
+hingeback tortoise Kinixys spekii. Afr. J. Ecol. 39, 383e392.
+Crawford, M.A., Gale, M.M., Woodford, M.H., Casped, N.M., 1970. Comparative
+studies on fatty acid composition of wild and domestic meats. Int. J. Biochem. 1,
+295e305.
+Crawford, M.A., Wang, Y., Lehane, C., Ghebremeskel, K., 2010. Fatty acid ratios in
+free-living and domestic animals. In: Watson, R.R., De Meester, F., Zibadi, S.
+(Eds.), Modern Dietary Fat Intakes in Disease Promotion. Humana Press, pp. 95e
+108.
+Cruz-Uribe, K., 1991. Distinguishing hyena from hominid bone accumulations.
+J. Field Archaeol. 18, 467e486.
+Cruz-Uribe, K., Schrire, C., 1991. Analysis of faunal remains from Oudepost I, an early
+Outpost of the Dutch east India Company, Cape Province. South Afr. Archaeol.
+Bull. 46, 92e106.
+d’Errico, F., Henshilwood, C., Vanhaeren, M., van Niekerk, K., 2005. Nassarius
+kraussianus shell beads from Blombos Cave: evidence for symbolic behaviour in
+the Middle Stone Age. J. Hum. Evol. 48, 3e24.
+d’Errico, F., Henshilwood, C.S., 2007. Additional evidence for bone technology in the
+southern African Middle Stone Age. J. Hum. Evol. 52, 142e163.
+Domínguez-Rodrigo, M., 2009. A new protocol to differentiate trampling marks
+from butchery cut marks. J. Archaeol. Sci. 36, 2643e2654.
+Dusseldorp, G.L., 2010. Prey choice during the South African Middle Stone Age:
+avoiding dangerous prey or maximising returns? Afr. Archaeol. Rev. 27, 107e
+133.
+Faith, J.T., 2008. Eland, buffalo, and wild pigs: were Middle Stone Age humans
+ineffective hunters? J. Hum. Evol. 55, 24e36.
+Faith, J.T., 2011. Late Quaternary Megafaunal Extinctions in Southern Africa’s Cape
+Floral Region. The George Washington University, Washington DC.
+Fry, C.H., Keith, S., Urban, E.K., 1988. Birds of Africa. Academic Press, London.
+Haacke, W.D., Kubierske, H., Ulber, T., Bates, M.F., Bourquin, O., Burger, M.,
+Hahndiek, Q., Haagner, G.V., Leslie, B.J., Broadley, D.G., De Villiers, A.L.,
+Morgan, D.R., Branch, W.R., Herholdt, J.J., 1993. Geographical distribution.
+J. Herpetol. Assoc. Afr. 42, 40e43.
+Henshilwood, C., 2012. Late Pleistocene techno-traditions in southern Africa: a
+review of the still Bay and Howiesons Poort, c. 75e59 ka. J. World Prehist. 25,
+205e237.
+Henshilwood, C.S., 2005. Stratigraphic integrity of the Middle Stone Age levels at
+Blombos cave. In: d’Errico, F., Backwell, L. (Eds.), From Tools to Symbols: From
+
+228
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+
+Early Hominids to Modern Humans. Witwatersrand University Press, Johannesburg, pp. 441e458.
+Henshilwood, C.S., 2008. Holocene Prehistory of the Southern Cape, South Africa:
+Excavations at Blombos Cave and the Blombosfontein Nature Reserve.
+Archaeopress, Oxford.
+Henshilwood, C.S., 2009. The origins of symbolism, spirituality & shamans:
+exploring Middle Stone Age material culture in South Africa. In: Renfrew, C.,
+Morley, I. (Eds.), Becoming Human: Innovation in Prehistoric Material and
+Spiritual Cultures. Cambridge University Press, Cambridge, pp. 29e49.
+Henshilwood, C.S., D’Errico, F., Marean, C.W., Milo, R.G., Yates, R.J., 2001a. An early
+bone tool industry from the Middle Stone Age, Blombos Cave, South Africa:
+implications for the origins of modern human behaviour, symbolism and language. J. Hum. Evol. 41, 631e678.
+Henshilwood, C.S., D’Errico, F., Vanhaeren, M., van Niekerk, K., Jacobs, Z., 2004.
+Middle Stone Age shell beads from South Africa. Science 304, 404.
+Henshilwood, C.S., d’Errico, F., Watts, I., 2009. Engraved ochres from the Middle
+stone age levels at Blombos cave, South Africa. J. Hum. Evol. 57, 27e47.
+Henshilwood, C.S., D’Errico, F., Yates, R., Jacobs, Z., Tribolo, C., Duller, G.A.T.,
+Mercier, N., Sealy, J.C., Valladas, H., Watts, I., Wintle, A.G., 2002. Emergence of
+modern human behavior: Middle Stone Age engravings from South Africa.
+Science 295, 1278e1280.
+Henshilwood, C.S., d’Errico, F., van Niekerk, K.L., Coquinot, Y., Jacobs, Z.,
+Lauritzen, S.-E., Menu, M., García-Moreno, R., 2011. A 100,000-Year-Old ochreprocessing workshop at Blombos cave, South Africa. Science 334, 219e222.
+Henshilwood, C.S., Sealy, J., 1997. Bone artefacts from the Middle stone age at
+Blombos cave, South Africa. Curr. Anthrop. 38, 890e895.
+Henshilwood, C.S., Sealy, J.C., Yates, R.J., Cruz-Uribe, K., Goldberg, P., Grine, F.E.,
+Klein, R.G., Poggenpoel, C., van Niekerk, K., Watts, I., 2001b. Blombos cave,
+southern Cape, South Africa: Preliminary report on the 1992e1999 excavations
+of the Middle Stone Age levels. J. Archaeol. Sci. 28, 421e448.
+Hill, R.A., 1999. Size-dependent tortoise predation by baboons at de Hoop Nature
+Reserve, South Africa. South Afr. J. Sci. 95, 123e124.
+Hofmeyr, M.D., 2009. Chersina angulata (Schweigger 1812) - angulate tortoise,
+South African bowsprit tortoise. In: Rhodin, A.G.J., Pritchard, P.C.H., van
+Dijk, P.P., Sumure, R.A., Buhlmann, K.A., Iverson, J.B., Mittermeier, R.A. (Eds.),
+Conservation Biology of Freshwater Turtles and Tortoises: a Compilation Project
+of the IUCN/SSC Tortoise and Freshwater. Turtle Specialist Group Chelonian
+Research Foundation, pp. 030.031e030.036.
+Inskeep, R.R., 1987. Nelson Bay Cave, Cape Province, South Africa: the Holocene
+Levels Part I & Part II. Archaeopress, Oxford.
+Iverson, J.B., 1982. Biomass in turtle populations: a neglected subject. Oecologia 55,
+69e76.
+Jacobs, Z., Duller, G.A.T., Wintle, A.G., 2003a. Optical dating of dune sand from
+Blombos Cave, South Africa: IIesingle grain data. J. Hum. Evol. 44, 613e625.
+Jacobs, Z., Duller, G.A.T., Wintle, A.G., Henshilwood, C.S., 2006. Extending the
+chronology of deposits at Blombos Cave, South Africa, back to 140 ka using
+optical dating of single and multiple grains of quartz. J. Hum. Evol. 51, 255e273.
+Jacobs, Z., Hayes, E.H., Roberts, R.G., Galbraith, R.F., Henshilwood, C.S., 2013. An
+improved OSL chronology for the Still Bay layers at Blombos Cave, South Africa:
+further tests of single-grain dating procedures and a re-evaluation of the timing
+of the Still Bay industry across southern Africa. J. Archaeol. Sci. 40, 579e594.
+Jacobs, Z., Wintle, A.G., Duller, G.A.T., 2003b. Optical dating of dune sand from
+Blombos Cave, South Africa: Iemultiple grain data. J. Hum. Evol. 44, 599e612.
+Jones, H.L., 2001. Electron Spin Resonance Dating of Tooth Enamel at Three Palaeolithic Sites. McMaster University, Ontario.
+Joshua, Q.I., Hofmeyr, M.D., Henen, B.T., 2010. Seasonal and site variation in angulate
+tortoise diet and activity. J. Herpetol. 44, 124e134.
+Kandel, A.W., Conard, N.J., 2012. Settlement patterns during the earlier and Middle
+stone age around Langebaan Lagoon, western Cape (South Africa). Quat. Int.
+270, 15e29.
+Keswick, T., Henen, B.T., Hofmeyr, M.D., 2006. Sexual disparity in activity patterns
+and time budgets of angulate tortoises (Chersina angulata) on Dassen Island,
+South Africa. Afr. Zool. 41, 224e233.
+Kienzle, E., Kopsch, G., Koelle, P., Clauss, M., 2006. Chemical composition of turtles
+and tortoises. J. Nutr. 136, 2053Se2054S.
+Klein, R.G., 1975. Paleoanthropological implications of the nonarchaeological bone
+assemblage from Swartklip 1, south-western Province, South Africa. Quat. Res.
+5, 275e288.
+Klein, R.G., Avery, G., Cruz-Uribe, K., Halkett, D., Hart, T., Milo, R.G., Volman, T.P.,
+1999. Duinefontein 2: an Acheulean site in the western Cape Province of South
+Africa. J. Hum. Evol. 37, 153e190.
+Klein, R.G., Avery, G., Cruz-Uribe, K., Halkett, D., Parkington, J.E., Steele, T.,
+Volman, T.P., Yates, R., 2004. The Ysterfontein 1 Middle stone age site, South
+Africa, and early human exploitation of coastal resources. Proc. Natl. Acad. Sci.
+U. S. A. 101, 5708e5715.
+Klein, R.G., Cruz-Uribe, K., 1983. Stone age population numbers and average tortoise
+size at Byneskranskop Cave 1 and Die Kelders Cave 1, Southern Cape Province,
+South Africa. S. Afr. Archaeol. Bull. 38, 26e30.
+Klein, R.G., Cruz-Uribe, K., 1987. Large mammal and tortoise bones from Eland’s Bay
+Cave and nearby sites, Western Cape Province, South Africa. In: Klein, R.G.,
+Cruz-Uribe, K., Parkington, J., Hall, M. (Eds.), Papers in the Prehistory of the
+Western Cape, South Africa, BAR International Series, Oxford, pp. 132e164.
+Klein, R.G., Cruz-Uribe, K., 1996. Exploitation of large bovids and seals at Middle and
+Later Stone Age sites in South Africa. J. Hum. Evol. 31, 315e334.
+
+Klein, R.G., Cruz-Uribe, K., 2000. Middle and Later stone age large mammal and
+tortoise remains from Die Kelders cave 1, western Cape Province, South Africa.
+J. Hum. Evol. 38, 169e196.
+Landt, M.J., 2007. Tooth marks and human consumption: ethnoarchaeological
+mastication research among foragers of the Central African Republic.
+J. Archaeol. Sci. 34, 1629e1640.
+Lapid, R.H., Nir, I., Robinzon, B., 2005. Growth and body composition in captive Testudo graeca terrestris fed with a high-energy diet. Appl. Herpetol. 2, 201e209.
+Lloveras, L., Moreno-García, M., Nadal, J., 2009. The eagle owl (Bubo bubo) as a
+leporid remains accumulator: taphonomic analysis of modern rabbit remains
+recovered from nests of this predator. Int. J. Osteoarchaeol. 19, 573e592.
+Lupo, K.D., Schmitt, D.N., 2005. Small prey hunting technology and zooarchaeological measures of taxonomic diversity and abundance: ethnoarchaeological
+evidence from Central African forest foragers. J. Anthrop. Archaeol. 24, 335e
+353.
+Lyman, R.L., 1994. Vertebrate Taphonomy. Cambridge University Press, New York.
+Lyman, R.L., 2008. Quantitative Paleozoology. Cambridge University Press, Cambridge/New York.
+Mann, G.K.H., O’Riain, M.J., Hofmeyr, M.D., 2006. Shaping up to ﬁght: sexual selection inﬂuences body shape and size in the ﬁghting tortoise (Chersina angulata). J. Zool. 269, 373e379.
+Marean, C.W., Abe, Y., Frey, C.J., Randall, R.C., 2000. Zooarchaeological and taphonomic analysis of the Die Kelders Cave 1 Layers 10 and 11 Middle Stone Age
+larger mammal fauna. J. Hum. Evol. 38, 197e233.
+Marean, C.W., Abe, Y., Nilssen, P.J., Stone, E.C., 2001. Estimating the minimum
+number of skeletal elements (MNE) in zooarchaeology: a review and a new
+image-analysis GIS approach. Am. Antiq. 66, 333e348.
+Marean, C.W., Bar-Matthews, M., Bernatchez, J., Fisher, E., Goldberg, P.,
+Herries, A.I.R., Jacobs, Z., Jerardino, A., Karkanas, P., Minichillo, T., Nilssen, P.J.,
+Thompson, E., Watts, I., Williams, H.M., 2007. Early human use of marine resources and pigment in South Africa during the Middle Pleistocene. Nature 449,
+905e908.
+Mourre, V., Villa, P., Henshilwood, C.S., 2010. Early use of pressure ﬂaking on lithic
+artifacts at Blombos Cave, South Africa. Science 330, 659e662.
+Pearse, A.S., Lepkovsky, S., Hintze, L., 1925. The growth and chemical composition of
+three species of turtles fed on rations of pure foods. J. Morphol. 41, 191e216.
+Peterhans, J.C.K., Singer, R., 2006. Taphonomy of a lair near the Peers (Or Skildegat)
+cave in ﬁsh Hoek, western Cape Province, South Africa. S. Afr. Archaeol. Bull. 61,
+2e18.
+Pickering, T.R., 2002. Reconsideration of criteria for differentiating faunal assemblages accumulated by hyenas and hominids. Int. J. Osteoarchaeol. 12, 127e141.
+Pickering, T.R., Wallis, J., 1997. Bone modiﬁcations resulting from captive chimpanzee mastication: implications for the interpretation of Pliocene archaeological faunas. J. Archaeol. Sci. 24, 1115e1127.
+Pond, C.M., 1978. Morphological aspects and the ecological and mechanical consequences of fat deposition in wild vertebrates. Annu. Rev. Ecol. Syst. 9, 519e
+570.
+Ramsay, S.L., Hofmeyr, M.D., Quinton, I.J., 2002. Activity patterns of the angulate
+tortoise (Chersina angulata) on Dassen Island, South Africa. J. Herpetol. 36, 161e
+169.
+Rector, A.L., Reed, K.E., 2010. Middle and late Pleistocene faunas of Pinnacle Point
+and their paleoecological implications. J. Hum. Evol. 59, 340e357.
+Reed, D.N., 2005. Taphonomic implications of roosting behavior and trophic habits
+in two species of African owl. J. Archaeol. Sci. 32, 1669e1676.
+Sampson, C.G., 2000. Taphonomy of tortoises deposited by birds and Bushmen.
+J. Archaeol. Sci. 27, 779e788.
+Sanders, W.J., Trapani, J., Mitani, J.C., 2003. Taphonomic aspects of crowned Hawkeagle predation on monkeys. J. Hum. Evol. 44, 87e105.
+Schapera, I., Farrington, B., 1933. The Early Cape Hottentots: Described in the
+Writings of Olfert Dapper (1668), Willem Ten Rhyne (1686) and Johannes
+Gulielmus de Grevenbroek (1695). Van Riebeeck Society, Cape Town.
+Schneider, J.S., Everson, G.D., 1989. The Desert tortoise (Xerobates agassizii) in the
+prehistory of the southwestern Great basin and adjacent areas. J. Calif. Great
+Basin Anthropol. 11, 175e202.
+Skinner, J.D., Louw, G.N., 1996. The springbok Antidorcas marsupialis (Zimmerman
+1780). Transvaal Museum Monogr. 10, 1e50.
+Speth, J.D., Tchernov, E., 2002. Middle Paleolithic tortoise use at Kebara cave (Israel).
+J. Archaeol. Sci. 29, 471e483.
+Steele, T.E., Klein, R.G., 2013. The Middle and Later stone age faunal remains from
+Diepkloof Rock Shelter, western Cape, South Africa. J. Archaeol. Sci. 40, 3453e
+3462.
+Steyn, P., 1884. Black eagles dropping tortoises. Promerops 162, 12.
+Stiner, M.C., Kuhn, S.L., Weiner, S., Bar-Yosef, O., 1995. Differential burning, recrystallization, and fragmentation of archaeological bone. J. Archaeol. Sci. 22, 223e
+237.
+Stiner, M.C., Munro, N.D., Surovell, T.A., 2000. The tortoise and the hare: small-game
+use, the broad-spectrum revolution, and Paleolithic demography. Curr. Anthrop.
+41, 39e73.
+Stiner, M.C., Munro, N.D., Surovell, T.A., Tchernov, E., Bar-Yosef, O., 1999. Paleolithic
+population growth pulses evidenced by small animal exploitation. Science 283,
+190e194.
+Stuart, C.L., Meakin, P.R., 1983. A note on the effect of ﬁre on a population of
+Angulate tortoises, Chersina angulata (Cryptodira: Testudinidae), with an estimate of biomass. J. Herpetol. Assoc. Afr. 29, 7e8.
+
+J.C. Thompson, C.S. Henshilwood / Journal of Archaeological Science 41 (2014) 214e229
+Thompson, J.C., 2005. The impact of post-depositional processes on bone surface
+modiﬁcation frequencies: a corrective strategy and its application to the
+Loiyangalani site, Serengeti Plain, Tanzania. J. Taphon. 3, 57e80.
+Thompson, J.C., 2010. Taphonomic analysis of the faunal assemblage from Pinnacle
+Point Cave 13B, Western Cape, South Africa. J. Hum. Evol. 59, 321e339.
+Thompson, J.C., Henshilwood, C.S., 2011. Taphonomic analysis of the Middle Stone
+Age larger mammal faunal assemblage from Blombos Cave, southern Cape,
+South Africa. J. Hum. Evol. 60, 746e767.
+Thompson, J.C., Henshilwood, C.S., 2013. Nutritional values of tortoises relative
+to ungulates from the Middle Stone Age levels at Blombos Cave, South
+Africa: implications for foraging and social behaviour. J. Hum. Evol. (in
+press).
+Tribolo, C., 2003. Apports des méthodes de la luminescence à la chronologie de
+techno-faciès du Middle Stone Age associés aux premiers Hommes modernes
+d’Afrique du Sud. Université Bordeaux-1, Bordeaux.
+Tribolo, C., Mercier, N., Selo, M., Valladas, H., Joron, J.-L., Reyss, J.-L.,
+Henshilwood, C.S., Sealy, J.C., Yates, R., 2006. TL dating of burnt lithics from
+Blombos Cave (South Africa): further evidence for the antiquity of modern
+human behavior. Archaeometry 48, 341e357.
+
+229
+
+Van Den Berg, P., Baard, E.H.W., 1994. Regional variation in morphometric characters in the angulate tortoise, Chersina angulata, from South Africa. J. Herpetol.
+Assoc. Afr. 43, 28e32.
+van Heezik, Y.M., Cooper, J., Seddon, P.J., 1994. Population characteristics and
+morphometrics of angulate tortoises on Dassen Island, South Africa. J. Herpetol.
+28, 447e453.
+van Zyl, L., Ferreira, A.V., 2004. Physical and chemical carcass composition of
+springbok (Antidorcas marsupialis), blesbok (Damaliscus dorcas phillipsi) and
+impala (Aepyceros melampus). Small Rumin. Res. 53, 103e109.
+Vanhaeren, M., d’Errico, F., van Niekerk, K.L., Henshilwood, C.S., Erasmus, R.M., 2013.
+Thinking strings: additional evidence for personal ornament use in the Middle
+Stone Age at Blombos Cave, South Africa. J. Hum. Evol. 64 (6), 500e517.
+Villa, P., Soressi, M., Henshilwood, C.S., Mourre, V., 2009. The still Bay points of
+Blombos cave (South Africa). J. Archaeol. Sci. 36, 441e460.
+White, T.D., 1992. Prehistoric Cannibalism at Mancos 5MTUMR-2346. Priceton
+University Press, Princeton.
+Wurz, S., 2012. The signiﬁcance of MIS 5 shell middens on the Cape coast: a
+lithic perspective from Klasies River and Ysterfontein 1. Quat. Int. 270,
+61e69.
+
+

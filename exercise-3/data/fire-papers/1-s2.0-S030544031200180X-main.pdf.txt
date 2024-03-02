@@ -1,0 +1,2126 @@
+Journal of Archaeological Science 39 (2012) 3071e3084
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Multi-method (TL and OSL), multi-material (quartz and ﬂint) dating of the
+Mousterian site of Roc de Marsal (Dordogne, France): correlating Neanderthal
+occupations with the climatic variability of MIS 5e3
+Guillaume Guérin a, i, *, Emmanuel Discamps b, Christelle Lahaye a, Norbert Mercier a, Pierre Guibert a,
+Alain Turq c, Harold L. Dibble d, e, f, Shannon P. McPherron e, Dennis Sandgathe d, g, Paul Goldberg h,
+Mayank Jain i, Kristina Thomsen i, Marylène Patou-Mathis j, Jean-Christophe Castel k,
+Marie-Cécile Soulier l
+a
+
+UMR 5060 CNRS-IRAMAT-CRP2A, Université Bordeaux 3, Maison de l’archéologie, 33607 Pessac Cedex, France
+UMR 5199-PACEA, CNRS/Université Bordeaux 1, Avenue des Facultés, 33405 Talence Cedex, France
+c
+Musée National de Préhistoire, Les Eyzies, PACEA, UMR 5199 du CNRS, France
+d
+Department of Anthropology, University of Pennsylvania, Philadelphia, USA
+e
+Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany
+f
+Institute for Human Origins, Arizona State University, USA
+g
+Human Evolution Studies Program and Department of Archaeology, Simon Fraser University, Burnaby, Canada
+h
+Department of Archaeology, Boston University, Boston, USA
+i
+Technical University of Denmark, Center for Nuclear Technologies, Risø Campus, Frederiksborgvej 399, 4000 Roskilde, Denmark
+j
+UMR 5198 du CNRS, Département de Préhistoire e Museum National d’Histoire Naturelle, Institut de Paléontologie Humaine, 1 rue René Panhard, 75013 Paris, France
+k
+Museum d’Histoire naturelle, route de Malagnon, CP 6434, 1211 Genève 6, Switzerland
+l
+Université Toulouse-Le Mirail, TRACES-UMR 5608, France
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 9 December 2011
+Received in revised form
+10 April 2012
+Accepted 11 April 2012
+
+Roc de Marsal has yielded numerous remains of Mousterian occupations, including lithics, fauna and
+combustion features. It was made famous by the discovery of the skeleton of a Neanderthal child. Given
+the need to date the sequence, TL and OSL were applied on heated ﬂints and quartz, and OSL on unheated
+quartz. Chronological results combined with palaeoenvironmental data e faunal remains and micromorphological features in the sediments from the cave, pollen proxies and faunal remains from the
+region e allowed us to place climate variations in southwest France on a numerical time scale.
+Denticulate Mousterian occupations were dated to the middle of MIS 4 (65e70 ka) and Quina layers
+either to the very end of MIS 4 or to MIS 3. Interestingly, a faunal pattern showing a mix of red deer, roe
+deer and reindeer was found to have occurred during MIS 4, which was shown to be consistent with data
+from other similar sites in southwest France.
+Ó 2012 Elsevier Ltd. All rights reserved.
+
+Keywords:
+TL
+OSL
+Middle Palaeolithic
+Climate variability
+Palaeoenvironments
+
+1. Introduction
+During the Marine Isotope Stages (MIS) 5e3, Neanderthals had
+to face dramatic changes in climatic and environmental
+conditions, well documented in ice-core 18O variations and
+marine-core pollen data, faunal remains from archaeological sites
+and geological signatures in sedimentary deposits. Lithic production also varied during the period spanning MIS 5e3 as seen in
+* Corresponding author. Radiation Research Division, Risø National Laboratory for
+Sustainable Energy, Technical University of Denmark, Frederiksborgvej 399,
+Building 201, DK-4000 Roskilde, Denmark.
+E-mail address: guillaumeguerin@ymail.com (G. Guérin).
+0305-4403/$ e see front matter Ó 2012 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2012.04.047
+
+variations in the technology of blank production and in changes in
+the emphasis of certain retouched tool categories. These variations
+have led to the creation of the Mousterian techno-complexes
+including Denticulate Mousterian, Typical Mousterian, Quina
+Mousterian, and Mousterian of Acheulian tradition, among others.
+Interplay between cultural and environmental changes has been at
+the centre of many debates in archaeology, including how environmental changes might have triggered innovations in cultural
+productions through demographic changes (e.g. Chase, 1986;
+Henrich, 2004; Stiner et Kuhn, 2006; Richerson et al., 2009) and
+how they impacted the selection of hunted prey by past hominins
+(e.g. Grayson et al., 2001; Grayson and Delpech, 2002; Discamps
+et al., 2011; Delagnes and Rendu, 2011). However, the scarcity of
+
+3072
+
+G. Guérin et al. / Journal of Archaeological Science 39 (2012) 3071e3084
+
+chronological data related to human occupations, essential for
+robust correlations between independent environmental and
+archaeological records, renders the interpretation of these variations difﬁcult, if not mainly limited to hypotheses.
+The Roc de Marsal sequence is one of the richest Mousterian
+sequences in southwest France and was made famous by the
+discovery of the skeleton of a Neanderthal child (Bordes and Laﬁlle,
+1962). This site documents changes in lithic production (Denticulate, Typical with a high Levallois index, and Quina Mousterian
+techno-complexes) associated with important climatic changes, as
+attested to by analyses of faunal remains and sedimentary deposits.
+Thus far, in terms of chronology, only qualitative interpretations
+relating fauna to MIS have been proposed e hence the need for
+numerical chronological data. The aim of this paper is to a) combine
+TL and OSL dating methods to determine a chronological scenario
+for the successive occupations of the cave; and b) discuss this
+scenario in the context of two different environmental proxies as
+provided by faunal remains from the cave and independent
+regional reconstructions based on palynological studies of marine
+sediment cores. A comparison with other Mousterian sites showing
+similarities in the region is also presented.
+2. Presentation of the site
+Roc de Marsal is a small cave located in southwest France
+(Campagne, Dordogne). It is situated in a south-facing karstic cliff
+approximately 80 m above a tributary valley of the Vézère River
+(Fig. 1). Inﬁlling sediments, lying on top of karstic bedrock, have
+yielded remains of human activity corresponding to Middle
+Palaeolithic, Upper Palaeolithic and ﬁnally medieval periods. A roof
+fall involving a number of massive calcareous blocks occurred at
+some point, presumably during an intense cold period, separating
+recent from Palaeolithic artefacts (Couchoud, 2003). This collapse
+of the roof seems to have occurred during the Middle Palaeolithic,
+
+since Mousterian artefacts have been found above the blocks. A
+plan view of the site is shown in Fig. 2.
+Excavations were carried out by an amateur, J. Laﬁlle, from 1953
+until 1971 (Bordes and Laﬁlle, 1962). Later a new series of
+campaigns were undertaken by some of the present authors,
+between 2004 and 2009, to re-explore the stratigraphy of the site
+and to re-assess the archaeological features of the Middle Palaeolithic occupations (Turq et al., 2008). A reappraisal of the stratigraphy led to the distinction of seven major lithostratigraphic units
+and 13 archaeological layers, over a total thickness of between 1
+and 2 m (Fig. 3). Excavations revealed a great number of ﬂint tools,
+cores and ﬂakes, as well as bones from a number of species
+including micro-fauna and large mammals. The site is particularly
+rich in combustion features (Goldberg et al., 2012; Aldeias et al.,
+2012), often found in a very good state of preservation. What has
+made the Roc de Marsal cave most famous is the discovery of a subcomplete skeleton of Neanderthal child (Bordes and Laﬁlle, 1962;
+Turq, 1989). The interpretation as a burial reﬂecting symbolism
+among Neanderthals, is, however, still discussed (Sandgathe et al.,
+2011a).
+The nature of the sediments and micromorphological features
+were studied by Couchoud (2003) and more recently by Golberg
+(2007). Layers 13e10, which yielded almost no anthropic remains
+e except for rubeﬁed lenses attesting to temporary human occupations (Couchoud, 2003) e are mainly composed of clayey silts
+and altered bedrock. Layers 9e5 constitute one lithostratigraphic
+unit made of interbedded ashy deposits and clayey silts and are
+very rich in anthropic remains. The anthropic deposits contain
+a number of combustion features, ﬂints and bones attesting to an
+important contribution to the deposits. Layers 4 and 3 also show
+a strong anthropic inﬂuence, but without combustion features;
+they exhibit clayey silts, aeolian deposition and limestone blocks
+from the cave walls and roof. Layer 2 is made of metric to plurimetric calcareous blocks corresponding to a massive collapse of
+
+Fig. 1. Regional map showing the location of the Roc de Marsal and other important Mousterian sites in Dordogne.
+
+G. Guérin et al. / Journal of Archaeological Science 39 (2012) 3071e3084
+
+3073
+
+Fig. 2. Map of the Roc de Marsal cave showing excavation grid, Laﬁlle’s excavated squares and the squares excavated during the current project.
+
+the roof. Ice segregation is particularly important in Layers 4e2,
+attesting to particularly cold climate conditions during or after
+deposition of these sediments (Couchoud, 2003; Golberg, 2007).
+Lithic production has been attributed to: Denticulate Mousterian (Layers 9, 8 and 7) with a high Levallois index and an emphasis
+on small ﬂake production similar to the so-called Asinipodian
+(Bordes, 1975; Dibble and McPherron, 2006) at Pech de l’Azé IV;
+
+Typical Mousterian (Layers 6 and 5) with a high percentage of
+scrapers and Levallois blank production; Quina Mousterian (Layers
+4, 3 and 2), based on the high percentage of scrapers, many of
+which are transverse scrapers with a heavy, Quina-type, invasive
+retouch. Layers 7 and 9 yielded numerous combustion features and
+a high percentage of burnt lithics (Sandgathe et al., 2011b). Finally,
+Layer 10 revealed very few lithics and faunal remains, whereas
+
+Fig. 3. Stratigraphic view of the Roc de Marsal sequence.
+
+3074
+
+G. Guérin et al. / Journal of Archaeological Science 39 (2012) 3071e3084
+
+Layers 11e13 contained no trace of human occupations e except for
+a few small lenses of rubeﬁed sediments.
+Zooarchaeological analyses point to a nearly exclusive human
+accumulation of the macrofaunal remains, with an abundance of cut
+marks and burnt bones coupled with a scarcity of traces of carnivore
+activity (Castel et al., 2007, in Sandgathe et al., 2007). For Layers 9e5
+the ungulate remains pattern is complex, since Rangifer tarandus
+remains are found in association with abundant Cervus elaphus
+(red deer) and Capreolus capreolus (roe deer) remains e taxa that
+are generally indicative of more temperate conditions. In Layers 4,
+3 and 2, ungulate remains potentially indicate a cold climate with
+the predominance of R. tarandus (reindeer), as is often the case in
+faunal assemblages associated with Quina industries (see
+Discamps et al., 2011, for a regional study). This climatic change is
+also perceptible in microfaunal analyses: Microtus arvalis (common
+vole), Arvicola terrestris (water vole), Microtus gregalis (narrowheaded vole), Chionomys nivalis (snow vole), Microtus malei (similar
+tundra vole) dominate Layers 4e2, whereas in the lower layers these
+species are associated with Microtus agrestis (ﬁeld vole), Eliomys
+quercinus (garden dormouse) and Microtus subterraneus (European
+pine vole). The fact that both macrofaunal and microfaunal
+analyses identify the same patterns strengthens the view that the
+changes in the hunted prey can indeed be correlated with climate
+changes and is not only due to deliberate changes in prey selection.
+The combination of faunal analysis and micromorphological
+studies at Roc de Marsal clearly indicate that the climate changed
+during the deposition of sediments with a change from more
+temperate climates at the base to colder conditions at the top of the
+sequence. As a consequence, thus far it has been hypothesised that
+the base of the sequence (Layers 9e5) corresponds to MIS 5, and the
+top of the sequence (Layers 4e2) to MIS 4. Whereas ESR dating of
+teeth is in progress (see Blackwell et al., 2007, in Sandgathe et al.,
+2007, for preliminary results), this paper is meant to test this
+hypothesis in the light of numerical chronology results, using TL
+and OSL dating methods.
+3. Luminescence dating: samples and methods
+3.1. Sampling strategy and sample treatment
+Given the importance of the archaeological record, it was
+decided to carry out TL and OSL dating studies on different materials. TL has been extensively used for the dating of burnt stones
+found in archaeological sites (e.g. Mercier et al., 1991, 1995a, 1995b,
+2007a; Mercier and Valladas, 2003; Tribolo et al., 2009). OSL has
+allowed indirect dating of human occupations by the dating of
+sediment deposition (e.g. Jacobs et al., 2008; Jacobs, 2010). In some
+sites the combination of both methods led to a detailed understanding of chronology (e.g. Mercier et al., 2003, 2007b). At Roc de
+Marsal the use of ﬁre in the cave resulted in well-preserved
+combustion features: for dating purposes heated sediments and
+heated ﬂints are directly related to human activities; indirect dating
+was undertaken by dating sediment deposition in the cave.
+The ﬁrst sampling took place in 2003, prior to the new excavations. A portion of the site was speciﬁcally excavated for luminescence dating purposes: two heated ﬂints (samples Bdx 9072 and
+9102) and three samples of heated sediments (Bdx 9054, 9090,
+9092) were found and a detailed gamma radioactivity reconstruction of their environment was performed (for details, see Section
+3.3.2). TL dating was performed on these samples. Later, 34 ﬂints
+showing signs of heating were collected during the new excavations for TL dating. Combustion features (n 5, 23, 24) from Layer 9
+were sampled and heated sediments (respectively Bdx 13397,
+13394, 13396) were studied by OSL to determine the age of
+combustion. Finally two stratigraphic sections, left intact at the end
+
+of the campaign in squares J16eJ17 (Bdx 13401e13407) and H17
+(Bdx 13408e13413, cf. Fig. 2), were sampled and sediments were
+studied by OSL to determine their age of deposition.
+The external part of the ﬂints was removed using a low speed
+water-cooled diamond saw in order to eliminate the part that was
+irradiated by alpha and beta particles from their environment. The
+inner part was then gently crushed to a grain size less than 160 mm.
+Sieving allowed isolating the 100e160 mm fraction that was treated
+with hydrochloric acid and rinsed with water, ethanol and acetone.
+Laser grain size analysis was performed on the sediment samples,
+and after sieving the dominant fraction (20e40 mm) was selected.
+Chemical treatments consisted of cleaning with HCl to remove
+carbonates, with H2O2 to eliminate organic materials and ﬁnally
+H2SiF6 for 3 days to remove feldspars. After rinsing with HCl to remove
+any precipitated ﬂuorides and sieving to eliminate the remaining
+feldspars partially etched by H2SiF6, the remaining quartz was
+mounted on stainless steel discs using silicone oil. Each quartz sample
+was checked for purity by an IRSL-test on three discs, and the samples
+exhibiting IRSL signals were treated again with H2SiF6 for 3 days.
+3.2. Equivalent dose determination
+3.2.1. TL
+The TL glow curves were obtained using a specially constructed
+TL apparatus and heating in N2 at a rate of 4  C s 1. The photomultiplier tube (EMI 9213 QKA) used for photon counting and a set
+composed of two Schott BG12 and one MTO Ta3 optical ﬁlters lead
+to a spectral window in the blue and UV region of TL. Beta irradiations were performed with a 90Sr/90Y beta source. Preliminary
+tests were performed to evaluate the past heating state of the ﬂints
+by checking whether the TL signal was saturated (Valladas, 1985):
+a comparison between natural and additive TL glow curves lead to
+20 ﬂints being rejected, leaving 16 ﬂints for the dating study.
+Fig. 4 shows TL glow curves of sample Bdx 13281, as well as
+natural and regenerated (after resetting at 350  C for 90 min)
+growth curves of TL signal as a function of dose. A multiple aliquot
+additive/regenerative dose protocol was applied, 4 aliquots being
+measured for each additive/regenerative point (e.g. Mercier et al.,
+2007a); the regenerated curves were used to evaluate the supralinearity of growth curves at low doses.
+3.2.2. OSL, single aliquots
+OSL measurements were performed with a Risø TL-Da 20
+automated reader (Bøtter-Jensen et al., 2000) equipped with blue
+LEDs and 7.5 mm of Hoya U-340 ﬁlter for the detection window, as
+well as a 90Sr/90Y beta source. A multi-grain single-aliquot and
+regenerative dose (SAR) protocol (Murray and Wintle, 2000, 2003;
+Wintle and Murray, 2006) was used. In addition to internal tests
+(recycling ratio and thermal transfer), dose recovery tests were
+performed for each sample. The ratios of obtained to expected dose
+were consistent with unity, at 2s. Linearly-Modulated OSL signals
+showed that for all the samples, the signal was dominated by the
+fast component (Bailey et al., 1997; Jain et al., 2003).
+For each sample, 30 aliquots (diameter: 1 mm) containing
+several thousand grains were measured. Fig. 5 shows the growth
+curve for sample Bdx 13396 and the radial plots of Equivalent Doses
+(ED). Recuperation ratios were all less than 5%, and aliquots that did
+not recycle within unity at 2s were rejected. Considering the
+number of grains on each disc, the expected distribution of EDs was
+Gaussian. Therefore, the weighted mean of all measured EDs was
+used to obtain an ED value for each sample.
+3.2.3. OSL, single grains
+One sediment sample (Bdx 13402) was studied using a Risø
+automated reader (Duller et al., 1999; Bøtter-Jensen et al., 2003)
+
+G. Guérin et al. / Journal of Archaeological Science 39 (2012) 3071e3084
+
+3075
+
+Fig. 5. Sediment sample 13396, 20e40 mm quartz grains: (a) dose response curve of
+one aliquot; the empty symbol corresponds to the natural signal and is interpolated on
+the regenerated growth curve (full symbols); (b) radial plot of the single aliquot
+equivalent doses. Overdispersion is equal to 3%.
+
+Fig. 4. Heated ﬂint sample Bdx 13281: (a) TL natural, additive (full symbols) and
+regenerated (empty symbols) glow curves; (b) growth curve of TL signal intensity as
+a function of dose (ﬁrst curve: black symbols; second curve: grey symbols). A preheat
+temperature of 320  C was maintained for 10 s, and the signal was not recorded during
+this time interval.
+
+study was used to derive effective uranium contents for all
+samples.
+The radioisotopic contents being signiﬁcantly lower in ﬂints,
+a fraction of each sample was sent to the Centre d’Analyse des Roches
+
+equipped with a 10 mW Nd:YVO4 solid-state diode-pumped
+laser emitting at 532 nm, with 7.5 mm of Hoya U-340 ﬁlter for
+the detection window, and a 90Sr/90Y beta source. Fig. 6 shows
+the radial plot of the ED distribution, determined on 113 grains
+(size: 180e220 mm) out of 2400, after application of the aforementioned rejection criteria. A supplementary criterion was
+applied: all grains showing a statistical uncertainty on their test
+dose signal lower than 20% were rejected. For this sample the
+Central Age Model (Galbraith et al., 1999) was used to determine
+the ED.
+3.3. Dose rate determination
+3.3.1. Alpha and beta dose rates
+High resolution gamma spectrometry measurements were
+performed on the sediment samples, using HP-Ge spectrometers
+(Guibert and Schvoerer, 1991). Potassium, uranium and thorium
+contents were determined, and a detailed study of disequilibria
+in the 238U series e involving alpha spectrometry e has already
+been published by some of the present authors (Guibert et al.,
+2009). The single-event enrichment model described in this
+
+Fig. 6. Radial plot of 113 single grain equivalent doses for sample Bdx 13402, after
+rejection of poorly suited grains (see criteria in the text). Overdispersion is equal
+to 44%.
+
+4.8
+7
+4
+71.7
+83.9
+71
+0.7
+0.7
+0.6
+84.6
+89.4
+75.2
+0.046
+0.070
+0.036
+
+4.1
+4.2
+4.2
+3.4
+5.7
+4.9
+77.6
+73.4
+74.8
+61.5
+91.4
+89.9
+1.0
+1.2
+0.8
+0.8
+1.1
+0.6
+90.1
+122.7
+108.5
+81.0
+97.0
+58.5
+
+74.7
+87.6
+75.8
+67.8
+77.1
+102.8
+105.2
+89.8
+3.0
+1.3
+3.2
+1.1
+1.0
+0.8
+0.8
+0.9
+97.7
+82.4
+62.6
+97.3
+102.9
+93.5
+93.4
+95.6
+0.020
+0.024
+0.023
+0.026
+0.045
+0.045
+0.028
+0.025
+
+0.023
+0.017
+0.028
+0.024
+0.032
+0.011
+
+s
+Age (ka)
+
+s
+ED (Gy)
+
+s
+)
+
+1.180
+1.066
+1.059
+0.001
+0.001
+0.001
+
+1.162
+1.672
+1.451
+1.316
+1.062
+0.650
+0.001
+0.001
+0.001
+0.001
+0.001
+0.001
+
+0.001
+0.005
+0
+0.002
+0.001
+0.002
+0.002
+0.001
+
+1.309
+0.940
+0.826
+1.434
+1.334
+0.909
+0.888
+1.065
+
+1
+
+Total dose
+rate (Gy ka
+
+s
+)
+
+0.150
+0.115
+0.098
+0.012
+0.008
+0.008
+
+0.083
+0.155
+0.128
+0.128
+0.100
+0.053
+0.007
+0.011
+0.009
+0.009
+0.010
+0.006
+
+0.009
+0.007
+0.007
+0.014
+0.009
+0.011
+0.011
+0.012
+
+0.122
+0.069
+0
+0.137
+0.142
+0.096
+0.106
+0.136
+
+1
+
+Alpha dose
+rate (Gy ka
+
+s
+)
+
+0.656
+0.489
+0.493
+0.11
+0.11
+0.16
+0.044
+0.070
+0.035
+0.264
+0.352
+0.308
+0.11
+0.11
+0.08
+9.64
+7.15
+6.28
+a
+
+b
+
+Disequilibrium in U series is taken into account.
+SG: Single Grain.
+
+0.03
+0.03
+0.03
+0.018
+0.110
+0.016
+0.401
+0.279
+0.360
+
+1.70
+1.38
+1.12
+
+0.469
+0.923
+0.705
+0.620
+0.503
+0.252
+0.16
+0.16
+0.16
+0.16
+0.16
+0.16
+0.022
+0.013
+0.026
+0.022
+0.030
+0.009
+0.45
+0.434
+0.458
+0.408
+0.299
+0.185
+0.08
+0.11
+0.10
+0.11
+0.08
+0.07
+4.62
+9.42
+7.75
+7.40
+6.11
+2.79
+0.02
+0.03
+0.03
+0.03
+0.03
+0.02
+0.010
+0.015
+0.012
+0.013
+0.015
+0.008
+0.364
+0.780
+0.551
+0.410
+0.361
+0.154
+
+1.19
+1.93
+1.62
+1.74
+1.23
+0.82
+
+0.743
+0.418
+0.373
+0.795
+0.818
+0.527
+0.518
+0.665
+0.11
+0.11
+0.11
+0.11
+0.11
+0.11
+0.11
+0.11
+0.018
+0.022
+0.022
+0.022
+0.044
+0.044
+0.026
+0.022
+0.334
+0.343
+0.343
+0.392
+0.264
+0.176
+0.154
+0.154
+0.10
+0.07
+0.07
+0.01
+0.01
+0.12
+0.12
+0.09
+7.19
+3.89
+3.89
+7.65
+8.96
+5.89
+6.19
+8.04
+0.03
+0.01
+0.01
+0.04
+0.03
+0.03
+0.04
+0.03
+1.62
+0.98
+0.98
+1.96
+1.68
+1.19
+1.40
+1.77
+0.013
+0.010
+0.010
+0.020
+0.013
+0.015
+0.015
+0.017
+0.628
+0.347
+0.347
+0.634
+0.677
+0.413
+0.352
+0.454
+
+s
+
+Effective
+U (ppm)a
+
+s
+
+Th (ppm)
+
+s
+
+Gamma dose
+rate (Gy ka 1)
+
+s
+
+Cosmic dose
+rate (Gy ka 1)
+
+Beta dose
+rate (Gy ka
+
+1
+
+Square J16eJ17
+13401
+2
+13402
+4
+4
+13402, SGb
+13403
+4
+13404
+5
+13405
+6
+13406
+7
+13407
+8
+Square H17
+13408
+3
+13409
+4
+13410
+5
+13411
+7
+13412
+8
+13413
+9
+Combustion features
+13394 (CF #23) 9
+13396 (CF #24) 9
+13397 (CF #5)
+9
+
+For each sample, K, effective U (i.e. taking the disequilibrium
+state into account) and Th contents, as well as the different
+contributions to dose rates, equivalent doses and corresponding
+ages, are given in Table 1 (OSL ages) and Table 2 (TL ages). Fig. 8
+shows these ages as a function of archaeological layers. The ﬁrst
+observation is that the interpretation of the results is not
+straightforward: TL and OSL chronological sequences do not seem
+compatible. A critical discussion of the ages is, therefore, necessary to evaluate the relevance of these ages to the chronology of
+Neanderthal occupations at Roc de Marsal.
+
+K (%)
+
+4. Discussion of the ages
+
+Layer
+
+3.3.2. Gamma and cosmic dose rates
+Radioisotopic contents for the sediments samples exhibited
+a high variability (cf. Table 1): relative standard deviations are
+respectively 36%, 25% and 30% for potassium, uranium and
+thorium. Sediment samples situated 20 cm from each other
+sometimes show variations in radioisotopic contents by a factor
+between 2 and 3. The range of gamma rays being of several tens of
+centimetres, conversion of K, U and Th in gamma dose rates
+seemed fraught with hazard.
+As a consequence, direct measurements of gamma dose rates
+were performed by inserting 25 dosimeters in the sediments. Ten
+were placed in the sediments in 2003, before the start of the
+excavation process. Then in 2009, 15 additional dosimeters were
+placed at the location of the sediment samples taken from squares
+H17 and J16eJ17. Fig. 7 shows the corresponding gamma dose rate
+values. Variations can be explained by the proﬁle of the sections in
+which the dosimeters were inserted: sediments are sandwiched
+between the bedrock and a layer of blocks that fell from the roof.
+Gamma dose rates are, therefore, particularly variable close to the
+interfaces between sediments and calcareous rocks.
+These variations were anticipated at the time of the sampling
+campaign in 2003. To overcome this source of potentially important uncertainties, an excavation was undertaken to record,
+localize and weigh every piece of rock of dimensions greater than
+5 cm, whose radioisotopic contents were determined by high
+resolution gamma spectrometry. Sediment samples were also
+regularly collected around the dated objects (ﬂints Bdx 9072 and
+9102, sediments samples Bdx 9054, 9090 and 9092) for a reconstruction of their gamma dose rate environment, according to the
+methodology published by Guibert et al. (1998). Details regarding
+this speciﬁc reconstruction process have been described by
+Guibert et al., 2007, in Sandgathe et al. (2007).
+Finally cosmic dose rates were measured by in-situ gamma
+spectrometry, by recording the total dose rate deposited in the
+3e11 MeV energy range of a NaI (2 inches by 2 inches) portable
+gamma spectrometer, with a similar approach as what was
+described by Løvborg et al. (1979) and Prescott and Hutton (1988).
+
+Sample
+
+et Minéraux (Nancy, France). Potassium content was determined
+by Inductively Coupled Plasma Optical Emission Spectrometry,
+and uranium and thorium contents by Inductively Coupled
+Plasma Mass Spectrometry.
+These radioisotopic contents were then converted in dose
+rates using the conversion factors from Guérin et al. (2011). Alpha
+sensitivity of burnt ﬂints was measured for each sample, using
+a 241Am source. For quartz, an alpha sensitivity of 5 mGy/
+103 alpha/cm2 was assumed (Tribolo et al., 2001). Attenuation
+factors of Mejdahl (1979) and Brennan et al. (1991) were used for
+the calculation of the beta and alpha dose rates, respectively. The
+water content was measured at the time of sampling, and it was
+assumed that this value (12.5%) prevailed during the burial
+time.
+
+4.6
+4.5
+5.6
+3.9
+5.1
+7.7
+6.8
+5.9
+
+G. Guérin et al. / Journal of Archaeological Science 39 (2012) 3071e3084
+
+Table 1
+OSL ages determined for sediments samples from the Roc de Marsal. Unheated sediments were taken from stratigraphic sections in squares H17 and J16eJ17; heated sediments were taken from combustion features.
+
+3076
+
+Sample
+
+Layer
+
+K (%)
+
+Flints
+13269
+4
+0.058
+13272
+4
+0.075
+13281
+7
+0.066
+13283
+7
+0.066
+13286
+8
+0.050
+13288
+8
+0.091
+13295
+9
+0.058
+13297
+9
+0.075
+13414
+9
+0.066
+13415
+9
+0.050
+13418
+9
+0.033
+13421
+9
+0.058
+13430
+9
+0.033
+9072
+9
+0.062
+9102
+9
+0.040
+Heated sediments
+9054
+11
+0.284
+9090
+11
+0.282
+9092
+11
+0.283
+
+s
+
+Effective
+U (ppm)
+
+s
+
+Th
+(ppm)
+
+s
+
+0.012
+0.015
+0.013
+0.013
+0.010
+0.018
+0.012
+0.015
+0.013
+0.010
+0.007
+0.012
+0.007
+0.006
+0.007
+
+0.56
+1.21
+1.40
+1.07
+0.87
+0.91
+1.16
+0.52
+0.81
+0.83
+1.09
+1.50
+0.79
+1.26
+1.11
+
+0.007
+0.007
+0.007
+
+1.06
+1.12
+1.29
+
+Gamma dose
+rate (Gy ka 1)
+
+s
+
+0.03
+0.06
+0.07
+0.05
+0.04
+0.05
+0.06
+0.03
+0.04
+0.04
+0.05
+0.08
+0.04
+0.03
+0.03
+
+0.46
+0.50
+0.33
+0.53
+0.29
+0.27
+0.45
+0.60
+0.29
+0.25
+0.13
+0.44
+0.25
+0.33
+0.21
+
+0.05
+0.05
+0.03
+0.05
+0.03
+0.03
+0.05
+0.06
+0.03
+0.03
+0.01
+0.04
+0.03
+0.07
+0.07
+
+0.507
+0.527
+0.411
+0.409
+0.424
+0.408
+0.376
+0.373
+0.341
+0.34
+0.341
+0.386
+0.348
+0.387
+0.297
+
+0.15
+0.17
+0.19
+
+8.37
+7.62
+6.86
+
+0.09
+0.08
+0.08
+
+0.321
+0.317
+0.321
+
+s
+
+s
+
+Cosmic dose
+rate (Gy ka 1)
+
+Beta dose
+rate (Gy ka
+
+0.025
+0.033
+0.050
+0.050
+0.051
+0.033
+0.033
+0.042
+0.067
+0.067
+0.067
+0.067
+0.042
+0.011
+0.013
+
+0.11
+0.11
+0.11
+0.11
+0.11
+0.11
+0.11
+0.11
+0.11
+0.11
+0.11
+0.11
+0.11
+0.11
+0.11
+
+0.141
+0.250
+0.267
+0.224
+0.174
+0.214
+0.228
+0.152
+0.179
+0.167
+0.189
+0.277
+0.148
+0.266
+0.209
+
+0.010
+0.015
+0.015
+0.013
+0.010
+0.016
+0.013
+0.012
+0.012
+0.010
+0.010
+0.015
+0.008
+0.007
+0.008
+
+0.094
+0.127
+0.125
+0.099
+0.068
+0.103
+0.105
+0.109
+0.083
+0.053
+0.075
+0.192
+0.079
+0.258
+0.164
+
+0.004
+0.006
+0.006
+0.005
+0.003
+0.005
+0.005
+0.003
+0.004
+0.002
+0.004
+0.009
+0.004
+0.022
+0.01
+
+0.013
+0.013
+0.013
+
+0.11
+0.11
+0.11
+
+0.464
+0.458
+0.456
+
+0.020
+0.020
+0.019
+
+0.028
+0.037
+0.033
+
+0.003
+0.004
+0.004
+
+1
+
+)
+
+Alpha dose
+rate (Gy ka
+
+1
+
+)
+
+s
+
+ED (Gy)
+
+s
+
+Age (ka)
+
+s
+
+0.852
+1.014
+0.913
+0.842
+0.776
+0.835
+0.819
+0.744
+0.713
+0.670
+0.715
+0.965
+0.685
+1.021
+0.780
+
+0.027
+0.037
+0.053
+0.052
+0.052
+0.037
+0.036
+0.044
+0.068
+0.068
+0.068
+0.069
+0.043
+0.026
+0.018
+
+38.7
+61.9
+68.2
+52.9
+50.5
+56.9
+48.9
+41.1
+51.9
+46.0
+52.8
+60.8
+36.9
+65.3
+51.4
+
+2.6
+6.8
+3.1
+2.1
+2.1
+3.0
+5.4
+3.0
+2.6
+2.4
+4.4
+4.0
+4.5
+5.4
+2.2
+
+45.4
+61
+74.8
+62.8
+65
+68.2
+59.7
+55.2
+72.9
+59.6
+73.8
+63
+53.8
+66.1
+68
+
+3.5
+6.8
+6.2
+5.2
+6.1
+5.2
+6.9
+4.2
+8.3
+7.3
+9.4
+6.4
+7.0
+5.9
+3.8
+
+0.923
+0.922
+0.920
+
+0.024
+0.024
+0.023
+
+70.9
+80.2
+74.2
+
+3.3
+3.4
+3.7
+
+77.4
+86.7
+81.4
+
+4.8
+5.2
+5
+
+Total dose
+rate (Gy ka
+
+1
+
+)
+
+G. Guérin et al. / Journal of Archaeological Science 39 (2012) 3071e3084
+
+Fig. 7. Gamma dose rates measured in-situ, using aluminium oxide dosimeters
+inserted in the sections of the site: a) square H17 and b) square J16eJ17.
+
+4.1. Resetting of luminescence signals
+
+Depending on the nature of the dating objects, two mechanisms are to be considered: for heated sediments and ﬂints,
+luminescence signals (TL and OSL) are reset by the heating itself,
+whereas in the case of unheated sediments exposure to sunlight is
+responsible for zeroing the OSL signal. In the ﬁrst case, TL plateau
+tests were performed to check whether the heating was sufﬁcient
+for a total resetting of the signal; only the samples passing this test
+were dated. In the second case, no such test exists and one cannot
+rule out the possibility of partial bleaching of the OSL signal for
+unheated sediments. At Roc de Marsal sediments are in general
+poorly sorted, and the majority are not of aeolian origin. A
+hypothesis for the inﬁlling mechanisms is that sediments would
+have been deposited through mudﬂows, in which case exposure
+to sunlight may have been insufﬁcient to fully reset the OSL signal
+at deposition time. Even more problematic is the in-situ alteration
+of the bedrock, which contains quartz meaning that quartz grains
+in the sediments might never have been exposed to sunlight.
+
+4.2. Heterogeneities in dosimetry
+
+Two scales of heterogeneities are to be considered in this
+study: the range of gamma rays is of several tens of cm, whereas
+the range of beta particles is of a few mm.
+
+Table 2
+TL ages determined for samples from the Roc de Marsal. Burnt ﬂints were taken during the excavation; heated sediments were taken from a rubeﬁed layer of sediment from Laﬁlle’s Layer B (here noted Layer 11, although it could
+be Layer 12).
+
+3077
+
+3078
+
+G. Guérin et al. / Journal of Archaeological Science 39 (2012) 3071e3084
+
+Fig. 8. Summary of luminescence ages from the Roc de Marsal. Full black symbols:
+heated materials; full squares: TL on heated ﬂints for which gamma reconstruction was
+performed; full circles: TL on other heated ﬂints; full downwards-pointing triangles: TL
+on heated quartz for which gamma environments were reconstructed; full upwardspointing triangles: OSL on heated sediments. Empty symbols: OSL on sediments
+taken from stratigraphic sections, more precisely circles: section from square H17;
+squares: section from square J16eJ17; stars correspond to ages determined for sample
+Bdx 13402, section J16eJ17 (empty: single aliquots; full grey: single grain).
+
+4.2.1. Gamma dose rates to heated samples
+According to the nature of the dated samples, two different
+situations occurred regarding gamma dose rate determination. The
+location of objects related to human activity, such as heated ﬂints or
+combustion features, is unknown before excavations. Hence for
+these samples gamma dose rate measurements could not be performed at their burial location. Given the high variability of gamma
+dose rates at Roc de Marsal, especially for top and bottom Layers e
+which are close to uneven surfaces such as calcareous bedrock or
+blocks from the roof fall e one can expect relatively high uncertainties on gamma dose rates received by dated samples. Indeed for
+burnt ﬂints and sediments from combustion features, gamma dose
+rates were estimated using distant measurements. Notable exceptions are the ﬂints Bdx 9072 and 9102, as well as heated sediments
+Bdx 9054, 9090 and 9092 for which the environment radioactivity
+was reconstructed (Section 3.3.2). Alternatively, for the sediment
+samples from the sections in squares H17 and J16eJ17, dosimeters
+were inserted at the location of sampling.
+4.2.2. Beta dose rates to sedimentary quartz grains
+In the case of sediment samples, beta dose rates have been
+deduced from the radioisotopic contents of the samples themselves. Sediment composition is locally variable and consists of
+calcium carbonate (both limestone, ashes and some secondary
+carbonates), phosphates, quartz silt, clay, sand, bones, and lithics in
+variable quantities; radioisotopic contents are highly variable in
+such different materials. As a consequence beta dose rate to quartz
+is difﬁcult to measure. During sample preparation for gamma
+spectrometry, large elements (>1 cm) were removed before the
+ﬁne fractions were crushed to homogenize the samples, since the
+20e40 mm quartz grains are part of the ﬁne sediments. However,
+this precaution may not be sufﬁcient, since even removing the large
+elements does not solve the mm scale heterogeneity problem.
+To tackle such heterogeneities at the mm scale, three slices of
+impregnated sediment samples were analysed with imaging plates
+showing the distribution of radioelements (Fig. 9) e following the
+approach of Rufer and Preusser (2009). These imaging plates
+mostly characterize beta radiations, which account for between 45
+and 65% of the total dose rate received by sedimentary quartz
+grains. At this stage, only qualitative statements can be made:
+Monte Carlo simulations of particleematter interactions might
+
+allow quantifying microdosimetry effects, but this goes beyond the
+scope of this study. Sample PG-401 (Fig. 9a) encompasses Layers 7
+and 8 in square H 18. On the top part of this sample one can see
+a dark layer, very rich in charcoal, which is associated with
+combustion feature 16. The autoradiograph of this sample shows
+several features: low radioactivity layers are noted for a calcareous
+block (on the right) and a bean shaped brown loose patch in the
+centre of the sample. Moreover the part rich in charcoal (top of the
+photos) appears in lighter grey than the rest of the autoradiograph
+e which reveals lower radioisotopic contents. More generally, one
+can identify a great number of radioactive hotspots e possibly
+potassium feldspars or heavy minerals such as zircons, monazites,
+etc. The effect of these hotspots is that dose rate distributions for
+single quartz grains are very complex, and that determination of
+beta dose rates to quartz grains by conversion of radioisotopic
+contents may induce errors. Indeed whether the quartz grains are
+close or distant to hotspots e the range of beta particles being
+1e2 mm, i.e. lower than typical distances between hotspots e will
+greatly affect the dose rate they received during burial. Sample PG413 (Fig. 9b) comes from Layer 9 (and 10 at the bottom) and shows
+an ash layer from combustion feature 18. It exhibits even more
+complex patterns: sub-horizontal layers of different radioactivity
+layers are visible; moreover hotspots also appear clearly, and the
+distance between them is greater than for sample PG-401. This
+means that quartz grains have a lower probability of having been
+buried close to one of them e beta dose rate seems, therefore, even
+more hazardous. Finally, sample PG-414 (Fig. 9c) comes from
+square N16 (Layers F-3 and F-4) and shows a distribution of hotspots: most grains on the exposed surface are at least 2 mm away
+from closest hotspots e therefore, the radioisotopic contents,
+measured in the samples using gamma spectrometry, might not be
+the relevant physical quantities to derive beta dose rates to quartz
+grains.
+Unfortunately, these samples for beta dose rate mapping were
+not the same as dated sediments e hence the conclusions of this
+study only have a qualitative, general signiﬁcance. Nonetheless, all
+samples exhibit hotspots, and one may assume that the combustion
+features, since they all present the same kind of features
+throughout the site, have similar characteristics as sample PG-413,
+taken from combustion feature 18. Further studies should associate
+OSL studies and microdosimetry characterization to exploit the full
+advantages of such analysis combinations.
+4.3. Hypothesis for the chronology
+4.3.1. Different materials, different stories
+If one tries to summarize the potential problems affecting the
+different ages shown in Fig. 8, three situations occur, based on
+different parameters/effects that could affect the dating study,
+namely microdosimetry heterogeneities, luminescence signal
+resetting and gamma dose rate determination.
+First, OSL ages determined on unheated sediment samples
+(empty symbols in Fig. 8) may be affected by:
+ Possible partial luminescence signal resetting e or even inexistent resetting if quartz grains are the result of in-situ bedrock
+decomposition.
+ Microdosimetry effects, which are a consequence of the
+complex, heterogeneous radioelement distributions as shown
+in Fig. 9. Important over-dispersion in equivalent dose distributions are, therefore, expected because of both signal resetting problems and microdosimetry effects.
+ However, for these samples, gamma dose rates were measured
+at sampling location, and it was assumed that these dose rates
+were representative of those during burial.
+
+G. Guérin et al. / Journal of Archaeological Science 39 (2012) 3071e3084
+
+3079
+
+Fig. 9. Scan of beta emissions (on the right) of corresponding impregnated sediments samples (a: sample PG-401; b: PG-413; c: PG-414) from the Roc de Marsal (photographs in
+natural light on the right). A great number of hotspots can be identiﬁed, as well as distinct layers in the case of the sample PG-413 (b).
+
+It should be noted that single grain analysis provides a way of
+looking into the two ﬁrst problems. For this reason the sample Bdx
+13402 (quartz grains in the 180e250 mm fraction) was studied with
+a single grain reader (grey star symbol, Fig. 8). Two different
+components, such as those observed by Tribolo et al. (2010) and
+that were interpreted as the sign of post-depositional mixing of
+grains, could not be isolated. Application of the Central Age Model
+on single grain data for sample Bdx 13402 gave an age of
+75.8  5.8 ka, whereas for the same sample the age determined on
+single aliquots was 87.6  4.5 ka. This important difference and the
+over-dispersion of single grain EDs (44%) conﬁrm that this sample
+has a complex dosimetry history; however, at this stage one cannot
+determine if this over-dispersion is due to partial bleaching at the
+time of deposition, to microdosimetry heterogeneities, to different
+sedimentary histories of the ﬁne and coarse grains fractions, or to
+a combination of these effects e and in the latter case, what fraction
+
+of the over-dispersion is due to which cause. Since the effects of
+these potential effects could not be quantiﬁed at this stage, no
+further modelling was performed, all the more since Thomsen et al.
+(in press) recently reported a dose dependency of the overdispersion of quartz OSL equivalent doses in gamma dosed
+samples.
+For OSL and TL ages on heated sediments (respectively upwardspointing full triangles, Layer 9, and downwards-pointing full
+triangles, Layer 11, in Figs. 8 and 10):
+ Luminescence signal resetting is assumed, since careful excavation of the combustion features was performed under
+subdued light laboratory conditions.
+ Microdosimetry effects seem even worse in this case, as
+attested by the autoradiographs obtained in such cases (Fig. 9a
+and b). Despite the precautions taken for small scale sampling
+
+3080
+
+G. Guérin et al. / Journal of Archaeological Science 39 (2012) 3071e3084
+
+calculate a mean maximum age for the heated samples from Layer 9. If
+one assumes a gamma dose rate of 0.25 Gy ka 1 for all these samples
+(which is the lowest possible value for gamma dose rates in the
+sediments directly atop the bedrock), the average of age for Layer 9 is
+74 ka, which means that this layer cannot be attributed to MIS 5.
+
+Fig. 10. Interpretative summary of luminescence ages determined on heated samples.
+12 of the 15 ages for the part of the sequence composed of Layers 7, 8 and 9 fall within
+MIS 4. Previous occupations, not related to lithics but attested by heated sediments, are
+attributed to MIS 5. The chronological position of the Quina layers is less documented
+and could be attributed to the end of MIS 4 (Heinrich event 6?) or to MIS 3. For the
+symbols signiﬁcance, see Fig. 7.
+
+of the combustion features, one cannot rule out the possibility
+that layers of different radioisotopic contents were sampled for
+gamma spectrometry e which requires approx. 10 g of
+sediments.
+ For these samples, whose location was unknown before excavation, there is potential inadequacy between measured
+gamma dose rates and gamma dose rates actually received by
+the samples.
+Finally for the burnt ﬂints dated by TL (other full symbols in
+Figs. 8 and 9):
+ Luminescence signal resetting was tested using the plateau test
+e samples failing this test were rejected.
+ Flints are homogeneous in terms of radioelement distribution
+on a mm scale (e.g. Selo et al., 2009).
+ There is potential inadequacy between measured gamma dose
+rates and gamma dose rates actually received by the samples,
+as for heated sediments.
+This latter point probably explains the important dispersion on
+ages measured for artefacts from Layer 9. Even though these 11
+samples (heated sediments and ﬂints) are far from being statistically sufﬁcient for a satisfactory detailed analysis, one can assume
+that average gamma dose rates are well estimated, and that the
+spread of ages is due to statistical errors. Going further, given the
+limited thickness of this layer (approx. 10 cm) and its homogeneity
+in terms of materials, one can formulate the hypothesis that the
+material deposition corresponding to these occupations occurred
+during a time period that is small compared to the uncertainties of
+individual ages (6 ka in average for individual s). If this hypothesis
+was veriﬁed e which unfortunately cannot be proven or disproven
+e then the average of ages would allow the statistical errors on
+gamma dose rates to be accounted for. In such a case, 67  2 ka
+(uncertainty is given as the standard error on mean) corresponds to
+the age of Layer 9, at the base of the sequence, when considering
+ages for heated ﬂints and quartz from combustion features. This
+average would become 64  2 ka when considering only burnt
+ﬂints, which are not affected by microdosimetry effects.
+Despite a potential inadequate gamma dose rate for these
+samples, the 25 dosimeters e which were inserted in the sediments e
+provide a range for possible gamma dose rates. One can, therefore,
+
+4.3.2. Interpretative summary of the ages
+Now that three subsets of ages can be distinguished based on
+their physical properties (heated quartz, heated ﬂints, and
+unheated quartz), one can try and look at these three subsets on
+a wider scale. Ages on unheated material exhibit stratigraphic
+inversions: the determined ages for Layers 8 and 9 (Bdx 13407:
+89.8  5.9 ka, 13412: 91.4  5.7 ka, 13413: 89.9  4.9) are younger
+than for Layers 6 and 7 (Bdx 13405: 102.8  7.7 ka and 13406:
+105.2  6.8 ka). The age determined for the sediment sample Bdx
+13411 (Layer 7, age: 61.5  3.4 ka) is clearly incompatible with all
+these ages. Therefore, it seems that unheated material does not
+provide a set of coherent ages at Roc de Marsal. Even single grain
+analysis does not provide a means of overcoming these stratigraphic inversions: the age of Bdx 13402 (Layer 4, age:
+75.8  5.8 ka), determined on single grains, is still inconsistent at 1s
+(and barely consistent at 2s) with the single aliquots age of sample
+Bdx 13411 (Layer 7, age: 61.5  3.4 ka).
+When considering the heated samples e dated either by TL or
+OSL e the sequence, despite the blurring effect owing to gamma
+dose rate inaccurate measurements, is coherent. Layers 7, 8 and 9
+correspond to the same period, i.e. 65e69 ka (one sigma interval).
+12 of the 15 ages determined on heated samples from these layers
+are in MIS 4. Upper layers yielded much less heated material, only
+Layer 4 provided two ages: 45.4  3.5 for Bdx 13269 and 61.0  6.8
+for Bdx 13272.
+Finally, ﬁve samples are particular in this study: the heated ﬂints
+from Layer 9 (full squares in Figs. 8 and 10) Bdx 9072 (66.1  5.9 ka)
+and 9102 (68  3.8 ka) do not suffer from a potentially problematic
+gamma dose rate determination, since their radiation ﬁeld environment was reconstructed. These samples, therefore, constitute
+the only examples for which there is no question regarding either
+signal resetting, microdosimetry effects or potentially problematic
+gamma dose rate determination. It is striking to see that these ages
+lie at the centre of the distribution of ages for Layer 9, which
+supports the interpretation of the spread in ages, for heated
+materials from Layer 9, as the result of statistical errors on gamma
+dose rates. We, therefore, consider these ages as the marker for this
+chronological study, all the more since the ages for the rest of
+heated materials are intrinsically coherent. The other three samples
+for which gamma reconstruction was performed are the heated
+sediments (full downwards-pointing triangles in Figs. 8 and 10)
+from Laﬁlle’s Layer B e the samples were taken before the recent
+excavations, so no clear correlation could be made but it most
+probably corresponds to the new Layer 11 (it could also be Layer
+12). Even though this layer did not yield any lithics, ﬁre was made at
+Roc de Marsal and is dated back to 77e87 ka, i.e. at the end of MIS 5.
+5. Roc de Marsal chronology in a regional perspective
+The determined ages can now be viewed in relation to the
+environmental data, both on a site and regional scales. For clarity, in
+Fig. 10 only the ages determined on heated samples e which are the
+most reliable chronological data according to the preceding section
+e are plotted as a function of stratigraphic layers.
+Luminescence dating results indicate that Layers 7, 8 and 9
+correspond to occupations during the MIS 4. Fig. 11 shows macrofaunal remains for the different layers of Roc de Marsal. The
+abundance of red deer and roe deer in the layers at the base of the
+sequence tend to indicate a wooded environment, even when the
+
+G. Guérin et al. / Journal of Archaeological Science 39 (2012) 3071e3084
+
+Denticulate & Typical Mousterian
+
+Layer 9
+
+Layer 8
+
+Layer 7
+
+Layer 6
+
+3081
+
+Quina Mousterian
+
+Layer 5
+
+Layer 4
+
+Layer 3
+
+Layer 2
+
+Lafille excavations
+
+Recent excavations
+
+Reindeer
+
+Others
+Roe Deer
+
+Horse
+Bovinae
+
+Red Deer
+fauna
+
+Composite
+fauna
+
+Reindeer
+fauna
+
+Red Deer
+R
+
+Ungulates (% NISP)
+Fig. 11. NISP percentages of macrofaunal remains of the different ungulate taxa found at the Roc de Marsal site by archaeological Layer. Data was compiled from previous analyses of
+the Laﬁlle collection by M. Patou-Mathis (in Sandgathe et al., 2007) and of the recent excavations by J.-C. Castel (in Sandgathe et al., 2007; Castel and Dibble, in prep.) for Layers 4, 5,
+7 and M.C. Soulier (2007) for Layer 2. Only Layers with a total NISP exceeding 100 are included.
+
+ecological plasticity of ungulates is considered (Discamps et al.,
+2011). This had led, up to now, to the suggestion that the corresponding layers correspond to MIS 5 (Sandgathe et al., 2011a;
+Goldberg et al., 2012), because this period is generally believed to
+be more temperate than the MIS 4.
+However, palaeoclimatic and palynologic analyses carried out on
+a deep-sea core drilled in the Bay of Biscay (Sanchez Goñi et al., 2008),
+a few hundred km west of Roc de Marsal, have shown that the MIS 4
+palaeoenvironments were more variable than one might expect. The
+sediments analysed in this core represent three main ﬂuvial sources:
+the Adour River, the Garonne River and the Loire River and, therefore,
+palaeoenvironmental reconstructions based on this core correspond
+to a broad southwest France. This wide regional scale limits the
+information that can be drawn for the Roc de Marsal environments,
+but it is worth noting that between 65 and 70 ka, the vegetation in
+southwestern France consisted of approximately 50e60% of steppe
+species and 40e50% of forest e mainly boreal (Fletcher et al., 2010)
+species. Interestingly, the fauna at Roc de Marsal exhibit a singular
+pattern: for Layers 7, 8 and, to a lesser degree, 9, forest-adapted taxa
+(red deer, roe deer) dominate the spectrum but reindeer, which is
+often associated with dry, cold open-air environments, also
+contributes to a signiﬁcant fraction of the remains (respectively 22,
+33 and 11% of NISP for Layers 7, 8 and 9).
+This rather strange association could correspond to: 1) a mosaic
+landscape with, for example, simultaneous development of forests
+in valleys, and grasslands on plateaus or 2) a palimpsest of multiple
+occupations that occurred in different environments changing on
+a short time scale, following DansgaardeOeschger events, for
+example. However, if these three ungulates are preferentially
+adapted to different environments, they are also known for their
+ecological plasticity: red deer ranges from mixed forests to open
+forests with grassland and can even tolerate steppe environments;
+roe deer, if they preferentially inhabit wooded environments, may
+live in open country (ﬁeld roe deer ecotype); reindeer, if they are
+well adapted to open treeless spaces, can also live in taiga and
+forested mountainous regions (detailed discussion and references
+in Discamps et al., 2011). In fact, red deer, roe deer, and reindeer can
+live in boreal forests.
+In southwest France, Roc de Marsal Layers 7e9 are not an
+exception, as similar faunal patterns have been observed in other
+
+archaeological sites. It is striking to see that for sequences that
+span both Quina and Typical Mousterian, a number of similar
+features have been observed: ﬁrst, Quina Mousterian layers are
+always on top of Typical Mousterian layers (Jaubert, 2010);
+second, Quina Mousterian is, in Dordogne, always associated with
+faunal remains dominated by reindeer; third, in the layers underlying Quina industries, fauna exhibits singular patterns combining
+“forest-adapted” (red deer and/or roe deer) and “cold open-air”
+species (reindeer). Fig. 12 shows the evolution in the patterns of
+faunal remains in the following sites of the Dordogne region of
+France: Pech de l’Azé II, Pech De l’Azé IV, Combe-Grenal (Laquay,
+1981), Regourdou, Vaufrey (Delpech, 1996) and Roc de Marsal.
+Faunal data from Pech de l’Azé IV do not come from the recent
+excavations of this site but from the analysis of the Bordes excavation’s faunal collection (Laquay, 1981); for correspondence
+between Bordes layers and the new excavation layers, please refer
+to Turq et al., 2008. At the top of Fig. 12 dominant species are given
+as a function of the layers of these different sites, and at the bottom
+one can see that the percentage of reindeer progressively increases
+from “AnteQuina” (various Mousterian techno-complexes underlying Quina Mousterian) to Quina Mousterian layers. In terms of
+chronology, Layer 2E from Pech de l’Azé II was dated by ESR on
+teeth to approx. 57e60  6 ka (Grün et al., 1991) and these ages
+were part of a coherent, comprehensive study of 29 samples from
+this site; Combe-Grenal layers were bracketed between 44  4 and
+68  7 ka by TL on heated ﬂints (Bowman and Sieveking, 1983) but
+the studied grain size fraction (1e8 mm in diameter) is prone to
+triboluminescence, which makes these ages rather uncertain; layer
+II from Vaufrey gave a U/Th age of 74  18 ka (Blackwell and
+Schwarcz, in Rigaud (dir.), 1988) but the important uncertainty
+and the nature of the sample (calcite fragments) render the interpretation of this age difﬁcult. One can, nonetheless, formulate the
+hypothesis that this faunal pattern corresponds to particular
+climatic conditions in this region of France, at a particular time. At
+Roc de Marsal this period of transition from temperate to cold
+conditions seems to have occurred in the middle of MIS 4, which is
+consistent with chronological information from the abovementioned sites. Analysis of the faunal assemblages at a regional
+scale suggests that the most probable time interval corresponding
+to the change from composite reindeer/red deer/roe deer faunas at
+
+3082
+
+G. Guérin et al. / Journal of Archaeological Science 39 (2012) 3071e3084
+
+"AnteQuina" (typical, Asinipodian...)
+
+a
+
+Quina
+
+Pech de l'Azé II
+Regourdou
+
+Dominant species
+Mixed spectrum
+
+Pech de l'Azé IV
+
+Reindeer
+Bovinae
+Red an Roe deer
+
+Combe-Grenal
+Vaufrey
+Roc de Marsal
+
+b
+R. tarandus (%NISP)
+
+Pech de l'Azé II
+
+100
+
+Regourdou
+
+50
+
+Pech de l'Azé IV
+
+40
+30
+
+Combe-Grenal
+
+20
+
+Vaufrey
+
+10
+0
+
+c
+
+?
+
+ae fa
+Bovin
+
+Roe and Red deer
+faunas
+
+una?
+
+Roc de Marsal
+
+Composite faunas
+Reindeer increasing
+
+?
+
+?
+
+Reindeer faunas
+
+?
+
+Main vegetation type
+Xerophytic steppe
+Grassland, dry shrubland
+Boreal forest
+Temperate forest
+
+MIS 5
+80
+
+MIS 4
+70
+
+MIS 3
+60
+
+50 ka cal. BP
+
+Fig. 12. Top: stratigraphic distribution of hunted prey in “AnteQuina” and Quina assemblages from the Dordogne region, by dominant taxa (a) and evolution in the percentage of
+Reindeer remains (b). Each line is a sequence and each block is an assemblage represented according to its stratigraphic position; dashed blocks are assemblages with doubts on
+their technotypological attribution or stratigraphic integrity. Bottom: evolution in main pollen types from independent paleoenvironmental data (modiﬁed after Fletcher et al.,
+2010) and proposed correlations with main faunal changes (dashed lines).
+
+the end of the “AnteQuina” to reindeer dominated faunas in the
+Quina might be the middle of MIS 4 (Fig. 12; Discamps et al., 2011),
+when southwest France was for a great part covered with boreal
+forest (Sanchez-Goñi et al., 2008; Fletcher et al., 2010).
+For the rest of the stratigraphic sequence at Roc de Marsal,
+chronological information is unfortunately much poorer, owing to
+the lower fraction of heated material. A summary of ages determined for Quina Mousterian occupations in the region can be found
+in Guibert et al. (2008) and the corresponding ages refer to the
+following sites: Chapelle aux Saints (Corrèze, France: ESR by Grün
+and Stringer, 1991), Regourdou (Dordogne, France: radiocarbon by
+Vogel and Waterbolk, 1967), Espagnac (Lot, France: ESR by Falguères, in Jaubert (dir.), 2001), Sous les Vignes (Lot-et-Garonne,
+France: ESR by Valladas et al., 1999) and Combe-Grenal (Dordogne,
+France: TL by Bowman and Sieveking, 1983). The ages determined
+for this industry are all between 39 and 54 ka e i.e. during MIS 3,
+which is consistent with one of the two ages of Layer 4 at Roc de
+
+Marsal (Bdx 13269, age: 45.4  3.5 ka), the other one being
+consistent with MIS 3 or the very end of MIS 4 (Bdx 13272:
+61.0  5.8 ka). The latter is consistent with recent data from Les
+Pradelles (Charente, France), where Quina deposits were dated by
+TL to 57.6  4.8 ka (Vieillevigne and Guibert, 2007).
+Chronological data suggest that the Quina corresponds either to
+the very end of MIS 4 or to the MIS 3. Fauna associated with the
+Quina Mousterian industry is clearly dominated by reindeer, both
+at Roc de Marsal and in other Quina sites of this region, suggesting
+cold steppic conditions more consistent with the very end of MIS 4
+(Discamps et al., 2011), but further data will be needed to discuss
+possible correlations with particular climatic events.
+6. Conclusion
+Given the complex stratigraphy of Roc de Marsal in terms of
+radioactivity heterogeneities at different scales, the coupling of TL
+
+G. Guérin et al. / Journal of Archaeological Science 39 (2012) 3071e3084
+
+and OSL on different materials was necessary to determine a chronological scenario for the human occupations at this site. Accurate
+reconstruction of radioactive environments, for some of the heated
+samples, played a signiﬁcant role in the dating study. Data suggest
+an occupation characterized by Denticulate Mousterian during the
+middle of MIS 4 (Layers 7, 8 and 9: 65e70 ka). Quina Mousterian
+layers, based on ages for Layer 4, are dated to between 45.4  3.5 ka
+and 61  6.8 ka which is consistent with other chronological data in
+the region for the same industry that place it at the end of MIS 4 or
+in MIS 3. Consequently, our results, when combined with other ongoing research in the area (Guibert et al., 2008; Discamps et al.,
+2011; Sanchez-Goñi et al., 2008) paint a more complex picture
+that imply the two following a priori unexpected considerations:
+ﬁrst, that MIS 4 was probably not uniformly extremely cold in
+southwest France, since red deer and roe deer would have been
+present during the ﬁrst half of this period; second, that the
+maximum cold, as measured by the almost exclusive presence of
+reindeer, occurred most probably at the very end of MIS 4 e or
+during MIS 3. This is consistent with palaeoenvironmental reconstructions based on palynological studies in this region of France,
+since forest environments and steppes were simultaneously
+covering similar fractions of landscapes between 65 and 70 ka, the
+minimum forest covering occurring at the end of MIS 4 (60e62 ka,
+meaning a possible correlation with Heinrich event 6) and during
+MIS 3. Moreover, the deposition of the skeleton of the Neanderthal
+infant is now bracketed; according to its stratigraphic position e
+probably below the Quina layers (Sandgathe et al., 2011a) e it can
+now be assigned most probably to MIS 4, between 60 and 70 ka.
+Acknowledgements
+The research at Roc de Marsal had the ﬁnancial support of the US
+National Science Foundation (Grants #0917739 and #0551927), the
+Leakey Foundation, and the University of Pennsylvania Research
+Foundation, the Service Régional de l’Archéologie, and the Conseil
+Général de la Dordogne. The Région Aquitaine is also thanked for
+ﬁnancial support through the program entitled “Chronologie, Préhistoire et Paléoenvironnements”. GG was supported by a PhD
+allocation from the French Ministry of Research and Higher
+Education. The authors are grateful to two anonymous reviewers
+for their helpful comments on an earlier version of this article, and
+to V. Aldeias, E. Hallett and S. Schwortz for help during sampling at
+Roc de Marsal.
+References
+Aldeias, V., Goldberg, P., Sandgathe, D., Berna, F., Dibble, H.L., McPherron, S.P.,
+Turq, A., Rezek, Z, 2012. Evidence for Neandertal use of ﬁre at Roc de Marsal
+(France). Journal of Archaeological Science 39, 2414e2423.
+Bailey, R.M., Smith, B.W., Rhodes, E.J., 1997. Partial bleaching and the decay form
+characteristics of quartz OSL. Radiation Measurements 27, 123e136.
+Blackwell, B., Schwarcz, H.P., 1988. Datation des spéléothèmes de la grotte Vaufrey
+par la famille de l’Uranium. In: Rigaud, J.-Ph. (Ed.), La Grotte Vaufrey: paléoenvironnement, chronologie, activités humaines. Mémoires de la Société Préhistorique Française, XIX, pp. 365e380.
+Blackwell, B., Skinner, A., Blickstein, J., 2007. Résultats des datations ESR 2006. In:
+Sandgathe, D., Turq, A., Dibble, H., McPherron, S., Goldberg, P. (Eds.), Roc de
+Marsal (Campagne-de-Bugue, Dordogne): Rapport de fouille programmée triannuelle 2005e2007. DRAC, Bordeaux.
+Bordes, F., 1975. Le gisement du Pech de l’Azé IV. Note préliminaire. Bulletins de la
+Société Préhistorique Française 72, 293e308.
+Bordes, F., Laﬁlle, J., 1962. Paléontologie humains: découverte d’un squelette d’enfant moustérien dans le gisement du Roc de Marsal, commune de Campagne du
+Bugue (Dordogne), Comptes Rendus de l’Académie des Sciences. Paris 254,
+714e715 pp.
+Bøtter-Jensen, L., Bulur, E., Duller, G.A.T., Murray, A.S., 2000. Advances in luminescence instrument systems. Radiation Measurements 32, 523e528.
+Bøtter-Jensen, L., Andersen, C.E., Duller, G.A.T., Murray, A.S., 2003. Developments in
+radiation, stimulation and observation facilities in luminescence measurements. Radiation Measurements 37, 535e541.
+
+3083
+
+Bowman, S.E.G., Sieveking, G. de G., 1983. Thermoluminescence dating of burnt ﬂint
+from Combe-Grenal. PACT 9, 253e268.
+Brennan, B.J., Lyons, R.G., Phillips, S.W., 1991. Attenuation of alpha particle track dose
+for spherical grains. Nuclear Tracks and Radiation Measurements 18, 249e253.
+Couchoud, Isabelle, 2003. Processus géologiques de formation du site moustérien
+du Roc de Marsal (Dordogne, France). PALEO 15, 51e68.
+Castel, J.-Ch., Soulier, M.-C., Hodgkins, J., 2007. Paléontologie animale. In:
+Sandgathe, D., Turq, A., Dibble, H., McPherron, S., Goldberg, P. (Eds.), Roc de
+Marsal (Campagne-de-Bugue, Dordogne): Rapport de fouille programmée triannuelle 2005e2007. DRAC, Bordeaux.
+Castel, J.-Ch., Dibble, H.L., in prep. What the Quina-mousterians did at Roc-deMarsal (Campagne-du-Bugue, Dordogne, France), a zooarchaeological
+perspective.
+Chase, P.G., 1986. Relationships between Mousterian lithic and faunal assemblages
+at Combe Grenal. Current Anthropology 27 (1), 69e71.
+Delagnes, A., Rendu, W., 2011. Shifts in Neandertal mobility, technology and
+subsistence strategies in western France. Journal of Archaeological Science 38
+(8), 1771e1783.
+Delpech, F., 1996. L’environnement animal des Moustériens Quina du Périgord.
+Paleo 8, 31e46.
+Dibble, H.L., McPherron, S.P., 2006. The missing Mousterian. Current Anthropology
+47, 777e803.
+Discamps, E., Jaubert, J., Bachellerie, F., 2011. Human choices and environmental
+constraints: deciphering the variability of large game procurement from
+Mousterian to Aurignacian times (MIS 5e3) in southwestern France. Quaternary Science Reviews. doi:10.1016/j.quascirev.2011.06.009.
+Duller, G.A.T., Bøtter-Jensen, L., Murray, A.S., Truscott, A.J., 1999. Single grain laser
+luminescence (SGLL) measurements using a novel automated reader. Nuclear
+Instruments and Methods B 155, 506e514.
+Falguères, 2001. Datation radiométriques. In: Jaubert, J. (Ed.), Un site moustérien de
+type Quina dans la vallée du Célé, Pailhès à Espagnac-Sainte-Eulalie (Lot). Gallia
+Préhistoire, 43, pp. 1e99.
+Fletcher, W.J., Sánchez-Goñi, M.F., Allen, J.R.M., Cheddadi, R., Combourieu
+Nebout, N., Huntley, B., Lawson, I., Londeix, L., Magri, D., Margari, V., Müller, U.C.,
+Naughton, F., Novenko, E., Roucoux, K., Tzedakis, P.C., 2010. Millennial-scale
+variability during the last glacial in vegetation records from Europe. Quaternary
+Science Reviews 29, 2839e2864.
+Galbraith, R.F., Roberts, R.G., Laslett, G.M., Yoshida, H., Olley, J.M., 1999. Optical
+dating of the single and multiple grains of quartz from Jinmium Rock Shelter,
+northern Australia: part I, experimental design and statistical models.
+Archaeometry 41, 339e364.
+Golberg, P., 2007. Rapport géologique. In: Sandgathe, D., Turq, A., Dibble, H.,
+McPherron, S., Goldberg, P. (Eds.), Roc de Marsal (Campagne-de-Bugue, Dordogne): Rapport de fouille programmée triannuelle 2005e2007. DRAC,
+Bordeaux.
+Goldberg, P., Dibble, H., Berna, F., Sandgathe, D., McPherron, S., Turq, A., 2012. New
+evidence on Neandertal use of ﬁre: examples from Roc de Marsal and Pech de
+l’Azé IV. Quaternary International 247, 325e340.
+Grayson, D.K., Delpech, F., Rigaud, J.-P., Simek, J.F., 2001. Explaining the development of dietary dominance by a single ungulate taxon at grotte XVI, Dordogne,
+France. Journal of Archaeological Science 28 (2), 115e125.
+Grayson, D.K., Delpech, F., 2002. Specialized early Upper Palaeolithic hunters in
+Southwestern France? Journal of Archaeological Science 29 (12), 1439e1449.
+Grün, R., Stringer, Ch.B., 1991. Electron spin resonance dating and the evolution of
+modern humans. Archaeometry 33, 153e199.
+Grün, R., Mellars, P., Laville, H., 1991. ESR chronology of a 100,000 year archaeological sequence at Pech-de-l’Azé II, France. Antiquity 65, 544e551.
+Guérin, G., Mercier, N., Adamiec, G., 2011. Dose-rate conversion factors: update.
+Ancient TL 29, 5e8.
+Guibert, P., Schvoerer, M., 1991. TL dating: low background gamma spectrometry as
+a tool for the determination of the annual dose. Nuclear Tracks and Radiation
+Measurements 18, 231e238.
+Guibert, P., Bechtel, F., Schvoerer, M., Muller, P., et Balescu, S., 1998. A new method
+for gamma dose-rate estimation of heterogeneous media in TL dating. Radiation
+Measurements 29, 561e572.
+Guibert, P., Lahaye, C., Vieillevigne, E., 2007. Datations numériques. In:
+Sandgathe, D., Turq, A., Dibble, H., McPherron, S., Goldberg, P. (Eds.), Roc de
+Marsal (Campagne-de-Bugue, Dordogne): Rapport de fouille programmée triannuelle 2005e2007. DRAC, Bordeaux.
+Guibert, P., Bechtel, F., Bourguignon, L., Brenet, M., Couchoud, I., Delagnes, A.,
+Delpech, F., Detrain, L., Duttine, M., Folgado, M., Jaubert, J., Lahaye, C., Lenoir, M.,
+Maureille, B., Texier, J.-P., Turq, A., Vieillevigne, E., Villeneuve, G., 2008. Une base
+de données pour la chronologie du Paléolithique moyen dans le Sud-Ouest de la
+France, Mémoire XLVII de le Société Préhistorique Française, 19e40 pp.
+Guibert, P., Lahaye, C., Bechtel, F., 2009. The importance of U-series disequilibrium
+of sediments in luminescence dating: a case study at the Roc de Marsal Cave
+(Dordogne, France). Radiation Measurements 44, 223e231.
+Henrich, J., 2004. Demography and cultural evolution: how adaptive cultural
+processes can produce maladaptive losses: the Tasmanian case. American
+Antiquity 69 (2), 197e214.
+Jacobs, Z., 2010. An OSL chronology for the sedimentary deposits from Pinnacle Point
+Cave 13Bda punctuated presence. Journal of Human Evolution 59, 289e305.
+Jacobs, Z., Wintle, A.G., Duller, G.A.T., Roberts, R.G., Wadley, L., 2008. New ages for
+the post-Howiesons Poort, late and ﬁnal Middle Stone Age at Sibudu, South
+Africa. Journal of Archaeological Science 35, 1790e1807.
+
+3084
+
+G. Guérin et al. / Journal of Archaeological Science 39 (2012) 3071e3084
+
+Jain, M., Murray, A.S., Bøtter-Jensen, L., 2003. Characterisation of blue-light stimulated luminescence components in different quartz samples: implications for
+dose measurement. Radiation Measurements 37, 441e449.
+Jaubert, J., 2010. Les archéoséquences du Paléolithique moyen en Poitou-Charentes.
+In: Buisson-Cattil, J., Primault, J. (Eds.), Préhistoire entre Vienne et Charente.
+Hommes et sociétés du Paléolithique, 25 ans d’archéologie préhistorique en
+Poitou-Charentes. Ministère de la Culture et de la Communication. Mémoire
+XXXVIII. Association des Publications Chauvinoises, pp. 51e55.
+Laquay, G., 1981. Recherches sur les faunes du Würm I en Périgord. Thèse de doctorat, Université de Bordeaux 1, 429 p.
+Løvborg, L., Bøtter-Jensen, L., Kirkegaard, P., Christiansen, E.M., 1979. Monitoring of
+soil natural radioactivity with portable gamma-ray spectrometer. Nuclear
+Instruments and Methods 167, 341e348.
+Mejdahl, V., 1979. Thermoluminescence dating: beta-dose attenuation in quartz
+grains. Archaeometry 21, 61e72.
+Mercier, N., Valladas, H., Joron, J.-L., Reyss, J.-L., Lévêque, F., Vandermeersch, B., 1991.
+Thermoluminescence dating of the late Neanderthal remains from Saint-Césaire (France). Nature 351, 737e739.
+Mercier, N., Valladas, H., Valladas, G., 1995a. Flint thermoluminescence dates from
+the CFR Laboratory at Gif: contributions to the study of the chronology of the
+Middle Palaeolithic. Quaternary Science Reviews (Quaternary Geochronology)
+14, 351e364.
+Mercier, N., Valladas, H., Valladas, G., Reyss, J.-L., Jelinek, A., Meignen, L., Joron, J.-L.,
+1995b. TL dates of burnt ﬂints from Jelinek’s excavations at Tabun and their
+implications. Journal of Archaeological Science 22, 495e509.
+Mercier, N., Valladas, H., 2003. Reassessment of TL age-estimates of burnt ﬂints
+from the Paleolithic site of Tabun Cave, Israel. Journal of Human Evolution 45,
+401e409.
+Mercier, N., Valladas, H., Froget, L., Joron, J.-L., Reyss, J.-L., Balescu, S.,
+Escutenaire, C., Kozlowski, J., Sitlivy, V., Sobczyk, K., Zieba, A., 2003. Luminescence dates for the palaeolithic site of Piekary II a (Poland): comparison
+between TL of burnt ﬂints and OSL of a loess-like deposit. Quaternary
+Geochronology 22, 1245e1249.
+Mercier, N., Valladas, H., Froget, L., Joron, J.-L., Reyss, J.-L., Weiner, S., Goldberg, P.,
+Meignen, L., Bar-Yosef, O., Belfer-Cohen, A., Chech, M., Kuhn, S.L., Stiner, M.C.,
+Tillier, A.-M., Arensburg, B., Vandermeersch, B., 2007a. Hayonim Cave: a TLbased chronology for this Levantine Mousterian sequence. Journal of Archaeological Science 34, 1064e1077.
+Mercier, N., Wengler, L., Valladas, H., Joron, J.-L., Froget, L., Reyss, J.-L., 2007b. The
+Rhafas Cave (Morocco): chronology of the mousterian and aterian archaeological occupations and their implications for Quaternary geochronology based
+on luminescence (TL/OSL) age determinations. Quaternary Geochronology 2,
+309e313.
+Murray, A.S., Wintle, A.G., 2000. Luminescence dating of quartz using an improved
+single-aliquot regenerative-dose protocol. Radiation Measurements 32, 57e73.
+Murray, A.S., Wintle, A.G., 2003. The single aliquot regenerative dose protocol:
+potential for improvements in reliability. Radiation Measurements 37, 377e381.
+Prescott, J.R., Hutton, J.T., 1988. Cosmic ray and gamma ray dosimetry for TL and
+ESR. Nuclear Tracks and Radiation Measurements 14, 223e227.
+Richerson, P., Boyd, R., Bettinger, R., 2009. Cultural innovations and demographic
+change. Human Biology 81 (2e3), 211e235.
+Rufer, D., Preusser, F., 2009. Potential of autoradiography to detect spatially resolved
+radiation patterns in the context of trapped charge dating. Geochronometria 34,
+1e13.
+
+Sanchez Goñi, M.F., Landais, A., Fletcher, W.J., Naughton, F., Desprat, S., Duprat, J.,
+2008. Contrasting impacts of DansgaardeOeschger events over a western
+European latitudinal transect modulated by orbital parameters. Quaternary
+Science Reviews 27 (11e12), 1136e1151.
+Sandgathe, D., Turq, A., Dibble, H., McPherron, S., Goldberg, P., 2007. Roc de Marsal
+(Campagne-de-Bugue, Dordogne): Rapport de fouille programmée triannuelle
+2005e2007. DRAC, Bordeaux.
+Sandgathe, D., Dibble, H., Goldberg, P., McPherron, S., 2011a. The Roc de Marsal
+Neandertal child: a reassessment of its status as a deliberate burial. Journal of
+Human Evolution 61 (3), 243e253.
+Sandgathe, D.M., Dibble, H.L., Goldberg, P., McPherron, S.P., Turq, A., Niven, L.,
+Hodgkins, J., 2011b. On the role of ﬁre in Neandertal adaptations in Western
+Europe: evidence from Pech de l’Azé IV and Roc de Marsal, France. PaleoAnthropology, 216e242.
+Selo, M., Valladas, H., Mercier, N., Joron, J.-L., Bassinot, F., Parson, A., Nouet, J., 2009.
+Investigations on uranium distributions in ﬂints. Radiation Measurements 44,
+615e619.
+Soulier, M.-C., 2007. Etude archéozoologique du carré M16 de la couche II du
+gisement moustérien du Roc de Marsal (Dordogne). Master 1 thesis, Université
+Toulouse II Le Mirail.
+Stiner, M.C., Kuhn, S.L., 2006. Changes in the connectedness and resilience of
+Paleolithic societies in Mediterranean ecosystems. Human Ecology 34 (5),
+693e712.
+Thomsen, K.J., Murray, A.S., Jain, M., The dose dependency of the over-dispersion of
+quartz OSL single grain dose distributions. Radiation Measurements, in press.
+Tribolo, C., Mercier, N., Valladas, H., 2001. Alpha sensitivity determination in
+quartzite using an OSL single aliquot procedure. Ancient TL 19, 47e50.
+Tribolo, C., Mercier, N., Valladas, H., Joron, J.L., Guibert, P., Lefrais, Y., Selo, M.,
+Texier, P.-J., Rigaud, J.-Ph., Porraz, G., Poggenpoel, C., Parkington, J., Texier, J.-P.,
+Lenoble, A., 2009. Thermoluminescence dating of a StillbayeHowiesons Poort
+sequence at Diepkloof Rock Shelter (Western Cape, South Africa). Journal of
+Archaeological Science 36, 730e739.
+Tribolo, C., Mercier, N., Rasse, M., Soriano, S., Huysecom, E., 2010. Kobo 1 and L’Abri
+aux Vaches (Mali, West Africa): two case studies for the optical dating of bioturbated sediments. Quaternary Geochronology 5, 317e323.
+Turq, A., 1989. Le squelette de l’enfant néandertalien du Roc de Marsal: les données
+de fouilles. Paléo 1, 47e54.
+Turq, A., Dibble, H.L., Faivre, J.-P., Goldberg, P., McPherron, S.P., Sandgathe, D., 2008.
+Le Moustérien du Périgord Noir: quoi de neuf ? In: Jaubert, J., Bordes, J.-G.,
+Ortega, I. (Eds.), Les sociétés du Paléolithique dans un Grand Sud-Ouest de la
+France: nouveaux gisements, nouveaux résultats, nouvelles méthodes Mémoire
+XLVII de la Société Préhistorique Française, Paris.
+Valladas, H., 1985. Some TL properties of burnt prehistoric ﬂints. Nuclear Tracks and
+Radiation Measurements 10, 785e788.
+Valladas, H., Mercier, N., Falguères, Ch., Bahain, J.-J., 1999. Contribution des méthodes nucléaires à la chronologie des cultures paléolithiques entre 300 000 et 35
+000 ans BP. Gallia Préhistoire 41, 153e166.
+Vieillevigne, E., Guibert, P., 2007. Datation par thermoluminescence d’un silex du
+Paléolithique moyen des Pradelles. Rapport de recherche.
+Vogel, J.C., Waterbolk, H.T., 1967. Groningen radiocarbon dates VII. Radiocarbon 9,
+107e155.
+Wintle, A.G., Murray, A.S., 2006. A review of quartz optically stimulated luminescence characteristics and their relevance in single-aliquot regeneration dating
+protocols. Radiation Measurements 41, 369e391.
+
+

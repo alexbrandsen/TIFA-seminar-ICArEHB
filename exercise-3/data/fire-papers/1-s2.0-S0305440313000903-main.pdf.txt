@@ -1,0 +1,1855 @@
+Journal of Archaeological Science 40 (2013) 3011e3020
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+New datings of Amudian layers at Qesem Cave (Israel): results of TL applied
+to burnt ﬂints and ESR/U-series to teeth
+Norbert Mercier a, *, Hélène Valladas b, Christophe Falguères c, Qingfeng Shao c, Avi Gopher d, Ran Barkai d,
+Jean-Jacques Bahain c, Laurence Vialettes a, Jean-Louis Joron e, Jean-Louis Reyss a
+a
+
+Institut de Recherche sur les Archéomatériaux, Centre de Recherche en Physique Appliquée à l’Archéologie (IRAMAT-CRP2A, UMR 5060), Université de Bordeaux 3,
+CNRS, 33607 Pessac Cedex, France
+Laboratoire des Sciences du Climat et de l’Environnement, LSCE/IPSL CEA-CNRS e UVSQ, Bât. 12, 91198 Gif-sur-Yvette Cedex, France
+c
+Département de Préhistoire du Muséum national d’Histoire naturelle, UMR 7194 CNRS, 1 rue René Panhard, 75013 Paris, France
+d
+Institute of Archaeology, Tel Aviv University, 69978 Tel Aviv, Israel
+e
+Laboratoire Pierre Süe, Groupe des Sciences de la Terre, CEN Saclay, 91191 Gif sur Yvette, France
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 19 December 2012
+Received in revised form
+21 February 2013
+Accepted 3 March 2013
+
+Because only a few radiometric data are actually available, the chronology of the Amudian e a bladedominated industry of the Acheulo-Yabrudian Cultural Complex (AYCC) of the late Lower Paleolithic in
+the Levant e is still not well constrained. Qesem Cave offers the opportunity to enhance our knowledge
+of the chronological position of this industry which is unique to the Levant. The Qesem Amudian bearing
+layers yielded also human remains showing afﬁnities with those of modern populations recovered in the
+Middle Paleolithic sites of Skhul and Qafzeh. The results presented here are the ﬁrst attempt to apply the
+TL and ESR/U-series dating methods at this site and these methods yielded results which are generally in
+agreement. They support a time interval of hominid-bearing occupation of the areas of the cave where
+Amudian lithic artifacts were recovered during MIS 8 and likely 9 for the Deep Pit Area, and during MIS 8
+and possibly 7 for the Upper part of the sequence (Square K/10 and the Eastern Microfauna-Bearing
+Area). An older occupation of the cave is also conceivable on the base of two dating results (MIS 11).
+Ó 2013 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Qesem Cave
+Levant
+Dating
+Burnt ﬂint
+Teeth
+Amudian
+Acheuleo-Yabrudian
+
+1. Introduction
+Connecting Africa and Eurasia, the Levant is naturally considered as a corridor which enabled human migrations during
+Paleolithic times. At the end of the Lower Paleolithic period, the
+Acheulo-Yabrudian Cultural Complex (AYCC) emerged in this region
+where it remained conﬁned. This cultural complex is thus known in
+a limited series of sites, from which the most famous is probably the
+Tabun Cave e Mount Carmel e (Garrod and Bate, 1937). At Tabun,
+the chronology of the AYCC industries has been questioned for a
+long time (Grün and Stringer, 2000) but the last series of dates
+seems to indicate that this cultural complex could be older than
+260 ka in this site (Mercier and Valladas, 2003). Additional chronological results gave also indications about the antiquity of this
+cultural complex as, for example, the U-series dating of a ﬂowstone
+covering the Acheulo-Yabrudian layers discovered at Jamal Cave
+(Weinstein-Evron et al., 1999), or the thermoluminescence dates
+obtained for the Early Levantine Middle Paleolithic (‘Tabun D-type’
+* Corresponding author. Tel.: þ33 5 57 12 15 86.
+E-mail address: norbert.mercier@u-bordeaux3.fr (N. Mercier).
+0305-4403/$ e see front matter Ó 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2013.03.002
+
+industry) at Hayonim Cave (Mercier et al., 2007), which post-date
+the Acheulo-Yabrudian industries.
+The AYCC includes three major lithic industries: AcheuloYabrudian dominated by handaxes and Quina scrapers; Yabrudian
+dominated by Quina scrapers; and Amudian dominated by blades.
+The blade-dominated Amudian industry of the AYCC is consistently
+present at Qesem Cave while the Quina, scraper-dominated, Yabrudian industry appears in stratigraphically distinct units in two
+areas of the cave (Barkai et al., 2009). The Amudian lithic assemblages show a very early and well established blade production
+technology, systematically used for the serial production of predetermined laminar items (Shimelmitz et al., 2011). Blades in small
+numbers do appear in Yabrudian assemblages, and were made by
+Amudian blade-production standards. Scrapers, including Quina
+scrapers, are dominant in Yabrudian tool assemblages but appear in
+small numbers in Amudian assemblages too. Taking into account
+the spatial patterning of the lithic ﬁnds, the two lithic industries at
+Qesem Cave seem to represent activity areas rather than distinct
+groups or traditions (see Barkai et al., 2009 for more details).
+Qesem Cave is one of the rare sites which provided exclusively
+Acheuleo-Yabrudian ﬁnds clearly dominated by the Amudian
+
+3012
+
+N. Mercier et al. / Journal of Archaeological Science 40 (2013) 3011e3020
+
+industry (Barkai et al., 2003, 2005; Gopher et al., 2005; Shimelmitz
+et al., 2011), and thus offers the opportunity to enhance our
+knowledge of this very early blade industry and precise its chronological position. Moreover, the Qesem Amudian bearing layers
+yielded also human dental remains showing afﬁnities with those of
+modern populations recovered in the Middle Paleolithic sites of
+Skhul and Qafzeh (Hershkovitz et al., 2011).
+1.1. General presentation of the cave
+Qesem Cave is situated 12 km east of the Mediterranean coast of
+Tel Aviv (Fig. 1) in a hilly limestone terrain. The cave is a sedimentﬁlled chamber estimated at w20  15 m in size and w10 m high
+(Gopher et al., 2005) although a larger and deeper chamber yet to
+be excavated was recently uncovered. Since the discovery in 2000,
+ongoing excavation has exposed w9.5 m of deposits containing
+sediments of natural and anthropogenic origins. The stratigraphical
+sequence is divided into two parts : the lower (w5.5 m thick) was
+deposited in a closed karstic chamber, while the upper part
+(w4.5 m thick) was deposited when the cave was more open as
+indicated by the presence of calciﬁed rootlets (Karkanas et al.,
+2007). Today, the roof of the cave is missing in its entirety due to
+road construction (Fig. 2) and just the inﬁlling and the wall of the
+cave are exposed. It is probable that only parts of the roof, on top of
+the rock shelf and the upper area (N-Q/8-12) survived and were
+destroyed by road construction.
+The nature of the rich lithic and faunal assemblages, supported
+by a plethora of U-series dates (Barkai et al., 2003; Gopher et al.,
+2010) indicates that the inﬁlling sequence corresponds to Middle
+Pleistocene deposits. These deposits were continuously affected
+since their deposition by recurring subsidence, erosion, and
+
+Fig. 1. Location of the Qesem Cave and other important Paleolithic sites.
+
+Fig. 2. Picture of the cave before the road construction.
+
+possibly fracturing or cracking changing the cave’s shape, and
+ﬁnally acting as post-depositional agents (Frumkin et al., 2009). As
+indicated by the presence of ashes, the use of ﬁre is attested all
+along the sequence and micromorphological studies indicate that
+ﬁre was more intensively used in the upper part of the sequence
+than in the lower part (Karkanas et al., 2007). As a consequence,
+numerous burnt ﬂints (Lemorini et al., 2006) and bones (Stiner
+et al., 2009, 2011) were discovered in the various deposits.
+The lithic assemblages of the cave are dominated by the Amudian blade industry of the AYCC (Gopher et al., 2005, 2010; Barkai
+et al., 2005, 2009; Shimelmitz et al., 2011). This complex refers to
+the chrono-cultural entity postdating the Lower Paleolithic
+Acheulian, predating the Middle Paleolithic Mousterian and corresponds to Jelinek’s “Mugharan Tradition” (Jelinek, 1981, 1992).
+Another lithic industry of the AYCC is the scraper-dominated Yabrudian that appears at Qesem Cave in three stratigraphically and
+spatially distinct areas (Barkai et al., 2009; Lev, 2010).
+The Amudian industry is characterized by systematic blade
+production (Shimelmitz et al., 2011), and many of the tools were
+made on blades, including backed and retouched blades, burins,
+end scrapers and especially abundant naturally backed knives. A
+ﬂake component also exists in the Amudian, and side scrapers
+appear in variable, generally low frequencies (Barkai et al., 2005;
+Gopher et al., 2005; Barkai et al., 2009). Handaxes are rare at Qesem
+Cave and only a few were found in Amudian layers. Use-wear
+analysis of the Amudian assemblages documented the
+outstanding state of preservation of the ﬂint items and indicated
+that butchering was the main activity at the site (Lemorini et al.,
+2006). Carcasses were processed mainly with blade cutting tools
+(knives) used speciﬁcally for skinning, disarticulation, and cutting
+meat while a speciﬁc type of recycled, double-ventral ﬂakes was
+used for cutting meat too (Barkai et al., 2010). The Yabrudian industry shows signiﬁcantly lower frequencies of blades compared to
+the Amudian and is dominated by Quina scrapers (up to 50% of the
+shaped tools). Yabrudian has hitherto been found in three distinct
+and limited areas in the cave; one under a rock shelf in the central
+part of the cave (elevations 560e600 cm below datum), one in the
+southwestern part of the cave (elevations ca. 600e630 cm below
+datum), and one by the eastern wall of the cave (elevations 130e
+150 cm below datum) and they all appear to be contemporaneous,
+in the sense of ﬁeld relations, to adjacent Amudian contexts.
+The faunal assemblages of the site are dominated by fallow deer
+but other species such as auroch (Bos), horse (Equus), wild pig (Sus),
+red deer (Cervus) and tortoise (Testudo) are present. Mostly primeaged fallow deers were hunted and selected body parts were
+transported into the cave. Cut marks and burning signs were found
+
+N. Mercier et al. / Journal of Archaeological Science 40 (2013) 3011e3020
+
+on quite an impressive number of the bones (Stiner et al., 2009,
+2011) bearing indications of butchering and marrow extraction.
+The presence of bones in clear association with indications of human activities, the patterns of body part selection and transportation, the large scale of human manipulation (cutting,
+fracturing, burning, marrow extraction) and the lack of evidence for
+non-anthropogenic accumulation argue in favor of a faunal
+assemblage that was brought to the cave by humans.
+A study of human dental remains (Hershkovitz et al., 2011)
+indicated that the hominins inhabiting Qesem Cave were not Homo
+erectus but rather most similar to later modern populations (e.g.
+Skhul/Qafzeh) of this region, notwithstanding some Neanderthal
+afﬁnities as well. Based on a newly developed bio-energetic model
+it was recently suggested that dietary stress in the Middle Pleistocene Levant caused by the disappearance of elephants triggered
+the demise of H. erectus who was highly dependent on very large
+animals. Those in the population better adapted to the new diet
+constraints e namely hunting larger numbers of smaller and faster
+animals in order to provide sufﬁcient caloric intake to compensate
+for the loss of the elephants e indicate the appearance of a new
+hominin lineage (Ben-Dor et al., 2011). This suggestion is consistent
+with the recently published innovative model for the evolution of
+Pleistocene human populations of Europe (Bermúdez de Castro and
+Martinón-Torres, 2012) suggesting the Levant as a Central Area of
+Dispersals of Eurasia (CADE), an “origin region” for human species
+biodiversity.
+
+3013
+
+sequence readily exposed and available in summers 2004 and 2005
+(Fig. 3). The results of this stage are presented here but future TL/
+ESR dating stages are underway and will be devoted to speciﬁc
+areas of the cave and speciﬁc contexts (like contexts where human
+teeth were found, constructed hearths, etc.) and to the resolution of
+speciﬁc questions (sedimentation rate, chronological correspondence of Yabrudian and Amudian activity areas, etc.).
+2.1. Context of the dated samples
+Sampling and dosimetry for the TL and ESR/U-series dating
+project started in 2004. The rescue excavation in 2001 reached
+bedrock in the southern part of the cave which was reﬁlled and
+covered by the new road soon after the excavation. Thus no access
+to the southern lower part of the caves’ sequence was possible
+when resuming excavations in 2004. The samples presented in this
+paper are thus mainly from the top 1.5 m of the lower stratigraphic
+sequence of the cave and the bottom/middle parts of the upper
+stratigraphic sequence. The top 2.5 m of the upper sequence as well
+as the deepest 2.5 m of the lower sequence (known to date) were
+not dated yet.
+Three major areas were studied and sampled for TL and ESR/Useries dating:
+
+2. TL and ESR/U-series dating
+
+1). Square K/10 at elevations 375e415 cm below datum is situated
+in the central part of the cave (Fig. 3). Only half of square K/10
+was excavated in 2001 showing part of a thick (40e50 cm)
+archaeological palimpsest of soft, dark-brown sediments with a
+very dense concentration of ﬂint artifacts and animal bones.
+This unit is sandwiched, top and bottom, by cemented sediments. It is a stratigraphically clear context and quite distinct.
+2). The Eastern Microfauna-Bearing Area is located in squares LM-N/13-14-15 where rich assemblages of micromammal and
+reptile bones were recovered from archaeological horizons at
+elevations 320e545 cm. The area is close to the original eastern
+wall of the cave and includes the lower part of the upper
+sequence. The sediments appear in different shades of brown;
+they are generally soft with small angular or sub- rounded
+stones and include at least three inclined thin horizons of dark
+brown to black sediment starting at elevation 430 in the east
+and reaching elevation 495 in the west (Fig. 4). The inclined
+beds continue to the west and reach square H-13 of the Deep Pit
+thus revealing a direct connection between the upper and
+lower sequences (Fig. 3). A deeper look at the sediments and
+formation processes in the lower part of this area was provided
+by a detailed micromorphological study of a 25 cm thick sediments block, collected in square L/14 (nearby the teeth sampled
+for ESR/U-series) and slightly deeper (between elevations 495
+and 520 cm). This block belongs to the uppermost part of the
+Lower sequence based on sedimentological and depositional
+considerations (Karkanas et al., 2007; Maul et al., 2011).
+3). The Deep Pit Area in the present central part of the cave was
+originally excavated as the ‘Deep Sounding’ in 2001 (two square
+meters). The area suffered a collapse of sediments due to the
+heavy rains of winter 2001 and has thus been enlarged in
+2004e2006 (Fig. 3). Since 2008 this area is re-excavated in the
+hope of reaching bedrock again. In this paper we thus relate to
+the Deep Pit Area, sampled for TL and ESR/U-series in 2004e
+2006, as a stratigraphic context not fully understood that seems
+to have witnessed rather signiﬁcant post depositional processes
+as it is located at the center of the main chamber of the cave
+
+The ﬁrst stage of this TL and ESR/U-series dating project was
+largely devoted to an attempt in deﬁning the chronological range of
+the cave deposits and thus, samples were taken in all parts of the
+
+All sediments of the Deep Pit Area belong to the Lower Sequence
+except for a brownish layer at the top of the Deep Pit stratigraphy
+that belongs to the Upper Sequence of the cave. This includes a
+
+1.2. Previous chronological studies
+The absolute/radiometric dating project of Qesem Cave was
+designed to include two major aspects based on the availability of
+potential samples in the cave. One line of work was directed toward
+the dating of speleothems present on-site by way of its being a
+karstic system that was active for a long time. Speleothems were
+sampled from various parts of the cave and dated by the U-series
+method. The ﬁrst series of 230Th/234U dates suggested that the
+occupation of the cave began around 380 ka and ended possibly
+around 200 ka (Barkai et al., 2003). A later project of U-series dating
+concluded that the human occupation started sometime around
+420 ka and ended shortly before 200 ka (Gopher et al., 2010). In
+some cases, dated speleothems enabled offering dates for speciﬁc
+contexts: for example, sample QE-06-1 is a speleothem crust found
+under the eastern part of a rock shelf and it has been shown,
+following micromorphological analysis, that it is a pure speleothem
+formed in situ on top of unreworked sediments. The speleothem
+itself showed no signs of dissolution or re-precipitation and yielded
+an age of 299 þ 30/30 ka which is therefore a minimum age for
+the 5.5 m of the sediment sequence below it. As indicated by this
+example, speleothems are formed naturally and consequently, they
+need to be related to the human presence and activities in the cave
+by inference.
+In order to overcome this limitation, a second line of work was
+to get dates from burnt ﬂints and animal teeth both of which were
+clearly brought into the cave by the inhabitants and are thus
+directly related to human activities. The dating methods applied to
+these samples, i.e. Thermoluminescence e TL e to burnt ﬂints, and
+combined Electron Spin Resonance and U-series methods e ESR/Useries e to teeth, are then major to establish the chronology of
+Qesem Cave and their results constitute the topic of this paper.
+
+3014
+
+N. Mercier et al. / Journal of Archaeological Science 40 (2013) 3011e3020
+
+Fig. 3. Overview of the excavation: the location of the samples and dosimeters are indicated.
+
+stony unit consisting of limestone boulders in the western and
+eastern sections of the Deep Pit which is almost two meters thick in
+the west. The deposition of the limestone boulder unit is not clear
+yet, but to our best understanding at the moment it might represent a major pile of stones that accumulated at the center of the
+cave, a process well known at aging karstic caves (e.g. Frumkin
+et al., 2009). The micromorphological study based on relevant
+sediment samples taken in 2004 and 2005 (Karkanas et al., 2007)
+shows, amongst other things, ﬁne charcoal fragments and burnt
+bones as well as in situ undisturbed burnt layers with recrystalized
+wood ash (i.e. hearths) in the western section of the Deep Pit which
+is clearly an in situ deposition. The observed features suggest that
+the area of deposition was rather inside a humid closed karstic
+environment (see also Frumkin et al., 2009).
+
+2.2. Dating methodology
+In this study the TL and ESR/U-series methods were applied to
+burnt ﬂints and herbivorous teeth, respectively. These methods rely
+on dosimetric measurements performed on these materials but
+share dosimetric information related to the environment of the
+samples. In the following are presented the environmental dose
+rates determined in situ for the three above mentioned areas.
+The environmental dose rates were measured by inserting
+artiﬁcial dosimeters in the sediments. A total of ca. 50 dosimeters
+was planted in the different layers and stayed in place for at least
+one year, recording the gamma and cosmic rays. In Table S1
+(Supplementary Data) are given the gamma dose-rates deduced
+after subtracting the current cosmic dose-rate for the dosimeters
+
+N. Mercier et al. / Journal of Archaeological Science 40 (2013) 3011e3020
+
+3015
+
+Fig. 4. Eastern Microfauna-Bearing Area.
+
+relevant to the dated samples (ﬂints and teeth). The gamma doserate values vary from ca. 180 to 460 mGy/a, and these variations
+seem dependent on the areas. In square K/10, the dose-rate values
+vary from 310 to 460 mGy/a, with 4 out of 5 values below 380 mGy/a.
+In the lower part of the Deep Pit Area the distribution of the dose
+rates is more heterogenous, varying from 178 to 412 mGy/a. These
+variations can be explained by the presence of numerous limestone
+blocks of different sizes in the sediment. Indeed, limestone has a
+very low U content compared to that of clay. Moreover, limestone
+blocks of different sizes are randomly distributed within the sediments of the Deep Pit and the western rim of this area consists of an
+almost solid unit of limestone boulders (Fig. 4): all these heterogeneities make the evaluation of the gamma dose-rate received
+from each sample particularly difﬁcult to estimate.
+The doses measured with the dosimeters were used for estimating the gamma dose-rate to which each sample, be it a ﬂint or a
+tooth, was exposed. On Fig. 3 are given the location of the samples
+(ﬂints and teeth) and dosimeters.
+2.2.1. The thermoluminescence (TL) dating method
+Numerous ﬂint artefacts showing marks of past heating have
+been recovered all along the archaeological sequence enabling the
+application of the Thermoluminescence (TL) dating method. Flint is
+actually well known as a good natural dosimeter recording all doses
+to which it is exposed. The TL method, which was successfully
+applied to several Near-Eastern archaeological sites (Valladas et al.,
+
+1987, 1988, 1998; Mercier et al., 1995a,b; Mercier and Valladas,
+2003), allows the determination of the time elapsed since the
+sample has reached in the past a temperature in excess of w400  C.
+Heating of a ﬂint was likely accidental, taking place in the habitually
+used ﬁreplaces spread throughout the cave’s sequence, but it lead
+to the zeroing of the dose previously recorded in its crystal lattice.
+Estimating the dose newly accumulated since this past heating
+(zeroing) event, called the Paleodose or Equivalent Dose (ED), one
+can evaluate this time period given that, in parallel, the total doserate, i.e. the sum of all doses absorbed by the sample in one year,
+can be accurately determined.
+2.2.1.1. Samples selection and preparation. Fifty six ﬂint samples
+showing marks of past heating were selected and preliminary TL
+measurements were performed to check if they had been sufﬁciently heated in the past for totally zeroing their geological TL
+signal. The forty specimens that passed this test successfully were
+prepared following the procedure described by Valladas (1992)
+which ﬁrst consists in cutting each ﬂint with a diamond saw in
+order to isolate its internal part. This procedure aims at selecting a
+volume of sample not irradiated by alpha and beta particles coming
+from the surrounding sediments, which are radiative components
+difﬁcult to estimate with reliability. The internal fraction of the ﬂint
+is generally used for TL measurements and radioisotope analyses.
+However, the examination of the ﬂint cut sections indicated that
+some of them, like QS9 and QS48b, are made of blotches of different
+
+3016
+
+N. Mercier et al. / Journal of Archaeological Science 40 (2013) 3011e3020
+
+colors (gray and white) which are suspected to have radioelement
+contents signiﬁcantly different from each other (Selo et al., 2009).
+We then tried to isolate a homogenous part by eliminating all
+visible colored blotches. After crushing this part, a fraction of the
+powder was sampled for Neutron Activation Analysis (NAA) in order to determine the radioelement contents e in uranium (U),
+thorium (Th) and potassium (K) e of the specimen. These radioisotopes induce what is called the internal dose-rate, mainly due to
+alpha and beta particles originating from the ﬂint itself. To check
+the impact of a possible heterogenous distribution of U within a
+sample, different grain sizes were measured for seven ﬂints.
+Table S2 (supplementary data) shows that the U contents obtained
+on the different fractions are within 10 for all the samples tested
+(total of 7 specimen) except for the heterogenous samples QS9 and
+QS48b which exhibits variations by a factor 3 and are particularly
+critical because such large variations can induce differences in the
+TL properties.
+For TL measurements, the 100e160 mm fraction was selected by
+sieving and then chemically treated with HCl and rinsed with
+distilled water. After drying, the powder was divided in subsamples which were irradiated with a calibrated Cs-137 source
+(dose-rate: w1.17 Gy/min; Valladas, 1978). The measurement of the
+induced TL signals was done with a home-made TL equipment
+(Valladas et al., 1994), with a heating rate of 5 /sec, and the UV-blue
+component of the emission spectrum was selected with appropriate optical ﬁlters (MTO 380 nm). These measurements allowed
+to determine the variations of the TL signal as a function of the
+absorbed dose, and for each sample, the Equivalent Dose was then
+calculated following a standard procedure (Mercier et al., 1992),
+after checking that the plateau test, which allows characterizing the
+efﬁciency of the past heating in zeroing any previous dose, was
+passed.
+Additional experiments were performed for determining the
+relative efﬁciency of alpha to beta particles in inducing a TL signal.
+This was done in irradiating different aliquots of each sample with
+either beta rays, from a Sr-90 source, or alpha rays, from a Am-241
+source (Valladas and Valladas, 1982).
+2.2.2. The combined ESR/U-series dating method
+The combined ESR/U-series method (ESR-US model), taking into
+account both ESR and U-series data including radioelement contents, isotopic ratios, equivalent doses and external gamma-dose
+rate, allows the reconstruction of the history of uranium uptake
+in each dental tissue using a one parameter (p-value) diffusion
+equation (Grün et al., 1988). Its application to herbivorous teeth
+(Bahain et al., 1992; Grün, 2009) implies consideration on the
+evolution of the dose-rate over time according to the post-mortem
+uranium incorporation through the calculation of a speciﬁc U-uptake parameter (p-parameter) for each dental tissue, except for
+samples showing evidence of uranium loss. Such a combined
+approach is based on a single age model for each tooth analyzed.
+The dose rates originating from the different tissues constituting
+the tooth and the deduced age estimate depend strongly on the
+modeling of the uranium uptake rate that occurred over the burial
+history of the sample. Different models describing different Uincorporation kinetics had been proposed earlier to calculate ESR
+ages, such as the early uptake (EU) and linear uptake (LU) models
+(Bischoff and Rosenbauer, 1981; Ikeya, 1982), but the ESR-US
+approach allows a more detailed description of the uranium
+incorporation, and thus a better estimation of the age (Falguères
+et al., 1997; Grün et al., 1998).
+2.2.2.1. Samples selection and preparation. Among the thirteen
+herbivorous teeth initially selected, seven showed a good state of
+preservation and were prepared for analyses. The samples (four
+
+bovid teeth, two horse ones and one of Rhino) come from two
+different sections in the site. Two teeth QS0504 and QS0505 were
+sampled in square M/14, between 475 and 485 cm below datum.
+The ﬁve other samples (QS0502, 0503, 0507, 0508, 0510) were
+taken in an area where the majority of the analyzed burnt ﬂints
+were found (Fig. 3).
+The dental tissues (enamel, dentine, and cement when present)
+of each tooth were separated and cleaned mechanically using a
+dentist drill. Enamel was then ground, and sieved. Nine enamel
+aliquots (about 100 mg each) of the 100e200 mm grain-size fraction
+were irradiated respectively with doses of 200, 320, 500, 800, 1250,
+2000, 3200, 5000, 8000 Gy, using a calibrated Co-60 source (IBL
+gamma source, LNHB, CEN Saclay). ESR-signal intensities of irradiated and natural aliquots were measured with an EMX Bruker Xband spectrometer, with the following measurement conditions:
+10 mW microwave power, 0.1 mT amplitude modulation, 10 mT
+scan range, 80 ms time constant, 100 kHz modulation frequency.
+Each measurement was repeated 3 times. The equivalent doses DE
+were determined from the asymmetric enamel signal at g ¼ 2.0018
+by the additive method, using an exponential ﬁtting (Grün, 1989;
+Yokoyama et al., 1985).
+U-series analyses were made for each dental tissue. Samples
+(between 0.1 and 3 g) were dissolved in HNO3, and spiked with
+232 228
+U/ Th. U and Th were ﬁrstly separated using an anion exchange resin column (Dowex 1  8; 100e200 mesh) in HCl-form.
+The separated fractions of U and Th were then puriﬁed with a
+UTEVA resin column and a second anion exchange resin column,
+respectively. Prior to the analysis of U and Th using alpha-ray
+spectrometry, the two elements were extracted by TTA/benzene
+solution and deposited on steel discs.
+ESR-US ages were calculated with the ESR-DATA program (Grün,
+2009), using an alpha efﬁciency of 0.13  0.02 according to Grün
+and Katzenberger-Apel (1994), and Monte-Carlo beta attenuation
+factors based on the thickness of the tooth enamel and outer layers
+removed (Marsh et al., 2002). In addition, water content was estimated to be 3 wt% in the enamel and 7 wt% in the dentine and
+cement. The environmental (external gamma and cosmic) dose
+rates were deduced from the analysis of the TL dosimeters.
+Gamma-ray spectrometry was used to determine the radioelements (U, Th and K) contents of sediments in which the teeth were
+collected and the external beta dose rate to which the dental tissues
+had been subjected was calculated according to Adamiec and
+Aitken (1998). In measuring these sediment samples, no signiﬁcant disequilibrium in the U-series was detected. The effect of Ra
+and Rn loss in each tissue was determined by combining the alpharay and gamma-ray data (Bahain et al., 1992).
+2.3. Dating results
+The dating results (Table 1 with TL ages, 2 and 3 with ESR-US
+data) are displayed in four batches on Fig. 5, starting with samples of the mid upper sequence (elevations 375e415 below datum;
+TL ages) from Square K/10, followed by the dates from the Eastern
+Microfauna-Bearing Area in the lower part of the upper sequence
+(elevations 475e485 cm below datum; ESR-US ages), and ﬁnally
+the Deep Pit Area (TL and ESR-US ages) in two batches e one in
+which samples come from the upper part of the Deep Pit (upper
+part of the lower sequence, elevations 560e660 cm below datum)
+and a second, for samples from the mid lower sequence (elevations
+660e750 cm below datum).
+2.3.1. Square K/10
+The 8 selected burnt ﬂints from Square K/10 have been found at
+elevations between 375 and 415 cm below datum, and yielded
+consistent ages. For this set of samples, the environmental dose-
+
+N. Mercier et al. / Journal of Archaeological Science 40 (2013) 3011e3020
+
+3017
+
+Table 1
+Dosimetric data relevant to burnt ﬂints dated using the TL method. The S-a system deﬁned by Valladas and Valladas (1982) was used for characterizing the relative efﬁciency of
+alpha to beta particles. The external dose rate includes a cosmic contribution (110  10 mGy/a) calculated after Prescott and Hutton (1994) and assuming that this dose rate did
+not signiﬁcantly change through time since the bloks constituting the roof before its collapse covered the archaeological deposits when the site has been discovered.
+Sample no.
+
+Location
+square
+
+Z (cm)
+
+U
+(ppm)
+
+Th
+(ppm)
+
+K (%)
+
+a-sensitivity
+(mGy/a/103 a)
+
+Dose-rate (mGy/a)
+Alpha
+
+Beta
+
+Internal
+
+
+
+External
+
+
+
+Total
+
+
+
+QS9*
+QS10
+QS12
+QS16
+QS18
+QS19
+QS22
+QS26
+QS30
+QS31a*
+QS31b
+QS43
+QS33
+QS48b*
+QS51
+QS34
+QS54
+QS53a
+QS46
+QS37
+QS41a
+QS41b
+QS56
+QS59
+
+K10
+K10
+K10
+K10
+K10
+K10
+K10
+K10
+F13d
+F13d
+F13d
+H15
+F13d
+H14
+H14
+F13d
+116
+H14
+H15
+F13d
+F15d
+F15d
+116
+116
+
+375e380
+375e380
+375e380
+385e390
+385e390
+395e400
+400e405
+410e415
+560e565
+565e570
+565e570
+565e570
+590e593
+595e595
+610e615
+630e635
+660e665
+665e670
+670e675
+675e680
+675e680
+675e680
+690e695
+745e750
+
+3.11
+0.59
+1.14
+0.57
+0.82
+0.39
+0.16
+0.79
+0.61
+0.74
+1.87
+0.64
+0.80
+2.84
+0.80
+0.80
+1.45
+1.07
+0.21
+0.99
+0.21
+0.28
+0.94
+0.41
+
+0.01
+0.01
+0.09
+0.13
+0.05
+0.12
+0.03
+0.02
+0.06
+0.12
+0.08
+0.14
+0.11
+0.04
+0.12
+0.15
+0.03
+0.14
+0.16
+0.01
+0.14
+0.14
+0.04
+0.15
+
+0.010
+0.011
+0.026
+0.036
+0.016
+0.027
+0.016
+0.007
+0.027
+0.025
+0.034
+0.028
+0.047
+0.011
+0.020
+0.053
+0.027
+0.040
+0.037
+0.008
+0.035
+0.034
+0.014
+0.035
+
+19.71
+24.34
+14.27
+17.36
+14.45
+14.21
+14.60
+18.04
+15.52
+17.70
+13.29
+18.02
+15.20
+15.38
+14.82
+19.33
+22.56
+20.65
+15.47
+18.29
+15.28
+16.87
+15.35
+16.08
+
+1021
+240
+278
+176
+202
+100
+42
+240
+162
+227
+576
+204
+211
+729
+207
+272
+547
+380
+67
+302
+64
+90
+243
+121
+
+462
+95
+189
+115
+134
+81
+37
+122
+111
+130
+302
+119
+157
+424
+136
+163
+257
+191
+65
+151
+62
+71
+149
+91
+
+1512
+339
+476
+297
+341
+185
+80
+365
+277
+363
+888
+327
+372
+1171
+349
+442
+793
+579
+133
+458
+129
+165
+398
+214
+
+206
+58
+46
+39
+31
+13
+5
+27
+21
+27
+78
+24
+29
+102
+33
+33
+77
+86
+9
+69
+8
+11
+29
+14
+
+386
+394
+415
+411
+415
+408
+415
+450
+412
+411
+414
+387
+417
+390
+389
+431
+409
+367
+370
+444
+440
+433
+312
+390
+
+27
+28
+61
+30
+30
+30
+30
+33
+30
+30
+30
+27
+30
+28
+28
+32
+29
+26
+28
+33
+32
+31
+20
+28
+
+1898
+733
+890
+708
+756
+593
+495
+815
+689
+774
+1302
+715
+789
+1561
+738
+872
+1202
+946
+503
+902
+569
+599
+710
+604
+
+208
+64
+76
+50
+43
+32
+31
+43
+37
+40
+83
+37
+42
+106
+43
+46
+83
+89
+30
+76
+33
+33
+35
+32
+
+rate is w400 mGy/a, typical of an environment enriched in limestone fragments and poor in clay (Mercier et al., 1995b). In contrast
+to this homogenous dosimetry, these samples show very different
+U contents, ranging from 0.16 to 3.11 ppm, which generate internal
+dose-rates between w80 and 1512 mGy/a. The corresponding
+equivalent doses DE are correlated to these internal dose-rates,
+showing also large differences (from w143 to 412 Gy). This good
+correlation leads to consistent TL ages (Table 1) indicating the
+reliability of these individual results: from them, a mean age of
+257  20 ka was obtained after sample QS9 was discarded because
+
+Fig. 5. TL (dark dots) and ESR/U-series (open dots) ages as a function of depth (below
+datum).
+
+De
+(Gy)
+
+
+
+Age
+(ka)
+
+
+
+412
+163
+217
+184
+198
+163
+143
+202
+290
+159
+340
+204
+209
+312
+192
+205
+245
+229
+153
+278
+121
+133
+180
+163
+
+13
+4
+18
+5
+7
+4
+7
+20
+21
+20
+40
+25
+19
+22
+17
+24
+12
+29
+14
+29
+10
+12
+9
+11
+
+217
+222
+244
+260
+262
+275
+289
+248
+421
+205
+261
+285
+265
+200
+260
+235
+204
+242
+304
+308
+213
+222
+254
+270
+
+35
+27
+29
+26
+22
+20
+25
+25
+38
+24
+31
+32
+26
+22
+27
+26
+19
+48
+33
+43
+22
+23
+16
+23
+
+of its U distribution heterogeneity (Table S2). Square K/10 yielded a
+rich blade-dominated Amudian industry (Barkai et al., 2009;
+Shimelmitz et al., 2011) and a use wear study of the industry has
+shown that blades were used mainly for meat cutting (Lemorini
+et al., 2006). These results indicate that the material unearthed
+from Square K/10 should be attributed to MIS 8 and possibly to the
+beginning of MIS7.
+2.3.2. The Eastern Microfauna-Bearing Area
+Two teeth QS0504 and QS0505 from Square M/14 at elevations
+475e485 cm below datum, some 60e70 cm below the lower
+elevation of the dated ﬂints from Square K/10 were dated. As for Useries dates from the sample Q6 ﬂowstone (see Gopher et al., 2010),
+they exhibit an uranium content ranging between 4.2 and 7.6 ppm
+in enamel and w75 ppm in dentine which is higher than the U
+concentration observed in the other teeth (except QS0508)
+(Table 2).
+Even though these two samples show very different U-series
+and ESR data, they yielded similar ages if we take into account the
+associated uncertainties (Table 3). QS0505 has an DE three times
+higher than that of QS0504. A signiﬁcant difference in the internal
+dose is also observed mainly due to the great difference of uranium content in the two teeth. Similarly, the isotopic ratios are
+different and range between 0.7 (dentine) and 0.9 (enamel) for
+230
+Th/234U. The calculated ages (280 þ 40/37 and 252  18 ka)
+are similar in spite of these different data expressed by p-values
+between 0 (linear uptake, LU) and 1 (early uptake, EU) for
+QS0505 and by a recent uranium uptake (p-values > 0) for
+QS0504. These results are statistically rather similar to those obtained on the 8 burnt ﬂint samples of Square K/10, despite the
+difference of elevation (w60 cm), and should also be attributed to
+MIS 8. The Eastern Microfauna Bearing Area yielded a bladedominated Amudian industry (Barkai et al., 2009; Shimelmitz
+et al., 2011) as well as a rich assemblage of micromammals and
+reptiles (Maul et al., 2011). Two human teeth were found in this
+area in Square M/13 at elevation 360e370 cm below datum
+(Hershkovitz et al., 2011).
+
+3018
+
+N. Mercier et al. / Journal of Archaeological Science 40 (2013) 3011e3020
+
+Table 2
+ESR and U-series data of fossil herbivore teeth from Qesem Cave. E ¼ enamel, D ¼ dentine, C ¼ cement. Uncertainties for isotopic ratios are given with 1 sigma. The initial (T)
+and removed enamel thicknesses are used for age calculation. The ﬁrst value corresponds to the removed enamel on dentine side and the second value to the sediment (or
+cement when present) side. Equivalent doses (DE) were determined through exponential ﬁtting by additive dose method.
+Sample
+
+Faunal species
+
+QS0505
+
+Bovid
+
+QS0504
+
+Bovid
+
+QS0507
+
+Horse
+
+QS0503
+
+Bovid
+
+QS0508
+
+Bovid
+
+QS0502
+
+Horse
+
+QS0510
+
+Rhinoceros
+
+D
+E
+D
+E
+D
+E
+C
+D
+E
+D
+E
+D
+E
+C
+D
+E
+
+Square
+
+Elevation
+(cm)
+
+U
+(ppm)
+
+234
+
+M14
+
+475e480
+
+M14
+
+430e435
+
+72.81
+7.61
+75.15
+4.28
+42.45
+1.19
+39.85
+24.75
+0.85
+94.48
+11.85
+22.03
+1.11
+22.05
+11.25
+0.18
+
+1.280
+1.233
+0.991
+0.980
+0.960
+0.959
+0.949
+0.930
+0.988
+1.015
+1.032
+0.974
+0.983
+0.944
+1.148
+1.171
+
+F14
+
+570e575
+
+G15
+
+585e590
+
+116
+
+600e605
+
+G15
+
+625e630
+
+116
+
+700e705
+
+U/238U
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+230
+
+0.033
+0.021
+0.023
+0.023
+0.018
+0.026
+0.014
+0.022
+0.027
+0.016
+0.027
+0.024
+0.039
+0.017
+0.031
+0.056
+
+2.3.3. The upper part of the Deep Pit Area
+For burnt ﬂints coming from the upper part of the Deep Pit Area,
+at a depth between 560 and 635 cm below datum, TL ages (Table 1)
+are highly scattered (from w200 to w420 ka). One can however
+notice that 5 of the 8 samples yielded ages between 235  26 and
+285  32 ka, quite close to the previously presented ages. Two of
+the other three samples (i.e. QS31a & QS48b) have apparent relatively young ages (w200 ka) but they showed white and gray zonations which were difﬁcult to remove during preparation. Yet,
+Neutron Activation Analyses (NAA) performed on samples showing
+this kind of zonation (Table S2, supplementary data) had indicated
+that these zones may have different U contents, with variations up
+to a factor of 3, from w1 to w3 ppm (Selo et al., 2009). In consequence, it has been suspected that the determined U content is not
+fully representative of the fraction used for TL analyses. Thus, in
+calculating mean ages, these two results (indicated with star in
+Table 1) have been discarded. Most interesting is the case of sample
+QS30 (depth 560e565) which gave an age of 421  38 ka. As this
+sample was homogenous, zonation is not suspected and its U
+content (0.61 ppm) remains on the average of most of other samples. Consequently, the only possibility for this sample to have an
+age close to the other ones (w270 ka) is to suppose that its external
+dose-rate was w800 mGy/a. However, such a high external doserate is not realistic at Qesem Cave because of the nature of the
+sediment (dominated by limestone blocks and fragments in these
+layers). Moreover, no dosimeter recorded such a high value (see
+Table S1). Therefore, the possibility remains that this heated artifact is not in its original location and comes from an older occupation of the cave. We can only speculate how this ﬂint item
+reached the position in which it was found: it may have been
+retrieved in the past from its original context or discarded before
+
+Th/234U
+
+0.900
+0.702
+0.480
+0.419
+0.352
+0.350
+0.386
+0.363
+0.307
+0.712
+0.605
+0.444
+0.361
+0.519
+0.970
+0.771
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+222
+
+0.033
+0.023
+0.017
+0.015
+0.011
+0.017
+0.011
+0.014
+0.016
+0.019
+0.048
+0.016
+0.018
+0.015
+0.037
+0.043
+
+Rn/230Th
+
+0.24
+0.77
+0.28
+0.31
+0.34
+0.69
+0.24
+0.30
+0.54
+0.24
+0.77
+0.34
+0.78
+0.25
+0.31
+1.0
+
+T enamel
+(mm)
+
+Removed
+enamel (mm)
+
+DE(Gy)
+
+1.41
+
+0.19e0.19
+
+661  7
+
+1.05
+
+0.10e0.06
+
+264  6
+
+1.25
+
+0.07e0.13
+
+197  4
+
+1.11
+
+0.04e0.10
+
+184  5
+
+1.20
+
+0.08e0.12
+
+550  9
+
+1.13
+
+0.09e0.11
+
+147  3
+
+2.02
+
+0.13e0.14
+
+171  4
+
+being reused or recycled, a phenomenon well represented
+throughout the layers of the cave (e.g. Barkai et al., 2010), or it was
+displaced by post depositional processes. Whatever the reason is,
+this sample yielded the oldest TL date; it is interesting to notice that
+this result is identical to the oldest date obtained for the U-series
+(Gopher et al., 2010) and close to the one obtained by ESR-US on
+QS0503 (388 þ 23/22 ka). In discarding unreliable samples (i.e.
+QS31a and QS48b) as well as QS30 because of its surprising great
+age, a mean TL age of 261  16 ka (corresponding to MIS 8) is obtained for the Upper part of the Deep Pit Area.
+ESR/U-series analyses have also been performed on 4 teeth
+(QS0502, QS0503, QS0507, QS0508) found in this area. These teeth
+have been discovered at elevations ranging between 570 and
+630 cm below datum. Except for QS0508, the U content is quite
+similar in the teeth ranging between 0.85 and 1.18 ppm in enamel
+and between 22 and 42 ppm in dentine and cement tissues. QS0508
+exhibits a U-content which is 10 times higher in the enamel and 2e
+4 times higher in the dentine than that observed in the other
+samples. These high concentrations lead to an annual dose value 5
+times higher and an De 2 or 3 times higher compared to that of the
+other samples. QS0508 is the only sample presenting a 234U/238U
+ratio >1. The other samples exhibit a 234U loss (or 238U excess?)
+which can reach 10% versus the QS0508 isotopic ratio. These data
+suggest that the teeth underwent a complex geochemical history
+with probably a U-leaching followed by a very recent uptake which
+occurred in all the teeth including QS0508 as proven by the pvalues (all greater than 1) and resulting in scattered ages ranging
+from w225 to w388 ka. Because of this complex history, these last
+results are considered to be only indicative of the time range.
+Taken as a whole, most of the selected TL and ESR/U-series results obtained for samples from the Upper part of the Deep Pit Area,
+
+Table 3
+Dosimetric data relevant to teeth dated using the combined ESR/U-series method.
+Samples
+
+Square
+
+Z (cm)
+
+Dose rates (mGy/a)
+
+b þ g þ cosm.
+
+a þ b internal
+
+b dentin
+
+b cement
+
+Annual
+
+(Gy)
+
+QS0505
+QS0504
+QS0507
+QS0503
+QS0508
+QS0502
+QS0510
+
+M14b-d
+M14b-d
+F14d
+G15c
+I16
+G15d
+I16
+
+475e480
+480e485
+570e575
+585e590
+600e605
+625e630
+700e705
+
+612
+665
+521
+429
+412
+374
+433
+
+1364
+198
+42
+17
+1563
+44
+40
+
+377
+183
+52
+29
+468
+42
+52
+
+e
+e
+48
+e
+e
+50
+e
+
+2353
+1046
+663
+475
+2443
+510
+525
+
+661.1
+264.1
+197.0
+184.0
+549.9
+147.4
+171.2
+
+p-Values
+
+
+
+
+
+
+
+
+
+6.9
+6.4
+4.0
+5.0
+8.7
+3.3
+4.4
+
+Age (ka)
+
+p enamel
+
+p dentine
+
+p cement
+
+0.23
+1.59
+3.39
+6.34
+0.13
+3.01
+0.38
+
+0.84
+0.93
+3.39
+4.6
+0.58
+1.71
+0.97
+
+e
+e
+2.63
+e
+e
+0.91
+e
+
+283
+252
+298
+388
+225
+289
+326
+
+þ
+
+þ
+þ
+þ
+þ
+þ
+
+40/37
+18
+15/14
+23/22
+77/59
+19/17
+20/18
+
+N. Mercier et al. / Journal of Archaeological Science 40 (2013) 3011e3020
+
+except two results (QS0503: 388 þ 23/22 ka and QS30:
+421  38 ka), can be attributed to MIS 8, as it was the case for
+samples from Square K10 and the Eastern Microfauna Bearing Area.
+But as indicated by Fig. 5, these dates do not correlate with the
+depth.
+2.3.4. The lower part of the Deep Pit Area
+The 8 burnt ﬂints from the lower part of the Deep Pit
+(depth > 660 cm below datum) come from Squares H/14 and I/16,
+on the east side of this pit, and from Squares F/13d and F/15d, on the
+west side. The environmental dose-rates recorded by the dosimeters are relatively low but they are scattered, ranging from w312 to
+444 mGy/a. This spread is observed at the scale of one square meter :
+for instance in Square I/16, dose-rates of 312 and 409 mGy/a were
+measured for depths of 660 and 690 cm, respectively. This variability could be explained as already noted by the presence of
+blocks of limestone which are almost free of radioactivity, as
+opposed to ﬁne sediments present between these blocks where the
+dosimeters could be inserted.
+The TL ages are also relatively scattered in this sector, varying
+from 204  19 to 308  43 ka, even though 5 samples out of 8
+provided ages older than 242 ka. Two of the other three samples,
+QS41a and QS41b, have very low radioelement contents, and have
+therefore relatively low internal dose-rates (<170 mGy/a). Their
+apparent ages are consequently signiﬁcantly dependent on the
+environmental dose-rates used for calculation. If the dosimetric
+environment of these pieces (deﬁned as a sphere of w30 cm of
+radius in which gamma rays are generated by the decay of radioelements) was relatively rich in limestone, the external doserate to which these samples have been exposed was certainly
+lower than the value recorded by the closest dosimeter. For
+instance, one can easily show that if samples QS41a and QS41b
+had received an external dose-rate equal to the lowest dose-rate
+measured in this sector, i.e. 312 mGy/a, their apparent ages
+would be w275 and w279 ka, respectively, indiscernible to the
+ages of the other 5 samples. Even though one has no reason to
+prefer one external dose-rate over another, this simple calculation
+indicates how sensitive the apparent ages of these two samples
+are. On the contrary, sample QS54 has a relatively high U content,
+in comparison to most of the other samples (1.46 ppm) leading to
+an internal dose-rate almost twice the value of the external doserate. The age of this sample (204  19 ka) is therefore less
+dependent on a misﬁt between the estimated external dose-rate
+and the value it actually received during burial. Without considering the two samples QS41a and QS41b, a mean TL age of
+264  36 ka is obtained for the set of samples found at a depth
+greater than 660 cm.
+Only one tooth (QS0510) coming from the lower part of the
+Deep Pit, found at elevations 700e705 cm below datum was
+available for combined ESR/U-series analyses. Among all the
+considered samples, this rhino tooth exhibits the lower uranium
+content in its tissues (0.18 ppm for enamel and 11.24 ppm for
+dentine). The isotopic ratios are comprised between 1.15 and
+1.17 for 234U/238U and between 0.97 and 0.77 for 230Th/234U, for
+enamel and dentine tissues respectively. The annual dose is low
+compared to some teeth found in the pit at a little higher
+elevation. P-values range between 0 and 1 (0.40 and 0.98
+for enamel and dentine respectively) and yielded an age of
+326 þ 20/18 ka. It then falls in the time range covered by the
+TL ages (see Fig. 5) which are, as in the Upper part of the Deep
+Pit Area, not ordered by depth, probably indicating stratigraphic
+disturbances. However, considering the dating results obtained
+for the Upper part of the Deep Pit Area, it seems likely that
+the Lower part of this area can be correlated to MIS 8 and
+possibly 9.
+
+3019
+
+3. Discussion
+When looking at the results after the selection process has been
+made (Fig. 5), it seems that the TL and ESR/U-series ages increase
+with depth in the upper part of the sequence (i.e. Square K/10 and
+the Eastern Microfauna-Bearing Area), ranging from 217  35 to
+289  25 ka and from 283 þ 40/37 to 252  18 ka, respectively.
+Two dates inversions exist however if we do not consider at ﬁrst
+sight the associated uncertainties : one explanation could be that
+local disturbances affected the sediments, moving for instance a
+piece vertically, but it is more likely that these inversions which are
+of the same order than the individual age uncertainties (w25e
+30 ka), are related to the difﬁculty in estimating the dosimetric
+parameters. Consequently, for the sake of the discussion here, one
+has to consider the results obtained in an area as a whole and then
+deﬁne the time range covered by the dates. Following this remark,
+the results shown in Fig. 5 indicate that the sediments of Square K/
+10 and the Eastern Microfauna-Bearing Area were likely deposited
+during MIS 8. However, considering the uncertainties associated
+with the TL and ESR/U-series individual results and even though
+the two dated samples recovered in the Eastern MicrofaunaBearing Area came from a greater depth, it is too early to
+conclude that the sediments were deposited in this area a long time
+before those of Square K/10.
+For the Upper and Lower part of the Deep Pit Area, all results
+except two are in the w200e350 ka time interval, and do not seem
+to increase with depth. Nevertheless, looking at the results distribution and considering the conclusions drawn for Square K10 and
+for the Eastern Microfauna Bearing Area, this suggests that the
+more likely time interval for deposition of the sediments from the
+Upper and Lower parts of the Deep Pit is MIS 8, and possibly 9. One
+has also to consider the two results which gave ages greater than
+w350 ka, possibly indicating an older occupation of the site during
+MIS 11 or 10. The location of these samples in the Upper Part of the
+Deep Pit Area remains questionable and the above mentioned
+stratigraphic problems identiﬁed in this area need to be tackled.
+Considering the chronological available database for Lower
+Paleolithic Acheulian in the Levant that predates the AYCC and the
+earliest dates available for the Middle Paleolithic Mousterian,
+postdating the AYCC (see discussion in Gopher et al., 2010 and
+references therein), the results obtained in this study provide
+further support on the attribution of the AYCC to MIS 8 and 9, thus
+positioning the end of the Lower Paleolithic in this region. The fact
+that the distinct Amudian industry appears all along the Qesem
+Cave sequence and the fact that the Yabrudian industry is known in
+different parts of the stratigraphy from top (at elevation 130e
+150 cm below datum), through elevations 560e600 cm below datum, and somewhat deeper in a newly excavated area in Squares BE/15-16 (reaching elevation 630 cm below datum) supports the
+suggestion that these two industries of the AYCC would be
+contemporaneous at Qesem Cave.
+4. Conclusion
+The application of the TL and ESR/U-series dating methods at
+Qesem Cave allowed, despite the various problems discussed
+above, to obtain results which are generally in agreement. These
+new chronological data support a time interval of hominid-bearing
+occupation at the cave, likely during MIS 8 (and possibly at the
+beginning of MIS7) for the Upper part of the sequence (Square K/10
+and Eastern Microfauna-Bearing Area) and MIS 8 and likely 9 for
+the Deep Pit Area. An older occupation of the cave before MIS 8-9 is
+also conceivable on the base of two dating results (MIS 11-10). This
+time interval is therefore similar with those deﬁned on the basis of
+the U-series dates obtained at Qesem Cave (Gopher et al., 2010 and
+
+3020
+
+N. Mercier et al. / Journal of Archaeological Science 40 (2013) 3011e3020
+
+references therein) suggesting no time gap between the growth of
+speleothems and the occupation period. Moreover, since w2.5 m of
+sediments above the highest dated samples and over 2.5 m of
+sediments below the deepest dated samples were not dated yet, the
+range of dates presented in this paper correlates to the middle part
+of the human occupation at the cave.
+In the future, the application of the ESR/U-series and TL dating
+methods to ﬂints and animal teeth that have been brought into the
+cave at least as early as 420 ka, will probably contribute to reﬁne the
+chronology of the Acheuleo-Yabrudian Cultural Complex and of the
+human remains found at the cave, and to precise the time duration
+during which the Amudian and Yabrudian industries were
+produced.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at http://
+dx.doi.org/10.1016/j.jas.2013.03.002.
+References
+Adamiec, G., Aitken, M.J., 1998. Dose-rate conversion factors: update. Ancient TL 16,
+37e50.
+Bahain, J.J., Yokoyama, Y., Falguères, C., Sarcia, M.N., 1992. ESR dating of tooth enamel:
+a comparison with K-Ar dating. Quaternary Science Reviews 11, 245e250.
+Barkai, R., Gopher, A., Lauritzen, S.E., Frumkin, A., 2003. Uranium series dates from
+Qesem Cave, Israel, and the end of the Lower Palaeolithic. Nature 423, 977e979.
+Barkai, R., Gopher, A., Shimelmitz, R., 2005. Middle Pleistocene blade production in
+the Levant: an Amudian assemblage from Qesem Cave, Israel. Eurasian Prehistory 3, 39e74.
+Barkai, R., Lemorini, C., Shimelmitz, R., Lev, Z., Stiner, M.C., Gopher, A., 2009. A blade
+for all seasons? Making and using Amudian blades at Qesem Cave, Israel. Human Evolution 24, 57e75.
+Barkai, R., Lemorini, C., Gopher, A., 2010. Palaeolithic cutlery 400 000e200 000
+years ago: tiny meat-cutting tools from Qesem Cave, Israel. Antiquity 84, 325.
+Ben-Dor, M., Gopher, A., Hershkovitz, I., Barkai, R., 2011. Man the fat hunter: the
+demise of Homo erectus and the emergence of a new hominin lineage in the
+Middle Pleistocene (ca. 400 kyr) Levant. PLoS One 6 (12), e28689. http://
+dx.doi.org/10.1371/journal.pone.0028689.
+Bermúdez de Castro, J.-M., Martinón-Torres, M., 2012. A new model for the evolution of the human Pleistocene populations of Europe. Quaternary International. http://dx.doi.org/10.1016/j.quaint.2012.02.036.
+Bischoff, J.L., Rosenbauer, R.J., 1981. Uranium-series dating of human skeletal
+remains from the Del Mar and Sunnyvale sites, California. Science 213,
+1003e1005.
+Falguères, C., Bahain, J.J., Saleki, H., 1997. U-Series and ESR dating of teeth from
+Acheulian and Mousterian levels at La Micoque (Dordogne, France). Journal of
+Archaeological Science 24, 537e545.
+Frumkin, A., Karkanas, P., Bar-Matthews, M., Barkai, R., Gopher, A., ShahackGross, R., Vaks, A., 2009. Gravitational deformations and ﬁllings of aging caves:
+the example of Qesem karst system, Israel. Geomorphology 106, 154e164.
+Garrod, D.A.E., Bate, D.M.A., 1937. The Stone Age of Mount Carmel. In: Excavations at
+the Wadi Mughara, vol. I. Clarendon Press, Oxford.
+Gopher, A., Barkai, R., Shimelmitz, R., Khalaily, M., Lemorini, C., Heshkovitz, I.,
+Stiner, M., 2005. Qesem Cave: an Amudian site in central Israel. Journal of the
+Israel Prehistoric Society 35, 69e92.
+Gopher, A., Ayalon, A., Bar-Matthews, M., Barkai, R., Frumkin, A., Karkanas, P.,
+Shahack-Gross, R., 2010. The chronology of the Late Lower Paleolithic in the
+Levant: U series dates of speleothems from Middle Pleistocene Qesem Cave,
+Israel. Quaternary Geochronology 5, 644e656.
+Grün, R., Schwarcz, H.P., Chadam, J., 1988. ESR dating of tooth enamel: coupled
+correction for U-uptake and U-series disequilibrium. Nuclear Tracks 14, 237e241.
+Grün, R., 1989. Electron Spin Resonance (ESR) dating. Quaternary International 1,
+65e109.
+Grün, R., 2009. The DATA program for the calculation of ESR age estimates on tooth
+enamel. Quaternary Geochronology 4, 231e232.
+Grün, R., Katzenberger-Apel, O., 1994. An alpha irradiator for ESR dating. Ancient TL
+12, 35e38.
+Grün, R., Stringer, C., 2000. Tabun revisited: revised ESR chronology and new ESR
+and U-series analyses of dental material from Tabun C1. Journal of Human
+Evolution 39 (6), 601e612.
+Grün, R., Huang, P., Huang, W., Mc Dermott, F., Thorn, A., Stringer, C., Yan, G.,
+1998. ESR and U-series analyses ot teeth from the palaeoanthropological
+site of Hexian, Anhui Province, China. Journal of Human Evolution 34,
+555e564.
+
+Hershkovitz, I., Smith, P., Sarig, R., Quam, R., Rodríguez, L., García, R., Arsuaga, J.-L.,
+Barkai., R., Gopher, A., 2011. Middle Pleistocene dental remains from Qesem
+Cave, Israel. American Journal of Physical Anthropology 144, 575e592.
+Ikeya, M., 1982. A model of linear uranium accumulation for ESR age of Heidelberg
+(Mauer) and Tautavel bones. Japan Journal Applied Physics 22, 763e765.
+Jelinek, A., 1981. The Middle Palaeolithic in the southern Levant from the
+perspective of the Tabun Cave. In: Cauvin, J., Sanlaville, P. (Eds.), Préhistoire du
+Levant. CNRS, Paris, pp. 265e280.
+Jelinek, A., 1992. Problems in the chronology of the Middle Palaeolithic and the ﬁrst
+appearance of Early Modern Homo sapiens in Southwest Asia. In: Akazawa, T.,
+Aoki, K., Kimura, T. (Eds.), The Evolution and Dispersal of Modern Humans in
+Asia. Hokusen-Sha, Tokyo, pp. 253e276.
+Karkanas, P., Shahack-Gross, R., Ayalon, A., Bar-Matthews, M., Barkai, R., Frumkin, A.,
+Gopher, A., Stiner, M.C., 2007. Evidence for habitual use of ﬁre at the end of the
+Lower Paleolithic: site formation processes at Qesem Cave, Israel. Journal of
+Human Evolution 53, 197e212.
+Lemorini, C., Gopher, A., Shimelmitz, R., Stiner, M., Barkai, R., 2006. Use-wear
+analysis of an Amudian laminar assemblage from Acheuleo-Yabrudian Qesem
+Cave, Israel. Journal of Archaeological Science 33, 921e934.
+Lev, Z., 2010. Techno-typological Analysis of a Yabrudian Assemblage From Qesem
+Cave, Israel. Tel Aviv University. M.A. thesis.
+Marsh, R.E., Prestwich, W.V., Rink, W.J., Brennan, B.J., 2002. Monte Carlo determinations of the beta dose rate to tooth enamel. Radiation Measurements 35,
+609e616.
+Maul, L., Smith, K., Barkai, R., Barash, A., Karkanas, P., Shahack-Gross, R.,
+Gopher, A., 2011. Of men and mice at Middle Pleistocene Qesem Cave, Israel:
+small vertebrates, environment and biostratigraphy. Journal of Human Evolution 60, 464e480.
+Mercier, N., Valladas, H., Valladas, G., 1992. Observations on palaeodose determination with burnt ﬂints. Ancient TL 10, 28e32.
+Mercier, N., Valladas, H., Valladas, G., 1995a. Flint thermoluminescence dates from
+the CFR laboratory at Gif: contributions to the study of the chronology of the
+Middle Palaeolithic. Quaternary Science Reviews (Quaternary Geochronology)
+14, 351e364.
+Mercier, N., Valladas, H., Joron, J.-L., Schiegl, S., Bar-Yosef, O., Weiner, S., 1995b.
+Thermoluminescence dating and the problem of geochemical evolution of
+sediments e a case study: the Mousterian levels at Hayonim. Israel Journal of
+Chemistry 35, 137e141.
+Mercier, N., Valladas, H., 2003. Reassessment of TL age-estimates of burnt ﬂints
+from the paleolithic site of Tabun Cave, Israel. Journal of Human Evolution 45,
+401e409.
+Mercier, N., Valladas, H., Froget, L., Joron, J.-L., Reyss, J.-L., Weiner, S.,
+Goldberg, P., Meignen, L., Bar-Yosef, O., Kuhn, S.L., Stiner, M.C., Tillier, A.-M.,
+Arensburg, B., Vandermeersch, B., 2007. Hayonim Cave: a TL-based chronology for this Levantine Mousterian sequence. Journal of Archaeological
+Science 34, 1064e1077.
+Prescott, J.R., Hutton, J.T., 1994. Cosmic ray contributions to dose rates for luminescence and ESR dating: large depths and long-term time variations. Radiation
+Measurements 23, 497e500.
+Selo, M., Valladas, H., Mercier, N., Joron, J.-L., 2009. Investigations of the uranium
+distribution in ﬂint. Radiation Measurements 44, 615e619.
+Shimelmitz, R., Gopher, A., Barkai, R., 2011. Systematic blade production at late
+lower Paleolithic (400-200 kyr) Qesem Cave, Israel. Journal of Human Evolution
+61, 458e479.
+Stiner, M.C., Barkai, R., Gopher, A., 2009. Cooperative hunting and meat sharing
+400e200 kya at Qesem Cave, Israel. PNAS 106 (32), 13207e13212.
+Stiner, M.C., Gopher, A., Barkai, R., 2011. Hearth-side socioeconomics, hunting and
+paleoecology during the late Lower Paleolithic at Qesem Cave, Israel. Journal of
+Human Evolution 60, 213e233.
+Valladas, G., 1978. A gamma ray irradiator. PACT 3, 439e442.
+Valladas, H., 1992. Thermoluminescence dating of ﬂint. Quaternary Science Reviews
+11 (1/2), 1e5.
+Valladas, G., Valladas, H., 1982. Effet de l’irradiation alpha sur des grains de quartz. A
+specialist seminar on thermoluminescence dating. PACT 6, 171e178.
+Valladas, G., Mercier, N., Létuvé, R., 1994. A simple semi-automatic TL apparatus of
+new design. Ancient TL 12, 39e40.
+Valladas, H., Joron, J.-L., Valladas, G., Arensburg, B., Bar-Yosef, O., Belfer-Cohen, A.,
+Goldberg, P., Laville, H., Meignen, L., Rak, Y., Tchernov, E., Tillier, A.-M.,
+Vandermeersch, B., 1987. Thermoluminescence dates for the Neanderthal burial
+site at Kebara in Israel. Nature 330, 159e160.
+Valladas, H., Reyss, J.L., Joron, J.L., Valladas, G., Bar-Yosef, O., Vandermeersch, B.,
+1988. Thermoluminescene dating of Mousterian‘Proto-Cro-Magnon’ remains
+from Israel and the origin of modern man. Nature 331, 614e616.
+Valladas, H., Mercier, N., Joron, J.-L., Reyss, J.-L., 1998. Gif laboratory dates for Middle
+Paleolithic Levant. In: Akazawa, T., Aoki, K., Bar-Yosef, O. (Eds.), Neandertals and
+Modern Humans in Western Asia. Plenum Press, pp. 69e75.
+Weinstein-Evron, M., Tsatskin, A., Porat, N., Kronfeld, J., 1999. A 230Th/234U date for
+the Acheulo-Yabrudian layer in the Jamal Cave, Mount Carmel, Israel. South
+African Journal of Science 95, 186e188.
+Yokoyama, Y., Falguères, C., Quaegebeur, J.P., 1985. ESR dating of quartz from quaternary sediments: ﬁrst attempt. Nuclear Tracks 10, 921e928.
+
+

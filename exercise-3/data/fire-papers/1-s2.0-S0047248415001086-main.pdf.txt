@@ -1,0 +1,1294 @@
+Journal of Human Evolution 85 (2015) 22e34
+
+Contents lists available at ScienceDirect
+
+Journal of Human Evolution
+journal homepage: www.elsevier.com/locate/jhevol
+
+A previously undescribed organic residue sheds light on heat
+treatment in the Middle Stone Age
+Patrick Schmidt a, *, Guillaume Porraz b, c, Ludovic Bellot-Gurlet d, Edmund February e,
+line Paris d, Pierre-Jean Texier g, John E. Parkington h,
+Bertrand Ligouis f, Ce
+Christopher E. Miller f, Klaus G. Nickel i, Nicholas J. Conard a
+a
+
+Eberhard Karls University of Tübingen, Department of Prehistory and Quaternary Ecology, Schloss Hohentübingen, 72070 Tübingen, Germany
+CNRS, USR 3336, UMIFRE 25, Institut Français d'Afrique du Sud (IFAS), Johannesburg, South Africa
+Evolutionary Studies Institute, University of the Witwatersrand, Johannesburg, South Africa
+d
+Sorbonne Universit
+es, UPMC Universit
+e Paris 6, MONARIS “de la Mol
+ecule aux Nano-objets: R
+eactivit
+e, Interactions et Spectroscopies”, UMR 8233,
+UPMC-CNRS, 4 place Jussieu, 75252 Paris Cedex 5, France
+e
+University of Cape Town, Department of Biological Sciences, Rondebosch 7701, South Africa
+f
+Eberhard Karls University of Tübingen, Institute for Archaeological Sciences, Rümelinstrasse 23, 72070 Tübingen, Germany
+g
+CNRS, UMR 5199-PACEA, Universit
+e de Bordeaux 1, Talence, France
+h
+University of Cape Town, Department of Archaeology, Rondebosch 7701, South Africa
+i
+EberhardKarls University of Tübingen, Department of Geosciences, Applied Mineralogy, Wilhelmstraße 56, 72074 Tübingen, Germany
+b
+c
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 17 April 2014
+Accepted 1 May 2015
+Available online 12 June 2015
+
+South Africa has in recent years gained increasing importance for our understanding of the evolution of
+‘modern human behaviour’ during the Middle Stone Age (MSA). A key element in the suite of behaviours
+linked with modern humans is heat treatment of materials such as ochre for ritual purposes and stone
+prior to tool production. Until now, there has been no direct archaeological evidence for the exact
+procedure used in the heat treatment of silcrete. Through the analysis of heat-treated artefacts from the
+Howiesons Poort of Diepkloof Rock Shelter, we identiﬁed a hitherto unknown type of organic residue e a
+tempering-residue e that sheds light on the processes used for heat treatment in the MSA. This black
+ﬁlm on the silcrete surface is an organic tar that contains microscopic fragments of charcoal and formed
+as a residue during the direct contact of the artefacts with hot embers of green wood. Our results suggest
+that heat treatment of silcrete was conducted directly using an open ﬁre, similar to those likely used for
+cooking. These ﬁndings add to the discussion about the complexity of MSA behaviour and appear to
+contradict previous studies that had suggested that heat treatment of silcrete was a complex (i.e.,
+requiring a large number of steps for its realization) and resource-consuming procedure.
+© 2015 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Modern behaviour
+Silcrete heat treatment
+Residue analysis
+Transformative technology
+
+1. Introduction
+In recent years, human origins research has focused on South
+Africa as a key region for the beginnings of ‘modern human
+behaviour’ during the Middle Stone Age (MSA). The suite of behaviours that archaeologists view as characterizing the emergence of
+modernity includes the production of standardized stone tool types
+(Clark, 1988; McBrearty and Brooks, 2000) and elaborate bone tools
+(Henshilwood et al., 2001; Backwell et al., 2008), the invention of
+-Duhaut et al., 2013),
+compound adhesives (Wadley, 2010; Charrie
+
+* Corresponding author.
+E-mail address: patrick.schmidt@uni-tuebingen.de (P. Schmidt).
+http://dx.doi.org/10.1016/j.jhevol.2015.05.001
+0047-2484/© 2015 Elsevier Ltd. All rights reserved.
+
+symbolic behaviour (Henshilwood et al., 2002, 2009; Texier et al.,
+2013) and heat treatment of silcrete, a local, ﬁne-grained lithic raw
+material (Brown et al., 2009; Mourre et al., 2010). Because knapping
+heat-treated rock requires less force and allows better accuracy in
+obtaining the desired end-products (Crabtree and Butler, 1964;
+Purdy and Brooks, 1971; Inizan et al., 1976; Domanski et al., 1994;
+Schmidt et al., 2012) this knowledge may have been decisive in
+the evolutionary history of anatomically modern humans. Understanding the procedures used for lithic heat treatment, and the degree of complexity and investment associated with them, is thus of
+great importance. Some authors (Brown et al., 2009; Brown and
+Marean, 2010; Wadley, 2013; Wadley and Prinsloo, 2014) suggest a
+rather complicated procedure for heat treatment that is both time
+and resource consuming because it relies on slow, indirect heating in
+
+P. Schmidt et al. / Journal of Human Evolution 85 (2015) 22e34
+
+a sand-bath under a ﬁre specially built for this purpose. Others
+(Schmidt et al., 2013) have argued that heat treatment of silcrete
+might have been a much faster and more efﬁcient process using the
+glowing embers from regular domestic ﬁres.
+When silcrete is heated, it undergoes several readily identiﬁable
+physical changes. These changes include reddening (Schindler
+et al., 1982), occasional heat fracturing (Mercieca, 2000), the loss
+of porosity (Schmidt et al., 2013) and increased brittleness
+(Domanski and Webb, 1992). However, the identiﬁcation of these
+characteristics does not directly imply intentional heating since, in
+post-depositional contexts, unintentional heating of artefacts can
+occur through indirect heating below a hearth or due to natural
+ﬁres. Heat treatment may unambiguously be considered intentional only when one can demonstrate that an artefact was knapped after heating. This must be conﬁrmed on the basis of
+technological arguments such as fracture pattern and sequence of
+ﬂake negatives: fracture surfaces resulting from ﬂakes removed
+after heat treatment (post-heating surfaces) are smoother or more
+glossy than fracture surfaces from before heat treatment (preheating surfaces) (Olausson and Larsson, 1982; Schmidt, 2013). This
+difference of fracture pattern is due to heat-induced transformations of the rocks' mechanical properties (Schmidt et al.,
+2012, 2013; Schmidt, 2013) and a comparison of the roughness
+allows one to determine whether a ﬂake was knapped before or
+after heat treatment.
+The scope of this work is to identify these markers of intentional
+heat treatment on silcrete artefacts from the Howiesons Poort of
+the South African MSA site of Diepkloof Rock Shelter (Western
+Cape, South Africa) and to compare them with experimental
+reference material. We also try to identify proxies that help us
+understand the procedures used for heat treatment in the MSA. In
+order to do so, we conducted heat treatment experiments using
+silcrete types recorded in the site and the wood of plant species
+growing in the vicinity of the shelter and documented in its MSA
+record (Cartwright, 2013). After a ﬁrst study (Schmidt et al., 2013)
+that addressed the thermally induced structural and crystallographic transformations in South African silcrete, in order to understand the parameters necessary for heat treatment of this
+material, we aim in the present study to test the hypotheses about
+heat treatment procedures that resulted from our initial mineralogical study.
+2. Materials and methods
+2.1. Archaeological samples
+We analysed all plotted silcrete artefacts from two Howiesons
+Poort (HP) stratigraphic units (SU) Frank and Frans. These two SUs
+were chosen because of their high proportion of silcrete artefacts
+(ca. 40% of all lithic material [Porraz et al., 2013]). They both belong
+to what has been called the ‘intermediate HP’, characterized technologically by the production of blades and bladelets and typologically by the production of backed tools and strangulatednotched pieces. All of the plotted silcrete artefacts coming from
+an excavated surface of 6 m2 (squares N-M6, N-M7, N-M8
+[Parkington et al., 2013]) were analysed and represent a total of 574
+pieces for the SU Frank and 691 pieces for the SU Frans. Additionally, one unplotted silcrete artefact recovered from a proﬁle
+collapse of the SUs John to Darryl (Intermediate and Late HP) was
+selected for destructive analyses.
+2.2. Experimental heat treatment
+For heat treatment experiments, we collected silcrete samples of
+good knapping quality from the Malmesbury area. Silcrete from this
+
+23
+
+region is one of the materials that the MSA inhabitants of Diepkloof
+used extensively (Porraz et al., 2013). We built a set of outdoor
+camp ﬁres using wood of four local southern African plant species
+that were reported in the charcoal record of the Diepkloof
+Howiesons Poort layers (Cartwright, 2013): Heeria argentea
+(Thunb.) Meissner, Diospyros glabra (L.), Searsia laevigata (L.) F.A.
+Barkley var. villosa (L.f.) Moffett and Podocarpus elongatus (Ait.) L'
+Herit. ex Pers. Three days before the heat treatment experiments,
+the wood of these four species was cut from living plants in the
+vicinity of the shelter. All ﬁres used during the experiments were
+started in the same way: ﬁrst, approximately 1e2 kg of the thinnest
+branches including green leaves was lit. When the leaves were
+burnt down and the thin branches became ﬁne glowing embers,
+the thick white smoke caused by the leave's moisture disappeared
+and the ﬁrst visible ﬂames appeared. The thicker branches were
+then progressively added, building up a stable camp ﬁre that could
+be sustained for several hours by adding more wood. This procedure allowed for the lighting of the freshly cut green wood without
+too much effort. Furthermore, this procedure allowed for the rapid
+formation of a cone of ash and embers at the base of the ﬁre (up to
+10 cm high at its centre) due to the burnt thin branches and leaves.
+The temperatures at different places within these camp ﬁre structures (ﬂames, glowing embers, ash cone at the base of the ﬁres)
+were monitored using K-type thermocouples. Based on these ﬁres,
+two experimental setups were used for heat treatment.
+[Exp. 1]: As suggested by Schmidt et al. (2013), we scraped some
+glowing embers away from the bottom part of the camp ﬁre and
+used these embers to cover a block of silcrete (at a distance of about
+30 cm from the actual ﬁre; Fig. 1a, b). The temperature evolution of
+three such silcrete/ember piles (P. elongatus, S. laevigata and
+D. glabra) was monitored with K-type thermocouples placed under
+the blocks before the experiment (the probes were placed beneath
+the blocks at >3 cm distance from the nearest glowing embers,
+measuring the effective heating rate in the silcrete). After four
+hours and 20 min the experiments were stopped and the silcrete
+was removed from the ashes that had cooled down.
+[Exp. 2]: A second experiment was conducted in parallel using
+two of the ﬁres (S. laevigata and D. glabra). For this, a block of silcrete was pushed directly into the ash-cone at the bottom of each
+ﬁre (Fig. 1c, d). Measuring the temperature evolution within these
+blocks was not straightforward because the ash-cone already had
+an initial high temperature before the blocks were introduced. We
+therefore ﬁrst placed a thermocouple at the bottom of the cone and
+then pushed the cold block of silcrete onto the probe. The blocks
+were left beneath the ﬁres until these had stopped burning and
+cooled down but temperature recording beneath the blocks was
+stopped after two hours.
+[Exp. 3]: We conducted a third set of experiments aiming to
+investigate the risk of overheating (Schmidt, 2014) of silcrete during the heat treatment procedure. This experiment did not aim to
+reproduce the actual conditions of heat treatment at Diepkloof but
+was designed to understand the relation between heat-induced
+fracturing (overheating) in different volumes of silcrete and high
+temperatures/fast heating-rates. For this, we tried to create
+‘extreme conditions’ by applying temperatures and heating-rates to
+the silcrete that are higher than what can be expected using wood
+of the plant species identiﬁed from the charcoal at Diepkloof
+(Cartwright, 2013). Experiment 3 was therefore realized with the
+same procedure as Experiment 1 but using a southern African
+woody species, Acacia erioloba E.Mey, which is not endemic to
+Diepkloof but does produce particularly high temperatures and fast
+heating rates. When glowing, the embers of A. erioloba maintain a
+temperature above 500  C for several hours without dying down,
+delivering a relatively high and constant amount of energy to the
+silcrete that is heated up to 550  C with a ramp rate of 20  C/min (a
+
+24
+
+P. Schmidt et al. / Journal of Human Evolution 85 (2015) 22e34
+
+Figure 1. Photographs and schematic drawings of the two experimental protocols used for heat treatment during Experiment 1 (a, b) and Experiment 2 (c, d). In (a), the heattreated silcrete block buried under the embers is marked by an arrow. Temperature ranges in the schematic drawings correspond to maximum temperatures measured during
+heat treatment experiments, cf. Figure 2.
+
+typical temperature curve measured during Experiment 3 is shown
+in the Supplementary Online Material [SOM]). We conducted these
+heating experiments with 10 silcrete blocks of different volume
+(Table 1).
+[Exp. 4]: To produce a larger reference collection of pre- and
+post-heating surfaces from a broader selection of silcrete types, we
+heat-treated 10 more blocks of different silcrete types from the
+West Coast of South Africa in an electrical furnace (average heating
+rate: 15  C/min; maximum temperature: 500  C; time at maximum
+temperature: two hours; then progressive cooling to room temperature). This larger reference collection helped in evaluating the
+smoothness of pre- and post-heating surfaces of the Diepkloof
+lithics by direct comparison. Sample provenances are summarized
+in Table 1 and petrographic and mineralogical descriptions of some
+of the samples can be found in Schmidt et al. (2013).
+The effective cooling rate of the silcrete appears to be important
+for successful heat treatment. During preliminary experiments
+aimed at setting some of the parameters for Experiments 1, 2 and 3,
+we observed a phenomenon that systematically leads to failure of
+the heat treatment. When we interrupted the heat treatment by
+removing the silcrete from the embers, a sequence of click sounds
+could be heard from within the pieces. Knapping of these pieces of
+silcrete after cooling to room temperature revealed them to be
+internally fractured and useless for stone tool production. This
+phenomenon was already observed by Micheelsen (1966) on ﬂint
+
+and can most likely be explained by stress created in the rocks
+during negative thermal expansion upon fast cooling. Despite the
+lack of conclusive experimental data, we believe that in the case of
+silcrete, cooling rate is more crucial to the success or failure of heat
+treatment than heating rate. In order to eliminate fast cooling rates
+as a possible source of failure, the pieces of silcrete that were heat
+treated during all of our experiments were removed from their
+heating environments only after these had naturally cooled to room
+temperature.
+2.3. Chemical analysis of residues
+Examining the archaeological and experimentally heat-treated
+silcrete, we observed a black residue deposited on the surfaces of
+some of the archaeological and experimental samples. This residue
+was analysed microscopically to characterize its structure and formation. We therefore selected one bladelet (DRSc1) recovered from
+a proﬁle collapse of the HP layers John to Darryl and, in order to
+compare the structure of the archaeological black residue with a
+modern reference sample, a ﬂake was removed from one of the
+experimentally heat-treated blocks from Experiment 3. These two
+samples were cut with a diamond-tipped rock saw perpendicular
+to the surfaces containing the residues, embedded in resin and dry
+polished to obtain plane sections for reﬂected light microscopy.
+During dry polishing of the sections, we used low pressure, slow
+
+P. Schmidt et al. / Journal of Human Evolution 85 (2015) 22e34
+
+25
+
+Table 1
+Silcrete samples, origins, sample sizes and conditions used for heat treatment.
+Exp. nr
+
+Sample nr
+
+Nearest town to outcrop
+
+Samples used during the experiments using ﬁres:
+[Exp. 1]
+WK-13-08b
+Malmesbury
+[Exp. 2]
+WK-13-08b
+Malmesbury
+[Exp. 1]
+WK-13-08b
+Malmesbury
+[Exp. 2]
+WK-13-08b
+Malmesbury
+[Exp. 1]
+WK-13-08b
+Malmesbury
+[Exp. 1]
+WK-13-08b
+Malmesbury
+[Exp. 3]
+WK-13-08b
+Malmesbury
+[Exp. 3]
+WK-13-08b
+Malmesbury
+[Exp. 3]
+WK-13-08b
+Malmesbury
+[Exp. 3]
+WK-13-08b
+Malmesbury
+[Exp. 3]
+WK-13-08b
+Malmesbury
+[Exp. 3]
+WK-13-08b
+Malmesbury
+[Exp. 3]
+WK-13-08b
+Malmesbury
+[Exp. 3]
+WK-13-08b
+Malmesbury
+[Exp. 3]
+WK-13-08b
+Malmesbury
+[Exp. 3]
+WK-13-08b
+Malmesbury
+Samples used during the furnace experiment:
+[Exp. 4]
+SA-11-2
+Redelinghuys
+[Exp. 4]
+SA-11-10A
+Philadelphia
+[Exp. 4]
+SA-11-12A
+Malmesbury
+[Exp. 4]
+SA-11-17A
+Velddrif
+[Exp. 4]
+SA-11-22A
+Piketberg
+[Exp. 4]
+SA-11-22B
+Piketberg
+[Exp. 4]
+SA-11-56
+Strandfontein
+[Exp. 4]
+SA-11-56b
+Strandfontein
+[Exp. 4]
+SA-11-61F
+Koekenaap
+[Exp. 4]
+SA-11-65B
+Brand se Baai
+
+Heating environment
+
+Weight (g)
+
+Volume (cm3)
+
+S. laevigata embers
+S. laevigata ash cone
+D. glabra embers
+D. glabra ash cone
+P. elongates embers
+H. argentea embers
+A. erioloba embers
+A. erioloba embers
+A. erioloba embers
+A. erioloba embers
+A. erioloba embers
+A. erioloba embers
+A. erioloba embers
+A. erioloba embers
+A. erioloba embers
+A. erioloba embers
+
+182
+397
+197
+188
+256
+169
+205
+301
+445
+569
+905
+1038
+1372
+1511
+1715
+1850
+83
+26
+166
+188
+109
+67
+56
+25
+33
+102
+
+furnace
+furnace
+furnace
+furnace
+furnace
+furnace
+furnace
+furnace
+furnace
+furnace
+
+HINC
+
+Tempering-residue
+
+69
+151
+75
+71
+97
+64
+78
+114
+169
+216
+344
+394
+521
+574
+651
+702
+
+No
+No
+No
+Yes
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+No
+Yes
+No
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+No
+No
+Yes
+No
+Yes
+No
+Yes
+
+32
+10
+63
+71
+41
+25
+21
+9
+13
+39
+
+No
+No
+No
+No
+No
+Yes
+No
+No
+No
+No
+
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+
+Volumes are calculated from the mass of the blocks based on the speciﬁc gravity of quartz 2.634 g/cm3. HINC ¼ Heat-induced non-conchoidal fracture.
+
+polishing-wheel speed and no water or oil for cooling to avoid any
+alteration or loss of organic matter through dissolution. The two
+sections were analysed under white and blue reﬂected light using a
+Leitz DMRX microscope with oil immersion lenses at magniﬁcations from 200 up to 1000.
+In the second step, we investigated the chemical composition of
+the archaeological residues by infrared spectroscopy using nondestructive micro-ATR analysis on the surfaces of six lithic artefacts from Diepkloof (DRSc1 and DRSc8 from the collapse of SUs
+John to Darryl; DRS894, DRS762, DRS2676 and DRS1276 from SU
+Frank). A Bruker IRscope II microscope with a 20 germanium-ATR
+objective connected to an FT-IR Equinox 55 spectrometer was used
+for this infrared ATR surface analysis (maximum size of the analysed area 100 mm2, spectra acquired between 600 and 4000 cm1,
+resolution 2 cm1). In order to compare the chemistry of the
+archaeological residue to a possible modern source material, we
+burned a drop of resin from H. argentea wood collected during
+ﬁeldwork and analyzed it using diamond ATR-IR (Agilent Cary 660IR FTIR spectrometer, spectra acquired between 600 and
+4000 cm1, resolution 1 cm1).
+Additionally, we acquired Raman spectra between 100 and
+1900 cm1 on the seven samples with a Horiba Jobin Yvon HR800
+spectrometer equipped with Notch Brag Grate ﬁlters, an Arþ
+exciting laser (wavelength 514 nm) and a 600 lines/mm grating.
+The spectrometer was calibrated using the 520.5 cm1 band of a Si
+crystal.
+3. Results
+
+ash cones at the bottom of these ﬁres showing temperatures above
+500  C.
+Temperature evolution curves of the embers/silcrete piles of
+Experiment 1 and of the silcrete in the ash-cones of Experiment 2
+are shown in Figure 2. Heat treatment of silcrete during Experiment
+1 produced maximum temperatures of z350  C using P. elongatus
+and S. laevigata and z390  C using D. glabra (Fig. 2a). Effective
+heating rates within the silcrete blocks can be estimated to be between 4  C/min and 5  C/min, being fastest in the beginning of the
+heating process with up to 8  C/min. The two silcrete blocks of
+Experiment 2 were heated to maximum temperatures of
+z380e400  C and underwent heating rates of 9  C/min (Fig. 2b).
+Five of the six blocks heated during Experiments 1 and 2 do not
+show any sign of overheating (cracking or crazing) whereas the
+silcrete heated in the D. glabra ash-cone had fractured (Table 1).
+Maximum temperatures and heating rates during Experiment 3
+(z550  C and z20  C/min) were signiﬁcantly higher than the ones
+produced by the wood of the four plant species of Experiment 1 and
+2 (SOM Fig. 1). After these ‘extreme heating conditions’, six of the 10
+silcrete blocks heated in Experiment 3 do not show any sign of
+overheating and four blocks had fractured in their peripheral areas
+(Table 1). The inner, intact part of all fractured blocks, which shows
+no signs of overheating, could be knapped perfectly and the only
+effect of the heat-induced fractures is a reduction of the effective
+
+Table 2
+Temperatures (Temp.) measured at different places in the ﬁres used for heat
+treatment.
+
+3.1. Experimental heat treatment
+
+Plant species
+
+Temp. of
+ﬂames
+
+The temperatures measured at different places in the four ﬁres
+using green wood are summarized in Table 2. These ﬁres using four
+different woody species (H. argentea, D. glabra, S. laevigata, P.
+elongatus) exhibited rather different temperatures with none of the
+
+P. elongatus
+H. argentea
+D. glabra
+S. laevigata
+
+880
+730
+630
+750
+
+
+
+C
+C
+
+C
+
+C
+
+
+Temp. of glowing
+embers
+790
+520
+560
+580
+
+
+
+C
+C
+
+C
+
+C
+
+
+Temp. within the ash cone
+at the bottom of the ﬁre
+480
+430
+420
+460
+
+
+
+C
+C
+
+C
+
+C
+
+
+26
+
+P. Schmidt et al. / Journal of Human Evolution 85 (2015) 22e34
+
+3.2. Flake scar roughness on artefacts and experimental samples
+
+Figure 2. Temperature curves measured during Experiment 1 and Experiment 2.
+(a) ¼ [Exp. 1]: heat treatment in embers scraped away from a ﬁre, (b) ¼ [Exp. 2]: heat
+treatment in the ash-cone at the bottom of a burning ﬁre. For details about the temperature measurements and placements of the probes, see section Materials and
+methods.
+
+knappable volume. Once the heat-treated silcrete blocks had
+cooled to ambient temperature, we removed them from the ashes
+and knapped a few ﬂakes. All of these ﬂakes have smoother fracture
+surfaces than control ﬂakes removed before the procedure, thereby
+indicating successful heat treatment. Thus, even though heatinduced fracturing occurred in some of our samples, this did not
+compromise the overall aim of the heat treatment, i.e., increasing
+the quality of the raw material for knapping. Furthermore, no clear
+correlation between heat-induced fracturing and volume could be
+established during our experiments.
+All six silcrete blocks heat-treated in Experiment 1 and 2 exhibit
+a thin black ﬁlm coating part of their surface (Fig. 5e, f, Fig. 6d). This
+black opaque ﬁlm, which appears to be a residue resulting from the
+contact between silcrete and embers/ashes, is insoluble in water or
+ethanol, tightly adheres to the surface and cannot be rubbed off by
+hand or with a brush. Five blocks heat-treated during Experiment 3
+also exhibit this black ﬁlm on part of their surface. Because this
+black residue can clearly be assigned to heat treatment of the silcrete, we hence call it a ‘tempering-residue’.
+During Experiment 4, the electrical furnace experiment, one of
+the 10 blocks cracked peripherally but the two resulting fragments
+show no signs of overheating. When knapped, all heat-treated
+silcrete exhibited post-heating fracture surfaces that are
+smoother than the pre-heating surfaces (compare Fig. 3a and b).
+The silcrete heat-treated in the furnace does not show any alteration of the surface and no ﬁlm or residue can be observed on the
+surface.
+
+Our results of the comparison between experimentally heattreated reference samples and archaeological artefacts from SUs
+Frans and Frank are shown in Table 3. From layer Frans, 96.7% of all
+analyzed artefacts were knapped after heat treatment as indicated
+by the presence of smooth post-heating removal scars. From layer
+Frank, 93.7% of all artefacts could clearly be identiﬁed as knapped
+after heat treatment. Nineteen percent of the artefacts from Frans
+and 23.2% of the artefacts from Frank preserve rough pre-heating
+removal scars in addition to the post-heating scars (Fig. 3cef).
+During our heat treatment experiments, we had also observed
+another type of fracture that is not due to conchoidal fracturing as it
+occurs during knapping. This type of fracture is induced by heating
+of the silcrete, hence we call it ‘heat-induced non-conchoidal
+fracture’ (HINC-fracture). Such fractures can be easily recognized
+visually: surfaces resulting from heat-induced failure (HINC-fracture-surfaces) show strong roughness and abundant scalar features
+that are rare on conchoidal fracture negatives (Fig. 4). From a lithictechnological point of view, it is of great importance to distinguish
+whether a heat-induced fracture occurred after discard of the
+artefact, i.e., during post-depositional burning, or before knapping,
+i.e., during heat treatment of the silcrete prior to knapping. In the
+latter case it may be concluded that heat-induced fracturing was an
+‘acceptable accident’ after which knapping could still be performed.
+In order to make this distinction on Diepkloof artefacts, we identiﬁed as HINC-fractures only fracture-surfaces that are clearly
+cross-cut by a post-heating removal scar (according to the criteria
+in (Tixier et al., 1980)), indicating that knapping was done after the
+heating. We observed such HINC-fractures on 7.2% of the artefacts
+from Frans and 10.5% of the artefacts from Frank (Fig. 4def).
+We also observed a black opaque ﬁlm on 22 artefacts from Frans
+and 31 artefacts from Frank (Fig. 5aed) that had resisted burial and
+washing. This ﬁlm is visually similar to the black ﬁlm identiﬁed on
+the samples from our heat treatment experiments. On some artefacts, this residue covers a natural surface of the silcrete (weathered
+or rolled exterior of the initial block used as raw material) whereas
+on other artefacts it covers a pre-heating surface, hence, formed after
+a ﬁrst stage of knapping prior to heat treatment. None of the smooth
+post-heating surfaces are covered by a black ﬁlm or residue. On the
+contrary, the ﬁlm is always cross-cut by the adjacent, clean, postheating fracture negatives (Fig. 5aed) indicating that its formation
+on the silcrete surface was followed by a sequence of knapping. The
+similarity of this archaeological residue with the black ﬁlm produced
+during our heat treatment experiments, the tempering-residue, and
+ratoire (i.e., after
+the moment of its formation in the lithic chaîne ope
+a ﬁrst stage of pre-heat-treatment-knapping but before knapping of
+the heat-treated silcrete) strengthens the hypothesis that the
+archaeological residue results from the heat treatment itself. To
+conﬁrm whether the black ﬁlms observed on artefacts and experimental samples are indeed the same and to investigate the origin
+and formation of the residue, we analysed them using optical microscopy, infrared and Raman spectroscopy.
+3.3. Structural and chemical analysis
+3.3.1. Microscopic analysis Under the reﬂected light microscope,
+the structure of experimental and archaeological black residues is
+very similar. They appear in both samples as a 1-to-20 mm-thick
+deposit or ﬁlm on the surface of the silcrete artefacts (Fig. 6aec, e,
+f). Thicker parts show ﬂow textures with pores formed by melt
+degassing (Fig. 6b, c, f), indicating that the deposit was a liquid
+during formation. Strongly reﬂecting micrometre-sized charcoal
+particles (inertodetrinite [Taylor et al., 1998]) are cemented
+within the residue. Thus, the archaeological and experimental
+
+P. Schmidt et al. / Journal of Human Evolution 85 (2015) 22e34
+
+27
+
+Figure 3. Comparison between experimentally heat-treated samples (aeb) and Diepkloof HP artefacts (cef). (a) Fracture surface of an experimental ﬂake removed before heat
+treatment. (b) Fracture surface of a ﬂake removed after experimental heat treatment. Both photos were taken of ﬂakes struck from the same block of silcrete (WK-13-08b) before
+and after heat treatment. (cef) Details of silcrete artefacts showing the contrast between rough pre-heat-treatment surfaces (left sides of the pictures) and smoother post-heattreatment surfaces on DRS816 (c), DRS1541 (d), DRS803 (e) and DRS928 (f).
+
+residues were both deposited on the silcrete surface in a liquid state
+at high temperatures (melt degassing pores, ﬂow texture) and
+formed in the direct vicinity of charcoal (micrometre-sized
+inertodetrinite fragments).
+3.3.2. Infrared and Raman spectroscopy The infrared spectra of
+the six analysed archaeological samples show the expected quartz
+Table 3
+Results of the analysis of ﬂake scar roughness of plotted artefacts from SUs Frank and
+Frans of Diepkloof Rock Shelter.
+SU Frans, total of analyzed artefacts: 691
+
+Count
+
+Percent
+
+668
+131
+23
+50
+22
+11
+11
+
+96.7%
+19.0%
+3.3%
+7.2%
+3.2%
+1.6 %
+1.6 %
+
+538
+133
+36
+60
+31
+14
+17
+
+93.7%
+23.2%
+6.3%
+10.5%
+5.4%
+2.4 %
+3.0 %
+
+Artefacts with post-heating removal scars
+Artefacts with pre- and post-heating removal scars
+Non-diagnostic or not heat-treated artefacts
+Artefacts with HINC-fracture surfaces
+Total of artefacts with black tempering-residue
+- of which the residue is found on pre-heating removal scars
+- of which the residue is found on a natural surface
+SU Frank, total of analyzed artefacts: 574
+Artefacts with post-heating removal scars
+Artefacts with pre- and post-heating removal scars
+Non-diagnostic or not heat-treated artefacts
+Artefacts with HINC-fracture surfaces
+Total of artefacts with black tempering residue
+- of which the residue is found on pre-heating removal scars
+- of which the residue is found on a natural surface
+Percentages refer to the total of analyzed artefacts in each layer.
+
+bands resulting from the silcrete artefacts and additional CH bands
+at 2857 cm1 and 2928 cm1 with a shoulder near 2960 cm1
+conﬁrming the presence of an organic compound. Some of the
+spectra also show a sharp C]O band caused by carbonyl groups at
+1740 cm1 and two broad bands with several shoulders and features between 1380 cm1 and 1650 cm1 indicating a complex
+mixture of organic structures (bands related mainly to CO vibrations; Fig. 7b, c). Reference spectra acquired on post-heating
+surfaces of the artefacts show only quartz bands and no organic
+components (Fig. 7d). Thus, the archaeological residue is clearly
+an organic substance coating the silcrete.
+The spectrum of the experimentally burned droplet of
+H. argentea resin shows CH bands at identical positions and with
+similar shape as observed in the spectra of archaeological residues. The carbonyl group band at 1740 cm1 is also present as
+shoulder and several bands appear between 1380 cm1 and
+1650 cm1 indicating a complex mixture of chemicals (Fig. 7a).
+The direct comparison of the burnt resin and the spectra of
+archaeological samples is not straightforward because some of
+the organic substances contained in the residue during its formation may have been transformed or lost during taphonomic
+processes. However, a great number of IR bands observed in the
+burnt H. argentea resin spectrum are observed at least as features
+in the spectra of the archaeological residues (Fig. 7a, b, c, left
+inset), suggesting that both residues may have similar chemical
+composition.
+
+28
+
+P. Schmidt et al. / Journal of Human Evolution 85 (2015) 22e34
+
+Figure 4. Photographs of heat-induced non-conchoidal (HINC) fracture surfaces on experimentally heat treated samples (aec) and Diepkloof lithics (def). Surfaces resulting from
+heat-induced failure show strong roughness and abundant scalar features that are rare on conchoidal fracture negatives. Such scalar features are marked by arrows. (d) DRS928 (e)
+DRS2074 (f) DRS2200.
+
+Our Raman spectroscopic measurements of both experimental
+and archaeological residues also show identical spectra with two
+CC bands at 1370 cm1 (D band) and 1595 cm1 (G band) (Fig. 7e, f).
+These CC bands, dominating the Raman spectra because of the
+resonance of the CC bonds with the 514 nm exciting laser, have
+identical shapes and positions in both samples. Our Raman spectra
+reveal chemical bonds, which are not infrared active and that are
+produced when organic substances are burnt at high temperature
+through pyrolysis (Tomasini et al., 2012).
+4. Discussion
+4.1. Terminology used in this work
+We use the term ‘smooth’ in our work (as the opposite of
+‘rough’) as equivalent to ‘gloss’ in previous publications (Brown
+et al., 2009). The reason we prefer the terms ‘smooth’ and ‘rough’
+in our work to ‘glossy’ and ‘dull’ is because gloss was physically
+measured using a gloss-meter in previous works on South African
+South Coast silcrete (Brown et al., 2009) and we rather observed a
+distinction in micro-relieve on the analyzed West Coast silcrete
+types. The second term we use is ‘HINC-fracture’ that has a different
+meaning than ‘pot-lid’. This distinction is made because the term
+HINC-fracture describes a fracturing event that occurs during heat
+treatment and after which knapping continued (i.e., HINC fractures
+are cross-cut by smooth post-heating-scars). Therefore, ‘HINC’ has a
+
+technological meaning. The term ‘pot-lid’ merely describes a
+concave feature due to heat induced fracturing without the notion
+of a continuing reduction sequence after the heat fracture occurred
+(i.e., pot-lids may also occur during burning after discard).
+4.2. The experimental heat treatment procedure
+Using wood from plants identiﬁed in high abundance in the
+Diepkloof deposits (Cartwright, 2013), both of our experiments
+(Experiments 1 and 2) successfully heat treated silcrete from the
+West Coast of South Africa. This ﬁnding corroborates the prediction
+made in our previous work (Schmidt et al., 2013), that heat treatment of silcrete could have been practiced in the South African MSA
+using the embers of domestic ﬁres. The relatively low heat treatment temperatures of 380e400  C in the ash-cones of Experiment
+2 may appear contradictory to the measurements of the glowing
+embers' temperatures of 520e790  C. This may be explained by the
+following mechanism: the glowing embers at the outside of the
+cone consume most of the oxygen, preventing the combustion of
+the inner part of the ash-cone that remains at a relatively lower
+temperature. This cooler inner part of the ash-cone insulates the
+silcrete from the hot glowing embers. The same is true for large
+piles of embers scraped away from a ﬁre. Thus, larger ash-cones or
+piles of embers produce lower temperatures in their centre because
+combustion is slowed down due to the restricted access of oxygen;
+smaller piles produce higher temperatures because of the
+
+P. Schmidt et al. / Journal of Human Evolution 85 (2015) 22e34
+
+29
+
+Figure 5. Photographs, technical drawings and Macro-photos of tempering-residue observed on Diepkloof artefacts (aed) and experimentally heat treated silcrete (eef). (a) DRSc1,
+(b) DRS894, (c) DRSc8, (d) DRS2676, (e, f) experimentally heat-treated fragments of sample WK-13-08b. Note the black tempering-residue (represented as grey surfaces in the
+technical drawings) that covers rough pre-heating surfaces. The residue is cut by smooth post-heating fracture negatives of ﬂakes removed after heat treatment (aed).
+
+30
+
+P. Schmidt et al. / Journal of Human Evolution 85 (2015) 22e34
+
+Figure 6. Microscopic view of the tempering-residue. (aec) Micrographs of polished sections of the tempering-residue on DRSc1. Note the brighter inclusions corresponding to
+charcoal fragments (red arrows) cemented in the wood tar and the pores due to degassing (blue arrows), reﬂected white light, oil immersion. (d) Silcrete block (WK-13-08b)
+experimentally heat-treated with green wood using the experimental protocol of Experiment 1. Note the tempering-residue as black ﬁlm covering part of the surface of the block. (e,
+f) Micrographs of polished sections of the tempering-residue on experimentally heat-treated silcrete. Note the similarity with the archaeological residues in (aec), reﬂected white
+light, oil immersion (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.).
+
+continuous ﬂow of oxygen feeding the combustion. The temperature ramp and maximum temperatures endured by silcrete heat
+treated in this way must be expected to be a function of four
+factors:
+[1] the species and moisture of the wood (A. erioloba produces
+signiﬁcantly higher temperatures than all other tested taxa);
+[2] the size of the pile of ember or the ash-cone and the ﬁneness
+of the embers/ashes that allow or restrict oxygen ﬂow to the
+centre of the pile;
+[3] the speed of wind controlling the amount of oxygen available
+for the combustion (stronger wind produces higher temperatures and a less anoxic conditions within the embers);
+[4] the size of the heated silcrete pieces (larger pieces of silcrete
+consume more energy of a given quantity of glowing embers,
+slowing down the heating process and preventing higher
+temperatures).
+The temperature curves we measured during our experiments
+(Fig. 2) may not precisely reﬂect the heating conditions of MSA heat
+treatment. Temperatures in open ﬁres may be unpredictable and
+
+difﬁcult to reproduce. The total length of the treatment, i.e., the
+time the rock is held at maximum temperature for and the effective
+heating and cooling speeds must also be expected to be functions of
+the exact procedure used (amount of wood used, size of the piles of
+embers, the place of the silcrete within the ﬁre). Fires may also be
+maintained for longer, and silcrete may have been left in the ﬁre for
+longer than necessary. Our experiments should therefore be understood as an indication of a possibly used technique and they
+should highlight the tolerance of silcrete with regards to fast
+heating rates.
+The maximum temperatures measured during our experiments
+using the Diepkloof plant species are similar to the heat treatment
+temperatures published by Brown et al. (2009) and Wadley and
+Prinsloo (2014), but our temperature ramps are signiﬁcantly
+faster. Only one sample showed traces of overheating during our
+experiments, strongly supporting the model of heat-induced
+transformations in silcrete published by Schmidt et al. (2013).
+Higher maximum temperatures and even faster temperature
+ramps, as produced by A. erioloba wood, induced HINC-fractures in
+some of the samples but no clear relation between volume and
+overheating, as suggested by earlier works (Mercieca, 2000;
+
+P. Schmidt et al. / Journal of Human Evolution 85 (2015) 22e34
+
+31
+
+Figure 7. ATR-Infrared and Raman spectra of the tempering-residue. Quartz bands are labelled with Q. The left inset shows an enlarged view of the 3000e2800 and
+1750e1250 cm1 spectral regions. (a) IR spectrum of experimentally reproduced tempering-residue from Heeria argentea resin. (b) IR spectrum of the residue on sample DRSc1. (c)
+IR spectrum of the residue on sample DRS2676. Note the similarity of experimental and archaeological residues. (d) Reference IR spectrum acquired on a clean post-heating surface
+of sample DRS2676. Note the absence of bands related to organic compounds in this spectrum. Raman spectra are presented in the right inset with a comparison between of the
+experimental tempering-residue (e) and the residue on sample DRS2676 (f). Spectra not smoothed but vertically offset for clarity.
+
+Mercieca and Hiscock, 2008; Schmidt, 2014), was observed during
+our experiments. A possible explanation for this would be that
+impurities and inclusions in silcrete (such as iron oxide-hydroxides
+producing vapour pressure through OH loss) contribute to HINCfracturing alongside the known factors (H2O formation from
+SiOH, [Schmidt, 2014]). Further studies on where heat-induced
+failure occurs in silcrete will shed light on this hypothesis. One of
+the most interesting observations made during our analyses is the
+abundance of HINC-fractures on the archaeological material. This
+high frequency of HINC-fractures on the Diepkloof lithics suggests
+that MSA knappers accepted the risk of heat-induced failure as long
+as the resulting fragments remained knappable. The HINCfracturing may even have some advantages during the reduction
+of silcrete if breakages preferentially occur at discontinuities and
+ﬂaws in the rock that would have caused fracture irregularities and
+problems during knapping. As the remaining pieces of silcrete
+resulting from heat-induced fracturing are well heat-treated and
+remain perfectly knappable, overheating during heat treatment
+may have been used as a sort of pre-selection for good-quality raw
+material.
+Future experiments using different parts of domestic ﬁres and
+different amounts of embers should address important questions
+like the reproducibility and variability of heat treatment in embers
+or in a ﬁre.
+4.3. The formation of a tempering-residue
+We observed the formation of a black opaque temperingresidue during experimental heat treatment using the green
+wood of four plant species reported in the charcoal record of the
+Diepkloof HP layers (Cartwright, 2013). Of these four species,
+H. argentea, and S. laevigata belong to the family Anacardeaceae for
+which several studies have demonstrated the exudation of resins
+and gums (McNair, 1930; Joel and Fahn, 1980; Farrell et al., 1991).
+
+There are reports of gum production of Diospyros (Nussinovitch,
+2009) and resin production has been described for Podocarpus
+-Duhaut et al., 2013). When collecting the wood
+elongates (Charrie
+for this study, we observed resin exudations on the stems of the
+wood of the S. laevigata and H. argentea. Several studies have also
+reported gum and resin exudations for the genus Acacia (McNair,
+1930; Lemenih et al., 2003; Pietarinen et al., 2004) and a black
+tempering-residue also resulted from some of our experiments
+with Acacia. We hypothesize that the tempering-residue found on
+experimental and archaeological silcrete formed by distillation
+during the combustion of the plant exudations. During this process,
+the distillation residue comes into contact with the silcrete surface
+that touches the hot embers from where the exudations originate,
+forming a black tempering-residue that tightly adheres to the silcrete surface. Anoxic or partly anoxic conditions within a pile of
+embers and an ash-cone at the base of a ﬁre may be a prerequisite
+for the formation of such a tempering-residue because low levels of
+oxygen prevent the exudations from completely combusting (most
+of the available oxygen is used up in the zone of active combustion
+at the pile's surface). Our spectroscopic and microscopic analyses
+support this model of formation. The optical properties of the
+tempering-residue on archaeological and experimental samples
+and its structure, such as its speciﬁc low reﬂectance values, the
+degassing pores and the ﬂow texture, indicate deposition as a hot
+ﬂuid phase and are consistent with organic tar (Crelling et al.,
+2006). Natural wood tar is a product of the pyrolysis or carbonization of wood exudations (Bunbury, 1923) as they can be produced during burning of green wood containing sufﬁcient
+moisture. Our infrared data also support this interpretation: all
+observed spectral features are consistent with organic tars produced by burning of green wood (Regert et al., 2003). Raman
+spectroscopic data are also consistent with this interpretation
+showing carbonecarbon bonds that are produced when organic
+matter is transformed through pyrolysis at high temperature
+
+32
+
+P. Schmidt et al. / Journal of Human Evolution 85 (2015) 22e34
+
+(Tomasini et al., 2012). The presence of charcoal fragments (inertodetrinite [Taylor et al., 1998]) that are cemented within this
+organic tar indicates that the tempering-residue formed in the
+presence of ashes or embers. The differences observed in the
+infrared spectra of experimentally produced and archaeological
+tempering residues may be due to diagenesis. The region between
+1750 cm1 and 1250 cm1 contains CeO and C]O absorption
+bands. The broad bands that appear in this region of archaeological
+residue spectra may result from diagenetically formed CO bonds.
+These diffuse underlying absorptions mask weak bands in this region and make it difﬁcult to observe the sharp CO bands in the
+spectra. This is what one would expect from oxidation during burial
+and does not contradict the chemical similarity between experimental and archaeological residues.
+Thus, our heat treatment experiments produced a surface residue structurally and chemically similar to the one observed on the
+Diepkloof artefacts. Our analyses also indicate that the mechanism
+of formation of this tempering-residue corresponds most likely to
+the pyrolysis of plant exudations that come into contact with the
+silcrete surface during heat treatment.
+
+4.4. Tempering-residue, hafting material or post-depositional
+processes?
+In light of our ﬁndings that the black residue consists of an
+organic tar formed by contact between silcrete and hot embers of a
+ﬁre, it must be discussed whether such a residue may also form
+during post-depositional processes or unintentional discard in a
+ﬁre. It must further be discussed whether a residue of a material
+used for hafting of stone tools, possibly chemically similar to a
+tempering-residue, may be mistaken for a tempering-residue. The
+strict association of tempering-residues with a speciﬁc family of
+surfaces on the artefacts appears to be the key element in clarifying
+these issues.
+If the residue were produced through post-depositional processes or unintentional discard in a ﬁre, we would expect that the
+entire outer surface of the artefacts exposed to the ﬁre or the
+taphonomic agent would be covered by tar. In contrast to this, the
+wood tar observed on Diepkloof artefacts is only found on surfaces
+that already existed before heat treatment (i.e., removal scars
+predating heat treatment and naturally rolled/weathered surfaces).
+It is not observed on surfaces created by knapping after heat
+treatment. Furthermore, the archaeological tar is cross-cut by
+adjacent post-heating ﬂake removal scars. This demonstrates that
+the Diepkloof tar formed prior to the ﬁnal sequence of post-heattreatment-knapping, suggesting that it formed during the same
+ratoire as heat treatment itself. Thus, the
+stage of the chaîne ope
+observed Diepkloof tempering-residue cannot have formed by
+post-depositional processes after discard of the ﬁnished stone
+tools.
+The Diepkloof wood tar is obviously not related to hafting
+because hafting materials would also not be cross-cut by ﬂake scars
+since such materials are applied to the lithics after the tools are
+ﬁnished. Additionally, most hafting materials would cover both
+-Duhaut et al., 2013).
+ventral and dorsal sides of an artefact (Charrie
+Hafting materials that were reported from Diepkloof Rock Shelter
+also show different composition and structure than the observed
+tempering-residue. Although containing a substantial amount of
+plant resin, Diepkloof hafting materials contain fragmented bone
+and quartz grains and were not subjected to high temperatures
+-Duhaut et al., 2013), in contrast to the tempering residue
+(Charrie
+that consists of plant exudations transformed to tar at high temperatures and that contains only micrometre-sized fragments of
+charcoal.
+
+4.5. Similarities between experimental and archaeological heat
+treatment
+Although we cannot conﬁrm that the procedure used during the
+MSA was identical to the one we tested during our experiments,
+both procedures must have been similar in two regards: [1] Direct
+heating in embers: the direct contact between a silcrete surface and
+hot embers of a ﬁre seems to be a prerequisite for the formation of
+the observed archaeological tempering-residue. This makes the use
+of an indirect heating method like heat treatment in ‘sand beneath
+a ﬁre pit’ (Brown et al., 2009) an unlikely scenario. [2] Fast heating
+rates: an additional argument for the similarity between archaeological and experimental procedures comes from the observation
+that both the experimental and archaeological silcrete artefacts
+exhibit similar heat-induced non-conchoidal fractures. During our
+experiments, HINC-fractures developed in some of the samples that
+endured heating rates of 8  C/minute to 20  C/minute. Indirect
+heating in a sand-bath produces signiﬁcantly slower heating rates
+in the range of 0.4  C/minute to 0.9  C/minute (Eriksen, 1997)
+making HINC-fractures less likely (Mercieca, 2000; Mercieca and
+Hiscock, 2008; Schmidt, 2014; Wadley and Prinsloo, 2014). The
+presence of HINC-fractures on 7.2% (Frans) and 10.5% (Frank) of the
+analysed Diepkloof artefacts is therefore a supplementary argument for the use of a heat treatment procedure that involved
+heating rates similar to the ones in our experiments.
+Based on the results of our experimental and archaeological
+study, we conclude that the Diepkloof HP artefacts were heattreated using a technique that involved rather fast heating and
+direct contact between the exposed silcrete surfaces and hot
+glowing embers of a ﬁre. Even though indirect underground
+heating may theoretically also produce HINC-fracturing during the
+heating process, and one may argue that resin/gum containing
+plant material intermixed with sediment may theoretically produce wood tar during underground heating, we must await
+experimental and archaeological proof for the possible use of sandbath heating before drawing a deﬁnitive conclusion. However, until
+such proof will be brought forward, our heat-treatment-in-embers
+model appears to remain the best explanation of the archaeological
+data at Diepkloof.
+
+4.6. Comparison of our data with previously published data
+Using an experimental approach, Wadley and Prinsloo (2014)
+recently investigated the question of whether silcrete from South
+Africa could have been heat-treated using the glowing embers of a
+ﬁre as predicted (Schmidt et al., 2013). In their study, they reached
+the conclusion that heat treatment in a bed of embers or using an
+open ﬁre was not possible because three out of their six samples
+heated to 521e573  C in a bed of embers and all three of their
+samples heated to 762  C in a ﬁre fractured. This article is not the
+place for a detailed comment on the work of Wadley and Prinsloo
+(2014) and we would only like to highlight that our analysis of
+the archaeological material from Diepkloof does not conﬁrm their
+main hypothesis.
+While we fully support their statement that heat treatment
+“requires skilled use of ﬁre” (Wadley and Prinsloo, 2014: 49) and
+agree that heat treatment may be indicative of “complex cognition”
+(Op. cit.), our results suggest that the HP inhabitants of Diepkloof
+did heat-treat silcrete in hot glowing embers. Furthermore, the
+MSA knappers accepted the risk of heat-induced fracturing and
+continued to knap the remaining fragments when such fracturing
+occurred. Thus heat-induced fracturing during heat treatment
+cannot be interpreted as failure of the procedure but must be understood as recurrent part of the lithic reduction sequence.
+
+P. Schmidt et al. / Journal of Human Evolution 85 (2015) 22e34
+
+4.7. Conclusion and implications for the South African MSA
+Heat treatment of silcrete marks a precocious and signiﬁcant
+innovation within the South African Middle Stone Age that may
+reveal some of the key aspects of the techno-economic system of
+the MSA hunter-gatherers. While heat treatment alone is a significant technological innovation, it is crucial to fully understand its
+role and place within the lithic production sequence, the motivations for performing it, and the technical process used for it. Our
+study sheds light on the heat treatment procedure, raising important questions about the investment and complexity of the technical process (i.e., requiring more or less steps for its realization). It
+appears most likely that heat treatment of silcrete, as it was performed during the South African MSA, did not involve indirect
+heating in a sand-bath that would have demanded extra resources
+or investment in time as previously suggested (Brown et al., 2009;
+Brown and Marean, 2010; Wadley, 2013; Wadley and Prinsloo,
+2014). In fact, the heat treatment procedure suggested by our
+data could have been conducted alongside other daily, ﬁre-related
+activities, allowing for a highly efﬁcient production of wellworkable raw materials for stone tool knapping, without interrupting or greatly slowing down the reduction sequence. Further
+studies of silcrete and the tempering residue will help to contextualize heat treatment within the South African MSA technoeconomic system and in the broader suite of innovations that
+appeared during this period. The complete chemical characterization of the heating-residue, using an appropriate set of analytical
+techniques, is also currently in progress and will be subject of
+another publication in the near future.
+Acknowledgements
+We thank the Deutsche Forschungsgemeinschaft (DFG) for
+funding of the research project ‘Heat Treatment in the South African MSA’ that made the present study possible (Grant Nr: CO 226/
+25-1, MI 1748/2-1, NI 299/25-1) and for funding the Agilent Cary
+660 spectrometer used for parts of this study (MI 1748/1-1). We
+thank the French Ministry of Foreign affairs for funding the excavation at Diepkloof, Heritage Western Cape for authorizing these
+excavations and the South African Heritage Resources Agency for
+the permit for analysis. We also acknowledge the University of Cape
+Town for housing the DRS collections and logistic assistance during
+this study. Special thanks goes to Justin Pargeter for helping us with
+weighing of the samples and Jessica Plasket for her help during
+silcrete sampling in the West Coast. We also acknowledge Royden
+Wood and his staff for providing the facilities for experimental heat
+treatment.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at http://
+dx.doi.org/10.1016/j.jhevol.2015.05.001
+References
+Backwell, L., d'Errico, F., Wadley, L., 2008. Middle Stone Age bone tools from the
+Howiesons Poort layers, Sibudu Cave, South Africa. J. Archaeol. Sci. 35,
+1566e1580.
+Brown, K., Marean, C., 2010. Wood fuel availability for heat treatment drives the rise
+and fall of silcrete as a raw material in the Middle Stone Age of South Africa,
+Asbstracts of the PaleoAnthropology Society 2010 Meetings. PaleoAnthropology
+A0001eA0040.
+Brown, K.S., Marean, C.W., Herries, A.I.R., Jacobs, Z., Tribolo, C., Braun, D.,
+Roberts, D.L., Meyer, M.C., Bernatchez, J., 2009. Fire as an engineering tool of
+early modern humans. Science 325, 859e862.
+Bunbury, H.M., 1923. The Destructive Distillation of Wood. Benn Brothers, London.
+
+33
+
+Cartwright, C., 2013. Identifying the woody resources of Diepkloof Rock Shelter
+(South Africa) using scanning electron microscopy of the MSA wood charcoal
+assemblages. J. Archaeol. Sci. 40, 3463e3474.
+-Duhaut, A., Porraz, G., Cartwright, C., De Araujo, M., Conan, J.,
+Charrie
+Poggenpoel, C., Texier, P.-J., 2013. First molecular identiﬁcation of a hafting
+adhesive in the Late Howiesons Poort at Diepkloof Rock Shelter, Western Cape,
+South Africa. J. Archaeol. Sci. 40, 3506e3518.
+Clark, J.D., 1988. The Middle Stone Age of East Africa and the beginnings of regional
+identity. J. World Prehist. 2, 235e305.
+Crabtree, D.E., Butler, B.R., 1964. Notes on experiment in ﬂint knapping: 1 heat
+treatment of silica materials. Tebiwa 7, 1e6.
+Crelling, J., Glikson, M., Huggett, W., Borrego, A.G., Hower, J., Ligouis, B.,
+Mastalerz, M., Misz, M., Su
+arez-Ruiz, I., Valentim, B., 2006. International Committee for Coal and Organic Petrology (ICCP), Atlas of anthropogenic particles.
+Geological Survey Open-File Study 06e01, Indiana.
+Domanski, M., Webb, J.A., 1992. Effect of heat treatment on siliceous rocks used in
+prehistoric lithic technology. J. Archaeol. Sci. 19, 601e614.
+Domanski, M., Webb, J.A., Boland, J., 1994. Mechanical properties of stone artefact
+materials and the effect of heat treatment. Archaeometry 36, 177e208.
+Eriksen, B.V., 1997. Implications of thermal pre-treatment of chert in the German
+Mesolithic. In: Schild, R., Sulgostowska, Z. (Eds.), Man and Flint, Proceedings of
+the VII International Flint Symposium Warszawa-Ostrowiec Swietokrzyski,
+September 1995. Institute of Archaeology and Ethnology Polish Academy of
+Sciences, Warsaw, pp. 325e329.
+Farrell, B.D., Dussourd, D.E., Mitter, C., 1991. Escalation of plant defense: do latex and
+resin canals spur plant diversiﬁcation? Am. Nat. 138, 881e900.
+Henshilwood, C.S., D'Errico, F., Marean, C.W., Milo, R.G., Yates, R., 2001. An early
+bone tool industry from the Middle Stone Age at Blombos Cave, South Africa:
+implications for the origins of modern human behaviour, symbolism and language. J. Hum. Evol. 41, 631e678.
+Henshilwood, C.S., d'Errico, F., Yates, R., Jacobs, Z., Tribolo, C., Duller, G.A.T.,
+Mercier, N., Sealy, J.C., Valladas, H., Watts, I., Wintle, A.G., 2002. Emergence of
+modern human behavior: Middle Stone Age engravings from South Africa.
+Science 295, 1278e1280.
+Henshilwood, C.S., d'Errico, F., Watts, I., 2009. Engraved ochres from the Middle
+Stone Age levels at Blombos Cave, South Africa. J. Hum. Evol. 57, 27e47.
+Inizan, M.L., Roche, H., Tixier, J., 1976. Avantages d'un traitement thermique pour la
+taille des roches siliceuses. Quaternaria Roma 19, 1e18.
+Joel, D.M., Fahn, A., 1980. Ultrastructure of the resin ducts of Mangifera indica L.
+(Anacardiaceae). 1. Differentiation and senescence of the shoot ducts. Ann. Bot.
+46, 225e233.
+Lemenih, M., Abebe, T., Olsson, M., 2003. Gum and resin resources from some
+Acacia, Boswellia and Commiphora species and their economic contributions in
+Liban, south-east Ethiopia. J. Arid Environ. 55, 465e482.
+McBrearty, S., Brooks, A.S., 2000. The revolution that wasn't: a new interpretation of
+the origin of modern human behavior. J. Hum. Evol. 39, 453e563.
+McNair, J.B., 1930. Gum, tannin, and resin in relation to speciﬁcity, environment, and
+function. Am. J. Bot. 17, 187e196.
+Mercieca, A., 2000. An experimental study of heat fracturing in silcrete. Aust.
+Archaeol. 51, 40e47.
+Mercieca, A., Hiscock, P., 2008. Experimental insights into alternative strategies of
+lithic heat treatment. J. Archaeol. Sci. 35, 2634e2639.
+Micheelsen, H., 1966. The structure of dark ﬂint from Stevns, Denmark. Medd.
+Dansk. Geol. Foren. 16, 285e368.
+Mourre, V., Villa, P., Henshilwood, C.S., 2010. Early use of pressure ﬂaking on lithic
+artifacts at Blombos Cave, South Africa. Science 330, 659e662.
+Nussinovitch, A., 2009. Plant Gum Exudates of the World: Sources, Distribution,
+Properties, and Applications. CRC Press/Taylor & Francis, Boca Raton.
+Olausson, D.S., Larsson, L., 1982. Testing for the presence of thermal pretreatment of
+ﬂint in the Mesolithic and Neolithic of Sweden. J. Archaeol. Sci. 9, 275e285.
+Parkington, J., Rigaud, J.-P., Poggenpoel, C., Porraz, G., Texier, P.-J., 2013. Introduction
+to the project and excavation of Diepkloof Rock Shelter (Western Cape, South
+Africa): a view on the Middle Stone Age. J. Archaeol. Sci. 40, 3369e3375.
+Pietarinen, S., Willfor, S., Holmbom, B., 2004. Wood Resin 8 in Acacia mangium
+and Acacia crassicarpa Wood and Knots. Appita Journal: Journal of the Technical Association of the Australian and New Zealand Pulp and Paper Industry
+57, 146.
+Porraz, G., Texier, P.-J., Archer, W., Piboule, M., Rigaud, J.-P., Tribolo, C., 2013. Technological successions in the Middle Stone Age sequence of Diepkloof Rock
+Shelter, Western Cape, South Africa. J. Archaeol. Sci. 40, 3376e3400.
+Purdy, B.A., Brooks, H.K., 1971. Thermal alteration of silica minerals: an archeological approach. Science 173, 322e325.
+, C., Rolando, C., 2003. Structural
+Regert, M., Garnier, N., Decavallas, O., Cren-Olive
+characterization of lipid constituents from natural substances preserved in
+archaeological environments. Meas. Sci. Technol. 14, 1620e1630.
+Schindler, D.L., Hatch, J.W., Hay, C.A., Bradt, R.C., 1982. Aboriginal thermal alteration
+of a Central Pennsylvania Jasper: analytical and behavioral implications. Am.
+Antiq. 47, 526e544.
+res Premie
+res Lithiques : Que
+Schmidt, P., 2013. Le Traitement Thermique des Matie
+se Passe-t-il Lors de la Chauffe ? BAR International Series 2470 Archaeopress,
+Oxford.
+Schmidt, P., 2014. What causes failure (overheating) during lithic heat treatment?
+Archaeol. Anthropol. Sci. 6, 107e112.
+Schmidt, P., Masse, S., Laurent, G., Slodczyk, A., Le Bourhis, E., Perrenoud, C.,
+€hlich, F., 2012. Crystallographic and structural transformations of
+Livage, J., Fro
+
+34
+
+P. Schmidt et al. / Journal of Human Evolution 85 (2015) 22e34
+
+sedimentary chalcedony in ﬂint upon heat treatment. J. Archaeol. Sci. 39,
+135e144.
+Schmidt, P., Porraz, G., Slodczyk, A., Bellot-gurlet, L., Archer, W., Miller, C.E., 2013.
+Heat treatment in the South African Middle Stone Age: temperature induced
+transformations of silcrete and their technological implications. J. Archaeol. Sci.
+40, 3519e3531.
+Taylor, G.H., Teichmüller, D.A., Diessel, C.F.K., Littke, R., Robert, P., 1998. Organic
+Petrology. Gerbrüder Borntraeger, Berlin.
+Texier, P.-J., Porraz, G., Parkington, J., Rigaud, J.-P., Poggenpoel, C., Tribolo, C., 2013.
+The context, form and signiﬁcance of the MSA engraved ostrich eggshell
+collection from Diepkloof Rock Shelter, Western Cape, South Africa. J. Archaeol.
+Sci. 40, 3412e3431.
+
+histoire de la pierre taille
+e. I
+Tixier, J., Inizan, M.-L., Roche, H., Dauvois, M., 1980. Pre
+historiques,
+Terminologie et technologie. Cercle de Recherches et d'Etudes Pre
+Antibes.
+Tomasini, E.P., Halac, E.B., Reinoso, M., Di Liscia, E.J., Maier, M.S., 2012. Micro-Raman
+spectroscopy of carbon-based black pigments. J. Raman Spectrosc. 43,
+1671e1675.
+Wadley, L., 2010. Compound-adhesive manufacture as a behavioral proxy for
+complex cognition in the Middle Stone Age. Curr. Anthropol. 51, 111e119.
+Wadley, L., 2013. Recognizing complex cognition through innovative technology in
+Stone Age and Palaeolithic Sites. Cambridge Archaeol. J. 23, 163e183.
+Wadley, L., Prinsloo, L.C., 2014. Experimental heat treatment of silcrete implies
+analogical reasoning in the Middle Stone Age. J. Hum. Evol. 70, 49e60.
+
+

@@ -1,0 +1,1401 @@
+Journal of Archaeological Science 40 (2013) 3519e3531
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Heat treatment in the South African Middle Stone Age: temperature
+induced transformations of silcrete and their technological
+implications
+Patrick Schmidt a, *, Guillaume Porraz b, Aneta Slodczyk c, Ludovic Bellot-gurlet c,
+William Archer d, e, Christopher E. Miller f
+a
+
+University of Tübingen Department of Prehistory and Quaternary Ecology Schloss Hohentübingen 72020 Tübingen, Germany
+CNRS, UMR 7041, ArScAn/AnTET, Maison de l’Archéologie et de l’Ethnologie, Université de Paris X, 21 allée de l’Université, F-92023 Nanterre, France
+Laboratoire de dynamique, interactions et réactivité (LADIR) UMR 7075, CNRS and UPMC (Université Pierre et Marie Curie, Paris 6), 4 Place Jussieu,
+75252 Paris Cedex 05, France
+d
+Archaeology Department, University of Cape Town, Private Bag, Rondebosch 7701, South Africa
+e
+Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Deutscher Platz 6, D-04103 Leipzig, Germany
+f
+Institute for Archaeological Science, University of Tübingen, Ruemelinstr. 23, 72070 Tuebingen, Germany
+b
+c
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 21 August 2012
+Received in revised form
+16 October 2012
+Accepted 19 October 2012
+
+It was recently found that silcrete raw material was heat-treated during the South African Middle Stone Age
+(MSA) for altering its ﬂaking properties. This ﬁnding led to hypotheses about the implications for the MSA
+hunter-gatherers such as the cost of thermal treatment in terms of investment and ﬁrewood. To date, these
+hypotheses lack a solid basis, for data on the thermal transformations of South African silcrete and, hence,
+the necessary heating procedure and heating environment, is missing. In order to produce such data, we
+conducted an experimental study within the framework of the Diepkloof project. This work is based on the
+petrographic, mineralogical and structural analysis of South African silcrete from the West Coast and its
+thermal transformations. Our results shed light on the nature of these transformations, the ideal heating
+temperatures and the tolerated heating speed. The processes occurring in silcrete are comparable to ﬂint, i.e.
+the loss of chemically bound ‘water’ and the formation of new SieOeSi bonds, but their intensity is less
+pronounced. Effective heating temperatures are signiﬁcantly higher than for ﬂint and the heating speed
+tolerated by South African silcrete is relatively fast. These ﬁndings imply that silcrete heat treatment cannot
+be directly compared with ﬂint heat treatment. Unlike ﬂint, heating silcrete does not require the setup of
+a dedicated heating environment and may have been performed in the same time as other ﬁre related
+activities. This would represent only a minor supplementary investment in time and ﬁrewood. These results
+have broad implications for the discussion about technological evolution and the acquisition of specialised
+knowledge in the MSA.
+Ó 2012 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Heat treatment
+Silcrete
+MSA
+South Africa
+Thermal properties
+Raw material
+
+1. Introduction
+The South African Middle Stone Age (MSA) corresponds to a set
+of technological and behavioural innovations comparable to, but
+predating, those of the European Upper Palaeolithic by several tens
+of thousands of years. These innovations include the production of
+composite tools and complex hafting materials (Charrié-Duhaut
+et al., 2013; Wadley et al., 2009), the production of bone points
+(Backwell et al., 2008), and the use of symbolic expression
+
+* Corresponding author. Tel: þ49 7071 29 77323.
+E-mail address: patrick.schmidt@uni-tuebingen.de (P. Schmidt).
+0305-4403/$ e see front matter Ó 2012 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2012.10.016
+
+(Henshilwood et al., 2004, 2002; Texier et al., 2010; Texier et al.,
+2013). However, the exact moment of their appearance and the
+mechanisms behind these innovations remain subject to discussion
+(Klein, 1995; Jacobs and Roberts, 2009; McBrearty and Brooks,
+2000; Tribolo et al., 2013; Porraz et al., 2013). The intentional
+transformation of raw material used for the production of stone
+tools seems to have been a part of this phenomenon.
+It has recently been shown that the South African MSA yielded
+the earliest known traces of heat treatment of raw material for tool
+production (Brown et al., 2009; Mourre et al., 2010). Lithic heat
+treatment is the controlled transformation of a material’s properties by the inﬂuence of heat. It can therefore be considered as one of
+the ﬁrst procedures man used to intentionally alter a material,
+
+3520
+
+P. Schmidt et al. / Journal of Archaeological Science 40 (2013) 3519e3531
+
+hence an evolutionary step requiring intimate knowledge and
+control of ﬁre and complex cognitive abilities. It has even been
+proposed that heat treatment accounts for the presence of
+advanced tools in the African MSA and that it may have created an
+advantage for early modern humans during their dispersal into
+Eurasia (Brown et al., 2009).
+In order to comprehend the implications of these early cases of
+heat treatment for behavioural evolution during the MSA, it
+appears necessary to understand the challenges faced by the
+authors of this process and the cost of its execution in terms of
+investment. We therefore propose to investigate the technological
+conditions required for the thermal transformation of the rocks
+used as raw materials in the South African MSA. This paper contains
+a contribution to an improved understanding of MSA lithic technology and is part of a broader study engaged at the site of Diepkloof Rock Shelter (Parkington et al., 2013).
+2. Background of the study
+2.1. Archaeological background
+From the 1960s on, heat treatment of raw material has been
+identiﬁed from the Upper Palaeolithic, the Neolithic, the Mesolithic, North American Paleo-Indian groups and some recent and
+sub-recent ethnographic descriptions (Crabtree and Butler, 1964;
+Bordes, 1969; Tiffagom, 1998; Binder, 1984; Léa, 2005; Kenoyer
+et al., 1991; Hester, 1972; Inizan and Tixier, 2001; Eriksen,
+2006). Throughout the archaeological record, this process
+seems to have been in close association with pressure ﬂaking,
+either for the retouch of bifacial tools or the production of blades
+and bladelets.
+A recent discovery at the South African MSA site of PP5/6 at
+Pinnacle Point (Brown et al., 2009) considerably pushes back the
+date of the appearance of lithic heat treatment. The authors
+concluded that the thermal transformation of silcrete was regularly
+practised 72,000 years ago and that it appeared as early as 164,000
+years ago. During this study, the majority of the analysed PP5/6
+artefacts made on silcrete were found to be heated and, since these
+artefacts were recovered from unburned archaeological contexts,
+the authors concluded that the heat treatment was intentional.
+Whether other rocks, like quartzite, were also heated is not speciﬁed by Brown et al. (2009). Another recent study (Mourre et al.,
+2010) also recognised heat treatment of silcrete from the Still Bay
+layers at the site of Blombos Cave. At this site, heat treatment was
+performed on blanks prior to their shaping, hence consistently
+entering into the chaîne opératoire as a supplementary step. As in
+later examples from the European Upper Palaeolithic and the
+Neolithic, heat treatment in the South African Still Bay also seems to
+be in association with pressure ﬂaking (Mourre et al., 2010).
+However, it was also documented that ﬂakes were heated prior to
+their (rather simple) retouch into denticulates (Mourre et al., 2010),
+hence questioning the association of heat treatment with a high
+technical investment for elaborate tool shapes.
+The discovery of heat treatment in the South African MSA is an
+important step towards a better understanding of Pleistocene lithic
+technology in southern Africa and the related raw material provisioning strategies. The Howiesons Poort (HP) and, to a lesser extent,
+the Still Bay (SB) are technological phases accompanied by the
+increasing use of silcrete. These changes in raw material provisioning throughout the MSA reﬂect a modiﬁcation of the territorial
+organisation of these populations (Ambrose and Lorenz, 1990).
+Brown and Marean (2010) proposed these changes to be related to
+the changing availability of ﬁrewood for heat treatment. This
+hypothesis rests upon the assumption that heat treatment is
+indispensable for silcrete knapping and that heat treatment
+
+requires supplementary ﬁrewood for the setup of a special heating
+environment. It would therefore be a supplementary investment
+for tool production requiring extra resources and, hence be
+economically advantageous only when ﬁrewood is abundant or
+when the access to high quality raw material is restricted (Brown
+and Marean, 2010).
+At Diepkloof Rock Shelter, thermally transformed artefacts
+appear in the pre-SB layer ‘Lynn’ and last until the post-HP layers
+(Porraz et al., 2013). It appears clear that some silcrete artefacts
+were knapped after having been heated but whether the heating
+represents an intentional or an accidental step is still to be
+demonstrated since combustion residues are widespread
+throughout the whole sequence (Miller et al., 2013) and other rock
+types, like quartzite, have also been heated (Tribolo et al., 2013).
+We believe that determining heat treatment on prehistoric
+artefacts needs to be based on archaeometric techniques (some of
+which appear to be more appropriate than others) and a broader
+technological understanding of the lithic chaîne opératoire. The
+implications of the ﬁnding of heat treatment at a given period, the
+challenges it dictates to the makers and the adopted solutions can
+only be understood through an intimate knowledge of the used
+materials and their thermal transformations. The search for the
+Pleistocene people’s technological knowledge and its place within
+their society must therefore begin with the analysis of the heattreated materials.
+2.2. The thermal transformation of silica rocks and the silcrete issue
+In order to understand heat treatment of silica rocks, several
+authors proposed models explaining their temperature induced
+transformations. The implication of secondary elements like iron
+oxides were discussed (Purdy and Brooks, 1971; Schindler et al.,
+1982) along with internal fracturing (Flenniken and Garrison,
+1975) and recrystallisation (Domanski and Webb, 1992). Many of
+these models were contradictory, incomplete or simply found to be
+incorrect (a more detailed description of past models is given in the
+introduction of Schmidt, 2011). More recently, Schmidt et al.
+(2012b) proposed a model of the temperature induced crystallographic and structural transformations in length-fast (LF) chalcedony and ﬂint. LF-chalcedony consists of a fabric of nanometresized a-quartz crystallites that are arranged in ﬁbres (Rios et al.,
+2001). The quartz c-axis is normal to the ﬁbre axis (Michel-Levy
+and Munier-Chalmas, 1892). Flint is predominantly made up of
+short intersecting chalcedony ﬁbres. These rocks contain up to
+0.7wt% of chemically bound water as SiOH (silanole) and about the
+same amount of molecular water (Schmidt et al., 2011) that is
+retained in the structure of the rock (i.e. liquid inclusions between
+grain boundaries and crystal defects within the quartz crystallites
+(Flörke et al., 1982; Graetsch et al., 1985)). Chalcedony is also
+a porous rock allowing water circulation throughout its structure
+and the amount of water that can be absorbed by open pores
+typically builds up z0.25 wt% of the rock (Schmidt et al., 2011).
+In order to identify and quantify the transformations undergone
+by LF-chalcedony during heat treatment, Schmidt et al. (2012b)
+used different techniques including infrared spectroscopy, solid
+state NMR, X-ray diffraction and scanning electron microscopy.
+Their results showed that the major transformation is the loss of
+silanole and the creation of new bridging SieOeSi bonds according
+to the reaction:
+SieOH þ HOeSi / SieOeSi þ H2O.
+
+This reaction starts between 200  C and 300  C and causes the
+healing of defect sites within crystals and the closing of the rock’s
+
+P. Schmidt et al. / Journal of Archaeological Science 40 (2013) 3519e3531
+
+pores. This results in an increase in hardness of the rocks. The
+material’s hardness is correlated with its fracture toughness (Le
+Bourhis, 2008) improving in this way the ﬂaking properties of the
+rock (Schindler et al., 1982; Domanski et al., 1994). The maximal
+annealing temperature and ramp rate were found to be functions of
+the ability of the structure to evacuate newly created H2O and
+depend on the size of the heated specimen and the volume of its
+porosity. The heating temperature of medium to large samples
+must therefore remain relatively low and the heating speed slow
+for the created water to be evacuated before the resulting vapour
+pressure at higher temperatures induces internal fracturing and,
+hence, failure of the treatment. This need for water evacuation
+makes heat treatment of ﬂint a time consuming and difﬁcult task
+requiring the setup of a special heating environment that allows for
+creating and maintaining very precise conditions.
+Thus, a large part of the thermal transformations of ﬂint and
+other silica rocks consisting of pure or almost pure LF-chalcedony
+seem to be understood. However, heat treatment in the South
+African MSA was not performed on such rocks but on silcrete
+(Brown et al., 2009). Contrary to marine ﬂint, silcrete is a terrestrial
+paedogenic siliciﬁcation that forms by induration of an existing
+sediment by micro-cryptocrystalline silica cement (Summerﬁeld,
+1983; Wopfner, 1978). The rock is mostly composed of quartz that
+is present as grains surrounded by a matrix of micro- to cryptocrystalline quartz (Summerﬁeld, 1983). Its structure is therefore
+different from ﬂint leading to differences in its expected thermal
+behaviour. These differences need to be understood and a model of
+the heat induced transformations in silcrete must be proposed in
+order to investigate the role of silcrete heat treatment in the
+context of technological adaptations in the MSA.
+We present here an approach based on near infrared (NIR)
+spectroscopy, Raman spectroscopy, X-ray diffraction (XRD) and
+thermogravimetric (TG) analyses aiming to identify the sample’s
+mineralogical content and to measure their content of different
+‘water’ species before and after experimental heat treatment. The
+role of non-quartz impurities is also discussed. This approach
+highlights the structural peculiarities and thermal behaviour of
+silcrete used for heat treatment in the MSA.
+3. Samples and experimental
+3.1. Sampling and sample preparation
+All samples were collected during geological survey in the West
+Coast area, aiming to document the spatial distribution of silcrete
+outcrops and their variability. Fieldwork was conducted within the
+framework of the Diepkloof project and is described in detail in
+Porraz et al. (2013) (also containing macroscopic descriptions and
+photographs of the samples). 57 silcrete outcrops were sampled
+from (sub-) primary (N ¼ 45) and secondary (N ¼ 12) positions,
+representing the silcrete types found in the archaeological records
+of Diepkloof Rock Shelter and some other sites on the West Coast of
+the Western Cape region. For the present analysis, eleven samples
+were selected from this geological collection. These include specimens from the immediate surroundings of Diepkloof but also from
+its south (Malmesbury area) and north (Olifants river mouth).
+Samples SA-11-2 and -17A were collected in primary position,
+samples SA-11-56, -56b, -61F and -65B in secondary position and
+the remaining samples were collected in sub-primary position
+(Porraz et al., 2013). Exact sample provenances are summarised in
+Fig. 1. Silcrete varieties with different macroscopic characters were
+chosen (‘coarse-grained’ and ‘ﬁne-grained’) representing the
+diversity of silcrete occurring in the West Coast (Roberts, 2003).
+In order to assess the sample’s mineralogical composition by
+means of infrared and Raman spectroscopy, all eleven samples
+
+3521
+
+Fig. 1. Map showing the sample locations of the 11 silcrete samples. Numbers on the
+map correspond to the last cyphers of the sample numbers (i.e. 56 for SA-11-56 and
+SA-11-56b). DRS ¼ Diepkloof Rock Shelter.
+
+were cut into slabs of a thickness of approximately half a millimetre
+and diamond polished on both sides (exact sample thicknesses are
+summarised in Table 2). Petrographic thin sections (thickness
+30 mm) for microscopic observations in polarised light were cut
+from all samples. Additionally, powders with a grain size between 4
+and 25 mm were prepared from 6 samples for X-ray powder
+diffraction analysis (Table 1). TG analysis was performed on two
+fragments weighing z50 mg of samples SA-11-12A and -36. For
+better comparability between TG and NIR data, both fragments for
+the TG measurements were broken off from the polished slabs used
+for the infrared analyses and therefore have the same thickness. In
+order to evaluate the maximum tolerated heating speed of the
+studied silcrete samples, ﬂakes weighing from 18 to 205 g were
+removed from seven of the silcrete samples. Their sample numbers,
+masses and volumes are summarised in Table 3.
+3.2. Instruments and settings
+3.2.1. Mineralogical analysis
+In order to assess the mineralogy of the samples, we conducted
+analyses using mid-infrared spectroscopy, Raman spectroscopy, Xray powder diffraction and optical microscopy in polarised light.
+Petrographic observations were conducted for understanding the
+heat treatment related characteristics of the samples. A complete
+petrographic evaluation of these samples lies beyond the scope of
+this work. Crystal sizes were measured using a screw micrometre
+eyepiece at the highest magniﬁcation. Mid-infrared transmission
+spectra were acquired by means of direct transmission through the
+polished slabs cut from the samples, using unpolarised radiation.
+Spectra were recorded between 4000 cm1 and 2500 cm1 with
+a spectral resolution of 4 cm1 using a Bruker VECTOR 22 spectrometer. The obtained spectra show the OH region allowing for the
+
+3522
+
+P. Schmidt et al. / Journal of Archaeological Science 40 (2013) 3519e3531
+
+Table 1
+Mineral determination obtained from mid-infrared spectroscopy, Raman spectroscopy and X-ray powder diffraction.
+Sample nr
+
+SA-11-2
+SA-11-10A
+SA-11-12A
+SA-11-17A
+SA-11-22A
+SA-11-22B
+SA-11-36
+SA-11-56
+SA-11-56b
+SA-11-61F
+SA-11-65B
+
+Raman
+
+IR reﬂectivity
+
+IR transmission
+
+Quartz
+
+Anatase
+
+Clay
+
+Quartz
+
+Illite
+
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+
+XRD
+
+Kaolinite
+
+Other
+
+Traces
+
+Quartz
+
+Anatase
+
+Microcline
+
+98%
+98%
+
+1%
+1%
+
+Traces
+Traces
+
+98%
+
+1%
+
+1%
+
+98%
+
+1%
+
+Traces
+
+97%
+
+2%
+
+1%
+
+97%
+
+2%
+
+Traces
+
+Illite
+
+Traces
+
+Traces
+Traces
+
+Amphibole
+
+Traces
+
+assessment of hydroxylated phyllosilicates (i.e. clay). Mid-infrared
+reﬂectivity spectra were acquired on the surface of the slabs,
+using the same spectrometer. Reﬂection data was collected
+between 2000 cm1 and 350 cm1 with a 2 cm1 spectral resolution, an incidence of 45 and unpolarised radiation. These spectra
+show the lattice vibrations of the minerals forming the samples.
+Additionally, Raman spectra were acquired on the surface of the
+same polished slabs using a Horiba Jobin Yvon HR800 spectrometer
+equipped with edge ﬁlters. Spectra were recorded between
+50 cm1 and 1200 cm1. The exciting wavelength was the 514 nm
+line of an Arþ laser that, in combination with a 2400 lines/mm
+grating, results in a spectral resolution better than 0.5 cm1.
+Spectrometer calibration was set using the 520.5 cm1 band of a Si
+crystal. A 10 objective, producing an exciting spot of approximately 10 mm, was used for spectral acquisition. In addition to the
+infrared and Raman data, X-ray powder diffraction data was
+collected from six of the samples (see Table 1) before heating using
+a Bruker D2 PHASER diffractometer. Diffraction diagrams were
+recorded between 0 and 65 2q with a step size of 0.2 s/degree
+(using the Ka line of a Cu anode, no incident beam monochromator). The sample holder was in constant rotation during
+acquisition.
+3.2.2. Analysis of the heat induced transformations
+The sample’s H2O and SiOH content as a function of the
+annealing temperature was measured by means of near infrared
+(NIR) spectroscopy. NIR transmission spectra were recorded at
+normal incidence between 5500 and 4100 cm1 with a resolution
+of 8 cm1, using the same Bruker Vector 22 spectrometer and
+unpolarised radiation. A circular aperture of 12 mm diameter
+delimited the analysed area on the slabs. Due to the relatively high
+opacity of the silcrete samples, spectral acquisition was repeated
+500 times in order to obtain spectra with a sufﬁciently good
+signal/noise ratio. This ratio still being low, we also acquired NIR
+
+Traces
+
+Traces
+
+spectra of all samples in the same spectral region using a Varian
+Cary 5000 UVeViseNIR-Spectrometer in diffuse reﬂection mode
+on powders with random orientation (spectral resolution 1 nm,
+scan rate 600 nm/min). These diffuse reﬂection spectra do not
+yield quantitative information but have a signiﬁcantly better
+signal/noise ratio. The transmission spectra were then numerically smoothed for data extraction (the comparison with
+untreated diffusion spectra helped to avoid excessive smoothing).
+The quantitative determination of the silanole and molecular
+water contents was calculated from the smoothed transmission
+spectra using the molar absorption coefﬁcients given by Scholze
+(1960). H2O concentrations were determined using the linear
+absorption coefﬁcient a ¼ 1.14 L/mol cm measured at 5430 cm1
+and SiOH concentrations were calculated using the integral
+absorption coefﬁcient a ¼ 160 L/mol cm2 as discussed in Schmidt
+et al. (2011). Baselines for absorbance measurements of the two
+combination bands (H2O at 5430 cm1 and SiOH at 4547 cm1)
+were straight lines between the two lowest points on either side
+of the absorption bands and are shown in Fig. 4. Error bars for the
+measured absorptions of a given sample were calculated by
+repeating spectral acquisition 30 times on one sample and performing the smoothing process independently. These errors were
+found to be mainly a function of the signal/noise ratio (inﬂuenced
+by the overall opacity of the slabs) and the sample homogeneity at
+different spots across the slabs.
+In addition to the NIR measurements, the weight loss as a function of heating temperature was measured using a SETARAM Setsys
+Evolution thermo balance. The heat transfer was signiﬁcantly
+increased using a platinum crucible and helium atmosphere
+allowing for better measurement accuracy. Curves were recorded
+between 40 and 1000  C with a heating rate of 1  C/min.
+For maximum tolerated heating speed measurements, a Thermolyne 47900 electrical furnace with free access to oxygen was
+used.
+
+Table 2
+Sample thicknesses, petrographic texture, water contents and water absorbing open porosity before heat treatment. The crystal size of the quartz crystallites in the cement are
+minimum sizes. Larger crystals occur within the cement in all samples. Petrographic texture types are after Summerﬁeld (1983): GS ¼ Grain supported, F ¼ Floating texture,
+M ¼ Matrix dominated and C ¼ Conglomeratic.
+Sample Nr
+
+Thickness
+
+SA-11-02
+SA-11-10A
+SA-11-12A
+SA-11-17A
+SA-11-22A
+SA-11-22B
+SA-11-36
+SA-11-56
+SA-11-56b
+SA-11-61F
+SA-11-65B
+
+464
+466
+469
+502
+400
+435
+515
+524
+416
+464
+500
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+
+H2Ostructure (wt%)
+
+SiOH (wt%)
+
+H2Oporosity (wt%)
+
+Vol% of clasts
+
+Crystal size cement
+
+Petrographic texture type
+
+0.156
+0.012
+0.014
+0.013
+0.007
+0.045
+0.078
+0.039
+0.038
+0.018
+0.016
+
+0.16
+0.162
+0.189
+0.137
+0.106
+0.632
+0.86
+0.378
+0.199
+0.179
+0.229
+
+0.134
+0.31
+0.186
+0.23
+0.115
+1.136
+1.479
+0.604
+0.305
+0.375
+0.585
+
+50
+15
+10
+40
+15
+5
+10
+10
+60
+15
+50
+
+z12 mm
+z20 mm
+z25 mm
+z7 mm
+z15 mm
+z12 mm
+<5 mm
+z9 mm
+z11 mm
+z20 mm
+<5 mm
+
+GS
+F
+F
+GS
+F
+M
+F
+C
+C
+F
+GS
+
+P. Schmidt et al. / Journal of Archaeological Science 40 (2013) 3519e3531
+Table 3
+Silcrete samples abruptly exposed to 550  C without ramp rate and results of their
+knappability after this treatment.
+Sample Nr
+
+Mass (g)
+
+Volume (cm3)
+
+Heat induced
+fractures observed
+
+Knappable
+
+SA-11-2
+SA-11-10A
+SA-11-12A
+SA-11-22A
+SA-11-22B
+SA-11-36
+SA-11-65
+
+18.5
+69.7
+70.5
+204.4
+20.3
+83.7
+114.6
+
+7.1
+26.8
+27.1
+78.6
+7.8
+32.2
+44.1
+
+No
+No
+No
+No
+No
+Yes
+No
+
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+
+3.3. Experiments for the thermal analyses
+The analyses presented here are based on an approach elaborated by Schmidt et al. (2011) and Schmidt et al. (2012b) using near
+infrared spectroscopy and an experimental protocol aiming to
+reproduce heat treatment at different temperatures. The sample
+slabs were subjected to heat treatment in an electrical furnace
+using different temperatures: 110  C, 150  C, 200  C, 250  C, 300  C,
+
+3523
+
+350  C, 400  C, 450  C, 500  C, 550  C and 600  C. Although the
+expected transformations are essentially completed after 50 min of
+annealing at a given temperature (Fukuda and Nakashima, 2008;
+Schmidt et al., 2012b), samples were held at each of these
+temperatures for 2 h 30 min. NIR spectra were recorded in the
+‘dehydrated state’ immediately after the samples had cooled to
+room temperature. The samples were then rehydrated in deionised
+H2O for 24 h (at 21  C and 1 bar) and a second spectrum was
+acquired in the ‘hydrated state’. After this, the samples were heated
+to the next higher temperature and the measuring protocol was
+repeated. The ramp rate for all temperature steps was 20  C/min.
+This relatively fast heating rate could be sustained for all of the
+annealing temperatures used in the experiment. No heat induced
+fracturing, crazing or cracking was observed during the
+experiments.
+This experimental protocol results in three values: [1] the
+concentration of water strongly retained in the rocks structure
+(H2Ostructure), [2] the silanole (SiOH) concentration and [3] the
+concentration of water loosely held in the network of interconnected open pores (H2Oporosity). H2Ostructure and SiOH were
+determined in the dehydrated state. H2Oporosity was measures by
+
+Fig. 2. Micrographs of 5 silcrete samples. The scale in the lower left applies to all six images. (a) SA-11-65B crossed polarisers, (b) SA-11-65B plain light view. Both views of SA-1165B show a high density of large quartz clasts with dissolution features surrounded by very ﬁne microquartz cement. The plain light view shows the high opacity of the cement
+caused by the inclusion of ﬁnely dispersed anatase micro-granules (c) SA-11-12A crossed polarisers. The micrograph shows the very coarse grained microquartz cement of the
+sample and a few isolated larger clasts. (d) SA-11-17A crossed polarisers. The micrograph shows a high density of quartz clasts surrounded by a ﬁne to medium grained cement. (e)
+SA-11-22B crossed polarisers. The micrograph shows the medium grained microquartz cement of the sample and the absence of quartz clasts. (f) SA-11-36 crossed polarisers. The
+micrograph shows some isolated quartz clasts surrounded by a very ﬁne grained cement.
+
+3524
+
+P. Schmidt et al. / Journal of Archaeological Science 40 (2013) 3519e3531
+
+Fig. 3. Mid-infrared transmission spectra of (a) SA-11-56 (thickness: 524  5 mm) and (b) SA-11-22B (thickness: 435  5 mm). The broad 3400 cm1 band is caused by H2O and the
+shoulder at 3580 cm1 is caused by an OeH stretching vibration speciﬁc of chalcedony and microcrystalline quartz. The arrows indicate kaolinite related OeH bands in SA-11-22B.
+Spectra displaced vertically.
+
+subtracting the 5430 cm1 H2O band’s absorption in the dehydrated state spectra from the band’s absorption in the hydrated
+state spectra. This value corresponds to water absorbed by open
+pores of the rock.
+The experimental setup for the maximum tolerated heating
+speed measurements was as follows. The electrical furnace was
+preheated to 550  C. Once this temperature reached, the furnace
+door was opened as fast as possible for a sample to be put in and
+then closed again. Because opening of the door caused a temperature drop of approximately 10  C, it was waited until the thermocouple showed again 550  C before introducing the next sample in
+the furnace (approx. 2e3 min). Once all seven samples in the
+furnace, the temperature was held for 2 h. After this, the furnace
+cooled down to room temperature (taking approx. 5 h) before the
+samples were inspected and a ﬂake was stuck from each of them so
+that a possible deterioration due to overheating could be evaluated.
+4. Results
+4.1. Mineralogy and petrography of the samples
+Petrographic observation of the thin sections reveals the texture
+of the samples. All samples are totally siliciﬁed and contain large
+quartz grains, measuring from 0.2 to 2 mm (clasts), in varying
+proportions. Evaluated volume percentages of clasts in the rocks
+are summarised in Table 2. All 4 petrographic texture types
+described by Summerﬁeld (1983) (GS ¼ Grain supported,
+F ¼ Floating, M ¼ Matrix dominated and C ¼ Conglomeratic) can be
+found in the samples (Table 2). The clasts are surrounded by
+a cement of microquartz of varying grain size (Fig. 2). The grain size
+of this cement is heterogeneous. Two samples show very ﬁne
+grained cement with a grain size signiﬁcantly below 5 mm,
+appearing almost isotropic under crossed polarisers (SA-11-36 and
+-65B). Most samples show cement with a grain size between 10 and
+20 mm (Table 2). The cement of all samples contains ﬁnely dispersed
+micro-inclusions of yellowish-brown granules with a grain size
+near 1 mm. Raman spectroscopy and x-ray diffraction suggest the
+granules to consist of anatase (TiO2). Their concentration seems
+higher in the ﬁner grained parts of the cements. Other minerals like
+
+K-feldspar, biotite, zircon and amphibole are very scarce. Only Kfeldspar is present as crystals with a size comparable to the quartz
+clasts, other minerals are signiﬁcantly smaller.
+The mid-infrared reﬂectance spectra show quartz to be the only
+phase in all samples. No auxiliary phase can be detected using this
+technique. However, this method is able to detect minor constituents of a sample only if these cause infrared bands at frequencies
+different from the major phase of the samples. It is noteworthy that
+no band at 555 cm1, characteristic of non-bridging SieO in silanole
+(Schmidt and Fröhlich, 2011), was observed in the samples. This
+suggests the very low hydroxylation of South African silcrete
+samples.
+The 11 mid-infrared transmission spectra show a broad
+absorption band at 3400 cm1 caused by H2O and a shoulder at
+3580 cm1 caused by an OeH stretching vibration commonly found
+in micro- to cryptocrystalline quartz (Kronenberg, 1994) (Fig. 3).
+Five of the spectra also show weak OeH stretching bands caused by
+clay (Table 1, Fig. 3). The observed shoulders, caused by single OeH
+stretching bands at 3619 cm1, are consistent with clay species like
+illite and members of the smectite group (i.e. montmorillonite).
+Two other samples show traces of kaolinite or other 1:1 clay
+minerals indicated by two OeH stretching bands at 3695 cm1 and
+3619 cm1. One sample (SA-11-36) shows traces of an amphibole
+related OH stretching vibration at 3675 cm1.
+These results are corroborated by Raman spectroscopy. All
+samples show the characteristic bands of quartz and an additional
+week broad band near 850 cm1 consistent with a clay impurity.
+Furthermore, anatase (TiO2) can be detected in all samples through
+its characteristic bands at 145 cm1, 397 cm1, 514 cm1 and
+639 cm1. Although the micro-Raman analyses are not quantitative,
+they nonetheless show the great homogeneity of all analysed silcrete samples that are composed of quartz with anatase and
+a minor clay impurity. Furthermore, the quantitative mid-infrared
+data allow for evaluating the quantity of clay in the samples.
+Based on the thickness of the slabs and the relative intensity of the
+clay related OeH bands, the quantity of phyllosilicates can be
+estimated to be less than one percent in all samples. No band near
+500 cm1, indicating moganite or non-bridging SieO in silanole
+(Schmidt et al., 2012a), could be observed.
+
+P. Schmidt et al. / Journal of Archaeological Science 40 (2013) 3519e3531
+
+3525
+
+Fig. 4. Near infrared transmission spectra acquired in the hydrated state of samples SA-11-12A (a, e), SA-11-17A (b, f), SA-11-2 (c, g) and SA-11-22B (d, h) showing the two
+combination bands used in this study. The 5220 cm1 band is caused by molecular water and the 4547 cm1 band is caused by silanole. The four lower spectra (aed) were
+acquired in diffuse reﬂection mode and did not undergo any data treatment. The four upper spectra (eeh) were acquired in direct transmission and underwent numerical
+smoothing. Smoothing of the transmission spectra was carefully performed so that the H2O and SiOH bands preserved the absorption frequencies and relative band shapes
+observed on diffuse reﬂection spectra. Spectra displaced vertically. The scale of absorbance values are for sample SA-11-22B only. Baselines for the absorption measurements
+are shown by broken lines.
+
+In order to obtain semi-quantitative information about the
+anatase content, six samples were analysed using XRD. Diffraction data shows quartz to be the major phase of the samples
+with up to 98%. Anatase was detected with up to 2%. XRD cannot
+
+be used for semi-quantitative determinations of phyllosilicates
+with an unknown orientation. However, it conﬁrms one of the
+observed clay minerals in the analysed samples to be illite. An
+additional minor amount of K-feldspar (microcline) can also be
+
+3526
+
+P. Schmidt et al. / Journal of Archaeological Science 40 (2013) 3519e3531
+
+detected but does not account for more than one percent of the
+samples. The powder diffractograms do not show any moganite
+peaks. These results are summarised in Table 1.
+4.2. Temperature induced transformations in silcrete
+4.2.1. SiOH and H2O before heat treatment
+Despite relatively large error bars caused by the overall weak
+concentrations of silanole and molecular water in the silcrete
+samples, the assessment of the NIR combination bands’ absorptions shows coherent results. Fig. 4 shows spectra of 4 samples in
+the frequency range of the analysed NIR combination bands. The
+ﬁgure also allows for a comparison between high-resolution
+diffuse reﬂection spectra and quantitative transmission spectra
+used for ‘water’ content measurement. As can be expected,
+quantitative transmission spectra yield less detail than diffuse
+reﬂection spectra and the determined absorption values may yield
+errors in the magnitude of the error bars in Figs. 5e7. Concentrations of H2Ostructure, SiOH and H2Oporosity before heat treatment
+are summarised in Table 2. It can be noticed that the H2Ostructure
+content is relatively low in all samples. The structural water
+concentrations of the samples are 25e70 times lower than the
+values known for length-fast chalcedony and ﬂint (Schmidt
+et al., 2011, 2012b; Flörke et al., 1982; Graetsch et al., 1985).
+Concerning the SiOH contents, the samples can be separated into
+two groups. Samples SA-11-22B and SA-11-36 show silanole
+contents comparable to those of ﬂint (Schmidt et al., 2011)
+whereas the rest of the samples show SiOH contents between 2
+and 6 times lower than those of ﬂint. Both samples with high SiOH
+content show up to 4 times higher values of H2Oporosity than ﬂint
+(Schmidt et al., 2011, 2012b). The 9 other samples show values of
+water absorbing open porosity comparable with ﬂint or slightly
+lower. These values indicate a signiﬁcantly higher open porosity/
+silanole ratio for all silcrete samples than known from ﬂint and
+chert. The silanole concentration shows no correlation with the
+petrographic texture type. However, a correlation between silanole concentration and grain size of the cement together with the
+percentage of larger clasts is noticeable. Samples with ﬁner
+grained cement and/or fewer clasts contain more SiOH than
+samples with coarser grained cement and a higher density of
+clasts.
+4.2.2. Thermal behaviour
+All samples lost silanole upon heat treatment. Fig. 5 shows two
+plots illustrating this tendency, one of a sample with a low SiOH
+concentration (Fig. 5a) and one of a sample with a silanole
+
+concentration comparable to ﬂint (Fig. 5b). Silanole is lost at
+temperatures higher than 200e300  C. The processes governing
+silanole loss seem therefore to be the same as in LF-chalcedony and
+ﬂint (Schmidt et al., 2011, 2012b). Some silanole is retained until
+600  C.
+H2Ostructure concentrations are too low in the samples for
+determining any evolution. Fig. 6 shows the error bars to be too
+large for the evaluation of any tendency in the structural water
+contents of the silcrete samples.
+The H2Oporosity measurements show the heat induced reduction
+of water absorbing open pores. Fig. 7 shows two plots of the pore
+water concentration as a function of different annealing temperatures for two samples, one with an initial pore volume comparable
+to ﬂint (Fig. 7a) and one with a 4 higher initial pore volume
+(Fig. 7b). In the two samples with high silanole content, a ﬁrst loss
+can be observed below 200  C. This ﬁrst loss at low temperatures
+does not correspond to a true loss of porosity. It can be explained by
+the progressive dehydration of a very ﬁne part of the porosity
+between 100  C and 200  C that cannot easily be rehydrated
+(Schmidt, 2011). This loss is not observed in samples with lower
+silanole content. The loss of porosity becomes evident at temperatures higher than 400  C in all silcrete samples. Only a faint loss of
+porosity can be noticed at lower temperatures. The total lost
+volume, even at high temperatures, is small if compared to ﬂint
+(Schmidt et al., 2011, 2012b). In order to obtain a porosity reduction
+between 60% and 80%, the heating temperature has to attain at
+least 500  C in all samples. Unlike pure LF-chalcedony, none of the
+silcrete samples was completely devoid of open porosity after heat
+treatment to 600  C.
+TG curves of samples SA-11-12A and SA-11-36 and their derivatives are shown in Fig. 8. The curves show a total weight loss of
+z0.22% and z0.6% respectively which is consistent with the
+sample’s silanole concentration as determined by the NIR
+measurements. Mass is continuously lost throughout the studied
+temperature range. However, the curves of both samples show an
+intermediary temperature range between 400  C and 550  C where
+almost no mass is lost. NIR data indicates that the porosity loss in
+both samples is strongest in this temperature range (Fig. 7). The
+direct comparison between the TG curve’s derivatives and the NIR
+open porosity values shows a good correlation between pore loss
+and the intermediate temperature range where almost no mass is
+lost (grey area in Fig. 8c and d). This strongly indicates that the
+closure of open pores in the analysed silcrete samples is mainly due
+to factors that do not involve the departure of mass (i.e. unlike ﬂint,
+silanole loss is not the sole cause of the silcrete’s structural transformations upon heat treatment).
+
+Fig. 5. Plots showing the content of silanole in two of the samples as a function of annealing temperature. (2a) SA-11-12A, sample thickness 469  5 mm and (2b) SA-11-36, sample
+thickness 515  5 mm. The thermal evolution of SA-11-12A is representative for all samples with low silanole content and SA-11-36 is representative for the two samples with high
+silanole content (for explanations see text). Spectra acquired in the dehydrated state. The values are obtained by measuring the absorbance of the SiOH 4547 cm1 combination
+band. Silanole loss begins between 200  C and 300  C.
+
+P. Schmidt et al. / Journal of Archaeological Science 40 (2013) 3519e3531
+
+3527
+
+Fig. 6. Plots of the content of molecular water strongly retained by the rock’s structure. (2a) SA-11-02, sample thickness 464  5 mm and (2b) SA-11-36, sample thickness
+515  5 mm. Spectra acquired in the dehydrated state. The values are obtained by measuring the absorbance of the H2O 5220 cm1 combination band. The initial H2O content is too
+low and the calculated errors are too large for a clear evolution to be noticed from these measurements.
+
+4.2.3. Maximum tolerated heating speed
+Upon placing the silcrete samples in a furnace preheated to
+550  C, only one of the seven samples showed traces of overheating
+(Table 3). SA-11-36 showed several fractures and was judged
+useless for tool production after this treatment. The other six
+samples, however, did not show any heat induced fracturing,
+crazing or other form of deterioration. It was possible to detach
+a clean ﬂake from all of them. Even though SA-11-22B and SA-11-36
+both have silanole contents comparable to ﬂint, only sample SA-1136 (the one with the highest SiOH content of all samples) showed
+a deterioration of its ﬂaking quality after being subjected to this
+abrupt treatment. The other samples showed lower SiOH concentrations (compare with Table 2). This result suggests a good
+correlation between endured maximum heating speed, silanole
+content and porosity of the samples.
+5. Discussion
+The sample’s mineralogical compositions and petrographic
+textures correspond to a variety of other types of silcrete from
+different parts of the world (Summerﬁeld, 1983) and the obtained
+results on the studied samples’ thermal transformations can most
+likely be transferred to a large number of silcrete from different
+origins. This is currently being veriﬁed for silcrete from different
+parts of South Africa.
+The low SiOH and H2Ostructure contents and the high relative
+porosity volume as compared with LF-chalcedony and ﬂint seem
+to be the main heat treatment relevant difference between South
+
+African continental silcrete and marine sedimentary silica rocks
+(Schmidt et al., 2012b). These low ‘water’ contents can be
+explained by the different nature of the microcrystalline cement of
+both rocks. The analysed silcrete samples did not contain chalcedony but were made up of quartz clasts surrounded by a cement
+of micro-quartz. The relative abundance of macro-quartz clasts,
+devoid of hydroxyl defects, may also account for the low overall
+water content of the rocks. The sample’s silanole concentration
+seems to be directly correlated to the size of the micro-quartz
+grains of the cement and the abundance of clasts. High SiOH
+samples display a ﬁne micro-quartz cement whereas low SiOH
+samples show a somewhat ‘coarser grained’ cement. The relatively
+large pore volume of South African silcrete may be caused by voids
+and channels due to illuviation in the original sediment (Porraz
+et al., 2013) but also to pores and joints around clasts and structural elements in the rocks.
+Our results show that the controlled treatment of IR transmission data (numerical smoothing) in combination with high
+resolution diffuse reﬂection spectroscopy for data treatment
+control is a good method for quantitative H2O and SiOH determinations in highly opaque sample. However, the results also show
+the limitations of NIR water determinations in silcrete by means of
+transmission. The structural water (H2Ostructure) contents are too
+low in the z500 mm thick sections for signiﬁcant concentration
+values to be calculated. These low concentrations could be
+compensated for by thicker sections but the high opacity of the
+material does not allow spectral acquisition with longer optical
+pathways. This illustrates the need for further and more precise
+
+Fig. 7. Plots of the concentrations of molecular water retained in open pores in the samples. (2a) SA-11-12A, sample thickness 469  5 mm and (2b) SA-11-36, sample thickness
+515  5 mm. The thermal evolution of SA-11-12A is representative for all samples with low silanole content and SA-11-36 is representative for the two samples with high silanole
+content (for explanations see text). The values are obtained by subtracting the value of the H2O 5220 cm1 combination band in the dehydrated state from the band’s value in the
+hydrated state. The disappearance of open pores becomes evident from 450  C upward.
+
+3528
+
+P. Schmidt et al. / Journal of Archaeological Science 40 (2013) 3519e3531
+
+Fig. 8. TG curves of (a) SA-11-12A and (b) SA-11-36 and their derivatives (c, d) acquired with a heating rate of 1  C/min. The derivatives are compared with the loss of open pore
+water as determined through NIR measurements. Scales to the left are for open pore water concentrations (-), derivatives of the TG curves are plotted as continuous lines. The grey
+areas in c and d highlight the temperature intervals with the most pronounced pore loss of the samples. During this interval the samples loose almost no mass.
+
+studies for investigating all the parameters and key temperatures of
+the silcrete’s thermal transformations. However, our results show
+the major episodes and key temperatures of the heat induced
+transformations in silcrete:
+(1) The ﬁrst reaction of the material is the loss of silanole,
+starting at temperatures between 200  C and 300  C. This is analogous to ﬂint and other LF-chalcedony rich silica rocks. However,
+unlike ﬂint, the majority of the molecular water created by this
+SiOH / H2O synthesis can be evacuated from the rock through
+a relatively large network of open pores. This reaction must be
+expected to contribute to the closing of a part of these pores but the
+volume of open pores remains high at these temperatures as
+compared to pure LF-chalcedony. The good evacuation of the
+produced H2O prevents fracturing of the silcrete even at rapid
+heating speeds. This loss of silanole and the closing of pores can be
+expected to cause the ﬁrst transformation of the ﬂaking properties
+between 200  C and 400  C.
+(2) Annealing temperatures have to attain 400  Ce500  C for
+the volume of water absorbing pores to be reduced by 60%e80%.
+This loss of porosity does not correspond to the formation of
+new bridging SieOeSi bonds for it is not associated with
+a weight loss. It has to be explained by secondary constituents of
+the rocks accomplishing a transformation that results in the loss
+of porosity. A candidate for this pore closing reaction is the
+swelling of the anatase fraction in the rocks. Indeed, Wang et al.
+(2008) show a size increase of up to 20% for pure anatase particles subjected to a 500  C heat treatment. The volume increase of
+the 1e2% anatase, ﬁnely distributed all over the cement of the
+rocks, may contribute to the loss of their pore volume. Since pore
+closing plays an important role in modifying the ﬂaking properties
+of silica rocks (Schmidt et al., 2012b) and the strongest loss of
+porosity can be ascribed to this reaction, the ideal temperature for
+heat treatment of South African silcrete can be estimated to be
+between 400  C and 500  C.
+
+Even at heating temperatures as high as 600  C, water created
+by the ‘liberation’ of silanole (Schmidt et al., 2011) can be evacuated
+though a network of open pores that remains present in the rock. In
+pure LF-chalcedony and ﬂint, it is the synthesis of H2O within the
+rock, unable to be evacuated by open pores, that causes fracturing
+of the samples (Schmidt et al., 2012b). Differential thermal
+expansion of the quartz crystallites is unlikely to cause fracturing in
+micro-crystalline silica rocks at temperatures below 600  C. Both
+the linear and volumetric thermal expansion coefﬁcients of aquartz are relatively low as compared to other natural materials
+(Sosman, 1927). The fact that none of our large silcrete samples
+with low SiOH content suffered fracturing, crazing or any other
+deterioration upon abrupt exposure to 550  C corroborates the
+ﬁnding of Schmidt et al. (2012b) and Schmidt (2011) that the
+driving force of overheating in micro-crystalline silica rocks is not
+differential thermal expansion but increasing vapour pressure of
+ﬂuid inclusions in the rocks. Even the largest volume tested did not
+show signs of overheating upon abrupt exposure to heat; indicating
+that heat induced fracturing of low-SiOH-silcrete is independent of
+volume in the range of the tested temperatures (until 550  C) and
+volumes (until 79 cm3). This corroborates the results of Mercieca
+and Hiscock (2008) who showed that silcrete can be rapidly
+heated until 600  C.
+Thus, regardless of whether MSA hunter-gatherers beneﬁtted
+from the formation of new SieOeSi bonds or the loss of porosity
+caused by secondary minerals, the heating speed could be
+dramatically faster than for ﬂint and the maximum temperature
+did not need to be controlled as carefully as for ﬂint. However,
+whereas low-SiOH-silcrete is very tolerant to heating speed and
+temperature, heat treatment of larger blocks of high-SiOH-silcrete
+might require slightly more attention.
+The role of the <1% clay fraction in the samples remains to be
+investigated. If the dehydration of clay (illite and kaolinite) plays
+a role in the modiﬁcation process of the mechanical properties of
+
+P. Schmidt et al. / Journal of Archaeological Science 40 (2013) 3519e3531
+
+South African silcrete, the temperatures at which this reaction
+begins to be effective lie above 500  C. Furthermore, some of the
+observed transformations (i.e. the role of strongly retained water
+and the implications of the relatively voluminous network of
+porosity to the rock’s ﬂaking properties) still remain to be understood using a set of appropriate analyses. A complete research
+program on South African silcrete and its role in the emergence of
+heat treatment for tool production is currently being prepared.
+6. Implications for the emergence of heat treatment in the
+South African MSA
+These results have important implications for understanding
+the discovery and mastering of lithic heat treatment in the South
+African MSA. The identiﬁcation of heat treatment in the MSA
+(Brown et al., 2009) has pushed the earliest occurrence of this
+practice several thousand years back from previous reports from
+the European Upper Palaeolithic (Tiffagom, 1998; Bordes, 1969). At
+present, these South African MSA hunter-gatherers seem to have
+been the ﬁrst humans to intentionally modify lithic raw material for
+knapping.
+There seems to be general agreement in the current literature
+that heat treatment is a sophisticated technology requiring
+advanced cognitive capacities and a complex socio-economic
+structure. Alongside blade production, geometric backed tools
+and pressure ﬂaking, heat treatment may therefore be understood
+as a behavioural proxy marking a main step in the technological
+evolution of prehistoric societies. This seems to hold true for heat
+treatment of ﬂint as it is known from the European Upper Palaeolithic and the Neolithic. Indeed, ﬂint heat treatment is a rather
+complicated procedure. The maximal heating temperature and the
+ramp rate are functions of the volume of the rocks (Schmidt et al.,
+2012b) and larger volumes are rather complicated to heat-treat
+because water is not easily evacuated from the interior (Schmidt
+et al., in press; Léa, 2004). In order to succeed in the treatment,
+an environment that prevents the material from heating too rapidly
+and exceeding temperatures must be established and maintained
+(Crabtree and Butler, 1964; Schmidt et al., 2012b). This heating
+environment requires the makers to have an intimate knowledge of
+[1] the heated material’s properties and its temperature induced
+modiﬁcations and [2] the control of ﬁre and its thermal gradients in
+the material used for the heating environment (e.g. sand in the case
+of a sand bath).
+However, heat treatment in the South African MSA was not
+performed for transforming ﬂint but silcrete. In this preliminary
+study, we found major differences between the thermal properties
+of these two rocks. Silcrete needs to be heated to temperatures
+approximately 200  C higher than ﬂint and the temperatures at
+which silcrete experiences overheating (cracking, crazing, deterioration of its ﬂaking quality) are signiﬁcantly higher than for ﬂint
+(Schmidt et al., 2012b). Heating rates for silcrete with low ‘water’
+content can also be considerably faster. Thus, most South African
+silcrete demands a much less elaborate heating procedure. Due to
+these relatively high effective temperatures and the large temperature range that silcrete can endure, it seems likely that this early
+heat treatment involved the use of areas surrounding open ﬁres or
+the use of slightly cooled embers that were isolated from an open
+ﬁre (with an average temperature of 550  C). This is especially true
+for silcrete with low ‘water’ contents as it was the case for most of
+our samples. The heating characteristics of this silcrete do not
+require the setup of a special heating environment, nor do they
+demand any more knowledge or investment than the heating of
+compound adhesives, as known from the South African MSA
+archaeological record (Wadley et al., 2009), or the use of ﬁre for
+cooking. The experimental reproduction of heat treatment by
+
+3529
+
+Brown et al. (2009), using a protocol based on very slow indirect
+heating of the samples to 350  C in a sand bath beneath a wood ﬁre
+designed for this purpose, seems to be an over investment. Silcrete
+heat treatment may therefore not correspond to a particularly high
+investment, neither in time nor in resources, as proposed by these
+authors but it could have been a relatively rapid and easy step in the
+chaîne opératoire of the lithic production. However, a very small
+part of our samples (two) showed higher ‘water’ content that the
+rest. These speciﬁc types of silcrete may have required slightly
+more careful handling during heat treatment. Even though only the
+assessment of the ‘water’ content of the silcrete types actually used
+for heat treatment during the MSA will shed light on the question of
+the used procedures, we remind that high-SiOH-silcrete only
+represents a very small part of the silcrete types found in the West
+Coast area.
+We therefore strongly disagree with the hypothesis that silcrete
+raw material became more abundant during the MSA because of
+the temporal abundance of ﬁrewood allowing supplementary ﬁres
+required for the heat treatment of the silcrete (Brown and Marean,
+2010). Our results indicate that silcrete does not require the setup of
+supplementary ﬁres but that it can easily be performed on ﬁres
+used for cooking, heating and other ﬁre-related activities. Hence, it
+does not automatically represent a supplementary cost in terms of
+time or wood consumption. Moreover, no dramatic change in wood
+consumption can be seen in the Diepkloof archaeological record
+(Cartwright, 2013) whereas heated silcrete was found throughout
+the sequence. We believe that one driving factor alone cannot
+account for the variation of raw material provisioning strategies
+observed during the MSA.
+We also showed that heat treatment of silcrete does not
+necessarily require a sophisticated knowledge of ﬁre and the
+heated material. Even though the ﬁrst heating evidence at Diepkloof coincides with an increase of silcrete raw material (Porraz
+et al., 2013), local quartzite was also heated (Tribolo et al., 2013).
+However, due to the absence of a surface gloss on the fracture
+negatives of heated quartzite artefacts, it is difﬁcult to determine
+whether quartzite heat treatment took place before knapping or if
+the quartzite was simply burned after use. If it could be demonstrated that quartzite was also heated before knapping, this may
+suggest a somewhat opportunistic practise of heat treatment,
+hence that it did not hinge on the intimate knowledge of the rawmaterial and its transformations. This is because heat treatment of
+most types of quartzite is useless, for this metamorphic rock
+already lost all its silanole (if there had ever been some) by the
+inﬂuence of heat and pressure, hence no transformation of the
+material can be achieved like in chalcedony, ﬂint and silcrete
+(Schmidt et al., 2011, 2012b). However, this hypothesis needs
+further investigation and discussion.
+The current archaeological data shows that the importance of
+heat treatment varied throughout time. Heat treatment of silcrete
+represents an indisputable advantage for lithic production on silcrete and MSA people may have deliberately manipulated this
+physical transformation. Nonetheless, the question of intentionality, invention and mastering of heat treatment needs to be discussed with reference to speciﬁc technological contexts. The
+hypothesis that the mastering of heat treatment is at the origin of
+advanced technology during the MSA seems unlikely in the light of
+our results and requires further investigation.
+The model suggested by our preliminary study needs to be
+corroborated by further analyses of the properties and transformation of archaeological silcrete, such as the exact determination of the temperatures used for the treated artefacts, their
+petrography and their silanole content. The volume of heat-treated
+silcrete blocks larger than 80 cm3 can also be expected to inﬂuence
+on the heating procedure and must be taken into account together
+
+3530
+
+P. Schmidt et al. / Journal of Archaeological Science 40 (2013) 3519e3531
+
+with their physical and chemical properties (Work currently in
+progress for the MSA sequence of Diepkloof). This ﬁrst study shows
+nonetheless that a direct comparison between heat treatment in
+the MSA and more recent examples of the systematic transformations of raw material (dating from the European Upper
+Palaeolithic) is not as straightforward as it might appear at ﬁrst
+glance.
+Acknowledgements
+We thank Simon Puaud from the Muséum national d’histoire
+naturelle, Dpt. de Préhistoire UMR 7194, for his collaboration to the
+acquisition of the powder diffraction data. We are also indebted to
+Anne Davidson from the Laboratoire de réactivité de surface (LRS),
+UPMC e UMR 7197, for her collaboration to the acquisition of the IR
+diffuse reﬂection spectra. The scientiﬁc project and excavation at
+Diepkloof have been funded by the French Ministry of Foreign
+Affairs (MAE), the Aquitaine region, the Provence-Alpes-Côted’Azur region and by the Centre National de la Recherche Scientiﬁque (CNRS). We are also thankful to the Paleontological Scientiﬁc
+Trust (PAST) and the National Research Foundation (NRF) of South
+Africa for funding. The University of Cape Town has been of great
+support in providing space, facilities and other logistical help. We
+also thank D. & M. van Wyk and J. Pollet for permission to work on
+their land, as well as the Heritage Western Cape (HWC) for permits
+to excavate at DRS.
+References
+Ambrose, S.H., Lorenz, K.G., 1990. Social and ecological models for the Middle
+Stone Age in Southern Africa. In: Mellars, P. (Ed.), The Emergence of Modern
+Humans: an Archaeological Perspective. Edinburgh University Press, Edinburgh, pp. 3e33.
+Backwell, L., d’Errico, F., Wadley, L., 2008. Middle Stone Age bone tools from the
+Howiesons Poort layers, Sibudu Cave, South Africa. Journal of Archaeological
+Science 35 (6), 1566e1580.
+Binder, D., 1984. Systèmes de débitage laminaire par pression: exemples chasséens
+provençaux. In: Tixier, J., Inizan, M.L., Roche, H. (Eds.), Préhistoire de la pierre
+taillée, 2: économie du débitage laminaire: technologie et expérimentation: IIIe
+table ronde de technologie lithique. Meudin-Bellevue, octobre 1982. Cercle de
+Recherches et d’Etudes Préhistoriques, Paris, pp. 71e84.
+Bordes, F., 1969. Traitement thermique du silex au Solutréen. Bulletin de la Société
+préhistorique française 66 (7), 197.
+Brown, K., Marean, C., 2010. Wood fuel availability for heat treatment drives the rise
+and fall of silcrete as a raw material in the Middle stone Age of South Africa.
+Abstracts of the PaleoAnthropology Society 2010 Meetings. PaleoAnthropology,
+A0001eA0040.
+Brown, K.S., Marean, C.W., Herries, A.I.R., Jacobs, Z., Tribolo, C., Braun, D.,
+Roberts, D.L., Meyer, M.C., Bernatchez, J., 2009. Fire as an engineering tool of
+early modern humans. Science 325 (5942), 859e862.
+Cartwright, C., 2013. Identifying the woody resources of Diepkloof Rock Shelter
+(South Africa) using scanning electron microscopy of the MSA wood charcoal
+assemblages. Journal of Archaeological Science 40, 3463e3474.
+Charrié-Duhaut, A., Porraz, G., Cartwright, C., De Araujo, M., Conan, J.,
+Poggenpoel, C., Texier, P.-J., 2013. First molecular identiﬁcation of a hafting
+adhesive in the Late Howiesons Poort at Diepkloof Rock Shelter, Western Cape,
+South Africa. Journal of Archaeological Science 40, 3506e3518.
+Crabtree, D.E., Butler, B.R., 1964. Notes on experiment in ﬂint knapping: 1 heat
+treatment of silica materials. Tebiwa 7, 1e6.
+Domanski, M., Webb, J.A., 1992. Effect of heat treatment on siliceous rocks used in
+prehistoric lithic technology. Journal of Archaeological Science 19 (6), 601e614.
+Domanski, M., Webb, J.A., Boland, J., 1994. Mechanical properties of stone artefact
+materials and the effect of heat treatment. Archaeometry 36 (2), 177e208.
+Eriksen, B.V., 2006. Colourful lithics e the “Chaîne opératoire” of heat treated Chert
+artefacts in the early Mesolithic of Southwest Germany. In: Kind, C.J. (Ed.), After
+the Ice Age. Settlements, Subsistence and Social Development in the Mesolithic
+of Central Europe, Materialhefte zur Archäologie in Baden-Württemberg.
+Konrad Theiss Verlag, Stuttgart, pp. 147e153.
+Flenniken, J.J., Garrison, E.G., 1975. Thermally altered novaculite and stone tool
+manufacturing techniques. Journal of Field Archaeology 2, 125e131.
+Flörke, O.W., Köhler-Herbertz, B., Langer, K., Tönges, I., 1982. Water in microcrystalline quartz of volcanic origin: agates. Contributions to Mineralogy and
+Petrology 80 (4), 324e333.
+Fukuda, J., Nakashima, S., 2008. Water at high temperatures in a microcrystalline
+silica (chalcedony) by in-situ infrared specroscopy: physicochemical states and
+
+dehydration behavior. Journal of Mineralogical and Petrological Sciences 103,
+112e115.
+Graetsch, H., Flörke, O.W., Miehe, G., 1985. The nature of water in chalcedony and
+opal-C from Brazilian agate geodes. Physics and Chemistry of Minerals 12 (5),
+300e306.
+Henshilwood, C., d’Errico, F., Vanhaeren, M., van Niekerk, K., Jacobs, Z., 2004. Middle
+Stone Age shell beads from South Africa. Science 304 (5669), 404.
+Henshilwood, C., d’Errico, F., Yates, R., Jacobs, Z., Tribolo, C., 2002. Emergence of
+modern human behavior: Middle Stone Age engravings from South Africa.
+Science 295, 1278e1280.
+Hester, T.R., 1972. Ethnographic evidence for the thermal alteration of siliceous
+stone. Tebiwa 15, 63e65.
+Inizan, M.L., Tixier, J., 2001. L’émergence des arts du feu: le traitement thermique
+des roches siliceuses. Paléorient 26 (2), 23e36.
+Jacobs, Z., Roberts, R.G., 2009. Catalysts for Stone Age innovations: what might have
+triggered two short-lived bursts of technological and behavioral innovation in
+southern Africa during the Middle Stone Age? Communicative & Integrative
+Biology 2 (2), 191e193.
+Kenoyer, J.M., Vidale, M., Bhan, K.K., 1991. Contemporary stone bead making in
+Khambhat, India: patterns of craft specialisation and organisation of production
+as reﬂected in the archaeological record. World Archaeology 23 (1), 45e63.
+Klein, R., 1995. Anatomy, behavior, and modern human origins. Journal of World
+Prehistory 9 (2), 167e198. http://dx.doi.org/10.1007/bf02221838.
+Kronenberg, A.K., 1994. Hydrogen speciation and chemical weakening of quartz. In:
+Heaney, P.J., Prewitt, C.T., Gibbs, G.V. (Eds.), Silica: Physical Behaviour,
+Geochemistry and Materials Applications. Reviews in Mineralogy, vol. 29.
+Mineralogical Society of America, Washington, pp. 123e176.
+Le Bourhis, E., 2008. Glass Mechanics and Technology. Wiley, Weinheim.
+Léa, V., 2004. Centres de production et diffusion des silex bédouliens au Chasséen.
+Gallia préhistoire 46, 231e250.
+Léa, V., 2005. Raw, pre-heated or ready to use: discovering specialist supply systems
+for ﬂint industries in mid-Neolithic (Chassey culture) communities in southern
+France. Antiquity 79, 1e15.
+McBrearty, S., Brooks, A.S., 2000. The revolution that wasn’t: a new interpretation of the
+origin of modern human behavior. Journal of Human Evolution 39 (5), 453e563.
+Mercieca, A., Hiscock, P., 2008. Experimental insights into alternative strategies of
+lithic heat treatment. Journal of Archaeological Science 35 (9), 2634e2639.
+Michel-Levy, A., Munier-Chalmas, C.P.E., 1892. Mémoire sur les diverses formes
+affectées par le réseau élémentaire du quartz. Bulletin de la société minéralogique de France 7, 159e195.
+Miller, C.E., Goldberg, P., Berna, F., 2013. Geoarchaeological investigations at Diepkloof Rock Shelter, Western Cape, South Africa. Journal of Archaeological
+Science 40, 3432e3452.
+Mourre, V., Villa, P., Henshilwood, C.S., 2010. Early use of pressure ﬂaking on lithic
+artifacts at Blombos Cave, South Africa. Science 330 (6004), 659e662.
+Parkington, J., Rigaud, J.-P., Poggenpoel, C., Porraz, G., Texier, P.-J., 2013. Introduction
+to the project and excavation of Diepkloof Rock Shelter (Western Cape, South
+Africa): a view on the Middle Stone Age. Journal of Archaeological Science 40,
+3369e3375.
+Porraz, G., Texier, P.-J., Archer, W., Piboule, M., Tribolo, C., 2013. Technological
+successions in the Middle Stone Age sequence of Diepkloof Rock Shelter,
+Western Cape, South Africa. Journal of Archaeological Science 40, 3376e3400.
+Purdy, B.A., Brooks, H.K., 1971. Thermal alteration of silica minerals: an archeological approach. Science 173 (3994), 322e325.
+Rios, S., Salje, E.K.H., Redfern, S.A.T., 2001. Nanoquartz vs. macroquartz: a study of
+the a - ß phase transition. The European Physical Journal B 20, 75e83.
+Roberts, D.L., 2003. Age, Genesis and Signiﬁcance of South African Coastal Belt
+Silcretes, Memoir 95. Council for Geoscience, Pretoria.
+Schindler, D.L., Hatch, J.W., Hay, C.A., Bradt, R.C., 1982. Aboriginal thermal alteration
+of a Central Pennsylvania jasper: analytical and behavioral implications.
+American Antiquity 47 (3), 526e544.
+Schmidt, P., 2011. Traitement thermique des siliciﬁcations sédimentaires, un
+nouveau modèle des transformations cristallographiques et structurales de la
+calcédoine induites par la chauffe. Unpublished Doctoral thesis, Muséum
+national d’histoire naturelle, Paris.
+Schmidt, P., Badou, A., Fröhlich, F., 2011. Detailed FT near-infrared study of the
+behaviour of water and hydroxyl in sedimentary length-fast chalcedony, SiO2,
+upon heat treatment. Spectrochimica Acta Part A: Molecular and Biomolecular
+Spectroscopy 81 (1), 552e559.
+Schmidt, P., Bellot-Gurlet, L., Slodczyk, A., Fröhlich, F., 2012a. A hitherto unrecognised band in the Raman spectra of silica rocks: inﬂuence of hydroxylated SieO
+bonds (silanole) on the Raman moganite band in chalcedony and ﬂint (SiO2).
+Physics and Chemistry of Minerals 39 (6), 455e464. http://dx.doi.org/10.1007/
+s00269-012-0499-7.
+Schmidt, P., Fröhlich, F., 2011. Temperature dependent crystallographic transformations
+in chalcedony, SiO2, assessed in mid infrared spectroscopy. Spectrochimica Acta
+Part A: Molecular and Biomolecular Spectroscopy 78 (5), 1476e1481.
+Schmidt, P., Léa, V., Sciau, P., Fröhlich, F. Detecting and quantifying heat treatment of
+ﬂint and other silica rocks: a new non-destructive method applied to heattreated ﬂint from the Neolithic Chassey culture, southern France. Archaeometry, in press.
+Schmidt, P., Masse, S., Laurent, G., Slodczyk, A., Le Bourhis, E., Perrenoud, C.,
+Livage, J., Fröhlich, F., 2012b. Crystallographic and structural transformations of
+sedimentary chalcedony in ﬂint upon heat treatment. Journal of Archaeological
+Science 39 (1), 135e144.
+
+P. Schmidt et al. / Journal of Archaeological Science 40 (2013) 3519e3531
+Scholze, H., 1960. Über die quantitative UR-spektroskopische Wasserbestimmung in
+Silikaten. Fortschritte der Mineralogie 38 (2), 122e123.
+Sosman, R.B., 1927. The Properties of Silica. The Chemical Catalog, New York.
+Summerﬁeld, M.A., 1983. Petrography and diagenesis of silcrete from the Kalahari
+Basin and Cape coastal zone, Southern Africa. Journal of Sedimentary Research
+53 (3), 895e909.
+Texier, P.-J., Porraz, G., Parkington, J., Poggenpoel, C, Rigaud, J.-P., Poggenpoel, C.,
+Tribolo, C., 2013. The context, form and signiﬁcance of the MSA engraved
+ostrich eggshell collection from Diepkloof Rock Shelter, Western Cape, South
+Africa. Journal of Archaeological Science 40, 3412e3431.
+Texier, P.-J., Porraz, G., Parkington, J., Rigaud, J.-P., Poggenpoel, C., Miller, C.E.,
+Tribolo, C., Cartwright, C., Coudenneau, A., Klein, R., Steele, T., Verna, C., 2010.
+A Howiesons Poort tradition of engraving ostrich eggshell containers dated to
+60 000 years ago at Diepkloof Rock Shelter. South Africa Proceedings of the
+National Academy of Sciences 29, 1001e1015.
+Tiffagom, M., 1998. Témoignages d’un traitement thermique des feuilles de laurier dans
+le Solutréen supérieur de la grotte du Parpalló (Gandia, Espagne). Paléo 10,147e161.
+
+3531
+
+Tribolo, C., Mercier, N., Douville, E., Joron, J.-L., Reyss, J.-L., Rufer, D., Cantin, N.,
+Lefrais, Y., Miller, C.E., Parkington, J., Porraz, G., Rigaud, J.-P., Texier, P.-J., 2013.
+OSL and TL dating of the Middle Stone Age sequence of Diepkloof Rock Shelter
+(Western Cape, South Africa): a clariﬁcation. Journal of Archaeological Science
+40, 3401e3411.
+Wadley, L., Hodgskiss, T., Grant, M., 2009. Implications for complex cognition
+from the hafting of tools with compound adhesives in the Middle Stone Age,
+South Africa. Proceedings of the National Academy of Sciences 106 (24),
+9590e9594.
+Wang, J., Li, R., Zhang, Z., Sun, W., Wang, X., Xing, Z., Xu, R., Zhang, X.,
+2008. Heat treatment of nanometer anatase powder and its photocatalytic activity for degradation of acid red B dye under visible light
+irradiation. Inorganic Materials 44 (6), 608e614. http://dx.doi.org/10.1134/
+s0020168508060125.
+Wopfner, H., 1978. Silcretes of northern South Australia and adjacent regions. In:
+Langford-Smith, T. (Ed.), Silcrete in Australia. Department of Geography,
+University of New England, Armidale, pp. 93e142.
+
+

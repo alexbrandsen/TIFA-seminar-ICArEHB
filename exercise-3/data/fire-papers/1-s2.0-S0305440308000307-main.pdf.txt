@@ -1,0 +1,1009 @@
+Journal of Archaeological Science 35 (2008) 2171e2178
+http://www.elsevier.com/locate/jas
+
+A new calibration of the XRD technique for the
+study of archaeological burned human remains
+Giampaolo Piga a,*, Assumpciò Malgosa a, T.J.U. Thompson b, Stefano Enzo c
+a
+
+Unitat d’Antropologia, Department de Biologia Animal, Biologia Vegetal i Ecologia, Universitat Autonoma de Barcelona, 08193 Bellaterra, Spain
+b
+School of Science & Technology, University of Teesside, TS1 3BA Middlesbrough, UK
+c
+Department of Chemistry, University of Sassari, Via Vienna 2, 07100 Sassari, Italy
+Received 14 June 2007; received in revised form 6 September 2007; accepted 1 February 2008
+
+Abstract
+A new calibration of human bones as a function of programmed temperature (200e1000  C) and time (0, 18 and 60 min) is presented and
+discussed in order to investigate the issues related to the study of cremated bone remains by using the powder X-ray diffraction approach. The
+experimental results confirm the growth of hydroxylapatite crystallites as a function of the applied temperature, with a sigmoid behaviour that
+has been parameterized to the experimental data points. Particularly, it was observed that the thermal treatments for 60 min anticipate of about
+100  C the effects that are otherwise observed after the treatments for 0 min. The developed procedure was subsequently applied to cremated
+remains of various archaeological sites of Spain and supplied precise information not only about the temperature reached during the funerary
+rites, but also on the presumed duration for the cremation.
+Ó 2008 Elsevier Ltd. All rights reserved.
+Keywords: Cremated bones; Hydroxylapatite; Powder X-ray diffraction
+
+1. Introduction
+The study of cremated human remains is of considerable importance in anthropology and frequently coincides with issues
+common to archaeology and forensics. For example it appears
+particularly interesting to be able to assess the temperature
+reached by civilizations using cremations within their funerary
+practices and to estimate a possible time scale for the fire treatment of bodies. This also represents useful information concerning the fire and materials technology of the time.
+In addition to this, an investigation of fire temperatures
+seems advisable in order to confirm or reject the possibility
+of occasional non-ritualistic fires in civilizations where the
+use of funerary rites has never been verified in depth (Piga
+et al., in press).
+
+* Corresponding author. Tel.: þ34 07840935.
+E-mail address: kemiomara@yahoo.it (G. Piga).
+0305-4403/$ - see front matter Ó 2008 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2008.02.003
+
+In a first instance, a visual investigation of the remains is able
+to suggest whether the bones have been subjected to fire. However, these problems can be suitably and objectively addressed
+with a powder X-ray diffraction approach for the hydroxylapatite
+(HA) mineral phase, which is the main inorganic phase in bones.
+Since 1975 (Bonucci and Graziani, 1975) it has been demonstrated that high temperatures of fire treatments induce
+a growth of the average crystallite size of HA, which can be
+appreciated relatively well from the line broadening/sharpening analysis of diffraction peaks.
+In the first critical study of its kind, Shipman et al. (1984)
+investigated the microscopic morphology of various osteological materials and used X-ray diffraction in order to assess
+whether specimens of unknown taphonomic history were burnt
+and the maximum temperature reached by those specimens.
+These investigations are based on the fact that heating the
+bones causes a sharpening of diffraction patterns, attributed
+to increased crystallite size and decreased lattice strain of osteological phases.
+
+2172
+
+G. Piga et al. / Journal of Archaeological Science 35 (2008) 2171e2178
+
+However, subsequently Bartsiokas and Middleton (1992),
+with the aim of characterizing and dating recent and fossil animal and human bones, suggested measuring a so-called crystallization index from their diffraction patterns, which can be
+mainly ascribed to the presence of natural apatite phase. The
+crystallization index, which is strictly related to the peak
+sharpening effects, was actually defined as the intensity ratio
+of (300)/(202) line profiles of hexagonal apatite, which normally occur as shoulder of the most intense (211) line in the
+2q angular range from 31 to 35 when using Cu Ka radiation.
+A linear correlation between crystallinity index and bone age
+was reported over a period length of more than 106 years. It
+should also be noted that another crystallinity index was almost concomitantly defined by Person et al. (1995) using
+more peaks belonging to the same angular range.
+It is clear that the two above mentioned lines of work may
+be conflicting especially if the bones were subjected simultaneously to both physical effects of burning and annealing
+across very long periods of time. This is further complicated
+but the fact that there have been very few studies exploiting
+this technique in 20 years since it’s first serious adoption.
+Studies by Newesely (1988), Holden et al. (1995), Stiner
+et al. (1995) and Rogers and Daniels (2002) have superficially
+investigated this source of information, but lack the cohesive
+nature necessary to allow one to overcome these sort of conflicts. However, in a sufficiently short period of time it seems
+that the two effects can be assumed well distinct. As a matter
+of fact, the time period investigated by Bartsiokas and Middleton requires some millions of years to observe significant
+changes in the crystallization index, which is a quantity determined with an error bar of few percent. This means that the
+crystallinity index may be regarded virtually unchanged in
+a period in the order of 10,000 years, that is, in a period of archaeological and forensic relevance.
+In order to further extend the validities of methodologies
+which appeared in the literature we present here a calibration
+protocol of a sample of bone as a function of selected temperatures of treatment in a range (200e1000  C), keeping also
+into account the duration of burning (0, 18 and 60 min) thus
+enabling a better simulation of a real firing process.
+In particular, we analysed the behaviour of the bone sample
+for some intermediate temperatures (650, 750, 775, 825 and
+850  C) to closely investigate and describe the two-stage
+growth regime of HA previously observed around 700  C
+(Enzo et al., 2007).
+Holden et al. (1995), Rogers and Daniels (2002) and recently Kalsbeek and Richter (2006) have also recorded key
+crystalline changes within this temperature range. Within anthropology, this temperature range is significant because it is
+during this transition that the size of the bone alters to a statistically significant degree (Shipman et al., 1984; Thompson,
+2005). This in turn will not only impact on microstructural
+studies of bone, but also on macroscopic analysis with
+a view to determining a biological profile (sex determination,
+age-at-death estimation, etc.) of the burned individual. The accuracy of such biological or osteological profiles is dependent
+on the use of unmodified bone. This is true for both metric and
+
+morphological anthropological techniques. Therefore it is essential that we understand the osseous changes during this
+temperature range so that it is possible to create either new
+techniques devised specifically for burned bone or new
+methods of statistically correcting the output of current anthropological techniques when used on burned bone (Thompson,
+2005). Furthermore, a more solid appreciation of these
+changes will allow archaeologists to differentiate burned
+bone from non-burned bone using XRD as has been attempted
+so infrequently (Stiner et al., 1995).
+The kinetics of crystallite growth is followed in relation to
+the temperature and time duration in order to quickly and reliably evaluate the various aspects involved in the cremation
+process. In fact, with this approach it will be possible to
+make an accurate estimation of both temperature and likely
+time duration of the cremation rite.
+We have started our analysis from a dry ancient bone. Bohnert et al. (1998) observed that for total incineration of a body
+via cremation about 2 h is necessary at a constant temperature
+of 800  C, while for destruction of the fleshy parts about
+50 min is believed to be needed. Thus, in view of a selected
+temperature ramp with scanning rate of 20  C/min, our selected times appear to be coherent with a real cremation process. In spite of this we have directly checked our results by
+treating fresh pig bones at some selected temperatures and
+times of annealing.
+Of course it is not guaranteed absolutely that the ramp heating process applied in the furnace laboratory is accurately reproducing a real fire even when the effects brought about the
+specimens are perfectly compatible and identified. We also acknowledge that, in real-world circumstances, the consumption
+and destruction of organic material may influence the top temperature of the heating process of bone inorganic phase but not
+the consequent growth mechanism of crystallites.
+Subsequently our calibration is applied to some cremated human bones coming from various archaeological Spanish sites
+belonging to different historical ages, where we have investigated the powder patterns and, from the measured average crystallite size, temperature and time of treatment are estimated.
+2. Materials
+For the kinetics study of the bone subjected to selected temperatures and times we have used 34 human femoral fragments
+collected in the Giant Tomb ‘‘La Testa’’ (Santa Teresa di Gallura, Sassari), belonging to the Nuragic era (Tedde et al.,
+1994). In order to verify the occurrence of a different behaviour
+with respect to ancient dry human bones some pieces of fleshy
+pig bones were also treated according to the present protocol.
+The calibration was applied to cremated remains from
+Spain, details of which are given in Table 1.
+3. Methods
+The samples used for calibration were heat-treated with
+a heating rate of 20  C/min at selected temperatures (200e
+1000  C for 0, 18 and 60 min) in air using a NEY muffle
+
+G. Piga et al. / Journal of Archaeological Science 35 (2008) 2171e2178
+
+2173
+
+Table 1
+The most relevant information of the Spanish bones here examined
+Specimen
+
+Provenance
+
+Type of burial
+
+Chronology
+
+VMS C-13
+IP-A 1962-2
+IP-A 10
+IP-A 11
+IP-B 13
+SM’03 urna iberica 1
+SM’03 urna iberica 2
+MB1-E378-9
+MB1-E378-96
+MB1-E378-76
+SP’01 UE 1020
+
+Necropolis ‘‘Plaça de la Vila de Madrid’’ (Barcelona)
+Necropolis of ‘‘S’illot des Porros’’ (S. Margalida, Mallorca)
+Necropolis of ‘‘S’illot des Porros’’ (S. Margalida, Mallorca)
+Necropolis of ‘‘S’illot des Porros’’ (S. Margalida, Mallorca)
+Necropolis of ‘‘S’illot des Porros’’ (S. Margalida, Mallorca)
+Necropolis of ‘‘Santa Madrona’’ (Riba-roja, Ribera d’Ebre)
+Necropolis of ‘‘Santa Madrona’’ (Riba-roja, Ribera d’Ebre)
+Mas d’en Boixos (Pacs del Penedès, Alt. Penedès)
+Mas d’en Boixos (Pacs del Penedès, Alt. Penedès)
+Mas d’en Boixos (Pacs del Penedès, Alt. Penedès)
+Necropolis de Sebes (Flix, Ribera d’Ebre)
+
+Interred in tomb
+Interred in tomb
+Interred in tomb
+Interred in tomb
+Interred in tomb
+Funerary urn
+Funerary urn
+Interred in tomb
+Interred in tomb
+Interred in tomb
+Funerary urn
+
+IeIV century A.D. roman
+VIeII century B.C talayotic culture
+VIeII century B.C talayotic culture
+VIeII century B.C talayotic culture
+VIeII century B.C talayotic culture
+III century B.C. Iberic culture
+III century B.C. Iberic culture
+VIIeVI century B.C. Iberic culture
+VIIeVI century B.C. Iberic culture
+VIIeVI century B.C. Iberic culture
+VIIeVI century B.C. Iberic culture
+
+4. Results and discussion
+In Fig. 1 we report a comparison of the X-ray diffraction
+intensity of untreated ancient human bone, untreated recent
+human bone recovered from the grave yard ossuary of Sassari
+which is not more than 50 years old, and untreated pig bone
+here studied as a function of the scattering angle 2q in the
+range 15e120 . Experiments are data points, full curve is
+the Rietveld fit calculated according to the contribution of
+the structure factors of hydroxylapatite (monoclinic, space
+group P21/c, refined lattice parameters a ¼ 9.440,
+b ¼ 18.898, c ¼ 6.896 Å and b ¼ 120.67 ) and calcite
+
+(trigonal, R-3c, a ¼ 4.988, c ¼ 17.070 Å). As is usual in the
+present Rietveld approach, the curve difference between calculated and experimental data points is shown at the bottom,
+while the sequence of bars indicates the expected peak positions for each phase. From the proposed comparison it
+emerges that there is no sensible difference in the structure
+factors of human and animal bones here examined, whether
+they are fresh or dry and ancient. This may represent a strong
+point in order to use XRD as a probe for the possible burning
+of bones, whatever the animal or human origin.
+The quantitative Rietveld analysis points to the fact that hydroxylapatite is the main phase for bones. The structure of hydroxylapatite is also reported hexagonal, space group P63/
+mmc but the monoclinic structure factor was preferred since
+it gave systematically better agreement factors dealing with
+our pattern collection. The peak profiles of hydroxylapatite
+are very broad on account of the nanocrystalline condition
+of materials with very small average crystallite size and/or
+large lattice disorder. The average coherent diffraction domain
+calculated after separating strain from size effects according to
+
+Untreated pig bone
+
+X-ray Intensity / arb. un.
+
+furnace. The specimens for X-ray investigations were powdered by manual grinding in an agate mortar.
+The X-ray diffraction (XRD) patterns were recorded
+overnight using Bruker D8, Philips PW-1050, Siemens D500, Rigaku D/MAX diffractometers in the BraggeBrentano
+geometry with Cu Ka radiation (l ¼ 1.54178 Å). The goniometer was equipped with a graphite monochromator in the
+diffracted beam and the patterns were collected with 0.05
+of step size. The X-ray generator worked at a power of
+40 kV and 30 mA and the resolution of the instruments (divergent and antiscatter slits of 0.5 ) was determined using a-SiO2
+and a-Al2O3 standards free from the effect of reduced crystallite size and lattice defects. The powder patterns were collected in the angular range 15e120 in 2q and were
+analyzed according to the Rietveld (1967) method, using the
+programme MAUD (Lutterotti et al., 1998). This is an efficient
+approach that evaluates quantitatively the amount, structure
+and microstructural parameters of mineralogical phases keeping into account also the instrumental parameters. This is
+a necessary pre-requisite in order to correctly distinguish
+from the peak broadening the average crystallite size from
+the lattice disorder. The method may replace previous
+approaches that were adopted to study the bones based on
+an arbitrarily defined ‘‘index of crystallinity’’.
+Thermo-gravimetry and differential thermal analyses (TGe
+DTA) were conducted using a Setaram instrument from room
+temperature up to 1500  C at a heating rate of 20  C/min in air.
+After reaching the final temperature, the specimens were immediately allowed to cool down.
+
+Untreated ancient human bone
+
+Untreated recent human bone
+
+CaCO3
+HA
+
+40
+
+80
+
+120
+
+Scattering Angle 2θ
+Fig. 1. The XRD powder pattern of untreated ancient bone used as sample reference coming from the Giant Tomb of La Testa (Sassari). Experiments are
+data points, full line is the Rietveld refinement on the basis of hydroxylapatite
+and calcite structure factors. The line at the bottom refers to the residuals, i.e.,
+the difference between calculated and experimental square root intensities,
+which is indicative of the agreement obtained.
+
+G. Piga et al. / Journal of Archaeological Science 35 (2008) 2171e2178
+
+did not show any sharp weight loss around 800  C. On the
+other hand, the bone here studied may be regarded unconventional because ancient. In fact in Fig. 2B we report the TGe
+DTA curves of a recent human bone.
+It can be seen that in this case there is not significant evidence of CO2 evolution around 800  C. Also, the weight
+loss is higher in percentage probably due to the larger fraction
+of collagen in the recent bone. This is also confirmed by the
+exothermal wide peak located around 350  C.
+We report in Fig. 3 a selected portion of patterns from 30 to
+39 in 2q referred to the specimens heated up to the temperatures of 700, 775, 800, 825, 850, 900 and 1000  C, respectively, which show the disappearance of calcite and the
+simultaneous appearance of calcium oxide as argued from
+the thermogram previously reported in Fig. 2. As it can be
+seen, the peak of calcium oxide occurring at 2q ¼ 37.5 starts
+to appear at 775  C, becomes evident at 800  C and increases
+with the temperature until 1000  C, this phase reaching its
+maximum amount. Line broadening analysis as a function of
+temperature and residence time for the hydroxylapatite phase
+allows to observe a clear evolution due to an average crystallite size increase which has been separated from the lattice
+strain. As it concerns the values for the lattice strain, these
+are better determined from the peak broadening at high angles
+(>80 in 2q) where unfortunately the intensity is very weak.
+This fact required a suitably long data collection strategy. It
+should be clear that these problems all together represent a further limitation for precise determination of the heat-treatment
+in unknown bones using comparative analyses.
+This so determined average crystallite sizes of the HA mineral phase are collected in Table 2 and given in Å units.
+For temperatures from 200  C to around 650  C no significant growth appears to be induced. Also, the residence time of
+18 and 60 min at these temperatures is not changing dramatically the microstructure, with only slight effects of grain
+growth, on account of a relative stability of the system.
+It is not so from 700  C (60 min) and higher temperatures,
+where an effect of sudden growth appears evident and further
+distinguishable in the temperature range 750e850  C, where
+three different growth processes can be evaluated.
+
+the Rietveld approach is in the range between 168 and 177 Å.
+Note that, apart from root mean square deviation problems,
+this result may be different from the figure normally obtained
+applying the Scherrer (1918) equation on the most intense
+peak. The value may also be distinct from the average particle
+size that can be evaluated using SAXS data, since the latter
+may refer to a collection of agglomerated crystallites (Guinier,
+1963; Hiller et al., 2003; Thompson, 2005).
+Further, it should be kept in mind that average values from
+transmission electron microscopy observations refer to a surface weighted mean (Matyi et al., 1987).
+A weak component of calcite (ca. 3.0 wt%) was also identified in the pattern. The presence of calcite is to be expected
+in bones but this is not a rule. According to Wopenka and Pasteris (2005), the maximum amount of endogenous calcite in
+human bones may not exceed 7e8 wt%, as estimated from
+3
+CO2
+3 groups that can substitute for PO4 in the hydroxylapatite structure.
+Fig. 2A shows the thermogravimetric (TG) and differential
+thermal analysis (DTA) curves of the ancient sample bone
+here studied as a function of the temperature. The TG curve
+shows a moderate weight loss of about 5% before 400  C with
+a broad exothermic peak which can be due to dehydroxylation.
+This observation is in qualitative fair agreement with recent
+TGeDTA curves reported by Odriozola and Martı̀nez-Blanes
+(2007), where a larger weight loss of an apatite bone was reported. Also, in our curve a sharp weight loss occurs above the
+temperature of 800  C, which can be assigned to the loss of carbon dioxide from calcite according to the chemical reaction:
+CaCO3 2 CaO þ CO2 :
+The endothermic peak at the correspondent temperature is
+a further confirmation for this reaction (see also the XRD pattern analysis reported later). Further heating to 1500  C does
+not affect substantially the state of the bone in terms of transformation phenomena and/or weight loss. This interpretation
+may be in contrast with the work by Wang et al. (2004) and
+Odriozola and Martı̀nez-Blanes (2007), but is supported by
+Kalsbeek and Richter (2006). Note that, the trace of another
+ancient bone recently published by us (Enzo et al., 2007)
+
+Ancient Sample bone
+1.00
+0.95
+
+TG
+
+Heat flow
+
+0.90
+0.85
+0.80
+200
+
+400
+
+600
+
+800 1000 1200 1400
+
+Temperature
+
+B
+16
+14
+12
+10
+8
+6
+4
+2
+0
+-2
+-4
+
+Recent bone
+1.05
+
+heat flux/arb. un.
+
+Relative Weight fraction
+
+A
+
+Relative Weight fraction
+
+2174
+
+1.00
+0.95
+
+TG
+
+Heat-flow
+
+0.90
+0.85
+0.80
+0.75
+0.70
+0
+
+200 400 600 800 1000 1200 1400
+
+Temperature
+
+Fig. 2. (A, B): A comparison of TGeDTA curves for the ancient (left-side) and recent (right-side) bones, respectively. In the first case the bone contains calcite
+which eventually evolves CO2 at high temperatures. This is not so for the recent bone, where a larger fraction of collagen seems to be present as it appears from the
+weight loss curves.
+
+G. Piga et al. / Journal of Archaeological Science 35 (2008) 2171e2178
+
+In fact an upper limit of 1500 Å for the size determination
+is generally associated to this technique, depending from the
+collimation arrangement adopted.
+We may also note that the residence time of 60 min evidences an effect of crystallite growth that would be obtained
+at temperatures 100  C higher without any residence time.
+This allows to establish a confidence degree for the applicability of the present experimental approach.
+Objections may be raised about the use of archaeological
+remains for this calibration, since the real fire was conducted
+on bodies. For this reason we have performed a partial comparative test by using fleshy pig bones.
+In Fig. 4 we present the XRD patterns of fresh pig bones as
+a function of some selected temperatures and residence times.
+Table 3 reports the average crystallite size deduced according
+to our Rietveld approach, which demonstrates a behaviour of
+the crystallite growth as a function of temperature very close
+to that observed for ancient dry bones.
+It may be concluded that the destruction by fire of organic
+parts affects only slightly the heating process but does change
+significantly the growth process of HA crystallites as a function
+of the temperature.
+
+CaO
+
+1000
+
+900
+
+X-ray Intensity / arb. un.
+
+2175
+
+850
+
+825
+
+800
+775
+
+750
+
+700
+
+CaO
+HA
+
+30
+
+32
+
+34
+
+36
+
+38
+
+1000-0min
+
+Scattering Angle 2θ
+Fig. 3. A selected range of the XRD patterns of sample bone treated at the indicated temperatures. It is evident that the progressive peak sharpening of hydroxylapatite as a function of the indicated temperatures, simultaneous to the
+appearance of CaO phase following the decarbonatation reaction which starts
+at 775  C.
+
+Table 2
+Average crystallite size of the hydroxylapatite mineral phase (1 Å ¼ 1010 m)
+Temperature ( C)
+
+0 min
+
+18 min
+
+60 min
+
+Not burned
+200
+300
+400
+500
+600
+650
+700
+750
+775
+800
+825
+850
+900
+1000
+
+170
+175
+180
+195
+202
+204
+213
+229
+268
+350
+432
+732
+923
+1351
+>1500 (1569)
+
+175
+184
+203
+202
+240
+226
+294
+611
+836
+1030
+1120
+1380
+>1500 (1616)
+>1500 (2195)
+
+175
+188
+205
+210
+256
+258
+486
+800
+920
+1200
+1254
+1500
+>1500 (2621)
+>1500 (2950)
+
+X-ray Intesnity /arb. un.
+
+For specimens treated at temperatures higher than 850  C
+and for long residence times the determination of the average
+crystallite size may be of difficult reproducibility because of
+the instrument contribution. This problem was similarly experienced by Hiller et al. (2003).
+
+900-18min
+
+800-18min
+
+750-0min
+
+700-60min
+
+600-18min
+
+500-0 min
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+Scattering Angle 2θ
+Fig. 4. The XRD patterns (data points) and the Rietveld fit (full lines) of flashy
+pig bone pieces subjected to selected temperature treatments and holding times
+indicated.
+
+G. Piga et al. / Journal of Archaeological Science 35 (2008) 2171e2178
+
+2176
+
+Table 3
+Average crystallite size of hydroxylapatite mineral phase obtained after the
+Rietveld investigation of pig bones heated at selected temperatures and holding times
+Temperature ( C)
+
+Residence (min)
+
+Average crystallite
+size (20 Å)
+
+500
+600
+700
+750
+800
+900
+1000
+
+0
+18
+60
+0
+18
+18
+0
+
+203
+243
+482
+269
+1029
+>1500 (1611)
+>1500 (1577)
+
+The data compare very closely with analogue treatments carried out on human
+ancient bones.
+
+The markedly different behaviour for the specimens treated
+above 650  C is clearly seen also in Fig. 5, where symbols refer to the measured crystallite size values as a function of temperature treatment. Restricting our attention to the specimens
+heated without any residence time, we can appreciate even
+with the logarithmic scale the rather sudden increase of the
+average crystallite size for temperatures around 750  C, in
+agreement with previous XRD observations.
+The growth process seems to proceed up to 1000  C in
+keeping with a sigmoidal growth-type law typical of most of
+the reactions in the solid state.
+The following equation (full lines) was fit to the experimental data:
+y ¼ A2 þ ðA1  A2 Þ=ð1 þ ðx=x0 Þp Þ
+
+Average crystallyte size/ Å
+
+The optimized parameters that are presented in Table 4
+have a precise physical meaning: A1 value was actually fixed
+to the size dimension of HA for samples before any sensible
+growth; A2 is the size limit reached at the end of the growth
+
+0 min
+18 min
+60 min
+
+1000
+
+100
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900 1000 1100
+
+Temperature / °C
+Fig. 5. The average crystallite size evolution for hydroxylapatite as a function
+of temperature treatment and residence times indicated. The experimental data
+from the Rietveld analysis have been fitted with sigmoid curves of logistic type
+which are typical of physico-chemical growth processes. The scatter of data
+and curves gives an idea of the uncertainty related to the determination of
+the temperature treatment for a bone of unknown provenance.
+
+Table 4
+The best-fit parameters of the three logistic curves represented in Fig. 3
+Parameters
+
+0 min
+
+18 min
+
+60 min
+
+A1 (fixed)
+A2
+x0
+p
+
+180
+1597
+845
+24
+
+180
+2420
+844
+12
+
+180
+3528
+860
+12.46
+
+At variance with the residence time the three sigmoidal curves are all located
+around 850  C. The p parameter is related to the sharp behaviour of the
+function.
+
+process; x0 is the temperature relevant to the flex point of
+the logistic curves and p is a parameter for the rate growth,
+likely dependent from scanning rate, temperature and residence time.
+Note that for the series at time residence of 0 min the
+growth phenomenon is particularly sharp in the range 750e
+900  C, while for the other two curves the growth kinetics appears to occur in a more extended range from 600 to 1000  C
+where the relevant p values are quite close.
+5. Study of Spanish burnt bones collection
+The patterns of 11 Spanish burned bones here presented are
+reported in Fig. 6. All specimens except for MB1-E378-96
+show the dominant presence of HA with traces of calcite. Conversely, sample MB1-E378-96 is made up by phases typical of
+ash that is calcite, quartz and muscovite with only a fraction
+30.0 wt% of HA. For some specimens the calcite amounts to
+ca. 19.0 wt%, suggesting a likely exogenous origin for this
+mineral (for example from the contact with ground of
+limestone).
+For all samples except for IP-B13 we may notice in the patterns a considerable peak sharpening, due to marked crystallite
+growth and lattice strain reduction which is induced by the occurred thermal treatment. These features can be appreciated in
+Fig. 7 where the patterns are reported in the ‘‘conventional’’
+angular range 30e39 in 2q.
+Concerning the average crystallite size values and lattice
+strain, the 11 investigated specimens have supplied the results
+collected in Table 5.
+As it is surmised all the remains were subjected to fire treatment at very high temperature (750e1000  C) except for specimens IP-B13 which turns out to be burned at lower
+temperatures (<500  C).
+The calculated high temperature values clearly show as in
+early ages the fire technology in Spain was considerably effective and developed for crematory practices.
+6. Conclusions
+A new and detailed protocol to estimate the temperature
+and possible duration of a funerary cremation rite was developed in the temperature range 200e1000  C for various residence times (0, 18 and 60 min) using the X-ray powder
+diffraction technique.
+
+G. Piga et al. / Journal of Archaeological Science 35 (2008) 2171e2178
+
+2177
+
+IP-A1962-2
+
+MB1-E378-96
+
+X-ray Intensity/arb. un.
+
+IP-A11
+
+X-ray Intensity
+
+VMS-C13
+
+MB1-E378-76
+
+MB1-E378-9
+
+IP-A10
+
+SM-1
+
+SM-2
+SP-01UE1020
+IP-B13
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+20
+
+Scattering Angle 2θ
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90 100
+
+Scattering Angle 2θ
+
+Fig. 6. The experimental patterns (data points) and Rietveld fit (full lines) of bones from Spanish sites here investigated. Note the significant peak sharpening in all
+samples except for IPB-13, which testify for the fire technology in use in Spain in ancient times.
+
+The growth process undergone by the crystallites of the
+mineralogical phase hydroxylapatite follows a sigmoid trend
+of logistic type with a characteristic temperature around
+850  C, as it was determined for the three times investigated.
+In the thermal treatment for 0 min the growth rate seems to be
+higher than for curves at subsequent times.
+
+Thermal treatments for 60 min anticipate of about 100  C
+the effects that are otherwise observed after the treatments
+for 0 min.
+Based on these calibration curves, 11 cremated Spanish
+bones were investigated. It was established that they were
+subjected to fire treatment at high temperatures in the range
+
+MB1-E378-96
+IP-A1962-2
+
+MB1-E378-76
+
+MB1-E378-9
+
+IP-A11
+
+X-ray Intensity/arb. un.
+
+X-ray Intensity
+
+VMS-C13
+
+IP-A10
+
+SM-1
+
+SM-2
+SP-01UE1020
+IP-B13
+
+33
+
+36
+
+Scattering Angle 2θ
+
+30
+
+33
+
+36
+
+Scattering Angle 2θ
+
+Fig. 7. The patterns of Fig. 5 reported for comparative purposes in the angular range where originally a crystallinity index was defined. The fit with full lines to
+experimental data points gives a confidence test for the hydroxylapatite structure factor and model crystallite size parameters.
+
+G. Piga et al. / Journal of Archaeological Science 35 (2008) 2171e2178
+
+2178
+
+Table 5
+Possible evaluation of the temperature treatment to which the Spanish bones were likely subjected determined on the basis of the calibration procedure here
+conducted
+Sample code
+IP-A 1962-2
+IP-A 10
+IP-A 11
+IP-B 13
+SM’03 urna iberica 1
+SM’03 urna iberica 2
+SP’01 UE 1020
+MB1-76
+MB1-E378-96
+MB1-E379-9
+VMS-C13
+
+Average crystallite size (20 Å)
+>1500 (1829)
+>1500 (2784)
+>1500 (1850)
+195
+>1500 (2812)
+>1500 (2590)
+>1500 (2296)
+>1500 (2244)
+1502
+1202
+581
+
+750e1000  C, except for sample IP-B13 that turned out to be
+burned at lower temperatures (<500  C). For nine samples the
+cremation times were evaluated shorter than 1 h but for two of
+them the duration was longer.
+The high temperatures determined in the examined specimens clearly demonstrate that in various ancient ages of Spain
+to which samples are referring, the fire technology was well
+developed and quite efficient even in funerary cremation rites.
+Acknowledgements
+G. Piga is particularly grateful to Prof. Vittorio Mazzarello,
+Prof. Andrea Montella and the Regione Autonoma della Sardegna for supporting his ‘‘Master and back’’ project. The authors
+expressly thank Vittorio Mazzarello, Xavier Exteve, Ethel
+Allué, Jaume Noguera and Julia Beltran for supplying the
+specimens collection here studied.
+References
+Bartsiokas, A., Middleton, A.P., 1992. Characterization and dating of recent
+and fossil bone by X-ray diffraction. Journal of Archaeological Science
+19, 63e72.
+Bohnert, M., Rost, T., Pollak, S., 1998. The degree of destruction of human
+bodies in relation to the duration of the fire. Forensic Science International
+95, 11e21.
+Bonucci, E., Graziani, G., 1975. Comparative thermogravimetric X-ray diffraction and electron microscope investigations of burnt bones from
+recent, ancient and prehistoric age. Atti della accademia Nazionale dei
+Lincei, Rendiconti, classe di scienze fisiche, matematiche e naturali 59,
+517e532.
+Enzo, S., Bazzoni, M., Mazzarello, V., Piga, G., Bandiera, P., Melis, P., 2007.
+A study by thermal treatment and X-ray powder diffraction on burnt
+fragmented bones from Tombs II, IV and IX belonging to the hypogeic
+necropolis of ‘‘Sa Figu’’ near Ittiri-SS (Sardinia-Italy). Journal of Archaeological Science 34, 1731e1737.
+Guinier, A., 1963. X-ray Diffraction in Crystals, Imperfect Crystals, and
+Amorphous Bodies. Dover Publications Inc., New York.
+Hiller, J.C., Thompson, T.J.U., Evison, M.P., Chamberlain, A.T., Wess, T.J.,
+2003. Bone mineral change during experimental heating: an X-ray scattering investigation. Biomaterials 24, 5091e5097.
+Holden, J.L., Phakey, P.P., Clement, J.G., 1995. Scanning electron microscope
+observations of incinerated human femoral bone: a case study. Forensic
+Science International 74, 17e28.
+
+Lattice disorder (103)
+5
+
+1  10
+2  104
+1  105
+1  103
+1.4  104
+3.5  104
+5  105
+1  104
+2.4  104
+6  106
+1.7  104
+
+Temperature (30  C)
+900 for longer than 18 min
+1000 for <60 min or 900 for longer than 1 h
+900 for longer than 18 min
+<500
+1000 for <60 min or 900 for longer than 1 h
+900 for shorter than 1 h
+1000 for shorter than 18 min
+1000 for longer than 18 min
+850 for about 60 min
+800 for about 60 min
+750 for shorter than 18 min
+
+Kalsbeek, N., Richter, J., 2006. Preservation of burned bones: an investigation
+of the effects of temperature and pH on hardness. Studies in Conservation
+51, 123e137.
+Lutterotti, L., Ceccato, R., Dal Maschio, R., Pagani, E., 1998. Quantitative
+analysis of silicate glass in ceramic materials by the Rietveld method.
+Materials Science Forum 278e281, 87e92.
+Matyi, R.J., Schwartz, L.H., Butt, J.B., 1987. Particle size, particle size distribution, and related measurements of supported metal catalysts. Catalysis
+Reviews: Science and Engineering 29 (1), 41e49.
+Newesely, H., 1988. Chemical stability of hydroxyapatite under different
+conditions. In: Grupe, G., Herrmann, B. (Eds.), Trace Elements in Environmental History e Proceedings of the Symposium. 24e26 June 1987,
+Göttingen. Springer-Verlag, Germany, pp. 1e16.
+Odriozola, C., Martı̀nez-Blanes, J.M., 2007. Estimate of firing temperatures
+through bone-based chalcolithic decorated pottery. Journal of Thermal
+Analysis and Calorimetry 87 (1), 135e141.
+Person, A., Bocherens, H., Saliège, J.F., Paris, F., Zeitoun, V., Gérard, M.,
+1995. Early diagenetic evolution of bone phosphate: an X-ray diffractometry analysis. Journal of Archaeological Science 22, 211e221.
+Piga, G., Malgosa, A., Mazzarello, V., Bandiera, P., Melis, P., Enzo, S. Anthropological and physico-chemical investigation on the burnt remains of
+Tomb IX in the ‘‘Sa Figu’’ hypogeal necropolis (Sassari-Italy) e Early
+Bronze Age. International Journal of Osteoarchaeology 17, in press,
+doi:10.1002/oa.928.
+Rietveld, H.M., 1967. Line profiles of neutron powder-diffraction peaks for
+structure refinement. Acta Crystallographica 22, 151e152.
+Rogers, K.D., Daniels, P., 2002. An X-ray diffraction study of the effects
+of heat treatment on bone mineral microstructure. Biomaterials 23,
+2577e2585.
+Scherrer, P., 1918. Bestimmung der Größe und der inneren Struktur von Kolloidteilchen mittels Röntgenstrahlen. Nachrichten von der Gesellschaft der
+Wissenschaften zu Göttingen. Mathematisch-Physikalische Klasse 2, 98.
+Shipman, P., Foster, G., Schoeninger, M., 1984. Burnt bones and teeth: an
+experimental study of color, morphology, crystal structure and shrinkage.
+Journal of Archaeological Science 11, 307e325.
+Stiner, M.C., Kuhn, S.L., Weiner, S., Bar-Yosef, O., 1995. Differential burning,
+recrystallization and fragmentation of archaeological bone. Journal of
+Archaeological Science 22, 223e237.
+Tedde, G., Antona Ruju, A., Mazzarello, V., Bandiera, P., 1994. Primi risultati
+antropologici sui resti umani della Tomba di Giganti ‘‘La Testa’’ (S.Teresa
+di Gallura). Italian Journal of Anatomy 99 (in Italian).
+Thompson, T.J.U., 2005. Heat-induced dimensional changes in bone and their
+consequences for forensic anthropology. Journal of Forensic Sciences 50
+(5), 1008e1015.
+Wang, T., Dorner-Reisel, A., Muller, E., 2004. Thermogravimetric and
+thermokinetic investigation of the dehydroxylation of a hydroxyapatite
+powder. Journal of the European Ceramic Society 24, 693e698.
+Wopenka, B., Pasteris, J.D., 2005. A mineralogical perspective on the apatite
+in bone. Materials Science and Engineering C 25, 131e143.
+
+

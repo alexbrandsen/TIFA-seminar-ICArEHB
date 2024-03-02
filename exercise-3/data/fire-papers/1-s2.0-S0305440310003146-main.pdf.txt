@@ -1,0 +1,975 @@
+Journal of Archaeological Science 38 (2011) 291e300
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Early medieval origins of iron mining and settlement in central Sweden:
+multiproxy analysis of sediment and peat records from the Norberg
+mining district
+Richard Bindler a, *, Ulf Segerström b, Ing-Marie Pettersson-Jensen c, Anna Berg b, Sophia Hansson a,
+Harald Holmström a, Karin Olsson a, Ingemar Renberg a
+a
+b
+c
+
+Department of Ecology and Environmental Science, Umeå University, SE-901 87 Umeå, Sweden
+Department of Forest Ecology and Management, Swedish University of Agricultural Sciences, SE-901 83 Umeå, Sweden
+Kultur och fritidsförvaltningen, Norbergs kommun, Box 25, 138 21 Norberg, Sweden
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 16 March 2010
+Received in revised form
+3 September 2010
+Accepted 3 September 2010
+
+The historical Norberg mining district in central Sweden with its shallow, easily accessible iron ores
+ﬁgures prominently in the earliest documents from the 14th century concerning mining or metallurgy.
+This 1000-km2 district is considered to be one of the ﬁrst areas in Sweden exploited for iron ores and, in
+fact, Europe’s oldest known blast furnace, Lapphyttan, is located in the Norberg district about 10 km from
+the mines in the village of Norberg (Norbergsby). Earlier archaeological excavations suggest the furnace
+was in operation as early as the 11th or 12th century (870 and 930 14C yr BP), and a number of other sites
+in the district have been dated to the 13the15th centuries. Here, we have analyzed two lake sediment
+records (Kalven and Noren) from the village of Norberg and a peat record from Lapphyttan. The Lapphyttan peat record was radiocarbon dated, whereas the sediment from Kalven is annually laminated,
+which provides a fairly precise chronology. Our pollen data indicate that land use in the area began
+gradually as forest grazing by at least c. AD 1050, with indications of more widespread forest disturbance
+and cultivation from c. 1180 at Lapphyttan and 1250 at Kalven. Based on 206Pb/207Pb isotope ratios in
+Kalven’s varved sediment record, there is an indication of mining or metallurgy in the area c. 960, but
+likely not in immediate connection to our sites. Evidence of mining and metallurgy increases gradually
+from c. 1180 when there is a decline in 206Pb/207Pb ratios and an increase in charcoal particles at Lapphyttan, followed by increasing inputs of lithogenic elements in Noren’s sediment record indicating soil
+disturbance, which we attribute to the onset of mining the iron ore bodies surrounding Noren. From AD
+1295 onwards evidence of mining and metallurgy are ubiquitous, and activities accelerate especially
+during the late 15th century; the maximum inﬂuence of Bergslagen ore lead (i.e., the minimum in
+206
+Pb/207Pb isotope ratios) in both Kalven and Noren occurs c. 1490e1500, when also varve properties
+change in Kalven and in Noren sharp increases occur in the concentrations of a range of other ore-related
+metals (e.g., arsenic, cadmium, copper, iron, lead, mercury and zinc). From the 15th century onwards
+mining and metallurgy are the dominant feature of the sediment records.
+Ó 2010 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Iron mining
+Lake sediment
+Peat
+Geochemistry
+Pollen
+
+1. Introduction
+The Norberg mining district, which lies in the midst of an
+extensive iron ore belt in the Bergslagen region in central Sweden,
+ﬁgures prominently in the early history of iron ore extraction and
+iron production. The iron-ore ﬁeld crossing through Norberg
+includes both banded quartz and skarn iron ores, with grades
+ranging from 43 to 62% iron, as well as occurrences of other iron-ore
+* Corresponding author. Tel.: þ46 90 786 9742; fax: þ46 90 786 6705.
+E-mail address: richard.bindler@emg.umu.se (R. Bindler).
+0305-4403/$ e see front matter Ó 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2010.09.004
+
+types. These deposits and those throughout Bergslagen are set in
+country rocks with ages of 1500e1900 Ma (Ripa, 2001). The Norberg
+mining district is one of 23 historical mining districts that comprise
+the Bergslagen region (Fig. 1), where smelters and furnaces could be
+counted in the hundreds and mine pits and shafts in the thousands.
+All of the known sites are catalogued in the 23 volumes of the ‘Atlas
+of Sweden’s bergslag’. Our aim here, however, is not to study all of
+the districts but to focus on the Norberg mining district (Swedish:
+Norbergs bergslag); rather, we focus on the heart of the district in the
+area surrounding the village of Norberg (Norbergsby), which lies in
+the center of the Norberg ore ﬁeld that stretches 25 km northeast
+
+292
+
+R. Bindler et al. / Journal of Archaeological Science 38 (2011) 291e300
+
+from Fagersta to Avesta. Although we present our research as
+a speciﬁc case study focused on two lake sediment records and also
+one from a mire, the implications of our study are broader in extent
+and contribute to the general understanding of the early history of
+mining and its importance for the economic developments that
+supported the foundations of the Swedish state.
+The establishment in the Norberg mining district of a blast
+furnace at Lapphyttan in the late 12th century and other smelters
+and furnaces during the late 13th and early 14th centuries
+(Petterson Jensen, 2002) presupposes that the infrastructure for
+mining and processing iron ores was already in place by that time.
+Archaeological studies indicate that the 12th to 14th centuries were
+a period of expansion in iron mining and metallurgy, but because
+historical and archaeological evidence is quite limited during this
+early period, in this study we turn our attention instead to the
+record preserved in natural, long-term archives. Lake sediments, as
+well as peat, are well established as archival material for studies
+of environmental changes, such as the use of pollen records to
+reconstruct land-use histories and geochemical records to study
+atmospheric pollution. Unlike historical and archaeological records,
+lake sediments and peat provide in most cases a continuous record
+of environmental changes e ecological as well as geochemical e
+surrounding a site. Over the past decade there has been an
+increasing number of studies aimed at studying early metallurgy
+using sediments or peat that have combined analyses of the pollen
+record and the geochemical record in an effort to both identify early
+mining activities at speciﬁc sites and understand more generally
+their impact on surrounding landscapes (Mighall et al., 2002;
+Monna et al., 2004b; Martínez Cortizas et al., 2005).
+In this study we have analyzed the sediment records from two
+lakes in Norberg (Kalven and Noren; Fig. 1) and the peat record
+from a small mire at Lapphyttan, and placed these data into
+perspective relative to results of past and on-going archaeological
+surveys. Although some of our analyses cover the full sediment
+sequence, we focus attention on the period prior to the 17th
+century, before which historical documents are quite few and less
+speciﬁc and archaeological evidence is patchy. Besides the speciﬁc
+issue of mining history, an additional question that arises is the
+interaction between settlement and mining, and which of these
+was the driving force behind colonization of remote areas of central
+Sweden. The lead records of Kalven and Noren were previously
+published in Bindler et al. (2009) as part of a regional landscapescale study of the impacts of mining in Bergslagen. Here, in addition
+to a more speciﬁc assessment of the lead records we present new
+data on varve properties, new geochemical analyses, as well as
+pollen and charcoal. Important questions were: When do the ﬁrst
+signals of local mining and processing of ores occur? When did land
+use begin in this area; is there evidence that settlement occurred
+before mining began or did it co-occur with mining?
+Not only the general early mining history of Norberg is of
+interest here, but more speciﬁcally also that in 2008 a new furnace
+site was identiﬁed on the eastern inlet to Kalven (Fig. 1). The initial
+archaeological evidence, particularly regarding the appearance of
+the ﬁning hearths (färskningshärdar), suggests an early medieval
+history. Given the location of our coring site in Kalven in the deep
+basin opposite this stream inlet, a more detailed review of our
+published and new data can provide speciﬁc insights into the
+precise time of operation of this newly found site, which hopefully
+might be excavated in the next few years.
+
+related sites have been registered, which include at least 360
+mining areas consisting of more than 1030 mine pits or shafts, >115
+smelting houses or furnaces and >40 forges (Petterson, 1994). The
+brief historical summary that follows below is based on Petterson
+(1994), Magnusson (2002), Petterson Jensen (2002) and references therein.
+Norberg’s mines were ﬁrst mentioned in AD 1303 in a deed of
+exchange between Tyrgils Knutsson and Birger Magnusson. This
+document mentions iron and steel ore bodies (‘steel’ in this case
+referred to a manganese-rich iron ore) owned by Knutsson, which
+are interpreted as referring to iron ores from Kärrgruvan and the
+manganese-rich iron ores from Klackberg, where also dolomite was
+mined. These two mining sites adjoin our study lakes to the east
+and west, respectively. Both of these ore types, though not necessarily from these speciﬁc mines, were processed at Lapphyttan only
+8 km to the east, near the village of Olsbenning. Lapphyttan, which
+was excavated during the early 1980s (Magnusson, 1984), is the
+oldest known blast furnace in Europe and was used to produce cast
+iron that was then reﬁned to make osmund iron. The blast furnace
+is of a similar type to those found in northern Germany and there
+are generally many parallels and direct connections between the
+historical developments of mining and metallurgy in Sweden with
+those in Germany, cf. (Jockenhövel, 1996). The Lapphyttan site
+includes not only a blast furnace, but also the remains of a dammed
+pond upstream and traces of a waterwheel, iron shed, roasting pits,
+a stable and dwelling house, slag heaps, reﬁnery slags, and reﬁning
+furnaces.
+Archaeological excavations have thus far yielded radiocarbon
+dated material that indicates Lapphyttan had started operation by
+the late 12th century and was used to produce cast iron probably
+into the latter half of the 14th century when production was moved
+elsewhere. The calibrated age ranges of the oldest radiocarbon
+dates (930  75 BP, 870  70 14C BP) are imprecise, however,
+because of a small plateau in atmospheric 14C that occurs during
+this period. Besides Lapphyttan, a few other blast furnaces were
+also established in the area around the end of the 13th century. The
+historical signiﬁcance of blast furnaces, besides the economic value
+of the iron produced, was that they necessitated a greater level of
+organization, because these furnaces were operated round the
+clock for a few or several months. This required not only a supply of
+iron ore, but also large quantities of charcoal, more people
+throughout the supply chain, and increased food production.
+In a document from 1332 a site called Midhlingebærg is
+mentioned, which is thought to be Meling in the city of Fagersta,
+10 km southwest of Norberg. Although historical evidence of
+mining doesn’t exist until the 17th century, the inventory of
+archaeological sites in Meling suggests mining took place earlier.
+The Norberg mining district received a renewed concession in 1420
+at the same time that Bispberg (Bitsberg) ﬁrst received its concession. Documents from 1558 to 1559 refer to Bondgruvan, Risbergsfältet (Gamble Noreberg j Norebergxlagen), Stripåsen (Strijpen
+mz monge gruffer e transl.: Stripen with many mines), and Klackberg (Klackegruffwn mz monge gruffwer e transl.: Klackberg with
+many mines), but further mention of Norberg during the 15th and
+16th centuries is quite limited. After this time period documentation becomes more extensive. Up until the early 17th century the
+evidence indicates that the mines in Norberg were generally quite
+shallow, less than 7 m (4 fathoms), and also so many in number that
+it was impossible to count accurately even at that time.
+
+1.1. Early mining in Norberg, Bergslagen: summary of current
+historical and archaeological evidence
+
+2. Site description and sampling
+
+The Norberg mining district is considered the oldest of the early
+iron mining districts in Sweden. More than 1000 historical mining-
+
+Our two study lakes, Kalven and Noren, are within the presentday municipality of Norberg, which is surrounded by a large
+number of mines, both smaller pits and larger mines, most notably
+
+R. Bindler et al. / Journal of Archaeological Science 38 (2011) 291e300
+
+those at Klackberg, which separates the two lakes to the west
+(Fig. 1) and Kärrgruvan, which is located to the east (just outside the
+boundaries of the map). Note that the Klackberg and Kolningsberg
+mine ﬁelds lay on the south-facing slope of the ridge dividing
+Kalven and Noren. In addition we sampled a mire located immediately downslope of the blast furnace site at Lapphyttan, about
+8 km east of Norberg.
+2.1. Kalven and Noren: lake sediment records
+Complete lake sediment proﬁles were collected from the deep
+basin of Kalven in March 2003 (20.8 m water depth) and Noren
+during March 2004 (9.3 m water depth). These sediment proﬁles
+were sampled using a combination of a freeze core (Renberg, 1981)
+for the recent, less-consolidated surface sediment (0 to approximately 60 cm depth) and for the older, more consolidated sediment
+below a Russian peat corer (1 m length, 8 cm diameter), which was
+used to collect a series of overlapping sediment cores. For Kalven
+the series of sediment cores were matched based on correlating
+distinctive varves (annual laminations) in the overlapping core
+sections; the complete proﬁle had a total depth of 450 cm. The
+sediment from Noren had laminations in the uppermost 30 cm and
+some color changes down to 60 cm depth but was otherwise
+homogenous in appearance, and the cores were correlated based
+on ﬁeld-measured depths and matching of visual characteristics;
+the total proﬁle is 465 cm thick. The freeze cores were stored in
+a freezer room at 20  C, and the Russian peat cores in a walk-in
+cooler at þ4  C.
+In the freezer room, the frozen cores were prepared by cutting
+out one face of the freeze core and then removing the outer,
+disturbed surfaces using a hand plane. Thereafter the prepared
+slabs were sectioned into 1-cm slices with a band-saw; in the case
+
+293
+
+of Kalven the number of varves were ﬁrst counted in each slice. For
+the geochemical analyses sub-samples were taken from the surface
+freeze cores at 5-cm intervals. In the Russian cores sub-samples
+were taken out at 10-cm intervals in the upper 1e2 m and at
+20e25-cm intervals further down. In Kalven most of these
+sub-samples spanned about 5 cm depth, which corresponds to
+about 50e85 years per sample; however, to improve the resolution
+of the lead record for the period from AD 960 to 1877 an additional
+11 sub-samples were included that were 1-cm thick, spanning only
+15e20 years per sample. The sub-samples from Noren were 1-cm
+thick. All samples were freeze dried prior to analysis.
+One difﬁculty in merging sediment and peat records with
+archaeological evidence and written records is the problem of
+matching chronologies. However, the varved sediments from
+Kalven provide us with a fairly precise chronology based on varve
+counting (Renberg, 1981; Segerström et al., 1984). Varve counting
+was performed by two persons using a stereomicroscope (50
+magniﬁcation). Varves were counted to a depth of 2.5 m (3353
+varve years).
+2.2. Lapphyttan: peat record
+The Lapphyttan site is located 8 km to the east of Norberg. We
+collected a 1.2-m-long peat proﬁle using a small barrel Russian peat
+corer (diameter 5 cm, length 75 cm) from the small mire located
+below the remains of the blast furnace and its surrounding ﬁning
+heaps; the small stream passing alongside the former blast furnace
+ﬂows into the mire. Two overlapping cores were collected to cover
+the 1.2-m deep peat. Samples were taken at 5-cm intervals from the
+25 to 120 cm depth for lead analyses, and for pollen at 5-cm
+intervals from 25 to 95 cm depth, with additional sampling at
+0.5-cm intervals from 55 to 60 cm depth.
+
+Fig. 1. Map showing the geographic setting of our study lakes, Kalven and Noren. Single mining pits (gray-ﬁlled circles) and mining ﬁelds (large or multiple mining pits; marked by
+gray-ﬁlled areas bounded by hashed lines) that have been inventoried (Petterson, 1994) are marked. The two ﬁlled triangles on the stream located on Kalven’s northwestern shore
+show the site of the recently identiﬁed blast furnace site at the stream inlet, as yet unexcavated, and one further upstream known to have existed by at least the late 16th century.
+Our two sediment coring sites are marked as ﬁlled black squares. The smaller inset map shows the Bergslagen region in central Sweden with the locations of Norberg and a few
+other major mining centers e Falun (copper), Garpenberg (lead, zinc) and Sala (silver).
+
+294
+
+R. Bindler et al. / Journal of Archaeological Science 38 (2011) 291e300
+
+Table 1
+Results of radiocarbon dating from the Lapphyttan peat record.
+Sample
+
+Sphagnum
+Wood fragment
+Charcoal fragment
+Bulk peat
+
+Depth (cm)
+
+49
+49
+59
+69
+
+Lab code
+
+Ua-38068
+Ua-38069
+Ua-38070
+Ua-38071
+
+14
+
+C age BP
+
+390
+495
+1068
+1698
+
+
+
+
+
+
+43
+30
+38
+34
+
+Calibrated range (AD)
+Lower
+
+Upper
+
+1445
+1416
+965
+327
+
+1517
+1438
+1018
+398
+
+Relative prob.
+
+Median prob.
+
+0.774
+1
+0.781
+0.818
+
+1505
+1425
+972
+346
+
+All calibrates dates are AD.
+
+For the peat record from Lapphyttan four samples from three
+levels were radiocarbon dated (Tandemlaboratoriet, Uppsala
+University). These samples are (Table 1): Sphagnum leaves, 49 cm
+depth; wood fragment, also from 49 cm; charcoal fragment, 59 cm;
+and bulk peat from 69 cm, because the peat material was highly
+decomposed and no intact plant macrofossils could be found.
+Samples were treated with 1% HCl and then 1% NaOH prior to
+analysis. Radiocarbon ages are calibrated to calendar years using
+Calib radiocarbon calibration ver. 5.0.2 (calib.qub.ac.uk/).
+2.3. Magnetic susceptibility and geochemistry
+We measured the magnetic susceptibility of the upper 1 m of
+the varved sediment record from Kalven using a Bartington MS2
+meter with a MS2E sensor. The sensitivity of the meter was set at
+106 SI.
+Lead data from Kalven and Noren were previously published in
+Bindler et al. (2009), and further details on those analyses can be
+found there. Data from Lapphyttan are new here. In brief, concentrations and stable lead isotopes (206Pb, 207Pb and 208Pb) were
+analyzed in the dried samples using a PerkinElmer Elan 6100 ICPMS, after a strong-acid extraction using concentrated HNO3:HClO4
+(10:1, v/v) (Renberg et al., 2002). The samples from Noren were
+later analyzed for a suite of major and trace elements using an
+energy dispersive XRF (Cheburkin and Shotyk, 1996), which
+provides total element concentrations; here, we include data on
+copper and zinc (sulﬁde ore metals, which may occur as intrusions
+in the host rocks), iron (which has both lithogenic and ore origins)
+and zirconium (lithogenic element, which is a useful indicator of
+mineral matter inputs to the lake sediment).
+Using stable lead isotope ratios it is possible to partition the lead
+present in the sediment into natural and anthropogenic fractions,
+and thereafter into different source fractions. For details on how
+this is done see papers by Farmer et al. (1996), Brännvall et al.
+(1999), Bindler et al. (2009). The lead naturally present in
+Swedish soils and sediments has generally high 206Pb/207Pb ratios,
+typically about 1.5 (range 1.3 to >3 Bindler et al., 1999; Renberg
+et al., 2000; Brännvall et al., 2001; Klaminder et al., 2005),
+whereas ores and coal from mainland Europe have lower values,
+1.174  0.013 (range, 1.16e1.18; cf. Wedepohl et al., 1978; Sugden
+et al., 1993; Stos-Gale et al., 1995; Wedepohl and Baumann, 1997;
+Bindler et al., 1999; Monna et al., 2000; Cloy et al., 2008). Bergslagen ores, given their greater age and earlier isolation, in turn
+have much lower isotope ratios that are also quite homogenous,
+1.024  0.001 (Johansson and Rickard, 1985; Åberg and
+Charalampides, 1986; Gebeyehu and Vivallo, 1991; Gebeyehu,
+1993).
+Most of the mercury data were previously published in Bindler
+et al. (2009) and analyzed using thermal decomposition cold-vapor
+atomic absorption spectrometry (Leco AMA-254). Additional
+samples were analyzed here from Noren using a similar system
+(PerkinElmer SMS100). Replicate analyses for each instrument and
+between the two instruments were within 5%. Analyses of certiﬁed reference materials were within their certiﬁed range. Carbon
+
+and nitrogen were analyzed using a PerkinElmer CHNS elemental
+analyzer in CHN mode only.
+2.4. Pollen
+The preparation of samples for pollen analyses follows standard
+methods. Sub-samples were treated with KOH and acetolysis
+(Moore et al., 1991), and then the preparations were mounted in
+safranin-stained glycerine. Approximately 600 pollen grains were
+counted per slide, as were microscopic charcoal particles. The size
+classes for the charcoal particles were <50 mm, 50e100 mm
+and >100 mm; the larger size is considered to reﬂect local ﬁres
+(cf. Tinner et al., 1998; Pitkänen et al., 1999; Olsson and Tryterud,
+2000). Pollen identiﬁcation was based on general keys of Beug,
+(1961) and Moore et al., (1991) and a reference pollen collection
+available for critical examinations. The percentage frequencies of
+the pollen are based against the total terrestrial pollen sum for each
+sample.
+3. Results
+3.1. Age-depth modeling
+The varved sediment record from Kalven provides us with
+a fairly precise absolute chronology. The cumulative age error,
+which is based on uncertain divisions between varves, is estimated
+at 10 years after the ﬁrst 700 varve years (AD 1300) and 40 after
+2000 years (AD 1). The varves were counted to 2.5 m depth (3353
+varve years). For Noren our age-depth model is based on correlating
+the distinctive changes in the lead isotope record from Noren with
+that from Kalven (Fig. 2A) and applying a second-order polynomial
+function.
+The results of the radiocarbon dating from Lapphyttan and the
+calibrated ages are presented in Table 1. For the Lapphyttan peat
+record the age-depth model is based on a second-order polynomial
+function for the 49e69 cm section e the primary period of interest
+for our study e which is then extrapolated downward to 95 cm
+depth. For the uppermost 49 cm we assume a simple linear model
+(Fig. 2B).
+3.2. Varve properties in Kalven
+In Kalven there are only smaller changes in varve properties (i.e.,
+color, thickness) from the period from 3353 to 706 varve years
+before 2002, i.e., prior to AD 1295 (Fig. 3). The average varve
+thickness during this 2600-year period is 0.62  0.08 mm yr1, but
+is slightly lower during the period AD 1095e1295,
+0.55  0.05 mm yr1. Varve thickness increases rapidly by 50% from
+AD 1295 to 0.80 mm yr1. Five years after the varve thickness
+begins to increase there is also a change towards a lighter color in
+the varves, indicating a greater relative proportion of mineral
+matter. These changes in varve properties (thickness and color)
+from AD 1295 occur together with an abrupt increase in magnetic
+susceptibility, which more than trebles in intensity and suggests an
+
+R. Bindler et al. / Journal of Archaeological Science 38 (2011) 291e300
+
+295
+
+Fig. 2. Age-depth models for: A) Noren and B) Lapphyttan. For Noren the chronology is based on matching 206Pb/207Pb isotope ratios in the sediment record from Noren to the
+varved chronology from Kalven. For Lapphyttan we use a polynomial regression for the main period of interest (prior to AD 1500) and a simple linear accumulation for the
+uppermost section.
+
+inﬂux of material richer in ferromagnetic particles. Magnetic
+susceptibility is sharply elevated over a 50-year period, after which
+the values return to levels comparable to before this period.
+The most distinct varves in the entire sediment sequence
+from Kalven are those for AD 1492e1493, when the varves are
+predominantly light colored with a thickness of about 1.5 mm yr1.
+Over the next 17 years the light, non-winter layer gradually
+decreases and the seasonal changes in color within varves resume
+a more normal cycle after AD 1510. Varve properties do not change
+
+notably again until the period AD 1590e1655, when the average
+varve thickness increases to 1.08 mm yr1.
+3.3. Pollen assemblage from Kalven and Lapphyttan
+Selected data from the pollen analyses of Kalven’s varved sediment record are presented in Fig. 3; a complete presentation of the
+pollen data is provided in the Supplementary data. Here we
+summarize pollen related to human activities into the categories
+
+Fig. 3. Varve properties, pollen and lead (concentrations and 206Pb/207Pb isotope ratio) for Kalven and the geochemistry for Noren. Chronology for Noren is based on matching the
+206
+Pb/207Pb record in Noren to the varved record from Kalven. Speciﬁc dates that are discussed in the text are marked: A) AD 80, Roman lead peak; B) AD 960, early input of
+Bergslagen lead; C) AD 1050, ﬁrst indications of early forest grazing; D) AD 1296, changes in varve sediment properties indicating possible start of blast furnace found on the eastern
+inlet stream; E) AD 1490, onset of large-scale mining in Norberg.
+
+296
+
+R. Bindler et al. / Journal of Archaeological Science 38 (2011) 291e300
+
+anthropocores and apophytes. Anthropocores are cereals and herbs
+introduced by humans, whereas apophytes are shrubs, herbs and
+weeds that are favored by human-related activities.
+From AD 550 until 1050 the pollen assemblage indicates
+a generally closed forest. Tree pollen comprise about 90e95% of the
+total terrestrial pollen, with a predominance of pine (Pinus sylvestris) and birch (Betula spp.). Although the pollen assemblage in
+Kalven indicates a generally closed forest, the ﬁrst rye pollen (Secale
+cereale) e albeit just one grain e appears AD 960 at the same time
+as a change in lead isotope composition.
+Changes in the pollen assemblage during the period from AD
+1050 to 1250 indicate an establishment of human settlements in
+the general area surrounding Kalven. These changes are primarily
+in the form of an increased number of pollen from grasses and
+heather (Calluna), which are plants favored by disturbance. The
+increase in these pollen types coincide with a small increase in
+charcoal particles and an absence of juniper (Juniperus), which is
+disfavored by ﬁre in contrast to heather.
+After AD 1250 more signiﬁcant changes occur in the pollen
+assemblage, which indicate more direct human settlement in close
+physical proximity to the lake. The pollen from this point in time
+include a decline in tree pollen from 90 to 85%, which is dominated
+by a decline in pine. Successional tree types such as alder (Alnus)
+and birch increase somewhat, but more importantly there are
+increases in diverse cereal pollen, hemp (Cannabis) and plants
+favored by disturbance, which together indicate cultivation.
+From AD 1600 there is an expansion in agriculture e speciﬁcally
+cultivation. The percentage of tree pollen declines further, while
+the number of larger charcoal particles increase. Anthropocores, in
+particular rye, increase sharply; in the case of rye pollen the
+percentage increases from 1 to 7% of the total terrestrial pollen.
+
+Selected data from the pollen analyses of the peat record from
+Lapphyttan are presented in Fig. 4; a complete presentation of the
+pollen data is provided in the Supplementary data. Like the pollen
+record from Kalven the older levels from Lapphyttan indicate
+a closed forest structure dominated by pine. The number of
+deciduous pollen declines over the period from c. 2000 BC until c. 1
+BC, e.g., oak (Quercus) and lime (Tilia), which accelerates in
+response to forest disturbance c. AD 300 as indicated by an increase
+in charcoal particles, increase in pollen from herbs and a further
+decline in lime.
+The period from AD 950 to 1180 is characterized by recurring
+disturbance. This is indicated by a loss of lime pollen, irregular oak
+percentages and ﬁnally complete loss by 1180, increasing juniper
+and herbs and other apophyte pollen types. There is a radical
+change in the landscape c. AD 1180 with a large increase in charcoal
+particles, a loss of deciduous pollen, decline in pine and increases in
+both anthropocores and apophytes.
+3.4. Sediment geochemistry in Kalven and Noren
+Although the lead data have been published a brief summary is
+beneﬁcial (Fig. 3). Prior to 2000 years ago the lead concentrations
+and stable isotope composition of both of the sediment records are
+quite stable, and similar to other sediment records in Sweden
+(Brännvall et al., 1999, 2001). In Kalven background values are
+15.5  2.3 mg Pb g1 and 1.483  0.007 for 206Pb/207Pb, and in Noren
+these are 14.4  2.0 mg Pb g1 and 1.479  0.005 for 206Pb/207Pb. In
+Kalven the well-established peak in lead pollution about 2000 years
+ago can be identiﬁed, particularly on the basis of a small, but
+signiﬁcant decline in the 206Pb/207Pb isotope ratio about AD 80
+(Brännvall et al., 1999). This peak in lead and the accompanying
+
+Fig. 4. Pollen, charcoal and lead (concentrations and 206Pb/207Pb isotope ratio) for Lapphyttan. Dates discussed in the text are marked: A) 500 BC, early (natural) forest disturbance,
+possible Roman lead peak; B) AD 950, start of continual forest disturbance including anthropogenic indicators; C) AD 1180, start of ore processing as indicated by charcoal and lead
+(concentration increase and decline in 206Pb/207Pb isotope ratio).
+
+R. Bindler et al. / Journal of Archaeological Science 38 (2011) 291e300
+
+decline in isotope ratio is found throughout much of Europe
+(Renberg et al., 2001; Cloy et al., 2008), although the precise timing
+depends on proximity to speciﬁc source regions and their somewhat varying histories of mining during the Roman period. We can
+reasonably interpret that the same changes in lead in Noren at
+115 cm depth correspond to this time (Fig. 2A). After the 3rd century
+AD lead concentrations and stable isotope ratios gradually return
+to approximately background values in both sediment records.
+Beginning c. AD 960 (sample interval spans AD 945e975) there
+are changes in Kalven’s sediment record that indicate anthropogenic impacts, which we can only identify as regional in origin. At
+this point there is a small increase (3 mg Pb g1) in the lead
+concentration together with a signiﬁcant decline in the 206Pb/207Pb
+ratio, from 1.473 to 1.397. Based on a simple two-component lead
+isotope mixing model (Farmer et al., 1996; Bindler et al., 2008,
+2009) this change in lead composition in Kalven can only be
+explained by the addition of a lead source having a low 206Pb/207Pb
+ratio of about 1.00e1.05, i.e., a lead isotope ratio characteristic of
+Bergslagen ores. No corresponding changes in lead composition are
+observable in Noren, possibly due to the lower resolution subsampling.
+During the period c. AD 1150e1250 lead concentrations increase
+by more than 20 mg Pb g1 and 206Pb/207Pb ratios decline to 1.27 in
+Kalven. In Noren the concentration increase is somewhat lower,
+12e13 mg Pb g1, and 206Pb/207Pb ratios decline to w1.32. A greater
+change in lead composition occurs from c. 1490. The increases in
+lead concentrations at this time in both Kalven and Noren are
+accompanied by the lowest 206Pb/207Pb ratios in the two lakes of
+1.142 and 1.176, respectively. Based on a three-component mixing
+model (Bindler et al., 2009), about 40% of the pollution lead in the
+sediment from Noren but as much as 90% in Kalven is derived from
+Bergslagen ores at this time.
+In Noren concentrations of lithogenic elements such as
+rubidium, strontium and zirconium decline gradually from the
+deepest, oldest sediments (437 cm depth) upwards to 75 cm (c. AD
+940), which are related largely to a long-term, almost two-fold
+increase in organic matter content (R2 ¼ 0.94, 0.93 and 0.96,
+respectively, for the three elements versus carbon content). These
+trends are an expected response to a gradual landscape development following deglaciation. For the trace metals (e.g., arsenic,
+copper, mercury, zinc), concentrations are stable from about 6000
+years ago until c. AD 1200. During the period from AD 1200 until c.
+1500 the concentrations of the lithogenic elements increase by
+50%; for example, strontium increases from 45e50 to 65e70 mg g1
+and zirconium from 55e60 to 90e100 mg g1. For major and trace
+metals there are slight increases during the early to mid-1400s, but
+more signiﬁcantly the concentrations of, for example, arsenic,
+copper and zinc increase by two to three-fold and mercury by 10fold (as well as other trace elements not shown here, such as
+germanium and yttrium) from just c. 1470 (41e42 cm depth) to
+1500 (39e40 cm).
+3.5. Lead in the Lapphyttan peat record
+For the deepest samples from the Lapphyttan peat record the
+Pb/207Pb ratios are characterized by high values typical for
+sediments and soils, 1.62, and concentrations that are low,
+3e5 mg Pb g1 (Fig. 4). The isotope ratio gradually declines upwards
+towards the surface to values of 1.1e1.13. The initial decline is
+related to a declining proportion of natural lead derived from
+surrounding soils. We can speculate that the decline in 206Pb/207Pb
+ratios to 1.40 and the small increase in lead concentration to
+12 mg g1 about AD 1 are related to the Roman lead peak seen
+typically in lakes and bogs throughout Sweden and Europe. A more
+signiﬁcant change occurs by c. AD 1180 when the 206Pb/207Pb ratio
+
+297
+
+declines and the lead concentration increases three-fold from 8 to
+24 mg g1. Based on the simple two-component lead isotope mixing
+model this change in lead composition from this time period
+onward reﬂects an addition of a mixed lead source having a low
+206
+Pb/207Pb ratio in the range 1.02e1.15, reﬂecting some contribution of lead derived from Bergslagen ores.
+4. Discussion: early land use and iron mining in Norberg
+4.1. Pre-AD 960
+Prior to AD 960 there is no evidence of local impacts either from
+mining or from land use. The most signiﬁcant feature is the wellestablished peak in lead pollution about AD 80, which is attributed
+to the long-range atmospheric transport of lead emitted from
+Roman mining and metallurgy in mainland Europe. This peak in
+lead and the accompanying decline in the 206Pb/207Pb isotope ratio
+is found throughout much of Europe (Renberg et al., 2001; Cloy
+et al., 2008), although the precise timing depends on proximity to
+speciﬁc source regions and their somewhat varying histories of
+mining during the Roman period.
+4.2. AD 960
+Beginning about AD 960 (945e975) there are changes in Kalven’s sediment record that indicate anthropogenic impacts, which
+we can identify as local in origin, but not likely in direct connection
+to the lake. The decline in the 206Pb/207Pb isotope ratio in Kalven
+indicates that there was a small input of lead (3 mg Pb g1) to the
+sediment that can only be explained by an addition of lead derived
+from Bergslagen ores (206Pb/207Pb ¼ 1.024). A number of archaeological sites have been noted in lakes upstream of Kalven, such as in
+the villages of Fliken, Fragg and Gäsjö, where smelting houses are
+documented from at least 1539 (Petterson, 1994). Further evidence
+that the source was local and upstream of Kalven is that we observe
+no corresponding changes in lead composition in Noren nor in peat
+records from ombrotrophic bogs to the south, such as Limbergsmosse, which is only 40 km to the southwest of Norberg. These
+ombrotrophic peat records, which receive lead only via atmospheric deposition, indicate that there was no contribution of lead
+from Bergslagen ores to the regional atmospheric lead signal
+(Bindler et al., 2009); rather, atmospheric lead deposition is characterized by a lead isotopic composition that is dominated by
+long-range transported lead from mainland Europe.
+Because there are no changes observed in the sediment properties of Kalven (e.g., varve thickness and magnetic susceptibility),
+no signiﬁcant changes in the pollen assemblage besides the
+appearance of one rye pollen grain, and no changes in sediment
+geochemistry in Noren, we can only conclude that the limited
+evidence for mining activities and cultivation that we can read from
+the data indicate that these activities did not occur in the area
+immediately surrounding Kalven or Noren. Given that there is
+a lead isotopic signal in Kalven, but not Noren, we hypothesize that
+whatever mining or metal processing took place was upstream of
+Kalven, which would act as a sedimentation basin above Noren.
+
+206
+
+4.3. AD 1050e1250
+Changes in the pollen assemblage during the period from AD
+1050 to 1250 indicate the establishment of human settlements in
+the general area surrounding Kalven (Fig. 3). These changes are
+primarily in the form of an increased number of pollen from grasses
+and heather, which are plants favored by disturbance. The increase
+in these pollen types coincide with a small increase in charcoal
+particles and an absence of juniper, which is disfavored by ﬁre in
+
+298
+
+R. Bindler et al. / Journal of Archaeological Science 38 (2011) 291e300
+
+contrast to heather. Together these changes are indicative of
+burning and forest grazing. In central Sweden forest grazing often
+took place at a distance from permanent settlements, hence the
+lack of other cultural pollen taxa in the sediment record at this time
+(Segerström and Emanuelsson, 2002). The lack of changes in other
+sediment properties in the lake suggests this activity was small
+scale or at least not in direct connection to the lake. Similarly, the
+charcoal and pollen data from Lapphyttan indicate human-related
+forest disturbance during the period from ca. AD 970 to 1180, after
+which there is a complete loss of deciduous trees (Fig. 4). Together
+the two pollen records suggest a pattern of increasing settlement in
+the region, which occurred together with or possibly slightly prior
+to mining. This close interaction of settlement and land use with
+mining and metallurgy is well established in other regions of
+Europe (Monna et al., 2004a; Martínez Cortizas et al., 2005).
+In regards to evidence of mining and metallurgy, archaeological
+studies in the Norberg mining district and other districts suggest
+that the 13th century was an important period of establishment for
+mining, with expansion continuing through the 14th and 15th
+centuries (Petterson Jensen, 2002). Our peat record from Lapphyttan, taken from the small mire immediately below the blast
+furnace site, support the late 12th century start for the furnace as
+indicated by radiocarbon dating from archaeological studies. The
+sharp rise in charcoal and the change in lead composition (increase
+in concentration and decline in 206Pb/207Pb) about AD 1185 provide
+clear evidence for ore processing at this site. The charcoal and
+pollen data suggest that local land-use changes may already have
+begun from c. AD 930, but we can only speculate as to whether the
+slight decline in the 206Pb/207Pb ratio at this time is indicative of ore
+processing at the site. We have no lead analyses between 930 and
+1185, but certainly from this latter date the decline in the
+206
+Pb/207Pb ratio indicates an addition of lead from Bergslagen ores.
+In the two sediment records the only signiﬁcant changes
+occurring at this time are in Noren c. AD 1200, where there is an
+increase in lithogenic elements (e.g., zirconium as well as other
+elements not shown including rubidium, strontium and titanium)
+and a decline in organic matter. These changes are accompanied
+only by an increase in lead concentrations along with an increase in
+Pb/Ti and Pb/Zr ratios. As with lead isotopes, the enrichment in lead
+versus the two lithogenic elements indicates an ore source for this
+lead. We hypothesize that the increase in the lithogenic elements is
+related to the start of mining; given that mines at Klackberg are on
+the southern side of the ridge facing towards Noren, away from
+Kalven, it is logical that the impact would register in the sediments
+of Noren rather than Kalven. This hypothesis is supported by the
+fact that Norberg’s mines were mentioned in the deed of exchange
+between Tyrgils Knutsson and Birger Magnusson AD 1303. Further
+support is provided by the major changes in sediment properties in
+Kalven that follow from 1296 as discussed below.
+4.4. AD 1250e1400
+After 1250 more signiﬁcant changes occur in the sediment
+record from Kalven, which indicate more direct human settlement
+and also metallurgy in close physical proximity to the lake. From
+this date the pollen assemblage includes an increase in diverse
+cereal pollens, hemp and other plants favored by disturbance,
+which together indicate cultivation.
+The more signiﬁcant and unequivocal change occurs about AD
+1295 in Kalven’s sediment record. From this point there is an
+unambiguous increase in varve thickness, from 0.55  0.5 mm yr1
+to 0.80 mm yr1 (Fig. 3), which is accompanied by a sharp
+increase in magnetic susceptibility, changes towards lighter color in
+the varves and a large increase in charcoal particles. Given the
+proximity of our coring site to the inlet stream with the newly
+
+identiﬁed, but undated blast furnace site we can reasonably
+hypothesize that the increase in magnetic susceptibility and large
+charcoal particles are due to establishment of this furnace. That this
+was a blast furnace is suggested by its streamside location, the
+presence of ﬁning heaps and slag, and the substantial inﬁlling of the
+stream inlet. This late 13th century date coincides with the establishment of a number of other blast furnaces in the region
+surrounding the Norberg mining district at this time (Petterson
+Jensen, 2002). The increasing level of organization of iron production in the Norberg mining district from the late 13th century was
+clearly an important contribution to the rise of iron as an export
+product; osmund iron is ﬁrst mentioned in a document listing
+exports in 1368, when osmund iron (200 ton) comprised one-third
+of the export from Stockholm to the Hansa city of Lübeck (Olsson,
+2007). However, based on the magnetic susceptibility data the
+furnace site at the stream inlet site in the village of Flängen may
+have been short-lived and was active only into the middle of the
+14th century; only the site further upstream a few hundred meters
+away was documented during the late 16th century.
+4.5. AD 1400 and onward
+From about 1400 onwards, and especially from the end of the
+1400s, mining and metallurgical activities must have been the
+dominant feature of the landscape of Norberg and its surroundings.
+There are smaller changes in varve appearance in Kalven during the
+14th and much of the 15th centuries, but there is a very distinct
+change to a lighter color AD 1490. At this time the lead concentrations in both Kalven and Noren are accompanied by their lowest
+206
+Pb/207Pb ratios, 1.142 and 1.176, respectively. Based on a threecomponent mixing model (Bindler et al., 2009), about 40% of the
+pollution lead in the sediment from Noren and as much as 90% in
+Kalven is derived from Bergslagen ores at this time. The greater
+inﬂuence of ore lead on Kalven’s sediment record as compared to
+Noren we attribute to the known blast furnace sites in villages
+upstream of Kalven. The outlet from Kalven to Noren is at the
+eastern end of the lake, and much of the ﬂuvial emission of metals
+from the stream to the lake would have sedimented in the deep
+(20 m) western basin.
+In Noren the concentration of mining metals begins to increase
+about AD 1430 (44e45 cm depth), but the more signiﬁcant increase
+occurs from the sample estimated to c. AD 1470 to the following
+sample c. 1500; i.e., coinciding in time with the distinct sediment
+layers of 1492e1493 in Kalven. The sediment also becomes more
+reddish-brown in color. The increase in metals includes both the
+major ore metals, iron and manganese, and trace metals such as
+arsenic, copper, lead, mercury, yttrium and zinc. The mercury
+increase is speciﬁc to Noren and not Kalven, which indicates the
+source was local to only Noren.
+In the top 30 cm of the surface freeze core from Noren, which
+corresponds to the period from AD 1600 to the present, there are
+some laminations present in the sediment, but which are visibly
+turbated. The laminations indicate that emissions to the lake
+signiﬁcantly altered water quality, such that extensive periods of
+oxygen-free bottom waters must have occurred (a necessary
+condition for the formation of laminations and varves in boreal
+lakes).
+The lead record from two ombrotrophic bogs to the south of
+Norberg, Limbergsmosse 40 km to the southwest and Dumme
+mosse (Småland), which is 200 km to the south, indicate that
+atmospheric pollution in central Sweden e although dominated by
+mainland European lead sources (w85%) e must have included an
+in-mixing of Bergslagen sources (w15%) from about AD 1500
+(Bindler et al., 2009). Thus the main impact of the metal emissions
+from mining and metallurgy in Norberg and Bergslagen as a whole
+
+R. Bindler et al. / Journal of Archaeological Science 38 (2011) 291e300
+
+was largely in the form of direct emissions to recipient watercourses and lakes that were hydrologically connected to speciﬁc
+sites.
+5. Conclusions
+Based on our data from Lapphyttan and from Kalven, mining
+and ore processing in the Norberg mining district were established
+in the region during the period from the late 12th to late 13th
+centuries. Our data from the mire record at Lapphyttan support the
+earliest suggested dates for the establishment of the furnace at that
+site. Furthermore, we can unequivocally conclude that the recently
+identiﬁed blast furnace site was established along the inlet stream
+at the eastern end of Kalven about AD 1296; we speculate that the
+changes in the geochemical record from Noren during the period
+from c. AD 1200 to 1300 was related to mining, because logically
+establishment of a blast furnace should follow the discovery of the
+necessary ore to feed the furnace. However, our lead data from
+Kalven suggest that there were some mining or metallurgy related
+activities as early as c. AD 950, but not in immediate proximity to
+the lake. This slight change in lead composition is followed by
+changes in the pollen assemblage that indicate forest grazing. It
+would seem that early mining and early land use are relatively
+synchronous. At Lapphyttan indicators of human disturbance
+precede (AD 950e1180) the evidence for ore processing at this site,
+which appears in the form of a large increase in charcoal particles
+paired with a change in lead composition c. AD 1180 e but we lack
+geochemical analyses in this important time period from 950 to
+1180 to fully support the good evidence provided by charcoal
+particles. Taken together, the results from our study support the
+limited number of documents from the 14th century, which indicate the development of mining and metallurgy industry in the
+Norberg mining district was already well underway during the 13th
+century, which is increasingly well supported by data derived from
+archaeological studies in the region.
+In the future we hope that high-resolution analyses of the
+sediment record from Kalven along with planned excavations of the
+furnace site on the western inlet to the lake, as well as studies in
+other historically important mining areas, will further improve the
+understanding of the early developments of iron mining in Sweden.
+Acknowledgements
+We would like to thank the Swedish Research Council and Carl
+Tryggers Foundation for support for different parts of this research,
+and we wish to thank others who have contributed signiﬁcantly to
+this work: Klashåkan Lundström, who originally suggested Kalven
+as a study site; Bibbi Olsson and Ove Emteryd, who were a tremendous resource over the years for the lead isotope analyses; Johan
+Rydberg for feedback on the manuscript; and Harald Biester at the
+Technische Universität e Braunschweig, who helped us with the
+XRF analyses. We are also grateful for the corrections/clariﬁcations
+suggested by the reviewer.
+Appendix. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at doi:10.1016/j.jas.2010.09.004.
+References
+Åberg, G., Charalampides, 1986. New lead isotope data from the Långban mineralization, central Sweden, vol. 108. GFF (Geolgoiska Föreningens i Stockholm
+Förhandlingar). 243e250.
+Beug, H.-J., 1961. Leitfaden der Pollenbestimmung. Lieferung 1. Fischer, Stuttgart.
+
+299
+
+Bindler, R., Brännvall, M.-L., Renberg, I., Emteryd, O., Grip, H., 1999. Natural lead
+concentrations in pristine boreal forest soils and past pollution trends: a reference for critical load models. Environ. Sci. Technol. 33, 3362e3367.
+Bindler, R., Renberg, I., Klaminder, J., 2008. Bridging the gap between ancient metal
+pollution and contemporary biogeochemistry. J Paleolimnol. 40, 755e770.
+Bindler, R., Renberg, I., Rydberg, J., Andrén, T., 2009. Widespread waterborne
+pollution in central Swedish lakes and the Baltic Sea from pre-industrial mining
+and metallurgy. Environ. Pollut. 157, 2132e2141.
+Brännvall, M.-L., Bindler, R., Emteryd, O., Renberg, I., 2001. Four thousand years of
+atmospheric lead pollution in northern Europe: a summary from Swedish lake
+sediments. J. Paleolimnol. 25, 421e435.
+Brännvall, M.-L., Bindler, R., Renberg, I., Emteryd, O., Bartnicki, J., Billström, K.,
+1999. The Medieval metal industry was the cradle of modern large-scale
+atmospheric lead pollution in northern Europe. Environ. Sci. Technol. 33,
+4391e4395.
+Cheburkin, A.K., Shotyk, W., 1996. An energy-dispersive miniprobe multielement
+analyzer (EMMA) for direct analysis of Pb and other trace elements in peat.
+Fresenius J. Anal. Chem. 354, 688e691.
+Cloy, J.M., Farmer, J.G., Graham, M.C., MacKenzie, A.B., Cook, G.T., 2008.
+Historical records of atmospheric Pb deposition in four Scottish ombrotrophic peat bogs: an isotopic comparison with other records from Western
+Europe and Greenland. Global Biogeochem. Cycles 22 Article Number:
+GB2016.
+Farmer, J.G., Eades, L.J., MacKenzie, A.B., Kirika, A., Bailey-Watts, T.E., 1996. Stable
+lead isotope record of lead pollution in Loch Lomond sediments since 1630 A.D.
+Environ. Sci. Technol. 30, 3080e3083.
+Gebeyehu, M., 1993. Contrasting ore-lead isotope compositions in the Mellangruvan
+ore body and adjacent sulﬁde deposits, VallbergeteLoberg area, Bergslagen ore
+province, south-central Sweden, vol. 115. GFF (Geologiska Föreningens i
+Stockholm Förhandlingar). 59e63.
+Gebeyehu, M., Vivallo, W., 1991. Ore lead isotopical composition of Lower Proterozoic volcanogenic sulﬁde ores at Garpenberg, south central Sweden, vol. 113.
+GFF (Geolgoiska Föreningens i Stockholm Förhandlingar). 7e14.
+Jockenhövel, A., 1996. Bergbau, Verhüttung und Waldnutzung im Mittelalter:
+Auswirkung auf Mensch und Umwelt. Vierteljahrschr Soz Wirtschaftsgesch,
+298. Franz Steiner Verlag, Stuttgart.
+Johansson, Å, Rickard, D., 1985. Some new lead isotope determinations from the
+Proterozoic sulﬁde ores of Central Sweden. Miner. Deposita 20, 1e7.
+Klaminder, J., Bindler, R., Emteryd, O., Renberg, I., 2005. Uptake and recycling of lead
+by boreal forest plants: quantitative estimates from a site in northern Sweden.
+Geochim. Cosmochim. Acta 69, 2485e2496.
+Magnusson, G., 1984. Lapphyttan e en medeltida masugn i Karbennings socken.
+Karbenning: en bergslagssocken. Norbergs Kommun, pp. 60e85.
+Magnusson, G., 2002. Bergslagens bebyggelse under 1000 år (A millennium of
+human settlement in Bergslagen). Bebyggelsehistorisk tidskrift 43, 7e30.
+Martínez Cortizas, A., Mighall, T., Pontevedra Pombal, X., Nóvoa Muñoz, J.C., Peiteado Varela, E., Piñeiro Rebolo, R., 2005. Linking changes in atmospheric dust
+deposition, vegetation change and human activities in northwest Spain during
+the last 5300 years. Holocene 15, 698e706.
+Mighall, T.M., Timberlake, S., Clark, S.H.E., Caseldine, A.E., 2002. A palaeoenvironmental investigation of sediments from the prehistoric mine of Copa
+Hill, Cwmystwyth, mid-Wales. J. Archaeol. Sci. 29, 1161e1188.
+Monna, F., Galop, D., Carozza, L., Tual, M., Beyrie, A., Marembert, F., et al., 2004a.
+Environmental impact of early Basque mining and smelting recorded in a high
+ash minerogenic peat deposit. Sci. Total Environ. 327, 197e214.
+Monna, F., Hamer, K., Lévêque, J., Sauer, M., 2000. Pb isotopes as a reliable marker of
+early mining and smelting in the Northern Harz province (Lower Saxony,
+Germany). J. Geochem. Explor. 68, 201e210.
+Monna, F., Petit, C., Guillaumet, J.-P., Jouffroy-Bapicot, I., Blanchot, C., Dominik, J., et
+al., 2004b. History and environmental impact of mining activity in Celtic
+Aeduan territory recorded in a peat bog (Morvan, France). Environ. Sci. Technol.
+38, 665e673.
+Moore, P.D., Webb, J.A., Collinson, M.E., 1991. Pollen Analysis, second ed. Blackwell
+Scientiﬁc, Oxford.
+Olsson, F., 2007. Järnhanterings dynamik: Produktion, lokalisering och agglomerationer i Bergslagen och Mellansverige1368e1910. Umeå University. Umeå
+Studies in Economic History Nr 35. PhDp. 210.
+Olsson, M., Tryterud, E., 2000. Interpretation of the charcoal records in forest soils:
+forest ﬁres and their production and deposition of macroscopic charcoal.
+Holocene 10.
+Petterson, I.-M., 1994. Norbergs bergslag: en sammanställning över de bergshistoriska lämningar i Karbennings, Norbergs, Västerfärnebo och Västervåla
+socknar samt Fagersta. Jernkontoret och Riksantikvarieämbetet.
+Petterson Jensen, I.-M., 2002. Medeltiden e en expansiv period i Norberg bergslag.
+(The Middle Ages e an expansive period in the Norberg bergslag). Bebyggelsehistorisk tidskrift 43, 31e50.
+Pitkänen, A., Lehtonen, H., Huttunen, P., 1999. Comparison of sedimentary microscopic charcoal particle records in a small lake with dendrochronological data:
+evidence for the local origin of microscopic charcoal produced by forest ﬁres of
+low intensity in eastern Finland. Holocene 9, 559e567.
+Renberg, I., 1981. Improved methods for sampling, photographing and varvecounting of varved lake sediments. Boreas 10, 255e258.
+Renberg, I., Bindler, R., Brännvall, M.-L., 2001. Using the historical atmospheric lead
+deposition record as a chronological marker in sediment deposits in Europe.
+Holocene 11, 511e516.
+
+300
+
+R. Bindler et al. / Journal of Archaeological Science 38 (2011) 291e300
+
+Renberg, I., Brännvall, M.-L., Bindler, R., Emteryd, O., 2000. Atmospheric lead
+pollution history during four millennia (2000 BC to 2000 AD) in Sweden. Ambio
+29, 150e156.
+Renberg, I., Brännvall, M.-L., Bindler, R., Emteryd, O., 2002. Stable lead isotopes and
+lake sediments e a useful combination for the study of atmospheric lead
+pollution history. Sci. Total Environ. 292, 45e54.
+Ripa, M., 2001. A review of the Fe oxide deposits of Bergslagen, Sweden and their
+connection to Au mineralisation. In: Weihed, P. (Ed.), Economic Geology
+Research, vol. 1. Sveriges geologiska undersökning C 833, Uppsala, pp. 132e136.
+1999e2000.
+Segerström, U., Emanuelsson, M., 2002. Extensive forest grazing and hay-making on
+mires e vegetation changes in south-central Sweden due to land use since
+Medieval times. Veg. Hist. Archaeobot. 11, 181e190.
+Segerström, U., Renberg, I., Wallin, J.-E., 1984. Annual sediment accumulation and
+land use history; investigations of varved lake sediments. Verh. Int. Ver. Theor.
+Angew. Limnol. 22, 1396e1403.
+
+Stos-Gale, Z., Gale, N.H., Houghton, J., Speakman, R., 1995. Lead isotope data from
+the Isotrace Laboratory, Oxford: Archaeometry data base 1, ores from the
+western Mediterranean. Archaeometry 37.
+Sugden, C.L., Farmer, J.G., MacKenzie, A.B., 1993. Isotopic-ratios of lead in contemporary environmental material from Scotland. Environ. Geochem. Health 15,
+59e65.
+Tinner, W., Conedera, M., Ammann, B., Gäggeler, H.W., Gedye, S., Jones, R., et al.,
+1998. Pollen and charcoal in lake sediments compared with historically documented forest ﬁres in southern Switzerland since AD 1920. Holocene 8, 31e42.
+Wedepohl, K.H., Baumann, A., 1997. Isotope composition of Medieval lead glass
+reﬂecting early silver production in Central Europe. Miner. Deposita 32,
+292e295.
+Wedepohl, K.H., Delevaux, M.H., Doe, B.R., 1978. The potential source of lead in the
+Permian kupferschiefer bed of Europe and some selected Paleozoic mineral
+deposits in the Federal Republic of Germany. Contrib. Mineral. Petrol. 65,
+273e281.
+
+

@@ -1,0 +1,1273 @@
+Journal of Archaeological Science 34 (2007) 1902e1913
+http://www.elsevier.com/locate/jas
+
+Examining histology to identify burned bone
+Megan Hanson*, Chester R. Cain
+School of Geography, Archaeology and Environmental Sciences, University of the Witwatersrand, Johannesburg, South Africa
+Received 29 October 2006; received in revised form 21 January 2007; accepted 24 January 2007
+
+Abstract
+Early research suggests that examination of the microscopic internal structure is a valid method for distinguishing burned from unburned
+bone in the archaeological record. This study compares burned and unburned modern bones with archaeological bones from Sibudu Cave
+(ca. 60,000 years ago) and Cave of Hearths (over 200,000 years ago) to more fully describe the heat-induced histological changes to bone.
+We also explore the effects of diagenesis on those changes to determine if histological evidence of burning preserves through fossilisation
+and diagenetic processes and can be successfully used to identify ancient burning. Application of this technique can help in addressing various
+issues, including the origins of controlled use of fire and understanding animal butchery and disposal.
+Ó 2007 Elsevier Ltd. All rights reserved.
+Keywords: Burned bone; Bone histology; Fire; Sibudu; Cave of Hearths
+
+1. Introduction
+The identification of hominin-controlled fire and cooking in
+the archaeological record is an important line of evidence in
+unravelling ancient behaviour. Fire provides light, heat, protection from predators, assistance in hunting, and a means of
+cooking meat and plant materials (Bellomo and Harris,
+1990; James, 1989; Oakley, 1961). Researchers, therefore,
+have long been concerned with identifying the early use of
+fire at archaeological sites (Clark and Harris, 1985); however,
+many assertions for the earliest use of fire still remain controversial (Binford and Stone, 1986; Dart, 1948; Goldberg et al.,
+2001; Oakley, 1961; Weiner et al., 1998; Yu-Zhu, 1986).
+Researchers employ a range of analyses to demonstrate or
+disprove hominin use of fire (Barbetti, 1986; Bellomo and
+Kean, 1994; Brain, 1993; Schiegl et al., 1996; Shipman
+et al., 1984), and, as an abundant material that preserves in
+most archaeological sites, bone is often evaluated for thermal
+
+* Corresponding author. 1252 Maryland Avenue NE Apt. B, Washington,
+DC 20002, USA. Tel.: þ1 202 445 1106.
+E-mail address: meganleighhanson@msn.com (M. Hanson).
+0305-4403/$ - see front matter Ó 2007 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2007.01.009
+
+alterations in attempts to identify use of fire. Burned bone is
+a good indicator of fire because it is very susceptible to
+heat, and changes in bone are frequently distinctive and are
+usually not affected by recovery techniques.
+Thermally altered bone displays surface colour and texture
+changes (Brain, 1993; David, 1990; Shipman et al., 1984),
+which some argue can be good indicators of the temperature
+to which the bone was heated, as well as to the duration of
+the heating (Brain, 1981, 1993). When burned, bone surface
+first darkens to brown (at less than 400  C), then carbonises,
+turning black (typically around 400e500  C), and once the organic components are burned, the bone will become grey to
+grey-blue in colour (at 600e900  C) (Bonucci and Graziani,
+1975; Brain, 1993; Correia, 1997; Shipman et al., 1984). In
+the final stage, the bone becomes calcined, developing a chalky
+consistency and white colour (Brain, 1993). Heated bones also
+display observable cracking and occasional longitudinal fractures (Correia, 1997; David, 1990). Unfortunately, visual surface assessments can be misleading as organic and mineral
+staining can mimic colour changes (Oakley, 1961; ShahackGross et al., 1997), and the surface of weathered bone sometimes resembles that of burned bone (Sillen and Hoering,
+1993; Stiner et al., 1995; Taylor et al., 1995; White, 1992).
+
+M. Hanson, C.R. Cain / Journal of Archaeological Science 34 (2007) 1902e1913
+
+Several researchers have therefore turned to more rigorous analyses of surface and internal structure to identify burned bone.
+After examining the most superficial layers of experimentally burned bones at 55,000 magnification, Bonucci and
+Graziani (1975) found that hydroxyapatite crystals thickened
+as temperature increased until the orderly crystalline structure
+of the bones disintegrated at 900  C, with the first noticeable
+indication of burning appearing at 350  C. Using this experimental data, Bonucci and Graziani (1975) were able to
+identify similar crystal changes in 2500-year-old cremated
+human bone, but they had more difficulty identifying such
+changes in older, apparently burned fossilised bone from Mousterian levels at an Italian cave site. (Bonucci and Graziani
+(1975) also conducted thermogravimetry studies to identify
+changes in burned bone, but they were inconclusive when applied to ancient bone and have seldom, if ever, been used since.)
+Using experimentally heated bone, Shipman et al. (1984)
+delineated a series of colour and surface changes, visible
+with both light and scanning electron microscopy, that occur
+as heating progresses to higher temperatures, with the first
+indication of burning appearing between 185  C and 285  C.
+The applicability of these schemes to archaeological assemblages is preliminarily confirmed by Nicholson’s (1993)
+work. However, as both Nicholson (1993) and White (1992)
+have noted, similar surface texture and colour changes can
+occur on unburned bones diagenetically altered by weathering
+and fossilisation. The high-powered microscopic surface analyses performed by Bonucci and Graziani (1975) and Shipman
+et al. (1984), in the end, possess many of the same problems as
+macroscopic surface analysesdburning, weathering, and
+diagenesis all cause similar changes to the bone surface and
+the causes of these changes can be confused.
+Chemical analyses of reportedly burned bone can test for
+the presence of organic carbon, the carbon: nitrogen ratio,
+ammonia (NH3) levels or amino acid patterns; all of which
+are associated with burning in bone (Brain and Sillen, 1988;
+Sillen and Hoering, 1993; Taylor et al., 1995). While organic
+carbon analyses can distinguish between bone that is black in
+colour due to heating and bone that is black due to staining by
+manganese oxide, they cannot work on bone after the carbon
+has oxidised, which usually occurs between 600  C and
+900  C (temperatures that are within the range of human
+campfires). Sillen and Hoering (1993) note that the data
+from carbon: nitrogen analyses can be difficult to interpret
+and Taylor et al. (1995) conclude that the ammonia and amino
+acid analyses might not work on bones that had undergone
+long periods of diagenesis. All of these chemical analyses
+fail to provide information on the intensity of heating, including temperature or duration.
+Experimental work has shown that x-ray diffraction and
+infra-red spectrometry can be used to identify heat-induced
+crystallographic transformations in modern bones (Shipman
+et al., 1984; Sillen and Hoering, 1993; Stiner et al., 1995),
+but applications to archaeological material have had mixed results. Stiner et al. (1995) found that when the technique was
+used on Middle Palaeolithic archaeological bone from Hayonim Cave, Israel, the signatures displayed no significant
+
+1903
+
+differences between burned and unburned specimens, whereas
+Shahack-Gross et al. (1997) were able to differentiate between
+infra-red spectra from burned and unburned bones from the
+same site. Shahack-Gross et al. (1997) did note that it is
+possible that other forms of diagenesis could result in bones
+with similar spectra to that of pyrolised collagen. Others
+have noted that it is difficult to recognise changes in crystal
+size in archaeological bone that was heated to less than
+650  C (Harsanyi, 1993; Stiner et al., 1995).
+Because weathering and fossilisation do not significantly
+affect the internal structure of the bone, examining bone
+histology (the internal structure as visible with light microscopy) is at this stage a reliable indicator of burning without
+the problems of equifinality seen in the techniques previously
+mentioned. Much of the microscopic analysis of the internal
+structure of burned bone to date has been conducted by forensic anthropologists, who have identified important heatinduced changes to human bone histology (Bradtmiller and
+Buikstra, 1984; Cattaneo et al., 1999; Forbes, 1941; Harsanyi,
+1993; Herrmann, 1977; Hummel and Schutkowski, 1993;
+Nelson, 1992). Only a few archaeologists have pursued such
+investigations. Schiegl et al. (1996) examined thin soil
+sections with in situ bone as part of a study of hearths and
+chemical and other signatures of burning. They reported that
+the colour of the apparently burned bones in thin section
+varied from pale brown to dark brown and deep black.
+Brain (1993) documented accentuation of the lamellar
+structure from carbon deposition (which he attributed to
+carbonised organic components), cracks spreading through
+the matrix, and a general loss of microstructure at high temperatures. In his experiment, Brain (1993) burned bone
+sections to seven different temperatures in a kiln for 30 min.
+His results are presented in Table 1. Brain used his experimental
+observations to assign approximate temperatures to four
+reportedly burned fossil specimens from the early hominid
+(1.0e1.5 MYR BP) site of Swartkrans. The descriptions in
+this research were limited, however, and there were no
+descriptions of the histological features of unburned fossils.
+
+Table 1
+Changes observed in microstructure of burned bone, as described by Brain
+(1993)
+Sustained
+temperature ( C)
+
+Observed changes
+
+200
+
+Carbon accumulated in the lacunae, but most of the
+structure looks unchanged
+Lamellar structure has more carbon and is accentuated
+with a brown-black colouration; cracks spread outwards
+from the haversian canals through the matrix
+Cracks spread outwards from the haversian canals
+through the matrix
+Most of the carbon has oxidised, leaving the matrix a pale
+colour with many cracks
+Cracks are numerous and prominent throughout the
+matrix, but structure is still visible
+The matrix has shrunk, making the cracks even wider
+Microstructure has largely disappeared due to the fusion
+of the apatite crystals
+
+300
+
+400
+500
+600
+700
+800
+
+1904
+
+M. Hanson, C.R. Cain / Journal of Archaeological Science 34 (2007) 1902e1913
+
+While needing further investigation, this work importantly
+suggests that heat-induced changes within the range of
+human campfires (which usually range between 400  C and
+700  C) can be documented after fossilisation and therefore
+reliably confirm burning in very ancient bones (Brain,
+1993). This research was critical in showing the usefulness
+of the technique and greatly influenced this study.
+Because further research associated with this technique is
+limited, the aim of this study is to provide a well-defined
+and systematic set of characteristics for identifying burned
+bone histologically. We also aim to employ a range of experimental conditions to document additional variation not seen
+in Brain’s work, particularly potential changes deriving from
+conditions within campfires. We also want to show that this
+technique can be applied to faunal material from a range of
+archaeological sitesdincluding material that has undergone
+or is undergoing fossilisation, and faunal material that may
+be experiencing other post-burial taphonomic changes.
+To confirm that histological changes are due to heating,
+diagenetic changesdsuch as modifications by pathologies
+and destruction by microbial actiondmust be ruled out (Brain,
+1993; Chinsamy, 1997; Grun, 2003; Hackett, 1981; Hedges
+et al., 1995; Romer and Parsons, 1986). Fungi and bacteria
+digest the remaining collagen in the bones, and in doing so
+excrete enzymes to put the bone mineral into solution, occasionally creating distinct changes to the histology of the
+bone (Garland, 1987; Grupe and Dreses-Werringloer, 1993;
+Hackett, 1981; Schultz, 1997). Our identifications of nonburning diagenetic changes are based on these published
+reports, and we are pleased with their usefulness (although
+future studies may refine the database). The most common
+types of microbial destruction have been described by Hackett
+(1981) as small round holes in the microstructure, occasionally
+with a rim of redeposited mineral around the edge of the hole.
+Schultz (1997) also described algal and fungal growth vestiges, both of which can sometimes merge together to form
+large flat or tuft shaped obstructions, noting that such destruction can even cause the entire bone to disintegrate (Schultz,
+1997). Garland (1987) also observed three other types of histological destruction, which he termed generalised destruction,
+inclusions, and infiltrations. He describes generalised destruction as a disintegration of osteons resulting in an amorphous
+appearance to the bone (Garland, 1987). Inclusions are biological or mineral material lying in the spaces in the bone, while
+infiltrations are in terra staining, usually opaque black or
+brown, penetrating the cortex of the bone (Garland, 1987),
+which may result from infiltration of chemicals and elements
+into the bone’s surface. We agree that such diagenetic changes
+in bone are quite distinct in appearance to changes attributed
+to extreme heat (Brain, 1993; Garland, 1987; Hackett, 1981;
+Schiegl et al., 2003; Shipman et al., 1984).
+
+of two sets of archaeological burned and unburned bones of
+different ages.
+2.1. Experimental samples
+The modern comparative sample consisted of ten adult
+sheep (Ovis aries) defleshed femora and two adult sheep
+humeri with the flesh still on. Two of the femora were
+defleshed, cleaned and left raw as a control, and two were
+defleshed, cleaned and degreased by simmering in soapy water
+for several hours in preparation for burning. It is highly
+unlikely that this degreasing method caused any histological
+changes to the bones, as the water never reached temperatures
+much over 100  C, and no research has found heat-induced
+histological changes to bone until temperatures reached
+more than 185  C (Brain, 1993; Nicholson, 1993; Shipman
+et al., 1984). The remainder of the defleshed bones was
+cleaned and left greasy. All bones were left whole and intact.
+Studies (Drew et al., 1971; Wright and Miller, 1976; Zeder,
+1978; for summary see Gilbert, 1989) have identified some
+histological differences between wild and domestic bovid
+bone, but these distinctions were unrelated to histological
+indicators of burning, and we were therefore confident in comparing thin sections of elements from wild (ancient material)
+and domestic (modern material) taxa for evidence of burning.
+The experimental campfire was built with a variety of hardwoods and was approximately 60 cm in diameter. The fire was
+built on a cleared patch of dirt in a well-ventilated area and the
+temperature of the fire was measured using a digital thermometer attached to a long thermocouple probe (same thermometer
+and probe described in Brain, 1993). The centre of the fire
+reached 367  C within 10 min, and the maximum temperature
+d705  Cdwas reached after 20 min. After that point, temperatures declined. The exposure to the effects of heat of specimens varied based on their position and duration in the fire
+(Table 2).
+Six bones were put in the fire ten minutes after setting (see
+Table 2). The last fuel was added at about 30 min into the
+experiment; and at 35 min, some of the coals were spread
+out and the fleshed samples were roasted until cooked through.
+The temperature of the fire next to each sample was measured
+when the bone was added and at ten minute intervals.
+After removal, samples were cooled and bagged. Many
+specimens fractured in the fire, but an effort was made to
+recover all pieces. Later, samples were photographed and
+described, and pieces were selected for thin sectioning (see
+Hanson, 2005 for photographs and detailed descriptions).
+Each of these sections was from the shaft and cut transverse
+to the long axis of the bone, in order to facilitate comparisons
+with previous work.
+2.2. Archaeological samples
+
+2. Materials and methods
+This study compared the internal microscopic changes of
+experimentally burned bones with microscopic characteristics
+
+One set of archaeological bone was selected from the Middle Stone Age layers at Sibudu Cave, in KwaZulu Natal, South
+Africa (Wadley and Jacobs, 2004), which have abundant
+evidence of hearths, ash and burning (Cain, 2005). The eight
+
+M. Hanson, C.R. Cain / Journal of Archaeological Science 34 (2007) 1902e1913
+
+1905
+
+Table 2
+Descriptions and degrees of heating for experimental samples
+Sample #
+
+Description of sample
+
+Location on fire
+
+Approximate temperature
+( C) of the flames
+when bones were:
+Added
+
+Removed
+
+M1
+M2
+M3
+M4
+M5
+M6
+M7
+M8
+M9
+M10
+M11
+M12
+
+Fleshed bone
+Fleshed bone
+Non-greasy bone
+Non-greasy bone
+Greasy bone
+Greasy bone
+Greasy bone
+Greasy bone
+Greasy bone
+Greasy bone
+Unheated
+Unheated
+
+Coals, at edge
+Coals, at edge
+Coals, in centre
+Coals, in centre
+Coals, at edge
+Coals, in centre
+Coals, at edge
+Coals, in centre
+Flames, 10 cm from coals
+Flames, 20 cm from coals
+None
+None
+
+270
+400
+462
+620
+482
+482
+590
+705
+470
+380
+
+240
+135
+190
+480
+460
+195
+450
+170
+
+bone fragments used come from two layers, MOD and Mi.
+MOD was dated to 49,700  1800 ya (Wadley and Jacobs,
+2006). Mi, several layers below MOD, is a ‘‘black, charcoalrich, ashy layer’’ (Wadley, 2001: p. 7) and is believed to
+date to approximately 60,000 ya (Wadley and Jacobs, 2006).
+All specimens were from femora or humeri (with the exception of one fragment identifiable only to ‘long bone’) from
+bovid size class II or III. Due to the widespread burning of
+bones throughout the site (Cain, 2005), it was difficult to
+find identifiable unburned fragments and thus specimens
+display a range of burning intensity, identified from visual
+inspection (Cain): Five samples appear substantially burned,
+one partly burned, one slightly burned, and one unburned
+(see Hanson, 2005 for pictures).
+The other archaeological samples were selected from the
+Cave of Hearths assemblage in Limpopo province, South
+Africa (Mason, 1988). The Early Stone Age assemblage
+from which the bones were selected is estimated conservatively
+by faunal and artefact correlations to be between 150,000 and
+200,000 ya (Partridge, 2000), although recent electron spin
+resonance work by Grun (2003) suggests the youngest bed
+may be in excess of 400,000 ya. Evidence for use of controlled
+fire at Cave of Hearths has been somewhat disputed, with some
+researchers identifying hearths and layers of ash in the three
+ESA beds (Mason, 1988), and others finding a lack of organic
+carbon in the reported ‘‘ash’’ and a lack of magnetic evidence
+for sediment burning (Oakley, 1954; Herries, pers. commun.).
+Ogola (2003) reported that about 14% of the assemblage may
+be burned based on macroscopic visual assessment. The sample selected included eight bone fragments, four burned and
+four unburned, as identified by Ogola (2003). The samples
+are all femora and humeri from bovids in size class II. The
+colour and texture of the bones identified as burned varies
+greatly among samples (see Hanson, 2005 for pictures).
+2.3. Thin section preparation
+Transverse sections were cut using a diamond-tipped saw,
+then ground by hand to a thickness of approximately 50 mm
+
+Time added to fire
+(minutes after fire
+was set)
+
+Total time
+on fire (min)
+
+35:00
+35:00
+10:00
+10:00
+10:00
+10:00
+10:00
+10:00
+30:00
+30:00
+
+23
+29
+63
+11
+13
+63
+12
+63
+5
+8
+
+and polished. All thin sections were examined using transmitted
+light microscopy. Each section was viewed at several magnifications (40, 100 and 200) and digitally photographed
+(Hanson, 2005). The experimental sections were assessed for
+evidence of burning and all archaeological sections were
+assessed for both diagenetic change and evidence of burning.
+Assessment methods are largely based on the work of Brain
+(1993) and Hedges et al. (1995), and are explained in detail
+in Hanson (2005). The diagensis index formulated by Hedges
+et al. (1995), assigns a number to the preservation of microstructure in a bone, ranging from 0 (completely obscured) to
+5 (perfectly clear).
+3. Results
+3.1. Description of experimental material
+Based on our observations, a consistent pattern of histological changes in relation to heating history appeared. The samples have been grouped accordingly into five levels of heating
+(Table 3). This method was preferred over assigning specific
+temperature ranges to samples because intensity is a factor
+of both temperature and duration, and bones with distinct heating histories sometimes had similar appearances. The aim of
+this study was to document changes and variations to bones
+heated in campfires rather than under controlled conditions.
+Our results can be compared with Brain’s (1993) controlled
+temperature, closed oven experiments. See Table 2 for the
+heating history of each specimen.
+The bones in the none/low intensity level all exhibited
+a white to light tan colour, clearly visible histological features,
+no accumulations of carbon, and no cracks in the matrix
+(Fig. 1A). Significantly, there are no apparent differences
+between the unheated samples and M1, the first fleshed sample. However, both the fleshed sample that cooked for a longer
+time and the sample that was roasted in the coals had slightly
+darker tan colouration than the others in this category, though
+they remain alike in other characteristics. This suggests that
+bones, fleshed or otherwise, under low intensity heat may
+
+M. Hanson, C.R. Cain / Journal of Archaeological Science 34 (2007) 1902e1913
+
+1906
+Table 3
+Descriptions of heating levels
+Heating level
+
+Experimental
+samples assigned
+to level
+
+Main histological characteristics
+
+None/Low
+
+M11
+M12
+M1
+M2
+M9
+M7
+
+Matrix is a light tan or white colour.
+All histological characteristics are
+visible, no deposition of carbon in
+the spaces, no cracking
+
+LoweMedium
+
+Medium
+
+M5
+M10
+
+MediumeHigh
+
+M4
+M6
+
+High
+
+M3
+M8
+
+Extremely High
+
+None
+
+Matrix can be deep tan, yellow, or
+pale oranges and reds.
+Accumulations of carbon are
+minimal, usually along the edges; no
+cracking is visible
+Matrix is a deep red or reddish brown
+and edges are usually a much darker
+brown or black. Carbon
+accumulations is visible in spaces
+throughout the sample, and cracks
+are appearing, emanating from the
+haversian canals
+The matrix is entirely black or
+brown. Edges of the sample can be
+black or white; if white, histological
+structure has disappeared. Carbon
+deposition is extensive and cracks
+spread outwards from the haversian
+canals
+Centre of sample can be black or
+white. Edges are white and have lost
+histological structure. Cracks are
+prevalent and wide in white areas,
+carbon deposition still occurs in
+some areas of the bone
+Entirely calcined. White colour and
+loss of structure throughout
+
+undergo a slight colour change before any other histological
+indicators of burning appear.
+The sample in the lowemedium intensity level was a dark
+tan throughout the centre of the cross section and reddishbrown and black at the edges (Fig. 1B). There were deposits
+of carbon around the edges of the sample, but no visible cracking coming from the haversian canals.
+The characteristics of samples in the medium intensity
+include carbon deposition at the edges of the sample and clustered around the spaces in the matrixdthe lacunae and the
+haversian canals. Samples displayed a variety of colours,
+from dark tan and yellow intensifying to reddish-brown,
+dark brown and blackdacross the same thin section
+(Fig. 1C). A few cracks spread outward from the haversian
+canals.
+The samples in the mediumehigh intensity category were
+characterised by almost completely opaque, blackened centres
+due to extensive carbon deposition. The extreme edges of the
+samples were white and lack histological structure (Fig. 1D).
+Some cracks spread through the bone.
+The high intensity level includes specimens with black,
+opaque colouration in the centre due to extensive carbon deposition. The samples fade to white at the edges which have lost
+
+the carbon accumulations and histological structure (Fig. 1E).
+The white extends much farther into the centre than in the
+medium-high category sections. Cracking was visible in
+some areas. In addition to cracks spreading from the haversian
+canals in Sample M8, fine criss-crossed cracks were visible at
+many edges (Fig. 2).
+The changes observed in the experimentally-burned material were consistent with previous findings (Brain, 1993; Herrmann, 1977; Shipman et al., 1984), although the use of an
+open campfire produced specimens that expressed more variation across the thin section.
+
+3.2. Description of Sibudu material
+The Sibudu Cave samples are generally well preserved
+histologically (the material does not appear to be fossilised
+but we assume that some chemical change is likely to have
+occurred to the material during the last 50,000 years based
+on chemical descriptions of the soil matrix). While some areas
+were occasionally obscured by histological destructions unrelated to burning, enough matrix was visible to assess the level
+of burning. The histological condition of each sample is shown
+in Table 4.
+Four of the Sibudu samples were consistent with the none/
+low intensity experimental material. Colours in the samples
+were uniform and ranged from tan and light orange to light
+brown and were generally pale (Fig. 1F). There were no accumulations of carbon in the spaces in the matrix and no cracks
+coming from the haversian canals. One edge of Sample S3 had
+possible indications of burning at a high intensity (crisscrossed cracks and a small very light area where the structure
+has disappeared, much like that of sample M8), but the area is
+very small and localised. Sample S2, while mostly free of any
+diagenetic obstruction, did have an opaque stain extending in
+from one edge and appearing superimposed on the surrounding matrix (Fig. 3). This characteristic closely resembles
+Garland’s (1987) description of infiltrations, or in terra staining. It was not confused with carbon deposits because it was
+well defined and localised.
+Samples S5 and S7, assigned to the low medium category,
+had a yellow or light tan colour in the centre, becoming darker
+towards the edges. Carbon deposition was visible only at the
+very edges. There were, however, a number of cracks that
+spread outwards from the haversian canals and some not associated with the canals (Fig. 1G).
+In the medium level, the colour of Sample S4 varied across
+the section, from yellow at one side to red in the middle and
+a deep reddish/black on the other edge. The accumulations
+of carbon around the haversian canals and in other spaces
+was rather extensive in the darker areas of the section
+(Fig. 1H), and cracks were visible spreading out from the
+osteons in all areas of the section.
+The centre of the Sample S6, assigned to the high level, was
+much darker than the edges, with extensive carbon deposition
+in the centre darker area. The section displayed a severe loss of
+structure and large cracks at one end, and small criss-crossed
+
+M. Hanson, C.R. Cain / Journal of Archaeological Science 34 (2007) 1902e1913
+
+1907
+
+Fig. 1. (A) Thin section of M12, unheated bone, at 100. (B) Thin section of M7 at 40, near the edge of the bone. (C) Thin section of M5 at 100, from the
+centre of the section; cracking indicated by arrows. (D) Thin section of M4 at 40. (E) Thin section of M8 at 100; wide cracks in white areas indicated by arrows.
+(F) Thin section of S8 at 100. (G) Thin section of S7 at 40. (H) Thin section S4 at 100. (I) Thin section of S6 at 40; area with fine cracks indicated by box.
+(J) Thin section of C5 at 100, from the centre of the section. (K) Thin section of C6 at 40. (L) Thin section of C2 at 100. (M) Thin section of C4 at 100.
+Scale bar in all photomicrographs is equal to 300 mm.
+
+1908
+
+M. Hanson, C.R. Cain / Journal of Archaeological Science 34 (2007) 1902e1913
+Table 4
+Descriptions of histological diagenesis in archaeological samples
+Sample Heating
+level
+
+Diagenesis
+ranking: Hedges
+et al. (1995) scale
+
+Description of any
+histological diagenesis
+
+S1
+
+None/Low
+
+4
+
+S2
+
+None/Low
+
+4
+
+S3
+
+None/Low
+
+4
+
+S8
+
+None/Low
+
+3
+
+S5
+
+LoweMedium
+
+4/5
+
+S7
+
+LoweMedium
+
+5
+
+S4
+
+Medium
+
+5
+
+S6
+
+High
+
+3/4
+
+C1
+
+Unidentifiable
+
+0
+
+C4
+
+Unidentifiable
+
+1
+
+C3
+
+None/Low
+
+4
+
+C5
+
+None/Low
+
+4
+
+C6
+
+Medium
+
+5
+
+C7
+
+Medium
+
+4
+
+C8
+
+Medium
+
+5
+
+C2
+
+MediumeHigh
+
+3
+
+Haversian canals and general
+osteon shape visible; some
+areas have a hazy, nebulous
+appearance (similar to
+Garland’s (1987) generalised
+destructions)
+Well-defined lacunae and
+canaliculi; one localised
+opaque stain extends in from
+the edge (resembles
+Garland’s (1987) description
+of infiltrations, or in terra
+staining)
+Haversian canals and general
+osteon shape visible; some
+areas have a hazy, nebulous
+appearance as S1
+Half of the section obscured
+with fuzzy, dark
+discolouration
+The lacunae and osteon
+systems visible
+All histological features
+clearly visible
+All histological features
+clearly visible
+One opaque infiltration
+extending inward from the
+edge
+Entirely obscured in thick,
+defined grey and blue-green
+foreign material, resembling
+the focal destructions
+described by Garland (1987)
+and Hackett (1981)
+Cloudy and greyish-green
+throughout; histological
+structure was visible only in
+occasional small patches;
+very similar to C1
+Well preserved, showing only
+minor areas of destruction
+Well preserved, showing only
+minor areas of destruction
+All histological features
+clearly visible
+Only minor areas of
+destruction
+All histological features
+clearly visible
+A few areas of localised
+destruction
+
+Fig. 2. Thin section of M8 at 100, with many fine criss-crossed cracks at the
+edges. Scale bar: 300 mm.
+
+cracks at the other end (Fig. 1I). This sample also displayed
+one opaque infiltration, much like sample S2.
+3.3. Description of Cave of Hearths material
+Two of the fossilised Cave of Hearths samples (C1 and C4)
+had such severe histological diagenesis that we were unable to
+make any conclusions about their burning status (Fig. 1M).
+One sample, C1, was entirely obscured in a fuzzy grey with
+blue-green areas, while the other, C4, was almost entirely
+covered with cloudy, greyish-green material. In both samples,
+areas of the destruction were less amorphous than that of the
+Sibudu samples, and the foreign material seemed thicker and
+more defined, resembling the focal destructions described by
+Garland (1987) and Hackett (1981). This observation may suggest that the greater antiquity or specific taphonomic history of
+the Cave of Hearths material resulted in greater disruption of
+histological structure; however, it is clear that most specimens
+retain sufficient structure to discuss burning history. The
+histological preservation of all Cave of Hearths samples is
+described in Table 4.
+Two samples (C3 and C5) had all the attributes of the low
+intensity experimental samples: pale matrix colours (white or
+tan with some greyish or brown clouding) and no visible accumulation of carbon (Fig. 1J). Any cracks in the matrix are
+unassociated with the haversian canals and are usually along
+osteon cement lines. Sample C5, however, had extensive,
+small, thin cracks across much of the specimen, a trait which
+has otherwise been found occurring at the edges of severely
+burned samples and associated with a loss of microstructure.
+In C5, the histological structure is still intact (Fig. 4), so these
+cracks may be from sediment pressure, diagenetic change,
+fossilisation or other undetermined factors.
+Three samples (C6, C7 and C8) had the traits of mediume
+low intensity heating, with matrices ranging from light to medium yellow-orange-brown colours with some significantly
+
+darker brown areas in C7 (Fig. 1K). All three had some carbon
+deposition in spaces throughout the matrix. Some of the cracks
+in the matrix appear to have no association with the canals,
+while other cracks stretch outwards from the canals or follow
+cement lines. In C8, there were significant numbers of small
+criss-crossed cracks along one edge of the sample. These
+cracks were associated with white colouration and loss of
+
+M. Hanson, C.R. Cain / Journal of Archaeological Science 34 (2007) 1902e1913
+
+1909
+
+4. Discussion
+
+Fig. 3. Thin section showing the edge of S2 at 40, with opaque infiltration
+from edge, indicated by arrow. Scale bar: 300 mm.
+
+structuredtraits indicative of high intensity heating. This
+cracked and structure-less area only comprises a very small
+portion of the sample, however, and could indicate localised
+heating, diagenetic changes, sediment pressure, or cracking
+during fossilisation.
+The only sample assigned to the high category, C2, did not
+closely resemble any experimental samples in this study, but
+was similar to one of Brain’s (1993: p. 232, his figure 5e)
+experimental bones heated to 500  C. The matrix was a light
+colour. Numerous cracks spread through the matrix, many
+emanating from the haversian canals (Fig. 1L) surrounded
+by brown discolouration, which sometimes extends further
+accenting the lacunae.
+
+The comparisons between the experimental and archaeological samples were, for the most part, straightforward:
+archaeological sections displayed similar characteristics to
+the experimental samples. Our assessments of the archaeological samples generally matched the previous macroscopic
+analyses of the bones, as made by one of us (C.R.C.) and
+Ogola (Table 5). Among the Sibudu samples, two of our
+assessments did not match previous classifications. While
+sample S3 was previously identified as partly burned, we
+had placed it in the low intensity category as histological analysis showed only a few signs of heating along one edge. It is
+quite possible that the bone was burned only on one side. Such
+variation was also observed across experimental specimens
+and probably relates to the variation in temperature, duration,
+and specimen completeness. Sample S8 was classified as
+extremely burned by the outside appearance (which was greyish-white in colour, with some longitudinal splitting and rough
+texture), but the histology gave no indications of changes
+caused by burning. This sample was different in macroscopic
+appearance than other burned bones from the site, and it is
+possible that the surface colour and texture are the result of
+weathering or bio-physical destruction.
+Among the Cave of Hearths samples, only C5 and C2 did
+not match the macroscopic classification. Section C5, while
+macroscopically identified as burned, has normal, unburned
+histological characteristics and a significant number of crisscrossed cracks, which are not indicative of burning in this
+case as they are not at the edges of the sample, and associated
+with a white matrix colour or a loss of histological structure.
+The surface evidence is probably indicative of another taphonomic agent, perhaps related to the extensive cracking. The
+characteristics displayed in section C2 were unlike any that
+we found in the experimentally heated or unheated samples.
+Macroscopically identified as unburned, we tentatively assigned this bone to the medium-high category, based on its
+similarity to one of Brain’s (1993) experimentally heated
+bones. Further research on physical and biological postdepositional processes may reveal a non-burning related
+taphonomic explanation for the appearance of this specimen.
+4.1. Reliability of histological characteristics
+
+Fig. 4. Section C5 at 100, showing an area of the section with extensive
+criss-crossed cracks. Scale bar: 300 mm.
+
+The deposition of carbon in the spaces throughout the
+matrix was a very good indicator of burning in both the experimental and archaeological sections. Carbon accumulations
+usually began at the edges of the samples, accentuating the
+lamellate structure, and continued inwards as burning intensity
+increased, depositing carbon throughout the entire structure
+and sometimes rendering the section opaque. Brain (1993)
+describes a reversion to pale-coloured matrix as the carbon
+oxidises at sustained temperatures above 500  C, but we
+observed this characteristic only at the edges of the most
+intensely heated experimental samples.
+Cracking is cited as a histological and macroscopic indication of burning by many researchers (Brain, 1993; Forbes,
+
+M. Hanson, C.R. Cain / Journal of Archaeological Science 34 (2007) 1902e1913
+
+1910
+
+Table 5
+Burning levels as determined by histological analysis compared with previous macroscopic analysis
+Sibudu
+
+Cave of Hearths
+
+Sample
+
+Previous analysis (Cain)
+
+Histological analysis
+
+Sample
+
+Previous analysis (Ogola)
+
+Histological analysis
+
+S1
+S2
+S3
+S4
+S5
+S6
+S7
+S8
+
+Unburned
+Slightly burned
+Partly burned
+Burned
+Burned
+Very burned
+Burned
+Very burned
+
+None/low
+None/low
+Low/Med.eLow
+Medium
+MediumeLow
+High
+MediumeLow
+None/low
+
+C1
+C2
+C3
+C4
+C5
+C6
+C7
+C8
+
+Unburned
+Unburned
+Unburned
+Unburned
+Burned
+Burned
+Burned
+Burned
+
+Unidentifiable
+MediumeHigh
+None/low
+Unidentifiable
+None/low
+MediumeLow
+MediumeLow
+MediumeLow
+
+1941; Shipman et al., 1984). Among the experimentally
+burned samples, we found a variety of cracksdfrom the
+haversian canals, along osteon cement lines, at random orientations and some fine cracks along the edges of intensely
+heated specimens. There were no cracks in the unheated
+experimental specimens. In the archaeological sections, cracks
+appeared in both the burned and unburned bones. This situation may mean that much cracking is associated with burning,
+but other post-depositional processes may also produce cracking. Some researchers describe cracks from the haversian
+canals as indicative of burning (Brain, 1993; Forbes, 1941),
+and indeed that type of crack was often associated with other
+characteristics of burning in the archaeological bones.
+However, there were also other cracks in the archaeological
+burned bone.
+Some archaeological samples (S3, S6, and C8) displayed
+the criss-crossed cracks that we noticed in a high intensity
+experimental sample (M8). When the criss-crossed cracks
+were located at the edges of the sample and were associated with structural disintegration and white matrix colour,
+they appear to indicate a very high level of localised burning.
+Absent those other traits (as in C5), however, the cracks may
+be more indicative of post-depositional processes such as
+soil compaction and pressure, physical disintegration of the
+bone, or even post-depositional burning. It is not possible
+to diagnose bones as burned on the basis of microstructural
+cracks alone.
+Research on heated bones describes fusion of mineral crystals and subsequent disappearance of histological structure at
+temperatures above about 700  C (Brain, 1993; Harsanyi,
+1993; Herrmann, 1977; Shipman et al., 1984). No experimental samples were kept at sustained temperature of above
+700  C; however, the surfaces of some intensely heated bones
+did turn white and shades of light blue. In thin section, these
+bones displayed white edges and a lack of histological structure and wide cracks at the edges. This suite of characteristics
+was seen in the archaeological specimens and thus seems to be
+a reliable indicator of very intense heating rather than specifically high temperature.
+The different matrix colours in experimentally burned samplesdfrom pale tans and shades of white in the unburned
+bones, to stages of yellows, oranges, reds, browns, blacks,
+and up to white again in the burned bonesdwere diagnostic
+of burning. These colours had been previously recorded by
+
+Shipman et al. (1984); Brain (1993) and Nicholson (1993).
+The matrix colours of the archaeological samples varied
+more than the experimental samples, but progressed through
+the same sequence. We would be careful in making direct
+correlations between modern and archaeological samples on
+the basis of colour alone because other processes may change
+the colour of an ancient bone in thin section, including contact
+with trace elements in the sediments (Oakley, 1954). Additionally, colour varies with type of microscope, light source, the
+thickness of the section, and perception of researchers.
+The real significance of these changes in histological
+appearance is that taken together they clearly differentiate
+burned from non-burned bone and differentiate stages of burning. Carbon deposits, cracks, colour changes, and loss of structure are excellent indicators of burning. Descriptions of these
+characteristics and the photomicrographs will ease further
+research and application of this technique.
+The experimental portion of this study compared fully
+fleshed to defleshed bones and greasy to non-greasy bones.
+We found that fully fleshed bones, cooked to temperatures
+that left the meat edible, show no indications of being heated.
+The insulating effect of the meat kept the temperature of the
+bone no higher than 100  C, even for long periods of time.
+There were some differences between the greasy and nongreasy bones. The greasy bones sizzled when added to the
+fire and took longer than degreased bones to darken in colour.
+The two degreased bones, M3 and M4, did reach higher heating levels histologically than the two greasy bones heated at
+similar temperatures for similar durations (M6 and M7,
+respectively). We suggest that bone condition is an important
+factor to burning in that it affects final bone condition as
+temperature and duration do.
+The experiment also showed, through comparisons to previous work, that open fires and closed ovens produce similar
+changes to bone microstructure, though fires are more variable
+and the resulting evidence of burning is less uniformly distributed across the thin section. In cases like that of samples M4
+(heated at approximately 620  C for 11 min) and M6 (heated
+at between 480  C and 195  C for 63 min) with different
+heating histories but similar appearances in thin section, it is
+obvious that intensity is a factor of both temperature and duration. Researchers must be wary when assigning burned
+bone to a temperature range without taking other considerations into account.
+
+M. Hanson, C.R. Cain / Journal of Archaeological Science 34 (2007) 1902e1913
+
+4.2. Other alterations seen in archaeological thin
+sections
+About half of all the archaeological samples had some visible non-burning diagenetic destruction. Several types were
+observed, were distinguished easily from burning damage,
+and for the most part, did not impede the recognition of
+changes caused by burning. Only when the microstructure
+was entirely obscured or destroyed did diagenetic change
+interfere. Histological analysis to identify burned bone is
+therefore applicable to most archaeological assemblages,
+including fossilised faunal assemblages with moderate to
+good bone preservation. But as a note of caution, bones may
+have to be sectioned to assess histological preservation, as
+visual assessment of the exterior of a bone might not be
+a sufficient indicator (Garland, 1987; Stout, 1978). Considering the size of most faunal assemblages, this assessment is
+minimally destructive and the same samples can be used for
+the histological study.
+Although this technique has clarity, reliability, and accuracy, it cannot verify human involvement alone. Since very
+old evidence of fire is rare and notoriously contentious, identification of an early site exhibiting controlled use of fire
+requires corroboration from several different sources. As
+a detailed and varied record of past changes, bone histology
+may be able to provide important clues into burning. In this
+study, we
+ were able to confirm the presence of burning in ancient archaeological specimens,
+ demonstrated a range of burning intensities at each site
+that could be consistent with (but not necessarily indicative of) burning of bone specimens in a human-produced
+fire,
+ identified that physical and biological post-depositional
+processes were creating modifications on some specimens
+that were confused with burning using only macroscopic
+analysis,
+ produced a catalogue of images that researchers can use to
+apply and develop this technique, and
+ showed that this technique can be applied to a range of
+sites (those with fair to good preservation).
+5. Conclusion
+Histological analysis is not commonly used by archaeologists looking at animal and human bones. This method could
+be particularly useful for more ancient assemblages where
+potentially burned bones are rare and the identification of
+burning in an early period is rather significant. At later sites,
+it is particularly suited to spot-checking macroscopic visual
+assessments in a large assemblage. At some sites, the record
+of burning and controlled use of fire may be better preserved
+in archaeological bone than it is in other organic material
+such as charcoal and ash, particularly over long periods. Direct
+evidence for hearths could potentially be detected in concentrations of bone fragments studied in thin section.
+
+1911
+
+This technique identified some characteristics that may help
+identify the pre-burning condition of bone. It confirmed the
+insulating effect of flesh in protecting fleshed parts of bones
+from significant burning damage. Also, degreased bone
+quickly becomes highly burned when exposed to heatdmuch
+more rapidly than greasy bone. Therefore, a faunal assemblage
+displaying a range of burning intensities could possibly represent an assemblage with significant numbers of greasy bones
+that were burned. Much more study is necessary to identify
+and interpret assemblages with a range of burning histories
+represented. Although difficult, this line of research is important because pre-burning condition is a part of discussion of
+human cremation, use of animal bone for fuel, and animal
+butchery and disposal. Understanding how humans and hominin ancestors used fire contributes to understanding human
+behavioural and social evolution.
+Further research is needed on this topic. A study of the microstructure of weathered or geologically compressed or stressed
+bone would help to understand the appearance of cracks in
+burned bone microstructure. A range of post-depositional
+taphonomic processes, in addition to those we are helping
+document for burning, may have distinctive histological signatures preserved in the microscopic structures of bone. Specifically, as one anonymous reviewer pointed out, freezeethaw
+effects and significant weathering should also be studied to
+identify criteria for identification and to potentially differentiate
+these criteria from those of burning, soil compaction, and other
+alterations.
+With more actualistic and archaeological analyses using
+this technique and analysis of larger samples, additional diagnostic criteria and new applications will be possible.
+
+Acknowledgements
+The South African Heritage Resource Agency gave permission to thin section the eight bones used in this study from the
+Cave of Hearths, and Dr. Mike Raath catalogued these bones
+before they were sectioned. Thanks to Dr. Lucy Allott and
+Dr. Bonny Williamson for assistance with the experimental
+fire and for instruction on using the transmitted light microscope and digital camera. We appreciate the assistance of
+Dr. Bob Brain for helpful discussions, advice on fire building
+and monitoring, the use of his thermocouple probe and digital
+thermometer, and his years of ground-breaking work on the
+taphonomy of faunal assemblages. We appreciate the assistance of Mr. Tseki, at the University of the Witwatersrand
+School of Anatomical Sciences histology laboratory, and the
+staff at the Bernard Price Institute of Palaeontology for assistance in preparing the samples. Thank you to Dr. Kathy
+Kuman at Wits for reviewing early drafts and providing
+support and encouragement. The second author (C.R.C.)
+would like to acknowledge the University of the Witwatersrand and the National Research Foundation for the financial
+support for his post-doctoral fellowship, and to thank Professor Lyn Wadley of the ACACIA programme for supporting
+his research in so many ways.
+
+1912
+
+M. Hanson, C.R. Cain / Journal of Archaeological Science 34 (2007) 1902e1913
+
+References
+Barbetti, M., 1986. Traces of fire in the archaeological record, before one
+million years ago? J. Hum. Evol. 15, 771e781.
+Bellomo, R.V., Harris, J.W.K., 1990. Preliminary report of actualistic studies
+of fire within Virunga National Park, Zaire: towards an understanding of
+archaeological occurrences. In: Boaz, N. (Ed.), Evolution of Environments
+and Hominidae in the African Western Rift Valley. Virginia Museum of
+Natural History, Martinsville, pp. 317e338.
+Bellomo, R.V., Kean, W.F., 1994. Evidence of hominid controlled fire at the
+FxJj20 site complex, Karari Ridge. In: Isaac, G.L. (Ed.), Koobi Fora
+Research Project, Vol. 5. Clarendon Press, Oxford, pp. 224e233.
+Binford, L., Stone, N.M., 1986. Zhoukoudian: A closer look. Curr. Anthropol.
+27 (5), 453e475.
+Bonucci, E., Graziani, G., 1975. Comparative thermogravimetric, X-ray diffraction and electron microscope investigations of burnt bone from recent, ancient and prehistoric age, Atti Accademia Nazionale dei
+Lincei. Classe di Scienze, Fisiche, Matematiche e Naturali Rendiconti
+LIX, 517e532.
+Bradtmiller, B., Buikstra, J.E., 1984. Effects of burning on human bone microstructure: a preliminary study. J. Forensic Sci. 29 (2), 535e540.
+Brain, C.K., 1981. The Hunters or the Hunted? An Introduction to African
+Cave Taphonomy. University of Chicago Press, Chicago.
+Brain, C.K., Sillen, A., 1988. Evidence from Swartkrans cave for the earliest
+use of fire. Nature 336, 464e466.
+Brain, C.K., 1993. The occurrence of burnt bones at Swartkrans and their
+implications for the control of fire by early hominids. In: Brain, C.K.
+(Ed.), Swartkrans: A Cave’s Chronicle of Early Man. Transvaal Museum,
+Pretoria, pp. 229e242.
+Cain, C.R., 2005. Using burned animal bone to look at Middle Stone Age
+occupation and behavior. J. Archaeol. Sci. 32, 873e884.
+Cattaneo, C., DiMartino, S., Scali, S., Craig, O.E., Grandi, M., Sokol, R.J.,
+1999. Determining the human origin of fragments of burnt bone: a comparative study of histological, immunological and DNA techniques. Forensic
+Sci. Int. 102, 181e191.
+Chinsamy, A., 1997. Assessing the biology of fossil vertebrates through bone
+histology. Palaeontol. Afr. 33, 29e35.
+Clark, J.D., Harris, J.W.K., 1985. Fire and its roles in early hominid lifeways.
+Afr. Archaeol. Rev. 3, 3e27.
+Correia, P.M., 1997. Fire modification of bone: a review of the literature. In:
+Haglund, W.D., Sorg, M.H. (Eds.), Forensic Taphonomy. CRC Press,
+New York, pp. 275e293.
+Dart, R.A., 1948. The Makapansgat proto-human Australopithecus Prometheus. Am. J. Phys. Anthropol. 6, 259e284.
+David, B., 1990. How was this bone burnt? In: Davidson, I., Watson, D. (Eds.),
+Problem Solving in Taphonomy: Archaeological and Paleontological
+Studies from Europe, Africa and Oceania. Tempus Anthropology Museum,
+St. Lucia, Queensland, pp. 65e79.
+Drew, I.M., Perkins Jr., D., Daly, P., 1971. Prehistoric domestication of
+animals: Effects on bone structure. Science 171, 280e282.
+Forbes, G., 1941. The effects of heat on the histological structure of bone.
+Police J 14, 50e60.
+Garland, A.N., 1987. A histological study of archaeological bone decomposition. In: Grupe, G., Garland, A.N. (Eds.), Histology of Ancient Human
+Bone: Methods and Diagnosis. Springer, Berlin, pp. 109e126.
+Gilbert, A.S., 1989. Microscopic bone structure in wild and domestic animals:
+a reappraisal. In: Crabtree, P.J., Campana, D., Ryan, K. (Eds.), Early
+Animal Domestication and its Cultural Context. University of Pennsylvania,
+Philadelphia, pp. 47e86.
+Goldberg, P., Weiner, S., Bar-Yosef, O., Xu, Q., Liu, J., 2001. Site formation
+processes at Zhoukoudian. China, J. Hum. Evol. 41, 483e530.
+Grun, R., 2003. Direct dating of South African human fossils, Paper presented
+at the XVth Biennial Conference of the Southern African Society for Quaternary Research, University of the Witwatersrand, Johannesburg, Marche
+April 2003.
+Grupe, G., Dreses-Werringloer, U., 1993. Decomposition phenomena in thin
+sections of excavated human bones. In: Grupe, G., Garland, A.N. (Eds.),
+
+Histology of Ancient Human Bone: Methods and Diagnosis. Springer, Berlin, pp. 27e36.
+Hackett, C.J., 1981. Microscopical focal destruction (tunnels) in exhumed
+human bones. Med. Sci. Law 21 (4), 243e265.
+Hanson, M.L., 2005. The Histology of Burned Bone: Identifying Fire in the Archaeological Record, MSc Thesis, School of Geography, Archaeology and
+Environmental Sciences, University of the Witwatersrand, Johannesburg.
+Harsanyi, L., 1993. Differential diagnosis of human and animal bone. In:
+Grupe, G., Garland, A.N. (Eds.), Histology of Ancient Human Bone:
+Methods and Diagnosis. Springer, Berlin, pp. 79e94.
+Hedges, R.E.M., Millard, A., Pike, A.W.G., 1995. Measurements and relationships of diagenetic alteration of bone from three archaeological sites.
+J. Archaeol. Sci. 22, 201e209.
+Herrmann, B., 1977. On histological investigations of cremated human
+remains. J. Hum. Evol. 6, 101e103.
+Hummel, S., Schutkowski, H., 1993. Approaches to the histological age determination of cremated human remains. In: Grupe, G., Garland, A.N. (Eds.),
+Histology of Ancient Human Bone: Methods and Diagnosis. Springer,
+Berlin, pp. 112e123.
+James, S.R., 1989. Hominid use of fire in the Lower and Middle Pleistocene,
+Curr. Anthropol. 30 (1), 1e26.
+Mason, R., 1988. Cave of Hearths: Makapansgat, Transvaal, University of
+Witwatersrand Press Occ. Paper 21, Johannesburg.
+Nelson, R., 1992. A microscopic comparison of fresh and burned bone.
+J. Forensic Sci. 37 (4), 1055e1060.
+Nicholson, R.A., 1993. A morphological investigation of burnt animal bone and
+an evaluation of its utility in archaeology. J. Archaeol. Sci. 20, 411e428.
+Oakley, K., 1954. Evidence of fire in South African cave deposits. Nature 174,
+261.
+Oakley, K., 1961. On man’s use of fire with comments on tool-making and
+hunting. In: Washburn, S.L. (Ed.), Social Life of Early Man. Aldine,
+Chicago, pp. 176e193.
+Ogola, C.A., 2003. Taphonomy of the Cave of Hearths Acheulean bone assemblage. MSc Thesis, School of Geography, Archaeology and Environmental
+Sciences, University of the Witwatersrand, Johannesburg.
+Partridge, T.C., 2000. Hominid-bearing cave and tufa deposits. In:
+Partridge, T.C., Maud, R.R. (Eds.), The Cenozoic of Southern Africa.
+Oxford University Press, New York, pp. 100e125.
+Romer, A.S., Parsons, T.S., 1986. The Vertebrate Body. Harcourt Brace Jovanovich College Publishers, Fort Worth.
+Schiegl, S., Goldberg, P., Bar-Yosef, O., Weiner, S., 1996. Ash deposits in
+Hayonim and Kebara Caves, Israel. J. Archaeol. Sci. 23, 763e781.
+Schiegl, S., Goldberg, P., Pfretzschner, H., Conard, N., 2003. Paleolithic burnt
+bone horizons from the Swabian Jura: Distinguishing between in situ fireplaces and dumping areas. Geoarchaeology 18 (5), 541e565.
+Schultz, M., 1997. Microscopic investigation of excavated skeletal remains: A
+contribution to paleopathology and forensic medicine. In: Haglund, W.D.,
+Sorg, M.H. (Eds.), Forensic Taphonomy. CRC Press, New York, pp.
+201e222.
+Shahack-Gross, R., Bar-Yosef, O., Weiner, S., 1997. Black-coloured bones in
+Hayonim Cave, Israel: Differentiating between burning and oxide staining.
+J. Archaeol. Sci. 24, 439e446.
+Shipman, P., Foster, G., Schoeninger, M., 1984. Burnt bones and teeth: an
+experimental study of color, morphology, crystal structure and shrinkage.
+J. Archaeol. Sci. 11, 307e325.
+Sillen, A., Hoering, T., 1993. Chemical characterization of burnt bones from
+Swartkrans. In: Brain, C.K. (Ed.), Swartkrans: A Cave’s Chronicle of Early
+Man. Transvaal Museum, Pretoria, pp. 243e249.
+Stiner, M.C., Kuhn, S.L., Weiner, S., Bar-Yosef, O., 1995. Differential burning,
+recrystallization, and fragmentation of archaeological bone. J. Archaeol.
+Sci. 22, 223e237.
+Stout, S.D., 1978. Histological structure and its preservation in ancient bone.
+Curr. Anthropol. 19 (3), 601e604.
+Taylor, R.E., Hare, P.E., White, T.D., 1995. Geochemical criteria for thermal
+alteration of bone. J. Archaeol. Sci. 22, 115e119.
+Wadley, L., 2001. Preliminary report on excavations at Sibudu Cave, KwaZulu-Natal. S. Afr. Humanities 13, 1e17.
+
+M. Hanson, C.R. Cain / Journal of Archaeological Science 34 (2007) 1902e1913
+Wadley, L., Jacobs, Z., 2004. Sibudu Cave, KwaZulu-Natal: Background to the
+excavations of Middle Stone Age and Iron Age occupations, S. Afr. J. Sci.
+100, 145e151.
+Wadley, L., Jacobs, Z., 2006. Sibudu Cave, Background to the excavations,
+stratigraphy and dating. S. Afr. Humanities 18, 1e26.
+Weiner, S., Xu, Q., Goldberg, P., Liu, J., Bar-Yosef, O., 1998. Evidence for the
+use of fire at Zhoukoudian, China. Science 281, 251e253.
+White, T.D., 1992. Prehistoric Cannibalism at MANCOS 5MTUMR-2346.
+Princeton University Press, Princeton.
+
+1913
+
+Wright, G.A., Miller, S.J., 1976. Prehistoric hunting of New World wild sheep:
+Implications for the study of sheep domestication. In: Cleland, C.E. (Ed.),
+Cultural Change and Continuity. Academic Press, New York, pp. 293e312.
+Yu-Zhu, Y., 1986. Comment on L. Binford and N. Stone, Zhoukoudian: A
+closer look. Curr. Anthropol. 27, 453e475.
+Zeder, M.A., 1978. Differentiation between the bones of caprines from different
+ecosystems in Iran by analysis of osteological microstructure and chemical
+composition. In: Meadow, R.H., Zeder, M.A. (Eds.), Approaches to Faunal
+Analysis in the Middle East. Harvard University, Cambridge, pp. 69e87.
+
+

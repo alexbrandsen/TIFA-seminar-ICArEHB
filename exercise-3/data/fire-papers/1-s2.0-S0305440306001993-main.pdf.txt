@@ -1,0 +1,3404 @@
+Journal of Archaeological Science 34 (2007) 1064e1077
+http://www.elsevier.com/locate/jas
+
+Hayonim Cave: a TL-based chronology for
+this Levantine Mousterian sequence
+N. Mercier a,*, H. Valladas a, L. Froget a, J.-L. Joron b, J.-L. Reyss a, S. Weiner c, P. Goldberg d,
+L. Meignen e, O. Bar-Yosef f, A. Belfer-Cohen g, M. Chech h, S.L. Kuhn i, M.C. Stiner i,
+A.-M. Tillier j, B. Arensburg k, B. Vandermeersch j
+a
+
+Laboratoire des Sciences du Climat et de l’Environnement-IPSL, UMR CEA-CNRS-UVSQ,
+Domaine du CNRS, avenue de la Terrasse, 91198 Gif-sur-Yvette, France
+b
+Laboratoire Pierre Süe, Groupe des Sciences de la Terre, CEN Saclay, 91191 Gif-sur-Yvette, France
+c
+Weizmann Institute of Science, Structural Biology Department, 76100 Rehovot, Israel
+d
+Boston University, Department of Archaeology, 675 Commonwealth Avenue, Boston, MA 02215, USA
+e
+Centre d’Etudes, Préhistoire, Antiquité, Moyen Age, UMR 6031 du CNRS, 250 rue Albert Einstein, 06560 Valbonne, France
+f
+Harvard University, Peabody Museum, 11 Divinity Avenue, Cambridge, MA 02138, USA
+g
+Institute of Archaeology, The Hebrew University, Mount Scopus, Jerusalem, Israel
+h
+MNHN, Laboratoire d’Anthropologie, Musée de l’Homme, 17 place du Trocadéro, 75116 Paris, France
+i
+University of Arizona, Department of Anthropology, Building 30, Tucson, AZ 85721-0030, USA
+j
+Laboratoire d’Anthropologie des Populations du Passé, UMR5199-PACEA, Université Bordeaux 1, avenue des Facultés, 33405 Talence, France
+k
+Department of Anatomy and Anthropology, Sackler School of Medicine, Tel Aviv University, Ramat Aviv 61108, Israel
+Received 1 April 2005; received in revised form 12 December 2005; accepted 27 September 2006
+
+Abstract
+The thermoluminescence dating method was applied to 77 heated flints from the Mousterian layers of Hayonim Cave in order to provide
+a precise TL-based chronology for this important Levantine sequence. A detailed dosimetric study was performed by using 76 dosimeter capsules and revealed strong spatial dose-rate variations. In parallel, Fourier transform infrared spectrometry enabled the identification of various
+mineral assemblages in the sediments of the cave and to localize the boundaries of these assemblages. By comparing these two data sets, it is
+shown that low dose-rate values (w500 mGy/a) are systematically recorded in areas where the calcite-dahllite (CD) assemblage is preserved,
+whereas higher values (up to 1300 mGy/a) are associated with the leucophosphite, montgomeryite, variscite and siliceous aggregates (LMVS)
+assemblage. The dosimetric and mineralogical information was combined in order to assess, where possible, the dose-rate experienced by
+each flint during its burial. Some of the flint samples analyzed were too close to mineral assemblage boundaries and were therefore discarded.
+This rigorous selection led to TL ages ranging from 230 to 140 ka for the lower part of the Mousterian sequence (layers F and Lower E), which
+contains lithic industries characterized by blade production using the laminar method.
+Ó 2006 Elsevier Ltd. All rights reserved.
+Keywords: Thermoluminescence dating; Mousterian; Chronology; Near-East; Hayonim Cave
+
+1. Introduction
+Hayonim Cave is located in the western Galilee, Israel, on
+the right bank of Nahal Meged (Fig. 1). The cave was formed
+* Corresponding author.
+E-mail address: Norbert.Mercier@lsce.cnrs-gif.fr (N. Mercier).
+0305-4403/$ - see front matter Ó 2006 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2006.09.021
+
+by karstic activities in an Upper Cretaceous limestone reef and
+is characterized by a huge arch providing access to several
+chambers, one of which is open to the outside by means of
+a 25-m-high chimney. The sedimentary infilling is at least
+6 m thick and is mainly of anthropic origin (Goldberg and
+Bar-Yosef, 1998); the sediments contain remains of combustion products (charcoal, ash remnants and phytoliths .), lithic
+
+N. Mercier et al. / Journal of Archaeological Science 34 (2007) 1064e1077
+
+Fig. 1. Location of some Near-Eastern Middle Palaeolithic sites, including
+Hayonim Cave.
+
+materials and bone residues from both large (gazelles, fallow
+deer, aurochs) and small (tortoises, lizards and rabbits) animals
+(Stiner, 2006; Stiner et al., 2000). The sequence is divided
+into several layers, from G (bottom) to A (top), containing
+a succession of occupations representing Middle Palaeolithic,
+Upper Palaeolithic and Natufian periods (Bar-Yosef, 1991;
+Bar-Yosef et al., 2006).
+The excavations carried out between 1992 and 1999 were
+confined to two distinct locations within the site, the Central
+Area and the Deep Sounding, and mainly focused on the Mousterian sequence. During these excavations, the otherwise homogeneous Mousterian deposits of Layer E could be subdivided on
+the basis of lithic densities in order to evaluate chronological
+changes in the history of human occupation of the cave.
+In Layer F and in the lower part of Layer E (units 6e4), the
+association of Levallois debitage with true blade technology
+(Laminar debitage) provides a specific aspect to this industry
+(Meignen, 1998, 2000). Characterized by the presence of elongated products (blades and points, often retouched) together
+with short often triangular Levallois blanks, the lithic assemblages closely resemble the material found in Abou Sif
+(Neuville, 1951). Generally speaking, they show global affinities in their core reduction strategies with the assemblages
+classically labelled as ‘‘Tabun D type’’ or Early Levantine
+Mousterian found in several sites throughout the Near East,
+even if the tool-kits show some variations. In contrast, in the
+Upper E assemblages (units 1e3), Levallois technology is
+clearly oriented towards the production of short and thin flakes
+(Meignen, 1998). Core management is evidenced by the
+
+1065
+
+presence of centripetal and unidirectionnal removals resulting
+in oval, quadrangular and subtriangular blanks. Retouched
+tools include mainly side-scrapers on large Levallois blanks.
+By all these criteria, the Upper E assemblages (especially units
+1 and 2, with centripetal core preparation) show some affinities
+with the so-called ‘‘Tabun C type’’ industries found, for example, in Tabun unit I (Jelinek, 1981), in most layers from Qafzeh
+(Hovers, 1997) and Ksar Akil XXVI (Marks and Volkman,
+1986). In fact, the preliminary technological study of these
+Upper E assemblages once more illustrates the variability
+and flexibility of the Levallois technology, resulting in an array
+of products of controlled morphology (Meignen, 1998).
+Zooarchaeological analyses of the ungulate remains in
+Mousterian Layer E indicate that large animals were obtained
+by hunting, and prey biomass comparisons demonstrate that
+large game were the principal sources of meat, supplemented
+by modest quantities of tortoises and other slow-moving small
+animals (Stiner, 2006). The results also indicate significant
+expansion in human dietary breadth immediately following
+the Mousterian, and predator pressure on tortoise populations
+implies subtle increases in human population densities around
+the time of the Middle to Upper Paleolithic transition (Stiner
+et al., 2000). Human populations of the early Middle Paleolithic
+appear to have been small and widely dispersed, accounting for
+the relatively ephemeral nature of the Mousterian occupations at
+Hayonim Cave in contrast to those documented for the late Middle Paleolithic at Kebara Cave (Bar-Yosef, 1998; Stiner, 2006).
+The few Middle Paleolithic hominid remains recovered at
+Hayonim Cave were concentrated in the central area of the
+cave (except for one specimen discovered in the entrance
+area) and the majority of them originated from upper stratigraphic units of layer E. To date, the fossil hominid record
+from other Mediterranean Levantine sites (i.e. Amud, Geula,
+Kebara, Qafzeh, Skhul, and Tabun) provides evidence that
+Mousterian assemblages can be associated with distinct human
+groups. In the past decade, there have been contradictory opinions expressed on the interpretation of anatomical differences
+between these fossil hominids and especially on the taxonomic
+designation of the Amud, Kebara and Tabun individuals (e.g.
+Arensburg, 2002; Arensburg and Belfer-Cohen, 1998; Hovers
+et al., 1995; Mann, 1995; Rak, 1998; Tillier, 1998; Tillier
+et al., 2003; Trinkaus, 1995; Vandermeersch, 1995). A major
+difference between the fossil record from the above-mentioned
+sites and that from Hayonim site lies in the fact that the latter
+has a low density of hominid remains and is dominated by isolated specimens (fragmentary skull remains, isolated teeth, cervical vertebra, hand and foot bones, parts of long bones) that
+are not suitable for precise taxonomic assignment (Arensburg
+et al., 1980; Arensburg et al., 1990). Moreover, in contrast
+with other Levantine sites, Hayonim Cave provides no evidence for mortuary practices within the Mousterian sequence.
+2. Chronometric dating at Hayonim Cave
+The chronology of the Hayonim Mousterian sequence
+has attracted much attention during the last two decades.
+Comparisons of micro-faunal remains with other Levantine
+
+N. Mercier et al. / Journal of Archaeological Science 34 (2007) 1064e1077
+
+archaeological sequences (Tchernov, 1988; Tchernov, 1998)
+indicated that the faunal assemblages from Upper E in Hayonim Cave predated those discovered in Qafzeh Cave. Absolute dating methods have also been applied extensively: the
+U-series method was applied to a speleothem unearthed
+from the Mousterian deposits and provided the first reliable
+date (Schwarcz et al., 1980). Optical dating of sediments
+was attempted (Godfrey-Smith, personal communication)
+and preliminary results were obtained from the Thermoluminescence (TL) study of burnt lithics (Valladas et al., 1988).
+In parallel, the Electron Spin Resonance (ESR) dating
+method was applied to tooth enamel (Schwarcz and Rink,
+1998). More recently, combined ESR/U-series analyses
+yielded detailed radiometric information indicating that the
+age of the Upper E Mousterian layer is around 180 ka, and
+not younger than 155 ka (Rink et al., 2004).
+In this paper, we report the results of a study initiated
+10 years ago whose aim was to provide a TL-based chronology
+for the Hayonim Mousterian sequence. A total of 77 age estimates obtained on heated flints is presented with associated
+radiometric information. Particular attention is given to environmental dose-rate variations through space and time, and to
+their possible correlations with the distribution of authigenic
+minerals formed as a result of diagenetic processes (Weiner
+et al., 2002). It is shown how these data can be combined in
+order to discard some TL results and to increase the reliability
+of the remaining TL ages.
+3. Samples and methods
+During the last 30 years, the TL method has been extensively
+used for the dating of burned flints discovered in archaeological
+sites, in particular those sites beyond the range of radiocarbon
+(Huxtable and Aitken, 1988; Mercier et al., 1991, 1995a,b,c,
+2000; Valladas et al., 1986, 1987, 1988, 1998). The utility of
+the method is based on the fact that flints behave as excellent
+natural dosimeters which record doses delivered by the different types of radiation coming from the decay of radioisotopes,
+such as the U- and Th-series and potassium. The TL method is
+HAY 7
+
+25000
+20000
+
+TL(a.u.)
+
+3.1. Burnt flint specimens and dosimetric measurements
+More than 100 flint artefacts showing signs of heating were
+selected during the excavation campaigns at Hayonim Cave.
+The sample preparation followed the protocol defined by
+Valladas (1992). After the outermost 2 mm of each flint
+were removed, the remaining core was crushed and subjected
+to chemical treatment and its TL emission was analyzed. Only
+77 flints had been heated at temperatures sufficient to ensure
+a complete resetting of the TL signal, and only these were selected for further analyses. Fig. 2 shows the TL emissions of
+sample (HAY 7) as well as the equivalent dose (ED). The natural and regenerated growth curves are typical of the sublinear behavior observed for most of the Hayonim samples.
+These samples come from the Deep Sounding (squares D-EF-28-27-26), and from the southern (squares I-J-K-24-23-22)
+and northern parts (squares G-H-I-J-20-19-18) of the Central
+Area of the excavations (Fig. 3).
+As the excavations covered a relatively large area
+(w23 m2), great effort was made to obtain detailed information
+on spatial variations in environmental dosimetry. A total of 76
+calcium sulfate dosimeters were placed in different sections of
+the cave and remained in place for approximately 1 year. Most
+of them were inserted horizontally in the newly exposed profiles close to squares containing numerous burnt flints: G18,
+H19 and I20 e North section; K23-24 and I24 e South section
+and, in the Deep Sounding: squares D-E-F27 and F28. A few
+dosimeters were also inserted vertically at the end of the field
+season in squares where excavation was scheduled in subsequent
+years (see Fig. 3). Additional dosimetric countings were carried
+out on-site using a portable g-detector inserted in natural holes
+300000
+
+300
+
+(a)
+
+(b)
+
+250
+
+250000
+
+200
+
+200000
+
+150
+15000
+100
+
+ED (Gy)
+
+30000
+
+based on dosimetric measurements of these ionizing radiations.
+Short-ranged a and b particles (w20 mm and w2 mm, respectively) emitted from radioisotopes within the flint itself, provide
+an ‘‘internal dose’’. An ‘‘external dose’’ from long range
+(w40 cm max.) g-rays (as well as from cosmic radiations)
+necessitate consideration of the immediate environment of the
+flints.
+
+TL(a.u.)
+
+1066
+
+150000
+100000
+
+10000
+
+50
+
+5000
+
+0
+
+0
+
+-50
+180
+
+240
+
+300
+
+360
+
+Temperature (°C)
+
+420
+
+1st growth curve
+2nd growth curve
+
+50000
+0
+
+0
+
+500
+
+1000
+
+1500
+
+Dose (Gy)
+
+Fig. 2. (a) TL emission of sample HAY 7 for doses: 0, 281, 562, 843 Gy. The equivalent dose (ED) calculated as a function of temperature (‘‘plateau test’’) is
+indicated. (b) Growth curves for sample HAY 7 (natural þ given doses (1) and regenerated (2)) are typical of the sub-linear behavior observed for most of the
+Hayonim samples.
+
+N. Mercier et al. / Journal of Archaeological Science 34 (2007) 1064e1077
+
+1067
+
+Fig. 3. Schematic map of Hayonim Cave showing boundaries of excavations, the Deep Sounding and the Central Area. The location of the dosimeters and flints are
+indicated with crosses and circles, respectively.
+
+(burrows) present in some profiles, a few other measurements
+were made in the laboratory with a high purity germanium
+detector. In this case, about 100 g of sediment were analyzed
+by g-spectrometry for obtaining information on possible disequilibria in the radioactive decay chains and investigating the
+repartition of the g dose-rate between the U- and Th-series
+and potassium.
+3.2. Fourier Transform Infrared analyses of sediments
+Mineralogical analyses were carried out on-site during the
+excavation of Hayonim Cave using Fourier transform infrared (FTIR) spectroscopy in order to better understand
+the archaeology via sediment diagenesis and site formation
+processes (Weiner et al., 2002). This method is capable of
+identifying mineral assemblages using only a few tens of micrograms of sample (Weiner et al., 1993). More than 2100
+samples were analyzed. It was shown that three major mineral assemblages are present in the archaeological assemblages at Hayonim: the first, termed CD (Weiner et al.,
+2002), is composed mainly of calcite and secondarily of
+dahllite. Calcite is the main residue of the fresh ash which
+originally made up the bulk of the sediments (Schiegl
+et al., 1994). Dahllite (also known as carbonated hydroxyapatite) results from interaction of calcite with phosphate-rich
+solutions. The second assemblage, termed LMVS, represents
+sediments that are more diagenetically altered. In the course
+of the diagenetic process, the dahllite dissolves and is replaced by other more stable phosphate minerals such as
+leucophosphite, montgomeryite and variscite. Due to the
+dissolution and transport of other minerals, the relative proportions of so-called siliceous aggregates and phytoliths, minor components in the original ash, increase with ongoing
+
+diagenesis. Note that the siliceous aggregates themselves,
+as well as one of the common authigenic phosphate minerals
+(leucophosphite) contain potassium (Schiegl et al., 1996). As
+noted above, the formation of the LMVS assemblage also results in the dissolution of bones which are composed of dahllite, a relatively unstable mineral with respect to the LMVS
+group. The third identified mineral assemblage consists of
+the most highly altered sediments, in which clays have broken down and silica has been released.
+The extensive study of sediment mineralogy in the field
+also provided a detailed map of the spatial distribution of
+the three mineral assemblages. This map showed sharp variation in sediment mineralogy over distances as short as a few
+centimeters (Weiner et al., 2002; see their Figs. 10 and 11,
+for instance).
+At this stage, it is interesting to notice that the local differences in sediment chemistry and rates of diagenetic activity,
+based on a combination of taphonomic methods and Fourier
+transform infrared (FTIR) spectroscopic analyses of sediment
+and bones (Stiner et al., 2001; Weiner et al., 2002), correlate
+closely with the distribution of bones in the sediments at Hayonim Cave. The quality of bone preservation follows an ‘‘allor-nothing’’ pattern in the central area, with relatively abrupt
+changes in bone abundance rather than gradual transitions between good to poor preservation. The areas of good bone
+preservation are extensive and associate consistently with
+CD mineral assemblages dominated by calcite, dahllite or
+both. Bone preservation in Layer E was best within 2e3 m
+of the cave walls in the central area, especially between
+420 and 500 cm below datum. Very few bones were preserved
+anywhere in Layer F, where secondary mineral assemblages
+(LMVS and altered clays) predominate in the sediments
+(Weiner et al., 2002).
+
+N. Mercier et al. / Journal of Archaeological Science 34 (2007) 1064e1077
+
+1068
+
+External dose-rate ( Gy/a)
+0
+
+200
+
+400
+
+600
+
+800
+
+External dose-rate ( Gy/a)
+
+1000 1200 1400
+
+250
+
+0
+
+Z (cm)
+
+600
+
+800
+
+1000 1200 1400
+
+400
+
+600
+
+800
+
+1000 1200 1400
+
+400
+
+600
+
+800
+
+1000 1200 1400
+
+(b)
+
+300
+
+300
+
+350
+
+350
+
+400
+
+400
+
+450
+
+450
+
+500
+
+500
+
+550
+
+550
+0
+
+200
+
+400
+
+600
+
+800
+
+1000 1200 1400
+
+0
+
+200
+
+250
+
+250
+
+(d)
+
+(c)
+
+Z (cm)
+
+400
+
+250
+
+(a)
+
+300
+
+300
+
+350
+
+350
+
+400
+
+400
+
+450
+
+450
+
+500
+
+500
+0
+
+200
+
+400
+
+600
+
+800
+
+1000 1200 1400
+
+500
+
+0
+
+200
+
+450
+
+(f)
+
+(e)
+
+Z (cm)
+
+200
+
+550
+
+500
+
+600
+
+550
+
+650
+
+600
+
+700
+
+650
+
+750
+
+700
+
+Fig. 4. Environmental dose-rates (mGy/a) measured with calcium sulfate dosimeters as a function of depth Z, for squares: (a) H19-G18; (b) L22-23-24; (c) I25-H2324; (d) K-J25; (e) F27-28-29-E28-29 and (f) E26-D26-27-28. Note that for (a) and (b), the values are high (w1100 mGy/a) and low (w500 mGy/a), respectively, but
+do not vary significantly with depth. In contrast, for (c) and (d), the recorded dose-rates vary significantly, even on a relatively small scale (10e20 cm). In the Deep
+Sounding the values are around 1000e1200 mGy/a (e) or range from 500 to 800 mGy/a (f), but some are higher by w30%.
+
+4. Dosimetry results
+4.1. Present-day environmental dose-rates
+In Fig. 4 the environmental dose-rates recorded by the dosimeters are plotted as a function of depth. For simplification,
+they were grouped into nearby squares (a, H19-G18; b, L2223-24; c, I25-H23-24; d, K25-J25 for the Central Area; e,
+F27-28-29-E28-29; and f, E26-D26-27-28 for the Deep
+Sounding). In squares H19-G18, the values are homogeneous,
+ranging from 900 to 1100 mGy/a (not including one value at
+
+w1300 mGy/a) with 10% dispersion around the mean, and
+do not vary significantly with depth from Z ¼ 250 to
+Z ¼ 550 cm (Fig. 4a). The same trend with depth is observed
+for squares L22-23-24 (Fig. 4b), although the values are much
+lower (400e550 mGy/a). The range of variation in both profiles is about the same (w10%). On the other hand, the
+dose-rates can vary even over small differences of elevation
+in squares I25-H23-24 (Fig. 4c) and K25-J25 (Fig. 4d). In
+the Deep Sounding, significant variation also exist in squares
+E26-D26-27-28 (Fig. 4f) where dose-rates range from 500 to
+1000 mGy/a. One can then conclude that in certain sections
+
+N. Mercier et al. / Journal of Archaeological Science 34 (2007) 1064e1077
+
+of the cave, the environmental dose-rates do not vary significantly with depth over 1m or more, while in other parts, there
+are substantial variations at even small scales (<10 cm), horizontally and/or vertically.
+These observations have direct implications for dating when
+dosimetric methods are used. We note that the range of the
+most energetic g-rays (w40 cm) is greater than the small-scale
+heterogeneity. Moreover present-day dose-rate measurements
+are seldom recorded at the precise locations where flint samples were collected, but at distances up to 1 m or more. This
+is not a problem in a homogeneous mineralogical environment
+where the dose-rate calculated by averaging the doses recorded
+in neighboring dosimeters should be representative of the doserate received by a sample in the same environment; in a heterogeneous mineralogical environment, however, the dose-rate
+values measured at different locations may differ significantly
+from the dose experienced by the sample. This fact clearly has
+to be taken into account when determining the environmental
+dose of a given sample.
+4.2. Basis for the dosimetric heterogeneities
+In the course of the field seasons, a general overview of the
+distribution of mineral assemblages in the cave and dose-rate
+values showed a strong correlation, as did the distributions of
+mineral assemblages and bone abundance. In sections where
+calcite and dahllite were abundant (CD assemblage), dose-rates
+around 500 mGy/a were recorded, whereas in sections rich in
+leucophosphite, montgomeryite, variscite and siliceous aggregates (LMVS assemblage), the dose-rates were significantly
+higher (up to 1300 mGy/a). In order to understand the basis
+for this correlation, sediment samples (w300 mg) were taken
+from various sections, homogenized and the major minerals
+identified by FTIR. In parallel, neutron activation analysis
+(NAA) was performed on the remaining powder (w250 mg)
+and the radioisotope contents (U, Th and K) were measured
+(Mercier et al., 1995). Fig. 5 gives the g dose-rates calculated
+by assuming that the identified minerals were the only components in the environment (within a radius of at least 50 cm, i.e.,
+greater than the typical range of the g-rays). It is worth noting
+that the results basically confirm at a very small scale (the
+‘‘scale’’ of a 300 mg sample) what was observed at a large
+scale: low dose-rates are associated with the CD assemblage
+(calcite and dahllite), and high dose-rates are associated with
+the assemblage made up of siliceous aggregates with varying
+quantities of leucophosphite and montgomeryite. The on-site
+survey with a gamma spectrometer also revealed that the lowest
+dose-rates (w300 mGy/a) were measured from sediments dominated by calcite. Note too that Fig. 5 shows some exceptions,
+the most glaring being that one sample dominated by dahllite
+which has the third highest dose-rate. It should be noted that
+carbonated apatite has a tendency to readily occlude a variety
+of different ions, including apparently potassium.
+These mineralogical data can also explain the variation in
+dose-rate observed along different profiles (Fig. 4). In mineralogically homogeneous sections, dose-rate values are fairly homogeneous: either low (w500 mGy/a) as in squares L22-23-24
+
+1069
+
+or high (w1000 mGy/a) as in squares H19-G18. In areas where
+sharp mineralogical boundaries exist, the measured dose-rates
+have intermediate values depending on the relative distance
+of the dosimeters from these boundaries (see Weiner et al.
+(2002) for details on mineral assemblage distributions,
+and Aitken (1985) for dose-rate variations as a function of
+the relative distance). The implication of these observations
+to TL dating is that it is difficult, if not impossible, to reliably
+estimate a representative dose-rate for any burned flint samples
+located within 30 cm of a boundary between mineral assemblages. These samples cannot therefore be used for establishing
+a chronology.
+4.3. Dose-rate changes with time
+The NAA data can provide some insight into the basis of the
+dose-rate changes. Fig. 6a shows the distribution of the dose
+into the different components (the U- and Th-series and K40). There is no obvious correlation between major mineral
+types and the source of radiation. As the samples are listed according to increasing radiation dose, one can however notice
+that high dose-rates are correlated with samples dominated
+by siliceous aggregates, which have high potassium contents
+(Schiegl et al., 1994, 1996). This is clearly demonstrated in
+Fig. 6b, which shows that the total g dose-rate increases linearly as a function of the potassium content of the samples. Consequently, the contribution of the U- and Th-series to the annual
+dose-rate does not exceed 30e40%, except for a few samples.
+As siliceous aggregates are only a minor component of
+fresh ash, samples dominated by siliceous aggregates must
+have undergone severe diagenesis resulting in the loss of the
+other components. This raises the important question of
+when this diagenesis occurred, as the timing could clearly affect the mean dose-rates experienced by the samples and consequently, the calculated ages. If, for example, the diagenesis
+Infinite dose-rate (µGy/a)
+0
+
+500
+
+1000
+
+1500
+
+2000
+Apatite
+Apatite
+Variscite
+Apatite
+Apatite
+Clay
+Apatite
+Apatite
+Apatite
+Apatite (S.A.)
+Leucophosphite (Montg.)
+Leucophosphite (S.A.)
+Leucophosphite (S.A.)
+Leucophosphite (S.A.)
+Crandalite
+Crandalite
+Montgomeryite (S.A.)
+S.A.
+S.A. (Leucophosphite)
+S.A. (Leucophosphite)
+S.A.
+S.A. (Montgomeryite)
+S.A. (Crandalite)
+
+Fig. 5. Infinite g dose-rates (mGy/a) for the different minerals identified by
+FTIR. For comparison, each value was computed by taking into account the
+U, Th and K contents determined by NAA and assuming that the identified
+mineral was the only component in the environment. The arrow indicates
+the exception mentioned in the text. (Carbonated hydroxyapatite (or Apatite)
+is used instead of Dahllite.)
+
+N. Mercier et al. / Journal of Archaeological Science 34 (2007) 1064e1077
+
+1070
+0%
+
+(a)
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Apatite (S.A.)
+Apatite
+Variscite
+U - fraction
+Th - fraction
+K - fraction
+
+Apatite
+Clay
+Apatite
+Apatite
+Apatite
+Apatite
+Leucophosphite (Montg.)
+S.A. (Montgomeryite)
+S.A. (Leucophosphite)
+Montgomeryite (S.A.)
+
+this would not affect the TL ages as the dose-rate measurements today would be representative of the dose-rates experienced by the flints over most of the time since deposition.
+Karkanas et al. (2000) and Shahack-Gross et al. (2004)
+have presented several lines of evidence all pointing to the
+conclusion that diagenesis in prehistoric caves in the Levant
+and in Greece, took place soon after burial, possibly even
+within hundreds or tens of years. One reason is that the diagenesis is driven mainly by the breakdown of organic material
+from bat and bird guano. This produces acids that in turn cause
+the dissolution of less stable minerals and the formation of
+more stable ones. So we assumed that the diagenetic history
+of the mineralogical assemblages in Hayonim Cave is not
+a major factor which induced changes in the dose-rates with
+time and so we used the present-day dose-rates to calculate
+the TL ages.
+
+S.A.
+
+5. Thermoluminescence age estimates
+
+Leucophosphite (S.A.)
+S.A. (Leucophosphite)
+
+5.1. Sample selection and results
+
+Crandalite
+S.A.
+Leucophosphite (S.A.)
+S.A. (Crandalite)
+Apatite
+Crandalite
+Leucophosphite (S.A.)
+
+Total
+
+dose-rate (µGy/a)
+
+(b)
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+K content (%)
+Fig. 6. (a) Contribution to dose-rate of the different components (the U- and
+Th-series and K-40). Note that the samples are listed from top to bottom with
+increasing total g dose-rate. As no significant disequilibria have been detected
+in the 100 g sediment samples analyzed by g-spectrometry in the laboratory,
+the listed g dose-rates were calculated by taking into account all the g-rays of
+the U- and Th-series. The second most abundant constituents are shown in
+brackets. S.A. refers to siliceous aggregates. (b) A plot of the total g dose-rate
+as a function of the K content of the samples shows a linear correlation.
+
+was a slow steady process that took place during most of the
+period of time that elapsed after the flint was deposited in
+the sediments, then using the present-day relatively high
+dose-rate would result in TL ages that are too young. If, on
+the other hand, the diagenesis took place soon after burial,
+
+As noted previously, the primary difficulty in evaluating the
+dose-rate for a given burned flint is related to its distance from
+a boundary between two mineral assemblages. For a sample
+unearthed from one of the two distinct environments (CD
+and LMVS assemblages) at a distance greater than 30 cm
+from an identified mineralogical boundary, the dose-rate was
+calculated by averaging the individual dose-rates recorded
+by the neighboring dosimeters in the same mineralogical environment. However, every sample located at a distance less
+than 30 cm from a boundary, as defined using the FTIR
+data, was noted and is identified with an asterisk (last column
+of Table 1), since the present-day environmental dose-rate it
+received just before it was unearthed cannot be determined
+with any reliability. The marked samples were then excluded
+from the discussion on the chronostratigraphy.
+Table 1 lists 77 burnt flint samples from Hayonim Cave
+with their laboratory numbers, the layers and units in which
+they were discovered, their locations and relevant dosimetric
+data, as well as the estimated TL ages and associated errors.
+Details concerning the radiometric data and luminescence
+measurements are given in the legend of Table 1. All these
+TL ages are plotted in Fig. 7, as a function of stratigraphy.
+In general, it appears that the rejected samples (marked by
+an asterisk in Table 1 and open symbols in Fig. 7) have ages
+which are often scattered and in disagreement (older or younger) with those obtained for samples located in homogeneous
+dosimetric environments. Consequently, our methodology for
+selecting samples appears reliable and gives us confidence in
+the average ages listed below. However, this approach made
+us exclude several samples whose ages were in the same range
+as the others for the same layer.
+5.2. Average ages
+The selected samples (without an asterisk) were grouped
+into three sets depending on their location and their identified
+
+Table 1
+Analytical data and TL age estimates (all errors are given at one sigma level)
+Sample
+lab. no.
+
+Square,
+sub-square
+
+Layer/unit
+
+Location: (x,y,z)
+or depth (Z )
+
+U (ppm)
+
+Th (ppm)
+
+K (%)
+
+S-a mGy/103
+a/cm2
+
+Dose rates
+
+Equivalent dose
+
+Internal
+mGy/a
+
+External
+
+
+mGy/a
+
+Total
+
+
+mGy/a
+
+
+
+Age estimates
+
+Gy
+
+
+
+ka
+
+
+
+Northern part of Central Area
+2
+(56,74,360)
+2
+(64,27,386)
+2
+(55,66,386)
+2
+(70,87,394)
+2
+(89,36,396)
+2
+(89,74,396)
+2
+(70,72,400)
+2
+(77,43,409)
+2
+(95,75,409)
+2
+(84,36,411)
+2
+(60,72,418)
+
+0.48
+0.53
+0.92
+0.36
+0.70
+0.71
+0.43
+0.57
+0.51
+2.01
+0.38
+
+0.07
+0.15
+0.14
+0.14
+0.14
+0.20
+0.21
+0.14
+0.14
+0.14
+0.14
+
+0.07
+0.22
+0.10
+0.14
+0.08
+0.13
+0.11
+0.04
+0.07
+0.13
+0.08
+
+15.2
+22.1
+12.4
+22.9
+11.6
+19.4
+18.5
+19.1
+15.1
+20.9
+22.7
+
+263
+477
+424
+326
+316
+467
+314
+317
+279
+1144
+287
+
+19
+28
+26
+20
+19
+30
+21
+23
+17
+87
+19
+
+921
+962
+982
+926
+977
+928
+937
+967
+937
+923
+883
+
+102
+102
+102
+102
+102
+102
+102
+102
+102
+102
+102
+
+1184
+1439
+1405
+1251
+1292
+1395
+1251
+1284
+1216
+2067
+1170
+
+103
+106
+105
+104
+104
+106
+104
+104
+103
+134
+104
+
+149
+183
+217
+149
+147
+204
+156
+161
+169
+266
+147
+
+6
+16
+21
+9
+15
+10
+7
+11
+6
+14
+6
+
+126
+127
+155
+119
+114
+146
+124
+125
+139
+129
+125
+
+12
+14
+19
+12
+15
+13
+12
+13
+13
+11
+12
+
+9
+
+G19
+d
+
+2
+
+(53,62,402)
+
+0.49
+
+0.14
+
+0.09
+
+18.4
+
+316
+
+23
+
+972
+
+102
+
+1288
+
+104
+
+153
+
+4
+
+119
+
+10
+
+3
+5
+10
+11
+4
+7
+12
+2
+8
+1
+
+H19
+d
+d
+c
+d
+c
+c
+d
+d
+d
+c
+
+3
+3
+3
+3
+3
+3
+3
+4
+4
+4
+
+(90,80,390)
+(80,55,395)
+(70,26,395)
+385-400
+(61,29,399)
+(52,40,407)
+(75,53,467)
+(95,80,505)
+490-510
+525-530
+
+0.49
+0.86
+0.19
+0.82
+0.68
+0.56
+0.85
+1.86
+0.29
+1.13
+
+0.18
+0.17
+0.11
+0.08
+0.16
+0.25
+0.14
+0.08
+0.15
+0.14
+
+0.14
+0.12
+0.02
+0.15
+0.09
+0.16
+0.11
+0.16
+0.06
+0.09
+
+15.4
+18.2
+10.6
+20.0
+16.2
+15.4
+13.8
+30.4
+17.7
+15.5
+
+336
+511
+89
+530
+383
+382
+428
+1387
+192
+549
+
+21
+38
+6
+37
+27
+25
+28
+125
+14
+41
+
+923
+932
+942
+946
+942
+942
+583
+410
+413
+413
+
+102
+102
+102
+102
+102
+102
+102
+102
+102
+102
+
+1259
+1443
+1031
+1476
+1325
+1324
+1011
+1797
+605
+963
+
+104
+109
+102
+109
+106
+105
+106
+161
+103
+110
+
+181
+202
+153
+216
+189
+189
+170
+221
+102
+213
+
+13
+7
+11
+10
+8
+10
+6
+15
+4
+10
+
+144
+140
+148
+146
+142
+143
+169
+123
+168
+221
+
+16
+11
+18
+13
+13
+14
+19*
+14*
+29*
+27*
+
+415
+416
+417
+507
+508
+515
+
+I20
+d
+a
+c
+d
+c
+b
+
+4
+4
+4
+6
+6
+6
+
+(95,95,465)
+(48,2,463)
+(58,25,463)
+(63,58,514)
+(55,31,531)
+(31,71,530)
+
+0.76
+0.41
+0.59
+0.50
+0.76
+0.37
+
+0.15
+0.14
+0.16
+0.13
+0.18
+0.10
+
+0.10
+0.07
+0.07
+0.06
+0.12
+0.04
+
+21.2
+16.1
+18.6
+19.9
+16.9
+21.1
+
+492
+251
+353
+312
+448
+236
+
+35
+16
+24
+47
+47
+47
+
+391
+388
+396
+604
+610
+613
+
+100
+100
+100
+121
+121
+121
+
+883
+639
+748
+916
+1058
+849
+
+106
+102
+103
+130
+130
+130
+
+139
+133
+122
+128
+173
+160
+
+4
+7
+4
+9
+18
+17
+
+157
+208
+163
+140
+163
+188
+
+19
+35
+23
+22*
+26*
+35*
+
+501
+502
+503
+
+J20
+a
+a
+a
+
+5
+5
+5
+
+(475/480)
+(495/500)
+(490/495)
+
+0.37
+0.68
+0.70
+
+0.21
+0.20
+0.09
+
+0.10
+0.13
+0.04
+
+25.5
+24.0
+20.6
+
+330
+514
+395
+
+47
+47
+47
+
+484
+484
+484
+
+121
+121
+121
+
+814
+998
+880
+
+130
+130
+130
+
+105
+141
+140
+
+6
+20
+10
+
+128
+141
+159
+
+22*
+27*
+26 *
+
+412
+
+K22
+a
+
+Southern part of Central Area
+4
+(10,15,460)
+
+2.73
+
+0.11
+
+0.09
+
+31.1
+
+1960
+
+169
+
+384
+
+100
+
+2344
+
+196
+
+246
+
+6
+
+105
+
+9
+
+72
+69
+
+K23
+a
+d
+
+1
+1
+
+0.91
+0.48
+
+0.15
+0.15
+
+0.15
+0.09
+
+22.1
+19.4
+
+617
+328
+
+42
+21
+
+506
+429
+
+71
+61
+
+1123
+757
+
+82
+64
+
+213
+161
+
+(19,43,281)
+(77,67,295)
+
+6
+190
+15*
+14
+213
+26*
+(continued on next page)
+
+1071
+
+G18
+d
+c
+d
+d
+c
+d
+d
+c
+d
+c
+d
+
+N. Mercier et al. / Journal of Archaeological Science 34 (2007) 1064e1077
+
+21
+24
+23
+22
+62
+20
+27
+63
+26
+61
+25
+
+Square,
+sub-square
+
+Layer/unit
+
+410
+414
+
+a
+b
+
+71
+74
+67
+68
+70
+65
+401
+
+Th (ppm)
+
+K (%)
+
+S-a mGy/103
+a/cm2
+
+Location: (x,y,z)
+or depth (Z )
+
+U (ppm)
+
+4
+5
+
+(7,37,457)
+(22,73,466)
+
+0.65
+0.62
+
+0.22
+0.31
+
+0.05
+0.12
+
+13.2
+18.3
+
+306
+421
+
+20
+27
+
+421
+413
+
+100
+100
+
+727
+834
+
+K24
+b
+b
+d
+d
+c
+c
+d
+
+1
+2
+2
+2
+2
+3
+4
+
+(17,57,289)
+(43,59,301)
+(62,96,307)
+(72,62,310)
+325-340
+(82,37,351)
+(81,86,459)
+
+0.58
+1.18
+1.12
+0.63
+0.56
+0.73
+0.69
+
+0.13
+0.13
+0.22
+0.18
+0.16
+0.15
+0.15
+
+0.10
+0.14
+0.13
+0.03
+0.04
+0.14
+0.09
+
+22.0
+22.2
+28.3
+22.8
+18.8
+13.8
+20.2
+
+402
+758
+848
+390
+313
+407
+425
+
+27
+55
+69
+34
+22
+25
+32
+
+495
+493
+501
+552
+880
+871
+660
+
+71
+71
+101
+101
+160
+160
+101
+
+84
+
+J24
+a
+
+3
+
+(41,21,395)
+
+0.72
+
+0.22
+
+0.11
+
+28.6
+
+579
+
+45
+
+834
+
+76
+75
+82
+80
+418
+402
+403
+
+I24
+b
+a
+c
+c
+b
+a
+d
+
+3
+3
+3
+3
+4
+4
+4
+
+(46,90,371)
+375-380
+(62,42,395)
+(75,20,399)
+(10,52,454)
+(24,1,456)
+(80,57,458)
+
+0.76
+0.32
+1.60
+0.35
+0.43
+0.48
+0.29
+
+0.24
+0.12
+0.19
+0.13
+0.13
+0.15
+0.19
+
+0.13
+0.09
+0.15
+0.11
+0.09
+0.10
+0.04
+
+23.8
+17.2
+36.0
+22.0
+19.3
+18.6
+12.9
+
+563
+224
+1383
+289
+296
+321
+156
+
+43
+13
+140
+24
+20
+20
+10
+
+413
+
+I23
+a
+
+4
+
+(18,27,458)
+
+1.89
+
+0.12
+
+0.14
+
+33.1
+
+1475
+
+56
+52
+53
+54
+55
+51
+
+D27
+b
+b
+d
+d
+d
+d
+
+Deep Sounding
+C/E
+(42,76,457)
+C/E
+(47,81,458)
+C/E
+(76,81,496)
+C/E
+(61,71,510)
+C/E
+(85,78,510)
+E base
+(51,92,539)
+
+0.94
+0.45
+0.90
+0.46
+0.45
+1.83
+
+0.12
+0.17
+0.04
+0.16
+0.22
+0.12
+
+0.10
+0.08
+0.10
+0.03
+0.11
+0.04
+
+13.2
+20.8
+11.9
+12.4
+19.7
+31.0
+
+58
+50
+60
+57
+
+E27
+b
+b
+b
+c
+
+E base
+F top
+F top
+F top
+
+520-525
+(45,62,545)
+555-560
+(76,14,578)
+
+0.94
+0.40
+1.26
+0.81
+
+0.08
+0.10
+0.24
+0.24
+
+0.07
+0.06
+0.12
+0.03
+
+404
+409
+
+E28
+d
+d
+
+E base
+E base
+
+(87,55,543)
+(80,70,558)
+
+0.48
+0.74
+
+0.12
+0.16
+
+406
+516
+522
+523
+
+F28
+c
+b
+a
+d
+
+E base
+F base
+F base
+F base
+
+(75,35,520)
+(10,75,728)
+(23,5,719)
+(67,60,726)
+
+0.80
+1.43
+1.16
+3.28
+
+0.07
+0.08
+0.05
+0.04
+
+Dose rates
+
+Equivalent dose
+Gy
+
+
+
+102
+104
+
+145
+134
+
+897
+1251
+1349
+942
+1192
+1278
+1085
+
+76
+90
+122
+106
+162
+162
+106
+
+130
+
+1413
+
+711
+623
+614
+601
+701
+633
+610
+
+101
+130
+101
+100
+100
+100
+100
+
+144
+
+648
+
+442
+312
+401
+207
+336
+1294
+
+29
+22
+24
+13
+23
+109
+
+20.6
+15.2
+24.3
+21.7
+
+536
+228
+836
+476
+
+0.14
+0.11
+
+20.0
+23.2
+
+0.08
+0.07
+0.06
+0.02
+
+28.1
+22.9
+19.7
+14.9
+
+Age estimates
+ka
+
+
+
+4
+8
+
+200
+160
+
+29
+22
+
+193
+246
+201
+153
+217
+207
+167
+
+11
+13
+10
+6
+8
+11
+10
+
+215
+197
+149
+163
+182
+162
+154
+
+22*
+17*
+15
+19
+26*
+22
+17
+
+138
+
+220
+
+7
+
+155
+
+16
+
+1274
+847
+1996
+889
+997
+954
+766
+
+110
+131
+172
+103
+102
+102
+101
+
+215
+151
+256
+128
+140
+144
+149
+
+10
+7
+16
+4
+6
+5
+10
+
+169
+178
+128
+144
+140
+151
+194
+
+17
+29
+14
+17
+16
+17
+28
+
+100
+
+2123
+
+175
+
+233
+
+20
+
+110
+
+13*
+
+601
+604
+604
+673
+626
+974
+
+101
+101
+101
+101
+101
+101
+
+1044
+916
+1005
+880
+962
+2267
+
+105
+103
+104
+102
+103
+148
+
+89
+188
+273
+86
+34
+195
+
+4
+8
+12
+4
+1
+9
+
+85
+206
+272
+98
+35
+86
+
+9*
+25*
+30*
+12*
+4*
+7*
+
+39
+14
+65
+38
+
+876
+851
+901
+723
+
+102
+102
+102
+101
+
+1412
+1078
+1737
+1199
+
+109
+103
+121
+108
+
+279
+253
+355
+269
+
+15
+14
+17
+8
+
+197
+235
+204
+224
+
+18
+26
+17
+21
+
+366
+514
+
+27
+42
+
+915
+920
+
+101
+101
+
+1280
+1434
+
+104
+109
+
+160
+227
+
+6
+5
+
+125
+159
+
+11*
+13
+
+573
+844
+622
+1354
+
+47
+47
+47
+47
+
+710
+1136
+890
+1077
+
+121
+121
+121
+121
+
+1283
+1980
+1513
+2431
+
+130
+130
+130
+130
+
+259
+406
+344
+547
+
+24
+64
+20
+94
+
+202
+205
+227
+225
+
+28
+35
+24
+41
+
+Internal
+mGy/a
+
+External
+
+
+mGy/a
+
+Total
+
+
+mGy/a
+
+
+
+N. Mercier et al. / Journal of Archaeological Science 34 (2007) 1064e1077
+
+Sample
+lab. no.
+
+1072
+
+Table 1 (continued)
+
+The U, Th and K contents of flints were measured by neutron activation analysis (NAA) at the Pierre Süe Laboratory, Saclay (Joron, 1974) and have each an error of 10%. The S-a sensitivity (Valladas and
+Valladas, 1982) was determined by comparing TL signals induced respectively by a b dose (Sr-90 source: dose-rate 8.2 Gy/min) and by a-rays from a Pu-238 source (flux 2.35 3 106 a/cm2 per s). The internal
+dose rate was computed from the U, Th and K contents using published values of specific dose-rates (Liritzis and Kokkoris, 1992; Valladas, 1988) and the S-a sensitivity determined experimentally. The external
+dose-rate includes a cosmic contribution of 60 mGy/a (Prescott and Hutton, 1988). The TL signals were recorded with an automatic reader (Valladas et al., 1994): the blue component of the 380  C TL peak was
+selected by a MTO 380 nm filter and detected with a EMI 9635QB photomultiplier tube. The heating rate was 5  /s. ED values were determined by comparing the first and second TL growth curves (Mercier et al.,
+1992), since for most samples, the growth curve of the TL signal (TL versus acquired dose) was sub-linear whereas for the others, the shape was more linear. Typical examples of sub-linear growth curves are
+shown in Fig. 2. All the flints listed have passed the plateau test (Aitken, 1985). The errors associated with the age estimates were computed according to Aitken (1985, appendix B).
+
+14*
+20
+20
+22
+12*
+219
+233
+189
+175
+121
+6
+12
+8
+32
+18
+462
+371
+245
+318
+244
+130
+130
+130
+130
+130
+2108
+1594
+1295
+1815
+2013
+121
+121
+121
+121
+121
+1173
+1167
+1132
+1162
+1104
+47
+47
+47
+47
+47
+935
+427
+163
+653
+909
+23.0
+21.2
+10.3
+23.3
+26.5
+0.07
+0.05
+0.03
+0.11
+0.10
+0.07
+0.12
+0.22
+0.15
+0.12
+1.60
+0.74
+0.37
+0.99
+1.35
+(92,89,728)
+(54,60,733)
+(47,77,718)
+(74,98,718)
+(21,99,736)
+F base
+Fbase
+Fbase
+Fbase
+Fbase
+F27
+d
+d
+b
+d
+b
+517
+518
+519
+520
+521
+
+base
+base
+base
+base
+F
+F
+F
+F
+a
+b
+b
+b
+524
+525
+526
+527
+
+(26,14,715)
+(43,98,703)
+(4,95,715)
+(19,87,711)
+
+0.67
+1.14
+0.83
+0.61
+
+0.18
+0.05
+0.07
+0.19
+
+0.07
+0.05
+0.07
+0.08
+
+26.5
+17.8
+20.6
+18.3
+
+489
+558
+480
+371
+
+47
+47
+47
+57
+
+908
+1167
+1143
+1143
+
+121
+121
+121
+131
+
+1397
+1725
+1623
+1514
+
+130
+130
+130
+143
+
+255
+433
+303
+334
+
+80
+13
+21
+11
+
+183
+251
+187
+221
+
+60
+20
+20
+22
+
+N. Mercier et al. / Journal of Archaeological Science 34 (2007) 1064e1077
+
+1073
+
+mineralogical assemblage: the northern part of the Central
+Area includes the squares G18-G19-H19-I20-J20; the southern
+part, the squares K22-K23-K24-J24-I24-I23 and the Deep
+Sounding, the squares D27-E27-E28-F28-F27. For each layer
+and unit within a specific area, the average TL age value was
+calculated (Table 2); since these layers do not represent single
+but successive occupations, the associated error was obtained
+by averaging the individual errors; in brackets, the standard
+deviation of the individuals results is also given. Note, however, that samples from square D27 (Deep Sounding) were
+all discarded because of the incoherence of the TL results,
+ranging from w272 to w35 ka (!). This may well be related
+to the presence of a 1.30-m-deep trench thought to be the
+product of water driven erosion which resulted in redeposition
+of younger sediments together with stone artefacts (Weiner
+et al., 2002).
+Beginning with the bottom of the sequence, samples
+collected in the Deep Sounding from layer F (base and top)
+result in two average ages which are statistically equivalent
+(210  28 ka and 221  21 ka, respectively) (Table 2). Even
+if these results seem coherent, one must note that layer F was
+subjected to extensive chemical diagenesis that resulted in
+the breakdown of the clays and the formation of authigenic silica, as demonstrated by Weiner et al. (2002). As discussed by
+these authors, this process might be related to the erosional unconformity that marks the geological limit between the top of
+layer F and the bottom of E, and indicates a period of abundant
+water flow, especially at the entrance of the cave where the
+Deep Sounding is located. Indeed, the fine-bedded nature of
+the sediments exposed in the Deep Sounding, indicate deposition in standing water. Because clays and other mineral components are altered to a depth of more than 2 m below the
+erosional unconformity in this area, one cannot rule out the
+possibility of an increase of the g-dose-rate leading to an
+under-estimation of the true deposition age. However, it is of
+interest that the overlaying layer (Lower E) does not show signs
+of such an alteration in this area and is dated to 186  20 ka.
+It can then be deduced that the alteration was limited in time
+to Oxygen Isotope Stage 7 (OIS-7), from 244 to 190 ka
+(Martinson et al., 1987). In order to assess the magnitude of
+this possible under-estimation, one can consider as an extreme
+hypothesis that the environmental dose-rate in the Deep Sounding during OIS-7 was as low as those recorded in areas where
+the CD assemblage has been identified (w500 mGy/a). Considering the data of Table 1, it can then be shown that such a scenario would lead to average ages of 224  29 ka and
+231  22 ka for layer F (base and top, respectively). Thus,
+the age of layer F (w210e220 ka) is possibly under-estimated
+but it is likely that this under-estimation does not exceed 20 ka
+and is similar in magnitude to the errors associated with the
+mean ages.
+Moving up in the stratigraphic sequence, the TL age of
+Lower E in the Deep Sounding is 186  20 ka. This is statistically indistinguishable from the average values obtained
+from the southern part of the Central Area for units 5 and 4
+(160  22 ka and 168  21 ka, respectively), and is consistent
+with the fact that these two units were both identified as
+
+N. Mercier et al. / Journal of Archaeological Science 34 (2007) 1064e1077
+
+1074
+
+Upper E - 1
+
+Northern part of Central Area
+Southern part of Central Area
+Deep Sounding
+
+Upper E - 2
+Upper E - 3
+
+Lower E - 4
+Lower E - 5
+Lower E - 6
+C/ D
+Ebase
+Ftop
+Fbase
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+TL age (ka)
+Fig. 7. All the TL age estimates obtained for the different sectors of the cave (northern and southern part of Central Area, Deep Sounding) are plotted as a function
+of the stratigraphy. The selected samples are represented with filled symbols, whereas open symbols indicate the discarded samples.
+
+belonging to the Lower E complex and thus are expected to
+have the same age. This result is also close to the average
+age of unit 4 (176  26 ka) in the northern part. Lower E
+was thus deposited at the beginning of OIS-6, a period which
+seems to have been much drier than the previous one according to the state of preservation of the contemporaneous units,
+especially in the Deep Sounding area, where these upper sediments are less diagenetically altered and commonly calcitic.
+In the southern part of the Central Area, unit 3 is dated to
+156  19 ka, indicating that the deposition of Upper E sediments followed those of Lower E without any interruption.
+The dating of two samples assumed in the field to be derived
+from unit 2 in this part, yielded a mean TL age (156  17 ka)
+indistinguishable from those of unit 3. We assume therefore
+that unit 2 was not present in the dated southern part of the
+Central area. In reality the correlations between the top of
+the Mousterian deposits in the southern section and those of
+the northern section were difficult to establish due to their removal by the Natufian and Aurignacian occupations and the
+earlier excavations of this area (1971e1979). In addition,
+the dipping of the units in the northern section, possibly into
+a sinkhole in the rear, was the reason for erroneous field correlations. Units 3 and 2 were TL-dated in the northern part and
+the age estimates are 144  14 and 129  13 ka, respectively.
+These last two results then show a clear-cut correlation with
+the stratigraphy indicating a deposition of these units in the
+second part of OIS-6.
+6. Discussion and conclusions
+We first compare the TL chronology with the most complete
+and reliable age data published to date for Hayonim Cave,
+namely from the combined ESR/U-series analyses (Rink
+et al., 2004). The mean TL dates obtained for units 3e5 in
+the southern part of the Central Area, when taking into account
+the standard deviations, range from w135 ka to w185 ka. The
+TL dates are therefore in fairly good agreement with the ESR
+
+dates on teeth of the same units (Early uranium Uptake model
+[EU]: 177  12 ka and Linear uranium Uptake model [LU]:
+182  15 ka). The mean TL age of 156  19 ka obtained for
+the uppermost unit (unit 3) also fits well with the U-series
+age of a fallen calcite speleothem (155.3 þ 2.9 1.4 ka) found
+at a higher elevation (Z ¼ 248) than all the dated samples. It
+can thus be concluded that the Mousterian sequence in the
+southern part of the Central Area, including layers Lower E
+(units 5 and 4) and Upper E (unit 3), covers a minimum time
+interval ranging from w185 ka to w135 ka ago. This range
+is reproduced in the northern part for units 4e3 including the
+base of E in the Deep Sounding, but in the north the youngest
+unit (2) is also present with an age of 129  13 ka.
+The dating of the erosional unconformity observed between
+layer F and Lower E at Hayonim Cave is of particular interest.
+According to the TL results, it is dated to w200 ka and thus
+corresponds to the second part of OIS-7. This event was
+marked by significant flow of water within the cave. It might
+then be contemporaneous with one of the discontinuities
+recorded in the sequence of Tabun cave that were already
+described (Jelinek, 1982; Jelinek et al., 1973; Mercier et al.,
+1995b). An important discontinuity between Unit I dated to
+165  16 ka and Unit II dated to 196  21 ka (Mercier and
+Valladas, 2003) reflects the introduction of the terra rosa
+soil due to the opening of the chimney. Earlier unconformities
+were noted in the stratigraphy of the inner chamber where
+units IIeVIII accumulated following the deposition of Unit
+IX (Jelinek, 1982, p.1370). Units IIeIX were attributed to
+what was originally called layer D by Garrod. The TL dates
+of these units are as follows: Unit V, 222  27 ka; Unit IX,
+256  26 ka (Mercier and Valladas, 2003). Hence, the gap between Hayonim Lower E and F (both corresponding in their
+industries to the generalized Layer D at Tabun) would fall between Unit II and Unit V and not as mentioned in a previous
+paper (Weiner et al., 2002).
+If these discontinuities represent the same series of climatic
+events, they seem to appear at the same position within the
+
+N. Mercier et al. / Journal of Archaeological Science 34 (2007) 1064e1077
+
+1075
+
+Table 2
+List of the selected samples with their TL dates and associated errors
+
+
+Sample
+lab. no.
+
+Square
+
+Location
+
+Individual
+age (ka)
+
+
+
+Sample
+lab. no.
+
+Square
+
+Location
+
+Individual
+age (ka)
+
+
+
+Northern part of Central Area
+Upper E
+2
+129
+
+13 (12)
+
+Upper E
+
+3
+
+144
+
+14 (3)
+
+Lower E
+
+4
+
+176
+
+26 (28)
+
+21
+24
+23
+22
+62
+20
+3
+5
+10
+415
+416
+
+G18
+G19
+G20
+G21
+G22
+G23
+H19
+H19
+H19
+I20
+I20
+
+(56,74,360)
+(64,27,386)
+(55,66,386)
+(70,87,394)
+(89,36,396)
+(89,74,396)
+(90,80,390)
+(80,55,395)
+(70,26,395)
+(95,95,465)
+(48,2,463)
+
+126
+127
+155
+119
+114
+146
+144
+140
+148
+157
+208
+
+12
+14
+19
+12
+15
+13
+16
+11
+18
+19
+35
+
+27
+63
+26
+61
+25
+9
+11
+4
+7
+417
+
+G24
+G25
+G26
+G27
+G28
+G19
+H19
+H19
+H19
+I20
+
+(70,72,400)
+(77,43,409)
+(95,75,409)
+(84,36,411)
+(60,72,418)
+(53,62,402)
+385-400
+(61,29,399)
+(52,40,407)
+(58,25,463)
+
+124
+125
+139
+129
+125
+119
+146
+142
+143
+163
+
+12
+13
+13
+11
+12
+10
+13
+13
+14
+23
+
+67
+65
+84
+76
+401
+418
+402
+414
+
+K24
+K24
+J24
+I24
+K24
+I24
+I24
+K23
+
+(62,96,307)
+(82,37,351)
+(41,21,395)
+(46,90,371)
+(81,86,459)
+(10,52,454)
+(24,1,456)
+(22,73,466)
+
+149
+162
+155
+169
+154
+140
+151
+160
+
+15
+22
+16
+17
+17
+16
+17
+22
+
+68
+75
+82
+80
+403
+410
+412
+
+K24
+I24
+I24
+I24
+I24
+K23
+K22
+
+(72,62,310)
+375-380
+(62,42,395)
+(75,20,399)
+(80,57,458)
+(7,37,457)
+(10,15,460)
+
+163
+178
+128
+144
+194
+200
+105
+
+19
+29
+14
+17
+28
+29
+9
+
+58
+409
+50
+60
+516
+522
+523
+524
+525
+
+E27
+E28
+E27
+E27
+F28
+F28
+F28
+F28
+F28
+
+520-525
+(80,70,558)
+(45,62,545)
+555-560
+(10,75,728)
+(23,5,719)
+(67,60,726)
+(26,14,715)
+(43,98,703)
+
+197
+159
+235
+204
+205
+227
+225
+183
+251
+
+18
+13
+26
+17
+35
+24
+41
+60
+20
+
+406
+
+F28
+
+(75,35,520)
+
+202
+
+28
+
+57
+
+E27
+
+(76,14,578)
+
+224
+
+21
+
+526
+527
+518
+519
+520
+
+F28
+F28
+F27
+F27
+F27
+
+(4,95,715)
+(19,87,711)
+(54,60,733)
+(47,77,718)
+(74,98,718)
+
+187
+221
+233
+189
+175
+
+20
+22
+20
+20
+22
+
+Layer
+
+Unit
+
+Mean TL
+age (ka)
+
+Southern part of Central Area
+Upper E
+2
+156
+3
+156
+
+Lower E
+
+17 (10)
+19 (18)
+
+4
+
+168
+157a
+
+21 (27)
+35 (19)
+
+5
+
+160
+
+22 (22)
+
+Deep Sounding
+Lower E
+E base
+
+186
+
+20 (24)
+
+F
+
+F top
+
+221
+
+21 (16)
+
+F base
+
+210
+
+28 (25)
+
+The mean ages and deviations for the indicated Mousterian layers were calculated by averaging the individual dates and errors, respectively. The standard deviations are also given.
+a
+Sample no. 412 gave a young date in comparison to other results, something hard to explain.
+
+Levantine Mousterian sequence. In Hayonim Cave, the boundary is situated between layers F and Lower E, both of which
+contain blade-rich Middle Paleolithic industries. Consequently, by comparing the chronologies and industries of Hayonim and Tabun caves, one can conclude that the former
+sequence is likely more continuous than that of Tabun and
+that the latter site was probably unoccupied during the first
+part of OIS-6. It should be noted that subsidence is more dramatic in Tabun which also may explain gaps in the physical
+stratigraphic record.
+In sum, this study shows that the age of the Mousterian sequence in Hayonim Cave ranges from about 115 ka ago to at
+least 220 ka. It also shows that the dating of samples such as
+flints or teeth by dosimetric methods can be severely affected
+by the proximity of mineral assemblage boundaries to the
+samples and/or to the dosimeters used to measure the current
+radiation dose. Without three-dimensional information on the
+distributions of these mineral assemblages in the sediments,
+the ages of the stratigraphic units in Hayonim Cave would
+have been determined with much less precision and confidence
+than those presented here, and would have certainly been less
+reliable.
+
+Acknowledgements
+We thank the National Science Foundation, Washington
+(grants awarded to O. Bar-Yosef and M.C. Stiner), the French
+Ministry of Foreign Affairs (grants awarded to B. Vandermeersch), the Israel Science Foundation (grants awarded to
+S. Weiner), the American School of Prehistoric Research, Peabody Museum, Harvard University, for funding the project at
+Hayonim cave and the ensuing laboratory analyses. S. Weiner
+(the Dr Walter and Dr Trude Borchardt Professorial Chair in
+Structural Biology) is grateful for the generous donation by
+Mr George Schwartzman.
+
+References
+Aitken, M.J., 1985. Thermoluminescence Dating. Academic Press, London,
+359 pp.
+Arensburg, B., 2002. Human remains from Geula Cave, Haifa. Bulletins et
+Mémoires de la Société d’Anthropologie de Paris 14, 141e148.
+Arensburg, B., Nathan, H., Mousterian, A., 1980. Third cervical vertebra from
+Hayonim Cave, Israel. Journal of Human Evolution 9, 193e195.
+
+1076
+
+N. Mercier et al. / Journal of Archaeological Science 34 (2007) 1064e1077
+
+Arensburg, B., Bar-Yosef, O., Belfer-Cohen, A., Rak, Y., 1990. Mousterian
+and Aurignacian human remains from Hayonim Cave, Israel. Paléorient
+16, 107e109.
+Arensburg, B., Belfer-Cohen, A., 1998. Sapiens and Neandertals: rethinking
+the Levantine Middle Paleolithic Hominids. In: Akazawa, T., Aoki, K.,
+Bar-Yosef, O. (Eds.), Neandertals and Modern Humans in Western Asia.
+Plenum Press, New York and London, pp. 311e322.
+Bar-Yosef, O., 1991. The archaeology of the Natufian layer at Hayonim Cave.
+In: Bar-Yosef, O., Valla, F.R. (Eds.), The Natufian Culture in the Levant.
+International Monographs in Prehistory, Ann Arbor, MI, pp. 81e93.
+Bar-Yosef, O., 1998. Chronology of the Middle Paleolithic of the Levant. In:
+Akazawa, T., Aoki, K., Bar-Yosef, O. (Eds.), Neandertals and Modern Humans in Western Asia. Plenum Press, New York and London, pp. 39e56.
+Bar-Yosef, O., Belfer-Cohen, A., Goldberg, P., Kuhn, S., Meignen, L.,
+Weiner, S., Vandermeersch, B., 2006. Archaeological background to
+Hayonim cave and Meged rockshelter. In: Stiner, M. (Ed.), The Faunas
+of Hayonim Cave (Israel): A 200 000-year Record of Paleolithic Diet,
+Demography and Society. American School of Prehistoric Research,
+Peabody Museum, Harvard University, Cambridge.
+Goldberg, P., Bar-Yosef, O., 1998. Site formation processes in Kebara and Hayonim Caves and their significance in Levantine Prehistoric Caves. In:
+Akazawa, T., Aoki, K., Bar-Yosef, O. (Eds.), Neandertals and Modern Humans in Western Asia. Plenum Press, New York and London, pp. 107e125.
+Hovers, E., 1997. Variability of Levantine Mousterian assemblages and settlement patterns: implications for understanding the development of human
+behavior. PhD thesis, Hebrew University.
+Hovers, E., Rak, Y., Lavi, R., Kimbel, W.H., 1995. Hominid remains from
+Amud Cave in the context of the Levantine Middle Paleolithic. Paléorient
+21 (2), 47e62.
+Huxtable, J., Aitken, M.J., 1988. Datation par thermoluminescence. In:
+Tuffreau, A., Sommé, J. (Eds.), Le Gisement Paléolithique Moyen de
+Biache-Saint-Vaast (Pas de Calais), Stratigraphie, Environnement, Études
+Archéologiques, Vol. I. Memoires de la Société Préhistorique Française
+XXI, pp. 107e108.
+Jelinek, A.J., 1981. The Middle Paleolithic in the Southern Levant from the
+perspective of the Tabun Cave. In: Cauvin, J., Sanlaville, P. (Eds.), Préhistoire du Levant, Chronologie et Organisation de l’Espace Depuis les Origines jusqu’au VIème Millénaire. Colloques internationaux du CNRS, no.
+598. Editions du CNRS, Paris, pp. 265e280.
+Jelinek, A.J., 1982. The Tabun cave and Paleolithic man in the Levant. Science
+216, 1369e1375.
+Jelinek, A.J., Farrand, W.R., Haas, G., Horowitz, A., Goldberg, P., 1973. New
+excavations at the Tabun Cave (Mount Carmel, Israel). Preliminary report.
+Paléorient 1, 151e183.
+Joron, J.-L., 1974. Contribution à 1’analyse des éléments en traces dans
+les roches et les minéraux par activation neutronique. Application à la caractérisation d’objets archéologiques. Thèse de 3 ème Cycle, Université
+Paris-Sud.
+Karkanas, P., Bar-Yosef, O., Goldberg, P., Weiner, S., 2000. Diagenesis in prehistoric caves: the use of minerals that form in situ to assess the completeness of the archaeological record. Journal of Archaeological Science 27,
+915e929.
+Liritzis, Y., Kokkoris, M., 1992. Revised dose-rate data for thermoluminescence/ESR dating. Nuclear Geophysics 6, 423e443.
+Mann, A.E., 1995. Modern human origins: evidence from the Near East. Paléorient 21 (2), 35e46.
+Marks, A.E., Volkman, P., 1986. The Mousterian of Ksar Akil: levels XXVIA
+through XXVIIIB. Paléorient 12 (1), 5e20.
+Martinson, P.M., Pisias, N.G., Hays, J.D., Imbrie, J., Moore, T.C.,
+Shackleton, N.J., 1987. Age dating and the orbital theory of the ice
+ages, development of a high-resolution 0 to 300,000-year old chronostratigraphy. Quaternary Research 27, 1e29.
+Meignen, L., 1998. Hayonim Cave lithic assemblages in the context of the
+Near Eastern Middle Paleolithic: a preliminary report. In: Akazawa, T.,
+Aoki, K., Bar-Yosef, O. (Eds.), Neandertals and Modern Humans in Western Asia. Plenum Press, New York and London, pp. 165e180.
+Meignen, L., 2000. Early Middle Palaeolithic blade technology in Southwestern Asia. Acta Anthropologica Sinica 19 (Suppl.), 158e168.
+
+Mercier, N., Valladas, H., Joron, J.-L., Reyss, J.-L., Lévêque, F.,
+Vandermeersch, B., 1991. Thermoluminescence dating of the late Neanderthal remains from Saint-Césaire (France). Nature 351, 737e739.
+Mercier, N., Valladas, H., Valladas, G., 1992. Some observations on palaeodose determination in burnt flints. Ancient TL 10 (3), 28e32.
+Mercier, N., Valladas, H., Valladas, G., 1995a. Flint thermoluminescence dates
+from the CFR Laboratory at Gif: contributions to the study of the chronology of the Middle Palaeolithic. Quaternary Science Reviews (Quaternary
+Geochronology) 14, 351e364.
+Mercier, N., Valladas, H., Valladas, G., Reyss, J.-L., Jelinek, A., Meignen, L.,
+Joron, J.-L., 1995b. TL dates of burnt flints from Jelinek’s excavations at Tabun and their implications. Journal of Archaeological Science 22, 495e509.
+Mercier, N., Valladas, H., Joron, J.-L., Schiegl, S., Bar-Yosef, O., Weiner, S.,
+1995c. Thermoluminescence dating and the problem of geochemical
+evolution of sediments e a case study: the Mousterian Levels at Hayonim.
+Israel Journal of Chemistry 35, 137e141.
+Mercier, N., Valladas, H., Froget, L., Joron, J.-L., Ronen, A., 2000. Datation par
+la thermoluminescence de la base du gisement paléolithique de Tabun (Mont
+Carmel, Israël). Comptes Rendus de l’Académie des Sciences 330, 731e738.
+Mercier, N., Valladas, H., 2003. Reassessment of TL age-estimates of burnt
+flints from the Paleolithic site of Tabun Cave, Israel. Journal of Human
+Evolution 45, 401e409.
+Neuville, R., 1951. Le Paléolithique et le Mésolithique du désert de Judée.
+Archives de l’Institut de Paléontologie Humaine. Mémoire no. 24. Masson
+et Cie, Paris.
+Prescott, J.R., Hutton, J.T., 1988. Cosmic ray and gamma ray dosimetry for TL
+and ESR. Nuclear Tracks and Radiation Measurements 14, 223e227.
+Rak, Y., 1998. Does any Mousterian cave present evidence of two Hominid
+species? In: Akazawa, T., Aoki, K., Bar-Yosef, O. (Eds.), Neandertals
+and Modern Humans in Western Asia. Plenum Press, New York and London, pp. 353e366.
+Rink, W.J., Schwarcz, H.P., Weiner, S., Goldberg, P., Meignen, L.,
+Bar-Yosef, O., 2004. Age of the Mousterian industry at Hayonim Cave,
+Northern Israel, using electron spin resonance and 230Th/234U methods.
+Journal of Archaeological Science 31, 953e964.
+Shahack-Gross, R., Berna, F., Karkanas, P., Weiner, S., 2004. Bat guano and
+preservation of archaeological remains in cave sites. Journal of Archaeological Science 31, 1259e1272.
+Schiegl, S., Lev-Yadun, S., Bar-Yosef, O., El Goresy, A., Weiner, S., 1994.
+Siliceous aggregates from prehistoric wood ash: a major component of
+sediments in Kebara and Hayonim caves (Israel). Israel Journal of Earth
+Sciences 43, 267e278.
+Schiegl, S., Goldberg, P., Bar-Yosef, O., Weiner, S., 1996. Ash deposits in
+Hayonim and Kebara Caves: macroscopic, microscopic and mineralogical
+observations, and their archaeological implications. Journal of Archaeological Science 23, 763e781.
+Schwarcz, H.P., Goldberg, P., Blackwell, B., 1980. Uranium series dating of archaeological sites in Israel. Israel Journal of Earth Sciences 29, 157e165.
+Schwarcz, H.P., Rink, W.J., 1998. Progress in ESR and U-series chronology of
+the Levantine Paleolithic. In: Akazawa, T., Aoki, K., Bar-Yosef, O. (Eds.),
+Neandertals and Modern Humans in Western Asia. Plenum Press, New
+York and London, pp. 57e67.
+Stiner, M.C., 2006. The Faunas of Hayonim Cave (Israel): A 200,000 Year Record of Paleolithic Diet, Demography and Society. American School of
+Prehistoric Research, Bulletin 48. Peabody Museum Press, Harvard University, Cambridge, MA.
+Stiner, M.C., Munro, N.D., Surovell, T.A., 2000. The tortoise and the hare:
+small game use, the broad spectrum revolution, and Paleolithic demography. Current Anthropology 41 (1), 39e73.
+Stiner, M.C., Kuhn, S.L., Surovell, T.A., Goldberg, P., Meignen, L.,
+Weiner, S., Bar-Yosef, O., 2001. Bone preservation in Hayonim Cave
+(Israel): a macroscopic and mineralogical study. Journal of Archaeological
+Science 28, 643e659.
+Tchernov, E., 1988. Biochronology of the Middle Palaeolithic and dispersal
+events of Hominids in the Levant. ERAUL 29. L’Homme de Néandertal
+2, 153e168.
+Tchernov, E., 1998. The faunal sequence of the southwest Asian Middle Paleolithic in relation to hominid dispersal events. In: Akazawa, T., Aoki, K.,
+
+N. Mercier et al. / Journal of Archaeological Science 34 (2007) 1064e1077
+Bar-Yosef, O. (Eds.), Neandertals and Modern Humans in Western Asia.
+Plenum Press, New York and London, pp. 77e90.
+Tillier, A.-M., 1998. Ontogenetic variation in Late Pleistocene Homo sapiens
+from the Near East: implications for methodological bias in reconstructing
+evolutionary biology. In: Akazawa, T., Aoki, K., Bar-Yosef, O. (Eds.), Neandertals and Modern Humans in Western Asia. Plenum Press, New York
+and London, pp. 381e389.
+Tillier, A.-M., Arensburg, B., Vandermeersch, B., Chech, M., 2003. New human
+remains from Kebara Cave (Mount Carmel). The place of the Kebara Hominids in the Levantine Mousterian fossil record. Paléorient 29 (2), 35e64.
+Trinkaus, E., 1995. Near eastern archaic humans. Paléorient 21 (2), 9e24.
+Valladas, G., 1988. Stopping power and range for alpha particles in SiO2.
+Ancient TL 6, 7e8.
+Valladas, H., 1992. Thermoluminescence dating of flint. Quaternary Science
+Reviews 11, 1e5.
+Valladas, G., Valladas, H., 1982. Effet de l’irradiation alpha sur des grains
+de quartz. A specialist seminar on thermoluminescence dating. PACT 6,
+171e178.
+Valladas, G., Mercier, N., Létuvé, R., 1994. A simple semi-automatic TL
+apparatus of new design. Ancient TL 12, 39e40.
+Valladas, H., Geneste, J.M., Joron, J.L., Chadelle, J.P., 1986. Thermoluminescence dating of Le Moustier (Dordogne, France). Nature 322, 452e454.
+
+1077
+
+Valladas, H., Joron, J.-L., Valladas, G., Arensburg, B., Bar-Yosef, O., Belfer-Cohen, A., Goldberg, P., Laville, H., Meignen, L., Rak, J.,
+Tchernov, E., Tillier, A.-M., Vandermeersch, B., 1987. Thermoluminescence dates for the Neanderthal burial site at Kebara in Israel. Nature
+330, 159e160.
+Valladas, H., Reyss, J.-L., Joron, J.-L., Valladas, G., Bar-Yosef, O.,
+Vandermeersch, B., 1988. Thermoluminescence dating of Mousterian
+‘Proto-Cro-Magnon’ remains from Israel and the origin of modern man.
+Nature 331, 614e616.
+Valladas, H., Mercier, N., Joron, J.-L., Reyss, J.-L., 1998. Gif Laboratory dates
+for Middle Paleolithic Levant. In: Akazawa, T., Aoki, K., Bar-Yosef, O.
+(Eds.), Neandertals and Modern Humans in Western Asia. Plenum Press,
+New York and London, pp. 69e75.
+Vandermeersch, B., 1995. Le rôle du Levant dans l’évolution de l’humanité au
+Pléistocène supérieur. Paléorient 21 (2), 25e34.
+Weiner, S., Goldberg, P., Bar-Yosef, O., 1993. Bone preservation in Kebara
+Cave, Israel, using on-site Fourier-transform infrared spectrometry. Journal
+of Archaeological Science 20, 613e627.
+Weiner, S., Goldberg, P., Bar-Yosef, O., 2002. Three-dimensional distribution
+of minerals in the sediments of Hayonim Cave, Israel: diagenetic processes
+and archaeological implications. Journal of Archaeological Science 29,
+1289e1308.
+
+

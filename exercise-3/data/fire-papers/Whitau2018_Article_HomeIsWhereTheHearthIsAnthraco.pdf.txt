@@ -1,0 +1,3087 @@
+J Archaeol Method Theory (2018) 25:739–776
+https://doi.org/10.1007/s10816-017-9354-y
+
+Home Is Where the Hearth Is: Anthracological
+and Microstratigraphic Analyses of Pleistocene
+and Holocene Combustion Features, Riwi Cave
+(Kimberley, Western Australia)
+Rose Whitau 1 & Dorcas Vannieuwenhuyse 2 &
+Emilie Dotte-Sarout 2,3 & Jane Balme 2 &
+Sue O’Connor 1
+
+Published online: 26 October 2017
+# The Author(s) 2017. This article is an open access publication
+
+Abstract The manipulation of fire is a technological act. The identification of the
+archaeological signatures of the controlled use of fire has important implications not
+only for the estimations of the origins and functions of the first fireplaces but also for
+our understanding of prehistoric technological development and resource use. At Riwi
+(Kimberley region, Western Australia), excavations over two field seasons have revealed a discontinuous occupation sequence over the past 45 ka, showing numerous,
+different combustion features interspersed within the deposit. Anthracological and
+micromorphological investigations at Riwi Cave indicate that the combustion features
+at the site can be categorised into three types: flat combustion features (type A), dug
+combustion features (type B) and thick accumulations of mixed combustion residues
+(type C). These provide evidence for two kinds of combustion practice: (i) fires lit
+directly on the ground and most likely not re-used and (ii) ground ovens, the latter
+appearing some 10,000 years after the first evidence for occupation of the site. A
+comparison of the wood species identified within these combustion features with those
+from equivalent scattered context levels, enables an exploration of the potential factors
+influencing wood selection and fire use through time at the site. A detailed
+Electronic supplementary material The online version of this article (https://doi.org/10.1007/s10816-0179354-y) contains supplementary material, which is available to authorized users.
+
+* Rose Whitau
+rose.whitau@anu.edu.au
+1
+
+Archaeology and Natural History, School of Culture History and Language, College of Asia and
+the Pacific, Australian National University, Canberra, Australia
+
+2
+
+Archaeology M257, University of Western Australia, 35 Stirling Highway, Crawley,
+WA 6009, Australia
+
+3
+
+School of Archaeology and Anthropology, College of Social Sciences, Australian National
+University, Canberra, Australia
+
+740
+
+Whitau et al.
+
+understanding of the relationship between wood charcoal remains and archaeological
+context yields significant information on changes to environmental context and site
+occupation patterns over time.
+Keywords Hearths . Combustion features . Anthracology . Micromorphology . Fuel
+wood management . Australian archaeology
+
+Introduction
+An essential component of the hunter-gatherer tool-kit, fire is a source of light, warmth,
+protection and an instrument for cooking, manufacturing equipment and altering the
+environment. The origins and functions of the first fireplaces have important implications for hominin evolution and form a key debate in Palaeolithic archaeology (e.g.
+Alperson-Afil and Goren-Inbar 2010; de Lumley 2006; Goudsblom 1986; Gowlett
+2006; Gowlett and Wrangham 2013; James et al. 1989; Roebroeks and Villa 2011;
+Sandgathe et al. 2011; Wrangham 2009), with the first habitual, controlled uses of fire
+linked to increases in brain size and cognition (Brain 1981; Gowlett 2006; Pruetz and
+LaDuke 2010; Rolland 2004; Wrangham 2009) and the colonisation of the northern
+latitudes (Brace et al. 1987; Gowlett 2006; Oakley 1956; Preece et al. 2006; Rolland
+2004; Stratus 1989; Weiner et al. 1998; Wrangham et al. 1999). Evidence for anthropogenic fire can be contextually variable and, in the case of the earliest examples,
+highly contentious (e.g. Berna et al. 2012; for a recent review on the evidence of human
+use and control of fire, see Goldberg et al. 2017; Stahlschmidt et al. 2015, pp. 181–
+183). The most unambiguous signature for the habitual, controlled use of fire is the
+structured hearth, with the earliest evidence found in Qesem Cave in Israel, dated
+approximately to 400 ka (Karkanas et al. 2007; Shahack-Gross et al. 2014).
+The identification of the archaeological signatures of hearth-building processes has
+important implications not only for the estimation of the first controlled uses of fire but
+also for understanding of prehistoric technological development and resource use. A
+suite of techniques for both the macro- and micro- scale analyses of combustion
+structures are currently employed, ranging from the in situ description of hearth
+structures (e.g. Metcalfe and Heath 1990; Solé et al. 2013; Vaquero and Pastó 2001),
+to the physical and chemical analysis of charred components and sediments with the
+application of geophysical (e.g. Barbetti 1986; Bellomo 1991, 1993), geochemical (e.g.
+Karkanas et al. 2002; Rudner and Sumegi 2002), micromorphological (e.g. Mallol et al.
+2013a; Mentzer 2014; Schiegl et al. 2004; Wattez 1992; cf. review in Aldeias 2017) and
+anthracological analyses (e.g. Beauclair et al. 2009; Henry and Théry-Parisot 2014;
+Scheel-Ybert et al. 2014; Vidal-Matutano 2016). The study presented in this paper
+combines the latter two approaches, anthracology and micromorphology, to explore
+building processes of hearths from an Australian Indigenous archaeological context.
+Microstratigraphic investigations of combustion features can help document the anthropogenic activities associated with their formation and also assess their degree of
+preservation or alteration (Mallol et al. 2013a; Mentzer 2014; Wattez 1992), by identifying their components (Estévez et al. 2014; March et al. 2014; Mentzer 2014; Stiner et al.
+1995; Wattez 1988; Weiner et al. 1995), deciphering whether they are intact or disturbed
+(Goldberg et al. 2009; Mallol et al. 2013a; Mentzer 2014; Miller and Sievers 2012; Miller
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+
+741
+
+et al. 2010), documenting how they have affected the substrate (Aldeias et al. 2016; Canti
+and Linford 2000; Mallol et al. 2013b) and to what extent they have been affected by postdepositional processes (Karkanas 2010; Karkanas et al. 2000; Karkanas et al. 2002;
+Mentzer 2014). Soil morphology experiments and ethnoarchaeological investigations
+have identified various characteristics of combustion features (Courty et al. 1989;
+Macphail et al. 2004; Mallol et al. 2007; Wattez 1992; Miller et al. 2013) that have been
+applied to archaeological contexts. These include distinguishing single from multiphase
+hearth use (Meignen et al. 1989, 2007), discriminating hearths from secondary ash dumps
+(Schiegl et al. 2003) and detecting burned stable layers (Macphail et al. 2004).
+Anthracological investigations of wood charcoal assemblages follow the premise
+that hearth features and concentrations of dense charcoal are episodic archaeological
+contexts. They are the primary refuse of the last few firing events, whereas dispersed
+wood charcoal from scattered contexts are secondary refuse, potentially accrued over a
+more protracted period of time (Asouti and Austin 2005; Byrne et al. 2013; Chabal
+1990, 1992; Chabal et al. 1999; Dotte-Sarout et al. 2015; Théry-Parisot et al. 2010).
+Where wood charcoal analyses are employed for palaeoenvironmental reconstruction,
+hearths and concentrated charcoal features must be avoided, and scattered charcoal
+from occupation contexts must be examined in order to represent the accumulation of
+multiple fuel wood collection events, so that more of the site’s surrounding environment will be represented (Badal-García et al. 2012; Chabal et al. 1999; Dufraisse 2012,
+2014; Théry-Parisot et al. 2010; Scheel-Ybert 2002). Concentrated features, such as
+charcoal lenses and hearths, should be analysed in conjunction with scattered contexts
+to tease out the cultural factors that influence the creation of a charcoal assemblage at a
+site (Asouti and Austin 2005; Byrne et al. 2013; Théry-Parisot et al. 2010). However,
+in spite of this premise which is essential to the discipline, very few anthracological
+studies have explicitly employed micro-scale techniques to define the combustion
+context of a site in order to understand combustion processes better (e.g. Allué et al.
+2017; Damblon et al. 1996; Damblon and Haesaerts 2002; Vidal-Matutano 2016).
+In the Australian archaeological context, various geoarchaeological and archaeological analyses have explored the formation and post-depositional alterations of hearth
+features at open sites, particularly at Sturt National Park in arid western New South Wales
+(Fig. 1; Fanning and Holdaway 2001; Fanning et al. 2008, 2009; Holdaway et al. 2017)
+and Olympic Dam in northeastern South Australia (Fig. 1; Sullivan et al. 2012; Sullivan
+and Hughes 2013). Analysis of sedimentary processes within Australian rock shelters
+has concentrated largely on preservation potential (Ward 2004; Ward and Larcombe
+2003; Ward et al. 2006) and the vertical movement of artefacts (Allen and O’Connell
+2003; Bird et al. 2002; Hiscock 1985, 1990). With the exception of micromorphological
+analyses conducted at Carpenters Gap 1 rockshelter (Fig. 1; Vannieuwenhuyse 2016;
+Vannieuwenhuyse et al. 2017), which revealed the presence of combustion features’
+rake-out zones in the Late Pleistocene and Holocene archaeological levels, few attempts
+have been made in Australian archaeology to understand how fireplaces were built,
+maintained and used by Indigenous hunter-gatherer populations. Similarly, very few
+anthracological investigations have been conducted in Australian contexts, although the
+number of statistically viable analyses is starting to improve (see Byrne et al. 2013;
+Carah 2010; Dotte-Sarout et al. 2015; King 2015; Whitau et al. 2016a).
+In this paper, we present the results from combined anthracological and micromorphological analyses of combustion features at Riwi Cave in the southern Kimberley
+
+742
+
+Whitau et al.
+
+Fig. 1 Northern Western Australia with inset of Australia and sites mentioned in the text (CAD: CartoGIS,
+Australian National University)
+
+region of northern Western Australia. At Riwi, excavations have revealed a discontinuous occupation sequence over the past 45 ka showing numerous different combustion
+features interspersed within the deposit (Balme 2000; Vannieuwenhuyse 2016; Whitau
+et al. 2016a; Wood et al. 2016). This sequence represents an exceptional opportunity to
+undertake a combined and detailed geo-anthracological analysis in order to explore the
+depositional and post-depositional factors that have affected the creation and preservation of hearths. We propose a typology of these features based on their sedimentological and anthracological characteristics. The wood species identified within the hearths
+are compared with the spectrum of charcoal identified from contemporaneous scattered
+contexts, which are more representative of the broad vegetation changes in the vicinity
+of the site (see anthracological analysis in Whitau et al. 2016a). The combined
+anthracological and micromorphological approaches enable an investigation of the
+possible factors influencing wood selection, fire-use and deep-time combustion features
+related practices in an Australian archaeological context.
+Site Description, Context and Antiquity
+Riwi Cave is located in the southern Kimberley region of Western Australia (Fig. 1),
+within the traditional lands of the Indigenous Gooniyandi people, on the northern edge
+of the Great Sandy Desert. Located in the South Lawford Range and formed within
+Devonian Pillara and Sadler limestone facies (Playford et al. 2009, p. 251), the cave is
+situated within a valley enclosed by low-range outcrops, through which an ephemeral
+creek flows during the wet season. Receiving a sub-tropical to semi-arid climate within
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+
+743
+
+the 500-mm isohyet of the Australian Summer Monsoon (Bureau of Meteorology
+2015), the skeletal soils of the Riwi valley support a low tree steppe: hummock
+grassland (Triodia bitextura) with scattered bloodwood (Corymbia dicromophloia/
+Corymbia opaca) and snappy gum (Eucalyptus brevifolia). A variety of dry rainforest
+associated taxa, including Celtis strychnoides, Dodonaea polyzyga and Flueggea
+virosa grow along the limestone range and outliers (Whitau et al. 2016a). The cave
+is composed of two chambers, and a channel running through the north-west side of the
+front chamber, where a yellow ball flower tree (Mallotus nesophilus) grows, signifies
+water circulation in the cave during the wet season (for site review and plan, see
+Vannieuwenhuyse 2016; Wood et al. 2016; Whitau et al. 2016a). Vestigial evidence of
+past human occupation includes rock art on the cave walls and lithic artefacts scattered
+across the floor of the cave’s entrance.
+Riwi Cave was first excavated in 1999 (Balme 2000). In 2013, the original 1 m2 test
+pit (square 1) was emptied and the excavation area expanded, with the addition of
+2 × 1 m2 test pits inside the cave (squares 3 and 4) and one 1 m2 test pit at the entrance of
+the cave (square 5). All squares were taken to bedrock in 50 cm quadrants in arbitrary
+2 cm units, reaching an approximate maximum depth of 115 cm in squares 1, 3 and 4
+(Figs. 2 and 3). With the exception of certain features, which were removed separately,
+and bulk sediment samples, which were collected for each excavation unit, all excavated
+materials were sieved though nested 5 and 1.5 mm screens. Because the Holocene units
+were desiccated, flotation was avoided. A detailed description of both the cave and the
+excavation specifics can be found in Whitau et al. (2016a) and Wood et al. (2016).
+A precise radiocarbon chronology, coupled with a detailed optically stimulated luminescence (OSL) chronology, provides one of the most accurately dated archaeological sequences in Australia (Wood et al. 2016). The two chronologies are largely consistent
+throughout the sequence, both identify earliest occupation of the site around 46.4–44.6 ka
+
+Fig. 2 Riwi square 3 section and photos showing the provenience of combustion features and scattered
+charcoal assemblages used for the anthracological analysis. Refer to text and Fig. 4 for combustion features
+typology (photos and CAD: Dorcas Vannieuwenhuyse)
+
+744
+
+Whitau et al.
+
+Fig. 3 Riwi square 1 sections and photos showing combustion features sampled for the micromorphological
+analysis. Refer to text and Fig. 4 for combustion features typology (photos and CAD: Dorcas
+Vannieuwenhuyse)
+
+cal BP (95.4% probability range) at the top of SU12, and both confirm the presence of
+several chrono-stratigraphic hiatuses in the upper levels of the sequence (Vannieuwenhuyse
+2016; Wood et al. 2016). The radiocarbon chronology was mainly based on charcoal
+sampled from the numerous combustion features interspersed within the Riwi archaeological
+levels (Figs. 2 and 3). Detailed information about the provenance and stratigraphic context of
+the dated charcoal was gathered by the geoarchaeological observations undertaken in the
+field. The anthracological analysis provided background information on charcoal wood
+species and the context of charcoal production (see Table 1). These data are usually limited
+or not available in the construction of radiocarbon chronologies in Australian archaeological
+contexts (Ward et al. 2016), which are often only based on the age of charcoal fragments
+with little reference to the context of that charcoal’s production (Wood 2015; Wood et al.
+2016). The limited reporting of these data is in spite of recent work conducted elsewhere that
+characterises the spatial relationship between charcoal and charred seeds selected for
+radiocarbon analysis and associated archaeological materials and features (Asscher et al.
+2015; Boaretto 2015; Boaretto et al. 2009; Rebollo et al. 2011; Toffolo et al. 2012).
+
+Materials and Methods
+Sampling
+The Riwi anthracological and micromorphological samples were collected from the
+July 2013 excavations and from the archaeological material recovered and sorted in the
+
+F9-A
+
+F8-A
+
+F7-B
+
+F6-B
+
+F5-B
+
+F4-B
+
+F3-A
+
+F2-C
+
+Compact white ash with
+abundant charcoal
+inclusions in concave pit
+Hearth with packed chunks of
+charcoal in large concave
+pit, interspaces filled by
+ashes, very sharp boundary
+with SU7
+Hearth with packed chunks of
+charcoal in large concave
+pit, interspaces filled by
+ashes, very sharp boundary
+with SU7
+Compact ash with a high
+density of burnt bone and
+charcoal in the southeast
+corner
+Ashy sediment with charcoal
+inclusions, diffuse
+boundary with burnt red
+sediment
+
+6
+
+6
+
+6
+
+7
+
+7
+
+B
+
+B
+
+B
+
+B
+
+A
+
+7
+
+3
+
+A
+
+A
+
+2
+
+C
+
+1
+
+C
+
+3
+
+3
+
+3
+
+1
+
+3
+
+3
+
+3
+1
+3
+
+3
+
+13A
+
+11D
+
+10D
+
+D
+
+8D
+
+6B
+
+6C
+D
+4D, 5D
+
+2B, 3C
+
+R508 bottom,
+R507 top
+
+R509; R508 top
+
+Microm
+sample
+
+S-ANU35907
+
+SANU-39506
+
+S-ANU35920
+D-AMS 004070
+
+SANU-38814
+
+SANU-39505
+D-AMS004061
+S-ANU38226
+
+SANU-43337
+
+From feature (wall)
+
+From feature (wall)
+
+From sieve
+From feature (wall)
+From feature
+(excavation)
+From feature
+(excavation)
+From feature (wall)
+From feature (wall)
+
+From sieve
+
+Sampling
+context
+
+Brown grey layer (mix of very
+fine sand with abundant
+leaf litter, charcoal and ash)
+Grey-brown ashy layer with
+charcoal and few leaves
+Grey to black fine to very fine
+ash with abundant charcoal
+inclusions
+
+XU/
+Quad
+
+F1-C
+
+SQ
+
+Lab. code
+
+SU
+
+Feature description
+
+Feature
+
+Type
+
+Radiocarbon dates associated
+
+Features—details
+
+Table 1 Combustion features from Riwi squares 1, 3 and 4 analysed for the study
+
+Corymbia sp.
+
+Corymbia sp.
+
+Corymbia sp.
+Not determined
+
+Corymbia sp.
+
+Corymbia sp.
+Not determined
+Corymbia sp.
+
+Grevillea/Hakea sp.
+
+Wood species
+
+29,790 ± 190
+
+29,050 ± 180
+
+30,110 ± 200
+30,154 ± 141
+
+16,850 ± 100
+
+6385 ± 30
+6250 ± 35
+16,930 ± 50
+
+670 ± 20
+
+Radiocarbon
+age
+
+Between end of SU7
+(36,040–34,130)
+and start of SU6
+(34,920–33,850)
+Between end of SU7
+(36,040–34,130)
+and start of SU6
+(34,920–33,850)
+
+34,180–33,580
+
+34,040–33,170
+
+34,380–33,720
+34,370–33,780
+
+20,620–20,040
+
+N/D
+7245–7010
+20,620–20,040
+
+655–555
+
+Modelled calibrated
+age range 2σ
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+745
+
+SU
+
+SQ
+
+XU/
+Quad
+
+Microm
+sample
+
+Well-defined black, compact
+sediment with charcoal
+inclusions and gypsum
+nodules (2–5 mm)
+Well-defined black, compact
+sediment with charcoal
+inclusions and gypsum
+nodules (2–5 mm)
+
+F12-A
+
+11
+
+A
+
+11/12
+
+10/11
+
+A
+
+A
+
+10/11
+
+9/10
+
+A
+
+A
+
+1
+
+1
+
+3
+
+3
+
+3
+1
+
+3
+
+25B
+
+23A
+
+23B
+
+16B, 17B
+
+R502
+
+R503
+
+R504
+
+SANU-35909
+
+ANUA-13005
+
+S-ANU35919
+
+From level
+(excavation)
+From feature (wall)
+
+From feature (wall)
+
+Corymbia sp.
+(type R01)
+
+Not determined
+
+Unidentifiable
+
+Wood species
+
+41,590 ± 760
+
+41,300 ± 1020
+
+34,000 ± 310
+
+Radiocarbon
+age
+
+45,900–44,470
+
+Between end of SU11
+(45,080–42,110)
+and start of SU10
+(44,060–40,490)
+Between end of SU11
+(41,692–38,671)
+and start of SU10
+(40,018–37,932)
+Within SU11,
+between 45,420–
+43,900 and 45,080–
+42,110
+45,180–43,410
+
+Between end of SU8
+(38,130–36,010
+and start of SU7
+(37,670–35,590
+37,934–35,807)
+38,850–37,740
+
+Modelled calibrated
+age range 2σ
+
+A short description is given for each feature with associated combustion features types, stratigraphic context (SU) and related excavation units (XU) from where anthracological (A) and
+micromorphological (M) samples were collected. When available, radiocarbon dates directly associated with the feature or same stratigraphic level are given. Radiocarbon dates are
+mentioned calibrated against SHCal13 (Hogg et al. 2013) in OxCal v.4.2 (Bronk Ramsey, 2009) following radiocarbon chronology done for the site by Wood et al. (2016)
+
+F14-A
+
+F13-A
+
+F11-A
+
+Black, compact, fine
+sediment, with gypsum
+nodules (2–5 mm)
+Compact dark sediment
+with charcoal inclusions
+
+F10-A
+
+Small hearth with burnt
+sand, ash and abundant
+charcoal
+
+Sampling
+context
+
+Lab. code
+
+Type
+
+Feature
+
+Feature description
+
+Radiocarbon dates associated
+
+Features—details
+
+Table 1 (continued)
+
+746
+Whitau et al.
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+
+747
+
+laboratory. Twelve combustion features from Riwi square 3 were selected for
+anthracological analysis (Fig. 2) in conjunction with the analysis of scattered contexts
+from squares 3 and 4 presented in Whitau et al. (2016a). Six micromorphological
+samples targeting combustion features were extracted from the eastern sections of
+square 1 (Fig. 3). The proximity of the sampling and the similarities in type of
+combustion features observed between the two squares allows the comparison and
+incorporation of both anthracological and micromorphological results to build our
+analysis. Table 1 presents an overview of the different combustion features and
+scattered charcoal assemblages analysed for the study, their stratigraphic and
+sampling context, their typology and their antiquity. Radiocarbon ages follow those
+of Wood et al. (2016) and are given as modelled calibrated values calculated using
+OxCal 4.2, using SHCal13 or Marine13 calibration curves (Bronk Ramsey 2013;
+Ramsey and Lee 2013; Ramsey et al. 2013; Reimer et al. 2013).
+Microstratigraphic Methods
+Oriented micromorphological sediment samples were extracted using plaster bandages
+(Goldberg and Macphail 2003, 2005), which were then prepared following the standard
+fabrication processes for soil thin sections (Camuti and McGuire 1999; Courty et al.
+1989; FitzPatrick 1984). Resin impregnation of these monoliths was undertaken at the
+geotechnical facilities of the School of Earth and Environment at the University of
+Western Australia. Small pre-cut chips (54 × 63 × 10 mm) were sent to Spectrum
+Petrographics (Vancouver, Washington, USA) for thin sectioning. Thin sections were
+digitally scanned for archival and publication purposes (Arpin et al. 2002; De Keyser
+1999). Thin section observations and microphotography were carried out using a Nikon
+polarising petrographic microscope in the School of Earth and Environment at the
+University of Western Australia. Observations were made under different magnifications
+(×10, ×25, ×50, ×100, ×500) using both plane polarised (PPL) and cross polarised light
+(XPL). Descriptions follow the terminology standardised by Stoops et al. (2010). Identification and interpretation of components and pedofeatures are based on the available
+micromorphology literature (primarily Bullock et al. 1985; Courty et al. 1989; Goldberg
+and Macphail 2005; Stoops et al. 2010) and case studies as cited in the text.
+Anthracological Methods
+All anthracological analysis was conducted at the Department of Archaeology and
+Natural History at the Australian National University. Charcoal was identified by
+snapping fragments along the transverse, radial and tangential longitudinal sections,
+with the aid of a scalpel where necessary (following Leney and Casteel 1975). An
+Olympus BH-2 reflected lightfield/darkfield microscope was used to examine exposed
+sections at magnifications of ×20–500. Rare types and archetypal examples of taxa
+were selected for further observation and imaging with a JEOL JCM-6000 Neoscope
+scanning electron microscope (SEM). Following Chabal (1990, 1992) and ThéryParisot et al. (2010), quantification was conducted by count, rather than weight. All
+of the charcoal fragments over 2 mm were examined from each feature (see feature list
+in Table 1), except F1-C and F2-C, which are Riwi’s two Holocene stratigraphic units
+(SU1 and SU2 in Whitau et al. 2016a). F1-C and F2-C are composed of an
+
+748
+
+Whitau et al.
+
+accumulation of combustion features mixed with other natural inputs, wherein features
+could not be sampled separately due to their thin morphology and the palimpsest nature
+of their deposition. All of the excavated sediment from F1-C and F2-C was collected
+during excavation within squares 3 and 4, with all of the > 1.5 mm charcoal fragments
+transported to the laboratory for anthracological analysis. A minimum of 300 identifiable fragments was sampled for the Holocene units, and a riffle-box was used to split
+the samples to ensure an unbiased coverage of size differentiation.
+Following Whitau et al. (2016a), charcoal fragments are described as indeterminate
+when type-level identification cannot be positively assigned and indeterminable where
+fragments cannot be positively identified due to degradation. Archaeological material was
+compared with the reference material housed at the Australian National University described by Whitau et al. (2016a). Wood identification keys including Hope (1998), Ilic
+(1991) and two online databases: Inside Wood (http://insidewood.lib.ncsu.edu/) and the
+University of Queensland Online Archaeology Collections (http://uqarchaeologyreference.
+metadata.net/archaeobotany/list) were also employed to aid identification.
+
+Results
+Based on excavation, sediment and anthracological observations, combustion features in the
+Riwi sequence have been grouped into three different types (Fig. 4; Table 1): flat combustion features (type A), dug combustion features (type B) and palimpsest of combustion
+features (type C). The features analysed in this study are numbered from top to bottom, with
+a suffix for the combustion feature type. For example, F1-C is the highest feature in the
+sequence and a type C combustion feature. The sedimentary and anthracological characteristics of each type of combustion feature are detailed and compared in the following
+sections. Each type, with the exception of F3-A, appears to be found in subsequent chronostratigraphical levels, as demonstrated by the site’s sequence (Figs. 2 and 3).
+Description of Combustion Features in Riwi Sequence
+Interdisciplinary analyses conducted on the site have demonstrated that Riwi was occupied
+on a regular basis from 45 ka up to the European contact period, despite a visibly
+
+Fig. 4 Combustion feature types found in Riwi (modified from Vannieuwenhuyse 2016)
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+
+749
+
+discontinuous stratigraphic record (Vannieuwenhuyse 2016; Wood et al. 2016). The combustion features comprise the main non-material evidence for anthropogenic inputs within
+the Riwi sequence, and as such, provide exceptional insights into past behaviours over time.
+The Pleistocene layers (SU12 to SU5, from the bottom to approximately 20 cm below
+the surface) have an excellent integrity and reveal the presence of numerous flat
+combustion features (type A; F8 to F14) appearing at the top of SU12, approximately
+40 cm from the bedrock (Figs. 2 and 3). Several dug combustion features (type B; F4 to
+F7) are visible at the top of the Pleistocene sequence and at the bottom of the Holocene
+layers. In most of the observed sections, a sharp disconformity places Holocene ash-rich
+deposit (type C; F1 and F2) directly above the orange Pleistocene layers dated to 34–
+31 ka. However, discrete episodes of sedimentation have been preserved in some places,
+in particular, SU3, which includes charcoal and hearths (F3-A) dated to the Last Glacial
+Maximum (LGM, two charcoal dated at 20620–20040 cal BP, see Table 1) and is only
+visible in the south-east corner of square 3 (Fig. 2, see also figures in Vannieuwenhuyse
+2016; Wood et al. 2016). The Holocene layers (F1-C and F2-C) are dated to 7 ka and
+0.8–0.7 ka and are mainly composed of an ash-rich accumulation (type C) that encompasses compacted combustion residues (ash, charcoal) and other vegetal organic remains. Preservation of organic material via desiccation within the Holocene layers is
+exceptional and includes seeds, fruit fragments, paperbark fragments (Melaleuca spp.
+bark that had and still has a myriad of uses across Aboriginal groups of Australia, e.g.
+Wynjorrotj et al. 2005; Yunupingu et al. 1995), wood shavings and two wooden artefact
+fragments (Dilkes-Hall 2014; Langley et al. 2016; Whitau et al. 2016b).
+Microstratigraphic Results
+The Riwi natural sequence is composed of a mix of geogenic, botanical and animal bone
+fragments in various proportions (detailed results of the Riwi archaeo-stratigraphical
+sequence geoarchaeological analysis and a full description of the micromorphological
+thin sections analysed can be found in Vannieuwenhuyse 2016). While the Pleistocene
+layers are predominantly composed of geogenic particles, giving the sediment a strong
+orange hue within which combustion features are easily distinguishable, the Holocene
+deposit is grey because of the predominant proportion of combusted botanical residues
+(Figs. 2 and 3). Across the five combustion features sampled for micromorphology (three
+type A: F11-A, F13-A, F14-A; one type B: F6-B; and one type C: F2-C, see Table 1; Fig.
+3), the main combustion by-products observed are vegetal residues (phytoliths, ash, seeds,
+wood charcoal) and some animal bone fragments (Fig. 5), observed at various burning
+stages (partially burnt, charred, turned to ash) and in varying states of preservation
+(depending on syn- and post-depositional modifications, e.g. decomposition, alterations).
+Anthracological Results
+Across the features sampled (seven type A: F3-A, F8-A, F9-A, F10-A, F11-A, F12-A, F13A; three type B: F4-B, F5-B, F7-B; and two type C: F1-C, F2-C, see Table 1; Fig. 2), a total
+of 2824 charcoal fragments were analysed, 1861 of which were positively identified to
+varying taxonomic ranks. Table 2 lists the positively identified taxa, with their relative
+frequencies for each feature expressed in terms of absolute fragment counts and the
+percentages of the total number of fragments analysed. A total of 19 taxa, including
+
+750
+
+Whitau et al.
+
+Fig. 5 Microphotographs of combustion by-products observed in Riwi thin sections (reproduced from
+Vannieuwenhuyse 2016). a Burnt bone displaying brownish colour (R515B, PPL, scale 100 μm); b inflorescence fragment charred by heat of combustion features and microcharcoals mixed in geogenic sediments (F14A, thin section R502B, PPL, scale 500 μm); c, d charcoal fragments and ash particles, note the ash calcitic
+crystal (bright) high interference colours (F6-B, R507C, PPL and XPL, scale 1000 μm); e non-disturbed ashes
+showing colour variation from yellowish to grey and the presence of phytoliths in the outer parts (F2-C,
+R509A, PPL, scales 500 and 1000 μm); f articulated ash particles with typical prismatic shape at high
+magnification (F2-C, R508B, XPL, scale 100 μm)
+
+two family level identifications (Lamiaceae sp. and Myrtaceae sp.), were determined
+from nine family groups. A full description of the archaeological charcoal types is
+presented in Whitau et al. (2016a, Appendix 1). Results are discussed in more detail
+in ‘Types of Combustion Features—Micromorphological and Anthracological
+Characteristics’.
+Saturation curves are presented in Fig. 6, which plot the number of identifiable charcoal
+fragments against the number of identifiable taxa for each feature. Each plateau indicates
+
+Context
+
+Bauhinia
+sp.
+
+Mallotus sp.
+
+Proportion of total number of analysed fragments
+C
+F1-C
+8.7
+0.0
+C
+F2-C
+1.5
+1.0
+A
+F3-A
+0.5
+0.5
+B
+F4-B
+0.7
+1.6
+B
+F5-B
+0.2
+1.3
+B
+F7-B
+0.0
+1.3
+A
+F8-A
+0.0
+0.0
+A
+F9-A
+0.0
+0.9
+A
+F10-A
+0.0
+0.0
+
+0
+4
+1
+7
+6
+6
+0
+2
+0
+0
+0
+0
+
+Fabaceae
+
+Euphorbiaceae
+
+Absolute fragment counts
+C
+F1-C
+45
+C
+F2-C
+6
+A
+F3-A
+1
+B
+F4-B
+3
+B
+F5-B
+1
+B
+F7-B
+0
+A
+F8-A
+0
+A
+F9-A
+0
+A
+F10-A
+0
+A
+F11-A
+0
+A
+F12-A
+0
+A
+F13-A
+0
+
+Type
+
+4.2
+1.2
+3.0
+4.8
+5.4
+4.6
+13.0
+39.8
+0.0
+
+22
+5
+6
+21
+26
+22
+3
+92
+0
+0
+0
+0
+
+Erythrophleum
+sp.
+
+0.0
+1.5
+1.0
+0.7
+1.5
+0.4
+0.0
+12.1
+0.0
+
+0
+6
+2
+3
+7
+2
+0
+28
+0
+0
+0
+0
+
+Vachellia
+sp.
+
+5.0
+5.6
+3.0
+2.1
+0.2
+0.0
+0.0
+1.3
+0.0
+
+26
+23
+6
+9
+1
+0
+0
+3
+0
+0
+0
+0
+
+Vitex
+sp.
+
+Lamiaceae
+
+1.2
+2.2
+0.5
+0.5
+0.0
+0.8
+0.0
+3.5
+0.0
+
+6
+9
+1
+2
+0
+4
+0
+8
+0
+0
+0
+0
+
+Lamiaceae
+sp.
+
+2.5
+5.6
+1.0
+1.6
+0.0
+0.2
+0.0
+0.0
+0.0
+
+13
+23
+2
+7
+0
+1
+0
+0
+0
+0
+0
+0
+
+Ficus sp. type
+A
+
+Moraceae
+
+1.5
+1.5
+1.5
+0.9
+0.0
+0.0
+0.0
+0.0
+0.0
+
+8
+6
+3
+4
+0
+0
+0
+0
+0
+0
+0
+0
+
+Ficus sp. type
+B
+
+0.0
+0.5
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+Ficus
+indeterminate
+
+31.5
+39.7
+22.1
+31.4
+32.6
+34.0
+8.7
+5.2
+0.0
+
+163
+163
+44
+138
+156
+163
+2
+12
+0
+0
+0
+1
+
+Corymbia
+sp.
+
+Myrtaceae
+
+3.9
+0.2
+7.0
+3.0
+11.5
+7.1
+0.0
+3.0
+0.0
+
+20
+1
+14
+13
+55
+34
+0
+7
+0
+1
+3
+1
+
+Eucalyptus
+sp. type A
+
+Table 2 Anthracological results from Riwi square 3 for combustion features types A, B and C, expressed in both absolute fragment counts and as percentages of the total number of
+analysed fragments
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+751
+
+Melaleuca
+sp.
+
+18
+22
+0
+7
+25
+8
+0
+2
+0
+1
+0
+0
+
+Proportion of total number of analysed fragments
+C
+0.2
+1.0
+3.5
+C
+0.2
+0.2
+5.4
+
+Absolute fragment counts
+C
+1
+5
+C
+1
+1
+A
+1
+0
+B
+1
+3
+B
+18
+11
+B
+19
+20
+A
+0
+0
+A
+0
+2
+A
+0
+0
+A
+0
+1
+A
+0
+0
+A
+0
+0
+
+0.0
+0.2
+
+0
+1
+0
+0
+3
+5
+0
+1
+0
+0
+1
+0
+
+Myrtaceae
+sp
+
+6.6
+6.6
+
+34
+27
+3
+22
+2
+4
+1
+0
+0
+0
+0
+0
+
+Flueggea
+sp.
+
+Eucalyptus
+sp.
+indeterminate
+
+0.0
+0.0
+0.0
+
+Vachellia
+sp.
+
+Eucaltptus
+sp. type B
+
+0.0
+0.0
+0.0
+
+Erythrophleum
+sp.
+
+Phyllanthaceae
+
+0.0
+0.0
+0.0
+
+Bauhinia
+sp.
+
+Mallotus sp.
+
+0.0
+0.0
+0.0
+
+Fabaceae
+
+Euphorbiaceae
+
+Myrtaceae
+
+F11-A
+F12-A
+F13-A
+
+A
+A
+A
+
+Type
+
+Context
+
+Type
+
+Table 2 (continued)
+
+0.0
+0.0
+0.0
+
+0.4
+0.0
+
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+Grevillea/
+Hakea sp.
+
+0.0
+0.0
+0.0
+
+1.4
+1.2
+
+7
+5
+17
+10
+3
+16
+0
+0
+0
+0
+0
+0
+
+Brucea sp.
+
+0.0
+0.0
+0.0
+
+0.6
+5.6
+
+3
+23
+0
+10
+3
+5
+0
+1
+0
+0
+0
+0
+
+Celtis sp.
+
+72.0
+79.8
+
+373
+328
+101
+260
+317
+309
+6
+158
+0
+3
+4
+2
+
+Number of
+Identifiable
+Fragments
+
+Ficus sp. type
+B
+
+Ulmaceae
+
+Ficus sp. type
+A
+
+Moraceae
+
+Simaroubaceae
+
+Lamiaceae
+sp.
+
+Proteaceae
+
+0.0
+0.0
+0.0
+
+Vitex
+sp.
+
+Lamiaceae
+
+0.0
+0.0
+0.0
+
+Ficus
+indeterminate
+
+28.0
+20.2
+
+145
+83
+98
+179
+162
+170
+17
+73
+6
+12
+7
+11
+
+Indeterminable
+
+0.0
+0.0
+7.7
+
+Corymbia
+sp.
+
+Myrtaceae
+
+100
+100
+
+518
+411
+199
+439
+479
+479
+23
+231
+6
+15
+11
+13
+
+Total number
+of analysed
+fragments
+
+6.7
+27.3
+7.7
+
+Eucalyptus
+sp. type A
+
+752
+Whitau et al.
+
+Myrtaceae
+sp
+
+0.5
+0.2
+3.8
+4.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+0.0
+0.7
+2.3
+4.2
+0.0
+0.9
+0.0
+6.7
+0.0
+0.0
+
+0.0
+1.6
+5.2
+1.7
+0.0
+0.9
+0.0
+6.7
+0.0
+0.0
+
+0.0
+0.0
+0.6
+1.0
+0.0
+0.4
+0.0
+0.0
+9.1
+0.0
+
+1.5
+5.0
+0.4
+0.8
+4.3
+0.0
+0.0
+0.0
+0.0
+0.0
+
+Flueggea
+sp.
+
+Melaleuca
+sp.
+
+Eucaltptus
+sp. type B
+
+Eucalyptus
+sp.
+indeterminate
+
+Phyllanthaceae
+
+Myrtaceae
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+Grevillea/
+Hakea sp.
+
+Proteaceae
+
+Results for F1-C and F2-C (SU1 and SU2) are reproduced from Whitau et al. (2016a)
+
+A
+B
+B
+B
+A
+A
+A
+A
+A
+A
+
+Type
+
+Table 2 (continued)
+
+8.5
+2.3
+0.6
+3.3
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+Brucea sp.
+
+Simaroubaceae
+
+0.0
+2.3
+0.6
+1.0
+0.0
+0.4
+0.0
+0.0
+0.0
+0.0
+
+Celtis sp.
+
+Ulmaceae
+
+50.8
+59.2
+66.2
+64.5
+26.1
+68.4
+0.0
+20.0
+36.4
+15.4
+
+Number of
+Identifiable
+Fragments
+
+49.2
+40.8
+33.8
+35.5
+73.9
+31.6
+100.0
+80.0
+63.6
+84.6
+
+Indeterminable
+
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+
+Total number
+of analysed
+fragments
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+753
+
+754
+
+Whitau et al.
+
+Fig. 6 Saturation curves for combustion features types A and B (CAD: CartoGIS, Australian National University)
+
+the number of fragments that need to be identified in order for the diversity of the
+archaeological assemblage to be appropriately represented (Byrne et al. 2013; Chabal
+et al. 1999; Dotte-Sarout et al. 2015; Scheel-Ybert 2002). Across the 12 contexts analysed,
+seven saturation curves (F1-C, F2-C, F4-B, F5-B, F7-B, F8-A, F9-A) reach plateaux,
+illustrating that these contexts provide viable representations of the assemblage diversity.
+The F3-A, F10-A, F11-A, F12-A and F13-A curves do not stabilise. While the F10-A,
+F11-A, F12-A, F13-A, SU11 and SU12 assemblages comprise a total of 67 identifiable
+fragments and are excluded from ‘Fuel Wood Management: Comparing Concentrated and
+Scattered Charcoal Contexts’, the F3-A assemblage, with 101 identifiable fragments, is of
+a reasonable size, almost reaching the mean plateau point of the other viable sample sizes,
+and is cautiously included in comparisons with scattered contexts.
+Types of Combustion Features—Micromorphological and Anthracological
+Characteristics
+The following sections describe the sedimentary characteristics and wood charcoal
+assemblages identified for each of the combustion feature types.
+Type a Flat Combustion Features (F3-A, F8-A, F9-A, F10-A, F11-A, F12-A, F13-A)
+Abundant throughout the Pleistocene units dated from 45 to 34 ka (SU11 to SU7), type
+A combustion features are flat lenses that show a complex layering (Fig. 4). Four
+different microfacies were identified in type A combustion features (illustrated by
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+
+755
+
+micromorphological observations undertaken for F12-A and F13-A, Fig. 7, see also
+Appendix 1 for micromorphological descriptions of the microstratigraphic units and
+microfacies), with from bottom to top:
+&
+&
+&
+&
+
+(1) Dark brown layer (concave shapes visible in stratigraphy) composed of geogenic
+sands, with a high proportion of microcharcoal and carbonised vegetal particles (Fig. 7c).
+(2) Orange-pinkish layer composed of geogenic sands and ash particles (Fig. 7b).
+(3) Layer with charcoal chunks embedded within the geogenic sands (Fig. 7a).
+(4) Whitish layer (Fig. 7c) mostly composed of ash particles (pseudomorphs of plant
+calcium oxalate) and phytoliths that are often still in anatomic connection (articulated).
+
+With the exception of F3-A and F9-A, charcoal preservation from each of the analysed
+type A features is very poor. The few charcoal recovered from F10-A, F11-A, F12-A and
+F13-A are soft and rounded, with all of the indeterminable fragments unable to be examined
+due to brittleness, disintegrating to ash particles and providing no clean sections. Of the 45
+
+Fig. 7 Microfacies types in Pleistocene type A flat combustion features (modified from Vannieuwenhuyse
+2016). Left, detailed view of flat combustion features F13-A and F14-A in Riwi square 1 eastern section
+showing location of micromorphological samples. Middle, scan of thin sections R502 and R503 with
+microstratigraphic units identified in each thin section, microphotos location and hearth microfacies types
+(M1 to M4). Right, microphotographs of type A flat combustion features microfacies types (numbering in
+reference to Fig. 4 and in-text description). a Top layer with charcoal fragments (microfacies 3) (F13-A, R503G,
+PPL, scale 1000 μm); b orange-pinkish (microfacies 2) and whitish layers (microfacies 4) (F14-A, R503A/B,
+PPL, scale 1000 μm); c dark carbonised organic-rich layer (microfacies 1) (F14-A, R502B, PPL, scale 100 μm)
+
+756
+
+Whitau et al.
+
+charcoal recovered from across these four features, only 9 were identifiable, predominantly
+Eucalyptus sp. type A, and all of the Myrtaceae family. By contrast, in terms of both
+composition and preservation, the F8-A feature produced six identifiable fragments, three
+were identified Erythrophleum sp., two Corymbia sp. and one Flueggea sp., while eleven of
+the indeterminable fragments were too brittle and six were too vitrified.
+The two type A features which produced reasonable anthracological assemblages are F9A (Ni = 158) and F3-A (Ni = 101). F9-A, which is located at the bottom of SU7 (Fig. 2) is the
+only Riwi anthracological assemblage that is not dominated by Myrtaceae: Erythrophleum
+sp. (39.8%) dominates with subsidiary Vachellia sp. (12.1%), Corymbia sp. (5.2%) and
+Eucalyptus sp. (3.8%). F9-A is also anomalous in that it is the only Pleistocene unit to
+produce an assemblage with one individual taxon count (Erythrophleum sp., Ni = 92) that is
+higher than the indeterminable count (72 fragments) for that unit. Observed within SU3—a
+stratigraphic layer dated from the LGM timing (Table 1) that shows evidence of postdepositional bioturbation (Fig. 2)—F3-A is the youngest type A feature analysed and sits
+above the type B contexts developed in the next section. The dominant taxon for this unit is
+Corymbia sp., with subsidiary Brucea sp. and Eucalyptus sp. charcoal. Comprising 8.5% of
+the total charcoal examined within the F3-A unit, Brucea sp. charcoal were identified here in
+their highest proportion of the Riwi anthracological assemblage.
+Type B Dug Combustion Features (F4-B, F5-B, F6-B, F7-B)
+Around 34 ka, type B combustion features are observed in section (Figs. 2 and 3).
+These dug features sometimes cut through the flat combustion features immediately
+below, disturbing the orientation of particles (Fig. 8b). Type B combustion features
+contain large fragments of charcoal embedded within a fine matrix of geogenic sands
+and/or random oriented ash particles (Fig. 8a).
+The three type B features selected for wood charcoal analysis (F4-B, F5-B, F7-B) each
+have a relatively low percentage of indeterminable fragments, ranging from 33.8% for F5B to 40.8% for F4-B. Corymbia sp. is the dominant taxon across the three type B features,
+with subsidiary Eucalyptus sp. and Erythrophleum sp. The feature F4-B, which has the
+lowest proportion of Eucalyptus sp. (3.9%) compared with F5-B and F7-B (17.6 and
+15.3%, respectively), also has a higher proportion of Flueggea sp. (5.0%) than these other
+type B features, a proportion which is not duplicated in the other Pleistocene contexts.
+Type C Palimpsest Combustion Features (F1-C, F2-C)
+Type C features are only present in the Holocene deposits and are accumulations composed
+mainly of by-products of combustion (predominantly ash and charcoal), along with a mix of
+non-burnt vegetal parts and a minor proportion of geogenic sands (Fig. 9). The high proportion
+of combustion residues gives the Holocene deposits its grey colour (Figs. 2 and 3). Under a
+microscope, the microfacies show a very bright calcitic crystallic b-fabric as a result of the high
+proportion of ash particles (pseudomorphs of plant tissues) (Fig. 9b, d). These particles are
+found both in anatomic connection (Fig. 9c, d) and disturbed (Fig. 9a, b), which indicates some
+mixing in this level, resulting from maintenance activities such as reworking (cleaning rake-out
+of hearths but also human and animal trampling and turbation, see Fig. 4).
+Yielding exceptional preservation of organics, Riwi’s two excavated Holocene units, F1C and F2-C, produced the lowest proportions of indeterminable charcoal of all analysed
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+
+757
+
+Fig. 8 Microfacies types in Pleistocene type B dug combustion features (modified from Vannieuwenhuyse
+2016). Top left, detailed view of combustion feature F6-B in Riwi square 1 east section showing location of
+micromorphological sample. Bottom left, scan of thin section R507 showing the different microstratigraphic
+units identified. Right, microphotographs of two different microfacies identified. a Mixed charcoal fragments,
+ash particles and geogenic sands (R507C, PPL, scale 100 μm); b bedded organic particles below the
+combustion feature that could indicate digging, the particles being oriented in the same direction due to
+sloping (R507A, PPL, scale 1000 μm)
+
+contexts (28.0 and 20.2%, respectively). Dominated by Corymbia sp. (39.7%), with
+subsidiary Flueggea sp. and other dry rainforest taxa, F2-C is the most diverse unit
+anthracologically (14 taxa). F1-C is broadly similar to F2-C; Corymbia sp. (31.5%)
+dominates with subsidiary Mallotus sp. (8.7%) and Flueggea sp. (6.6%). The high proportion of Mallotus sp. is not duplicated elsewhere in the Riwi anthracological record.
+
+Discussion: Fire Management at Riwi Cave
+The Building Processes of Combustion Features and Their Hypothetical
+Functions
+Type A Flat Combustion Features (F3-A, F8-A, F9-A, F10-A, F11-A, F12-A, F13-A)
+The micromorphological evidence demonstrates that the flat combustion features found
+in the Pleistocene layers were constructed in the same way, where the fire was lit
+
+758
+
+Whitau et al.
+
+Fig. 9 Microfacies types in Holocene type C combustion feature (modified from Vannieuwenhuyse 2016).
+Left: thin section R509 sampled in SU2 (F2-C) showing microfacies identified. a, b Mixed facies of nonarticulated ash particles and geogenic sands (PPL and XPL, scale 100 μm); c, d accumulation of non-disturbed
+ashes including calcitic crystal pseudomorphs of plant calcium oxalate (bright and white in XPL) and isotropic
+phytoliths (appear dark in XPL because optically isotropic) (PPL and XPL, scale 1 cm)
+
+directly onto the ground surface (Fig. 4). The underlying substrate is affected by heat in
+two ways. The dark colour of the concave dark brown layer (1) is the result of the
+carbonisation of vegetal organics already present in the geogenic matrix. Their
+carbonisation was induced by the heat radiance from the fire lit on the ground surface
+above the sediments. The orange-pinkish layer (2) corresponds to the surface where the
+fire was lit and where temperatures were high enough to induce both the total
+combustion of organics already present in the sediment and the typical reddening of
+the sediment resulting from the oxidation of iron components (Aldeias et al. 2016;
+Canti and Linford 2000). In comparison with layer 1, the lighter hue of layer 2 is also a
+result of the presence of ash from the layers above.
+The top of layers 1 and 2 are the remnants of a ‘past occupation surface’ where the
+fire was lit (as formulated by Mallol et al. 2013b), where people walked and lived in the
+cave at a certain time in the past. The layer with charcoal (3) corresponds to the
+combustion itself and contains big charcoal fragments and carbonised organics. Observation of the charcoal sampled for the anthracology analysis shows that they tend to be
+rounded and brittle in all of the analysed Pleistocene type A flat combustion features
+(with the exception of the two youngest features F3-A and F9-A). The poor preservation of the charcoal structure is mainly explained by the properties of the wood charcoal
+itself (differential preservation depending on species, use of wet or dry wood) as
+already suggested by Théry-Parisot et al. (2010). The top whitish layer (4) is composed
+of ash particles that are mostly still in anatomic connection. The anatomic connection of
+the ash particles indicates that the firing event was in situ, and that these structures were
+not used repeatedly (Mentzer 2014; Miller et al. 2010). The excellent preservation of
+these structures was permitted by a relatively rapid burial by aeolian natural sedimentation after each firing episode with evidence of only minor post-depositional processes, as demonstrated by the steady sediment deposition rate of Pleistocene levels (Wood
+et al. 2016) and the geoarchaeological analysis of the sequence (Vannieuwenhuyse
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+
+759
+
+2016). Aeolian sedimentation, in conjunction with the post-depositional processes
+observed in the sequence, in particular the formation of pedogenic gypsum, points to
+relatively dry conditions over the Pleistocene period. Ash particles were not affected by
+dissolution, which indicates a relative dryness of the sequence through time
+(Vannieuwenhuyse 2016).
+The fact that only few charcoal fragments are found in most type A combustion
+features (F8-A, F10-A, F11-A, F12-A, F13-A, see Table 2), and that the combustion
+by-products associated are mostly ash seems also to indicate that the wood burned in
+these contexts was mostly completely combusted. As such, this type of combustion
+feature probably indicates short lived activities or short visits to the cave, where the
+open air fire was left to burn until the fire died (cf. Chabal et al. 1999). Two type A
+features yielded more than 11 identifiable charcoal fragments: F3-A and F9-A (see
+saturation curves in Fig. 6). If the type A features represent short-lived, episodic
+combustion events, then these assemblages would be expected to have a lower diversity
+than their coincident scattered contexts, since the former are hypothesised to represent
+one or two fuel wood collection trips, the latter many (Asouti and Austin 2005; Byrne
+et al. 2013; Chabal 1990, 1992; Chabal et al. 1999; Dotte-Sarout et al. 2015; ThéryParisot et al. 2010). The F9-A feature, which yielded 158 fragments of identifiable
+charcoal, has a low taxa diversity (8 taxa). This low diversity is coupled with the lowest
+proportion of indeterminable charcoal (31.6%) of any of the Pleistocene units, indicating that this low diversity is not an effect of taphonomic factors acting on the
+assemblage; supporting the hypothesis that the type A hearth structures are episodic
+archaeological contexts. The F3-A feature, which sits above the type B features in
+between the Pleistocene and Holocene sediments, is an exception to this pattern as it
+yields a relatively high number of identifiable fragments (Ni = 101) for a type A feature
+and a diverse assemblage (12 taxa). This feature is discussed in further detail in ‘Fuel
+Wood Management: Comparing Concentrated and Scattered Charcoal Contexts’ in
+relation to its context.
+Altogether, the micromorphological and anthracological analyses of the type A
+features indicate that these could have been small open-air hearths typically used as
+single-firing episodes, for heating, lighting and cooking purposes during short term
+visits to the site, where the fire was left to burn until the fuel wood was totally
+combusted. The type A combustion features (excluding LGM F3-A that shows a
+different pattern and is discussed in further detail in ‘Fuel Wood Management: Comparing Concentrated and Scattered Charcoal Contexts’ in relation to its context) were
+all rapidly and successively buried by aeolian sedimentation (Vannieuwenhuyse 2016)
+over a period of 14,000 years (from the first occupation level dated around 45 ka to the
+top of SU5 around 31 ka), indicating that visitation to the site was episodic and
+recurrent over many generations.
+Type B Dug Combustion Features (F4-B, F5-B, F6-B, F7-B)
+The type B dug combustion features, which are found in the upper Pleistocene levels
+(SU7) and date to around 34 ka (Table 1; Wood et al. 2016), present completely
+different sedimentary characteristics to the flat type A combustion features. The type B
+features contain many more charcoal than the type A flat hearths (Table 1; Fig. 5c, d),
+indicating a more incomplete combustion process. At the micromorphological scale,
+
+760
+
+Whitau et al.
+
+the ash particles are generally not observed in anatomic connection, which indicates
+that the combustion residues have been displaced. Geogenic sand is intimately mixed
+with the combustion by-products (Fig. 8a) within the structures and could be related to
+the covering of the fire with sediment (Fig. 4). Baking food in ground ovens is a
+cooking practice frequently recorded ethnographically amongst some Aboriginal
+groups (e.g. Gould 1968; Harney 1951) and was experienced by one of the authors
+(RW) during her fieldwork with Gooniyandi traditional owners. The sedimentary facies
+observed in the structure reflect an earth oven functioning, from the scraping preparation step to the abandonment of the structure in a disrupted state. Indeed, if the type B
+features were used as cooking pits, which were covered with earth as a ground oven,
+both the restricted exposure to oxygen and the extinction of the fire at the expected
+cooking time might explain why combustion of the fuel was incomplete (Antal and
+Grønli 2003). Such conditions would typically produce larger, more solid charcoal than
+the type A hearths, which were exposed to oxygen and left to burn until resulting in
+complete combustion of the wood. Similar dense and dug features have been
+interpreted as possible cooking pits in Holocene and terminal Pleistocene layers of
+rockshelter excavations in western and central Australia (Byrne et al. 2013; Smith et al.
+1995), but here, our interpretation is supported by both micromorphological and
+anthracological lines of evidence.
+Type C Palimpsest of Combustion Features (F1-C, F2-C)
+The Holocene layers are mainly composed of a compact ash-rich deposit, which
+represents a palimpsest of in situ fire places and secondary contexts of ash accumulations (hearth rake-out and ash dumps) in conjunction with material evidence for diverse
+activities taking place in the cave (botanical remains and artefacts). Often individual
+features are difficult to distinguish but remnants of types A and B combustion features
+were both observed throughout these levels. This absence of clear layering is also
+observed at the microscale, with most of the particles in the Holocene deposits
+observed in random patterns, with both fresh and carbonised organic matter mixed
+with geogenic sands and vegetal organic debris, fresh or carbonised (Fig. 9a, b). These
+observations confirm that intense processes such as trampling, mixing and bioturbation
+due to the presence of humans and animals in the cave have disturbed the primary
+organisation of the upper levels of the deposit (Fig. 4).
+Based on the microstratigraphic and anthracological analyses as well as archaeological material evidence from the site (Balme 2000; Vannieuwenhuyse 2016; Whitau
+et al. 2016a, b; Wood et al. 2016), the Holocene units seem to reflect a more consistent
+occupation at Riwi than the earlier Pleistocene layers. In other Aboriginal archaeological sites around Australia, the Mid- to Late Holocene is often described as a period of
+intensification, with various interpretations of changes observed in the archaeological
+record extrapolated from single site contexts to encompass regional and pan-continental
+spatio-temporal narratives (see summaries in Langley et al. 2011; Ulm 2013). In the
+Kimberley region, increased abundance in charcoal and lithic artefacts has been argued
+to signify a more intense occupation during the Holocene (e.g. Dortch and Roberts
+1996; O’Connor 1995, 1999; Veitch 1996). In terms of lithic artefacts, recent reductionbased analyses (e.g. Maloney and O’Connor 2014; Maloney et al. 2014) have demonstrated that peaks in lithic artefact discard directly correlate to distinct technological
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+
+761
+
+innovations, in line with observations of other assemblages in northern Australia (e.g.
+Clarkson 2008).
+Fuel Wood Management: Comparing Concentrated and Scattered Charcoal
+Contexts
+Table 3 and Fig. 10 present the anthracological results from seven combustion features
+(F1-C, F2-C, F3-A, F4-B, F5-B, F7-B and F9-A) alongside the stratigraphic contexts
+SU7, SU8, SU9 and SU10 (reproduced from Whitau et al. 2016a) in relation to
+vegetation type, where taxa have been grouped into five categories: bloodwood/
+eucalypt savanna, non-eucalypt savanna, dry rainforest, riparian and indeterminable
+(Fig. 11). Bloodwood/eucalypt savanna is comprised of all the Myrtaceae except for
+Melaleuca sp., which is the sole charcoal type in the riparian category (e.g. Fig 11f).
+Non-eucalypt savanna is composed of those arid-adapted, sclerophyll taxa that colonise
+the valley floor (e.g. Fig. 11g), and the dry rainforest taxa, traditionally associated with
+monsoonal vine thicket, are those which inhabit the limestone range and outliers
+(Fig. 11b). The dry rainforest component is comprised of Indo-Malayan taxa, which
+vary considerably at the family level, in comparison with the deep-time Australian flora
+(as represented by the other vegetation types) that comprise low familial and high
+species-level diversity. The dry rainforest taxa are important economically to huntergatherer populations (Dilkes-Hall 2014; Whitau et al. 2016a).
+In Whitau et al. (2016a), we argue that firewood was predominantly collected from
+the valley floor throughout the occupation sequence (Fig. 11a), where the open
+vegetation would have allowed for easy collection in close proximity to the cave,
+following the Principle of Least Effort (Shackleton and Prins 1993). Across all features,
+with the exception of F9-A, firewood was most commonly collected from the
+bloodwood/eucalypt savanna species of the valley floor (Fig. 11a, f), which was
+dominated by Eucalyptus species, until the time of SU7 deposition, when the vegetation shifted to Corymbia sp. dominance, coupled with an increase in shrubby, noneucalypt savanna taxa (Erythrophleum sp. and Vachellia sp.) (Fig. 11g) (Whitau et al.
+2016a). From SU7 onwards, Corymbia sp. maintains its dominance in the
+anthracological record throughout type B and the anomalous F3-A feature until the
+Early Holocene. The F1-C and F2-C Holocene units reveal that Riwi’s highest charcoal
+diversity (13 and 14 taxa respectively, see Table 1) is mostly created by larger
+proportions of dry rainforest taxa and might reflect a different firewood collection
+strategy, with more fuel collected from the dry rainforest taxa of the limestone outcrops
+(Fig. 11b). This higher charcoal diversity could also be the result of better preservation
+of dry rainforest taxa in the upper units of the sequence. The latter seems likely to have
+been a significant contributing factor, with the exceptional organic preservation of the
+Holocene units producing the lowest proportions of indeterminable charcoal (F1C = 28.0% and F2-C = 20.2%, Table 2).
+At Riwi, F9-A is the sole context where non-eucalypt savanna taxa dominate the
+anthracological assemblage, in this case principally represented by Erythrophleum sp.
+(Fig. 11g). Even the nine charcoal identified from the F10-A, F11-A, F12-A and F13A, type A features are all Myrtaceae (Fig. 11c, f) and predominantly Eucalyptus sp.,
+which reflects, albeit with very poor assemblage numbers, the composition of the
+Pleistocene units (SU8–SU10) in which these features were located. The F9-A hearth
+
+C
+C
+A
+B
+B
+
+Type
+
+C
+C
+A
+B
+B
+B
+A
+SU
+SU
+SU
+SU
+
+5
+5.6
+3
+2.1
+0.2
+
+1.2
+2.2
+0.5
+0.5
+0
+
+2.5
+5.6
+1
+1.6
+0
+
+Ficus sp. Type A
+
+1
+0.2
+0
+0.7
+2.3
+4.2
+0.8
+1.3
+9.7
+5.4
+4.3
+
+1.5
+1.5
+1.5
+1
+0
+
+Ficus sp. Type B
+
+0
+0.2
+0
+0
+0.6
+1
+0.4
+0.4
+0.8
+0.8
+1.2
+
+0
+1
+0.5
+1.6
+1.3
+1.3
+0.8
+0
+0.3
+0
+0
+
+0
+0.5
+0
+0
+0
+
+Ficus indeterminate
+
+36.6
+40.5
+29.6
+35.3
+50.8
+50.3
+9.4
+32.2
+31
+40.8
+21.5
+
+Total
+Bauhinia
+bloodwood/ sp.
+eucalypt
+savanna
+
+6.6
+6.6
+1.5
+5
+0.4
+
+Flueggea sp.
+
+4.2
+1.2
+3
+4.9
+5.4
+4.6
+39.8
+14.7
+5.6
+1.9
+0.5
+
+Erythrophleum
+sp.
+
+1.4
+1.2
+8.5
+2.3
+0.6
+
+Brucea sp.
+
+0
+1.5
+1
+0.7
+1.5
+0.4
+12.1
+8.4
+0.3
+0
+0
+
+Vachellia
+sp.
+
+27.5
+30.3
+16.5
+15.5
+2
+
+Total dry
+rainforest
+
+0.4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+13.9
+10.8
+5
+10.2
+9
+7.3
+53.1
+28.1
+6.2
+1.9
+0.5
+
+Grevillea/ Total
+Hakea
+non-eucalypt
+sp.
+savanna
+
+3.5
+5.4
+0
+1.6
+5.2
+
+Melaleuca
+sp.
+
+Lamiaceae sp.
+
+0.2
+0.2
+0.5
+0.2
+3.8
+4
+0
+0
+3.1
+4.3
+2.7
+
+Myrtaceae
+sp
+
+Vitex sp.
+
+3.9
+0.2
+7
+3
+11.5
+7.1
+3
+3.6
+12.8
+16.9
+10.1
+
+Eucaltptus Eucalyptus
+sp. Type B sp.
+Indeterminate
+
+Riparian
+
+31.5
+39.7
+22.1
+31.4
+32.6
+34
+5.2
+26.9
+4.6
+13.4
+3.2
+
+Eucalyptus
+sp. Type A
+
+Non-eucalypt savannah
+
+Dry
+rainforest
+
+F1-C
+F2-C
+F3-A
+F4-B
+F5-B
+F7-B
+F9-A
+SU7
+SU8
+SU9
+SU10
+
+Corymbia
+sp.
+
+Type Feature Bloodwood/eucalypt savanna
+
+0.6
+5.6
+0
+2.3
+0.6
+1
+0.4
+2.1
+0
+0
+0
+
+27.8
+20.1
+49.4
+40.4
+33.8
+
+Indeterminable
+
+8.7
+1.5
+0.5
+0.7
+0.2
+0
+0
+2.9
+0
+0
+0
+
+C e l t i s Mallotus
+sp.
+sp.
+
+Dry
+rainforest
+
+Table 3 Anthracological results expressed in percentages of number of analysed fragments from combustion features F1-C, F2-C, F3-A, F4-B, F5-B, F7-B and F9-A compared with
+those of scattered contexts SU7, SU8, SU9 and SU10; the latter (and F1-C and F2-C) reproduced from Whitau et al. (2016a)
+
+762
+Whitau et al.
+
+B
+A
+SU
+SU
+SU
+SU
+
+Type
+
+Ficus sp. Type B
+
+Ficus indeterminate
+
+Flueggea sp.
+
+Brucea sp.
+
+Total dry
+rainforest
+
+0
+1.2
+0
+0
+0
+0.3
+
+0.8
+3.5
+0.4
+0
+0
+0.1
+
+0.2
+0
+1.7
+0
+0
+0.1
+
+0
+0
+0
+0.3
+0
+0
+
+0
+0
+0.2
+0
+0
+0
+
+0.8
+0
+0.4
+0.3
+0
+0.3
+
+3.3
+0
+1
+1
+0.3
+0
+
+6.1
+5.1
+8.7
+1.6
+0.3
+0.8
+
+1.7
+0.8
+1.1
+1.5
+1.3
+0.9
+
+Melaleuca
+sp.
+
+Ficus sp. Type A
+
+Vitex sp.
+
+Lamiaceae sp.
+
+Riparian
+
+Dry
+rainforest
+
+Table 3 (continued)
+
+35.6
+32
+34.9
+59.7
+55.7
+76.3
+
+Indeterminable
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+763
+
+764
+
+Whitau et al.
+
+is positioned at the limit between SU8 and SU7, where a shift in taxa ranks is visible
+(Fig. 10). SU7 shows an increase in Corymbia sp., while Eucalyptus sp. types decrease
+in both abundance and diversity, and Erythrophleum sp. and Vachellia sp. increase to
+proportions that are not replicated elsewhere amongst the scattered charcoal assemblages (Whitau et al. 2016a). The fuel wood that comprises the F9-A anthracological
+assemblage was collected before or during the ecological shift observed in the SU7
+assemblage, and it is interesting to note that the dominance of Erythrophleum in the
+feature clearly echoes the taxonomic composition shift represented in SU7 (Fig. 10).
+F9-A is a type A hearth structure, which was not re-used and so the dominance of
+Erythrophleum sp. is most likely an effect of a single firing episode. It could be that
+Erythrophleum sp. was collected in relation to its increased availability in the surrounding landscape where non-eucalypt savanna newly dominated or that it was specifically
+targeted as a fuel wood, without these hypotheses needing be mutually exclusive.
+The Erythrophleum genus is composed of some eight (Ross 1998) or nine (Dunlop et al.
+1995) taxa, one of which, Erythrophleum chlorostachys or ironwood, is endemic to
+Australia, where it grows from northeastern Queensland to the Kimberley region of Western
+Australia. Aboriginal groups in Queensland and the Northern Territory are recorded using
+ironwood in a variety of ways: an infusion of the bark is used to treat stomach pains, root
+infusions for cuts and leaf infusions for scabies; smoke from the wood and leaves is used to
+relieve constipation and smoke from the bark to produce sterility in women; resin from the
+roots is an adhesive and gum from the bark is edible and produces a red dye; and the wood is
+
+Fig. 10 Comparison of wood charcoal assemblage composition between combustion features types A, B and
+C, and the Riwi scattered contexts presented in Whitau et al. (2016a) (CAD: CartoGIS, Australian National
+University)
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+
+765
+
+used for carvings, spears, music and cooking sticks (Brock 1988; Dunlop et al. 1995;
+Woinarski et al. 2002). While there are no ethnographic accounts of ironwood use in the
+Kimberley region, at the very least, ironwood is one of the densest of Australia’s native
+timbers (1200 kg/m3) (Boland et al. 1984; Woinarski et al. 2002) and might provide a
+different type of fire from the bloodwood/eucalypt species.
+The flora represented in the type B features are broadly comparable with those in
+SU7 in terms of taxonomic diversity, relative frequency and rank of taxa, which is
+contrary to the expectation that combustion events have low taxonomic diversity, since
+they represent the last few firing events (Chabal et al. 1999; Dotte-Sarout et al. 2015;
+Théry-Parisot et al. 2010). The more likely explanation for the similarity between SU7
+and the type B dug features (Fig. 10) is that both were used several times and the
+assemblages represent multiple collecting trips (Whitau et al. 2016a). Indeed, F5-B is a
+series of densely packed combustion features showing concave pits, ash and abundant
+charcoal; therefore, it securely represents several firing episodes. Such an explanation
+would also make sense with the proposed identification of these features as ground or
+earth ovens, with features being re-used several times during an occupation period.
+Moreover, the voluntary cessation of the combustion process involved in earth oven
+cooking is an additional factor for a better representation of the original fuel wood
+taxonomic diversity in comparison with open-air hearth features.
+Between the types B and C features sits the F3-A type A hearth. Unlike the other
+type A contexts, F3-A has a high diversity (12 taxa) in addition to a high proportion of
+indeterminable charcoal (49.2%) (Table 3). Bloodwood savanna dominates the assemblage, with the high proportion of dry rainforest taxa comprised largely of Brucea sp.
+
+Fig. 11 Vegetation types and their common charcoals. Left, low tree steppe of the Riwi valley floor (a), dry
+rainforest taxa colonise the limestone outcrop (b); centre, reference SEM images of Corymbia dampieri (c),
+Vachellia suberosa (d), Brucea javanica; right: Corymbia sp. (f) and Vachellia suberosa (g) (photos and SEM
+by R. Whitau)
+
+766
+
+Whitau et al.
+
+(8.5%) (Figs. 10 and 11e). The sole species of the genus endemic to Australia, Brucea
+javanica prefers secondary forest, sandy dunes and limestone rock. Generally growing
+as a small shrub or tree, B. javanica produces edible roots and fruit that can aid in the
+treatment of dysentery and fever (Kulip and Wong 1995). Its relatively high abundance
+in F3-A is not readily explicable and could relate to socio-environmental changes
+affected by the LGM. The position of the F3-A hearth shows that type A hearth
+structures continued to be built after the appearance of type B hearths in the record.
+While the individual features of the type C units are more difficult to distinguish,
+both types A and B combustion structures were produced during this time, which is
+characterised by an increased taxonomic diversity and representation of dry rainforest
+taxa (Fig. 11b) in the archaeobotanical record, including non-woody remains (DilkesHall 2014; Whitau et al. 2016a).
+All anthracologically analysed contexts from Riwi cave show that firewood was
+typically collected from the valley floor and, with the exception of F9-A, bloodwood/
+eucalypt savanna taxa were the favoured fuels, supporting arguments presented by
+Whitau et al. (2016a). The shift in taxon dominance from eucalypt to bloodwood
+observed in the scattered contexts, which is likely associated to environmental changes
+at around 34 ka (Whitau et al. 2016a), is reflected in the composition of all the features
+analysed in this paper.
+Methodological and Archaeological Implications
+The study presented here clearly supports important taphonomic studies (e.g. Dussol
+et al. 2017; Théry-Parisot et al. 2010) in showing that the factors affecting charcoal
+preservation are complex. Table 4 summarises the anthracological and micromorphological data alongside a summary of the discussion presented above. Fires which were lit
+directly on the ground surface, like the type A hearth structures, are far less likely to
+produce quantifiable charcoal within the structure itself, as the direct exposure to oxygen
+will often combust the fuel entirely. Increase in charcoal abundance in itself should not
+then necessarily be correlated with an intensification of occupation (Ward et al. 2016), as
+the prevalent type of combustion structure, its formation and length of use as well as its
+degree of preservation must also be considered. Similarly, changes in deposition
+dynamics (e.g. deficit of natural sedimentation) can lead to the creation of palimpsest
+type deposits in archaeological sequences (Bailey and Galanidou 2009; Mallol and
+Mentzer 2015; Vannieuwenhuyse 2016). At Riwi, the changes observed between
+combustion features, the increased abundance of charcoal dense features within F1-C
+and F2-C and the high trampling of surface deposits all point towards a change in site
+use during the deposition of the Holocene units, where occupation of the cave was
+intensified in terms of the number of site visits, coupled with a reduction of time between
+visits and lesser accumulation of natural inputs as pointed out in several Australian
+archaeological studies (cf. Ulm 2013; Ward 2004; Vannieuwenhuyse et al. 2017).
+This study also signifies the importance of understanding site formation processes;
+as already stated by several Australian researchers (Holdaway et al. 2008; Langley
+et al. 2011; Vannieuwenhuyse et al. 2017; Ward and Larcombe 2003; Ward et al.
+2016). The exceptional preservation of flat type A hearths in Riwi provide an archaeological case study for how heating can impact underlying sediments in this type of fine
+sand substrate, in the Riwi example: several centimetres below the surface where the
+
+Economy of wood
+
+Hypothesised function
+
+Combustion feature
+description
+
+The charcoal within the type A combustion
+features is mostly completely combusted
+with the exception of the F3-A and F9-A
+assemblages. F9-A is the only
+anthracological sample from Riwi Cave
+which was not dominated by
+
+Four different microfacies were identified in
+type A combustion features (Fig. 7, see
+Appendix 1.0), with from bottom to top:
+(1) Dark brown layer (concave shapes
+visible in stratigraphy) composed of
+geogenic sands, with a high proportion
+of microcharcoal and carbonised vegetal
+particles (Fig. 7c).
+(2) Orange-pinkish layer composed of
+geogenic sands and ash particles
+(Fig. 7b).
+(3) Layer with charcoal chunks embedded
+within the geogenic sands (Fig. 7a).
+(4) Whitish layer (Fig. 7c) mostly composed
+of ash particles (pseudomorphs of plant
+calcium oxalate) and phytoliths that are
+often still in anatomic connection
+(articulated).
+Small, open-air, single-use hearths which
+were lit directly onto the ground surface
+and used for heating, lighting, or cooking
+purposes during short term visits to the site.
+
+Type A
+Flat combustion features
+
+Table 4 Summary of anthracological and micromorphological results
+
+A palimpsest of numerous type A and B
+features coupled with an increase of
+combustion residues resulting from
+maintenance activities such as reworking
+(cleaning rake-out of hearths but also human
+and animal trampling and turbation, see Fig. 4).
+The savanna taxa of the valley floor continue to
+be well represented alongside a higher
+proportion of dry rainforest taxa, which
+indicates a potentially more extensive use of
+the surrounding landscape and its various
+ecological niches.
+Earth or ground ovens which were constructed
+by digging a pit or depression into the
+substrate. A fire was lit within the depression
+and subsequently buried during a
+hypothesised underground cooking process.
+The taxonomic diversity of the type B dug
+features is similar to the associated scattered
+contexts and might indicate re-use of the
+combustion features. The dominance of
+bloodwood savanna taxa indicates that
+firewood was collected predominantly from
+
+Type C features are accumulations composed
+mainly of by-products of combustion
+(predominantly ash and charcoal), along
+with a mix of non-burnt vegetal parts and
+a minor proportion of geogenic sands
+(Fig. 9). The high proportion of combustion
+residues gives the Holocene deposits its grey
+colour (Figs. 2 and 3). Under the microscope,
+the microfacies show a very bright calcitic
+crystallic b-fabric as a result of the high
+proportion of ash particles (pseudomorphs
+of plant tissues) (Fig. 9b, d). These particles
+are found both in anatomic connection
+(Fig. 9c, d) and disturbed (Fig. 9a, b)
+which indicates some mixing in this level.
+
+Type C
+Palimpsest
+
+Type B combustion features are characterised by
+the digging of a pit or depression where
+the fire was lit and frequently reused. These
+dug features sometimes cut through the flat
+combustion features immediately below,
+disturbing the orientation of particles
+(Fig. 8b). Type B combustion features
+contain large fragments of charcoal embedded
+within a fine matrix of geogenic sands
+and/or random oriented ash particles (Fig. 8a).
+
+Type B
+Dug combustion features
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+767
+
+Inference of hunter
+gatherer strategies
+
+Table 4 (continued)
+
+bloodwood/eucalypt; the dominance of
+Erythrophleum sp., coupled with the low
+diversity of F9-A taxa, is indicative of a
+single firing episode. Taxa were collected
+predominantly from the valley floor as
+per the associated scattered Pleistocene
+contexts.
+Occupation was intermittent from 47 to
+34 ka, with enough time between site
+visits to allow for these flat, open-air,
+single-use hearths to be covered by natural,
+rapid aeolian deposition.
+
+Type A
+Flat combustion features
+
+More frequent and/or longer occupation at the
+site during this time (c. 34 ka).
+
+the valley floor, with a minor presence of
+dry rainforest taxa, which are associated
+with the limestone outcrop.
+
+Type B
+Dug combustion features
+
+Frequent occupation of longer duration during
+the Holocene sequence producing a palimpsest
+of archaeological deposition, which forms
+this type C secondary context.
+
+Type C
+Palimpsest
+
+768
+Whitau et al.
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+
+769
+
+fire was lit. This depth of effect has several implications in how to sample such features
+and how to interpret the archaeological material (botanical remains, bones, lithic
+artefacts, ochre pigments, but also sediment samples for luminescence dating) from
+the affected underlying substrate, as already pointed out by microstratigraphic experimental studies by Aldeias et al. (2016) and Mallol et al. (2013b).
+
+Conclusions
+Starting 45 ka years ago and for over 14,000 years, Pleistocene occupation at Riwi was
+intermittent and potentially episodic. The cave would be visited for short periods: a fire
+lit directly on the ground (type A), fuelled by wood collected from the eucalypt savanna
+of the valley floor, and abandoned, with these hearth structures most likely not re-used.
+Occupation was intermittent, with enough time between site visits to allow for these
+flat, open-air, single use hearths to be covered by natural, rapid aeolian deposition.
+From around 34 ka to the onset of the LGM, a new combustion feature (type B) is
+observed, which potentially reflects a different type of occupation at the site. Instead of
+lighting the fire directly on the ground, the fire was lit in a dug pit, covered with earth
+during combustion and extinguished prior to the completion of the combustion process;
+in a pattern similar to a ground oven. The anthracological composition of these type B
+structures is most similar to the scattered context of SU7, demonstrating the collection
+of fuel wood from the bloodwood-dominated savanna newly established on the valley
+floor. The taxonomic diversity of the type B dug features might illustrate that these
+ground ovens were re-used multiple times and potentially signify more frequent and/or
+longer occupation at the site during this time.
+Type A and B combustion features continued to be produced during the LGM and
+through to the Holocene, when the site seems to have been visited more frequently.
+Change in deposition patterns and higher frequency of occupation produced a palimpsest of archaeological deposition, which forms the type C secondary contexts. This
+period also records an increase in use of vegetation resources located in the dry
+rainforest areas. The savanna taxa of the valley floor continue to be well represented,
+indicating a potentially more extensive use of the surrounding landscape in its various
+ecological niches. This aligns with an intensification of occupation, where intensification refers to an increase in the number of site visits and the duration of these visits.
+Combined anthracological and micromorphological analyses of combustion features at
+Riwi have allowed us to propose a typology of features, to define the chronology of their
+appearance in the record and to document changes in site occupation patterns and
+landscape use over time. Our results show that interpretations of anthracological spectra
+should be adapted to the type of combustion structure recovered; the relationship between
+charcoal preservation and context is far too complex to warrant the direct association of
+charcoal abundance with intensification of site use and/or population increase.
+Future experimental studies which explore both hearth building processes and fuel
+wood selection strategies using traditional Aboriginal methods will enable a deeper
+understanding of how fire was manipulated in the past and strengthen the functional
+interpretation of the different types of combustion features identified in our study.
+Precise and multiproxy studies allow a few tangible glimpses into the lives of a site’s
+past inhabitants, building a home ‘where the hearth is’.
+
+770
+
+Whitau et al.
+
+Acknowledgements The authors would like to acknowledge the Mimbi community, in particular Rosemary
+Nugget, for their assistance during fieldwork. The authors would like to thank the anonymous reviewers for
+their considered and insightful feedback. This research was funded by the ARC Linkage Grant LP100200415,
+with contributions from the Kimberley Foundation Australia and the Department of Sustainability, Water,
+Populations and Communities. Figures 1, 6, 10 and 11 were produced by the Australian National University’s
+CartoGIS department.
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International
+License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a
+link to the Creative Commons license, and indicate if changes were made.
+
+References
+Aldeias, V. (2017). Experimental approaches to archaeological fire features and their behavioral relevance.
+Current Anthropology, 58(S16).
+Aldeias, V., Dibble, H. L., Sandgathe, D., Goldberg, P., & McPherron, S. J. (2016). How heat alters underlying
+deposits and implications for archaeological fire features: a controlled experiment. Journal of
+Archaeological Science, 67(6), 64–79.
+Allen, J., & O’Connell, J. (2003). The long and the short of it: archaeological approaches to determining when
+humans first colonised Australia and New Guinea. Australian Archaeology, 57(1), 5–19.
+Allué, E., Solé, A., & Burguet-Coca, A. (2017). Fuel exploitation among Neanderthals based on the
+anthracological record from Abric Romaní (Capellades, NE Spain). Quaternary International, 431, 6–15.
+Alperson-Afil, N., & Goren-Inbar, N. (2010). The Acheulian site of Gesher Benot Ya’aqov (volume II): Ancient
+flames and controlled use of fire. Netherlands: Springer.
+Antal, M. J., & Grønli, M. (2003). The art, science, and technology of charcoal production. Industrial &
+Engineering Chemistry Research, 42(8), 1619–1640.
+Arpin, T. L., Mallol, C., & Goldberg, P. (2002). Short contribution: a new method of analyzing and
+documenting micromorphological thin sections using flatbed scanners: applications in geoarchaeological
+studies. Geoarchaeology, 17(3), 305–313.
+Asouti, E., & Austin, P. (2005). Reconstructing woodland vegetation and its exploitation by past societies,
+based on the analysis and interpretation of archaeological wood charcoal macro-remains. Environmental
+Archaeology, 10(1), 1–18.
+Asscher, Y., Cabanes, D., Hitchcock, L. A., Maeir, A. M., Weiner, S., & Boaretto, E. (2015). Radiocarbon
+dating shows an early appearance of Philistine material culture in Tell es-Safi/Gath, Philistia.
+Radiocarbon, 57(5), 825–850.
+Badal-García, E., Carrión-Marco, Y., Macías-Enguídanos, M., & Ntinou, M. (2012). Wood and charcoal
+evidence for human and natural history. Saguntum Número Extraordinario 13. Valencia: Universitat de
+València.
+Bailey, G., & Galanidou, N. (2009). Caves, palimpsests and dwelling spaces: examples from the Upper
+Palaeolithic of south-east Europe. World Archaeology, 41(2), 215–241.
+Balme, J. (2000). Excavations revealing 40,000 years of occupation at Mimbi Caves, South Central
+Kimberley, Western Australia. Australian Archaeology, 51(1), 1–5.
+Barbetti, M. (1986). Traces of fire in the archaeological record, before one million years ago? Journal of
+Human Evolution, 15(8), 771–781.
+Beauclair, M., Scheel-Ybert, R., Bianchini, G. F., & Buarque, A. (2009). Fire and ritual: bark hearths in SouthAmerican Tupiguarani mortuary rites. Journal of Archaeological Science, 36(7), 1409–1415.
+Bellomo, R. V. (1991). Identifying traces of natural and humanly-controlled fire in the archaeological record:
+the role of actualistic studies. Archaeology in Montana, 32(2), 75–93.
+Bellomo, R. V. (1993). A methodological approach for identifying archaeological evidence of fire resulting
+from human activities. Journal of Archaeological Science, 20(5), 525–553.
+Berna, F., Goldberg, P., Horwitz, L. K., Brink, J., Holt, S., Bamford, M., & Chazan, M. (2012).
+Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave, Northern Cape
+province, South Africa. Proceedings of the National Academy of Sciences, 109(20), 1215–1220.
+Bird, M. I., Turney, C. S. M., Fifield, L., Jones, R., Ayliffe, L., Palmer, A., Cresswell, R., & Robertson, S.
+(2002). Radiocarbon analysis of the early archaeological site of Nauwalabila I, Arnhem Land, Australia:
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+
+771
+
+implications for sample suitability and stratigraphic integrity. Quaternary Science Reviews, 21(8), 1061–
+1075.
+Boaretto, E. (2015). Radiocarbon and the archaeological record: an integrative approach for building an
+absolute chronology for the Late Bronze and Iron Ages of Israel. Radiocarbon, 57(2), 207–216.
+Boaretto, E., Wu, X., Yuan, J., Bar-Yosef, O., Chu, V., Pan, Y., & Gu, H. (2009). Radiocarbon dating of
+charcoal and bone collagen associated with early pottery at Yuchanyan Cave, Hunan Province, China.
+Proceedings of the National Academy of Sciences, 106(24), 9595–9600.
+Boland, D. J., Brooker, M. I. H., Chippendale, G. M., Hall, N., Hyland, B. P. M., Johnston, R. D., Kleinig, D.
+A., & Turner, J. D. (1984). Forest trees of Australia (4th ed.). Melbourne: Thomas Nelson and CSIRO.
+Brace, C. L., Rosenberg, K. R., & Hunt, K. D. (1987). Gradual change in human tooth size in the late
+Pleistocene and post-Pleistocene. Evolution, 41(4), 705–720.
+Brain, C. K. (1981). The hunters or the hunted?: an introduction to African cave taphonomy. Chicago:
+University of Chicago Press.
+Brock, J. (1988). Top End Native Plants. Darwin: John Brock.
+Bronk Ramsey, C. (2009). Bayesian analysis of radiocarbon dates. Radiocarbon, 51(1), 337–360.
+Bronk Ramsey, C. (2013). OxCal 4.2. Web Interface Build Ramsey CB. Bayesian analysis of radiocarbon
+dates. Radiocarbon, 51(1), 337–60(78).
+Bullock, P., Fedoroff, N., Jongerius, A., Stoops, G., Tursina, T., & Babel, U. (1985). Handbook for soil thin
+sections description. Wolverhampton: Waine Research Publications.
+Bureau of Meteorology. (2015). Climate data online. Australian Government. Retrieved 22 April 2015 from
+http://www.bom.gov.au/climate/data/.
+Byrne, C., Dotte-Sarout, E., & Winton, V. (2013). Charcoals as indicators of ancient tree and fuel strategies: an
+application of anthracology in the Australian Midwest. Australian Archaeology, 77(1), 94–106.
+Camuti, K. S., & McGuire, P. T. (1999). Preparation of polished thin sections from poorly consolidated
+regolith and sediment materials. Sedimentary Geology, 128(1), 171–178.
+Canti, M. G., & Linford, N. (2000). The effects of fire on archaeological soils and sediments: temperature and
+colour relationships. Proceedings of the Prehistoric Society, 66, 385–396.
+Carah, X. (2010). Corridors and callitris: examining the changing use of environment, through the Gledswood
+Shelter 1 wood charcoal assemblage. Unpublished Honours thesis, The University of Queensland, St
+Lucia.
+Chabal, L. (1990). L’étude paléo-écologique de sites protohistoriques à partir des charbons de bois: la question
+de l’unité de mesure. Dénombrement de fragments ou pesées? In T. Hackens, A. V. Munaut, & C. Till
+(Eds.), Bois et archéologie, First European Conference, Louvain-la-Neuve, October 2nd–3rd 1987 (pp.
+189–205). Belgique: PACT.
+Chabal, L. (1992). La représentativité paléo-écologique des charbons de bois archéologiques issus du bois de
+feu. Bulletin de la société botanique de France. Actualités Botaniques, 139(2–4), 213–236.
+Chabal, L., Fabre, L., Terral, J.-F., & Théry-Parisot, I. (1999). L’anthracologie. In A. Ferdière (Ed.), La
+Botanique Collection « Archéologiques » (pp. 43–104). Paris: Errance.
+Clarkson, C. (2008). Changing reduction intensity, settlement and subsistence in Wardaman Country, northern
+Australia. In W. Andrefsky (Ed.), Lithic Technology (pp. 286–316). New York: Cambridge University
+Press.
+Courty, M.-A., Goldberg, P., & Macphail, R. I. (1989). Soils and micromorphology in archaeology.
+Cambridge manuals in archaeology. Cambridge: Cambridge University Press.
+Damblon, F., & Haesaerts, P. (2002). Anthracology and radiochronology of the Upper Pleistocene in the
+loessic areas of Eurasia. BAR International Series, 1063, 65–72.
+Damblon, F., Haesaerts, P., & Van Der Plicht, J. (1996). New datings and considerations on the chronology of
+Upper Palaeolithic sites in the Great Eurasiatic Plain. Préhistoire européenne, 9, 177–231.
+De Keyser, T. L. (1999). Digital scanning of thin sections and peels. Journal of Sedimentary Research, 69(4),
+962–964.
+de Lumley, H. (2006). Il y a 400 000 ans: la domestication du feu, un formidable moteur d'hominisation.
+Comptes Rendus Palevol, 5(1), 149–154.
+Dilkes-Hall, I. (2014). An archaeobotanical analysis of macrobotanical remains at Riwi Cave in the southcentral Kimberley region, WA. Unpublished Honours thesis, Archaeology, School of Social Science,
+University of Western Australia, Crawley.
+Dortch, C. E., & Roberts, R. G. (1996). An evaluation of radiocarbon chronologies at Miriwun rock shelter
+and the Monsmont site, Ord valley, east Kimberley, Western Australia. Australian Archaeology, 42(1),
+24–34.
+Dotte-Sarout, E., Carah, X., & Byrne, C. (2015). Not just carbon: assessment and prospects for the application
+of anthracology in Oceania. Archaeology in Oceania, 50(1), 1–22.
+
+772
+
+Whitau et al.
+
+Dufraisse, A. (2012). Firewood and woodland management in their social, economic and ecological dimensions. New perspectives. In E. Badal, Y. Carrión, M. Macías and M. Ntinou (Eds.), Wood and charcoal:
+evidence for human and natural history (pp. 65—73). 5th International Meeting of Charcoal Analysis,
+Saguntum, Extra-13.
+Dufraisse, A. (2014). Relation entre modes de collecte du bois de feu et état du milieux forestier: essai
+d'application du principe du moindre effort. In R.-M. Arbogast & A. Grefier-Richard (Eds.), Entre
+archéologie et écologie, une Préhistoire de tous les milieux. Mélanges offerts à Pierre Pétrequin (pp.
+493–504). Besançon: Presses universitaires de Franche-Comté.
+Dunlop, C. R., Leach, G. J., & Cowie, I. D. (1995). Flora of the Darwin region (volume 2). Darwin:
+Conservation Commission of the Northern Territory.
+Dussol, L., Elliott, M., & Théry-Parisot, I. (2017). Experimental anthracology: evaluating the role of
+combustion processes in the representivity of archaeological charcoal records in tropical forests, a case
+study from the Maya Lowlands. Journal of Archaeological Science: Reports, 12, 480–490.
+Estévez, J., Villagran, X. S., Balbo, A. L., & Hardy, K. (2014). Microtaphonomy in archaeological sites: the
+use of soil micromorphology to better understand bone taphonomy in archaeological contexts.
+Quaternary International, 330(1e7), 3–9.
+Fanning, P. C., & Holdaway, S. J. (2001). Stone artifact scatters in western NSW, Australia: geomorphic
+controls on artifact size and distribution. Geoarchaeology, 16(6), 667–686.
+Fanning, P. C., Holdaway, S. J., & Rhodes, E. J. (2008). A new geoarchaeology of Aboriginal artefact deposits
+in western NSW, Australia: establishing spatial and temporal geomorphic controls on the surface
+archaeological record. Geomorphology, 101(3), 524–532.
+Fanning, P. C., Holdaway, S. J., Rhodes, E. J., & Bryant, T. G. (2009). The surface archaeological record in
+arid Australia: geomorphic controls on preservation, exposure, and visibility. Geoarchaeology, 24(2),
+121–146.
+FitzPatrick, E. A. (1984). The micromorphology of soils. London: Chapman and Hall.
+Goldberg, P., & Macphail, R. I. (2003). Short contribution: strategies and techniques in collecting micromorphology samples. Geoarchaeology, 18(5), 571–578.
+Goldberg, P., & Macphail, R. I. (2005). Practical and theoretical geoarchaeology. Padstow: Blackwell
+Science.
+Goldberg, P., Miller, C. E., Schiegl, S., Ligouis, B., Berna, F., Conard, N. J., & Wadley, L. (2009). Bedding,
+hearths, and site maintenance in the Middle Stone age of Sibudu cave, KwaZulu-Natal, South Africa.
+Archaeological and Anthropological Sciences, 1(2), 95–122.
+Goldberg, P., Miller, C. E., & Mentzer, S. M. (2017). Recognizing fire in the Paleolithic archaeological record.
+Current Anthropology, 58(S16).
+Goudsblom, J. (1986). The human monopoly on the use of fire: its origins and conditions. Human Evolution,
+1(6), 517–523.
+Gould, R. A. (1968). Living archaeology: the Ngatatjara of western Australia. Southwestern Journal of
+Anthropology, 24(2), 101–122.
+Gowlett, J. A. (2006). The early settlement of northern Europe: fire history in the context of climate change
+and the social brain. Comptes Rendus Palevol, 5(1), 299–310.
+Gowlett, J. A., & Wrangham, R. W. (2013). Earliest fire in Africa: towards the convergence of archaeological
+evidence and the cooking hypothesis. Azania: Archaeological Research in Africa, 48(1), 5–30.
+Harney, W. E. (1951). Australian Aboriginal cooking methods. The Australian Journal of Anthropology, 4(6),
+242–246.
+Henry, A., & Théry-Parisot, I. (2014). From Evenk campfires to prehistoric hearths: charcoal analysis as a tool
+for identifying the use of rotten wood as fuel. Journal of Archaeological Science, 52, 321–336.
+Hiscock, P. (1985). The need for a taphonomic perspective in stone artefact analysis. Queensland
+Archaeological Research, 2, 82–97.
+Hiscock, P. (1990). A study in scarlet: taphonomy and inorganic artifacts. In S. Solomon, I. Davidson, & D.
+Watson (Eds.), Problem solving in taphonomy: archaeological and palaeontological studies from Europe,
+Africa and Oceania (pp. 39–49). Brisbane: Anthropology Museum, University of Queensland.
+Hogg, A. G., Hua, Q., Blackwell, P. G., Niu, M., Buck, C. E., Guilderson, T. P., & Turney, C. S. (2013).
+SHCal13 Southern Hemisphere calibration, 0–50,000 years cal BP. Radiocarbon, 55(4), 1889–1903.
+Holdaway, S., Fanning, P., & Rhodes, E. (2008). Challenging intensification: human–environment interactions
+in the Holocene geoarchaeological record from western New South Wales, Australia. The Holocene,
+18(3), 403–412.
+Holdaway, S. J., Davies, B., & Fanning, P. C. (2017). Aboriginal use of fire in a landscape context:
+investigating presence and absence of heat-retainer hearths in western New South Wales, Australia.
+Current Anthropology, 58(S16).
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+
+773
+
+Hope, G. S. (1998). Identifying wood charcoal remains as palaeo evidence for regions of central and
+northeast Australia. Canberra: ANH Publications, RSPAS, Australian National University.
+Ilic, J. (1991). CSIRO atlas of hardwoods. Bathurst: Crawford House.
+James, S. R., Dennell, R., Gilbert, A. S., Lewis, H. T., Gowlett, J., Lynch, T. F., McGrew, W., Peters, C. R.,
+Pope, G. G., & Stahl, A. B. (1989). Hominid use of fire in the Lower and Middle Pleistocene: A review of
+the evidence [and comments and replies]. Current Anthropology, 30(1), 1–26.
+Karkanas, P. (2010). Preservation of anthropogenic materials under different geochemical processes: a
+mineralogical approach. Quaternary International, 214(1), 63–69.
+Karkanas, P., Bar-Yosef, O., Goldberg, P., & Weiner, S. (2000). Diagenesis in prehistoric caves: the use of
+minerals that form in situ to assess the completeness of the archaeological record. Journal of
+Archaeological Science, 27(10), 915–929.
+Karkanas, P., Rigaud, J.-P., Simek, J. F., Albert, R. M., & Weiner, S. (2002). Ash, bones and guano: a study of
+the minerals and phytoliths in the sediments of Grotte XVI, Dordogne, France. Journal of Archaeological
+Science, 29(7), 721–732.
+Karkanas, P., Shahack-Gross, R., Ayalon, A., Bar-Matthews, M., Barkai, R., Frumkin, A., Gopher, A., &
+Stiner, M. C. (2007). Evidence for habitual use of fire at the end of the Lower Paleolithic: site formation
+processes at Qesem Cave, Israel. Journal of Human Evolution, 53(2), 197–212.
+King, F. (2015) Rainforest Aboriginal firewood strategies: investigating palaeovegetation and firewood using
+charcoal analysis in tropical rainforest of the wet tropics in north east Queensland. Unpublished BA
+(Hons) thesis, La Trobe University, Melbourne.
+Kulip, J., & Wong, K. M. (1995). Simaroubaceae. In E. Soepadmo, L. G. Saw, & R. C. K. Chung (Eds.), Tree
+flora of Sabah and Sarawak (Volume 2) (pp. 421–442). Kuala Lumpur: Forest Research Institute
+Malaysia.
+Langley, M. C., Clarkson, C., & Ulm, S. (2011). From small holes to grand narratives: the impact of
+taphonomy and sample size on the modernity debate in Australia and New Guinea. Journal of Human
+Evolution, 61(2), 197–208.
+Langley, M. C., Dilkes-Hall, I. E., Balme, J., & O’Connor, S. (2016). A 600-year-old Boomerang fragment
+from Riwi Cave (South Central Kimberley, Western Australia). Australian Archaeology, 82(2), 106–122.
+Leney, L., & Casteel, R. W. (1975). Simplified procedure for examining charcoal specimens for identification.
+Journal of Archaeological Science, 2(2), 153–159.
+Macphail, R. I., Cruisea, G. M., Allen, M. J., Linderholm, B. J., & Reynolds, P. (2004). Archaeological soil
+and pollen analysis of experimental floor deposits; with special reference to Butser Ancient Farm,
+Hampshire, UK. Journal of Archaeological Science, 31(2), 175–191.
+Mallol, C., & Mentzer, S. M. (2015). Contacts under the lens: perspectives on the role of microstratigraphy in
+archaeological research. Archaeological and Anthropological Sciences, x, 1–25.
+Mallol, C., Marlowe, F. W., Wood, B. M., & Porter, C. C. (2007). Earth, wind, and fire: ethnoarchaeological
+signals of Hadza fires. Journal of Archaeological Science, 34(12), 2035–2052.
+Mallol, C., Hernández, C. M., Cabanes, D., Machado, J., Sistiaga, A., Pérez, L., & Galván, B. (2013a). Human
+actions performed on simple combustion structures: an experimental approach to the study of Middle
+Palaeolithic fire. Quaternary International, 315, 3–15.
+Mallol, C., Hernández, C. M., Cabanes, D., Sistiaga, A., Machado, J., Rodríguez, Á., Pérez, L., & Galván, B.
+(2013b). The black layer of Middle Palaeolithic combustion structures. Interpretation and
+archaeostratigraphic implications. Journal of Archaeological Science, 40(5), 2515–2537.
+Maloney, T., & O’Connor, S. (2014). Backed points in the Kimberley: Revisiting the north-south division for
+backed artefact production in Australia. Australian Archaeology, 79(1), 146–155.
+Maloney, T., O’Connor, S., & Balme, J. (2014). New dates for point technology in the Kimberley.
+Archaeology in Oceania, 49(3), 137–147.
+March, R. J., Lucquin, A., Joly, D., Ferreri, J. C., & Muhieddine, M. (2014). Processes of formation and
+alteration of archaeological fire structures: complexity viewed in the light of experimental approaches.
+Journal of Archaeological Method and Theory, 21(1), 1–45.
+Meignen, L., Bar-Yosef, O., & Goldberg, P. (1989). Les structures de combustion moustériennes de la grotte
+de Kébara (Mont Carmel, Israël). Nature et Fonction des Foyers Préhistoriques. Nemours: Mémoires du
+Musée de Préhistoire d’Ile de France, 2, 141—146.
+Meignen, L., Goldberg, P., & Bar-Yosef, O. (2007). The hearths at Kebara Cave and their role in site formation
+processes. In O. Bar-Yosef, L. Meignen, & R. M. Albert (Eds.), Kebara Cave, Mt Carmel, Israel: the
+Middle and Upper Paleolithic Archaeology, part I (pp. 91–122). Cambridge: Peabody Museum, Harvard
+University Press.
+
+774
+
+Whitau et al.
+
+Mentzer, S. M. (2014). Microarchaeological approaches to the identification and interpretation of combustion
+features in prehistoric archaeological sites. Journal of Archaeological Method and Theory, 21(3), 616–
+668.
+Metcalfe, D., & Heath, K. M. (1990). Microrefuse and site structure: the hearths and floors of the Heartbreak
+Hotel. American Antiquity, 55(4), 781–796.
+Miller, C. E., & Sievers, C. (2012). An experimental micromorphological investigation of bedding construction in the Middle Stone Age of Sibudu, South Africa. Journal of Archaeological Science, 39(10), 3039–
+3051.
+Miller, C. E., Conard, N. J., Goldberg, P., & Berna, F. (2010). Analyse micromorphologique de structures de
+combustion expérimentales anthropiquement remaniées. In Taphonomie de la combustion des résidus
+organiques et des structures de combustion en contexte archéologique. Actes de la Table Ronde du 27 au
+29 mai 2008 (pp. 25–37). Valbonne: Palethnology.
+Miller, C. E., Goldberg, P., & Berna, F. (2013). Geoarchaeological investigations at Diepkloof Rock Shelter,
+Western Cape, South Africa. Journal of Archaeological Science, 40(9), 3432–3452.
+O’Connor, S. (1995). Carpenter’s gap Rockshelter 1:40,000 years of Aboriginal occupation in the Napier
+Ranges, Kimberley, WA. Australian Archaeology, 40(1), 58–59.
+O’Connor, S. (1999). 30,000 years of aboriginal occupation, Kimberly, north west Australia. Terra Australis
+(Volume 14). Canberra: ANH Publications.
+Oakley, K. (1956). Fire as palaeolithic tool and weapon. Proceedings of the Prehistoric Society (New Series),
+21, 36–48.
+Playford, P. E., Hocking, R. M., & Cockbain, A. E. (2009). Devonian reef complexes of the Canning Basin,
+Western Australia. Geological Survey of Western Australia. Bulletin 145. Perth: Government of Western
+Australia.
+Preece, R., Gowlett, J. A., Parfitt, S. A., Bridgland, D., & Lewis, S. (2006). Humans in the Hoxnian: habitat,
+context and fire use at Beeches Pit, West Stow, Suffolk, UK. Journal of Quaternary Science, 21(5), 485–
+496.
+Pruetz, J. D., & LaDuke, T. C. (2010). Brief communication: reaction to fire by Savanna chimpanzees (Pan
+troglodytes verus) at Fongoli, Senegal: conceptualization of Bfire behavior^ and the case for a chimpanzee
+model. American Journal of Physical Anthropology, 141(4), 646–650.
+Ramsey, C. B., & Lee, S. (2013). Recent and planned developments of the program OxCal. Radiocarbon,
+55(2–3), 720–730.
+Ramsey, C. B., Scott, M., & van der Plicht, H. (2013). Calibration for archaeological and environmental
+terrestrial samples in the time range 26–50 ka cal BP. Radiocarbon, 55(4), 2029–2034.
+Rebollo, N. R., Weiner, S., Brock, F., Meignen, L., Goldberg, P., Belfer-Cohen, A., & Boaretto, E. (2011).
+New radiocarbon dating of the transition from the Middle to the Upper Paleolithic in Kebara Cave, Israel.
+Journal of Archaeological Science, 38(9), 2424–2433.
+Reimer, P. J., Bard, E., Bayliss, A., Beck, J. W., Blackwell, P. G., Bronk Ramsey, C., Buck, C. E., Cheng, H.,
+Edwards, R. L., & Friedrich, M. (2013). IntCal13 and Marine13 radiocarbon age calibration curves 0-50,
+000 years cal BP. Radiocarbon, 55(4), 1869–1887.
+Roebroeks, W., & Villa, P. (2011). On the earliest evidence for habitual use of fire in Europe. Proceedings of
+the National Academy of Sciences, 108(13), 5209–5214.
+Rolland, N. (2004). Was the emergence of home bases and domestic fire a punctuated event? A review of the
+Middle Pleistocene record in Eurasia. Asian Perspectives, 43(2), 248–280.
+Ross, J. H. (1998). Erythrophleum. In W. R. Sykes (Ed.), Flora of Australia (Volume 12). Mimosaceae (excl.
+Acacia), Caesalpiniaceae. Melbourne: CSIRO.
+Rudner, E., & Sumegi, P. (2002). Charcoal as remain of natural and human-set fires of palaeolithic times—
+case study from Hungary. BAR International Series, 1089, 11–18.
+Sandgathe, D. M., Dibble, H. L., Goldberg, P., McPherron, S. P., Turq, A., Niven, L., & Hodgkins, J. (2011).
+On the role of fire in Neandertal adaptations in western Europe: evidence from Pech de l’Azé IV and Roc
+de Marsal, France. PaleoAnthropology, 216–242.
+Scheel-Ybert, R. (2002). Evaluation of sample reliability in extant and fossil assemblages, Bar International
+Series 1063 (pp. 9–16). Oxford: Archaeopress.
+Scheel-Ybert, R., Beauclair, M., & Buarque, A. (2014). The forest people: landscape and firewood use in the
+Araruama region, southeastern Brazil, during the late Holocene. Vegetation History and Archaeobotany,
+23(2), 97–111.
+Schiegl, S., Goldberg, P., Pfretzschner, H.-U., & Conard, N. J. (2003). Paleolithic burnt bone horizons from the
+Swabian Jura: distinguishing between in situ fireplaces and dumping areas. Geoarchaeology, 18(5), 541–
+565.
+
+Home Is Where the Hearth Is: Anthracological and Microstratigraphic...
+
+775
+
+Schiegl, S., Stockhammer, P., Scott, C., & Wadley, L. (2004). A mineralogical and phytolith study of the
+Middle Stone Age hearths in Sibudu Cave, KwaZulu-Natal, South Africa. South African Journal of
+Science, 100(3–4), 185–194.
+Shackleton, C. M., & Prins, F. (1993). Charcoal yields from dry wood samples of ten savanna trees. The South
+African Archaeological Bulletin, 42–44.
+Shahack-Gross, R., Berna, F., Karkanas, P., Lemorini, C., Gopher, A., & Barkai, R. (2014). Evidence for the
+repeated use of a central hearth at Middle Pleistocene (300 ky ago) Qesem Cave, Israel. Journal of
+Archaeological Science, 44(1), 12–21.
+Smith, M., Vellen, L., & Pask, J. (1995). Vegetation history from archaeological charcoals in central Australia:
+The late Quaternary record from Puritjarra rock shelter. Vegetation History and Archaeobotany, 4(3), 171–
+177.
+Solé, A., Allué, E., & Carbonell, E. (2013). Hearth-related wood remains from Abric Romaní Layer M
+(Capellades, Spain). Journal of Anthropological Research, 69(4), 535–559.
+Stahlschmidt, M. C., Miller, C. E., Ligouis, B., Hambach, U., Goldberg, P., Berna, F., Richter, D., Urban, B.,
+Serangeli, J., & Conard, N. J. (2015). On the evidence for human use and control of fire at Schöningen.
+Journal of Human Evolution, 89, 181–201.
+Stiner, M. C., Khun, S. L., Weiner, S., & Bar-Yosef, O. (1995). Differential burning, recrystallization, and
+fragmentation of archaeological bone. Journal of Archaeological Science, 22, 223–237.
+Stoops, G., Marcelino, V., & Mees, F. (Eds.). (2010). Interpretation of micromorphological features of soils
+and regoliths. Amsterdam: Elsevier.
+Stratus, L. G. (1989). On early hominid use of fire. Chicago: University of Chicago Press.
+Sullivan, M. E., & Hughes, P. J. (2013). Quaternary geoarchaeology in the Olympic Dam desert area—a
+program overview. Quaternary Australasia, 30(2), 21–23.
+Sullivan, M., Field, T. L., Hughes, P., Marwick, B., Przystupa, P., & Feathers, J. K. (2012). OSL ages that
+inform late phases of dune formation and human occupation near Olympic Dam in northeastern South
+Australia. Quaternary Australasia, 29(1), 4–11.
+Théry-Parisot, I., Chabal, L., & Chrzavzez, J. (2010). Anthracology and taphonomy, from wood gathering to
+charcoal analysis. A review of the taphonomic processes modifying charcoal assemblages, in archaeological contexts. Palaeogeography, Palaeoclimatology, Palaeoecology, 291(1), 142–153.
+Toffolo, M., Maeir, A. M., Chadwick, J. R., & Boaretto, E. (2012). Characterization of contexts for
+radiocarbon dating: results from the early Iron Age at Tell es-Safi/Gath, Israel. Radiocarbon, 54(3–4),
+371–390.
+Ulm, S. (2013). ‘Complexity’ and the Australian continental narrative: themes in the archaeology of Holocene
+Australia. Quaternary International, 285, 182–192.
+Vannieuwenhuyse, D. (2016). Mind the gap: Geoarchaeology and micromorphology of cave and rockshelter
+sequences from the Kimberley, north-west Australia. Unpublished PhD thesis, University of Western
+Australia, Crawley.
+Vannieuwenhuyse, D., O’Connor, S., & Balme, J. (2017). Settling in Sahul: investigating environmental and
+human history interactions through micromorphological analyses in tropical semi-arid north-west
+Australia. Journal of Archaeological Science, 77(Geoarchaeology in the Humid Tropics: Practice,
+Problems, Prospects, 172–193.
+Vaquero, M., & Pastó, I. (2001). The definition of spatial units in Middle Palaeolithic sites: the hearth-related
+assemblages. Journal of Archaeological Science, 28(11), 1209–1220.
+Veitch, B. (1996). Evidence for mid-Holocene change in the Mitchell Plateau, northwest Kimberley, Western
+Australia. In P. Veth & P. Hiscock (Eds.), Archaeology of Northern Australia, Tempus (Vol. 4, pp. 66–89).
+Brisbane: Anthropology Museum, University of Queensland.
+Vidal-Matutano, P. (2016). Firewood and hearths: Middle Palaeolithic woody taxa distribution from El Salt,
+stratigraphic unit Xb (Eastern Iberia). Quaternary International. https://doi.org/10.1016/j.
+quaint.2016.07.040.
+Ward, I. A. K. (2004). Comparative records of occupation in the Keep River region of the eastern Kimberley,
+northwestern Australia. Australian Archaeology, 59(1), 1–9.
+Ward, I. A. K., & Larcombe, P. (2003). A process-orientated approach to archaeological site formation:
+application to semi-arid Northern Australia. Journal of Archaeological Science, 30(10), 1223–1236.
+Ward, I. A. K., Fullagar, R., Boer Mah, T., Head, L. M., Taçon, P. S. C., & Mulvaney, K. (2006). Comparison
+of sedimentation and occupation histories inside and outside rock shelters, Keep River region, northwestern Australia. Geoarchaeology, 21(1), 1–27.
+Ward, I. A. K., Winter, S., & Dotte-Sarout, E. (2016). The Lost Art of Stratigraphy? A consideration of
+excavation strategies in Australian Indigenous archaeology. Australian Archaeology, 82(3), 263–274.
+
+776
+
+Whitau et al.
+
+Wattez, J. (1988). Contribution à la connaissance des foyers préhistoriques par l'étude des cendres. Bulletin de
+la Société Préhistorique Française, 85, 352–366.
+Wattez, J. (1992). Dynamique de formation des structures de combustion de la fin du Paléolithique moyen au
+Néolithique moyen: approche méthodologique et implications culturelles. Unpublished PhD thesis,
+Université de Paris 1, Paris.
+Weiner, S., Schiegl, S., & Bar-Yosef, O. (1995). Recognizing ash deposits in the archaeological record. Acta
+Anthropologica Sinica, 14, 340–351.
+Weiner, S., Xu, Q., Goldberg, P., Liu, J., & Bar-Yosef, O. (1998). Evidence for the use of fire at Zhoukoudian,
+China. Science, 281(5374), 251–253.
+Whitau, R., Balme, J., O’Connor, S., & Wood, R. (2016a). Wood charcoal analysis at Riwi Cave, Gooniyandi
+country, Western Australia. Quaternary International (Wood Charcoal Science). https://doi.org/10.1016/j.
+quaint.2016.07.046.
+Whitau, R., Dilkes-Hall, I. E., Dotte-Sarout, E., Langley, M. C., Balme, J., & O’Connor, S. (2016b). X-ray
+computed microtomography and the identification of wood taxa selected for archaeological artefact
+manufacture: rare examples from Australian contexts. Journal of Archaeological Science: Reports, 6,
+536–546.
+Woinarski, J., Beggs, K., Hempel, C., Price, O., & Fisher, A. (2002). Ironwood: an ecological summary. In R.
+Taylor (Ed.), Ironwood Erythrophleum chlorostachys in the Northern Territory: aspects of its ecology in
+relation to timber harvesting (pp. 10–21). Palmerston: Parks and Wildlife Northern Territory Report to the
+Department of Agriculture, Fisheries and Forestry Australia.
+Wood, R. (2015). From revolution to convention: the past, present and future of radiocarbon dating. Journal of
+Archaeological Science. https://doi.org/10.1016/j.jas.2015.02.019.
+Wood, R., Jacobs, Z., Vannieuwenhuyse, D., Balme, J., O’Connor, S., & Whitau, R. (2016). Towards an
+accurate and precise chronology for the colonization of Australia: the example of Riwi, Kimberley,
+Western Australia. PLoS One, 11(9), e0160123.
+Wrangham, R. (2009). Catching fire: How cooking made us human. New York: Basic books.
+Wrangham, R. W., Jones, J. H., Laden, G., Pilbeam, D., Conklin-Brittain, N., Brace, C. L., Bunn, H. T., Roura,
+E. C., Hawkes, K., & O’Connell, J. (1999). The raw and the stolen: cooking and the ecology of human
+origins 1. Current Anthropology, 40(5), 567–594.
+Wynjorrotj, P., Flora, S., Brown, N., Jatbula, P., Galmur, J., Katherine, M., & Wightmann, G. M. (2005).
+Jawoyn plants and animals. Northern Territory Botanical Bulletin, 29.
+Yunupingu, B., Yunupingu-Marika, L., Marika, D., Marika, B., Marika, B., Marika, R., & Wightman, G. M.
+(1995). Rirratjingu ethnobotany: Aboriginal plant use from Yirrkala, Arnhem Land, Australia. Northern
+Territory Botanical Bulletin, 21, 1–112.
+
+

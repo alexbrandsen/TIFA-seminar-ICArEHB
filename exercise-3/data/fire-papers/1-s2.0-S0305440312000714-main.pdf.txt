@@ -1,0 +1,1001 @@
+Journal of Archaeological Science 39 (2012) 3039e3051
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+An experimental micromorphological investigation of bedding construction in the
+Middle Stone Age of Sibudu, South Africa
+Christopher E. Miller a, *, Christine Sievers b
+a
+b
+
+Institute for Archaeological Sciences, University of Tübingen, Ruemelinstr. 23, 72070 Tübingen, Germany
+School of Geography, Archaeology and Environmental Studies, University of the Witwatersrand, PO Wits 2050, South Africa
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 11 July 2011
+Received in revised form
+5 February 2012
+Accepted 8 February 2012
+
+We conducted experiments to compare the micromorphological signatures of modern burnt sedge and
+grass bedding to laminated layers of carbonized material and phytoliths in Middle Stone Age deposits at
+the shelter, Sibudu. The experiments were designed to clarify the formation processes associated with
+the laminated layers and to investigate whether these previously identiﬁed layers of bedding were
+deliberately burned or not. The results indicate that the laminated layers were most likely produced by
+human activity related to the construction, maintenance and burning of bedding. Furthermore, our
+experiments demonstrate that large volumes of vegetal material could have produced the relatively thin,
+archaeological deposits of burnt bedding.
+Ó 2012 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Sibudu
+Middle Stone Age
+Bedding
+Experiments
+Micromorphology
+
+1. Introduction
+
+1.1. The site of Sibudu
+
+Multiple lines of evidence have suggested that the construction, maintenance, and deliberate burning of bedding was a major
+activity carried out during the Middle Stone Age (MSA) occupation of Sibudu and that bedding constitutes a signiﬁcant component of the sedimentary units identiﬁed at the shelter (Goldberg
+et al., 2009; Sievers, 2006; Sievers and Wadley, 2008; Wadley
+et al., 2011). This paper addresses three questions relating to
+the burnt bedding hypothesis: could the repeated placement of
+sedges or grasses, their use as bedding, and their subsequent
+burning create the laminated ﬁbrous charcoal and phytolith layers
+seen in thin sections of the archaeological deposits? Could the
+micromorphological signature of the archaeological bedding
+indicate whether it was ignited directly, or was it burnt as a result
+of later construction of overlying hearths? Do different types of
+plant bedding produce different micromorphological signatures?
+In order to address these questions, and to calibrate our micromorphological interpretations, we conducted a series of experiments involving the construction and burning of bedding.
+The results and observations of these experiments are reported
+here.
+
+Since 1998, Lyn Wadley of the University of the Witwatersrand, Johannesburg, has headed a multidisciplinary research
+program at Sibudu, a rock shelter 15 km inland from the Indian
+Ocean, in KwaZulu-Natal province on the east coast of South
+Africa (Fig. 1). Intense pulses of occupation during the MSA
+between approximately 77 ka and 38 ka are represented by
+excellent preservation of organic remains, a wealth of lithic
+artifacts, the earliest record of bone arrow heads and one of the
+earliest records of shell beads in Africa (Backwell et al., 2008;
+d’Errico et al., 2008; Jacobs et al., 2008a,b; Wadley and
+Whitelaw, 2006; Wadley et al., 2009). Enhanced working
+memory and complex cognition are indicated by the evidence of
+the hafting of stone tools using ochre and other materials, and
+the use of bow and arrow technology, snares and traps (Wadley
+and Mohapi, 2008; Wadley et al., 2009; Lombard and
+Phillipson, 2010; Wadley, 2010).
+The nearly 3 m deep sequence at Sibudu has been stratigraphically divided into around 60 distinct units consisting of
+anthropogenic components derived from various combustion
+activities (Goldberg et al., 2009; Schiegl and Conard, 2006;
+Schiegl et al., 2004). The approximately 58 ka deposits are largely
+composed of distinct lenses, beds and laminations, whereas the
+underlying deposits (62e65 ka; 72 ka) appear more homogenous
+yet contain numerous, discrete lenses of charcoal and ash.
+
+* Corresponding author. Tel.: þ49 (0) 7071 29 76511; fax: þ49 (0) 7071 29 5717.
+E-mail address: christopher.miller@uni-tuebingen.de (C.E. Miller).
+0305-4403/$ e see front matter Ó 2012 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2012.02.007
+
+3040
+
+C.E. Miller, C. Sievers / Journal of Archaeological Science 39 (2012) 3039e3051
+
+Fig. 1. Map showing geographical situation of Sibudu.
+
+Micromorphological analysis has indicated that people were the
+main depositional agent at the site and that the lenses and laminations represent distinct anthropogenic deposits formed by the
+construction of hearths, the sweeping and dumping of ashes from
+hearths, the trampling of combusted material, and the construction
+and burning of bedding (Goldberg et al., 2009; Goldberg and Berna,
+2010; Wadley et al., 2011).
+1.2. Bedding construction in an archaeological context
+The preservation of archaeological bedding is not unknown,
+particularly in South Africa. Excavators have recovered thick mats
+of vegetal material that they have interpreted as the remains of
+human bedding in Holocene (Binneman, 1997, 1998, 1999, 2000;
+Grobbelaar and Goodwin, 1952; Parkington and Poggenpoel,
+1971; Van Rijssen and Avery, 1992) and Pleistocene (Opperman
+and Heydenrych, 1990; Opperman, 1996; Texier et al., 2010) sites.
+Beyond South Africa, indirect evidence for construction of bedding
+has been implied by the high proportion of phytoliths preserved in
+sites, such as Grotte XVI (Karkanas et al., 2002), Amud (Madella
+et al., 2002) and Tor Faraj (Henry, 2003; Rosen, 2003), and the
+identiﬁcation of possible sleeping areas between hearths at Abric
+Romani (Vallverdú et al., 2010). More direct evidence for bedding in
+a Mousterian context has been identiﬁed at Esquilleu Cave, where
+layers of articulated phytoliths were identiﬁed by micromorphological analysis (Cabanes et al., 2010). Discrete areas with bedding
+remains were found on the constructed ﬂoor of a grass hut at the
+water-logged site of Ohalo II, dated to 23 ka (Nadel et al., 2004). The
+oldest archaeological evidence for bedding besides Sibudu (Wadley
+et al., 2011) is also from South Africa, from Strathalan Cave B,
+a shelter in the Eastern Cape Province (Opperman, 1996), where
+patches of packed grass are associated with a hearth that has been
+dated to 29 ka ago.
+
+1.3. Evidence for bedding at Sibudu
+The presence of bedding at Sibudu was ﬁrst suggested by Sievers
+(2006) and Sievers and Wadley (2008), based on the high frequency
+of sedge nutlets (one-seeded fruits, about 1e3 mm in length) found
+at the site. The authors suggested that the entry of the nutlets to the
+site was through the collection of sedge culms (Sievers, 2006, 2011),
+which were most likely brought to the site to construct a ﬂoor
+preparation for sleeping, resting or working.
+Micromorphological studies (Goldberg et al., 2009; Goldberg
+and Berna, 2010) supported the archaeobotanical interpretation,
+suggested by nutlet presence, of informally constructed bedding at
+the site. The micromorphological analysis applied the concept of
+microfacies (Flügel, 2004) to identify units whose formation was
+linked to different human activities. Goldberg et al. (2009) identiﬁed the burnt bedding microfacies association by the repeated
+vertical occurrence of three distinct microfacies: a lower microfacies unit consisting of laminated ﬁbrous charcoal, derived from
+herbaceous material; a middle microfacies unit consisting of
+laminated ﬁbrous charcoal and laminated phytoliths; and a ﬁnal
+capping microfacies unit consisting solely of laminated phytoliths
+(Fig. 2). These layers are usually a centimeter thick or less; however,
+complexes of these microfacies associations can form layers that
+are up to several centimeters thick. Although most appear to form
+discontinuous lenses, some of the more extensive layers are laterally traceable across at least a meter or more of the site. The
+gradational contacts between the three distinct microfacies units
+suggested that the laminated charcoal and the laminated phytoliths
+had a similar origin and were deposited simultaneously. However,
+the upper portion of the unit had undergone post-depositional
+alteration. Goldberg et al. (2009) suggested that the gradation
+from laminated ﬁbrous charcoal at the base to laminated phytoliths
+at the top of the layers was the result of in situ burning.
+
+C.E. Miller, C. Sievers / Journal of Archaeological Science 39 (2012) 3039e3051
+
+3041
+
+Sievers and Wadley (2008) also noted that the evidence for bedding
+at the site was carbonized, and suggested that the carbonization of
+the sedge nutlets was serendipitous below subsequently constructed, yet unrelated hearths. Other examples of inadvertent heat
+treatment, as well as deliberate burning at Sibudu have been noted:
+Wadley (2009) cited post-depositional heating of ochre, possibly
+resulting in the over-representation of red ochre in MSA sites. Clark
+and Ligouis (2010) refer to incidental burning in their analysis of
+the taphonomy of bone at Sibudu and mention intentional burning
+of bone, as previously proposed by Cain (2006), as a possible site
+maintenance activity.
+2. Methods and materials
+2.1. Experimental goals
+We designed the experiments to address the following
+questions:
+ Does the experimental placement, trampling, and subsequent burning of sedge or grass bedding, as proposed
+by Goldberg et al. (2009), produce micromorphological
+characteristics similar to those seen in archaeological
+examples from Sibudu? Can multiple experimental phases of bedding construction and burning be detected
+micromorphologically?
+ Is the micromorphological signature of bedding dependent
+on the type of plants used?
+ Were the bedding layers at Sibudu directly ignited, or were
+they carbonized by overlying hearths?
+
+2.2. Experimental design
+Fig. 2. Examples of deposits interpreted as bedding at Sibudu, in the ﬁeld, and in thin
+section. A) In the ﬁeld, the deposits of Sibudu appear as laminations of black alternating with white. B) In thin section, many of the white-colored layers are composed of
+laminated phytoliths, as seen here. The darker-colored layers are composed of laminated, ﬁbrous charcoal, likely derived from monocotyledonous plants, such as sedges
+or grasses.
+
+The general model of formation proposed by Goldberg et al.
+(2009) was that during the MSA the occupants of Sibudu
+collected sedges from the adjacent uThongathi River and placed
+them on the surface of the rock shelter ﬂoor to prepare an area for
+sitting, resting or working. The constant trampling and compaction
+of the vegetal material created the laminated microstructure seen
+in thin section. The presence of stringers of crushed bone (Miller
+et al., 2009) and chipped stone within the laminated ﬁbrous charcoal suggested that in some instances, sedges were repeatedly
+brought to the site and laid down to refresh the bedding surface. At
+some point the shelter occupants ignited the bedding, possibly as
+a form of site maintenance to remove pests (Goldberg et al., 2009).
+
+We conducted seven ﬁre experiments to address these questions (Table 1). Fires 1, 6 and 7 were designed to address the issue of
+direct versus indirect burning of the bedding. Fires 2e5 were
+designed to test the model for the formation of burnt bedding
+proposed by Goldberg et al. (2009), and to determine if different
+types of plants would produce different micromorphological
+signatures that could be recognized in archaeological samples.
+2.2.1. Fire 1
+The aim of Fire 1 was to investigate whether the carbonization
+of buried bedding material by an overlying ﬁre produced the
+micromorphological signature of the archaeological bedding layers.
+Previous burning experiments showed that seeds, buried up to
+10 cm deep, were affected by the heat of a ﬁre lit directly above
+them (Sievers and Wadley, 2008). At 5 cm below the center of the
+hearth, seeds of various sizes and testa hardness, with or without
+fruit adhering, and of varying oil and moisture content, became
+carbonized (black throughout). At 10 cm some seeds became black,
+whereas others were less affected and were altered to a dark
+
+Table 1
+Materials, methods and aims of the experimental ﬁres.
+Fire
+
+Plant type
+
+Name
+
+Heat treatment
+
+Replication aim
+
+1
+2
+3
+4
+5
+6
+7
+
+Sedge
+Sedge
+Sedge
+Grass
+Grass
+Sedge
+Sedge
+
+Cyperus involucratus
+Cyperus involucratus
+Schoenoplectus litoralis
+Panicum deustum
+Setaria plicatilis
+Cyperus involucratus
+Cyperus involucratus
+
+Single wood ﬁre above buried sedge culms
+5 ﬁres, one above the other
+3 ﬁres, one above the other
+3 ﬁres, one above the other
+3 ﬁres, one above the other
+Single ﬁre
+Single ﬁre
+
+Accidental carbonization of buried bedding
+Signature of repeatedly burned sedge bedding
+Signature of repeatedly burned sedge bedding
+Signature of repeatedly burned grass bedding
+Signature of repeatedly burned grass bedding
+To test the possibility of accidental ﬁre
+To test the possibility of accidental ﬁre
+
+3042
+
+C.E. Miller, C. Sievers / Journal of Archaeological Science 39 (2012) 3039e3051
+
+brown. These results indicated that it is possible that the sedge
+nutlets and therefore sedge bedding layers at Sibudu, once buried,
+could have been later carbonized by ﬁres made above them some
+time after their entry into the deposits. The presence of numerous
+hearths and the overwhelmingly ashy deposits at Sibudu (Schiegl
+et al., 2004, Schiegl and Conard, 2006) support this possible
+scenario.
+For Fire 1, Cyperus involucratus Rottb. culms, including attached
+inﬂorescences, were cut into 30 cm lengths and laid down and
+compacted in a hole of the same lateral dimensions and approximately 8 cm deep. The culms were then covered by 5 cm of lightly
+compacted ﬁne sediment recovered from Sibudu 1 mm screening.
+Seven pieces (3 kg total mass) of Casuarina equisetifolia L., a ﬁrewood that produces relatively hot, long-lasting coals, were stacked
+directly above the buried sedges and ignited using commercially
+available ﬁre-starter to produce a ﬁre of 30 cm diameter. After
+30 min the wood had burned down and six more pieces of wood
+(also 3 kg) were added. Temperatures were recorded with a MajorTech digital thermometer (MT 632) and a K-type thermocouple
+with a 50 cm probe positioned as close as possible to the base of the
+buried sedges without disturbing them (the thermaprobe could not
+be inserted when the sedges were laid down, because of possible
+damage during compaction of the sedges). Recordings were noted
+every 15 min for the ﬁrst three and a half hours, at 30 min intervals
+for the next three hours, and at hourly intervals for the rest of a 24 h
+period, apart from four hours in the early hours of the morning. The
+measurement intervals were determined by the rate and degree
+of observed temperature change, particularly those registered by
+a second probe which became available two and a half hours after
+the ﬁre was started. This probe was inserted to record temperatures
+in the coals at the base of Fire 1.
+After Fire 1 had cooled, the area was covered for protection
+from wind and rain, left undisturbed for one week, and then
+excavated following conventional archaeological procedures.
+
+During excavation, a 10 cm square column sample was removed
+from the center of the hearth area.
+2.2.2. Fires 2e5
+Fires 2e5 were designed to reproduce the model of burnt
+bedding formation proposed by Goldberg et al. (2009). Both
+Cyperaceae (sedge) and Poaceae (grass) pollens and phytoliths have
+been identiﬁed at Sibudu (Schiegl et al., 2004; Renaut and Bamford,
+2006; Schiegl and Conard, 2006; Goldberg et al., 2009) and so
+two sedge species, Cyperus involucratus Rottb. and Schoenoplectus
+litoralis Palla and two grass species, Panicum deustum Thunb. and
+Setaria plicatilis (Hochst.) Engl. were chosen for the experimental
+ﬁres (Fig. 3). At the time of the experiments (February 2010) no
+grass species had been identiﬁed by macrobotanical studies at
+Sibudu, and Schoenoplectus cf. brachyceras had been suggested as
+a possible identiﬁcation for the sedge nutlets (Sievers, 2006). This
+sedge is not available for harvesting in the Durban area, but
+a similar sedge S. litoralis is available and it, like Cyperus involucratus
+is regularly used for the manufacture of sleeping mats (CS, pers.
+observation, Van Wyk and Gericke, 2000). The grasses for the
+experiment were chosen to provide variety in the possible characteristics of the bedding: Setaria plicatilis has soft leaves and
+culms, whereas Panicum deustum has ﬁrm long culms and is sturdier. All four taxa were collected in the Durban area: Cyperus
+involucratus from a suburban garden in Durban North (approximately 45 km from Sibudu), Panicum deustum from a roadside
+bank also in Durban North, Schoenoplectus litoralis from ponds in
+Umbilo-Umhlatazana River Park, and Setaria plicatilis from coastal
+forest in Virginia Nature Reserve. The sedges and grasses were laid
+down on newsprint, under cover, to dry naturally.
+The selected grass and sedge species were also chosen because
+the habitats in which they occur can be found near Sibudu, which is
+situated in a forested cliff above the perennial uThongathi River,
+overlooking a north-facing slope of grassland. Cyperus involucratus
+
+Fig. 3. Sedges and grasses used in the ﬁre experiments. A) Cyperus involucratus growing in the uThongathi River below Sibudu. B) Schoenoplectus litoralis in Umbilo Ponds, Durban.
+C) CS collecting Panicum deustum alongside Crusader’s Field, Durban North. D) Setaria plicatilis in Virginia Nature Reserve, Durban North.
+
+C.E. Miller, C. Sievers / Journal of Archaeological Science 39 (2012) 3039e3051
+
+occurs in moist situations, whereas Schoenoplectus litoralis grows
+only in standing water. The grass, Panicum deustum, known as reed
+panicum, occurs in shade, in moist situations such as river banks
+and also on stony slopes (Gibbs et al., 1990; Van Oudtshoorn, 1992).
+Setaria plicatilis, known as folded leaf tussock grass (although it is
+only loosely caespitose/occurring in tufts), occurs in semi-shade,
+along forest margins and occasionally in woodland (Gibbs et al.,
+1990). Both the tussock grass and panicum occur in coastal
+forests and also in savanna. Reed panicum has long stiff culms used
+in the weaving of grass mats (Gibbs et al., 1990), whereas tussock
+grass is a soft leafy plant, which can make up a comfortable and
+springy resting area.
+For Fire 2, dried Cyperus involucratus (sedge) culms, including
+inﬂorescences, were cut into 30 cm sections and placed in a hole of
+the same lateral dimensions and approximately 6 cm deep, layer
+upon layer at 90 degrees to each other. When the layering extended
+above the ground surface a 30 cm by 30 cm piece of cardboard was
+placed on the pile and the sedges were compacted under repeated
+rolling of a tennis court roller, which was then left to compress the
+bedding for 45 min. This was done to simulate repeated human
+
+3043
+
+trampling and compaction of the bedding. A thermaprobe was
+placed at the base of the sedges and the sedges were ignited using
+commercially available ﬁre-starter. Temperatures were recorded
+every 15 min for two and a half hours, and then the thermaprobe
+was removed (to prevent damage to it during the next part of the
+experiment). A second series of layers of sedges was placed on the
+30 cm  30 cm designated area and compacted once the layers
+threatened to topple. After 45 min under the roller, the sedges were
+ignited. The thermaprobe was not re-inserted because of possible
+disturbance of the sediments. The layering, compacting and
+igniting process was repeated ﬁve times in total, to replicate
+repeated burning of bedding. The area was then covered with ﬁne
+sand and compacted for one week by the stationary weight of
+the roller. This phase of compaction was conducted to simulate
+compaction and settling that would have occurred over time
+following burial at Sibudu. Excavation followed and a block was
+removed from the center of the experimental area for micromorphological analysis (Fig. 4). For Fire 3 (Schoenoplectus litoralis e
+sedge), Fire 4 (Panicum deustum e reed panicum) and Fire 5 (Setaria
+plicatilis e tussock grass) the dimensions of the ﬁres were as for
+
+Fig. 4. Fire experiment methods. A) Dried Cyperus involucratus culms. B) Cut culms in 30 cm  30 cm  8 cm hole. C) Compaction of culms with garden roller. D) Burning of culms.
+E) Sediment block from center of excavated Fire 1. F) Resin-impregnated blocks from ﬁre experiments (photo. Silje Bentsen).
+
+3044
+
+C.E. Miller, C. Sievers / Journal of Archaeological Science 39 (2012) 3039e3051
+
+Fire 2, 30 cm  30 cm, and ﬁve pieces of ﬁre-starter were used to
+ignite each ﬁre, one piece in each corner and one in the center.
+Three sets of layers were ignited and the material was compacted
+between each ﬁre. After the ﬁnal ﬁres had cooled, they were
+covered by 5 cm of sand before compaction for three days.
+Circumstance of timing and the amount of available sedges and
+grasses governed the slight differences in number of layering and
+timing of compaction between the different ﬁres.
+The blocks of intact sediment from Fires 1e5 were covered
+in plaster bandages to facilitate removal and to preserve the
+integrity of the samples. The samples were dried on-site overnight
+at 60  C and then impregnated with polyester resin (NCS Resins,
+New Germany, KwaZulu-Natal, South Africa) mixed with styrene
+and hardener. After the resin had set following several days of air
+drying, the samples were heated at 60  C overnight to complete the
+hardening. They were cut using a rock saw and the resulting blocks
+were thin sectioned by Spectrum Petrographics (Vancouver, WA,
+USA). Thin section descriptions were conducted on a Zeiss AxioImager petrographic microscope using plane polarized light (PPL),
+cross-polarized light (XPL) and oblique incident light (OIL) and
+followed the procedures described by Stoops (2003) and Courty
+et al. (1989).
+2.2.3. Fires 6 and 7
+The aim of Fires 6 and 7 was to investigate whether the bedding
+material at Sibudu could have ignited accidentally, for example,
+from a coal or spark of a nearby ﬁre or if direct ignition by humans
+was more likely. Culms of Cyperus involucratus were used in the
+experiments. The culms used in Fire 6 had previously been harvested and had been drying for 15 months in Sibudu. The sedges
+were laid horizontally and were ignited with ﬁre-starter after
+matches proved unsuccessful. The ﬁre-starter was positioned at
+one end of the stack of sedges to observe whether the ﬂames would
+move across the mass of sedges. The methods for Fire 6 were
+repeated for Fire 7 which used a large stack of sedges that had been
+sundried at Ballito, a coastal town approximately 15 km directly
+east of Sibudu.
+
+3. Results
+3.1. Fire 1
+The maximum temperature at the base of the buried sedges in
+Fire 1 was 253  C, which was reached nine and a half hours after the
+ﬁre was ignited and at least 3 h after the last glimmer of light could
+be seen glowing in the coals (Table 2). The temperature recorded by
+the second thermaprobe, positioned in the coals at the base of the
+ﬁre, also continued to rise long after the ﬂames had died down and
+the embers had stopped glowing. It reached a maximum of 489  C
+seven and a half hours after the ﬁre was ignited.
+
+The fuel in Fire 1 combusted completely and the remains
+of the ﬁre consisted of lenticular layers, shallower at the edges
+and thicker towards the center and were composed of a white
+ashy layer underlain by a pinkish layer grading into a reddish
+colored layer, all above a black layer. These layers overlay the
+sieved Sibudu sediments and the sedges themselves (Fig. 5).
+All sedges were carbonized except for those towards the perimeter and at the base of the sedge layer, which was 4.5 cm thick
+(Fig. 6).
+The layer of sedges is marked by the preservation of distinct
+culms, roots and leaves forming a loose structure (Fig. 5). The
+sedges appear carbonized, based on their opacity in plane polarized (PPL) and cross-polarized light (XPL). The lowermost sedges,
+however, do not exhibit evidence of carbonization. Furthermore,
+the occurrence of interference colors in XPL in the culms indicates
+that original cellulose remained. Most importantly, the characteristic phytolith layers found in bedding at Sibudu are not
+evident.
+3.2. Fire 2
+After ignition, the Cyperus involucratus burned and then rapidly
+subsided after 9 min. The embers continued smoldering and the
+maximum temperature, 603  C, was recorded at the base of the
+sedges 18 min after ignition of the ﬁre (Table 2). Excavation of
+the experiment revealed a centimeter-thick consolidated deposit
+consisting of fused, burnt culms, some black but others white,
+that exhibited preserved anatomical structures of the original
+plants.
+The alternating direction in which the sedges were laid is
+distinguishable in thin section, usually from the carbonized sedges
+that were sectioned transversally. The culms were compressed
+from circular to lenticular in transverse section and as a result, the
+vascular bundles were packed closely together. The bracts from the
+sedge inﬂorescences can also be identiﬁed in transverse section and
+longitudinal sections of culms are visible. In XPL, the charcoal is
+opaque and the phytoliths are isotropic, as would be expected;
+however, some zones of micron-sized birefringent material, most
+likely calcite, are present.
+Fire 2 produced micromorphological structures and features
+most similar to the archaeological examples found at Sibudu. The
+layer of experimentally-produced burnt bedding consisted largely
+of compacted and laminated phytoliths (approximately 60%), many
+of which were still articulated and retained anatomical characteristics of the original plant. The remainder of the layer consisted of
+laminated ﬁbrous charcoal, which is found in distinct zones within
+the laminated phytoliths. The ﬁbrous charcoal is found throughout
+the layer. The distribution of the ﬁbrous charcoal in relation to the
+phytoliths does not resemble the distribution found in archaeological samples from Sibudu. Importantly, it is not possible to
+distinguish individual burning events in the thin sections of Fire 2.
+
+Table 2
+Results of the experimental ﬁres. Time refers to the time from the lighting of the ﬁre until the maximum temperature recorded (at the base of the ﬁre) was reached.
+Temperatures were recorded only for the ﬁrst of the series of ﬁres in each experiment because the thermometer probes were removed to prevent damage during compaction of
+material in subsequent ﬁres.
+Fire
+
+Plant name
+
+Max. temp.
+
+Time
+
+Comments
+
+1
+
+Casuarina equisetifolia
+Cyperus involucratus (buried)
+Cyperus involucratus
+Schoenoplectus litoralis
+Panicum deustum
+Setaria plicatilis
+Cyperus involucratus
+Cyperus involucratus
+
+489  C
+253  C
+603  C
+554  C
+
+7½ h
+9½ h
+18 min
+31 min
+
+Temp. measured at base of ﬁre.
+Max. reached 2 h after temp. of ﬁre above began decreasing.
+Flames lasted 9 min
+
+157  C
+
+30 min
+
+>800  C
+
+5 min
+
+2
+3
+4
+5
+6
+7
+
+Temperatures not recorded.
+Not fully dry.
+Temperatures not recorded.
+Thermometer and probe removed to prevent damage to them.
+
+C.E. Miller, C. Sievers / Journal of Archaeological Science 39 (2012) 3039e3051
+
+3045
+
+Fig. 5. Results of Fire 1. A) Two thin sections (each 50 mm  75 mm) collected from Fire 1, showing the ash (A) produced from the overlying ﬁre, the sieved Sibudu sediment (S)
+separating the ﬁre from the sedge bedding layer (B), with a rubeﬁed top (R). Notice that the rubeﬁcation does not extend to the bedding, but that the culms of the sedges were
+carbonized. Below the bedding layer (B) is consolidated red dune sand that makes up the natural substrate. B) Calcareous ash produced in the wood ﬁre. Compare this to the burnt
+bedding layers (Figs. 6 and 7), where little calcareous material was found. C) A cross-section of a carbonized Schoenoplectus litoralis culm, clearly showing vascular bundles.
+(For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+3.3. Fire 3
+The Schoenoplectus culms, once lit, burned well, and puffed
+and expanded. They continued smouldering as in Fire 2 and also
+produced a centimeter-thick consolidated deposit that preserved
+anatomical features of the original plants. A maximum temperature
+of 554  C was reached after 31 min (Table 2).
+In general, Fire 3 exhibited micromorphological characteristics
+similar to Fire 2 and to archaeological examples of burnt bedding at
+Sibudu. The bedding layer of Fire 3 consisted largely of compact
+laminated phytoliths (50%) and ﬁbrous charcoal. Unlike Fire 2, the
+phytoliths in Fire 3 are not as clearly deﬁned and appear relatively
+amorphous in morphology, making the laminated character of the
+phytoliths less distinct than in Fire 2. However, many individual
+phytoliths exhibit distinct morphological characteristics that
+would potentially lend themselves to identiﬁcation in thin section.
+The ﬁbrous charcoal, as in Fire 2, is located in distinct zones, but its
+distribution is not clearly related to individual burning events.
+The zones of ﬁbrous charcoal are less well deﬁned in Fire 3 than in
+Fire 2 and exhibit slightly diffuse boundaries with the surrounding
+laminated phytoliths. Carbonized plant material is located at the
+very base and also at the very top of the burnt bedding layer.
+
+The relatively open structure and less obvious lamination appear
+to be a result of the Panicum anatomy. The burnt culms of the
+grass produced articulated phytoliths that display clear laminations
+similar to Fires 2 and 3. However, the Panicum leaves created a more irregular and open structure that does not appear similarly
+laminated.
+Fire 5 appeared similar to Fire 4 in thin section, except that the
+proportion of phytoliths was the least of all ﬁres (only 25% of the
+layer). Fibrous charcoal is dominant, and some weak laminations
+are present, but they are not as clear as in the sedge ﬁres (Fires 2
+and 3), or as in the Panicum ﬁre (Fire 4). As in Fire 4, the leaves of the
+grass in Fire 5 produced a more open and irregular structure with
+a less-laminated appearance compared to the other experiments.
+Individual culms from the Setaria were preserved and visible in thin
+section, having not been extensively crushed and compacted as in
+the other experiments.
+3.5. Fires 6 and 7
+Upon ignition the ﬁre did not move across the stack of sedges in
+Fire 6, and it died out before fully combusting the sedges. In Fire 7,
+where sundried sedges were used, the ﬂames moved rapidly across
+the entire stack of sedges, fully combusting all the sedges.
+
+3.4. Fires 4 and 5
+4. Discussion
+As noted for the sedges, the grasses also needed ﬁre-starter to
+ignite. Residual moisture or absorption of excessive humidity are
+likely explanations for the difﬁculty in ignition, Nevertheless,
+compacted sections of burned material were obtained for analysis.
+The grass ﬁres produced results that are micromorphologically
+distinct from the sedge ﬁres (Fires 2 and 3) (Fig. 7). The experiment
+with Panicum (Fire 4) contains a proportion of phytoliths to ﬁbrous
+charcoal that is similar to the proportion found in Fires 2 and 3
+(50e60%); however, the phytoliths and ﬁbrous charcoal are not
+as clearly laminated here as in Fires 2 and 3. Furthermore, the
+structure of the layer is less compact than in the sedge ﬁres.
+
+The main objective of the experiments was to determine if
+modern compacted and burnt sedges and grasses would produce
+a micromorphological signature similar to features identiﬁed at
+Sibudu and interpreted as burnt bedding (Goldberg et al., 2009). In
+particular, we were interested in investigating whether different
+types of plants produced different signatures, and if multiple
+episodes of bedding construction and burning could be detected
+micromorphologically. We were also interested in investigating
+whether we could distinguish between incidental carbonization
+and direct burning of plant bedding.
+
+Fig. 6. Sedge ﬁres: Fire 2 (A, B, C) and Fire 3 (D, E, F). A) Thin section (50 mm  75 mm) collected from Fire 2. The reddish material is the Berea red soil which provided the substrate
+for this experiment. Notice the clear laminated structure of the experimental burnt bedding layer. While all experimental ﬁres produced a laminated microstructure, Fire 2 exhibited
+the clearest laminations of all experiments. B) Carbonized sedge culm. C) articulated phytoliths (indicated with arrow). Similar carbonized culms and phytoliths in a laminated
+microstructure are found in the archaeological deposits of Sibudu. D) In this section (50 mm  75 mm) collected from Fire 3, the over- and underlying material is sand from Ballito,
+South Africa, which was the substrate for this and Fires 4, 5 and 6. Notice the clear laminations present in this experimental burnt bedding layer. E) Example of laminated phytoliths
+and carbonized culms. F) A closer view of laminated carbonized culms (at base) overlain by laminated phytoliths. The phytolith-rich layers in this experiment (Fire 3) were not
+a clearly deﬁned as in Fire 1. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+C.E. Miller, C. Sievers / Journal of Archaeological Science 39 (2012) 3039e3051
+
+3047
+
+Fig. 7. Grass ﬁres: Fire 4 (A, B, C) and Fire 5 (D, E, F). A) Thin section (50 mm  75 mm) of Fire 4. Laminations are visible, but not as clearly as in the sedge ﬁre experiments (Fires 2
+and 3). B) While phytoliths and carbonized culms and leaves are clearly visible microscopically, they appear closely together, and not clearly separated into distinct zones as seen in
+the sedge ﬁres and in archaeological examples. C) Laminated phytoliths and carbonized culms and leaves. D) Thin section (50 mm  75 mm) of Fire 5. This ﬁre experiment produced
+results that were least similar to the archaeological examples of burnt bedding. Laminations are not clearly visible, as in the sedge ﬁres (1 and 2). E) Some grass culms were still
+clearly preserved, as seen here. F) Some laminations are visible microscopically, but no clear layers of laminated phytoliths were apparent.
+
+3048
+
+C.E. Miller, C. Sievers / Journal of Archaeological Science 39 (2012) 3039e3051
+
+Fig. 8. Archaeological and experimental examples of burnt bedding. A) Archaeological example of burnt bedding from Sibudu, from w59 ka layers (Brown under YA2(i)). Notice the
+distinct zones of laminated carbonized material separated by thin, light colored layers of phytoliths. B) Experimental example of laminated phytoliths and carbonized culms, Fire 2.
+Notice the similarity in appearance of the laminations compared to the archaeological example. C) Archaeological example of a laminated phytolith layer, Sibudu (OMOD). The
+different articulated phytoliths are clearly visible. D) Experimental example of laminated phytolith layer from Fire 2. While all experimental ﬁres produced phytoliths to some
+extent, only the sedge ﬁres produced distinct laminated layers of phytoliths. E) Vascular bundles preserved in archaeological sediments, Sibudu(OMOD). F) Experimental example
+of preserved vascular bundles. The arrangement of such bundles in cross-section of a culm may allow for the identiﬁcation of different types of plants used for bedding. (For
+interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+All four experiments (Fires 2e5) produced laminated ﬁbrous
+charcoal and phytoliths that generally resembled the micromorphological characteristics observed in the Sibudu sediments (Fig. 8).
+Of the four experiments, the sedge ﬁres, and in particular the Cyperus
+experiment (Fire 2), produced results most similar to the archaeological examples of burnt bedding. Most of the combustion remains
+of Fire 2 consisted of phytoliths that were predominantly articulated
+and clearly deﬁned. Although phytoliths were present in the other
+sedge ﬁre (Fire 3) and also in the grass ﬁres, the clear articulation and
+laminations were not as well deﬁned. In general, the results of these
+
+ﬁres indicated that the model of formation for the types of layers as
+proposed by Goldberg et al. (2009) is plausible. Phytolith studies
+have the potential to provide detail on the composition of the
+bedding, and detailed phytolith studies at Sibudu are on-going.
+Pollen is not well preserved at Sibudu, but both grass and sedge
+pollens have been identiﬁed in the w58 ka layers (Renaut and
+Bamford, 2006). These pollens are anemophilous, thus their presence is not necessarily connected to the bedding in the shelter.
+Some micromorphological aspects of the experimental ﬁres are
+different from those of the archaeological examples. All of the burnt
+
+C.E. Miller, C. Sievers / Journal of Archaeological Science 39 (2012) 3039e3051
+
+bedding layers at Sibudu are deﬁned by a basal unit of laminated
+ﬁbrous charcoal that grades into an overlying layer of laminated
+phytoliths. The goal of conducting multiple ﬁrings of the sedge and
+grass experiments was to determine if multiple distinct burning
+events could be detected when they occurred directly on top of one
+another. Our experiments showed that this is not always the case.
+Although laminated phytoliths and ﬁbrous charcoal were produced
+in the experiments, the distinct gradation from the charcoal to the
+phytoliths was not reproduced. For our experiments it seems that
+complete ashing (producing the laminated phytoliths) or carbonization (producing the laminated ﬁbrous charcoal) varied in the
+different experiments, so that the sedges were largely burnt to
+completion (ashed), but the grasses were more likely carbonized.
+A possible explanation for the lack of a clear vertical variation in
+proportions of charcoal and phytoliths is that our experimental
+beds were either too thin or not sufﬁciently compact. Particularly
+for the sedge experiments, enough oxygen was able to reach the
+base of the bedding so that the entire mass of material was able to
+burn largely to completion. If the beds were thicker, or if the beds
+were more compact, oxygen would have been less able to reach the
+base of the deposit, thereby promoting the carbonization rather
+than the complete ashing of the basal sedges. Although there was
+a lack of structuring in the ﬁbrous charcoal and phytoliths in the
+experiments, we observed zones of laminated ﬁbrous charcoal,
+which demonstrates that this type of charcoal can be formed
+during similar burning events.
+One particularly striking result observed in the experiments was
+the reduction in volume of the collected and compacted plant
+material after burning. A total of 30 cm of compacted Cyperus and
+Schoenoplectus was used for the ﬁre experiments and both
+produced layers that were on average 6 mm thick after burning and
+compaction. Up to 98% of the total thickness, before compaction, of
+the experimental bedding layers was lost during combustion. Most
+of the archaeological phytolith layers are around 1 cm thick, and
+some appear at least 3 cm thick (Goldberg et al., 2009). Our
+experiments suggest that the relatively thin burnt bedding deposits
+at Sibudu represent signiﬁcant volumes of plant material that were
+brought to the site. Based on a 98% loss of bulk, some of the
+archaeological phytolith layers may represent compressed bedding
+deposits that were up to 150 cm thick, though it seems unlikely that
+any individual bedding unit was this thick at any given time. Albert
+et al. (2008) have also suggested that phytolith-rich layers represent
+a signiﬁcant loss in volume, which can inﬂuence the taphonomic
+processes of a site. Micromorphological analysis of some of the
+Sibudu bedding layers has identiﬁed stringers of crushed bone and
+chipped stone that deﬁned surfaces within the constructed bedding
+unit (Goldberg et al., 2009), suggesting that plant material was
+applied repeatedly to refresh the bedding surface. The fact that large
+volumes of plants are needed to form the archaeological phytolith
+layers may also explain why laminated ﬁbrous charcoal is found
+below laminated phytoliths in archaeological examples, but not in
+the experimental examples. While our experiments produced
+layers approximately as thick as some archaeological examples, our
+experimental deposits were produced by several ﬁres. It seems that
+the archaeological burnt bedding layers represent thicker accumulations of plant material, possibly as thick as our entire volume of
+plants for each ﬁre. In the past, this large volume was possibly burnt
+at one time. Therefore, in the archaeological examples, the base of
+the burnt bedding layers was probably carbonized while the upper
+portion of the bedding layer was ashed, producing the laminated
+phytolith layers. In our experiments, the entire bedding layer was
+more or less ashed, producing laminated phytolith layers with
+stringers of ﬁbrous charcoal throughout the entire deposit.
+Fires 1, 6 and 7 addressed the question: was the burning of the
+bedding direct or indirect? Fire 1 was conducted to explore the
+
+3049
+
+possibility of accidental carbonization, by a post-depositional ﬁre,
+of bedding that had been buried by the accumulation of overlying
+sediment; this scenario had been proposed by Sievers and Wadley
+(2008). If the results of Fire 1 replicated the signatures of the Sibudu
+deposits (layers of phytoliths and carbonized material) they could
+indicate serendipitous carbonization. Fire 1 conﬁrmed that sedge
+culms carbonize when buried below 5 cm of sediment similar to
+that found at Sibudu. But, the carbonized sedges were not capped
+by a layer phytoliths as seen in the Sibudu microstratigraphy. This is
+not an unexpected result since the heating of plant material in
+a reducing environment is unlikely to allow full combustion and
+produce ash, or a layer of phytoliths.
+Fires 6 and 7 addressed the burning of bedding exposed on the
+ﬂoor of the shelter. In Fire 6, it was not possible to ignite the sedges
+so that they combusted completely. However, in Fire 7, the sedges
+ignited quickly, with temperatures nearing over 900  C, necessitating the removal of the thermaprobe. A likely explanation for the
+dichotomy of the results is the tendency of dried sedges to react
+to the amount of moisture in the atmosphere. This feature is
+successfully exploited in the north-western parts of South Africa
+where nomadic herders use sedge mats to cover the curved
+wooden frames of their “matjieshuise” (Afrikaans for “houses of
+mats”). During the dry summer months, sedge culms shrink and
+allow a breeze to pass between them, whereas in the wet winter
+months the sedges absorb moisture, expand and form a watertight
+covering (Van Wyk and Gericke, 2000).
+While one cannot exclude the possibility that the MSA bedding of
+Sibudu was accidentally burnt, either naturally or from sparks from
+a nearby ﬁreplace, there are several lines of evidence from the
+archaeological samples and from the experimental results that
+strongly suggest that the bedding was directly ignited. Whereas Fires
+6 and 7 produced different results e one suggesting that it was
+difﬁcult to ignite sedges, and one suggesting that sedges ignite and
+burn easily e it is important to note that the sedges which had spent
+15 months in the rock shelter were difﬁcult to light. It was only sedges
+which had dried in the sun that burnt easily and rapidly. The sedges
+from the shelter, while appearing relatively dry, may have held
+enough moisture to prevent them from easily igniting. In this
+scenario, it is possible to imagine that the MSA bedding material also
+retained some level of moisture that may have made it difﬁcult to
+ignite accidentally and that the occupants of the shelter would have
+had to apply signiﬁcant effort to light a laterally extensive layer of
+thick bedding. We suggest that the inhabitants directly ignited the
+bedding, in spite of possible difﬁculty it may have involved at times.
+Another indication that the bedding was directly ignited comes
+from the archaeological examples of bedding. The repeated occurrence of burnt bedding throughout the sequence, particularly in the
+58 ka occupations (Goldberg et al., 2009) suggests that the burning
+was not accidental. Furthermore, archaeological examples of
+similar types of sediment, albeit from a very different archaeological context, are quite common. In the Near East and the Mediterranean, pastoralists since the Neolithic have used caves for stabling,
+where straw is laid down and where dung accumulates over time
+(Brochier et al., 1992; Macphail et al., 1997). When the herd leaves
+the site, the shepherd will ignite the matted dung and straw
+in order to remove pests and parasites (P. Goldberg, personal
+communication, S. Heydari, personal communication). The micromorphological features of burnt stabling and other pastoralist
+deposits (Albert et al., 2008) are remarkably similar to the bedding
+deposits from Sibudu. Considering the difﬁculty of lighting some
+sedges (Fire 6), the repetition and common occurrence of burnt
+bedding in the site, and the similar appearance in thin section of the
+Sibudu burnt bedding with intentionally burnt stabling material at
+Near Eastern and Mediterranean sites, it seems probable that the
+Sibudu bedding was intentionally burned.
+
+3050
+
+C.E. Miller, C. Sievers / Journal of Archaeological Science 39 (2012) 3039e3051
+
+Another interesting result from the ﬁre experiments was that the
+ash formed by fully combusting the sedges and grasses did not
+contain typical ash rhombs (Courty et al., 1989), but rather consisted
+almost exclusively of phytoliths. In this sense, phytoliths are the “ash”
+that is produced when burning sedges and grasses. Goldberg et al.
+(2009) had suggested that diagenetic processes were responsible
+for removing calcareous ash from the phytolith layers; however, it
+seems more likely, based on the results of this experiment, that calcite
+was never a signiﬁcant component of the laminated phytolith layers.
+The lack of calcareous ashes does not seem to be a result of taphonomic processes occurring after the experiments, since calcareous
+ash was produced and preserved in the wood ﬁre from Fire 1.
+5. Conclusion
+Our experiments suggest that the laminated ﬁbrous charcoal and
+phytolith layers at Sibudu were most likely produced by the direct
+burning of compacted herbaceous plant material. The four burning
+experiments conducted with two species of sedges, Schoenoplectus
+and Cyperus and two species of grasses, Panicum and Setaria, all
+produced laminated charcoal and phytoliths. The sedges ﬁres
+produced layers of laminated phytoliths, similar to numerous layers
+of laminations found in micromorphological samples from Sibudu.
+This ﬁnding lends support to the idea of Sievers (2006) who suggested that sedges were the dominant taxon used for the
+construction of bedding during the MSA at Sibudu. Our experiments
+also demonstrated that large volumes of plant material are required
+to produce the relatively thin layers of laminated ﬁbrous charcoal
+and phytoliths, implying that the occupants of Sibudu invested
+signiﬁcant amounts of energy to collect plants for the preparation of
+their living space. The collection of sedges and the construction of
+bedding, combined with evidence that the bedding was possibly
+burned as part of site maintenance, indicate not only a considerable
+expenditure of time and energy, but also forethought in the preparation and maintenance of domestic space. With respect to the
+issue of accidental or intentional burning of the bedding, our
+experiment indicated that it is unlikely that buried bedding was
+signiﬁcantly carbonized by subsequent combustion activities.
+These results also demonstrate the value of conducting
+experiments for calibration of micromorphological interpretations. Although many of the previous interpretations of the phytolith layers were supported by the result presented here, the
+experiments also provided some unexpected results: ﬁrst, the
+large volume of dried plant material required to produce a layer of
+“burnt bedding” and, secondly, the lack of visible individual
+burning events. Through experiments and studies of individual
+microcontexts, geoarchaeological and archaeobotanical research
+can be combined to gain a more holistic picture of human activities in the past.
+Acknowledgments
+Our thanks go especially to Lyn Wadley for support and access to
+the Sibudu material. Thanks also to Mkipheni Ngwenya of the Natal
+Herbarium, Durban, for the identiﬁcation of the grasses and to Silje
+Bentsen for help in the ﬁeld. Funding for CS from the National
+Research Foundation (NRF) and the Palaeontological Scientiﬁc Trust
+(PAST) is gratefully acknowledged. We would also like to thank Paul
+Goldberg and anonymous reviewers for making suggestions and
+comments on a previous draft.
+References
+Albert, R.M., Shahack-Gros, R., Cabanes, D., Gilboa, A., Lev-Yadun, S., Portillo, M.,
+Sharon, I., Boaretto, E., Weiner, S., 2008. Phytolith-rich layers from the Late
+
+Bronze and Iron Ages at Tel Dor (Israel): mode of formation and archaeological
+signiﬁcance. Journal of Archaeological Science 35, 57e75.
+Backwell, L., d’Errico, F., Wadley, L., 2008. Middle Stone Age bone tools from the
+Howiesons Poort layers, Sibudu Cave, South Africa. Journal of Archaeological
+Science 35, 1566e1580.
+Binneman, J., 1997. Results from a test excavation at The Havens Cave, Cambria
+Valley, South-Eastern Cape. Southern African Field Archaeology 6, 93e105.
+Binneman, J., 1998. Results from a test excavation at Kleinpoort Shelter in the
+Baviaanskloof, Eastern Cape Province. Southern African Field Archaeology 7,
+90e97.
+Binneman, J., 1999. Results from a test excavation at Groot Kommandokloof Shelter
+in the Baviaanskloof/Kouga Region Eastern Cape Province. Southern African
+Field Archaeology 8, 100e107.
+Binneman, J., 2000. Results from two test excavations in the Baviaanskloof
+Mountains, Eastern Cape Province. Southern African Field Archaeology 9, 83e96.
+Brochier, J.E., Villa, P., Giacomarra, M., 1992. Shepherds and sediments:
+geo-ethnoarchaeology of pastoral sites. Journal of Anthropological Archaeology
+11, 47e102.
+Cabanes, D., Mallol, C., Expósito, I., Baena, J., 2010. Phytolith evidence for hearths
+and beds in the Late Mousterian occupations of Esquilleu Cave (Cantabria,
+Spain). Journal of Archaeological Science 37. 2947e29.
+Cain, C.R., 2006. Human activity suggested by the taphonomy of 60 ka and 50 ka
+faunal remains from Sibudu Cave. Southern African Humanities 18 (1),
+241e260.
+Clark, J.L., Ligouis, B., 2010. Burned bone in the Howieson’s Poort and postHowieson’s Poort Middle Stone Age deposits at Sibudu: behavioral and taphonomic implications. Journal of Archaeological Science 37, 2650e2661.
+Courty, M.-A., Goldberg, P., Macphail, R., 1989. Soils and Micromorphology in
+Archaeology. Cambridge University, Cambridge.
+d’Errico, F., Vanhaeren, M., Wadley, L., 2008. Possible shell beads from the Middle
+Stone Age layers of Sibudu Cave, South Africa. Journal of Archaeological Science
+35, 2675e2685.
+Flügel, E., 2004. Microfacies of Carbonate Rocks: Analysis, Interpretation and
+Application. Springer, Berlin.
+Gibbs Russel, G.E., Watson, L., Koekemoer, M., Smook, L., Barker, N.P.,
+Anderson, H.M., Dallwitz, M.J., 1990. Grasses of southern Africa. Memoirs of
+the Botanical Survey of South Africa 58, 1e438.
+Goldberg, P., Berna, F., 2010. Micromorphology and context. Quaternary International 214, 56e62.
+Goldberg, P., Miller, C.E., Schiegl, S., Ligouis, B., Berna, F., Conard, N.J., Wadley, L.,
+2009. Bedding, hearths and site maintenance in the Middle Stone Age of Sibudu
+Cave, KwaZulu-Natal, South Africa. Journal of Archaeological and Anthropological Science 1, 95e122.
+Grobbelaar, C.S., Goodwin, A.J.H., 1952. Report on the skeletons and implements in
+association with them from a cave near Bredasdorp, Cape Province. South
+African Archaeological Bulletin 7, 95e101.
+Henry, D.O., 2003. Behavioral organization at Tor Faraj. In: Henry, D.O. (Ed.),
+Neanderthals in the Levant, Beavioral Organization and The Beginnings of
+Human Modernity. Continuum, London, pp. 237e269.
+Jacobs, Z., Roberts, R.G., Galbraith, R.F., Deacon, H.J., Grün, R., Mackay, A., Mitchell, P.J.,
+Vogelsang, R., Wadley, L., 2008a. Ages for the Middle Stone Age of Southern
+Africa: implications for human behaviour and dispersal. Science 322, 733e735.
+Jacobs, Z., Wintle, A.G., Duller, G.A.T., Roberts, R.G., Wadley, L., 2008b. New ages for
+the post-Howiesons Poort, late and ﬁnal Middle Stone Age at Sibudu Cave,
+South Africa. Journal of Archaeological Science 35, 1790e1807.
+Karkanas, P., Rigaud, J.-P., Simek, J.F., Albert, R.M., Weiner, S, 2002. Ash, bones and
+guano: a study of the minerals and phytoliths in the sediments of Grotte XVI,
+Dordogne, France. Journal of Archaeological Science 29, 721e732.
+Lombard, M., Phillipson, L., 2010. Implications of bow and stone-tipped arrow use
+64,000 years ago in KwaZulu-Natal, South Africa. Antiquity 84, 1e14.
+Macphail, R.I., Courty, M.A., Wattez, J., Hather, J., 1997. The soil micromorphological
+evidence of domestic occupation and stabling activities. In: Maggi, R. (Ed.),
+Arene Candide: A Functional and Environmental Assessment of the Holocene
+Sequences Excavated by L. Bernabo’ Brea (1940e1950). Istituto Italiano di
+Paleontologia Umana, Rome, pp. 53e88.
+Madella, M., Jones, M.K., Goldberg, P., Goren, Y., Hovers, E., 2002. The exploitation of
+plant resources by Neanderthals in Amud Cave (Israel): the evidence from
+phytolith studies. Journal of Archaeological Science 29, 703e719.
+Miller, C.E., Conard, N.J., Goldberg, P., Berna, F., 2009. Dumping, sweeping and
+trampling: experimental micromorphological analysis of anthropogenically
+modiﬁed combustion features. In: Théry-Parisot, I., Chabal, L., Costamagno, S.
+(Eds.), The Taphonomy of Burned Organic Residues and Combustion Features in
+Archaeological Contexts. Proceedings of the round table, Valbonne, May 27e29,
+2008, vol. 2, pp. 25e37. P@lethnologie.
+Nadel, D., Weiss, E., Simchoni, O., Tstskin, A., Danin, A., Kislev, M., 2004. Stone Age
+hut in Israel yields world’s oldest evidence of bedding. Proceedings of the
+National Academy of Sciences of the USA 101, 6821e6826.
+Opperman, H., 1996. Strathalan Cave B, North-eastern Cape Province, South Africa:
+evidence for human behaviour 29,000e26,000 years ago. Quaternary International 33, 45e53.
+Opperman, H., Heydenrych, B., 1990. A 22 000 year-old Middle Stone Age camp
+site with plant food remains from the north-eastern Cape. South African
+Archaeological Bulletin 45, 93e99.
+Parkington, J., Poggenpoel, C., 1971. Excavations at de Hangen, 1968. South African
+Archaeological Bulletin 26, 3e36.
+
+C.E. Miller, C. Sievers / Journal of Archaeological Science 39 (2012) 3039e3051
+Renaut, R., Bamford, M.K., 2006. Results of preliminary palynological analysis at
+Sibudu Cave. Southern African Humanities 18 (1), 235e240.
+Rosen, A.M., 2003. Middle Paleolithic plant exploitation: the microbotanical evidence.
+In: Henry, D.O. (Ed.), Neanderthals in The Levant, Behavioral Organization and The
+Beginnings of Human Modernity. Continuum, London, pp. 2156e2171.
+Schiegl, S., Conard, N.J., 2006. The Middle Stone Age sediments from Sibudu: results
+from FTIR spectroscopy and microscopic analyses. Southern African Humanities
+18 (1), 149e172.
+Schiegl, S., Stockhammer, P., Scott [Sievers], C., Wadley, L., 2004. A mineralogical and
+phytolith study of the Middle Stone Age hearths in Sibudu Cave, KwaZulu-Natal,
+South Africa. South African Journal of Science 100, 185e194.
+Sievers, C., 2006. Seeds from the Middle Stone Age layers at Sibudu Cave. Southern
+African Humanities 18 (1), 203e222.
+Sievers, C., 2011. Sedges from Sibudu, South Africa: evidence for their use. In:
+Fahmy, A.G., Kahlheber, S., D’Andrea, A.C. (Eds.) Windows on the African Past:
+Current Approaches to African Archaeobotany. Proceedings of the 6th International Workshop on African Archaeobotany, June 13e15, 2009, Helwan
+University, Cairo, Egypt. Reports in African Archaeobotany 3, 225e241.
+Sievers, C., Wadley, L., 2008. Going underground: experimental carbonization
+of fruiting structures under hearths. Journal of Archaeological Science 35,
+209e2917.
+Stoops, G., 2003. Guidelines for Analysis and Description of Soil and Regolith Thin
+Sections. Wisconsin, Soil Science Society of America, Madison.
+Texier, P.-J., Porraz, G., Parkington, J., Rigaud, J.P., Poggenpoel, C., Miller, C.,
+Tribolo, C., Cartwright, C., Coudenneau, A., Klein, R., Steele, T., Verna, C., 2010.
+A Howiesons Poort tradition of engraving ostrich eggshell containers dated to
+60,000 years ago at Diepkloof Rock Shelter, South Africa. Proceedings of the
+National Academy of Sciences of the United States of America 107, 6180e6185.
+
+3051
+
+Vallverdú, J., Alonso, S., Bargalló, A., Batroli, R., Campeny, G., Carrancho, A.,
+Expósito, I., Fontanals, M., Gabucio, J., Gómez, B., Prats, J.M., Sañudo, P., Solé, A.,
+Vilalta, J., Carbonell, E., 2010. Combustion structures of archaeological level O
+and Mousterian activity areas with use of ﬁre at the Abric Romaní rockshelter
+(NE Iberian Peninsula). Quaternary International 247, 313e324.
+Van Oudtshoorn, F., 1992. Guide to the Grasses of South Africa. Briza, Pretoria.
+Van Rijssen, B., Avery, G., 1992. The Late Holocene deposits at Klein Kliphuis Shelter,
+Cederberg, Western Cape Province. South African Archaeological Bulletin 47, 34e43.
+Van Wyk, B.-E., Gericke, N., 2000. People’s Plants. A Guide to Useful Plants of
+Southern Africa. Briza, Pretoria.
+Wadley, L., 2009. Post-depositional heating may cause over-representation of
+red-coloured ochre in Middle Stone Age sites. South African Archaeological
+Bulletin 64, 166e171.
+Wadley, L., 2010. Were snares and traps used in the Middle Stone Age and does it
+matter? A review and a case study from Sibudu, South Africa. Journal of Human
+Evolution 59, 179e192.
+Wadley, L., Hodgskiss, T., Grant, M., 2009. Implications for complex cognition from
+the hafting of tools with compound adhesives in the Middle Stone Age, South
+Africa. Proceedings of the National Academy of Sciences of the United States of
+America 106 (24), 9590e9594.
+Wadley, L., Mohapi, M., 2008. A segment is not a monolith: evidence from the
+Howiesons Poort of Sibudu, South Africa. Journal of Archaeological Science 35,
+2594e2605.
+Wadley, L., Sievers, C., Bamford, M., Goldberg, P., Berna, F., Miller, C., 2011. Middle
+Stone Age bedding construction and settlement patterns at Sibudu, South
+Africa. Science 334, 1388e1391.
+Wadley, L., Whitelaw, G. (Eds.), 2006. Middle Stone Age Research at Sibudu Cave.
+Southern African Humanities 18(1), pp. 1e341.
+
+

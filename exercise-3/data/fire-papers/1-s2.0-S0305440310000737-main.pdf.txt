@@ -1,0 +1,1696 @@
+Journal of Archaeological Science 37 (2010) 2126e2135
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Combining pollen and charcoal: evaluating Holocene vegetation composition
+and dynamicsq
+Oliver Nelle*, Stefan Dreibrodt, Yasmin Dannath
+Ecology Centre, Christian-Albrechts-University of Kiel, Olshausenstrasse 40, 24098 Kiel, Germany
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 5 July 2009
+Received in revised form
+1 February 2010
+Accepted 8 February 2010
+
+Pollen analysis reveals vegetation change on a local and regional level over (ideally) continuous time
+spans but with complications when it comes to the reconstruction of spatially precise species occurrence
+and composition. Wood charcoal analysis provides site-related information on species occurrence and
+woodland composition, especially when sediments containing pollen are lacking, but is normally
+discontinuously available and has the danger of human bias due to potential selection of certain species
+for e.g. ﬁre making, house construction or charcoal making. Combining the two methods e assuming that
+suitable palaeoarchives are neighbouring e might compensate for their disadvantages and strengthen
+the interpretations on vegetation composition and dynamics on a local, extra-local and regional scale.
+Three examples are given where pollen analysis from “classical” archives e mires and lake sediments e
+was carried out, and where additionally species identiﬁcation of wood charcoals was done on samples
+extracted from close-by archives. The ﬁrst example (Kugelstattmoos, Bavarian Forest, Germany)
+combines a Holocene pollen diagram derived from a small mire with late medieval/early modern times
+charcoal spectra from charcoal production sites which are situated on the margin of the mire. Results
+show the local occurrence of the main woodland species Fagus sylvatica and Abies alba, and raises new
+questions on the montane species composition of the formerly natural forests in the Bavarian Forest. The
+second example (Bargstedter Moor, Schleswig-Holstein, Germany) combines Holocene pollen diagrams
+from a peat bog with late medieval/early modern times charcoal spectra from charcoal production sites
+in a woodland close to the bog. It shows the role of Quercus, Fagus, Alnus and Carpinus in medieval and
+early modern times woodlands and its use by man. The third example (Kleiner Tornowsee, Brandenburg,
+Germany) combines pollen data from sediments of a small lake with charcoal data derived from Holocene colluvisols and soils. The examples show that anthracological and palynological data complement
+one another to create a more detailed picture of woodland history and landscape change than one
+method alone would provide.
+Ó 2010 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Pollen analysis
+Charcoal analysis
+Holocene
+Human impact on woodlands
+Combination of palaeoecological methods
+
+1. Introduction
+For the investigation of palaeovegetation and its dynamics in
+interaction with human impact, a lot of palaeoecological studies
+use either pollen analysis (palynology) or wood charcoal analysis
+(anthracology). Compared to the vast available publications which
+present palynological data and the increasingly number of papers
+
+q Oral communication presented at the Symposium ‘Reconstruction of past
+cultural landscapes and human-related environmental changes using palynological
+and archaeobotanical records’, by Anna Maria Mercuri and Laura Sadori (12th
+International Palynological Congress and 8th International Organisation of Palaeobotany Conference, Bonn, August 30eSeptember 5, 2008).
+* Corresponding author. Tel.: þ49 431 880 4062; fax: þ49 431 880 4083.
+E-mail address: onelle@ecology.uni-kiel.de (O. Nelle).
+0305-4403/$ e see front matter Ó 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2010.02.010
+
+which present anthracological records, only few studies use both
+methods (e.g. Leroyer and Heinz, 1992; Speier, 1994; Smettan, 1995;
+Emery-Barbier and Thiébault, 2005; Hildebrandt et al., 2007;
+Newman et al., 2007). This might be related to the history of
+Quaternary palaeobotanical research, where certain schools focus
+either on palynology or on anthracology. Both methods have
+advantages and disadvantages (Fig. 1). Pollen analysis enables us to
+identify occurrences and relative changes with a high taxonomical
+resolution, encompassing both tree and herb species, higher plants
+and cryptogams (e.g. Faegri and Iversen, 1989; Beug, 2004, 2005),
+and an increasing ability of identifying and interpreting non-pollen
+palynomorphs (e.g. van Geel et al., 2003). Depending on archive
+quality, pollen analysis also enables to work diachronically, and
+depending on archive size it gives the possibility of reconstructing
+local and/or regional vegetation diachronically. However, there is
+
+O. Nelle et al. / Journal of Archaeological Science 37 (2010) 2126e2135
+
+2127
+
+Fig. 1. Advantages and disadvantages of palynology and anthracology in different contexts.
+
+still intensive debate as to which amount of pollen grains of certain
+species can be interpreted as local or extra-local occurrences of the
+plants (e.g. Gaillard et al., 2008a,b).
+Wood charcoal analysis provides site-related information on
+species occurrence and woodland composition, depending on the
+archive context. The method can provide information on woodland
+composition on a local scale, including stand structure information.
+The analysis of charred wood is of special interest in regions or on
+sites where sediments containing pollen are lacking, thus providing
+the only source to reconstruct (woody) vegetation. But stratigraphical and taphonomic issues are more complicated. The legacy
+of the remains is normally only discontinuously available. The
+species spectra when interpreted for vegetation reconstruction
+have the danger of human bias due to potential selection of certain
+species, for e.g. ﬁre making, house construction or charcoal making
+(Asouti and Austin, 2005).
+Combining the two methods e assuming that suitable palaeoarchives are neighbouring e might compensate for their disadvantages and strengthen the interpretations on vegetation
+composition and dynamics on a local, extra-local and regional scale.
+So the hypothesis to follow up is: combination of methods and
+archives brings better scenarios of past vegetation composition and
+dynamics, and past interaction of humans and their environment.
+Three examples from different areas and geographical situations
+in Germany (Fig. 2; Bavarian Forest in Southeastern Germany,
+Schleswig-Holstein in Northern Germany, and Brandenburg in
+Eastern Germany) are given where pollen analysis from “classical”
+archives e mires and lake sediments e was carried out, and where
+additionally species identiﬁcation of wood charcoals was done on
+samples extracted from neighbouring archives. The aim of the
+studies was to investigate woodland composition and management/usage in interaction with people using wood as a resource for
+different purposes, or transforming woodland into pastures or
+agricultural ﬁelds. The action of man might have opened up the
+woodland, and/or might have altered the species composition, e.g.
+intentionally or unintentionally promoting certain species by
+establishing a coppice.
+
+establishment of organised forestry since some 150e200 years ago,
+together with beech (Fagus sylvatica) and ﬁr (Abies alba). The submontane and montane area was settled since medieval times.
+Before that, archaeological ﬁnds indicate some presence of people,
+but no settlement activity in the montane areas. The mire started to
+develop around the transition Late Glacial/early Holocene and
+accumulated a maximum of 4 m of peat until today. Pollen analysis
+was done for the complete Holocene, but for the purpose of the
+here addressed question we composed a simpliﬁed pollen diagram
+of the upper 1.15 m of the sequence.
+In the vicinity, we found several charcoal kiln sites (Fig. 4). Five
+are very close to the pollen proﬁle, on the margin of the mire, thus
+their charcoal record can be compared to the pollen diagram. In one
+km distance, close to the summit of the mountain range, four sites
+
+2. Study areas and sample sites
+2.1. Kugelstattmoos (Bavarian Forest)
+Kugelstattmoos is a small mire with ca. 20 ha in 870 m a.s.l. in
+the western part of the Bavarian Forest (48 570 1100 N, 12 5102900 E).
+The climate in the region is suboceanic, with ca. 4  C mean annual
+temperature and around 1400 mm mean annual precipitation.
+Bedrock is metamorphic in character (Gneiss) and is the result of
+a Precambrian sedimentation and following metamorphosis. The
+resulting soils are base-poor. Todays' vegetation consists predominantly of spruce (Picea abies), which was promoted by the
+
+Fig. 2. Study area. 1, Kugelstattmoos/Hirschenstein (Bavarian Forest, Southeastern
+Germany); 2, Bargstedter Moor (Schleswig-Holstein, Northern Germany); 3, Kleiner
+Tornowsee (Brandenburg, Eastern Germany).
+
+2128
+
+O. Nelle et al. / Journal of Archaeological Science 37 (2010) 2126e2135
+
+were sampled which record information about the woodland
+vegetation in this high montane elevation. The kiln sites can be
+recognized as small platforms with a diameter between 6 and 9 m,
+and a charcoal-rich soil layer.
+2.2. Bargstedter Moor (Schleswig-Holstein)
+Situated in the area of the Geest (Saale glacial debris and
+Weichselian sand deposits), the raised bog “Bargstedter Moor”
+(54 090 N, 9 470 E, SW of Nortorf in Schleswig-Holstein, North
+Germany) has an extension of around 5 km2, and is used today in its
+central part for agriculture, either as pasture or meadow. Thus the
+upper peat is highly decomposed in the centre of the bog, whereas
+peat cutting was restricted to the eastern edge. As the only relict of
+the former bog vegetation, one 150  50 m “Monotelm” or peat
+monolith remained untouched at the SE part of the bog
+(54 090 09.300 N, 9 480 22.000 E), thus providing a rare opportunity to
+analyse the younger peat sequence because mostly all raised bogs
+in the region are either peat-cutted or cultivated. The climate of the
+region is suboceanic, with mean annual temperature of 8e8.5  C
+and around 800 mm mean annual precipitation. The landscape
+today is dominated by agricultural land, with meadows, pastures
+and cereal ﬁelds. Only few areas with woodland are present. The
+forest vegetation consists either of a broadleaf woodland, with
+beech, hornbeam (Carpinus betulus) and oak (Quercus robur), and
+alder (Alnus glutinosa) on sites close to the groundwater table, or
+conifer forests (mostly spruce) were planted. The scarce archaeological record indicates that human activities started from the
+Bronze Age onwards, but there are no settlements known before
+the village of Bargstedt was mentioned in written sources in the
+year 1442 (Martens, 1978). In one relatively big forest area c. 3 km
+distant from the pollen site, several charcoal production sites were
+sampled for charcoal analysis (54100 07.4400 N, 9 450 49.5700 E), as
+well as on an estate in the adjoining village Bargstedt
+(54100 01.4300 N, 9 460 27.2500 E) (Dannath and Nelle, 2009).
+2.3. Kleiner Tornowsee (Brandenburg)
+Kleiner Tornowsee (Small Lake Tornow) is situated 50 km east of
+the centre of Berlin, in the “Märkische Schweiz” (52 340 4600 N,
+14 050 3600 E). This is a ca. 40 km2 area of relatively high relief in
+the area of ground moraine plates. The lake is one of several in the
+“Buckower Kessel”, a depression which was formed during the
+Weichsel glacial. The lake has a surface area of ca. 3.5 ha and
+a catchment size of ca. 32 ha. The largest part of the catchment area is
+forested today, with a small area of agricultural ﬁelds in the northern
+part. Climate is subcontinental, with 500e560 mm annual precipitation and a mean annual temperature of 8.8  C. The natural vegetation is supposed to be subatlantic-Central European oak forests
+(Quercus petraea, Q. robur), partly with Pinus sylvestris, with Calamagrostis arundinacea, Melica nutans, Rubus saxatilis, Orthilia secunda,
+or Central European sessile oak-hornbeam forests (Carpinus betulus,
+Quercus petraea), mostly with Fagus sylvatica, with Carex montana
+and Hepatica nobilis (Bohn et al., 2000). Ten soil exposures were dug
+with an excavator at the northern and eastern adjoining slopes of the
+lake catchment, to study the colluvial layers which formed due to
+erosion. Soil samples were taken according to ﬁeld designation of
+layers.
+3. Materials and methods
+3.1. Charcoal analysis
+At the charcoal production sites, a minimum of 100 wood
+charcoal fragments were sampled from different parts of the
+
+charcoal-rich layers. Size of collected fragments ranges from
+0.25 cm3 up to several cm3 (Nelle, 2002b, 2003). At Kleiner Tornowsee, samples were taken from colluvial layers of the exposures
+which were made by an excavator, ranging from 10 to 50 m in
+length and up to 3 m in depth. We sampled between 10 l and 20 l of
+each layer of the colluvial exposures. The substrate was wet-sieved
+(mesh with 1 mm), air-dried and weighted before microscopical
+analysis (Dreibrodt et al., 2009).
+The identiﬁcation of wood taxa was done with a stereoscope
+with magniﬁcation up to 112 (Nikon SMZ 1500) and an incidentlight microscope with magniﬁcation up to 500 (Nikon ME 600,
+light and dark ﬁeld) and followed Schweingruber (1990a,b) as well
+as the reference collection of charred wood of the Palaeoecology
+Research Unit of the Institute for Ecosystem Research. The especially small fragments from the colluvial layers (1e5 mm of size)
+were cut manually under the stereoscope at a magniﬁcation of
+7.5e10, in order to attain fractured surfaces of transversal,
+tangential and radial orientation. The identiﬁed fragments were
+again weighed to calculate percentages as numbers as well as
+weight. A wood diameter measurement due to the visible growth
+ring curvatures and angle of wood rays (Ludemann and Nelle, 2002;
+Nelle, 2002a; Ludemann, 2008), was applied when the fragments
+had a suitable size, which was only the case with the material from
+the kiln sites. In the case of the colluvial layers, the fragments were
+too small.
+3.2. Pollen analysis
+Coring on lake Kleiner Tornowsee took place with a rod-operated piston corer (“Usinger-corer”, Mingram et al., 2007) in July
+2005 from a raft. We prepared samples with standard procedures,
+including KOH digestion, HF treatment and acetylation (Faegri and
+Iversen, 1989; Moore et al., 1991), and with the addition of Lycopodium spore tablets (Stockmarr, 1971). Pollen grains were counted
+microscopically at magniﬁcation of 400 to 1000. Microscopic
+charcoal particles were counted if their size exceeded 10 mm on the
+same slides and calculated as a ratio to Lycopodium marker spores.
+Arboreal pollen percentages are based on the sum of the arboreal
+pollen, non-arboreal pollen percentages are based on the upland
+pollen sum (excluding spores and fen/water plants).
+3.3. Radiocarbon dating
+Radiocarbon dating of peat samples from the mire Kugelstattmoos was done by the AMS-14C Labor Erlangen, University of
+Erlangen (Nelle, 2002b), and those for the pollen records of Bargstedter Moor and Kleiner Tornowsee, as well as the charcoals from
+Tornowsee, were analyzed by the Leibniz-Laboratory for Radiometric Dating and Stable Isotope Research, University of Kiel.
+Radiocarbon ages were calibrated according to Reimer et al. (2004).
+4. Results
+4.1. Kugelstattmoos
+A simpliﬁed pollen diagram of the upper 1.15 m of the sequence
+(Fig. 3; for the complete diagram see Nelle, 2002b) shows the
+vegetation development during the last 4500 years. Local pollen
+assemblage zone (LPAZ) 6 is characterized by high and constant
+values of Fagus (beech) (around 60%), and constant values of Picea
+(spruce) and Abies (ﬁr). The woodland is dominated by stands of
+Fagus sylvatica, with some admixed trees of Picea abies and Abies
+alba. During LPAZ 7, values of Abies and Fagus, as well as Picea are
+ﬂuctuating. Fagus rises to its highest percentage (70%). Plantago
+lanceolata is now present with very low counts in every sample,
+
+O. Nelle et al. / Journal of Archaeological Science 37 (2010) 2126e2135
+
+2129
+
+Fig. 3. Simpliﬁed pollen diagram of the upper part of a core from Kugelstattmoos, Bavarian Forest, 870 m a.s.l. Percentage values of selected pollen and spore types (black curves).
+White curves with depth bars show 10-times exaggeration. Black dots, qualitative occurrence. Calculation base for arboreal pollen types is the sum of arboreal pollen, for the nonarboreal pollen the sum of all land plants.
+
+which continues to the end of zone 8. LPAZ 8 (c. 3000e1750 cal. BP)
+shows the increase of Abies up to 48%, and the decrease of Fagus,
+while other arboreal pollen remain more or less constant. The
+increase of Abies might be due to an increased percentage in the
+montane beech-ﬁr plant communities, or due to an increased
+presence on wet minerotrophic sites around the mire, where Fagus
+is striving with diminished competitive ability. The curve of Plantago lanceolata is interrupted. Until the end of this zone, the ratio
+arboreal/non-arboreal pollen is around 95/5. With LPAZ 9 e subdivided in 9a and 9b, major changes occur. Abies drops down
+remarkably, as well as Fagus, while Betula (birch), Corylus (hazel)
+and Alnus (alder) increase. First Picea pollen decreases too, but
+starts to rise at the end of zone 9a. Non-arboreal pollen values
+increase. The Calluna (heather) curve peaks, and cereal pollen
+grains, especially Secale are present. There is also a remarkable
+increase of microcharcoal particles in the pollen samples, especially
+when looking on the size class >100 mm. These changes indicate an
+opening of the forest due to local tree cutting. The increase of the
+light-demanding species Betula and Corylus might be due to the
+general more open conditions in the woodland, or due to
+a progressive establishment on the mire, which is supported by
+small wood fragments ﬁnds in this level. The 14C-AMS result dates
+the level to the Roman period. It is very doubtful that this is a right
+dating, since the pollen spectra ﬁts better to medieval or early
+modern times human impact, if looked on the so far known onset of
+settlement activities in the area (beginning of cultivation of Secale,
+using higher montane areas for cattle pasture, etc.). The arboreal
+species spectra of zone 9a are thus chronologically comparable to
+the charcoal production which happened only around 20 m
+distance from the coring site, on the margin of the mire.
+The charcoal production sites around Hirschenstein are of the
+rectangular kiln type, a charring technique which replaced the
+charring in pits around the transition from medieval to modern
+times. This provides a terminus post quem. On the other hand, the
+trees on and around the sites are c. 100e120 years old, thus
+providing a terminus ante quem. Since the charcoal fragments in
+the soil are of comparably small size, the sites are small in diameter
+
+and the state of preservation is moderate, they most likely date to
+the end of the Medieval or the early modern times, i.e. 15th to 17th
+century AD. Though no radiocarbon dates are available, the
+comparison to absolutely dated charcoal kiln sites makes a relative
+dating possible (Nelle, 2003). Two comparable sites which belong
+to another kiln site ensemble in the Bavarian Forest had calibrated
+14
+C-AMS dates of 1329e1477 AD and 1410e1617 AD.
+Apart from one, all kiln sites show Fagus-dominated spectra
+(Fig. 4). The ﬁve sites very close to the Kugelstattmoos mire have
+Abies-percentages from 8 to 16%, with some fragments of Picea. Also
+Alnus is found in two of the sites on the mire margin. The four sites
+around the top of Hirschenstein had only one fragment of Abies and
+Picea, respectively, out of 425 fragments analyzed. Acer (maple) was
+found in nearly all kiln site layers, but with low percentages. Acer
+pseudoplatanus is a constituent of the beech-maple plant communities (Aceri-Fagetum) common in montane elevation.
+4.2. Bargstedter Moor
+The pollen diagram (Fig. 5) spans approximately the last 1500
+years. One radiocarbon sample shows that peat formation around
+39 cm happened during high medieval times. High arboreal pollen
+values indicate that the landscape was dominated by woodland,
+which consisted of Fagus, Quercus (oak) and Carpinus (hornbeam).
+Alnus was formerly more present, but drainage of wet sites and
+clear-cutting of groundwater close sites for the establishment of
+meadows and pastures diminished the proportion of the species. It
+is only in the upper part of the proﬁle that anthropogenic indicators
+gain signiﬁcant percentages. This indicates an opening of the
+landscape due to human settlement activity, which happened
+during early modern times.
+The charcoal production sites close to the Bargstedter Moor in
+Barloher Forst were used during the 16th to 18th century. One site
+which today lies on an estate in the small village of Bargstedt was
+still a charcoal producer in the 19th century, according to historical
+maps (Dannath and Nelle, 2009; Paysen, unpublished data). Thus
+the charcoal spectra can be compared to the middle and upper
+
+2130
+
+O. Nelle et al. / Journal of Archaeological Science 37 (2010) 2126e2135
+
+Fig. 4. Area of Hirschenstein with mire Kugelstattmoos. Results of charcoal analysis from 10 charcoal production sites (kiln sites) (no. of analyzed charcoal fragments: 1141). Pioneer
+species in K 51: Betula, Corylus.
+
+Fig. 5. Simpliﬁed pollen diagram from Bargstedter Moor. Percentage values of pollen and spore types (black curves). White curves with depth bars show 10-times exaggeration.
+Black dots, qualitative occurrence. Calculation base for arboreal pollen types is the sum of arboreal pollen, for the non-arboreal pollen the sum of all land plants. The given 14C-AMS
+date gives the 2sigma calibration range.
+
+6
+
+2
+
+65
+
+1
+
+6
+<1
+
+40
+
+13
+
+7
+8
+
+48
+20
+51
+50
+74
+25
+9
+4
+36
+13
+
+<1
+
+4
+
+65
+
+5
+
+10
+9
+21
+17
+37
+
+13
+5
+
+386
+Sum
+
+3.7
+2.9
+3.4
+0.6
+0.8
+2.5
+2.4
+0.7
+0.5
+
+1.2
+
+10
+20
+5
+5
+20
+38
+
+20
+8
+19
+0
+25
+39
+14
+15
+39
+57
+60
+
+74.4
+53.0
+198.4
+22.1
+26.6
+53.4
+47.2
+13.7
+3.8
+
+515.2
+
+3
+2
+
+2
+
+4
+18
+15
+6
+17
+15
+
+<1
+
+1
+
+2
+
+10
+
+3
+3
+14
+
+7
+25
+38
+5
+8
+23
+7
+5
+11
+5
+8
+0.1
+0.1
+0.2
+0.4
+0.5
+
+29
+8
+8
+20
+13
+26
+44
+20
+18
+58
+40
+33
+21
+20
+20
+8
+BAR-S1
+BAR-S2
+BAR-S3
+BAR-S4
+BAR-S5
+BAR-1a
+BAR-1b
+BAR-2a
+BAR-2b
+BAR-2c
+BAR-3
+BAR-4a
+BAR-4b
+BAR-4c
+BAR-4d
+BAR-4e
+
+0.6
+1.1
+3.3
+5.8
+11.9
+
+41
+38
+38
+55
+69
+15
+39
+35
+28
+33
+45
+61
+29
+15
+5
+38
+
+10
+13
+25
+20
+15
+38
+34
+10
+17
+24
+18
+
+21
+13
+
+27
+
+<1
+18
+51
+
+27
+39
+9
+7
+24
+55
+80
+6
+12
+20
+28
+
+16
+3
+12
+
+11
+
+18
+11
+4
+
+<1
+
+<1
+2
+25
+2
+5
+2
+
+9
+3
+16
+10
+
+<1
+21
+43
+8
+38
+31
+17
+
+24
+26
+19
+6
+45
+33
+31
+57
+53
+12
+13
+
+Picea
+Sorbus
+Populus/
+Salix
+Salix
+Populus
+Betula
+Carpinus
+Alnus
+Quercus
+
+<1
+
+2
+
+<1
+
+9
+
+Sorbus
+Populus/
+Salix
+Populus
+Betula
+Carpinus
+Alnus
+Fagus
+Fagus
+
+Quercus
+
+Percentage weight
+Percentage no.
+
+Weight
+per no.
+[g]
+Sum
+weight
+[g]
+Sum
+fragments
+
+Combining data from palynology and anthracology not only
+needs the use of archives which are close by, but also a sound
+chronological comparability. Only if pollen and charcoal samples
+are sufﬁciently dated, they can be compared. Thus, before we
+discuss the palynological and anthracological data, we address the
+chronological implications for the three examples, and this
+approach to other studies which combine pollen and charcoal.
+In the case of Kugelstattmoos, the pollen diagram is dated by
+14
+C-AMS-measurements of peat samples. Due to drainage, the
+upper part of the peat shows a more decomposed layer where the
+AMS-date falls into the Roman period. But the recorded human
+impact in the diagram must be younger, since no settlement activites are known so early for this part of the montane forest, and also
+because Secale dates the peat layer to medieval times. The charcoal
+kiln sites are dated by comparing them to absolutely dated sites
+according to their typology (see above). This might seem a bit weak,
+but the strong increase in charcoal particles in the core during the
+period of opening of the woodland and subsequent decrease can
+only be explained by a contemporaneous charcoal production.
+Though the absolute dating of the action e whether late medieval
+or early modern times e remains vague, the synchronity of the
+
+Site
+no.
+
+5.1. Chronological comparability of pollen and charcoal samples
+
+Table 1
+Results of charcoal analysis from charcoal production sites at Barloher Forst near Bargstedt.
+
+5. Discussion
+
+Salix
+
+4.3. Kleiner Tornowsee
+Pollen analysis was done on the ﬁrst 4 m of a 12 m long sediment sequence spanning the Late Glacial and Holocene. The
+resulting simpliﬁed pollen diagram shows the vegetation development over the last 2000 years (Fig. 6). Zone A (416e270 cm) is
+characterized by a low non-arboreal pollen proportion and values
+of Betula, Alnus, Pinus (pine) and Quercus all around 20%. Fagus and
+Carpinus reach more than 5 and around 10%, respectively, at their
+highest. Alnus and Betula formed the vegetation around the lake,
+and pine and oak trees were growing on the slopes. Zone B is
+characterized by a strong increase of a range of indicators of human
+impact, like cereal-types, Plantago lanceolata, Rumex type and
+Artemisia. An increase in charred particles (microcharcoals) shows
+local ﬁre activity. Quercus is decreasing slightly. The local vegetation
+was opened, and cereal cultivation took place in the vicinity. An
+increase in Humulus/Cannabis might indicate that hop cultivation
+started during this time, possibly correlated with the lowering of
+the lake water level in the 17th century AD. Afterwards (Zone C),
+arboreal pollen reaches again high proportions, indicating the
+regeneration of woodlands. Quercus shows a remarkable increase at
+the beginning of zone C (216 cm). This might be due to ideal
+ﬂowering conditions for Quercus, or due to the promotion of oak for
+woodland pasture.
+Overall 892 charcoal fragments from 36 samples (10 exposures)
+were identiﬁed (Table 2). Quercus (n ¼ 688) and Pinus (n ¼ 185)
+clearly dominate the spectra, and only very few pieces of Betula,
+Corylus, Alnus, Acer and Salix were found. Fagus and Carpinus are
+completely lacking in the analyzed material. According to AMS-14Cdating of several samples, the colluvial layers which contained the
+charcoals formed especially during the early Holocene, the Bronze
+Age/Iron Age and medieval times/modern times.
+
+5
+
+Picea
+
+parts of the pollen diagram. They show the dominance of Fagus, but
+also considerable amounts of Quercus, Alnus and Carpinus (Table 1).
+According to the amount of species which need lighter conditions
+in forests or grow in open land, like Betula, Salix (willow) and
+Populus (poplar), the forest was more open and thus lighter than
+today.
+
+2131
+
+<1
+
+O. Nelle et al. / Journal of Archaeological Science 37 (2010) 2126e2135
+
+2132
+
+O. Nelle et al. / Journal of Archaeological Science 37 (2010) 2126e2135
+
+Fig. 6. Simpliﬁed pollen diagram of the upper part of core from Kleiner Tornowsee. Percentage values of selected pollen and spore types (black curves). White curves with depth
+bars show 10-times exaggeration. Black dots: qualitative occurrence. Calculation base for arboreal pollen types is the sum of arboreal pollen, for the non-arboreal pollen the sum of
+all upland plants.
+
+LPAZ 9a and the charcoal kiln spectra is the only probable explanation. It could not have been earlier, because there are nearly no
+charred particles in the proﬁle. And it could not have been later,
+since then already Picea forest dominates the surrounding, which is
+a clear contradiction to the Fagus (and Abies-) rich charcoal spectra.
+In the case of Bargstedt, we compare a pollen diagram which
+shows the woodland composition of the last 1500 years, with not
+much change before the modern increase of pine and the modern
+opening of the landscape. Since the charcoal production took place
+before 1900 AD, we can compare the charcoal spectra to the part of
+the diagram which gives us the woodland composition before the
+landscape opening.
+In the case of Kleiner Tornowsee, we discuss the information
+about the composition of woody taxa derived from the pollen data
+for the last 2000 years, and compare that to charcoal spectra from
+colluvisols which date from Iron Age, medieval and modern times.
+Both pollen diagram and charcoal samples are 14C-AMS-dated.
+Other studies which used both pollen and wood charcoal
+usually rely on the radiocarbon dating of archaeological charcoal
+samples and adjoining pollen records. Leroyer and Heinz (1992)
+did compare palynological and anthracological data from the
+same Mesolithic and Neolithic archaeological levels from an abri
+situation under a rock and Bronze Age to medieval levels of a cave.
+This is ideal in terms of chronology, because each sample comes
+from the same level. Speier (1994) used pollen proﬁles and charcoals from Iron Age and medieval smelting sites to reconstruct the
+vegetation and land use history in the southeastern part of the
+Rothaargebirge. He did not address the problem of synchrony of
+
+samples in detail. A study by Hildebrandt et al. (2007) used charcoal spectra from kiln sites and two pollen proﬁles from small
+mires which are close by. Charcoal burners operated their kilns
+from the middle of the 18th century onwards, which is reﬂected in
+the pollen diagrams by the decrease of Fagus and Quercus, the main
+species for charcoal production according to the charcoal results.
+Newman et al. (2007) use charcoal spectra from an Iron Age pit to
+compare with the chronologically related part of a pollen diagram
+from a bog ca. 2 km distant from the archaeological site. The pit is
+dated with several radiocarbon samples, the pollen proﬁle with
+one radiocarbon date and one tephra layer. Corylus is well represented in both records. Trees like Quercus and Fraxinus are more
+strongly represented in the charcoal spectra, correspondence of
+Alnus is good. Betula is absent from the charcoals, though present
+in the pollen proﬁle. In summary, the cited studies do not address
+the problem of synchrony of records speciﬁcally, they use them in
+covariant comparison by relying on their absolute and relative
+dating.
+5.2. Kugelstattmoos
+The palynological results alone would suggest an Abies-rich
+beech forest vegetation in the montane region around the mire
+during Iron Age times, which was then used and opened up by
+medieval settlers. The charcoal spectra of the kiln sites show a more
+differentiated picture. The charcoal burners used ﬁr trees which
+grew predominantly around the mire on wetter sites, whereas at
+the kiln sites around one km distant of the mire, around the top of
+
+Table 2
+Results of charcoal analysis from soil and colluvisol contexts (10 exposures) within the catchment area of Kleiner Tornowsee.
+Layer and
+sample no.
+
+Layer
+correlation
+
+Sample
+volume [l]
+
+weight
+[mg]
+
+Weight
+per volume
+[mg l1]
+
+Weight det.
+þ id. charcoal
+[mg]
+
+Weight
+per no.
+[mg]
+
+No. det.
+
+I-1
+
+1
+2
+
+S11
+S9
+
+20
+20
+
+10
+97
+
+1
+5
+
+9
+35
+
+0.4
+1.2
+
+19
+30
+
+A
+
+S9
+
+20
+
+39
+
+2
+
+10
+
+0.4
+
+20
+
+3
+4
+1a
+5
+B
+1a
+1b
+2
+
+S7
+S6
+Windfall
+S5
+S4
+S11b
+S11b
+S9b
+
+20
+20
+10
+20
+20
+20
+20
+20
+
+34
+62
+4
+29
+75
+3
+7
+48
+
+2
+3
+0.4
+1
+4
+0.15
+0.35
+2.4
+
+22
+36
+3
+16
+47
+2
+7
+28
+
+0.6
+1.0
+0.5
+0.5
+0.7
+1.0
+0.6
+0.9
+
+30
+29
+5
+20
+40
+1
+11
+31
+
+3
+4
+5
+1
+2
+3
+
+S8
+S8
+S5
+S11b
+S11a
+S10
+
+20
+20
+20
+20
+20
+20
+
+134
+85
+10
+5
+6
+8
+
+6.7
+4.25
+0.5
+0.25
+0.3
+0.4
+
+68
+45
+5
+1
+4
+8
+
+1.9
+1.4
+1.3
+0.5
+0.4
+0.6
+
+32
+30
+4
+2
+10
+12
+
+2
+4
+2
+
+4
+
+S9b
+
+20
+
+131
+
+6.55
+
+55
+
+1.5
+
+36
+
+1
+
+35
+
+0
+
+5
+
+S9a
+
+20
+
+27
+
+1.35
+
+23
+
+0.6
+
+36
+
+1
+
+6
+
+29
+
+1
+
+1
+2
+
+S11
+S10
+
+20
+20
+
+2
+18
+
+0.1
+0.9
+
+2
+18
+
+0.4
+0.6
+
+5
+28
+
+1
+
+5
+
+5
+22
+
+0
+1
+
+3
+
+S9b
+
+20
+
+70
+
+3.5
+
+44
+
+1.2
+
+30
+
+1
+
+29
+
+7
+
+4
+
+S9a
+
+20
+
+53
+
+2.65
+
+29
+
+0.9
+
+30
+
+2
+
+26
+
+3
+
+1
+2
+3
+
+20
+20
+20
+
+10
+5
+21
+
+0.5
+0.25
+1.05
+
+10
+5
+21
+
+0.5
+0.4
+1.0
+
+18
+12
+20
+
+1
+4
+3
+
+17
+8
+17
+
+2
+1
+2
+
+4
+
+20
+
+69
+
+3.45
+
+45
+
+0.8
+
+50
+
+1
+
+19
+
+29
+
+20
+20
+20
+20
+
+151
+368
+135
+9
+
+7.55
+18.4
+6.75
+0.45
+
+77
+109
+64
+7
+
+1.4
+2.2
+1.3
+0.6
+
+52
+50
+50
+10
+
+1
+1
+
+1
+1
+
+50
+48
+50
+6
+
+I-2
+
+I-3
+
+I-4
+
+I-5
+
+I-6
+
+II-1
+
+1
+2
+3
+3
+
+II-2
+
+1
+
+20
+
+5
+
+0.25
+
+5
+
+0.8
+
+5
+
+II-4
+
+1
+2
+1
+
+20
+20
+20
+
+124
+336
+22
+
+6.2
+16.8
+1.1
+
+47
+134
+22
+
+1.5
+2.6
+0.8
+
+31
+50
+23
+
+2
+
+20
+
+41
+
+2.05
+
+26
+
+0.9
+
+30
+
+710
+
+2253
+
+3.2
+
+1089
+
+1.096
+
+892
+
+III-1
+
+2
+
+Pinus
+
+Quercus
+
+7
+4
+
+23
+29
+3
+20
+40
+1
+1
+
+1
+
+2
+
+4
+
+Indet.
+
+Dating due to
+14C-AMS
+
+12
+26
+
+5
+0
+
+20
+
+4
+
+7
+
+5
+7
+1
+13
+26
+1
+0
+1
+
+Modern times
+Medieval
+times
+Medieval
+times
+Atlantic
+Atlantic
+“8.2”
+Boreal
+Preboreal
+Modern times
+Modern times
+Medieval
+times
+Iron Age
+Iron Age
+Preboreal
+Modern times
+Modern times
+Medieval
+times
+Medieval
+times
+Medieval
+times
+Modern times
+Medieval
+times
+Medieval
+times
+Medieval
+times
+Modern times
+Modern times
+Medieval
+times
+Medieval
+times
+Modern times
+Modern times
+Iron Age
+Medieval
+times
+Medieval
+times
+Modern times
+Modern times
+Medieval
+times
+Neolithic times
+
+1
+8
+30
+30
+26
+2
+2
+8
+9
+
+Corylus
+
+Alnus
+
+Populus/
+Salix
+
+Acer
+
+2
+
+4
+2
+0
+0
+0
+2
+
+1
+3
+
+1
+
+4
+2
+0
+0
+2
+
+4
+1
+
+Salix
+
+1
+
+30
+50
+22
+
+1
+
+1
+
+0
+2
+3
+
+1
+
+102
+
+30
+10
+
+185
+
+688
+
+0
+3
+
+3
+
+1
+
+1
+
+2133
+
+Sum/means
+[n ¼ 36]
+
+S11 (?)
+S9 (?)
+
+Betula
+
+O. Nelle et al. / Journal of Archaeological Science 37 (2010) 2126e2135
+
+Exposure
+
+2134
+
+O. Nelle et al. / Journal of Archaeological Science 37 (2010) 2126e2135
+
+the mountain Hirschenstein, beech dominated the woodland and
+was used for charcoal production. It seems improbable that the
+differences in charcoal spectra e higher values of ﬁr at the sites
+near the mire, nearly complete absence in the spectra in higher
+elevations e are due to a wood selection. Minimum diameter data
+of the charcoal fragments suggest that the used beech trees might
+be affected at some sites by woodland pasturing during medieval
+times (Nelle, 2002b), which might explain the scarce presence of ﬁr.
+But ﬁr was present around the mire on groundwater close sites,
+giving a local signal in the pollen record. With cutting down these
+ﬁr trees for charcoal making, the pollen signal became more
+regional, which is especially expressed by the increase of Pinus
+pollen. Thus, with the pollen record alone it would have not been
+possible to detect such ﬁne scale differences in woodland
+composition.
+5.3. Bargstedt
+The region around the Bargstedter Moor was slightly opened up
+by humans during Bronze Age, as indicated by a few anthropogenic
+indicators in the pollen diagram (Ehlers, 2008). However, the area
+had a high proportion of woodland through medieval to early
+modern times, since arboreal pollen percentages are very high. The
+proportions of the tree species which were found in the charcoal
+production sites are strikingly similar in the pollen diagram and the
+charcoal spectra. It seems that the charcoal can give a good
+representation of the woodland composition, though generally
+there might have been some selection of species for charring.
+However, we found no indication for species selection, but for the
+selection of certain diameters. Big stems were not charred in the
+kilns around Bargstedt, but presumably used as construction wood,
+whereas wood from coppiced stands, especially Carpinus, but also
+Quercus, and branch wood from beech trees served as wood for
+charcoal making.
+5.4. Kleiner Tornowsee
+In comparing the pollen and charcoal data, both records show
+the dominance of pine and oak, clearly indicating the two dryresistant species as the main woodland constituents, especially on
+south facing slopes with a higher insolation. However, from the
+pollen data we would expect at least Carpinus as a local tree. Values
+around 7 to more than 10% are usually interpreted as coming from
+hornbeam trees nearby. In the case of Fagus, the pollen percentage
+is ambiguous, with less than 5% interpreted as of regional source, or
+of local occurrence. The complete lack of both species in the wood
+charcoal record supports the hypothesis that these more nutrient
+and especially moisture demanding tree species have not grown
+along the slopes of Kleiner Tornowsee, at least not at the south
+facing slopes.
+The question remains how the charcoal came into the soil and
+the colluvisols. Since there are no settlement sites known on the
+slopes or on the tops of the lake catchment area, we presume that
+anthropogenic ﬁres which burned the pine and oak trees produced
+the charcoal. The available AMS-dates of charcoals are in good
+accordance to times of more intense settlement activities in the
+region (Dreibrodt et al., unpublished data).
+6. Conclusions
+The combination of pollen and charcoal data at Kugelstattmoos
+provides more detailed insight in the vegetation composition on
+a local scale. It revealed that high Abies amounts reﬂected in the
+pollen diagram might be a local phenomenon, and woodland
+stands around the top in this montane elevation are dominated by
+
+Fagus. Human impact in the area is traceable via diameter analysis,
+since some of the trees the charcoal burners used might have been
+affected by woodland pasturing, which people commonly did
+especially around relatively ﬂat mountain tops of central European
+low mountain ranges since medieval times. However, the chronology of the records has to be improved by further radiocarbon
+dating in the future.
+Within the catchment of Kleiner Tornowsee charcoal and pollen
+spectra show considerable differences during the last 2000 years.
+Are these differences due to the different spatial resolution of both
+archives? We hypothesize that with charcoal, we get a more precise
+stand scale resolution than with pollen analysis; however, we need
+more samples from the catchment area (and beyond) to solve the
+new questions.
+Thus, combining pollen analysis from lake and mire proﬁles
+with charcoal analysis from archaeological contexts and soil-/
+colluvial contexts enable us to reconstruct vegetation composition
+and human impact in a more precise spatial resolution, or at least
+rise questions which were formerly not put on the agenda.
+Acknowledgements
+We warmly thank Mathias Bahns, Walter Dörﬂer, Doris Jansen,
+Uta Lungershausen, Marcus Schütz and Hartmut Usinger who made
+lake coring and ﬁeld work possible. Work in the Bavarian Forest and
+at Kleiner Tornowsee was supported by Deutsche Forschungsgemeinschaft (German Research Foundation).
+References
+Asouti, E., Austin, P., 2005. Reconstructing woodland vegetation and its exploitation
+by past societies, based on the analysis and interpretation of archaeological
+wood charcoal macro-remains. Environmental Archaeology 10, 1e18.
+Beug, H.J., 2004. Leitfaden der Pollenbestimmung für Mitteleuropa und angrenzende Gebiete, Dr. Friedrich Pfeil, München.
+Beug, H.J., 2005. Palynology and palaeoecology. Zeitschrift für Geomorphologie Supplement Vol. 139, 19e33.
+Bohn, U., Gollub, G., Hettwer, C., 2000. Karte der natürlichen Vegetation Europas.
+(Map of the Natural Vegetation of Europe). Bundesamt für Naturschutz, BonnBad Godesberg.
+Dannath, Y., Nelle, O., 2009. Zur historischen Baumartenzusammensetzung des
+Barloher Forstes bei Bargstedt, Lkr. Rendsburg-Eckernförde, anhand von Holzkohleanalysen. Schriften des Naturwissenschaftlichen Vereins für SchleswigHolstein 71 Online ﬁrst:. www.schriften.uni-kiel.de XX.
+Dreibrodt, S., Nelle, O., Lütjens, I., Mitusov, A., Clausen, I., Bork, H.R., 2009. Investigations on buried soils and colluvial layers around Bronze Age burial mounds
+at Bornhöved (Northern Germany) e an approach to test the hypothesis of
+‘landscape openness’ by the incidence of colluviation. The Holocene 19,
+481e491.
+Ehlers, Y., 2008. Vegetations- und Siedlungsgeschichte im Raum Bargstedt
+(Rendsburg-Eckernförde) mittels Pollenanalyse. unpubl. Diploma thesis Ecology
+Centre, Christian-Albrechts-Universität zu Kiel.
+Emery-Barbier, A., Thiébault, S., 2005. Preliminary conclusions on the Late Glacial
+vegetation in south-west Anatolia (Turkey): the complementary nature of
+palynological and anthracological approaches. Journal of Archaeological Science
+32, 1232e1251.
+Faegri, K., Iversen, J., 1989. Textbook of Pollen Analysis, fourth ed. John Wiley &
+Sons, Chichester.
+Gaillard, M.J., Sugita, S., Bunting, M.J., Middleton, R., Broström, A., Caseldine, C.,
+Giesecke, T., Hellman, S.E.V., Hicks, S., Hjelle, K., Langdon, C., Nielsen, A.B.,
+Poska, A., Stedingk, H.V., Veski, S., Members, P., 2008a. The use of modelling and
+simulation approach in reconstructing past landscapes from fossil pollen data:
+a review and results from the POLLANDCAL network. Vegetation History and
+Archaeobotany 17, 419e443.
+Gaillard, M.J., Sugita, S., Bunting, J., Dearing, J., Bittmann, F., 2008b. Human impact
+on terrestrial ecosystems, pollen calibration and quantitative reconstruction of
+past land-cover. Vegetation History and Archaeobotany 17, 415e418.
+Hildebrandt, H., Heuser-Hildebrandt, B., Wolters, S., 2007. Kulturlandschaftsgenetische und Bestandsgeschichtliche Untersuchungen anhand von Kohlholzspektren aus historischen Meilerplätzen. Pollendiagrammen und archivalischen
+Quellen im Naturpark Pfälzerwald. Forstamt Johanniskreuz, Mainz.
+Leroyer, C., Heinz, C., 1992. Complémentarité des études palynologiques et
+anthracologiques: les exemples pyrénéens de La Balma Margineda (Andorre)
+et de Belesta (Pyrénées-Orientales, France). Bull. Soc. Bot. France 139,
+281e295.
+
+O. Nelle et al. / Journal of Archaeological Science 37 (2010) 2126e2135
+Ludemann, T., 2008. Experimental charcoal-burning with special regard to
+anthracological wood diameter analysis. In: Fiorentino, G., Magri, D. (Eds.),
+Charcoals from the Past: Cultural and Palaeoenvironmental Implications
+Proceedings of the Third International Meeting of Anthracology, Cavallino e
+Lecce (Italy), June 28eJuly 1, 2004. Archaeopress, Oxford, pp. 147e157.
+Ludemann, T., Nelle, O., 2002. Die Wälder am Schauinsland und ihre Nutzung durch
+Bergbau und Köhlerei, Freiburg.
+Martens, A., 1978. Das Dorfbuch der Gemeinde Bargstedt in Holstein. Druckerei
+Broschat, Hohenwestedt.
+Mingram, J., Negendank, J.F.W., Brauer, A., Berger, D., Hendrich, A., Köhler, M.,
+Usinger, H., 2007. Long cores from small lakes e recovering up to 100 m-long
+lake sediment sequences with a high-precision rod-operated piston corer
+(Usinger-corer). Journal of Paleolimnology 37, 517e528.
+Moore, P.D., Webb, J.A., Collinson, M.E., 1991. In: Pollen Analysis, second ed. Wiley
+Blackwell, Oxford.
+Nelle, O., 2002a. Charcoal burning remains and forest stand structure examples from the Black Forest (south-west Germany) and the Bavarian
+Forest (south-east Germany). In: Thiébault, S. (Ed.), Charcoal Analysis.
+Methodological Approaches, Palaeoecological Results and Wood Uses.
+Proceedings of Second International Meeting of Anthracology, Paris, Sept.
+2000, pp. 201e207.
+Nelle, O., 2002b. Zur holozänen Vegetations- und Waldnutzungsgeschichte des
+Vorderen Bayerischen Waldes anhand von Pollen- und Holzkohleanalysen.
+Hoppea. Denkschr. Regensb. Bot. Ges. 63, 161e361.
+Nelle, O., 2003. Woodland history of the last 500 years revealed by anthracological
+studies of charcoal kiln sites in the Bavarian Forest, Germany. Phytocoenologia
+33, 667e682.
+
+2135
+
+Newman, C., O'Connell, M., Dillon, M., Molloy, K., 2007. Interpretation of charcoal
+and pollen data relating to a late Iron Age ritual site in eastern Ireland: a holistic
+approach. Vegetation History and Archaeobotany 16, 349e365.
+Reimer, P.J., Baillie, M.G.L., Bard, E., Bayliss, A., Beck, J.W., Bertrand, C.J.H.,
+Blackwell, P.G., Buck, C.E., Burr, G.S., Cutler, K.B., Damon, P.E., Edwards, R.L.,
+Fairbanks, R.G., Friedrich, M., Guilderson, T.P., Hogg, A.G., Hughen, K.A.,
+Kromer, B., McCormac, G., Manning, S., Ramsey, C.B., Reimer, R.W., Remmele, S.,
+Southon, J.R., Stuiver, M., Talamo, S., Taylor, F.W., van der Plicht, J.,
+Weyhenmeyer, C.E., 2004. IntCal04 terrestrial radiocarbon age calibration, 0e26
+cal kyr BP. Radiocarbon 46, 1029e1058.
+Schweingruber, F.H., 1990a. Anatomie europäischer Hölzer. Haupt, Bern, Stuttgart.
+Schweingruber, F.H., 1990b. Mikroskopische Holzanatomie. In: Formenspektren
+mitteleuropäischer Stamm- und Zweighölzer zur Bestimmung von rezentem
+und subfossilem Material, third ed. Eidg. Anstalt für das forstl, Versuchswesen,
+Birmensdorf/Schweiz.
+Smettan, H.W., 1995. Archäoökologische Untersuchungen auf dem AlbuchBeiträge
+zur Eisenverhüttung auf der Schwäbischen Alb. Forschungen und Berichte zur
+Vor- und Frühgeschichte in Baden-Württemberg 55, 37e136.
+Speier, M., 1994. Vegetationskundliche und paläoökologische Untersuchungen zur
+Rekonstruktion prähistorischer und historischer Landnutzungen im südlichen
+Rothaargebirge. Abh. Westfäl. Museum f. Naturkunde 56, 1e174.
+Stockmarr, J., 1971. Tablets with spores used in absolute pollen analysis. Pollen et
+Spores 13, 615e621.
+van Geel, B., Buurman, J., Brinkkemper, O., Schelvis, J., Aptroot, A., van Reenen, G.,
+Hakbijl, T., 2003. Environmental reconstruction of a Roman Period settlement
+site in Uitgeest (The Netherlands), with special reference to coprophilous fungi.
+J. Archaeo. Sci. 30, 873e883.
+
+

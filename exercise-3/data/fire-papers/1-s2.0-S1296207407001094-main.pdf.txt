@@ -1,0 +1,385 @@
+Available online at www.sciencedirect.com
+
+Journal of Cultural Heritage 8 (2007) 428e433
+http://france.elsevier.com/direct/CULHER/
+
+Case study
+
+Importance of digital close-range photogrammetry in
+documentation of cultural heritage
+H.M. Yilmaz a,*, M. Yakar b, S.A. Gulec c, O.N. Dulgerler c
+a
+
+Department of Geodesy and Photogrammetry, Engineering Faculty, Aksaray University, 68100 Aksaray, Turkey
+b
+Department of Geodesy and Photogammetry, Engineering Faculty, Selçuk University, 42120 Konya, Turkey
+c
+Department of Architecture, Engineering Faculty, Selçuk University, 42120 Konya, Turkey
+Received 16 November 2006; accepted 5 July 2007
+
+Abstract
+It is an indisputable reality that the most important thing for transmitting cultural heritage to posterity is a sensitive documentation. Up to the
+present there have been many developments in documentation of cultural heritage by developing technology, and contemporary documentation
+techniques have progressed speedily. In time, modern methods have become preferable to conventional methods in architecture generally in the
+existent state and in determination of deformations and preparation of measured drawing projects of historical edifices. Digital and 3D data, rich
+visual images obtained by digital close-range photogrammetry, and orthophoto images of edifices, are governed and shepherded in documentation and future conservation projects. Also, these methods supply much ease, precision and time-saving in measured drawing projects
+when compared with conventional methods. In this study, contributions of digital close-range photogrammetry to measured drawing projects
+were evaluated. A historical building, which had been exposed to fire two times in Konya (Turkey), was photographed and its situation before
+and after the fire was demonstrated. In addition, the building’s measured drawings of facade and its 3D model were completed using digital
+close-range photogrammetry. The building’s present status and its reconstruction project is indicated and how digital close-range photogrammetry contributes to measured drawing, reconstruction and restoration projects is presented. Furthermore, the significance of present-day use of
+digital close-range photogrammetry in the acquisition of data and preparation of measured drawing projects for historical buildings is emphasized. This study has been completed by photogrammetrists, architects, urban planners and restorers.
+Ó 2007 Elsevier Masson SAS. All rights reserved.
+Keywords: Photogrammetry; Documentation; Historical buildings; Cultural Heritage; Conservation
+
+1. Introduction
+Monuments are undeniable documents of world history.
+Their thorough study is an obligation of our era to mankind’s
+past and future [1,2]. Conservation of cultural heritage is
+a major issue for modern societies, both from economical
+and cultural viewpoints. Culture and heritage play a vital
+role in the development of the individual and the collective
+* Corresponding author. Tel.: þ90 382 215 0341; Fax: þ90 382 215 0592.
+E-mail addresses: hmyilmaz@nigde.edu.tr (H.M. Yilmaz), yakar@selcuk.
+edu.tr (M. Yakar), agulec@selcuk.edu.tr (S.A. Gulec), dulgerler@selcuk.edu.tr
+(O.N. Dulgerler).
+1296-2074/$ - see front matter Ó 2007 Elsevier Masson SAS. All rights reserved.
+doi:10.1016/j.culher.2007.07.004
+
+development of a people. In addition to providing cultural,
+aesthetic and spiritual satisfaction, culture and heritage are
+of interest in terms of economics [3,4].
+Historic structures and sites reveal the events, the problems,
+and the progress of the past. They present an opportunity to
+visualize the lives of the people before us. But every year
+some of these historic structures disappear, lost to future generations due to the ravages of fire [5]. Computerized methods
+and close-range photogrammetry are proposed as a preventive
+method which allows us to detect, measure and track the temporal evolution of some structural problems [6].
+In the past few years, image analysis has grown more and
+more important for applications that concern study, modelling
+
+H.M. Yilmaz et al. / Journal of Cultural Heritage 8 (2007) 428e433
+
+and preservation of cultural heritage [7]. They present better
+volumetric perception of an edifice and its surroundings and
+also give more details about the description of materials constituting the historic monuments and sites.
+In this study, the significance of documentation for architectures and the role of digital close-range photogrammetry
+in transmitting cultural heritage to the next generations, and
+the place of digital close-range photogrammetry in the authentication of historical edifices are emphasized. Also, for the
+architect, the aim of documentation and the use of digital
+close-range photogrammetry in architecture is explained. In
+addition, documentation of a particular building, which was
+exposed to fire two times in Konya, by digital close-range photogrammetry and its current reuse planned by its reconstruction project, is demonstrated.
+
+2. Documenting cultural heritage
+The view of cultural heritage is closely consistent with that
+of UNESCO, enunciated in the 1972 Convention for the
+Protection of the World Cultural and Natural Heritage [1,8,9].
+UNESCO (1946) and the Council of Europe have formed
+specialized organizations for conservation of cultural heritages. ICOMOS (International Council for Monuments and
+Sites) is the most important one, but also CIPA (International Committee for Architectural Photogrammetry), ISPRS
+(International Society for Photogrammetry & Remote Sensing), ICOM (International Council for Museums), ICCROM
+(International Centre for the Conservation and Restoration
+of Monuments) and UIA (International Union of Architects)
+are all involved in conservation task of cultural heritages
+[1].
+Documentation is a complex process that includes stages of
+data acquisition, interpretation, and production. It is the first
+and most important step before starting to conserve projects
+and works. A short definition of it is the recording of the existent state and surroundings of the building by reports, drawings and photographs.
+During the documentation and recording, knowledge about
+the building can be capitalized upon using old photographs, old
+maps, old drawings and projects, civil and personal archives,
+pictures and gravures, archaeological data and travel notes.
+For documentation of an important historical building in the
+field of architecture, it must be worth preserving. For this,
+the building must have the features like the following.
+ To testify to a historical event in the past
+ To have the original and characteristic quality (authenticity)
+ To have worth of continuity (maintain its original function
+today)
+ To have a legitimate documentation from the past
+ To be unique from the technical or structural point
+of view
+ To have artistic or technical worth
+ To have functional worth
+ To have traditional worth
+
+429
+
+2.1. Importance of documentation and photogrammetry
+in cultural heritage
+Very important knowledge regarding life style, space requirements and solutions, building policies, social relations,
+economic levels, the level of the building technique, level of
+technology, art perceptiveness, building equilibria, and alterations in social life of the past generations can be acquired
+from historical buildings.
+Documentation is necessary for:
+ Transmitting cultural heritage to next generation
+ Making the building alive by using it in contemporary
+manner
+ Obtaining correct data for future plans
+ Determination of the problems in historical building and in
+historical site or monument
+ Acquisition of knowledge about the history of the building
+Before embarking on any intervention, the restorer must
+reach a deep and complete knowledge of cultural property,
+the existing situation before the restoration in order to determine problems in the building’s structural system, decays in
+materials, deformations, distortions, and interventions, evaluation of damage, the analysis of the fissures, determining anomalies besides the history of construction [10].
+National and international studies connected with digital
+close-range photogrammetry that have already been made
+have enhanced its reputation and also have expanded its usage
+fields in architecture.
+Digital close-range photogrammetry is used in:
+ determining of historical and archaeological value of the
+building,
+ defining and obtaining measured drawing and facades of
+the building,
+ in preparation and application of urban conservation plans,
+ modality and structure research,
+ interior designs,
+ determining deformation, evaluation of damage, analysis
+of the decay, deformation and anomalies, and fissuring,
+ controlling the situation of the building before and after
+restoration,
+ making a building numerical by determining coordinates
+in architecture [11].
+The most widespread usage of photogrammetry has been
+for the representation of the facades or elevations of historic
+buildings and structure. By improving digital techniques, digital close-range photogrammetry has become a more efficient
+and more economic method. Obtained 3D solid or textured
+images help us to understand sophisticated and complex buildings more easily [12].
+In some situations, two-dimensional drawings may be inadequate in order to understand the building and its surroundings, but visual presentations prepared by digital close-range
+photogrammetry and arrangements in CAD programs make
+
+430
+
+H.M. Yilmaz et al. / Journal of Cultural Heritage 8 (2007) 428e433
+
+the model more explanatory and more supportive of the building’s situation. These studies are a great help to architects.
+One of the most important advantages of using digital
+close-range photogrammetry to supply documentation is in
+measuring dangerous or inaccessible areas, very high or low
+buildings, or part of these buildings. It is a major aid in obtaining the required measurement of the parts of the building from
+the photograph. Regarding documentation, these data can be
+used again in the future, can be shared with other users, and
+are easy to store on computer [6,13e16].
+3. Documenting techniques in cultural heritage
+The documentation of a cultural heritage may be defined
+as [9]: The action of acquiring, processing, presenting and recording the necessary data for the determination of the position and the actual existing form, shape and size of
+a monument in the three-dimensional space at a particular
+given moment in time. The geometric documentation records
+the present situation of the monuments, as has been shaped
+in the course of time and is the necessary background for
+the studies of their past, as well as the studies for their
+future.
+Today in documentation of cultural heritages the following
+methods are applied:
+ Simple topometric methods for partially or totally uncontrolled surveys
+ Surveying and photogrammetric methods for completely
+controlled surveys
+In architecture making a physical definition of a building
+starts with measured drawing studies and photographic documentation, and continues with an analytical survey. Analytical
+survey is not only measuring but also aims to assign the building’s constitution, and its alteration and conversion process
+[17].
+Measured drawing works to measure and state the layout,
+cross-section and all details of the building and to state these
+in two-dimensional architectural terms. What is important here
+is the existent situation of the building and if there are additions or deficiencies that must be defined in all of these
+drawings.
+Photographic documentation records the present position of
+the building by photographs. Digital photography as analytical
+technology is advantageous because it shares the digital technology attributes of automation and provides time economy.
+Photography has a long and significant role in historic documentation [18].
+
+Fig. 1. The central perspective projection.
+
+projection. The primary coordinate system is positioned
+arbitrarily in object space; while the secondary system has
+its origin at the perspective camera center O, its z-axis coincides with the principal axis and is directed away from the
+projection (image) plane (Fig. 1). The scale factor is set to
+unity.
+In the primary system we have the coordinates of the perspective center, O, and an object point in space, A:
+(X0,Y0,Z0) and (XA,YA,ZA), respectively. The projection of A,
+through O, in the image plane, expressed in the secondary system, gives the coordinates of point a: (xa,ya,c), where c is the
+principal distance (sometimes called effective focal length),
+between O and the principal point, PP. Points A and a are
+called homologous. Thus, we have: XA ¼ X0 þ (m)Rtxa,
+where m is a positive scalar quantity proportional to the object
+distance from A to O.
+
+3.1. Mathematical basics of digital
+close-range photogrammetry
+Digital close-range photogrammetry measures objects directly from photographs or digital images captured with
+a camera at close range [12,19]. The basic model in digital
+close-range photogrammetry is the central perspective
+
+Fig. 2. The original situation of the building.
+
+H.M. Yilmaz et al. / Journal of Cultural Heritage 8 (2007) 428e433
+
+431
+
+Fig. 3. The situations of the building after the first and second fire.
+
+The reverse transform is then given as
+2
+32
+3
+3
+g11 g21 g31
+XA  X0
+xa
+4 ya 5 ¼ m1 4 g12 g22 g32 5 4 YA  Y0 5
+c
+g13 g23 g33
+ZA  Z0
+
+4. Case study
+
+2
+
+ð1Þ
+
+Note that the vectors (XA  X0), xa are collinear but of opposite sense.
+The 3rd equation of the reverse transform above can be
+written explicitly in terms of the scaling m and substituted in
+the other two equations, leading to the collinearity equations:
+xa ¼
+
+c½g11 ðX0  XA Þ þ g12 ðY0  YA Þ þ g13 ðZ0  ZA Þ
+½g31 ðX0  XA Þ þ g32 ðY0  YA Þ þ g33 ðZ0  ZA Þ
+
+c½g21 ðX0  XA Þ þ g22 ðY0  YA Þ þ g23 ðZ0  ZA Þ
+ya ¼
+½g31 ðX0  XA Þ þ g32 ðY0  YA Þ þ g33 ðZ0  ZA Þ
+
+Fig. 4. Control points on photograph.
+
+ð2Þ
+
+The building is located on Konya (Figs. 2e8). It was built
+in the 18th century and has two storeys. Accidentally, this
+study has begun to teach photogrammetric methods to engineering faculty students. A historical building has been selected to evaluate photogrammetric procedures. For this
+purpose, photographs have been taken and control points
+have been surveyed according to photogrammetric evaluation
+techniques. However, about one year later the historical building was burnt down two times. A restoration project by the
+conservation office of Turkey has been needed to reconstruct
+the historical building. There were no drawings, measurements
+or other documentation with which to start restoration projects
+except for students’ studies. It was obligatory that a restoration
+project be started by the photogrammetrists to determine the
+
+Fig. 5. Drawing of the facade by digital close-range photogrammetry.
+
+432
+
+H.M. Yilmaz et al. / Journal of Cultural Heritage 8 (2007) 428e433
+
+Fig. 6. Drawing of the 3D model by digital close-range photogrammetry.
+
+original status and measurements of building. After the second
+fire, it was measured again to determine the changes and latest
+conditions of the building. Photomodeler software was used
+for the photogrammetric process.
+After the processing, drawings were obtained in Photomodeler software. All measurements and drawings were exported
+to dxf format for the architects. These drawings helped to prepare the reconstruction project of this building. After the measured drawing projects, a reconstruction project for the
+building was drawn in Autocad and was also rendered. Digital
+close-range photogrammetry was considerably useful for analyzing material decay and determining the deformations on the
+oriels. The reconstruction project was drawn by expert architects. A three-dimensional project model was rendered. Its
+construction works were completed according to the original
+measurements. The building is now functional once again
+and is used as a company office building.
+
+Fig. 8. The reconstructed situation of the building.
+
+5. Conclusions
+Cultural heritage protection is a key matter today worldwide. There has been an increase in public awareness over recent years that these kinds of monuments constitute an
+important part of our past. There are innumerable cultural heritage sites all over the world. Preservation and documentation
+of these is an important matter.
+It is obvious that using digital close-range photogrammetry
+has many advantages in the documentation and conservation
+of cultural heritage. Using a 3D model in order to compare
+the building’s situation before and after restoration and analysis
+of alterations in the constitution of the building’s interventions
+up to date is a very significant input for both architects and
+restorers. In transmitting the cultural heritage to the next generations the preparation of measured drawing, restitution, a reconstruction project and the place and the sensitivity of the
+documentation is considerably important. Correct documentation is necessary not only for posterity but also in functionality
+in contemporary usage and re-evaluation of the historical
+buildings.
+Photogrammetry uses only photographs and mathematical
+equations. These are important in view of correct and accurate
+measurement of cultural heritage. In addition, it is possible to
+evaluate the situation after the restoration. Photogrammetry
+has much more superiority over traditional methods in restoration projects. Dangerous and unreachable buildings, like the
+one mentioned here destroyed by fire, can be accurately measured by Photogrammetric methods easily and safely.
+References
+
+Fig. 7. Rendered model of the building.
+
+[1] A. Georgopoulos, C. Ioannidis, Photogrammetric and Surveying
+Methods for the Geometric Recording of Archaeological Monuments,
+
+H.M. Yilmaz et al. / Journal of Cultural Heritage 8 (2007) 428e433
+
+[2]
+
+[3]
+
+[4]
+[5]
+[6]
+
+[7]
+
+[8]
+[9]
+[10]
+
+Archaeological Surveys, FIG Working Week, May 22e27 2004, Athens,
+Greece, 2004, http://www.fig.net/pub/athens/papers/wsa1/WSA1_1_
+Georgopoulos_Ioannidis.pdf.
+S.D.S. Salazar, J.M. Marques, Valuing cultural heritage: the social benefits of restoring and old Arab tower, Journal of Cultural Heritage 6 (2005)
+69e77.
+A. Bedate, L.C. Herrero, J.A. Sanz, Economic valuation of the cultural
+heritage: application to four case studies in Spain, Journal of Cultural
+Heritage 5 (2004) 101e111.
+E.R. Harvey, Polı́tica Cultural en Argentina, Unesco, Paris, 1997.
+N. Akinciturk, M. Kilic, A study on the fire protection of historic Cumalikizik village, Journal of Cultural Heritage 5 (2004) 213e219.
+P. Arias, J. Herraez, H. Lorenzo, C. Ordonez, Control of structural problems in cultural heritage monuments using close-range photogrammetry
+and computer methods, Computers and Structures 83 (2005) 1754e1766.
+F. Pedersini, A. Sarti, S. Tubaro, Automatic monitoring and 3D reconstruction applied to cultural heritage, Journal of Cultural Heritage
+(2000) 301e313.
+F. Callegari, Sustainable development prospects for Italian coastal cultural
+heritage: a Ligurian case study, Journal of Cultural Heritage 4 (2003) 49e56.
+http://www.unesco.org/whc/world_he.htm.
+R.A. Genovese, Architectural Archeological and Environmental Restoration Planning Methodology. CIPA 2005 XX International Symposium,
+26 Sep.e01 Oct., Torino, Italy, 2005, http://cipa.icomos.org/fileadmin/
+papers/Torino2005/295.pdf.
+
+433
+
+[11] H.M. Yilmaz, H. Karabork, M. Yakar, Yersel Fotogrametrinin Kullanım
+Alanları, Niğde Üniversitesi Mühendislik Bilimleri Dergisi 4 (1) (2000)
+18e28.
+[12] K.B. Atkinson, Close-range Photogrammetry and Machine Vision,
+Whittles Publishing, Scotland, 1996.
+[13] E. Berndt, J. Carlos, Cultural heritage in the mature era of computer
+graphics, IEEE Computer Graphics and Applications 20 (1) (2000)
+36e37.
+[14] L.G. Desmond, P. Collins, T.G. Negron, J. Callaghan, Gateway into the
+past: Photogrammetric documentation of the Arch, Labna, Yucatan,
+Mexico, in: L.P. Barba (Ed.), Antropologia y Técnica 7 (IIA) (2003)
+55e66.
+[15] G. Guidi, A. Beraldin, C. Atzeni, High-accuracy 3-D modeling of cultural heritage: the digitizing of Donatello’s ‘‘Maddalena’’ image, Proc.
+IEEE Trans. On 13 (3) (2004) 370e380.
+[16] M. Pieraccini, G. Guidi, C. Atzeni, 3D digitizing of cultural heritage,
+Journal of Cultural Heritage 2 (2001) 63e70.
+[17] D. Kuban, Tarihi Çevre Korumanın Mimarlık Boyutu (Kuram ve Uygulama), Istanbul, 2000.
+[18] R. Warden, D. Woodcock, Historic documentation: a model of project
+based learning for architectural education, Landscape and Urban Planning 73 (2005) 110e119.
+[19] M. Turan, Mimari Fotogrametri Alanındaki Çağdas
+x Gelis
+ximlerin
+Değerlendirilmesi, Gazi Ünviversitesi Mühendislik Mimarlık Fakültesi
+Dergisi (2004) 43e50.
+
+

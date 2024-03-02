@@ -1,0 +1,2735 @@
+Journal of Archaeological Science 42 (2014) 201e215
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+An integrated stable isotope study of plants and animals from
+Kouphovouno, southern Greece: a new look at Neolithic farming
+Petra Vaiglova a, *, Amy Bogaard a, Matthew Collins b, William Cavanagh c,
+Christopher Mee d, Josette Renard e, Angela Lamb f, Armelle Gardeisen g, Rebecca Fraser a
+a
+Research Laboratory for Archaeology and the History of Art, University of Oxford, Dyson Perrins Building, South Parks Road,
+Oxford OX1 3QY, United Kingdom
+b
+Department of Archaeology, University of York, Wentworth Way, York YO10 5DD, United Kingdom
+c
+Department of Archaeology, University of Nottingham, University Park, Nottingham NG7 2RD, United Kingdom
+d
+School of Archaeology, Classics and Egyptology, University of Liverpool, 12-14 Abercromby Square, Liverpool L69 7WZ, United Kingdom
+e
+Universté Paul-Valéry, Montpelier 3, Route de Mende, F-34199 Montpellier, France
+f
+NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham NG12 5GG, United Kingdom
+g
+UMR 5140 - CNRS - UM3, Labex Archimède, Montpellier, France
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 18 July 2013
+Received in revised form
+19 October 2013
+Accepted 21 October 2013
+
+This paper presents the ﬁrst study that combines the use of ancient crop and animal stable isotopes
+(carbon and nitrogen) and Zooarchaeology Mass Spectrometry species identiﬁcation (ZooMS) for
+reconstructing early farming practices at Kouphovouno, a MiddleeLate Neolithic village in southern
+Greece (c. 5950e4500 cal. BC). Debate surrounding the nature of early farming predominantly revolves
+around the intensity of crop cultivation: did early farmers move around the landscape while practicing
+temporary farming methods such as slash and burn agriculture or did they create more permanent ﬁelds
+by investing high labor inputs into smaller pieces of land that produced higher crop yields? The need to
+address these questions using a direct assessment of the intensity and scale of cultivation is apparent,
+and an integrated stable isotope approach provides such an opportunity. The results of this study support
+the model of small-scale mixed farming, where crop cultivation and animal husbandry are closely integrated. The farmers directed their intensive management towards crops grown for human consumption (free-threshing wheat), while growing fodder crop (hulled barley) more extensively. Pulses were
+cultivated under a high-manuring/high-watering regime, likely in garden plots in rotation with freethreshing wheat. The diets of the livestock enable us to investigate which parts of the landscape were
+used for browsing and grazing and indicate that animal management changed in the Late Neolithic. The
+sheep and goats were now kept in smaller numbers and grazed together and new pasture grasses may
+have been sought for the grazing of cattle. This study demonstrates that beyond its applicability for
+palaeodietary reconstruction, analysis of stable isotopes of archaeological crop and animal remains has
+important implications for understanding the relationship between humans, plants and animals in an
+archaeological context.
+Ó 2013 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Stable isotopes
+Carbon
+Nitrogen
+ZooMS
+Archaeobotany
+Archaeozoology
+Aegean
+Neolithic
+
+1. Introduction
+Recent investigations in the ﬁeld of stable isotope analysis have
+demonstrated the potential of obtaining direct evidence of ancient
+agricultural practices from d15N and d13C analysis of archaeobotanical remains (Araus et al., 1997, 1999; Bogaard et al., 2007,
+2013; Fraser et al., 2011, 2013a; Kanstrup et al., 2011, 2012, in press;
+Lightfoot and Stevens, 2012; Wallace et al., 2013). Analysis of modern crops grown under a range of experimental and traditional
+* Corresponding author. Tel.: þ44 (0)1865 285222.
+E-mail address: petra.vaiglova@rlaha.ox.ac.uk (P. Vaiglova).
+0305-4403/$ e see front matter Ó 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2013.10.023
+
+farming regimes has shown that d15N and d13C values reﬂect crop
+growing conditions, such as soil nitrogen composition and crop
+water availability. In addition, some of this work (Bogaard et al., 2007,
+2013; Fraser et al., 2011, 2013a, 2013b; Lightfoot and Stevens, 2012)
+has highlighted the fact that where possible, the isotopes of plants
+must be measured alongside the isotopes of human and faunal remains in order to better understand ancient palaeodiets.
+The current paper builds on this work by integrating the analysis
+of ancient crop and faunal remains in order to explore the nature of
+agricultural economy at the MiddleeLate Neolithic site of Kouphovouno (5950e4500 cal. BC). It has long been argued that
+management of domestic plants and animals in a farming context
+
+202
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+
+can be functionally interdependent (Bogaard, 2004a, 2004b, 2005;
+Bogaard and Isaakidou, 2010; Byrd, 2000; Flannery, 1969; Halstead,
+1989). Animals can be used to regulate and promote crop productivity as well as for “indirect storage” of surplus grain and crops/
+arable ﬁelds can serve as fodder and graze for the animals. In light
+of this view, it has been suggested that early farming systems in
+Greece, and in fact the rest of Europe, employed some version of a
+small-scale mixed farming economy (Bogaard, 2004a, 2004b, 2005;
+Halstead, 1996, 2000, 2006). Thus, the aim of this paper is to
+investigate if the stable isotope data support or refute an intensive
+mixed farming model and if the changes in pottery styles observed
+between the Middle and Late Neolithic were accompanied by shifts
+in agricultural management.
+
+2. Methodological background
+Stable isotope signatures of archaeological material (such as
+bone collagen or charred plant material) are useful for reconstructing not only past human and animal diets, but practices such
+as land use and agricultural management (for examples of palaeodietary studies, see Chisholm et al., 1982; Richards et al., 2003;
+Schulting and Richards, 2002; Schwarcz et al., 1985). The stable
+isotope values of carbon and nitrogen, expressed as d13C and d15N,
+represent the ratios of the heavier to lighter isotopes (13C:12C and
+15 14
+N: N) in a given sample compared to internationally set standards (PeeDee Belemnite for carbon and AIR for nitrogen). The ratios are expressed in parts per thousand, &, and are calculated
+using the following equation:
+13
+
+d Cð&Þ ¼
+
+d13 Csample
+d13 Cstandard
+
+!
+1
+
+ 1000
+
+For a comprehensive review of the technique, see Lee-Thorp
+(2008), O’Connell and Hedges (1999), Schoeninger and Moore
+(1992), Schwarcz and Schoeninger (1991).
+Plants and animals obtain carbon and nitrogen through metabolic
+processes such as breathing, photosynthesis and digestion. These
+processes are governed by principles of biochemical fractionation
+that determine the proportions in which the different isotopes of
+each element get assimilated into the organisms' tissues (such as
+animal muscles/bones, and crop grain/straw). When another organism consumes those tissues, the isotope chemistry of the consumer reﬂects the distinct signature of the food source plus an
+enrichment factor. Thus, herbivores have higher d15N and to a lesser
+extent d13C compared to the plant foods they consume and carnivores
+have higher values than the herbivores they eat (Bocherens et al.,
+1995; Chisholm et al., 1982; DeNiro and Epstein, 1978; Hedges,
+2006; Hedges and Reynard, 2007; Lee-Thorp et al., 1989; Sillen
+et al., 1989; Vogel and van der Merwe, 1977). Collagen d13C and d15N
+values predominantly reﬂect the protein portion of the consumers’
+diets (Ambrose and Norr, 1993; Chisholm et al., 1982), with many
+amino acids being directly assimilated from the food source
+(Chikaraishi et al., 2009; Corr et al., 2005; McCullagh et al., 2006).
+The d15N of crops reﬂects the isotopic composition of their nitrogen source. N2-ﬁxers, such as lentils and other pulses, host Rhizobium
+bacteria in the nodules of their roots, which convert atmospheric
+nitrogen to ammonium ions and pass them to the plant or surrounding soil. This process does not cause substantial fractionation
+and as a result, N2-ﬁxers have d15N values closer to the value of atmospheric nitrogen, which is 0& (Bernhard, 2012; Delwiche et al.,
+1979; Högberg, 1997). Non-N2-ﬁxers, such as cereals, obtain their
+nitrogen from the soil and are thus directly affected by the factors that
+cause soil 15N enrichment discussed below (Bogaard et al., 2007;
+Fraser et al., 2011; Kanstrup et al., 2011, in press). Although in
+
+traditional farming contexts, N2-ﬁxers ﬁx mostly atmospheric nitrogen, they are also affected by manuring, albeit to a lesser extent than
+non-N2-ﬁxers (Fraser et al., 2011). A possible mechanism for this is
+direct uptake of amino acids present in soil (as has been found to be
+the case in the non-leguminous wheat (Hill et al., 2011)).
+Soil 15N enrichment can be caused by natural factors such as soil
+salinity (Ambrose, 1991; Heaton, 1987; although for opposite
+argument see Yousﬁ et al., 2010), sea-spray of nitrates (Heaton,
+1987; Virginia and Delwiche, 1982), and denitriﬁcation (Högberg,
+1997; Tiedje et al., 1982). Signiﬁcant denitriﬁcation occurs in
+waterlogged conditions such as marshlands. Elevated d15N values
+have also been correlated with decreased precipitation in experimental and ﬁeld studies in arid regions in South Africa, the
+southwestern United States, Namibia, and the Kenya Rift Valley
+(Ambrose, 1991; Evans and Ehleringer, 1993, 1994; Heaton, 1987;
+Heaton et al., 1986; Lopes and Araus, 2006; Sealy et al., 1987;
+Swap et al., 2004). Aranibar et al. (2004) observed an aridity effect across a precipitation gradient (978e230 mm of annual rainfall) in the Kalahari desert, but argue that 15N enrichment in arid
+climates may be more affected by unpredictability of precipitation
+rather than lower overall annual rainfall levels. Fraser et al. (2011)
+assert that the aridity effect may be buffered through crop management and therefore invisible in agricultural settings.
+Anthropogenic factors that cause 15N enrichment include middenning (cf Guttmann, 2005; Bogaard, 2012), manuring (Bogaard
+et al., 2007; Fraser et al., 2011; Kanstrup et al., 2011, in press),
+clear-cutting of forests (Pardo et al., 2002) and burning of fossil
+fuels (Templer et al., 2007).
+d15N from animal and human collagen can be used to assess the
+trophic level of the individual, which is an indication of where the
+individual was situated in the food chain (DeNiro and Epstein, 1981;
+Hedges and Reynard, 2007; Minagawa and Wada, 1984). For many
+years, the widely accepted value for isotopic spacing between diet
+and consumer tissue has been 3e5& (Ambrose, 2000; Bocherens
+and Drucker, 2003; Hedges and Reynard, 2007), but recent work
+on isotope spacing in humans by O’Connell et al. (2012) suggests
+that this value may be higher, between 4.6 and 6&. Taking all of this
+work into account and assuming that trophic enrichment for
+humans is comparable to that for domestic animals, in this study,
+we use 5  1& as an approximation of tissue-diet spacing.
+Plant d13C values are determined by the d13C of atmospheric CO2
+at the time of the plant’s growth as well as the degree of fractionation that occurs during photosynthesis. Since the concentration of CO2 in the atmosphere has ﬂuctuated over time, differences
+in plant d13C values from different periods do not simply reﬂect
+growing conditions and fractionation, but the isotopic composition
+of the carbon source as well. For this reason, when comparing crop
+d13C across different periods, the values need to be converted into
+D13C, which reﬂect the carbon isotope discrimination independent
+of atmospheric CO2 concentration (Farquhar et al., 1982, 1989;
+Jackson et al., 1994; Wallace et al., 2013). The conversion is done
+following the principles outlined by Farquhar et al. (1989) and using
+the equation:
+
+13
+
+D Cð&Þ ¼
+
+d13 Cair  d13 Cplant
+
+!
+
+13
+
+1 þ d Cplant
+
+d13Cair is the isotopic composition of atmospheric CO2 at the time
+that the plant was growing. Its values have been preserved in
+sequence in Antarctic ice-cores and can be estimated using the
+AIRCO2_LOESS data calibrator1 for the time period between 16,100
+
+1
+
+http://web.udl.es/usuaris/x3845331/AIRCO2_LOESS.xls.
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+
+B.C.E. and 2003 C.E. (Cleveland, 1979; Ferrio et al., 2005; Francey
+et al., 1999; Indermühle et al., 1999; Lauenberger et al., 1992).
+Converting d13C into D13C changes the directionality of the effect
+(i.e. higher d13C values equate to lower D13C values), and the sign
+(negative d13C values become positive).
+Carbon isotope discrimination in plants, encoded in their D13C,
+is driven by the photosynthetic mechanism. Many factors are
+involved in this process (including light intensity, temperature, and
+concentration of CO2 in the atmosphere), but it is argued that in
+semi-arid climates, D13C is most notably affected by water availability (Farquhar et al., 1982, 1989; Farquhar and Richards, 1984;
+Wallace et al., 2013). The amount of water available controls the
+action of the plant stomata (pores on the surface of the plants),
+which affects how the CO2 is used during photosynthesis. When
+sufﬁcient amounts of water are available, the plant stomata stay
+open for longer periods of time and CO2 is replenished during
+photosynthesis so that more of the lighter 12C (which reacts more
+quickly in chemical reactions) is available for assimilation. When
+the water supply is limited, the plant periodically closes its stomata
+to conserve the water. This causes the CO2 to be recycled and more
+of the heavier 13C to be assimilated (Farquhar et al., 1982, 1989;
+O’Leary, 1981; Smith et al., 1976; Wallace et al., 2013). Measurement of D13C of crops is thus instrumental for inferring the water
+status of the crops during their growth season.
+3. The site
+Kouphovouno is located in mainland southern Greece, c. 2.5 km
+southwest of Sparta on the Peloponnesian peninsula (see Fig. 1).
+The site was ﬁrst occupied in the Middle Neolithic, which, in
+Southern Greece is dated to c. 5950e5450 cal. BC, and continued
+through the Late Neolithic (c. 5450e4500 cal BC). Based on AMS
+radiocarbon dating of seeds from the same contexts, the strata
+represented in this study date to a narrower range of c. 5800e
+5000 cal. BC (Mee et al., 2013) (Fig. 2).
+First excavation of the site was undertaken by OeW. von Vacano
+in 1941 and this work was published by Josette Renard in 1989. The
+initially exposed strata indicated that the site had been occupied
+
+203
+
+between the Middle Neolithic and the Early Helladic II periods. The
+site was reopened in 2001 after two seasons of survey, which
+indicated that a number of burnt structures lay buried under the
+surface and that the extent of occupation of the site did not vary
+signiﬁcantly between the Middle and the Late Neolithic (Cavanagh
+et al., 2004, 2007; Mee et al., 2013).
+A further ﬁve seasons of excavation recovered well-preserved
+botanical and faunal assemblages across the excavated Areas AeG
+in contexts ranging from burnt ﬂoors and hearth structures to
+destruction layers and midden deposits. The available archaeology
+indicates that the settlement was nucleated and may have been
+divided into neighborhoods. The plant assemblage mostly consists
+of domestic species of cereals and pulses including free-threshing
+wheat, hulled barley, (one-seeded) einkorn, emmer, lentil, common pea, grass pea, and bitter vetch; along with ﬁgs and ﬂax. The
+faunal assemblage is dominated by domestic animals such as cattle,
+sheep, goats, pigs and dogs, but wild animals such as red deer, roe
+deer, wild boar, aurochs, wild goat, hare, wolf, fox, cat and weasel
+were also found in smaller quantities (Cantuel et al., 2008;
+Cavanagh et al., 2004; Gardeisen, 2007).
+The surrounding Sparta Basin is one of the most fertile regions
+in Greece, and ample arable land was available for cultivation in the
+Neolithic. The early farmers may have sown their crops in the
+ﬂoodplain on which the tell sits, on alluvial fans located 300 m to
+the west of the site and/or on unoccupied parts of the tell itself. The
+environment also offered land suitable for animal grazing/browsing
+and plentiful drainage from nearby rivers (Fouache et al., 2007;
+section by James and Kousoulakou in Cavanagh et al., 2004).
+4. Materials and methods
+4.1. Choice of samples
+28 bulk samples of charred archaeobotanical material were
+analyzed in this study. They include 13 samples of free-threshing
+wheat grain (Triticum aestivum L./Triticum durum Desf.), 7 samples of hulled barley grain (Hordeum vulgare L.), 7 samples of
+common pea (Pisum sativum L.) and 1 sample of lentil (Lens culinaris
+
+Fig. 1. Geographical location of Kouphovouno in Laconia, Peloponnese (prepared by Jean Cantuel, from Rivals et al., 2011).
+
+204
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+
+Fig. 2. Plan of the archaeological excavations at Kouphovouno undertaken between 2001 and 2007.
+
+Medik.). Other species recovered in the archaeobotanical record
+(Bogaard unpublished data) include wheat of the hulled variety,
+einkorn (Triticum monococcum L.) and emmer (Triticum dicoccum
+Shrank); these were recovered in smaller quantities, however, and
+could not be included in the isotope sampling.
+68 samples of animal bone were analyzed in this study. These
+include 15 samples of domestic cattle (Bos taurus), 7 dogs (Canis
+lupus familiaris), 12 domestic sheep (Ovis aries), 7 domestic goats
+(Capra hircus), 23 domestic pigs (Sus scrofa domesticus), 1 wild boar
+(Sus scrofa scrofa), 1 hare (Lepus europaeus), 1 bear (Ursus arctos) and
+1 sample of wild goat (Capra aegagrus/Capra ibex).
+See Inline Supplementary Table S1 for details on the archaeological context of the samples. Due to the limited number of samples, we have grouped them only into two chronological phases:
+Middle Neolithic and Late Neolithic. Elsewhere, some of these
+contexts are discussed to be Transitional MN/LN (Mee et al. in
+press). In this study, the transitional contexts are treated as Late
+Neolithic due to the occurrence of Black Ware pottery, which is
+taken to signal the onset of the Late Neolithic.
+Inline Supplementary Table S1 can be found online at http://dx.
+doi.org/10.1016/j.jas.2013.10.023.
+4.2. Wild vs. domestic plants
+Most of the samples analyzed in this study represent domestic
+forms of plants and animals. While it would be useful to have a
+large sample size of wild animals for comparison, the 1 sample of
+bear, 1 sample of hare, 1 sample of wild goat and 1 sample of wild
+boar were all that was available from the wild faunal assemblage.
+As for the crops, there are two reasons why we did not sample any
+wild species. First, the only wild plant that is available in a usable
+quantity from this site is ﬁg and measuring it would not provide us
+with any useful information. It could not serve as a reference for the
+“environmental background” as it is unknown where the ﬁg trees
+grew. They may have been located adjacent to the ﬁelds and thus
+been affected by arable management. Additionally, the isotopic
+composition of this one species would not illustrate the diversity of
+the isotopic composition of all the grasses and browse available for
+the herbivores to consume. Second, we hesitate to measure the
+stable isotopes of wild plant species, as these have not been studied
+experimentally and so it is unknown how these plants respond to
+
+charring and soil 15N enrichment. In light of these limitations, the
+interpretations made in this study are primarily based on relative
+differences between (predominantly domestic) species, and reference is made to forage values estimated from local herbivore
+collagen.
+4.3. Pretreatment
+Pretreatment of the plant material followed an acid-base-acid
+protocol described by Fraser et al. (2011). The samples were ﬁrst
+soaked in 0.5 M HCl at 70  C for 30e60 min and subsequently
+rinsed 3 times in distilled water. Next, they were soaked in 0.1 M
+NaOH at 70  C for 60 min and rinsed as many times as it took to
+wash out the brown humic substances (up to 9 rinses). Lastly, the
+samples were heated in 0.5 M HCl at 70  C for 25 min and rinsed 3
+times in distilled water. Kanstrup et al. (in press) used stronger acid
+and base to pre-treat their archaeobotanical samples (1 M HCl and
+1 M NaOH for 1 h, 3 h and 16 h). They found a difference of 0.9&
+between their pre-treated and non-pretreated samples; however, it
+remains to be determined whether this difference was solely due to
+the removal of contamination or the use of more vigorous pretreatment.
+Pre-treatment of the faunal material followed the standard
+procedure for bone collagen extraction (modiﬁed Longin (1971)
+method described by Richards and Hedges (1999)). Bone pieces
+were demineralized using 0.5 M HCl at 5  C over a period of 3e10
+days and subsequently washed three times in distilled water. The
+residue was gelatinized in pH3 HCl solution for 48 h at 75  C and
+subsequently freeze-dried.
+4.4. Isotope measurements and precision
+Measurements of plant d13C were performed at the NERC
+Isotope Geosciences Laboratory on a Costech 4010 on-line to a VG
+TripleTrap and Optima dual-inlet mass spectrometer. Measurements of plant d15N and faunal d13C and d15N were analyzed using
+Continuous Flow Isotope Ratio Mass Spectrometry (CFIRMS)
+comprised of an Elemental analyser (Flash/EA) coupled to a Thermo
+Finnigan DeltaPlus XL isotope ratio mass spectrometer via a ConFlo
+III interface. Collagen d13C and d15N ratios were calibrated using
+internal reference material M1360p (powdered gelatine from
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+
+British Drug Houses) with expected d13C values of 20.32& (calibrated against IAEA CH7) and þ8.12& (calibrated against IAEA N-1
+and N-2) for C and N respectively. Plant d13C and d15N ratios were
+calibrated using internal reference material BROC-2 (powdered
+broccoli) with expected delta values of 27.48& (against NBS-18,
+NBS-19 and NBS-22) and þ1.5& (calibrated against IAEA N-1 and
+N-2) for C and N respectively.
+The precision (1s) of the collagen results, based on the reproducibility of the gelatin standard measured six times within each
+run, was 0.09& for the ﬁrst C run, 0.17& for the second C run and
+0.14& for both N runs. The precision of the plant bulk samples,
+based on the reproducibility of BROC-2 measured six times within
+each run, was 0.02 for was the C run and 0.09 for the N run. Only
+those collagen samples that had a C:N ratio within the accepted
+range of 2.9e3.6 were included in the analysis (DeNiro, 1985). All
+collagen samples were measured in triplicate except for sample
+KFO57, where enough material was available for only one
+measurement.
+4.5. Charring correction
+Experimental studies (Fraser et al., 2013a) have shown that
+charring increases plant d15N values by 1& (the species that were
+studied include T. aestivum, T. monococcum, T. dicoccum, Triticum
+spelta, Hordeum vulgare var. distichum and nudum, L. culinaris, P.
+sativum, Vicia faba). Even though Kanstrup et al. (2012) did not ﬁnd
+any such charring offsets, their samples were only exposed to the
+experimental temperatures for 2 h, which is too short to replicate
+the type of charring that causes the “optimal” morphological
+preservation like the one observed in the Kouphovouno samples (cf
+Charles et al. in prep). Following the ﬁndings of Fraser et al. (2013a),
+the plant d15N measurements obtained in this study were corrected
+for the charring effect by subtracting 1& from all normalized
+measurements.
+4.6. ZooMS
+Sheep and goat samples were distinguished on the basis of
+ZooMS (Zooarchaeology Mass Spectrometry). This method works
+on the basis of identifying species-speciﬁc markers in the amino
+acid sequences of collagen. The characteristic single peptide
+collagen markers have previously been identiﬁed for sheep and
+goat in a set of modern and archaeological specimen (Buckley et al.,
+2009, 2010). The same collagen that was used to measure the stable
+isotopes in the present study was sequenced for ZooMS and all
+samples ran in triplicate. 62 out of 63 spots gave successful spectra.
+
+205
+
+tailed equal variance student’s t-test between KFO cereals and
+modern charred cereals, p ¼ 0.68; two-tailed equal variance student’s t-test between KFO pulses and modern charred pulses,
+p ¼ 0.75). Additionally, the %C and %N measurements of the Kouphovouno samples show the same trends as the experimentally
+charred material:
+1) pulses have higher %N than cereals,
+2) cereals and pulses have indistinguishable %C values and
+3) there is some species clustering in %N among the cereals (see
+Fig. 3).
+It is on the basis of the similarity of the C:N ratios and the trends
+apparent in the %C and %N values that we consider the isotope
+measurements reliable.
+Inline Supplementary Table S2 can be found online at http://dx.
+doi.org/10.1016/j.jas.2013.10.023.
+5.2. Crop d15N and soil growing conditions
+Fig. 4 and Table 1 show that there is no overlap between the d15N
+values of the free-threshing wheat and hulled barley from Kouphovouno (mean d15N of free-threshing wheat (n ¼ 13) ¼
+5.8  0.7&; mean d15N of hulled barley (n ¼ 7) ¼ 2.7  1.2&). The
+only possible explanation for such a striking difference is that the
+crops were cultivated in different soils with distinct soil N properties. We will ﬁrst consider the environmental and then the
+anthropogenic reasons for explaining the differences between the
+soils in the barley and the wheat ﬁelds.
+None of the environmental factors discussed earlier are likely to
+have affected the ﬁelds around Kouphovouno:
+1) geophysical and hydrological reconstruction of the environment
+around Kouphovouno (Fouache et al., 2007) indicates that the
+soils in the nearby ﬂoodplains and alluvial fans were well
+drained and so it is unlikely that they were affected by soil
+salinity or denitriﬁcation
+2) the site is not located on the coast, so nitrates could not have
+been introduced to the land through sea-spray
+9
+
+charred pulses
+
+KFO wheat
+KFO barley
+KFO pea
+charred cereals
+charred pulses
+uncharred cereals
+uncharred pulses
+
+8
+
+7
+
+6
+
+5. Results and discussion
+uncharred pulses
+
+5.1. Assessing the reliability of the crop isotope measurements
+
+%N
+
+5
+
+4
+
+There are no set rules for accepting or rejecting plant isotope
+measurements based on their C:N ratios, like there are with
+collagen. In order to assess the reliability of the crop isotope measurements obtained in this study, we compared their C:N ratios to
+values of experimentally charred cereals and pulses (using data
+from Fraser et al., 2013a; %C values come from Inline Supplementary Table S1, %N values come from Inline Supplementary Table S2;
+see our Inline Supplementary Table S2 for calculations of C:N
+ranges). The C:N ratios of the Kouphovouno cereals lie between
+13.6 and 40.3; those of modern experimentally charred cereals are
+between 17.9 and 33.4. The C:N ratios of the Kouphovouno pulses
+range between 6.7 and 13.4; those of modern experimentally
+charred pulses are between 8.8 and 13.1. Statistically, there are no
+signiﬁcant differences between the two groups of values (two-
+
+3
+
+2
+
+charred cereals
+uncharred cereals
+
+1
+
+0
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+%C
+
+Fig. 3. %C and %N values of experimentally charred and uncharred cereals and pulses
+compared to free-threshing wheat, hulled barley and peas from Kouphovouno (KFO).
+The experimental cereals (circled) include bread wheat, einkorn wheat, emmer wheat,
+hulled barley and naked barley. The experimental pulses (circled) include peas, lentils
+and broad beans (data comes from Fraser et al., 2013a).
+
+206
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+
+All plants and animals
+9
+
+Sus domesticus (domestic pig)
+Sus scrofa (wild boar)
+Canis (dog)
+Ursus (bear)
+Ovis aries (sheep)
+Capra (goat)
+Bos taurus (domestic cattle)
+Lepus (hare)
+Capra sp. (wild goat)
+Triticum durum/Triticum aestivum
+(free threshing wheat)
+Hordeum vulgare (hulled barley)
+Pisum sativum (pea)
+
+8
+
+7
+
+6
+
+15N
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-27
+
+-25
+
+-23
+
+-21
+
+-19
+
+-17
+
+13C
+
+Fig. 4. d15N and d13C of all bulk plant and animal collagen samples from Neolithic Kouphovouno.
+
+3) an ecosystemic aridity effect would have affected the entire
+region and thus could not have elevated the d15N values of one
+ﬁeld and not the other; furthermore, the measured D13C values
+indicate that both cereals had enough water available to them
+(discussed below in Section 5.4), and so it is unlikely that they
+suffered from different degrees of water stress
+Out of the handful of anthropogenic factors that can cause 15N
+soil enrichment mentioned earlier, only one of them is likely to
+have affected the cultivated soils around Kouphovouno. Burning of
+fossil fuels is not an issue for the Neolithic period and clear-cutting
+of forests only produces a short-term enrichment. The most likely
+explanation is that the 15N enrichment in free-threshing wheat
+ﬁelds was caused by the application of farmyard manure, a phenomenon that has been found to raise the d15N of cultivated crops
+in several different experimental farm settings by up to 10&
+(Bogaard et al., 2007; Fraser et al., 2011; Kanstrup et al., 2011, in
+press). The reason for the enrichment is that as animal dung releases gaseous ammonia through volatilization, the lighter 14N is
+preferentially lost to the atmosphere, leaving behind the heavier
+15
+N, which is eventually taken up by the plants in the form of
+nitrates.
+The application of kitchen waste material on cultivated ﬁelds
+can be considered as an extension of manuring, as decomposing
+material also provides 15N enrichment to the soil (Bogaard, 2012).
+This practice can be detected with the presence of pottery sherds in
+areas of possible cultivated ﬁelds. Results of the land survey at
+Kouphovouno revealed a presence of Neolithic pottery on the top of
+the mound, and in smaller quantities on the slopes and the land
+adjacent to the tell (see Fig. 4 in Cavanagh et al., 2004:83). Some of
+these sherds may have originated from kitchen waste. This raises
+
+the possibility that kitchen waste may have provided some opportunity for soil enrichment in the land proximal to the occupation areas; although the effect would not be as high as that
+provided by manure (cf Bogaard, 2012).
+Based on their experimental ﬁndings, Fraser et al. (2011) deﬁne
+three isotope ranges which represent three different levels of
+manure treatment:
+1) long term high-level of manuring (values of 6& or above)
+2) long term cultivation without manuring (values below 2.5&)
+3) medium level of manuring resulting from either long-term
+cultivation with low manuring, residual effects after a period
+of intensive manuring or early years of a new cultivation regime
+(values between 2.5 and 6&)
+The manuring bands established experimentally may be
+used as a proxy for reconstructing farming practices in the
+Neolithic, but it is important to note that these bands can only
+be used for comparative purposes and not for assigning deﬁnite
+labels to any given measured values, as the absolute ratios vary
+in different climatic zones (due to a host of factors such as
+altitude and mean annual rainfall; van Klinken et al., 1994). In
+the absence of measurements of wild crop species, interpretations of the domestic crops measured in this study are
+conﬁned to inter-species differences and can inform us about the
+differences in cultivation regimes rather than absolute environmental conditions.
+Both cereal crops measured in this study fall into the medium
+manuring category, but the varying degree of 15N enrichment
+suggests that free-threshing wheat was manured more intensively
+than barley. This may reﬂect the farmers’ awareness that barley can
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+
+207
+
+Table 1
+Stable isotope results of Neolithic bulk crop samples from Kouphovouno.
+Lab code
+
+Area/context
+
+Phase (Middle Neolithic/
+Late Neolithic)
+
+Free-threshing wheat (n ¼ 13)
+KFO3
+C0266
+MN
+KFO5
+C0295
+MN
+KFO9
+C0800
+MN
+KFO10
+C0804
+MN
+KFO11
+C0806
+MN
+KFO12
+C0812
+MN
+KFO13
+C0825
+MN
+KFO16
+C0905
+MN
+KFO18
+C0911
+MN
+KFO19
+C0918
+MN
+KFO2
+B0185
+LN
+KFO6
+G1-1624
+LN
+KFO7
+G1-1627
+LN
+Average all wheat
+Standard deviation (1s)
+Average MN wheat
+Standard deviation (1s)
+Average LN wheat
+Standard deviation (1s)
+Hulled barley (n ¼ 7)
+KFO4
+C0266
+MN
+KFO14
+C0854
+MN
+KFO15
+C0905
+MN
+KFO17
+C0911
+MN
+KFO1
+B0134
+LN
+KFO20
+G1-2003
+LN
+KFO8
+H0709
+LN
+Average all barley
+Standard deviation (1s)
+Average MN barley
+Standard deviation (1s)
+Average LN barley
+Standard deviation (1s)
+Pea (n ¼ 7)
+KFO24
+C0844
+MN
+KFO27
+C0905
+MN
+KFO28
+C0918
+MN
+KFO29
+C1024
+MN
+KFO21
+B0134
+LN
+KFO22
+G1-1666
+LN
+KFO23
+H0709
+LN
+Average all peas
+Standard deviation (1s)
+Average MN peas
+Standard deviation (1s)
+Average LN peas
+Standard deviation (1s)
+Lentil (n ¼ 1)
+KFO25
+C0850
+MN
+a
+b
+c
+d
+
+d13C
+
+d15Na
+
+%C
+
+%N
+
+C:Nb
+
+d13C of CO2c
+
+D13Cd
+
+22.4
+22.3
+23.4
+22.5
+22.2
+23.3
+23.0
+22.3
+22.3
+22.5
+23.4
+22.4
+23.0
+22.7
+0.4
+22.6
+0.4
+22.9
+0.5
+
+4.9
+7.1
+5.4
+5.8
+5.6
+6.6
+7.0
+5.2
+5.5
+5.9
+5.9
+5.4
+5.5
+5.8
+0.7
+5.9
+0.8
+5.6
+0.3
+
+46.9
+48.1
+49.0
+51.3
+40.1
+36.0
+51.5
+40.1
+46.2
+50.8
+48.6
+56.1
+50.6
+
+2.8
+3.2
+3.1
+2.9
+3.4
+2.2
+2.9
+2.9
+2.8
+3.1
+3.1
+3.1
+2.8
+
+19.6
+17.5
+18.3
+20.6
+13.6
+19.5
+20.4
+16.2
+19.2
+19.0
+18.3
+21.0
+21.3
+
+6.6
+6.6
+6.6
+6.6
+6.6
+6.6
+6.6
+6.6
+6.6
+6.6
+6.4
+6.4
+6.4
+
+16.2
+16.1
+17.2
+16.2
+16.0
+17.0
+16.8
+16.1
+16.1
+16.2
+17.4
+16.4
+17.0
+16.5
+0.5
+16.4
+0.4
+16.9
+0.5
+
+24.5
+24.2
+24.5
+24.4
+24.6
+24.4
+25.1
+24.5
+0.3
+24.4
+0.1
+24.7
+0.4
+
+3.1
+4.2
+2.7
+3.5
+0.7
+2.7
+1.6
+2.7
+1.2
+3.4
+0.6
+1.7
+1.0
+
+49.8
+54.3
+50.2
+44.1
+43.4
+45.1
+56.0
+
+2.3
+2.3
+2.0
+2.2
+2.0
+2.0
+1.6
+
+25.3
+27.4
+29.1
+23.1
+25.7
+26.1
+40.3
+
+6.6
+6.6
+6.6
+6.6
+6.6
+6.4
+6.4
+
+18.3
+18.0
+18.3
+18.2
+18.4
+18.4
+19.2
+18.4
+0.4
+18.2
+0.1
+18.7
+0.5
+
+26.1
+25.9
+25.1
+24.4
+24.8
+23.4
+24.8
+24.9
+0.9
+25.4
+0.8
+24.3
+0.8
+
+0.9
+1.6
+1.3
+1.1
+1.4
+1.2
+1.7
+1.3
+0.3
+1.2
+0.3
+1.4
+0.3
+
+48.2
+50.4
+28.1
+45.3
+46.6
+54.1
+39.4
+
+6.0
+4.4
+3.6
+4.5
+4.3
+5.3
+6.8
+
+9.3
+13.4
+9.1
+11.8
+12.6
+11.9
+6.7
+
+6.6
+6.6
+6.6
+6.6
+6.6
+6.4
+6.4
+
+20.1
+19.8
+19.0
+18.2
+18.7
+17.4
+18.8
+18.9
+0.9
+19.3
+0.9
+18.3
+0.8
+
+25.2
+
+e
+
+33.2
+
+e
+
+6.6
+
+19.1
+
+15
+
+All reported plant d N values have been corrected for the charring effect by subtracting 1& (cf Fraser et al., 2013a).
+Calculated using %C from the d13C measurement and %N from the d15N measurement; using equation: (%C/%N)*(14/12).
+Average value for the chronological time period.
+Calculated using AIRCO2_LOESS data calibrator (Ferrio et al., 2005).
+
+grow in more marginal conditions (Ceccarelli, 1994; Ceccarelli et al.,
+2007; Guo et al., 2009), which may have been the basis for
+assigning differential value to the crops.
+The experimentally manured crops used to establish the
+manuring bands are based on treatments of 20e35 tons of manure
+per hectare. Rowley-Conwy (1981) estimates that a pair of oxen can
+produce about 12 tons of manure per year. Combined with manure
+produced by other domestic animals kept on an intensive scale e
+goats, sheep, and pigs e it is conceivable that enough manure was
+available during the Neolithic to achieve similar levels of soil
+enrichment. Most of the manure would have needed to be applied
+manually on the ﬁelds, as letting the animals graze on the ﬁelds
+during an off-season wouldn’t provide the degree of enrichment
+implied by the isotope data. This suggests that the manuring
+strategy involved a very conscious and planned manipulation of the
+
+soil and was not simply a by-product of herding animals in the
+arable landscape. The intensive soil treatment attests to the longterm use of the ﬁelds, as it takes a number of years for the
+enriched N from manure to become available for uptake by crops.
+For this reason, it is unlikely that the crops were grown in a regime
+of shifting cultivation; rather, the same ﬁelds were used over a
+time-span of several generations on a schedule of rotation with
+pulses (to allow the soil to regenerate). As manuring leaves a longterm residual effect on the soil, these pulses would also be affected
+by the intensive soil treatment and evidence of this would provide
+more support for this hypothesis (see Section 5.3).
+It is also possible that draught animals were used for spreading
+the manure on the ﬁelds and evidence of pathologies indicating the
+use of cattle for traction in the Middle Neolithic at Kouphovouno
+may support this view (Cantuel, 2010; unpublished).
+
+208
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+
+5.4. Cereal D13C and water status
+
+8
+MN barley
+MN pea
+LN h barley
+
+MN ft wheat
+LN ft wheat
+LN pea
+
+15C
+
+6
+
+4
+
+2
+
+0
+-28
+
+-27
+
+-26
+
+-25
+
+-24
+
+-23
+
+-22
+
+13C
+
+Fig. 5. d15N and d13C of bulk samples of Middle Neolithic (MN) and Late Neolithic (LN)
+crops from Kouphovouno.
+
+Two of the three Late Neolithic barley values are notably lower in
+
+d15N than the rest of the barley values (see Fig. 5). Even though the
+sample size is extremely limited, this may suggest that there was a
+shift towards reduced manuring of barley in the Late Neolithic.
+Another way of inferring 15N enrichment in cultivated crops is
+by comparing the measured crop values to a local ‘unmanured
+baseline’ e a projection of the value of the forage consumed by
+local herbivores (cf Bogaard et al., 2013). The advantage of estimating this baseline is that it represents a diet composed of a
+mixture of wild plants, rather than individual measurements of
+possible wild plants, which would be the case if wild plants were
+measured. In Kouphovouno, the mean domestic herbivore value
+(an average of the sheep, goats, cattle, and wild goat d15N) is 4.9&.
+Subtracting the approximate value of trophic enrichment of
+5  1& (see above) from the value of the local domestic herbivores
+gives a value of local forage of 0.1  1&. This ﬁgure is lower than
+the value of most of the measured crops, so this line of evidence
+corroborates the argument that both cereals grew in soils more
+enriched in 15N than the land on which the animals browsed/
+grazed. An exception are two barley samples from the Late
+Neolithic, which indicate reduced manuring of this crop in the
+later phase (see above).
+
+Wheat and barley D13C values (16.5  0.5& and 18.4  0.4&
+respectively) indicate that the water status of these two crops did
+not differ to a large extent. Based on controlled experiments on the
+effects of different watering regimes on the D13C of modern cereals
+and pulses, Wallace et al. (2013) deﬁne three ‘watering bands’ that
+indicate the broad approximations of the water status of ‘poorly
+watered’, ‘moderately watered’ and ‘well watered’ crops. Wheat
+grain in the ‘moderately watered band’ exhibits values between 16
+and 17&; those grains that have values higher than 17& fall into
+the ‘well-watered band’ and those that are lower than 16& are
+grouped into the ‘poorly watered band’. The bands for barley have
+been deﬁned by adding a mean offset of 1.5& to the wheat bands,
+owing to a known physiological offset between the two crops
+(Araus et al., 1997, 1999; Jiang et al., 2006; Wallace et al., 2013).
+Both cereal crops measured in this study fall into the ‘moderately watered band’ (see Fig. 6) and prompt us to suggest that both
+crops had sufﬁcient amounts of water available to them. The fact
+that barley is situated slightly higher within its watering band than
+wheat should not be considered signiﬁcant, because the boundaries
+of the barley band have uncertainty attached to them, owing to the
+fact that the physiological offset between wheat and barley (used to
+deﬁne the barley bands) has been variably reported as lying between 1 and 2& (Araus et al., 1997, 1999; Jiang et al., 2006). In
+addition, Wallace et al. (2013) argue that crops grown under the
+same regime may have D13C variable by 0.5e1&. What is clear
+from the present data is that both cereals received sufﬁcient
+amounts of water during their growth.
+5.5. Pulse D13C and water status
+The pulses, represented by peas and a single sample of lentil,
+exhibit a clearly distinct water status compared to the cereals. The
+watering bands for pulses deﬁned through Wallace et al.’s (2013)
+controlled experiments have similar values to those of wheat
+grain: ‘moderately watered pulses’ lie between 16 and 17&, ‘highly
+watered pulses’ are situated above 17& and ‘poorly watered pulses’
+fall below 16.
+
+5.3. Pulse d15N and soil growing conditions
+Pulses are N2-ﬁxers that obtain most of their nitrogen from the
+atmosphere, and for this reason, they are less affected by soil 15N
+enrichment factors than crops such as cereals. The peas cultivated
+in Neolithic Kouphovouno (mean d15N ¼ 1.3  0.3&) exhibit
+noticeable enrichment over their primary source of nitrogen: AIR,
+which is 0& (see Fig. 4). Low-intensity manuring of pulses is
+almost invisible in the isotope record as it causes increases in d15N
+which are almost indistinguishable from measurement error
+(Fraser et al., 2011). As a result, when there is a noticeable
+enrichment (an example is intensively manured farm-grown pulses in the island of Evvia (Fraser et al., 2011:2800, Fig. 5)), we are
+led to argue that the crops were grown under a high-intensity
+manuring regime.
+
+Fig. 6. D13C of bulk plant values from Neolithic Kouphovouno (the values were converted from d13C following the principles outlined by Farquhar et al., 1989; Ferrio et al.,
+2005; see text). Measured values are plotted with watering bands established by
+Wallace et al. (2013).
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+Table 2
+Stable isotope results of Neolithic faunal samples from Kouphovouno.
+Lab no.
+
+Area/
+context
+
+Phase (Middle
+Neolithic/Late
+Neolithic)
+
+(n ¼ 15)
+C1705
+MN
+C1705
+MN
+C1705
+MN
+C1713
+MN
+G1-2000
+LN
+G1-2000
+LN
+G1-2001
+LN
+G1-2001
+LN
+G1-2001
+LN
+G1-2001
+LN
+G2-1102
+LN
+G2-1115
+LN
+G2-1136
+LN
+G2-1139
+LN
+G2-1139
+LN
+Average all cattle
+Standard deviation
+Average MN cattle
+Standard deviation
+Average LN cattle
+Standard deviation
+Canis (n ¼ 7)
+KFO51
+C1705
+MN
+KFO52
+C1705
+MN
+KFO53
+C1705
+MN
+KFO65
+G1-2000
+LN
+KFO68
+G1-2001
+LN
+KFO74
+G2-1132
+LN
+KFO76
+G2-1136
+LN
+Average all dog
+Standard deviation
+Average MN dog
+Standard deviation
+Average LN dog
+Standard deviation
+Ovis aries (n ¼ 12)
+KOUP-13
+C1705
+MN
+KOUP-16
+C1705
+MN
+KOUP-39
+C1713
+MN
+KOUP-41
+C1713
+MN
+KOUP-42
+C1713
+MN
+KOUP-65
+G1-2001
+LN
+KOUP-66
+G1-2001
+LN
+KOUP-67
+G1-2001
+LN
+KOUP-79
+G2-1103
+LN
+KOUP-81
+G2-1104
+LN
+KOUP-83
+G2-1115
+LN
+KOUP-92
+G2-1136
+LN
+Average all sheep
+Standard deviation
+Average MN sheep
+Standard deviation
+Average LN sheep
+Standard deviation
+Capra (n ¼ 7)
+KOUP-12
+C1705
+MN
+KOUP-14
+C1705
+MN
+KOUP-37
+C1713
+MN
+KOUP-59
+G1-2000
+LN
+KOUP-60
+G1-2000
+LN
+KOUP-64
+G1-2001
+LN
+KOUP-88
+G2-1132
+LN
+Average all goat
+Standard deviation
+Average MN goat
+Standard deviation
+Average LN goat
+Standard deviation
+Sus domesticus (n ¼ 23)
+KFO44
+C1705
+MN
+KFO45
+C1705
+MN
+KFO46
+C1705
+MN
+Bos taurus
+KOUP-26
+KOUP-27
+KOUP-30
+KOUP-52
+KOUP-57
+KOUP-58
+KOUP-68
+KOUP-69
+KOUP-70
+KOUP-71
+KOUP-75
+KOUP-84
+KOUP-93
+KOUP-96
+KOUP-97
+
+(1s)
+(1s)
+(1s)
+
+(1s)
+(1s)
+(1s)
+
+(1s)
+(1s)
+(1s)
+
+(1s)
+(1s)
+(1s)
+
+d13C
+
+d15N
+
+%C
+
+%N
+
+209
+
+Table 2 (continued )
+Lab no.
+C:N
+
+21.0
+17.7
+20.7
+20.6
+19.8
+21.0
+20.9
+20.9
+20.3
+20.9
+20.1
+19.7
+20.8
+21.0
+21.1
+20.4
+0.9
+20.0
+1.5
+20.6
+0.5
+
+5.4
+8.4
+5.1
+5.6
+4.8
+3.8
+4.3
+4.9
+4.8
+5.2
+4.8
+5.2
+3.9
+2.7
+3.9
+4.9
+1.2
+6.1
+1.5
+4.4
+0.8
+
+22.1
+33.7
+26.0
+25.7
+35.7
+32.4
+37.1
+32.7
+36.1
+38.7
+42.0
+38.2
+24.6
+40.2
+39.7
+
+7.3
+11.7
+8.7
+9.1
+12.7
+11.9
+13.0
+11.5
+12.7
+13.8
+14.1
+13.4
+8.0
+13.5
+13.7
+
+3.5
+3.4
+3.5
+3.3
+3.3
+3.2
+3.3
+3.3
+3.3
+3.3
+3.5
+3.3
+3.6
+3.5
+3.4
+
+19.1
+18.3
+18.3
+19.6
+19.6
+19.4
+19.9
+19.2
+0.6
+18.6
+0.5
+19.6
+0.2
+
+7.3
+7.8
+7.6
+7.8
+6.8
+8.1
+8.7
+7.7
+0.6
+7.6
+0.3
+7.9
+0.8
+
+38.9
+40.6
+39.7
+41.1
+44.3
+38.9
+34.4
+
+13.8
+14.3
+14.2
+14.8
+15.4
+14.0
+12.7
+
+3.3
+3.3
+3.3
+3.3
+3.4
+3.2
+3.2
+
+20.8
+20.6
+20.5
+21.1
+20.8
+20.6
+20.6
+19.6
+20.0
+20.9
+20.2
+20.2
+20.5
+0.4
+20.8
+0.2
+20.3
+0.4
+
+5.2
+4.2
+4.8
+5.3
+4.6
+6.1
+4.7
+5.1
+6.3
+5.4
+4.4
+5.1
+5.1
+0.6
+4.8
+0.4
+5.3
+0.7
+
+35.9
+34.1
+24.7
+32.0
+40.0
+32.0
+40.9
+38.4
+40.8
+39.0
+16.6
+40.3
+
+12.4
+11.7
+8.9
+11.5
+14.2
+11.7
+14.1
+13.4
+14.3
+13.2
+5.8
+13.2
+
+3.4
+3.4
+3.2
+3.2
+3.3
+3.2
+3.4
+3.4
+3.3
+3.5
+3.3
+3.6
+
+20.2
+20.1
+20.1
+20.1
+19.7
+20.1
+20.5
+20.1
+0.2
+20.1
+0.1
+20.1
+0.3
+
+4.9
+6.0
+4.0
+5.4
+4.1
+3.3
+3.9
+4.5
+1.0
+5.0
+1.0
+4.2
+0.9
+
+31.2
+38.2
+35.1
+33.8
+35.7
+35.1
+37.6
+
+10.6
+13.2
+12.4
+11.9
+12.6
+12.9
+13.3
+
+3.5
+3.4
+3.3
+3.3
+3.3
+3.2
+3.3
+
+20.7
+20.5
+20.0
+
+5.0
+5.3
+6.6
+
+45.5
+39.9
+38.1
+
+Area/
+context
+
+Phase (Middle
+Neolithic/Late
+Neolithic)
+
+KFO48
+KFO49
+KFO50
+KFO54
+KFO55
+KFO56
+KFO57
+KFO58
+KFO59
+KFO60
+KFO61
+KFO62
+KFO63
+KFO66
+KFO67
+KFO69
+KFO71
+KFO72
+KFO73
+KFO75
+
+C1705
+MN
+C1705
+MN
+C1705
+MN
+C1710
+MN
+C1713
+MN
+C1713
+MN
+C1713
+MN
+C1713
+MN
+C1713
+MN
+C1713
+MN
+G1-2000
+LN
+G1-2000
+LN
+G1-2000
+LN
+G1-2001
+LN
+G1-2001
+LN
+G2-1103
+LN
+G2-1104
+LN
+G2-1132
+LN
+G2-1132
+LN
+G2-1136
+LN
+Average all pig
+Standard deviation (1s)
+Average MN pig
+Standard deviation (1s)
+Average LN pig
+Standard deviation (1s)
+Sus scrofa (n ¼ 1)
+KFO47
+C1705
+MN
+Lepus (n ¼ 1)
+KOUP-53
+C1713
+MN
+Ursus (n ¼ 1)
+KFO64
+G1-2000
+LN
+Capra sp. (n ¼ 1)
+KOUP-38
+C1713
+MN
+
+d13C
+
+d15N
+
+%C
+
+%N
+
+C:N
+
+19.8
+20.0
+20.2
+20.5
+20.3
+20.2
+20.3
+20.1
+20.0
+19.1
+20.1
+20.0
+20.6
+21.1
+19.6
+21.0
+20.7
+20.5
+20.3
+20.4
+20.3
+0.4
+20.1
+0.4
+20.4
+0.5
+
+7.4
+6.3
+6.9
+7.0
+4.9
+5.0
+5.2
+5.6
+5.0
+6.3
+6.0
+6.2
+5.8
+4.4
+6.4
+7.5
+4.6
+6.4
+6.7
+5.1
+5.9
+0.9
+5.9
+0.9
+5.9
+1.0
+
+40.4
+41.1
+39.5
+39.9
+37.8
+43.1
+38.3
+42.8
+38.6
+40.3
+40.3
+41.5
+42.7
+39.9
+42.1
+36.5
+38.1
+45.2
+38.9
+38.1
+
+14.1
+14.5
+13.9
+14.3
+13.9
+15.0
+13.3
+15.2
+14.0
+14.6
+14.4
+14.9
+15.3
+14.3
+14.9
+12.7
+13.4
+14.9
+14.2
+14.1
+
+3.4
+3.3
+3.3
+3.3
+3.2
+3.4
+3.4
+3.3
+3.2
+3.2
+3.3
+3.3
+3.3
+3.3
+3.3
+3.4
+3.3
+3.5
+3.2
+3.2
+
+21.4
+
+3.9
+
+41.0
+
+14.3
+
+3.4
+
+21.8
+
+2.4
+
+35.4
+
+13.4
+
+3.1
+
+19.7
+
+8.3
+
+37.2
+
+13.8
+
+3.2
+
+19.7
+
+4.2
+
+17.4
+
+6.4
+
+3.2
+
+The mean D13C of the peas (18.9  0.9&) and the value of the
+lentil (19.1&) (Fig. 6) lie c. 2& above the well-watered pulse band.
+Experimental studies have shown that there are no obvious trends
+with seasonality and D13C, only that pulses seem to be more sensitive to water input than cereals (pulses grown in dry soils look
+‘very dry’ and pulses grown in wet soils look ‘very wet’) (Wallace
+et al., 2013). The effect this sensitivity would have on the pulse
+D13C, however, would not be as great as to account for the high D13C
+values measured in this study. For this reason, we argue that the
+pulses were watered artiﬁcially.
+The higher standard deviation of the peas (0.9& compared 0.5&
+and 0.4& of the cereals) may indicate that the pulses were being
+watered by hand, a practice that has been suggested as a possible
+cause of high D13C variability in archaeobotanical remains from
+Assiros Toumba (Wallace, 2011; unpublished). There is no archaeological evidence for the use of irrigation at Kouphovouno. In
+modern collections, such higher D13C variability was observed at a
+small-scale ‘traditional farm’ situation on the Greek island of Evvia,
+where the application of water was not standardized among
+different farmers (Wallace et al., 2013).
+Thus, both the carbon and nitrogen lines of evidence suggest
+that pulse crops were being cultivated on an intensive, likely ‘garden type’ scale. Note that even though there is a slight suggestion
+that in the Late Neolithic, the d13C of peas increased (see Fig. 5) (and
+therefore D13C decreased), all the peas still fall well above the
+moderately watered band.
+5.6. Animal d13C & d15N and diets
+
+15.6
+14.3
+13.0
+
+3.4
+3.3
+3.5
+
+The d13C and d15N values of the animal bone collagen reﬂect
+patterns that conform to general expectations, but also enable us to
+
+210
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+
+look at more subtle differences in the diets of the Neolithic livestock
+(see Fig. 4 and Table 2). Sheep, goats and cattle all cluster in the
+same region, which is a result of their herbivorous nature. More
+subtle differences in the feeding strategies of the sheep and goat in
+the Middle and Late Neolithic periods are discussed below in Section 5.8. The values of the pigs and the dogs are more elevated on
+the d15N scale, which is in line with their more omnivorous dietary
+habits. The d13C of the dogs is less negative than that of the pigs,
+which may be the result of higher consumption of meat products
+(different authors report offsets of þ1e2.6& for the ‘carnivore effect’: Bocherens et al., 1995; Lee-Thorp et al., 1989; Sillen et al.,
+1989). The same is the case for the one value of bear. Part of the
+reason for the high d15N of the pigs may be that they consumed
+kitchen waste, which may have contained the grains or by-products
+of manured crops (discussed below in section 5.7). The one value of
+cattle with extremely elevated d15N is considered to be an outlier.
+5.7. Projected chaff d13C & d15N and pig foddering
+Measurement of plant isotope values enables us to not only infer
+ancient crop growing conditions, but also to evaluate their potential
+contributions to the human and animal diets. Having measured
+three different crop types cultivated at Kouphovouno, we are now
+better equipped to try to interpret which of the crops may have
+been consumed by the domestic animals.
+Experimental studies have shown that there is a c. 2.4& offset
+in d15N and 1.9& in wheat d13C and 1.7% in barley d13C between
+cereal grain and rachis (the stem within the cereal ear) (Fraser et al.,
+2011; Wallace et al., 2013). Fig. 7 shows the projected values of the
+free-threshing wheat and barley chaff for the Kouphovouno crops
+(wheat chaff: d15N z 3.5&, d13C z 23.8&; barley chaff:
+d15N z 0.3&, d13C z 25.6&). Among all the animals studied, pigs
+
+are the ones that would have obtained most of their food from in or
+around the village (Rivals et al., 2011). Subtracting the diet-tissue
+spacing value of 5  1& (see above) from the measured d15N of
+the pigs (mean 5.9  0.9&), we get a value of c. 0.9  1& for the
+composition of the pig diets. This is consistent with a diet made up
+of a mixture of barley grain and/or by-product, a small contribution
+from the by-product of wheat, any component of the pulses, or
+other vegetation with comparable isotopic composition. What the
+pigs could not have been consuming to a signiﬁcant extent is the
+free-threshing wheat grain. This result suggests that wheat was
+grown exclusively for human consumption and thus had a different
+cultural value to barley in this Neolithic context.
+5.8. Sheep & goat diets and diachronic change
+Sheep and goats are often grouped into one domestic animal
+category due to the morphological similarity of their skeletons, but
+the two species exhibit distinct grazing/browsing adaptations and
+are thus expected to have different diets. In this study, the differentiation of sheep and goat bones using ZooMS analysis allowed us
+to investigate the very nature of those differences.
+The two major factors to consider while differentiating between
+sheep and goat diets on an isotopic level are: 1) the type of habitat
+in which the animals graze/browse, and 2) the choice of plants or
+plant parts that they consume; and these two factors may be
+inﬂuenced by the sizes of the animal herds. Sheep prefer to graze
+on grassy vegetation in open habitats while goats favor more leafy
+and woody vegetation in closed environments. If kept in large
+numbers, the animals are likely herded separately and taken to
+their optimal habitats (Halstead pers. comm.; Shipley, 1999). Their
+diets thus reﬂect both habitat and plant choices. If kept in smaller
+numbers, the sheep and goat are likely herded together in the same
+
+10
+
+8
+
+15N
+
+6
+
+4
+
+2
+
+0
+-27
+
+-25
+
+-23
+
+-21
+
+-19
+
+-17
+
+13C
+
+Sus domesticus (domestic pig)
+Canis (dog)
+Ovis aries (sheep)
+Lepus (hare)
+Triticum durum/Triticum aestivum (free-threshing wheat)
+Pisum sativum (common pea)
+Free-thresing wheat chaff
+
+Sus scrofa (wild boar)
+Ursus (bear)
+Bos taurus (domestic cattle)
+Capra sp. (wild goat)
+Hordeum vulgare (hulled barley)
+Capra (goat)
+Hulled barley chaff
+
+Fig. 7. Animal collagen and bulk plant d15N and d13C values with projected values of chaff for free-threshing wheat and hulled barley, assuming a d15N offset of 2.4& for of both
+cereals and d13C offset of 1.9& for wheat and 1.7& for barley; following Fraser et al. (2011) and Wallace et al. (2013).
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+
+10
+
+a
+
+6
+
+8
+
+5
+
+6
+
+b
+
+15N
+
+15N
+
+7
+
+211
+
+4
+
+4
+
+3
+
+MN goat
+LN sheep
+
+2
+-22
+
+LN goat
+Wild goat
+
+-21
+
+2
+
+MN sheep
+
+MN pig
+
+-20
+
+0
+
+-19
+
+-22
+
+-21
+
+13C
+
+10
+
+LN pig
+
+-20
+
+-19
+
+13C
+
+8
+
+c
+
+7
+
+4
+15N
+
+6
+
+15N
+
+9
+
+d
+
+6
+
+2
+MN dog
+
+4
+-21
+
+LN dog
+
+-20
+
+-19
+
+MN cattle
+
+-18
+
+13C
+
+0
+
+-22
+
+LN cattle
+
+-21
+
+-20
+
+-19
+
+13C
+
+Fig. 8. d15N and d13C of Middle Neolithic (MN) and Late Neolithic (LN) (a) sheep and goat, (b) pigs, (c) dogs and (d) cattle.
+
+pasture areas or on parts of the arable landscape (Halstead, 2006;
+Halstead pers. comm.). Differences in their isotope values are thus
+mostly inﬂuenced by the plant part choices made by each species.
+Fig. 8a shows that sheep and goat at Neolithic Kouphovouno
+exhibit isotopically diverging diets, and further that these differences changed between the Middle and the Late Neolithic. In the
+Middle Neolithic, the diets of these animals differed on the d13C
+scale (this difference is statistically signiﬁcant at the 99% conﬁdence level; two-tailed equal variance student’s t-test, p ¼ 0.0041),
+while in the Late Neolithic, they differed on the d15N scale (the
+differences are statistically signiﬁcant at 95% conﬁdence; twotailed equal variance student’s t-test, p ¼ 0.043). Mean d13C of
+MN sheep (n ¼ 5) ¼ 20.8  0.2&; mean d13C of MN goats
+(n ¼ 3) ¼ 20.1  0.1&. Mean d13C of LN sheep (n ¼ 7) ¼
+20.3  0.4&; mean d13C of LN goats (n ¼ 4) ¼ 20.1  0.3&).
+Mean d15N of LN sheep ¼ 5.3  0.7&; mean d15N of LN
+goats ¼ 4.2  0.9&; mean d15N of MN sheep ¼ 4.8  0.4&; mean
+d15N of MN goats ¼ 5.0  1.0&.
+Middle Neolithic sheep and goats at Kouphovouno have similar
+d15N, but the sheep have lower d13C than the goats. Woody vegetation tends to have lower d13C values due to its higher content of
+lignin (see Svendsen (2001) on lignin composition of browse and
+Benner et al. (1987) on the carbon isotopic composition of lignin),
+although several factors are likely to determine the differences between grass and leaf d13C in the same environment (see Escudero
+et al. (2008) for a study on how leaf longevity is related to water
+availability, photosynthetic rates and d13C in woody plants). If the
+assumption that d13C of woody vegetation in the Sparta basin was
+lower than that of grass is correct and the difference in d13C of the
+sheep and goats was due to the choice of plants, goats would be
+expected to have lower d13C values. As this is not the case, the isotopic distinctions are likely a result of feeding in different habitats.
+There are two types of habitats which could produce more 13C
+depleted grasses for the sheep to consume. The ﬁrst are forested
+environments affected by the canopy effect. This phenomenon has
+been argued to cause depletion in 13C in the understories of forest
+
+canopies (as opposed to leaves/parts of trees situated higher up
+or vegetation growing in more open environments) due to a combination of two factors: i) the re-assimilation of recycled and 13Cdepleted CO2 from respiration and/or decomposition of forest litter,
+and ii) fractionation caused by reduced light intensity in the lower
+parts of forests during photosynthesis (Bonaﬁni et al., 2013; Drucker
+et al., 2008; Heaton, 1999; van der Merwe and Medina, 1991).
+The second type of habitat where the Middle Neolithic sheep
+could have obtained their 13C depleted grasses are areas with
+wetter soils (cf Farquhar et al., 1982, 1989; Wallace et al., 2013). As
+sheep prefer to subsist in more open environments rather than
+forested canopies, this latter explanation is more likely. The
+distinction in diets between the MN ovicaprids may be the result of
+large enough herd sizes, which justiﬁed the management of sheep
+and goat in different habitats. The one sample of goat measured,
+which comes from the Middle Neolithic, has a less negative d13C
+than all the MN sheep and goat (see Fig. 8a). This suggests that it
+was not exploiting either of the habitats that the sheep and goat
+were subsisting in. The limited sample sizes (3 MN goats, 4 LN
+goats, 5 MN sheep and 7 LN sheep) remind us that we must exercise
+caution with interpreting these results, but the discussion presented herein is only concerned with statistically signiﬁcant differences. Still, the main aim of this part of the discussion is to
+demonstrate the avenues of research that can be pursued with this
+type of stable isotope data, rather than to provide conclusive answers to the archaeological questions.
+In the Late Neolithic, the isotopes of the sheep and goats are
+variable on the d15N scale, while the d13C are indistinguishable (but
+both d13C and d15N values are more variable on an intra-species
+level). In light of the feeding strategies discussed above, it is
+possible that in the later part of the Neolithic, the sizes of the sheep
+and goat herds decreased and both animals were now being
+managed together and the slight differences in their d15N were
+caused by the choice of plants and plant parts. The farmers may
+have made greater use of the arable land for grazing during a fallow
+season, and this would be consistent with Halstead’s (2000) model
+
+212
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+
+of intensive mixed farming, where small ﬂocks are managed within
+the interstices of the cultivated land.
+Beyond informing us about the possible distinctions in the
+feeding strategies of the Neolithic sheep and goat, the results presented herein indicate that there was a shift in the management
+strategy of the ovicaprids between the two Neolithic phases. This
+shift may have manifested itself with a decrease in the size of the
+sheep herds, leading to a reduced predominance of sheep in the
+livestock population. A similar shift has been observed more
+broadly by Halstead (2000) between the Early and the Late Greek
+Neolithic: in the Early Neolithic, faunal assemblages were dominated by sheep, while Late Neolithic assemblages show a more
+balanced representation of all the domestic animals.
+The changes in animal management at Kouphovouno happened
+in the context of shifts in ceramic styles and expression of sociocultural identity. In the Middle Neolithic, the pottery style was
+more uniform and greater emphasis was placed on expression of
+group identity, while in the Late Neolithic, a more diversiﬁed pottery style signaled a movement towards greater individuality (Mee
+et al. in prep.). At the same time, different livestock management
+strategies may have been fueled by a changed attitude towards land
+ownership.
+5.9. Cattle & dog diets and environmental change?
+The results discussed so far indicate that there was a diachronic
+change in the feeding strategies of the sheep and goats. Conversely,
+Fig. 8b shows that the diets of pigs did not change through time
+(the differences are not statistically signiﬁcant: two-tailed equal
+variance student’s t-test for the d13C values, p ¼ 0.11; two tailed
+equal variance student’s t-test for the d15N values, p ¼ 0.95). A
+closer look at the other major domestic animals, cattle and dogs,
+add to the story about change in animal management strategies in
+the Late Neolithic.
+All the Late Neolithic dogs have more negative d13C values
+than all the Middle Neolithic dogs (d13C of MN dogs (n ¼ 3) ¼
+18.6  0.5&; d13C of LN dogs (n ¼ 4) ¼ 19.6  0.1&) (see Fig. 8c;
+two-tailed equal variance student’s t-test shows signiﬁcance at the
+99% conﬁdence level, p ¼ 0.0088). Their d15N values are indistinguishable (two-tailed student’s equal variance t-test, p ¼ 0.58). As
+the bulk of dog diet is not composed of just grasses and leaves but
+of a more diverse range of food sources which have undergone
+further fractionation after being consumed by primary herbivores,
+their d13C do not reﬂect the water status of the areas from which
+their foods were derived. Thus, the lower d13C values cannot be a
+result of subsisting on food items grown in wetter soils (as is the
+case with Middle Neolithic sheep).
+The diachronic difference in d13C could be the result of reduced
+consumption of meat products in the Late Neolithic in conjunction
+with an increased consumption of cultivated crops. Meat products
+have a positive effect on both d13C and d15N (for the carnivore effect in
+d13C see Bocherens et al., 1995; Lee-Thorp et al., 1989; Sillen et al.,
+1989; for trophic level enrichment in d15N see DeNiro and Epstein,
+1981; Hedges and Reynard, 2007; Minagawa and Wada, 1984).
+Consumption of less meat in the Late Neolithic would decrease the
+dogs’ d13C and d15N values, but an increased consumption of
+manured crop products would compensate for the decrease in d15N
+so in the end, only the effect on carbon would be detectable. The crop
+products could have been obtained by scavenging on human food
+waste. Note that this suggestion does not exclude the possibility of
+meat consumption in the LN altogether. It is still likely that dogs
+consumed more meat than pigs due to their less negative d13C values,
+but what this discussion centers on (once again taking the limited
+sample size into account) is the likelihood that in the Late Neolithic,
+the dogs consumed it to a smaller extent than in the Middle Neolithic.
+
+The browsing and grazing adaptations of herbivores exist on a
+continuum, in a way that the animals pick and chose the most
+nutritious food that is available, whether it be grass or browse (Lisa
+Shipley, pers. comm.). For this reason, there is a lot of overlap between the dietary choices of sheep, goat and cattle. There is a statistically signiﬁcant difference at the 95% conﬁdence between the
+d15N values of the Middle Neolithic cattle (n ¼ 4) and Late Neolithic
+cattle (n ¼ 11) (two-tailed equal variance student’s t-test, p ¼ 0.010).
+Despite the limited sample size, we will attempt to explain what
+such a difference may mean. As with the ovicaprids, the feeding
+strategy of the cattle changed in the Late Neolithic (see Fig. 8d). The
+Middle Neolithic cattle are situated in the same d13C region as the
+Middle Neolithic sheep (two-tailed equal variance student’s t-test,
+p ¼ 0.40) and this may be because they shared the same wetter
+pasture grasses, perhaps along the banks of the Eurotas river. In the
+Late Neolithic, the cattle seems to divide into two clusters; one that
+overlaps with the Middle Neolithic sheep and one that does not (see
+Fig. 8d). This may mean that while the same pasture grasses were
+still consumed by cattle in the Late Neolithic, some cattle may have
+been kept in other, drier, areas as well. The cattle that may have
+grazed along the banks of the Eurotas also exhibit quite a wide range
+of d15N values, which includes the lowest d15N value of all the domestic animals at Kouphovouno. This may be related to consumption of a wide range of different grasses in this habitat.
+Most of the domestic animals apart from pigs seem to have
+experienced a shift in feeding strategies between the Middle and
+the Late Neolithic. On the isotopic scale, these shifts did not move in
+the same direction. The dogs’ d13C decreased, the sheep d13C
+increased, the goats’ and cattle d15N decreased while the sheep d15N
+increased. This suggests that the changes were not the result of
+some environmental change (one that would cause an increase in
+d15N in all Late Neolithic vegetation, for example), but that they
+were related to shifts in management of the farm animals.
+6. Synthesis and conclusion
+This study is one of the ﬁrst to integrate plant and animal dietary
+isotopes (see also Fraser et al. (2013b) and Lightfoot and Stevens
+(2012)) and the ﬁrst to combine this methodology with collagen
+sequencing of sheep and goats. The data provide support for the
+model of small-scale mixed agriculture and settlement organization
+put forth by previous archaeobotanical and archaeozoological investigations (Bogaard, 2004a, 2004b, 2005; Bogaard and Isaakidou,
+2010; Halstead, 1996, 2000, 2006; Kotsakis, 1999). Beyond providing
+support to this theory, however, the stable isotopic method offers
+new insight for understanding the integration of the crop cultivation and animal husbandry and how these regimes functioned
+within the given settlement organization over the long-term. Some
+of the interpretations in this study are limited by small sample sizes,
+and their primary value is in demonstrating what sorts of questions
+this methodology can address rather than for providing deﬁnite
+answers for the prehistoric farming techniques.
+Even though the tell at Kouphovouno was not excavated in its
+entirety and we therefore do not know how dense the settlement
+was, the available archaeology indicates that the village was
+nucleated or organized into neighborhoods. Such settlement
+conﬁguration would have provided opportunity for intensive
+agriculture either on the periphery of the settlement and/or in
+plots adjacent to the neighborhoods. The more proximal ﬁelds
+would have been more valuable as they provided the opportunity
+for high labor-investment under a small-scale intensive treatment
+(cf Jones et al., 1999). This is where the crops grown for human
+consumption e free-threshing wheat and pulses e were likely
+grown in rotation with one another, receiving manure in the form
+of dung from the domestic animals.
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+
+In the Late Neolithic, the application of manure may have been
+less labor-intensive. The few LN barley samples indicates that this
+crop likely received less manure than it did during the Middle
+Neolithic and the wheat/pulse ﬁelds may have been manured
+directly by sheep and goat grazing on the arable plots. Furthermore
+in this Neolithic phase, the scale of sheep/goat management seems
+to have decreased, dogs fed on smaller amounts of meat products
+and larger amounts of cultivated crops and cattle were likely taken
+to two different areas for grazing. These diachronic shifts in crop
+and animal management highlight the fact that even though smallscale mixed farming embraced the “Neolithic package” in a seemingly consistent fashion across the continent, it did allow for ﬂexibility in the scale of crop and animal husbandry and the amount of
+labor-investment.
+Acknowledgments
+The authors would like to thank Paul Halstead, Michael Wallace,
+Erika Nitsch, Peter James, Richard Pope, Tim Heaton and Nike
+Dattani for very helpful discussion, Jessica Hendry for performing
+the ZooMS analysis and Amy Styring for commenting on a draft of
+this paper. We are also grateful for the helpful comments provided
+by the four anonymous reviewers. This study was made possible by
+the ﬁnancial support of the Natural Environment Research Council
+(standard grant NE/E003761/1, PI Bogaard), the British School at
+Athens, the French Ministry of Foreign Affairs, the Centre National
+de la Recherche Scientiﬁque and the French School at Athens. Its
+shortcomings are entirely the authors’ responsibility.
+References
+Ambrose, S.H., 1991. Effects of diet, climate and physiology on nitrogen isotope
+abundances in terrestrial foodwebs. J. Archaeol. Sci. 18, 293e317.
+Ambrose, S.H., 2000. Controlled diet and climate experiments on nitrogen isotope
+ratios of rats. In: Ambrose, S.H., Katzenberg, A.M. (Eds.), Biogeochemical Approaches to Paleodietary Analysis. Kluwer Academic/Plenum, New York,
+pp. 243e259.
+Ambrose, S.H., Norr, L., 1993. Experimental evidence for the relationship of the
+carbon isotope ratios of whole diet and dietary protein to those of bone
+collagen and carbonate. In: Lambert, J.B., Grupe, G. (Eds.), Prehistoric Human
+Bone: Archaeology at the Molecular Level. Springer, Berlin, pp. 1e37.
+Aranibar, J.N., Otter, L., Macko, S.A., Feral, C.J.W., Epstein, H.E., Dowty, P.R., Eckardt, F.,
+Shugart, H.H., Swap, R.J., 2004. Nitrogen cycling in the soileplant system along
+a precipitation gradient in the Kalahari sands. Glob. Change Biol. 10, 359e373.
+Araus, J., Febrero, A., Buxó, R., Rodríguez-Ariza, M., Molina, F., Camalich, M.,
+Martín, D., Voltas, J., 1997. Identiﬁcation of ancient irrigation practices based on
+the carbon isotope discrimination of plant seeds: a case study from the SouthEast Iberian peninsula. J. Archaeol. Sci. 24, 729e740.
+Araus, J.L., Febrero, A., Catala, M., Molist, M., Voltas, J., Romagosa, I., 1999. Crop
+availability in early agriculture: evidence from carbon isotope discrimination of
+seeds from a tenth millennium B.P. site on the Euphrates. Glob. Change Biol. 5,
+201e212.
+Benner, R., Fogel, M.L., Sprague, E.K., Hodson, R.E., 1987. Depletion of 13C in lignin and
+its implications for stable carbon isotope studies. Nature 329 (6141), 708e710.
+Bernhard, A., 2012. The nitrogen cycle: processes, players, and human impact. Nat.
+Educ. Knowl. 3 (10), 25.
+Bocherens, H., Drucker, D., 2003. Trophic level isotopic enrichment of carbon and
+nitrogen in bone collagen: case studies from recent and ancient terrestrial
+ecosystems. Int. J. Osteoarchaeol. 13, 46e53.
+Bocherens, H., Fogel, M.L., Tuross, N., Zeder, M., 1995. Trophic structure and climatic
+information from isotopic signatures in Pleistocene cave fauna of southern
+England. J. Archaeol. Sci. 22, 327e340.
+Bogaard, A., 2004a. Neolithic Farming in Central Europe: an Archaeobotanical Study
+of Crop Husbandry Practices. Routledge, London.
+Bogaard, A., 2004b. The nature of early farming in Central and South-East Europe.
+Doc. Praehist. 31, 49e58.
+Bogaard, A., 2005. ‘Garden agriculture’ and the nature of early farming in Europe
+and the Near East. World Archaeol. 37 (2), 177e196.
+Bogaard, A., 2012. Middening and manuring in Neolithic Europe: issues of plausibility, intensity and archaeological method. In: Jones, R. (Ed.), Manure Matters:
+Historical, Archaeological and Ethnographic Perspectives. Ashgate, Surrey,
+pp. 25e40.
+Bogaard, A., Isaakidou, V., 2010. From megasites to farmsteads: community size,
+ideology and the nature of early farming landscapes in Western Asia and
+Europe. In: Finlayson, B., Warren, G. (Eds.), Landscapes in Transition:
+
+213
+
+Understanding HuntereGatherer and Farming Landscapes in the Early Holocene of Europe and the Levant, Levant Supplementary Series & CBRL, pp. 192e
+207. London.
+Bogaard, A., Heaton, T.H.E., Poulton, P., Merbach, I., 2007. The impact of manuring on
+nitrogen isotope ratios in cereals: archaeological implications for reconstruction of diet and crop management practices. J. Archaeol. Sci. 34, 335e343.
+Bogaard, A., Fraser, R.A., Heaton, T.H.E., Wallace, M., Vaiglova, P., Charles, M.,
+Jones, G., Evershed, R.P., Styring, A.K., Andersen, N.H., Arbogast, R.-M.,
+Bartosiewicz, L., Gardeisen, A., Kanstrup, M., Maier, U., Marinova, E., Ninov, L.,
+Schäfer, M., Stephan, E., 2013. Crop manuring and intensive land management
+by Europe’s ﬁrst farmers. Proc. Nat. Acad. Sci. 110 (31), 12589e12594.
+Bonaﬁni, M., Pellegrini, M., Ditchﬁeld, P., Pollard, A.M., 2013. Investigation of the
+‘canopy effect’ in the isotope ecology of temperate woodlands. J. Archaeol. Sci.
+40, 3926e3935.
+Buckley, M., Collins, M., Thomas-Oates, J., Wilson, J.C., 2009. Species identiﬁcation
+by analysis of bone collagen using matrix-assisted laser desorption/ionisation
+time-of-light mass spectrometry. Rapid Commun. Mass Spectrom. 23, 3843e
+3854.
+Buckley, M., Kansa, S.W., Howard, S., Campbell, S., Thomas-Oates, J., Collins, M.,
+2010. Distinguishing between archaeological sheep and goat bones using a
+single collagen peptide. J. Archaeol. Sci. 37, 13e20.
+Byrd, B.F., 2000. Households in transition: Neolithic social organization within
+southwest Asia. In: Kuijt, I. (Ed.), Life in Neolithic Farming Communities: Social
+Organisation, Identity and Differentiation. Academic/Plenum, New York,
+pp. 63e98.
+Cantuel, J., 2010. L’exploitation de la faune Durant le Néolitique en Grèce continentale. Unpublished PhD dissertation. Laboratoire de Géographie Physique et
+Environnementale, Université de Clermont-Ferrand II, Clermont-Ferrand.
+Cantuel, J., Gardeisen, A., Renard, J., 2008. L’exploitation de la faune durant le Néolithique dans le bassin Egéen. In: Vila, E., Gourichon, L., Choyke, A.M.,
+Buitenhus, H. (Eds.), Archaeozoology of the Near East VIII. Proceedings of the
+Eighth International Symposium on the Archaeozoology of Southwestern Asia
+and Adjacent Areas. Maison de l’Orient et de la Méditerranée, Lyon, pp. 279e298.
+Cavanagh, W., Mee, C., Renard, J., 2004. ‘Sparta before Sparta’: report on the
+intensive survey at Kouphovouno 1999e2000. Annu. Br. Sch. Athens 99, 49e
+128.
+Cavanagh, W., Mee, C., Renard, J., 2007. Excavations at Kouphovouno, Laconia: results from the 2001 and 2002 seasons. Annu. Br. Sch. Athens 102, 11e101.
+Ceccarelli, S., 1994. Speciﬁc adaptation and breeding for marginal conditions. Dev.
+Plant Breed. 2, 101e127.
+Ceccarelli, S., Grando, S., Baum, M., 2007. Participatory plant breeding in waterlimited environments. Exp. Agric. 43, 411e435.
+Chikaraishi, Y., Ogawa, N.O., Kashiyama, Y., Takano, Y., Suga, H., Tomitani, A.,
+Miyashita, H., Kitazato, H., Ohkouchi, N., 2009. Determination of aquatic foodweb structure based on compound-speciﬁc nitrogen isotopic composition of
+amino acids. Limnol. Oceanogr. Methods 7, 740e750.
+Chisholm, B.S., Nelson, D.E., Schwarcz, H.P., 1982. Stable-carbon isotope ratios as a
+measure of marine versus terrestrial protein in ancient diets. Science 216, 1131e
+1132.
+Cleveland, W.S., 1979. Robust locally weighted regression and smoothing scatterplots. J. Am. Stat. Assoc. 74, 829e836.
+Corr, L.T., Sealy, J.C., Horton, M.C., Evershed, R.P., 2005. A novel marine dietary indicator utilizing compound-speciﬁc bone collagen amino acid d13C values of
+ancient humans. J. Archaeol. Sci. 32, 321e330.
+Delwiche, C.C., Zinke, P.J., Johnson, C.M., Virginia, R.A., 1979. Nitrogen isotope
+distribution as a presumptive indicator of nitrogen ﬁxation. Bot. Gaz. S140,
+65e69.
+DeNiro, M.J., 1985. Postmortem preservation and alteration of in vivo bone collagen
+isotope ratios in relation to palaeodietary reconstruction. Nature 317, 806e809.
+DeNiro, M.J., Epstein, S., 1978. Inﬂuence of diet on the distribution of carbon isotopes in animals. Geochim. Cosmochim. Acta 42, 495e506.
+DeNiro, M.J., Epstein, S., 1981. Inﬂuence of diet on the distribution of nitrogen
+isotopes in animals. Geochim. Cosmochim. Acta 45, 341e351.
+Drucker, D.G., Bridault, A., Hobson, K.A., Szuma, E., Bocherens, H., 2008. Can carbon13 in large herbivores reﬂect the canopy effect in temperate and boreal ecosystems? Evidence from modern and ancient ungulates. Palaeogeogr. Palaeoclimatol. Palaeoecol. 266, 69e82.
+Escudero, A., Mediavilla, S., Heilmeier, H., 2008. Leaf longevity and drought:
+avoidance of the costs and risks of early leaf abscission as inferred from the leaf
+carbon isotopic composition. Funct. Plant Biol. 35, 705e713.
+Evans, R.D., Ehleringer, J.R., 1993. A break in the nitrogen cycle in arid lands? Evidence from d15N of soils. Oecologia 94, 314e317.
+Evans, R.D., Ehleringer, J.R., 1994. Water and nitrogen dynamics in an arid woodland. Oecologia 99, 233e242.
+Farquhar, G.D., Richards, R., 1984. Isotopic composition of plant carbon correlates
+with water-use efﬁciency of wheat genotypes. Aust. J. Plant Physiol. 11, 539e
+552.
+Farquhar, G.D., O’Leary, M.H., Berry, J.A., 1982. On the relationship between carbon
+isotope discrimination and the intercellular carbon dioxide concentration in
+leaves. Aust. J. Plant Physiol. 9, 121e137.
+Farquhar, G.D., Ehleringer, J.R., Hubick, K.T., 1989. Carbon isotope discrimination and
+photosynthesis. Annu. Rev. Plant Physiol. Mol. Biol. 40, 503e537.
+Ferrio, J.P., Araus, J.L., Buxó, R., Voltas, J., Bort, J., 2005. Water management practices
+and climate in ancient agriculture: inferences from the stable isotope composition of archaeobotanical remains. Veg. Hist. Archaeobot. 14, 510e517.
+
+214
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+
+Flannery, K., 1969. Origins and ecological effects of early domestication in Iran and
+the Near East. In: Ucko, P.J., Dimbleby, G.W. (Eds.), The Domestication and
+Exploitation of Plants and Animals. Gerald Duckworth & Co., London, pp. 73e
+100.
+Fouache, E., Cosandey, C., Renard, J., Ribière, M., Cez, L., 2007. Contexte géomorphologique du bassin de Sparte et ressources en eau du site néolithique de
+Kouphovouno (Péloponnèse, Grèce). Bull. Corresp. Hell. 131, 805e819.
+Francey, R.J., Allison, C.E., Etheridge, D.M., Trudinger, C.M., Enting, I.G.,
+Leuenberger, M., Langenfelds, R.L., Michel, E., Steele, L.P., 1999. A 1000-year high
+precision record of d13C in atmospheric CO2. Tellus 51B, 170e193.
+Fraser, R.A., Bogaard, A., Heaton, T.H.E., Charles, M., Jones, G., Christensen, B.T.,
+Halstead, P., Merbach, I., Poulton, P.R., Parkes, D., Styring, A.K., 2011. Manuring
+and stable nitrogen isotope ratios in cereals and pulses: towards a new
+archaeobotanical approach to the inference of land use and dietary practices.
+J. Archaeol. Sci. 38, 2790e2804.
+Fraser, R.A., Bogaard, A., Charles, M., Styring, A.K., Wallace, M., Jones, G.,
+Ditchﬁeld, P., Heaton, T.H.E., 2013a. Assessing natural variation and the effects
+of charring, burial and pre-treatment on the stable carbon and nitrogen isotope
+values of archaeobotanical cereals and pulses. J. Archaeol. Sci. 40 (12), 4754e
+4766.
+Fraser, R.A., Bogaard, B., Schäfer, M., Arbogast, R., Heaton, T.H.E., 2013b. Integrating
+botanical, faunal and human stable carbon and nitrogen isotope values to
+reconstruct land use and palaeodiet at LBK Vaihingen an der Enz, BadenWüfttemberg. World Archaeol. 45 (3), 492e517.
+Gardeisen, A., 2007. Economie vivrière et alimentation carnée en Grèce méridionale
+du Néolithique moyen à la ﬁn de l’ âge du Bronze. In: Mee, C., Renard, J. (Eds.),
+Cooking up the Past. Oxbow, Oxford, pp. 49e60.
+Guo, P., Baum, M., Grando, S., Ceccarelli, S., Bai, G., Li, R., von Korff, M.,
+Varshney, R.K., Graner, R., Valkoun, J., 2009. Differentially expressed genes between drought-tolerant and drought-sensitive barley genotypes in response to
+drought stress during the reproductive stage. J. Exp. Bot. 60 (12), 3531e3544.
+Guttmann, E.B.A., 2005. Midden cultivation in prehistoric Britain: arable crops in
+gardens. World Archaeol. 37, 224e239.
+Halstead, P., 1989. Like rising damp? An ecological approach to the spread of
+farming in South East and Central Europe. In: Milles, A., Williams, D.,
+Gardner, N. (Eds.), The Beginnings of Agriculture, BAR International Series,
+pp. 23e53. Oxford.
+Halstead, P., 1996. Pastoralism or household herding? Problems of scale and
+specialization in early Greek animal husbandry. World Archaeol. 28 (1), 20e42.
+Halstead, P., 2000. Land use in postglacial Greece: cultural causes and environmental effects. In: Halstead, P., Frederick, C. (Eds.), Landscape and Land Use in
+Postglacial Greece. Shefﬁeld Academic Press, Shefﬁeld, pp. 110e128.
+Halstead, P., 2006. Sheep in the garden: the integration of crop and livestock
+husbandry in early farming regimes of Greece and Southern Europe. In:
+Serjeantson, E., Field, D. (Eds.), Animals in the Neolithic of Britain and
+Europe: Neolithic Studies Group Seminar Papers, vol. 7. Oxbow, Oxford,
+pp. 42e55.
+Heaton, T.H.E., 1987. The 15N/14N ratios of plants in South Africa and Namibia:
+relationship to climate and coastal/saline environments. Oecologia (Berlin) 74,
+236e246.
+Heaton, T.H.E., 1999. Spatial, species, and temporal variations in the 13C/12C ratios of
+C3 plants: implications for palaeodiet studies. J. Archaeol. Sci. 26, 637e649.
+Heaton, T.H.E., Vogel, J.C., von la Chevallerie, G., Collett, G., 1986. Climatic inﬂuence
+on the isotopic composition of bone nitrogen. Nature 322, 822e823.
+Hedges, R.E.M., 2006. Where does our protein carbon come from? Br. J. Nutr. 95,
+1031e1032.
+Hedges, R.E.M., Reynard, L.M., 2007. Nitrogen isotopes and the trophic level of
+humans in archaeology. J. Archaeol. Sci. 34, 1240e1251.
+Hill, P.W., Quilliam, R.S., DeLuca, T.H., Farrar, J., Farrell, M., Roberts, P.,
+Newsham, K.K., Hopkins, D.W., Bardgett, R.D., Jones, D.L., 2011. Acquisition and
+assimilation of nitrogen as peptide-bound and D-enantiomers of amino acids
+by wheat. PLoS One 6 (4), e19220.
+Högberg, P., 1997. 15N natural abundance in soileplant systems. New Phytol. 137,
+179e203.
+Indermühle, A., Stocker, T.F., Joos, F., Fischer, H., Smith, H.J., Wahlen, M., Deck, B.,
+Mastroianni, D., Tschumi, J., Blunier, T., Meyer, R., Stauffer, B., 1999. Holocene
+carbon-cycle dynamics based on CO2 trapped in ice at Taylor Dome, Antarctica.
+Nature 398, 121e126.
+Jackson, P.C., Meinzer, F.C., Goldstein, G., Holbrook, N.M., Cavelier, J., Rada, R., 1994.
+Environmental and physiological inﬂuences on carbon isotope composition of
+gap and understory plants in a lowland tropical forest. In: Ehleringer, J.R.,
+Hall, A.E., Farquhar, G.D. (Eds.), Stable Isotopes and Plant CarboneWater Relations. Academic Press, London, pp. 131e140.
+Jiang, Q., Roche, D., Hole, D., 2006. Carbon isotope discrimination of two-rowed and
+six-rowed barley genotypes under irrigated and non-irrigated ﬁeld conditions.
+Can. J. Plant Sci. 86, 433e441.
+Jones, G., Bogaard, A., Halstead, P., Charles, M., Smith, H., 1999. Identifying the intensity of crop husbandry practices on the basis of weed ﬂoras. Annu. Br. Sch.
+Athens 94, 167e189.
+Kanstrup, M., Thomsen, I.K., Andersen, A.J., Bogaard, A., Christensen, B.T., 2011.
+Abundance of 13C and 15N in emmer, spelt, and naked barley grown on differently manured soils: towards a method for identifying past manuring practice.
+Rapid Commun. Mass Spectrom. 25, 2879e2887.
+Kanstrup, M., Thomsen, I.K., Mikkelsen, P.H., Christensen, B.T., 2012. Impact of
+charring on cereal grain characteristics: linking prehistoric manuring practice
+
+to d15N signatures in archaeobotanical material. J. Archaeol. Sci. 39 (7), 2533e
+2540.
+Kanstrup, M., Holst, M.K., Jensen, P.M., Thomsen, I.K., Christensen, B.T., Searching
+for long-term trends in prehistoric manuring practice. d15N analyses of charred cereal grains from the 4th to the 1st millennium BC. J. Archaeol. Sci. in
+press.
+Kotsakis, K., 1999. What tells can tell: social space and settlement in the Greek
+Neolithic. In: Halstead, P. (Ed.), Neolithic Society in Greece. Shefﬁeld Academic
+Press, Shefﬁeld, pp. 66e76.
+Lauenberger, M., Siegenthaler, L., Langway, C., 1992. Carbon isotope composition of
+atmospheric CO2 during the last ice age from an Antarctic ice core. Nature 357,
+488e490.
+Lee-Thorp, J.A., 2008. On isotopes and old bones. Archaeometry 50, 925e950.
+Lopes, M.S., Araus, J.L., 2006. Nitrogen source and water regime effects on durum
+wheat photosynthesis and stable carbon and nitrogen isotope composition.
+Physio. Plantarum 126, 435e445.
+Lee-Thorp, J.A., Sealy, J.C., van der Merwe, N.J., 1989. Stable carbon isotope ratio
+differences between bone collagen and bone apatite, and their relationship to
+diet. J. Archaeol. Sci. 16, 585e599.
+Lightfoot, E., Stevens, R., 2012. Stable isotope investigations of charred barley
+(Hordeum vulgare) and wheat (Tricitum spelta) grains from Danebury Hillfort:
+implications for palaeodietary reconstructions. J. Archaeol. Sci. 39, 656e662.
+Longin, R., 1971. New method of collagen extraction for radiocarbon dating. Nature
+230, 241e242.
+McCullagh, J.S.O., Juchelka, D., Hedges, R.E.M., 2006. Analysis of amino acid 13C
+abundance from human and faunal bone collagen using liquid chromatography/
+isotope ratio mass spectrometry. Rapid Commun. Mass Spectrom. 20, 2761e2768.
+Mee, C., Cavanagh, W., Renard, J., The Middle–Late Neolithic transition at Kouphovouno, Annu. Br. Sch. Athens (in press).
+Minagawa, M., Wada, E., 1984. Stepwise enrichment of 15N along food chains:
+further evidence and the relation between d15N and animal age. Geochim.
+Cosmochim. Acta 48, 1135e1140.
+O’Connell, T.C., Hedges, R.E.M., 1999. Investigations into the effect of diet on modern
+human hair isotopic values. Am. J. Phys. Anthropol. 108, 409e425.
+O’Connell, T.C., Kneale, C.J., Tasevska, N., Kuhnle, G.G.C., 2012. The diet-body offset
+in human nitrogen isotopic values: a controlled dietary study. Am. J. Phys.
+Anthropol. 149, 426e434.
+O’Leary, M.H., 1981. Carbon isotope fractionation in plants. Phytochemistry 20,
+553e567.
+Pardo, L.H., Hemond, H.F., Montoya, J.P., Fahey, T.J., Siccama, T.G., 2002. Response of
+the natural abundance of 15N in forest soils and foliage to high nitrate loss
+following clear-cutting. Can. J. For. Res. 32, 1126e1136.
+Renard, J., 1989. Le site Néolithique et Helladique Ancien de Kouphovouno (Laconie): fouilles de O.-W. von Vacano (1941). In: Aegaeum, vol. 4. Liège.
+Richards, M.P., Hedges, R.E.M., 1999. Stable isotope evidence for similarities in the
+types of marine foods used by Late Mesolithic humans at sites along the
+Atlantic coast of Europe. J. Archaeol. Sci. 26, 717e722.
+Richards, M.P., Schulting, R.J., Hedges, R.E.M., 2003. Sharp shift in diet at onset of
+Neolithic. Nature 425, 366.
+Rivals, F., Gardeisen, A., Cantuel, J., 2011. Domestic and wild ungulate dietary traits
+at Kouphovouno (Sparta, Greece): implications for livestock management and
+palaeoenvironment in the Neolithic. J. Archaeol. Sci. 38, 528e537.
+Rowley-Conwy, P., 1981. Slash and burn in the temperate European Neolithic. In:
+Mercer, R. (Ed.), Farming Practice in British Prehistory. University Press, Edinburgh, pp. 85e96.
+Schoeninger, M.J., Moore, K., 1992. Stable bone isotope studies in archaeology.
+J. World Prehist. 6, 247e296.
+Schwarcz, H.P., Schoeninger, M.J., 1991. Stable isotope analyses in human nutritional
+ecology. Yearb. Phys. Anthropol. 34, 283e321.
+Schwarcz, H.P., Melbye, J., Katzenberg, M.A., Knyf, M., 1985. Stable isotopes in human skeletons of southern Ontario: reconstructing palaeodiet. J. Archaeol. Sci.
+12, 187e206.
+Schulting, R.J., Richards, M.P., 2002. The wet, the wild and the domesticated: the
+MesolithiceNeolithic transition on the west coast of Scotland. Eur. J. Archaeol.
+5, 147e189.
+Sealy, J.C., van der Merwe, N.J., Lee-Thorp, J.A., Lanham, J.L., 1987. Nitrogen isotopic
+ecology in southern Africa: implications for environmental and dietary tracing.
+Geochim. Cosmochim. Acta 51, 2707e2717.
+Shipley, L.A., 1999. Grazers and browsers: how digestive morphology affects diet
+selection. In: Launchbaugh, K.L., Sanders, K.D., Moseley, J.C. (Eds.), Grazing
+Behavior of Livestock and Wildlife. Idaho Forest, Wildlife and Range Experimental Station Bulletin, Moscow ID, pp. 20e27.
+Sillen, A., Sealy, J., Lee-Thorp, J., Horwitz, L.K., van der Merwe, N.J., 1989. Trace
+element and isotope research in progress: implications for Near Eastern
+Archaeology. In: Hershowitz, I. (Ed.), Proceedings of the Second Symposium on
+Upper Palaeolithic, Mesolithic and Neolithic Populations of Europe and Mediterranean Basin, BAR International Series, 508, pp. 321e334 (ii), Oxford.
+Smith, B.N., Oliver, J., McMillan, C., 1976. Inﬂuence of carbon source, oxygen concentration, light intensity, and temperature on 13C/12C ratios in plant tissues.
+Bot. Gaz. 137, 99e104.
+Svendsen, C.R., 2001. Effects of marcescent leaves on winter browsing by large
+herbivores in northern temperate deciduous forests. Alces 37 (2), 475e482.
+Swap, R.J., Aranibar, J.N., Dowty, P.R., Gilhooly III, W.P., Macko, S.A., 2004. Natural
+abundance of 13C and 15N in C3 and C4 vegetation of southern Africa: patterns
+and implications. Glob. Change Biol. 10, 350e358.
+
+P. Vaiglova et al. / Journal of Archaeological Science 42 (2014) 201e215
+Templer, P.H., Arthur, M.A., Lovett, G.M., Weathers, K.C., 2007. Plant and soil natural
+abundance d15N: indicators of relative rates of nitrogen cycling in temperate
+forest ecosystems. Oecologia 153, 399e406.
+Tiedje, J.M., Sexstone, A.J., Myrold, D.D., Robinson, J.A., 1982. Denitriﬁcation:
+ecological niches, competition and survival. Antonie van Leeuwenhoek 48,
+569e583.
+van der Merwe, N.J., Medina, E., 1991. The canopy effect, carbon isotope ratios and
+foodwebs in Amazonia. J. Archaeol. Sci. 18, 249e259.
+van Klinken, G.J., van der Plicht, H., Hedges, R.E.M., 1994. Bond 13C/12C ratios reﬂect
+(palaeo-)climatic variations. Geophys. Res. Lett. 21 (6), 445e448.
+Virginia, R.A., Delwiche, C.C., 1982. Natural 15N abundance of presumed N2-ﬁxing
+and non-N2-ﬁxing plants from selected ecosystems. Oecologia (Berlin) 54,
+317e325.
+
+215
+
+Vogel, J.C., van der Merwe, N.J., 1977. Isotopic evidence for early maize cultivation in
+New York State. Am. Antiq. 42, 238e242.
+Wallace, M.P., 2011. Crop Watering Practices in the Neolithic and Bronze Age: the
+Stable Carbon Isotope Approach. Unpublished Ph.D. dissertation. Department of
+Archaeology, The University of Shefﬁeld, Shefﬁeld.
+Wallace, M., Jones, G., Charles, M., Fraser, R., Halstead, P., Heaton, T.H.E., Bogaard, A.,
+2013. Stable carbon isotope analysis as a direct means of inferring crop water
+status. World Archaeol. 45 (3), 388e409.
+Yousﬁ, S., Serret, M.D., Voltas, J., Araus, J.L., 2010. Effect of salinity and water stress
+during the reproductive stage on growth, ion concentrations, D13C, and d15N of
+durum wheat and related amphiploids. J. Exp. Bot. 61, 3529e3542.
+
+

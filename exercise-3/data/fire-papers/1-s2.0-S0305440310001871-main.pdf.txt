@@ -1,0 +1,1650 @@
+Journal of Archaeological Science 37 (2010) 2650e2661
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Burned bone in the Howieson’s Poort and post-Howieson’s Poort Middle Stone
+Age deposits at Sibudu (South Africa): behavioral and taphonomic implications
+Jamie L. Clark a, b, *, Bertrand Ligouis c
+a
+
+Department of Anthropology, Southern Methodist University, PO Box 750336, Dallas, TX 75275, USA
+Institute for Human Evolution, University of the Witwatersrand, Johannesburg, South Africa
+c
+Laboratory for Applied Organic Petrology, Institut für Ur- und Frühgeschichte und Archäologie des Mittelalters, and Zentrum für Naturwissenschaftliche Archäologie, EberhardKarls-Universität Tübingen, Rümelinstr. 23, 72072 Tübingen, Germany
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 17 January 2010
+Received in revised form
+31 May 2010
+Accepted 1 June 2010
+
+Despite a growing awareness of the wide range of information that can be provided by detailed analyses
+of burned bone from archaeological contexts, such analyses are still relatively uncommon. This paper
+focuses on the behavioral and taphonomic implications of burned bone from the Middle Stone Age (MSA)
+site of Sibudu Cave (South Africa), reporting on the analysis of a large sample (>377,000 fragments) of
+bone recovered from the Howieson’s Poort (HP) and post-HP MSA deposits at the site. Faunal remains
+were initially sorted into burning categories based on changes in color; microscopic analyses focused on
+the optical properties of the bone matrix (degree of preservation of the bone structure, reﬂectance and
+ﬂuorescence) indicated that the color is a valid indicator of thermally altered bone in the Sibudu
+assemblage. The association of burned bone with hearths, the intensity of burning damage, and the sheer
+quantity of thermally altered bone suggests that the bone was not burned primarily as a result of natural
+ﬁres. We propose that the high incidence of burned bone primarily reﬂects two types of site maintenance
+activities: ﬁrst, the discarding of bone into ﬁre as a means of disposing of food waste (as also argued by
+Cain [2005, Using burned animal bone to look at Middle Stone Age occupation and behavior. J. Archaeol.
+Sci. 32, 873e884], for a smaller sample of material from the post-HP and late MSA deposits at the site),
+and second, the incidental burning of bone on/near the surface during the periodic burning of plantbased bedding. In considering the taphonomic implications of the burned bone, we demonstrate that
+calcined bone is in fact more heavily fragmented than unburnt or moderately burned bone. Furthermore,
+cortical preservation was negatively correlated with the intensity of burning damage, which has
+implications for the study of surface modiﬁcations. These results indicate the importance of conducting
+thorough taphonomic analyses prior to making comparisons between units that show differing degrees
+or intensities of burning damage.
+Ó 2010 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Sibudu Cave
+Taphonomy
+Zooarchaeology
+Burned bone
+Reﬂected light microscopy
+Reﬂectance
+Oxide staining
+
+1. Introduction
+While analyses of faunal remains from archaeological contexts
+often mention the presence of thermally modiﬁed bone in an
+assemblage, it is less common for scholars to fully address the
+behavioral and taphonomic implications of burned bone. The small
+but growing number of studies that do incorporate detailed analyses of burned bone have demonstrated the utility of these studies
+on a number of levels (see particularly Asmussen, 2009; Cain, 2005;
+Dibble et al., 2009). From a behavioral perspective, the distribution
+* Corresponding author at: Department of Anthropology, Southern Methodist
+University, PO Box 750336, Dallas, TX 75275, USA. Tel.: þ1 517 694 0193.
+E-mail addresses: jamielc@umich.edu (J.L. Clark), bertrand.ligouis@unituebingen.de (B. Ligouis).
+0305-4403/$ e see front matter Ó 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2010.06.001
+
+of burning damage on identiﬁable remains can provide information
+on cooking practices (e.g., Speth and Clark, 2006; Speth and
+Tchernov, 2001). Bone can also be burned after consumption; it
+can be discarded into a ﬁre after consumption, perhaps as a means
+of reducing its attractiveness to carnivores (e.g., Gifford-Gonzalez,
+1989), and it can be used as fuel (e.g., Costamagno et al., 2005;
+Théry-Parisot et al., 2005). Of these, the identiﬁcation of bone
+fuel has been a particular focus for those interested in the behavioral implications of burned bone from Paleolithic contexts (e.g.,
+Costamagno et al., 2009; Dibble et al., 2009; Mentzer, 2009; ThéryParisot, 2002). However, bone can also be burned naturally, as
+a result of natural ﬁres or as a result of the proximity of discarded
+bone to a hearth or other combustion activities. In determining
+what burned bone indicates about human behavior, it is therefore
+important to ascertain whether the bone was naturally or
+
+J.L. Clark, B. Ligouis / Journal of Archaeological Science 37 (2010) 2650e2661
+
+intentionally burnt, and whether it was burned pre- or postconsumption/deposition.
+A consideration of burning is also relevant when reconstructing the taphonomic history of a given assemblage. First, it has
+been argued that burned bones are more fragile/brittle than
+unburned bones, and it has also been proposed that the
+mechanical strength of bone varies as a function of the extent to
+which it is burned (e.g., Stiner, 2005; Stiner et al., 1995). Differences in the presence and/or intensity of burning across archaeological horizons may thus result in differential fragmentation,
+potentially affecting the interpretation of patterning identiﬁed in
+the faunal record. Burning also has a negative impact on the
+preservation of bone surfacesdeven low levels of burning can
+cause cracking and peeling of the cortical surface, while highly
+burned/calcined bone often becomes chalky in texture, with no
+preservation of the original cortical surface (Nicholson, 1993;
+Schmidt and Symes, 2008). This can negatively impact the preservation of surface damage, including evidence for human processing or carnivore/rodent activity. As such, it may not be valid to
+conduct comparative analyses based on the occurrence of surface
+modiﬁcations if the assemblages under consideration have been
+differently affected by burning.
+This paper reports on the analysis a large sample (>377,000
+fragments) of burned bone from the Howieson’s Poort (HP) and
+post-HP MSA deposits at Sibudu Cave (KwaZulu-Natal, South
+Africa), and expands upon earlier work on burned bone at the site
+conducted by Cain (2005) and Hanson and Cain (2007); their work
+was based on a much smaller sample of remains from the post-HP
+and late MSA deposits at the site. The current study is part of larger
+research efforts aimed at characterizing variability in human
+behavior and in the environment between the HP and post-HP MSA
+at Sibudu, and also at understanding the nature of the burning
+evidenced in the Sibudu assemblage (e.g., Cain, 2005; Hanson and
+Cain, 2007; Clark, 2009; Clark and Plug, 2008; Cochrane, 2008;
+Goldberg et al., 2009; Lombard and Clark, 2008; Sievers and
+Wadley, 2008; Wadley, 2009).
+2. Materials and methods
+Sibudu Cave is situated on a cliff above the Tongati River,
+approximately 40 km north of Durban in KwaZulu-Natal, South
+Africa. Current excavations at the site, directed by Lyn Wadley, have
+been ongoing since 1998. To date, 21 sq. m of MSA deposits have
+been excavated, although the deepest deposits at the site have only
+been reached in a 6 sq. m trial trench. Deposits are excavated in
+50 cm quadrants and screened using nested 2 mm and 1 mm
+sieves.
+Sibudu preserves extensive MSA deposits which span from the
+pre-Still Bay (>72 ka) through the ﬁnal MSA (w37 ka), and it is one
+of the few known sites to preserve deposits dating to the transition
+from the HP (w65e62 ka)da phase which has received attention
+for its innovative technology such as geometric backed tools and
+ﬁnely made bone points (e.g., Backwell et al., 2008)dto the post-HP
+MSA (weighted mean age of w58 ka), in which there is a return to
+a more typical MSA pattern in which these objects are absent
+(Jacobs et al., 2008a,b).
+In addition to the changes in material culture evidenced
+between the HP and the post-HP MSA, there are also a number of
+characteristics which distinguish the archaeological deposits
+themselves. The HP is comprised of thicker, monotonously colored,
+sandy or silty deposits, while the post-HP MSA consists of thin,
+brightly colored, ashy or silty deposits that contain palimpsests of
+interﬁngering hearths and ash layers (Pickering, 2006; Wadley and
+Jacobs, 2006). The post-HP MSA is also more variable in sediment
+composition than is the HP. In addition, gypsum inclusions, which
+
+2651
+
+occur frequently in the post-HP MSA, are largely absent in the HP
+(Schiegl and Conard, 2006).
+Burning features are common throughout the Sibudu sequence.
+Hearths are discernable as ﬂat, circular patches of ash; thus far, no
+stone foundations have been located and only rarely do the features
+show concave bases. The hearths are generally no more than
+10e15 cm thick and are often stratiﬁed into a basal layer of reddishbrown burnt earth, a central brown-black layer that is rich in
+charcoal, and an upper layer of off-white or yellow ash. These are
+well preserved as separate features within the HP, where burning
+features are relatively sparsely dispersed (Wadley, 2006; Wadley
+and Jacobs, 2006). In contrast, the post-HP MSA shows pervasive
+evidence for massive burning events; the interﬁngering nature of
+the hearths in these layers makes it difﬁcult to distinguish individual burning episodes. This is further compounded by the fact
+that many of these hearths show several focal points, which may
+indicate repeated use (Allott, 2006).
+Given these differences, it was expected that there may also be
+variation in the presence and frequency of burned bone; as indicated in the introduction, these differences could be quite informative of variation in both human behavior and in the taphonomic
+histories of the assemblages under consideration. Previous work by
+Cain (2005) suggested that burning in the post-HP MSA may be due
+primarily to the disposal of bone waste into ﬁre; given that this
+practice is not a universal one, if the current study conﬁrms this
+hypothesis, and if the burning in the HP appears to have the same
+source, this would be a noteworthy instance of behavioral continuity between the two phases. Following Clark and Plug (2008), the
+post-HP MSA has been split into two units for this analysis; the
+upper-most layers are referred to as the post-HP MSA 1, while
+the lower layers are referred to as the post-HP MSA 2 (Fig. 1).
+2.1. Identifying burned bone at Sibudu
+Experimental studies have demonstrated that thermally altered
+bone displays a predictable range of surface color and texture
+changes, such that the color of a bone can be used to judge the
+degree of burning intensity (e.g., Bennett, 1999; Nicholson, 1993;
+Shipman et al., 1984). Because the intensity of burning damage is
+related to both the temperature and the duration of heating, it has
+been argued that color is a poor indicator of the precise temperature
+to which a bone was heated, but can provide an indication of the
+range of temperatures to which the bone was heated (see Lyman,
+1994 and references therein). Lightly heated bones (<400  C)
+tend to be yellow to reddish-brown in color; bone exposed to
+higher temperatures (w400e500  C) carbonizes and turns black,
+and intensively heated bones (>600  C) eventually become
+calcined and are typically blue-grey to white in color (Lyman, 1994;
+Shipman et al., 1984). Given this, the HP and post-HP MSA fauna
+was initially sorted into a number of burning categories based on
+color.
+In working with the Sibudu fauna, the ﬁrst step in the analysis
+was to divide the assemblage into identiﬁable and non-identiﬁable
+fractions. The non-identiﬁable sample included all material that
+could not be identiﬁed to speciﬁc skeletal element or taxon;
+however, this sample was sorted into several fragment categories:
+skull, enamel, ribs, vertebrae, long bone shafts, and miscellaneous;
+material less than and greater than 2 cm was treated separately. All
+of the non-identiﬁed bone from the ﬁrst two units of the trial
+trench (B5 and B6) was subjected to detailed analysis; this included
+sorting the fragments into four burning categories: not burned
+(NB), lightly burned (LB, <50% black/carbonized), moderately
+burned (MB, >50% black/carbonized), and highly burned (HB, >50%
+grey-white/calcined). For the remainder of the units under
+consideration (B4, C5, and C6), the large-fraction (>2 cm) non-
+
+2652
+
+J.L. Clark, B. Ligouis / Journal of Archaeological Science 37 (2010) 2650e2661
+
+Fig. 1. Stratigraphic proﬁle drawing showing the HP and post-HP MSA deposits.
+
+identiﬁed bone was fully analyzed; however, sorting and counting
+of the less-than-2 cm non-identiﬁed bone was limited to one 50cm quadrant per unit, per layer. Because it was often difﬁcult to
+ascertain whether these small fragments were lightly burned or
+oxide stained (see below), the NB/LB categories were combined
+after the ﬁrst season of analysis.
+Identiﬁable bone was assigned to one of the seven burning
+categories deﬁned by Stiner et al. (1995) (Table 1). However, in
+order to make the data for the identiﬁed bones comparable to that
+available for the non-identiﬁed bones, for this study, the identiﬁed
+bones were assigned to the same categories utilized for the nonidentiﬁed bone: NB/LB (burning codes 0e1), MB (burning codes
+2e4), and HB (burning codes 5e6).
+It is important to note that the use of color categories for the
+identiﬁcation of burned bone from archaeological contexts is not
+necessarily straightforward, as organic and mineral staining can
+mimic the color changes caused by burning (e.g., Hanson and Cain,
+2007; Karkanas et al., 2007; Michel et al., 2006; Shahack-Gross
+et al., 1997). For example, a blackened bone may have been carbonized by exposure to heat, but the color may also be due to staining by
+
+manganese or iron oxides. As a result, researchers have developed
+a variety of methods for ascertaining whether or not color is an
+appropriate indicator of burning intensity in a particular assemblage;
+these methods include chemical analyses (e.g., Shahack-Gross et al.,
+1997), microscopic studies of bone histology (Hanson and Cain,
+2007), and microscopic analyses focusing on the optical properties
+of the bone matrix, including reﬂectance and ﬂuorescence, as well as
+on the organic combustion remains (charcoal, char, partially burnt
+coal) which accompany the bone fragments (Goldberg et al., 2009;
+Ligouis, 2006; Schiegl et al., 2004a). Because these methods are
+generally both costly and time-consuming, they are typically only
+undertaken on a sample of material from a given assemblage.
+Based on coloration alone, the HP and post-HP MSA fauna from
+Sibudu appeared to be highly burned, with greater than 95% of the
+bone in some layers showing at least some degree of burning.
+However, oxide staining is also common. While this staining is often
+
+Table 1
+Burning categories utilized for the identiﬁable bone (modiﬁed from Stiner et al.,
+1995).
+Burning Code
+
+Description
+
+0
+1
+2
+3
+4
+5
+6
+
+Not burned (typically cream/tan in color)
+Localized burning (<50% black)
+Moderate burning (>50% black)
+Carbonized (100% black)
+Localized calcination (<50% white)
+Moderate calcination (>50% white)
+Calcined (typically white or blue/grey)
+
+Fig. 2. Moderately burned bone with oxide staining (staining was black but camera
+ﬂash brought out the metallic sheen). Scale bar ¼ 1 cm.
+
+J.L. Clark, B. Ligouis / Journal of Archaeological Science 37 (2010) 2650e2661
+
+distinct from burning damage (for example, some of the stains have
+a metallic sheen, see Fig. 2), this was not always the case. Thus, in
+order to conﬁrm that the color changes evidenced in the assemblage
+actually reﬂect exposure to heat rather than mineral staining,
+a sample of 11 bones from the HP and post-HP MSA was sent to the
+second author at the Laboratory for Applied Organic Petrology (LAOP,
+University of Tübingen) for more detailed analysis. This sample
+included bones that appeared to be unburnt, lightly, moderately, and
+heavily burned, those that appeared to be oxide stained, and four
+bones that were representative of the coloration of a large number of
+bones but for which the burning status was more ambiguous
+(typically ranging from deep orange to maroon in color).
+Ligouis produced highly polished sections of each bone sample
+and examined these using a Leitz DMRX-MPVSP microscope
+photometer (set up with oil immersion objectives) at 20 to 100
+in both incident white-light and UV and violet-light illumination
+(ﬂuorescence mode; excitation ﬁlter 355e425 nm) (Taylor et al.,
+1998). Examples of these can be seen in Figs. 3 (macroscopic
+view) and 4 (photomicrographs). Data were recorded on the color
+of the bone in reﬂected light, the preservation of bone structure, the
+presence of cracks and vesicles, the reﬂectance of the bone matrix
+(measurement of the microreﬂectance in monochromatic light at
+546 nm), the ﬂuorescence properties of the bone matrix, and the
+presence of oxide staining.
+Results were compared with samples from two ﬁre experiments
+and from other Paleolithic contexts (including micromorphology
+samples) in order to ascertain whether the bone was burned, to
+provide an estimate of the temperature to which the bone had been
+heated, and to judge whether or not oxides were present. (Berna
+et al., in preparation; Goldberg et al., 2009; Schiegl et al., 2004a).
+Table 2 (modiﬁed from Berna et al., in preparation) summarizes the
+main results of the microscopic study of heated bones from
+a furnace experiment; these results were utilized in determining
+the burning status of the Sibudu bone samples. This study
+
+2653
+
+principally demonstrated that the reﬂectance of the bone matrix
+increases with increasing temperature, and that the ﬂuorescence
+intensity decreases with increasing reﬂectance as a result of
+mineralogical transformations and the loss of organic matter
+(Berna et al. in preparation). Of note is the ﬁnding that blackened
+bones which were produced at temperatures around 300  C were
+characterized in reﬂected light by heterogeneous colors with
+reddish internal reﬂections, and showed ﬁssures, cracks and
+numerous vesicles. White (calcined) bones formed at 800  C
+showed few ﬁssures and cracks and were non-ﬂuorescing.
+A description of each sample from Sibudu, along with the results
+of Ligouis’ analysis, can be found in Table 3. A more detailed data
+table, including the reﬂectance values for the samples and further
+description of their characteristics, can be found in Appendix 1.
+With the exception of two bones for which the burning status was
+unclear, all of the bones that were visually identiﬁed as being
+burned were also classiﬁed as such by Ligouis. The two ambiguous
+samples (from SPCA and Chestnut) were difﬁcult to classify because
+in each case, the color in reﬂected light and reﬂectance of the bone
+matrix indicated burning at high temperatures, while the preservation of the bone structure and ﬂuorescence correlated more with
+an unburned state (see Fig. 3, image 3; Fig. 4, images 3a and 3b).
+It is interesting to note that some of the bones that were
+visually classiﬁed as lightly burned because of their reddishorange coloration were identiﬁed as being burned at potentially
+higher temperatures than some of the blackened or even grayishwhite bone (Fig. 3, images 2 and 4; Fig. 4, images 2a, 2b, and 4a,
+4b)dthis goes against expectations and may indicate that the
+duration of heating played more of a role in determining the
+intensity of burning damage than the maximum temperature to
+which the bone was exposed. It could also indicate that diagenetic
+processes (such as recrystallisation) may have altered the original
+features of the burnt bone, thus distorting the results and their
+interpretation. This indicates the importance of continued
+
+Fig. 3. Macroscopic views of the polished sections of four selected bones at 20 magniﬁcation. The mentioned burning status is that determined by the microscopic analyses. 1.
+Grey Rocky II B5c, unburned bone. The bone shows a homogeneous light brown colour. The black splotches in the outer margin are due to oxide staining. The bone structure is
+visible. 2. Grey Sand I C5b, burned at low temperatures (300  C). The bone shows a homogeneous dark brown colour. The bone structure is visible. 3. Chestnut B5b, unburned or
+burned at high temperatures (>600  C). The bone shows heterogeneous colours ranging from dark brown to whitish light-brown. The numerous black splotches are due to oxide
+staining. The bone structure is visible. 4. Pox B6a, burned at very high temperatures (>800  C). The bone is characterized by heterogeneous colours ranging from dark brown to
+whitish light-brown. The bone structure is clearly visible and well preserved.
+
+2654
+
+J.L. Clark, B. Ligouis / Journal of Archaeological Science 37 (2010) 2650e2661
+
+Fig. 4. Photomicrographs in incident white light, oil immersion (left) and ﬂuorescence mode, oil immersion (right) of four selected bones (see Fig. 3 for macroscopic views of these
+specimens). Grey Rocky II B5c, unburned bone: 1a. the bone matrix is characterized by a strong luminosity. It appears light-brown orangey and yellowish. 1b. note the greatly
+enhanced detail, and the pale green and dark green ﬂuorescence of very low intensity. Grey Sand I C5b, burned at low temperatures (300  C). 2a. The bone matrix is dark colored (dark
+grey, greyish brown, orange-brown) and shows reddish-orange internal reﬂections. Note the presence of a strong reﬂecting thin metal oxide layer on the corroded surface of the
+bone. 2b. The bone matrix ﬂuoresces a weak brown color except near the surface of the bone where it ﬂuoresces bright yellow. Chestnut B5b, unburned or burned at high temperatures
+(>600  C). 3a. Partial replacement of the bone matrix by metal oxides (cryptocristalline and amorphous phases, middle grey to light grey, medium to high reﬂective and anisotropic,
+probably Mn oxides). The greyish-brown and dark brown areas are not affected by the metal oxide mineralization. 3b. Note the bright greenish-yellow ﬂuorescence in the bone
+matrix not affected by the metal oxide mineralization and the absence of ﬂuorescence in the areas showing metal oxides. Pox B6a, burned at very high temperatures (>800  C). 4a.
+The greyish-brown bone matrix shows numerous ﬁssures and the bone surface appears corroded. 4b. The bone matrix ﬂuoresces a greenish yellow color of medium intensity and
+the bone structure is poorly recognizable.
+
+experimental work. Moreover, the microscopic study demonstrated that the black splotches observed on the surface of bones
+(Fig. 3, images 1e3; Fig. 4, images 2a, 2b, 3a, 3b) were result of the
+precipitation of oxides and therefore cannot be attributed to
+organic combustion remains (e.g. char; see Goldberg et al., 2009).
+As a rule, then, it would appear that changes in color are useful for
+identifying thermally altered bones in the HP and post-HP MSA
+fauna from Sibudu. As such, the remainder of the analyses presented here will be based on the results of the visual classiﬁcation
+of the remains.
+3. Burned bone in the HP and post-HP MSA
+Fig. 5 summarizes the burning data by perioddthe data presented here includes all bone sorted into burning categories, both
+identiﬁed and non-identiﬁed, for a total sample of 377,508
+
+fragments. More than half the bone in all three assemblages is at
+least moderately burned (>50% carbonized), demonstrating the
+remarkably high levels of burning damage in the sample. Although
+burning is prevalent in all three periods, the post-HP MSA 2 shows
+a signiﬁcantly larger proportion of highly burned bone than either
+the HP or the post-HP MSA 1; this has potentially important
+taphonomic implications, particularly as relates to variability in
+fragmentation and in the preservation of surface damage; these
+issues will be discussed in more detail below.
+Given that the overwhelming majority of the sample is
+comprised of non-identiﬁable fragments less than 2 cm in size, the
+results presented in Fig. 5 are no doubt driven by the heavy burning
+evidenced among this subset of the assemblage. However, the
+Sibudu fauna is also unusual because the high frequencies of
+burning are not limited to the small fraction non-identiﬁed bone.
+As can be seen in Fig. 6, the proportion of burned bone is also high
+
+100 Pale green, pale
+yellowish-green, or pale
+brown, very low intensity
+
+100 None
+
+0.082
+
+0.097
+
+0.209
+
+0.10
+
+0.20
+
+0.74
+0.35e1.31
+Rare ﬁssures and cracks
+None
+
+0.03e0.60
+Rare ﬁssures and cracks
+
+White and
+yellowish-white
+800
+
+Pale yellowish-white
+
+Middle grey,
+brownish-grey
+550
+
+Remainders of bone
+structure: concentric
+and ﬁbrous structures
+and canals
+Remainders of bone
+structure: concentric
+and ﬁbrous structures
+and canals
+
+None
+
+0.05e0.46
+
+Very heterogeneous:
+mostly brown-grey,
+locally light grey,
+reddish-brown to dark
+grey, frequently reddish
+and orange internal
+reﬂection
+Pale brown to greyishbrown
+Black
+300
+
+Remainders of bone
+structure: concentric
+and ﬁbrous structures
+and canals
+
+Char coat (light grey to
+white) on the bone
+surface and on the walls
+of the vesicles
+
+Common ﬁssures and
+cracks, numerous large
+and irregular vesicles
+
+100 Mostly non-ﬂuorescing
+(pale greenish, pale
+yellowish-green), locally
+dark brownish, very low
+intensity
+100 Bright yellow, yellowbrown to dark brown,
+moderate to high
+intensity
+0.039
+0.07
+0.01e0.25
+/
+Heterogeneous: pale
+Bone structure clearly
+whitish-yellow, greyish, visible
+light grey, pale brownishgrey, reddish-brown
+Greyish-white and
+yellowish-brown
+Not heated
+
+/
+
+Minimum and
+Mean Std. dev. N
+maximum values
+
+Fluorescence properties
+of bone matrix (color,
+intensity)
+Reﬂectance %Rr of the bone matrix
+(l ¼ 546 nm, oil immersion)
+
+Fissures, cracks, pores,
+vesicles (degassing
+process)
+Organic combustion
+remains (char)
+Preservation of bone
+structure
+Color in reﬂected
+white light
+Color (naked eye)
+Heating
+temperature  C
+
+Table 2
+Results of the microscopic study of the experimentally burned fresh bones used for the determination of the burning status of the Sibudu bones. Rr: random reﬂectance, Std. dev.: standard deviation, N: number of measurements
+(modiﬁed from Berna et al., in preparation).
+
+J.L. Clark, B. Ligouis / Journal of Archaeological Science 37 (2010) 2650e2661
+
+2655
+
+among the larger non-identiﬁable fragments and the identiﬁed
+bones. The fact that the identiﬁed bone is also heavily burnt is of
+particular note, as many other Paleolithic assemblages showing
+high frequencies of burning among the non-identiﬁable bone show
+markedly lower proportions of burned bone among the identiﬁed
+sampledTable 4 compares the results from Sibudu to several of
+these other sites. The reasons for this discrepancy are not immediately clear, but it could be due in part to the effort taken to
+identify even the small burned fragments at Sibududthese fragments may be more apt to be overlooked when there is a substantial sample of unburnt identiﬁable bones.
+3.1. Identifying the timing and agent of burning
+Bone can be burned by a number of processes, both intentional
+(cooking, disposal of food waste, fuel) and natural/unintentional
+(brush ﬁres, burned due to proximity to combustion features).
+There are a number of reasons to think that the burning at Sibudu
+was not primarily a result of natural (i.e., brush) ﬁres. First and
+foremost is the association of burned bone with hearths. While
+burning features were more common in the post-HP MSA, the HP
+deposits also preserve some well-deﬁned hearths; micromorphological work by Goldberg et al. (2009) suggests the smaller number
+of well-preserved burning features in the HP may be due to
+extensive trampling, which resulted in mixing of the deposits. The
+intensity of the burning also indicates that natural ﬁres were likely
+not responsible for the burned bone; experimental work undertaken by David (1990) indicated that bones exposed to brush ﬁres
+are often carbonized but rarely calcined, leading him to argue that
+when bones are calcined over much of their surface area, the
+presence of anthropogenic ﬁres can be “safely inferred.”
+Yet, it seems undeniable that at least some of the burning was
+unintentional. Given the number of well-preserved burning
+features, particularly in the post-HP MSA, it seems likely that much
+of the bone must have been exposed to heat from overlying hearths
+or other combustion activities after deposition. Work by Bennett
+(1999) and Stiner et al. (1995) has demonstrated that bone buried
+in sediment underneath a hearth can be modiﬁed by exposure to
+heat; however, the intensity of the burning damage can vary based
+on a number of factors, including: the depth of the bone below the
+ﬁre, the temperature of the ﬁre, the duration of heat exposure, and
+the nature of the surrounding sediments. Stiner et al.’s (1995)
+experimental work indicated that bone burned indirectly as
+a result of overlying hearths may be charred but not calcined; only
+those bones directly in contact with the ﬁre became calcined. The
+relative frequency of calcined bone in the Sibudu deposits thus
+indicates the burning cannot be solely attributed to incidental
+burning from overlying hearth structures.
+Cain (2005) argued that incidental burning from overlying
+hearths should also cause patchy distributions of burned bone,
+presumably because the burned bone would be expected to occur
+in direct association with hearth features. Given that burned bones
+were found throughout the layers, he thus argued that incidental
+burning was likely an insufﬁcient explanation for the high
+percentage of burned bone at Sibudu. And yet, studies by Schiegl
+and colleagues (Schiegl and Conard, 2006; Schiegl et al., 2004b)
+found that the sedimentary composition and phytolith content of
+the deposits were similar between hearths/ash dumps and the
+surrounding sediments, suggesting that there was more ﬁre use at
+Sibudu than indicated by the preserved hearth remains indicate.
+Micromorphological work by Goldberg et al. (2009) supported this
+argument; they also demonstrated that some of the deposits,
+particularly in the HP, had been reworked/homogenized, likely by
+trampling. As such, I would argue that, contra Cain, the distribution
+of the burned bones in and of itself does not serve to discount post-
+
+2656
+
+J.L. Clark, B. Ligouis / Journal of Archaeological Science 37 (2010) 2650e2661
+
+Table 3
+Results from Ligouis’ study of a sample of burned bone from HP and post-HP MSA contexts.
+Layer
+
+Unit
+
+Visual classiﬁcation
+
+Microscopic analysis
+
+Color (naked eye)
+
+Burning status
+
+Oxides
+
+Burning Status
+
+Oxides
+
+Lightly burned
+(<50% carbonized)
+Heavily burned
+(>50% calcined)
+Heavily burned?
+(>50% calcined)
+Moderately burned
+(>50% carbonized)
+
+Yes
+
+Yes, prob. Mn oxides
+
+No
+
+Unburned or burned at high
+temperatures (>600  C)
+Burned at high
+temperatures (600  C)
+Unburned or burned at high
+temperatures (>600  C)
+Burned, probably at very
+high temperatures
+(800  C)
+Burned, probably at low
+temperatures (w300  C)
+Burned, probably at
+moderate temperatures
+(w300e600  C)
+Burned, probably at low
+temperatures (w300  C)
+Probably unburned
+Burned, probably at
+moderate temperatures
+(w300e600  C)
+Burned, probably at low
+temperatures (w300  C)
+Burned, probably at
+moderate temperatures
+(w300e600  C)
+
+SPCA
+
+B5a
+
+Orangey
+
+Midnight (Hearth)
+
+B5a/b
+
+Greyish yellow
+
+Chestnut
+
+B5b
+
+Greyish brown
+
+Pox
+
+B6a
+
+Mottled black/orange/
+greyish-brown
+
+Brown Pox
+
+B6b
+
+Black/brown
+
+Grey Rocky I
+
+B5a
+
+Black exterior/orangey
+interior
+
+Moderately burned
+(>50% carbonized)
+Lightly burned
+(<50% carbonized)
+
+Grey Rocky I (Hearth E)
+
+B5a
+B5c
+B5d
+
+Heavily burned
+(>50% calcined)
+Not burned
+Lightly burned?
+(<50% carbonized)
+
+Maybe?
+
+Grey Rocky II
+Grey Sand I
+
+Greyish white with black
+and brown mottling
+Yellow
+Maroon exterior/orangey
+interior
+
+Grey Sand I
+
+C5b
+
+Black
+
+Carbonized?
+
+Yes
+
+Pinkish Grey Sand
+
+B5d
+
+Mottled maroon/orange/
+brown
+
+Lightly burned?
+(<50% carbonized)
+
+Yes
+
+depositional exposure to heat as one of the factors responsible for
+the high frequency of burned bone represented in the Sibudu
+assemblage.
+In their micromorphological study, Goldberg et al. (2009)
+proposed that two primary types of combustion activities are
+represented at Sibudu: the construction of hearths and the burning
+of bedding constructed of plant material (likely sedges; see Sievers,
+2006; Sievers and Wadley, 2008). The latter possibility deserves
+further discussion, as it could result in the burning of bone at or
+near the surface of the site. Goldberg et al. (2009) found that the
+deposits at Sibudu contained distinct “microfacies” comprised of
+phytoliths in laminated layers that are associated with charred
+
+100%
+
+80%
+
+60%
+NB/LB
+MB
+HB
+
+40%
+
+20%
+
+0%
+HP
+
+post-HP MSA 2
+
+post-HP MSA 1
+
+Fig. 5. Burning data by phase (identiﬁed and non-identiﬁed bone).
+
+Yes
+Maybe?
+Yes
+
+Yes
+
+Yes
+Yes
+
+Yes, prob. Mn oxides
+Yes, prob. Mn oxides
+Yes, prob. Mn oxides
+
+None
+Yes, prob. Mn oxides and Fe
+oxides
+Yes, prob. Mn oxides and Fe
+oxides
+Yes, prob. Mn oxides
+Yes, prob. Mn oxides
+
+Yes, prob. Mn oxides
+Yes, prob. Mn oxides
+
+ﬁbrous material, as well as layers of nothing but phytoliths (without
+lamination); they proposed that these features represent the
+repetitive and intentional burning of bedding, perhaps as a form of
+site maintenance. If bedding was being burned on a regular basis,
+faunal remains (particularly those at/near the surface) could have
+been repeatedly exposed heat. Experimental work will be necessary to ascertain the intensity of burning damage that could be
+expected from this type of activity (i.e., whether it could account for
+the high frequency of calcined remains); plans for this work are
+underway.
+Goldberg et al. (2009) went on to argue that both a lower
+quantity of phytoliths and a relatively smaller number of sedge
+seeds in the HP may indicate that the construction of plant-based
+bedding (and the burning of this bedding) did not take place during
+this phase. This could account for the lesser intensity of burning
+represented in the HP faunal assemblage, and may suggest that the
+behaviors that resulted in the high frequencies of burned bone
+were not the same during the HP and post-HP MSA. However, it is
+worth noting that while seeds are relatively scarce in the HP
+deposits, sedges are still presentdand in fact make up a majority of
+the seed assemblage from this phase (Sievers, 2006). It is thus
+possible that bedding was being constructed and burned during the
+HP, although perhaps on a smaller scale, with the more extensive
+mixing of deposits erasing any clear signature of this behavior on
+a micromorphogical scale.
+Identifying whether bone was burned dry or green may speak to
+whether or not the bone was burned post-depositionally, as one
+might expect bone burned as a result of post-depositional exposure
+to heat to be burned dry, while bone burned during cooking or as
+a means of disposing of food waste would presumably be burned
+green. If bone was being used as fuel, it may also have been more
+likely to be burned green, as experimental work has demonstrated
+that green bone serves as a more effective fuel source than does dry
+bone (Théry-Parisot et al., 2005). Buikstra and Sweagle (1989)
+found that only deﬂeshed green bone became uniformly
+“smoked” (i.e., blackened), arguing that dry bone had insufﬁcient
+organic substance to be uniformly smoked. However, Nicholson
+
+J.L. Clark, B. Ligouis / Journal of Archaeological Science 37 (2010) 2650e2661
+
+HP
+
+post-HP MSA 2
+
+100%
+
+100%
+
+80%
+
+80%
+
+60%
+
+60%
+
+40%
+
+40%
+
+20%
+
+20%
+
+0%
+
+2657
+
+0%
+
+<2cm non-ID
+
+>2cm non-ID
+
+ID
+
+<2cm non-ID
+
+>2cm non-ID
+
+ID
+
+NB/LB
+
+45237
+
+6882
+
+2088
+
+NB/LB
+
+23074
+
+4415
+
+143
+
+MB
+
+47072
+
+3103
+
+960
+
+MB
+
+16447
+
+3064
+
+298
+
+HB
+
+21391
+
+753
+
+342
+
+HB
+
+40277
+
+6471
+
+592
+
+post-HP MSA 1
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+<2cm non-ID
+
+>2cm non-ID
+
+ID
+
+NB/LB
+
+52217
+
+10376
+
+272
+
+MB
+
+41774
+
+8243
+
+250
+
+HB
+
+36127
+
+5439
+
+201
+
+Fig. 6. Frequency of burning by bone type and phase.
+
+(1993) found that mottling was common even among green bones,
+so it is not clear that this is an appropriate criterion for differentiating between bone that was burned green or dry in the Sibudu
+assemblage.
+
+Table 4
+The proportion of burned bone among identiﬁed and non-identiﬁed bones from
+several Paleolithic contexts.
+Site
+Castanet Aurignacian
+Combe Sauniere IV
+Cuzoul layer 23
+Cuzoul layer 17
+Saint Cesaire
+Aurignacian I (5)
+Saint Cesaire
+Chatelperronian (8)
+Saint Cesaire
+Mousterian (10)
+Sibudu post-HP MSA 1
+Sibudu post-HP MSA 2
+Sibudu HP
+
+Non-ID
+bones
+47,454
+6378
+18,554
+4411
+34,202
+
+% Non-ID NISP % NISP Source
+burned
+burned
+79.52%
+32.42%
+34.85%
+32.35%
+38.77%
+
+748
+532
+2798
+577
+4102
+
+3.21%
+1.50%
+14.87%
+8.84%
+3.66%
+
+27,045 27.79%
+
+966 0.21%
+
+19,569 36.22%
+
+867 1.85%
+
+a
+
+154,176 59.40%
+93,748 70.67%a
+124,438 58.11%a
+
+Villa et al., 2004
+Villa et al., 2004
+Villa et al., 2004
+Villa et al., 2004
+Morin, 2004
+Morin, 2004
+Morin, 2004
+
+a
+
+723 62.38% This study
+1033 86.16%a This study
+3390 38.41%a This study
+
+a
+Note: the percentage of burned bone presented for the Sibudu assemblages
+includes only the moderate and highly burned classes, and thus the true frequency
+of burning is even higher than the numbers suggest.
+
+Another line of evidence that may speak to whether or not the
+bone was intentionally burned may be found in the lithic assemblage. If the majority of the burning occurred as a result of postdepositional exposure to heat, one might expect that the lithic
+materials would also be burned (Asmussen, 2009; Dibble et al.,
+2009). However, the two most common raw material types at
+Sibudu are hornfels and dolerite, and in the absence of more
+extreme forms heat damage such as ﬁre-cracking or pot-lidding
+(which are relatively uncommon; w1% of the HP lithics from units
+B5/B6 show potlidding), it would be difﬁcult to ascertain whether
+these materials were exposed to heat from overlying hearths, as
+color changes are not expected (Wadley, 2006; Wadley, personal
+communication).
+The distribution of burning damage across bone surfaces has
+been used as yet another source of information on the timing and
+mechanism of burning, particularly in drawing inferences about
+cooking or processing tactics. Scholars have used the distribution of
+burning on epiphyses vs. shafts to draw inferences about cooking
+practices; if burning is greater on epiphyses than on shafts, then the
+damage may have occurred during roasting, as the joints would
+have been more directly exposed to heat, not being encased in meat
+(e.g., Speth and Tchernov, 2001). The opposite pattern (more
+burning on shafts than epiphyses) could indicate bones were
+exposed to ﬁre after the meat was removed, perhaps as a result of
+warming marrow bones prior to marrow extraction (e.g., Speth and
+Clark, 2006). Unfortunately, the nature of the burning at Sibudu, in
+
+2658
+
+J.L. Clark, B. Ligouis / Journal of Archaeological Science 37 (2010) 2650e2661
+
+which material is often burned on all surfaces, precludes this type
+of analysis. While some burning may have been related to food
+preparation, such signatures would likely have been overprinted by
+subsequent heat exposure.
+There remain at least two possibilities to account for the high
+frequency/intensity of burning damage in the Sibudu assemblage:
+bone could have been deliberately used as a source of fuel, or it may
+have been discarded into the ﬁre as a means of disposing of food
+waste. Experimental work by Théry-Parisot and colleagues
+(Costamagno et al., 2005, 2009; Théry-Parisot, 2002, Théry-Parisot
+et al., 2005; Théry-Parisot and Costamagno 2005) has demonstrated that bone can serve as an effective fuel (see also Mentzer,
+2009). Although the high kindling temperature of bone means that
+an initial supply of fuel is necessary to set bone on ﬁredKedrowski
+et al. (2009) demonstrated that bone ﬁres can be built and sustained
+using only dry grass as kindlingdthe use of bone as an additional
+fuel source serves to increase the duration of a ﬁre relative to the use
+of wood alone. All bone (cancellous vs. cortical, green vs. dry) was
+shown to have this effect; however, the duration of the ﬁre was
+longest when spongy bone was used, likely because of the fat contained within the trabecular bone (Théry-Parisot et al., 2005).
+Based on these results, Costamagno et al. (2005, 2009) argued
+that a preponderance of burned spongy bone (particularly as
+compared to compact bone) in an archaeological assemblage is
+strong evidence in favor of the use of bone as fuel. In contrast, if
+bone were simply thrown in a hearth as a means of eliminating
+food waste, all skeletal tissuedboth cortical and spongy bonedshould be burned (Théry-Parisot et al., 2005). Paleolithic sites
+such as Abri Pataud and Cuzoul de Vers (both in France) preserve
+horizons with large quantities of burned spongy bone relative to
+cortical bone, while also preserving relatively small samples of
+wood charcoal (Théry-Parisot, 2002; Villa et al., 2004). In each of
+these cases, the authors argued that bone was intentionally used as
+a fuel source. A preponderance of burned bone, combined with
+a relative scarcity of charcoal, has also been used to argue for the
+use of bone as fuel at the Paleolithic site of Hohle Fels (Germany;
+Schiegl et al., 2003).
+Based in large part on their extensive ﬁre experiments,
+Costamagno et al. (2009) recently reported on a new multivariate
+approach for ascertaining the source of burned bone at an
+archaeological site; their methodology was designed to discriminate between bone that was intentionally burned as fuel, bone that
+was not intentionally used for fuel, and bone that may have been
+used for fuel and/or was burned during site maintenance activities.
+Data required to apply this methodology include information on
+the relative frequency of burned spongy bone, data on the intensity
+of fragmentation, and on the intensity of combustion. Unfortunately, because my data was collected prior to the publication of
+this approach, at present, we cannot apply this methodology (most
+notably, I did not separate the miscellaneous non-identiﬁable bone
+into spongy and cortical fractions, and these bones comprise the
+majority of the assemblage). In the future, we plan to alter our data
+collection strategies so as to make the data more amenable to the
+application of the system developed by Costamagno et al. (2009).
+In making the argument that bone served as a fuel at Cuzoul de
+Vers, Villa et al. (2004) took a relatively simpler approach, demonstrating via a chi-square test that spongy bone was signiﬁcantly
+more likely to be burned than was cortical bonedthe condition to be
+expected if bone was being used as fuel. While I cannot directly
+replicate their analysis because my data are not amenable to being
+divided into “burned” vs. “unburned” categories, I can compare the
+proportion of rib/vertebrae fragments (spongy) and long bone shaft
+fragments (cortical) that were unburned or lightly burned to those
+that were moderately/highly burned (Table 5; data is from the nonidentiﬁed fraction and includes the less than and greater than 2 cm
+
+Table 5
+Data on the intensity of burning for spongy (ribs/vertebrae) vs. cortical bone (long
+bone shaft fragments); HP and post-HP MSA combined.
+
+Ribs/Vertebrae
+Shaft fragments
+
+NB/LB
+
+MB/HB
+
+2056
+14,349
+
+2143
+28,905
+
+bone). The difference is highly signiﬁcant (c2 ¼ 421.893; p < 0.0001),
+but in this case, it is the cortical elements that are burned to a greater
+degree. The same pattern is evidenced when the large and small
+fraction non-identiﬁable remains are considered separately, and
+when each unit under consideration is taken separately.
+It is important to keep in mind, however, that spongy elements
+such as the ribs and vertebrae may be more susceptible to postdepositional destruction as a result of their lower density, particularly after burning, and thus the recovery of these elements may
+be diminished. However, the sheer quantity of burned cortical
+bone, combined with the fact that charcoal is abundant throughout
+the sample (Allott, 2005, 2006), suggests that the preferential
+selection of spongy bone for fuel is not a sufﬁcient explanation for
+the heavy burning evidenced in the assemblage. As such, while
+recognizing that much of the burning at Sibudu may have resulted
+from post-depositional exposure to heat, I would agree with Cain
+(2005) that the disposal of food waste in ﬁre seems to be an
+appropriate interpretation for at least some of the burning evidenced at Sibudu. And yet, it is worth noting that even if bone were
+being discarded in the ﬁre primarily as a means of waste disposal,
+once in the ﬁre, it would have also acted as a fuel sourcedand it
+seems likely that Sibudu’s inhabitants would have become aware of
+this useful secondary function.
+As a whole, then, while incidental burning as a result of
+exposure to overlying hearths cannot be ruled out, it seems that at
+least two primary factors can account for the high frequency of
+burned bone at Sibudu, both of which are associated with site
+maintenance. First, the disposal of food waste into ﬁre, and
+second, the repeated burning of plant-based bedding. As discussed above, if Goldberg et al. (2009) are correct that the
+construction and burning of bedding was not taking place during
+the HP (implying that most of the burning in this phase would
+have been caused by disposal of food waste into ﬁre), then the
+proximate cause of burning during the HP and post-HP MSA may
+have been different. However, even under this scenario, it is
+possible bone continued to be burned as a means of disposing of
+food waste during the post-HP MSA, with the faunal assemblage
+being exposed to further heat damage when bedding was burneddthis could account for the higher frequency/intensity of
+burning during this phase.
+4. Burned bone at Sibudu: taphonomic issues
+Turning now to some of the taphonomic issues related to
+burned bone, several studies have documented that the act of
+combustion, in and of itself, results in high degrees of fragmentation (Costamagno et al., 1998, 2005; Knight, 1985; Stiner et al.,
+1995). In their bone-as-fuel experiments, Costamagno et al.
+(2005) demonstrated the degree to which this was the casedon
+average, whole humeri that were placed into a ﬁre fragmented
+into 182 pieces, 56.9% of which were less than 2 cm in length.
+While the severity of fragmentation varied based on whether the
+bone was burned whole or fragmentary, fresh or dry, all of the
+bones in their experiment fragmented to some degree during
+combustion.
+Experimental work by Stiner et al. (1995) also indicated that
+burned bones are more fragile (and thus more prone to post-
+
+J.L. Clark, B. Ligouis / Journal of Archaeological Science 37 (2010) 2650e2661
+
+depositional destruction) than unburned bones. They went on to
+propose that the mechanical strength of the burned bone varies as
+a function of the intensity of burning, with calcined bone being the
+most fragile. The data at hand should allow us to evaluate, at least in
+part, the hypothesis that more intensely burned bone is more
+fragiledif this were the case, one would expect the average fragment size to be smaller for the heavily burned material than for the
+other burning categories.
+Table 6 provides data on the average fragment weight for each
+burning category, divided by archaeological phase (based only on
+the non-identiﬁed fraction). Because variation in fragment size
+between the units under consideration may be biased by changes in
+prey size (see Clark and Plug, 2008; Clark, 2009), we are focusing
+only on variation within a given period. The heavily burned fragments do have the smallest average weight for each phase, lending
+some support to Stiner et al.’s hypothesis; this difference is most
+noticeable in the HP and post-HP MSA 2 deposits. However, in both
+of the post-HP MSA assemblages, the moderately burned fragments
+are actually somewhat larger than the unburned/lightly burned
+fragments, which seems to be counter to expectations. While the
+reasons for this are not entirely clear, it could be related to the
+presence of gypsum in the post-HP MSA deposits. Macroscopic and
+microscopic analyses have demonstrated that gypsum crystal
+formation during the post-HP MSA resulted in the fragmentation of
+bone (Cain, 2006; Clark, 2009; Schiegl and Conard, 2006). Because
+gypsum requires moisture to form, it could be that bone which was
+moderately burned (and thus more thoroughly dried) was less
+susceptible to gypsum crystal formation than bone that was
+unburned or only lightly burnt, resulting in a relatively lesser
+degree of fragmentation.
+Given that the most intensively burned material does seem to
+be more heavily fragmented, one might then expect that the
+fauna from the post-HP MSA 2 will be more fragmentary than
+that from the HP or post-HP MSA 1, since the post-HP MSA 2
+preserves a higher frequency of calcined bone. In this case, the
+greater intensity of burning damage (and thus the potentially
+higher degree of fragmentation) does not seem to directly relate
+to the overall percent of identiﬁable bone, as the post-HP MSA 2
+did not have lowest proportion of identiﬁable bone (see Clark,
+2009; Clark and Plug, 2008). However, this is only one of
+a myriad of ways of comparing the degree of fragmentation in an
+assemblage. While a more detailed discussion of fragmentation at
+Sibudu is beyond the scope of this paper (see Clark, 2009), the
+larger point is that if one can demonstrate that there is a relationship between the intensity of burning and the degree of
+fragmentation, and if the assemblages under consideration are
+differentially affected by burning, one must conduct a detailed
+analysis of fragmentation within the assemblage prior to drawing
+
+2659
+
+any behavioral inferences, as variability in the degree of fragmentation can bias comparisons of taxonomic and skeletal
+element frequencies.
+Burning can also negatively impact cortical preservation,
+causing cracking and peeling of the cortical surface and eventually
+the total loss of the original bone surface (Nicholson, 1993; Schmidt
+and Symes, 2008). That this was a factor for the current assemblage
+is clearly demonstrated by a consideration of burning status versus
+cortical preservation (Fig. 7; degree of cortical preservation was
+only recorded for the identiﬁed bone and was coded as ‘good’, ‘fair’,
+or ‘poor’). Bones with ‘fair’ cortical preservation frequently showed
+some degree of cracking and/or ﬂaking of the cortical surface, but
+this damage was often only superﬁcial. This was very similar to the
+type of heat damage described by Schmidt and Symes (2008:42) as
+“[appearing] as a ﬁne mesh of patterned cracks similar to those
+seen in old china or an aged painting.” Nicholson (1993) described
+a similar form of damage that she referred to as “peeling surface
+ﬁlms;” this damage occurred among bones heated to
+w300e500  C. While this type of damage may not reduce the
+visibility of some forms of surface modiﬁcations such as deep tooth
+punctures and chop marks, lighter forms of damage such as cut
+marks and tooth scores are unlikely to be well-preserved (see Clark,
+2009; Clark and Plug, 2008; and Cain, 2006 for more speciﬁc
+discussions of surface damage in the HP and post-HP MSA assemblage). Bones with ‘poor’ cortical preservation often did not
+preserve any of the original cortical surface, either because it had
+completely ﬂaked away, or, as was the case for much of the calcined
+bone, because the bone had become chalky in texture. In these
+cases, most forms of surface damage would not be expected to
+preserve.
+Given that the post-HP MSA 2 showed a much higher proportion
+of calcined bone than did the other units, it is perhaps not
+surprising that the phase also shows the greatest percentage of
+bones with poor cortical preservation (Fig. 8). This has important
+implications for analyses of variation in processing behavior based
+on signatures of human activity such as cutmarks and percussion
+damage, and suggests that comparisons of surface damage between
+these phases may not be appropriate.
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+
+Table 6
+Average fragment weight by phase/burning category.
+
+30%
+
+Phase
+
+Burning
+category
+
+Count
+
+Weight (g)
+
+Average weight (g)
+per fragment
+
+20%
+
+post-HP MSA 1
+
+NB/LB
+MB
+HB
+
+62,593
+50,017
+41,566
+
+23937.1
+19318
+15007.8
+
+0.3824
+0.3862
+0.3611
+
+10%
+
+NB/LB
+MB
+HB
+
+27,489
+19,511
+46,748
+
+9150
+7045.9
+13997.8
+
+0.3329
+0.3611
+0.2994
+
+NB/LB
+MB
+HB
+
+52,119
+50,175
+22,144
+
+16568.6
+11949.9
+4245.9
+
+0.3179
+0.2382
+0.1917
+
+post-HP MSA 2
+
+HP
+
+0%
+
+NB/LB
+
+MB
+
+Good
+
+1272
+
+462
+
+HB
+71
+
+Fair
+
+508
+
+662
+
+205
+
+Poor
+
+189
+
+237
+
+806
+
+Fig. 7. Relationship between burning intensity and cortical preservation (identiﬁed
+bone only).
+
+2660
+
+J.L. Clark, B. Ligouis / Journal of Archaeological Science 37 (2010) 2650e2661
+
+100%
+
+80%
+
+60%
+Good
+Fair
+Poor
+40%
+
+was the most heavily fragmented. We also demonstrated that heat
+damage did in fact negatively impact cortical surface preservation.
+These results indicate the importance of conducting thorough
+taphonomic analyses prior to making broader comparisons
+between units that show different frequencies or intensities of
+burning damage.
+Given that detailed studies of burned bone assemblages are still
+relatively uncommon, we hope that we have helped to demonstrate
+the relevance of incorporating such a studydincluding the analysis
+of non-identiﬁable bonedas a part of more traditional faunal
+analyses, as it is clear that this dataset has much to contribute to
+broader interpretations of human behavior and site formation
+processes.
+Acknowledgments
+
+20%
+
+0%
+HP
+
+post-HP MSA 2
+
+post-HP MSA 1
+
+Fig. 8. Cortical preservation data by phase (identiﬁed bone only).
+
+5. Conclusions
+The ubiquitous presence of burned bone (more than half of the
+assemblage shows at least moderate burning) is one of the deﬁning
+characteristics of the HP and post-HP MSA fauna from Sibudu. To
+date, we have yet to ﬁnd published data from another Paleolithic
+assemblage that shows the same degree and intensity of burning
+among all fragments, be they the small, non-identiﬁed fragments or
+the identiﬁed bones. Sibudu thus provides a good venue for
+exploring the behavioral and taphonmic implications of burned
+bone from an archaeological context.
+Before attempting to identify the timing and agent of burning in
+this assemblage, it was ﬁrst necessary to classify the bone based on
+the intensity of burning damage. Because organic or mineral
+staining can mimic, the changes the color that result from exposure
+to heat, a sample of bones were submitted for microscopic analysis
+in order to conﬁrm that color was a valid indicator of thermal
+alteration for the Sibudu assemblage. The results of this analysis,
+which employed methodology derived from the ﬁeld of organic
+petrology, indicated that visual classiﬁcation based on color was
+appropriate for identifying burned bone in this assemblage.
+The association of the burned bone with hearths and other
+indicators of human activity, the intensity of burning, and the sheer
+quantity of burned bone suggests that the bone was not burned as
+a result of natural ﬁres and also implies that the burning is not
+explainable solely as the result of unintentional processes. We
+propose that the burning in both the HP and the post-HP MSA was
+a reﬂection of site maintenance activities, although these activities
+may have not been the same during the two periods. While bone
+may have been discarded into ﬁre as a means of disposing of food
+waste in both periods, micromorphological work by Goldberg et al.
+(2009) indicated that a signiﬁcant portion of the burning in the
+post-HP MSA may have resulted from the periodic burning of plantbased bedding. Future experimental work will be aimed at determining more precisely the nature and intensity of burning that
+could be expected to result from this type of activity.
+Turning to the larger taphonomic implications of the high
+frequencies of burning; because the combustion of bone does result
+in fragmentation (Costamagno et al., 1998, 2005), it is therefore not
+surprising that the assemblages are also very heavily fragmented. A
+comparison of the average fragment sizes for each burning category
+indicated that, as predicted by Stiner et al. (1995), calcined bone
+
+We would like to thank Lyn Wadley for providing access to the
+Sibudu material and for her continued support, John Speth for his
+comments on an earlier version of this manuscript, and the anonymous reviewers, who helped make this a stronger paper. Research
+by JLC was partially supported by a research grant from Rackham
+Graduate School (University of Michigan) and from the National
+Science Foundation (Grant #0612606).
+Appendix. Supplementary data
+Supplementary data associated with this article can be found in
+the online version, at doi:10.1016/j.jas.2010.06.001.
+References
+Allott, L.F., 2005. Paleoenvironments of the Middle Stone Age at Sibudu Cave,
+KwaZulu-Natal, South Africa: an analysis of archaeological charcoal, Unpublished PhD Thesis, University of the Witwatersrand.
+Allott, L.F., 2006. Archaeological charcoal as a window on palaeovegetation and
+wood-use during the Middle Stone Age at Sibudu Cave. South Afr. Humanit. 18,
+173e201.
+Asmussen, B., 2009. Intentional or incidental thermal modiﬁcation? Analysing site
+occupation via burned bone. J. Archaeol. Sci. 36, 528e536.
+Backwell, L., d’Errico, F., Wadley, L., 2008. Middle Stone Age bone tools from the
+Howiesons Poort layers, Sibudu Cave. South Afr. J. Archaeol. Sci. 35, 1566e1580.
+Bennett, J.L., 1999. Thermal alteration of buried bone. J. Archaeol. Sci. 26, 1e8.
+Berna, F., Ligouis, B., Schiegl, S., Albert, R.M., Schiegl S., Miller, C.E., Bar-Yosef, O.,
+Dibble, H., Artioli, G., Conard, N., Goldberg, P., in preparation. High resolution
+study of Paleolithic combustion features: preliminary results from Kebara Cave
+(Israel), Pech de lAzé IV (France) and Hohle Fels (Germany).
+Buikstra, J.E., Sweagle, M., 1989. Bone modiﬁcation due to burning: experimental
+evidence. In: Bonnichsen, R., Sorg, M.H. (Eds.), Bone Modiﬁcation. University of
+Main Center for the Study of the First Americans, Orono, pp. 247e258.
+Cain, C.R., 2005. Using burned animal bone to look at Middle Stone Age occupation
+and behavior. J. Archaeol. Sci. 32, 873e884.
+Cain, C.R., 2006. Human activity suggested by the taphonomy of 60 ka and 50 ka
+faunal remains from Sibudu Cave. South Afr. Humanit. 18 (1), 241e260.
+Clark, J.L., 2009. Testing Models on the Emergence and Nature of Modern Human
+Behavior: Middle Stone Age Fauna from Sibudu Cave (South Africa), unpublished PhD Thesis, University of Michigan.
+Clark, J.L., Plug, I., 2008. Animal exploitation strategies during the South African
+Middle Stone Age: Howiesons Poort and post-Howiesons Poort fauna from
+Sibudu Cave. J. Hum. Evol. 54, 886e898.
+Cochrane, G.W.G., 2008. The transition from Howieson’s Poort to post-Howieson’s
+Poort industries in southern Africa. South Afr. Archaeol. Soc. Goodwin Ser. 10,
+157e167.
+Costamagno, S., Griggo, C., Mourre, V., 1998. Approche expérimentale d’un problème taphonomique: utilisation de combustible osseux au Paléolithique. Préhistoire Européenne 13, 167e194.
+Costamagno, S., Théry-Parisot, I., Castel, J.-C., Brugal, J.-P., 2009. Combustible ou
+non? Analyse multifactorielle et modèles explicatifs sur des ossements brûlés
+Paléolithiques. In: Costamagno, S., Théry-Parisot, I., Henry, A. (Eds.), Gestion des
+combustibles au Paléolithique et au Mésolithique: nouveaux outils, nouvelles
+interpretations. BAR International Series 1914. Archaeopress, Oxford, pp.
+65e84.
+Costamagno, S., Théry-Parisot, I., Brugal, J.-P., Guibert, R., 2005. Taphonomic
+consequences of the use of bones as fuel. Experimental data and archaeological
+applications. In: O’Connor, T. (Ed.), Biosphere to Lithosphere: New Studies in
+Vertebrate Taphonomy. Oxbow Books, Oxford, pp. 51e62.
+
+J.L. Clark, B. Ligouis / Journal of Archaeological Science 37 (2010) 2650e2661
+David, B., 1990. How was this bone burnt? In: Solomon, S., Davidson, I., Watson, D.
+(Eds.), Problem Solving in Taphonomy, Archaeological and Material Culture
+Studies in Anthropology, vol. 2 University of Queensland, Australia, pp. 65e79.
+Dibble, H.L., Berna, F., Goldberg, P., McPherron, S.P., Mentzer, S., Niven, L., Richter, D.,
+Sandgathe, D., Théry-Parisot, I., Turq, A., 2009. A preliminary report on Pech de
+l’Aze IV, Layer 8 (Middle Paleolithic, France). PaleoAnthropology, 182e219.
+Gifford-Gonzalez, D.P., 1989. Ethnographic analogues for interpreting modiﬁed
+bones: some cases from East Africa. In: Bonnichsen, R., Sorg, M.H. (Eds.), Bone
+Modiﬁcation. University of Maine Center for the Study of the First Americans,
+Orono, pp. 179e246.
+Goldberg, P., Miller, C.E., Schiegl, S., Ligouis, B., Conard, N.J., Wadley, L., 2009.
+Bedding, hearths and site maintenance in the Middle Stone Age at Sibudu,
+KwaZulu-Natal, South Africa. Archaeol. Anthropol. Sci. 1, 95e122.
+Hanson, M., Cain, C.R., 2007. Examining histology to identify burned bone. J.
+Archaeol. Sci. 34, 1902e1913.
+Jacobs, Z., Roberts, R.G., Galbraith, R.F., Deacon, H.J., Grun, R., Mackay, A., Mitchell, P.,
+Vogelsang, R., Wadley, L., 2008a. Ages for the Middle Stone Age of Southern
+Africa: implications for human behavior and dispersal. Science 322, 733e735.
+Jacobs, Z., Wintle, A.G., Duller, G.A.T., Roberts, R.G., Wadley, L., 2008b. New ages for
+the post-Howiesons Poort, late and ﬁnal Middle Stone Age at Sibudu Cave,
+South Africa. J. Archaeol. Sci., 1790e1807.
+Karkanas, P., Shahack-Gross, R., Ayalon, A., Bar-Matthews, M., Barkai, R., Frumkin, A.,
+Gopher, A., Stiner, M.C., 2007. Evidence for habitual use of ﬁre at the end of the
+Lower Paleolitihic: site formation processes at Qesem Cave, Israel. J. Hum. Evol.
+53, 197e212.
+Kedrowski, B.L., Crass, B.A., Behm, J.A., Leutke, J.C., Nichols, A.L., Moreck, A.M.,
+Holmes, C.E., 2009. GC/MS analysis of fatty acids from ancient hearth residues
+at the Swan Point archaeological site. Archaeometry 51, 110e122.
+Knight, J.A., 1985. Differential preservation of calcined bone at the Hirundo Site,
+Alton, Maine, M.S. Thesis, Quaternary Science, University of Maine at Orono.
+Ligouis, B., Bullinger, J., Leesch Plumettaz, D., 2006. Jais, lignite, charbon et autres
+matières organiques fossiles: application de la pétrologie organique à l’étude des
+éléments de parure et des fragments bruts. In: Le site magdalénian de Monruz, 1.
+Premiers éléments pour l’analyse d’un habitat de plein air. Neuchâtel, Service et
+Musée cantonal d’archéologie, Archéologie neuchâteloise, pp. 197e216.
+Lombard, M., Clark, J.L., 2008. Variability and change in Middle Stone Age hunting
+behavior: aspects from the lithic and faunal records. In: Badenhorst, S.,
+Mitchell, P., Driver, J.C. (Eds.), Animals and People: Archaeozoological Papers in
+Honour of Ina Plug. Archaeopress, Oxford, pp. 46e56.
+Lyman, R.L., 1994. Vertebrate Taphonomy. Cambridge University Press, Cambridge.
+Mentzer, S., 2009. Bone as a fuel source: the effects of initial fragment size distribution. In: Costamagno, S., Théry-Parisot, I., Henry, A. (Eds.), Gestion des combustibles au Paléolithique et au Mésolithique: nouveaux outils, nouvelles
+interpretations. BAR International Series 1914. Archaeopress, Oxford, pp. 53e64.
+Michel, V., Bocherens, H., Théry-Parisot, I., Valoch, K., Valensi, P., 2006. Coloring and
+preservation state of faunal remains from the Neanderthal levels of Kulna Cave,
+Czech Republic. Geoarchaeology 21, 479e501.
+Morin, E., 2004. Late Pleistocene Population Interaction in Western Europe and
+Modern Human Origins: New Insights Based on the Faunal Remains from SaintCesaire, Southwestern France. Unpublished PhD Thesis, University of Michigan.
+Nicholson, R.A., 1993. A morphological investigation of burnt animal bone and an
+evaluation of its utility in archaeology. J. Archaeol. Sci. 20, 411e428.
+Pickering, R., 2006. Regional geology, setting and sedimentology of Sibudu Cave.
+South Afr. Humanit. 18, 123e129.
+Schiegl, S., Conard, N.J., 2006. The Middle Stone Age sediments at Sibudu: results from
+FTIR spectroscopy and microscopic analyses. South Afr. Humanit. 18, 149e172.
+
+2661
+
+Schiegl, S., Goldberg, P., Pfretzschner, H.-U., Conard, N.J., 2003. Paleolithic burnt
+bone horizons from the Swabian Jura: distinguishing between in situ ﬁreplaces
+and dumping areas. Geoarchaeology 18, 541e565.
+Schiegl, S., Ligouis, B., Conard, N.J., Goldberg, P., 2004a. Mineralogy, micromorphology, phytolith analysis and organic petrology of Middle Palaeolithic and
+MSA Cave Sites: comparison between Sibudu (South Africa) and the Levant. In:
+Geoarchaeology of the Eastern Mediterranean. University of Tübingen.
+Schiegl, S., Stockhammer, P., Scott, C., Wadley, L., 2004b. A mineralogical and phytolith study of the Middle Stone Age hearths in Sibudu Cave, KwaZulu-Natal,
+South Africa. S. Afr. J. Sci. 100, 185e194.
+Schmidt, C., Symes, S., 2008. The Analysis of Burned Human Remains. Academic
+Press, New York.
+Shahack-Gross, R., Bar-Yosef, O., Weiner, S., 1997. 1997. Black-coloured bones in
+Hayonim Cave, Israel: differentiating between burning and oxide staining. J.
+Archaeol. Sci. 24, 439e446.
+Shipman, P., Foster, G., Schoeninger, M., 1984. Burnt bones and teeth: an experimental study of color, morphology, crystal structure and shrinkage. J. Archaeol.
+Sci. 11, 307e325.
+Sievers, C., 2006. Seeds from the Middle Stone Age layers at Sibudu Cave. South Afr.
+Humanit. 18 (1), 203e222.
+Sievers, C., Wadley, L., 2008. Going underground: experimental carbonization of
+fruiting structures under hearths. J. Archaeol. Sci. 35, 2909e2917.
+Speth, J.D., Clark, J.L., 2006. Hunting and overhunting in the Levantine late Middle
+Paleolithic. Before Farming 3, 1e42.
+Speth, J.D., Tchernov, E., 2001. Neandertal hunting and meat-processing in the Near
+East: evidence from Kebara Cave (Israel). In: Stanford, C.B., Bunn, H.T. (Eds.),
+Meat-Eating and Human Evolution. Oxford University Press, Oxford, pp. 52e72.
+Stiner, M.C., 2005. The Faunas of Hayonim Cave, Israel: A 200,000-Year Record of
+Paleolithic Diet, Demography, and Society. Peabody Museum Press, Harvard
+University, Cambridge, MA.
+Stiner, M.C., Kuhn, S., Weiner, S., Bar-Yosef, O., 1995. Differential burning, recrystallization, and fragmentation of archaeological bone. J. Archaeol. Sci. 22,
+223e237.
+Taylor, G.H., Teichmüller, M., Davis, A., Diessel, C.E.K., Littke, R., Robert, P., 1998.
+Organic Petrology. Gebrüder Borntraeger, Berlin.
+Théry-Parisot, I., 2002. Fuel management (bone and wood) during the lower
+Aurignacian in the Pataud rock shelter (Lower Paleolithic, Les Eyzies de Tayac,
+Dordogne, France). Contribution of experimentation. J. Archaeol. Sci. 29,
+1415e1421.
+Théry-Parisot, I., Costamagno, S., 2005. Propriétés combustibles des ossments:
+données expérimentales et réﬂexions archéologiques sur leur emploi dans les
+sites paléolithiques. Gallia Préhistoire 47, 235e254.
+Théry-Parisot, I., Costamagno, S., Brugal, J.-P., Fosse, P., Guibert, R., 2005. The use of
+bone as fuel during the Paleolithic, experimental study of bone combustible
+properties. In: Mulville, J.P., Outram, A.K. (Eds.), The Zooarchaeology of Milk and
+Fats. Oxbow Books, Oxford, pp. 50e59.
+Villa, P., Castel, J.C., Beauval, C., Bourdillat, V., Goldberg, P., 2004. Human and
+carnivore sites in the European Middle and Upper Paleolithic: Similarities and
+differences in bone modiﬁcation and fragmentation. Revue de Paleobiologie,
+Geneve 23, 705e730.
+Wadley, L., 2006. Partners in grime: results of multi-disciplinary archaeology at
+Sibudu Cave. South Afr. Humanit. 18 (1), 315e341.
+Wadley, L., 2009. Post-depositional heating may cause over-representation of redcoloured ochre in Stone Age sites. S. Afr. Archaeol. Bull. 64 (190), 166e171.
+Wadley, L., Jacobs, Z., 2006. Sibudu Cave: background to the excavations, stratigraphy and dating. South Afr. Humanit. 18, 1e26.
+
+

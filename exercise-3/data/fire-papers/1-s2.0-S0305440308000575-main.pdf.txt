@@ -1,0 +1,1728 @@
+Journal of Archaeological Science 35 (2008) 2434–2445
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Morphological, chemical and physical changes during charcoaliﬁcation of
+wood and its relevance to archaeological contexts
+F. Braadbaart a, *, I. Poole a, b
+a
+b
+
+Department of Earth Sciences-Geochemistry, Faculty of Geosciences, Utrecht University, P.O. Box 80021, 3058 TA Utrecht, the Netherlands
+Palaeoecology, Institute of Environmental Biology, Faculty of Science, Utrecht University, Budapestlaan 4, 3584 CD, Utrecht, the Netherlands
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 18 December 2007
+Received in revised form 17 March 2008
+Accepted 18 March 2008
+
+Wood exposed to a heat source can be transformed into charcoal if subject to conditions of carbonisation
+(in the absence of air) or charring (in restricted air). Charcoal recovered from archaeological sites can
+yield fundamental information to our understanding of human economic and cultural development over
+time and (ecological) setting. This work describes the morphological (anatomy, degree of shrinkage),
+physical (reﬂectance) and chemical (elemental, molecular composition) properties of charcoal in relation
+to heat source and wood variables. In this study charcoal and charcoal fuel were experimentally produced whereby temperature (160–1200  C), time of exposure (2–1440 min), heating rate (high and low)
+and wood type (angiosperm and conifer) were varied. The results show that charcoal, often described as
+an inert, black material, has different chemical and physical properties in relation to the investigated
+variables. By using these different properties it is possible to distinguish between the different types of
+ﬁres (domestic and industrial) exploited by humans in the past. Morphological analyses and reﬂectance
+measurements are effective tools for this purpose and can be used in wood exposed to temperatures of
+300  C and abovedtemperatures which are relevant to archaeological research. Angiosperm and conifer
+wood react in different ways when exposed to heat and thus the taxonomic identity of archaeological
+material needs to be known. Chemical analyses can be used for wood exposed to temperatures below
+400  C whereas elemental analyses of the carbon content can be used for wood exposed to temperatures
+up to a maximum of 650  C.
+Ó 2008 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Wood
+Quercus
+oak
+Pinus
+Pine
+Carbonization
+Charring
+Charcoal
+Reﬂectance
+Archaeobotany
+
+1. Introduction
+Wood has evolved over hundreds of millions of years to become
+arguably the most remarkable structural material on earth and for
+this reason has become an invaluable economic commodity for
+human society. The slow decomposition rate allows wood to remain in the soil for a number of years. However, over timescales of
+decades to millennia and, depending upon factors such as humidity, temperature, relative chemical composition and soil type (e.g.
+van der Wal et al., 2007), wood eventually succumbs to decomposition and is often lost from the historical record altogether.
+Nevertheless even though the archaeological record is relatively
+poor in wood per se, it contains a relatively rich record of charcoaliﬁed material, including wood. Charcoaliﬁed material is able to
+overcome both the physical and chemical decomposition associated with burial in the soil, and is thus the most common mode of
+survival of archaeological plant debris, whilst retaining the physical
+structure of the original material. Charcoal residue is therefore an
+
+* Corresponding author.
+E-mail address: brabra@wxs.nl (F. Braadbaart).
+0305-4403/$ – see front matter Ó 2008 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2008.03.016
+
+important source of information in helping our understanding of
+human economic and cultural developments over time. Although
+charcoaliﬁed wood is often abundant in archaeological sites, little is
+known regarding the morphological, physical and chemical
+changes associated with the charcoaliﬁcation process of wood
+itself, even though such changes associated with carbonized
+fruits and seeds have been studied in detail (Braadbaart, 2004;
+Braadbaart et al., 2007, Braadbaart, 2008). Therefore we have undertaken a series of experiments aimed at increasing our knowledge regarding the changes associated with heating both wood and
+charcoal as a fuel, and thus being able to deﬁne the term charcoal in
+the archaeological context. Subsequently we explore the possibility
+of being able to retrieve information, additional to local vegetation
+composition and possible sivicultural practices for example, relevant to human activity in the past. A prerequisite to understanding
+the changes associated with charcoaliﬁcation is a basic understanding of the morphological, physical and chemical characteristics of modern wood. These characteristics are summarized
+below.
+Wood can be subdivided into two main types depending upon
+its biological origin. Softwood, derived from conifers, is comprised
+predominantly of axial tracheids, which in turn is composed of
+
+F. Braadbaart, I. Poole / Journal of Archaeological Science 35 (2008) 2434–2445
+
+25–35% lignin, 37–45% cellulose and 20–25% hemicellulose. Hardwood, derived from angiosperms, is morphologically more complex
+generally comprising up to ﬁve different axial elements including
+parenchyma, ﬁbres and, most notably, vessels. The chemical composition of the elements in angiosperm wood also differs from that
+of conifer wood with generally a lower proportion of lignin (20–
+25%) occurring in angiosperm wood coupled with a higher hemicellulose content (20–35%) and similar proportions of cellulose
+(39–45%) (Sjöström, 1993; Blanchette, 2000). However, proportions
+can vary further, both within and between species, depending upon
+factors that can include mechanical (e.g. reaction wood) or ecological
+(e.g. arid habitat) stress, etc. (e.g. Meier, 1964; Malik et al., 2004).
+Within the lignin fraction further differences exist between
+softwoods and hardwoods. Lignins are classiﬁed according to the
+relative amounts of guaiacyl (2-methoxyphenol), syringyl (2,6dimethoxyphenol) and p-hydroxyphenyl monomers (Van der Hage
+et al., 1993). In general conifer lignin is composed primarily of
+guaiacyl monomers whereas angiosperm lignin is characterized by
+the presence of both guaiacyl and syringyl monomers.
+Charcoal is considered to be an inert, black material, with
+morphological properties similar to that of modern wood, yet an
+exact deﬁnition is lacking (Connor et al., 1994; Antal et al., 1996;
+Kim and Hanna, 2006). Charcoal formation (charcoaliﬁcation) occurs either by heating wood in a limited supply of air (oxygen) (i.e.
+charring), or in the absence of air (oxygen) (i.e. carbonization). In
+the literature these three terms have been used interchangeably
+and it is therefore necessary to clarify the distinctiondthe differences have been summarized in Fig. 1. Importantly the residues
+formed by these different heating processes can have different
+chemical and physical properties (Braadbaart, 2004).
+On heating, wood constituents thermally decompose and volatiles are released. If air (oxygen) is present the volatiles can ignite
+and begin to burn producing the characteristic ﬂame and giving the
+appearance of burning wood. In an abundant supply of air (oxygen)
+the wood will combust to form an ash end product, but under
+conditions of limited or no oxygen, charcoal will be formed (see
+Fig. 1).
+The morphological, physical and chemical properties of charcoal
+can differ depending upon two main variables associated with the
+heating process (Braadbaart et al., 2007; Braadbaart, 2008): (1) heat
+source related variables, which include temperature, time of exposure and heating rate ( C/min); and (2) wood property variables,
+which include taxon, size, thermal conductivity and porositydvariables that can also change during the charcoaliﬁcation
+process itself. With increasing temperature the initial changes to
+occur are: (1) morphologicaldthe darkening of the wood which
+ultimately becomes black; (2) physicaldconsiderable mass loss,
+shrinkage, and possible anatomical distortion, of the original
+material resulting from the formation and loss of many volatiles;
+and (3) chemicaldthe continuous and gradual conversion of the
+cellulose, hemicellulose and lignin to predominantly aromatic
+moieties, and thereby forming a new chemically-distinct, carbonenriched end product (Shaﬁzadeh, 1982; Boon et al., 1994;
+Braadbaart, 2004; Braadbaart et al., 2007).
+With regard to the heating variables, human-related heating
+regimes can be divided into those that are domestic and those that
+are industrial. In the former, temperatures are usually relatively low
+and wood is used as the fuel. At the outset the heating rate of
+a domestic ﬁre will be low, but later once the ﬁre is established the
+heating rate of further wood fuel will increase. In this type of ﬁre,
+wood is exposed to air and undergoes charring with the most likely
+end product being ash that is of little use to archaeologists. If this
+process is interrupted (e.g. dousing with water or not stoking the
+ﬁre) then charring is often incomplete and charcoal can result.
+Industrial processes required ﬁres of much higher temperatures
+relative to their domestic counterpart. Required temperatures
+
+2435
+
+Wood
+heat
+release of volatiles
+no air (oxygen)
+no flames
+
+(1) carbonization
+
+restricted air
+flames
+
+(2) charring
+
+incomplete
+combustion
+
+charcoal
+
+complete
+combustion
+
+ash
+
+Fig. 1. Schematic diagram showing the main processes (dotted boxes) by which
+charcoal is produced from wood in archaeological contexts. On heating, volatiles are
+released and one of two processes can occur: (1) in the absence of air (oxygen) carbonization takes place at minimum temperatures w300  C. (2) If a limited supply of air
+(oxygen) is present, charring takes place with released volatiles igniting to produce
+ﬂames (if there is a pilot heat source ignition occurs at w350  C, otherwise spontaneous ignition occurs at w600  C). At temperatures normally present in domestic ﬁres,
+total combustion results in the formation of ash. If combustion is interrupted (e.g.
+dousing with water, ﬁre left to extinguish or removal of material from the ﬁre) the
+temperature will drop below w350  C, no further volatiles are released and the end
+product will be charcoal rather than ash. Together processes (1) and (2) can be termed
+charcoaliﬁcation. Note that indicated temperatures depend upon length exposure and
+in archaeological situations length of exposure is taken as more than 15 min (see text
+for details).
+
+ranged from 500 to 1200  C depending upon the purpose. When
+temperatures in excess of 900  C were required charcoal, with its
+higher caloriﬁc value, was the preferential fuel. In the presence of
+air (introduced via bellows for example), charcoal is capable of
+producing an intense heat about twice that of wood (Armstrong,
+1978) and in this way a charcoal fuelled ﬁre can attain temperatures
+of around 1300  C within 15 min. However, the charcoal fuel ﬁrst
+had to be prepared in a separate industrial process where wood was
+heated, in the absence of air, to temperatures of w500  C where it
+underwent carbonisation to form charcoal.
+The charcoal remains found in archaeological sites can provide
+important information pertaining to not only local vegetation and
+sivicultural practices but also temperature at which it was formed
+and thus ﬁre type and human activity. It is the experimental formation of these charcoal remains that form the subject of this
+study. Charcoal derived from natural heat sources such as wild ﬁres
+and hot pyroclastic ﬂows in volcanic contexts are beyond the scope
+of this study.
+In order to investigate more fully the inﬂuence of both heat
+source- and wood property related variables, a series of controlled
+experiments were undertaken to explore the chemical, physical
+and morphological properties of wood and whether such changes
+can be used to help interpret archaeological contexts. Angiosperm
+and conifer wood samples were heated using different regimes
+under experimental conditions. Previous studies (Braadbaart,
+2004) have shown that experimental carbonization of fruits and
+seeds are similar to traditional methods for charcoal production
+
+2436
+
+F. Braadbaart, I. Poole / Journal of Archaeological Science 35 (2008) 2434–2445
+
+under less controlled conditions (e.g. an open ﬁre). Open ﬁre situations, simulating those found in archaeological contexts where
+conditions would have been less controlled, were also studied with
+both wood and charcoal being used as a fuel. This was undertaken
+to ensure that these controlled experimental procedures produced
+data for wood material that were comparable with data derived
+from archaeologically formed wood material, and in turn that
+general conclusions drawn from this study could be applied to archaeologically derived charcoal. Finally, the results from this study
+are applied to charcoal from archaeological sites with known
+contextual data to determine the feasibility of using the analytical
+approach to archaeological charcoal in this way.
+2. Material
+2.1. Modern samples
+Wood of pine (Pinus sylvestris) and oak (Quercus robur) are often
+found in archaeological sites in Europe and therefore these taxa
+were selected for this study. In some experiments wood of yew
+(Taxus baccata), birch (Betula pendula), hornbeam (Carpinus betulus)
+and walnut (Juglans regia) were used as supplementary material
+and/or to verify the results obtained from the pine and oak samples,
+respectively. Wood samples of all taxa were taken from the trunks
+of trees, of similar age and with no evidence of damage or injury,
+originally growing in a forest along the North Sea coast in Heemstede, the Netherlands. From the heartwood, cubes measuring
+20  5  5 mm were taken and left to dry for 1 month. For each
+experiment two such cubes were used to check for consistency in
+the results.
+Charcoal fuel was obtained from a traditional charcoal kiln
+(‘meiler’) from Chr. Wagener, Netphen (Germany). For experiments
+in the laboratory where knowledge of the temperature was required, charcoal was made by heating oak wood in a preheated
+oven (to 450  C) and allowed to cool to ambient temperature
+(w20  C).
+
+Netherlands) where temperatures were in excess of 600  C. The
+charcoal end product was used for comparative purposes.
+Samples of charcoal fuel were prepared experimentally in the
+laboratory by heating oak wood using the procedure outlined below. These samples were subsequently used to determine the effect
+of heating on charcoal fuel. In addition, charcoal fuel samples of
+oak, walnut and hornbeam, made in a traditional charcoal kiln (cf.
+Armstrong, 1978), were used for comparative purposes.
+3.2. Time of exposure and mass loss
+Initial experiments were undertaken on modern oak wood
+samples to determine an optimal time of exposure to heat taking
+into consideration the reasonable duration of ﬁres in archaeological
+situations. To do this, oak samples were placed in the preheated
+oven and heated to 280, 310, 370, 440, 600 and 800  C for time
+intervals ranging from 2 to 1440 min. Separate samples were used
+for each time interval. Mass loss for each sample was calculated
+from the difference between the mass of the cooled treated material and the untreated material and expressed as a percentage.
+These mass losses were plotted as a function of time on a logarithmic scale. The time beyond which no further sharp mass loss
+occurred, at temperatures relevant to this study (i.e. >300  C), was
+taken as the point at which thermal conversion had been completed and therefore the optimum time of exposure (see Section 4
+for details). The optimal time was taken as 60 min and was used for
+subsequent experimental procedures.
+Further experiments investigating difference in mass loss between angiosperms and conifers were undertaken whereby samples were heated at the high heating rate to temperatures ranging
+from 160  C to 1200  C for 60 min (see Sections 3.3 and 3.4 for
+details). This was then repeated using the low heating rate (Section
+3.3) for 60 min at 250, 280, 310, 370, 400, 440, 500, 600, 700 and
+900  C. The results from the two heating rates and different taxa
+were then compared.
+3.3. Heating rate
+
+2.2. Archaeological samples
+The archaeological material investigated includes charcoal
+samples recovered from archaeological excavations within the
+Netherlands, namely a hearth pit in Schipluiden (3600–3300 BC);
+a burnt grain silo in Maastricht (650 AD); a burnt wooden shed in
+Tiel (150–220 AD); a mesolithic tar production site near Hattummerbroek. In addition samples from a Medieval ‘tandir’ bread oven
+and two hearth pits from Girag Kasaman, Azerbaijan were also
+studied.
+
+Two heating protocols were investigated: (1) high heating rate
+(HHR) where wood samples were placed directly into a preheated
+oven and heated for 60 min, to simulate fuel being added to an
+existing ﬁre; (2) low heating rate (LHR) where wood samples were
+placed into an oven at ambient temperature, heated to a preselected ﬁnal temperature in 120 min and kept at this ﬁnal
+temperature for 60 min, to simulate heating a starter fuel. Results
+from the two heating regimes were compared.
+3.4. Temperature
+
+3. Methods
+3.1. Experimental charcoal production
+The procedure of Braadbaart (2004) was adopted to experimentally carbonize wood under controlled conditions. Wood
+samples were heated in a Carbolite tube oven (model MTF 12/38/
+250) at atmospheric pressure under a constant ﬂow of nitrogen
+(150 ml/min) to ensure anoxic or reducing conditions. The samples
+were placed in an open PyrexÓ vessel and inserted into a 30 cm long
+Pyrex tube (B 2.3 cm) at 18 cm from the inlet. To prevent melting, at
+temperatures >1000  C a ceramic tube and vessel were used.
+Resultant gases and volatiles were vented and not investigated
+further. The inﬂuence of the heat source related variables namely
+temperature, heating rate and time of exposure were regulated as
+described below.
+Wood samples were also heated in traditionally managed open
+industrial ﬁres in the archaeological theme park Archeon (the
+
+For the modern wood samples a number of pre-selected ﬁnal
+temperatures were investigated, namely 160, 220, 250, 280, 310,
+320, 340, 370, 400, 440, 500, 600, 650, 700, 800, 900, 1000, 1100
+and 1200  C.
+Laboratory-produced charcoal fuel was made by heating oak
+wood at the LHR to a ﬁnal temperature of 450  C and left for 60 min.
+Samples were allowed to cool and then reheated using the HHR to
+ﬁnal temperatures of 800, 900, 1000, 1100 and 1200  C for 60 min.
+3.5. Morphological analyses
+Charcoal samples made using the two different heating protocols and different ﬁnal temperatures along with charcoal fuel
+heated to temperatures from 800  C up to a maximum of 1200  C,
+were prepared for microscopical study using standard techniques
+(Gale and Cutler, 2000). Anatomical structures were examined
+using epi-illumination under an Olympus BX41 microscope.
+
+F. Braadbaart, I. Poole / Journal of Archaeological Science 35 (2008) 2434–2445
+
+The degree of shrinkage can also be indicative of ﬁnal temperature and has been used to help determine original seed size and
+artefacts (Braadbaart, 2008), or anatomical character(s) which in
+turn have helped reconstruct palaeoecology (although not without
+difﬁculty). Therefore degree of shrinkage was also investigated in
+the oak wood samples. The mean of 25 tangential diameters of the
+ﬁrst formed, large early wood vessels of each oak charcoal sample
+prepared, using the two heating protocols and different ﬁnal temperatures, were measured. Degree of shrinkage was expressed by
+plotting the mean diameter of the early wood vessels in each
+charcoal specimen as the percentage of the mean diameter of the
+early wood vessels in the unheated (fresh) oak wood sample
+against ﬁnal temperature.
+3.6. Physical analyses
+The reﬂectance (%Ro) of charcoaliﬁed organic material provides
+information regarding the temperature at which the material became charcoaliﬁed (Braadbaart, 2004). Reﬂectance is deﬁned as the
+percentage of vertically incident monochromatic light reﬂected
+from a highly polished surface of a sample calibrated against the
+light reﬂected from a standard of known reﬂectance. To determine
+relative reﬂectance and any taxonomic differences, the three planes
+of section (transverse, radial longitudinal and tangential longitudinal) were studied for each specimen of: (1) experimentally
+produced charcoal from oak, birch, pine and yew wood, heated at
+the HHR and a ﬁnal temperature of 310–1200  C; (2) charcoal fuel
+(oak wood), which was subsequently exposed to ﬁnal temperatures
+ranging from 800–1200  C; and (3) archaeological charcoal
+specimens.
+Material was embedded in resin blocks and polished. Reﬂectance was measured under oil immersion at a wavelength of
+546 nm using a Leitz motorized DMLA microscope equipped with
+an xyz-stage and a Basler video camera. For each specimen a total of
+100 randomly performed reﬂectance readings were taken (to obtain a statistically acceptable population) and the mean reﬂectance
+of each specimen calculated. Preparation of polished blocks and
+reﬂectance measurements were performed in accordance with
+standard methods deﬁned in ISO 7404, part 2 (1985) and ISO 7404,
+part 5 (1994).
+This study was then extended to determine the inﬂuence of
+exposure time on reﬂectance values of oak and pine samples heated
+at the HHR for 15 min and 24 h at 370, 440, 600 and 800  C and
+compared with the results obtained for heating at the ﬁnal
+temperature (up to 1200  C) for 60 min.
+3.7. Chemical analyses
+3.7.1. Elemental analyses
+Differences in the elemental (carbon) composition of treated
+oak wood samples relative to untreated oak wood were investigated. Each specimen was ground to a ﬁne powder and subjected to a carbon analysis using a Fisons Instruments NA 1500
+series 2 NCS analyser. The temperature in the combustion reactor
+was maintained at 1020  C. The combustion products were separated on a Porapak QS column with a length of 2 m. All values stated
+are based on singular measurements corrected for water and ash
+content. To calculate the carbon content as dry and ash free (daf),
+the water and ash content were determined on a Thermogravimetric Analyser TGA 2950 Hi-Res. The carrier gas was air and the
+heating rate was set at 25  C/min, water content was determined at
+105  C and ash content at 960  C.
+3.7.2. Molecular analysis
+Differences in molecular composition of heated wood samples
+relative to unheated wood were investigated using direct
+
+2437
+
+temperature-resolved mass spectrometry (DTMS) with a JEOL SX102A double focusing mass spectrometer (B/E) with a direct insertion probe equipped with a Pt/Rh (9/1) ﬁlament for analysis
+under electron impact (EI) conditions. Powdered samples of unheated and heated oak and pine wood were placed on the ﬁlament
+and inserted directly into the ion source of the mass spectrometer.
+Under EI conditions ions were generated by low voltage electron
+ionization (16 eV) in an ionization chamber kept at 180  C and accelerated to 10 kV. The scan range was m/z 20–1000 with 1 s cycle
+time and mass resolution of 1000 and 3000. Data were acquired
+using a JEOL MP-7000 data system. Since previous measurements
+on residues of peas, wheat grains and sunﬂower achenes showed
+that the sampling and experimental variance was very small
+(Braadbaart, 2004), only single measurements were performed for
+each sample.
+3.8. Archaeological simulation of fuel exposure to heat
+Oak wood is known from archaeological settings to have been
+used as a fuel for domestic cooking ﬁres (e.g. Gale and Cutler,
+2000). Therefore oak wood and charcoal fuels were used to investigate the heating process in a traditional open ﬁre. A ﬁre was
+lit and left to burn for 1 h during which time the ﬁre was stoked to
+simulate a cooking ﬁre. After burning for one hour the heat at the
+centre of a cooking ﬁre was determined by measuring the
+temperature of a piece of wood situated in the middle of the ﬁre
+(800  C) using a thermocouple. A piece of oak fuel wood was
+subsequently placed in the ﬁre and once it had also reached
+800  C it was left for 15 min and subsequently removed. Reﬂectance was then measured using the procedure outlined above.
+Three pieces of charcoal fuel produced in a traditional charcoal
+kiln were placed in a ﬁre prepared for bronze smelting. Once they
+had reached the desired temperature of w1200  C they were left
+for a further 15 min before removal. Reﬂectance was then measured
+using the procedure outlined above. These samples were then used
+to compare results derived from the archaeological charcoal with
+the results from the controlled heating experiments.
+4. Results
+4.1. Time of exposure
+The optimal time of exposure to ensure carbonization of the
+wood material was determined from the mass loss of oak samples
+heated using the HHR protocol at 280, 310, 370, 440, 600 and
+800  C plotted as a function of time (black squares, Fig. 2). At 280
+and 310  C no constant mass loss is reached even after 6 h
+(360 min). However samples heated at 370 and 440  C, show an
+initial rapid mass loss followed by a considerably reduced mass loss
+after approximately 10 min. After 60 min heating to all temperatures above 310  C, no further signiﬁcant loss in mass occurred and
+therefore this time was taken to be the optimal time of exposure.
+4.2. Mass loss
+Difference in mass loss between taxa (pine versus oak) and
+heating regime (HHR versus LHR) at different temperatures is
+plotted in Fig. 3a,b. In all cases initial mass loss was rapid with
+w60% of the mass being lost over the 220–310  C temperature
+range (Fig. 3b). From 310  C up to w400  C mass loss continued but
+at a lower rate which decreased still further from 400  C to 1200  C
+(Fig. 3a). At 1200  C the total mass loss reached 75–85%, but does
+not become constant.
+Taxonomic identity also incurs a difference in mass loss. In the
+temperature range 160–350  C oak wood exhibits a greater mass
+
+2438
+
+F. Braadbaart, I. Poole / Journal of Archaeological Science 35 (2008) 2434–2445
+
+0
+
+a
+
+0
+
+20
+
+40
+280
+310
+
+60
+
+310
+
+290
+
+Mass loss (%)
+
+Mass loss (%)
+
+20
+
+40
+
+60
+
+370
+370
+440
+
+80
+
+440
+
+80
+
+600
+800
+
+1
+
+10
+
+100
+
+1000
+
+600
+
+10000
+100
+
+Time (minutes)
+Fig. 2. Mass loss (%) of oak wood samples (black circles) heated at different temperatures ( C), expressed as a function of the time of exposure (minutes), is plotted on
+a logarithmic scale to determine the optimum time of exposure. Compare these data
+with those (open triangles) obtained from heating wheat grains (Triticum dicoccum)
+adapted from Braadbaart (2004; his ﬁgure 7.3) where similar mass losses were found.
+For dashed line see text.
+
+0
+
+b
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+0
+
+loss compared with pine, whereas at temperatures >350  C mass
+loss in pine wood was greater than that of oak wood (Fig. 3).
+Heating protocol also affects mass loss. The mass loss in samples
+heated at a HHR is consistently 5–10% higher than those samples
+heated at a LHR.
+
+Mass loss (%)
+
+20
+
+40
+
+60
+
+4.3. Morphological analyses
+4.3.1. Low heating rate
+Up to temperatures of w300  C the wood characteristics change
+little from that of untreated wood (Table 1). The colour becomes
+increasingly dark but the texture and properties are essentially that
+of wood rather than charcoal. Between 310 and 370  C the physical
+properties of the wood undergo a change from being essentially
+wood-like to becoming typically charcoal-like. This was accompanied by a more pronounced colour change (dark brown to black),
+ability to break the specimen by hand (not possible to possible),
+weight/mass change (becoming relatively light in weight), degree
+of reﬂectance under epi-illumination (non-reﬂective to reﬂective)
+and its friability (non-friable to friable). In the oak material this was
+also accompanied by an anatomical change whereby the characteristic multiseriate rays can appear ‘exploded’ as if a sudden release of pressure had occurred through this region of relatively
+weak tissue. This was not observed in the pine, probably due to the
+rays being only one cell wide. A further physical change occurs
+above 600  C such that by 800  C the anatomy can appear distorted,
+and increasingly so with increasing temperature. By 900  C the
+charcoal has become powdery and fragments easily. By 1000  C the
+anatomy is deformed and by 1200  C the anatomy is no longer
+recognizable.
+4.3.2. High heating rate
+As with the LHR, up to temperatures of w300  C the characters
+of both oak and pine wood changed little from that of untreated
+wood (Table 1). Although the colour became increasingly dark
+again the texture and properties are essentially that of wood
+rather than charcoal. The exception to this generalisation is oak
+wood at temperatures above 250  C where the sample became
+
+80
+
+100
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+Temperature (°C)
+Fig. 3. Mass loss (%) oak (circles) and pine (squares) experimentally heated for 60 min
+plotted as a function of the temperature ( C). Solid symbols represent samples heated
+at a high heating rate (HHR) and open symbols samples heated at a low heating rate
+(LHR). (a) full temperature range from 160–1200  C; (b) enlargement of the temperature range 160–400  C (dotted box in (a))over which the most rapid mass loss occurs.
+
+easier to break by hand. This was not observed in pine probably
+due to the absence of the multiseriate (sometimes aggregated)
+rays, and thus lines of weakness, along which fracturing was able
+to occur in oak. Between 310 and 370  C the physical properties of
+the wood underwent a change from being essentially wood-like
+to becoming typically charcoal-like. This was accompanied by
+a colour change, albeit not as pronounced as in the LHR (dark
+brown to black), ability to break it by hand (not possible to
+possible), weight/mass change (becoming relatively light), degree
+of reﬂectance under epi-illumination (non-reﬂective to reﬂective)
+and its friability (non-friable to friable). Moreover the ‘exploded’
+rays in the oak sample were also observed at this temperature. By
+800  C the anatomy of both the oak and the pine had become
+distorted and by 900  C the texture was distinctly powdery. By
+1000  C the anatomy was deformed and by 1200  C the anatomy
+was no longer recognizable.
+
+2439
+
+4.3.3. Fuel charcoal prepared at 450  C
+The wood samples that were heated to 450  C and then allowed
+to cool before heating to a range of temperatures between 800 and
+1200  C all retained the anatomy of charcoal heated to around
+450  C regardless of the ﬁnal temperature to which it was exposed.
+They were black in colour, obviously charcoal but fractured easily
+by hand yet were not powdery or excessively friable. The anatomy
+was intact and reﬂectance was relatively high.
+The glassy or vitriﬁed charcoal as for example described by
+Marguerie and Hunot (2007) were not found in the charcoal produced under the present experimental conditions. However,
+a glassy product with chemical composition of tar (Braadbaart,
+unpublished data), with no morphological structure, similar to that
+described by Marguerie and Hunot (2007) was formed along side
+the charcoal specimens.
+4.3.4. Degree of shrinkage
+The results (Fig. 4) indicate that initial shrinkage was more
+pronounced when heated at the HHR relative to the LHR. However, at temperatures above 370  C the relative shrinkage was
+similar for both heating regimes. For wood specimens initially
+heated to 450  C to form charcoal, then reheated to a ﬁnal
+temperatures above 800  C the shrinkage was similar to that
+observed by the wood heated directly to that ﬁnal temperature
+using, in particular, the low heating rate. Vessel diameter of
+specimens subjected to the HHR to ﬁnal temperatures above
+900  C could not be used due to the extensive anatomical disruption (Table 1).
+
+4.4. Physical analysis
+Reﬂectance measurements were taken from oak, birch, pine and
+yew samples heated at ﬁnal temperatures ranging up to 1200  C
+(Fig. 5) and on samples of (oak) charcoal fuel material.
+From Fig. 5 it can be seen that reﬂectance measurements
+taken from oak samples are consistently greater than the pine
+samples over the whole range of investigated temperatures. This
+
+100
+
+90
+
+80
+
+Shrinkage (%)
+
+Very good
+Very
+Very good
+Good
+Yes
+No
+No
+Reﬂective
+Friable
+
+Intact
+
+Wood
+No
+
+Texture
+Ability to fracture
+by hand
+Anatomy
+
+Different heating rate (HHR versus LHR) resulted in no distinct morphological differences other than that asterisked. *At the HHR the colour appears dark yellow. Table should be read left to right with morphological change from the
+previous state noted at the relevant temperature.
+
+Not recognizable
+due to deformation
+and apparent fusion
+Deformed and/or
+fused in part
+Can be
+distorted
+Rays can appear exploded,
+otherwise anatomy intact
+
+Charcoal
+Fragments easily, light in weight
+
+Black
+Black
+Black-brown
+Very dark
+brown
+Dark brown
+Mid-brown
+Quercus
+Colour
+
+Yellow
+
+Dark yellow*
+
+Fractures relatively easily but not
+by hand
+
+Very good
+Very
+Very good
+Good
+Yes
+No
+No
+Reﬂective
+Friable
+
+Intact
+
+Dark yellow
+Yellow
+Wood
+No
+
+Powdery charcoal
+Fragments easily,
+light in weight
+Often distorted and/or
+fused in part
+
+Brittle, fragile, very light in weight
+
+Not recognizable
+due to deformation
+and apparent fusion
+Deformed and/or
+fused in part
+Can be distorted and/or
+fused in part
+Can be
+distorted
+Intact
+
+Black-brown
+Black
+Charcoal
+Fragments easily, light in weight
+Very dark brown
+Dark brown
+Mid-brown
+
+Black
+Powdery charcoal, often with white tinge
+Fragments easily, light in weight
+Brittle, fragile, very light in weight
+
+1200
+1000
+900
+800
+160
+
+220
+
+440
+
+600
+370
+310
+280
+250
+
+Pinus
+Colour
+Physical appearance
+Ability to fracture
+by hand
+Anatomy
+
+Temp., C
+
+Table 1
+Summary of the morphological changes that occur when conifer (pine) and angiosperm (oak) wood underwent experimental carbonization to form charcoal when exposed to different ﬁnal temperatures for 60 min
+
+F. Braadbaart, I. Poole / Journal of Archaeological Science 35 (2008) 2434–2445
+
+R = 0.959
+
+70
+
+60
+
+50
+
+40
+
+30
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+Temperature (°C)
+Fig. 4. Graph illustrating the relationship between the degree of shrinkage in early
+wood vessels of oak samples (R ¼ 0.959) heated using the two different heating regimes (HHR, solid circles, R ¼ 0.980; LHR, open circles, R ¼ 0.966; fuel wood, grey
+circles, R ¼ 0.958) and different ﬁnal temperatures expressed as a percentage of the
+diameter of untreated oak wood.
+
+2440
+
+F. Braadbaart, I. Poole / Journal of Archaeological Science 35 (2008) 2434–2445
+
+7
+
+7
+oak: R² = 0.98
+6
+
+6
+pine: R² = 0.99
+
+5
+
+Reflectance (%Ro)
+
+Reflectance (%Ro)
+
+5
+
+4
+
+3
+
+4
+
+3
+
+2
+2
+1
+1
+0
+400
+
+200
+0
+
+600
+
+800
+
+1000
+
+1200
+
+Temperature (°C)
+400
+
+600
+
+800
+
+1000
+
+1200
+
+Temperature (°C)
+Fig. 5. Mean reﬂectance measurements (%Ro) taken from wood samples experimentally heated, using the HHR, for 60 min as a function of the ﬁnal temperature ( C). Solid
+circles, oak; grey circles, birch; solid squares, pine; grey squares, yew; up-triangles,
+charcoal fuel sample.
+
+taxonomic difference in reﬂectance is slightly greater in lower
+temperature range (up to 500  C) but decreases at temperatures
+above 600  C. To verify this difference, samples of a second
+angiosperm (birch) and conifer (yew) sample was heated using
+the same protocol to ﬁnal temperatures of 440, 600 and 900  C.
+Reﬂectance measurements of these samples again showed that
+conifer woods have a lower reﬂectance value than angiosperm
+material when exposed to the same ﬁnal temperature. Moreover, at temperatures >800  C these differences are also
+reduced.
+Using the HHR regime, modern oak and pine wood samples
+heated to 310  C had reﬂectance measurements for 0.40 and 0.20,
+respectively. Reﬂectance values steadily increase to w6.5%Ro at
+1200  C. However the increase in reﬂectance of material subject to
+temperatures above 400  C is more rapid per increase in temperature when compared with the reﬂectance of material subject to
+temperatures lower than 400  C. This relatively rapid increase in
+reﬂectance remains rapid up to 700  C. Above 700  C the rate of
+increase of the reﬂectance decreases and then decreases still
+further at temperatures above 900  C.
+Reﬂectance measurements on charcoal fuel samples heated to
+temperatures >800  C at the HHR showed similar results to those
+obtained from the oak and birch material heated at the HHR to
+equivalent ﬁnal temperatures.
+Using the LHR regime no difference was observed between pine
+samples subject to the two heating regimes and heated to equivalent ﬁnal temperatures (data not shown). This corresponds with
+earlier observations on wheat grains subject to similar heating
+conditions (Braadbaart, 2008).
+The effect of time of exposure on reﬂectance of samples of
+oak and pine can be seen in Fig. 6. Reﬂectance increases not only
+as a function of temperature (which was to be expected) but also
+as a function of time, with the shorter time of exposure to
+a given temperature resulting in a lower reﬂectance. However, at
+lower temperatures (370 and 440  C) the inﬂuence of time is
+relatively less than at higher temperatures (500–800  C). At
+temperatures above 900  C, the inﬂuence of time of exposure
+again decreases.
+
+Fig. 6. Mean reﬂectance measurements (%Ro) taken from oak and pine wood samples
+experimentally heated, using the HHR, for 15, 60 and 1440 min, plotted as a function of
+the ﬁnal temperature ( C). Reﬂectance is seen to increase as a function of time exposed
+to a particular temperature as well as the temperature itself with the greatest increase
+falling in the temperature range of 440–800  C. Symbols as in Fig. 5.
+
+4.5. Chemical analysis
+4.5.1. Elemental analysis
+The elemental analysis of the untreated oak wood sample shows
+a carbon content of 50.1 wt%, daf (Fig. 7). The carbon content of the
+wood up to a temperature of 220  C remains relatively stable. As
+oak wood is heated to temperatures above 220  C the carbon
+content increases sharply rising from w51 wt%, daf at 220  C to
+
+100
+
+90
+
+Carbon content (wt%,daf)
+
+200
+
+80
+
+70
+
+60
+
+50
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+Temperature (°C)
+Fig. 7. Results of the elemental analyses of the carbon content (wt.%, daf) of oak wood
+samples: untreated and subject to the HHR as a function of the temperature ( C). Note
+the rapid increase in carbon content between 220  C and 650  C with a subsequent
+levelling off at temperatures >650  C. Note the slight (unexplainable) decrease in
+carbon content at 160  C which was also found in peas and sunﬂower achenes and
+seeds subjected to the same experimental protocol (Braadbaart, 2004, ﬁgure 2.5;
+Braadbaart et al., 2007, ﬁgure 4).
+
+F. Braadbaart, I. Poole / Journal of Archaeological Science 35 (2008) 2434–2445
+
+70.5 wt%, daf at 310  C and then steadily up to w94 wt%, daf at
+650  C. At temperatures from 650 to 1200  C the carbon content
+remains relatively constant.
+4.5.2. Molecular analysis
+Cellulose, hemicellulose and lignin are structural biopolymers of
+wood. During thermal decomposition (DTMS-EI) each polymer
+system generates its own chemical moieties with a characteristic
+mass distribution and appearance temperature. Together the
+presence of these different biopolymers results in a relatively
+complex pyrolysate. Thermal decomposition of these biomolecules
+as a function of the temperature has been discussed extensively in
+earlier studies (Braadbaart, 2004; Poole et al., 2002; Braadbaart
+et al., 2007) and thus thermal decomposition of wood will only be
+summarized here. The chemical composition of untreated oak and
+pine differ and therefore the results are presented separately.
+4.5.2.1. Oak. The EI spectrum of the untreated sample has an ion
+distribution that represents the characteristic mass peaks of polysaccharides and lignin (Fig. 8a). Mass peaks m/z 43, 57, 60, 73, 98,
+126 and 144 are derived from hexosesugars (cellulose) and m/z 85
+and 114 from pentosesugars (hemicelluloses) (Pouwels et al., 1989;
+Boon et al., 1994; Braadbaart, 2004). The main lignin markers in this
+spectrum are the monomeric guaiacyl units m/z 124, 137, 150, 151,
+178, 180 and the syringyl units m/z 154, 167, 180, 194, 208, 210 (Van
+der Hage et al., 1993). The major mass peaks are assigned to coniferyl alcohol (m/z 180) and sinapyl alcohol (m/z 210). In the higher
+mass region, several lignin markers are visible. Mass peak m/z 272
+
+a
+100
+
+60
+73
+43
+
+50
+
+85
+210
+
+114
+
+180
+167
+
+137
+272
+0
+100
+
+200
+
+300
+
+400
+
+m/z
+
+b
+100
+
+2441
+
+is a well-known product of lignin pyrolysis with several plausible
+structures (Evans et al., 1986).
+The samples heated at 160 and 220  C have an identical mass
+distribution to the sample of untreated oak. At 250  C masses m/z
+110, 124, 138, 140, 154 and 168 (alkyldihydroxybenzenes or alkylmethoxyphenols or trimethoxybenzenes) become more apparent
+and are indicative of the presence of masses related to the thermal degradation of lignin (Klap et al., 1996). A relative increase of
+the aforementioned ions continues at 280, 290 and 300  C. At
+310  C the intensity of the polysaccharide markers has decreased
+substantially (Fig. 8b) and at 340  C these markers are no longer
+apparent in the spectrum and only thermal degradation products
+of lignin are observed (not shown).
+At 340 and 370  C the spectra (not shown) present clusters of
+three mass peaks with (CH2) mass increments such as m/z 146, 147,
+148, 160, 161, 162, etc. that correspond to a homologues series of
+condensed aromatic compounds and mass peaks related to alkylated phenols and benzenes such as m/z 91, 92, 94, 107, 108 and 122
+with a relatively low intensity. These mass peaks are typical products resulting from the thermal degradation of polysaccharides and
+lignin (Boon, 1992; Braadbaart et al., 2007). Finally, at temperatures
+above 400  C, the material is characterized by a very low amount of
+pyrolysis products. The spectra show ions m/z 28 (CO) and 44 (CO2)
+derived from O-containing polyaromatics. Also m/z 78 (benzene) is
+present indicative of a highly condensed material.
+4.5.2.2. Pine. Untreated pine wood is characterized by the presence
+of the above mentioned characteristic polysaccharide and lignin
+markers, but only monomeric guaiacyl units (m/z 124, 137, 151, 178
+and 180) are observed (Fig. 9a). In conifer wood m/z 272 is usually
+higher in abundance when compared with angiosperm wood
+(Evans et al., 1986). The higher mass range is characterized by
+masses m/z 239, 285, 300 and 302, which are indicative of the
+presence of pine resin (Colombini et al., 2005). Masses m/z 256 and
+284 are attributed to fatty acids.
+The mass distribution of the samples heated at 160, 220 and
+250  C remain unchanged relative to the untreated sample. Above
+250  C the presence of masses m/z 110, 124 and 138 (dihydroxybenzenes or alkylated methoxyphenols) indicate the presence of
+thermally degraded lignin (Klap et al., 1996). At 310 (Fig. 9b) and
+320  C the polysaccharide and lignin (guaiacyl) pyrolysis products
+remain abundant (in contrast to oak), which is also true for mass
+peaks m/z 91, 92, 94 and 107. The masses m/z 284, 298, 312 and 326,
+with a relative high intensity can be attributed to fatty acids.
+From 340  C the polysaccharide and lignin markers are no longer observed. The spectrum is characterized by the presence of
+mass peaks m/z 110, 124 and 138, and m/z 91, 92, 94 and 107. As with
+the oak material, at temperatures above 440  C, the pine wood is
+characterized by a very low amount of pyrolysis products and ions
+m/z 28 (CO) and 44 (CO2) and m/z 78 (benzene).
+4.6. Archaeological simulation of fuel wood exposure to heat
+
+50
+
+124
+110
+
+The piece of oak wood fuel placed in an established cooking ﬁre
+and left for 15 min, once the wood had reached a temperature of
+800  C, had a reﬂectance value of 5.21%Ro (Table 2). One of the three
+pieces of charcoal fuel from the charcoal kiln introduced to an
+established ﬁre and left for 15 min at a temperature of 1100  C had
+reﬂectance value of 5.95%Ro. The other two pieces, exposed to
+a temperature of 1200  C for 15 min had an average reﬂectance
+values of 6.21%Ro (Table 2).
+
+154
+168
+
+60
+0
+100
+
+200
+
+300
+
+400
+
+m/z
+Fig. 8. DTMS-EI mass spectra of oak wood. (a) untreated; (b) heated in the absence of
+air at 310  C for 60 min.
+
+5. Discussion
+Charcoal is a term that is frequently encountered in the literature, yet there is no standard deﬁnition for this residue. Therefore
+
+137
+124 151
+
+138
+124
+110
+
+100
+
+60 73
+85
+
+60
+73
+
+85
+
+180
+
+m/z
+
+200
+
+m/z
+
+200
+
+400
+
+400
+
+Derived from
+morphology
+Charcoal prod.
+Charcoal prod.
+Charcoal prod.
+Bronze melting
+Bronze melting
+Bronze melting
+Iron ore smelting
+Domestic ﬁre
+
+500
+500
+500
+1200
+1200
+1200
+1200
+Up to 800
+
+Days
+Days
+Days
+30 min
+30 min
+30 min
+24 h
+15 minþ
+
+2.55
+4.13
+3.84
+6.13
+6.23
+6.41
+5.51
+5.21
+
+0.072
+0.094
+0.227
+0.267
+0.214
+0.243
+0.236
+0.232
+
+510
+580
+560
+1100
+1100
+1250
+860
+750
+
+>440 < 800
+>440 < 800
+>440 < 800
+>900
+>900
+–
+–
+–
+B. Archaeological samples
+Schipluiden
+8941
+Maastricht
+1-55,8
+Tiel
+22
+Hattummerbroek
+5843-1
+Hattummerbroek
+5630-3
+Hattummerbroek
+4547-4
+Azerbaijan
+S1
+Azerbaijan
+S2
+Azerbaijan
+S3
+
+Hearth pit
+Grain silo
+Burnt shed
+Tar prod.
+Tar prod.b
+Tar prod.
+Hearth pit
+Tandir
+Hearth pit
+
+800
+Not known
+Not known
+500
+500
+500
+800
+Not known
+800
+
+15 minþ
+Not known
+Not known
+15 minþ
+15 minþ
+15 minþ
+15 minþ
+Not known
+15 minþ
+
+1.0–1.5
+0.47–0.60
+1.15
+0.98
+0.89
+1.16
+1.1
+0.51
+1.27
+
+0.227
+0.076
+0.136
+0.091
+0.98
+0.162
+0.120
+0.071
+0.165
+
+380–420
+320–340
+390
+440
+440
+450
+390
+310
+400
+
+>400 < 800
+>400 < 800
+>400 < 800
+>400 < 800
+>400 < 800
+–
+>400 < 800
+>400 < 800
+
+F. Braadbaart, I. Poole / Journal of Archaeological Science 35 (2008) 2434–2445
+
+285
+272 300
+300
+
+298
+284 312
+326
+
+300
+
+Derived from %Ro valuesa
+
+2442
+
+a
+100
+
+50
+
+0
+
+100
+
+b
+
+50
+
+0
+100
+
+Fig. 9. DTMS-EI mass spectra of pine wood. (a) untreated; (b) heated in the absence of
+air at 310  C for 60 min.
+
+a
+
+Temperatures derived from the calibration curve for angiosperm and conifer wood accordingly, (A) angiosperm, (C) conifer.
+This sample yielded material characterized by intact anatomy associated with the glassy, tar material similar to that described by Marguerie and Hunot (2007).
+b
+
+the aim of this research was to determine how the processes associated with charcoaliﬁcation affect the morphological, physical
+and chemical characters of the original wood to (1) deﬁne archaeological charcoal, and (2) determine how the properties of
+archaeological charcoal can be used to reveal more detail regarding
+possible human activities in the past.
+
+A. Archaeologically simulated charcoal samples
+Germany
+MC1
+Carpinus (A)
+Germany
+MC2
+Quercus (A)
+Germany
+MC3
+Juglans (A)
+Archeon (NL)
+MC2
+Quercus (A)
+Archeon (NL)
+MC3
+Quercus (A)
+Archeon (NL)
+Ar1
+Pinus (C)
+Archeon (NL)
+Ar2
+Pinus (C)
+Archeon (NL)
+Ar3
+Quercus (A)
+
+Prunus (A)
+Quercus (A)
+Quercus (A)
+Pinus (C)
+Pinus (C)
+Pinus (C)
+Quercus (A)
+Ulmus (A)
+Ulmus (A)
+
+Estimated temperatures ( C)
+Reﬂectance (%Ro)
+
+Standard
+deviation
+Length of
+exposure
+Final temperature ( C)
+Context
+Taxonomic
+status
+Identiﬁcation
+number
+Location
+
+5.1. Mass loss, temperature and time of exposure
+Although temperature is well known to be an inﬂuential factor
+for wood conversion to charcoal, little consideration has been given
+to the length of time of exposure to a heat source in relation to
+charcoal formation. Mass loss is a direct means by which the effects
+of time of exposure can be monitored. Samples heated to increasing
+ﬁnal temperatures attain equal mass losses at decreasing times of
+exposure (see horizontal dashed line depicting equal mass loss in
+Fig. 2). The results found for the wood samples studied here are
+similar to the ﬁndings of experiments performed on wheat grains
+(Braadbaart, 2004) whereby mass loss in the wheat grains exhibited the same behaviour as the charcoal albeit at somewhat higher
+temperatures and over a shorter time scale when compared with
+lower temperatures (Fig. 2). These earlier studies on wheat grains
+showed that the residues with equal mass loss also have identical
+chemical structure and composition thus the amount of energy (in
+this case heat) to convert the constituent biomolecules, cellulose,
+hemicellulose and lignin, into new compounds is identical for
+samples with equal mass loss. Therefore after a constant exposure
+
+Table 2
+Temperatures at which charcoal was formed inferred from reﬂectance measurements, and temperature ranges (estimated) as determined using morphology when material was available
+
+F. Braadbaart, I. Poole / Journal of Archaeological Science 35 (2008) 2434–2445
+
+time (60 min) morphological, chemical and physical changes in
+charcoal at different ﬁnal temperatures were compared.
+In addition to ﬁnal temperature and exposure time, heating rate
+also contributed to when such changes occurred. This is important
+as it might help determine whether the wood was used as a starter
+fuel (LHR) or simply fed to an already established ﬁre (HHR). These
+ﬁndings are similar to those of Braadbaart (2008) when wheat
+grains were subject to the same experimental conditions. This rapid
+mass loss is tentatively attributed to the violent reactions that take
+place with a sudden injection of energy associated with the HHR
+resulting in more material being lost to the external environment.
+The morphologically denser structure of the conifer wood would
+explain why an apparent increased amount of energy is required to
+break down conifer wooddvolatile products released will be relatively more mass loss constrained when compared with the more
+open structure of the angiosperm wood.
+5.2. Morphological changes
+An important aspect to archaeological charcoal studies is its
+morphology (colour, anatomy and texture). Residues are generally
+labelled ‘charcoal’ if they are dark brown-black with a relatively
+light texture and can be fractured by hand. However, the degree of
+change may provide further information regarding temperature
+and thus ﬁre type and usage.
+At temperatures of w350  C, regardless of heating regime, the
+predominantly wood like residue becomes a predominantly charcoal like residue. This infers stability in chemical and physical
+properties associated with a greater resistance to decomposition
+after deposition into the soil. Therefore the archaeological record is
+less likely to preserve evidence of wood heated at temperatures
+below 350  C and a charcoal residue is indicative of ﬁres attaining
+temperatures of w350  C and above.
+At temperatures from 350 to w800  C a charcoal residue is
+characteristically black in colour, can be easily fractured to reveal
+a well preserved anatomical structure that can be easily seen under
+epi-illumination. However at temperatures above 800  C, although
+the outward appearance is that of charcoal, the residue has become
+powdery in nature and the anatomy often distorted. At temperatures above 1000  C the anatomy is always distorted or deformed
+often appearing as if it has become fused prior to solidiﬁcation. This
+type of charcoal residue is often termed ‘poorly preserved’ when in
+fact it is indicative of very high temperatures and thus possibly of
+industrial, as opposed to domestic, ﬁres.
+In this study 15% shrinkage had occurred at 350  C whereas at
+800  C, 35% shrinkage had occurred. Little difference is seen between degree of shrinkage and heating regime although shrinkage
+is initially (up to w800  C) greater with the HHR regime compared
+with the LHR regime. Charcoal fuel also shrinks in similar fashion to
+that of wood fuel. However, without knowledge of parameters
+derived from the original wood, degree of shrinkage is of little use
+to the archaeologist in determining temperature and thus ﬁre type.
+5.3. Physical changes
+It has been noted that under epi-illumination increasing
+temperature results in an increased reﬂectance. This change in
+reﬂectance is related to a change in molecular arrangement. Above
+w280  C there is a gradual increase in the formation of multi-ring
+(3–5) aromatic structural units which causes an increase in reﬂectance (Carr and Williamson, 1989; Braadbaart, 2004). At about
+440  C condensation reactions take place accompanied by further
+molecular reorganization and the formation of large polyaromatic
+sheets which serve to increase reﬂectance still further (see below).
+From around 800  C the change in molecular structure becomes
+less drastic and this is reﬂected in the reﬂectance values increasing
+
+2443
+
+less steeply. This reﬂectance with increasing temperature can be
+quantiﬁed using the reﬂectance of known standards. From this
+purpose a calibration curve (Fig. 5) was established such that the
+ﬁnal temperature to which charcoal residue was heated can be
+obtained. Note that this curve was prepared using a time of
+exposure of 60 min and different exposure times result in different
+mass losses (Fig. 2). Thus (estimated) time of exposure has to be
+taken into consideration when determining temperature from
+reﬂectance.
+Although heating regime (HHR versus LHR) produces no difference in reﬂectance values at a given temperature (and thus no
+change in the shape of the plot; Fig. 5), time of exposure and taxonomic identity do. An increased time of exposure results in an
+increased reﬂectance at any particular temperature (Fig. 6). This
+difference is most obvious in the temperature range 500–800  C
+when the gradient of the curve is at its steepest. When reﬂectance
+values are <1%Ro, the difference in temperature attained after
+15 min and 24 h of heating is in the order of 15  C. This is also the
+case with reﬂectance values greater than 5.5%Ro. In the mid range,
+between reﬂectance values of 1.5 and 5.5%Ro, the errors in temperature estimates can be as great as 75  C (%Ro ¼ 4).
+Due to chemical and anatomical differences, taxonomic identity
+affects the reﬂectance at a given temperature. Reﬂectance of pine
+wood charcoal is consistently lower than that of oak wood charcoal.
+These results were conﬁrmed by repeating the experiments with
+birch and yew. Therefore in order to use reﬂectance values to
+determine temperature from archaeological charcoal, knowledge of
+the taxonomic identity and an informed estimate of time of
+exposure based on contextual data are fundamental prerequisites.
+5.4. Chemical changes
+From elemental analysis of oak wood the increase in carbon
+content with increasing temperature correlates to the change in
+reﬂectance. Noteworthy is that at temperatures above w650  C the
+carbon content levels off at about 95% daf (Fig. 7), which is at more
+or less the same temperature at which the reﬂectance also levels off
+(Fig. 5). Therefore carbon content of archaeological material in the
+range of 55–90% daf can only be used by archaeologists to indirectly
+determine temperature up to w650  C.
+The change in molecular composition with temperature is more
+complex since the taxonomic identity of the initial wood affects the
+resultant composition. For both conifers and angiosperms, DTMS-EI
+spectra of samples heated to 250  C are similar to untreated wood
+with an essentially carbohydrate–lignin dominated structure with
+both polysaccharide and lignin markers still present even though
+dehydration reactions have changed the chemical composition.
+This gradual change continues at temperatures >250  C where the
+polysaccharide and lignin markers gradually disappear and are
+replaced by thermal degradation products of these biomolecules.
+Above 300  C (w310  C for oak wood and w340  C for pine wood)
+polysaccharide and lignin markers are lost with angiosperm wood
+producing more aromatic compounds relative to conifer wood at
+any given temperature. At 400  C only aromatic moieties are
+present in both conifers and angiosperms. At temperatures above
+400  C the gradual change from the carbohydrate–lignin dominated structure to new, chemically distinct material with a highly
+carbon enriched character characterized by DTMS spectra showing
+masses representing CO, CO2 and benzene, has been completed.
+Therefore temperature related changes cannot be determined from
+samples heated to above w400  C. The slower chemical change in
+conifer wood during the charcoaliﬁcation process co-occurs with
+changes seen in the morphology and reﬂectance values as discussed above. Therefore it appears that more thermal energy is
+needed to convert conifer wood into charcoal when compared with
+oak wood. This observation is most probably related to the
+
+2444
+
+F. Braadbaart, I. Poole / Journal of Archaeological Science 35 (2008) 2434–2445
+
+morphological/anatomical composition of the conifer wood. The
+denser structure of conifer wood could signiﬁcantly impact (i.e.
+reduce) the release of volatile products, i.e. cannot be released or
+undergo fast secondary condensation reactions. This would lead to
+the apparent slower chemical changes. This might also explain the
+observation by Fengel and Wegener (1984) that above 340  C,
+heating pine wood produced more wood tar than oak wood, which
+in turn contributed to a higher mass loss and less charcoal residue
+for pine wood.
+5.5. Application to charcoal recovered from archaeological
+contexts and simulated situations
+In light of the results obtained from these studies on experimentally produced charcoal, the techniques were ﬁrst applied to
+archaeologically simulated material to calibrate the experimental
+results, and then the analyses described here were applied to
+charcoal from known archaeological contexts to evaluate feasibility.
+Some methods (chemical analyses) were not applied as they do not
+provide any additional insight to that already available from morphological and physical analyses. Since an indication of exposure
+time and taxonomic identity is required for further charcoal residue
+studies, identiﬁcations were carried out and exposure times estimated for the archaeological samples that were made available for
+this study. Estimations of time of exposure can be gained from the
+contextual data.
+In general, residues from three different heating regimes are
+frequently encountered in the archaeological record. Domestic
+ﬁres, for heating and cooking, use wood as a fuel, which undergoes
+charring in the presence of air. Much of the fuel succumbs to
+complete combustion to form ash at temperatures that can reach
+800  C. This ash is subsequently lost from the archaeological record.
+However, charcoal residues from such a context will not be the fuel
+that reached these high temperatures but rather the fuel that was
+either added towards the end of the life of the ﬁre, or had been
+removed from the ﬁre either directly by human intervention, or
+indirectly by falling out of, or on to the edge of, the ﬁre. In these
+situations temperatures falling to below 350  C coupled with no
+further volatile-release result in an interruption of the carbonization process as the ﬁre becomes extinguished. Time of exposure
+will be relatively short (>15 min but less than 30 min). Such pieces
+of wood will usually record temperatures of 300–400  C. Higher
+temperatures will be recorded if the exposure time is short (i.e. 10–
+15 min).
+Charcoal fuel and tar production exploits the process of charring
+where air (oxygen) is excluded from the heating process to ensure
+a good quality product with a high caloriﬁc value. Clay, turf or other
+similar material would have covered the kiln or pit to ensure anoxic
+conditions and thus prevent combustion, which would inevitably
+occur if oxygen comes into contact with wood heated to between
+450 and 500  C. The time of exposure for charcoal formation in this
+way would be relatively long, at least 24 h (Armstrong, 1978).
+Industrial ﬁres, in contrast to their domestic counterparts, require temperatures in excess of 600  C. For ﬁring pottery, wood
+can be used as the fuel to reach the required temperature of
+600–900  C (Livingstone, 2001). For ﬁres requiring temperatures
+w800  C and above, the higher caloriﬁc value of charcoal as a fuel
+had to be exploited. Such ﬁres, with temperatures reaching
+1300  C, would have been used for smelting ore or melting metals,
+for example. Air is introduced to the ﬁre to ensure high temperatures are reached and maintained, and again charring takes place.
+As with a domestic ﬁre, the charcoal residue will be derived from
+fuel added towards the end of the life of the ﬁre or pieces that had
+been removed from the ﬁre. The exposure time of this charcoal
+residue will also have been short but will record much higher
+temperatures.
+
+The details of charcoal produced in simulated archaeological
+setting have been given in Table 2A and those of archaeological
+charcoal from known contextual settings in Table 2B. Using
+morphological changes of archaeologically simulated material of
+known taxonomic identity at heated to known temperatures for
+given lengths of time (Table 1), derived ﬁnal temperature values
+can be inferred by the %Ro values from the calibration curve given in
+Figs. 5 and 6. When these estimated temperatures are compared
+with the known ﬁnal temperatures, the derived temperatures were
+in general agreement with the actual temperatures at which they
+were produced in all cases.
+Even though some derived temperatures deviated from the
+actual temperatures they were in good agreement with the range of
+temperature found in a particular ﬁre type (i.e. domestic versus
+industrial). When the ﬁnal temperatures of the archaeological
+samples are determined using %Ro values (Table 2B) and the curves
+in Figs. 5 and 6, there is once again good agreement between the
+estimated temperature and the contextual information. One example illustrating the importance of taxonomic identity is the reﬂectance measured on charcoal samples from four beams, situated
+in close proximity to one another (<5 m), recovered from Herculaneum (Italy) (unpublished data). Reﬂectance measurements from
+the three angiosperm beams were higher than that measured on
+the one conifer beam. From the calibration curve (Fig. 5) the conclusions regarding exposure temperature drawn from the conifer
+wood would have been w100  C lower that those estimated for the
+angiosperm material had taxonomic identity not been taken into
+consideration.
+6. Conclusions
+Based on the results of this study it is concluded that:
+ Archaeological charcoal can be deﬁned as an inert, black material heated to temperatures exceeding 350  C for at least
+15 min either by (1) carbonization in the absence of air (oxygen), or (2) incomplete (interrupted) charring in the presence
+of a restricted supply of air (oxygen).
+ Charcoal residue formation is related to not only temperature
+but also length of exposure to the heat source and the associated heating rate.
+ Morphological analyses of archaeological charcoal can provide
+additional information relating to ﬁnal temperature and in turn
+further understanding of the type of ﬁre in which it was formed
+(i.e. industrial or domestic), and by inference human activities
+at that site.
+ Physical analyses (reﬂectance) can also provide additional information relating to ﬁnal temperature and by inference human activities at that site. A recommended minimum size of
+w3 mm2 in transverse section of the charcoal specimen should
+used, which would allow identiﬁcation of anatomical preservation as well as taxonomic identity (conifer or angiosperm).
+ Chemical (molecular, DTMS-EI, and elemental, i.e. carbon)
+analyses were undertaken to determine whether additional
+information, to that which could be derived from morphological and physical analyses, could be obtained. No additional
+information could be obtained for archaeological charcoal
+samples heated to temperatures in excess of w400  C for
+DTMS-EI and 650  C for elemental analysis. Below these
+temperatures (and especially below 300  C) the time of exposure plays an important role in interpreting the data. For archaeological samples, time of exposure is not known and thus
+prevents the use such data to draw any meaningful
+conclusions.
+ Differences in the morphology of wood appear to impact the
+physical and chemical changes. The denser conifer wood
+
+F. Braadbaart, I. Poole / Journal of Archaeological Science 35 (2008) 2434–2445
+
+requires relatively greater energy input in order to undergo
+similar chemical and physical alteration when compared with
+angiosperm wood. This is due to mass loss constraints.
+ Conclusions derived from morphological and physical analyses
+have to be used together with the archaeological contextual
+data wherever possible.
+Acknowledgements
+We gratefully acknowledge BIAX Consult (Zaandam), Vestigia
+and Archol (Leiden) for donating the Dutch archaeological material
+(Schipluiden, Maastricht and Tiel, and Hattummerbroek, respectively), and BTC (a consortium of BP and others) and the Institute of Archaeology of the Azerbaijan Academy of Sciences for
+the Girag Kasaman (Azerbaijan) samples. The archaeological theme
+park Archeon (Alphen aan de Rijn, the Netherlands) is also thanked
+for the use of their facilities. We thank J. van der Horst (FOM Institute for Atomic and Molecular Physics (AMOLF), Amsterdam) for
+carrying out the DTMS-EI measurements. This work was ﬁnanced
+in part by NWO/ALW Grant number 815.01.005.
+References
+Antal Jr., M.J., Croiset, E., Dai, X., DeAlmeida, C., Mok, W.S., Norberg, N., 1996. Highyield biomass charcoal. Energy & Fuels 10, 652–658.
+Armstrong, L., 1978. Woodcolliers and Charcoal Burning. Coach Publishing House
+Ltd, England.
+Blanchette, R.A., 2000. A review of microbial deterioration found in archaeological
+wood from different environments. International Biodeterioration & Biodegradation 46, 189–204.
+Boon, J.J., 1992. Analytical pyrolysis mass spectrometry: new vistas opened by
+temperature-resolved in-source PYMS. International Journal of Mass Spectrometry and Ion Processes 118/119, 755–787.
+Boon, J.J., Pastorova, I., Botto, R.E., Arisz, P.W., 1994. Structural studies on cellulose
+pyrolysis and cellulose chars by PYMS, PYGCMS, FTIR, NMR and by wet
+chemical techniques. Biomass and Bioenergy 7, 25–32.
+Braadbaart, F., 2004. Carbonization of peas and wheat. A laboratory study. Leiden,
+The Netherlands. www.amolf.nl.
+Braadbaart, F., 2008. Carbonisation and morphological changes in modern dehusked and husked Triticunm dicoccum and Triticum aestivum grains. Vegetation History and Archaeobotany 17, 155–166.
+Braadbaart, F., Wright, P.J., Van der Horst, J., Boon, J.J., 2007. A laboratory simulation
+of the carbonization of sunﬂower achenes and seeds. Journal of Analytical and
+Applied Pyrolysis 78, 316–327.
+Carr, A.D., Williamson, J.E., 1989. The relationship between aromaticity, vitrinite
+reﬂectance and maceral composition of coals: Implications for the use of
+vitrinite reﬂectance as a maturation parameter. Advances in Organic Geochemistry 16, 313–323.
+
+2445
+
+Colombini, M.P., Modugno, F., Ribechini, E., 2005. Direct exposure electron ionization mass spectrometry and gas chromatography/mass spectrometry techniques to study organic coatings on archaeological amphorae. Journal of Mass
+Spectrometry 40, 675–687.
+Connor, M.A., Daria, V., Ward, J., 1994. Changes in wood structure during the
+course of carbonization. Advances in Thermochemical Biomass Conversion 2,
+846–858.
+Evans, R.J., Milne, T.A., Soltys, M.N., 1986. Direct mass-spectromic studies of the
+pyrolysis of carbonaceous fuels. III. Primary pyrolysis of lignin. Journal of
+Analytical and Applied Pyrolysis 9, 207–236.
+Fengel, D., Wegener, G., 1984. Wood: Chemistry, Ultrastructure, Reactions. Willem
+de Gruyter, Berlin/NewYork.
+Gale, R., Cutler, D., 2000. Plants in Archaeology. Westbury and Royal Botanic
+Gardens Kew, London.
+ISO 7404 part 2, 1985. International standard. Methods for the petrographic analysis
+of bituminous coal and anthracitedPart 2: Method of preparing coal samples,
+ref. no. ISO 7404/2–1985(E).
+ISO 7404 part 5, 1994. International standard. Methods for the petrographic analysis
+of bituminous coal and anthracitedPart 5: Method of determining microscopically the reﬂectance of vitrinite, ref. no. ISO 7404-5: 1994 (E).
+Kim, N.-H., Hanna, R.B., 2006. Morphological characteristics of Quercus variabilis
+charcoal prepared at different temperatures. Wood Science and Technology 40,
+392–401.
+Klap, V.A., Boon, J.J., Hemminga, M.A., Van Soelen, J., 1996. Assessment of the
+molecular composition of particulate organic matter exchanged between the
+Saeftinghe salt marsh (southwestern Netherlands) and the adjacent water
+system. Marine Chemistry 54, 221–243.
+Livingstone, A.S., 2001. Bonﬁre II: the return of pottery ﬁring temperatures. Journal
+of Archaeological Science 28, 991–1003.
+Malik, R.S., Dutt, D., Tyagi, C.H., Jindal, A.K., Lakharia, L.K., 2004. Morphological,
+anatomical and chemical characteristics of Leucaena leucocephala and its impact
+on pulp and paper making properties. Journal of Scientiﬁc and Industrial
+Research 63, 125–133.
+Marguerie, D., Hunot, J.-Y., 2007. Charcoal analysis and dendrology: data from archaeological sites in north-western France. Journal of Archaeological Science
+34, 1417–1433.
+Meier, H., 1964. General chemistry of cell walls and distribution of chemical
+constituents across the walls. In: Zimmermann, M.H. (Ed.), The Formation of
+Wood in Forest Trees. Academic Press, New York, pp. 137–151.
+Poole, I., Braadbaart, F., Boon, J.J., van Bergen, P.F., 2002. Stable carbon isotope
+changes during artiﬁcial charring of propagules. Organic Geochemistry 33,
+1675–1681.
+Pouwels, A.D., Eijkel, G.B., Boon, J.J., 1989. Curie-Point pyrolysis-capillary gas
+chromatography-high-resolution mass spectrometry of microcrystalline cellulose. Journal of Analytical and Applied Pyrolysis 14, 237–280.
+Shaﬁzadeh, F., 1982. Introduction to pyrolysis of biomass. Journal of Analytical and
+Applied Pyrolysis 3, 283–305.
+Sjöström, E., 1993. Wood Chemistry, Fundamentals and Applications. Academic
+Press, San Diego.
+Van der Hage, E.R.E., Mulder, M.M., Boon, J.J., 1993. Structural characterization of
+lignin polymers by temperature-resolved in-source pyrolysis-mass spectrometry and Curie-point pyrolysis-gas chromatography/mass spectrometry. Journal
+of Analytical and Applied Pyrolysis 25, 149–183.
+van der Wal, A., de Boer, W., Smant, W., van Veen, J.A., 2007. Initial decay of woody
+fragments in soil is inﬂuenced by size, vertical position, nitrogen availability
+and soil origin. Plant and Soil 301, 189–201.
+
+

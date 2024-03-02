@@ -1,0 +1,1120 @@
+Journal of Archaeological Science 34 (2007) 2035e2052
+http://www.elsevier.com/locate/jas
+
+Earth, wind, and fire: ethnoarchaeological signals of Hadza fires
+Carolina Mallol a,b,*, Frank W. Marlowe b,c, Brian M. Wood b, Claire C. Porter b
+a
+
+CNRS, UMR 6636, MMSH, 5 rue du Château de l’Horloge, BP 647, 13094 Aix-en-Provence, France
+Department of Anthropology, Harvard University, 11 Divinity Avenue, Cambridge, MA 02138, USA
+c
+Department of Anthropology, Florida State University, 1847 West Tennessee Street, Tallahassee, FL 32306, USA
+b
+
+Received 15 December 2006; received in revised form 15 February 2007; accepted 19 February 2007
+
+Abstract
+We present the preliminary results of an interdisciplinary ethno-geoarchaeological project aimed at characterizing sedimentary aspects of
+recent combustion structures through soil micromorphology to obtain empirical parameters with which to interpret archaeological features. Micromorphological analyses of five different types of fires made and abandoned by the Hadza of Tanzania were performed and compared with
+ethnographic descriptions. Their anthropogenic nature, burning intensity and type of fuel used were identified based on the composition and
+optical features of the microscopic components of the combustion structure. The data provided elements to assess the preservation potential
+of open air fires and our ability to interpret their function. The life history of two of the fires was reconstructed: a sleeping fire showed evidence
+of a pre-existing trampled surface, and a communal cooking fire showed evidence of the scooping out of ashes for maintenance. These findings
+substantiate the important contribution of ethnoarchaeological research conducted jointly with soil micromorphology in discovering cues of human behavior preserved in the sedimentary record.
+Ó 2007 Elsevier Ltd. All rights reserved.
+Keywords: Ethnoarchaeology; Ethno-geoarchaeology; Soil Micromorphology; Fire; Combustion structure; Hadza; Hunter-gatherer
+
+1. Introduction
+The goal of this paper is to assess the prospects for tracing
+the sedimentary components of controlled use of fire in the
+past. The archaeological manifestation of a combustion structure, often detected from the presence of a delimited zone of
+reddened or ashy sediment, might include burnt bones, artifacts, artificially arranged stones or concentrated charcoal
+fragments. For their purely anthropogenic nature, these items
+enclose behavioral information including technical and functional aspects of the combustion structure, its duration of use
+and its life history. Some studies on this topic have been
+concerned with the burnt items found within the combustion
+structure, analyzing their spatial distribution (Vaquero and
+Pastó, 2001) or their physical and chemical properties (Stiner
+* Corresponding author. CNRS, UMR 6636, MMSH, 5 rue du Château de
+l’Horloge, BP 647, 13094 Aix-en-Provence, France.
+E-mail address: mallol@mmsh.univ-aix.fr (C. Mallol).
+0305-4403/$ - see front matter Ó 2007 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2007.02.002
+
+et al., 1995). Others have focused on the properties of the
+burnt sediment, using various geophysical and geochemical
+techniques (Barbetti, 1986; Bellomo, 1991, 1993; Karkanas
+et al., 2002; Rudner and Sumegi, 2002; Schiegl et al., 2004).
+We apply the technique of soil micromorphology, which
+entails the study of microscopic components and structures
+of soils and sediments aimed at the reconstruction of events.
+The changes caused by fire occurring in the top few centimeters of a burnt soil or sediment are nonreversible. Thus, when
+this top layer is preserved, micromorphological analysis can
+potentially answer questions concerning the kind of fuel employed, the function of the combustion structure, the temperature reached, the number of burning episodes represented, the
+effects on the surrounding sediments, and the degree of postdepositional reworking (Courty et al., 1989). Experimental
+soil micromorphology has yielded numerous contributions to
+the characterization of combustion features (Courty et al.,
+1989; Macphail et al., 2004; Wattez, 1992). This technique
+has also been previously applied to archaeological combustion
+
+2036
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+structures, successfully distinguishing single burning events
+from multiphased hearths (Meignen et al., 1989; Wattez,
+1992), in situ hearths from secondary ash dumps (Schiegl
+et al., 2003) and domestic hearths from burned stabling layers
+(Macphail et al., 2004).
+Most of the micromorphological case studies analyze Middle or Upper Palaeolithic sites, which have abundant evidence
+of combustion structures (Meignen et al., 2001, 1989; Schiegl
+et al., 1996, 2003; Vallverdú, 2001; Wattez, 1992; Weiner
+et al., 2002). The technique has not been used to investigate
+earlier sites, such as early Palaeolithic hominin sites in Africa,
+where the evidence is more scant and the main problem is to
+distinguish between natural and anthropogenic fires (see James
+(1989, 1996) for a review of the evidence). Nonetheless, the
+potential of soil micromorphology in such cases has been
+demonstrated (Goldberg et al., 2001; Weiner et al., 1998).
+We focus on contemporary fires made by the Hadza of
+Tanzania (for ethnographic background and studies of Hadza
+behavioral ecology, see Marlowe, 2002, 2003, 2004 and
+Wood, 2006). Through an ethno-geoarchaeological approach,
+we developed an experiment coupling sedimentary information obtained from soil micromorphology from different types
+of Hazda fires with ethnographic descriptions. The Hadza live
+in open air camps, and the sedimentary signatures of their refuse could provide referential inferences with which to interpret archaeological contexts from similar settings, such as in
+prehistoric open air sites. The Hadza make fire for many reasons, which we have classified into the following scheme
+(Table 1): (1) household hearths in camp; (2) sleeping fires inside their huts; (3) temporary communal cooking hearths in
+camp; (4) tuber roasting fires away from the camp; (5) meat
+cooking fires away from the camp; (6) special monkey roasting fires; (7) torch making fires to get honey away from the
+camp; (8) fires to light cigarettes; (9) night and day ambush
+hunting hearths; (10) fires for straightening arrows and curving
+bows; (11) burning grass fires.
+Ethnographic observations show that ephemeral surface
+fires may prove difficult to detect after the wind blows the remains around. On the other hand, when the earth is scooped
+out very deeply and fires burn for a long time, it is easier to
+detect and recognize as human controlled actions, possibly
+many years or millennia afterwards. To provide empirical
+data on this question, we collected and analyzed sediment
+samples from recently abandoned Hadza fires, which allowed
+us to investigate and document the effect of these fires on their
+corresponding sedimentary substrates.
+There are few examples of studies using an ethnoarchaeological approach to soil micromorphology with the goal of obtaining reference material on anthropogenic fires (Goldberg
+and Whitebread, 1993; Wattez, 1992). We analyzed samples
+from five Hadza combustion structures of different known
+location, function and duration. Our data allow us to compare
+the effects of outdoor fires vs. fires in a semi-sheltered space,
+cooking fires vs. sleeping fires, and very brief vs. prolonged
+burning events. Such distinctions have not been previously
+documented in micromorphological terms. The absolute age
+since abandonment of each of the sampled combustion
+
+structures varies: some samples were collected a few days
+after the burning event and others up to 1 year later. Thus,
+our data also provide information on the relative effect of taphonomic agents such as wind, rainfall and invading roots over
+time, offering an insight into the preservation potential of
+such combustion structures.
+
+2. Methods
+Two of us (C.P. and B.W.) collected the micromorphological samples from the following different types of Hadza fires.
+(1) An impala burning fire. The fire was burning for about
+20 min, and was sampled 10 days later.
+(2) An open air cooking fire by a hut. The fire was burning
+continuously for 4 months, and was sampled 1 year later.
+(3) A sleeping fire at the entrance of the same hut (2 samples).
+The fire was burning continuously for 4 months, and was
+sampled 1 year later.
+(4) A tuber roasting fire. The fire was burning for about
+15 min, and was sampled 1 day later.
+(5) An open air two-family cooking fire. The fire was burning
+for 3 months, and was sampled 2 months later.
+In each case, sampling involved cutting out small (approximately 7 cm  4 cm  4 cm) blocks of sediment from the
+abandoned combustion structure. This was achieved by gently
+removing and quickly wrapping the block of sediment in toilet
+paper and then packing tape. In some occasions, where the
+substrate was too loose to be removed in one piece, it was necessary to remove the sediments by softly hammering a tin can
+into the combustion structure.
+Where possible, the samples were carefully collected exactly at ground level so as not to miss any fraction of the combustion structure. The substrate of the sampled areas is an
+acidic, dry, sandy terrain. Details on the morphology and ethnographic observations of each type of fire will accompany the
+micromorphological descriptions in the Section 3 of this paper, and summaries of all the data are presented in Tables 3
+and 4.
+The micromorphological samples were processed at the
+Geoarchaeology Laboratory of P. Goldberg, Boston University, where they were oven dried, hardened with a non-saturated mix of polyester resin and styrene, and cut into 1 cm
+slabs for thin section preparation. Thin sections of 7 cm 
+5 cm and 30 microns in thickness were manufactured by Spectrum Petrographics Inc. They were observed under a polarizing
+microscope at 40, 100 and 200 magnifications and described
+following the standard guidelines of Stoops (2003) with
+reference to Courty et al. (1989) and Wattez (1992), who in
+a comprehensive analysis of experimental, archaeological
+and ethnoarchaeological samples, obtained a series of control
+parameters for the analysis of anthropogenic combustion
+structures based on the optical characteristics of different sedimentary components at different burning intensities (Table 2).
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+2037
+
+Table 1
+Ethnographic descriptions of the kinds of fire the Hadza make
+1
+
+Household hearth in camp
+
+2
+
+Sleeping fire inside a hut
+
+3
+
+Temporary communal cooking
+hearth in camp
+
+4
+
+Tuber roasting fire away from
+the camp
+
+5
+
+Meat cooking fire away from
+the camp
+Special monkey roasting fire
+
+6
+
+7
+
+Torch making fire to get honey
+(away from the camp)
+
+8
+
+Fire to light cigarettes
+
+9
+
+Night and day ambush hunting
+hearth
+
+10
+
+Fire to straighten arrows and
+curve bows
+
+11
+
+Burning grass fire
+
+At just about every household, whether a grass hut or just a hacked out bush or rock shelter, there will be a
+hearth that is used for cooking. This fire is the one kept going at all times by stirring coals. Even when it
+appears to be out, it is easy to bring it back to flame. Because the average occupation of a camp is about 1e3
+months long, this hearth will usually be maintained that long.
+A hearth is usually built inside a hut or at the sleeping spot. This is used for warmth while sleeping. The fire
+is usually kept going on or at least revived every day. When there is no hut the household hearth often serves
+both purposes: cooking and providing warmth for sleep.
+A short-term hearth that could be in the men’s place or women’s place e under the best shade trees. This fire is
+communal; occasionally some food is cooked on it when all are sitting and eating together. The fire will also be
+used to work bows and arrows and coals used to light cigarettes or pipes.
+When women finish their task of digging tubers, they usually roast up some of them before they take the rest
+back to camp. They grab some tinder from nearby and have a sizeable bonfire going in a minute or two. This
+fire is made on top of the ground, not scooped out, and is usually burning with flames about 2 or 3 feet high
+and gradually allowed to die down as the tubers, which are placed on top of the burning limbs in the middle
+of the flames are turned over and more added while others are removed. They are roasted for an average of
+5e10 min. After pulling them all out, the fire is allowed to die out. Thus, these fires typically last about
+10e15 min altogether and are one-time occurrences.
+A bonfire resembling the tuber roasting fire is made away from camp when a man or group of men roasts an
+animal that has just been killed.
+The same technique as numbers 4 and 5 is used in camp for baboons and vervet monkeys, which are difficult
+to skin. The animal is placed on top of the flames in order to remove its hair and facilitate pulling the skin
+off afterwards.
+When a man or men are out looking for honey and find a promising hive high in a baobab tree full of the
+stinging bee (Apis mellifera adansonii), upon deciding the hive is worth the effort, they will use their fire stick
+to make a grass fire and then add small twigs. After getting it started, they will cut pegs to use for climbing up
+the tree. When ready, they find an appropriate piece of wood to set afire and use as a torch. They climb up to
+the hive and place the torch inside to smoke and stun the bees. After pulling the honeycomb out, they will
+drop the torch and climb down to eat. They carry some honey off if they have some leftover, leaving the fire
+smoldering beneath the tree. This fire may burn with flames for about 10e15 min altogether. These fires are
+made on the ground surface.
+When men are out hunting and want to rest and smoke, they make a fire using their drill. They use dry grass
+and keep it going long enough to light their cigarette or pipe. Thus, this is probably the most ephemeral fire.
+It might only be burning for a minute or so, though occasionally they will keep it going and light a second
+cigarette.
+When men are hunting by waiting in ambush near a waterhole, they make a fire that burns for many hours.
+This is most often done at night in the late dry season when animals must come to get a drink. The animals
+prefer to drink after dark in greater safety. Ambush hunting at night is always done in pairs of men rather than
+a single man. They will get to the water before dusk and build a hearth-like fire, meaning a sizable, circular
+area with plenty of tinder and eventually a large log or two. The hearth is not scooped out particularly, but
+often because it must die down to embers and give off no light, they build it behind a mound of earth so that
+when the animal approaches the water, the mound obscures even the slightest glow. The embers are kept hot by
+stirring all night to provide warmth for the men who lie besides the hearth waiting and listening for game.
+The fire smolders for 12 h straight.
+A variation of this type of fire is made when men conduct an ambush hunt at waterholes in the day. The fire
+does not have to be hidden as much and so may not be behind a mound, but somewhere not too visible. It is
+at dawn and dusk that animals are most likely to come, so men must leave camp early enough to arrive at
+first light and stay until almost dark. This fire is less required for warmth and so it is stirred less often. It is
+used mainly for lighting cigarettes throughout the day.
+One variant of multi-purpose fires, both in and out of camp, is when one or more tree limbs, still on the tree
+and alive but close to the ground, is kept burning slowly for days. This type of fire does not need to be fed
+with tinder and requires little or no maintenance.
+When men are working on arrows or bows or making an ax they will use fire. This is usually in camp but
+occasionally occurs out of camp. Men will have a fire that looks much like a cooking hearth and, in fact, it is
+usually the communal fire at the men’s place, in which case, it is usually going all day. Men will hold their
+arrows into the fire and then put them in their mouths to straighten the softened wood. They do the same
+thing with a new bow, except in this case they are curving the wood and not using their mouth. When making
+an ax, a man will use the heated up iron blade to burn a hole through the club-shaped wooden handle until he
+can insert the blade clean through it. Usually this takes an hour or more, so the fire is maintained at high
+temperature. Often, it will be the household cooking hearth or the communal men’s place hearth.
+Men will sometimes start grass fires for a variety of reasons: (a) to eliminate the grass and keep the Datoga
+pastoralists from coming around with their herds; (b) to get rid of old growth and make way for new growth to
+attract more game; (c) to clear the ground and make it easier to see game tracks; and (d) to clear the ground
+so that stepping on snakes is less of a risk.
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+2038
+
+Table 2
+Summary of some analytical parameters for the micromorphological analysis of combustion structures, based on Wattez (1992)
+Low Intensity
+
+Moderate Intensity
+
+High Intensity
+
+Plants
+
+Browned with a reddened core, few
+elements carbonized
+
+Pseudocarbonized, carbonized elements and
+ash equally frequent. Ash is brown to yellow
+
+Carbonized, all remains carbonized and partially
+mineralized. Ash is gray to white. Increased intensity
+leads to crystalline calcinations (clotting) and fusion
+
+Animal skin
+
+Browned-black, semi-carbonized
+
+Black, total carbonization of fibers
+
+Gray-beige
+
+Coprolites
+
+Orange
+
+Yellow
+
+Gray-beige
+
+Sedimentary
+substrate
+
+Only organics transform
+
+Fissures in siltyeclayey aggregates, minerals
+start to fragment, organics carbonized. Clays
+browned with masked birefringence
+
+Granular microstructure, amorphous ferruginous
+particles turn orange-red, clays pigmented by
+brown-red speckles, organics carbonized-calcined.
+Increased intensity leads to microfragmentation and
+uniform color (red if oxidating; black if reducing)
+due to the destruction of clays
+
+Combustion
+structure
+
+TOP-browned-carbonized organics
+CENTER-slight alteration
+
+TOP-carbonized organics and yellow-gray ash
+CENTER-carbonized-calcined organics,
+fragmented matrix
+BASE-no changes
+
+TOP-gray-white ash
+CENTER-strong, deeper effects
+
+BASE-no changes
+
+BASE-same as center
+
+Burning intensity depends on temperature, time of combustion, degree of oxygenation and the nature of the combustible (e.g. dry, wet and dead wood). However,
+thresholds are mainly dependent on temperature, where <300  C, low intensity; 350e450  C, moderate intensity; and >500  C, high intensity.
+
+3. Results
+3.1. The impala burning fire (sample 1)
+3.1.1. Field observations: A fire near the kill site of an impala
+A 20-year-old man killed an impala on August 27, 2004
+and dragged it about 80e100 m uphill from where it died.
+He came back to camp and at 9:15, six other Hadza, plus
+two researchers accompanied him to butcher the impala. Several branches were collected from nearby and placed on the
+ground in sandy, rocky soil on top of a hill. The fire was burning for a short time with flames rising up to 1e1.5 m, but
+quickly died down. Pieces of meat (rectum, ribs, liver and
+large intestine) were placed in the fire and cooked for about
+20 min (10:30 to 10:50). The hunter continued to butcher
+the impala with the help of two young boys, and the pieces
+of meat were moved 9 m to where they were added to the
+big bonfire. The fire was sampled on September 5, 2004 (9
+days later).
+
+On the surface, the burning event left a circular blackened
+area (60 cm in diameter) with gray ashes in its center (Fig. 1a).
+The cross-section at the sampled area displayed a horizontal
+sequence that was deepest and most clear in the middle of
+the fire, becoming diffuse towards the edges. The sequence
+comprised a thin layer of gray ashes at the top, followed by
+8 cm of black sediments and 8 cm of reddened sediments at
+the base (Fig. 1b).
+3.1.2. Micromorphological observations
+Results were obtained from one thin section (7 cm) corresponding with the top half of the combustion structure. The
+top centimeter comprises a dark gray substrate (dark reddish
+brown in thin section) of very sandy clays. The groundmass is
+crumbly, with masked birefringence in the top half. This masked
+birefringence is due to the presence of abundant charred fine organic material, most prevalent in the top centimeter of the substrate (Fig. 2a). Among the burnt materials there are abundant
+animal residues, as well as pseudocarbonized wood and
+
+Table 3
+Summary of ethnographic data from the Hadza fires
+Sample
+
+Description
+Fuel
+
+Burning environment
+(reducing/oxidizing)
+
+Burning intensity (as a function of time,
+temperature and degree of oxygenation)
+
+Function
+
+Age (from time of
+abandonment to time
+of sampling)
+
+1
+
+Dry wood-sticks and logs
+
+Open air
+
+Bonfire burning for 20 min, low intensity
+
+10-days-old
+
+2
+
+Dry wood-sticks and logs
+
+Open air
+
+3, 4
+
+Dry wood-sticks
+
+5
+
+Dry wood-sticks and
+small logs
+Dry wood-sticks and logs
+
+At the entrance
+of a hut
+Open air
+
+Continuous burning at high temperatures,
+every day, for 4 months, moderate-high
+intensity
+Continuous burning at low temperatures,
+every day, for 4 months, moderate intensity
+Bonfire burning for 15 min, low intensity
+
+Burning of meat
+(a butchered impala)
+Family cooking hearth
+
+6
+
+Open air
+
+Continuous burning at high temperatures,
+every day, for 2 months, high intensity
+
+Family sleeping hearth
+(for warmth)
+Brief bonfire for
+roasting tubers
+Communal cooking
+hearth
+
+1-year-old
+
+1-year-old
+1-day-old
+2-months-old
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+2039
+
+Table 4
+Summary of micromorphological observations from the Hadza combustion structures
+Sample
+
+1
+
+2
+
+3
+
+Description
+Organic components
+
+Sedimentary substrate
+
+Taphonomic signature/
+postdepositional effects
+
+0e1 cm: Dense red/orange nodules (100e150 mm);
+black amorphous impregnations and coatings;
+pseudocarbonized wood (ash and black tissue),
+rounded wood ash bundles (300 mm) and angular
+charcoal fragments
+2e4 cm: Charred rootlets and angular and rounded
+charcoal fragments
+5e7 cm: Browned rootlets and scattered angular
+and rounded charcoal fragments
+0e1 cm: Angular and rounded charcoal fragments
+and punctuations
+2e7 cm: Rounded, scattered charcoal fragments
+and punctuations
+0e1 cm: Gray-crystalline wood ash, including
+carbonized and calcitic cells in anatomical position,
+angular charcoal fragments, pale yellow/isotropic
+impregnations and nodules, dense red nodules
+1e2 cm: Charred plant fragments, isolated carbonized
+cells and roots. Angular and rounded charcoal fragments
+
+Top half: Crumbly, 40% complex packing voids; 20%
+sand; 2% gravel. Masked birefringence
+
+None
+
+2e6 cm: Browned and unburnt plant tissue and rootlets,
+scattered angular and rounded charcoal fragments
+4
+
+Same as sample 3; 2e4 cm: Rounded charcoal
+fragments and fresh rootlets in a sandy lens
+
+5
+
+0.5e0.8 cm: Isolated calcitic crystals of wood ash and
+a few wood ash bundles, abundant browned and black
+plant tissue and few angular charcoal fragments
+1e6 cm: Loose area- isolated calcitic crystals of wood
+ash and a few wood ash bundles, abundant browned-black
+plant tissue, few angular and rounded charcoal fragments;
+Rounded aggregates- scattered rounded charcoal fragments
+and rare charred tissue
+0e7 cm: Grey to white crystalline ash with pseudocarbonized
+wood tissue, dense pale yellow isotropic grains, and charred
+animal tissue. At the base (0 cm), carbonized and
+pseudocarbonized plant tissue, pale crystallitic and
+blackegray crystallitic ash, pale yellow isotropic grains,
+dense red nodules and animal tissue
+0e8 cm: Browned-black amorphous organic fine material,
+a charred rootlet at base
+
+6
+
+8e12 cm: Scattered rounded charcoal fragments and isolated
+larger fragments, browned rootlets and pale yellow isotropic
+grains
+
+charcoal fragments (50 microns in size). Very rare traces of ash
+were found, present as small (150 microns in size) rounded bundles of calcitic ash crystals scattered throughout the top centimeter of the burnt substrate (Fig. 2b). As one goes down in
+
+Bottom half: Crumbly, 40% complex packing voids;
+20% moderately sorted sand; 20% gravel. Speckled
+b-fabrics
+Crumbly, 40% complex packing voids, moderately
+well-sorted 30% sand with thin clay coatings, 5%
+gravel. Speckled b-fabrics, weakly granostriated
+
+Frequent channels and
+fresh rootlets
+
+0e1 cm: Platy, 20% fissures and compound packing
+voids, 20% sand with thin clay coatings, very few
+0.5 mm subrounded soil rip-ups. Calciticecrystallitic
+
+Artificial compaction
+and frequent fresh
+rootlets
+
+1e2 cm: Massive, 20% vughs and channels, 40%
+sand, 5% gravel. Mosaic of dark (masked
+birefringence) and weakly granostriated patches
+2e6 cm: Massive, 40% vughs and channels, 40%
+sand, 5% gravel. Speckled, weakly granostriated
+b-fabrics
+0e1 cm: Crumbly, 20% vughs and compound
+packing voids, 20% sand with thin clay coatings,
+very few soil rip-ups. Calciticecrystallitic
+1e2 cm: Massive, 20% compound packing voids,
+vughs and channels, 40% sand, 5% gravel. Mosaic
+of dark (masked birefringence) and weakly
+granostriated patches
+2e4 cm: Horizontal lens of packed sand
+4e6 cm: Massive, 20% compound packing voids,
+vughs and channels, 40% sand, 5% gravel. Speckled,
+weakly granostriated b-fabrics
+0.5e0.8 cm: Crumbly, 50% complex and compound
+packing voids, 20% sand, 5% gravel
+
+Frequent fresh rootlets
+
+None
+
+0e6 cm: Loose areas e same as above; Rounded
+aggregates (2e3 cm) e 40% vughs and complex and
+compound packing voids, 30% sand, weakly speckled
+matrix with masked birefringence
+0e7 cm: Massive, 10% vughs, fissures and channels,
+2% sand. Mosaic grayewhiteepale brown calcitic
+crystallitic, few subrounded reddened soil rip-ups
+0e1 cm: Crumbly, 40% vughs and complex and
+compound packing voids, 20% sand. Isolated claycoated grains and reddened speckled clay aggregates
+1e8 cm: Crumbly-granular, 40% vughs and complex
+and compound packing voids, 30% sand, 20% gravel.
+Masked birefringence
+8e12 cm: Crumbly-granular, 40% vughs and complex
+and compound packing voids, 30% sand, 20% gravel.
+Speckled b-fabrics
+
+None
+
+the profile, there are charred rootlets from 2e4 cm, and below
+this point they are browned, and the charcoal fragments are generally smaller and more scattered in the groundmass (Fig. 2c).
+A very small portion of the reddened layer observed in the field
+
+2040
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+Fig. 1. Impala burning fire. Plan view (a) and cross-section indicating the location of the micromorphology sample (b).
+
+at the base of the fire was captured in the thin section, and it has
+the appearance of a natural soil (Fig. 2d).
+3.2. Open air cooking fire by a hut (sample 2)
+3.2.1. Field observations
+This was a cooking fire in a camp that had been occupied in
+the previous years and then abandoned. It was the main cooking fire, about 17 m from the house. It had been occupied from
+JulyeOctober 2003 and was the only fire for cooking everyday
+during that period. It was excavated 1 year later, on September
+5, 2004.
+After a year of abandonment, the four boulders that marked
+the contour of the hearth were found in place and served as
+landmarks (Fig. 3a, b). They enclosed a small area of about
+60 cm in diameter. Only a few shades of gray were left on
+the crumbly surface, and the cross-section showed a homogenous appearance with abundant fresh roots (Fig. 3c).
+3.2.2. Micromorphological observations
+Results were obtained from one thin section (7 cm) representing the top portion of the combustion structure, although
+the contact with the ground surface was lost during sample processing. Throughout its length, the substrate shows a loose,
+moderately well-sorted dark gray (reddish brown in thin section)
+sandy clayey deposit with thin iron-rich clay coatings around the
+grains and common charcoal fragments, speckles and punctuations (25 microns in size). The larger charcoal fragments
+(125 mm) range from fresh to rounded and are found predominantly at the top of the substrate (Fig. 4a). The base of the sample
+shows less and more scattered charcoal fragments (Fig. 4b). The
+
+groundmass shows properties typical of a natural soil (Fig. 4c).
+No traces of ash were identified, nor distinctive burnt organic
+material found, besides the small charcoal speckles, although
+the clays in the top portion of the sample display a more dusty
+appearance from the presence of organic punctuations. The substrate appears to have been recently invaded by rootlets e which
+are fresh and frequent throughout the sample.
+3.3. Sleeping fire inside the same hut (samples 3 and 4)
+3.3.1. Field observations
+This was the sleeping fire inside a hut where a couple had
+lived from JulyeOctober, 2003 (sample 2 was the cooking fire
+that was used by this couple). This fire was for keeping warm at
+night and so would have been going almost continuously, or at
+least revived every night, for about 4 months. It was located
+at the entrance of the hut.
+The fire was sampled 1 year after inactivity. It was found
+under a light cover of dry grass, partly belonging to the abandoned hut (Fig. 5). In cross-section, its appearance was homogeneous and invaded by roots, similar to sample 2, with a very
+thin gray layer of ash at the top.
+3.3.2. Micromorphological observations
+The combustion structure was sampled twice; hence we
+have two thin sections (3 and 4.7 cm long) representing a single location. Taking together both samples, we observed that
+the combustion structure is made up of a massive layer of
+gray ash (light gray in thin section), 1 cm thick, resting on
+a burnt dark grayish brown substrate (brown/reddish brown
+in thin section) of sandy clays. The ash is composed of
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+2041
+
+Fig. 2. Impala burning fire. Note that ash (b) is present only as reworked bundles of calcitic crystals or partly calcified wood within the top centimeter of the burnt
+substrate, which comprises high concentrations of browned organic matter and charcoal fragments (a). The sediments below exhibit very weak traces of burning,
+mainly scattered charcoal fragments and browned rootlets (c) and the base of the combustion structure e reddened to the naked eye e shows birefringence and
+microstructure proper of a natural soil (d). 1a and 1c viewed in PPL; b and d viewed in XPL.
+
+calcified wood and leaf cells mixed with charcoal fragments,
+pseudocarbonized plant tissue, and few dense nodules possibly
+representing animal residues (Fig. 6a). One phosphatic inclusion was identified as a coprolite. Very few mineral grains,
+with thin iron-rich clay coatings around them are found floating in the ashy groundmass, as well as rare brown soil aggregates ripped-up from the underlying substrate (Fig. 6b). The
+top centimeter of the burnt substrate contains abundant
+browned to carbonized organic particles including plant cells,
+charcoal speckles and a few whole rootlets (Fig. 6c). The
+groundmass shows a mosaic birefringence pattern with darker
+(organic-rich) zones (Fig. 6e) and brighter ones. The porosity
+in this subsurface portion is composed of large vughs and
+channels, and these become more abundant with increasing
+depth. Below 1 cm, the organic fraction, which is the same
+as above, is only partly burnt or browned, and the charcoal
+
+fragments appear both fresh and reworked (rounded)
+(Fig. 6d). The birefringence fabric of the clayey groundmass
+below 1 cm is more distinct and homogeneous (Fig. 6f). The
+state of preservation of this hearth is excellent, as shown by
+the undisturbed position of the plant cells in the ash. Nevertheless, the presence of fresh rootlets throughout the sample, including through the ash layer, indicates recent bioturbation.
+One of the samples from this sleeping fire (sample 3) was
+slightly compressed in the extraction process and this is reflected in the microstructure of the ash layer, which is platy
+and fissured horizontally. An overall assessment of samples 3
+and 4, taking the artificial compression into account, reveals
+that the substrate of this combustion structure is made up of
+compacted sandy clays, more compacted and more sandy
+than the outdoor cooking fire (sample 2). Towards the top of
+the burnt substrate, sample 4 displays a thin, well-sorted
+
+2042
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+Fig. 3. Open air cooking fire. General context (a), plan view (b) and cross-section with the location of the micromorphological sample (c).
+
+Fig. 4. Open air cooking fire by a hut. The only traces of fire left are reworked fragments of charcoal, scattered throughout the matrix (a, b), which shows a high
+birefringence in a speckled groundmass (c). a and b viewed in PPL; c in XPL.
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+2043
+
+Fig. 5. Sleeping fire inside a hut. General context with red circle indicating the location of the fire (a), plan view (b) and cross-section with location of the
+micromorphology samples (c).
+
+horizontal lens of fine sand and silt (w1 mm) with distinct upper and lower boundaries (Fig. 7a and 7b). It has been invaded
+by fresh rootlets and contains reworked charcoal fragments derived from the combustion structure. Although well-sorted sand
+lenses of this kind could result from root bioturbation, based on
+the absence of such features in other bioturbated samples (e.g.
+samples 2 and 3), as well as from the sharpness of its contact
+with the underlying soil, we interpret this particular one as residual evidence (recently disturbed by roots) for the existence
+of a loose sandy ground surface associated with the area of
+the hut.
+3.4. A tuber roasting fire (sample 5)
+3.4.1. Field observations
+On September 5, 2004 several women and children walked
+just out of camp and built a bonfire from nearby limbs and
+
+then placed their //ekwa tubers on the flames, occasionally
+turning them over and roasting each for 5e10 min. The flames
+continued for about 8 min. The sample was taken on September 6, 2004, while the sediments were still moist after a heavy
+rain.
+Similar to the other fires described in this paper, this fire
+displayed a circular shape of about 60 cm in diameter, and
+in cross-section, it was composed of a thin layer of light
+gray ash on the surface, followed by a thin (2 cm) black layer
+of burnt sediments directly on top of the natural soil (Fig. 8).
+3.4.2. Micromorphological observations
+Results were obtained from one thin section (7 cm) corresponding to a horizontal cross-section of the combustion structure at the level of the black burnt sediment layer (2 cm down
+the profile; see Fig. 8c). At this level, the substrate is comprised of aggregated dark gray/grayish brown sandy clays
+
+2044
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+Fig. 6. Sleeping fire inside a hut. Note the presence of a well preserved layer of ash containing calcified and pseudocarbonized wood and isolated grains with
+oxidized clay coatings (a). The contact with the substrate is sharp, with small rip-ups incorporated in the ash (b) and the top centimeter of sediments contains
+abundant charred organic material (c) that has masked the original birefringence of the groundmass (e). At the base, the proportion of organics decreases, the
+charcoal fragments are smaller in size (d), and the birefringence and general appearance of the matrix is that of a natural soil (f). a, c and d viewed in PPL;
+b, e and f in XPL.
+
+(dark reddish brown/reddish brown in thin section), weakly
+speckled, and browned by the presence of charcoal and partially carbonized plant tissue and cells. Several rounded and
+subrounded aggregates of desiccated burnt sediments
+
+(Fig. 9a) were identified, surrounded by loose sediments comprising isolated calcitic ash bundles (Fig. 9b) together with
+well-sorted crumbs of browned and carbonized organic material, and silt-sized mineral grains and crystals of calcitic wood
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+2045
+
+Fig. 7. Buried lens of sand possibly representing a residual former ground surface in the area of the hut prior to the fire. Views in PPL.
+
+ash (Fig. 9c). The rounded aggregates are oxidized, fissured in
+a way that suggests desiccation, and contain abundant carbonized organic material and calcitic crystals (Fig. 9d). These possibly represent undisturbed and ripped-up parts of the burnt
+substrate. They show a high birefringence (Fig. 9e), frequent
+vughs and vesicles, and abundant browned and carbonized organic matter.
+
+3.5. Open air communal cooking fire (samples 6a, 6b
+and 6c)
+3.5.1. Field observations
+House cooking fire in a contemporary camp that was occupied at the time of sampling. This hearth was shared by two
+households and used as a cooking fire. However, they had
+been using it a few months before the time of excavation on
+September 6, 2004 even though they were still in the same
+camp but using a new fire at new houses in slightly different
+locations. This fire was revived a couple of times every day
+for cooking. It was periodically maintained by scooping out
+the top ashy layer, often deep enough to affect the underlying
+burnt soil. Remains and ashes from the last use of the fire before its abandonment were left in place (note the top layer of
+ashes in Fig. 10a, containing small bone fragments and other
+debris). This portion of the hearth was not sampled. The exposed cross-section displayed a light gray ash lens underlain
+by a concave black layer grading downwards into brown and
+light brown (Fig. 10c). At the sampled spot, the interface between the ash and the burnt substrate was red (Fig. 10c).
+
+3.5.2. Micromorphological observations
+Results were obtained from three consecutive thin sections
+representing the entire depth of the combustion structure
+(20 cm). The top 7 cm sampled comprise a weakly fissured,
+channeled layer of white/light gray ash. In thin section, we
+can see a mosaic of gray, white, and pale yellow calcitic plant
+cells and tissue (Fig. 11a). The composition and microstructure of the ash layer is homogeneous from top to bottom,
+and includes a mix of carbonized and partly carbonized fragments of plant tissue and cells, unidentified phosphatic particles and few possible animal residues. Mineral grains are
+rare, cracked and etched, as well as a few reddened soil ripups and elongated clayey remnants. Some of these clayey intercalations are often found still attached to plant skeletons,
+suggesting that they belong to the original soil substrate of
+the burnt plant (Fig. 11b).
+At the contact with the substrate, there are isolated, thinly
+iron-rich clay-coated sand grains and few reworked browned
+soil aggregates in a very loose microstructure (Fig. 11c, f). Below this and up to 8 cm deep, the burnt substrate is loose, granular, composed of dark gray (reddish brown in thin section),
+organic-rich sandy clays (Fig. 11d) with a masked birefringence. The organic material is fine, amorphous, and either
+browned or carbonized. Charred rootlets were identified at
+around 7 cm beneath the substrate’s surface, and vughs, vesicles and channels are common throughout this depth. The bottom portion of the combustion structure (8e12 cm beneath the
+substrate’s surface) is crumbly, with abundant small charcoal
+fragments and punctuations, very few isolated carbonized
+plant tissue fragments and common reddened rootlets
+
+2046
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+Fig. 8. Tuber roasting fire. General view (a), plan view (b) and cross-section (c).
+
+(Fig. 11e). The groundmass in this portion is highly birefringent and speckled (Fig. 11g). The rootlets and the channels
+that prevail throughout the three samples suggest that bioturbation by roots took place prior to the burning event.
+4. Discussion
+Using the analytical parameters established by Wattez
+(1992), we were able to determine the micromorphological
+signature of anthropogenic fire in all the samples, and the degree of burning intensity in all but sample 2, the 1-year-old
+open air cooking fire. The use of wood as a fuel was evident
+
+micromorphologically. Remnants of burnt wood are found in
+the ashes (where ashes were present), as well as in the top centimeter of the burnt substrates. In the worst preserved sample
+(the 1-year-old cooking hearth) the burnt particles do not exhibit any clear morphology, and the only information that
+could be obtained was that the fuel possibly included wood.
+Anthracological analysis of the charcoal remains would be
+able to provide further detailed information including the
+taxa, the anatomical parts used, and whether the wood was
+wet, dry or dead. For all of the samples, the absence of phytoliths suggests that grass was minimally used as fuel. From the
+ethnographic account we know that small amounts of grass
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+2047
+
+Fig. 9. Tuber roasting fire. The sample captures a planar view of the top centimeters of the combustion structure. Note the loose, crumbly microstructure of the
+burnt substrate in the area outside of the dashed lines, comprising charred organic material and reworked soil rip-ups (a), rounded bundles of clacitic ash (b) and
+isolated crystals of calcitic ash mixed with fine organic particles (c). The undisturbed portions of the burnt substrate e encircled by dashed lines e comprise reddened sediments with charcoal fragments (d) and show a high birefringence (e). Views in PPL except c and e (XPL).
+
+were used to start the fire. The use of grass to start fires, together with the light grass cover on the ground and a few scattered dry leaves, would amount to a very low proportion of
+phytoliths in the ash layer and top centimeter of the samples,
+which we could identify through phytolith analyses.
+These results from a small number of samples provide data
+for a discussion of the preservation potential of open air and
+semi-sheltered anthropogenic combustion structures and our
+ability to reconstruct their function and histories.
+4.1. Preservation potential of open air and
+semi-sheltered combustion structures
+In sample 1, we had the opportunity to observe the sedimentary effects of an ephemeral surface burning event. Although the ash layer disappeared after only 10 days in the
+
+open air, burning directly on the ground for 20 min had nonreversible effects on the substrate which, given rapid sedimentation and geochemical stability, could be preserved over time.
+The main marker features are: a reddened (oxidized) clayey
+groundmass, microstructural disaggregation enhanced by
+burning of the organic fraction, the presence of charred organic matter including plant and animal residues, and isolated,
+reworked bundles of calcitic ash. Following Wattez’s parameters, these are the features indicative of a burning event of
+moderate intensity. However, the observations from sample 2
+may serve to address the influence of taphonomic effects. After 1 year of abandonment in a relatively acidic substrate in the
+open air, with no sedimentary accretion and under the effects
+of bioturbation by roots, the remnants of a cooking hearth that
+burnt continuously for 4 months were limited to an oxidized
+clayey groundmass with isolated charcoal speckles. No traces
+
+2048
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+Fig. 10. Open air communal cooking fire. General context (a), plan view (b) and cross-section with the location of the micromorphological sample (c).
+
+of reworked ash or of burnt organic tissue were left in the preserved substrate. In this case, the effects of taphonomic agents
+destroyed the original combustion structure and the only remaining traces of the burning event were few carbonized organics in a reddened substrate.
+Contrary to this situation, the sleeping hearth (samples 3
+and 4) shows very good states of preservation and indications
+of a burning event of moderate intensity: 1 cm of gray ash is
+present, as well as 1 cm of organic-rich burnt substrate and
+an underlying reddened groundmass speckled by charcoal.
+The thin layer of dry grass (from the collapsing hut) that covered the abandoned fire protected it from the erosional impact
+
+of wind and rainfall of that year. The sleeping fire documented
+a similar degree of root bioturbation to that observed in the
+outdoor cooking fire (sample 2), yet its original microstratigraphic structure was preserved. This suggests that erosion
+played a stronger role than invasion by roots in the preservation of both of these combustion structures.
+Sample 6 represents an outdoor hearth that had been used 2
+months prior to excavation. It yielded 7 cm of light gray ash
+and a 12 cm deep burnt substrate. Similar to samples 3 and
+4, its good preservation allowed us to detect certain microstratigraphic features related to the function and history of this
+cooking fire. After 2 months, root bioturbation had not yet
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+2049
+
+Fig. 11. Open air communal cooking fire. The ashes made up of a gray-light gray mosaic of calcitic wood cells and pseudocarbonized fragments, as well as burnt
+sediment rip-ups (a, detail in h, i) and residual clay intercalations (b). The top centimeter of the burnt substrate comprises reddened clays lacking charred organics
+(c, f), underlain by burnt sediment with a high concentration of organics (d). The sediments at the base of the combustion structure have the appearance of a natural
+soil (e, g). b, c, d and e viewed in PPL; a, f, g, h and i in XPL.
+
+occurred. Sufficient diagnostic features were preserved to classify the sample as an anthropogenic combustion structure of
+high intensity. The distinction between moderate (e.g. the
+sleeping hearth) and high (this fire) was mainly observed in
+
+the degree of carbonization and calcination of the ash components, the coloration of the ash layer, and the microstructure of
+the underlying burnt substrate, which was weakly aggregated
+in the sleeping hearth and granular in sample 5.
+
+2050
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+Fig. 11 (continued)
+
+Micromorphological results suggest that the anthropogenic
+signature of open air combustion structures can be detected
+depending on the rates of sedimentation and the impact of
+postdepositional disturbance factors such as root invasion. If
+the rates of sedimentation are low, leading to erosion, the remains of an ephemeral open air fire are likely to disappear.
+Long-duration fires might be identifiable as anthropogenic
+fires, but not interpreted any further. In cases where the rates
+of sedimentation are high or the combustion structure is buried
+and hence protected from erosion, even if root invasion has
+played a role, open air fires can be successfully interpreted
+through soil micromorphology.
+4.2. Function
+If the features observed micromorphologically had been
+found in an archaeological context, would it have been possible to reconstruct the function and history of any of these
+fires? From ethnographic accounts we know that there are
+clear functional distinctions among the fires sampled, but
+soil micromorphology yielded little information on this regard.
+The sample of the impala burning fire yielded few, scattered
+animal residues e possibly grease, hemoglobin and organic
+fluidse and their preservation potential is questionable. They
+were found in the very top of the burnt substrate, mixed in
+with the charred organics, and could easily go undetected in
+an archaeological context. Nevertheless, we must note that
+the anthropogenic incorporation of organics into the top of
+the substrate, such as in the cases of the impala and tuber
+roasting fire, yielded higher amounts of microscopic organic
+
+matter in comparison with the other samples. We might consider this factor (the presence of high amounts of organic matter) in the comparative study of synchronous combustion
+structures in archeological sites where the potential for the
+preservation of burnt organic matter is high, such as Abric
+Romanı́, Spain (Pastó et al., 2000) and Kebara, Israel (Meignen
+et al., 1989).
+From ethnographic observations we know that Hadza cooking fires were commonly used to roast and boil meat, roast
+tubers, boil berries, and when they happen to get some maize
+through trade, boil maize porridge. We analyzed two different
+cooking hearths (samples 2 and 6) and neither provided elements diagnostic of the activity of cooking except for isolated
+particles possibly representing burnt seeds and animal residues. The ashes contained abundant burnt plant fuel remains.
+Anthracological and phytolith analyses could possibly distinguish plant species, particularly in a case such as the tuber
+roasting fire, where the charred tissue is incorporated into
+the top of the combustion structure leaving abundant cmand mm-sized remains. The clearest proof that function is difficult to determine is the similarity in composition between the
+cooking and sleeping fires. The differences in the nature and
+amount of charred organic particles within the black layer of
+both types of hearths were not diagnostic. The pre-existence
+of a trampled surface in the sleeping fire is not directly representative of a particular function, although it can be considered
+as indicative of a habitation site. The only micromorphological
+difference between samples 3, 4 (sleeping fire) and 6 (cooking
+fire) that could be diagnostic of function is the degree of burning intensity of the combustion structure.
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+Sample 6, the cooking fire left a stronger impact in 2
+months than the sleeping fire in four. Its ashes were white
+and the burning effects on the substrate, deeper, all indicative
+of a higher intensity in comparison to the gray, shallow structure of samples 3 and 4. This evidence corresponds to the ethnographic observation that sleeping fires are kept burning at
+low intensities in order to avoid fire hazards in the vicinity
+of the hut. Further confirmation of this point could be provided
+by anthracological analysis of the charcoal fraction, which
+would be able to distinguish between fragments of large
+wooden logs (used for high intensity cooking fires) vs. small
+twigs and sticks (used in sleeping hearths).
+The function of combustion structures is difficult to determine based on soil micromorphology. The technique yielded
+only two parameters that may serve as possible indicators of
+function: (1) the amount of organic matter, which if high
+may be associated with roasting; and (2) the burning intensity,
+which has shown to be high in cooking fires and low in sleeping fires. There are other types of fire that the Hadza make that
+we did not sample, such as surface grass fires to light torches,
+ephemeral cigarette lighting fires, hunting bonfires, wooden
+artifact tending fires, and extensive grass fires. Based on our
+preliminary results, the anthropogenic signature in these types
+will also be weak and indistinct from one to the other, although the grass fires could be characterized from their lack
+of wood ash and from the presence of phytoliths.
+4.3. Fire histories
+Our preliminary study has contributed two findings in this
+regard. The first comprises features indicative of a compact
+surface on which people possibly slept prior to the time of
+building the sleeping fire (samples 3 and 4). This observation
+is relevant for evaluating the different impact of Hadza activities on the sediments throughout the camp, and might suggest
+that the area surrounding the hut was more intensively used
+than the areas where the other fires were made. However,
+we derive this preliminary interpretation from a single finding,
+and systematic sampling of ethnographically documented
+areas is necessary to clarify this issue.
+The second finding, in sample 6, shows indications of the
+scooping out of ashes for the maintenance of a cooking fire.
+To the naked eye, the concave outline of the contact between
+the ash layer and the underlying blackened sediment suggests
+that the fire was built on a slightly hollowed out substrate. The
+microstratigraphy of sample 6 includes a layer of ash underlain by approximately 1 cm of crumbly reddened sediment
+lacking a significant amount of organics. Instead, the density
+of burnt organics is apparent only approximately 2 cm down
+the substrate. This suggests that the reddened sediment directly beneath the ashes does not belong to the same substrate.
+Moreover, reworked reddened soil clasts were found within
+the ashes, possibly ripped out of the substrate during the
+scooping activity.
+The two cases illustrate the high potential of soil micromorphology to reconstruct the history of combustion structures. In
+the future, micromorphological analysis should focus on
+
+2051
+
+Hadza fires that have served different functions in order to
+approach this problematic factor in more depth.
+5. Conclusions
+This study attempted to document sedimentary signatures
+of human-made fires that could be applied to the archaeological record. It represents the first steps of an ethno-geoarchaeological investigation aimed at obtaining independent evidence
+to test micromorphological interpretations. Such an approach
+comes in a time when there is increasing archaeological interest in pyrotechnology and when prehistoric excavations can
+provide high resolution multidisciplinary data on combustion
+structures. Thanks to the benefit of a feedback between the
+ethnographic context and its microscopic representation, it
+was possible to assess what questions we can answer faced
+to the sedimentary remains of an anthropogenic fire.
+It was shown that soil micromorphology has the potential
+to: (1) distinguish between natural and anthropogenic fire,
+(2) to estimate the burning intensity of combustion structures
+and in some instances, and (3) to identify the type of fuel
+used. In addition, this study provided insight into three main
+aspects of combustion structures relevant to archaeology: their
+preservation potential, the interpretation of their function, and
+the reconstruction of their use histories. For any given prehistoric site, coupling this kind of information on fire features
+with associated archaeological evidence can highly contribute
+to our understanding of other aspects of collective behavior
+such as spatial organization, site use and site duration.
+This preliminary study needs to be complemented by a larger
+collection of samples, including samples of Hadza grass fires,
+natural fires documented in Hadzaland in the recent past and
+unburnt control samples. Anthracological and phytolith analyses should be incorporated into the study, as they provide
+important data to support micromorphological observations.
+Acknowledgements
+This investigation is funded by NSF grant # 0242455 to
+Frank Marlowe. We would like to thank Prof. Paul Goldberg,
+who provided comments on the micromorphological work,
+and Prof. Ofer Bar-Yosef, who sparked this study on fires.
+References
+Barbetti, M., 1986. Traces of fire in the archaeological record before one million years ago? Journal of Human Evolution 15, 771e781.
+Bellomo, R., 1991. Identifying traces of natural and humanly-controlled fire in
+the archaeological record: the role of actualistic studies. Archaeology in
+Montana 32, 75e92.
+Bellomo, R., 1993. A methodological approach for identifying archaeological
+evidence of fire resulting from human activities. Journal of Archaeological
+Science 20, 525e554.
+Courty, M.A., Goldberg, P., Macphail, R.I. (Eds.), 1989. Soil Micromorphology in Archaeology. Cambridge University Press, Cambridge.
+Goldberg, P., Weiner, S., Bar-Yosef, O., 2001. Site formation processes at
+Zhoukoudian, China. Journal of Human Evolution 41 (5), 483e530.
+Goldberg, P., Whitebread, I., 1993. Micromorphological studies of a Bedouin
+tent floor. In: Goldberg, P., Nash, D.T., Petraglia, M. (Eds.), Formation
+
+2052
+
+C. Mallol et al. / Journal of Archaeological Science 34 (2007) 2035e2052
+
+Processes in Context. Monographs in World Archaeology, vol. 17. Prehistory Press, pp. 165e188.
+James, S.R., 1989. Hominid use of fire in the Lower and Middle Pleistocene.
+A review of the evidence. Current Anthropology 30, 1e26.
+James, S.R., 1996. Early hominid use of fire: recent approaches and methods
+for evaluation of the evidence. In: Bar-Yosef, O., Cavalli-Sforza, L.L.,
+March, R.J., Piperno, M. (Eds.), The Lower and Middle Palaeolithic.
+vol. 5. A.B.A.C.O Edizioni, Forli, pp. 65e75.
+Karkanas, P., Rigaud, J.P., Simek, J.F., Albert, R.M., Weiner, S., 2002. Ash, bones
+and guano. A study of the minerals and phytoliths in the sediments of Grotte
+XVI, Dordogne, France. Journal of Archaeological Science 29, 721e732.
+Macphail, R., Cruise, G.M., Allen, M.J., Linderholm, J., Reynolds, P., 2004.
+Archaeological soil and pollen analysis of experimental floor deposits;
+with special reference to Butser Ancient Farm, Hampshire, UK. Journal
+of Archaeological Science 31, 175e191.
+Marlowe, F.W., 2002. Why the Hadza are still hunter-gatherers. In: Kent, S.
+(Ed.), Ethnicity, Hunter-Gatherers and the ‘‘Other’’: Association or Assimilation in Africa. Smithsonian Institution Press, Washington DC, pp. 247e275.
+Marlowe, F.W., 2003. A critical period for provisioning for Hadza men: implications for pair bonding. Evolution and Human Behavior 24, 217e229.
+Marlowe, F.W., 2004. What explains Hadza food sharing? Research in Economic Anthropology 23, 69e88.
+Meignen, L., Bar Yosef, O., Goldberg, P., Weiner, S., 2001. Le feu au Paléolithique moyen: recherches sur les structures de combustion et le statut des
+foyers. L’exemple du Proche-Orient. Paleorient 26, 9e22.
+Meignen, L., Goldberg, P., Bar-Yosef, O., 1989. Structures de combustion
+mousteriennes de la grotte de Kebara (Mont Carmel, Israel). Nature et
+fonction des foyers prehistoriques 2.
+Pastó, I., Allué, E., Vallverdú, J., 2000. Mousterian Hearths at Arbic Romanı́,
+Catalonia (Spain). In: Stringer, C.B., Barton, R., Finlayson, J.C. (Eds.),
+Neanderthals on the Edge. Oxbow N.E.B Books, Oxford, pp. 59e67.
+Rudner, E.Z., Sumegi, P., 2002. Charcoal as a remain of natural and human-set
+fires of Palaeolithic times e case study from Hungary. In: Fire in Archaeology. BAR International Series, vol. 1089, pp. 11e18.
+
+Schiegl, S., Goldberg, P., Bar-Yosef, O., Weiner, S., 1996. Ash deposits in
+Hayonim and Kebara Caves, Israel: macroscopic, microscopic and mineralogical observations, and their archaeological implications. Journal of
+Archaeological Science 23, 763e781.
+Schiegl, S., Goldberg, P., Pfretzschner, H.-U., Conard, N., 2003. Paleolithic
+Burn Bone Horizons from the Swabian Jura: distinguishing between in
+situ fireplaces and dumping areas. Geoarchaeology 18 (5), 541e565.
+Schiegl, S., Stockhammer, P., Scott, C., Wadley, L., 2004. A mineralogical
+and phytolith study of the Middle Stone Age hearths in Sibudu Cave,
+Kwazulu-Natal, South Africa. South African Journal of Science 100,
+185e194.
+Stiner, M.C., Weiner, S., Bar-Yosef, O., Kuhn, S.L., 1995. Differential burning,
+recrystallization, and fragmentation of archaeological bone. Journal of
+Archaeological Science 22 (2).
+Stoops, G., 2003. Guidelines for Analysis and Description of Soil and Regolith
+Thin Sections. Soil Science Society of America, Inc., Madison,
+Winsconsin.
+Vallverdú, J., 2001. Micromorfologia de las facies sedimentarias de la Sierra
+de Atapuerca y del nivel J del Abric Romani. Implicaciones geoarqueológicas y paleoetnograficas. Universitat Rovira i Virgili, Tarragona.
+Vaquero, M., Pastó, I., 2001. The definition of spatial units in Middle Palaeolithic Sites: the hearth-related assemblages. Journal of Archaeological
+Science 28, 1209e1220.
+Wattez, J., 1992. Dynamique de formation des structures de combustion de la
+fin du Paléolithique au Néolithique moyen. Université de Paris I, Paris.
+Weiner, S., Goldberg, P., Bar-Yosef, O., 2002. Three-dimensional distribution
+of minerals in the sediments of Hayonim Cave, Israel: diagenetic processes
+and archaeological implications. Journal of Archaeological Science 29,
+1289e1308.
+Weiner, S., Qinqi, X., Goldberg, P., Liu, J., Bar-Yosef, O., 10 July 1998.
+Evidence for the use of fire at Zhoukoudian, China. Science 281,
+251e253.
+Wood, B., 2006. Prestige or provisioning? A test of foraging goals among the
+Hadza. Current Anthropology 47 (2), 383e387.
+
+

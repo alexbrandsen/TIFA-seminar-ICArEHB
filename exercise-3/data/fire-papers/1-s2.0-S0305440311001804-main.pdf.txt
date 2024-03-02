@@ -1,0 +1,2061 @@
+Journal of Archaeological Science 38 (2011) 2480e2490
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Stability of phytoliths in the archaeological record: a dissolution study of modern
+and fossil phytoliths
+Dan Cabanes a, *, Steve Weiner a, Ruth Shahack-Gross a, b
+a
+b
+
+Kimmel Center for Archaeological Science, Weizmann Institute of Science, Rehovot 76100, Israel
+Dept. of Land of Israel Studies and Archaeology, Bar-Ilan University, Ramat-Gan 52900, Israel
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 7 February 2011
+Received in revised form
+23 May 2011
+Accepted 24 May 2011
+
+Opaline phytoliths are important microfossils used in archaeological and ecological research. Relatively
+little is known about the stability of phytoliths after burial. Under alkaline pH conditions they can
+dissolve, and mechanical disturbances can cause a loss of their more delicate appendages. Here we
+present an experimental study of phytolith stability (combination of solubility and abrasion). Modern
+and fossil phytoliths were extracted from wheat using new methods to minimize dissolution, and by
+burning in an oven. These assemblages were placed in a solution buffered to pH 10 and maintained under
+constant temperature and shaking conditions. The silicon concentrations in the solution were monitored
+once a week for 5 weeks. The phytolith morphologies in each assemblage were determined at the outset
+of the experiment and after 5 weeks. The results show that there are differences in stability between
+various assemblages. Modern inﬂorescence wheat phytolith assemblages are more unstable than those
+from leaves/stems. Burnt assemblages are less stable than unburnt assemblages, and a fossil phytolith
+assemblage about 3000 years old is more stable than the modern wheat assemblages. The results also
+show that individual phytolith morphotypes have different stabilities, and as a result of dissolution and
+abrasion, some morphotypes may resemble others. This study further shows that archaeological and/or
+paleo-environmental interpretation of phytolith assemblages may change with the assemblage’s state of
+preservation.
+Ó 2011 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Phytoliths
+Stability
+Fragility
+Taphonomy
+Alkaline pH
+Dissolution
+Opal
+
+1. Introduction
+Opaline phytoliths are a major component of the microscopic
+archaeological record in many archaeological sites. The fact that
+they are composed of opal (silica) makes them a relatively durable
+component of sedimentary deposits. They are therefore widely
+used to obtain invaluable information on the archaeobotanical
+record (Piperno, 2006; Weiner, 2010). Phytoliths can, however, be
+lost from the archaeological and geological records due to a variety
+of different processes. Phytoliths may be directly dissolved by the
+roots of living plants (Alexandre et al., 1997; Farmer et al., 2005;
+Gérard et al., 2008). Phytoliths may totally or partially dissolve
+under alkaline conditions that are present in many archaeological
+sites and in geological sediments (Karkanas, 2010; Piperno, 1988,
+2006). The delicate appendages of phytoliths may be lost due to
+mechanical abrasion, and partially dissolved phytoliths will more
+easily break into fragments due to bioturbation or transport
+
+* Corresponding author. Tel.: þ972 089343240.
+E-mail address: dan.cabanes@weizmann.ac.il (D. Cabanes).
+0305-4403/$ e see front matter Ó 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2011.05.020
+
+(Osterrieth et al., 2009). Such taphonomic and diagenetic changes
+can result in misinterpretation of poorly preserved phytolith
+assemblages.
+It is well established that the concentrations of phytoliths in
+soils are relatively low, compared to their concentrations in many
+archaeological sites (Albert et al., 2000; Cabanes et al., 2010;
+Shahack-Gross et al., 2003; Tsartsidou et al., 2008, 2009). This is
+probably in part due directly or indirectly to human activities at the
+site that result in accumulations of large amounts of organic matter
+together with their associated phytoliths (Albert et al., 2008), and
+possibly due to the fact that fewer plants grow on site while it is
+inhabited and hence dissolution of phytoliths due to their root
+activities is less. Phytoliths present in sediments in an archaeological site are also subject to diagenetic changes and losses. The
+challenge is to understand these processes and identify parameters
+that can indicate whether a fossil phytolith assemblage is or is not
+well preserved. Here we address the general problem of phytolith
+stability by carrying out laboratory experiments on modern and
+fossil phytolith assemblages.
+Studies of biogenic opal from diatoms and phytoliths show
+that they are most insoluble around pH 3 and that their solubility
+
+D. Cabanes et al. / Journal of Archaeological Science 38 (2011) 2480e2490
+
+increases signiﬁcantly under alkaline conditions (Fraysse et al.,
+2006a, 2006b, 2009; Loucaides et al., 2008, 2010, and references
+therein). As many archaeological sites contain, or once did contain
+calcitic wood ash as well as other sources of calcium carbonate,
+the pH of the water in their sediments would be buffered to
+around 8. At this pH regime phytoliths do dissolve, albeit rather
+slowly. Fraysse et al. (2009) demonstrated that the rate of phytolith dissolution in different samples of plants is similar. Nevertheless, previous experiments comparing phytoliths from
+different plant origin (deciduous leaves, grass and conifer phytoliths) shown signiﬁcant stability differences between them
+(Bartoli and Wilding, 1980; Wilding and Drees, 1974). This
+however does not exclude the possibility that different phytolith
+morphotypes within the same plant may dissolve at different
+rates. A key observation in this direction was made by Albert et al.
+(2006) who reported that the soil phytolith assemblage under
+a certain vegetation type was signiﬁcantly different from the plant
+phytolith assemblage from which the soil phytoliths are derived.
+This could be due to some morphotypes being absent in the
+sediments because they are less stable than other morphotypes,
+as has been noted previously (Alexandre et al., 1997; Carnelli
+et al., 2002). This is a serious concern for phytolith research in
+archaeology and ecology, as the archaeological and paleoecological interpretations of phytolith assemblages are essentially based
+on the relative abundances of the various phytolith morphotypes
+(Piperno, 1988).
+In this study we show that different phytolith assemblages from
+wheat, as well as different phytolith morphotypes from wheat, do
+have different stabilities under alkaline conditions, and we assess
+how differential dissolution and hence stability may affect the
+interpretation of the phytolith-based archaeobotanical record.
+
+2. Materials and methods
+We addressed several methodological problems. First, phytoliths had to be extracted from modern plants, as well as archaeological sediments without, if possible, altering the solubility of
+the opal during the extraction procedure. Common laboratory
+methods for extracting phytoliths from plants and sediments use
+strong acids or are based on the incineration of the plant (Jenkins,
+2009; Katz et al., 2010; Lentfer and Boyd, 1998; Madella et al.,
+1998; Parr, 2002; Parr et al., 2001). Strong acids may completely
+dissolve phytoliths. Katz et al. (2010) reported that phytoliths in
+dilute HCl dissolved in a matter of days. Heating may affect
+phytolith solubility as phytoliths incorporate heavy metals from
+their immediate microenvironment during the incineration
+process, and this changes their surface chemical composition
+(Jones and Milne, 1963). Heating the phytoliths may also alter
+their solubility, as it is known that heating alters the refractive
+index, which in turn reﬂects a change in the water and hydroxyl
+contents of the silica (Elbaum et al., 2003). We therefore developed two different methods that avoided exposure to extreme pH
+and high temperature conditions; one for extraction of modern
+phytoliths from plant material (Section 2.1 below) and one for
+extraction of fossil phytoliths from archaeological sediments
+(Section 2.2 below). Using both methods, we were able to recover
+sufﬁcient quantities of pure phytoliths that could be used for the
+experiments (Section 2.3 below). Note that these extraction
+methods are not designed to extract all the phytoliths from the
+plant or sediment and therefore they should not be used for
+conventional phytolith analyses of plants and sediments. The
+major purpose of this extraction procedure was to obtain as pure
+a sample as possible without changing the chemical and physical
+properties of the opal forming phytoliths.
+
+2481
+
+2.1. Modern phytolith extraction
+Modern phytoliths were extracted from mature dry wheat (Triticum aestivum) collected in the western Galilee, Northern Israel. The
+inﬂorescence of each plant was manually separated from the leaves
+and stems, and then washed with distilled water and placed into
+a sonicator bath (Cole-Parmer 8891) in order to remove mineral
+contamination attached to the plant surface. Once cleaned, about
+50 g of the plant material was blended with approximately 500 ml of
+ethanol using a laboratory blender (Waring Commercial Laboratory
+Blender) until there was no observable change in the consistency of
+the suspension. The planteethanol mixture was then ﬁltered
+through 1 mm2 openings using cotton gauze. The ﬁltered mixture
+containing phytoliths and plant fragments smaller than 1 mm2 was
+then transferred to 50 ml Falcon tubes which were centrifuged at
+3000 rpm for 5 min (Eppendorf centrifuge 5702). The supernatant
+was removed and the pellet was air-dried and weighed.
+To eliminate the organic material from the pellets a solution of
+30% H2O2 in 0.1 M Na2HPO4 buffer adjusted to pH 6.0 was prepared.
+Forty ml of the buffered peroxide solution were added to each
+pellet in 50 ml Falcon tubes and heated in a water bath between 70
+and 80  C for 2 h. The remaining peroxide was removed by
+centrifugation (3000 rpm for 5 min) followed by washing with
+distilled water and centrifugation as above, to eliminate any
+remaining peroxide.
+The quality of the sample was examined using Fourier Transform Infrared (FTIR) spectroscopy. About 0.1 mg of sample was
+mixed with 80 mg of KBr to produce a pellet using a hydraulic press.
+FTIR spectra were collected at 4 cm1 resolution using a Nicolet 380
+FTIR spectrometer (Thermo Electron Corporation). Once optimally
+puriﬁed, as indicated by the FTIR analyses, the different pellets
+were pooled in an agate mortar and gently homogenized.
+The plant material that did not pass through the gauze ﬁlter was
+used for preparation of a modern burnt phytolith sample. This
+material was dried at 50  C for 24 h and then dry ashed in a mufﬂe
+furnace at 500  C for 5 h. The burnt material was analyzed with FTIR
+and its spectrum indicated that it was composed of pure opal.
+Note that the original phytolith assemblage in the two modern
+samples e the fresh extracted sample and the burnt sample e is not
+the same as the initial plant matter used for their preparation was
+different. This is the result of the blending and ﬁltering of the plant
+material which produces a differential separation of some phytolith
+morphotypes. Using this method, the following modern plant
+materials were prepared: unburnt leaves/stems, burnt leaves/stems,
+unburnt inﬂorescence, burnt inﬂorescence (duplicated).
+2.2. Fossil phytolith extraction
+Phytoliths were obtained from a previously studied Iron Age (ca.
+1000e900 BC) phytolith-rich layer from Tel Dor (L06D5-014)
+(Albert et al., 2008), a coastal mound site in northern Israel. This
+archaeological sediment is light-grey and is composed primarily of
+opal, quartz, calcite and clay, based on its infrared spectrum. The
+sample was gently homogenized using an agate mortar and pestle.
+About 0.5 g of the initial dry sediment was placed on Econopac
+columns (Bio-Rad) with a 30 micron polyethylene ﬁlter inside.
+Distilled water adjusted to pH 5 was allowed to drip continuously
+through the column. The pH of the water was monitored with a pH
+meter (pHM250 Meterlab, Radiometer Analytical) once in 24 h and
+adjusted back to pH 5 if necessary. An aliquot of the sediment was
+sampled every 24 h, dried, and analyzed using FTIR to monitor for
+the presence of carbonates. The monitoring results indicated that
+after 48 h most carbonates in the sediment were dissolved. The
+almost totally decalciﬁed sample was then transferred to a 15 ml
+Falcon tube. The tube was ﬁlled with distilled water and
+
+2482
+
+D. Cabanes et al. / Journal of Archaeological Science 38 (2011) 2480e2490
+
+centrifuged at 3000 rpm for 5 min. The supernatant was discarded
+and the tube was ﬁlled again with distilled water and the pellet was
+re-suspended. This operation was repeated three times. The pellet
+was transferred to a 1.5 ml Eppendorf tube and sonicated (W-380
+sonicator, Heatsystem ultrasonic) for 5 min to disaggregate the
+remaining mineral particles. The sediment was then transferred to
+a 15 ml Falcon tube ﬁlled with 10 ml of distilled water. This tube
+was vortexed in order to homogenize and suspend the small
+sediment particles in the water. The content of this tube was
+transferred with a 10 ml automatic pipette (Powerpette plus, Jencons) to the top of a glass burette (50 cm in height, 500 ml in
+volume) previously ﬁlled with double distilled water. Turbulence
+due to the addition of the suspended sediment sample was reduced
+as much as possible by using the automatic pipette. Once the
+sample was added at the top of the column, 15 ml fractions of water
+and suspended particles were collected every 2 min by opening the
+stopper at the bottom of the column. Two drops of the suspension
+from each fraction were placed on a microscope slide, covered by
+a cover glass, and observed using a petrographic microscope at
+200 (Nikon Eclipse E600 pol). This examination took place at the
+same time as the fraction collection was proceeding. Fraction
+collection stopped when clay particles became abundant as
+observed using the petrographic microscope. The ﬁrst fractions
+containing mostly quartz were discarded. The fractions containing
+abundant phytoliths were then pooled and placed at the top of
+a freshly ﬁlled column, and the procedure was repeated once more.
+At this point, some clay particles were still present, but all quartz
+was effectively removed based on the petrographic observation. In
+order to eliminate the remaining clay, the non-discarded fractions
+from the second column were sonicated for 2 min and centrifuged
+at 1000 rpm for 1 min. The supernatant containing the remaining
+clay particles was discarded and the process was repeated 3 or 4
+times until the supernatant was clear, based on microscope
+examination. The pure sample was dried at 50  C in an oven and
+weighed. Using this procedure we obtained around 41 mg of pure
+phytolith sample from 0.6 g of the original archaeological
+phytolith-rich sediment sample (equivalent to 6.8% of the initial
+weight). This procedure was repeated until we obtained enough
+sample for the dissolution experiments (more than 200 mg). A
+sample of burnt fossil phytoliths was prepared by burning an
+aliquot from the puriﬁed fossil sample at 500  C for 5 h.
+2.3. Dissolution experiments
+An aqueous solution buffered to pH 10 using 0.1 M Trizma Base
+(Sigma) buffer and 0.1 M NaCl, was prepared. The pH of the solution
+was adjusted using 1 M HCl. Although pH 10 is uncommon in
+archaeological sediments and soils, we used this pH range to
+increase phytolith dissolution in a convenient period of time. Fortyﬁve ml of this solution were transferred into seven 50 ml Falcon
+tubes. A weighed aliquot (around 50 mg) of the various pure phytolith samples was then placed in each tube (Table 1). The use of
+
+glass containers was avoided since these could contaminate the
+solution with silicon (Si). Note that one sample was repeated twice
+(experiments 4 and 5, Table 1). Two control samples were added to
+the experiments; one blank (i.e., the buffer solution without any
+added silicate material) and one in which synthetic silica (used for
+chromatography, 70e230 mesh, Merck) dissolved in water was
+added to the buffer solution (Table 1). The blank control was used to
+detect possible external/internal contamination. The dissolved
+silica control was used to monitor whether the silicon concentration remained constant throughout the experiment.
+The tubes were sealed with Paraﬁlm and placed horizontally in
+an Innova 4430 shaker-incubator set at 50  C and 70 rpm for 5
+weeks. Once a week the incubator was stopped, the tubes vortexed
+and 1 ml of solution (including suspended phytoliths) was extracted from each tube, placed in a 1.5 ml Eppendorf tube and centrifuged at 10,000 rpm for 10 min. The supernatant was transferred to
+a clean tube and stored for silicon content determination, while the
+pellet, which contained phytoliths, was washed three times with
+distilled water and centrifuged at 10,000 rpm for 10 min. The clean
+pellet was dried in an oven at 50  C, weighed and stored for future
+analyses. The experiments were stopped at the end of the 5th week.
+The remaining phytoliths and solutions were separated and stored
+using the same procedure as above.
+Phytolith dissolution was monitored by measuring the silicon
+concentration [Si] in the solution every week. This was done
+using the molybdate blue method (Fishman and Friedman, 1989)
+with an Ocean Optics USBeISSeUV/VIS spectrophotometer. The
+accuracy of measurements is 0.05 mM. Measurements were
+made following dilution (100 ml of the extract in 900 ml of distilled
+water) in order to adjust the solution concentration to the range
+of the instrument. Three different measurements were carried out
+on each supernatant extract in order to evaluate the precision of
+the measurements. The mineral component was monitored before
+and after the dissolution by infrared spectrometry as described
+above (Section 2.1).
+Phytolith counting and morphotypes identiﬁcation was carried
+out before and after dissolution using a petrographic microscope
+(Nikon Eclipse 50iPol) at 200 and 400. About 1 mg of phytolith
+residue at the beginning and end of each experiment was mounted
+on microscope slides using Entellan New (Merck). Three different
+slides were prepared from the initial residue (i.e., before dissolution) and three different slides from the ﬁnal residue (i.e., after
+dissolution), from each experiment (except for experiment 5, i.e.,
+a total of 39 slides). At least 250 phytoliths were counted in each
+slide. Phytolith identiﬁcation was carried out using the standard
+literature (Twiss et al., 1969; Piperno, 1988, 2006; Mulholland and
+George Rapp, 1992). The International Code for Phytolith Nomenclature was also followed where possible (Madella et al., 2005).
+Note that the extraction methods may cause some damage to
+the phytoliths. As we however compare the same assemblage
+before and after dissolution/abrasion, the extraction method does
+not inﬂuence our results.
+
+Table 1
+List of experiments, extraction methods used, materials used, and initial weights of phytoliths prior to dissolution.
+Experiment #
+
+Extraction method
+
+Material used
+
+Initial weight of phytolith (mg)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Modern extraction (Section 2.1)
+
+T. aestivum leaves and stems
+T. aestivum inﬂorescence
+T. aestivum leaves and stems
+T. aestivum inﬂorescence
+T. aestivum inﬂorescence (duplicate)
+Fossil phytoliths Tel Dor
+Burnt fossil phytoliths Tel Dor
+Control 1: dissolved synthetic silica
+Control 2: blank (no added silica)
+
+50.41
+50.36
+50.38
+50.39
+50.37
+50.00
+50.03
+e
+0.00
+
+Modern, Dry ashing (Section 2.1)
+
+Fossil extraction (Section 2.2)
+None
+
+D. Cabanes et al. / Journal of Archaeological Science 38 (2011) 2480e2490
+
+3. Results
+3.1. Apparent solubilities of phytolith assemblages
+Phytolith assemblages from modern wheat plants and fossil
+sediments approximately 3000 years old were placed in an alkaline
+solution buffered to pH 10. Dissolution was monitored by
+measuring the silicon concentration [Si] in the solution. Fig. 1
+shows the weekly concentration of Si in each sample. The blank
+control did not have any measurable silicon, as expected. The dissolved silicon control remained constant during the 5 weeks of the
+experiment, indicating that samples were not contaminated and
+silicon was not lost by adsorption or precipitation. Fig. 1 shows that
+the Si concentrations of the modern samples all reached a steady
+state within one week, the burnt fossil sample took 2 weeks to
+reach a steady state and the unburnt fossil sample appears not to
+have reached a steady state even after 5 weeks. The silicon
+concentrations of the steady states reached by each sample are
+different, implying that the apparent solubilities of the opal of each
+assemblage are different. Fig. 1 shows that fresh phytoliths are
+more soluble than fossil phytoliths as they released more Si into the
+solution. Furthermore, a comparison of the unburnt and burnt fresh
+and fossil samples all show that heating to 500  C (“burning”)
+results in the phytoliths becoming more soluble. In addition, phytoliths from the unburnt inﬂorescence of the wheat plant are
+slightly more soluble than those from the unburnt leaves and
+stems, while after burning there appears to be no difference in the
+solubilities between burnt inﬂorescences and burnt leaves/stems.
+The amount of material dissolved was monitored by weighing
+the samples before and after each experiment. Fig. 2 shows the
+percent weight loss as a function of Si concentration at the end of
+
+2483
+
+the experiments. The results are, with one exception, consistent
+with the steady state Si concentrations observed in the experimental solutions (Fig. 1). The one exception is the burnt inﬂorescence sample which lost around 35% of its weight after dissolution,
+but the silicon concentration in the solution after one week was
+similar to the burnt fresh leaf/stem sample. The experiment was
+repeated in order to conﬁrm this result (Fig. 2).
+3.2. Changes in the mineral component
+No major changes in the FTIR spectra were observed before and
+after the dissolution experiment. We did however observe a small
+decrease of the 950 cm1 absorption shoulder in the modern
+unburnt samples after dissolution (Fig. 3), indicating loss of
+hydroxyl (silanol) groups (SiOH; Loucaides et al., 2010) and possibly
+bound water molecules following dissolution. We also noted that
+this absorption band was absent in the samples that were burnt
+(Fig. 3). Note that the modern samples shown here are not
+composed of pure opal but include bands that indicate the presence
+of carbonates and phosphates.
+3.3. Changes in phytolith morphotypes
+Wheat produces many different phytolith morphotypes. A
+major aim of this study was to determine whether certain morphotypes are more stable than others. In these experiments
+stability refers both to the solubility of the opal with more soluble
+opal resulting in less stable phytoliths, and to mechanical stability.
+As the samples were kept in constant motion, the thinner and
+hence more fragile phytoliths could break up into unidentiﬁable
+fragments compared to the more robust phytoliths. This
+
+6
+
+5
+
+4
+
+[Si] mM
+
+Unburnt wheat leaves/stems
+Unburnt wheat inflorescence
+Burnt wheat leaves/stems
+
+3
+
+Burnt wheat inflorescence 1
+Burnt wheat inflorescence 2
+Unburnt fossil
+
+2
+
+Burnt fossil
+Control
+
+1
+
+0
+Week 0
+(Initial)
+
+Week 1
+
+Week 2
+
+Week 3
+
+Week 4
+
+Week 5
+(Final)
+
+Fig. 1. Silicon concentration [Si] in mM during the dissolution experiment. The error bars show the standard deviation for the repetition of three measurements in each weekly
+extraction.
+
+2484
+
+D. Cabanes et al. / Journal of Archaeological Science 38 (2011) 2480e2490
+
+A
+
+65
+
+4000
+
+40
+
+3000
+
+30
+
+2000
+
+20
+
+45
+
+1000
+
+10
+
+40
+
+0
+
+60
+Phytoliths in 1 mg
+
+Weight loss (%)
+
+55
+50
+
+e
+e
+e
+e
+d
+te
+te
+lat
+lat
+lat
+lat
+ula athere
+gu
+gu
+psi
+psi
+sila
+ug
+e
+. ru m p.
+r ru
+cp
+lar
+er
+i
+t
+W
+p
+a
+u
+r
+g
+l
+a
+g
+d
+r
+g
+gu
+lon
+lin
+orm llifo
+Irre
+lon
+Irre
+P. e
+Cy
+llif
+P. e
+Bu
+Bu
+
+Ro
+
+35
+
+S.C
+
+11000
+
+25
+
+50
+
+40
+
+3
+4
+[Si] mM concentration 5th week
+
+Unburnt wheat leaves/stems
+Burnt wheat leaves/stems
+Burnt wheat inflorescence 2
+
+5
+
+Unburnt wheat inflorescence
+Burnt wheat inflorescence 1
+Unburnt fossil
+
+Phytoliths in 1 mg
+
+8250
+
+2
+
+30
+%
+
+5500
+20
+2750
+10
+
+Fig. 2. Percentage of weight loss during dissolution versus silicon concentration in the
+supernatant after the 5th week of the experiment.
+
+0
+
+.C.
+
+cL
+
+472
+471
+470 468
+
+606
+567
+564
+
+725
+
+797
+798
+
+732
+
+956
+
+873
+
+802
+
+801
+
+B
+C
+
+881
+
+1635
+
+A
+
+1438
+
+1624
+
+1437
+
+1102 1099
+
+1099
+
+1101
+
+mechanical break down would be enhanced for phytolith morphotypes that dissolve more rapidly. Figs. 4e6 present the observed
+changes before and after dissolution in alkaline pH of the most
+abundant (>2%) phytolith morphotypes in the extracted phytolith
+assemblages. The results are presented in two ways: as numbers of
+phytoliths in 1 mg of sample (after normalization relative to the
+initial number of phytoliths) and as the relative abundance of
+phytolith morphotypes in the whole assemblage (i.e., percentage of
+the total identiﬁable phytoliths). The most abundant morphotypes
+account for more than 90% of each sample. The so-called “weathered morphotype” refers to phytoliths that have an irregular shape
+and a pitted surface. They may be derived from different sources
+and as the name implies, are generally thought to be the result of
+
+Absorbance
+
+0
+
+sila
+
+p
+ate
+
+B
+
+30
+
+D
+2000
+
+te
+
+.
+
+el
+nd
+
+%
+
+1800
+
+1600
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+Wavenumbers (cm-1)
+
+Fig. 3. FTIR spectra from wheat leaves/stems phytoliths. A) Unburnt leaves and stems
+prior to dissolution; B) Unburnt leaves and stems after dissolution; C) Burnt leaves and
+stems prior to dissolution; D) Burnt leaves and stems after dissolution. Note that the
+unburnt samples still have small amounts of hydroxyapatite and in sample (B) traces of
+dolomite.
+
+n
+
+ti
+dri
+
+De
+
+lae
+
+pil
+
+Pa
+
+ir
+te
+ina
+
+h
+
+Ec
+
+.C.
+
+.
+
+Ha
+
+L.C
+
+te
+
+el S
+
+R
+
+d
+on
+
+on
+
+l
+P. e
+
+sila
+
+ep
+gat
+
+ga
+
+on
+
+l
+P. e
+
+te
+
+ula
+
+ug
+te r
+
+ed
+.C.
+her
+te L
+uca
+r
+r
+Ve
+
+0
+
+at
+We
+
+Initial number of phytoliths
+
+Initial percentage
+
+Final number of phytoliths
+
+Final percentage
+
+Fig. 4. Morphotype analysis of the initial (prior to dissolution) and ﬁnal (after dissolution) number of phytoliths in 1 mg sample, and the initial and ﬁnal percentage of the
+most abundant morphotypes. A) Unburnt wheat leaves and stems; B) Unburnt wheat
+inﬂorescence.
+
+weathering. Note that only the initial and ﬁnal assemblages can be
+compared directly, but not the unburnt (Fig. 4) and burnt (Fig. 5)
+modern assemblages as these were produced from different sources (see Section 2.1).
+In the unburnt leaves/stem sample (Fig. 4a) 8 of the 9 abundant
+morphotypes show a reduction in phytolith numbers per mg after
+dissolution, whereas the difference for the weathered morphotype
+is not signiﬁcant. Surprisingly, weathered morphotypes are present
+in signiﬁcant amounts in the initial sample, clearly showing that
+they are not only a product of weathering. In terms of relative
+abundance (%), the rondel short cell (S.C.) and the bulliforms
+become more abundant after dissolution, the parallelepipedal (P.)
+elongate rugulates stay the same, whereas the P. elongate psilates
+in particular become less abundant. Even though all these changes
+are relative, it is quite clear that some morphotypes are less stable
+(e.g., the P. elongate psilates) than others (e.g., the rondels and the
+bulliforms). In the unburnt inﬂorescence sample (Fig. 4b) the
+P. elongate rugulates and the weathered morphotypes maintain
+the same phytolith numbers per mg, and increase in relative
+abundance.
+In the burnt leaves/stem sample (Fig. 5a) again all the morphotypes except for the P. elongate rugulates decrease in numbers
+per mg, and there is a major reduction in the percentage of sinuous
+long cell (L.C.) morphotypes while an increase in the percentage of
+the P. elongate rugulates. In the burnt inﬂorescence sample (Fig. 5b)
+
+D. Cabanes et al. / Journal of Archaeological Science 38 (2011) 2480e2490
+
+A
+
+A
+
+6000
+
+20
+
+4500
+
+15
+
+3000
+
+10
+
+20
+
+1500
+
+5
+
+10
+
+0
+
+0
+
+%
+
+15000
+
+.C.
+
+Si
+
+B
+
+.
+
+te
+
+sila
+
+sL
+
+ou
+nou
+
+ep
+gat
+
+on
+
+l
+P. e
+
+vy
+Wa
+
+L.C
+
+es)
+
+L
+
+vy
+
+Wa
+
+te
+
+0
+
+ula
+
+eav
+
+(l
+.C.
+
+Ec
+hin
+ate
+L
+
+.C.
+
+el S
+
+nd
+Ro
+
+ug
+te r
+
+a
+
+ong
+
+l
+P. e
+
+42000
+
+60
+
+31500
+
+45
+
+%
+21000
+
+30
+
+20
+
+7500
+
+15
+
+5000
+
+10
+
+2500
+
+5
+
+0
+
+0
+
+%
+
+Initial number of phytoliths
+Final number of phytoliths
+
+Final percentage
+
+Fig. 5. Morphotype analysis of the initial (prior to dissolution) and ﬁnal (after dissolution) number of phytoliths in 1 mg sample, and the initial and ﬁnal percentage of the
+most abundant morphotypes. A) Burnt wheat leaves and stems; B) Burnt wheat
+inﬂorescence.
+
+the differences in phytolith numbers per mg between initial and
+ﬁnal samples are generally small, with the P. elongate rugulate
+morphotype showing an increase in both numbers and percentage.
+This implies that even though around 35 weight% of the sample was
+lost, the different morphotypes dissolve rather uniformly.
+The results of the changes in the modern morphotype assemblages clearly show that the same morphotypes from leaves/stems
+and inﬂorescence can behave differently, and that there is something unusual about the P. elongate rugulate morphotype.
+The effect of dissolution on the fossil unburnt and burnt samples
+is shown in Fig. 6. In the unburnt sample (Fig. 6a), the morphotypes
+which show a greater reduction in numbers per mg are those
+related to the inﬂorescence (dendritic, echinate and verrucate long
+cells, and papillae), whereas the rest are less affected. Note also that
+the weathered morphotypes increase their number and relative
+abundance signiﬁcantly. Overall, based on the relative abundances
+in this fossil sample, verrucate long cells and papillae are the least
+stable morphotypes and the P. elongate rugulates the most stable.
+The burnt fossil sample (Fig. 6b) was prepared by heating
+a portion of the homogenized fossil sample in an oven. Thus the
+abundance of phytolith morphotypes in the unburnt and burnt
+samples should be similar. This however is clearly not the case.
+Furthermore the most abundant morphotype in the burnt sample
+(wavy L.C.) is only the seventh most abundant morphotype in the
+unburnt sample. The wavy L.C. morphotype is very thin, and
+
+Final percentage
+
+te
+sila
+
+te
+ula
+
+dri
+
+cp
+
+ug
+
+cr
+
+Initial percentage
+
+Final number of phytoliths
+
+lin
+
+dri
+
+lin
+
+Initial number of phytoliths
+
+Cy
+
+.C.
+
+her
+ed
+Cy
+
+ula
+
+el S
+
+We
+at
+
+te
+nd
+
+ug
+
+P. e
+l
+
+on
+
+gat
+
+er
+
+cat
+rru
+
+Ro
+
+.C.
+
+te
+
+eL
+
+sila
+
+lae
+pil
+
+ep
+
+Pa
+
+gat
+
+.
+
+Initial percentage
+
+cL
+
+L.C
+
+a
+
+ong
+
+l
+P. e
+
+on
+
+h
+
+Ec
+
+0
+te
+
+ula
+
+ug
+te r
+
+riti
+
+L.C
+
+nd
+
+te
+ina
+
+ate
+
+.
+
+L.C
+
+Ve
+
+Sin
+
+vy
+Wa
+
+hin
+
+L.C
+
+De
+
+R
+
+.
+
+.
+
+us
+ouo
+
+Ec
+
+.C.
+
+lS
+
+e
+ond
+
+P. e
+l
+
+De
+
+e
+
+illa
+
+Pap
+
+vy
+
+L.C
+.C.
+
+cL
+
+iti
+ndr
+
+Wa
+
+0
+
+.C.
+
+15
+
+.
+
+10500
+
+B 10000
+
+Phytoliths in 1 mg
+
+0
+
+.C.
+
+7500
+
+%
+
+De
+nd
+riti
+cL
+
+Phytoliths in 1 mg
+
+30
+
+.C.
+Ve
+rru
+cat
+e
+P. e
+L.C
+lon
+.
+gat
+er
+ug
+ula
+te
+Ro
+nd
+el S
+.C.
+P. e
+lon
+gat
+ep
+sila
+te
+Wa
+vy
+L.C
+.
+Pa
+pil
+lae
+We
+ath
+ere
+Cy
+d
+lin
+dri
+cr
+ug
+ula
+te
+Cy
+lin
+dri
+cp
+sila
+te
+
+40
+22500
+
+Phytoliths in 1 mg
+
+50
+
+30000
+
+Phytoliths in 1 mg
+
+2485
+
+Fig. 6. Morphotype analysis of the initial (prior to dissolution) and ﬁnal (after dissolution) number of phytoliths in 1 mg sample, and the initial and ﬁnal percentage of the
+most abundant morphotypes. A) Unburnt fossil phytoliths; B) Burnt fossil phytoliths.
+
+therefore almost invisible in the Entellan mounting medium (see
+Discussion below). We suspect that the reason is the optical
+contrast which is a function of both the refractive index and the
+phytolith thickness. As the wavy L.C. morphotype is very thin, the
+burning changed its refractive index (Elbaum et al., 2003) in such
+a way as to make it visible. We tested this explanation by mounting
+the fossil sample in a liquid with refractive index of 1.65 (as
+opposed to the 1.49e1.50 of Entellan) and observed that the relative
+abundances of morphotypes in the burnt and unburnt fossil sample
+were similar using this refractive index liquid. Clearly Entellan is
+a problematic mounting medium for phytolith studies and a more
+suitable mounting medium needs to be used. This implies that
+a comparison between the morphotypes in the unburnt and burnt
+fossil phytolith assemblages cannot be performed directly.
+The intra-sample changes in phytolith morphotypes in the burnt
+fossil sample (Fig. 6b) shows a major decrease in phytolith numbers
+in all morphotypes. In terms of relative abundance, wavy L.C.,
+verrucate L.C. and papillae undergo a signiﬁcant decrease in their
+percentage while P. elongate rugulates and weathered morphotypes increase in percentage following dissolution.
+4. Discussion
+Here we show that the solubilities of modern wheat phytolith
+assemblages are greater than a 3000 year old fossil phytolith
+assemblage composed mainly of domesticated cereals, and that
+
+2486
+
+D. Cabanes et al. / Journal of Archaeological Science 38 (2011) 2480e2490
+
+burnt phytoliths are more soluble than unburnt phytoliths. We also
+show that the stabilities of different phytolith morphotypes in both
+the modern and fossil assemblages vary.
+4.1. Phytolith solubility
+In our dissolution experiments, the silicon concentrations
+reached a steady state after one or two weeks. Thus the different
+concentrations of silicon in solution are proportional to the
+apparent solubilities of the various phytolith silica (opaline) phases
+e the more silicon in solution, the more soluble is the phytolith
+silica. The observation that modern extracted phytoliths are more
+soluble than fossil phytoliths is consistent with previous studies on
+the silica of diatoms and plant phytoliths (Kamatani, 1971). Fraysse
+et al. (2006b) showed that plant extracted phytoliths are more
+reactive than soil extracted phytoliths, indicating that the modern
+phytoliths are more soluble. Even though our experiments were
+carried out at pH 10 and 50  C, we can expect that at pH 8 to 8.5 (i.e.,
+alkaline soils and ash accumulations worldwide) and ambient
+temperatures, phytoliths will dissolve rapidly in the context of
+“archaeological time” (years and not hundreds of years).
+An interesting observation, and also possibly the key to understanding the basis for the solubility of phytoliths, is the observation
+that burnt phytoliths are more soluble than unburnt phytoliths.
+Heating biogenic silica removes the hydroxyl groups and bound
+water (Jones and Segnit, 1969). This implies that the hydroxyl
+groups and the bound water must stabilize the silica. A similar
+observation has been made for amorphous calcium carbonate,
+where the more stable phase contains equimolar amounts of bound
+water and calcium carbonate, while the unstable phase is almost
+devoid of bound water (Raz et al., 2003). Based on the above, the
+different solubilities of wheat phytoliths from leaves/stems as
+compared to the inﬂorescence measured in this study may reﬂect
+the amounts of bound water and hydroxyl groups in the silica,
+which in turn probably reﬂects the manner in which these phytoliths initially formed.
+Our results and their implications (above) indicate that phytolith dissolution in sedimentary environments (archaeological
+sediments and/or soils) is related to the water associated with the
+phytoliths. If this water is lost during diagenesis, or the silicon,
+probably in the form of dissolved monosilicic acid, is removed (by
+plant roots for example), the phytoliths will dissolve more readily.
+This implies that whether or not phytoliths are preserved in
+archaeological sediments and/or soils depends upon the solubility
+of the phytolith mineral, how robust the morphotype is, the local
+hydrological regime, the local biological activity, and probably
+other as yet unidentiﬁed factors. Furthermore, our experiments
+indicate that burnt phytoliths are more soluble than unburnt
+phytoliths, and hence more likely to be diagenetically altered. We
+note that Fraysse et al. (2006b) did not observe noticeable changes
+in phytolith solubility after heating at 450  C for 6 h and then
+dissolving at pH 4, 6 and 8 for several days.
+4.2. Phytolith morphotypes have different stabilities
+Figs. 4 and 5 show that the changes in the relative amounts of
+phytolith morphotypes after dissolution vary considerably. The
+interpretation of this data is complicated by the fact that the
+percent values are relative. Thus when one value changes, it affects
+all other percent values. We partially alleviate this problem by also
+presenting the data as numbers of identiﬁable phytoliths per
+milligram of sample weight. This form of presentation, however,
+highlights another problem, namely that the total number of phytoliths per milligram after dissolution is always much less than
+before dissolution. We know that almost all the sample is
+
+composed of opal (conﬁrmed by FTIR), even after 50% or more of
+the sample’s initial weight has been lost. This means that the
+observed reduction is in the number of identiﬁable phytoliths, with
+the remaining opal being unidentiﬁable small fragments. As only
+the identiﬁable phytoliths are analyzed when examining sediment
+samples from archaeological sites, we normalized the total number
+of identiﬁable phytoliths after dissolution to the number before
+dissolution (Tables 2 and 3), and calculated the ratios of the identiﬁable phytoliths after dissolution over the identiﬁable phytoliths
+before dissolution. In this way, a ratio of 1 indicates no difference
+between the initial and ﬁnal amount of a certain morphotype,
+while a ratio greater than 1 indicates relative stability and a ratio
+smaller than 1 indicates relative instability. Using these ratios, we
+can better understand the implications of differential loss of phytoliths on the interpretation of the phytolith assemblages in
+archaeological sediments.
+Table 2 shows that the ratios calculated for the modern samples
+range between 0.0 and 15.0. About half of these (43%) have ratios
+that fall between 0.6 and 1.8. We therefore assume that within this
+range, the differences are small or not signiﬁcant. Here we discuss
+only those that are below this range (37%) and hence relatively
+unstable, and those with ratios above this range (20%) that are
+relatively stable. The ratios calculated for the modern phytolith
+assemblages show that hairs, papillae, bulliform parellelipedal
+psilate, irregular psilate and sinuous long cells and verrucate long
+cells are all relatively unstable. Cylindric psilates and parallelipipedal elongate rugulates appear to be relatively stable, but not
+in leaf/stem samples.
+An interpretation of the ratios of these and other morphotypes
+only in terms of stable or unstable is complicated by two problems.
+The problem with identifying thin phytoliths in Entellan, such as
+the wavy long cell morphotype, and the problem that some morphotypes are not identiﬁable after partial dissolution and/or
+mechanical abrasion. Furthermore, a morphotype such as the parallelipiped elongate rugulate has an elongated shape and a pitted
+Table 2
+Normalized ratios between the initial (prior to dissolution) and the ﬁnal (after
+dissolution) morphotypes in the modern plant phytoliths, and the initial percentage
+of each morphotype. A value 0 indicates that the morphotype was not detected in
+the ﬁnal assemblage. Values in bold reﬂect a signiﬁcant change in stability.
+Unburnt
+
+Bulliform cell
+parallelipedal psilate
+Bulliform cell
+parallelipedal rugulate
+Cylindric psilate
+Epidermal appendage.
+Hair monocot.
+Irregular psilate
+Irregular rugulate
+Dendritic long cell
+Echinate long cell
+Sinuous long cell
+Verrucate long cell
+Wavy long cell
+Wavy long cell (leaves)
+Papillae
+Parallelepipedal
+elongate psilate
+Parallelepipedal elongate
+rugulate
+Rondel short cell
+Weathered morphotypes
+Total percentage of
+abundant phytoliths
+
+Burnt
+
+Leaf/stem
+
+Inﬂorescence Leaf/stem
+
+Inﬂorescence
+
+Ratio %
+
+Ratio
+
+Ratio
+
+%
+
+Ratio %
+
+0.5
+
+4.3 e
+
+e
+
+1.4
+
+6.1 e
+
+e
+
+0.7
+0
+
+3.2 8.5
+0.8 0.3
+
+0.3
+12.9
+
+4.4
+0
+
+0
+e
+
+%
+
+0.2 0.0
+e
+
+e
+
+0.1 2.1
+0.1 0.5
+
+0.1
+e
+0.1
+0.3
+
+0
+0
+1.2
+0.1
+0.4
+1.2
+0.1
+e
+0.8
+1.3
+
+< 0.1
+< 0.1
+44.7
+3.3
+7.7
+0.6
+6.6
+e
+18.1
+0.3
+
+3.0
+
+3.1 4.0
+
+2.4
+
+1.0
+15.0
+
+38.4 0.9
+0.1 e
+96
+
+14.7
+e
+98.9
+
+0.4
+0.9
+e
+0.9
+0
+0
+2.3
+0
+e
+0.6
+
+3.9
+2.7
+e
+0.6
+0.4
+0.1
+0.7
+0.3
+e
+21.3
+
+0.6
+1.0
+0.9
+1.1
+0
+1.8
+0.2
+e
+0.3
+1.3
+
+0.8
+0.2
+37.2
+9.6
+0.2
+2.5
+1.9
+e
+15.7
+3.1
+
+0
+e
+2.7
+1.3
+0.4
+e
+1.1
+1.3
+e
+1.4
+
+1.0
+
+13.6 3.7
+
+3.1
+
+1.3
+2.2
+
+25.5 0.8
+7.3 4.1
+90.8
+
+8.4
+2.7
+98.6
+
+0.2
+e
+0.4
+1.0
+28.3
+e
+8.4
+6.6
+e
+9.1
+
+D. Cabanes et al. / Journal of Archaeological Science 38 (2011) 2480e2490
+Table 3
+Normalized ratios between the initial (prior to dissolution) and the ﬁnal (after
+dissolution) morphotypes in the fossil phytoliths, and the initial percentage of each
+morphotype. Values in bold reﬂect a signiﬁcant change in stability.
+
+Cylindric psilate
+Cylindric rugulate
+Dendritic long cell
+Echinate long cell
+Verrucate long cell
+Wavy long cell
+Papillae
+Parallelepipedal elongate psilate
+Parallelepipedal elongate rugulate
+Rondel short cell
+Weathered morphotypes
+Total percentage of abundant phytoliths
+
+Unburnt fossil
+
+Burnt fossil
+
+Ratio
+
+%
+
+Ratio
+
+%
+
+1.4
+0.9
+0.8
+0.9
+0.5
+1.2
+0.6
+1.1
+1.2
+1.4
+1.9
+
+2.2
+3.5
+12.7
+14.3
+10.1
+11.2
+7.6
+10.9
+9.4
+11.5
+2.9
+96.3
+
+1.6
+1.1
+1.0
+1.0
+0.5
+1.5
+0.5
+1.4
+1.4
+1.1
+2.1
+
+2.1
+2.5
+10.8
+13.5
+8.4
+17.3
+9.8
+10.5
+8.1
+7.2
+5.9
+96.1
+
+surface. Thus other morphotypes such as wavy, dendritic or echinate long cells can lose their decoration and become surface etched
+during diagenesis, and will as a result be identiﬁed as parallelipiped
+elongate rugulates (Fig. 7). Thus the proportions of rugulates
+appears to increase, but not necessarily because they are very
+stable. The ratios of the weathered morphotypes are particularly
+high. Even though we show that some of these are present in the
+modern plant, our experiments clearly show that more weathered
+morphotypes are formed during the experiment. Echinate long
+cells have a very low ratio in the modern burnt inﬂorescence
+sample (0.1) compared to the unburnt modern inﬂorescence
+sample (1.1). This is an example showing how the same morphotype reacts differently due to loss of bound water following
+burning.
+Table 3 shows that the ratios calculated for the fossil samples
+range between 0.5 and 2.1; a rather narrow range in comparison to
+the modern samples. This observation shows the relative stability
+of the fossil assemblages, whether burnt or unburnt, in comparison
+to the modern ones. In both unburnt and burnt fossil samples, the
+verrucate long cells are the most unstable, followed by the papillae
+in the burnt fossil sample. This implies that even though this fossil
+assemblage is presumably a residual assemblage compared to
+when it was formed 3000 years ago, further dissolution of 35% by
+weight of the material still leads to 2 morphotypes, verrucate long
+cells, and papillae, being less represented in the ﬁnal assemblage.
+Only one signiﬁcant increase in stable morphotypes is found in the
+two fossil assemblages, namely in the weathered morphotypes.
+Note that in the fossil assemblages the initial percentage (Fig. 4a) of
+the P. elongate rugulates is high, between 5 and 10% of the total
+assemblage. Their ratio did not change signiﬁcantly following
+dissolution.
+Our data indicate that phytolith stability is determined by both
+solubility and fragility. As stated above, the number of identiﬁable
+phytoliths in 1 mg of opal was reduced following the experiments.
+This is not expected if dissolution is the only mechanism acting on
+the phytolith assemblage. It is thus conceivable that dissolution of
+the weak morphotypes identiﬁed above using the ratios (e.g., wavy
+long cells, verrucate long cells, hairs, papillae, and others) is
+accompanied by breakage once dissolving morphotypes become
+thinner, or have irregular thickness due to deep pitting. The ratio
+between identiﬁable morphotypes and opaline debris might be an
+important factor to examine in future studies.
+4.3. Archaeological implications
+Identiﬁcation of anatomical origins of phytoliths depends to
+a large degree on speciﬁc indicative morphotypes. Based on our
+
+2487
+
+experiments some of these indicative morphotypes seem to be less
+stable than others. In the case of inﬂorescences, it seems that hair
+and papillae are relatively unstable, as are indicative ornamented
+long cells. In the case of the leaves and stems, it appears that
+indicative morphotypes such as rugulate bulliforms and parallelepipedal are less stable than most other morphotypes. These
+results indicate that the phytoliths that suffer major changes in
+their relative abundance due to dissolution/mechanical breakage
+are some of the key phytoliths for identifying the part of the plant
+from which they originated. Furthermore, in general the wheat
+inﬂorescence phytoliths are more susceptible to degradation than
+those from the leaves and stems. This can have important implications for interpreting phytolith assemblages in archaeological
+sediments.
+It is therefore of much importance to be able to evaluate
+whether or not a fossil assemblage of phytoliths is well preserved or
+poorly preserved, before interpreting its archaeological signiﬁcance. To date, the state of preservation of a fossil phytolith
+assemblage has been evaluated by examining whether the surfaces
+of all or many of the morphotypes are pitted and the decorations
+are irregular (Fredlund and Tieszen, 1997). These properties are
+certainly an indication of poor preservation. When such phytoliths
+cannot be ascribed to a particular morphotype, then they are
+designated as being “weathered”. The presence or absence of
+weathered morphotypes is widely used as an indicator of phytolith
+assemblage state of preservation. Our analyses show that weathered morphotypes are also present in the samples extracted from
+modern leaves and stems prior to dissolution. In the leaves and
+stems they constitute almost 10% of the common phytolith types
+(Fig. 4). These pitted and irregular shaped phytoliths are either
+present as such in the modern plant or were formed during
+extraction, despite our efforts to avoid extreme pH conditions. We
+note that their relative abundance increases after dissolution,
+which is consistent with the interpretation that they are also the
+product of diagenesis. These observations imply that not all the socalled weathered morphotypes are the product of weathering, and
+they cannot be used indiscriminately to evaluate the state of
+preservation of a phytolith assemblage. The so-called “weathered
+morphotypes” in the original modern assemblages may reﬂect
+incomplete siliciﬁcation of the plant cell when the phytoliths were
+extracted.
+Another possible indicator of preservation is the relative
+proportion of the parallelepipedal elongate rugulate morphotype,
+as this parameter was signiﬁcantly elevated in all our experiments
+on modern wheat. This may imply that this morphotype is resistant
+to dissolution in alkaline pH, or as noted it could be due to the loss
+of decoration of some long cell phytoliths during the experiment.
+This loss would cause other morphotypes to adopt the rugulate
+appearance. For example, the loss of decoration from a verrucate
+morphotype (which is more prone to dissolution and breakage than
+other morphotypes) and the dissolution of its surface will result in
+a rugulate appearance. Thus a high relative abundance of paralellepiped elongate regulates (Fig. 7a) in an archaeological sample
+may reﬂect poor preservation, provided that some other argument
+can be advanced to exclude the possibility that rugulates were not
+derived from a part of the plant where they are abundant.
+Perhaps the best indication of a well preserved assemblage is
+the presence of abundant hairs, papillae and long cells with decorated margins, as all these morphotypes at least in wheat are
+relatively unstable. The problem is that they are almost absent in
+the stems/leaves.
+The fact that different morphotypes have different stabilities
+means that if a fossil assemblage of phytoliths is not well preserved,
+then the relative amounts of the different morphotypes will change
+and the archaeological interpretation, or the signiﬁcance of this
+
+2488
+
+D. Cabanes et al. / Journal of Archaeological Science 38 (2011) 2480e2490
+
+Fig. 7. Light microscope images of phytolith morphotypes undergoing diagenetic changes. A) Modern parallelepipedal elongate with rugulate surface (arrow) from the unburnt
+wheat leaves and stems prior to dissolution. B) Burnt fossil cylindric psilate after dissolution. Approximately half of the phytolith has a rugulate/pitted surface whereas the other half
+still has a psilate/smooth surface. C) Burnt fossil cylindric with almost imperceptible verrucated decoration after dissolution. Some areas of the phytolith are well preserved and
+show psilate surfaces, whereas in other areas the dissolution has created a rugulate/pitted surface. In the dissolved area dissolution has ﬂattened the cylinder. D) Burnt fossil
+phytolith after dissolution showing partially decorated margins that could be wavy or echinate. Diagenesis is transforming this morphotype into a parallelepiped elongate regulate.
+E) Burnt fossil phytolith showing progressive dissolution of the decoration. F) Three different burnt fossil phytoliths in various states of preservation: 1. Well preserved echinate long
+cell; 2. Long cell with psilate surface and dissolved margin decoration; 3. Completely weathered long cell with rugulate surface and almost no margin decoration.
+
+assemblage, will also change. In this study we show that the phytolith silica from the Tel Dor fossil sample is more insoluble than the
+modern phytolith assemblages, implying that the more soluble
+phytoliths have either totally or partially dissolved (resulting in ca.
+10% P. elongate rugulate phytoliths and ca. 5% weathered morphotypes in the initial sample). We also show that if another 35% by
+weight of this sample is dissolved (as occurred in our experiment),
+the assemblage again changes. The detailed changes are listed in
+Table 4.
+When the unburnt assemblage was dissolved experimentally,
+35% by weight was lost, while the burnt assemblage lost 48% by
+weight. This is consistent with the fact that heating increases the
+phytolith silica solubility. The most signiﬁcant change is in the
+
+increase in the number of weathered phytoliths after dissolution.
+All but one of the parameters listed changed signiﬁcantly in the
+burnt sample, again reﬂecting its higher solubility. These results
+clearly show that this fossil sample had not reached some steady
+state where more dissolution would not make any signiﬁcant
+difference.
+Table 4 also shows the percent of leaf/stem and inﬂorescence
+phytoliths before and after dissolution, as would be inferred from
+the morphotype assemblage (Piperno, 1988, 2006; Rosen, 1992;
+Twiss et al., 1969). The ratios of leaves/stems to inﬂorescence
+change signiﬁcantly between the initial and ﬁnal assemblages. We
+conducted one preliminary analysis of modern mature T. aestivum
+whole plants which shows that around 60% of the phytoliths are
+
+D. Cabanes et al. / Journal of Archaeological Science 38 (2011) 2480e2490
+Table 4
+Main characteristics of the fossil phytolith assemblages in this study. Note that in
+both the unburnt and burnt assemblages, the initial values are similar within the
+margin of error (calculated as the standard deviation between triplicates). The
+values in bold show signiﬁcant changes.
+Unburnt
+Initial
+
+Burnt
+Final
+
+Initial
+
+% Anatomically connected
+13.1  5.2 10.5  3.0 17.8  1.7
+phytoliths
+% Monocotyledonous
+96.2  1.5 91.0  2.7 92.9  2.3
+morphotypes
+% Dicotyledonous
+0.6  0.6
+1.1  0.6
+1.2  0.2
+morphotypes
+% Weathered morphotypes 3.2  1.1
+7.9  2.4
+5.9  2.2
+% Grass leaves/stems
+26.1  2.7 29.3  1.9 23.7  3.5
+morphotypes
+% Grass inﬂorescence
+48.5  5.7 39.7  2.8 44.3  2.0
+morphotypes
+% Grass morphotypes
+21.6  6.1 22.0  2.2 25.0  3.3
+not assignable
+Anatomical origin of the phytoliths (normalized to 100%)
+% Leaves
+35.0
+42.5
+34.9
+% Inﬂorescence
+65.0
+57.5
+65.1
+Ratio: leaves/inﬂorescence 0.54
+0.74
+0.54
+
+Final
+14.6  0.4
+88.0  0.9
+
+2489
+
+5. Concluding comment
+Phytoliths are important micro-artifacts in archaeology. Like all
+other artifacts in the archaeological record, their taphonomy/
+diagenesis must be understood in order to evaluate the integrity of
+this record. This study highlights the importance of understanding
+these processes in order to correctly interpret archaeological phytolith assemblages.
+Acknowledgements
+
+0.7  0.3
+11.3  0.7
+31.4  3.6
+36.7  4.8
+19.9  1.8
+
+46.1
+53.9
+0.85
+
+leaf/stem phytoliths and 40% are inﬂorescence phytoliths. Note that
+this ratio only represents mature T. aestivum and other closely
+related species. The same species in an immature state could have
+a somewhat different ratio. Thus we should expect similar
+proportions of leaf and stem phytoliths if the phytoliths from the
+whole cereal plant were all preserved in the sample. We would thus
+conclude from the values obtained prior to dissolution that the
+original fossil phytolith assemblage was enriched in the inﬂorescence component, and this would imply a site where cereals were
+mainly stored. After exposure to alkaline pH, the proportion of leaf/
+stem phytoliths increases, and it cannot be concluded that this
+assemblage was enriched in inﬂorescences. Table 4 also shows
+a signiﬁcant decrease in the percentage of anatomically connected
+phytoliths (silica skeletons) in the burnt fossil sample after dissolution. Such a change was also experimentally observed by (Costa
+et al., 2010). This also has archaeological implications as this
+parameter is sometimes used as an indicator for water availability
+to plants (Jenkins, 2009; Rosen and Weiner, 1994.) This exercise
+demonstrates how the interpretation of phytolith assemblages
+might change as a result of diagenesis.
+Broader questions that need to be addressed are why phytolith
+concentrations are often much higher in archaeological sites as
+compared to the surrounding sediments, and if phytoliths are
+absent or in low concentrations in a site or a particular stratum
+within a site, what are the reasons? This study shows that phytolith opal solubility is such that with a slow ﬂow the associated
+ground water will rapidly reach a steady state concentration of
+silicon, and if conditions do not change, phytoliths will not
+dissolve further. Thus the past hydrological conditions will
+directly inﬂuence phytoliths preservation. As root activity can
+cause phytoliths to dissolve, the formation of soil during a period
+of abandonment at a site can affect the preservation of anthropogenic deposited phytoliths, and in addition may introduce into
+the sediments phytoliths of natural origin. Testing a scenario of
+soil formation on site can be done using micromorphology. In this
+respect it must be stressed that phytolith assemblages from soils
+and paleosols are likely to be altered. Relatively good preservation
+of phytoliths may occur where a paleocatena was quickly buried.
+Rapid burial is in general consistent with good preservation of
+fossil assemblages, in both the macroscopic and microscopic
+records.
+
+We would like to thank Yotam Asscher for his help during the
+development of the fossil phytolith extraction system and Dr. Elisabetta Boaretto for helpful comments. We also thank Profs Ayellet
+Gilboa and Ilan Sharon for the sample from Tel Dor. The research
+leading to these results was funded by the European Research
+Council under the European Community’s Seventh Framework
+Programme (FP7/2007-2013)/ERC grant agreement n 229418. D.C.
+postdoctoral fellowship is also funded by the Beatriu de Pinós
+program (Departament d’Universitats, Recerca i Societat de la
+Informació de la Generalitat de Catalunya). The authors are
+members of the Research Group for Palaecological and Geoarchaeological Studies (GEPEG).
+References
+Albert, R.M., Weiner, S., Bar-Yosef, O., Meignen, L., 2000. Phytoliths in the Middle
+Palaeolithic deposits of Kebara Cave, Mt Carmel, Israel: study of the plant
+materials used for fuel and other purposes. J. Archaeol. Sci. 27, 931e947.
+Albert, R.M., Bamford, M.K., Cabanes, D., 2006. Taphonomy of phytoliths and
+macroplants in different soils from Olduvai Gorge (Tanzania) and the application to Plio-Pleistocene palaeoanthropological samples. Quat. Int. 148, 78e94.
+Albert, R.M., Shahack-Gross, R., Cabanes, D., Gilboa, A., Portillo, M., Sharon, I.,
+Boaretto, E., Weiner, S., 2008. Phytolith-rich layers from the Late Bronze and
+Iron Ages at Tel Dor (Israel): mode of formation and archaeological signiﬁcance.
+J. Archaeol. Sci. 35, 57e75.
+Alexandre, A., Meunier, J.-D., Colin, F., Koud, J.-M., 1997. Plant impact on the
+biogeochemical cycle of silicon and related weathearing processes. Geochim.
+Cosmochim. Acta 61, 677e682.
+Bartoli, F., Wilding, L.P., 1980. Dissolution of biogenic opal as a function of its
+physical and chemical-properties. Soil Sci. Soc. Am. J. 44, 873e878.
+Cabanes, D., Mallol, C., Expósito, I., Baena, J., 2010. Phytolith evidence for hearths
+and beds in the late Mousterian occupations of Esquilleu cave (Cantabria,
+Spain). J. Archaeol. Sci. 37, 2947e2957.
+Carnelli, A.L., Madella, M., Theurillat, J.P., Ammann, B., 2002. Aluminum in the opal
+silica reticule of phytoliths: a new tool in palaeoecological studies. Am. J. Bot.
+89, 346e351.
+Costa, L.M., Moreau, A.M.S.S., Moreau, M.S., 2010. Estabilidade da sílica biogênica de
+Capin Jaraguá (Hyparrhenia rufa) em soluçâo de NaOH. Quim. Nova 33,
+1658e1663.
+Elbaum, R., Weiner, S., Albert, R.M., Elbaum, M., 2003. Detection of burning of plant
+materials in the archaeological record by changes in the refractive indices of
+siliceous phytoliths. J. Archaeol. Sci. 30, 217e226.
+Farmer, V.C., Delbos, E., Miller, J.D., 2005. The role of phytolith formation and
+dissolution in controlling concentrations of silica in soil solutions and streams.
+Geoderma 127, 71e79.
+Fishman, M.J., Friedman, L.C., 1989. Methods for Determination of Inorganic
+Substances in Water and Fluvial Sediments, third ed. United States Government
+Printing Ofﬁce, Washington, D.C., Denver, CO.
+Fraysse, F., Cantais, F., Pokrovsky, O.S., Schott, J., Meunier, J.D., 2006a. Aqueous
+reactivity of phytoliths and plant litter: physico-chemical constraints on
+terrestrial biogeochemical cycle of silicon. J. Geochem. Explor. 88, 202e205.
+Fraysse, F., Pokrovsky, O.S., Schott, J., Meunier, J.-D., 2006b. Surface properties,
+solubility and dissolution kinetics of bamboo phytoliths. Geochim. Cosmochim.
+Acta 70, 1939e1951.
+Fraysse, F., Pokrovsky, O.S., Schott, J., Meunier, J.-D., 2009. Surface chemistry and
+reactivity of plant phytoliths in aqueous solutions. Chem. Geol. 258, 197e206.
+Fredlund, G.G., Tieszen, L.L., 1997. Phytolith and carbon isotope evidence for late
+quaternary vegetation and climate change in the southern Black Hills, South
+Dakota. Quat. Res. 47, 206e217.
+Gérard, F., Mayer, K.U., Hodson, M.J., Ranger, J., 2008. Modelling the biogeochemical
+cycle of silicon in soils: application to a temperate forest ecosystem. Geochim.
+Cosmochim. Acta 72, 741e758.
+Jenkins, E., 2009. Phytolith taphonomy: a comparison of dry ashing and acid
+extraction on the breakdown of conjoined phytoliths formed in Triticum durum.
+J. Archaeol. Sci. 36, 2402e2407.
+Jones, J.B., Segnit, E.R., 1969. Water in sphere-type opal. Mineral. Mag. 37, 357e361.
+
+2490
+
+D. Cabanes et al. / Journal of Archaeological Science 38 (2011) 2480e2490
+
+Jones, L.H.P., Milne, A.A., 1963. Studies of silica in the oat plant. Plant Soil 18,
+207e220.
+Kamatani, A., 1971. Physical and chemical characteristics of biogenous silica. Mar.
+Biol. 8, 89e95.
+Karkanas, P., 2010. Preservation of anthropogenic materials under different
+geochemical processes: a mineralogical approach. Quat. Int. 214, 63e69.
+Katz, O., Cabanes, D., Weiner, S., Maeir, A.M., Boaretto, E., Shahack-Gross, R., 2010.
+Rapid phytolith extraction for analysis of phytolith concentrations and assemblages during an excavation: an application at Tell es-Saﬁ/Gath, Israel.
+J. Archaeol. Sci. 37, 1557e1563.
+Lentfer, C.J., Boyd, W.E., 1998. A comparison of three methods for the extraction of
+phytoliths from sediments. J. Archaeol. Sci. 25, 1159e1183.
+Loucaides, S., Van Cappellen, P., Behrends, T., 2008. Dissolution of biogenic silica
+from land to ocean: role of salinity and pH. Limnol. Oceanogr. 53, 1614e1621.
+Loucaides, S., Behrends, T., Van Cappellen, P., 2010. Reactivity of biogenic silica:
+surface versus bulk charge density. Geochim. Cosmochim. Acta 74, 517e530.
+Madella, M., Powers-Jones, A.H., Jones, M.K., 1998. A simple method of extraction of
+opal phytoliths from sediments using a non-toxic heavy liquid. J. Archaeol. Sci.
+25, 801e803.
+Madella, M., Alexandre, A., Ball, T., Grp, I.W., 2005. International code for phytolith
+nomenclature 1.0. Ann. Bot. 96, 253e260.
+Mulholland, S.C., George Rapp, J., 1992. Phytolith systematics: an introduction. In:
+George Rapp, J., Mulholland, S.C. (Eds.), Phytolith Systematics. Emerging Issues.
+Plenum Press, New York, London, pp. 1e13.
+Osterrieth, M., Madella, M., Zurro, D., Alvarez, M.F., 2009. Taphonomical aspects of silica
+phytoliths in the loess sediments of the Argentinean Pampas. Quat. Int.193, 70e79.
+Parr, J.F., Lentfer, C.J., Boyd, W.E., 2001. A comparative analysis of wet and dry ashing
+techniques for the extraction of phytoliths from plant material. J. Archaeol. Sci.
+28, 875e886.
+Parr, J.F., 2002. A comparison of heavy liquid ﬂoatation and microwave digestion
+techniques for the extraction of fossil phytoliths from sediments. Rev. Palaeobot. Palynol. 120, 315e336.
+
+Piperno, D.R., 1988. Phytolith Analysis: An Archeological and Geological Perspective.
+Academic Press, San Diego.
+Piperno, D.R., 2006. Phytoliths. A Comprehensive Guide for Archaeologists and
+Paleoecologists. Altamira Press, Lanham, MD.
+Raz, S., Hamilton, P.C., Wilt, F.H., Weiner, S., Addadi, L., 2003. The transient phase of
+amorphous calcium carbonate in sea urchin larval spicules: the involvement of
+proteins and magnesium ions in its formation and stabilization. Adv. Funct.
+Mater. 13, 480e486.
+Rosen, A., 1992. Preliminary identiﬁcation of silica skeletons from near eastern
+archaeological sites: an anatomical approach. In: Rapp, G.R., Mulholland, S.C.
+(Eds.), Phytolith Systematics: Emerging Issues. Plenum Press, New York, pp.
+129e147.
+Rosen, A.M., Weiner, S., 1994. Identifying ancient irrigation e a new method using
+opaline phytoliths from Emmer wheat. J. Archaeol. Sci. 21, 125e132.
+Shahack-Gross, R., Marshall, F., Weiner, S., 2003. Geo-ethnoarchaeology of pastoral
+sites: the identiﬁcation of livestock enclosures in abandoned Maasai settlements. J. Archaeol. Sci. 30, 439e459.
+Tsartsidou, G., Lev-Yadun, S., Efstratiou, N., Weiner, S., 2008. Ethnoarchaeological
+study of phytolith assemblages from an agro-pastoral village in northern Greece
+(Sarakini): development and application of a phytolith difference index.
+J. Archaeol. Sci. 35, 600e613.
+Tsartsidou, G., Lev-Yadun, S., Efstratiou, N., Weiner, S., 2009. Use of space in
+a Neolithic village in Greece (Makri): phytolith analysis and comparison of
+phytolith assemblages from an ethnographic setting in the same area.
+J. Archaeol. Sci. 36, 2342e2352.
+Twiss, P.C., Suess, E., Smith, R.M., 1969. Morphological classiﬁcation of grass phytoliths. Soil Sci. Soc. Am. J. 33, 109e115.
+Weiner, S., 2010. Microarchaeology. Beyond the Visible Archaeological Record.
+Cambridge University Press, Cambridge, New York.
+Wilding, L.P., Drees, L.R., 1974. Contributions of forest opal and associated crystalline phases to ﬁne silt and clay fractions of soils. Clays Clay Miner. 22,
+295e306.
+
+

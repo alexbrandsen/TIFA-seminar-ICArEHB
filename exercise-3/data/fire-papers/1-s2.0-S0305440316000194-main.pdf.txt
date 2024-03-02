@@ -1,0 +1,1439 @@
+Journal of Archaeological Science 67 (2016) 14e24
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+New evidence for diverse secondary burial practices in Iron Age
+Britain: A histological case study
+Thomas J. Booth a, *, Richard Madgwick b
+a
+b
+
+Department of Earth Sciences, Natural History Museum, Cromwell Road, London, SW7 5BD, UK
+School of History, Archaeology and Religion, John Percival Building, Colum Drive, Cardiff, CF10 3EU, UK
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 17 July 2015
+Received in revised form
+7 January 2016
+Accepted 23 January 2016
+Available online 13 February 2016
+
+Iron Age (c. 700 BCe43AD) funerary practice has long been a focus of debate in British archaeology.
+Formal cemeteries are rare and in central-southern Britain human remains are often unearthed in unusual conﬁgurations. They are frequently recovered as isolated fragments, partially articulated body parts
+or complete skeletons in atypical contexts, often storage pits. In recent years, taphonomic analysis of
+remains has been more frequently employed to elucidate depositional practice (e.g. Madgwick, 2008,
+2010; Redfern, 2008). This has enhanced our understanding of modes of treatment and has contributed
+much-needed primary data to the discussion. However, only macroscopic taphonomic analysis has been
+undertaken and equiﬁnality (i.e. different processes producing the same end result) remains a substantial
+obstacle to interpretation. This research explores the potential of novel microscopic (histological)
+methods of taphonomic analysis for providing greater detail on the treatment of human remains in Iron
+Age Britain. Twenty human bones from two Iron Age sites: Danebury and Suddern Farm, in Hampshire,
+central-southern Britain were examined and assessed using thin section light microscopy combined with
+the Oxford Histological Index (OHI). Results suggest that diverse mortuary rites were practised and that
+different conﬁgurations of remains were subject to prescribed, varied treatment, rather than resulting
+from different stages of the same process. Practices that may be responsible for these patterns include
+exhumation followed by selective removal of elements and sheltered exposure prior to ﬁnal burial. Only
+one sample provided evidence for excarnation, a practice that has been widely cited as a potential
+majority rite in Iron Age Britain.
+© 2016 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+
+Keywords:
+Bone diagenesis
+Bioerosion
+Taphonomy
+Funerary practices
+Iron Age Britain
+Histological analysis
+
+1. Introduction
+Variation in the character of human remains recovered from
+British Iron Age sites suggests that the dead were subject to a
+diverse range of mortuary rites (Whimster, 1977, 1981; Wait, 1985;
+Cunliffe, 1988; Stead, 1991; Darvill, 2010). Unburnt human bones
+are most often recovered in varying states of articulation from
+storage pits and other non-funerary features within settlements
+and hillforts and rarely from discrete burial grounds (Whimster,
+1981; Wait, 1985; Stead, 1991; Darvill, 2010). Formal cemeteries
+are largely absent from central-southern Britain, an area that
+clearly sustained a substantial population, with widespread settlement and relatively intensive agricultural production during the
+Iron Age (Sharples, 2010). The numbers of human remains can only
+
+* Corresponding author.
+E-mail address: t.booth@nhm.ac.uk (T.J. Booth).
+
+account for a fraction of the individuals that occupied these sites,
+and it is likely that the practices represented do not reﬂect the rites
+afforded to the majority of the dead, which may not have left an
+archaeological record (Wait, 1985; Bradbury et al., 2016). Wait
+(1985: 90) suggested that an archaeologically visible rite was
+practised for only 6% of individuals in the early/middle Iron Age.
+The diverse, fragmentary and limited evidence for funerary ritual in
+Iron Age Britain has led to considerable debate on the majority rite
+and the modes of treatment for the minority that are represented
+archaeologically (Ellison and Drewett, 1971; Wilson, 1981; Wait,
+1985; Hill, 1995; Carr and Knüsel, 1997; Craig et al., 2005; Carr,
+2007; Madgwick, 2008; Tracey, 2012).
+Excarnation through sub-aerial exposure, followed by disturbance and selective retrieval of skeletal elements represents the
+dominant interpretation of disarticulated and partially-articulated
+human bones (Stead, 1991; Carr and Knüsel, 1997; Craig et al.,
+2005; Knüsel and Outram, 2006; Redfern, 2008; Darvill, 2010). In
+strict terminology, excarnation refers to ﬂesh removal (by any
+
+http://dx.doi.org/10.1016/j.jas.2016.01.010
+0305-4403/© 2016 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+T.J. Booth, R. Madgwick / Journal of Archaeological Science 67 (2016) 14e24
+
+means) but throughout this article it refers speciﬁcally to ﬂesh
+removal through sub-aerial exposure, as is generally the case in
+archaeological literature. Excarnation might account for the dearth
+of human bones and may therefore have been the majority rite, as
+the weathering promoted by prolonged exposure would eventually
+destroy all physical remains (Redfern, 2008). Disposal in aqueous
+environments has been suggested as an alternative explanation for
+the majority rite (Madgwick, 2008; Sharples, 2010: 272). Analysis of
+surface modiﬁcations in Iron Age human bones from Danebury
+hillfort and Winnall Down enclosure in Hampshire indicates that
+the human assemblage was unlikely to have been produced by subaerial exposure (Madgwick, 2008). The sparse surface modiﬁcation
+of the human bones suggests that they had not been exposed for
+long periods. However, small numbers of modiﬁed bones at
+Gussage-all-Saints and Maiden Castle, Dorset, have been taken as
+evidence for excarnation (Redfern, 2008). In both cases there is
+evidence that bodies decomposed in a primary depositional environment before selected skeletal elements or body parts were
+moved to a new context (secondary deposition). Whether excarnated or not, there is clear evidence for formalized treatment of
+human remains, as part of a suite of prescribed depositional practices (Hill, 1995; Madgwick, 2010; Sharples, 2010).
+Labile skeletal elements, such as those of the hands and feet,
+disarticulate rapidly during bodily decomposition. Therefore, most
+skeletons recovered in complete anatomical articulation, can be
+assumed to represent bodies that were buried soon after death and
+not subject to post-depositional disturbance (Duday, 2006). A far
+broader range of processes may have been involved in the production of disarticulated or partially articulated human bone assemblages
+(e.g.
+excarnation,
+exhumation,
+disturbance,
+cannibalism). Speciﬁc taphonomic methods of analysis such as
+bone surface modiﬁcation and skeletal part representation have
+been used to discriminate between different formation mechanisms, but they provide only a limited suite of information (see Carr
+and Knüsel, 1997; Craig et al., 2005; Knüsel and Outram, 2006;
+Redfern, 2008; Madgwick, 2008, 2010). Therefore there is still
+considerable uncertainty regarding the speciﬁc funerary rites
+practised by British Iron Age populations, as well as the degree of
+variability in practices within and between sites.
+Understanding of Iron Age burial practices has been complicated
+by issues of equiﬁnality. Therefore new lines of enquiry are required
+to improve interpretative resolution.
+1.1. Taphonomic analysis of bone microstructure
+Microscopic analysis of taphonomic modiﬁcations of bone
+microstructure has substantial potential for providing greater detail
+on the depositional treatment of remains and no research on British
+Iron Age populations has yet been published. Microscopic bioerosion, consisting of ‘micro-foci of destruction’ (MFD), is the most
+common form of diagenesis found in archaeological bone (Hackett,
+1981; Turner-Walker et al., 2002). Three types of MFD (linear longitudinal, budded and lamellate) are associated with bacteria and
+represent the predominant form of bioerosion (Hackett, 1981;
+Balzer et al., 1997; Jackes et al., 2001; Turner-Walker et al., 2002).
+A fourth type of MFD, Wedl tunneling, relates to fungal attack from
+external sources in the depositional environment (Marchiafava
+ndez-Jalvo et al., 2010).
+et al., 1974; Hackett, 1981; Ferna
+The preservation of the internal bone microstructure does not
+correspond with the external condition of the bone and represents
+a distinct source of taphonomic information (Hedges et al., 1995;
+Hedges, 2002; Jans et al., 2004). Experimental studies of bacterial
+bioerosion in bone have suggested that it is an early taphonomic
+process, mostly conﬁned to the ﬁrst decade after death (Bell et al.,
+1996; Boaks et al., 2014; White and Booth, 2014). The extent of
+
+15
+
+bacterial tunneling is unrelated to the chronological age of an
+archaeological bone and the diagenetic signature of early postmortem bioerosion persists through deep time in environments
+where bone preserves (Hedges et al., 1995; Hedges, 2002; Jans et al.,
+2004; Turner-Walker, 2012). Microscopic analyses of ancient bone
+diagenesis have proven useful in discriminating between bones
+with variable taphonomic histories (Turner-Walker and Jans, 2008;
+Hollund et al., 2012; van der Sluis et al., 2014). However, microscopic methods have rarely been used to address questions surrounding funerary treatment (Parker Pearson et al., 2005).
+Efforts to determine the speciﬁc processes that control bioerosion have been hampered by inexplicable variation in bacterial
+attack, particularly within and between skeletal elements (Hanson
+and Buikstra, 1987; Nicholson, 1996; Nielsen-Marsh and Hedges,
+2000; Jans et al., 2004). This variation is still not properly understood, but evidence suggests it relates to differences in ratios of
+cortical and trabecular bone within and between skeletal elements
+(Hanson and Buikstra, 1987; Jans et al., 2004; Booth, 2014). Variation in bioerosion within archaeological bones from burial contexts
+that inhibit bacterial activity (e.g. anoxic or waterlogged sediments)
+will reﬂect environmental ﬂuctuations rather than speciﬁc mortuary events (Turner-Walker and Jans, 2008; Hollund et al., 2012;
+van der Sluis et al., 2014). However, outside of these speciﬁc environments, the appearance and severity of bacterial bioerosion in
+archaeological and modern bone has been broadly linked to early
+taphonomic events. For instance, butchered archaeological bone is
+often free from bacterial bioerosion, whereas bone from complete
+articulated skeletons has usually been extensively tunneled by
+bacteria (Jans et al., 2004; Nielsen-Marsh et al., 2007; White and
+Booth, 2014; Booth, 2015). Several large-scale studies focused
+mainly on archaeological long bone shafts have replicated these
+results, suggesting that there is usually no signiﬁcant variation in
+bioerosion within compact diaphyseal bone of the same element
+(Jans et al., 2004; Nielsen-Marsh et al., 2007; Booth, 2014, 2015).
+Micro-CT scans of archaeological infant human remains produced
+by one of the authors (Booth, in prep) show that the extent of
+bacterial bioerosion does not vary signiﬁcantly across femoral
+diaphyses.
+Bones from modern excarnated corpses exhibit limited or no
+ndez-Jalvo et al., 2010;
+bacterial tunneling (Bell et al., 1996; Ferna
+White and Booth, 2014). These ﬁndings indicate that bacterial
+attack in archaeological bone will reﬂect processes that affect the
+degree of early bacterial soft tissue decomposition. Butchered
+bones would have been exposed to little, if any, soft tissue
+decomposition. Excarnated bodies are rapidly skeletonised by
+vertebrate and invertebrate scavengers within a few months,
+limiting bone exposure to soft tissue putrefaction. Burial protects
+the body from rapid skeletonisation, ensuring the bones are subject
+to prolonged bacterial attack over a number of years (Rodriguez and
+Bass, 1983, 1985; Bell et al., 1996; Campobasso et al., 2001; Dent
+et al., 2004; Vass, 2011).
+This link between bone bioerosion and soft tissue decomposition provides strong evidence that non-Wedl MFD are produced by
+an organism's enteric gut microbiota. These bacteria transmigrate
+around a cadaver in the ﬁrst few days after death and go on to
+permeate the bone microstructure (Child, 1995a, 1995b; Gill-King,
+1997; White and Booth, 2014). They are largely responsible for
+the early putrefaction stage of soft tissue decomposition (Child,
+1995b; Bell et al., 1996; Gill-King, 1997). Recent studies of modern
+and archaeological bone have established that putrefactive bacteria
+are a principal cause of non-Wedl MFD (Jans et al., 2004; NielsenMarsh et al., 2007; Boaks et al., 2014; White and Booth, 2014).
+There is still debate on the role of soil bacteria, which may produce
+similar patterns of bioerosion (Turner-Walker, 2012), but a growing
+body of evidence supports the dominant impact of endogenous gut
+
+16
+
+T.J. Booth, R. Madgwick / Journal of Archaeological Science 67 (2016) 14e24
+
+bacteria (Bell et al., 1996; Jans et al., 2004; Guarino et al., 2006;
+Nielsen-Marsh et al., 2007; Boaks et al., 2014; White and Booth,
+2014).
+Most European archaeological bones retrieved as part of complete inhumed skeletons demonstrate extensive bacterial bioerosion, as the majority rite of immediate burial over the last two
+millennia (Jans et al., 2004; Nielsen-Marsh et al., 2007; White and
+Booth, 2014; Booth, 2015). Although climate and seasonality impact
+on soft tissue decomposition, evidence indicates that they do not
+substantially affect bone bioerosion in temperate environments
+(Campobasso et al., 2001; Vass, 2011; Booth, 2015). Variation in
+bacterial attack is therefore generally best explained by different
+modes of pre-depositional treatment and consequently histological
+preservation is useful for detecting divergent taphonomic trajectories related to early bodily decomposition (Nielsen-Marsh et al.,
+2007; Hollund et al., 2012; van der Sluis et al., 2014; Booth, 2015).
+This study explores the potential of assessing microscopic diagenesis of human bone alongside macroscopic taphonomic evidence to
+reconstruct mortuary practice in a sample of individuals from the
+British Iron Age sites of Danebury and Suddern Farm, Hampshire,
+UK. This study was designed to address the following questions:
+Can variation in bone bioerosion be observed that is best
+explained by differential post-mortem treatment?
+How many separate mortuary practices appear to be represented when the results are combined with accompanying taphonomic information?
+Is it possible to interpret the results alongside other taphonomic
+analyses to make inferences about speciﬁc treatment of the dead at
+these sites?
+2. Materials and methods
+2.1. The sites
+The Danebury assemblage was an ideal choice for the current
+study as the conﬁgurations and contexts of the human remains
+were typical of southern British Iron Age settlement sites and have
+been suggested to reﬂect variable forms of mortuary treatment
+(Cunliffe, 1984). In addition, one of the authors (RM) had previously
+performed extensive macroscopic taphonomic analysis of this
+assemblage, providing a useful complementary dataset. Human
+remains from Suddern Farm were included in the study, as they
+formed part of the same collection and might add to the potential
+variation in post-mortem treatment. These burials may represent a
+different funerary practice from individuals from Danebury, as they
+were recovered from a more formal inhumation cemetery (Cunliffe
+and Poole, 2000).
+Danebury is the most comprehensively excavated hillfort in
+Britain and is located near Nether Wallop, Hampshire (Fig. 1). The
+main excavations were conducted by Cunliffe (1984, 1991) between
+1969 and 1988. The hillfort consisted of a 5 ha settlement surrounded by ramparts and ditches. It was occupied from approximately 550 BC. and largely abandoned around 100 BC.
+Over 300 deposits of human remains have been recovered from
+Danebury (see Walker, 1984; Cunliffe and Poole, 2000; Sharples,
+2010; after Cunliffe, 1995). These were recovered in various states
+of articulation as part of single and multiple burials from various
+features dispersed around the settlement (Walker, 1984: 443).
+Human remains were associated with all phases of activity,
+although most dated to the later periods of occupation (Walker,
+1984: 457). Much of the human bone had been deposited on top
+of a mixture of domestic refuse and chalk silt. Some of the bones
+were covered by a layer of natural silt, which suggested that pits
+had been left open whilst bodies decomposed (Walker, 1984: 448).
+The frequency of discrete depositions of crania and the common
+
+absence of the cranium from partially-articulated skeletons suggests selective retrieval and redeposition of this element (Walker,
+1984: 164). The absence of cut mark evidence indicates that crania are likely to have been disarticulated through natural
+decomposition.
+Suddern Farm is an Iron Age settlement located around 5 km to
+the west of Danebury. The site consisted of a medium-sized double
+or treble-ditched enclosure of 2.2 ha (Cunliffe and Poole, 2000). It
+was excavated in 1991 and 1996 as part of the Danebury Environs
+Project. Ceramic evidence indicated that the site was contemporaneous with Danebury. Excavation of a three-ditch linear earthwork identiﬁed to the southwest of the enclosure located a quarry
+that had been used as a cemetery from the Early to Middle Iron Age
+(c.700e100 BC). Human remains representing a minimum of 60
+individuals were recovered (Hooper, 1984), but it is estimated that
+several hundred further burials are present in the quarry (Cunliffe
+and Poole, 2000). In contrast to Danebury, these remains were
+recovered from graves (or quarry pits) dug directly into the chalk
+rubble and silt, rather than from storage pits and ditches. This
+represents a rare example of something analogous to a formal
+cemetery in Wessex (outside of the Durotrigian cemeteries of
+Dorset, Fitzpatrick, 1997).
+The skeletons from the Suddern Farm cemetery were recovered
+in various stages of articulation and were often accompanied by
+partial remains of several individuals (Cunliffe and Poole, 2000:
+166). Excavation showed that grave cuts did not respect previous
+interments and the absence of crania indicated selective removal
+post-decomposition. Accumulations of natural silts within some
+graves suggest that they had been left open whilst bodies decomposed. Cunliffe and Poole (2000: 168) proposed that the individuals
+recovered from Suddern Farm had been buried complete and,
+subsequently, some had become partially disarticulated through
+disturbance by later grave-digging. By contrast, human remains
+from Danebury were interpreted as having been excarnated in open
+pits before body parts were selectively removed and buried.
+However, these interpretations are based on limited evidence and
+comparison of bacterial bioerosion has the potential to improve
+resolution.
+2.2. Samples
+Twenty human bones were sampled at Hampshire Museums
+Service collections in Winchester, UK. Skeletal element was
+controlled where possible. The femur is the most commonlysampled element in studies of archaeological bone diagenesis as
+it survives well, is mostly composed of compact bone and is the
+closest long bone to the gut, which may mean that it is more sensitive to the activity of putrefactive bacteria (Jans et al. 2004).
+Femoral midshafts were sampled preferentially for the current
+study for these reasons and in order to produce comparable results
+(Nielsen-Marsh and Hedges, 2000; Jans et al., 2004; Hollund et al.,
+2012). The extent of bacterial bioerosion is usually consistent along
+femoral shafts (Booth, in prep). Sampling targeted remains that
+exhibited variable patterns of anatomical articulation on recovery
+(e.g. disarticulated elements, complete articulated skeletons,
+partially articulated parts of skeletons). These conﬁgurations of
+bones potentially signiﬁed diverse post-mortem processes and
+sampling across these categories represented an attempt to capture
+variation in post-mortem treatment. Danebury human bone deposits were classiﬁed into three categories: complete articulated
+skeletons, partially articulated deposits and discrete disarticulated
+bones.
+Six bones from each category were chosen for sampling. One of
+the disarticulated bones could not be located and no equivalent
+remains were available, therefore a bone from an additional
+
+T.J. Booth, R. Madgwick / Journal of Archaeological Science 67 (2016) 14e24
+
+17
+
+Fig. 1. Location map of the two sampled sites.
+
+partially articulated skeleton was taken instead. The Suddern Farm
+skeletons were considered as a discrete category of post-mortem
+treatment. Two partially articulated skeletons were sampled from
+Suddern Farm. Sampling only two skeletons from the site cannot be
+considered representative and provides a very limited window into
+practices and potential variation with the Danebury deposits.
+However, histological data can at least hint at the potential for
+further research.
+Left femoral midshafts were sampled preferentially to ensure
+that each sample represented a discrete individual. Right femora
+were occasionally sampled (e.g. when they had already been drilled
+for isotope analysis) but only from complete individuals or partially
+articulated remains when the antimere was present, with one
+exception. This disarticulated femur was checked against other
+selected left femora to ensure that none of the individuals had been
+sampled more than once. In addition, femora were unexpectedly
+absent from one deposit and therefore the left tibia was sampled
+and patterns of modiﬁcation were carefully scrutinized to ensure
+results did not relate to inter-element variation. Long bone midshafts were sampled in all cases. It was beyond the scope of this
+study to address chronological variation in histological results. The
+majority of sampled bones dated to the middle and later ceramic
+phases (>5; the Middle and Late Iron Age). Details of the samples
+are provided in Table 1.
+2.3. Thin section light microscopy
+Samples (c. 1 cm by 1 cm) were cut from the mid-section of each
+long bone diaphysis using a Foredom K.1070 rotary saw. Transverse
+thin sections 50e120 microns thick were cut from these samples,
+without the application of an embedding agent, using a Leica 1600
+diamond saw microtome. Each undecalciﬁed and unstained thin
+section was mounted onto a glass slide using Entellan mounting
+medium and glass cover slip (Merck Chemicals). All thin sections
+were analyzed under normal and polarized light at 25, 40 and 100
+times magniﬁcation using transmitted light binocular microscopes
+ﬁtted with polarizing ﬁlters. All digital micrographs of bone thin
+sections were produced using an eye-piece mounted Lumera
+
+inﬁnity digital microscopy camera in conjunction with Lumera Inﬁnity Capture and Analyze software. Samples were also viewed
+using a polarizing ﬁlter to assess birefringence of adjacent lamellae,
+as an indicator of collagen loss (Hackett, 1981).
+Bioerosion was assessed using the Oxford Histological Index
+(OHI) (Hedges et al., 1995; Millard, 2001). The OHI translates the
+percentage of remaining unaltered bone microstructure into an
+ordinal grade from 0 to 5, representing the worst and best preserved microstructure respectively. The OHI is subjective but has
+proven effective in numerous previous studies of bioerosion. Interobserver testing of the OHI by Hedges et al. (1995: 203) found that
+deviations in OHI score were insigniﬁcant and repeat assessments
+never differed by more than one unit. Microstructural studies of
+archaeological bone which have utilized several diagenetic parameters have consistently found that the OHI correlates with
+quantitative parameters of decomposition such as collagen content
+se et al., 2010;
+and preservation of DNA (Ottoni et al., 2009; Devie
+Sosa et al., 2013). The deposit number was written on each slide
+to identify the thin section, but other information, such as level of
+articulation, was not made available during histological
+assessment.
+3. Results
+Results of the histological analysis are presented in Fig. 2 and
+Table 2 and selected micrographs are presented in Figs. 3 and 4. All
+of the bone samples from Danebury and Suddern Farm exhibited
+destructive tunneling consistent with non-Wedl MFD (Table 2).
+This tunneling accounted for all signiﬁcant variation in OHI scores.
+Histological preservation across the whole sample set was quite
+poor, but the extent of bacterial bioerosion was variable amongst
+lower OHI scores (Fig. 2). Four partially-articulated/articulated
+samples exhibited minor Wedl-type tunneling in areas of microstructure that were unaffected by bacterial attack. Wedl tunneling
+had never progressed to an extent where it affected OHI scores. The
+modal OHI score of the assemblage was 2, although there was also a
+notable peak at 0 (Fig. 4). A single anomalously well-preserved
+sample (sample 107, OHI ¼ 5) exhibited only limited bacterial
+
+18
+
+T.J. Booth, R. Madgwick / Journal of Archaeological Science 67 (2016) 14e24
+
+Table 1
+Details of human remains from Danebury and Suddern Farm sampled for thin section analysis. Modiﬁcation information relates to the skeleton/part skeleton rather than the
+analysed element. Ceramic phases are best treated as an ordinal rather than absolute chronological scale. Absolute dates were originally suggested as: cp 1-3- 550e450BC, cp
+4e5: 450e400BC, cp 6: 400e300BC and cp 7: 300e100/50BC (Cunliffe, 1984: 242; see Haselgrove, 1986: 364 for critique of absolute chronology and Cunliffe, 2013 for revised
+chronology).
+Sample
+number
+
+Feature
+
+Layer Deposit Ceramic
+phase
+
+Deposit type
+
+Element Modiﬁcation
+
+Age
+
+101
+
+10
+
+e
+
+72
+
+6
+
+Disarticulated
+
+Adult e
+
+102
+103
+
+26
+120
+
+6
+5
+
+BG14
+7
+
+7
+8
+
+104
+
+266
+
+1
+
+10
+
+3
+
+105
+
+374
+
+5
+
+13
+
+3
+
+Disarticulated
+Partially
+Articulated
+Partially
+Articulated
+Articulated
+
+R.
+None
+Femur
+L. Femur Weathered (Behrensmeyer , 1978 stage 1)
+L. Femur Gnawed
+
+106
+107
+
+699
+761
+
+1
+2
+
+127
+130
+
+6
+8
+
+Disarticulated
+Disarticulated
+
+108
+
+829
+
+2
+
+29
+
+6
+
+Articulated
+
+109
+
+829
+
+2
+
+28
+
+6
+
+Articulated
+
+110
+
+923
+
+6
+
+40
+
+7
+
+111
+
+923
+
+6
+
+37
+
+7
+
+112
+
+1015
+
+6
+
+46
+
+7
+
+Partially
+Articulated
+Partially
+Articulated
+Articulated
+
+113
+
+1078
+
+6
+
+162
+
+7
+
+114
+
+1993
+
+6
+
+214
+
+7
+
+115
+116
+
+2044
+2100
+
+2
+2
+
+275
+248
+
+6
+3
+
+117
+
+2447
+
+5
+
+239
+
+7
+
+118
+
+2605
+
+7
+
+259
+
+7
+
+201
+
+Suddern
+Farm
+Suddern
+Farm
+
+e
+
+C19
+
+e
+
+e
+
+C20
+
+e
+
+202
+
+Partially
+Articulated
+Incomplete
+skeleton
+Disarticulated
+Articulated
+Partially
+Articulated
+Articulated
+Partially
+Articulated
+Partially
+Articulated
+
+Fig. 2. Distribution of OHI scores in samples from Danebury and Suddern Farm
+separated by level of articulation.
+
+tunneling.
+Excluding sample 107, the histological preservation of the disarticulated bones was consistently very poor (Fig. 5). Macroscopic
+preservation was also poor, with one bone gnawed, one weathered
+
+L. Tibia
+
+None
+
+R.
+None
+Femur
+L. Femur Eroded (other modiﬁcations may be obscured)
+L. Femur Weathered (Behrensmeyer, 1978 stage 2) & gnawed. Possibly
+burnt
+L. Femur None
+R.
+None
+Femur
+L. Femur None
+R.
+Femur
+R.
+Femur
+R.
+Femur
+R.
+Femur
+L. Femur
+R.
+Femur
+L. Femur
+
+None
+None
+None
+None
+Gnawed
+None
+None
+
+R.
+None
+Femur
+L. Femur None
+L. Femur None
+
+Sex
+
+Adult e
+~8
+??
+20
+e30
+~3
+
+F?
+??
+
+Adult e
+Adult e
+25
+e35
+25
+e35
+25
+e30
+16
+e20
+20
+e25
+Adult
+
+M
+M
+F
+F?
+M
+M
+
+25
+F
+e30
+Adult e
+~35
+F?
+18
+e22
+>50
+
+M
+
+~16
+
+F
+
+~30
+
+M
+
+F
+
+and one both gnawed and weathered. In addition, one of the
+samples had suffered substantial subterranean erosion and therefore other modiﬁcations may have been overprinted. The two peaks
+at OHI scores of 2 and 0 were differentiated by articulation pattern,
+with most samples scoring 0 being disarticulated and all those
+scoring 2 being articulated/partially articulated (Fig. 2). Sample 107
+was exceptional in the presence of severe cortical weathering
+(Behrensmeyer (1978) stage 2), and its unusually high OHI score
+further differentiated it from the rest of the sample set. The difference in OHI scores between the articulated/partially articulated
+and disarticulated bones was signiﬁcant at 90% conﬁdence (n ¼ 20,
+ManneWhitney U ¼ 19.00, p ¼ 0.090) and became signiﬁcant at
+95% conﬁdence when the anomalous sample 107 was excluded
+(n ¼ 19, ManneWhitney U ¼ 4.000, p ¼ 0.006).
+Loss of collagen birefringence in the majority of samples was
+associated with bioerosion. Sample 107 demonstrated reduced
+levels of collagen birefringence that was not associated with bacterial tunneling (Fig. 6). This sample alone also demonstrated
+consistent yellow discoloration. Intense microstructural staining
+can obscure bone microstructure and reduce collagen birefringence
+(Garland, 1987; Grupe and Dreses-Werringloer, 1993). However, the
+staining in the thin section of sample 107 was too weak to be
+responsible for the loss of birefringence. Collagen must have been
+lost from this bone via a non-biological mechanism for low levels of
+birefringence to be associated with well-preserved microstructure
+
+T.J. Booth, R. Madgwick / Journal of Archaeological Science 67 (2016) 14e24
+
+19
+
+Table 2
+Results from the histological analysis of the Danebury and Suddern Farm human bone thin sections.‘OHI’ refers to Oxford Histological Index scores.
+Sample number
+
+Articulation
+
+OHI
+
+Wedl MFD
+
+Collagen birefringence
+
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+201
+202
+
+Disarticulated
+Disarticulated
+Partially Articulated
+Partially Articulated
+Articulated
+Disarticulated
+Disarticulated
+Articulated
+Articulated
+Partially Articulated
+Partially Articulated
+Articulated
+Partially Articulated
+Partially Articulated
+Disarticulated
+Articulated
+Partially Articulated
+Articulated
+Partially Articulated
+Partially Articulated
+
+0
+0
+2
+1
+0
+0
+5
+2
+2
+2
+2
+2
+1
+1
+0
+2
+0
+3
+3
+2
+
+Absent
+Absent
+Absent
+Absent
+Absent
+Absent
+Absent
+Absent
+Present
+Present
+Present
+Present
+Absent
+Absent
+Absent
+Absent
+Absent
+Absent
+Present
+Absent
+
+None
+None
+Reduced/obliterated at sites of bioerosion
+Reduced/obliterated at sites of bioerosion
+None
+None
+Reduced throughout section, even within unbioeroded areas
+Reduced/obliterated at sites of bioerosion
+Reduced/obliterated at sites of bioerosion
+Reduced/obliterated at sites of bioerosion
+Reduced/obliterated at sites of bioerosion
+Reduced/obliterated at sites of bioerosion
+Reduced/obliterated at sites of bioerosion
+Reduced/obliterated at sites of bioerosion
+None
+Reduced/obliterated at sites of bioerosion
+None
+Reduced/obliterated at sites of bioerosion
+Reduced/obliterated at sites of bioerosion
+Reduced/obliterated at sites of bioerosion
+
+(see Smith et al., 2002, 2007).
+
+4. Discussion
+Environmental conditions that inhibit bodily decomposition
+(e.g. waterlogging, anoxic or arid contexts) can inﬂuence bacterial
+bioerosion (Turner and Wiltshire, 1999; Turner-Walker and Jans,
+2008; Hollund et al., 2012; Booth, 2015), but there was no evidence
+for these conditions in the free-draining Hampshire chalkland.
+Considerable variation in bacterial attack was observed in the
+Danebury and Suddern Farm samples, despite all having originated
+from similar sedimentary matrices and some having come from the
+same context (Cunliffe, 1984; Cunliffe and Poole, 2000, Table 2). In
+common with previous studies, there was no evidence that variation in bacterial bioerosion was dictated by speciﬁc environmental
+factors (Jans et al., 2004; Nielsen-Marsh et al., 2007). Therefore
+variation is interpreted as resulting from patterns of mortuary
+treatment.
+The OHI scores of the Danebury and Suddern Farm bone samples suggest that they had been exposed to variable levels of
+decomposition relating to their extent of articulation. At least three
+taphonomic trajectories are represented by articulated/partially
+articulated remains, isolated disarticulated skeletal elements and
+sample 107. Results suggest that each sub-sample represents a
+different form of funerary treatment, rather than all bones deriving
+from disturbed partially articulated/articulated deposits, as has
+been previously suggested (see Stanford, 1974: 220; Dunning, 1976:
+116e117; Carr and Knüsel, 1997: 170). The exclusive appearance of
+Wedl tunneling in articulated/partially articulated bone and the
+non-biotic loss of collagen from sample 107 is also consistent in
+these sub-samples having divergent taphonomic histories. At a
+basic level therefore, the results of the histological analysis,
+considered alongside the accompanying taphonomic information
+suggest that the human remains deposited at Danebury had been
+subject to diverse funerary practices which produced distinctive
+patterns of articulation and microstructural bioerosion.
+The associations between bacterial bioerosion and early postmortem treatment represent central tendencies rather than absolutes. Therefore interpretations of processes responsible for the
+variation in bioerosion and skeletal articulation will be coupled
+with a degree of uncertainty. However, combining histological
+analysis with other taphonomic indices has the potential to
+
+disentangle some issues of equiﬁnality in light of models of how
+bodies decompose under different circumstances. In discussing
+possible mortuary scenarios, equiﬁnality remains a problem and
+consequently multiple interpretations must be considered. In short,
+whilst precise practices are very difﬁcult to reconstruct with conﬁdence, possible rites can be identiﬁed and others can be eliminated, thus improving the resolution with which Iron Age funerary
+practice is understood.
+Histological preservation of disarticulated bone, with the
+exception of sample 107, was poor. This is somewhat surprising, as
+such poorly preserved histology is most often characteristic of fully
+articulated inhumed burials (Jans et al., 2004; Nielsen-Marsh et al.,
+2007). Partially articulated and disarticulated remains have previously been interpreted as evidence for excarnation (Ellison and
+Drewett, 1971; Carr and Knüsel, 1997; Cunliffe et al., 2015) and
+protected decomposition in either mortuary houses or subterranean environments (Madgwick, 2008). Excarnation is an unlikely
+scenario, as the rapid soft tissue degradation associated with this
+treatment substantially inhibits bacterial attack and seasonal variation in insect-mediated soft tissue loss could not account for differences (see Rodriguez and Bass, 1983, 1985; Campobasso et al.,
+2001; Fern
+andez-Jalvo et al., 2010; Vass, 2011). This result is
+consistent with previous macroscopic analyses, which revealed
+only sparse modiﬁcation evidence on disarticulated remains, also
+inconsistent with excarnation (Madgwick, 2008). However, some
+samples showed evidence of gnawing and weathering, indicative of
+some sub-aerial exposure, but this could have occurred at any point
+in the bones' taphonomic histories. Decomposition in mortuary
+houses is an unlikely explanation, as whilst structures can delay
+rapid soft tissue loss mediated by invertebrates, rates of skeletonisation in these types of environments are still more similar to
+those promoted by excarnation and would probably still be too
+rapid for putrefactive bacteria to completely degrade the histological bone structure (see Goff, 1991; Anderson, 2011). Bacterial
+bioerosion in the disarticulated samples is most consistent with
+primary burial of ﬂeshed individuals and disinterment after the
+body had decomposed (see Nielsen-Marsh et al., 2007; Booth,
+2015). For such poor preservation of the histological structure to
+be observed, the bodies must have been buried for several years
+prior to re-opening for the extraction of speciﬁc elements. Some
+remains may have then become accessible to scavengers and agents
+of weathering prior to incorporation into their ﬁnal depositional
+
+20
+
+T.J. Booth, R. Madgwick / Journal of Archaeological Science 67 (2016) 14e24
+
+Fig. 4. Transverse thin section from sample 111 viewed under polarized light. A substantial fraction of the microstructure remains intact and birefringent (black arrow),
+whilst the rest of the section has been heavily bioeroded at the periosteal and
+endosteal surfaces (white arrows), leaving only Haversian canals. The thin section was
+allocated an OHI score of two, the modal score for the sample set.
+
+Fig. 3. a) Transverse micrograph of a fresh human femoral thin section from the collections of the University of Shefﬁeld Department of Medicine and Biomedical Science
+under normal transmitted light exhibiting perfect histological preservation. Haversian
+canals (white arrow) and osteocyte lacunae (black arrows) can be observed within
+osteons (circular structures) deﬁned by the cement or reversal line (grey arrow). b)
+Longitudinally-orientated non-Wedl tunneling (black arrows) and subtle, branched
+transverse-orientated Wedl-type attack (white arrow) in a transverse thin section
+under normal transmitted light from sample 109. Tunnels have a dark mottled
+appearance and obliterate osteocyte lacunae.
+Fig. 5. Distributions of OHI scores in samples from Danebury and Suddern Farm
+grouped by extent of articulation. The outlying asterisk represents Sample 107.
+
+setting.
+The modal OHI score for the partially articulated/articulated
+samples was 2. This is atypical for archaeological human bone and
+inconsistent with exposure to extensive putrefaction associated
+with immediate burial (Jans et al., 2004; Nielsen-Marsh et al., 2007;
+White and Booth, 2014). This result is also inconsistent with minor
+levels of bioerosion associated with excarnation (Bell et al., 1996;
+ndez-Jalvo et al., 2010; White and Booth, 2014). Results sugFerna
+gest more gradual exogenous degradation of soft tissue than would
+occur during excarnation, but more rapid than would occur if
+immediately buried. Although extensive experimental research has
+been undertaken on histological modiﬁcation, none of the studies
+provides the range of scenarios of mortuary treatment that may
+have been employed in the Iron Age. However, the corpus of
+experimental data means that suggestions can be made concerning
+pre-depositional practices, which may be responsible for this
+pattern of evidence.
+The histological preservation combined with lack of evidence
+for cut marks suggests partial disarticulation occurred through
+
+bodies being left to decompose within depositional environments,
+which reduced, but did not wholly prevent rapid soft tissue loss
+through insect activity. Depositional environments which promote
+this approximate pattern of decomposition include sheltered contexts such as structures or caves (Goff, 1991; Terrell-Nield and
+MacDonald, 1997; Anderson, 2011). Similar patterns of bioerosion
+were observed within Neolithic human remains that were most
+likely deposited as ﬂeshed corpses in caves and megalithic monuments (Booth, 2015). The diagenetic signature of the articulated/
+partially articulated remains is therefore potentially consistent
+with primary deposition in a mortuary house. However, the
+completeness of some of these skeletons precludes secondary
+deposition, as this would cause considerable disarticulation.
+As most of the partially articulated/articulated remains were in a
+good state of completeness, it is likely that they were recovered
+from their primary depositional context and therefore the best
+explanation is that bodies degraded in a state of partial exposure,
+
+T.J. Booth, R. Madgwick / Journal of Archaeological Science 67 (2016) 14e24
+
+21
+
+Fig. 7. Section drawing of pit 878, a typical storage pit, from Danebury (adapted from
+Cunliffe, 1984: 142). Note the depth and undercut sides, which would afford deposits a
+certain degree of protection from the elements.
+
+Fig. 6. a) Transverse femoral thin section taken from a fresh cadaver from the collections of the University of Shefﬁeld Department of Medicine and Biomedical Science
+viewed under polarized light. Birefringence of circumferential lamellar bone surrounding Haversian canals is clearly visible as bright white striations. b) transverse
+femoral thin section from sample 107 viewed under polarized light. Minor bacterial
+tunneling can be observed around Haversian canals, which is accompanied by a loss of
+collagen birefringence (white arrows). However, collagen birefringence is also entirely
+absent or reduced (black arrows) in unbioeroded areas of bone where osteocyte
+lacunae are clearly visible, indicating non-biotic loss of collagen.
+
+potentially in open, silting pits. This scenario is consistent with
+evidence for silt accumulation on burials at both sites (Cunliffe,
+1984; Cunliffe and Poole, 2000) and in situ exposure has also
+been suggested by Tracey (2012). Bodies exposed in pits would still
+have been subject to relatively rapid skeletonisation by insects but
+the increased protection of a deep, steep-sided silting pit (Fig. 7)
+would reduce the speed of soft tissue loss, allowing bioerosion to
+commence, but not progress to completion. Exposure in a silting pit
+might also explain the very low levels of modiﬁcation on the
+sampled remains and those that have been observed on a wider
+sample of human remains from Danebury (Madgwick, 2008, 2010),
+as weathering would be slow to progress and the bones would not
+be accessible to scavengers. Only a single partially articulated
+sample exhibited minor evidence of gnawing. Sub-aerial exposure
+of bodies in pits, followed in some cases by selective retrieval of
+body parts and burial before complete decomposition, provides a
+plausible explanation for the patterns of microscopic and macroscopic preservation observed in the articulated/partially articulated
+
+samples.
+The degree of shelter required to promote considerable, but not
+complete levels of bacterial attack, is open to debate. Although
+silting pits would prevent scavenger disturbance and reduce the
+degrading effects of full exposure to the elements, remains would
+still be subject to attack from skeletonising insects. Therefore for
+bacterial attack to progress to OHI scores centering on 2, pits may
+have been prepared in a way that afforded remains some level of
+protection from insects, causing more prolonged bacterial soft tissue decomposition. For patterns of relatively extensive bacterial
+bioerosion, it may have been necessary for pits to have been
+covered, perhaps with textile or leather whilst the bodies decomposed. The severity of bacterial bioerosion would have been
+controlled by the efﬁcacy of the coverings in reducing invertebrate
+access (see Bell et al., 1996; Terrell-Nield and MacDonald, 1997; Jans
+et al., 2004; Simmons et al., 2010). Heavy wrapping of bodies in
+clothing or textiles may present an alternative possible scenario,
+however in forensic examples the effect of clothing and wrapping
+on bodily decomposition is often variable and contradictory (Goff,
+1991; Vass, 2011; Campobasso et al. 2001; Ferreira and Cunha,
+2013). In the absence of directly relevant experimental research,
+it is not possible to establish whether deposition in covered pits or
+exposed, silting pits is most likely to be responsible for patterns of
+bioerosion. Equiﬁnality remains a substantial hurdle to interpretation and determining precise practices is beyond the limits of the
+data. However, both practices have clear similarities in terms of
+mortuary treatment.
+Wedl MFD, which was common on partially articulated/articulated remains has been linked to invasion by exogenous saprophytic fungi. A large-scale study of European archaeological human
+bone (N ¼ 250) found that 8% of human samples were affected by
+Wedl tunneling (Jans et al., 2004). The rate of Wedl tunneling
+amongst the samples (25%) used in the current study is comparatively high. Fungal bioerosion has been observed to be more common in faunal remains (42% rate) and may be linked with the
+deposition of partially-ﬂeshed bone in a well-aerated environment
+(Marchiafava et al., 1974; Jans et al., 2004). The high rate of Wedl
+
+22
+
+T.J. Booth, R. Madgwick / Journal of Archaeological Science 67 (2016) 14e24
+
+tunneling amongst the articulated/partially articulated samples
+from Danebury and Suddern Farm is inconsistent with immediate
+burial and emphasizes their taphonomic divergence from the disarticulated bones (Jans et al., 2004). Deposition in rapidly-silting
+pits would have maintained an accessible, aerated environment
+more conducive to fungal growth than a standard grave
+(Marchiafava et al., 1974; Terrell-Nield and MacDonald, 1997).
+However, the conditions that promote fungal bioerosion are poorly
+understood, and the extent to which Wedl tunneling can support
+interpretations of early post-mortem treatment is questionable.
+The minimal bacterial bioerosion observed in sample 107 contrasted with the extensive tunneling recorded in the rest of the
+sample set. The accompanying evidence for unique discoloration
+and non-biotic loss of collagen within sample 107 provided further
+evidence for its divergent taphonomic history. This histological
+signature is consistent with sub-aerial exposure (see Bell et al.,
+1996; Turner-Walker and Jans, 2008; Fern
+andez-Jalvo et al., 2010;
+White and Booth, 2014). This would also explain the disarticulated
+state of the remains and the heavily weathered and carnivoregnawed cortex. The extensive weathering of the femur (to stage
+2, following Behrensmeyer, 1978) suggests that the bone had
+remained above ground for a substantial length of time prior to
+ﬁnal deposition.
+The Danebury skeletal catalogue stated that sample 107
+demonstrated macroscopic signs of burning (Cunliffe, 1984). Reassessment of this femoral fragment found that the evidence for
+burning was ambiguous and that discoloration could have been
+caused by mould staining and/or mineral inﬁltration. The extent
+and regularity of the microscopic discoloration in this sample is
+inconsistent with inﬁltration by extraneous elements from the soil
+and resembles changes associated with low-level heat treatment
+(cf. Shahack-Gross et al., 1997; Hanson and Cain, 2007; Squires
+et al., 2011). The loss of birefringence in this thin section indicated non-biotic collagen loss, which is most often attributed to
+circumstances that accelerate hydrolytic reactions (Smith et al.,
+2002, 2007). Loss of collagen via accelerated hydrolysis is consistent with low level heating (Hackett, 1981; Smith et al., 2002, 2007;
+Abdel-Maksoud, 2010). However, accelerated hydrolysis and
+discoloration of the bone microstructure could have also been
+caused by extreme weathering promoted by prolonged sub-aerial
+exposure (Smith et al., 2002, 2007).
+These results suggest that the individual represented by sample
+107 had been afforded a different form of post-mortem treatment
+from other sampled individuals. This bone had most likely been
+weathered substantially after the body was excarnated, although
+the application of some form of heat treatment to smoke or dry the
+bone cannot be entirely ruled out. Previous suggestions that a
+predominant Iron Age practice of excarnation was responsible for
+the dearth of human remains suggests that sample 107 may
+represent a rare survivor of a major funerary process that usually
+left no physical trace (Wait, 1985; Redfern, 2008). However, there is
+ample evidence for variable treatment of the dead in the British
+Iron Age and this bone could embody an alternative funerary process afforded for a small minority of Danebury's inhabitants. It
+cannot be entirely excluded that sample 107 represents a more
+common pattern of practice that is not widely evidenced in the
+limited sample in this study.
+The results of these analyses suggest a high degree of regulation
+in practice, with distinct rites being adhered to for remains that
+were ﬁnally deposited in a partially or fully articulated state and
+those that are deposited as disarticulated fragments. Further
+research is required on more people buried in the Danebury environs and from a broader range of Iron Age sites in order to characterize variation in funerary practice across Britain. The results of
+this study challenge the assertion that disarticulated remains
+
+recovered from British Iron Age sites invariably result from the
+process of excarnation.
+This study highlights the potential of integrating microscopic
+analyses of bone diagenesis with other taphonomic evidence to
+improve the resolution with which funerary treatment can be
+reconstructed. Microscopic techniques can reveal discrete taphonomic information that cannot be discerned through macroscopic
+examination alone and which can help to discriminate between
+diverse taphonomic histories of bone samples. Comparison of
+diagenetic signatures with previous studies of bioerosion and
+bodily decomposition can provide speciﬁc interpretations of early
+post-mortem processes when used alongside macroscopic taphonomic analyses. However, equiﬁnality remains a problem, and
+there are persistent uncertainties regarding the types of processes
+responsible for particular diagenetic signatures. Further experimental and archaeological research into bone bioerosion will help
+to resolve these problems.
+5. Conclusion
+The human bones sampled from Danebury and Suddern Farm
+demonstrated extensive but variable levels of bacterial bioerosion,
+indicative of diversity in mortuary practice. The patterns of bacterial bioerosion suggested that three different funerary processes
+were represented. Regulated, discrete rites appeared to have been
+adhered to for remains ﬁnally deposited in a partially or fully articulated state and those deposited as disarticulated fragments.
+The poor histological preservation of the discrete disarticulated
+elements (except sample 107) suggests that they originated from
+bodies that had been buried immediately after death. These bones
+are consistent with a distinct practice of primary burial followed by
+exhumation and re-deposition after skeletonisation. Partially and
+fully articulated remains exhibited an unusual pattern of extensive
+but incomplete histological destruction. The lack of experimental
+research means it is impossible to provide a conﬁdent interpretation of funerary treatment, but the most parsimonious explanation
+for these patterns is that bodies had been left to decompose in
+covered or rapidly silting pits before being selectively manipulated
+and buried. The anomalous histological and cortical preservation of
+a single disarticulated bone provided evidence for excarnation. It is
+likely that this bone represents another minority funerary rite, but
+it could plausibly be a rare survivor of a process afforded to the
+majority of the Iron Age dead which usually left no archaeological
+trace. Overall, these results challenge the implication that disarticulated human remains from British Iron Age sites invariably
+represent excarnation practices. The study of bone diagenesis e and
+bacterial bioerosion in particular e can contribute positively to
+interpretations of funerary processes as part of a suite of taphonomic evidence.
+Grant sponsorship
+UK Arts & Humanities Research Council (TB), British Academy
+(RM).
+Acknowledgements
+We are grateful to David Allen of Hampshire Museums service
+for providing access and assistance with the Danebury and Suddern
+Farm material and to Professor Sir Barry Cunliffe and staff at
+Hampshire Museums for generating and curating the Danebury
+archive. We also owe thanks to Kirsty Harding for producing Figs. 1
+and 7. The research was carried out during an AHRC-funded PhD
+(Award No. AH/I009957/1) at the University of Shefﬁeld (TB) and a
+British Academy Post-doctoral fellowship at Cardiff University
+
+T.J. Booth, R. Madgwick / Journal of Archaeological Science 67 (2016) 14e24
+
+(RM). We would also like to thank Professor Niall Sharples for
+discussions relating to this paper and the two anonymous reviewers and the associate editor, whose constructive comments
+greatly improved the quality of this article.
+References
+Abdel-Maksoud, G., 2010. Comparison between the properties of ‘accelerated-aged’
+bones and archaeological bones. Mediterr. Archaeol. Ararchaeom. 10 (1),
+89e112.
+Anderson, G.S., 2011. Comparison of decomposition rates and faunal colonisation of
+carrion in indoor and outdoor environments. J. Forensic Sci. 56 (1), 136e142.
+Balzer, A., Gleixner, G., Grupe, G., Schmidt, H.L., Schramm, S., Turban-Just, S., 1997.
+In vitro decomposition of bone collagen by soil bacteria: the implications for
+stable isotope analysis in archaeometry. Archaeometry 39 (2), 415e429.
+Behrensmeyer, A.K., 1978. Taphonomic and ecologic information from bone
+weathering. Paleobiology 4, 150e162.
+Bell, L.S., Skinner, M.F., Jones, S.J., 1996. The speed of post mortem change to the
+human skeleton and its taphonomic signiﬁcance. Forensic Sci. Int. 82, 129e140.
+Boaks, A., Siwek, D., Mortazavi, F., 2014. The temporal degradation of bone collagen:
+a histochemical approach. Forensic Sci. Int. 240, 104e110.
+Booth, T.J., 2014. An Investigation into the Relationship between Bone Diagenesis
+and Funerary Treatment. University of Shefﬁeld (PhD thesis).
+Booth, T.J., 2015. An investigation into the relationship between bacterial bioerosion
+and funerary treatment in European archaeological human bone. Archaeometry. http://dx.doi.org/10.1111/arcm.12190.
+Bradbury, J., Davies, D., Jay, M., Phillip, G., Roberts, C., Scarre, C., 2016. Making the
+dead visible: problems and solutions for ‘big’ picture approaches to the past,
+and dealing with large ‘mortuary’ datasets. J. Archaeol. Method Th. http://
+dx.doi.org/10.1007/s10816-015-9251-1.
+Campobasso, C.P., Giancarlo, D.V., Introna, F., 2001. Factors affecting decomposition
+and diptera colonization. Forensic Sci. Int. 120, 18e27.
+Carr, G., 2007. Excarnation to cremation: continuity or change? In: Haselgrove, C.,
+Moore, T. (Eds.), The Later Iron Age in Britain and beyond. Oxbow, Oxford,
+pp. 446e455.
+Carr, G.C., Knüsel, C., 1997. The ritual framework of excarnation by exposure as the
+mortuary practice of the early and middle Iron Ages of central southern Britain.
+In: Gwilt, A., Haselgrove, C. (Eds.), Reconstructing Iron Age Societies. Oxford:
+Oxbow Monograph 71, pp. 167e173.
+Child, A.M., 1995a. Microbial taphonomy of archaeological bone. Stud. Conserv. 40
+(1), 19e30.
+Child, A.M., 1995b. Towards an understanding of the microbial decomposition of
+archaeological bone in the burial environment. J. Archaeol. Sci. 22, 165e174.
+Craig, R.C., Knüsel, C.J., Carr, G.C., 2005. Fragmentation, mutilation and dismemberment: an interpretation of human remains on Iron Age sites. In: Parker
+Pearson, M., Thorpe, I.J.N. (Eds.), Warfare, Violence and Slavery in Prehistory,
+Oxford: BAR International Series 1374, pp. 165e180.
+Cunliffe, B., 1984. Danebury: an Iron Age Hillfort in Hampshire Vol. 2: the Finds.
+Council for British Archaeology, London.
+Cunliffe, B., 1988. Celtic death rituals. Archaeology 1988, 39e43.
+Cunliffe, B., 1991. Iron Age Communities in Britain: an Account of England, Scotland
+and Wales from the Seventh Century B.C. Until the Roman Conquest, third ed.
+Routledge, Oxford.
+Cunliffe, B., 1995. English Heritage Book of Iron Age Britain. Batsford, London.
+Cunliffe, B., 2013. Danebury Ring Hillfort e the Main Phases. Digital Digging Web
+Resource. http://digitaldigging.net/danebury-ring-hillfort-main-phases/.
+Cunliffe, B., Poole, C., 2000. Suddern Farm, Middle Wallop, Hants., 1991 and 1996.
+Oxford: English Heritage and Oxford University Committee for Archaeology
+Monograph No. 49.
+Cunliffe, B., Farrell, P., Dee, M., 2015. A happening at Danebury Hillfort e but when?
+Oxf. J. Archaeol. 34, 407e414.
+Darvill, T., 2010. Prehistoric Britain. Routledge, London.
+Dent, B.B., Forbes, S.L., Stuart, B.H., 2004. Review of human decomposition processes
+in soil. Environ. Geol. 45, 576e585.
+se, T., Colombini, M.P., Regert, M., Stuart, B.H., Guerbois, J.P., 2010. TGMS
+Devie
+analysis of archaeological bone from burials of the late Roman period. J. Therm.
+Anal. Calorim. 99, 811e813.
+othanatologie ou l'arche
+ologie de la mort (ArchaeDuday, H., 2006. L'arche
+othanatology or the archaeology of death). In: Gowland, R., Knüsel, C. (Eds.),
+Social Archaeology of Funerary Remains. Oxbow, Oxford, pp. 30e56.
+Dunning, G., 1976. Salmonsbury, Burton-on-the-Water, gloucestershire. In:
+Harding, D. (Ed.), Later Prehistoric Earthworks in Britain and Ireland. Routledge,
+London, pp. 75e118.
+Ellison, A., Drewett, P.L., 1971. Pits and post-holes in the British early Iron Age: some
+alternative explanations. P Prehist. Soc. 37, 183e184.
+ndez-Jalvo, Y., Andrews, P., Pesquero, D., Smith, C., Marín-Monfort, D.,
+Ferna
+S
+anchez, B., Geigl, E.-M., Alonso, A., 2010. Early bone diagenesis in temperate
+environments Part I: surface features and histology. Palaeogeogr. Palaeoclimatol. 288, 62e81.
+Ferreira, M.T., Cunha, E., 2013. Can we infer post mortem interval on the basis of
+decomposition rate? A case from a Portuguese cemetery. Forensic Sci. Int. 226
+(1), 298.e1e298e.6.
+Fitzpatrick, A.P., 1997. Everyday life in Iron Age Wessex. In: Gwilt, A., Haselgrove, C.
+
+23
+
+(Eds.), Reconstructing Iron Age Societies. Oxbow, Oxford, pp. 73e85.
+Garland, A.N., 1987. A histological study of archaeological bone decomposition. In:
+Boddington, A., Garland, A.N., Janaway, R.C. (Eds.), Death, Decay and Reconstruction: Approaches to Archaeology and Forensic Science. Manchester University Press, Manchester, pp. 109e126.
+Gill-King, H., 1997. Chemical and ultrastructural aspects of decomposition. In:
+Haglund, W.D., Sorg, M.H. (Eds.), Forensic Taphonomy: the Postmortem Fate of
+Human Remains. CRC Press, Boca Raton, pp. 93e108.
+Goff, M.L., 1991. Comparison of insect species associated with decomposing remains
+recovered from inside dwellings and out-doors on the Island of Oahu, Hawaii.
+J. Forensic Sci. 36, 748e753.
+Grupe, G., Dreses-Werringloer, U., 1993. Decomposition phenomena in thin-sections
+of excavated human bones. In: Grupe, G., Garland, A.N. (Eds.), Histology of
+Ancient Human Bone: Methods and Diagnosis. Springer-Verlag, Berlin,
+pp. 27e36.
+Guarino, F.M., Angelini, F., Vollono, C., Oreﬁce, C., 2006. Bone preservation in human
+remains from the Terme del Sarno at Pompeii using light microscopy and
+scanning electron microscopy. J. Archaeol. Sci. 33, 513e520.
+Hackett, C.J., 1981. Microscopical focal destruction (tunnels) in exhumed human
+bones. Med. Sci. Law 21 (4), 243e266.
+Hanson, D.B., Buikstra, J.E., 1987. Histomorphological alteration in buried human
+bone from the Lower Illinois Valley: implications for palaeodietary research.
+J. Archaeol. Sci. 14, 549e563.
+Hanson, M., Cain, C.R., 2007. Examining histology to identify burned bone.
+J. Archaeol. Sci. 34, 1902e1913.
+Haselgrove, C., 1986. An Iron Age community and its hillfort: the excavations at
+Danebury, Hampshire, 1969e1979. A review. Archaeol. J. 143, 363e368.
+Hedges, R.E.M., 2002. Bone diagenesis: an overview of processes. Archaeometry 44
+(3), 319e328.
+Hedges, R.E.M., Millard, A.R., Pike, A.W.G., 1995. Measurements and relationships of
+diagenetic alteration of bone from three archaeological sites. J. Archaeol. Sci. 22,
+201e209.
+Hill, J.D., 1995. Ritual and Rubbish in the Iron Age of Wessex. A Study on the Formation of a Speciﬁc Archaeological Record. Oxford: BAR British Series 242.
+Hollund, H.I., Jans, M.M.E., Collins, M.J., Kars, H., Joosten, I., Kars, S.M., 2012. What
+happened here? Bone histology as a tool in decoding the postmortem histories
+of archaeological bone from Castricum, The Netherlands. Int. J. Osteoarchaeol
+22 (5), 537e548.
+Hooper, B., 1984. Anatomical considerations. In: Cunliffe, B.W. (Ed.), Danebury: an
+Iron Age Hillfort in Hampshire, Vol. 2, Excavation 1968e78: the Finds. Council
+for British Archaeology, London, pp. 463e474.
+Jackes, M., Sherburne, R., Lubell, D., Barker, C., Wayman, M., 2001. Destruction of
+microstructure in archaeological bone: a case study from Portugal. Int. J.
+Osteoarchaeol 11, 415e432.
+Jans, M.M.E., Nielsen-Marsh, C.M., Smith, C.I., Collins, M.J., Kars, H., 2004. Characterisation of microbial attack on archaeological bone. J. Archaeol. Sci. 31, 87e95.
+Knüsel, C.J., Outram, A., 2006. Fragmentation of the body: comestibles, compost or
+customary rite? In: Knüsel, C.J., Gowland, R. (Eds.), The Social Archaeology of
+Funerary Remains. Oxbow, Oxford, pp. 253e278.
+Madgwick, R., 2008. Patterns in the modiﬁcation of animal and human bones in
+Iron Age Wessex: revisiting the excarnation debate. In: Davis, O.P.,
+Sharples, N.M., Waddington, K.E. (Eds.), Changing Perspectives on the First
+Millennium BC. Oxbow, Oxford, pp. 99e118.
+Madgwick, R., 2010. Bone modiﬁcation and the conceptual relationship between
+humans and animals in Iron Age Wessex. In: Morris, J., Maltby, M. (Eds.),
+Integrating Social and Environmental Archaeologies: Reconsidering Deposition,
+Oxford: BAR International Series 2077, pp. 66e82.
+Marchiafava, V., Bonucci, E., Ascenzi, A., 1974. Fungal Osteoclasia: a model of dead
+bone resorption. Calc. Tiss. Res. 14, 195e210.
+Millard, A., 2001. The deterioration of bone. In: Brothwell, D., Pollard, A.M. (Eds.),
+Handbook of Archaeological Sciences. John Wiley & Sons, Chichester,
+pp. 637e647.
+Nicholson, R.A., 1996. Bone degradation, burial medium and species representation:
+debunking the Myths, an experimental-based approach. J. Archaeol. Sci. 23,
+513e533.
+Nielsen-Marsh, C.M., Hedges, R.E.M., 2000. Patterns of diagenesis in bone I: the
+effects of site environments. J. Archaeol. Sci. 27, 1139e1150.
+Nielsen-Marsh, C.M., Smith, C.I., Jans, M.M.E., Nord, A., Kars, H., Collins, M.J., 2007.
+Bone diagenesis in the European Holocene II: Taphonomic and environmental
+considerations. J. Archaeol. Sci. 34 (9), 1523e1531.
+Ottoni, C., Koon, H.E., Collins, M.J., Penkman, K.E., Rickards, O., Craig, O.E., 2009.
+Preservation of ancient DNA in thermally damaged archaeological bone.
+Naturwissenschaften 96 (2), 267e278.
+Parker Pearson, M., Chamberlain, A., Craig, O., Marshall, P., Mulville, J., Smith, J.,
+Chenery, C., Collins, M., Cook, G., Craig, G., Evans, J., Hiller, J., Montgomery, J.,
+Schwenninger, J.-L., Taylor, G., Wess, T., 2005. Evidence for mummiﬁcation in
+Bronze Age Britain. Antiquity 79, 529e546.
+Redfern, R., 2008. New evidence for Iron Age secondary burial practice and bone
+modiﬁcation from Gussage All Saints and Maiden Castle (Dorset, England). Oxf.
+J. Archaeol. 27 (3), 281e301.
+Rodriguez, W.C., Bass, W.M., 1983. Insect activity and its relationship to decay rates
+of human cadavers in East Tennessee. J. Forensic Sci. 28 (2), 423e432.
+Rodriguez, W.C., Bass, W.M., 1985. Decomposition of buried bodies and methods
+that may aid in their location. J. Forensic Sci. 30 (3), 836e852.
+Shahack-Gross, R., Bar-Yosef, O., Weiner, S., 1997. Black-coloured bones in Hyonim
+
+24
+
+T.J. Booth, R. Madgwick / Journal of Archaeological Science 67 (2016) 14e24
+
+Cave, Israel: differentiating between burning and oxide staining. J. Archaeol. Sci.
+24, 439e446.
+Sharples, N.M., 2010. Social Relations in Later Prehistory: Wessex in the First Millennium BC. Oxford University Press, Oxford.
+Simmons, T., Cross, P.A., Adlam, R.E., Moffatt, C., 2010. The inﬂuence of insects on
+decomposition rate in buried and surface remains. J. Forensic Sci. 55 (4),
+889e892.
+Smith, C.I., Nielsen-Marsh, C.M., Jans, M.M.E., Arthur, P., Nord, A.G., Collins, M.J.,
+2002. The strange case of Apigliano: early ‘fossilisation’ of medieval bone in
+southern Italy. Archaeometry 44 (3), 405e415.
+Smith, C.I., Nielsen-Marsh, C.M., Jans, M.M.E., Collins, M.J., 2007. Bone diagenesis in
+the European Holocene I: patterns and mechanisms. J. Archaeol. Sci. 34 (9),
+1485e1493.
+ ez, C., Baeta, M., Casalod, Y., Bolea, M., Hedges, R.E.M., MarSosa, C., Vispe, E., Nún
+tinez-Jarreta, B., 2013. Association between ancient bone preservation and DNA
+yield: a multidisciplinary approach. Am. J. Phys. Anthropol. 151, 102e109.
+Squires, K.E., Thompson, T.J., Islam, M., Chamberlain, A., 2011. The application of
+histomorphometry and Fourier Transform Infrared Spectroscopy to the analysis
+of early Anglo-saxon burned bone. J. Archaeol. Sci. 38 (9), 2399e2409.
+Stanford, S.C., 1974. Croft Ambrey, Excavations Carried Out at the Woolhope Naturalists Field Club 1960e66. Woolhope Naturalists Field Club, Hereford.
+Stead, I., 1991. Iron Age Cemeteries in East Yorkshire. English Heritage, London
+archaeological reports no. 12.
+Terrell-Nield, C., MacDonald, J., 1997. The effects of decomposing animal remains on
+cave invertebrate communities. Cave Karst Sci. 24 (2), 53e65.
+Tracey, J., 2012. New evidence for Iron Age burial and propitiation practices in
+southern Britain. Oxf. J. Archaeol. 31, 367e379.
+Turner, B., Wiltshire, P., 1999. Experimental validation of forensic evidence: a study
+of the decomposition of buried pigs in a heavy clay soil. Forensic Sci. Int. 101,
+
+113e122.
+Turner-Walker, G., 2012. Early bioerosion in skeletal tissues: persistence through
+deep time. Neues Jahrb. Geol. P M. 265, 165e183.
+Turner-Walker, G., Jans, M., 2008. Reconstructing taphonomic histories using histological analysis. Palaeogeogr. Palaeoclimatol. 266, 227e235.
+Turner-Walker, G., Nielsen-Marsh, C.M., Syversen, U., Kars, H., Collins, M.J., 2002.
+Sub-micron spongiform porosity is the major ultra-structural alteration
+occurring in archaeological bone. Int. J. Osteoarchaeol 12, 407e414.
+van der Sluis, L.G., Hollund, H.I., Buckley, M., De Louw, P.G.B., Rijsdijk, K.F., Kars, H.,
+2014. Combining histology, stable isotope analysis and ZooMS collagen ﬁngerprinting to investigate the taphonomic history and dietary behaviour of extinct
+tortoises from the Mare aux Songes deposit on Mauritius. Palaeogeogr. Palaeoclimatol. 416, 80e91.
+Vass, A.A., 2011. The elusive universal post-mortem interval formula. Forensic Sci.
+Int. 204, 34e40.
+Wait, G.A., 1985. Ritual and Religion in Iron Age Britain. In: Oxford: BAR British
+Series 149.
+Walker, L., 1984. The deposition of the human remains. In: Cunliffe, B.W. (Ed.),
+Danebury: an Iron Age Hillfort in Hampshire, Vol. 2, Excavation 1968e78: the
+Finds. Council for British Archaeology, London, pp. 442e462.
+Whimster, R., 1977. Iron Age burial in southern Britain. Proc. Prehist. Soc. 43,
+317e427.
+Whimster, R., 1981. Burial Practices in Iron Age Britain. In: Oxford: BAR British
+Series 90.
+White, L., Booth, T.J., 2014. The origin of bacteria responsible for bioerosion to the
+internal bone microstructure: results from experimentally-deposited pig carcasses. Forensic Sci. Int. 239, 92e102.
+Wilson, C.E., 1981. Burials within settlements in southern Britain during the preRoman Iron Age. B Inst. Archaeol. 18, 127e169.
+
+

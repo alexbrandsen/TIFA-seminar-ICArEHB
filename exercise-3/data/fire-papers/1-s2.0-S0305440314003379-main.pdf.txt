@@ -1,0 +1,1362 @@
+Journal of Archaeological Science 52 (2014) 321e336
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+From Evenk campﬁres to prehistoric hearths: charcoal analysis as a
+tool for identifying the use of rotten wood as fuel
+ade Henry*, Isabelle The
+ry-Parisot 1
+Aure
+CNRS UMR 7264 CEPAM, Campus St-Jean d'Ang
+ely SJA3, 24 Av. Des Diables Bleus, 06375 Nice Cedex 04, France
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 4 February 2014
+Received in revised form
+1 September 2014
+Accepted 4 September 2014
+Available online 18 September 2014
+
+We present a new approach combining ethnoarchaeology and experimentation aiming towards a better
+understanding of prehistoric ﬁrewood use and management. The example of present fuel management
+practices among a residentially mobile group of Evenk Siberian reindeer herders, shows how ethnoarchaeology can provide an analytical background for the study of complex maneenvironment interrelations. Ethnographic observation conﬁrmed in particular that the moisture content and structural
+soundness of the wood can be linked to hearth function: rotten conifers for instance, are used for hide
+smoking by several groups living in the boreal forests of the Northern hemisphere. Charcoal samples
+from an Evenk hearth fed with rotten Larix cajanderi (Siberian larch) showed a high proportion of
+microscopic features diagnostic of fungal alterations.
+A series of systematic experimental combustions on Pinus sylvestris (scots Pine) conﬁrmed the existence of a relationship between the frequency and the intensity of fungal alterations visible after the
+combustion and the initial state of the wood used in the hearth. The establishment of an alteration index
+allows now to take a new parameter, the structural soundness of the wood, into account when performing archaeological charcoal analyses.
+© 2014 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Charcoal analysis
+Hearth
+Experimentation
+Ethnoarchaeology
+Prehistory
+Fuel management
+
+1. Introduction
+Over the past years, charcoal analysis or anthracology has been
+used in combination with complementary approaches combining
+palaeoenvironmental and socio-economical studies that seek to
+discuss ﬁrewood management (i.e., the process of exploitation and
+use of ligneous fuel resources in a given environment) among
+ry-Parisot, 2001; Asouti and Austin, 2005).
+prehistoric societies (The
+In this regard, ethnobotany has emerged as a methodological
+approach (Chabal, 1994; Ntinou et al., 1999; Ntinou, 2002;
+Moutarde, 2007). Ethnoarchaeology beneﬁts charcoal studies by
+revealing the complexity and the variety of ﬁrewood management
+practices, which are deeply embedded within the cultural and
+ecological context they originate from Henry et al., (2009). The
+analysis of this variability of practices reveals general patterns that
+can help fuel management theory building. For instance, ethnographic work carried out under very different latitudes reminds us
+
+* Corresponding author. Tel.: þ33 695 952 511.
+E-mail address: aureade.henry@me.com (A. Henry).
+1
+Tel.: þ33 489 88 15 43.
+http://dx.doi.org/10.1016/j.jas.2014.09.005
+0305-4403/© 2014 Elsevier Ltd. All rights reserved.
+
+that the criteria according to which a society chooses its ﬁrewood
+cannot be reduced to a “simple” taxonomic selection: other characteristics, such as the calibre or the state of the wood (i.e., green,
+ryseasoned, rotten), are at least as important as the species (The
+~ a et al., 2003; Alix and Brewster, 2004;
+Parisot, 2001; Zapata Pen
+Dufraisse et al., 2007; Henry et al., 2009; Joly et al., 2009;
+Picornell et al., 2011).
+The behaviour of wood during combustion is measured in terms
+of heat efﬁciency (e.g. ﬂame height, ember production, combustion
+speed, ignition qualities) and caloriﬁc value (total quantity of energy released by weight unit of fuel). As they are deﬁned by the
+chemical and physical characteristics of wood, these properties are
+species-dependent; however, they are signiﬁcantly modiﬁed by the
+calibre and the state of the wood (moisture content, structural
+soundness) employed, which have a greater inﬂuence on the
+ry-Parisot, 1998,
+combustion process than the species itself (The
+2001).
+One of the goals of experimenting in anthracology is precisely to
+identify these parameters in order to characterize the combustion
+more accurately and, therefore, to clarify the criteria for past ﬁrery-Parisot, 2001; Ludemann and Nelle,
+wood selection and use (The
+ry-Parisot and Henry, 2012).
+2002; Moskal-del Hoyo et al., 2010; The
+
+322
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+Generally, the methodology employed is the standardized production under controlled conditions of charcoal reference sets, on
+which morphometric analyses are performed in order to verify the
+existence of given causal relationships between the characteristics
+of the wood ante combustion (moisture content, structural
+soundness) and the presence post combustion of certain speciﬁc
+characteristics e.g., radial cracks, cell wall deformations, collapsed
+ry-Parisot, 2001; Badal and Carrio
+ n, 2004;
+cells, fungal hyphae (The
+ et al., 2009; The
+ry-Parisot and Henry, 2012).
+Allue
+A few experimental studies dealing with fuel use have also
+included ethnographic reference sets consisting mainly of samples
+from hearths and/or fuels (Mallol et al., 2007; Tsartsidou et al.,
+2008; Lancelotti and Madella, 2012; Gur-Arieh et al., 2013), but
+they remain rare in the ﬁeld of charcoal analysis (Ntinou, 2002;
+Henry, 2011).
+Through an approach combining ethnoarchaeology and
+experimentation, this paper focuses on the selection of rotten
+conifers for the ﬁre. First, we analyse the place of this practice in
+the ﬁrewood management system of nomad Evenks living today in
+the boreal forests of south-eastern Siberia. Then, we present the
+results of the charcoal study of two Evenk hearths, which showed
+signiﬁcant differences in the frequency and the intensity of
+microscopic wood decay features attributable to fungi. Supplementary laboratory experiments involved the analysis of 1250
+charcoal fragments from 10 batches of Pinus sylvestris in different
+states in order to verify that the soundness of the wood can be
+inferred through charcoal analysis. Our results lead us to propose a
+method based on the micromorphological characteristics of wood
+decay for assessing the soundness of the wood ante combustion
+(healthy vs. dead vs. rotten) and its implications for prehistoric
+charcoal analysis.
+
+2. Firewood management practices among Evenki of Amur
+Region
+2.1. Context of the study
+One of the aims of the ethnoarchaeological ﬁeldwork (project
+me Renne”) was to obtain ﬁrst-hand information from
+“Syste
+human groups living under cold environmental conditions
+similar to those prevailing in Europe during the Upper Palaeolithic and/or the Early Mesolithic, in order to evaluate the
+impact of mobility and strong seasonal constraints on fuel
+management.
+Nearly three months were spent in the North-eastern part of the
+Amur Region (Eastern Siberia, Russian Federation), with Oro
+conEvenks associated with the village of Ivanovskoe (Evenk name
+Ulgen). Most of the time was spent in the taiga, on the territory of a
+group of reindeer herders, in the valley of the Kharga River and its
+slopes (Fig. 1). This area, at an altitude of 700e900 m a.s.l., is
+covered by boreal forest in which larch (Larix cajanderi Mayr.) is the
+dominant species.
+In order to observe as many ﬁre-related activities as possible,
+two ﬁeldtrips were taken at different times of the year (late winter/
+beginning of spring 2006 and end of summer/beginning of autumn
+2007). Direct ﬁeld observations were complemented by a series of
+oral history interviews about traditional activities, beliefs and wood
+uses (Henry et al., 2009; Henry, 2011).
+2.2. Firewood management: main results
+Four main vegetation types were present within 2 km around
+the Evenk campsites we visited: riverine vegetation (Evenk:
+
+Fig. 1. Location of the ethnoarchaeological survey.
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+hulgakata), Dwarf pine (Pinus pumila) shrubland (bolgi), open larch
+(L. cajanderi) woodland (light-needled taiga, bori) and mixed spruce
+(Picea obovata) forest (dark-needled taiga, ahign).
+According to our informants, 20 trees and shrubs are
+commonly used for woodworking, subsistence and medicine, but
+only three are employed as fuel. During our stays, even though the
+four vegetation types were frequented on a daily basis, only the
+light-needled taiga and more speciﬁcally, its main species, L.
+cajanderi (irjakt
+e), was harvested for fuel. In addition, a clear
+disinterest in shrubby taxa and the avoidance of white birch
+(Betula pendula), believed to be harmful to humans and animals,
+was also noted.
+The preference for Larix spp. (larch) is so strong that it inﬂuences
+settlement patterns i.e., the Evenks cite the direct availability of
+standing dead larch as one of the four fundamental criteria when
+choosing a campsite (Henry et al., 2009; Lavrillier, 2007).
+Seasonal parameters also inﬂuence decisively ﬁrewood management in terms of fuel needs, which vary according to meteorological conditions but also to seasonal activities. Seasonality,
+mainly in terms of presence/absence of snow, also impacts the
+wood acquisition distances and means, the number and type of
+hearths and their function (Fig. 2). The quite simple organization
+
+323
+
+observed at the winter camp (one indoor stove (ohok), fed mainly
+by standing dry but also green larch) changes in favour of a more
+complex pattern when the snow cover melts: fallen wood (gara)
+becomes available and can be used in the different outdoor
+campﬁres (atu) that are used throughout the snowless seasons,
+mainly for cooking, curing meat and smudging. Two types of features are directly linked to the cultural and economical context, i.e.
+smudging and smoking ﬁres.
+2.3. Smudge and smoke ﬁres
+Smudge ﬁres (samnin) are inseparable from domestic reindeer.
+They burn constantly from late spring until early autumn to protect
+the herd from ﬂying insects (Ingold, 1980; Lavrillier, 2007;
+Brandisauskas, 2007; Anikhovskij et al., 2012). The samnin are
+mostly fed with green wood, but other smoke-producing fuels such as
+fresh boughs, moist dead branches or mosses can also be used. Since
+the sole purpose of the ﬁre is to produce smoke, the moisture and/or
+water content of the fuel are far more important than the species.
+In the case of hide-smoking hearths, taxon and state of the wood
+are equally important: the fuel used is dark red, rotten and crumbling larch (Larix spp.), hilt
+e (Henry et al., 2009; Lavrillier, 2005;
+
+Fig. 2. Seasonality and activities linked to ﬁre.
+
+Discrete notches of cell-wall erosion
+At an advanced stage of decay,
+numerous cavities coalesce together
+
+Cavities with conically shaped ends in secondary walls
+Gradual breakdown of the wood cell
+Progressive erosion of
+wall layer of the secondary wall
+secondary walls but middle
+lamella not degraded
+
+Macroscopic
+aspect of
+wood
+Microscopic
+characteristics
+
+Cell walls collapse and appear
+distorted
+
+Diffusion of degradative
+substances by hyphae
+Extensive breakdown
+of cellulose and hemicellulose;
+some lignin modiﬁcation
+Cubic fractures, shiny and brittle
+appearance, crumbling texture,
+colour reddish (cellulose degraded)
+Loss of birefringence
+Leaves a network of residual
+lignin (i.e., earlywood is affected
+before latewood)
+Fungal
+action
+
+Separation of individual
+Cell wall becomes thinner,
+cells from one another
+degraded from the lumen
+outwards
+Deligniﬁcation of the middle lamella or dissolution of lignin
+out of cell wall by hyphae
+Localized erosion of secondary wall layers and middle
+lamella
+Attack of all cell wall components lead to voids within the
+degraded wood
+
+Spongy texture of wood surface
+
+Degradation of cellulose and hemicellulose through hyphae; some
+lignin modiﬁcation
+
+Type I
+
+Degrade lignin, celluloses and hemicelluloses (fungal species and
+wood composition-dependent)
+Degradation in the immediate
+Degradation of
+vicinity of hyphae
+hemicellulose and lignin
+by hyphae
+Fibrous, colour whitish (lignin degraded ﬁrst)
+
+Soft rot
+
+Selective deligniﬁcation:
+rare in gymnosperms
+Simultaneous rot
+
+Fungi expand inside the ligneous structure by producing spores,
+which develop into hyphae, altering the structure of carbohydrates
+(cellulose and hemicellulose) and/or lignin by depolymerization
+(Blanchette, 2000). According to their mode of degradation of the
+wood cell walls, fungal decay types are categorized into brown rot,
+white rot and soft rot (Table 1). However, a range of studies show
+that the identiﬁcation of decay types on the grounds of micromorphological characteristics alone is open to question (Schwarze,
+2007). The degradation of wood components lead to strength,
+weight and density losses whose progressive stages are microscopically identiﬁable through different types of cell wall alterations, i.e. cavities in secondary walls, cellular degradations or voids
+(Blanchette, 2000; Irbe et al., 2006; Schweingruber et al., 2006).
+Eventually, the decay of the cell wall components leads to the
+collapse of the initial cellular arrangement (Blanchette et al., 1997;
+Hakala et al., 2004; Levin et al., 2007).
+Previous experimental studies show that fungal decay features,
+but also hyphae, are still visible after the combustion on charred
+wood samples inoculated with brown and soft rot under laboratory
+ry-Parisot, 1998, 2001) but also on decayed wood
+conditions (The
+collected in natural environments (Moskal-del Hoyo et al., 2010;
+Henry, 2011). The action of wood degradation agents has also
+been identiﬁed on archaeological charcoal from several European
+ry-Parisot,
+sites dating from the Middle Palaeolithic onwards (The
+
+White rot
+
+3.1. Previous research
+
+Brown rot: commonest in
+gymnosperms
+
+3. The preservation of wood decay features on charcoal
+
+Agent
+
+Brandisauskas, 2010; Anikhovskij et al., 2012). Burning coals are
+added to ignite a ﬁrst layer of hilt
+e, which is then completely
+covered by a second layer, creating a low-oxygen, slow, smoky and
+smouldering combustion which leads to the formation and the
+adhesion of a thin browneyellow layer (njuksa) on the hides' surface that waterproofs the hide and improves its resistance. The
+hide-smoking hearth we observed had been in use for the last four
+autumns, for a total duration of 6e8 h of combustion.
+The information gathered among Evenks from Ulgen conﬁrms
+that the notion of “good fuel” is relative and depends on several
+criteria such as resource availability, people's preferences and the
+ﬁnal purpose of the wood (hearth type and function). Accordingly,
+the Evenks use one main tree species, L. cajanderi (larch), under
+different states: green or seasoned, healthy or degraded in order to
+respond to different hearth functions (Brandisauskas, 2007;
+Lavrillier, 2005 and pers. comm., 2007; Henry et al., 2009).
+It is also worth noting that seasonality and mobility are deeply
+intertwined within the ﬁrewood management system. For
+example, hearth functions, by relating directly to the cultural and
+socio-economic context, also convey information about the season
+and therefore, the function of the occupation site. None of this information is accessible to the charcoal analyst through the ﬂoristic
+identiﬁcation of the hearth remains, since L. cajanderi was the only
+species used in the Evenk camps we visited. On the other hand, a
+very specialized ﬁre-related activity such as hide-smoking illustrates how the identiﬁcation of the state of the wood may be crucial
+for the understanding of hearth function and its societal implications. According to previous work, the recognition of fungal decay
+features preserved on charcoal may allow diagnosing the use of
+ry-Parisot, 2001; Badal and Carrio
+n,
+degraded wood as a fuel (The
+ry-Parisot and Texier, 2006; Moskal-del Hoyo et al.,
+2004; The
+2010).
+In order to test this hypothesis, bulk samples were taken from
+the hide-smoking hearth and from one smudge campﬁre; these
+correspond to the features the herders gave us permission to
+sample.
+
+Type II
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+Table 1
+Main characteristics of wood degradation by fungi, after Schwarze (2007); Blanchette (2000); Volk (2000); Lee et al. (2004).
+
+324
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+n, 2004; The
+ry-Parisot and Texier,
+1998, 2001; Badal and Carrio
+2006; Marguerie and Hunot, 2007; Moskal-del Hoyo et al., 2010;
+Henry, 2011; Fig. 3). But it still remains difﬁcult to interpret, as
+charring induces the disappearance and/or the modiﬁcation of
+anatomical and biochemical characteristics, as well as the fragmentation of the material (Zicherman and Williamson, 1981; Prior
+and Gasson, 1993; Braadbaart and Poole, 2008). In other words, not
+all of the microscopic criteria deﬁned for unburned wood are
+applicable to the study of charcoals; this is particularly true in the
+case of birefringence and thickness of the cell walls, which are
+signiﬁcantly altered by the combustion. On the other hand,
+advanced decay features such as deformation, collapsed cell walls
+and gaps in wood structure are preserved after charring, and
+
+325
+
+ryindicate that combustion of altered dead wood occurred (The
+Parisot, 1998, 2001).
+However, the available literature does not specify any quantiﬁcation method that deﬁnes the minimal frequency of altered
+charcoals that would allow us to interpret a charcoal assemblage as
+the end-product of the combustion of dead, altered wood.
+The meaning, in terms of assemblage interpretation, of these
+alterations can therefore be questioned.
+Consequently, the aim of this study is to test the correlation
+between microscopic alteration features and the macroscopic state
+of the wood. In this context, the analysis of charred present-day
+material whose initial state is known is an indispensable aid for
+archaeological interpretation.
+
+Fig. 3. Pinus sylvestris (Scots Pine) charcoal from the Mesolithic site Clos de Poujol (Aveyron, France), showing micromorphological characteristics of fungal decay ante combustion.
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+326
+
+3.2. Charcoal analysis of two Evenk hearths
+3.2.1. First observations and proposal of a methodology
+Several charcoals from the samnin (Sample S) and the hidesmoking hearth (Sample N) were randomly selected and examined for decay features. Fresh manual cuts of the three sections of
+wood (transversal, radial and tangential) were observed with a 100,
+200 and 500 magniﬁcation under a reﬂected light microscope
+using dark- and brightﬁeld illumination. As expected, micromorphological decay features attributable to fungi were preserved,
+namely hyphae, perforated cell walls, cellular deformations of
+variable intensity and/or voids in the wood structure. They were
+most visible and clearly identiﬁable on the transverse section (TS),
+which led us to discard the longitudinal sections and develop a
+methodology based on the study of fungal alteration of the TS.
+Maybe less expected was the fact that both hearths contained
+unaltered as well as altered charcoal fragments, the latter showing
+low to high and localized to generalized fungal alteration features.
+This variability appeared sometimes within a single charcoal fragment, and depended on the dimensions of the observation area and
+on the location of the cut.
+In other terms, the study of one charcoal fragment, even if it
+shows advanced signs of decay by fungi, cannot deﬁne the
+macroscopic state of the branch or the wood assemblage it comes
+from. This observation points to the need for a quantitative
+approach in order to test if the study of a minimal number of
+charcoal TS would allow discrimination of samples S and N.
+On the other hand, the intensity of fungal decay features does
+reﬂect the duration of the colonization of the wood by fungi (from
+the appearance of cavities and small voids, to cellular dissociation,
+deformation and collapse) and therefore, refers concretely to the
+decay of healthy wood into altered wood.
+This suggests that it is important to associate ﬁner qualitative
+attributes with the global distinction between unaltered and
+altered fragments. Therefore, and coherently with section 2 and our
+own microscopic observations of the decay features on charcoal, we
+propose a classiﬁcation into four progressive intensities of alteration, referred to from now on as “Alteration Levels” (A.L., see
+Table 3): zero (0) low (1), medium (2) and high (3). A.L. 0 and 1
+concern the incipient stages of colonization of wood by fungi,
+respectively no/very localized cell wall perforations (Figs. 4 and 5),
+A.L. 2 and 3 refer to the more global and structural cellular changes
+that intervene afterwards, such as the modiﬁcation of the cell
+shape, cellular voids and deformations (Figs. 6 and 7), with the
+main difference between A.L. 2 and 3 being that decay is spatially
+restricted to certain areas and/or cellular deformations are less
+extensive for A.L. 2.
+We studied the transverse sections of 150 charcoals from each
+Evenk hearth, picked randomly from among the 2e4 mm fraction
+
+(a size class commonly represented among archaeological charcoals). In order to verify that the minimal number of fragments to
+be analysed had been reached, we used a graphic display common
+in the ﬁeld of anthracology, the saturation curve, a regression curve
+showing the ﬂoristic evolution according to the number of analysed
+fragments (Chabal, 1997; Chabal et al., 1999). Their general shape
+allows determining the heterogeneity of the sample, and their
+stabilization indicates that the optimal number of charcoal fragments to be taken into account for obtaining a representative
+sample is reached. Our version of these curves takes into account
+the percentages of the different A.L. per number of identiﬁed
+fragments.
+3.2.2. Results: ethnographic material
+The analysis of 150 charcoals for each ﬁre shows that the total
+percentage of altered charcoals, as well as the proportions between
+the different A.L., are stable at around 100, but that the main tendencies are already perceptible after the study of 50 charcoals
+(Fig. 8a). These trends differ signiﬁcantly between the two samples:
+sample S contained 34% of altered charcoal, of which the highest
+proportion is attributable to low A.L. (1), whereas sample N provided proportions of alterations making up more than 80% of the
+studied assemblage, which included a much higher proportion of 2
+and 3 A.L. (Fig. 8b). The ManneWhitney test conﬁrms the difference between the two samples (for alpha ¼ 1%). The statistical
+power of this test (macro developed by G. Le Pape, Tours, France), is
+excellent (95%), which means that the number of measurements
+(150) is more than satisfying to accept the Ha hypothesis (the two
+samples originate from different statistical populations). These ﬁrst
+results allow us to propose the hypothesis according to which a
+correlation between the macroscopic and microscopic state of
+wood exists and is still detectable after charring. The purpose of
+additional experimental work is to verify this hypothesis, but also
+to acquire a ﬁner picture of the alteration patterns.
+3.3. Experimental validation
+3.3.1. Protocol (Fig. 9)
+Experimental combustion was conducted under strictly
+controlled conditions, by deﬁning exactly the most relevant parameters. The wood was collected on the high plateaux of AlpesMaritimes (France) where forest stands of P. sylvestris (Scots pine)
+in different states of decay were sighted (Table 2). The use of
+another species, P. sylvestris (and not Larix), for the experiments is
+justiﬁed by the fact that P. sylvestris is signiﬁcantly more frequent
+than Larix decidua in European prehistoric sites, and that it possesses a resistance comparable to that of Larix spp. towards fungi
+and bacteria (Triboulot, 2002). On the ﬁeld, small logs and branches
+
+Table 2
+Description of the ethnographic and experimental batches.
+Label
+
+Species
+
+Soundness
+
+Collected tree (T)
+or ground (G)
+
+Anatomical
+element
+
+General description
+
+N (hide smoking ﬁre)
+
+Larix cajanderi
+
+G (þT)
+
+Stump
+
+Wood dark red, very altered, crumbling
+
+S (smudge ﬁre)
+
+Larix cajanderi
+
+Rotten (þ braises
+from healthy wood)
+Healthy (þ dead branches)
+
+T (þG)
+
+Branches, trunk
+
+ST1; ST2 (standing dead)
+FD1; FD3 (fallen dead)
+FD2 (fallen dead)
+HRST (half-rotten)
+
+Pinus
+Pinus
+Pinus
+Pinus
+
+Dead
+Dead
+Dead
+Half rotten
+
+T
+G
+G
+G
+
+Branches
+Branches
+Branches
+Stump
+
+R1; R2 (rotten)
+
+Pinus sylvestris
+
+Rotten
+
+G
+
+Branches (?)
+
+H1; H2 (healthy)
+
+Pinus sylvestris
+
+Healthy
+
+T
+
+Branches
+
+Healthy appearance þ some greyish elements
+without bark
+General healthy appearance, locally greyish,
+partially without bark
+Wood greyish, mostly without bark
+Wood red-brownish, altered, no bark,
+beginning to crumble
+Wood red (R1) to dark red (R2), altered,
+crumbling, no bark
+Healthy appearance
+
+sylvestris
+sylvestris
+sylvestris
+sylvestris
+
+Table 3
+Microscopic criteria for the identiﬁcation of the A.L.
+Alteration Level (A.L.)
+
+Alteration intensity and
+presence on charcoal
+Applying average
+General form of wood structure
+
+No micromorphological
+signs of decay
+None, or very localized A.L. 1
+
+Cavities in cell walls; minor
+cell deformations
+Low intensity or very localized A.L. 2
+
+Perforated cell walls; cell deformation;
+and/or localized voids in cellular structure
+Medium intensity or very localized A.L. 3
+
+Collapsed cell walls; major cellular
+deformations and/or important voids
+High/very high intensity; generalized
+
+A.L. 0 þ localized A.L. 1
+Not affected
+
+A.L. 1 þ very localized A.L. 2
+Not affected
+
+A.L. 1 þ at least equivalent surface of A.L. 2
+Slightly affected; taxon remains identiﬁable
+
+A.L. 2 þ at least equivalent surface of A.L. 3
+Affected taxon can be difﬁcult to identify
+
+327
+
+in different states were sampled, from healthy looking, standing
+dead, to fallen, red, crumbling and rotten wood.
+Previous to combustion, the wood was observed, measured and
+divided into three categories: standing dead wood (2 lots: SD1,
+SD2), fallen dead wood (3 lots: FD1, FD2, FD3), rotten wood on the
+ground (3 lots: HRST, R1, R2). One additional reference batch
+composed of healthy wood (H1 and H2) was also selected. Systematic replicas allow comparisons within a comparable experimental modality (respectively 2, 3, 3 and 2 combustions). A total of
+
+Fig. 4. Microscopic alteration level 0.
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+Alteration features
+
+328
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+After the combustion process, the totality of the charcoal was
+dry-sieved and the fraction of 2e4 mm was selected for systematic
+anatomical observation on the charcoal according to the method
+used on the Evenk samples.
+Control sub-samples of each batch (slices 4 cm thick) were
+burned in a mufﬂe furnace (wrapped inside aluminium foil and
+covered by sand). The samples were placed into the furnace one
+hour after the combustion temperature (500  C) was reached for
+45 min. Then, they were removed from the furnace and left under
+the sand until they reached room temperature and observed under
+the microscope according to the three sections of wood.
+3.3.2. Results
+All of the following quantitative results are synthesized in
+Fig. 10a.
+3.3.2.1. Healthy wood. Batches H1 and H2 are quite similar and
+characterized by a very high proportion of unaltered charcoals
+(84e86%). Low intensities of alterations are recorded (7e11%), as
+well as high A.L. (2 and 3); however, the latter do not exceed 10% of
+the assemblage. Altogether with the values obtained for sample S,
+this seems to indicate that green wood is not exempt from being
+locally colonized by degradation agents, but that alteration proportions and levels remain low.
+3.3.2.2. Dead wood. The results obtained for dead wood show
+more variability. This can be explained by the fact that their
+macroscopic state ranged from healthy looking dead wood with its
+bark still on, to medium altered dead wood, characterized by a
+greyish colour and partly or completely exempt of bark (samples
+SD1 and SD2, FD1, FD2, and FD3). All these last samples share
+nevertheless common overall characteristics: a much lesser proportion of unaltered charcoals than healthy/green wood (between
+31 and 59%), which results in a concomitantly higher proportion of
+alteration features. Among the latter, it is to note that A.L. 1 predominates (between 25 and 42%). A.L. 2 is also signiﬁcantly higher
+than in healthy wood (15e22%); A.L. 3 remains quite low (1e8%).
+Interestingly, sample FD2, the only one composed from grey, fallen
+dead wood without bark, although following the general trend,
+shows the highest proportions of altered charcoals. According to
+these results, it does not seem possible to discriminate standing
+dead wood from not very decayed lying dead wood. This was expected, since they have the same macroscopic appearance.
+
+Fig. 5. Microscopic alteration level 1.
+
+10 experimental combustions were made in an open ﬁreplace under laboratory conditions, in order to obtain samples charred under
+conditions that better resemble the archaeological reality (i.e. in an
+open ﬁre where temperatures vary according to the state and
+calibre of the wood and its position in the hearth), but by limiting
+meteorological effects (wind, atmospheric humidity, ﬁreplace
+shape, etc.). Fires were lighted with a blowtorch and temperatures
+were simultaneously recorded using sensors distributed within the
+wood.
+
+3.3.2.3. Rotten wood. According to its description as a “half-rotten”
+stump, HRST shares microscopic characteristics with the dead
+wood batches (i.e., A.L. 1 ¼ 39%) but with somewhat higher A.L.
+proﬁles: A.L. 0 drops to 16% whereas A.L. 2 raises to 33% and A.L.
+3e12%.
+These changes in the different A.L. proportions are even clearer
+for rotten wood assemblages, characterized by very low proportions of unaltered charcoal (3e6%) and the predominance of A.L.
+2 (24e46%) and/or 3 (18e58%). The important variability of these
+percentages might be linked to the initial state of the wood batches
+used for the experiments, with R1 being less altered than R2, but
+may also remind us that the A.L. were established for the purpose of
+this study on speciﬁc micromorphological grounds only, A.L. 2
+representing “medium” values which however already correspond
+to high, although localized, cell wall alterations. Accordingly to our
+initial hypothesis, rotten wood shows high frequencies of alteration, with A.L. 2 and 3 being frequently recorded.
+These results show that a gradual tendency from healthy to
+rotten wood exists in the evolution of the proportions of the
+different A.L., which appears to follow our initial classiﬁcation of
+the macroscopic state of the wood.
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+329
+
+Fig. 6. Microscopic alteration level 2.
+
+3.3.3. Statistical reliability of the results
+In order to verify the signiﬁcance of these differences, we ran
+a statistical test of multiple pairwise comparisons. The resulting
+classiﬁcation into seven groups conﬁrms that at least two samples are clearly different (Fig. 10b). The relatively high number of
+statistical groups and their partial overlapping reﬂects in our
+sense quite accurately the gradual nature of wood decay. The
+classiﬁcation order of the groups conﬁrms the link between
+microscopic alteration features and initial macroscopic state of
+the wood (with H1 representing the healthiest lot and R2 the
+most decayed):
+- Groups A and B: dominant healthy signature
+- Groups C, D, E: dominant dead wood signature (low to medium
+decay);
+- Groups F and G: dominant rotten wood signature
+
+Accordingly, highly signiﬁcant differences (p-values of 0.001 and
+lower than 0.0001) do exist between healthy, dead and decayed
+wood (Fig. 10c). The ethnographic samples ﬁt quite well into this
+framework, with the samnin sharing characteristics of groups B and
+C, which reﬂects both the use of healthy (green) and dead wood.
+Sample N on the contrary is strictly associated with rotten wood
+(group F), which means that the ember added to ignite the hearth
+did not mask the main information, although it might have slightly
+impacted our results, i.e. a statistical difference with batch R2, the
+only sample composing group G, and quite high proportions of A.L.
+0 (16%) when compared to batch R1 (6%) and R2 (3%).
+3.4. Proposal of an alteration index
+Experiments conﬁrm that a quantitative study of microscopic
+Alteration Levels visible on charcoal assemblages allows
+
+330
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+Fig. 7. Microscopic alteration level 3.
+
+interpreting the initial macroscopic state of the wood. Statistical
+tests are well suited for determining the differences between the
+experimental reference sets and thus, for validating the proposed
+method. However, the more reference samples there are, the more
+statistical groups are potentially created, including groups whose
+differences may be statistically, but not actually, signiﬁcant, at
+least for our purpose. In other terms, the thresholds between
+different states of wood have to be redeﬁned by including the
+initial appearance of the experimental material and the corresponding alteration values on charcoal. For example, samples such
+as HRST or S, belonging to key-intermediary positions, can
+therefore be used to mark the limits between different alteration
+groups.
+This is a necessary step for reaching the primary goal of any
+experimental approach, i.e. proposing a methodology allowing an
+easy integration and comparison of external data into the framework of the reference values.
+In order to fulﬁl this objective, we created an alteration index
+based on the frequency of alteration (total %) as well as its intensity
+
+(% of each A.L.). The alteration index Ai was obtained by adding all
+altered charcoals multiplied by their respective alteration level,
+divided by a theoretic maximal A.L. of 3 on each fragment, and
+multiplied by the total number of fragments studied:
+Ai ¼ ((nA1x1 þ nA2x2 þ nA3x3)/nTOTx3). We chose this calculation in order to obtain an index ranking from 0 to 1 that would
+facilitate the reading (Fig. 11). According to the resulting graph, a
+low index (<0.15) corresponds to a healthy batch of wood (Ai of
+batch H1: 0.06). Medium values, as obtained for dead wood (from
+0.2 to 0.34), signal light to medium alterations, whereas values
+higher than 0.5 characterize a batch of rotten wood (Ai of R1 ¼ 0.56;
+N ¼ 0.6; R2 ¼ 0.8). Very low and very high indices give a clear idea
+of the state of the large majority of the wood pieces composing the
+batch, whereas medium indices can result from the constant
+recording of medium values, or from average values of a mixture of
+wood in different states. However, a detailed examination of the
+different A.L. proportions comprising the samples (as shown in
+Fig. 8 or 10a) may lead to a better interpretation of the degree of
+alteration.
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+331
+
+Fig. 8. Quantiﬁcation of the different A.L. composing the ethnographic samples.
+
+4. Discussion: from present-day to archaeological samples
+4.1. Beneﬁts of an ethno-experimental approach
+The microscopic approach carried out on ethno-experimental
+charcoals allowed us to discriminate clearly highly altered wood
+from healthy but also from dead, lightly to moderately, altered
+
+wood. While the strictly experimental samples furnished a quite
+complete reference set applicable to the study of charcoal samples
+from coniferous woods, the results obtained for the Evenk hearths
+allowed a ﬁrst evaluation of the approach of applying real-life
+conditions, which is always more complex than the experimental
+simulations. At the same time, the ethnographic material allowed
+us to conﬁrm the validity of our method and its limits: in the
+
+Fig. 9. Experimental protocol.
+
+332
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+Fig. 10. Quantiﬁcation and statistical analysis of ethnographic and experimental results.
+
+speciﬁc and known context of Evenk pastoralist settlements, a
+“blind” study of such hearths, which are culturally signiﬁcant,
+would lead to the clear identiﬁcation of the nature and the function
+of the hide-smoking hearth, and, moreover, give seasonal information on the occupation of the settlement, since hides not usually
+smoked in winter (Henry et al., 2009). On the other hand, the
+characterization of the degradation features present on the charcoals from the samnin did not lead to a precise interpretation of its
+function, since it only indicated a globally healthy to very slightly
+altered wood. In such cases, other approaches focussing not on the
+soundness, but on the moisture content of the wood (green/
+
+ryseasoned), may be more adapted once fully developed (The
+Parisot and Henry, 2012).
+Given the potential problem that was identiﬁed, of mixtures of
+wood in different states, the archaeological situation appears even
+more complex in terms of charcoal mixtures and/or palimpsests in
+the archaeological layers.
+4.2. From the charcoal deposit to its interpretation
+More speciﬁcally, scattered charcoal assemblages are the commonest within archaeological sites. Since they usually synthesize
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+333
+
+Fig. 11. Alteration Index (A.I.) of the ethnographic (stars) and experimental (squares) charcoal assemblages.
+
+the episodes of wood procurement and use that occurred during
+the formation of the archaeological layer, they are well suited for
+palaeoenvironmental reconstructions (Chabal, 1997). Applying our
+method to such assemblages may be questionable in the sense that
+it is difﬁcult to assess whether “medium” Ai obtained on heterogeneous samples may correspond to a recurrent pattern in wood
+selection strategies (i.e. systematic acquisition of dead wood) or, on
+the contrary, the sum of alternating selection practices (healthy
+plus rotten plus dead wood). On the other hand, extremely low or
+high Ai, even obtained on scattered charcoal, may accurately reﬂect
+the main soundness of the wood.
+In any case and for all types of charcoal deposits, the decision
+regarding when to study and how to interpret the state of the wood
+has to be made in the light of the nature of the charcoal remains
+(preservation state, quantity, origin), but also of the quality and
+completeness of the archaeological data (possibility of spatial analyses, availability of data about site function and/or duration of
+occupation, etc.).
+Moreover, if our experimental results are valid for charred material, (i.e. already altered by the combustion process), we cannot
+discard straightaway the possibility of a differential postdepositional behaviour of charcoal fragments according to the
+state of the wood they originate from. Experimental simulations of
+ry-Parisot, 1998,
+the taphonomic processes affecting charcoal (The
+ry-Parisot and Chabal, 2010; Chrzavzez, 2013;
+2001; The
+Chrzavzez et al., 2014) tend to show that even though charcoals
+from decayed wood seem to fragment faster during processes in
+which water is involved (i.e. desiccation/waterlogging and freezeethaw), they are not systematically more vulnerable when
+compared to charcoals from healthy wood. Nevertheless, it would
+be interesting to know if the observed fragmentation equally applies to the charcoals composing each sample, or if it affects the
+fragments with the highest A.L. ﬁrst, modifying our image of the
+alteration patterns. This last issue should be approached experimentally, but it does not inhibit us from beginning to test our
+method on archaeological material, especially since other multiple
+factors may inﬂuence the preservation of charcoal deposits to a
+
+higher extent than the initial state of the wood. Among these, direct
+exposure to weathering processes and mechanical pressures such
+as trampling highly affect charcoal (Chrzavzez et al., 2014). Therefore, and until new experimental data are available, a good
+knowledge of the taphonomic history of the site and its features as
+it can be provided by geo- and micromorphological analyses can
+help determine the potentially more suitable sampling contexts.
+For all the reasons cited above, the approach presented here should
+be transposed very carefully to archaeological situations. It seems
+to be especially pertinent for the study of punctual, chronostratigraphically and spatially secure combustion features. The
+very possibility of proposing socio-economical interpretations for
+charcoal concentrations e which are often considered improper for
+palaeoenvironmental reconstructions because of their limited nature (Chabal, 1997; Chabal et al., 1999; Asouti and Austin, 2005)- reestablishes the study of hearths as an important part of charcoal
+analysis.
+4.3. Firewood in different states: archaeological implications
+A couple of decades ago, the state of the wood used in ancient
+hearths was already considered in anthracological theory-building
+as a parameter inﬂuencing past ﬁrewood management systems in
+terms of human choices and behaviours, which in ﬁne affect our
+perception of past vegetation (Shackelton and Prins, 1992). More
+recent postulates on the implications of the use of dead and rotten
+wood by prehistoric groups also concern acquisition strategies and
+ry-Parisot, 1998, 2001,
+techniques and speciﬁc hearth functions (The
+ry-Parisot and Meignen, 2000; The
+ry-Parisot and
+2002a, 2002b; The
+Texier, 2006; Henry et al., 2009).
+4.3.1. State of the wood, fuel collecting strategies and
+palaeoecological reliability
+At a theoretical level, prehistoric ﬁrewood collecting strategies
+can be deﬁned in terms of cutting green wood or gathering dead
+ry-Parisot, 1998, 2001, 2002) and their modalities, such
+wood (The
+as a pronounced taxonomic choice or, on the contrary, the use of a
+
+334
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+broad spectrum of species (Henry et al., 2009). Observing fuel
+acquisition and use in real-life conditions nuances this general
+theoretical framework and illustrates how certain practices can be
+directly linked to environment and culture which play, at several
+levels, a signiﬁcant role in human decision-making. For instance,
+the relatively low biodiversity of the boreal forest and especially, of
+the open L. cajanderi (larch) woodland, is reﬂected in the limited
+ﬂoristic composition of Evenk hearths, but the latter can only be
+explained completely by the strong preference for larch shared by
+several Evenk groups (Lavrillier, 2007; Brandisauskas, 2007;
+Anikhovskij et al., 2012). In sum, we are in a situation of low
+biodiversity but with a biomass abundant enough to allow basing
+ﬁrewood management on a differential use of the state of the wood
+as a response to well-deﬁned needs.
+According to our ethno-experimental results, a healthy wood
+signature corresponds to dominant proportions of green wood, or
+testiﬁes to the capacity of humans to dry wood in optimal conditions, since standing dead wood collected in the forest showed
+higher alteration patterns. Therefore, a healthy signature allows
+highlighting the practice of woodcutting, which implies that effort
+was put into the acquisition of standing trees.
+In anthracology, this practice is traditionally opposed to wood
+gathering, which refers to the selection of dead wood, i.e. the
+“necromass” mostly represented by lying dead wood of small
+rycalibre, but also by fallen trees and standing dead wood (The
+ry-Parisot et al.,
+Parisot, 1998, 2001, 2002; Henry et al., 2009; The
+2011). Dead wood is considered appropriate for hunteregatherer
+short-term occupations since it is already seasoned and thus,
+directly useable in the hearth. The selection of available dead wood
+for immediate use may imply that the state of the wood is more
+important than the taxon and therefore, limits a choice of the
+ﬁrewood based on the species (which, by extension, may lead to a
+better palaeoecological reliability of the charcoal assemblage). This
+behaviour, close to what Shackelton and Prins (1992) deﬁned as
+“the principle of the least effort” (PLE), can be identiﬁed archaeologically by combining traditional anthracology with A.L. studies.
+The higher the Ai appears, the lower is the probability that sound
+wood was employed, which may be linked to high proportions of
+wood at an advanced stage of decay in the local environment,
+reﬂecting strategies focused on the acquisition of fallen dead wood.
+Fallen wood is easier to obtain without tools such as axes or adzes;
+however, it represents only a part of the whole necromass, which
+itself is less abundant than green wood. In other terms, greater
+rydistances have to be covered for acquiring dead wood (The
+Parisot and Meignen, 2000). This is corroborated by our ethnographic observations among Evenks, with green wood acquisition
+distances representing ¼ or less of the distances covered to harvest
+standing dead wood, whereas fallen dead wood represented only a
+very small part of the fuel since all of it was used on the ﬁrst days of
+occupation. Moreover, we already saw that fallen wood can become
+unavailable due to an important snow cover, which makes it easier
+for Evenks to harvest standing trees of small diameter with a small
+axe, a good knife or even manually, when they need to make a
+campﬁre while they are on herding or hunting expeditions (Henry
+et al., 2009; Lavrillier, pers. comm).
+These examples show how the identiﬁcation of the state of the
+wood provides some insights into acquisition techniques and distances, contributes to the formulation of hypotheses about the
+palaeoecological reliability of the charcoals and may even be
+complementary to seasonality studies.
+4.3.2. State of the wood and hearth type and function
+The preferred fuel of the Evenks is standing dead larch (Larix
+sp.), because it provides more heat than green wood. It is a good
+fuel for the stove, since it produces a reasonable amount of ash
+
+(Henry, 2011). This opinion changes radically according to the
+combustion feature (stove vs. open ﬁre) and its function (specialized vs. unspecialized). A greater variability of states and sometimes, of species, are used in open, outdoor campﬁres, since (i) log
+calibre and ash production don't matter and (ii) they have more
+general, or several successive functions. At the Evenk autumn
+camp, for instance, the main campﬁre was fed with healthy looking
+dead wood only when more heat needed to be obtained for cooking; otherwise it functioned basically as a samnin.
+On the other hand, specialized (i.e. mono-functional) outdoor
+ﬁres require speciﬁc fuels that ensure the success of the thermal
+treatment. Conifers, for instance, are absolutely not adapted to the
+smoking of ﬁsh (which was not performed during our stay) since
+their use results in a black colour and a bitter taste. In the same way,
+hilt
+e is the only adequate fuel for smoking hides. Its acquisition is an
+active process that can take up to ﬁve times longer than cutting
+standing wood, since wood at this stage of decay can be difﬁcult to
+ﬁnd in the local environment. In such contexts, it appears that it
+would be difﬁcult for a “random” dead wood collecting strategy to
+exceed Ais of 0.5; therefore, a higher Ai may indicate a deliberate
+use of rotten fuel for speciﬁc activities, as shown by a range of
+ethnographic studies. Indeed, several people all over boreal Siberia
+and northern America take advantage of the diminished combustion properties of rotten wood for smoke production. In northern
+environments dominated by conifers, spruce (Picea spp.), larch
+(Larix spp.) and/or pine (Pinus spp.) are burned rotten for hide
+smoking, but also for repelling mosquitoes (Osgood, 1936; Nelson,
+1986; Beyries, 1999, 2002, 2008; Alix and Brewster, 2004;
+Brandisauskas, 2007, 2010; Lavrillier, 2007; Henry et al., 2009;
+Anikhovskij et al., 2012). In more southern vegetation areas and/
+or other cultural contexts, they are used concomitantly with -or
+replaced by-other fuels (Binford, 1967; Skibo et al., 2004; Skibo and
+Fisher, 2009). Thanks to our method, it becomes possible to
+investigate archaeological testimony to this widespread phenomenon and to contribute to a better knowledge of the technical traditions linked to the use of ﬁre.
+Therefore, we propose that charcoal assemblages from coniferdominated environments with a very high Ai characteristic of
+crumbling, rotten wood, may in particular be investigated along
+with other archaeological evidence (shape of the hearth, burned
+artefacts, use-wear analyses) in order to formulate hypotheses
+regarding different hearth functions.
+5. Conclusion
+Ethnographic analogy helps us to understand in what ways
+ﬁrewood selection and hearth function are interconnected within
+given socio-economical contexts. They also broaden our research
+perspectives and experimental datasets by showing through concrete examples, in which all the parameters of ﬁrewood management systems are observable, how hearth function can be linked to
+site function and how these parameters can be revealed through
+archaeological charcoal analysis.
+In light of the coherence of the results obtained both on
+ethnographic and experimental material, the microscopic characterization of biological alteration of charcoal has contributed to the
+understanding of the relationship between macroscopic and
+microscopic alteration features on P. sylvestris and Larix.
+The alteration index, calculated from the proportions of altered
+charcoals and alteration levels per assemblage, allows us to
+formulate archaeological hypotheses concerning the macroscopic
+state of wood ante combustion. The perspective of being able to
+discuss the physical integrity of the wood used in ancient hearths is
+particularly promising for archaeological research, since it allows
+highlighting speciﬁc hearth functions, therefore contributing to the
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+identiﬁcation of site function. More generally, an advanced analysis
+of the fuel used in archaeological combustion structures contributes to their techno-functional characterization, which is fundamental in apprehending the technical motivations and limitations
+of past groups. It is complementary to ethnographic analogy, as
+both approaches can be combined to better understand the variability of past and present practices and avoid too narrow
+interpretations.
+Since not all species respond equally to fungal attacks, further
+studies will focus on other taxa such as different kinds of hardwoods or other conifers with different resistance to fungi.
+Acknowledgements
+This work was carried out in context of a Ph. D. Thesis at the
+CEPAM laboratory (UMR 7264 CNRS, Nice, France) and a postdoctoral fellowship funded by the University of Nice.
+The ethnoarchaeological ﬁeldwork in Siberia was funded by the
+French Ministry of Research, project ACI TTT “Adaptations biologiques et culturelles: le syst
+eme renne” (dir. S. Beyries, UMR 7264
+CNRS).
+SEM Photographs were taken at the CEMEF-Mines Paris-Tech
+laboratory (Valbonne, France).
+The authors are grateful to: E. Zavadskaya and A. Zabijako (State
+University of Amur Region, Russia), the Evenks interviewed in
+Selemd
+zinskij Rajon (Amur Region) and especially Raysa Nikiforova
+and Egor Struchkov, who allowed the sampling (and destruction!)
+of their hearths, S. Costamagno (CNRS UMR 5608 TRACES, France)
+and A. Lavrillier (University of Versailles, France). Thanks to A.
+Pokhlebkin and P. Anderson for the editing of the manuscript.
+References
+Alix, C., Brewster, K., 2004. Not all driftwood is created equal: wood use and value
+along the Yukon and Kuskowim Rivers, Alaska. Alaska J. Anthropol. 2 (1), 2e19.
+, E., Euba, I., Sole
+, A., 2009. Charcoal taphonomy: the study of the cell structure
+Allue
+and surface deformations of pinus sylvestris type for the understanding of
+formation processes of archaeological charcoal assemblages. J. Taphon. 7 (2e3),
+57e72.
+Anikhovskij, S.A., Voronkova, E.A., Zabiyako, A.P., Kobyzov, R.A., 2012. Evenki priamurja : olennaja tropa istorij i kultury. Amurskij gosudartsvennij Universitet,
+Centr po cokhraneniju istoriko-kulturnovo nacledija Amurskoj Oblasti,
+Blagoveschchensk.
+Asouti, E., Austin, P., 2005. Reconstructing woodland vegetation and its exploitation
+by past societies, based on the analysis and interpretation of archaeological
+wood charcoal macroremains. Environ. Archaeol. 10, 1e18.
+n, Y., 2004. La presencia de hongos e insectos xilo
+fagos en el carbo
+n
+Badal, E., Carrio
+ gico. Propuestas de interpretacio
+n. Avances en Arqueometría. Pubarqueolo
+diz.
+licaciones de la Universidad de C
+adiz, Ca
+Beyries, S., 1999. Ethnoarchaeology: a method of experimentation. Urgesch. Mater.
+14, 75e88.
+Beyries, S., 2002. Le travail du cuir chez les Tchouktches et les Athapaskans : imologiques. In: Beyries, S., Audouin-Rouzeau, F. (Eds.), Le
+plications ethno-arche
+histoire a
+ nos jours, XXIIe rencontres internationales
+travail du cuir de la pre
+ologie et d'histoire d'Antibes APDCA, Antibes, pp. 143e159.
+d'arche
+lisation du travail du cuir en ethnologie: proposition d'un
+Beyries, S., 2008. Mode
+me ouvert a
+ l'arche
+ologie. Anthropozoologica 43 (1), 9e42.
+syste
+Binford, L.R., 1967. Smudge pits and hide smoking: the use of analogy in archaeological reasoning. Am. Antiq. 32 (1), 1e12.
+Blanchette, R.A., 2000. A review of microbial deterioration found in archaeological
+wood from different environments. Int. Biodeterior. Biodegrad. 46, 189e204.
+Blanchette, R.A., Krueger, E.W., Haight, J.E., Akhtar, M., Akin, D.E., 1997. Cell wall
+alterations in loblolly pine wood decayed by the white rot fungus Cerioporiopsis
+subvermispora. J. Biotechnol. 53, 203e213.
+Braadbaart, F., Poole, I., 2008. Morphological, chemical and physical changes during
+charcoaliﬁcation of wood and its relevance to archaeological contexts.
+J. Archaeol. Sci. 35 (9), 2434e2445.
+Brandisauskas, D., 2007. Symbolism and ecological uses of ﬁre among OrochenEvenki. Sibirica 6, 95e109.
+Brandisauskas, D., 2010. Hide tanning and its use in the taiga: the case of OrochenEvenki reindeer herders and hunters of Zabaikalye (East Siberia). J. Ethnol.
+Folklor. 4 (2), 97e114.
+ la connaissance des paysages passe
+s:
+Chabal, L., 1994. Apport de l'anthracologie a
+performances et limites. Hist. mesure IX, 317e338.
+
+335
+
+^ts et socie
+te
+s en Languedoc (Ne
+olihique ﬁnal, Antiquite
+ tarChabal, L., 1997. Fore
+thode et pale
+ oe
+cologie. Documents d'arche
+ologie
+dive). L'anthracologie, me
+
+française63. Editions
+de la Maison des sciences de l'homme, Paris.
+ry-Parisot, I., 1999. L'Anthracologie. In:
+Chabal, L., Fabre, L., Terral, J.F., The
+re, A. (Ed.), La botanique. Errance, Paris, pp. 43e104.
+Ferdie
+rimentale de la conservation des charbons de
+Chrzavzez, J., 2013. Approche expe
+olithiques : Processus post-de
+positionnels, fragbois dans les gisements pale
+sentativite
+ des assemblages anthracologiques. PHD Unimentation et repre
+ de Nice Sophia Antipolis.
+versite
+ry-Parisot, I., Fiorucci, G., Terral, J.-F., Thibaut, B., 2014. Impact of
+Chrzavzez, J., The
+post-depositional processes on charcoal fragmentation and archaeobotanical
+implications: experimental approach combining charcoal analysis and biomechanics. J. Archaeol. Sci. 44, 30e42.
+trequin, A.-M., Pe
+trequin, P., 2007. La gestion du bois de feu: un
+Dufraisse, A., Pe
+cologiques. Approche ethnoarche
+ologique dans
+indicateur des contextes socio-e
+e indone
+sienne). In: Besse, M. (Ed.),
+les Hautes terres de Papua (Nouvelle Guine
+ te
+ s ne
+olithiques, des faits arche
+ologiques aux fonctionnements socioSocie
+conomiques. Actes du 27e colloque interre
+gional sur le Ne
+olithique (Neue
+^tel, octobre 2005). Cahiers d'Arche
+ologie Romande, Lausanne, pp. 115e126.
+cha
+Gur-Arieh, S., Mintz, E., Boaretto, E., Shahack-Gross, R., 2013. An ethnoarchaeological study of cooking installations in rural Uzbekistan: development
+of a new method for identiﬁcation of fuel sources. J. Archaeol. Sci. 40,
+4331e4347.
+Hakala, T.K., Maijala, P., Konn, J., Hatakka, A., 2004. Evaluation of novel wood-rotting
+polypores and corticioid fungi for the decay and biopulping of Norway spruce
+(Picea abies) wood. Enzyme Microb. Technol. 34, 255e263.
+oenvironnements et gestion du bois de feu au Me
+solithique
+Henry, A., 2011. Pale
+ologie et expe
+ridans le sud-ouest de la France: anthracologie, ethno-arche
+mentation (Ph. D. Thesis). University of Nice-Sophia Antipolis. http://tel.
+archives-ouvertes.fr/tel-00726927 (accessed 06.01.14.).
+ry-Parisot, I., Voronkova, E., 2009. La gestion du bois de feu en fore
+^t
+Henry, A., The
+ale: arche
+o-anthracologie et ethnographie (re
+gion de l'Amour, Sibe
+rie). In:
+bore
+ry-Parisot, I., Costamagno, S., Henry, A. (Eds.), Fuel Managment during the
+The
+Palaeolithic and Mesolithic Period. New Tools, New Interpretations. Proceedings
+of the XV World Congress (Lisbon, 4e9 September 2006). Archaeopress, Oxford,
+pp. 13e33.
+Ingold, T., 1980. Hunters pastoralists and ranchers: reindeer economies and their
+transformations. Cambridge studies in Social Anthropology. Cambridge University Press.
+Irbe, I., Andersons, B., Chirkova, J., Kallavus, U., Andersone, I., Faix, O., 2006. On the
+changes of pinewood (Pinus sylvestris L.) chemical composition and ultrastructure during the attack by brown-rot fungi Postia placenta and Coniophora
+puteana. Int. Biodeterior. Biodegrad. 57, 99e106.
+Joly, D., March, R., Marguerie, D., Yacobaccio, H., 2009. Gestion des combustibles dans
+ne ancien: croisement des
+la province de Jujuy (Puna, Argentine) depuis l'Holoce
+sultats ethnologiques et anthracologiques. In: The
+ry-Parisot, I., Costamagno, S.,
+re
+Henry, A. (Eds.), Fuel Managment during the Palaeolithic and Mesolithic Period.
+New Tools, New Interpretations. Proceedings of the XV World Congress (Lisbon,
+4e9 September 2006). Archaeopress, Oxford, pp. 39e56.
+Lancelotti, C., Madella, M., 2012. The ‘invisible’ product: developing markers for
+identifying dung in archaeological contexts. J. Archaeol. Sci. 39, 953e963.
+
+dentaires chez les Evenks
+Lavrillier, A., 2005. Nomadisme et adaptations se
+de
+rie postsovie
+tique : « jouer » pour vivre avec et sans chamanes. Ph D. thesis.
+Sibe
+EPHE, Paris.
+ long terme chez les Evenks e
+leveurs
+Lavrillier, A., 2007. Gestion duelle de l'espace a
+rences ou cohe
+rences des
+de rennes et chasseurs des monts Stanovoï : interfe
+es. In: Beyries, S., Vate
+, V. (Eds.), Les civilisations du
+zones sauvages et humanise
+ologiques et
+renne d'hier et d'aujourd'hui : approches ethnologiques, arche
+anthropologiques, Actes des rencontres d'Antibes, 19e21 octobre 2006).
+APDCA, Antibes, pp. 65e88.
+Lee, K.W., Wi, S.G., Singh, A.P., Kim, Y.S., 2004. Micromorphological characteristics of
+decayed wood and laccase produced by the brown-rot fungus Coniophora
+puteana. J. Wood Sci. 50 (3), 281e284.
+Levin, L., Villalba, L., Da Rea, V., Forchiassin, F., Papinutti, L., 2007. Comparative studies
+of loblolly pine biodegradation and enzyme production by Argentinean white rot
+fungi focused on biopulping processes. Process Biochem. 42, 995e1002.
+Ludemann, T., Nelle, O., 2002. Die W€
+alder am Schauinsland und ihre Nutzung durch
+€hlerei. In: Schriftenreihe Freiburger Forstliche Forschung, Band
+Bergbau und Ko
+15. Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg Abteilung
+Botanik und Standortskunde, Freiburg im Breisgau.
+Mallol, C., Marlowe, F.W., Wood, B.M., Porter, C.C., 2007. Earth, wind and ﬁre:
+ethnoarchaeological signals of Hadza ﬁres. J. Archaeol. Sci. 34 (12),
+2035e2052.
+Marguerie, D., Hunot, J.-Y., 2007. Charcoal analysis and dendrology: data from
+archaeological sites in north-western France. J. Archaeol. Sci. 34, 1417e1433.
+Moskal-del Hoyo, M., Wachowiak, M., Blanchette, R., 2010. Preservation of fungi in
+archaeological charcoal. J. Archaeol. Sci. 37 (9), 2106e2116.
+Moutarde, F., 2007. La madera y los carbones como testigos del paleo-ambiente, la
+economía vegetal y el mundo ritual del Perú precolombino. Arqueol. soc. 18,
+11e36.
+Nelson, R.K., 1986. Hunters of the Northern Forest, second ed. University of Chicago
+Press.
+ n en el Norte de Grecia del Tardiglaciar hasta el
+Ntinou, M., 2002. La Paleovegetacio
+Atl
+antico: formaciones vegetales, recursos y usos. In: BAR International Series
+1038. Archaeopress, Oxford.
+
+336
+
+A. Henry, I. Thery-Parisot / Journal of Archaeological Science 52 (2014) 321e336
+
+Ntinou, M., Badal, E., Heinz, C., 1999. Resultados preliminares del proyecto etnoar gico de Sarakini (Tracia, Grecia). Comparacio
+n con la antracología prequeolo
+rica. In: Colectivo. Geoarqueologia i Quaternari litoral. Memorial M.P.
+histo
+Fumanal. Universidad de Valencia, Departamento de Geografía, pp. 179e191.
+Osgood, C., 1936. Contributions to the Ethnography of the Kutchin. Department of
+Anthropology Yale University, New Haven.
+, E., 2011. The ethnoarchaeology of ﬁrewood managePicornell, L., Asouti, E., Allue
+ment in the Fang villages of Equatorial Guinea, central Africa: implications for
+the interpretation of wood fuel remains from archaeological sites. J. Anthropol.
+Archaeol. 30 (3), 3750 (3).
+Prior, J., Gasson, P., 1993. Anatomical changes on charring six African hardwoods.
+IAWA J. 14, 77e86.
+Schwarze, F.W.M.R., 2007. Wood decay under the microscope. Fungal Biol. Rev. 21
+(4), 133e170.
+€rner, A., Schulze, E.-D., 2006. Atlas of Woody Plant Stems.
+Schweingruber, F.H., Bo
+Evolution, Structure, and Environmental Modiﬁcations. Springer, BerlinHeidelberg.
+Shackelton, C., Prins, A., 1992. Charcoal analysis and the principle of least effort: a
+conceptual model. J. Archaeol. Sci. 19 (6), 631e637.
+Skibo, J.M., Terrance, J.M., Drake, E.C., Franzen, J.G., 2004. Gete Odena: Grand Isand's
+post-contact occupation at Williams Landing. Midcont. J. Archaeol. 29 (2),
+167e189.
+Skibo, J.M., Fisher, M.B., 2009. People and Things. A Behavioural Approach to Material Culture. Springer, New York.
+ry-Parisot, I., 1998. Economie des combustibles et pale
+ oe
+cologie en contexte
+The
+riglaciaire, Pale
+olithique moyen et supe
+rieur du sud de la France.
+glaciaire et pe
+rimentation, Taphonomie (PhD thesis), Paris I Panthe
+on
+Anthracologie, Expe
+Sorbonne University.
+ry-Parisot, I., 2001. Economie des combustibles au Pale
+olithique. Dossier de
+The
+ologique 20. CNRS Editions, Paris.
+Documentation Arche
+ry-Parisot, I., 2002a. The gathering of ﬁrewood during Palaeolithic time. In:
+The
+bault, S. (Ed.), Charcoal Analyis, Methodological Approaches, Palaeoecological
+Thie
+Results and Wood Uses. Proceedings of the Second International Meeting of
+Anthracology, Paris, September 2000, BAR International Series,1063, pp. 243e250.
+ry-Parisot, I., 2002b. Fuel management (bone and wood) during the lower
+The
+urignacian in the Pataud rock shelter (lower Palaeolithic, les Eyzies de
+
+Tayac, Dordogne, France): contribution of experimentation and anthracoanalysis to the study of the socio-economic behaviour. J. Archaeol. Sci.
+29, 1415e1421.
+ry-Parisot, I., Meignen, L., 2000. Economie des combustibles (bois et lignite)
+The
+rien des Canalettes. Gall. Pre
+hist. 42, 45e55.
+dans l'abri mouste
+ry-Parisot, I., Texier, P.J., 2006. L'utilisation du bois mort dans le site mouste
+rien
+The
+trique des charde la Combette (Vaucluse). Apport d'une approche morphome
+ la de
+ﬁnition des fonctions de site au Pale
+olithique. Bull. Soc.
+bons de bois a
+hist. Fr. 103 (3), 453e463.
+Pre
+ry-Parisot, I., Chabal, l, 2010. Anthracology and taphonomy, from wood gathThe
+ering to charcoal analysis. A review of the taphonomic processes modifying
+charcoal assemblages. Palaeogeogr. Palaeoclimatol. Palaeoecol. 291, 142e153.
+ry-Parisot, I., dufraisse, A., Chrzazvzez, J., Henry, A., Grenouillet-Paradis, S., 2011.
+The
+Charcoal analysis and wood diameter: inductive and deductive methodological
+approaches for the study of ﬁrewood collecting practices. Sagvntum Extra 11,
+31e32.
+ry-Parisot, I., Henry, A., 2012. Seasoned or green? A new method to identify the
+The
+use of green wood for fuel among archaeological charcoal. J. Archaeol. Sci. 39
+(2), 381e388.
+ naturelle visTriboulot, M.-C., 2002. Le choix des essences de bois : la durabilite
+-vis des agents biologiques de de
+gradation. In: Alix, C., Guiot, H. (Eds.),
+a
+me : Caracte
+ristiques des bois de menuiserie et
+Table ronde : au ﬁl du bois, the
+mes transversaux ArScAn, III, Paris.
+du quotidien, pp. 188e195. Cahiers des the
+Tsartsidou, G., Lev-Yadun, S., Efstratiou, N., Weiner, S., 2008. Ethnoarchaeological
+study of phytolith assemblages from an agropastoral village in Northern Greece
+(Sarakini): development and application of a Phytolith Difference Index.
+J. Archaeol. Sci. 35, 600e613.
+Volk, T.J., 2000. Polypore primer: an introduction to the characters used to identify
+poroid Wood decay fungi. McIlvainea 14 (2), 74e82.
+~ a, L., Pen
+~ a-Chocarro, L., Iban
+~ ez Este
+vez, J.J., 2003. Ethnoarchaeology in
+Zapata Pen
+the Moroccan Jebala (Western Rif): wood and dung as fuel. In: Neumann, K.,
+Butler, A., Kahlheber, S. (Eds.), Africa Praehistorica. Heinrich-Barth-Institut,
+€ln, pp. 163e175.
+Ko
+Zicherman, J.B., Williamson, R.B., 1981. Microstructure of wood char. Wood Sci.
+Technol. 15, 237e249.
+
+

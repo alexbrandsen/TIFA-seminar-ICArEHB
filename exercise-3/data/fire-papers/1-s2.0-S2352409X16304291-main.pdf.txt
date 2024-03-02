@@ -1,0 +1,1334 @@
+Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science: Reports
+journal homepage: www.elsevier.com/locate/jasrep
+
+Landscape dynamics and human impact on high-mountain woodlands in
+the western Spanish Central System during the last three millennia
+José Antonio López-Sáez a,⁎, Daniel Abel-Schaad a, Sandra Robles-López a, Sebastián Pérez-Díaz a,
+Francisca Alba-Sánchez b, Diego Nieto-Lugilde b
+a
+b
+
+G.I. Arqueobiología, Instituto de Historia (CCHS), C.S.I.C., Albasanz 26-28, 28037 Madrid, Spain
+Departamento de Botánica, Facultad de Ciencias, Universidad de Granada, 18071 Granada, Spain
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 17 May 2016
+Received in revised form 27 July 2016
+Accepted 27 July 2016
+Available online 30 July 2016
+Keywords:
+Pollen analysis
+Forest clearance
+Anthropogenic dynamics
+Late Holocene
+Gredos range
+Central Iberia
+
+a b s t r a c t
+A multi-proxy palaeoenvironmental study (pollen, non-pollen palynomorphs, charcoal particles) of a mire, located in the western Spanish Central System (Gredos range), was undertaken to trace historic human activities related to woodland clearance and past land-uses at high altitudes during the last three millennia. The results of
+this study constrained by 4 AMS radiocarbon measurements are combined with archaeological data and compared with similar research carried out at the same altitude in mountains of central Iberia. The pollen data indicate that high-mountain areas were dominated by birch and pine woodlands until c. 2350 years. From this date
+on a strong forest decline is recorded during the Late Iron Age and a deeper one c. 1500 years ago in the Visigothic
+period, which may be related to increasing grazing activities and/or the occurrence of anthropogenic ﬁres. Cereals
+and faba beans were cultivated in the surrounding valley since c. 2900 cal BP, while chestnut, walnut and olive
+tree are documented mainly from the Roman period onwards.
+© 2016 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+Since 2014, an integrated palaeoenvironmental and archaeological
+research program has been developed in the Spanish Central System
+using sedimentary records preserved in bogs and archaeological sites,
+with the aim of studying the long-term landscape shaping and the
+socio-ecological history of this high-mountain environment. Its main
+focus was on understanding human exploitation of natural resources
+ant its environmental consequences (López-Sáez et al., 2014;
+Blanco-González et al., 2015). The current landscape of this territory is
+characterized by a remarkable variability, closely related to a pronounced spatial heterogeneity in terms of geomorphology and vegetation. Palaeoenvironmental data obtained from palynological analyses
+and megafossil evidences, excavations and radiocarbon dating suggest
+that such landscape variability would be also the expression of different
+land-use patterns developed over time (Rubiales et al., 2012;
+López-Sáez et al., 2014; Rubiales and Génova, 2015).
+First evidences of human impact in the whole of this massif are recorded c. 5000 cal BP in lowlands, with traces of agriculture in the
+Gredos and Guadarrama ranges, although grazing activities were likely
+
+⁎ Corresponding author.
+E-mail addresses: joseantonio.lopez@cchs.csic.es (J.A. López-Sáez),
+dabel222@hotmail.com (D. Abel-Schaad), sandra.robles@cchs.csic.es (S. Robles-López),
+sebastian.perez@cchs.csic.es (S. Pérez-Díaz), falba@ugr.es (F. Alba-Sánchez), dinilu@ugr.es
+(D. Nieto-Lugilde).
+
+http://dx.doi.org/10.1016/j.jasrep.2016.07.027
+2352-409X/© 2016 Elsevier Ltd. All rights reserved.
+
+developed much earlier in hinglands (Fabián et al., 2006; López-Sáez
+et al., 2014). Subsequently, the use of ﬁre, livestock grazing and
+cropping during the Late Holocene have been increasingly recognized
+as key drivers in the formation of present cultural landscapes (Balée,
+2006; Pausas and Keeley, 2009; Mercuri et al., 2010; Walsh, 2014). An
+overall decline of forests during the Late Holocene has been reported
+in most of the previous studies conducted in the Spanish Central System, with distinct patterns according to each range (Génova et al.,
+2009; López-Sáez et al., 2014). Pine forests would have dominated on
+high-mountain landscapes during the Early-Middle Holocene in the
+Gredos range (Rubiales et al., 2012), with a greater presence of birch
+westward, speciﬁcally in the Béjar range (Abel-Schaad and LópezSáez, 2013). Currently, both of them are found on isolated stands with
+an uncertain future (Abel-Schaad et al., 2014b).
+Long-term multi-proxy studies have been conducted in mountainous regions of central Spain (e.g., Peñalba et al., 1997; Franco-Múgica
+et al., 1998; Gil-García et al., 2002; López-Merino et al., 2008;
+Blanco-González and López-Sáez, 2013; López-Sáez et al., 2014). However, very few multidisciplinary approaches have been applied to the
+western Spanish Central System area (Abel-Schaad et al., 2009b;
+Abel-Schaad and López-Sáez, 2013; Morales-Molino et al., 2013;
+Silva-Sánchez et al., 2016), especially in terms of elucidating the organization and development of historical societies and their impact on highmountain environments. In the whole of the Spanish Central System,
+paleoenvironmental research related to the anthropic dynamics during
+the last three thousand years, has focused mainly on i) mining activities
+
+204
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+in the Late Iron Age and Roman times and pinewoods deforestation
+probably due to the use of timber for construction or as fuel
+(Franco-Múgica et al., 1998, 2001; Ruiz-Zapata et al., 2006;
+Abel-Schaad and López-Sáez, 2013; Morales-Molino et al., 2013); ii)
+the impact of grazing activities and ﬁre events on high-mountain
+birch and pine forests through mountain passes of the medieval transhumance (Franco-Múgica et al., 1997; Dorado et al., 2001;
+Abel-Schaad et al., 2009a,b; López-Merino et al., 2009; López-Sáez et
+al., 2009b, 2016a; Rubiales et al., 2007, 2012; Silva-Sánchez et al.,
+2016); iii) agricultural practices (faba bean, rye and other cereals) on
+both uplands and lowlands (Currás et al., 2012; Abel-Schaad and
+López-Sáez, 2013); iv) selective exploitation of different resources on
+Maritime pine (Pinus pinaster) and chestnut tree (Castanea sativa) forests (López-Sáez et al., 1996, 2010b, 2016b; Abel-Schaad et al.,
+2014a); and, ﬁnally, v) settlement patterns against climate variability
+(López-Sáez and Blanco-González, 2005; Blanco-González et al., 2009;
+López-Sáez et al., 2009a; Blanco-González and López-Sáez, 2013).
+Former multiproxy palaeoenvironmental studies have indeed
+proved to be useful to characterize land-use variability in high-mountain environments at a regional scale. Nevertheless, the micro-regional
+scale within a single valley remains a largely unexplored research ﬁeld
+(Ejarque et al., 2010). This is especially remarkable in the Spanish Central System regarding rough, wild and isolated landscapes, far from prehistorical archaeological sites, Roman villae or mining areas, rural and
+pastoral medieval settlements, where no data are known.
+
+We present a record of the last c. 3000 years of landscape change
+through the pollen study of a peat core sampled in El Redondo (Cáceres,
+Spain; Fig. 1), a mire located in an isolated and remote area in the western Gredos range (Jerte valley). In order to redress this research gap and
+develop a complete picture of the complexity of human impacts on rugged and isolated high-mountain landscapes, we synthesize these new
+pollen data with other studies performed on the Spanish Central System. The speciﬁc aims of this study were i) to identify different human
+activities, ii) to evaluate the strategies followed on the resources at different cultural periods, and iii) to describe the high-mountain landscape
+response to human disturbances on a microregional scale.
+2. Study area
+The Gredos range is located at the western sector of the Spanish Central System, showing the highest altitudes (N2000 m a.s.l.) of the whole
+of this massif, which separates the basins of the Douro and Tagus rivers.
+This range is a chain of sunken and elevated blocks of granitic and metamorphic lithology, separated by intramontane valleys or troughs which
+have traditionally acted as natural corridors and the more suitable location for permanent settlements. The Jerte valley, declared of cultural interest since 1973, follows a NE-SW orientation and is characterized by a
+rough relief and a pronounced altitudinal range from 400 to
+2405 m a.s.l. (Pedraza, 1994). Given its location in the southern slopes
+of the western Gredos range, the climate of the region is distinctively
+
+Fig. 1. Location of the study site (black star) in the western Gredos range (Spanish Central System). Pollen records cited in the text are shown in the lower right corner: 1, Peña Negra; 2,
+Navamuño; 3, Cuerpo de Hombre; 4, Presa del Duque; 5, El Trampal; 6, La Panera; 7, Hoyos del Espino. Late Bronze Age (red circles), Early Iron Age (blue circle) and Late Iron Age (yellow
+circles) sites.
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+inﬂuenced by both Mediterranean and oceanic climatic conditions
+(Devesa, 1995). A mean annual rainfall of 1452 mm and a mean annual
+temperature of 12.9 °C have been recorded at 920 m a.s.l. (Tornavacas
+weather station).
+This micro-regional study will focus on the high altitudinal spaces of
+the Jerte valley. The study area (Fig. 1) is included in the Natural Reserve
+“Gorge de los Inﬁernos”, which was declared in 1994 under the geological, botanical, faunal and cultural values it contains. Several tree species
+found here are considered as climate relicts (Costa-Tenorio et al., 1997;
+Abel-Schaad et al., 2014b), like birch (Betula alba) or yew (Taxus
+baccata). Fruit farming based on cherry and sweet chesnut, livestock
+husbandry, hunting on Iberian wild goats, forestry and tourism are the
+basic resources of the local economy. The El Redondo mire is located
+in the western sector of the Gredos range (40° 13′ 17″ N; 5° 39′ 25″
+W; Fig. 1) in the municipality of Tornavacas (Cáceres), within the
+oromediterranean belt (1765 m a.s.l.). It is a seasonally waterlogged
+grassland which ﬁlls the inside of an ancient glacier niche, whose outlet
+was blocked by the lateral moraine of the currently extinct main glacier
+in the Gorge La Serrá (Muñoz-Barco and Martínez-Flores, 2005). The
+current vegetation at this altitude consists mainly of broom communities with Cytisus oromediterraneus and Genista cinerascens and, to a lesser extent, heathlands of Erica australis (Fig. 2). At higher altitudes, up to
+the top of the mountains, pasturelands and rocks are home to a large
+number of endemic and endangered species (Peinado-Lorca and
+Rivas-Martínez, 1987). Below, Scots pine (Pinus sylvestris) plantations
+and supramediterranean oak forests of Quercus pyrenaica grow, while
+signiﬁcant areas of chesnut groves (Castanea sativa) and especially cherry orchards (Prunus avium) occupy lower mountain slopes on the
+mesomediterranean belt. Riparian woodlands are mainly made up by
+Alnus glutinosa, Salix atrocinerea and Sorbus aucuparia. Vegetation on
+the mire is composed by species such as Carex nigra, C. echinata, Erica
+tetralix, Genista anglica, Calluna vulgaris, Potentilla erecta, Drosera
+rotundifolia and Sphagnum sp.
+3. Materials and methods
+3.1. Sampling and chronology
+A 150 cm-deep core was collected in September 2010 using a Russian peat corer (50 cm long and 5 cm in diameter). Peat sections were
+placed in PVC tubes, protected in plastic guttering and stored under
+cold conditions (4 °C) prior to laboratory sub-sampling and analysis.
+The core was sectioned into continuous 2 cm-thick slices, except for
+
+205
+
+Table 1
+AMS-radiocarbon data with 2σ range of calibration from El Redondo mire.
+Laboratory code
+
+Depth (cm)
+
+AMS 14C age BP
+
+Age cal BP
+
+Mean Age cal BP
+
+Poz-61979
+Poz-61981
+Poz-61982
+Poz-61983
+
+45
+80
+120
+149
+
+765 ± 30
+1350 ± 30
+2600 ± 30
+2730 ± 30
+
+731–668
+1312–1186
+2772–2714
+2877–2762
+
+694
+1285
+2745
+2820
+
+the upper 50 cm sampled every 5 cm. The core stratigraphy consists of
+two parts: I (150–78 cm), light brown peat rich in mineral matter
+(sands and gravels) with three dark brown layers with some sands
+and silts (140–130, 125–111, 100–78 cm); II (78–0 cm), dark brown
+moss peat with decomposed Sphagnum remains.
+Four bulk organic sediment samples were 14C dated using AMS technique. The AMS dating was conducted at the Poznań Radiocarbon Laboratory (Poland). The dates were calibrated using CALIB 7.1 with the
+IntCal13 curve (Reimer et al., 2013) (Table 1). An age-depth model
+was produced using Clam 2.2 software (Blaauw, 2010). The best ﬁt
+was obtained applying a smoothing spline to the available radiocarbon
+dates. Conﬁdence intervals of the calibrations and the age-depth
+model were calculated at 95% (2σ) with 1000 iterations. According to
+the model, the base of the 150 cm core dates to the local Late Bronze
+Age (c. 3000 cal BP) and the sequence extends up to the present day
+without any sedimentary hiatus recorded.
+3.2. Pollen analysis
+Pollen analysis was carried out on 60 sub-samples of 1 cm3 along the
+core length. All samples were treated chemically (HCl, KOH, HF) following the standard procedures described by Moore et al. (1991), using
+Thoulet solution for densimetric extraction of pollen and non-pollen
+microfossils (Goeury and de Beaulieu, 1979), although acetolysis was
+not carried out to allow the identiﬁcation of any contamination by modern pollen. Macrofossils were not discerned throughout the core.
+Palynomorphs were identiﬁed at 400 × and 1000 × magniﬁcation by
+the use of the reference collection of the Institute of History of the
+CSIC-Madrid, as well as identiﬁcation keys and photo atlases (Moore
+et al., 1991; Reille, 1999; van Geel, 2001; Beug, 2004; Cugny et al.,
+2010). Vicia faba was palynologically discriminated according to
+Hidalgo and Fernández (1996) and Pinus pinaster and Quercus suber pollen differentiation followed Carrión et al. (2000a,b). Pollen concentration (grains cm− 3) was estimated by adding a Lycopodium tablet to
+
+Fig. 2. A view of the Redondo mire.
+
+206
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+each sample (Stockmarr, 1971), and these values were divided by deposition time (year cm−1) to calculate pollen accumulation rate (PAR;
+grains cm−2 year−1). Pollen counts of up to 500 grains total land pollen
+per sample were identiﬁed and counted. Pollen of aquatic or wetland
+plants as well as spores and non-pollen palynomorphs (NPP) were excluded from the pollen sum. The pollen and summary diagrams (Figs.
+3–5) have been plotted against age using TGview (Grimm, 2004). To establish the zonation of the pollen sequence, we tested several divisive
+and agglomerative methods with the program IBM SPSS Statistics 21.
+Based on the ecological meaning of the obtained zones, eight local pollen assemblage zones (LPAZ-1 to LPAZ-8) were constructed on the basis
+of agglomerative constrained cluster analysis of incremental sum of
+squares (Coniss) with square root transformed percentage data
+(Grimm, 1987). The number of statistically signiﬁcant zones was determined using the broken-stick model (Bennett, 1996).
+
+3.4. Statistical analysis
+We processed our data (fossil pollen spectra) by multivariate analyses to obtain more information about their structure. Ordination by
+principal components analysis (PCA) was performed using the C2 1.5
+software (Juggins, 2007), as a linear interpretation method for the fossil
+dataset since a previously detrended canonical correspondence analysis
+(DCCA) pointed to a linear response of species data to environmental
+gradients (ter Braak and Prentice, 1988). Samples were square-root
+transformed for a better comparability. Analyses were processed with
+all pollen and non-pollen palynomorph taxa (71 types) but only those
+with over 2% in each sample were used for PCA and DCCA. According
+to the zonation obtained by Coniss, samples were classiﬁed into groups
+(cultural periods) and expressed using different symbols (Fig. 6). In the
+PCA scatter plot, taxa are shown as distance biplot arrows, and the direction of the arrow indicates the direction in which the values of the corresponding taxa increase.
+
+3.3. Charcoal analysis
+Charcoal debris was counted under microscope along the identiﬁcation of pollen and classiﬁed into two size classes (Vannière et al., 2008),
+namely N125 and b 125 μm, indicating local and regional ﬁres, respectively (Whitlock and Larsen, 2001). Both are shown (Fig. 5) in spite of
+their strong correlation (Tinner and Hu, 2003). Charcoal accumulation
+rate (CHAR) was calculated by sedimentation rate (cm year−1) and is
+expressed in particles cm− 2 year− 1 (Long and Whitlock, 2002). It is
+noted that the pre-treatment process can damage or split original
+large charcoal debris into smaller pieces. Yet, since all samples were
+processed with the same procedure, we assume that this systematic
+bias was uniform across samples and therefore did not inﬂuence the indicated temporal variation of charcoal abundance. Previous studies
+comparing the sieving charcoal series versus the pollen-slide charcoal
+series showed that both of them display a similar pattern (Carcaillet et
+al., 2001; Yin et al., 2016).
+
+4. Results
+4.1. Pollen, NPPs and CHARs
+A total of 71 pollen, spores and non-pollen palynomorph types were
+identiﬁed. The results of identiﬁcation and counting are presented as
+percentage diagrams (Figs. 3–4). Fig. 4 shows both microscopic and
+macroscopic CHARs and PAR related to selected pollen and NPP percentage curves. The terms ‘local’ (0–20 m), ‘extra-local’ (20 m–2 km)
+and ‘regional’ (2–200 km) used in the text refer to different pollen
+source areas according to Prentice (1985). Local pollen includes wetland
+plants growing on or in direct connection with the studied mire (Fig. 2).
+Regional pollen component is here considered to come from the Jerte
+valley above 400 m a.s.l. Most of the common trees between 800 and
+1200 m a.s.l. (i.e. Pinus pinaster and Quercus pyrenaica) also occur at
+
+Fig. 3. Percentage pollen diagram of El Redondo mire (woody vegetation) plotted against age. The black silhouettes show the percentage curves of the taxa, the grey silhouettes show the
+×5 exaggeration curves. Dots represent percentages below 0.5%.
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+Fig. 4. Percentage pollen diagram of El Redondo mire (herbs, hygrophytic taxa, ferns and non-pollen palynomorphs) plotted against age. The black silhouettes show the percentage curves of the taxa, the grey silhouettes show the ×5 exaggeration
+curves. Dots represent percentages below 0.5%.
+
+207
+
+208
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+Fig. 5. Charcoal accumulation rates (CHARs), pollen accumulation rate (PAR) and selected pollen and NPP percentages plotted against age (cal BP) and climatic events from El Redondo mire.
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+209
+
+Fig. 6. PCA biplot from El Redondo mire showing ordination of samples and pollen taxa. Each sample is represented by its depth (cm) and the cultural period it belongs. Only factor loadings
+for the most signiﬁcant pollen types and NPPs (having at least a 25% of its variance associated to one of the factors) are represented.
+
+lower altitude, but it can be assumed that a stronger pollen signal will
+arrive from within the region. In the pollen diagram (Fig. 3) trees and
+shrub taxa are grouped according to their modern distribution: highland taxa are considered as local and extra-local and lowland taxa are
+considered regional ones. Changes in the pollen values of Alnus,
+Castanea, Corylus, Fraxinus, Juglans, Olea, Pinus pinaster, Pinus pinea, evergreen and deciduous Quercus are assumed to be mainly from regional
+origin. Herbs and NPPs were also classiﬁed according their ecological afﬁnities (Fig. 4). The percentage pollen diagrams can be divided into
+eight zones (LPAZ).
+4.1.1. LPAZ-1: Late Bronze Age (150–138 cm; c. 3015–2800 cal BP)
+This zone records high percentages of arboreal pollen (49–58%),
+mainly composed of Pinus sylvestris (17–28%) and Betula (15–25%),
+with the continuous presence of Alnus, Pinus pinaster, P. pinea and
+both evergreen and deciduous Quercus (4–10%). Other mesophytes
+such as Salix, Carpinus betulus, Corylus and Fraxinus as well as Taxus
+are also present, although with low values. The pollen proportion of
+Pinus pinaster, P. pinea, evergreen and deciduous Quercus can be attributed to long distance (‘regional’) transport of the pollen grains from
+lowland areas (López-Sáez et al., 2010a, 2015). Shrubs are abundant
+(6–10%), with Calluna vulgaris, Erica arborea, Cytisus/Genista and
+Juniperus being the most important taxa from highlands and Cistus
+ladanifer and Prunus in lowlands (Fig. 3). Herbaceous pollen is between
+32 and 43% and PAR moderate (20–277 × 105 grains cm− 2 year−1)
+(Figs. 4-5). Poaceae (21–28%) is the main herbaceous component. Anthropogenic nitrophilous (mainly Anthemis, Aster and Erodium),
+anthropozoogenic perennial (mainly Apiaceae, Caryophyllaceae,
+Fabaceae) and anthropozoogenic nitrophilous herbs (Plantago
+lanceolata, Rumex acetosella) are also present (Fig. 4). Cerealia (0.2% c.
+2900 cal BP) and Vicia faba (from 0.2% c. 2935 cal BP to 1.7% c. 2800 cal
+BP) display low values and a discontinuous record. Hygrophytic taxa
+
+(Cyperaceae) and Pteridium aquilinum are represented by low percentages (b5%). Coprophilous fungi (Podospora, Chaetomium, Sordaria,
+Sporormiella) show a limited (b2%) and sometimes discontinuous presence. Macrocharcoal particles are present in low concentrations (7–
+71 particles cm−2 year−1) whereas microcharcoals reach a maximum
+(3480 particles cm−2 year−1) c. 2935 cal BP coinciding with the ﬁrst
+bean crops (Fig. 5).
+4.1.2. LPAZ-2: Beginning of the Early Iron Age (138–125 cm; c. 2800–
+2520 cal BP)
+This zone shows similar percentages of Betula and Pinus sylvestris as
+the previous one with a maximum for birch (33%) that matches a minimum for pine (10%) c. 2600 cal BP (Fig. 3). The remaining arboreal pollen taxa keep similar percentages to those of the previous LPAZ-1 zone,
+except Carpinus betulus and Taxus, which disappear, and Tilia and
+Quercus suber, which appear for the ﬁrst time (0.2%). Most of shrubs,
+herbs and ferns maintain a continuous and signiﬁcant presence
+throughout the zone. Among the herbs, only Poaceae shows high values
+(22–32%). Cerealia (0–0.4%) and Vicia faba (0–0.5%) are documented
+again (Fig. 4). Coprophilous fungi are continuously present but also
+with low percentages (b1%). This zone is also characterized by a rapid
+accumulation of charcoal c. 2770 cal BP (Fig. 5), the average inﬂux for
+macrocharcoal reaching 100 particles cm− 2 year− 1 while
+microcharcoal inﬂux was 6210 particles cm−2 year−1. PAR oscillates between 29 and 387 × 105 grains cm− 2 year−1.
+4.1.3. LPAZ-3: Early to Late Iron Age (125–100 cm; c. 2520–2000 cal BP)
+In this zone, signiﬁcant oscillations of Pinus sylvestris are noticed,
+reaching a maximum of 33% c. 2395 cal BP (Fig. 3) and showing a decreasing pattern (b10%) during the Late Iron Age (Fig. 5). Betula values
+progressively decreases from 13 to 21% during the Early Iron Age to 1–
+10% in the Late Iron Age. These events are associated with maximum
+
+210
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+values of pastoral indicators (Merendera, Rumex acetosella, Plantago
+lanceolata), Cryptogramma and coprophilous fungi (Figs. 4-5). Carpinus
+betulus reappears (0.4%) c. 2315 cal BP. Pinus pinaster and P. pinea slightly decreases at the top of LPAZ-3, while deciduous Quercus (8%) and
+Cytisus/Genista increase (3–5%). Anthropogenic nitrophilous (Centaurea
+nigra, Cichorioideae, Galium) and anthropozoogenic perennial (Allium)
+herbs increase slightly (Fig. 4). Cerealia is documented sporadically
+(0.5%) at the bottom of LPAZ-3 c. 2435 cal BP although more or
+less continuously during the Late Iron Age (0.2–0.4%). Vicia faba maintains a continuous presence (0.2–0.9%). Coprophilous fungi show
+a greater presence in LPAZ-3 (especially Podospora and Sordaria),
+while HdV-18 sharply increases suggesting wet local conditions
+(Mighall et al., 2006). PAR progressively decreases between 237 and
+111 × 105 grains cm− 2 year−1. Both micro and macrocharcoal particles
+are present in middle and low concentrations (708–2892 and 9–56
+particles cm−2 yr−1, respectively) (Fig. 5).
+4.1.4. LPAZ-4: Roman period (100–76 cm; c. 2000–1500 cal BP)
+This zone shows similar percentages of Pinus sylvestris as the top of
+the previous one with one maximum (17.5%) c. 1650 cal BP and a subsequent downward trend until 1500 cal BP (5.7%); while Betula reaches
+9–10% and maintains constant values, except at the end (c. 1525 cal BP)
+when it drops sharply (Fig. 3). Carpinus betulus and Taxus are sporadically (0.2%) documented c. 1985 and 1900 cal BP respectively, while other
+arboreal taxa (Alnus, Corylus, Fraxinus, evergreen and deciduous
+Quercus) keep similar percentages to those of the previous LPAZ-3
+zone, except Pinus pinaster and Salix which decrease (b 0.3%). Castanea
+is continuously present in this zone with an increasing trend (from 0.5
+to 4%), as well as Olea, which appears for the ﬁrst time c. 1815 cal BP.
+Cytisus/Genista, Prunus and Calluna vulgaris decline, and Erica arborea
+and Juniperus increase (Fig. 3). Most of herbs maintain a continuous
+presence throughout LPAZ-4, except Anthemis, that reappears, and Centaurea nigra, which disappears, although only Poaceae (43–48%) keeps
+on showing high values (Fig. 4). Cerealia reappears c. 1860 cal BP
+(0.5%) maintaining similar values until c. 1500 cal BP. Vicia faba holds
+a continuous presence (0.3–0.9%). Cryptogramma shows a decreasing
+tendency and Pteridium aquilinum otherwise. Coprophilous fungi show
+a strong downward trend, especially Sordaria, Sporormiella and
+Podospora (b0.3%); while HdV-18 sharply decreases suggesting dry
+local conditions (Figs. 4-5). The joint occurrence at the bottom of the
+zone, in low percentages, of Spirogyra and Pleospora may well be indicative of meso- to euthropic conditions in the mire during a dry phase
+(van Geel et al., 1989; López-Sáez et al., 1998). PAR increases (139–
+258 × 105 grains cm− 2 year−1) c. 2000–1815 cal BP and then decreases
+until 17 × 105 grains cm− 2 year−1 c. 1500 cal BP. LPAZ-4 is characterized by a rapid accumulation of microcharcoals at the bottom (1637–
+2452 particles cm−2 year−1) and a decreasing trend at the top (1941
+to 82 particles cm− 2 year−1); while CHAR macrocharcoal remains
+more or less constant over 45–60 particles cm− 2 year− 1, except for
+the upper sample which is reduced to 3 particles cm−2 year−1 (Fig. 5).
+4.1.5. LPAZ-5: Visigothic period (76–63 cm; c. 1500–1240 cal BP)
+This zone is characterized by synchronous decreases of Betula (1.2–
+3.5%) and Pinus sylvestris (2.7–5.4%). Olea europaea slightly increases
+reaching 2%, as well as Fraxinus, Juglans and Salix, while Castanea (1.2–
+4.5%) and both evergreen and deciduous Quercus (6–8%) remain
+relatively abundant (Fig. 3). Shrub taxa percentages (Cytisus/Genista,
+Erica arborea, Juniperus) display a decreasing trend (Fig. 3).
+Anthropozoogenic types such as Apiaceae, Campanula, Fabaceae,
+Liliaceae, Rosaceae, Merendera, Plantago lanceolata and Rumex acetosella
+show an increasing trend (Figs. 4–5). Poaceae surpasses 58% at
+c.1400 cal BP decreasing to 51%. Cerealia is documented again sporadically (0.4–0.6%) c. 1500 and 1320–1240 cal BP, whereas Vicia faba maintains a more or less continuous presence (0.2–1.3%) (Fig. 4).
+Hygrophytic elements and ferns such as Cyperaceae or Pteridium decrease, while other ones, such as Cryptogramma, sharply increase
+
+(maximum 2.6%). Coprophilous fungi are now represented by Sordaria
+(maximum 1.2%), Sporormiella (0.4%) and Podospora (0.6%), while Glomus, Spirogyra and HdV-18 disappear (Fig. 4). PAR is in its lowest values
+(5–134 × 105 grains cm−2 year− 1). Both microcharcoal and
+macrocharcoal particles are present with very low concentrations
+(39–1126 and 1–32 particles cm−2 year−1 respectively; Fig. 5).
+4.1.6. LPAZ-6: Muslim period and ﬁrst half of the Christian period (63–
+35 cm; c. 1240–660 cal BP)
+This zone shows similar percentages of Betula and Pinus sylvestris
+as the previous LPAZ-5, although at the top pine values increase
+(6.6%) and then descend again (3.8%). The remaining arboreal pollen
+taxa (Alnus, Castanea, Salix) keep similar percentages to those of
+LPAZ-5, except Corylus, Fraxinus and Olea, which decrease (b 1%),
+and Pinus pinea, evergreen and deciduous Quercus, which slightly increase (Fig. 3). Erica arborea and Prunus progressively increase, while
+Juniperus and Cytisus/Genista show similar values (Fig. 3). Some anthropogenic nitrophilous (Anthemis, Cardueae, Cichorioideae, Galium,
+Geranium), anthropozoogenic perennial (Artemisia, Rosaceae) and
+anthropozoogenic nitrophilous herbs (Merendera, Rumex acetosa, R.
+acetosella) increase slightly at the bottom and then descend again.
+Poaceae follows the same trend, from maximum values (56–60%)
+c. 1075–990 cal BP to a further decline (b 50%; Fig. 4). Cerealia (maximum 0.5%) and Vicia faba (maximum 0.3%) are present sporadically.
+Pteridium aquilinum shows a greater presence (3–6.2%), while
+Cyperaceae and Cryptogramma decrease (Fig. 4). Coprophilous fungi
+maintain similar values to those of the previous zone, but disappear at
+the top and they have in any case a discontinuous presence (Figs.
+4-5). PAR increases (149–335 × 105 grains cm− 2 year−1), and both
+microcharcoal and macrocharcoal particles are present in high concentrations (1288–2135 and 33–111 particles cm−2 year−1 respectively;
+Fig. 5).
+4.1.7. LPAZ-7: End of the Christian period and Early Modern period (35–
+13 cm; c. 660–150 cal BP)
+In this zone, Pinus sylvestris values oscillate slightly, reaching a maximum (8%) c. 450 cal BP and a minimum (2.5%) c.150 cal BP, associated
+with maximum values of Poaceae (69%); while Alnus, Betula, Castanea,
+deciduous Quercus and Salix progressively decrease and Corylus, Pinus
+pinaster and P. pinea ﬁnally disappear (Fig. 3). Olea (3.6%) and Juglans
+(0.4%) show maximum values at the top of LPAZ-7 (15 cm). Cistus
+ladanifer, Erica arborea and Prunus decline in the uppermost pollen samples (Fig. 3). Most herbs remain with more or less constant values
+throughout the zone. Cerealia is at its maximum (1%) showing a continuous presence, whereas Vicia faba (0–0.3%) is present discontinuously
+(Figs. 4–5). Among hygrophytic taxa and ferns, Cyperaceae and
+Cryptogramma increase slightly, while Pteridium aquilinum holds similar
+values to the previous LPAZ-6 (Fig. 4). Coprophilous fungi reappear, especially Sordaria, Coniochaeta and Podospora at the top of LPAZ-7. NPPs
+indicative of shallow water (Rhabdocoela-Turbellaria) and local dry
+conditions (Byssothecium circinans) are at their maximum values in
+this pollen sequence (5.6 and 12.3%, respectively), although following
+asynchronous trends (Fig. 4). This suggests the existence of meso-eutrophic conditions in the mire c. 660–450 cal BP and then dry conditions
+c. 450–150 cal BP (van Geel and Aptroot, 2006). PAR oscillates between
+117 and 1136 × 105 grains cm− 2 year− 1. Microcharcoal and
+macrocharcoal particles show maximum values at the bottom of the
+zone (6717 and 284 particles cm−2 year−1 respectively) and then descends gradually to 1565 and 78 particles cm−2 year−1 respectively
+(Fig. 5).
+4.1.8. LPAZ-8: Late Modern period (13–0 cm; c. 150 cal BP-present)
+This zone shows similar percentages of Pinus sylvestris as the previous
+one with one maximum (5%) in the uppermost sample, while Betula,
+Castanea, evergreen Quercus and Alnus steadily decline (b2%) and Juglans
+and Pinus pinaster disappear (Fig. 3). Instead, Olea (maximum 4%) and
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+deciduous Quercus increase. Among the shrubs, Erica arborea declines
+while Cytisus/Genista and Prunus slightly increase (Fig. 3). Anthropogenic
+taxa (Aster 2.2%), perennial herbs (Apiaceae 4%, Campanula, Fabaceae,
+Rosaceae) and pastoral indicators (Merendera, Rumex acetosa, R.
+acetosella) increase slightly. Cerealia is documented again with low
+values (b 0.2%), whereas Vicia faba disappears (Figs. 4–5). Coprophilous
+fungi are still present with similar percentages to the previous LPAZ-7
+(Fig. 5), while HdV-353 is absent and HdV-16 A disappears at the top
+of the zone. PAR increases (529–957 × 105 grains cm−2 year−1).
+Microcharcoal particles show a maximum (3667 particles cm−2 year−1)
+c. 145 cal BP, while CHAR macrocharcoal reaches a maximum
+(307 particles cm−2 year−1) afterwards c. 40 cal BP (Fig. 5).
+4.2. Principal components analysis of the pollen and NPP records
+A PCA biplot of the sample scores of individual spectra and loading
+(eigenvectors) for the pollen and NPP types is shown in Fig. 6. The
+PCA biplot of the ﬁrst two axes explains 55% of the variance in the
+dataset. Highland tree taxa such as Betula and Pinus sylvestris have the
+highest negative loading on the ﬁrst principal component axis; highland
+shrubs such as Calluna vulgaris and Juniperus are also present on this
+side of PCA-1. Poaceae, Cryptogramma, Plantago lanceolata, Olea,
+
+211
+
+Castanea, Cerealia, Pteridium, Merendera, Cytisus/Genista and Rumex
+acetosa are found on the positive side of PCA-1, which explains 33% of
+the variance in the dataset. This indicates that the ﬁrst component discriminates between pollen spectra (negative values) belonging to
+high-mountain woodlands, while those with positive values belong to
+pastoral indicators (Plantago lanceolata, Rumex acetosa, Merendera), agricultural and tree crops on lowlands (Cerealia, Castanea, Olea), or indicators of open spaces in high-mountain environments (Poaceae,
+Cryptogramma, Pteridium). Consequently, high positive scores on axis
+1 represent deforested landscapes related to high human impact,
+while negative ones represent low human impact and high-mountain
+forested landscapes. The second axis (PCA-2: 22%) separates
+anthropozoogenic nitrophilous herbs (Merendera, Plantago lanceolata)
+and coprophilous fungi (Sordaria, Sporormiella, Podospora) from agricultural and tree crops (Cerealia, Vicia faba, Castanea, Olea) and highland
+taxa (Betula, Calluna vulgaris, Juniperus). This indicates that the second
+component discriminates between samples pointing to grazing activities (positive values) and pollen spectra representing landscapes with
+a lower inﬂuence of this impact (negative values). Major vegetation
+shifts are clearly pictured in the biplot and sample clustering conﬁrms
+the zonation and cultural periods of the pollen diagram (Figs. 3–6).
+Fig. 7 shows the records of score elements associated to the two factors.
+
+Fig. 7. Variation of factor scores (F1 and F2) against depth and cultural periods in El Redondo mire.
+
+212
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+5. Discussion
+5.1. Late Bronze Age and Early Iron Age (c. 3015–2350 cal BP)
+The Redondo mire started its formation c. 3015 years ago. Pinus
+sylvestris (10–33%) and Betula (13–33%) percentages are fairly high
+and show opposite patterns c. 3015–2350 cal BP, representing probably
+small and isolated nuclei or scattered extra-local orosubmediterranean
+Scots pine communities with birches (López-Sáez et al., 2013) in the
+vicitiny of El Redondo mire, additionally well discriminated by the presence of highland shrubs (Cytisus/Genista, Juniperus, Erica arborea,
+Calluna vulgaris) and relatively high percentages of grasslands (Poaceae;
+21–36%). The codominance between Betula and Pinus sylvestris is also
+recorded in nearby high-altitude deposits, like El Trampal or Navamuño
+(Atienza and Ruiz-Zapata, 1992) or Presa del Duque (Ruiz-Zapata et al.,
+2011) in the Béjar range, located to the west (Fig. 1). The Hoyos del
+Espino record (Franco-Múgica, 2009), located eastward (Fig. 1), show
+the reduction of the rates of Betula against Pinus sylvestris following a
+continentality gradient (Gavilán et al., 1998). It should be noted that
+the aforementioned pollen records are all placed below 1600 m a.s.l.,
+showing the spread of this vegetation belt between 1400 and
+1800 m a.s.l. Above, the record of Cuerpo de Hombre (Ruiz-Zapata et
+al., 2011), found at 2040 m a.s.l., shows the dominance of Pinus forests
+in the treeline during this time. Another nearby record, Peña Negra
+(Abel-Schaad and López-Sáez, 2013), located at 1000 m a.s.l., shows a
+wider extent of oak woods below the previous vegetation belt. Shrubs,
+especially Erica and, to a lesser degree, Cytisus, would occupy forest
+clearings, with sporadic occurrences of Cistus and Calluna vulgaris.
+Three turning points at El Redondo pollen record should be pointed
+out within the local predominance of pine-birch woodlands c. 2935,
+2770 and 2600 cal BP (LPAZ-1 and 2). The ﬁrst two are characterized
+by a slight decline of Pinus sylvestris percentages and increases of Betula,
+grasslands (Poaceae) and CHAR macrocharcoal during the Late Bronze
+Age c. 2935 cal BP and the beginning of the Early Iron Age c. 2770 cal
+BP (Fig. 6). The latter c. 2600 cal BP shows a similar pattern with a
+sharp decline in Pinus sylvestris values without a maximum of CHAR
+macrocharcoal. All these facts suggest the existence of eventual and
+moderate woodland openings in the vicinity of the mire, becoming
+more intense during the third episode.
+The recording of anthropozoogenic nitrophilous, anthropogenic
+nitrophilous and anthropozoogenic perennial herbs and the continuous
+presence of coprophilous fungi (Figs. 4–5) suggests seasonal grazing activities and a moderate human pressure. It also evidences the local use
+of ﬁre in such open woodland areas between the Late Bronze Age and
+the Early Iron Age (López-Sáez and López-Merino, 2007; Cugny et al.,
+2010). Although archaeological sites in the study area are not known
+for these cultural periods (Blanco-González and López-Sáez, 2013; Fig.
+1), the availability of water sources and wet meadows probably turned
+the mire basin of El Redondo into highly attractive areas for grazing. The
+existence of farming activities at lower altitudes has been also proved
+through the recording of cereal and beans (Vicia faba), below 2% each,
+not enough to ensure their local cultivation around the mire (LópezSáez and López-Merino, 2005). Probably, this pollen evidence responds
+to the identiﬁcation of some Late Bronze Age and Early Iron Age sites in
+the lowlands and fertile valleys of southern Gredos range (FernándezFreire, 2007; Fig. 1).
+Pollen samples from the Late Bronze Age and Early Iron Age are situated on the left of the PCA biplot, with negative values in the PCA axis
+1, as Pinus sylvestris and Betula (Fig. 6). The F1 record is dominated by
+negative scores (Fig. 7), indicative of a predominance of high-mountain
+forested landscapes and low human impact during the Late Bronze Age
+and the Early Iron Age (c. 3015–2350 cal BP) in the study area. The second factor (F2) was determined to be related to grazing activities. Scores
+above zero, reﬂecting moderate grazing pressure in the surroundings of
+the mire, occurred between 2850 and 2750 cal BP (Late Bronze AgeEarly Iron Age transition), 2480 (coinciding with a maximum of
+
+CHAR) and 2395 cal BP (end of the Early Iron Age) (Fig. 7). Three samples with the highest values in the PCA axis 2 (141, 123 and 119 cm)
+correspond to the aforementioned chronologies (Fig. 6).
+Human and livestock pressure in highland woodland areas as well as
+early agricultural evidence in the valley bottoms have been also documented in nearby pollen records from the Béjar range (Fig. 1), but
+only Peña Negra (Abel-Schaad and López-Sáez, 2013) gives a detailed
+chronology which allows conﬁrming this widespread land-use, also
+supported by the existence of some Late Bronze Age and Early Iron
+Age archaeological sites (Fig. 1). These records would indicate a summer
+or temporary livestock model, characteristic of this transition period between the Late Bronze and the Early Iron Age in central and southwestern areas of the Iberian Peninsula (Fabián et al., 2006; López-Sáez et al.,
+2014).
+Late Bronze Age communities from central Iberia could be characterized as small kinship groups living in ephemeral homesteads, following
+a wandering settlement pattern of extensive agricultural and pastoral
+activities (Romero et al., 2008). These small-scale communities were
+based on strong centrifugal dynamics resulting in a dispersed settlement pattern with a considerable degree of seasonal mobility, mainly
+occupying fertile land and major river valleys (Fernández-Posse, 1998;
+Muñoz, 2000). In the western Spanish Central System, later prehistoric
+settlement is poorly understood due to the lack of ﬁeld surveys in highland areas (Blanco-González, 2010). In the Béjar range, settlement
+above 1100 m a.s.l. is still not well known, but certain upland Late
+Bronze Age sites have been identiﬁed (López-Jiménez and López-Sáez,
+2005; Blanco-González and López-Sáez, 2013) (Fig. 1). The evidence
+provided by El Redondo pollen record suggests that some settlement
+of this period must be identiﬁed archaeologically in the future in the
+western Gredos range.
+From c. 2800 cal BP onwards the archaeological evidence for the
+Early Iron Age allows to acknowledge the emergence of the ﬁrst nucleated and long-lasting permanent villages and a clear expansive dynamics towards highland regions, along with the persistence of small
+isolated farmsteads in the more fertile lowlands of central Iberia
+(Blanco-González, 2010). The dispersed familiar homesteads archetypical of the Late Bronze Age societies are now replaced by stable, sedentary and self-sufﬁcient villages formed by the aggregation of numerous
+families. It has been also recognized a gradual process of economic intensiﬁcation, due to the introduction of know-how and devices from
+the southern Iberian societies. These features represented a substantial
+improvement in local agricultural techniques, such as the regeneration
+of soil nutrients with the cultivation of legumes like bean (Vicia faba)
+(Álvarez-Sanchís, 2000). Pollen records from the western Spanish Central System show c. 2800 cal BP a signiﬁcant decrease in tree cover associated with the spread of highland shrubs, the increase of anthropogenic
+pollen taxa and coprophilous fungi, and the presence of Cerealia pollen
+(López-Sáez et al., 2014). These facts are especially evident in high-altitude pollen records from the Béjar range, where an archaeological site of
+the Early Iron Age (Fig. 1) has been documented, probably involved in
+the regional process of the steady micro-colonization of the mountain
+areas (Blanco-González, 2010). In the case of El Redondo pollen record,
+the sharp decline in the percentages of Pinus sylvestris c. 2600 cal BP or a
+new maximum for CHAR macrocharcoal c. 2480 cal BP (bottom of LPAZ3) can be attributed to such communities of the Early Iron Age that primarily occupy the lowlands of southern Gredos range or Tiétar valley
+(Fernández-Freire, 2007; Fig. 1), as the cultivation of cereals and beans
+remains constant from the Late Bronze Age (Figs. 4–5).
+In short, there is no substantial evidence to indicate an increase in
+anthropic dynamics during the Early Iron Age in the western Gredos
+range, probably because no archaeological sites of this period are
+known in this rough, wild and isolated highland area (BlancoGonzález and López-Sáez, 2013). However, as noted above, the pollen
+data presented here suggest that some Early Iron Age settlement
+could be identiﬁed. In this regard, maximum values of Pinus sylvestris
+(33%) and the decline of Betula and Poaceae c. 2395 cal BP (bottom of
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+LPAZ-3; Figs. 3–5), can be attributed to a drop of treeline in a wetter period (maxima values of HdV-18; Mighall et al., 2006) at the end of the
+Early Iron Age (Morales-Molino et al., 2013; López-Sáez et al., 2014).
+Several authors have associated this period of cultural transition
+with an abrupt climate change from warm and dry conditions to wetter
+and cooler ones c. 2800 cal BP (López-Sáez and Blanco-González, 2005;
+López-Sáez et al., 2009a). In El Redondo pollen record this event may be
+only characterized by a drop of pollen concentration and CHAR values, a
+maximum of Pinus sylvestris and a synchronous minimum of Betula (Fig.
+5), likely linked to a better adaptation of the former to the changing
+requirements.
+
+5.2. Late Iron Age (c. 2350–2000 cal BP)
+The Late Iron Age appears to be a threshold period in the landscape
+shaping of high-mountain areas of the western Gredos range. At El
+Redondo mire (top of LPAZ-3), the sharp decline of Pinus sylvestris and
+Betula percentages during this period suggests woodland clearings
+which are accompanied by the spread of Pteridium and Cryptogramma
+and more diversiﬁed anthropozoogenic nitrophilous grasslands, mainly
+formed by Poaceae but also by Merendera, Plantago lanceolata and
+Rumex acetosella (Figs. 3–5). Erica arborea remains with signiﬁcant
+values while Cytisus/Genista shows a slight increase (Fig. 3). The increase of coprophilous fungi (Sordaria, Sporormiella, Coniochaeta,
+Podospora, Chaetomium) c. 2350–2200 cal BP (Fig. 4) conﬁrms herbivore
+grazing on the mire (López-Sáez and López-Merino, 2007; Cugny et al.,
+2010), whereas the recording of CHAR macrocharcoal (Fig. 5) suggest
+the existence of occasional local ﬁre events (Carcaillet et al., 2001) probably related to human activities. The simultaneous increase of Glomus
+(Fig. 4) may be related to erosive processes caused by woodland clearances, animal trampling or the occurrence of ﬁres in the watershed surroundings (López-Sáez et al., 1998; van Geel et al., 2003; Marinova and
+Atanassova, 2006). Both Cerealia and Vicia faba keep percentages lower
+than 1%, supporting their cultivation in lowlands (Figs. 4–5).
+Hence, this drop of forests would be clearly related to local human
+activities in the area, speciﬁcally by the people called ‘vettones’, with a
+well reported livestock vocation, within a transterminant-type model,
+and a more intense impact on high-altitude areas (Álvarez-Sanchís,
+2000; López-Sáez et al., 2008, 2014). These activities were probably
+favoured by a humid climate and temperature increase, the so-called
+Ibero-Roman humid period (c. 2800–1500 cal BP) (López-Sáez et al.,
+2009b, 2014; Martín-Puertas et al., 2010; Nieto-Moreno et al., 2011).
+This wet and warm period is conﬁrmed in the El Redondo pollen record
+by increasing values of HdV-18 (Mighall et al., 2006), Alnus, Castanea
+and Salix (Fig. 3) during the Late Iron Age c. 2350–2050 cal BP.
+High scores in F2 (Fig. 7), reﬂecting intense grazing pressure in the
+surroundings of the El Redondo mire, occurred between 2350 and
+2000 cal BP (Late Iron Age), but following a downward trend. F2 scores
+c. 2275 (113 cm) and 2150 cal BP (107 cm) are the highest in the entire
+sequence and match the chronological framework of the known Late
+Iron Age sites of the Gredos range (López-Sáez et al., 2008). All samples
+of this period (115–101 cm) are situated at the top of the PCA biplot,
+with positive values in the PCA axis 2 as the coprophilous fungi Sordaria,
+Podospora and Sporormiella (Fig. 6). During this period of intense grazing, the F2 and F1 scores are more or less coupled, suggesting a link between grazing pressure and progressive deforestation in highlands.
+However, F1 scores remain below zero (Fig. 7) and Late Iron Age pollen
+samples keep on being located at the left of the PCA axis 1 (Fig. 6), although with higher values than those of the previous cultural periods.
+This suggests that during the Late Iron Age high mountain birch and
+pine forests were reduced but maintained its woodland structure
+(López-Sáez et al., 2013). In short, the statistical analysis suggests that
+during the last three thousand years the strongest livestock pressure
+was exerted in this rough, wild and isolated area of the western Gredos
+range during the Late Iron Age; probably favoured by the above
+
+213
+
+mentioned milder weather conditions and the persistence of a still
+wooded landscape.
+In the western Spanish Central System (Béjar and Gredos ranges;
+Fig. 1), within the Vettonian region, pollen records from high-altitude
+mires (Serranillos, Navarredonda, Narrillos del Rebollar, Hoyos del
+Espino, Cuerpo de Hombre, Presa del Duque, El Trampal) share the
+same trend as the El Redondo one, showing the presence of a well-developed pine or pine-birch woodland in highlands c. 2350–2000 cal BP
+(Atienza and Ruiz-Zapata, 1992; Franco-Múgica et al., 1997; Dorado et
+al., 2001; Franco-Múgica, 2009; López-Merino et al., 2009; López-Sáez
+et al., 2009b; Ruiz-Zapata et al., 2011). Despite the dominance of woodland during the Late Iron Age, there are some evidences of anthropogenic activities linked to grazing pressure in highlands and lowland
+agriculture. By contrast, the pollen sequences from archaeological sites
+characterized as hillforts (El Raso, Las Cogotas, and Mesa de Miranda)
+or an oppidum (Ulaca), in the Gredos range, document intense deforestation caused by human pressure in lowlands (López-Sáez et al., 2008).
+A marked decrease in the number of settlements, mainly located in foothills (400–800 m a.s.l.; Fig. 1), the strong nucleation of the population,
+and the disappearance of the open air farmsteads in lowland regions
+could explain these facts (López-Sáez et al., 2014).
+5.3. Roman period (c. 2000–1500 cal BP)
+The Roman period is shown as a phase of relative stability of highmountain woodlands in the western Gredos range. A slight recovery
+of high-mountain birch and pine forests is detected, although with a signiﬁcant advance of heathlands (Fig. 3). This increase could be favoured
+by increasing temperature during a more arid phase distinctive of the
+Roman Warm Episode c. 2050–1850 cal BP (Desprat et al., 2003;
+López-Sáez et al., 2009b, 2014; Fig. 5). In any case, it is more likely
+that forestry development may be rather attributed to the scarce
+Roman land-use of high-mountain environments. In fact, human pressure in the western Spanish Central System, during the Roman period,
+was usually more pronounced on lowlands (Sánchez-Palencia et al.,
+2003), with a clear pre-eminence of agricultural activities against livestock farming and the agrarian colonization of the more fertile lands
+through a web of dispersed sites with the foundation of the earlier villae
+in these lowland landscapes (Álvarez-Sanchís, 2000; Blanco-González
+et al., 2009).
+El Redondo pollen record (LPAZ-4) shows clear evidences of such
+Roman activity in the lower areas of the Jerte valley (Figs. 3–5): i) agricultural activities (cereals and beans), ii) cultivation of chestnut tree
+(Castanea sativa) and olive tree (Olea europaea) c. 1940 and 1815 cal
+BP respectively, and, iii) Maritime pine (Pinus pinaster) forest decline.
+Deﬁnitely, the palynological evidence of human impact in the highmountains is scarce since the values of coprophilous fungi fall drastically
+(Figs. 4–5). However, an increasing trend in CHARs and a large amount
+of Pteridium aquilinum and Erica arborea suggests fernland and heathland spread, which could be related to increasing burning and natural
+ﬁres (Gliessman, 1978; van der Knaap and van Leeuwen, 1994).
+Pollen samples from the Roman period are situated in the central
+and lower area of the PCA biplot, mostly with negative or near-zero
+values on PCA axis 1, except the top two samples (79 and 77 cm) having
+slightly positive values on this axis (Fig. 6). F1 scores remain below zero
+c. 2000–1570 cal BP, although with higher values than those of the Late
+Iron Age, rising above zero between 1570 and 1500 cal BP (Fig. 7). This
+suggests the existence of a relatively forested high-mountain landscape
+and a low human impact. Very low and negative values on PCA axis 2
+(Fig. 6), always below zero except sample 99 cm (c. 1980 cal BP), suggest the complete absence of pastoral pressure in the Roman period,
+conﬁrmed by the lowest F2 scores for the last three thousand years
+(Fig. 7).
+In the whole of the western Spanish Central System, other pollen records show also this higher intensity of human pressure in lowlands,
+such as Fuente de la Mora, El Maíllo, Jerte, Herguijuela, Lanzahíta, Puerto
+
+214
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+de Santa Clara and Peña Negra (Atienza, 1996; Ruiz del Árbol et al.,
+2003; Abel-Schaad et al., 2009b, 2014b; López-Sáez et al., 2010b;
+Abel-Schaad and López-Sáez, 2013; Morales-Molino et al., 2013),
+some of them likely related to gold mining (Sánchez-Palencia et al.,
+2003). In the Béjar range, high-altitude pollen records (Navamuño, El
+Trampal, Cuerpo de Hombre, Presa del Duque; Fig. 1) show that Pinus
+sylvestris pollen reaches its minimum values during the Roman period
+while grasslands and heathlands spread, linked to livestock intensiﬁcation and the extension of tree crops in lowlands (Atienza and
+Ruiz-Zapata, 1992; Ruiz-Zapata et al., 2011). The situation is just the opposite in the Gredos range, where the landscape appears scarcely altered by human activities in high-mountain areas such as Hoyos del
+Espino or Serranillos (Franco-Múgica, 2009; López-Merino et al., 2009;
+Fig. 1). In fact, during Roman times, the Gredos range was only an access
+route, and the area was a marginal territory sparsely populated due to
+its inhospitable character for the development of urban centres
+(Mariné, 1995). The area where El Redondo mire is located is a good example of these facts because of its inaccessibility, wild nature and
+isolation.
+
+(Fig. 1) and most of high-altitude deposits from the Gredos range also
+show a widespread deforestation during this period (López-Merino et
+al., 2009; López-Sáez et al., 2014). The land use pattern of Visigothic settlers agrees on this data, as it is characterized by the extension of pasturelands, especially in montane areas, by means of ﬁre, and the
+cultivation of new lands through diversiﬁed and integrated farming
+and grazing practices (Ariño, 2006; Blanco-González et al., 2009). However, El Redondo pollen record shows substantial differences with other
+records from the Gredos range that somehow underline the distinctive
+nature of this sequence. First, high-mountain deforestation is not mediated by anthropic ﬁres since charcoal particles concentration is minimal
+(Fig. 5). The disappearance of pine and birch forests was likely mediated
+by selective cutting to increase the availability of pasture, without the
+use of ﬁre. Secondly, in most pollen records from the Gredos range
+birch forests increase their representation favoured by cold temperatures derived from the Early Medieval Cold Episode (López-Sáez et al.,
+2014), while in El Redondo these facts have not been noticed.
+
+5.4. Visigothic period (c. 1500–1240 cal BP)
+
+During the post-Visigothic or Muslim period, corresponding to the
+bottom of LPAZ-6 (Figs. 3-4), the decline of birch and high-mountain
+pine woodlands goes on, as well as the cultivation of olive and chestnut
+trees, cereals and beans in the lowlands, although the former seems to
+be slightly reduced (Figs. 4-5). These facts allow some recovery of forests in the valley bottoms, particularly oak (deciduous Quercus) and
+Stone pine (Pinus pinea) ones (Fig. 3).
+The increase in anthropogenic and anthropozoogenic herbs, as well
+as Poaceae c. 1240–990 cal BP, suggests a moderate increase of human
+impact on the high-mountain, although it lessens signiﬁcantly later, between 990 and 850 cal BP, when the livestock pressure is substantially
+reduced (disappearance of coprophilous fungi; Figs. 4–5). F1 scores remain above zero, suggesting deforested landscapes and high human impact, but with a decreasing trend (Fig. 7). In this regard, all samples of
+this period are placed on the right side of PCA axis 1 (Fig. 6). F2 scores
+show an oscillating pattern, with values below zero c. 1240–1150 cal
+BP, a maximum c. 1075 cal BP, and a decreasing trend up c. 850 cal BP
+(Fig. 7). This suggests a ﬁrst phase with moderate grazing in the surroundings of the mire (samples 61 and 59 cm with negative or close
+to zero values on the PCA axis 2; Fig. 6), a second one with high impact
+of livestock in this high-mountain area (samples 57 to 51 cm with positive values on the PCA axis 2; Fig. 6), and a last one with decreasing inﬂuence of livestock (sample 45 with negative values on the PCA axis 2;
+Fig. 6). The above mentioned reduction of human impact on the highmountain areas of the western Gredos range c. 990 cal BP can be correlated with the onset of the Late Medieval Warm Episode (c. 1000–
+600 cal BP; Fig. 5), whose more moderate thermal and rainfall conditions would probably have favoured the exploitation of the lowlands
+rather than highlands (López-Sáez et al., 2014; Blanco-González et al.,
+2015). The continuous presence of relatively high values of
+macrocharcoal particles (Fig. 5) suggests the recurrent use of local anthropogenic ﬁres to obtain pastures (Whitlock and Larsen, 2001;
+López-Merino et al., 2009).
+In the Béjar range, pollen records from high-altitude sites (El
+Trampal, Navamuño, Cuerpo de Hombre, Presa del Duque; Fig. 1)
+show a initial phase of forest recovery c. 1240–1000 cal BP, as a result
+of a decline in livestock and farming activities, with a drop of grasslands
+(Poaceae) and anthropozoogenous taxa (López-Sáez et al., 2014). Westward, the same situation is documented in the Gata range in the Puerto
+de Santa Clara pollen record (Abel-Schaad et al., 2009b), and towards
+the east (Gredos range) in other high-altitude pollen records (Hoyos
+de Espino, Navarredonda, Serranillos, Ojos Albos) (Franco-Múgica
+et al., 1997; Blanco-González et al., 2009; Franco-Múgica, 2009;
+López-Merino et al., 2009). By contrast, El Redondo pollen record
+shows a very evident human impact c. 1240–990 cal BP by both the increase of anthropozoogenous taxa, coprophilous fungi and CHAR
+
+At El Redondo mire, the drop of Betula and Pinus sylvestris
+percentages, concomitant to the proliferation of Poaceae and
+anthropoozoogenic nitrophilous herbs (Fig. 5), points to the existence
+of woodland clearances and the extension of grasslands and pasturelands on the oromediterranean belt of the western Gredos range from
+c. 1500 to 1240 cal BP (LPAZ-5). In fact, the percentages of high-mountain pines are so low (b6%) that can sustain the disappearance of pine
+forest formations in this time frame. Such percentages are indicative
+of a regional origin (López-Sáez et al., 2013). On the other hand, Salix
+undergoes an increasing trend, maybe related to its pioneer character
+(Costa-Tenorio et al., 1997). The increase of most anthropozoogenic perennial herbs as well as the signiﬁcant rise of coprophilous fungi (mainly Sordaria, Sporormiella and Podospora), proves the local presence of
+livestock in the mire c. 1500–1240 cal BP. Castanea reaches its maximum and Olea europaea begins a continuous curve, while walnut, cereals and beans remain, suggesting overall agricultural activities and
+tree crops in the lowlands.
+The opening of woodlands allows the start of a continuous curve of
+Cryptogramma, which could be considered as an indicator of deforestation at high altitudes; but also, given that this fern usually grows on
+screes where snow accumulates, its continuous curve could be also explained on the basin of climatic oscillations, for instance extreme events
+causing debris ﬂows or rock slides (Tomaselli et al., 2005). Indeed, the
+beginning of this Visigothic period matches with the onset of the Early
+Medieval Cold Episode (Fig. 5), spanning from 1500 to 1000 cal BP,
+with greater aridity and lower temperatures (Martín-Puertas et al.,
+2010; López-Sáez et al., 2014; Blanco-González et al., 2015). This cold
+episode is also documented in El Redondo pollen record by a slight decrease of Alnus and Cyperaceae.
+In short, the Visigothic period was a point of no return for the vegetation of the high-mountain areas of the western Gredos range. It was
+also probably the period when the current landscape of this territory
+was set. Pollen samples from this cultural period are situated at the
+right of the PCA biplot, with positive values in the PCA axis 1 as
+Cryptogramma, Plantago lanceolata, Merendera, Poaceae, Rumex acetosa,
+Olea, Cerealia and Castanea (Fig. 6). The F1 record is dominated by positive scores and a growing trend (Fig. 7), indicative of a predominance of
+high-mountain deforested landscapes and high human impact. F2
+scores remain above zero, reaching a maximum c. 1420 cal BP (Fig. 7).
+Most samples have positive or near zero values in the PCA axis 2 except
+the top one (63 cm; Fig. 6), suggesting moderate grazing in the surroundings of the mire.
+Nearby deposit of Peña Negra shares mostly the same dynamics
+(Abel-Schaad and López-Sáez, 2013) in spite of the altitude gap
+
+5.5. Muslim period (c. 1240–850 cal BP)
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+macrocharcoal and the decreasing tree cover (Figs. 3–5). These data give
+to El Redondo pollen sequence a noticeable singularity in the whole of
+the Spanish Central System and particularly in the western Gredos
+range.
+The historical data about the Muslim period, in the western Spanish
+Central System, describe an economy model based on goats and small
+subsistence crops managed by relatively self-sufﬁcient peasants, in a
+sparsely populated land more dense on mid-altitudes than on valleys
+or high-altitudes (García-Oliva, 2007; Blanco-González et al., 2009,
+2015). However, despite its rugged and isolated nature, the high-mountain areas of El Redondo mire were exploited by livestock activities in
+the ﬁrst part of the Muslim expansion c. 1240–990 cal BP. This could
+be in relation to a selective and seasonal exploitation of these areas, likely because unfavourable weather conditions of the last moments of the
+Early Medieval Cold Episode (c. 1240–1000 cal BP) were not as much
+adverse as in other surrounding mountainous areas (López-Sáez et al.,
+2014).
+After the aforementioned initial phase of forest recovery in most
+high-altitude pollen records from the Béjar, Gata and Gredos ranges, forest clearance is continuous around these sites c. 1000–850 cal BP. El
+Redondo pollen record shows an opposite pattern, including the disappearance of coprophilous fungi, the decrease of anthropogenic and
+anthropozoogenous taxa and a certain forest recovery (Fig. 5). This suggests a change in the choice of grazing territories during this period with
+the onset of the Late Medieval Warm Episode c. 1000 cal BP. This was
+possible probably in relation to the management of these new grazing
+territories by means of irrigation, in previously deforested areas, like
+Peña Negra in the Béjar range (Abel-Schaad and López-Sáez, 2013). In
+any case, CHAR macrocharcoal particles provide also a signal c. 850 cal
+BP (Fig. 4), pointing to a slightly more intense human pressure around
+El Redondo mire, likely related to the presence of the ﬁrst northern
+Christian settlers (Blanco-González et al., 2015).
+5.6. Christian period (c. 850–500 cal BP)
+During this cultural period, also called Feudal period, a different
+landscape setting can be observed in the high-mountain areas of the
+western Gredos range. The El Redondo mire records a moderate recovery of woodlands, underlined by the rising values of Betula and Pinus
+sylvestris and the decline of grasslands (Poaceae) and anthropozoogenic
+nitrophilous herbs, whereas a slight reduction of human pressure is indicated by a less abundant assemblage of anthropogenic nitrophilous
+and anthropozoogenic perennial herbs (Figs. 3–5; top of LPAZ-6). F1
+scores remain above zero and three samples of this period (40, 35 and
+30 cm) are placed on the right side of PCA axis 1 (Figs. 6-7), indicating
+a largely deforested landscape. At this time, local grazing pressure
+stopped within this wooded environment, as inferred from the disappearance of coprophilous fungi (Fig. 5), F2 scores below zero (Fig. 7)
+and the location of the aforementioned samples with negative values
+on the PCA axis 2 (Fig. 6). In any case, agricultural activities (cereals
+and beans) and cultivation of olive and chestnut trees in the lowlands
+are still documented (Figs. 3–4).
+The course of the Late Medieval Warm Episode in the western
+Gredos range coincides with a progressive shift on the political control
+of the area in favour of the emergent Astur-Leonese and Castilian monarchies (Blanco-González et al., 2015). By 800 cal BP the control of this
+area by the Christian Kingdoms, after ofﬁcial repopulation initiatives
+(Barrios-García, 2000; Quirós-Castillo, 2011), was practically consolidated, giving way to a period of generalised growth (Blanco-González
+et al., 2015). Most pollen records from high-altitude sites of the western
+Spanish Central System show at this time the maximum extent of
+grasslands and a clear rise in the levels of livestock indicators
+(anthropozoogenous taxa and coprophilous fungi). These facts are in relation to the use of high-mountain areas as summer pasturelands
+(López-Sáez et al., 2014). El Trampal (Béjar range) and Hoyos del Espino
+(Gredos range) pollen records are good examples (Atienza and
+
+215
+
+Ruiz-Zapata, 1992; Franco-Múgica, 2009; Fig. 1). However, this process
+caused few changes on landscape in El Redondo pollen record, pointing
+to a transterminant model of livestock grazing regardless of the disappearance of coprophilous fungi. This also allows the slight spread of
+heathlands (Erica arborea), broom communities (Cytisus/Genista) and
+ferns like Pteridium, favoured by medium values of CHARs (Figs. 3–5).
+A similar picture has been documented in other pollen records of the
+Gredos range such as Navarredonda, Serranillos or Narrillos del Rebollar
+(Franco-Múgica et al., 1997; Dorado et al., 2001; López-Merino et al.,
+2009), which also display some abandonment of livestock and forest
+recovery.
+The Christian period represent the “golden age” of La Mesta, the organization ofﬁcially established by King Alfonso X in 1273, which
+favoured owners of large transhumant ﬂocks, moving from northern
+summer pasturelands to southern wintering areas through the Spanish
+Central System. The bulk of journeys went through the Béjar range and
+the eastern sector of the Gredos range, along two major cattle ways
+(Terés-Landeta et al., 1995). El Redondo pollen diagram shows a further
+retreat of forests c. 700 cal BP (bottom of LPAZ-7), mainly pines and
+shrublands by means of increasing ﬁres, marked by a maximum of
+CHARs c. 550 cal BP (Fig. 5). It is also evidenced by a new maximum of
+Cerealia, denoting an increase of farming on lowlands. Meanwhile,
+local stockbreeders would have stayed in the area within a pattern of
+short-distance transterminant movements throughout the year. In parallel, the onset of the climatic event known as the Little Ice Age (LIA),
+spanning from 600 to 150 cal BP (Desprat et al., 2003; Martín-Puertas
+et al., 2010), with cooler and wetter conditions, hampers the development of farming and grazing activities especially in high-altitude
+areas, allowing a recovery of forests against grasslands in the Spanish
+Central System (Blanco-González et al., 2015). The pollen diagram of
+El Redondo provides a greater response to this climatic episode (ﬁrst
+dry phase of the LIA c. 600–400 cal BP), showing a signiﬁcant and
+broad advance of riparian trees (Alnus, Salix), birch, pine and oak forests
+(Fig. 5). This expansion is closely related to the aforementioned lowering of human pressure. The increasing rainfall is revealed by the remarkable presence of HdV 353 (Rhabdocoela oocytes; Fig. 4), an indicator of
+shallow waters (Cugny et al., 2010). This could be related with the rising
+of the water table in the mire, which would have become in a dangerous
+area for cattle to graze.
+5.7. Early Modern to Late Modern Period (c. 500 cal BP–present)
+The beginning of the Early Modern Period (c. 500–150 cal BP; top of
+LPAZ-7) in the El Redondo pollen record shows the relative continuity of
+deforested landscapes and a moderate human impact (F1 scores above
+zero, samples located on the right side of PCA axis 1; Figs. 6–7). This
+makes sense considering it was a time of overall agricultural expansion
+(Ezquerra-Boticario and Gil-Sánchez, 2008). A maximum of both
+microcharcoal and macrocharcoal particles, indicating regional and
+local ﬁres respectively (Whitlock and Larsen, 2001), is detected c.
+350 cal BP, affecting not only birch and Scots pine forests but also grasslands, while oak forests, both of Quercus pyrenaica and Quercus ilex, and
+shrublands spread signiﬁcantly (Figs. 3–5). The signal of farming activities remains low, both from herbaceous (cereals and beans) and tree
+crops (Castanea, Olea, Juglans) (Fig. 3).
+Livestock grazing is not reported until c. 350 cal BP, when coprophilous fungi restart a more or less continuous curve (Fig. 5) and F2 scores
+are above zero (Fig. 7). It could be probably related to some kind of
+water management of grasslands (Abel-Schaad and López-Sáez,
+2013), as shallow water indicators (Rhabdocoela-Turbellaria) gradually
+disappear replaced by dry phases indicators (Byssothecium circinans)
+(Figs. 4-5), which show a signiﬁcant increase despite the climatic conditions of this period, included in the second and wet phase of the Little Ice
+Age c. 400–100 cal BP (López-Merino et al., 2009).
+From this date on, grasslands (Poaceae) undergo a sharp advance,
+while both tree and shrub species show an opposite trend. Only Olea
+
+216
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+europaea avoids this trend, with low values, showing their feasible
+spread on lowlands (Fig. 5). On the contrary, Castanea displays a decreasing curve, may be related to a widespread disease which affected
+this region at this time (Paniagua, 2004), also reported in La Panera pollen record (Fig. 1) located on the southern slope of the range (AbelSchaad et al., 2009a).
+In general, vegetation dynamics during the Early Modern Period in El
+Redondo pollen record follows the same trend as in the rest of pollen sequences of the western Spanish Central System (López-Sáez et al.,
+2014). Throughout this cultural period, the study area loses its uniqueness and becomes a high-mountain area which follows the traditional
+use of these territories as summer pastures.
+The Late Modern Period (c- 150 cal BP–present) shows the same
+trend of intensiﬁcation of the previous one, within a climatic frame of
+increasing temperatures and declining rainfall (López-Merino et al.,
+2009). The top samples of El Redondo pollen record display a slight
+ﬁnal expansion of tree species (Fig. 3; LPAZ-8), although this is not
+very evident in the F1 scores which remain above zero with a weak decreasing pattern (Fig. 7). The cultivation of Olea europaea on lowlands
+gets to its maxima in recent times (pollen samples of this period are located on the right side of PCA axis 1 close to Olea; Fig. 6), while afforestation plans allows a recovery of high-mountain Pinus sylvestris forests
+(Fig. 5). Quercus pyrenaica, after a signiﬁcant retreat coinciding with
+the Conﬁscation Laws of mid-19th century (Cruz-Reyes, 1983), displays
+a ﬁnal advance likely related to the ﬁnal abandonment of herbaceous
+crops (Figs. 3–5). Anthropozoogenic nitrophilous herbs and coprophilous fungi increases very slightly (Fig. 4), while F2 scores continue
+above zero (Figs. 6–7), suggesting moderate grazing in the surroundings
+of the mire. Maximum levels of microcharcoal c. 145 cal BP and
+macrocharcoal particles c. 40 cal BP show a high incidence of regional
+and local ﬁres respectively, triggering a drop of heathlands and a maximum of broom communities in recent times, while the increasing livestock stocking rate causes an ultimate retreat of grasslands (Poaceae)
+(Figs. 3–5).
+6. Conclusions
+Wild and rugged landscapes are generally present in isolated and remote areas of any prehistoric or historic settlement. In the western
+Mediterranean (i.e., Iberian Peninsula), such landscapes are usually located in high-mountain and hardly accessible environments. In this
+study, we present the natural history of a rugged and isolated landscape
+from the western Gredos range (Spanish Central System) for the last
+three thousand years, from the multiproxy study of the El Redondo
+mire (1765 m a.s.l.).
+Despite the profound isolation of the study area, the surroundings of
+the mire were subjected to moderate woodland (pine and birch) openings related to seasonal and moderate grazing activities and local anthropogenic ﬁres during the Late Bronze Age (c. 3015–2800 cal BP)
+and the Early Iron Age (c. 2800–2350 cal BP), while cereals and beans
+were grown in lowlands. The Late Iron Age (c. 2350–2000 cal BP) represents the ﬁrst turning point of the high-mountain forests in the western
+Gredos range. During this cultural period, pine and birch woodlands
+were signiﬁcantly reduced in high-mountain areas within the Vettonian
+region, suggesting new activities of forest clearance, the continuation of
+processes of local anthropogenic ﬁres and the consequent expansion of
+pasturelands with livestock vocation, over a particularly humid and
+mild climate period. Late Iron Age has been, for the last three thousand
+years, the period that has exerted the greatest landscape changes on
+these high-mountain areas of the western Gredos range.
+On the contrary, during the Roman period (c. 2000–1500 cal BP) the
+human impact on this remote high-mountain area ceased completely,
+as the main economic activities (agriculture, tree crops, livestock)
+were developed in lowlands and fertile valleys. In contrast, with the beginning of the Visigothic period (c. 1500–1240 cal BP) the intensity of
+human impact noticeably increased after the collapse of the Roman
+
+system. From this moment on a large deforestation process is documented in the oromediterranean belt, leading to the disappearance of
+high-mountain pine forests by selective cutting without the use of ﬁre,
+within a clear livestock-oriented pattern, although new lands were
+brought into cultivation in the lowlands with the onset of the Early Medieval Cold Episode.
+During the Muslim period El Redondo pollen record shows a special
+singularity, unlike other pollen sequences from the Spanish Central System. In this cultural period a ﬁrst phase with moderate to high human
+impact and livestock activities is documented c. 1240–990 cal BC, and
+a second one c. 990–850 cal BP when the human impact is signiﬁcantly
+reduced with the onset of the Late Medieval Warm Episode. This second
+phase extends during the Christian period (c. 850–500 cal BP), when the
+human impact in these mountains remains low, although some increase
+in the incidence of anthropic ﬁres is documented c. 700–550 cal BP, related to the well documented transhumance practices developed with
+the creation of the organization of La Mesta. The selective use of different high-mountain areas of the western Spanish Central System as grazing lands between the Muslim and the Christian periods is conﬁrmed by
+means of pollen data from high-altitude sites. This study shows that differences in the intensity and landscape management of highland spaces
+in the western Spanish Central System occurred at a micro-regional
+scale during these periods onwards. An ultimate recovery of highmountain pine forests is detected thanks to recent afforestation plans.
+The direct inﬂuence of climate on vegetation is blurred by human
+pressure in the western Gredos range. Thus, the implementation of active measures leading to the recovery of the timberline in high-mountain areas is an essential need, especially in protected areas such as
+the Natural Reserve “Gorge de los Inﬁernos”.
+
+Acknowledgements
+This work was funded by the projects Desirè-HAR2013-43701-P
+(Plan Nacional I + D + I, Spanish Ministry of Economy and Competitiveness), and Relictﬂora-P11-RNM-7033 (Excellence Research Projects
+Program from the Andalusian Government). We would like to thank the
+Dirección General de Medio Ambiente of Extremadura for the help provided in the development of this work, especially to the staff of the Natural Reserve “Garganta de los Inﬁernos”.
+
+References
+Abel-Schaad, D., López-Sáez, J.A., 2013. Vegetation changes in relation to ﬁre history and
+human activities at the Peña Negra mire (Béjar Range, Iberian Central Mountain System, Spain) during the past 4.000 years. Veg. Hist. Archaeobot. 22, 199–214.
+Abel-Schaad, D., Hernández, A.M., López-Merino, L., Pulido, F.J., López-Sáez, J.A., 2009a.
+Cabras y quemorros: tres siglos de cambios en el paisaje de la vertiente extremeña
+de la Sierra de Gredos. Rev. Est. Extremeños 65, 449–478.
+Abel-Schaad, D., Hernández, A.M., López-Sáez, J.A., Pulido, F.J., López-Merino, L., MartínezCortizas, A., 2009b. Evolución de la vegetación en la sierra de Gata (Cáceres-Salamanca, España) durante el Holoceno reciente. Implicaciones biogeográﬁcas. Rev. Esp.
+Micropaleontol. 41, 91–105.
+Abel-Schaad, D., López-Sáez, J.A., Pulido, F.J., 2014a. Heathlands, ﬁre and grazing. A
+paleoenvironmental view of Las Hurdes (Cáceres, Spain) history during the last
+1200 years. For. Syst. 23, 247–258.
+Abel-Schaad, D., Pulido, F.J., López-Sáez, J.A., Alba-Sánchez, F., Nieto-Lugilde, D., FrancoMúgica, F., Pérez-Díaz, S., Ruiz-Zapata, B., Gil-García, M.J., Dorado, M., 2014b. Persistence of tree relicts through the Holocene in the Spanish Central System. Lazaroa
+35, 107–131.
+Álvarez-Sanchís, J.R., 2000. The Iron Age in Western Spain (800 BCE–50 CE): an overview.
+Oxf. J. Archaeol. 19, 65–89.
+Ariño, E., 2006. Modelos de poblamiento rural en la provincia de Salamanca (España)
+entre la Antigüedad y la Alta Edad media. Zephyrus 59, 317–337.
+Atienza, M., 1996. Análisis polínico de un depósito próximo al haya de La Herguijuela. Sierra de Francia. Salamanca. In: Ruiz-Zapata, B. (Ed.), Estudios Palinológicos.
+Universidad Alcalá, Alcalá de Henares, pp. 13–17.
+Atienza, M., Ruiz-Zapata, B., 1992. Estudio comparativo, desde el punto de vista polínico,
+de los datos procedentes de algunos depósitos de turba ubicados en las vertientes de
+Ávila y Salamanca, en la Sierra de Béjar. Acta Gredos 12, 33–41.
+Balée, W., 2006. The research program of historical ecology. Annu. Rev. Anthropol. 35,
+75–98.
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+Barrios-García, A., 2000. Repoblación y colonización: la dinámica de creación de PAISAJES
+Y EL CRECIMIENTO económico. In: Barrios, A. (Ed.), Historia de Ávila II. Edad Media
+(Siglos VIII–XIII). Diputación de Ávila, Ávila, pp. 271–335.
+Bennett, K.D., 1996. Determination of the number of zones in a biostratigraphical sequence. New Phytol. 132, 155–170.
+Beug, H.J., 2004. Leitfaden Der Pollenbestimmung für Mittleleuropa Und Angrenzende
+Gebeite. Gustav Fisher Verlag, Stuttgart.
+Blaauw, M., 2010. Methods and code for classical age-modelling of radiocarbon sequences. Quat. Geochronol. 5, 512–518.
+Blanco-González, A., 2010. Arqueología de la población entre la Edad del Bronce y el Primer Hierro (1800–400 AC): sobre procesos migratorios y colonizadores en la
+Submeseta Norte. Arqueol. Esp. 28, 361–379.
+Blanco-González, A., López-Sáez, J.A., 2013. Dynamics of pioneer colonization in the Early
+Iron Age in the Duero basin (Central Iberia, Spain): integrating archaeological and
+palynological records. Environ. Archaeol. 18, 102–113.
+Blanco-González, A., López-Sáez, J.A., López-Merino, L., 2009. Ocupación y uso del
+territorio en el sector centromeridional de la cuenca del Duero entre la Antigüedad
+y la Alta Edad Media (siglos I–XI D.C.). Arch. Esp. Arqueol. 82, 275–300.
+Blanco-González, A., López-Sáez, J.A., Alba-Sánchez, F., Abel-Schaad, D., Pérez-Díaz, S.,
+2015. Medieval landscapes in the Spanish Central System (450–1350): a
+palaeoenvironmental and historical perspective. J. Mediev. Iber. Stud. 7, 1–17.
+Carcaillet, C., Bouvier, M., Fréchette, B., Larouche, A.C., Richard, P.J.H., 2001. Comparison of
+pollen-slice and sieving methods in lacustrine charcoal analyses for local and regional
+ﬁre history. The Holocene 11, 467–476.
+Carrión, J.S., Navarro, C., Navarro, J., Munuera, M., 2000a. The distribution of cluster pine
+(Pinus pinaster) in Spain as derived from palaeoecological data, relationships with
+phytosociological classiﬁcation. The Holocene 10, 243–252.
+Carrión, J.S., Parra, I., Navarro, C., Munuera, M., 2000b. Past distribution and ecology of the
+cork oak (Quercus suber) in the Iberian Peninsula: a pollen-analytical approach. Divers. Distrib. 6, 29–44.
+Costa-Tenorio, M., Morla, C., Sainz-Ollero, H., 1997. Los bosques ibéricos. Una
+Interpretación Geobotánica. Editorial Planeta, Barcelona.
+Cruz-Reyes, J.L., 1983. Transformación Del Espacio Y economía de Subsistencia Del Valle
+Del Jerte. Institución Cultural El Brocense, Coria.
+Cugny, C., Mazier, F., Galop, D., 2010. Modern and fossil non-pollen palynomorphs from
+the Basque mountains (western Pyrenees, France): the use of coprophilous fungi to
+reconstruct pastoral activity. Veg. Hist. Archaeobot. 19, 391–408.
+Currás, A., Zamora, L., Reed, J.M., García, E., Ferrero, S., Armengol, X., Mezquita-Joanes, F.,
+Marqués, M.A., Riera, S., Julià, R., 2012. Climate change and human impact in central
+Spain during Roman times: high-resolution multi-proxy analysis of a tufa lake record
+(Somolinos, 1280 m asl). Catena 89, 31–53.
+Desprat, S., Sánchez-Goñi, M.F., Loutre, M.F., 2003. Revealing climatic variability of the last
+three millennia in northwestern Iberia using pollen inﬂux data. Earth Planet. Sci. Lett.
+213, 63–78.
+Devesa, J.A., 1995. Vegetación Y Flora de Extremadura. Universitas Editorial, Badajoz.
+Dorado, M., Valdeolmillos, A., Ruiz-Zapata, B., 2001. Actividad humana y dinámica de la
+vegetación en la Sierra de Ávila (Sistema Central Español) desde el Bronce Medio.
+Polen 11, 39–49.
+Ejarque, A., Miras, Y., Riera, S., Palet, J.M., Orengo, H.A., 2010. Testing micro-regional variability in the Holocene shaping of high mountain cultural landscapes: a
+palaeoenvironmental case-study in the eastern Pyrenees. J. Archaeol. Sci. 37,
+1468–1479.
+Ezquerra-Boticario, F.J., Gil-Sánchez, L., 2008. La transformación histórica del paisaje forestal en Extremadura. Tercer Inventario Forestal Nacional 1997–2007. Ministerio de
+Medio Ambiente, Madrid.
+Fabián, J.F., Blanco, A., López-Sáez, J.A., 2006. La transición Calcolítico-Bronce Antiguo
+desde una perspectiva arqueológica y ambiental: el Valle Amblés (Ávila) Como
+referencia. Arqueol. Esp. 26, 37–56.
+Fernández-Freire, C., 2007. Paisajes agrarios pre y protohistóricos en la Comarca de La
+Vera Alta (Cáceres): un enfoque arqueo-geográﬁco. Unpublished thesis. Complutense
+University, Madrid.
+Fernández-Posse, M.D., 1998. La Investigación Protohistórica en La Meseta Y Galicia. Editorial Síntesis, Madrid.
+Franco-Múgica, F., 2009. El análisis polínico en la reconstrucción del paisaje vegetal. In:
+Génova, M., Gómez-Manzaneque, F., Morla-Juaristi, C. (Eds.), Los Bosques de Gredos
+a Través Del Tiempo. Junta de Castilla y León, Valladolid, pp. 89–117.
+Franco-Múgica, F., García-Antón, M., Sainz-Ollero, H., 1997. Impacto antrópico y
+dinámica de la vegetación durante los últimos 2000 años BP en la vertiente septentrional de la Sierra de Gredos: Navarredonda (Ávila, España). Rev. Paléobiol.
+16, 29–45.
+Franco-Múgica, F., García-Antón, M., Sainz-Ollero, H., 1998. Vegetation dynamics and
+human impact in the Sierra de Guadarrama, Central System, Spain. The Holocene 8,
+69–82.
+Franco-Múgica, F., García-Antón, M., Maldonado, J., Morla, C., Sainz-Ollero, H., 2001.
+Evolución de la vegetación en el sector septentrional del Macizo de Ayllón (Sistema
+Central). Análisis polínico de la turbera de Pelagallinas. An. Jard. Bot. Madr. 59,
+113–124.
+García-Oliva, M.D., 2007. Un espacio sin poder: la Transierra extremeña durante la época
+musulmana. Stud. Hist. Hist. Mediev. 25, 89–120.
+Gavilán, R., Fernández, F., Blasi, C., 1998. Climatic classiﬁcation and ordination of the Spanish Sistema Central: relationships with potential vegetation. Plant Ecol. 139, 1–11.
+Génova, M., Gómez-Manzaneque, F., Morla-Juaristi, C., 2009. Los Bosques de Gredos a
+través Del Tiempo. Junta de Castilla y León, Valladolid.
+Gil-García, M.J., Dorado, M., Valdeolmillos, A., Ruiz-Zapata, B., 2002. Late-glacial and Holocene palaeoclimatic record from Sierra de Cebollera (northern Iberian range, Spain).
+Quat. Int. 93-94, 13–18.
+
+217
+
+Gliessman, S.R., 1978. The establishment of bracken following ﬁre in tropical habitats. Am.
+Fern J. 68, 41–44.
+Goeury, C., de Beaulieu, J.L., 1979. À propos de la concentration du pollen à l'aide de la liqueur de Thoulet dans les sédiments minéraux. Pollen Spores 21, 239–251.
+Grimm, E.C., 1987. Coniss: a Fortran 77 program for stratigraphically constrained cluster
+analysis by the method of incremental sum of squares. Comput. Geosci. 13, 13–35.
+Grimm, E.D., 2004. TGView. Illinois State Museum, Research and Collection Center,
+Springﬁeld.
+Hidalgo, R., Fernández, I., 1996. Contribución al estudio morfológico del polen de plantas
+hortícolas cultivadas en Andalucía. Lagascalia 18, 151–162.
+Juggins, S., 2007. User Guide C2. Sofware for Ecological and Paleoecological Data Analysis
+and Visualization. University of Newcastle, Newcastle.
+Long, C.J., Whitlock, C., 2002. Fire and vegetation history from the coastal rain forest of the
+Western Oregon Coast Range. Quat. Res. 58, 215–225.
+López-Jiménez, O., López-Sáez, J.A., 2005. Paleoambiente y formación de los paisajes
+antiguos de la comarca de la Sierra de Francia (Salamanca, España): de la estructura
+social a la creación del paisaje. Conimbriga 44, 5–24.
+López-Merino, L., López-Sáez, J.A., Ruiz-Zapata, B., Gil-García, M.J., 2008. Reconstructing
+the history of beech (Fagus sylvatica L.) in north-western Iberian Range (Spain):
+from Late-Glacial refugia to Holocene anthropic induced forests. Rev. Palaeobot.
+Palynol. 152, 58–65.
+López-Merino, L., López-Sáez, J.A., Alba-Sánchez, F., Pérez-Díaz, S., Carrión, J.S., 2009.
+2000 years of pastoralism and ﬁre shaping high-altitude vegetation of sierra de
+Gredos in Central Spain. Rev. Palaeobot. Palynol. 158, 42–51.
+López-Sáez, J.A., Blanco-González, A., 2005. La mutación Bronce Final/Primer Hierro en el
+suroeste de la Cuenca del Duero (Provincia de Ávila): ¿Cambio ecológico y social? In:
+Blanco, A., Cancelo, C., Esparza, A. (Eds.), Bronce Final Y Edad Del Hierro en La Península Ibérica. Universidad de Salamanca, Salamanca, pp. 229–250
+López-Sáez, J.A., López-Merino, L., 2005. Precisiones metodológicas acerca de los indicios
+paleopalinológicos de agricultura en la Prehistoria de la Península Ibérica. Portugalia
+26, 53–64.
+López-Sáez, J.A., López-Merino, L., 2007. Coprophilous fungi as a source of information of
+anthropic activities during the prehistory in the Amblés Valley (Ávila, Spain): the
+archaeopalynological record. Rev. Esp. Micropaleontol. 39, 103–116.
+López-Sáez, J.A., López-García, P., Gómez, C., Gil, P., 1996. Acerca del origen del castaño
+(Castanea sativa) en el Valle del Tiétar (Sierra de Gredos, Ávila). In: Ruiz-Zapata, B.
+(Ed.), Estudios Palinológicos. Universidad de Alcalá, Alcalá de Henares, pp. 79–82.
+López-Sáez, J.A., van Geel, B., Farbos-Texier, S., Diot, M.F., 1998. Remarques
+paléoécologiques à propos de quelques palynomorphes non-polliniques provenant
+de sédiments quaternaires en France. Rev. Paléobiol. 17, 445–459.
+López-Sáez, J.A., López-Merino, L., Pérez-Díaz, S., 2008. Los vettones y sus paisajes:
+paleoambiente y paleoeconomía de los castros de Ávila. In: Álvarez-Sanchís, J. (Ed.),
+Arqueología Vettona. La Meseta Occidental en la Edad de Hierro. Museo Arqueológico
+Regional, Alcalá de Henares, pp. 141–152.
+López-Sáez, J.A., Blanco-González, A., López-Merino, L., Ruiz-Zapata, B., Dorado, M., PérezDíaz, S., Valdeolmillos, A., Burjachs, F., 2009a. Landscape and climatic changes during
+the end of the late prehistory in the Amblés Valley (Ávila, central Spain), from 1200
+to 400 cal BC. Quat. Int. 200, 90–101.
+López-Sáez, J.A., López-Merino, L., Alba-Sánchez, F., Pérez-Díaz, S., 2009b. Contribución
+paleoambiental al estudio de la trashumancia en el sector abulense de la Sierra de
+Gredos. Hispania 231, 9–38.
+López-Sáez, J.A., Alba-Sánchez, F., López-Merino, L., Pérez-Díaz, S., 2010a. Modern pollen
+analysis: a reliable tool for discriminating Quercus rotundifolia communities in Central
+Spain. Phytocoenologia 40, 57–72.
+López-Sáez, J.A., López-Merino, L., Alba-Sánchez, F., Pérez-Díaz, S., Abel-Schaad, D.,
+Carrión, J.S., 2010b. Late Holocene ecological history of Pinus pinaster forests in the Sierra de Gredos of central Spain. Plant Ecol. 206, 195–209.
+López-Sáez, J.A., Sánchez-Mata, D., Alba-Sánchez, F., Abel-Schaad, D., Gavilán, R.G., PérezDíaz, S., 2013. Discrimination of Scots pine forests in the Iberian Central System (Pinus
+sylvestris Var. iberica) by means of pollen analysis. Phytosociological considerations.
+Lazaroa 34, 191–208.
+López-Sáez, J.A., Abel-Schaad, D., Pérez-Díaz, S., Blanco-González, A., Alba-Sánchez, F.,
+Dorado, M., Ruiz-Zapata, B., Gil-García, M.J., Gómez, C., Franco-Múgica, F., 2014. Vegetation history, climate and human impact in the Spanish Central System over the
+last 9,000 years. Quat. Int. 353, 98–122.
+López-Sáez, J.A., Alba-Sánchez, F., Sánchez-Mata, D., Abel-Schaad, D., Gavilán, R.G., PérezDíaz, S., 2015. A palynological approach to the study of Quercus pyrenaica forest communities in the Spanish Central System. Phytocoenologia 45, 107–124.
+López-Sáez, J.A., Alba-Sánchez, F., Robles-López, S., Pérez-Díaz, S., Abel-Schaad, D.,
+Sabariego, S., Glais, A., 2016a. Exploring seven hundred years of transhumance, climate dynamic, ﬁre and human activity through a historical mountain pass in central
+Spain. J. Mt. Sci. in press.
+López-Sáez, J.A., Glais, A., Robles-López, S., Alba-Sánchez, F., Pérez-Díaz, S., Abel-Schaad,
+D., Luelmo-Lautenschlaeger, R., 2016b. Unraveling the naturalness of sweet chestnut
+forests (Castanea sativa Mill.) in central Spain. Veg. Hist. Archaeobot. in press.
+Mariné, M., 1995. El patrimonio arqueológico de la Sierra de Gredos. In: Trotitiño,
+M.A. (Ed.), Gredos: Territorio, Sociedad Y Cultura. Diputación de Ávila, Ávila,
+pp. 19–48.
+Marinova, E., Atanassova, J., 2006. Anthropogenic impact on vegetation and environment
+during the Bronze Age in the area of lake Durankulak, NE Bulgaria: pollen, microscopic charcoal, non-pollen palynomorphs and plant macrofossils. Rev. Palaeobot. Palynol.
+141, 165–178.
+Martín-Puertas, C., Jiménez-Espejo, F., Martínez-Ruiz, F., Nieto-Moreno, V., Rodrigo, M.,
+Mata, M.P., Valero-Garcés, B.L., 2010. Late Holocene climate variability in the southwestern Mediterranean region: an integrated marine and terrestrial geochemical approach. Clim. Past 6, 807–816.
+
+218
+
+J.A. López-Sáez et al. / Journal of Archaeological Science: Reports 9 (2016) 203–218
+
+Mercuri, A.M., Sadori, L., Blasi, C., 2010. Archaeobotany for cultural landscape and human
+impact reconstructions. Plant Biosyst. 144, 860–864.
+Mighall, T., Martínez-Cortizas, A., Biester, H., Turner, S.E., 2006. Proxy climate and vegetation changes during the last ﬁve millennia in NW Iberia: pollen and non-pollen
+palynomorph data from two ombrotrophic peat bogs in the North Western Iberian
+Peninsula. Rev. Palaeobot. Palynol. 141, 203–223.
+Moore, P.D., Webb, J.A., Collinson, M.E., 1991. Pollen Analysis. Blackwell, London.
+Morales-Molino, C., García-Antón, M., Postigo-Mijarra, J.M., Morla, C., 2013. Holocene vegetation, ﬁre and climate interactions on the westernmost fringe of the Mediterranean
+Basin. Quat. Sci. Rev. 59, 5–17.
+Muñoz, K., 2000. The Tagus Middle Basin (Iberian Peninsula) from the Neolithic to the
+Iron Age (V–I millenium cal. BC): the long way to social complexity. Oxf.
+J. Archaeol. 19, 241–272.
+Muñoz-Barco, P., Martínez-Flores, E., 2005. Patrimonio Geológico de Extremadura. Junta
+de Extremadura, Mérida.
+Nieto-Moreno, V., Martínez-Ruiz, F., Giral, S., Jiménez-Espejo, F., Gallego-Torres, D.,
+Rodrigo-Gámiz, M., García-Orellana, J., Ortega-Huertas, M., de Lange, G.J., 2011. Tracking climate variability in the western Mediterranean during the Late Holocene: a
+multiproxy approach. Clim. Past 7, 1395–1414.
+Paniagua, J.A., 2004. Estudio etnográﬁco de Losar de la Vera. Rev. Est. Extremeños 60,
+475–514.
+Pausas, J.G., Keeley, J.E., 2009. A burning story: the role of ﬁre in the history of life. BioSci.
+59, 593–601.
+Pedraza, J., 1994. Geomorfología del sistema central. In: Gutiérrez-Elorza, M. (Ed.),
+Geomorfología de España. Editorial Rueda, Madrid, pp. 63–100.
+Peinado-Lorca, M., Rivas-Martínez, S., 1987. La vegetación de España. Universidad de
+Alcalá, Alcalá de Henares.
+Peñalba, M.C., Arnold, M., Guiot, J., Duplessy, J.C., de Beaulieu, J.L., 1997. Termination of the
+last glaciation in the Iberian Peninsula inferred from the pollen sequence of
+Quintanar de la Sierra. Quat. Res. 48, 205–214.
+Prentice, L.C., 1985. Pollen representation, source area, and basin size: towards a uniﬁed
+theory of pollen analysis. Quat. Res. 23, 76–86.
+Quirós-Castillo, J.A., 2011. Early medieval landscapes in north-West Spain: local powers
+and communities, ﬁfth-tenth centuries. Early Med. Europe 19, 285–311.
+Reille, M., 1999. Pollen et Spores d'Europe et d'Afrique Du Nord. second ed. Laboratoire de
+Botanique Historique et Palynologie, Marseille.
+Reimer, P.J., Bard, E., Bayliss, A., Beck, J.W., Blackwell, P.G., Bronk Ramsey, C., Buck, C.E.,
+Cheng, H., Edwards, R.L., Friedrich, M., Grootes, P.M., Guilderson, T.P., Haﬂidason, H.,
+Hajdas, I., Hatté, C., Heaton, T.J., Hoffmann, D.L., Hogg, A.G., Hughen, K.A., Kaiser,
+K.F., Kromer, B., Manning, S.W., Niu, M., Reimer, R.W., Richards, D.A., Scott, E.M.,
+Southon, J.R., Staff, R.A., Turney, C.S.M., van der Plicht, J., 2013. Intcal13 and marine13
+radiocarbon age calibration curves 0–50,000 years cal BP. Radiocarbon 55,
+1869–1887.
+Romero, F., Sanz, C., Álvarez-Sanchís, J.R., 2008. El primer milenio a.c. en las tierras del interior peninsular. In: Gracia, F. (Ed.), De Iberia a Hispania. Editorial Ariel, Barcelona,
+pp. 649–732.
+Rubiales, J.M., Génova, M., 2015. Late Holocene pinewoods persistence in the Gredos
+Mountains (central Spain) inferred from extensive megafossil evidence. Quat. Res.
+84, 12–20.
+Rubiales, J.M., García-Amorena, I., Génova, M., Gómez-Manzaneque, F., Morla, C., 2007.
+The Holocene history of highland pine forests in a submediterranean mountain: the
+case of Gredos mountain range (Iberian Central range, Spain). Quat. Sci. Rev. 26,
+1759–1770.
+Rubiales, J.M., Morales-Molino, C., García, S., García-Antón, M., 2012. Negative responses
+of highland pines to anthropogenic activities in inland Spain: a palaeoecological perspective. Veg. Hist. Archaeobot. 21, 397–412.
+Ruiz del Árbol, M., Sánchez, J.F., López-Sáez, J.A., López-García, P., Macías, R., LópezJiménez, O., 2003. A geoarchaeological approach to the study of Roman terraces:
+
+landscape transformations in a mining area in the north-western Iberian Peninsula.
+In: Fouache, E. (Ed.), The Mediterranean World Environment and History. Elsevier
+SAS, Paris, pp. 331–339.
+Ruiz-Zapata, B., Gómez-González, C., López-Sáez, J.A., Gil-García, M.J., Santiesteban, J.I.,
+Mediavilla, R., Dorado, M., Valdeolmillos, A., 2006. Detección de la actividad antrópica
+durante el Holoceno reciente, a través de la asociación de palinomorfos polínicos y no
+polínicos en dos depósitos higroturbosos (El Berrueco y Rascafría) en la Sierra de
+Guadarrama, Madrid. Rev. Esp. Micropaleontol. 38, 355–366.
+Ruiz-Zapata, B., Carrasco, R.M., Gil-García, M.J., Pedraza, J., Razola, L., Domínguez-Villar, D.,
+Gallardo, J.L., 2011. Dinámica de la vegetación durante el Holoceno en la Sierra de
+Gredos (Sistema Central Español). Bol. R. Soc. Esp. Hist. Nat. Sec. Geol. 105, 109–123.
+Sánchez-Palencia, F.J., Ruiz del Árbol, M., López-Jiménez, O., 2003. Tierra, agua y oro.
+Arqueología Del Paisaje en La Sierra de Francia. Museo de Salamanca and Junta de
+Castilla y León, Salamanca.
+Silva-Sánchez, N., Martínez-Cortizas, A., Abel-Schaad, D., López-Sáez, J.A., Mighall, T.M.,
+2016. Inﬂuence of climate change and human activities in the organic and inorganic
+composition of peat during the Little Ice Age (El Payo mire, Gata range, W Spain). The
+Holocene in press.
+Stockmarr, J., 1971. Tablets with spores used in absolute pollen analysis. Pollen Spores 13,
+614–621.
+ter Braak, C.J.F., Prentice, I.C., 1988. A theory of gradient analysis. Adv. Ecol. Res. 18,
+271–317.
+Terés-Landeta, J., Valero, A., Pérez, C., 1995. Cuadernos de la Trashumancia 15, Extremadura. ICONA, Madrid.
+Tinner, W., Hu, F.S., 2003. Size parameters, size-class distribution and area-number relationship of microscopic charcoal: relevance for ﬁre reconstruction. The Holocene
+13, 499–505.
+Tomaselli, M., Petraglia, A., Rossi, G., Adorni, M., 2005. Contribution to the environmental
+ecology of Cryptogramma crispa (L.) R. Br. ex hooker in the Alps. Flora 200, 175–186.
+van der Knaap, W.O., van Leeuwen, J.F.N., 1994. Holocene vegetation, human impact, and
+climatic change in Serra da Estrela, Portugal. Dissert. Bot. 234, 497–535.
+van Geel, B., 2001. Non-pollen palynomorphs. In: Smol, J.P., Birks, H.J.B., Last, W.M. (Eds.),
+Tracking Environmental Change Using Lake SedimentsTerrestrial, Algal, and Siliceous
+Indicators vol. 3. Kluwer, Dordrecht, pp. 99–119.
+van Geel, B., Aptroot, A., 2006. Fossil ascomycetes in Quaternary deposits. Nova Hedwigia
+82, 313–329.
+van Geel, B., Coope, G.R., van der Hammen, T., 1989. Palaeoecology and stratigraphy of the
+Late-glacial type section al Usselo (The Netherlands). Rev. Palaeobot. Palynol. 60,
+25–129.
+van Geel, B., Buurman, J., Brinkkemper, O., Schelvis, J., Aptroot, A., van Reenen, G., Hakbijl,
+T., 2003. Environmental reconstruction of a Roman Period settlement site in Uitgeest
+(The Netherlands), with special reference to coprophilous fungi. J. Archaeol. Sci. 30,
+873–883.
+Vannière, B., Colombaroli, D., Chapron, E., Leroux, A., Tinner, W., Magny, M., 2008. Climate
+versus human-driven ﬁre regimes in Mediterranean landscapes: the Holocene record
+of Lago dell'Accesa (Tuscany, Italy). Quat. Sci. Rev. 27, 1181–1196.
+Walsh, K., 2014. The Archaeology of Mediterranean Landscapes: Human-Environment Interaction from the Neolithic to the Roman Period. Cambridge University Press,
+Cambridge.
+Whitlock, C., Larsen, C., 2001. Charcoal as a ﬁre proxy. In: Smol, J.P., Birks, H.J.B., Last, W.M.
+(Eds.), Tracking Environmental Change Using Lake SedimentsTerrestrial, Algal, and
+Siliceous Indicators vol. 3. Kluwer, Dordrecht, pp. 75–97.
+Yin, Y., Liu, H., Hao, Q., 2016. The role of ﬁre in the late Holocene forest decline in semiarid North China. The Holocene 26, 93–101.
+
+

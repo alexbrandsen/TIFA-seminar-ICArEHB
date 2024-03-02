@@ -1,0 +1,1877 @@
+Journal of Archaeological Science 36 (2009) 730–739
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Thermoluminescence dating of a Stillbay–Howiesons Poort sequence at
+Diepkloof Rock Shelter (Western Cape, South Africa)
+C. Tribolo a, *, N. Mercier a, H. Valladas b, J.L. Joron c, P. Guibert a, Y. Lefrais a, M. Selo d, P.-J. Texier e,
+J.-Ph. Rigaud e, G. Porraz f, C. Poggenpoel g, J. Parkington g, J.-P. Texier d, A. Lenoble h
+a
+Institut de Recherche sur les Archéomatériaux, Centre de Recherche en Physique Appliquée à l’Archéologie, CNRS, Université de Bordeaux, Maison de l’Archéologie,
+Esplanade des Antilles, 33607 Pessac, France
+b
+Laboratoire des Sciences du Climat et de l’Environnement, CNRS/CEA, avenue de la terrasse, bât 12, 91198 Gif sur Yvette, France
+c
+Groupe des Sciences de la Terre, Laboratoire Pierre Süe, CEN, Saclay, 91191 Gif-sur-Yvette, France
+d
+Laboratoire d’Etude de la Matière Extra-terrestre, CNRS-MNHN, 51 rue Buffon, 75005 Paris, France
+e
+PACEA-Institut de Préhistoire et de Géologie du Quaternaire, CNRS, Université de Bordeaux, Avenue des Facultés, Talence, France
+f
+CEPAM, UMR 6130 du CNRS, 250 rue A. Einstein, 06560 Valbonne, France
+g
+Department of Archaeology, University of Cape Town, Rondebosch, South Africa
+h
+Département de Préhistoire du Museum National d’Histoire Naturelle, UMR 5198, Paris, France
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 21 July 2008
+Received in revised form
+27 October 2008
+Accepted 29 October 2008
+
+New excavations have been undertaken at Diepkloof Rock Shelter (DRS; South Africa) since 1999. It is one
+of the very few sites where Howiesons Poort and Stillbay assemblages can be collected from the same
+archaeological sequence. These Middle Stone Age techno-complexes are particularly interesting for their
+afﬁnities with the much younger Later Stone Age facies, and their association with evidence for symbolic
+behaviour. Establishing their chronology is therefore particularly important for the understanding of the
+apparition and the evolution of the so-called ‘‘modern’’ behaviours. Data already available suggest ages
+ranging from 55 to 80 ka for the Howiesons Poort and from 70 to 80 ka for the Stillbay techno-complexes
+in several South African sites. The thermoluminescence dating undertaken at DRS on 22 stone samples
+originating from the entire stratigraphic record indicates intervals starting 10–50 ka earlier for these
+techno-complexes in this site. Possible caveats in the dating process are examined but to the best of our
+current knowledge must be rejected.
+Ó 2008 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Middle Stone Age
+South Africa
+Diepkloof
+Howiesons Poort
+Stillbay
+Modern behaviour
+Thermoluminescence
+Chronology
+
+1. Introduction
+Howiesons Poort (HP) and Stillbay (SB), two techno-complexes
+of the southern African Middle Stone Age (MSA), have drawn
+a particular interest, since they are considered as possible evidence
+for early modern behaviour. This comes ﬁrst from characteristics of
+the lithic assemblages themselves (e.g. Thackeray, 1992): standardised forms, use of exotic material, blade and backing technologies, which are frequent in Later Stone Age (LSA) assemblages but
+absent in the classical MSA preceding them. Moreover HP and SB
+techno-complexes occur in several sites with artefacts suggesting
+an early use of symbolism: engraved ochre at Blombos Cave and
+Klein Kliphuis, shell beads at Blombos Cave and Sibudu (D’Errico
+et al., 2008), incised ostrich eggshells at Diepkloof Rock Shelter
+
+* Corresponding author. Tel.: þ33 5 57 12 1083; fax: þ33 5 57 12 45 50.
+E-mail address: ctribolo@u-bordeaux3.fr (C. Tribolo).
+0305-4403/$ – see front matter Ó 2008 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2008.10.018
+
+(Henshilwood et al., 2002, 2004; Mackay and Welz, 2008;
+Parkington et al., 2005). Therefore, understanding these technocomplexes is particularly important for the research on modern
+behavioural origins. While an important revision of their technological evolution was being undertaken (Minichillo, 2005; Porraz
+et al., 2008; Rigaud et al., 2006; Soriano et al., 2007; Villa et al.,
+2005; Wurz, 2000, 2002), geochronological studies involving
+radiometric methods were performed during the last decade
+(Feathers and Bush, 2000; Feathers, 2002; Grün and Beaumont,
+2001; Jacobs, 2004; Jacobs et al., 2003a,b, 2006; Jones, 2001;
+Piennar, 2005; Tribolo, 2003; Tribolo et al., 2005a,b; Valladas et al.,
+2005; Vogel, 2000).
+Stillbay assemblages are rare and, with the exception of Sibudu
+Cave and Apollo 11, are all concentrated in the Cape Province
+(Fig. 1a). Up to now, the only dates available for this technocomplex are those of Blombos Cave: a mean age of 74  5 ka was
+obtained with the Thermoluminescence (TL) method on stones
+(quartzites and silcretes) heated in ﬁreplaces (Tribolo et al., 2006).
+
+C. Tribolo et al. / Journal of Archaeological Science 36 (2009) 730–739
+
+731
+
+Fig. 1. a) Map representing some of the most important Middle Stone Age sites in southern Africa. Those in white have been recently or are currently excavated. Stillbay assemblages
+were found at Blombos Cave, Hollow Rock Shelter, Sibudu, Apollo 11 and Diepkloof. Howiesons Poort occurrences are known in all sites but Hollow Rock Shelter and Blombos Cave.
+b) Location of Diepkloof Rock Shelter in the South Western Cape.
+
+They were in agreement with indirect dating results for the SB
+facies in this site, obtained by Optically Stimulated Luminescence
+applied to sediment and by Electron Spin Resonance applied to
+teeth (Jacobs et al., 2006; Jones, 2001). Howiesons Poort assemblages are more widely spread in the southern part of the continent
+(Fig. 1a). However, few are dated by radiometric methods. Ages at
+Klasies River, Apollo 11, Rose Cottage, Border Cave and Sibudu fall
+within a 55–65 ka interval (at one sigma). Two dates only at Border
+Cave are older than 70 ka (Grün and Beaumont, 2001), and Millard
+(2006), based on Bayesian analyses, estimates its beginning
+between 82 and 68 ka (probability 95%) in that site. These dates
+suggest that the SB is anterior to the HP techno-complex. Diepkloof
+Rock Shelter, Sibudu and Apollo 11 (Vogelsang, oral communication) are the only known sites where this suggested sequence is
+stratigraphically conﬁrmed (Rigaud et al., 2006) and where the SB/
+HP succession can be newly documented.
+Diepkloof Rock Shelter (DRS) is particularly rich in burnt
+material, with a high content of charcoal and ashes. Burnt stones
+are numerous and the site is therefore propitious to the application
+of TL dating. A previous work on 5 burnt quartzites and silcretes
+allowed the proposition of an interval of 55–65 ka for the top of the
+HP levels (Tribolo, 2003; Tribolo et al., 2005a). We present here
+new results obtained on 17 stone samples for both the entire HP
+and top of SB levels.
+2. Archaeological and geological context
+2.1. Location and previous excavations
+DRS (32 23014.700 S, 18 270 13.500 E) is located in the Sandveld,
+a semi-arid region, about 150 km north of Cape Town (Fig. 1b). First
+
+investigations at DRS and at the nearby site Diepkloof Kraal Shelter
+took place in 1973 (Parkington and Poggenpoel, 1987). Excavations
+were then pursued intermittently during the next three decades. In
+1999, a collaboration project between the Department of Archaeology of the University of Cape Town and the Institute of Prehistory
+and Quaternary Geology of the University of Bordeaux was set up and
+ﬁeldwork in DRS has been since performed yearly and is still ongoing.
+2.2. Morphological and geological context
+The shelter opens to the east, 140 m above the Verlorenvlei
+River, which reaches the Atlantic Ocean 18 km further to the northwest at Elands Bay village. About 25 m wide and 15 m deep, it is
+eroded into the lower part of a residual quartzitic butte (Fig. SM1).
+Deposits of MSA archaeological levels correspond to a single
+sedimentary unit displaying a bedded lithofacies (Lenoble, 2005).
+The latter is due to the stacking of sandy silt lenses of variable
+thickness (1 to 10–15 cm), of small extent (generally <1 m), and
+having a black (5 Y 2/1), white (10 YR 8/2), very dark grey (10 YR 3/
+1), dark brown (7.5 YR 3/3), light yellowish brown (10 YR 6/4) or
+reddish brown (5 YR 4/3 to 4/4) colour. Micromorphologic and Xray diffraction analyses show that the black colour is due to a high
+content in charcoal, the white due to carbonated ashes, the grey
+due to a mix of both. The brown lenses contain quartz grains mixed
+with material of biologic origin submitted to micro-aggregation
+and brunization. They turn yellow when enriched with phosphates.
+At the base of the sequence, the SB and unidentiﬁed MSA levels
+contain more sands and less microfragments of charcoal than the
+overlying layers.
+The sedimentary material is primarily the result of human
+activities (lithic artefacts, bone fragments, charcoals, ashes) and
+
+732
+
+C. Tribolo et al. / Journal of Archaeological Science 36 (2009) 730–739
+
+non-human biogenic activities (organic particles, phytoliths, etc.),
+but is also partly the result of diagenetic processes related to the
+occurrence of guano (phosphates). The enclosing rock is responsible for some of the quartzitic material: plates and blocks of
+quartzite scattered throughout the matrix (rock fall and spalling)
+and quartz grains in the sediments (granular disintegration).
+Sedimentary features (prograding organization of the layers,
+erosive contacts, rills, small stone pavements, cross-bedded structures, etc.) indicate that part of these deposits correspond to a small
+colluvial (runoff) cone related to a ﬂow coming from a karstic pipe
+located at the rear of the rock shelter.
+Gypsum and halite concretions are found to be scattered
+throughout the entire deposits. They are randomly distributed,
+regardless of the facies of the beds or of the morphological situation.
+These salts were probably brought up to the site by air (sea fogs and/
+or aeolian dust), and by water oozing the cracks and the pipes of the
+enclosing rock (Lenoble, 2005). The presence of these salty
+concretions, which are highly soluble, together with the excellent
+preservation of the organic material (carbonised grass, leaves,
+twigs), ashes lenses and structured ﬁreplaces suggests that the
+runoffs were hortonian, which means that they were not associated
+with important percolations and remained a surface phenomenon.
+2.3. Archaeological sequence
+The post 1999 digging has concerned two main areas: a 3  3 m2
+quadrate on the O–Q/10–12 sector and 1  9 m2 trench from square
+C6 to N6 (Fig. 2), with a focus on squares L–M6, where the deposit
+was expected to be the thickest (Lenoble and Martinaud, 2003).
+Currently ca. 370 cm of deposit has been dug there (315 cm only are
+shown on Fig. 4), and the bedrock has not been reached yet. Figs. 3
+and 4 present the stratigraphy of the highest sections in squares
+P–Q9 and K–M6 respectively.
+Considering the difﬁculties for excavating such complex bedded
+lithofacies, every single lens of the deposit has been given
+a temporary name (John, Mike, Kim, Larry, .; in alphabetical order
+
+from top to bottom) in order to record, in addition to the three
+dimensional coordinate system, the accurate stratigraphic origin of
+artefact, anthropic features and samples. The coordinates of 24 000
+artefacts (fauna and lithics >1.5 cm) have been recorded up to now.
+On the basis of diagnostic artefacts, the archaeological deposits
+have been schematically and temporally subdivided into 6 main
+complexes (see Fig. SM2 for the correlations between the various
+excavated areas).
+The top of the sequence is composed of a shallow LSA level, with
+an estimated radiocarbon age of <2 ka (Parkington and Poggenpoel, 1987): it has been entirely removed, but for a few pits, during
+the 70s excavations. The remaining pits constitute complex 1. The
+other complexes, from top to bottom are:
+ Complex 2 – post-Howiesons Poort with unifacial points
+(temporal entities ‘‘Claude’’ to ‘‘Danny’’).
+ Complex 3 – Howiesons Poort with numerous backed pieces
+and decorated ostrich eggshell (temporal entities ‘‘Debbie’’ to
+‘‘Fiona’’ and Orange black complex 1 to Orange black complex 4).
+ Complex 4 – Howiesons Poort with few backed pieces and no
+decorated ostrich eggshell (temporal entities ‘‘Governor’’ to
+‘‘Jack’’ including John and Orange black complex 5 – OB5). As
+previously noticed, this is still a preliminary subdivision.
+Ongoing technological studies help to clarify the attributes of
+Complex 4 which documents a more complex SB/HP succession than reported elsewhere. Indeed, a high percentage of
+ﬁne-grained raw materials, the dominance of denticulates and
+notches and the absence of any other tool markers, typologically characterize the ‘Jeff’ lithic assemblage. Its technological
+analyses (Porraz et al., 2008) show that the systematic
+production of blades, the use of a soft-stone hammer with
+tangential percussion, as well as a systematic selection of ﬁnegrained raw materials, are speciﬁc features of this lithic
+assemblage. It appears to be the expression of behavioural
+innovations which clearly predate the conventional Howiesons
+Poort complex, as it is currently deﬁned.
+
+Fig. 2. Map of the site showing the grid and the excavated areas.
+
+C. Tribolo et al. / Journal of Archaeological Science 36 (2009) 730–739
+
+LSA
+-100
+
+OB1
+
+the spot at Diepkloof. The size variability appears to be clearly
+linked to the origin and the quality of the raw material. The
+Stillbay points from Diepkloof can be easily compared to the
+points from other assemblages as Hollow rock shelter or Dale
+Rose Parlour (Texier et al., 2008, oral communication).
+ Complex 6 – Lithic assemblages to be characterised (temporal
+entities ‘‘Laureen’’ to ‘‘Neva’’).
+
+OB2
+
+3. Thermoluminescence dating methodology
+
+OB3
+
+3.1. Principles of thermoluminescence dating
+
+OB4
+
+Burrow
+-150
+
+Howiesons Poort complex
+
+OB5
+
+-200
+
+733
+
+Ionizing radiation and luminescence are the two physical
+phenomenon involved in thermoluminescence dating (Aitken,
+1985). Indeed, rocks made of quartz grains and sediments naturally
+contain radioisotopes, whose decay leads to the emission of energy
+carried by alpha, beta and gamma rays. The energy absorbed by unit
+of mass of sample and by unit of time (i.e. per year) constitutes the
+dose rate to which the sample is submitted when buried. The dose
+rate depends mainly on the radioisotope contents (Uranium,
+Thorium and Potassium) of the rock sample itself and of its
+surrounding sediment; it also includes a contribution from the
+cosmic rays. At ﬁrst sight, the dose rate can be considered constant
+at the MSA time scale.
+The Luminescence phenomenon allows the determination of
+the dose equivalent (De) to the total energy absorbed per unit of
+mass by the sample during its burial. Indeed, once irradiated, and
+when submitted to a heating, the quartz grains constituting the
+burnt stone emit a light whose intensity is dependant of the dose
+received since the last high temperature (e.g. 450  C) heating.
+Moreover, this heating removes all the previously recorded doses.
+Therefore, such heating in a prehistoric hearth of a stone has led to
+the total resetting of its luminescence signal, which has grown up
+again with burial time. The TL age, referring to the time of the last
+heating event, is simply the ratio of the De to the dose rate.
+
+Stillbay complex
+
+3.2. Selected samples
+
+-250
+-258
++40 cm of unexecavated deposits
+
+Q9d
+
+P9c
+
+Diepkloof Rock Shelter (Western Cape, South Africa)
+Frontal section in the P-Q/9-12 test pit
+(Drawing F. Lacrampe & G. Porraz; CAD P.-J. Texier)
+Fig. 3. Stratigraphic plot of section Q9–P9. The names of the units where the TL
+samples come from are indicated.
+
+ Complex 5 – Stillbay with bifacial points and ochre pencils
+(temporary entities ‘‘Jess’’ to ‘‘Lynn’’, including Kerry and Kate,
+Kim and Larry) (Fig. 4 and Fig. SM3) The DRS Stillbay complex has
+been excavated on 3 m2 until now. Several layers have given
+a total of 35 fragmentary or whole Stillbay points shaped from 3
+different raw materials (two local and one imported raw material). A preliminary analysis of the lithic assemblages already
+well documented by rough out as well as characteristic bifacial
+shaping ﬂakes and several broken points showing knapping
+accidents indicates that most of the points have been shaped on
+
+More than ﬁfty stone samples have been brought to the laboratory and been tested for their potential for luminescence dating.
+For each, the natural TL signal was compared to TL signals obtained
+after additional artiﬁcial irradiations. The samples are datable when
+the TL signal is not saturated (i.e. signiﬁcant growth with the added
+dose) and when the shapes of the glow curves (TL in function of
+temperature) are not changing with heat treatments (i.e. a heating
+up to 500  C at 5  C/s for the test). Seventeen samples have thus
+been selected. Seven of them originate from the OB5 unit in squares
+O11, P11 and O12 and are associated with the HP complex (sample
+nos.: DRS 13, 16, 18, 19, 20, 21, 25) (Fig. SM4). DRS 112, 132 and 133
+were discovered in layer ‘‘John’’, square M6 and are also associated
+with the HP levels. Stratigraphic relationships suggest OB5 and
+John might be contemporaneous. The other samples all come from
+squares L6 and M6. DRS 115 and 117 were found in layers «Kerry–
+Kate» while DRS 30, 33, 38, 126 and 131 come from layers «Kim» or
+«Larry», all being attributed to the SB techno-complex.
+All these samples are quartzites, weighing between 26 and
+264 g. For all of them, thin sections were prepared. Optical
+microscopy indicates very few minerals (undetermined heavy
+minerals, amphiboles) other than quartz.
+3.3. Determination of the equivalent dose (De)
+3.3.1. Sample preparation
+The external layer (2 mm) of the sample that was exposed to
+alpha and beta radiations from the sediment was removed by
+sawing in order to simplify the dose rate estimate. Moreover, this
+
+734
+
+C. Tribolo et al. / Journal of Archaeological Science 36 (2009) 730–739
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+K6
+
+100
+
+110
+
+120
+
+130
+
+140
+
+150
+
+160
+
+170
+
+180
+
+190
+
+L6
+
+200
+
+M6
+
+50
+
+50
+
+60
+
+60
+Denzil
+
+70
+
+70
+UP ?
+
+LSA
+
+Debbie
+
+80
+
+80
+
+90
+
+90
+
+100
+
+100
+
+110
+
+110
+S + DOES ?
+
+120
+
+120
+
+130
+
+130
+
+140
+
+140
+
+150
+
+H
+O
+W
+I
+E
+S
+O
+N
+S
+P
+O
+O
+R
+T
+
+150
+
+John
+160
+
+160
+
+Jeff
+170
+
+170
+
+180
+
+180
+
+190
+
+190
+
+200
+
+Kate
+
+Kerry
+
+Kate
+
+210
+
+S + NODOES ?
+
+200
+210
+
+BIFACIAL
+POINTS
+
+220
+
+220
+
+Keno/Kim
+
+230
+
+230
+
+Larry
+
+240
+
+240
+
+250
+
+250
+
+260
+
+260
+
+270
+
+270
+
+280
+
+280
+
+290
+
+290
+
+300
+
+Unexcavated
+
+310
+
+S
+T
+I
+L
+L
+B
+A
+Y
+
+Unexcavated
+
+MSA
+ante-Stillbay
+
+300
+310
+
+Drawing : J. Buisson-Catil and M. Grenet; CAD : P.-J. Texier
+Fig. 4. Stratigraphic plot of section K6–M6. The names of the units where the TL samples come from are indicated. UP: Unifacial points; S þ DOES: segments and decorated ostrich
+eggshells; S þ NODOES: segments and non-decorated ostrich eggshells.
+
+procedure discards the part of the sample exposed to light during
+discovery, whose TL can be partly bleached (Tribolo et al., 2003).
+The core (ca. 2 g) was then crushed to a grain size less than 160 mm.
+The 100–160 mm fraction was then selected by sieving, cleaned
+with hydrochloric acid (but no chemical reaction was observed,
+conﬁrming the absence of carbonates), and rinsed with water,
+ethanol and acetone.
+
+3.3.2. Apparatus for TL measurements
+The TL measurements were performed with a homemade TL
+apparatus (Valladas et al., 1994). Its large heating plate allows the
+measurement of ca. 10 mg aliquots. The detection system was
+composed of a blue ﬁlter (MTO 380 nm), and of an EMI 9635
+photomultiplier tube. Artiﬁcial irradiations were performed with
+a Cs-137 gamma source, delivering 0.02 Gy/s.
+
+C. Tribolo et al. / Journal of Archaeological Science 36 (2009) 730–739
+
+variation of this ratio reaches a minimum (i.e. when the two curves
+become homothetic). The calculation was performed for the
+temperature interval (usually from 340 to 410  C) where the De is
+constant (De plateau) (Fig. 5a).
+The resulting De covers a large range of values, from 52.8  2.5
+to 180.2  8 Gy (Table 1).
+
+70
+
+a
+
+DRS20
+60
+50
+40
+30
+
+De (Gy)
+
+TL signal (u.a.)
+
+nat
+nat+40Gy
+nat+82Gy
+nat+122Gy
+RAZ+29Gy
+RAZ+78Gy
+RAZ+127Gy
+RAZ+175Gy
+plateau
+
+20
+10
+0
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+TL (u.a.)
+
+DRS20
+
+additive
+regenerative
+additive after slide
+0
+
+50
+
+100
+
+150
+
+3.4. Determination of the dose rate
+For each sample, the dose rate includes an internal component,
+mainly due to the alpha and beta rays emitted by the radioisotopes
+present in the artefact and whose ranges in siliceous materials are
+short (ca. 20 mm and 2 mm respectively)1. The dose rate received by
+the core of our samples has also an external component, due to
+gamma rays coming from the surrounding of the stone sample
+(maximum range ca. 40 cm) and cosmic rays (Aitken, 1985).
+
+400
+
+Temperature (°C)
+
+b
+
+735
+
+200
+
+De (Gy)
+Fig. 5. a) TL glow curve for sample DRS 20. ‘‘nat’’ stands for natural, RAZ stands for
+complete resetting before irradiation. The De in function of the temperature (De
+plateau) is also indicated (–). b) Additive (black diamonds) and regenerative (white
+squares) TL growth curves for DRS 20. The additive data points after slide along the
+dose axis are also indicated (grey diamonds).
+
+3.3.3. Characteristics of the TL signal
+For all samples but DRS 30, the natural TL glow curve presents
+two distinct peaks whose relative intensity varies from one sample
+to another (Fig. 5a). One is centred on 270  C, which is not stable for
+the considered time scale (>10 ka; Spooner and Quiestaux, 2000).
+The second peak is centred on 375  C, and, because of its stability,
+has been used for the determination of the De. DRS 33 is the only
+sample to present only one peak, centred on 320  C and which is
+also theoretically stable at the scale of hundred thousands years.
+After irradiation, several other unstable peaks appear at
+temperatures below 260  C. They are eliminated before each TL
+measurement by a cut-heat at 230  C.
+3.3.4. Methodology
+Two growth curves were built up: the additive growth curve,
+obtained when artiﬁcial doses were added to the natural one, and
+the regenerative growth curve, obtained when the artiﬁcial irradiation followed a full resetting of the TL signal by heating (350  C
+during 90 min). Four doses and four aliquots per dose were used to
+build each growth curve (Fig. 5b). The obtained TL versus dose
+points was interpolated either with a quadratic or with an exponential function. Then a slide method was used to calculate the De
+(Mercier et al., 1992). It consists in sliding the additive curve along
+the dose axis and calculating the ratio between the slid additive and
+regenerative curves for different doses: the De is obtained when the
+
+3.4.1. Internal dose rate
+The internal dose rate depends primarily on the content in
+Uranium, Thorium and Potassium of the material extracted. 200 mg
+of the 0–160 mm fraction powder obtained by crushing has thus
+been analysed for each sample by neutron activation. The contents
+are highly variable, from 0.39  0.01 to 2.85  0.06 ppm for U,
+2.23  0.04 to 9.52  0.20 ppm for Th and 0.0304  0.0023 to
+0.6771  0.0078% for K (Table 2).
+The dose rate also depends on the size of the quartz grains from
+which the TL signals originate and on the distance between the
+emitters. To get an estimation of this last parameter, ﬁssion track
+analyses have been performed on 6 quartzites and 1 silcrete from
+the top of the sequence (Tribolo, 2003). Evaluating more accurately
+the distribution of Uranium inside these samples was thus possible:
+as expected, this radioisotope is located in the contact between the
+quartz grains, and in the few minerals other than quartz which are
+observable in thin sections. It was assumed that the distribution
+was the same for Th and K. For the sake of simplicity, the effect of
+concentration in non-quartz minerals has been neglected and it
+was assumed that the radioactive emitters were homogeneously
+distributed outside the quartz grains. As the dose rate depends on
+the size of the quartz grains (the larger the grain, the higher the
+beta and alpha attenuation, and the lower the dose rate), the
+granulometric diagram was determined for each dated quartzite
+following Tribolo et al. (2006): volumetric frequencies of grain sizes
+were determined by image analysis of the thin sections observed
+with an optical microscope (Fig. SM5 and Table SM1) and were
+combined with Mejdahl’s (1979) and Brennan et al.’s (1991)
+attenuation factors.
+For the estimation of the alpha dose rate, it is also important to
+bear in mind the fact that alpha rays do not have the same efﬁciency as beta rays for inducing luminescence. The sensitivity factor
+(S-alpha2) has been determined for 12 out of 17 samples, following
+the methods described by Valladas and Valladas (1982) and Tribolo
+et al. (2001) (Table 2). For eleven samples, the S-alpha shows little
+
+1
+Actually, a small contribution from the gamma produced by the radioisotopes
+present within the stone is also taken into account (Valladas, 1985).
+2
+S-a ¼ ðLa  DbÞ=ðFa  LbÞ, where La and Lb are the luminescence intensities
+induced by the artiﬁcial alpha integrated ﬂux fa (number of a/cm2) and the artiﬁcial beta dose Db (Gy), respectively. The equivalent beta dose rate Daequ.b to be
+considered in the age equation is the product of the S-alpha value and the alpha
+ﬂux rate, which depends on the speciﬁc U and Th alpha ﬂuxes (19 400 and 5377
+respectively; Valladas, 1988) and on the radioisotopic contents of the sample. Thus,
+S-alpha can also be expressed to a ﬁrst approximation as:
+
+S-a ¼ k
+
+½UdsU þ ½ThdsTh
+½UfsU þ ½ThfsTh
+
+where k is the usual k-value (Zimmerman, 1971) and dsU and dsTh are the speciﬁc
+alpha doses for U and Th, respectively.
+
+60  6
+74  8
+67  7
+79  10
+71  11
+77  11
+87  14
+96  10
+83  11
+72  7
+118  11
+99  10
+121  11
+115  12
+127  10
+129  11
+108  9
+60.1  1.8
+75.0  3.4
+52.8  2.5
+109.9  6.2
+67.9  3.0
+75.0  4.3
+77.4  2.9
+75.4  4.2
+133.9  15.4
+73.0  3.0
+95.1  5.0
+88.1  4.8
+96.6  5.2
+110.4  8.5
+130.3  6.2
+180.2  8.0
+74.4  2.1
+0.750  0.038
+0.722  0.075
+0.536  0.045
+0.649  0.125
+0.671  0.130
+0.563  0.108
+0.656  0.127
+0.600  0.031
+0.606  0.031
+0.708  0.033
+0.446  0.024
+0.507  0.052
+0.446  0.023
+0.456  0.024
+0.472  0.023
+0.452  0.022
+0.472  0.023
+
+0.994  0.037
+1.015  0.075
+0.788  0.044
+1.384  0.125
+0.958  0.129
+0.978  0.108
+0.893  0.126
+0.788  0.030
+1.608  0.031
+1.017  0.032
+0.805  0.022
+0.887  0.051
+0.795  0.021
+0.961  0.022
+1.024  0.023
+1.395  0.022
+0.691  0.021
+
+Total (ext) (mGy/a)
+
+25%
+29%
+32%
+53%
+30%
+42%
+26%
+24%
+62%
+30%
+45%
+43%
+44%
+53%
+54%
+68%
+32%
+0.244  0.004
+0.292  0.004
+0.252  0.004
+0.735  0.007
+0.287  0.004
+0.415  0.009
+0.237  0.003
+0.188  0.003
+1.002  0.009
+0.309  0.004
+0.359  0.007
+0.380  0.006
+0.349  0.008
+0.505  0.007
+0.551  0.010
+0.942  0.011
+0.218  0.003
+0.007  0.000
+0.009  0.000
+0.006  0.000
+0.031  0.002
+0.008  0.000
+0.012  0.001
+0.010  0.000
+0.005  0.000
+0.053  0.002
+0.007  0.000
+0.010  0.000
+0.017  0.000
+0.009  0.000
+0.016  0.000
+0.051  0.004
+0.036  0.002
+0.005  0.000
+
+Alpha (mGy/a)
+Beta (mGy/a)
+
+0.212  0.003
+0.262  0.003
+0.226  0.003
+0.638  0.006
+0.256  0.003
+0.325  0.003
+0.204  0.002
+0.166  0.003
+0.897  0.008
+0.278  0.003
+0.309  0.005
+0.335  0.005
+0.282  0.004
+0.445  0.006
+0.450  0.007
+0.800  0.008
+0.196  0.003
+0.026  0.003
+0.022  0.002
+0.020  0.003
+0.066  0.005
+0.022  0.002
+0.078  0.008
+0.022  0.003
+0.017  0.002
+0.053  0.003
+0.023  0.002
+0.040  0.005
+0.028  0.003
+0.058  0.007
+0.044  0.005
+0.051  0.005
+0.106  0.008
+0.017  0.002
+
+Gamma (int) (mGy/a)
+
+O11c
+O11c
+012c
+P11c
+P11c
+P11d
+P11c
+M6d
+M6c
+M6b
+M6d
+M6d
+M6d
+M6a
+L6
+L6
+L6
+18
+19
+20
+13
+16
+21
+25
+112
+132
+133
+115
+117
+126
+131
+30
+33
+38
+
+Gamma (ext) (mGy/a)
+
+0.730  0.036
+0.702  0.075
+0.516  0.044
+0.629  0.125
+0.651  0.129
+0.543  0.108
+0.636  0.126
+0.580  0.029
+0.586  0.030
+0.688  0.032
+0.426  0.022
+0.487  0.051
+0.426  0.021
+0.436  0.022
+0.452  0.021
+0.432  0.020
+0.452  0.021
+HP
+HP
+HP
+HP
+HP
+HP
+HP
+HP
+HP
+HP
+SB
+SB
+SB
+SB
+SB
+SB
+SB
+
+Dose rates
+Complex
+Layer
+Square
+
+OB5
+OB5
+OB5
+OB5
+OB5
+OB5
+OB5
+John
+John
+John
+Kerry–Kate
+Kerry–Kate
+Kim–Larry
+Kim–Larry
+Kim–Larry
+Kim–Larry
+Kim–Larry
+
+Total (int) (mGy/a)
+
+Internal/total
+
+Total (mGy/a)
+
+AGE (ka)
+De (Gy)
+
+C. Tribolo et al. / Journal of Archaeological Science 36 (2009) 730–739
+
+Sample DRS.
+
+Table 1
+Equivalent doses, dose rates and age data. The external gamma dose rates take into account the mean of the doses obtained for the associated dosimeters (see Fig. SM 5). A correction for the attenuation due to the stone sample itself
+has been applied (Valladas, 1985). The current water content is considered representative of the past and no further correction was applied. The correction of the alpha dose rate accounts for the difference between beta and alpha
+sensitivity. The cosmic dose rate is 0.02  0.01 Gy/ka for all samples and is included in the total external dose rate. The error associated to the dose rates is statistic, but for the external gamma dose where the standard deviation of the
+doses for the associated dosimeter has been used. For the external gamma dose rate, a systematic error of 10% has been added quadratically for the ﬁnal calculations, taking into account the uncertainty for the calibrated source and
+the uncertainty on the temporal stability of the dose rate. For the internal dose rate, a 10% systematic error is also used for the estimation of the U, Th and K content and 2% for the alpha sensitivity. For the equivalent dose, the
+uncertainty in the table is statistic and a 1.5% systematic error has been used. The uncertainty on the age (one sigma) is the quadratic sum of the statistic and systematic error.
+
+736
+
+Table 2
+Data used for the calculation of the internal dose rate, i.e. U, Th and K contents
+deduced from neutron activation analysis and alpha sensitivities (S-alpha). The
+uncertainties indicated here are statistic only.
+Sample
+DRS.
+
+Concentrations within the sample
+U (ppm)
+
+Th (ppm)
+
+K (%)
+
+18
+19
+20
+13
+16
+21
+25
+112
+132
+133
+115
+117
+126
+131
+30
+33
+38
+
+0.40  0.01
+0.60  0.01
+0.37  0.01
+3.60  0.04
+0.99  0.02
+1.54  0.02
+0.39  0.01
+0.47  0.01
+1.66  0.03
+0.59  0.02
+0.47  0.01
+0.77  0.02
+0.72  0.01
+2.31  0.04
+2.85  0.06
+1.94  0.04
+0.39  0.01
+
+3.09  0.06
+3.24  0.06
+2.24  0.04
+1.98  0.05
+2.04  0.05
+2.36  0.04
+2.66  0.04
+2.75  0.06
+8.48  0.16
+2.74  0.05
+3.99  0.08
+4.49  0.09
+3.34  0.06
+2.83  0.05
+4.91  0.10
+9.52  0.20
+2.23  0.04
+
+0.1631  0.0043
+0.2072  0.0042
+0.2189  0.0034
+0.2007  0.0033
+0.1623  0.0020
+0.1642  0.0027
+0.1348  0.0021
+0.1205  0.0035
+0.6771  0.0078
+0.2425  0.0033
+0.2691  0.0069
+0.2278  0.0051
+0.2101  0.0049
+0.2025  0.0050
+0.0304  0.0023
+0.5927  0.0080
+0.1663  0.0033
+
+S-alpha
+(mGy/1000
+alpha/cm2)
+6.65  0.11
+6.57  0.18
+6.20  0.09
+6.2  0.4
+6.2  0.4
+6.2  0.4
+6.2  0.4
+6.26  0.18
+6.27  0.33
+6.2  0.4
+6.32  0.16
+6.53  0.13
+5.66  0.17
+5.77  0.20
+8.49  0.97
+6.11  0.52
+5.44  0.12
+
+variation (relative standard deviation of 6% only) and the mean
+value (6.2  0.4 mGy/1000 alpha/cm2) has thus been used for the
+ﬁve samples left unmeasured. DRS 33 has a slightly higher S-alpha
+value (8.49  0.97 mGy/1000 alpha/cm2).
+3.4.2. External dose rate
+The cosmic dose rate has been deduced from the estimated
+thickness of the roof (25 m), and calculated after Prescott and
+Hutton (1994). The contribution of cosmic rays passing through the
+opening of the shelter was assumed to be negligible. The cosmic
+dose rate is then 0.02  0.01 Gy/ka.
+In order to determine the gamma dose rate, 27 CaSO4 dosimeters were inserted in the available sections and were left for ca. one
+year. The deduced gamma dose rates are presented on Fig. SM5. The
+high variability at the top of squares O–Q 11 and O10 (0.49–0.90 Gy/
+ka), which appeared problematic for the preceding TL dating work
+(Tribolo, 2003), seems to decrease in the lower levels in square P11
+and in square M6 (8 values between 0.49 and 0.57 Gy/ka for
+Z > 200 cm). These dose rates take into account the water content
+of the sediment during the burial time of the dosimeters. We
+believe however that the current water content is not signiﬁcantly
+different from the past mean one. Indeed, as expressed earlier, the
+exceptional preservation of the organic materials (seeds, plants.),
+and the presence of salt crystals (gypsum and halite) which are
+highly soluble, both suggest that the core of the sediment has
+remained nearly dry, as it is the case nowadays; the runoff that
+eventually reworked the surface sediments during their accumulation was not followed by important percolations.
+This assumption also suggests that the 238U decay chain, which
+contains several soluble radioisotopes (238U, 234U and 226Ra), was
+not disturbed by water ﬂows during burial time. High resolution
+gamma spectrometry was performed on 13 sediment samples
+distributed all along the stratigraphy in order to observe the state of
+equilibrium of the U decay chain and estimate the respective
+contribution of U, Th and K in the gamma dose rate (Table 3).
+Disequilibrium is actually observed for the U decay chain but
+there is no clear correlation between the stratigraphic position of
+the sample and the state of disequilibrium. The analyses also show
+that the Uranium from the sediment contributes to ca. 22% of the
+external gamma dose rate and subsequently to only 7–17% to
+the total dose rate. The eventual evolutions of the dose rate due to
+the disequilibrium in the U decay chain will therefore be of minor
+impact regarding the age estimation. The disequilibrium might
+
+31%
+32%
+27%
+33%
+33%
+30%
+29%
+28%
+34%
+29%
+30%
+29%
+28%
+
+Th
+K
+
+47%
+49%
+55%
+44%
+46%
+51%
+48%
+48%
+43%
+52%
+49%
+49%
+47%
+22%
+18%
+18%
+23%
+21%
+19%
+24%
+24%
+23%
+19%
+21%
+21%
+26%
+
+U
+
+0.623
+0.437
+0.573
+0.831
+0.910
+0.871
+0.746
+0.503
+0.536
+0.489
+0.498
+0.478
+0.435
+0.291
+0.216
+0.317
+0.364
+0.418
+0.441
+0.356
+0.239
+0.229
+0.252
+0.244
+0.235
+0.203
+0.194
+0.142
+0.152
+0.273
+0.301
+0.265
+0.215
+0.143
+0.183
+0.142
+0.149
+0.140
+0.121
+U total
+
+0.138
+0.079
+0.104
+0.195
+0.190
+0.165
+0.176
+0.121
+0.124
+0.094
+0.105
+0.102
+0.112
+0.132
+0.076
+0.100
+0.184
+0.182
+0.157
+0.170
+0.116
+0.119
+0.089
+0.101
+0.099
+0.108
+
+postRa238U
+
+1.198  0.013
+0.888  0.009
+1.305  0.025
+1.497  0.029
+1.722  0.035
+1.816  0.033
+1.464  0.032
+0.983  0.009
+0.944  0.009
+1.039  0.024
+1.004  0.03
+0.968  0.024
+0.834  0.022
+
+preRa238U
+
+0.003
+0.002
+0.002
+0.005
+0.004
+0.004
+0.003
+0.002
+0.003
+0.003
+0.002
+0.002
+0.002
+
+Contribution to the
+external gamma
+dose
+Total
+K
+Th
+U
+
+16.55  0.21
+12.08  0.15
+12.98  0.29
+23.3  0.41
+25.65  0.48
+22.58  0.41
+18.31  0.43
+12.21  0.15
+15.59  0.17
+12.15  0.31
+12.71  0.43
+11.94  0.33
+10.32  0.31
+15.22  1.04
+10.47  0.73
+12.66  1.63
+20.18  2.02
+20.64  2.29
+19.18  1.97
+14.98  2.14
+14.5  0.89
+16.41  0.87
+15.23  1.75
+13.84  2.38
+17.81  1.9
+13.52  1.84
+14.94  0.21
+8.59  0.14
+11.34  0.37
+20.89  0.48
+20.64  0.56
+17.79  0.46
+19.24  0.54
+13.15  0.16
+13.47  0.16
+10.05  0.4
+11.41  0.56
+11.2  0.43
+12.19  0.43
+115
+
+Pb
+210
+
+Ra
+
+226
+
+Th
+234
+
+17.87  0.74
+11.13  0.51
+12.66  1.24
+32.16  1.7
+26.06  1.83
+25.55  1.57
+19.64  1.7
+14.22  0.56
+17.09  0.65
+16.44  1.31
+12.85  1.78
+11.17  1.38
+12.94  1.3
+20
+19
+18
+13
+21
+25
+16
+
+103
+118
+121
+124
+126
+129
+131
+186
+207
+226
+235
+229
+236
+86
+55
+75
+93
+76
+93
+85
+55
+82
+84
+3
+45
+49
+84
+71
+55
+61
+17
+50
+77
+16
+10
+39
+20
+45
+37
+
+Gamma dose rate (Gy/ka)
+Content (%) K
+
+Th
+232
+
+U chain
+
+Activities (Bq/kg)
+
+238
+
+Associated stone
+sample
+Z
+Y
+
+O12
+O11
+O11
+P11
+P11
+P11
+P11
+M6
+M6
+M6
+M6
+M6
+M6
+
+For the gamma spectrometry measurements no radon escape is allowed and
+Pb and 214Bi, the main responsible for the gamma dose, are in equilibrium with
+Ra. However in the sediment, if there was some radon escape or capture, one can
+assume that an equilibrium was reached in a given volume between the resultant
+222
+Rn activity and the rest of the chain, i.e. 214Pb, 214Bi and 210Pb. Thus, the 210Pb
+activity measured would reﬂect this state and the gamma dose due to the 214Pb and
+214
+Bi decay should be deduced from it, rather than from their measured activities.
+226
+
+12038
+12037
+12036
+12031
+12039
+12041
+12034
+12045
+12046
+12048
+12049
+12050
+12053
+
+3
+
+214
+
+X
+
+In a previous study, an inﬁnite radiocarbon age (GifA 102381,
+55 ka) was obtained on plant fragments for the unit ‘‘Buddy–
+Becky’’, above the HP, and 5 TL dates were obtained for the OB1–4
+units (Tribolo, 2003). These ﬁrst results displayed some scatter
+attributed to the high variability of the gamma dose rate in the area
+where the samples came from. However, after taking into account
+the spatial variability of the gamma dose rate, it was concluded that
+the most likely time interval for OB1–4 was 55–65 ka.
+The ages obtained in this study for unit OB5 and below are
+presented on Table 1. They range between 60  6 ka and 87  14 for
+OB5, 72  7 ka and 96  10 for John, both associated with HP artefacts. For the layers associated with SB artefacts ages range from
+99  10 to 118  11 ka (Kerry–Kate) and 108  9 to 129  11 ka
+(Kim–Larry).
+Radiometric dates for the HP techno-complex fall within a 55–
+65 ka interval at Klasies River, Rose Cottage, Boomplaas and Apollo
+11 (Feathers, 2002; Grün et al., 1990b; Miller and Beaumont, 1989;
+Miller et al., 1999; Tribolo et al., 2005a,b; Valladas et al., 2005;
+Vogel, 2000) and are thus consistent with the results previously
+obtained for the OB1–4 unit. The ages for OB5 and John units are
+unusually large, but they are consistent at one or two sigma with
+the oldest estimates for the HP at Border Cave (74  4 and
+76  4 ka; Grün et al., 1990a; Grün and Beaumont, 2001).
+
+Coordinates
+
+4. Ages and discussion
+
+Square
+
+3.4.3. Total dose rate
+As it could be expected from the De variability, the total dose
+rates are also highly variable (Table 1), from 0.691  0.021 to
+1.608  0.031 Gy/ka (statistical uncertainties). The internal dose
+rate contributes for 24–67% of the total dose. Note that the higher
+the contribution of the internal dose rate to the total dose, the
+lower the impact on the ﬁnal age of any variation in the external
+dose rate.
+
+737
+
+BDX
+
+have several origins and hypotheses can be proposed: in 7 out of 13
+cases, the 226Ra activities are up to 39% lower than the 234Th
+activities (Table 3). In order to conciliate the observations of the
+234
+Th/226Ra disequilibrium with the observation of the weakness of
+percolating water, it must be assumed that the disequilibrium was
+present from the time of deposition, with 226Ra supported by 230Th
+(i.e. 238U and 234U in excess compare to 230Th and 226Ra). In that
+case, the long half-life of 238U would have prevented any signiﬁcant
+evolution of the 230Th and 226Ra activities over the last 100 ka.
+Alpha spectrometry will be used in a future work in order to test
+this hypothesis.
+One can also observe that the end of the U decay chain is out of
+equilibrium for some samples: in 5 of 13 cases, the 210Pb activities
+are up to 59% higher or 22% lower than the 226Ra activities. This
+could be imputed to radon escape or capture. While this hypothesis
+remains to be tested, it must be noticed that the U-gamma dose rate
+calculated from the 210Pb activities is only up to 12% higher than the
+U-gamma dose rate calculated from the 226Ra activities3. Again,
+the impact on the total dose rate is minor since the Uranium of the
+sediment only contributes from 7 to 17% to the total dose rate.
+Therefore, the current gamma dose calculated from the dosimeter
+measurements has been used for the calculation of the age.
+
+Table 3
+Results for the analysis of sediments by high-resolution gamma spectrometry. Activities (in Bq/kg) are indicated for the U and Th decay chain, while for K, the content is given in %. The gamma dose rate for U is calculated with the
+238
+U activities for the head of the U chain, and 226Ra activities for the end of it. Total U-gamma dose rate includes the contribution from the 235U family. The last three columns give the relative percentage of U, Th and K contribution to
+the gamma dose rate.
+
+C. Tribolo et al. / Journal of Archaeological Science 36 (2009) 730–739
+
+C. Tribolo et al. / Journal of Archaeological Science 36 (2009) 730–739
+
+The ages for the SB however are much larger than those obtained at
+Blombos Cave for the same kind of sample (TL: 74  5 ka – Tribolo
+et al., 2006, in agreement with the OSL results on sediment – Jacobs
+et al., 2003a,b, 2006 – and ESR on teeth – Jones, 2001), which is the
+only site for which a SB age is currently published. As previously
+mentioned, the analysis of the bifacial foliate points shows that
+they are not technologically different from those of other SB
+assemblages, which could have explained the apparent difference
+in age. Possible methodological caveats that could lead to ages
+erroneously high are further examined.
+In order to get our SB ages about 75 ka, i.e. similar to those
+obtained at Blombos Cave, the De should be up to 60% lower. The
+estimated De could be erroneously high if the past heating had
+been too low, i.e. the TL signal has not been fully reset before burial.
+This should theoretically be apparent when plotting the De in
+function of the temperature: the function should be growing
+(plateau test). However, this behaviour has not been observed for
+any of the samples.
+The main caveat in the determination of the internal dose rate is
+the modelling of the distribution of the radioisotopes. We have
+assumed that the radioisotopes were homogeneously distributed
+outside the quartz grains. If the distribution was not homogeneous,
+the internal dose rates would be lower than those calculated, and
+consequently, the ages higher. On the contrary, so as to get a higher
+internal dose rate, a signiﬁcant part of the radioisotopes should be
+contained inside the quartz grains, which is opposed to the usual
+observations (Aitken, 1985) and to those performed with the ﬁssion
+tracks method on quartzites from the top of the sequence.
+It is possible that the thickness of the roof above the site has
+been overestimated, or that the contribution of the cosmic rays
+directly entering into the shelter is not insigniﬁcant, contrarily to
+our assumption. If so, however, the underestimation of the cosmic
+dose would be <0.2 Gy/ka, which would be too low to explain the
+age difference between our results and those already published:
+most of the dose rates for the SB samples should be at least 0.47 Gy/
+ka higher if the ages were around 75 ka.
+We have argued that the current water content was representative of the past mean one. Supposing that the water content was
+high (e.g. 15%) during the dosimeter burial and was zero during the
+burial time of the quartzite samples, the difference in the dose rate
+for the dosimeters in M6 would be between 0.07 and 0.10 Gy/ka
+only, well below the 0.47 Gy/ka needed.
+The last possibility would be an important and recent departure
+of some radioisotopes. However, as discussed above, while the
+activity of 226Ra is low, its departure could be only through major
+percolations, which is unlikely according to the observations (in
+particular the preservation of fragile organic carbonised remains
+and soluble salt crystals). Neither would the escape of 222Rn have
+an impact strong enough on the gamma dose rate to explain an
+underestimation of the dose rate. As to K input by guano, as
+observed in Hayonim (Mercier et al., 2006), it would have the
+opposite effect on the age estimates.
+As a conclusion, we ﬁnd no valid argument that would support
+the hypothesis of an overestimate in our results. While further
+methodological studies are planed to conﬁrm these results, one can
+already emphasis that 1) the ages for a given level are in general
+agreement (Chi-square test validated) despite the strong variability
+of the internal dose rates and equivalent doses, and 2) they are
+stratigraphically consistent. They are reported on Fig. 6, together
+with the ages obtained in the previous TL study of the OB1–4 units
+(Tribolo, 2003).
+A Bayesian analysis, using Oxcal 4.0 software (Bronk Ramsey,
+1995, 2001) and following Rhodes et al. (2003) recommendations,
+was performed with our TL results to calculate the most likely
+intervals for each level. The boundaries of these intervals are
+(at 68% conﬁdence): 61  4 ka (OB1–4/OB5–John), 93  8 ka
+
+Age (ka)
+25
+
+45
+
+65
+
+85
+
+105
+
+125
+
+145
+
+50
+OB1-2-3-4-top HP
+OB5-HP
+100
+
+John-HP
+Kerry/Kate-SB
+Kim/Larry-SB
+
+elevation (cm)
+
+738
+
+time boundaries
+150
+
+200
+
+250
+
+300
+Fig. 6. Ages as function of the elevations in the site obtained in this work. The time
+boundaries between the various units obtained with the Bayesian analysis have also
+been indicated although the associated elevations do not correspond to any spatial
+boundary in the stratigraphy.
+
+(OB5–John /Kerry–Kate), 113  8 ka (Kerry–Kate/Kim–Larry) and
+128  10 ka (Kim–Larry/underneath). After these results, the SB
+was in place at DRS during Marine Isotopic Stage (MIS) 5, while in
+Blombos and Sibudu, it appeared during MIS 4 only (Wadley, 2007).
+Our current best estimate for the switch from SB to HP at DRS is
+93  8 ka. This is consistent with the Bayesian analysis performed
+by Millard (2006), who suggested that the HP started at Blombos
+cave as early as 82 ka (95% conﬁdence).
+5. Conclusion
+Until recently, the Stillbay techno-complex was radiometrically
+dated at Blombos Cave only and was believed to be restricted to the
+Southern Western Cape (e.g. Henshilwood et al., 2001). The
+discovery of a Stillbay assemblage at Sibudu, 800 km east from this
+area, has already contributed to change our view on its spatial
+distribution (Wadley, 2007). The discovery of another rich Stillbay
+assemblage at DRS now allows us to propose that we should
+eventually also change our view on its chronology. Indeed, while
+the stratigraphy conﬁrms its anteriority to the Howiesons Poort, the
+TL dating of 22 stones samples, for which no major failure could be
+found, suggests that the SB started much earlier than previously
+assumed. Further geochronological and technological studies are
+planed at Diepkloof to conﬁrm these results and try understanding
+why, if need be, HP and SB could have appeared earlier in some sites
+than in others.
+Acknowledgements
+This program was performed, thanks to ﬁnancial contributions
+from: Région Provence-Alpes-Côte d’Azur, Ministère des Affaires
+Etrangères (Mission Diepkloof), program CNRS ATIP (Technical
+changes and innovation in MSA and early LSA of sub-Saharan Africa.
+Rhythm and trends; dir. S. Soriano). We thank the ﬁve reviewers of
+this paper for their useful comments.
+Appendix. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at doi:10.1016/j.jas.2008.10.018.
+
+C. Tribolo et al. / Journal of Archaeological Science 36 (2009) 730–739
+
+References
+Aitken, M.J., 1985. Thermoluminescence Dating. Academic Press, London.
+Brennan, B.J., Lyons, R.G., Phillips, S.W., 1991. Attenuation of alpha particle track
+dose for spherical grains. Nuclear Tracks and Radiation Measurements 18,
+249–253.
+Bronk Ramsey, C., 1995. Radiocarbon calibration and analysis of stratigraphy: the
+OxCal program. Radiocarbon 37 (2), 425–430.
+Bronk Ramsey, C., 2001. Development of the radiocarbon calibration program
+OxCal. Radiocarbon 43 (2A), 355–363.
+D’Errico, F., Vanhaeren, M., Wadley, L., 2008. Possible shell beads from the Middle
+Stone Age layers of Sibudu Cave, South Africa. Journal of Archaeological Science
+35, 2675–2685.
+Feathers, J.K., 2002. Luminescence dating in less than ideal conditions: case studies
+from Klasies River main site and Duinefontein, South Africa. Journal of
+Archaeological Science 29, 177–194.
+Feathers, J.K., Bush, D.A., 2000. Luminescence dating of Middle Stone Age deposits
+at Die Kelders Cave. Journal of Human Evolution 38 (1), 91–119.
+Grün, R., Beaumont, P.B., 2001. Border Cave revisited: a revised ESR chronology.
+Journal of Human Evolution 40, 467–482.
+Grün, R., Beaumont, P.B., Stringer, C.B., 1990a. Electron spin resonance dating
+evidence for early modern humans at Border Cave in South Africa. Nature 344
+(6266), 537–539.
+Grün, R., Shackleton, N.J., Deacon, H.J., 1990b. Electron spin resonance dating of
+tooth enamel from Klasies River Mouth Cave. Current Anthropology 31 (4),
+427–432.
+Henshilwood, C.S., D’Errico, F., Yates, R., Jacobs, Z., Tribolo, C., Duller, G.A.T.,
+Mercier, N., Sealy, J.C., Valladas, H., Watts, I., Wintle, A.G., 2002. Emergence of
+modern human behaviour: Middle Stone Age engravings from South Africa.
+Science 295, 1278.
+Henshilwood, C.S., d’Errico, F., Vanhaeren, M., Van Niekerk, K., Jacobs, Z., 2004.
+Middle Stone Age shell beads from South Africa. Science 304, 404.
+Henshilwood, C.S., Sealy, J., Yates, R., Cruz-Uribe, K., Goldberg, P., Grine, F.E.,
+Klein, R.G., Poggenpoel, C.A., van Niekerk, K., Watts, I., 2001. Blombos Cave,
+Southern Cape, South Africa: preliminary report on the 1992–1999 excavations
+of the Middle Stone Age levels. Journal of Archaeological Science 28, 421–448.
+Jacobs, Z., Duller, G.A.T., Wintle, A.G., Henshilwood, C.S., 2006. Extending the
+chronology of deposits at Blombos Cave, South Africa, back to 140 ka using
+optical dating of single and multiple grains of quartz. Journal of Human
+Evolution 51, 255–273.
+Jacobs, Z., 2004. Development of Luminescence Techniques for Dating Middle Stone
+Age sites in South Africa. Unpublished Ph D. thesis. University of Aberystwyth.
+Jacobs, Z., Wintle, A.G., Duller, G.A.T., 2003a. Optical dating of dune sand from
+Blombos Cave, South Africa: I-multiple grain data. Journal of Human Evolution
+44, 599–612.
+Jacobs, Z., Wintle, A.G., Duller, G.A.T., 2003b. Optical dating of dune sand from
+Blombos Cave, South Africa: II-single grain data. Journal of Human Evolution 44,
+613–625.
+Jones, H.L., 2001. Electron Spin Resonance Dating of Tooth Enamel at Three Palaeolithic Sites. Unpublished M.Sc. thesis. McMaster University.
+Lenoble, A., 2005. Ruissellement et formation des sites préhistoriques: referential
+actualiste et exemples d’application au fossile. In: Bristish Archaeological
+Report International Series, vol. 1363, 212 pp., Oxford.
+Lenoble, A., Martinaud, M., 2003. Apports du pénétromètre à la connaissance d’un
+site préhistorique. Le cas de l’abri de Diepkloof, Province du Cap, Afrique du
+Sud. Revue d’Archéométrie 27, 27–36.
+Mackay, A., Welz, A., 2008. Engraved ochre from a Middle Stone Age context at Klein
+Kliphuis in the Western Cape of South Africa. Journal of Archaeological Science
+35, 1521–1532.
+Mejdahl, V., 1979. Thermoluminescence dating: beta-dose attenuation in quartz
+grains. Archaeometry 21, 61–72.
+Mercier, N., Valladas, H., Froget, L., Joron, J.-L., Reyss, J.-L., Weiner, S., Goldberg, P.,
+Meignen, L., Bar-Yosef, O., Kuhn, S.L., Stiner, M.C., Tillier, A.-m., Arensburg, B.,
+Vandermeersch, B., 2006. Hayonim Cave: a TL-based chronology for this
+Levantine Mousterian sequence. Journal of Archaeological Science 34, 1–14.
+Mercier, N., Valladas, H., Valladas, G., 1992. Some observations on palaeodose
+determination in burnt ﬂints. Ancient TL 10, 28–32.
+Millard, A.R., 2006. Bayesian analysis of ESR dates, with application to Border Cave.
+Quaternary Geochronology 1, 159–166.
+Miller, G.H., Beaumont, P.B., 1989. Dating the Middle Stone Age at Border
+cave, South Africa, by the epimerization of the isoleucine in ostrich egg
+shells. Bulletin of the geological Society Am. Abstracts with programs 21,
+A 235.
+Miller, G.H., Beaumont, P.B., Deacon, H.J., Brooks, A.S., Hare, P.E., Jull, A.J.T., 1999.
+Earliest modern humans in southern Africa dated by isoleucine epimerization
+in ostrich eggshell. Quaternary Science Reviews 18, 1537–1548.
+Minichillo, T., 2005. Middle Stone Age Lithic Study, South Africa: an Examination of
+Modern Human Origins. Unpublished PhD. thesis. University of Washington.
+Parkington, J., Poggenpoel, C., 1987. Diepkloof Rock Shelter. In: Parkington, J.,
+Hall, M. (Eds.), Papers in Prehistory of the Western Cape, South Africa, vol. 332.
+BAR International, pp. 269–293.
+Parkington, J., Poggenpoel, C., Rigaud, J.-P.H., Texier, P.-J., 2005. From tools to
+symbol: the stratigraphic and behavioural context of intentionally marked
+
+739
+
+ostrich eggshell from Diepkloof, Western Cape. In: d’Errico, F., Backell, L. (Eds.),
+From Tools to Symbols. University of Witwatersrand Press, Johannesbourg, pp.
+475–492.
+Porraz, G., Texier, P.-J., Rigaud, J.-P., Parkington, J., Poggenpoel, C., Roberts, D.L., 2008.
+Preliminary characterization of an MSA lithic assemblage preceding the
+‘‘classic’’ Howiesons Poort complex at Diepkloof rock-shelter (Western Cape
+Province, South Africa). In: Lombard, M. (Ed.), Current Themes in Middle Stone
+Age Research. Goodwin Series Volume in Honour of Lyn Wadley, 10, pp. 105–
+121.
+Prescott, J.R., Hutton, J.T., 1994. Cosmic ray contributions to dose rates for luminescence and ESR dating: large depths and long-term time variations. Radiation
+Measurements 23, 497–500.
+Piennar, M., 2005. Dating the Stone Age at Rose Cottage Cave, Southern Africa, an
+Exercise in Optically Dating of Cave Sediments. Unpublished Master thesis.
+University of Pretoria.
+Rhodes, E.J., Bronk Ramsey, C., Outram, Z., Batt, C., Willis, L., Dockrill, S., Bond, J.,
+2003. Bayesian methods applied to the interpretation of multiple OSL dates:
+high precision sediment ages from Old Scatness Broch excavations, Shetland
+Isles. Quaternary Science Reviews 22, 1231–1244.
+Rigaud, J.-P., Texier, P.-J., Parkington, J., Poggenpoel, C., 2006. Le mobilier Stillbay et
+Howiesons Poort de l’abri Diepkloof. La chronologie du Middle Stone Age sudafricain et ses implications. Comptes Rendus Palevol 5, 839–849.
+Soriano, S., Villa, P., Wadley, L., 2007. Blade technology and tool forms in the Middle
+Stone Age of South Africa: the Howiesons Poort and post-Howiesons Poort at
+Rose Cottage Cave. Journal of Archaeological Science 34, 681–703.
+Spooner, N.A., Quiestaux, D.G., 2000. Kinetics of red, blue and UV thermoluminescence and optically-stimulated luminescence from quartz. Radiation
+Measurements 32, 659–666.
+Texier, P.J., Porraz, G., Tribolo, C., Rigaud, P.-J., 2008. Technology and techniques
+involved in the shaping of the Stillbay bifacial points after the analysis of some
+of the more characteristic lithic remains from Dale Rose Parlour (Eales cave),
+Hollow rock shelter and Diepkloof rock shelter (Western Cape, South Africa). In:
+19th Safa biennal Meeting, 8–11 September 2008, Frankfurt, Germany.
+Thackeray, A.I., 1992. The Middle Stone Age south of the Limpopo River. Journal of
+World Prehistory 6 (4), 385–440.
+Tribolo, C., Mercier, N., Valladas, H., 2005a. Chronologie des techno-faciès Howieson’s Poort et Still Bay (Middle Stone Age, Afrique du Sud): Bilan et nouvelles
+données de la luminescence. Bulletin de la Société Préhistorique Française 102,
+855–866.
+Tribolo, C., Mercier, N., Valladas, H., 2005b. Chronology of the Howieson’s Poort and
+Still Bay techno-complexes: assessment and new data from luminescence. In:
+D’Errico, F., Backwell, L. (Eds.), From Tools to SymbolsFrom Hominids to Modern
+Humans, International Round Table, Johannesburg, 16–18 March 2003, pp.
+493–511.
+Tribolo, C., Mercier, N., Sélo, M., Valladas, H., Joron, J.-L., Reyss, J.-L.,
+Henshilwood, C.S., Sealy, J.C., Yates, R., 2006. TL dating of burnt stones from
+Blombos Cave (South Africa): further evidence for the antiquity of modern
+human behaviour. Archaeometry 48, 341–357.
+Tribolo, C., 2003. Apport des méthodes de la luminescence à la chronologie des
+techno-faciès du Middle Stone Age associés aux premiers Hommes modernes
+du sud de l’Afrique. Unpublished PhD thesis. University of Bordeaux I.
+Tribolo, C., Mercier, N., Valladas, H., 2003. Attempt at using the single-aliquot
+regenerative-dose procedure for the determination of equivalent doses of
+Upper Palaeolithic burnt stones. Quaternary Science Reviews 22, 1251–1256.
+Tribolo, C., Mercier, N., Valladas, H., 2001. Alpha sensitivity determination in
+quartzite using an OSL single aliquot procedure. Ancient TL 19, 47–50.
+Valladas, G., 1988. Stopping power and range for alpha particles in SiO2. Ancient TL
+6 (1), 7–8.
+Valladas, G., Mercier, N., Létuvé, R., 1994. A simple semi-automatic TL apparatus of
+new design. Ancient TL 12, 39–40.
+Valladas, H., 1985. Datation par la thermoluminescence de gisements moustériens
+du sud de la France. Unpublished PhD thesis. Muséum National d’Histoire
+Naturelle and University of Paris VI.
+Valladas, H., Valladas, G., 1982. Effet de l’irradiation alpha sur des grains de quartz.
+PACT 6, 171–178.
+Valladas, H., Wadley, L., Mercier, N., Tribolo, C., Reyss, J.-L., Joron, J.-L., 2005.
+Contribution of thermoluminescence on lithics to the chronology of MSA layers
+of Rose Cottage Cave. South African Journal of Science 101, 169–174.
+Villa, P., Delagnes, A., Wadley, L., 2005. A late Middle Stone Age artefact assemblage
+from Sibudu (KwaZulu-Natal): comparisons with the European Middle Paleolithic. Journal of Archaeological Science 32, 399–422.
+Vogel, J.C., 2000. Radiometric dates for the Middle Stone Age in South Africa. In:
+Tobias, P.V.T., Raath, M.A., Moggi-Cecchi, J., Doyle, G.A. (Eds.), Humanity-from
+African Naissance to Coming Millennia. University of Florence, Florence.
+Wadley, L., 2007. Announcing a Stillbay industry at Sibudu Cave, South Africa.
+Journal of Human Evolution 52, 681–689.
+Wurz, S., 2000. The Middle Stone Age sequence at Klasies River, South Africa.
+Unpublished PhD thesis. University of Stellebosch.
+Wurz, S., 2002. Variability in the Middle Stone Age lithic sequence, 115 000–60 000
+years ago at Klasies River, South Africa. Journal of Archaeological Science 29,
+1001–1015.
+Zimmerman, D.W., 1971. Thermoluminescent dating using ﬁne grains from pottery.
+Archaeometry 13, 29–52.
+
+

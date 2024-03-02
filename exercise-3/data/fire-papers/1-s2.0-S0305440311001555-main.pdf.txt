@@ -1,0 +1,1386 @@
+Journal of Archaeological Science 38 (2011) 2399e2409
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+The application of histomorphometry and Fourier Transform Infrared
+Spectroscopy to the analysis of early Anglo-Saxon burned bone
+Kirsty E. Squires a, *, Tim J.U. Thompson b, Meez Islam b, Andrew Chamberlain a
+a
+b
+
+Department of Archaeology, University of Shefﬁeld, Northgate House, West Street, Shefﬁeld S1 4ET, UK
+School of Science & Engineering, Teesside University, Borough Road, Middlesbrough TS1 3BA, UK
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 8 December 2010
+Received in revised form
+19 April 2011
+Accepted 29 April 2011
+
+Macroscopic examination, histomorphometry and Fourier Transform Infrared Spectroscopy (FTIR) are
+applied to the analysis of burned bones from the early Anglo-Saxon cemetery at Elsham in Lincolnshire,
+UK. These methods were undertaken to gain a greater understanding of pyre conditions from an
+archaeological context and the effects of burning on bone microstructure. Sixteen samples were
+employed for thin-section analysis while eight samples were used with FTIR. The results suggest that
+these methods correspond well with macroscopic examination, though anomalies did occur. The techniques employed in this paper have demonstrated that the temperatures reached on the funerary pyres
+at Elsham ranged from 600  C to over 900  C under oxidizing conditions.
+Crown Copyright Ó 2011 Published by Elsevier Ltd. All rights reserved.
+
+Keywords:
+Burned bones
+FTIR
+Histomorphometry
+Anglo-Saxon
+Elsham
+
+1. Introduction
+The early Anglo-Saxon period is known for its rich burial
+assemblages and large inhumation and cremation cemeteries.
+These cremation cemeteries are concentrated in eastern England,
+among the largest and best studied are Spong Hill, Norfolk,
+Sancton I, East Riding of Yorkshire and Loveden Hill, Lincolnshire
+(Fennell, 1964; Timby, 1993; McKinley, 1994). Furthermore this
+region holds the most evidence for the practice of cremation
+funerary rites between the ﬁfth and seventh centuries AD, though
+inhumation has a more generalised distribution. In the majority of
+areas, inhumation and cremation were carried out alongside each
+other. Unfortunately, cremated bones that were excavated from
+these cemeteries have long been neglected on the basis that little
+information could be extracted from these remains (Myres, 1947,
+2). However, over the past twenty years interest in Anglo-Saxon
+cremation cemeteries has signiﬁcantly increased. This new found
+attention appears to have been a result of methodological
+advances in biological anthropology to assess the demographic
+and life history attributes of such sites. Generally, these studies
+have failed to incorporate more technical analyses. A more
+
+* Corresponding author.
+E-mail addresses: prp08kes@shefﬁeld.ac.uk (K.E. Squires), T.Thompson@tees.ac.
+uk (T.J.U. Thompson), M.Islam@tees.ac.uk (M. Islam), A.Chamberlain@shefﬁeld.ac.uk
+(A. Chamberlain).
+
+nuanced understanding of how the analysis of heat-induced
+change in bone can provide valuable information about pyre
+technology and the funerary process. Subsequently, the use of
+these methods would allow a greater insight of the cremation
+process and its effects on human bone and has been demonstrated
+by studies of skeletal material from other periods and from
+forensic contexts (Table 1).
+A common method employed to assess pyre conditions is
+macroscopic examination of cremated bone. The main focus of such
+analysis explores the colour of bone to determine the temperature
+range and oxidising conditions of the funerary pyre. Insufﬁcient
+oxygen would have created a reducing, rather than oxidizing
+atmosphere, thus the bone would have been charred and appear
+blue to grey in colour as opposed to oxidizing conditions in which
+the bone would turn a buff to white colour (McKinley, 2000, 405).
+(Shipman et al. (1984), 312e313) devised ﬁve distinct groups based
+on the heating stages of bone tissue and the resulting colours at
+different temperatures ranging from pale yellow through brown,
+black, bluish grey, light grey and white. Nonetheless, it has been
+noted by a number of authors that colour is a poor criterion in
+judging the degree of incineration and the examination of colour
+alone cannot determine the attained temperature of a cremation
+pyre as heat varied throughout the structure (Herrmann, 1977;
+Thompson, 2004). Furthermore the colour of bone may have
+changed after deposition in the ground (Taylor et al., 1995, 116).
+More recently Munro et al. (2007) explicitly associated colour
+change with temperature of burning. Most signiﬁcantly, Walker
+
+0305-4403/$ e see front matter Crown Copyright Ó 2011 Published by Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2011.04.025
+
+2400
+
+K.E. Squires et al. / Journal of Archaeological Science 38 (2011) 2399e2409
+
+Table 1
+Structural analyses performed on burned bone from archaeological and modern contexts.
+Method
+
+Description of technique
+
+References
+
+Histological changes to bone
+
+Thin-section analysis used to identify structural
+changes that occurred through the burning process
+Examines the structural changes of bone tissue
+when heated
+Employed to illustrate that heating causes an increase
+in the crystal size of hydroxyapatite in cremated bone
+Determines the crystal size, shape, and orientation
+within bone, independent of crystal lattice perfection
+at different temperatures
+Employed to examine changes to the Crystallinity
+index; carbonate to phosphate ratio (C/P) and
+carbonate to carbonate ratio (C/C)
+
+Forbes 1941; Herrmann 1977; Bradtmiller and Buikstra 1984;
+Hummel and Schutkowski 1993.
+Holden et al., 1995; Holden et al. 1995b; Quatrehomme
+et al. 1998; Thompson 2004.
+Rogers and Daniels 2002; Hiller et al. 2003; Enzo et al. 2007;
+Piga et al., 2008
+Hiller et al., 2003
+
+Scanning electron Microscopy (SEM)
+X-Ray diffraction (XRD)
+Small angle X-ray scattering (SAXS)
+
+Fourier Transform Infrared
+Spectroscopy (FTIR)
+
+et al. (2008) have improved our understanding of the relationship
+between the colour of cremated bone and temperature, duration of
+burning, availability of oxygen and organic compounds through
+evaluating RGB values of postcremation digital images. Despite the
+
+Shahack-Gross et al., 1997; Stiner et al., 2001; Surovell and
+Stiner 2001; Chakraborty et al. 2006; Nagy et al. 2008;
+Thompson et al. 2009; Thompson et al., 2010.
+
+advances currently been made regarding the colour of cremated
+bone, macroscopic and microscopic analyses need to be employed
+in conjunction to gain a more comprehensive picture of pyre
+conditions (Thompson, 2004; Walker et al., 2008, 134).
+
+Fig. 1. Map of Elsham, North Lincolnshire.
+
+K.E. Squires et al. / Journal of Archaeological Science 38 (2011) 2399e2409
+
+Fig. 2. A completely cremated femur fragment from EL75CA(a).
+
+2401
+
+The use of histomorphometry was highlighted by Herrmann
+(1977) and Bradtmiller and Buikstra (1984), who drew attention
+to a number of structural changes that occurred as a result of the
+burning process e although this has not been developed signiﬁcantly since. Together with macroscopic examination, thin-section
+analysis is extremely useful as structural changes of cremated bone
+can be observed at various stages of the cremation process. This can
+provide a better sense of the temperature that funerary pyres
+reached in a way that examining the colour of the remains alone
+cannot. This method can also show how long a cadaver had been
+left on a funerary pyre; for instance if high temperatures were
+reached, though the corpse was only on the pyre for a limited
+amount of time, the cortical bone underlying the periosteal surface
+would show reduced organics while bone in the endosteal region
+would show better preserved microstructure as this area of the
+bone had not been exposed to such high temperatures (Walker
+et al., 2008, 130). Conversely, the fragmentation, fracturing and
+disturbance of bones on the pyre (as a result of possible tending)
+would have caused the endosteal bone to have been directly
+exposed to the ﬁre and would not necessarily be better preserved
+than the periosteal surface (McKinley, 1989, 72). This has implications for the determination and interpretation of wealth or social
+status in Anglo-Saxon communities that practised cremation rites.
+It may be possible that they invested more resources, including
+time and fuel, into the cremation process and burial of a prominent
+member of the community. The major problems with this technique is the fragile nature of cremated bone which often crumbles
+when attempting to cut thin-sections combined with the specialist
+nature of the equipment and expertise required. These kinds of
+issue may deter osteologists and archaeologists from carrying out
+this method as it is prohibitively time consuming. (McKinley
+(1994), 17) noted this problem when discussing the Spong Hill
+material. Despite excluding the method from her study, the author
+stated that it is possible to use this technique in conjunction with
+
+Table 2
+Categories used to classify cremated bone.
+Category and
+category number
+
+Degree of microstructure Temperature
+destroyed (%)
+( C)
+
+Less intensely cremated (I) <50%
+
+Intensely cremated (II)
+
+Completely cremated (III)
+
+>50%
+
+100%
+
+
+
+
+
+300 Ce600 C
+
+600 Ce900  C
+
+900  Cþ
+
+Micrograph of
+comparative thin-sections
+
+Description of structure
+and appearance and other evidence
+used to establish temperature
+Many Haversian systems, a small number
+of Volkmann’s Canals, organic material and
+canaliculi clearly preserved. Some fusion of
+hydroxyapatite (inorganic) crystals. Should be
+very dark grey in colour throughout the bone
+when observed macroscopically.
+
+Outline of Haversian systems that are more
+deﬁned and brown in colour under plane
+polarised light. Very few, if any, Volkmann’s
+Canals and <50% organic material preserved.
+Canaliculi are still evident. Many hydroxyapatite
+crystals have fused causing a disorganised
+arrangement. Should be light grey to white
+in colour throughout the bone when observed
+macroscopically. Glass and copper alloy
+globules / 700e1000  C (McKinley, 1994).
+No Haversian systems, Volkmann’s Canals,
+organic material or canaliculi preserved.
+Hydroxyapatite crystals have completely
+fused. Should be white in colour throughout
+the bone when observed macroscopically.
+Slag debris / over 900  C
+(Henderson et al., 1987).
+
+2402
+
+K.E. Squires et al. / Journal of Archaeological Science 38 (2011) 2399e2409
+
+Table 3
+Macroscopic observations of the samples employed for thin-section and FTIR analyses.
+Burial number
+
+Bone
+
+Section
+thickness
+(microns)
+
+Intensity of
+burning
+
+Munsell
+
+Age group
+
+Sex
+
+Pyre goods
+
+EL75AM (FN 5)
+
+Femur
+
+100
+
+?
+
+Iron nail
+
+Tibia
+
+75
+
+5Y 8/1 (white); GLEY 2 5PB 3/1
+(very dark bluish grey)
+5Y 8/1 (white)
+
+Older mature adult
+
+EL75AO (FN 7)
+
+Younger mature adult
+
+?
+
+None
+
+EL75BK (FN 22)
+
+Humerus
+
+60
+
+EL75BQ (FN21)
+
+Tibia
+
+60
+
+EL76CA(a) (FN
+355(a))
+
+Femur
+
+75
+
+Completely
+cremated
+Completely
+cremated
+Completely
+cremated
+Completely
+cremated
+Completely
+cremated
+
+EL76EI (FN 406)
+
+Femur
+
+100
+
+EL76EQ (FN 414)
+
+Femur
+
+60
+
+EL76MQ (FN 526)
+
+Tibia
+
+100
+
+EL75BY (FN 32)
+
+Humerus
+
+100
+
+EL75CR (FN 43)
+
+Radius
+
+60
+
+EL75GA (FN 101)
+
+Radius
+
+60
+
+EL75HL (FN 130)
+
+Radius
+
+75
+
+EL75PF (FN 268)
+
+Tibia
+
+100
+
+EL75PM(b) (FN
+273(b))
+
+Humerus
+
+60
+
+EL76NA (FN 536)
+
+Ulna
+
+100
+
+Intensely
+cremated
+
+EL76NN (FN 549)
+
+Femur
+
+100
+
+Intensely
+cremated
+
+EL76AK (FN 321).
+EL76JO (FN 483(a))
+EL75BB (FN 13)
+
+Femur
+Femur
+Femur
+
+N/A
+N/A
+N/A
+
+EL75ES (FN 82/
+83/86)
+EL76DH (FN 380)
+
+Femur
+
+N/A
+
+Femur
+
+N/A
+
+Inhumation
+Inhumation
+Less intensely
+cremated
+Less intensely
+cremated
+Less intensely
+cremated
+
+EL76PB (FN 576)
+
+Femur
+
+N/A
+
+Intensely
+cremated
+
+EL75MQ (FN 225)
+
+Femur
+
+N/A
+
+EL76NN (FN 549)
+
+Femur
+
+N/A
+
+Completely
+cremated
+Completely
+cremated
+
+5Y 8/1 (white); GLEY 2 10B 4/1
+(dark bluish grey)
+5Y 8/1 (white)
+
+Child
+
+e
+
+Iron knife
+
+Adolescent
+
+?
+
+None
+
+5Y 8/1 (white)
+
+Younger mature adult
+
+Female
+
+Completely
+cremated
+Completely
+cremated
+
+GLEY 2 10B 6/1 (bluish grey);
+GLEY 1 N 2.5/(black)
+5Y 8/1 (white); GLEY 1 N 7/
+(light grey)
+
+Young adult-younger
+mature adult
+Adolescent
+
+Indeterminate
+
+Glass globules;
+copper alloy
+globules; iron wire ?brooch
+None
+
+Completely
+cremated
+Intensely
+cremated
+Intensely
+cremated
+
+5Y 8/1 (white)
+
+Younger mature adult
+
+Male
+
+5Y 8/1 (white); GLEY 2 10B 6/1
+(bluish grey)
+5Y 8/1 (white); GLEY 1 N 2.5/(black)
+
+Child
+
+e
+
+Young adult-younger
+mature adult
+
+?
+
+Intensely
+cremated
+Intensely
+cremated
+
+5Y 8/1 (white); GLEY 1 N 2.5/(black)
+
+Adult
+
+?
+
+5Y 8/1 (white); GLEY 1 N 2.5/(black)
+
+Younger mature adult-older
+mature adult
+
+?
+
+GLEY 2 10B 4/1 (dark bluish grey);
+GLEY 1 N 2.5/(black)
+5Y 8/1 (white); GLEY 2 10B 7/1
+(light bluish grey);
+GLEY 2 5PB 4/1 (dark bluish grey);
+GLEY 1 N 2.5/(black)
+5Y 8/1 (white); GLEY 2 5PB 7/1
+(light bluish grey);
+GLEY 2 5B 3/1 (very dark bluish grey)
+5Y 8/1 (white); GLEY 2 10B 7/1
+(light bluish grey);
+GLEY 1 N 2.5/(black)
+10 YR 6/6 (brownish yellow)
+10 YR 6/6 (brownish yellow)
+GLEY 2 5B 3/1 (very dark bluish grey)
+
+Older mature adult
+
+Male
+
+Glass globule;
+crystal ?bead;
+ivory
+Ivory
+
+Older mature adult
+
+Probable male
+
+None
+
+Adult
+
+?
+
+None
+
+Younger mature adult
+
+Male
+
+Bone point/awl
+
+Adult
+Older mature adult
+Young adult-younger
+mature adult
+Young adult-younger
+mature adult
+Young adult-younger
+mature adult
+
+?
+Female
+Probable male
+
+None
+Iron buckle
+Glass bead
+
+Indeterminate
+
+Ivory
+
+Indeterminate
+
+GLEY 2 5PB 4/1 (dark bluish grey)
+
+Younger mature adult
+
+Indeterminate
+
+5Y 8/1 (white)
+
+Young adult-younger
+mature adult
+Younger mature adult
+
+Probable male
+
+Burnt copper
+alloy fragments;
+comb fragment
+Glass bead; glass
+globule; comb;
+antler object
+Fragment of
+bone pin/needle
+Bone point/awl
+
+Intensely
+cremated
+Intensely
+cremated
+
+GLEY 2 5B 2.5/1 (bluish black)
+GLEY 2 5B 3/1 (very dark bluish grey)
+
+GLEY 2 10B 7/1 (light bluish grey)
+
+archaeological material. This is supported by Herrmann’s (1977)
+study that employed thin-section analysis with Iron Age
+cremated bone samples.
+Fourier Transform Infrared Spectroscopy (FTIR) has only
+recently been applied to the analysis of cremated bones. FTIR
+produces a spectrum from a given material based on the absorption
+of infrared radiation. Key values from peaks along these spectra can
+be used to create a number of ratios, including the Crystallinity
+
+?
+
+Male
+
+Copper alloy
+globule; iron
+wire/pin;
+miniature comb;
+ivory
+Decorated burnt
+bone object
+Iron knife
+Glass globules;
+copper alloy
+object; part of a
+comb; ivory
+None
+
+Index (CI) and the carbonate to phosphate ratio (C/P), which can
+then be used to gain a greater understanding of temperature and
+duration of the cremation process. The Crystallinity Index, or
+‘splitting factor’, is the more common ratio, and is a measure of the
+structure order of the crystals within a bone (Trueman et al. 2008).
+When these crystals are heated they become larger and/or more
+ordered (Stiner et al., 2001, 650). The C/P ratio decreases as
+a consequence of the carbonate fraction decomposing at higher
+
+K.E. Squires et al. / Journal of Archaeological Science 38 (2011) 2399e2409
+
+2403
+
+Fig. 5. Micrograph of EL75CR under plane polarized light.
+
+Fig. 3. Micrograph of EL75CA(a) under plane polarized light.
+
+temperatures (Thompson et al., 2009). The examination of these
+ratios will allow for a complementary interpretation of funerary
+activity when combined with examining thin-section micrographs,
+with regards to the temperature and duration of a cremation. The
+main reason for this is the increasing proportion of the inorganic
+fraction following loss of the organics as a result of the cremation
+process. (Thompson et al. (2009), 914) conducted a controlled
+experiment to investigate the relationship between temperature of
+burned bone and changes to the structure of the inorganic fraction
+and concluded that FTIR can distinguish cremated bones from low
+intensity and high intensity burnings. Interestingly, (Thompson
+et al. (2009), 913) also observed that the disappearance of
+collagen occurred at 700  C. This is noteworthy as other authors,
+
+Fig. 4. An intensely cremated radius fragment from EL75CR.
+
+despite employing different methods, have noted that this is the
+temperature when major changes occur to the bone structure
+(Herrmann, 1977; Newesely, 1988; Nicholson, 1993; Thompson,
+2004).
+This paper aims to shed further light on early Anglo-Saxon
+funerary ritual and pyre technology through the combined use of
+histomorphometry and FTIR analysis, which is yet to be employed
+in conjunction with cremated remains from this period. The use of
+these methods will contribute to archaeologists’ understanding of
+the efﬁciency of these techniques, especially with regards to
+archaeological and modern material from unknown contexts. The
+combined use of macroscopic examination, histomorphometry and
+FTIR analysis have been carried out as the utilisation of histology is
+rarely incorporated in studies examining other aspects of the
+burning process, such as duration and temperature of the funerary
+pyre, yet it could provide a great amount of information (Cunha
+et al., 2009, 5).
+2. Materials and methods
+The samples selected for this study derive from the early AngloSaxon cremation cemetery of Elsham in North Lincolnshire, U.K.
+(Webster and Cherry, 1977; Richards, 1987; Bond, 1996; Leahy,
+2007) (Fig. 1). All Anglo-Saxon cremation sites are dated between
+the ﬁfth and sixth centuries, tentatively extending into the seventh
+century. The entire cemetery was excavated between 1975 and
+1976, from which ﬁve hundred and seventy seven cremation
+burials were recovered. The original bioarchaeological assessment
+was conducted by Mary Harman in 1976 who explored
+the biological age and sex of the community of the Elsham cemetery. However, as a result of the developments in biological
+anthropology and more standardised recording techniques, a reassessment of the material was conducted by the ﬁrst author of this
+paper. All individuals assessed in this paper were adults based on
+McKinley’s age categories employed in the Sancton I and Spong Hill
+reports (Timby, 1993, 289; McKinley, 1994, 19).
+A total of three comparative thin-sections of burned bone were
+prepared by Bhayro (2003) and micrographs of these slides were
+taken by the primary author. These samples derived from
+a deﬂeshed adult human femur from a modern anatomical specimen, though its origin is unknown. Each sample was subjected to
+heating in a Lenton Eurotherm 902P furnace for 15 min at 300  C,
+600  C and 900  C, respectively (Bhayro, 2003, 25). An advantage of
+
+Fig. 6. Micrograph of EL75CR under cross polarized light.
+
+2404
+
+K.E. Squires et al. / Journal of Archaeological Science 38 (2011) 2399e2409
+
+Fig. 9. An intensely cremated humerus fragment from EL75PM(b).
+Fig. 7. An intensely cremated radius fragment from EL75GA.
+
+these temperatures is that they closely match those used in other
+experimental burned bone studies. These comparative thinsections are stored in the slide collection in the Department of
+Archaeology at the University of Shefﬁeld. Table 2 shows the details
+of the three standardised categories employed in this study to
+classify the changes to bone microstructure as a consequence of the
+cremation process. These include less intensely cremated, intensely
+cremated and completely cremated categories. The presence of
+pyre and artefact debris was also recorded as further evidence of
+temperature.
+2.1. Thin-section analysis
+Sixteen samples were chosen at random, all of which were taken
+from single burials (Table 3). The only condition of this sampling
+method was that the remains were taken from adult long bones as
+these are the most suited to thin sectioning. These samples were
+initially cleaned of any dirt that remained on the bone surface. The
+colour of bone from each sample was recorded using Munsell soil
+colour charts (Munsell, 2000). They were then placed into individual cubes of an ice cube container and a small quantity of LR
+White resin mixed with a polymerisation accelerator (Agar Scientiﬁc) was poured into each individual cube ensuring that the bone
+
+Fig. 8. Micrograph of EL75GA under plane polarized light.
+
+was covered. The container holding the samples was consequently
+placed into a sink of cold water to counter the heat which was
+produced as a result of the chemical reaction. Once the bone was
+soundly embedded in the resin each sample was thin-sectioned
+using a Leica SP 1600 saw microtome at a speed of 600RPM.
+Sections were cut to either sixty, seventy ﬁve or one hundred
+microns due to the fragile nature of the bone. Once cut, the
+embedded thin-section was mounted between two glass slides.
+Micrographs were then taken of the thin-sections to allow analyses
+of the microstructure of the cremated bone. A Leitz LaborLux 12
+Pols microscope was used so that the samples could be observed in
+plane polarized and cross polarized light. Magniﬁcation remained
+at 25 throughout the process. A Canon EOS300D camera was
+utilised to capture images of the bone microstructure. The images
+were then imported on to remote capture software. The microstructure of the archaeological samples was subsequently
+compared with the experimental specimens, where temperature of
+burning was known. Other factors such as the presence of pyre
+debris and macroscopic colour of the bone were considered
+throughout. Macroscopic and microscopic examinations were
+
+Fig. 10. Micrograph of EL75PM(b) under plane polarized light.
+
+K.E. Squires et al. / Journal of Archaeological Science 38 (2011) 2399e2409
+
+2405
+
+Fig. 13. Micrograph of EL76NN under plane polarized light.
+
+Fig. 11. Micrograph of EL75PM(b) under cross polarized light.
+
+employed in this study to gain a better understanding of pyre
+temperatures during the early Anglo-Saxon period. The use of
+histomorphometry also aims to show differential burning of the
+body which may illuminate the position of the individual on the
+pyre.
+2.2. FTIR analysis
+A total of eight samples were selected at random for this analysis, all of which derived from single burials. Samples were taken
+from two inhumed individuals (EL76AK; EL76JO), three less
+intensely cremated (EL75BB; EL75ES; EL76DH), one intensely
+cremated (EL76PB) and two completely cremated (EL75MQ;
+EL76NN) from the Elsham assemblage (Table 3). The colour of each
+bone was recorded using Munsell soil colour charts (Munsell, 2000).
+Each sample was taken using a scalpel from the periosteal surface
+of the anterior distal third of a femoral diaphysis and was stored in
+a sealed test tube as recommended by Thompson et al. (2010).
+Inhumed samples, from the same anatomical locations, were used
+as a control for the study. The FTIR-ATR method was used
+throughout this study as it has been shown to be preferred to the
+
+Fig. 12. An intensely cremated femur fragment from EL76NN.
+
+traditional FTIR-KBr procedure (Thompson et al., 2009). A Nicolet
+5700 FTIR Spectrometer controlled by OMNIC 7.3 software was
+used in this study. Spectra were recorded between 2000 cm1 and
+400 cm1 at a resolution of 4 cm1 and an averaging of 16 scans.
+Three replicate measurements were made on each sample. To avoid
+contamination, the diamond stage was cleaned with propanol prior
+to analysing each sample. After a background spectrum had been
+collected, samples were, in turn, placed on to the diamond ATR
+crystal. Once a sample was in place and covered the diamond stage
+sufﬁciently, an adjustable clamp was tightened to ensure good
+contact between the sample and the ATR crystal. Subsequently,
+spectra were automatically recorded using the OMNIC software.
+The application of FTIR analysis in this study aims to identify
+discrete temperature variation between samples, which would not
+be detected through the use of macroscopic and histomorphometric analysis alone.
+3. Results
+3.1. Thin-section analysis
+The determination of temperature based on bone microstructure examination highlighted that eight of the samples were burnt
+at a temperature of at least 900  C and thus fall in to the completely
+cremated category (Figs. 3e5). This was displayed by the destruction of organic material and structure of the bone and the fusion of
+hydroxyapatite crystals, which occurs between 700 and 800  C. The
+fusion of crystals is visible by the disappearance of osteocyte
+lacunae while the diameter of osteons decrease and the diameter of
+Haversian canals increase in size (Mayne Correia, 2006, 279;
+Fairgrieve, 2008, 136). Only two samples exhibit the complete loss
+of microstructure which occurs at over 900  C, namely EL75BK and
+EL76CA(a) (Figs. 2 and 3). The remaining six samples displayed
+osteons, which are lost at around 900  C. This highlights that these
+individuals were cremated on a pyre which reached temperatures
+of at least 900  C.
+The remaining eight samples display evidence of burning at
+lower temperatures and were assigned to the intensely cremated
+grouping. In all instances this was manifested by the clear presence
+of osteons in at least one area of the bone section (Figs. 4e6). This
+suggests a temperature of less than 900  C. When compared with
+the experimental thin-sections it appears that these bone samples
+from Elsham were cremated at temperatures between 600  C and
+900  C.
+Three of the samples, which were assigned to the intensely
+cremated category, produced some interesting results. These
+anomalies are worth investigating further. An intensely cremated
+radius fragment was selected from burial EL75GA (Fig. 7). Under
+
+Fig. 14. Micrograph of EL76NN under cross polarized light.
+
+2406
+
+K.E. Squires et al. / Journal of Archaeological Science 38 (2011) 2399e2409
+
+Table 4
+Combined colour and FTIR data for the Anglo-Saxon skeletal samples.
+Sample number
+
+Intensity of burning
+
+Munsell code
+
+Mean CI
+
+SD CI
+
+Mean C/P
+
+SD C/P
+
+EL76AK
+EL76JO
+EL75BB
+EL75ES
+EL76DH
+EL76PB
+EL75MQ
+EL76NN
+
+Inhumation
+Inhumation
+Less intensely cremated
+Less intensely cremated
+Less intensely cremated
+Intensely cremated
+Completely cremated
+Completely cremated
+
+10 YR 6/6 (brownish yellow)
+10 YR 6/6 (brownish yellow)
+GLEY 2 5B 3/1 (very dark bluish grey)
+GLEY 2 5B 2.5/1 (bluish black)
+GLEY 2 5B 3/1 (very dark bluish grey)
+GLEY 2 5PB 4/1 (dark bluish grey)
+5Y 8/1 (white)
+GLEY 2 10B 7/1 (light bluish grey)
+
+3.31
+3.59
+5.13
+3.78
+4.79
+4.91
+4.84
+6.07
+
+0.19
+0.18
+0.28
+0.39
+0.15
+0.26
+0.17
+1.10
+
+0.39
+0.27
+0.11
+0.21
+0.11
+0.11
+0.07
+0.05
+
+0.06
+0.03
+0.01
+0.02
+0.01
+0.01
+0.01
+0.01
+
+plane polarized light the periosteal region and external cortical
+bone displays no structure and suggests this area of the bone was
+heated to temperatures of at least 900  C (Fig. 8). A section of the
+inner cortical bone shows the presence of osteons, and the structure closely resembles that of the experimental section ﬁred at
+600  C. However, the endosteum and surrounding area exhibit
+fewer osteons and less organised structure, indicating the fusion of
+hydroxyapatite crystals suggesting a temperature of 900  C.
+Unfortunately a cross polarized micrograph of this sample was
+unavailable for analysis. Over 50% of the bone microstructure has
+been destroyed. A number of heat-induced fractures were distinguishable from the plane polarized micrograph. The bone fragment
+is black in the central section but is white in the endosteum and
+periosteum regions, thus the use of both colour and examination of
+bone microstructure was successful in accordance with Shipman
+et al. (1984) ﬁve stages of burning. Based on macroscopic and
+microscopic examination, a temperature range of 600e900  C can
+be assigned to this radius fragment.
+The sample selected from burial EL75PM(b) (FN 273(b)) was
+taken from an intensely cremated humerus fragment (Fig. 9). Under
+plane polarized light the central section of this bone displayed
+many osteons and some degree of structure, though many
+hydroxyapatite crystals have fused causing a disorganised
+arrangement (Fig. 10). At either side of this section, two dark areas
+suggested decreased mineral content. This was particularly evident
+in the periosteal region which could be clearly seen on the cross
+polarized light micrograph (Fig. 11). The endosteal region of bone
+shows a small number of Haversian systems in an even more disorganised arrangement when compared to the central section of
+bone, suggesting exposure to higher temperatures and the fusion of
+hydroxyapatite crystals. Over 50% of the bone microstructure has
+been destroyed in this fragment. No heat-induced fractures were
+apparent from this thin-section. The thin-section examined ranges
+in colour from black to white and corresponds to the bone microstructure accordingly. However, the black central section of bone,
+towards the endosteum, displays no microstructure and consequently disagrees with Shipman et al. (1984) ﬁve stages of burning.
+Therefore, based on macroscopic and microscopic examination,
+a temperature range of 600e900  C can be assigned to this
+specimen.
+0.5
+
+C/P
+
+0.4
+
+Complete
+Complete
+
+0.3
+
+Intense
+
+0.2
+
+Less Int
+Less Int
+
+0.1
+
+Less Int
+Inhumed
+
+0
+0
+
+2
+
+4
+
+6
+
+8
+
+CI
+Fig. 15. CI and C/P ratios for the Elsham skeletal material.
+
+Inhumed
+
+An intensely cremated femur fragment was selected from burial
+EL76NN (FN 549) (Fig. 12). This was a different fragment from the
+sample used for FTIR analysis. The majority of the bone structure
+from this section had been destroyed however two main areas
+within the bone still possessed some osteons and structure (Fig. 13).
+This was exempliﬁed on the cross polarized micrograph in which
+some mineral content had survived in the central portion of the
+bone (Fig. 14). Over 50% of the bone microstructure has been
+destroyed. Some small heat-induced fractures were apparent in the
+periosteal and endosteal regions of the bone section. The thinsection examined ranges in colour from white to black and corresponds to the bone microstructure accordingly. Therefore, based on
+macroscopic and microscopic examination, a temperature range of
+600e900  C can be assigned to this ulna fragment.
+3.2. FTIR analysis
+Table 4 presents results of the FTIR analyses. As can be seen,
+there is a general trend with increased cremation intensity of
+increasing CI and a drop in C/P. This is in keeping with previously
+published work (such as Thompson et al., 2009, 2010). Despite the
+relatively large standard deviations present (a likely feature of
+sample size) it is possible to distinguish archaeological unburned
+bone from archaeological burned bone. Further, with the combination of CI and C/P, (Fig. 15) it is possible to note more subtle
+differences and distinguish unburned bone from bone burned at
+low, medium and high intensities.
+It can be seen that the two inhumed samples are separated from
+the burned samples. Although there is not a great difference
+between the CI values for these two inhumed samples and one of
+the less intensively burned samples, there is a clear difference in C/
+P values. Indeed C/P values are of greatest use again when differentiating the completely burned samples from the other burned
+samples. Since there is some debate as to whether CI can be used to
+accurately predict temperature of burning (Thompson et al., 2009)
+it has not been used here in this way, however the conclusions of
+the histological work and the crystallinity ratios are largely in
+agreement. Furthermore, despite the criticisms already highlighted, colour can be useful as a broad indicator of burning
+intensity and it can be seen in Table 4 that temperature correlates
+well with colour which in turn relates well to CI and C/P values. The
+application of CI and C/P to actual archaeological material is rare,
+and it is therefore useful to note that the results from these
+methods correlate well with more established techniques, and
+therefore contribute a reliable and complementary analysis.
+The presence of pyre goods from the Elsham sample was slightly
+higher among remains that were completely cremated but were
+not statistically signiﬁcant, which may be a result of small sample
+size (Fig. 16). 71% of completely cremated burials contained artefacts while 56% of intensely cremated burials contained pyre goods.
+Of course, some objects may not have been collected and deposited
+in an urn after the cremation process and are therefore absent from
+the archaeological record. Based on the lack of evidence, with
+
+K.E. Squires et al. / Journal of Archaeological Science 38 (2011) 2399e2409
+
+Fig. 16. Histogram displaying the presence of pyre goods in relation to degree of
+cremation.
+
+regards to the survival of pyre goods, it is difﬁcult to say if individuals who were cremated for longer periods of time were
+interred with a greater number of pyre goods.
+Interestingly, all of the completely cremated bones belonged to
+the lower limb, with the exception of one humerus sample
+(Table 5). The differential cremation between upper and lower
+limbs was statistically signiﬁcant at the 0.05 level (X2 ¼ 4.06;
+p ¼ 0.041). This creates signiﬁcant sampling considerations for
+techniques such as FTIR analysis as it suggests, similar to histological sections, that different results will be achieved from
+different areas of the body. This is potentially more signiﬁcant with
+the use of CI than histological section, as the numerical differences
+between, for example, burned and unburned archaeological bone,
+can be slight. The results gained from analysis of the Elsham
+remains demonstrate that areas with more fat, such as the thighs,
+were cremated more successfully. This could either be a result of
+their position on the pyre or the amount of fat stored in these
+appendages. This is supported by the presence of numerous
+complete hand phalanges that were recovered relatively unburned
+from the Elsham burials. The inﬂuence of differential burning on
+skeletal analyses will likely be reduced by the application of a range
+of techniques on the material in combination with consistent
+sampling across bodies and studies.
+
+4. Discussion
+The combined use of histomorphometry and FTIR analysis
+generally corresponds well with macroscopic examination, though
+anomalies do occur and demand further explanation. The techniques employed in this paper have demonstrated that the
+temperatures reached on the funerary pyres at Elsham ranged from
+600  C to over 900  C. Based on numerous examples acquired from
+the Elsham samples it appears that high temperatures were achieved, which is exhibited on the periosteum and outer cortical region
+of long bones. However, these bones were not completely cremated,
+
+Table 5
+Differential cremation between the upper and lower limbs.
+Bone
+
+Completely cremated
+
+Intensely cremated
+
+Humerus
+Radius
+Ulna
+
+1
+0
+0
+
+2
+3
+1
+
+Femur
+Tibia
+
+4
+3
+
+1
+1
+
+2407
+
+suggesting they were burnt for a shorter period of time. This indicates that the duration and oxidising conditions of cremation varied
+signiﬁcantly. (Holden et al. (1995), 27) illustrated a relationship
+between the temperature attained in the bone and the distance from
+the periosteum. Longer periods of time would have allowed
+complete cremation as the temperature would have been at a relatively constant heat. In contrast, shorter periods of time would have
+affected the periosteum and outer cortical bone severely but the
+endosteum and inner cortical bone would not have been completely
+cremated. It is difﬁcult to say how long the cremation process would
+have lasted. Duration and oxidation would have depended on many
+factors such as weather conditions, fuel type, size of the pyre and
+physique of the deceased. This is exempliﬁed by ethnographic
+evidence for a pyre in Bali which took two and a half hours with the
+use of gas jets but would normally have taken all day without the use
+of such devices (Downes, 1999, 23).
+Based on the results from the Elsham sample examined in this
+study, it is suggested that some individuals were cremated for longer
+periods of time than others. This has led to a number of inferences
+regarding social status. Rather than basing archaeological understanding on grave goods alone, the techniques used in this article
+propose an alternative avenue, and this is the investigation of the
+time and economic investment that was spent on the cremation
+process. A large funerary pyre may have paralleled contemporary
+richly furnished inhumation burials with regards to visual experience which evoked memories of the deceased. The greater losses
+within a community may have resulted in an elevated ability, and
+perhaps a greater need, to expend resources in a more impressive
+funerary display. It is possible that the cremation rite of a more
+prominent member within society took a longer period of time, as
+the community may have invested larger amounts of fuel, more time
+in the construction of the pyre and subsequent collection of
+cremated material. Literary references that support these points
+come from (Tacitus (1999) 50e51) and Beowulf (Porter, 2006, 185)
+which both discuss the collection of certain types of wood for
+famous men. While in Homer’s Iliad (Homer (2003), 442) it was
+noted that Hector, the deceased, was cremated and his brother and
+comrades collected his white bones. There is a possibility that when
+the bones turned white it may have been a sign that this was the
+stage when a body was ‘completely’ cremated. However, the white
+colour may only have been revealed on the periosteal region while
+the internal cortical structure was not destroyed as a result of lower
+temperatures, deoxidising conditions and a shorter period of time
+exposed to high temperatures.
+Interestingly, all of the completely cremated bones belonged to
+the lower limb, with the exception of one humerus sample. The
+differential cremation between upper and lower limbs was proved
+to be statistically signiﬁcant. It appears that arm positions were
+furthest away from the centre of the pyre. For instance, they may
+have been placed on the cadaver’s torso region, and were perhaps
+also poorly cremated due to the lack of fat on these extremities.
+However, there are less soft tissues around the radius and ulna so
+they would be expected to cremate more successfully than the
+femur, which is surrounded by a greater amount of muscle. At the
+early Anglo-Saxon inhumation cemetery at Berinsﬁeld in Oxfordshire the female with the highest number of grave goods was
+buried in a supine position with her arms folded across her
+stomach. Similarly, the child interred with the greatest number
+grave goods was laid in a supine position with their arms tightly
+ﬂexed across her chest (Boyle et al., 1995, 117). This may suggest
+that individuals of a certain social standing were placed on the pyre,
+or indeed inhumed, in a speciﬁc position. However, further
+research is needed to prove this theory. The results gained from
+analysis of the Elsham remains demonstrate that areas with more
+soft tissues, such as the thighs, were cremated more successfully
+
+2408
+
+K.E. Squires et al. / Journal of Archaeological Science 38 (2011) 2399e2409
+
+which may have been due to their location on the pyre or the
+amount of fat in these locations. This is supported by the presence
+of numerous complete hand phalanges that were recovered relatively unburned from the Elsham burials.
+5. Conclusion
+Macroscopic examination is useful to gain a general idea of
+temperature, though more advanced techniques, in the form of
+thin-section and FTIR analysis are required to gain a more precise
+temperature range. The combined use of these methods can
+contribute to our understanding of cremation temperature and
+duration for osteological material from a variety of contexts. The
+anomalies that were noted in this study highlighted that duration
+was variable in the cremation process. However, further work is
+required to gain a more accurate understanding of the actual
+cremation duration during the early Anglo-Saxon period. This study
+also revealed that the temperature of these pyres ranged from
+600  C to over 900  C. Although pyre debris, such as glass and
+copper alloy globules and slag, were noted when assessing the
+cremated bone further work is required to determine the higher
+temperatures reached by these cremation pyres which exceeded
+900  C. Experimental work would be a good starting point by
+heating human bone to temperatures of over 900  C and subsequently examining it using the methods employed in this paper. It
+would also be useful to examine a number of different bones from
+the same individual to gain a greater understanding of the
+temperatures attained throughout the whole cadaver and their
+position on the funerary pyre. Further work in this area, by
+combining histomorphometry, FTIR analysis and macroscopic
+examination, will not only contribute to our knowledge of pyre
+technology and funerary ritual among past communities who
+practised the cremation rite but will also assist in our understanding of modern cremated material from unknown contexts.
+Acknowledgements
+The authors would like to thank Professor Dawn Hadley
+(University of Shefﬁeld), Toby Martin (University of Shefﬁeld),
+Derek Pitman (University of Shefﬁeld), Gareth Perry (University of
+Shefﬁeld), Helen Hodgson (Teesside University), Rose Nicholson
+(North Lincolnshire Museum), Lisa Bhayro, Freda Berisford and
+Chris Knowles. The FTIR analysis was conducted by the ﬁrst author
+in the School of Science and Engineering at Teesside University.
+TJUT and MI are supported by the Technology Futures Institute. K.
+Squires would like to thank the Arts and Humanities Research
+Council for ﬁnancial support of her PhD research. This paper is
+dedicated to the memory of a dear friend and colleague, Jenna Lynn
+Higgins.
+References
+Bhayro, L., 2003. Histological quantitative and morphological analysis of burned
+and unburned bone. Unpublished MSc dissertation. Shefﬁeld University.
+Bond, J.M., 1996. Burnt offerings: animal bone in Anglo-Saxon cremations. World
+Archaeology 28 (1), 76e88.
+Boyle, A., Dodd, A., Miles, D., Mudd, A., 1995. Two Oxfordshire Anglo-Saxon
+Cemeteries: Berinsﬁeld and Didcot. Oxbow Books, Oxford. Thames Valley
+Landscapes Monograph No. 8.
+Bradtmiller, B., Buikstra, J.E., 1984. Effects of burning on human bone microstructure: a preliminary study. Journal of Forensic Science 29 (2), 535e540.
+Chakraborty, S., Bag, S., Pal, S., Mukherjee, A.K., 2006. Structural and microstructural
+characterization of bioapatites and synthetic hydroxyapatite using X-ray
+powder diffraction and Fourier transform infrared techniques. Applied Crystallography 39, 385e390.
+Cunha, E., Baccino, E., Martrille, L., Ramsthalar, F., Prieto, J., Schuliar, Y., Lynnerup, N.,
+Cattaneo, C., 2009. The problem of aging human remains and living individuals:
+a review. Forensic Science International 193, 1e13.
+
+Downes, J., 1999. Cremation: a spectacle and a journey. In: Downes, J., Pollard, T.
+(Eds.), The Loved Body’s Corruption: Archaeological Contributions to the Study
+of Human Mortality. Cruithne Press, Glasgow, pp. 19e29.
+Enzo, S., Bazzoni, M., Mazzarello, V., Piga, G., Bandiera, P., Melis, P., 2007. A study by
+thermal treatment and X-ray powder diffraction on burnt fragmented bones
+from tombs II, IV and IX belonging to the hypogeic necropolis of “Sa Figu” near
+Ittiri, Sassari (Sardinia, Italy). Journal of Archaeological Science 34, 1731e1737.
+Fairgrieve, S.I., 2008. Forensic Cremation: Recovery and Analysis. CRC Press, Boca
+Raton.
+Fennell, K.R., 1964. The Anglo-Saxon cemetery at Loveden Hill, Lincolnshire, and its
+signiﬁcance in relation to the dark age settlement of the East Midlands.
+Unpublished Ph.D. thesis. University of Nottingham.
+Forbes, G., 1941. The effects of heat on the histological structure of bone. Police
+Journal 14 (1), 50e60.
+Henderson, J., Janaway, R.C., Richards, J.R., 1987. Cremation slag: a substance found
+in funerary urns. In: Boddington, A., Garland, A.N., Janaway, R.C. (Eds.), Death,
+Decay and Reconstruction: Approaches to Archaeology and Forensic Science.
+Manchester University Press, Manchester, pp. 81e100.
+Herrmann, B., 1977. On histological investigations of cremated human remains.
+Journal of Human Evolution 6, 101e103.
+Hiller, J.C., Thompson, T.J.U., Evison, M.P., Chamberlain, A.T., Wess, T.J., 2003. Bone
+mineral change during experimental heating: an X-ray scattering investigation.
+Biomaterials 24, 5091e5097.
+Holden, J.L., Phakey, P.P., Clement, J.G., 1995. Scanning electron microscope observations of incinerated human femoral bone: a case study. Forensic Science
+International 74, 17e28.
+Holden, J.L., Phakey, P.P., Clement, J.G., 1995b. Scanning electron microscope observations of heat-treated human bone. Forensic Science International 74, 29e45.
+Homer, 2003. The Iliad. Penguin Books Ltd, London.
+Hummel, S., Schutkowski, H.,1993. Approaches to the histological age determination of
+cremated human remains. In: Grupe, G., Garland, A.N. (Eds.), Histology of Ancient
+Human Bone. Methods and Diagnosis. Springer-Verlag, Berlin, pp. 111e123.
+Leahy, K., 2007. ‘Interrupting the Pots’. The Excavation of Cleatham Anglo-Saxon
+Cemetery, North Lincolnshire. Council for British Archaeology, York. CBA
+Research report 155.
+Mayne Correia, P.M., 2006. Fire modiﬁcation of bone: a review of the literature. In:
+Haglund, W.D., Sorg, M.H. (Eds.), Forensic Taphonomy: The Postmortem Fate of
+Human Remains. CRC Press, Boca Raton, pp. 275e293.
+McKinley, J.I., 1989. Cremations: expectations, methodologies and realities. In:
+Roberts, C.A., Lee, F., Bintliff, J. (Eds.), Burial Archaeology: Current Research,
+Methods and Developments. BAR British Series 211. BAR, Oxford, pp. 65e76.
+McKinley, J.I., 1994. The Anglo-Saxon Cemetery at Spong Hill, North Elmham Part
+VIII: The Cremations. Field Archaeology Division, Norfolk. East Anglian
+Archaeology Report No. 69.
+McKinley, J.I., 2000. The analysis of cremated bone. In: Cox, M., Mays, S. (Eds.),
+Human Osteology: In Archaeology and Forensic Science. Cambridge University
+Press, Cambridge, pp. 403e421.
+Munro, L.E., Longstaffe, F.J., White, C.D., 2007. Burning and boiling of modern deer
+bone: effects on crystallinity and oxygen isotope composition of bioapatite
+phosphate. Palaeogeography, Palaeoclimatology, Palaeoecology 249, 90e102.
+Munsell, 2000. Munsell Soil Colour Charts. Gretag Macbeth, New York.
+Myres, J.N.L., 1947. Contents of Anglo-Saxon Urns from South Elkington, cited at the
+London Institute of Archaeology, December 1947 (unpublished: Lincoln
+Museum).
+Nagy, G., Lorand, T., Patonai, Z., Montsko, G., Bajnoczky, I., Marcsik, A., Mark, L.,
+2008. Analysis of pathological and non-pathological human skeletal remains by
+FT-IR spectroscopy. Forensic Science International 175, 55e60.
+Newesely, H., 1988. Chemical stability of hydroxyapatite under different conditions.
+In: Grupe, G., Herrmann, B. (Eds.), Trace Elements in Environmental History.
+Springer-Verlag, Berlin, pp. 1e16.
+Nicholson, R.A., 1993. A Morphological investigation of burnt animal bone and an
+evaluation of its utility in archaeology. Journal of Archaeological Science 20,
+411e428.
+Piga, G., Malgosa, A., Mazzarello, V., Bandiera, P., Melis, P., Enzo, S., 2008. Anthropological physicochemical investigation of the burnt remains of Tomb IX in the
+‘Sa Figu’ Hypogeal necropolis (Sassari, Italy) e early Bronze age. International
+Journal of Osteoarchaeology 18, 167e177.
+Porter, J., 2006. Beowulf: Text and Translation. Hockwold-cum-Wilton. Anglo-Saxon
+Books.
+Quatrehomme, G., Bolla, M., Muller, M., Rocca, J.P., Grévin, G., Bailet, P., Ollier, A.,
+1998. Experimental single controlled study of burned bones: contribution of
+Scanning electron Microscopy. Journal of Forensic Sciences 43 (2), 417e422.
+Richards, J.D., 1987. The Signiﬁcance of Form and Decoration of Anglo-Saxon
+Cremation Urns. BAR, Oxford. BAR British Series 166.
+Rogers, K.D., Daniels, P., 2002. An X-ray diffraction study of the effects of heat
+treatment on bone mineral microstructure. Biomaterials 23, 2577e2585.
+Shahack-Gross, R., Bar-Yosef, O., Weiner, S., 1997. Black-Coloured bones in Hayonim
+Cave, Israel: differentiating between burning and Oxide Staining. Journal of
+Archaeological Science 24, 439e446.
+Shipman, P., Foster, G., Schoeninger, M., 1984. Burnt bones and Teeth: an experimental study of color, Morphology, crystal structure and Shrinkage. Journal of
+Archaeological Science 11, 307e325.
+Stiner, M.C., Kuhn, S.L., Surovell, T.A., Goldberg, P., Meignen, L., Weiner, S., BarYosef, O., 2001. Bone Preservation in Hayonim Cave (Israel): a macroscopic and
+Mineralogical study. Journal of Archaeological Science 28, 643e659.
+
+K.E. Squires et al. / Journal of Archaeological Science 38 (2011) 2399e2409
+Surovell, T.A., Stiner, M.C., 2001. Standardizing Infra-red measures of bone mineral crystallinity: an experimental approach. Journal of Archaeological Science 28, 633e642.
+Tacitus, 1999. Agricola and Germany: A New Translation by A.R. Birley. Oxford
+University Press, Oxford.
+Taylor, R.E., Hare, P.E., White, T.D., 1995. Geochemical Criteria for thermal Alteration
+of bone. Journal of Archaeological Science 22, 115e119.
+Thompson, T.J.U., 2004. Recent advances in the study of burned bone and their
+implications for forensic anthropology. Forensic Science International 146S,
+S203eS205.
+Thompson, T.J.U., Gauthier, M., Islam, M., 2009. The application of a new method of
+Fourier Transform Infrared Spectroscopy to the analysis of burned bone. Journal
+of Archaeological Science 36, 910e914.
+Thompson, T.J.U., Islam, M., Piduru, K., Marcel, A., 2010. An investigation into the
+internal and external variables acting on crystallinity index using Fourier
+
+2409
+
+Transform Infrared Spectroscopy on unaltered and burned bone. Palaeogeography, Palaeoclimatology, Palaeoecology. doi:10.1016/j.palaeo.2010.10.04.
+Timby, J., 1993. Sancton I Anglo-Saxon cemetery: excavations carried out between
+1976 and 1980. Archaeological Journal 150, 243e365.
+Trueman, C.N., Privat, K., Field, J., 2008. Why do crystallinity values fail to predict
+the extent of diagenetic alteration of bone mineral? Palaeogeography, Palaeoclimatology, Palaeoecology 266, 160e167.
+Walker, P.L., Miller, K.W.P., Richman, R., 2008. Time, temperature, and oxygen
+availability: an experimental study of the effects of environmental conditions
+on the color and organic content of cremated bone. In: Schmidt, C.W.,
+Symes, S.A. (Eds.), The Analysis of Burned Human Remains. Academic Press,
+London, pp. 129e135.
+Webster, J.E., Cherry, J., 1977. Medieval Britain in 1976. Medieval Archaeology 21,
+204e262.
+
+

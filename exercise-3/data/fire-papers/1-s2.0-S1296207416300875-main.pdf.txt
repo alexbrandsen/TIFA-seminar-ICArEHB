@@ -1,0 +1,1511 @@
+Journal of Cultural Heritage 20 (2016) 696–708
+
+Available online at
+
+ScienceDirect
+www.sciencedirect.com
+
+Cultural HELP 2014 Special Issue
+
+A framework for the simpliﬁed risk analysis of cultural heritage assets
+Xavier Romão a,∗ , Esmeralda Paupério b , Nuno Pereira a
+a
+b
+
+CONSTRUCT-LESE, Faculty of Engineering, University of Porto, Porto, Portugal
+Construction Institute, CONSTRUCT-LESE, Faculty of Engineering, University of Porto, Porto, Portugal
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 29 April 2016
+Accepted 12 May 2016
+Available online 8 June 2016
+Keywords:
+Risk assessment
+Vulnerability
+Hazard
+Built immovable cultural heritage
+Cultural heritage value
+
+a b s t r a c t
+A simpliﬁed risk assessment framework speciﬁcally developed for built immovable cultural heritage
+assets is proposed. The framework addresses all the components in a risk analysis and can be used as a
+screening procedure for the preliminary assessment of a large number of assets with limited resources.
+Furthermore, the framework can also be used to identify cultural heritage assets that require a more
+reﬁned and resource demanding risk evaluation. The proposed risk analysis framework falls into the
+category of qualitative methods and is based on an existing approach developed for the vulnerability
+assessment of critical infrastructures. The qualitative risk analysis of the proposed methodology is based
+on a set of structured assessment ﬂowcharts that address the main components of a risk analysis: the
+likelihood of the hazard, the vulnerability of the asset to the hazard, the consequences of the hazard, the
+loss of value of the asset and the capacity to recover from the event. To illustrate the applicability of the
+proposed methodology, an application example is also presented for the case of seismic risk.
+© 2016 Elsevier Masson SAS. All rights reserved.
+
+1. Introduction and research aim
+Risk is a concept deeply embedded in the collective consciousness of modern society and there is currently a worldwide trend to
+enhance our understanding of risks in order to increase our ability
+to manage them. Although an objective and universal deﬁnition
+of risk is yet to be established [1], it can be seen as a measure
+of the combined likelihood of occurrence of a threatening event
+and of its potential consequences. Such threatening events are usually termed hazards and represent a potentially damaging physical
+event, natural or man-made, that can cause loss of life or injury,
+property damage, social and economic disruption or environmental degradation [2]. On the other hand, the potential consequences,
+globally termed as losses, can be seen as the result of existing
+vulnerabilities (e.g. physical, social, economic or environmental
+vulnerabilities) that represent the susceptibility to the damaging
+effects of the hazard [2] combined with a lack of ability to cope
+with those consequences, i.e. a lack of resilience [3].
+Disasters can occur when the probable nature of the hazard
+becomes a real damaging event and when the potential consequences turn into actual losses. Over the years, several international
+initiatives have been promoted to address the issues of disaster
+risk reduction (DRR) and disaster risk management (DRM) in order
+
+∗ Corresponding author. Tel.: +351 22 508 1956; fax: +351 22 508 1835.
+E-mail address: xnr@fe.up.pt (X. Romão).
+http://dx.doi.org/10.1016/j.culher.2016.05.007
+1296-2074/© 2016 Elsevier Masson SAS. All rights reserved.
+
+to establish new approaches to reduce the impact of disasters in
+society. The wide-ranging concepts of DRR and DRM involve the
+development and application of policies, strategies and practices
+to minimise disaster risks throughout society. In 2005, the adoption of the Hyogo Framework for Action (HFA) 2005-2015 [4] was
+an important step towards these objectives. The HFA was the ﬁrst
+internationally accepted framework where international agencies
+and national governments have set targets and commitments for
+DRR which were deﬁned through ﬁve priorities for action. Of those
+ﬁve priorities, Priority Action 2 speciﬁcally addressed risk assessment and monitoring [4]. Therefore, the HFA clearly acknowledged
+that the sustainable implementation of disaster mitigation actions
+can only be achieved when based on adequate knowledge about
+the hazards threatening relevant assets and their vulnerability to
+those hazards.
+Even though the HFA ended in 2015, efforts towards DRR
+continue since the HFA has now been replaced by the Sendai
+Framework for Disaster Risk Reduction 2015–2030 [5]. This new
+framework is expected to build on the achievements of the HFA to
+establish a set of improvements. Despite the worldwide progress
+achieved in DRR with the implementation of the HFA, several
+features were identiﬁed for its enhancement (e.g. see [6–9]).
+Among other aspects, the importance of cultural heritage and its
+irreplaceable value for society have been explicitly recognized, thus
+emphasising the need to assess the impact that potential hazards
+may have on cultural heritage [5,6]. Moreover, the signiﬁcant role
+of cultural heritage in social cohesion and sustainable development
+
+X. Romão et al. / Journal of Cultural Heritage 20 (2016) 696–708
+
+has also been highlighted, making it a key resource to build resilient
+societies [10].
+Despite these concerns, irreplaceable losses of cultural heritage continue to occur throughout the world as a result of natural
+or man-made disasters (e.g. [11–16]). Even though numerous
+cultural heritage assets require the implementation of risk mitigation measures (e.g. [17–21]), the development of such measures
+needs to be based on adequate knowledge about the risks these
+assets are facing. However, for most countries, carrying out a
+multi-hazard risk analysis for a large number of cultural heritage
+assets requires efforts and budgets that are frequently unavailable. Therefore, assessing the risks for a large number of assets
+with limited resources is only feasible when based on simple
+methodologies.
+To address this need, a methodology developed to perform the
+qualitative risk assessment of a large number of assets with limited
+resources is presented herein. The proposed methodology involves
+all the components in a risk analysis and can be used as a screening
+procedure for the preliminary assessment and identiﬁcation of built
+and immovable cultural heritage assets that require a more reﬁned
+and resource demanding risk evaluation. Given the general format
+of the methodology, it is expected to be applicable to any type of
+cultural heritage asset threatened by any type of hazard. Speciﬁc
+aspects of the framework were further detailed for the particular
+case of seismic risk and an application to a single cultural heritage
+property is presented to illustrate these procedures. The results of
+this example are also correlated with those of a more detailed and
+complex analysis.
+
+2. Outlook of existing risk analysis methodologies
+The ideal theoretical setting for conducting a risk analysis
+requires the probabilistic quantiﬁcation of hazard, vulnerability and resilience. To establish probabilistic representations of
+those components, both sufﬁcient/reliable data and adequate analytical/numerical procedures are necessary. However, in many
+situations, namely in the risk analysis of cultural heritage assets,
+deﬁning these components in a reliable probabilistic context can
+be far too complex or resource demanding.
+In terms of the hazard, its probabilistic representation can usually be achieved based on data from past events. Typically, for
+natural events such as earthquakes, ﬂoods, landslides or volcanic
+eruptions, a probabilistic hazard can be deﬁned, e.g. see [22–25].
+However, there are ﬁelds for which establishing a probabilistic hazard is still complex mostly due to a lack of adequate data [26–28].
+For the case of vulnerability, its deﬁnition relies on the availability of procedures capable of forecasting the damaging/negative
+effects that a particular hazard may have on a certain asset under
+analysis. Although detailed vulnerability representations can be
+established in several contexts, e.g. [29,30], for the particular case of
+cultural heritage assets, their complexity and the lack of knowledge
+regarding their behaviour in certain situations are often important
+obstacles to the detailed deﬁnition of their vulnerability [31,32].
+Furthermore, when the risk analysis addresses a large amount
+of assets, those difﬁculties are ampliﬁed due to resource-related
+restrictions that might also come into play. In such cases, vulnerability analyses often involve methodologies where simpliﬁed
+assumptions are made, e.g. see [33–37].
+With respect to the resilience component, even though frameworks and quantitative approaches have been developed in
+some ﬁelds, e.g. [38–44] and references therein, methodologies
+addressing speciﬁc aspects related to the preservation of cultural
+heritage assets are still largely unavailable. In this particular case,
+disaster prevention with the purpose of coping with the consequences of disasters is commonly addressed by pre-event measures
+
+697
+
+such as implementing education and training programmes in emergency/recovery procedures. Additional predictors of resilience
+measuring the expected time and resources needed to restore the
+functionality/quality of the asset [38] could potentially also be
+established. However, when dealing with cultural heritage assets,
+the multidimensional nature of the value of the asset and the complexity of its evaluation [45–48] are a major conceptual obstacle.
+Therefore, in such cases, predicting the time and resources that
+might be required to restore functionality and quality is much more
+difﬁcult.
+Based on these descriptions, the applicability of a framework
+that involves a comprehensive risk assessment procedure and the
+regular update of its results over time needs to integrate the following key issues:
+
+(1)
+(2)
+(3)
+(4)
+
+reliable and sufﬁcient data to establish suitable hazard models;
+sufﬁcient and reliable data on the assets under risk;
+suitable procedures to model the vulnerability;
+adequate models to predict the multidimensional consequences of the hazardous event;
+(5) sufﬁcient human, time and economic resources.
+
+In the context of a risk assessment procedure for cultural heritage assets, 4 is the most difﬁcult issue to address, regardless of
+the hazard involved. Furthermore, addressing 1, 2 and 3 successfully can be seen to depend on the availability of 5. In most cases,
+these resources will set the boundaries of the scope and comprehensiveness of a risk analysis and will be also fundamental for the
+successful regular update and monitoring of the risk assessment
+results over time. Therefore, when dealing with a large number of
+cultural heritage assets, it is important to have a simple methodology that can be used for the preliminary risk analysis of those assets
+to establish risk mitigation priorities or to identify assets requiring
+more detailed and resource-demanding analyses.
+Based on these arguments, it can be seen that a qualitative
+risk analysis approach can fulﬁll the necessary requirements. In a
+qualitative risk method, risk is deﬁned by a non-numerical estimate. Even though qualitative analyses still involve analytical
+and evidence-based characterizations of the risk, they establish
+descriptive or categorical treatments of information instead of
+numerical estimates. These methods simplify the risk analysis by
+reducing the required inputs and calculations to a set of judgments.
+The simple risk categories that are produced as outputs can then
+be communicated to policymakers and stakeholders in a simpler
+way [49]. Qualitative analyses are useful in situations where theory,
+data, time or expertise are limited but they also provide adequate
+results when decision makers only need a qualitative assessment of
+the risk. Furthermore, they can also be useful for problems where
+quantitative risk analysis is impractical. For example, the qualitative analysis of a large number of cultural heritage assets (e.g.
+nationwide) may be a suitable way to identify situations where a
+more detailed assessment is needed [50]. Qualitative methods may
+also be preferred when the more important sources of uncertainty
+will not change the end result or when quantitative analysis is likely
+to lead to inconclusive results [51]. In many situations, a qualitative risk analysis is able to provide risk managers or stakeholders
+with enough information for decision-making. For example, the
+gathered data may include sufﬁcient evidence indicating that a
+given risk can, in fact, be disregarded. On the contrary, the gathered evidence may also point out to an unacceptably large risk, or
+to the fact that consequences of a given hazard are so unacceptable that mitigation measures are needed whatever the level of
+risk.
+
+698
+
+X. Romão et al. / Journal of Cultural Heritage 20 (2016) 696–708
+
+The exposure o he CH unit o the
+hazard is relevant?
+
+N
+
+Y
+R0
+What is the level of damage that the CH unit is expected to suﬀer?
+Light
+
+Medium
+
+Heavy
+
+The damages are expected to be
+repairable?
+
+The damages are expected to be
+repairable?
+
+N
+
+N
+Y (enrely)
+
+Y (parally)
+
+Y (enrely)
+
+Y (parally)
+
+The funcon of the CH unit
+can be easily restored?
+
+The funcon of the CH unit
+can be easily restored?
+
+The funcon of the CH unit
+can be easily restored?
+
+The funcon of the CH unit
+can be easily restored?
+
+Y
+
+N
+
+Y
+
+N
+
+S
+
+N
+
+Y
+
+N
+
+The loss in
+value is
+signiﬁcant?
+
+The loss in
+value is
+signiﬁcant?
+
+The loss in
+value is
+signiﬁcant?
+
+The loss in
+value is
+signiﬁcant?
+
+The loss in
+value is
+signiﬁcant?
+
+The loss in
+value is
+signiﬁcant?
+
+The loss in
+value is
+signiﬁcant?
+
+The loss in
+value is
+signiﬁcant?
+
+The loss in
+value is
+signiﬁcant?
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+Y
+
+Y
+
+VI
+
+Y
+
+Y
+
+Y
+
+Y
+
+VIII
+
+VII
+
+Y
+
+Y
+
+VIV
+
+Y
+
+VV
+
+Fig. 1. Proposed risk analysis methodology: assessment of the level of vulnerability of the cultural heritage (CH) unit.
+
+3. Methodology: a framework for the simpliﬁed risk
+analysis of cultural heritage assets
+
+qualitative methods and is based on an existing approach developed for the vulnerability assessment of critical infrastructures
+[52,53]. The qualitative risk analysis of the proposed methodology
+is based on a set of structured assessment ﬂowcharts that address
+the main components of a risk analysis: the likelihood of the hazard, the vulnerability of the asset to the hazard, the consequences of
+the hazard, and the capacity to recover from the event. Figs. 1 and 2
+illustrate the full scope of the ﬂowcharts and outcomes that can be
+obtained with the proposed framework. Fig. 1 presents the part of
+the method that establishes the vulnerability of the cultural heritage unit and Fig. 2 presents the part where the vulnerability is
+combined with the hazard to determine the risk level. As can be
+seen, the process of Fig. 1 establishes ﬁve classes of increasing
+
+3.1. General overview of the framework
+Based on the arguments in the previous section, a simpliﬁed
+methodology is proposed herein which can be used as a screening
+procedure for the preliminary risk analysis of built and immovable cultural heritage units. A cultural heritage unit is considered
+to be a single property or a component that is part of a property for
+which a risk analysis is required (e.g. a church is a unit but the bell
+tower of a church may also be considered to be a unit if necessary).
+The proposed risk analysis framework falls into the category of
+
+VI
+
+VIII
+
+VII
+
+The likelihood of
+the hazard is
+High
+
+RI
+
+Medium
+
+VIV
+
+VV
+The likelihood of
+the hazard is
+
+The likelihood of
+the hazard is
+Low
+
+High
+
+RII
+
+RIII
+
+Medium
+
+Low
+
+High
+
+RIV
+
+RV
+
+The likelihood of
+the hazard is
+High
+
+RII
+
+Medium
+
+The likelihood of
+the hazard is
+Low
+
+RIII
+
+Medium
+
+High
+
+RIV
+
+Medium
+
+Low
+
+RV
+
+Fig. 2. Proposed risk analysis methodology: assessment of the level of risk of the cultural heritage (CH) unit.
+
+Low
+
+X. Romão et al. / Journal of Cultural Heritage 20 (2016) 696–708
+
+vulnerability (VI to VV ) which are deﬁned by answering questions
+that address the different components contributing to the vulnerability. It is noted that the process also accounts for the case where
+a certain cultural heritage unit may have an irrelevant level of risk
+(R0 ) if its level of exposure to the hazard under consideration is not
+relevant. The process of Fig. 2 can be seen to establish ﬁve classes of
+increasing risk (RI to RV ) based on the vulnerability classes deﬁned
+by the process of Fig. 1, VI to VV , and on the expected likelihood
+of the hazard. The proposed framework considers three categories
+of expected hazard likelihood which are termed high, medium and
+low. These hazard categories depend on the type of hazard but must
+reﬂect the fact that an event with a high likelihood is expected
+to have a lower hazard intensity while a low likelihood event is
+expected to have a higher hazard intensity. For example, for the
+case of earthquakes, a high likelihood event is expected to have a
+lower average return period and also a lower magnitude, while for
+a low likelihood event it is the opposite. The level of hazard likelihood can be based, for example, on the value or range of the average
+return period of a given hazard scenario or based on available historical hazard scenarios. From Fig. 2 it can be seen that, for a given
+vulnerability level, when the expected likelihood of the hazard is
+high or medium, the subsequent risk level is the same. This conservative approach was considered in order to reduce the number of
+risk categories that result from the proposed framework. Furthermore, it can also be seen that when the vulnerability level is VV ,
+the subsequent risk level is always RV , irrespective of the expected
+likelihood of the hazard. In this case, the framework assumes that
+if a cultural heritage unit exhibits the highest level of vulnerability,
+the severity of this condition implies the need to also consider the
+highest level of risk. With respect to the interpretation of these risk
+levels, although the colour code assigned to each level provides a
+visual aid, they can be interpreted as follows:
+
+• levels RI and RII correspond to cases where the level of risk can
+be accepted;
+• level RIII corresponds to a case where the level of risk is at the limit
+of acceptability and should be monitored regularly. Given the
+qualitative nature of the assessment framework and the uncertainties it may involve, a more detailed analysis of the cultural
+heritage unit should be carried out to determine if the actual risk
+is not higher;
+• level RIV corresponds to a case where the level of risk is unacceptable. A more detailed analysis of the cultural heritage unit should
+be carried out to deﬁne risk mitigation measures;
+• level RV corresponds to a case where the level of risk is unacceptable and needs to be addressed as soon as possible. A more
+detailed analysis of the cultural heritage unit is urgently needed
+to deﬁne risk mitigation measures.
+
+Based on the characteristics of the proposed framework, this
+methodology is believed to be applicable to any type of cultural
+heritage unit threatened by any type of hazard and can be used
+to carry out a structured qualitative risk analysis. The application
+of the procedure starts by deﬁning the hazard scenario for which
+the risk analysis of a certain cultural heritage unit is required. After
+deﬁning this scenario, the analyst will then go through the assessment ﬂowchart of Fig. 1 to establish the vulnerability level. The
+assessment ﬂowchart of Fig. 2 is then used to combine the vulnerability level with the likelihood of the hazard scenario initially
+deﬁned and obtain the risk level. To provide further guidance for
+the application of the proposed framework, additional aspects that
+need to be considered when analysing the components leading to
+the vulnerability classiﬁcation are addressed in the following.
+
+699
+
+3.2. Characterization of the vulnerability analysis components
+After deﬁning the hazard scenario and establishing that the
+exposure of the cultural heritage unit to that scenario is relevant,
+the next step of the vulnerability assessment involves classifying
+the expected level of damage of the cultural heritage unit for that
+scenario. This expected level of damage needs to be deﬁned according to one of three possible classes: light, medium or heavy. The
+following descriptions of those classes can be used as a reference:
+
+• light damage corresponds to the case where the cultural heritage
+unit only exhibits non structural damage (i.e. damage that will not
+affect the resisting system and the overall stability of the cultural
+heritage unit);
+• medium damage corresponds to the case where the cultural heritage unit exhibits more severe non structural damage and also
+suffers moderate structural damage (i.e. damage that will affect
+the resisting system of the cultural heritage unit without compromising its overall stability);
+• heavy damage corresponds to the case where the cultural heritage unit exhibits severe structural damage that can make it
+unstable (i.e. the overall stability of the cultural heritage unit is
+compromised) or that can cause the partial or total collapse of
+the cultural heritage unit.
+
+Given the qualitative nature of the proposed framework, the
+expected level of damage of a given cultural heritage unit can
+be estimated using a simpliﬁed procedure such as expert elicitation (e.g. see [54–56]) or an indicator-based approach. For the
+cases of earthquake, ﬂood, ﬁre, hydro-meteorological, landslide and
+storm hazards, the procedures and data found in [57–70,33] can be
+used to deﬁne simpliﬁed indicator-based approaches suitable to
+estimate the expected level of damage. For the particular case of
+earthquake hazard, the authors have developed a set of simpliﬁed
+indicator – and mechanics – based procedures for speciﬁc types of
+cultural heritage units [71]. Additional details of these approaches
+are addressed in the following sections.
+In case there are heritage assets attached to the main cultural
+heritage unit (e.g. tiles, mural paintings, etc.), the vulnerability analysis of the cultural heritage unit should also account for these
+elements. This inﬂuence is, however, only accounted for in the
+subsequent stages of the vulnerability analysis, even though the
+damages to these attached heritage assets and those of the cultural
+heritage unit are correlated. The proposed framework assumes that
+if light damage is expected in the cultural heritage unit, the damages to the attached cultural assets will be either negligible or fully
+restorable. As such, only the potential loss of value is analysed in
+this case (Fig. 1). If the expected damage is medium or heavy, the
+classiﬁcation of the following stages of the vulnerability analysis
+will need to consider the damage and loss in value to both the
+cultural heritage unit and the attached heritage assets.
+For the cases where the level of damage is expected to be
+medium or heavy, the next component of the framework analyses if those damages are repairable (fully or partially) to determine
+if it will be possible to reuse the cultural heritage unit as before the
+occurrence of the damaging event. Damages are considered to be
+repairable if it is physically and technically possible to restore the
+physical and material integrity of the cultural heritage unit. In this
+context, the following repair possibilities should be examined:
+
+• restoring the materials to their initial conditions without compromising the authenticity of a cultural heritage unit (which may
+be connected to its value);
+
+700
+
+X. Romão et al. / Journal of Cultural Heritage 20 (2016) 696–708
+
+• stabilizing the damaged elements without masking or hiding the
+results of the repair, strengthening, reconstruction or consolidation process carried out in the cultural heritage unit.
+Since the expected level of damage was deﬁned in terms of
+structural and non structural damage, the reparability analysis
+must be carried out separately for these two types of damages. Furthermore, if there are heritage assets attached to the main cultural
+heritage unit, this analysis must also account for these elements.
+As before, expert elicitation and judgement based on the characteristics of the cultural heritage unit under analysis is expected to
+be instrumental to assess the expected damage reparability.
+After classifying the possibility of repairing the expected damage, the framework then analyses how easy will it be to restore the
+function of the cultural heritage unit back to its pre-damaging event
+state (even if only partially). According to the proposed framework,
+this stage of the analysis is expected to reﬂect and characterize
+the resilience of the cultural heritage unit. To perform this classiﬁcation, the time, human and ﬁnancial resources necessary to
+repair and/or stabilize the damages need to be analysed. In addition, resources that may be required to restore and/or develop the
+human and technical means necessary for the activities associated
+to the function of the cultural heritage unit must also be accounted
+for. In this context, it is noted that the ability to restore the predamaging event function may depend on factors other than those
+directly related to the cultural heritage unit. For example, factors
+related to heritage assets that may be attached to the main cultural
+heritage unit (e.g. tiles, mural paintings, etc.) or movable heritage
+assets (e.g. museum collections) that may be inside the main cultural heritage unit should be considered in this stage if they are
+found to be relevant to its function. As for the previous stages,
+expert elicitation and judgement are expected to be instrumental to
+classify this stage. As a suggestion, if the availability of human and
+ﬁnancial resources is not a restriction, the function of the cultural
+heritage unit can be considered to be easily restored if it occurs up
+to 6 months after the end of the post-event emergency response
+operations.
+Finally, the last stage of the vulnerability assessment analyses
+the signiﬁcance of the expected loss in value of the cultural heritage unit. Given the simpliﬁed nature of the proposed vulnerability
+assessment process and the well-known difﬁculties in deﬁning the
+multiple dimensions of cultural heritage value, the loss of value
+analysis must also be based on simple qualitative principles. In this
+analysis, it is suggested that the following ﬁve types of value, which
+are partially based on [72], should be considered to analyse the
+expected loss of value of a certain cultural heritage unit:
+• evidential value: it derives from the potential of the cultural heritage unit to yield evidence about past human activity (physical
+remains, written records, archaeological deposits, etc.);
+• historical value: it derives from the ways in which past people,
+events and aspects of life can be connected through the cultural
+heritage unit to the present (it can be divided into (a) illustrative
+value: the extent to which it illustrates something particular or
+distinctive; (b) associative value: the extent to which it is associated with a notable family, person, event or movement);
+• aesthetic value: it derives from the ways in which people draw
+sensory and intellectual stimulation from the cultural heritage
+unit (either as a result of conscious design or the seemingly fortuitous outcome of the way in which the cultural heritage unit
+has evolved and has been used over time);
+• communal value: it derives from the meanings of the cultural
+heritage unit for the people who relate to it, or for whom it ﬁgures
+in their collective experience or memory (these can include (a)
+commemorative and symbolic values: the meanings of a place for
+those who draw part of their identity from it, or have emotional
+
+links to it; (b) social value: places that people perceive as a source
+of identity, distinctiveness, social interaction and coherence; and
+(c) spiritual value: emanate from the beliefs and teachings of an
+organised religion, or reﬂect past or present-day perceptions of
+the spirit of place);
+• economic value: it derives from the potential of the cultural heritage unit to produce ﬁnancial dividends for society as a result of
+direct or indirect economic activities connected to the use and
+function of the cultural heritage unit.
+The expected loss in value can be connected to more than one
+class, depending on the type of cultural heritage unit under consideration. Therefore, the analysis of the expected loss in value should
+consider the relative importance of each of the ﬁve classes of value,
+which needs to be deﬁned case by case. In general, the expected
+loss of value will depend on the expected level of damage as well
+as on the possibility of repairing such damage. In some cases, the
+expected loss of value will also need to consider how easy it is to
+restore the function of the cultural heritage unit since this factor
+may be particularly relevant for the loss of economic value. Furthermore, it is also noted that the uniqueness and rareness of a
+given cultural heritage unit should be reﬂected in the expected loss
+of value analysis and it may be associated with any of the referred
+classes of value. As for the previous stages, expert elicitation and
+judgement is expected to be instrumental to classify this stage. As
+for the previous stages, if there are heritage assets attached to the
+main cultural heritage unit, their contribution to the loss in value
+should also be accounted for. However, it is noted that this analysis
+does not include potential losses to movable heritage assets that
+may be inside the main cultural heritage unit. In relevant cases,
+a separate analysis of the expected loss of value to these heritage
+assets should be performed using a suitable methodology.
+4. Detailing of the framework for earthquake risk analysis
+As previously referred, the presented risk analysis framework
+was further developed for the particular case of earthquake hazard. Given that different types of constructions exhibit different
+behaviours under earthquakes, cultural heritage units need ﬁrst
+to be assigned to architectural classes reﬂecting those differences.
+Based on these classes, analysis procedures can then be deﬁned for
+each class which account for their speciﬁc behaviour under earthquakes. In the context of seismic analysis, a general classiﬁcation
+of cultural heritage units has been deﬁned in [73] that proposes
+six classes accounting for the construction morphology and the
+building technology. Since the detailing of the proposed framework for earthquake risk analysis was not developed for all types of
+constructions, a classiﬁcation is proposed herein establishing only
+four architectural classes (CA1 to CA4) partially based on [73]. The
+architectural classes considered herein only involve masonry constructions and a different method was deﬁned for each class to
+analyse the expected level of earthquake damage. The architectural
+classes that were considered are described in Table 1 and Figs. 3–6
+present a few examples of cultural heritage units of each class.
+For each type of architectural class, simpliﬁed indicator – and
+mechanics – based procedures were developed to establish the
+Table 1
+Architectural classes of masonry constructions considered in the proposed
+framework.
+Architectural class
+
+Description
+
+CA1
+CA2
+CA3
+CA4
+
+Single-storey or multi-storey masonry building
+Hollow slender masonry construction
+Solid slender masonry construction
+Arched masonry construction
+
+X. Romão et al. / Journal of Cultural Heritage 20 (2016) 696–708
+
+701
+
+Fig. 3. Examples of constructions from the architectural class CA1.
+
+expected level of damage under a given scenario of earthquake
+occurrence. These procedures are based on the classiﬁcation of several parameters related, for example, to the geometry and shape of
+the cultural heritage unit, to its integration with the surrounding
+environment, to the type of structural system, to the quality of the
+materials, and to its state of conservation. For each architectural
+class, a speciﬁc data form and manual were developed to record
+all the necessary parameters and determine the expected level of
+damage. The detailed description and deﬁnition of the data forms
+and manuals developed for the four architectural classes are presented in [71] but are unable to be reproduced herein for the sake
+of brevity. However, it is referred that the procedure developed
+
+for cultural heritage units of class CA1 is based on the classiﬁcation
+and weighted average of 14 parameters related to the type of structural system, the characteristics of the masonry, the lateral strength
+of the structure, geometric factors such as the maximum distance
+between walls and the height of the building, the type of foundations and soil conditions, the building position and interaction with
+respect to its surroundings, plan and vertical regularity factors, the
+type and arrangement of openings, the type of ﬂoor system, the type
+of roof system, the state of conservation of the structural system
+and the existence of non-structural falling hazards [59,69,74–77].
+The weighted average of these parameters leads to the quantiﬁcation of a fragility index which is then correlated with the level of
+
+Fig. 4. Examples of constructions from the architectural class CA2.
+
+702
+
+X. Romão et al. / Journal of Cultural Heritage 20 (2016) 696–708
+
+Fig. 5. Examples of constructions from the architectural class CA3.
+
+expected damage. The procedure developed for cultural heritage
+units of class CA2 is similar to that of class CA1. For class CA2, the
+procedure is based on the classiﬁcation and weighted average of
+12 parameters related to the type of structural system, the characteristics of the masonry, the lateral strength of the structure, the
+slenderness of the structure, the type of foundations and soil conditions, the construction position and interaction with respect to
+its surroundings, plan and vertical regularity factors, the type and
+arrangement of openings, the type of ﬂoor and roof systems, the
+state of conservation of the structural system and the existence
+of non-structural falling hazards [78–81]. The procedures developed for cultural heritage units of classes CA3 and CA4 are different
+than those of classes CA1 and CA2 since they are mostly based on
+simple mechanics-based approaches. For class CA3, the expected
+level of damage is determined from the overturning stability of
+the construction and its sensitivity to develop a rocking mechanism. In this case, the procedure depends on the geometric and
+material properties of the construction, the type of foundations
+and soil conditions, the dynamic properties and the slenderness
+of the construction [82–88]. For class CA4, the expected level of
+damage is determined by analysing the stability of single or multiple arch systems with respect to transversal failure mechanisms.
+The procedure depends on the geometric characteristics of the
+structure (i.e. single or multiple arch system, type of pier, type of
+
+abutment, dimensions), the out-of-plane strength of the spandrel
+wall, the out-of-plane global arch-piers strength and the soil conditions [89–92].
+Since the data required for each form needs to be obtained from
+existing documentation and in situ surveys, the level of reliability of the data that is considered is also established in the form.
+For cultural heritage units of classes CA1 and CA2, each parameter
+required to deﬁne the expected level of damage is assigned with
+a reliability level (0, 0.25, 0.50, 0.75 and 1.0 for low to high reliability levels) which reﬂects the uncertainty in the value of each
+parameter. A global reliability level of the damage analysis is then
+obtained from the weighted average of the individual values. If the
+global reliability level is below 0.20, the damage analysis is not valid
+and more reliable data is required. If the global reliability level is
+between 0.20 and 0.50, the damage analysis is accepted but obtaining additional information on the more uncertain parameters is
+recommended. If the global reliability level is higher than 0.50,
+the damage analysis is fully accepted. For cultural heritage units
+of classes CA3 and CA4, the global reliability level is established
+directly in a qualitative way since the number of parameters that
+are needed is much lower. For these classes, Low, Medium and High
+levels of reliability are qualitatively deﬁned for the damage analysis that are in agreement with the three numerical ranges deﬁned
+for classes CA1 and CA2.
+
+Fig. 6. Examples of constructions from the architectural class CA4.
+
+X. Romão et al. / Journal of Cultural Heritage 20 (2016) 696–708
+
+Fig. 7. View of the current condition of the Roman Temple of Évora [93].
+
+5. Application of the framework to analyse the seismic risk
+of the Roman Temple of Évora
+To illustrate the applicability of the proposed framework, the
+seismic risk assessment of the Roman Temple of Évora, in Portugal,
+is presented as a case study. For the purpose of determining the
+level of expected damage, the Roman Temple of Évora was considered to be a cultural heritage unit from the architectural class
+CA3, as shown in the following. To provide further details about
+this case study application, the procedure leading to the level of
+expected damage is also described next.
+5.1. Description of the Roman Temple of Évora
+The Roman Temple of Évora (Fig. 7) is located in the UNESCO
+World Heritage Site of the historical centre of Évora, Portugal. The
+exact time of construction of the temple is not known exactly but
+the stylistic characteristics of the capitals indicate it likely dates
+back from the time of Roman emperor Augustus [94]. Even though
+the temple construction is likely to have begun in the 1st century
+AD, the construction was only ﬁnished between the 2nd and 3rd
+centuries [94]. Over time, the temple structure has undergone several modiﬁcations and reconstructions (see Fig. 8). The temple is
+believed to have been destroyed around the 5th century during the
+Visigoth invasion and additional writings indicate the temple was
+integrated in the Évora castle in the 14th century, serving simultaneously as a fortiﬁed house and as a slaughterhouse [94]. In 1836,
+the temple stopped being used as slaughterhouse and became the
+focus of a large archaeological intervention that would eventually
+lead to the temple’s present conﬁguration [94].
+
+703
+
+Currently, the structure of the temple has fourteen Corinthian
+columns exhibiting different levels of damage, conﬁgurations
+and heights. Two of these columns are free standing while the
+remaining ones are connected by an architrave superimposed on
+the top of the columns. The architrave blocks and the column shaft
+drums are made of granite while the base blocks and capitals of the
+columns are made of marble [95]. Recent studies [96] have shown
+that the marble blocks of the architrave are connected to each other
+by iron connectors. On the other hand, no connections were found
+between the drums of the columns. The total height of the colonnade columns (i.e. the height of the base, shaft and capital) is 7.7 m
+while that of the freestanding columns is only 6.7 since they are
+missing the capitals [97]. The shaft of each column has a diameter
+of approximately 0.90 m [97]. All the columns are spaced 2.25 m
+apart and sit on a plinth with an area of 15 × 25 m2 and a height
+that varies between of 3.5 m and 4.3 m [97]. The height of the architrave varies across the temple and it is made of one or two layers of
+granite blocks, where each block can be assumed to have a height
+of 0.60 m and a width of 0.90 m. A speciﬁc mass of 2625 kg/m3 was
+considered for the granite blocks while for the marble blocks the
+considered speciﬁc mass was 2563 kg/m3 [98].
+All the elements of the temple exhibit some level of damage.
+The most severe damage can be found in the two middle columns
+from the main façade of the temple. The bases and drums of these
+columns were cut to give room for a doorway that was possibly
+needed when the temple was serving as a slaughterhouse [97].
+Many of the marble base blocks also exhibit damages which range
+from erosion and chipping of small pieces of stone to complete
+separation of the blocks into two pieces. The marble capitals and
+several drums of the columns (other than the two columns previously referred) also exhibit loss of material in some places. It was
+also seen that most of the elements of the temple exhibit biodeterioration from lichen, algae or moss [97]. For further details regarding
+the characteristics, existing damage and dynamic properties of the
+temple, readers are referred to [97,99].
+In order to analyse the seismic risk according to the framework
+previously presented, the temple was considered to be a construction from architectural class CA3 since the structural stability is
+controlled mainly by the stone columns. Given the current geometric conﬁguration of the temple, the structure was divided into
+four structural systems and a separate damage analysis was performed for each one (Fig. 9). The seismic vulnerability and risk of
+the temple were then considered to be governed by the structural
+system where the level of damage is expected to be higher. System
+1 is a group of three columns along the longitudinal direction of
+the temple topped by the architrave which is mostly made of two
+layers of granite blocks. System 2 is a group of ﬁve columns along
+the longitudinal direction of the temple also topped by the architrave which, in this case, is mostly made of only one layer of blocks.
+System 3 is a group of six columns along the transverse direction of
+the temple also topped by the architrave which is mostly made of
+
+Fig. 8. Evolution of the structure of the temple over time, after [95]: (a) what is believed to be the original structure from the 1st century AD; (b) structure of temple/slaughterhouse at the beginning of the 19th century; (c) current structure.
+
+704
+
+X. Romão et al. / Journal of Cultural Heritage 20 (2016) 696–708
+
+Fig. 9. Structural systems considered for the damage analysis of the temple.
+
+Fig. 10. Schematic representation of Type I (a), Type II (b) and Type III (c) constructions belonging to architectural class CA3 (adapted from [100]).
+
+only one layer of blocks. Finally, System 4 refers to the freestanding
+columns.
+5.2. Determining the expected level of damage for constructions
+of architectural class CA3
+According to the procedure detailed in [71], constructions
+belonging to architectural class CA3 can be of three types. Constructions of Type I involve cases where the construction can be
+analysed using a single rectangular block, Fig. 10 a), and require the
+
+(a)
+
+(b)
+
+geometric parameters represented in Fig. 11 a). Constructions of
+Type II involve cases where the construction can be analysed using
+a single block with a variable geometry in elevation according
+to Fig. 10 b), requiring the geometric parameters represented in
+Fig. 11 b). Constructions of Type III involve multi-column structures topped by an architrave providing a connection between the
+several elements, Fig. 10 c). For this type of construction, all the
+columns are assumed to have the same geometry and the necessary parameters for this case are those represented in Fig. 11 c). For
+constructions of Type III, an additional parameter  deﬁned by eq.
+
+(c)
+
+2b
+
+H
+
+2h
+
+c.m.
+
+R0
+
+2H
+c.m.
+
+α
+
+α
+
+H/3
+
+2h
+
+R0
+
+0
+
+0
+rb
+
+c.m.
+α
+
+c.m.
+α
+
+R0
+
+R0
+0
+
+2b
+
+0
+2b
+
+Fig. 11. Geometric parameters of Type I (a), Type II (b) and Type III (c) constructions belonging to architectural class CA3 (c.m. is the centre of mass of the element).
+
+X. Romão et al. / Journal of Cultural Heritage 20 (2016) 696–708
+
+705
+
+Finally, for Type III constructions, parameter p reﬂects the stabilising effect of the architrave and is given by:
+
+
+
+p=
+
+3·g
+·
+4 · R0
+
+
+
+1+2·
+1+3·
+
+(6)
+
+Based on the geometric parameters, the material properties, the
+soil characteristics and the selected seismic hazard scenario, the
+seismic fragility indexes  1 and  2 are then determined to establish
+the expected level of damage. Index  1 deﬁnes a limit for the ground
+acceleration up to which a given construction is not expected to
+develop a rocking mechanism and is obtained by:
+1 =
+
+Fig. 12. Schematic representation of a Type I construction with a sloped foundation.
+
+(1) as the ratio between the mass of the architrave and the mass of
+the columns is also necessary.
+ = massarchitrave /masscolumns
+
+(1)
+
+The slope angle ˇ of the foundation is also accounted for in this
+analysis, Fig. 12. This angle is subtracted from the slenderness angle
+␣ to account for the negative inﬂuence of the slope (i.e. it favours
+the occurrence of the lifting and overturning of the construction)
+leading to the effective slenderness angle ␣f deﬁned by:
+˛f = ˛ − ˇ
+
+(2)
+
+The type of foundation connection between the construction and
+the soil is also accounted for in the analysis. If the construction
+has a foundation system that can provide some sort of base isolation (e.g. such as the orthostat foundation systems referred in [83]
+which involve several layers of smoothed stone without mortar
+between them), the expected level of damage obtained from the
+analysis can be reduced by one level. However, if the base of the
+construction sits on top of a surface that can be assumed as rigid
+with respect to base isolation features or if the base of the construction is buried at a low-depth, no correction of the expected
+level of damage is needed. Finally, if the base of the construction is
+buried at a signiﬁcant depth, the damage analysis is not valid since
+the behaviour of the construction will be different than assumed
+by the methodology presented herein.
+In the proposed procedure, the expected level of damage
+depends on slenderness and frequency parameters. The slenderness parameter  is given by:
+=
+
+1
+
+ 
+
+(3)
+
+tan ˛f
+
+On the other hand, the frequency parameter p is deﬁned differently for each type of construction [85]. For Type I constructions,
+parameter p is given by:
+
+
+p=
+
+3·g
+4 · R0
+
+(4)
+
+where g is the gravitational acceleration (i.e. 9.81 m/s2 ) and R0 is
+deﬁned in Fig. 11. For Type II constructions, parameter p is given
+by:
+
+
+p=
+
+3·g
+·
+4 · R0
+
+
+
+
+16
+
+
+
+3 6 − sin2 ˛
+
+(5)
+
+1
+·S
+
+(7)
+
+where S is a soil factor accounting for soil ampliﬁcation effects
+deﬁned according to Eurocode 8 [101]. Index  2 establishes a
+limit for the ground acceleration above which the construction is
+expected to overturn and collapse and is deﬁned by:
+2 =
+
+ 
+5
+· tan ˛f
+1.7 · S · p · Tc
+
+(8)
+
+where Tc is the period corresponding to the upper limit of the constant acceleration branch of a standard response spectrum. In the
+current procedure, Tc is also deﬁned according to Eurocode 8 [101].
+The expected level of damage is then determined by comparing the
+seismic fragility indexes  1 and  2 with the peak ground acceleration  d that is expected at the site for the selected seismic hazard
+scenario. The value of  d can be obtained, for example, from earthquake design standards and can be associated with different hazard
+likelihoods using an appropriate relation with the return period
+(e.g. see [101]). If  d is lower than  1 , the expected level of damage
+is classiﬁed as Light, if  d is higher than  1 but lower than  2 , the
+expected level of damage is classiﬁed as Medium and if  d is higher
+than  2 , the expected level of damage is classiﬁed as Heavy. Based on
+these ranges, Light damage is expected to involve sliding between
+the several block components without developing a rocking mechanism. For Medium damage the construction is expected to develop
+a rocking mechanism that will increase the damage between the
+block components without leading to global overturning. Finally,
+Heavy damage will correspond to the case where the overturning
+and collapse of the construction will occur.
+6. Results and discussion: risk analysis of the Roman
+Temple of Évora
+The results of the simpliﬁed seismic risk analysis of the Roman
+Temple of Évora according to the proposed framework are presented herein. The expected level of damage is determined using
+the procedure detailed in the previous section and part of the
+results are then compared with those of an advanced numerical
+analysis simulating the behaviour of the temple under earthquakes [97]. The selected earthquake scenario corresponds to the
+earthquake design intensity set by the Portuguese national annex
+of Eurocode 8 [102] which is considered to be a low likelihood
+event (i.e. it has an annual probability of occurrence around 0.2%).
+Two types of earthquakes need to be considered for this scenario
+according to [102]: (i) earthquakes with epicentres mainly offshore
+termed earthquake type 1 (EQ1) and (ii) earthquakes with epicentres mainly inland termed earthquake type 2 (EQ2). The value of
+ d for the location of the temple is found to be 0.10 g for EQ1 and
+0.11 g for EQ2 [102] and the value of  c is also different for these
+two types of earthquakes: 0.6 s for EQ1 and 0.25 s for EQ2 [101].
+Since the columns of the temple sit on top of a plinth which is not
+expected to be made of solid rock [97,99] and based on the soil
+mapping for Portugal presented in [102], the foundation soil was
+considered to be of type B [103] thus leading to a soil factor S equal
+
+706
+
+X. Romão et al. / Journal of Cultural Heritage 20 (2016) 696–708
+
+Table 2
+Intermediate parameters needed to determine  1 and  2 .
+System
+
+˛f = ˛ (rad)
+
+
+
+ς
+
+p (Hz)
+
+1
+2
+3
+4
+
+0.12
+0.12
+0.12
+0.13
+
+8.56
+8.56
+8.56
+7.44
+
+0.331
+0.252
+0.344
+–
+
+1.258
+1.275
+1.256
+1.475
+
+Table 3
+Values of  1 and  2 for the EQ1 and EQ2 earthquake types 1.
+System
+
+ 1 (g)
+
+ 2 (EQ1) (g)
+
+ 2 (EQ2) (g)
+
+1
+2
+3
+4
+
+0.087
+0.087
+0.087
+0.100
+
+0.337
+0.333
+0.338
+0.331
+
+0.810
+0.790
+0.811
+0.793
+
+to 1.35. With respect to the type of foundation system, no base isolation features such as those referred in the previous section were
+considered.
+Given the conﬁgurations of Systems 1 to 4 (Fig. 9), it can be
+seen that Systems 1 to 3 are Type III constructions while System
+4 is a Type I construction. The intermediate parameters needed to
+establish  1 and  2 for each system are presented in Table 2 and
+are based on the survey data found in [97,99]. The values of  1 and
+ 2 that were then determined for each earthquake type (EQ1 and
+EQ2) are presented in Table 3. Since  2 depends on the value of  c ,
+different values are obtained for EQ1 and EQ2.
+Since  1 <  d <  2 for Systems 1 to 3, the considered earthquake
+scenario is seen to lead to an expected level of damage that is
+Medium. These three Systems govern the behaviour of the construction for the intensity of the selected earthquake scenario essentially
+because System 4 is shorter. The values that were obtained for
+ 2 also lead to two other conclusions: the overturning and collapse of the construction is governed by EQ1 and the earthquake
+intensity for which it is expected to occur is between three to four
+times the intensity of the selected scenario. Both conclusions are
+in agreement with the ﬁndings of the advanced numerical simulation studies that were carried out in [97]. Furthermore, the ﬁndings
+in [97] are also in agreement with the expected level of damage
+that was obtain herein for the earthquake scenario selected for the
+current analysis.
+Based on this level of damage, the next step of the framework
+analyses the reparability of those damages. Given that for medium
+damage the construction is expected to develop a rocking mechanism that will cause some physical damage such as sliding and
+chipping of small pieces of stone, the level of damage is expected
+to be only partially repairable. Nonetheless, given the type of construction, its function is expected to be easily restored and no
+signiﬁcant loss of value is foreseen. Based on these considerations,
+the vulnerability level of the construction is found to be VII (Fig. 1).
+Combining this level of vulnerability with the low likelihood of the
+selected earthquake scenario leads to a risk level RIII (Fig. 2).
+7. Final remarks
+The simpliﬁed risk assessment framework proposed herein can
+be used as a screening procedure for the preliminary assessment
+of a large number of cultural heritage assets with limited resources
+or for the preliminary identiﬁcation of assets that require a more
+reﬁned and resource demanding risk evaluation. The procedure
+involves a qualitative risk analysis based on a set of structured
+assessment ﬂowcharts addressing the main components of a risk
+analysis: the likelihood of the hazard, the consequences of the hazard, the vulnerability and the loss of value of the asset and, ﬁnally,
+the capacity to recover from the event.
+
+The general framework was further detailed by developing
+speciﬁc damage assessment forms and guidelines for the case of
+seismic risk [71]. In this context, speciﬁc procedures were developed to analyse the expected level of damage for four types of
+cultural heritage masonry constructions. The main aspects of these
+procedures were described and an illustrative application for the
+Roman Temple of Évora in Portugal was also presented. Comparable results of this application were found to be in agreement with
+those of an advanced study simulating the behaviour of the temple
+under earthquakes. Nonetheless, additional applications should be
+carried out involving constructions damaged by past earthquakes
+to validate the proposed methodology.
+Further reﬁnements of the proposed framework are expected
+to be developed in the near future to include more types of constructions as well as to deﬁne similar guidelines for other types of
+hazards.
+
+References
+[1] T. Aven, On how to deﬁne, understand and describe risk, Reliability Eng. Syst.
+Saf 95 (6) (2010) 623–631.
+[2] UNISDR Terminology on disaster Risk Reduction. International strategy for disaster reduction, United Nations, Geneva, Switzerland, 2009
+[http://www.unisdr.org/we/inform/terminology, last accessed on April
+2016].
+[3] S. Manyena, The concept of resilience revisited, Disasters 30 (4) (2006)
+433–450.
+[4] Hyogo Framework for Action 2005-2015: building the resilience of Nations
+and Communities to Disasters. Extract from the ﬁnal report of the World
+Conference on Disaster Reduction (A/CONF.206/6). International strategy for
+disaster reduction, United Nations, Geneva, Switzerland, 2007 [UN/ISDR-072007].
+[5] Sendai framework for disaster risk reduction 2015-2030. United Nations
+international strategy for disaster reduction, 1st ed., 2015 [UNISDR/GE/2015
+- ICLUX EN5000, Geneva, Switzerland].
+[6] Synthesis report on consultations on a post-2015 framework on disaster
+risk reduction (HFA2). International strategy for disaster reduction, United
+Nations, Geneva, Switzerland, 2013.
+[7] The post 2015 Hyogo framework for action: managing risks to achieve
+resilience. Communication from the Commission to the European Parliament,
+the Council, the European Economic and Social Committee and the Committee
+of the Regions, Brussels, Belgium, European Commission, 2014.
+[8] K. Ishigaki, J. Mochizuki, Post-2015 framework for disaster risk reduction: a
+proposal for monitoring progress, 2014, pp. 304–307 [GRF Davos Planet@Risk
+2(5) Special Issue for the Post-2015 Framework for DRR].
+[9] F. Schreiber, Resilient Cities 2014-5th Global Forum on Urban Resilience and
+Adaptation, 2014, pp. 318–323 [GRF Davos Planet@Risk 2(5) Special Issue for
+the Post-2015 Framework for DRR].
+[10] R. Jigyasu, M. Murthy, G. Boccardi, C. Marrion, D. Douglas, J. King, et al., Heritage and resilience: issues and opportunities for reducing disaster risks.
+Fourth session of the Global Platform on Disaster Risk Reduction, ICORPICOMOS, UNISDR, UNESCO, ICCROM, 2013.
+[11] Heritage at risk: ICOMOS World Report 2008/2010 on monuments and sites
+in danger, in: C. Machat, M. Petzet, J. Ziesemer (Eds.), International council on
+monuments and sites, Hendrik Bäßler, 2010.
+[12] The Great East Japan earthquake–report on the damage to the cultural heritage, ICOMOS National Committee, Japan, 2011.
+[13] R. Kurin, Saving Haiti’s heritage - cultural recovery after the earthquake,
+Smithsonian Institution, 2011.
+[14] E. Cunliffe, Damage to the soul: Syria’s cultural heritage in conﬂict, Global
+Heritage Fund, 2012.
+[15] X. Romão, A.A. Costa, E. Paupério, H. Rodrigues, R. Vicente, H. Varum, et al.,
+Field observations and interpretation of the structural performance of constructions after the 11 May 2011 Lorca earthquake, Eng. Fail. Anal 34 (2013)
+670–692.
+[16] Heritage at risk: world report 2011/2013 on monuments and sites in danger,
+in: C. Machat, M. Petzet, J. Ziesemer (Eds.), International council on monuments and sites, Hendrik Bäßler, 2014.
+[17] D. de la Fuente, J. Vega, F. Viejo, I. Díaz, M. Morcillo, City scale assessment
+model for air pollution effects on the cultural heritage, Atmos. Environ 456
+(2011) 1242–1250.
+[18] M. Rogerio-Candelera, M. Lazzari, E. Cano (Eds.), Science and technology for
+the conservation of cultural heritage, CRC Press, 2013.
+[19] B. Marzeion, A. Levermann, Loss of cultural world heritage and currently inhabited places to sea-level rise, Environ Res Lett 9 (3) (2014)
+034001–034008.
+[20] D. D’Ayala, S. Lagomarsino, Performance-based assessment of cultural heritage assets: outcomes of the European FP7 PERPETUATE project, Bull.
+Earthquake Eng 13 (1) (2015) 5–12.
+
+X. Romão et al. / Journal of Cultural Heritage 20 (2016) 696–708
+[21] G. Lollino, D. Giordan, C. Marunteanu, B. Christaras, I. Yoshinori, C. Margottini
+(Eds.), Engineering geology for society and territory - volume 8 – preservation
+of cultural heritage, Springer, 2015.
+[22] J. Bommer, Deterministic vs. probabilistic seismic hazard assessment: an
+exaggerated and obstructive dichotomy, J. Earthquake Eng 6 (S1) (2002)
+43–73.
+[23] R. Sparks, W. Aspinall, Volcanic activity: frontiers and challenges in forecasting prediction and risk assessment, in: R. Sparks, C. Hawkesworth (Eds.),
+The state of the planet: frontiers and challenges in geophysics, geophysical
+monograph 19, IUGG, 2004, pp. 359–373.
+[24] S. Lari, P. Frattini, G. Crosta, A probabilistic approach for landslide hazard
+analysis, Eng. Geol 182 (2014) 3–14 [Part A].
+[25] J. Wang, Flood risk maps to cultural heritage: measures and process, J. Cult.
+Herit 16 (2) (2015) 210–220.
+[26] D. Lange, S. Devaney, A. Usmani, An application of the PEER performance
+based earthquake engineering framework to structures in ﬁre, Eng Struct 66
+(2014) 100–115.
+[27] S. Kincaid, An investigation into the ﬁre safety management of historic buildings, Shefﬁeld Hallam University Built Environment Research Transactions 4
+(1) (2012) 24–37.
+[28] K. Smith, Environmental hazards: assessing risk and reducing disaster, Routledge, 2013.
+[29] K. Pitilakis, H. Crowley, A. Kaynia, SYNER-G: typology deﬁnition and fragility
+functions for physical elements at seismic risk: buildings, lifelines. Transportation Networks and Critical Facilities, Springer Science & Business Media,
+2014 [Vol. 27].
+[30] L’. Solín, P. Skubinčan, Flood risk assessment and management: review of
+concepts, deﬁnitions and methods, Geograph. J 65 (1) (2013) 23–44.
+[31] D. Hadjimitsis, A. Agapiou, D. Alexakis, A. Sarris, Exploring natural and anthropogenic risk for cultural heritage in Cyprus using remote sensing and GIS, Int.
+J. Digit. Earth 6 (2) (2013) 115–142.
+[32] P. Asteris, M. Chronopoulos, C. Chrysostomou, H. Varum, V. Plevris, N.
+Kyriakides, et al., Seismic vulnerability assessment of historical masonry
+structural systems, Eng Struct 62–63 (2014) 118–134.
+[33] J. Watts Jr., M. Kaplan, Fire Risk Index for historic buildings, Fire Technol 37
+(2) (2001) 167–180.
+[34] T. Goded, J. Irizarry, E. Buforn, Vulnerability and risk analysis of monuments
+in Málaga city’s historical centre (Southern Spain), Bull. Earthquake Eng 10
+(3) (2012) 839–861.
+[35] A. Blanco-Vogt, J. Schanze, Assessment of the physical ﬂood susceptibility of
+buildings on a large scale–conceptual and methodological frameworks, Nat.
+Hazard. Earth. Syst. Sci 14 (2014) 2105–2117.
+[36] V. Stephenson, D. D’Ayala, A new approach to ﬂood vulnerability assessment for historic buildings in England, Nat. Hazard. Earth. Syst. Sci. 14 (2014)
+1035–1048.
+[37] P. Ortiz, V. Antunez, J. Martín, R. Ortiz, M. Vázquez, E. Galán, Approach to
+environmental risk analysis for the main monuments in a historical city, J.
+Cult. Herit. 15 (4) (2014) 432–440.
+[38] G. Cimellaro, A. Reinhorn, M. Bruneau, Framework for analytical quantiﬁcation of disaster resilience, Eng. Struct 32 (11) (2010) 3639–3649.
+[39] P. Arbon, K. Gebbie, L. Cusack, S. Perera, S. Verdonk, Developing a model and
+tool to measure community disaster resilience, Torrents Resilience Institute,
+Adelaide, Australia, 2012.
+[40] D. Henry, J. Ramirez-Marquez, Generic metrics and quantitative approaches
+for system resilience as a function of time, Reliability Eng. Syst. Saf. 99 (2012)
+114–122.
+[41] S. Menoni, D. Molinari, D. Parker, F. Ballio, S. Tapsell, Assessing multifaceted
+vulnerability and resilience in order to design risk-mitigation strategies, Nat.
+Hazard 64 (3) (2012) 2057–2082.
+[42] C. Zobel, L. Khansa, Characterizing multi-event disaster resilience, Comput.
+Oper. Res. 42 (2014) 83–94.
+[43] B. Ayyub, Systems resilience for multihazard environments: deﬁnition,
+metrics, and valuation for decision-making, Risk Anal 34 (2) (2014) 340–355.
+[44] C. Zobel, Quantitatively representing nonlinear disaster recovery, Decis. Sci
+45 (6) (2014) 1053–1082.
+[45] M. De la Torre (Ed.), Assessing the value of cultural heritage. Research Report,
+The Getty Conservation Institute, Los Angeles, 2002.
+[46] K. Vecvagars, Valuing damage and losses in cultural assets after a disaster: concept paper and research options. CEPAL - SERIE Estudios y
+perspectivas–Sede Subregional de la CEPAL en México, United Nations Publication, 2006.
+[47] P. Nijkamp, Chapter 4 - economic valuation of cultural heritage. The economics of uniqueness: investing, in: G. Licciardi, R. Amirtahmasebi (Eds.),
+Historic city cores and cultural heritage assets for sustainable development,
+World Bank Publications, 2012.
+[48] DassanayakeF D., A. Burzel, H. Oumeraci, Evaluation of cultural losses. XtremRisK Progress Report, Leichtweiß-Institute for Hydraulic Engineering and
+Water Resources, Technische Universität Braunschweig, 2012.
+[49] L. Cox, D. Babayev, W. Huber, Some limitations of qualitative risk rating systems, Risk Anal 25 (3) (2005) 651–662.
+[50] M. Rausand, Risk assessment: theory, methods, and applications, John Wiley
+& Sons, 2013.
+[51] J. Lund, A risk analysis of risk analysis, J. Contemp. Water Res. Educ 140 (1)
+(2008) 53–60.
+[52] S. Krings, Verwundbarkeitsassessment der Strom- und Trinkwasserversorgung gegenüber Hochwasserereignissen, in: J. Birkmann, S. Dech, M.
+
+[53]
+
+[54]
+[55]
+
+[56]
+
+[57]
+[58]
+[59]
+
+[60]
+
+[61]
+
+[62]
+
+[63]
+
+[64]
+[65]
+
+[66]
+
+[67]
+[68]
+
+[69]
+
+[70]
+[71]
+
+[72]
+[73]
+
+[74]
+[75]
+
+[76]
+
+[77]
+
+[78]
+
+[79]
+[80]
+[81]
+
+707
+
+Gähler, S. Krings, W. Kühling, K. Meisel, A. Roth, A. Schieritz, H. Taubenböck, M.
+Vollmer, T. Welle, J. Wolfertz, Wurm M., Zwenzner H. (Eds.), Abschätzung der
+Verwundbarkeit gegenüber Hochwasserereignissen auf kommunaler Ebene,
+Federal Ofﬁce of Civil Protection and Disaster Assistance, Bonn, 2010.
+J. Birkmann, C. Bach, M. Vollmer, Tools for resilience building and adaptive spatial governance, Raumforschung und Raumordnung 70 (4) (2012)
+293–308.
+R. Cooke, L. Goossens, Expert judgement elicitation for risk assessments of
+critical infrastructures, J. Risk Res 7 (6) (2004) 643–656.
+A. Babuscia, K. Cheung, An approach to perform expert elicitation for engineering design risk analysis: methodology and experimental results, J. R. Stat.
+Soc 177 (2) (2014) 475–497.
+M. Catenacci, V. Bosetti, G. Fiorese, E. Verdolini, Expert judgment elicitation
+protocols, in: V. Bosetti, M. Catenacci (Eds.), Innovation under uncertainty: the
+future of carbon-free energy technologies, Edward Elgar Publishing, 2015.
+A. Copping, The development of a ﬁre safety evaluation procedure for the
+property protection of parish churches, Fire Technol 38 (4) (2002) 319–334.
+R. De Risi, F. Jalayer, F. De Paola, I. Iervolino, M. Giugni, M. Topa, et al., Flood risk
+assessment for informal settlements, Nat. Hazard 69 (1) (2013) 1003–1032.
+S. Giovinazzi, The vulnerability assessment and the damage scenario in seismic risk analysis, Technical University Carolo-Wilhelmina at Braunschweig
+and Faculty of Engineering of the University of Florence, 2005 [PhD Dissertation].
+A. Godfrey, R. Ciurean, C. van Westen, N. Kingma, T. Glade, Assessing vulnerability of buildings to hydro-meteorological hazards using an expert based
+approach–an application in Nehoiu Valley, Romania, Int. J. Disaster Risk
+Reduction 13 (2015) 229–241.
+M. Ibrahim, K. Abdul Hamid, M. Ibrahim, A. Mohd Din, R. Mohd Yunus, M.
+Yahya, The development of ﬁre risk assessment method for heritage building,
+Procedia Eng 20 (2011) 317–324.
+F. Jalayer, S. Carozza, R. De Risi, G. Manfredi, E. Mbuya, Performance-based
+ﬂood safety-checking for non-engineered masonry structures, Eng. Struct 106
+(2016) 109–123.
+M. Kappes, M. Papathoma-Köhle, M. Keiler, Assessing physical vulnerability
+for multi-hazards using an indicator-based methodology, Appl. Geogr 32 (2)
+(2012) 577–590.
+Z. Li, F. Nadim, H. Huang, M. Uzielli, S. Lacasse, Quantitative vulnerability estimation for scenario-based landslide hazards, Landslides 7 (2) (2010) 125–134.
+A. Mebarki, N. Valencia, J. Salagnac, B. Barroca, Flood hazards and masonry
+constructions: a probabilistic framework for damage, risk and resilience at
+urban scale, Nat. Hazard. Earth Syst. Sci 12 (5) (2012) 1799–1809.
+A. Puissant, M. Van Den Eeckhaut, M. Kappes, M. Papathoma-Koehle, M.
+Keiler, J. Hervás, et al., Index-oriented methodologies for landslide consequence analysis: an application to a mountain community in the French
+Alps, in: Landslide science and practice, Springer, Berlin Heidelberg, 2013,
+pp. 159–167.
+R. Spence, I. Kelman, An overview of ﬂood actions on buildings, Eng. Geol 73
+(3) (2004) 297–309.
+V. Stephenson, D. D’Ayala, A new approach to ﬂood vulnerability assessment
+for historic buildings in England, Nat. Hazard. Earth. Syst. Sci 14 (5) (2014)
+1035–1048.
+R. Vicente, Strategies and methodologies for urban rehabilitation interventions: vulnerability assessment and seismic risk of the buildings of the
+downtown of Coimbra, University of Aveiro, 2008 [PhD Dissertation].
+J. Watts Jr., Fire risk indexing, in: SFPE handbook of ﬁre protection engineering,
+Springer, New York, 2016, pp. 3158–3182.
+X. Romão, E. Paupério, N. Pereira, Methodology for the rapid evaluation of
+seismic risk in immovable cultural. Report for the National Authority for Civil
+Protection, Construction Institute and Faculty of Engineering, University of
+Porto, Porto, 2015 [in Portuguese].
+Conservation principles - policies and guidance for the sustainable management of the historic environment. English Heritage, 2008.
+S. Lagomarsino, S. Cattari, PERPETUATE guidelines for seismic performancebased assessment of cultural heritage masonry structures, Bull. Earthquake
+Eng 13 (1) (2015) 13–47.
+S. Lagomarsino, On the vulnerability assessment of monumental buildings,
+Bull Earthquake Eng 4 (4) (2006) 445–463.
+P. Lourenço, D. Oliveira, J. Leite, J. Ingham, C. Modena, F. da Porto, Simpliﬁed indexes for the seismic assessment of masonry buildings: international
+database and validation, Eng. Fail. Anal 34 (2013) 585–605.
+S. Pereira, Análise de critérios simpliﬁcados para a avaliação de vulnerabilidade sísmica de igrejas, Faculty of Engineering of the University of Porto, 2013
+[MSc Dissertation. In Portuguese].
+A. Simões, J. Milošević, H. Meireles, R. Bento, S. Cattari, S. Lagomarsino,
+Fragility curves for old masonry building types in Lisbon, Bull. Earthquake
+Eng 13 (10) (2015) 3083–3105.
+E. Curti, Vulnerabilità sismica delle torri Campanarie: modelli meccanici e
+Macrosismici, Università degli Studi di Genova, 2007 [PhD Dissertation. In
+Italian].
+V. Sepe, E. Speranza, A. Viskovic, A method for large-scale vulnerability assessment of historic towers, Struct Control Health Monit 15 (3) (2008) 389–415.
+S. Casciati, L. Faravelli, Vulnerability assessment for medieval civic towers,
+Struct. Infrastruct. Eng 6 (1–2) (2010) 193–203.
+M. Shakya, H. Varum, R. Vicente, A. Costa, A new methodology for vulnerability
+assessment of slender masonry structures. Second European Conference on
+Earthquake Engineering & Seismology, 2014 [Istanbul, Turkey].
+
+708
+
+X. Romão et al. / Journal of Cultural Heritage 20 (2016) 696–708
+
+[82] Y. Ishiyama, Motions of rigid bodies and criteria for overturning by earthquake
+excitations, Earthquake Eng. Struct. Dyn 10 (5) (1982) 635–650.
+[83] A. Bayraktar, H. Keypour, A. Naderzadeh, Application of ancient earthquake
+resistant method in modern construction technology, in: 15th World Conference on Earthquake Engineering, Lisbon, Portugal, 2012.
+[84] E. Dimitrakopoulos, M. DeJong, Revisiting the rocking block: closed-form
+solutions and similarity laws, Proc. R. Soc. Lond. A 468 (2144) (2012)
+2294–2318.
+[85] M. DeJong, E. Dimitrakopoulos, Dynamically equivalent rocking structures,
+Earthquake Eng. Struct. Dyn 43 (10) (2014) 1543–1563.
+[86] E. Dimitrakopoulos, T. Paraskeva, Dimensionless fragility curves for rocking
+response to near-fault excitations, Earthquake Eng. Struct. Dyn 44 (12) (2015)
+2015–2033.
+[87] S. Lagomarsino, Seismic assessment of rocking masonry structures, Bull.
+Earthquake Eng 13 (1) (2015) 97–128.
+[88] A. Pappas, Structural analysis and modelling approaches for the seismic
+vulnerability assessment of archaeological ruins, Università degli Studi di
+Padova, 2015 [PhD Dissertation].
+[89] D. Oliveira, P. Lourenço, C. Lemos, Geometric issues and ultimate load capacity
+of masonry arch bridges from the northwest Iberian Peninsula, Eng. Struct 32
+(2010) 3955–3965.
+[90] G. Tecchio, P. Zampieri, F. da Porto, C. Modena, A. Prota, G. Manfredi, Simpliﬁed assessment of railway masonry bridges seismic capacity, in: 15th World
+Conference on Earthquake Engineering, Lisbon, Portugal, 2012.
+[91] P. Zampieri, G. Tecchio, F. da Porto, C. Modena, Limit analysis for transverse
+seismic capacity of multi-span masonry arch bridges, Bull. Earthquake Eng 13
+(5) (2015) 1557–1579.
+[92] F. da Porto, G. Tecchio, P. Zampieri, C. Modena, A. Prota, Simpliﬁed seismic
+assessment of railway masonry arch bridges by limit analysis, Struct. Infrastruct. Eng 12 (5) (2016) 567–591.
+[93] Roman Temple at Evora, Portugal. Wikimedia Commons, the free
+media repository, 2007 [https://commons.wikimedia.org/wiki/File:EvoraRomanTemple.jpg, last accessed on April 2016].
+
+[94] Templo Romano de Évora, Direção-Geral do Património Cultural. Ministério da Cultura, 2015 [http://www.patrimoniocultural.pt/pt/patrimonio/
+patrimonio-imovel/pesquisa-do-patrimonio/classiﬁcado-ou-em-viasde-classiﬁcacao/geral/view/70489, last accessed on April 2016, in
+Portuguese].
+[95] L. Lopes, J. Lopes, J. Cabral, P. Sarantopoulos, Caracterização Petrográﬁca dos
+Monumentos Romanos de Évora. A cidade de Évora II(4), 2000, pp. 129–142
+[in Portuguese].
+[96] D. Oliveira, G. Grecchi, A. McCall, J. Noh, E. Speer, M. Tohidi, Seismic analysis of the Roman Temple of Évora, Portugal, in: 15th World Conference on
+Earthquake Engineering, Lisbon, Portugal, 2012.
+[97] S. Nayeri, Seismic assessment of the Roman temple in Évora, Portugal, University of Minho, 2012 [MSc Dissertation, Advanced Masters in Structural
+Analysis of Monuments and Historical Constructions].
+[98] D. Oliveira, S. Nayeri, J. Lemos, R. Alfenim, P. Lourenço, Análise sísmica do Templo Romano de Évora. 5as Jornadas Portuguesas de Engenharia de Estruturas,
+Lisbon, Portugal, 2014 [in Portuguese].
+[99] G. Grecchi, A. McCall, J. Noh, E. Speer, M. Tohidi, The Roman Temple in Évora:
+a conservation proposal. SA7 - integrated project report, advanced masters
+in structural analysis of monuments and historical constructions, University
+of Minho, 2012.
+[100] I. Psycharis, J. Lemos, D. Papastamatiou, C. Zambas, C. Papantonopoulos,
+Numerical study of the seismic behaviour of a part of the Parthenon Pronaos,
+Earthquake Eng. Struct. Dyn 32 (13) (2003) 2063–2084.
+[101] ENV 1998-1. Eurocode 8: design of structures for earthquake resistance - part
+1: general rules, seismic actions and rules for buildings, European Committee
+for Standardization, Brussels, Belgium, 2004.
+[102] NP ENV 1998-1. Portuguese National Annex to Eurocode 8: design of structures for earthquake resistance - part 1: general rules, seismic actions and
+rules for buildings, Instituto Português da Qualidade, Lisbon, Portugal, 2010.
+[103] V. Silva, Development of open models and tools for seismic risk assessment:
+application to Portugal, University of Aveiro, 2013 [PhD Dissertation].
+
+

@@ -1,0 +1,2942 @@
+Journal of Archaeological Science 44 (2014) 30e42
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Review
+
+Impact of post-depositional processes on charcoal fragmentation and
+archaeobotanical implications: experimental approach combining
+charcoal analysis and biomechanics
+Julia Chrzazvez a, Isabelle Théry-Parisot a, *, Gilbert Fiorucci b, Jean-Frédéric Terral c,
+Bernard Thibaut d
+a
+
+CEPAM-CNRS, UMR 7264, Campus Saint-Jean-d’Angély 3, Université Nice Sophia Antipolis, 24, avenue des Diables Bleus, 06357 Nice Cedex 4, France
+CEMEF, Mines ParisTech, B.P. 207, 06904 Sophia Antipolis Cedex, France
+Centre de Bio-Archéologie et d’Ecologie (UMR 5059 CNRS/Université Montpellier 2/EPHE/INRAP), Institut de Botanique, 163, rue Auguste Broussonet, 34090
+Montpellier, France
+d
+CNRS, UMR 5508 LMGC, Place E. Bataillon, cc 048, 34095 Montpellier cedex 5, France
+b
+c
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 11 February 2013
+Received in revised form
+16 December 2013
+Accepted 3 January 2014
+Available online 16 January 2014
+
+Generally speaking, charcoal analysis is based on identifying and counting charcoal fragments in order to
+calculate the relative variations in taxa frequency. All post-depositional processes are likely to induce
+fragmentation of the anthracological material, raising the question of the representativeness of taxa.
+Based on an innovative experimental approach combining both charcoal analysis and biomechanics, this
+paper explores how the mechanical properties of charcoal can inﬂuence the fragmentation and the
+quantiﬁcation of species in anthracological assemblages. We carried out standardized laboratory
+compression tests on 302 samples issued from 10 taxa, charred at three different temperatures, in order
+to characterize the mechanical properties of common species in temperate and Mediterranean Europe.
+Our results highlight the differential responses of the tested species in terms of resistance to compression
+and fragmentation, two processes which do not appear to be correlated. Charcoal is very resistant to
+pressure (up to 22.5 MPa). Our results show that signiﬁcant fragmentation differences exist between
+taxa. The total number of fragments after compression is largely dependent on the species, regardless of
+the charring temperature. However, this interspeciﬁc variability is more signiﬁcant for small fragments
+[1e2 mm], than for larger fragments [2e4 mm] and >4 mm, with the exception of Quercus, which
+displays differential reactions to compression. Finally, a multifactorial analysis brings to light the impact
+of the physical and anatomical characteristics of the different species on charcoal fragmentation.
+Ó 2014 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Charcoal analysis
+Taphonomy
+Mechanical properties
+Fragmentation
+Experimentation
+
+1. Introduction
+Charcoal preservation in archaeological sites is variable, even at
+sites where combustion structures have been identiﬁed (ThéryParisot, 2001, 2010c). According to the current state of knowledge, there is no apparent relationship between charcoal preservation and the sedimentary context. Although this observation
+does not follow a chronological pattern, it is particularly true for
+Palaeolithic sites (Braadbaart et al., 2009, 2012; Beresford-Jones
+et al., 2010; Théry-Parisot et al., 2010a), where identiﬁable,
+macroscopic-sized charcoal is at times very rare and/or very
+altered. In such contexts, charcoal is primarily preserved among the
+
+* Corresponding author.
+E-mail address: isabelle.thery@cepam.cnrs.fr (I. Théry-Parisot).
+0305-4403/$ e see front matter Ó 2014 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2014.01.006
+
+mesoscopic and microscopic unidentiﬁable fraction (Marquer et al.,
+2010, 2012), raising the question of the impact of post-depositional
+processes on charcoal preservation. What are the effects of these
+processes on anthracological assemblages? Do they have a linear
+effect on charcoal or are some taxa more fragile than others due to
+their anatomical structure or chemical composition? This naturally
+brings us to the question of the representativeness of anthracological assemblages for assessing past vegetation and fuel
+management.
+Since the end of the 1990s, some researchers have focused on a
+methodical approach to the formation process of anthracological
+assemblages (Théry-Parisot 1998, 2001; 2013; Théry-Parisot et al.
+2010a,b), including (i) human practices, (ii) the physical and
+chemical modiﬁcations of wood during combustion, (iii) depositional and post-depositional processes. Human practices are
+dependent on non-predictable cultural factors speciﬁc to each
+
+J. Chrzazvez et al. / Journal of Archaeological Science 44 (2014) 30e42
+
+group. On the other hand, combustion and post-depositional processes involve physico-chemical and mechanical transformations,
+which are independent of socio-cultural contexts, and which affect
+anthracological assemblages in terms of mass reduction and fragmentation. However, most palaeoenvironmental interpretations
+are partly based on variations in the relative frequency of taxa,
+calculated by counting the identiﬁed fragments in the studied
+sample. The effects of combustion on charcoal fragmentation have
+been the subject of numerous studies (cf. infra). Conversely, the
+effects of post-depositional processes on anthracological assemblages are not so well documented. However, all processes, from
+trampling to combustion residue, displacement by humans,
+weathering, water run off transport, bio or cryoturbation phenomena, alternating freeze-thaw cycles or sediment soakingdesiccation, can induce charcoal fragmentation (for a better overview of sites formation processes see for example Goldberg and
+Macphail, 2013). In this paper, we address the effects of depositional and post-depositional processes and the resulting potential
+modiﬁcation of the assemblages.
+The aim of this article is to characterize the physical properties
+of several common temperate and Mediterranean European species
+in the laboratory, using appropriate measurements on present-day
+material. By assessing the differential reaction of each species to
+mechanical post-depositional alteration processes, we can evaluate
+the palaeoecological representativeness of the anthracological assemblages. This study involves 302 samples issued from 10 taxa,
+charred at 3 different temperatures and subjected to standardized
+compression tests. The results should allow us to assess (i) the
+question of the mechanical properties of charcoal, (ii) the fragmentation level/rate of charcoal from different taxa and (iii) the
+modalities of this fragmentation. The main objective of this study is
+to produce data exposing the intrinsic mechanics of the tested
+species, to evaluate their conservation potential and to appraise the
+possibility of the under or over-representation of certain species in
+archaeological contexts.
+
+31
+
+Blackford, 2000; Nichols et al., 2000; Scott et al., 2000; Scott,
+2010; Carcaillet, 2001). Recent work on the impact of pH and
+diagenesis on the anthracological material has brought to light a
+structural alteration of charcoal in alkaline environments (Schiegl
+et al., 1996; Cohen-Ofri et al., 2006; Rebollo et al., 2008; Braadbaart et al., 2009; Ascough et al., 2010, 2011a,b), but also the strong
+inﬂuence of physical processes on the deterioration of the material
+(Braadbaart et al., 2009). Among these physical processes, mechanical actions, which directly inﬂuence the fragmentation of
+charcoal, play a preponderant role. Freeze/thaw laboratory experiments, coupled with measuring resistance to compression, have
+shown that wood alteration ante combustion has a strong incidence on the mechanical resistance of charcoal (Théry-Parisot,
+1998, 2001). More recently, a study of the mechanical properties
+of species from the north of India showed that resistance to
+compression and the dimensions of the ensuing fragments is
+correlated to charring temperatures (Lancelotti et al., 2010). Mechanical resistance to compression is higher when compression is
+applied lengthwise to the cross-section and dense wood is more
+brittle than less compact woods. In temperate regions, abundant
+data are available concerning the properties of wood used for
+construction (Ashby, 2005; Forest Products Laboratory, 2010), but
+nothing indicates that these data can be transposed to charcoal. For
+this reason we developed an experimental study of the mechanical
+behaviour of present-day charcoal to evaluate the fragmentation
+process of the main species identiﬁed in temperate European
+anthracological assemblages.
+3. Materials and methods
+The mechanical tests were carried out in the École des Mines de
+Paris (ParisTech CEMEF- Sophia-Antipolis, France). The aim of these
+tests was to measure the mechanical response of charcoal to
+compression and the fragmentation modalities (number and size of
+fragments). The experimental procedure is based on previous work
+by Théry-Parisot (1998, 2001)
+
+2. Research history in charcoal fragmentation
+3.1. Sample preparation
+After some pioneering studies (Salisbury and Jane, 1940; Santa,
+1961; Vernet, 1973; Thiébault, 1980), methodological reﬂections on
+the representativeness of anthracological assemblages began in the
+1980s (Chabal, 1988, 1997, 1990; Badal-Garcia, 1990, 1992). The ﬁrst
+approach consisted in analyzing the global fragmentation rate and
+the size of the fragments of the different taxa in archaeological
+samples. The analysis of Protohistoric archaeological levels (Le
+Marduel, Lattes, south of France) yielded fragmentation histograms
+with a Poisson distribution for all the taxa within the same layer.
+These studies led to the formulation of the “single fragmentation
+law” hypothesis for all species (Chabal, 1991, 1997). “A posteriori”
+analysis included the undifferentiated fragmentation stages: combustion, post-depositional processes, sampling and sieving of the
+material. At the same time, several studies concentrated on the
+effects of combustion on anatomy and fragmentation (Rossen and
+Olson, 1985; Smart and Hoffman, 1988; Scott and Jones 1991;
+Prior and Gasson, 1993; Loreau, 1994; Vaughan and Nichols 1995;
+Belcher et al. 2005; Lingens et al. 2005; Braadbaart and Poole,
+2008; Théry-Parisot and Chabel, 2010). These works demonstrated “the non-linearity of species behaviour towards ﬁre suggesting that combustion is a taphonomic agent, which randomly
+affects deposits and whose effect on the assemblage is almost
+impossible to control” (Théry-Parisot et al., 2010a,b). The impact of
+post-depositional processes on anthracological assemblages is a
+less-developed aspect of research. Bio-turbation and transport
+were mainly studied in the domain of pedo-anthracology (Thinon,
+1992; Vaughan and Nichols, 1995; Carcaillet and Talon, 1996;
+
+Sample preparation must take account of both the (i) constraints
+of the shape of the samples used for the mechanical tests and (ii)
+the effect of the physico-chemical alteration on the mechanical
+properties of the material during combustion. It generally involves
+some form of standardization far removed from the reality of the
+studied archaeological contexts. The samples have to present two
+perfectly cut parallel sides with no structural, ﬁssure type
+alteration.
+The production of 2 cm cubes, with no charring ﬁssures, is one of
+the restrictions of our protocol.
+The tests concerned charred samples from 10 taxa commonly
+found in archaeological contexts in southern Europe: Acer pseudoplatanus, Betula pubescens, Carpinus betulus, Corylus avellana,
+Fagus sylvatica, Fraxinus excelsior, Populus tremula, Pinus pinaster,
+Pinus sylvestris and Quercus pubescens. The dry wood (12% moisture
+content) is issued from branches with a 10e15 cm section.
+3.2. Charring protocol
+In order to limit sample deformation during charring, each cube
+was wrapped in aluminium foil, placed in a porcelain crucible,
+covered with sand, and then charred in a mufﬂe furnace. The
+charring temperature has a direct incidence on the mechanical
+resistance of charcoal (Hillis, 1984; Fengel and Wegener, 1989;
+Yildiz et al., 2006; Borrega and Kärenlampi, 2008; Gündüz et al.,
+2008; Mburu et al., 2008; Korkut et al., 2008; Korkut and
+
+J. Chrzazvez et al. / Journal of Archaeological Science 44 (2014) 30e42
+
+3.3. Physical characterization
+The physical properties of each sample were recorded in order
+to evaluate their incidence on the fragmentation process. The mass
+(M for dry wood and MC for charcoal), and the dimensions of the
+cube were measured in 3 directions, ﬁrst on air-dried wood and
+then on charcoal. This allowed for the calculation of the volume (V
+for dry wood and VC for charcoal), the density using the formula
+D ¼ M/V (WD for dry wood, WCD for charcoal), mass loss (M  MC)/
+M (Mloss %), volume loss (V  VC)/V (Vloss %) and density loss
+(WD  WCD)/WD (Dloss %).
+Systematic porosity measurements were taken on the transverse sections of charcoal samples using SEM image analysis. The
+porosity ratio corresponds to the difference in porosity between the
+initial and ﬁnal wood. These measurements were incorporated into
+the multivariate analysis to include the impact of the porosity of
+taxa on their mechanical properties and fragmentation. A macro for
+this measurement was written with image J software (Ducom,
+2010).
+3.4. Compression procedure
+A hydraulic traction-compression testing machine, equipped
+with a 10 kN sensor (Instron 1121), was used for the compression
+experiments. Pressure was applied parallel to the ﬁbers. The
+descent speed was ﬁxed at 0.1 mm/s during 30 s from the time of
+contact with the sample, which was placed on its transversal side.
+The pressure applied and the resulting decrease in the height of
+the sample (displacement of the tray), were recorded during the
+tests. These values allowed us to plot the stress (MPa)/strain (%)
+curves, by dividing the force by the surface of the transversal side of
+the sample (stress), on one hand, and the displacement by the
+height of the sample (strain), on the other hand.
+Fig. 1 represents a typical test curve. It is comprised of three
+main parts:
+- a gradual rise after the initial contact, which corresponds to
+setting up the compression;
+- a rapid and linear rise of the stress until the peak, which corresponds to the crushing of the whole sample;
+- a more or less brutal decrease in stress, possibly with nonnegligible drag strain, corresponding to the destruction of the
+charcoal structure.
+It is noteworthy that compression is never reversible; it is not
+therefore an elastic phenomenon.
+This diagram allows us to calculate several mechanical indicators in phase 2:
+- Maximum stress called crushing strength (CS in MPa);
+- Crushing modulus (CM in MPa);
+
+Betula - 500°C
+CS
+
+-0.05
+
+TS
+
+0
+
+0
+
+Ruin
+
+Crushing
+
+CM
+
+(=4
+
+02.1
+
+MPa
+
+)
+
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Setting
+
+Hiziroglu, 2009; Kocaefe et al., 2010; Majano-Majano et al., 2012;
+Poletto et al., 2012). Consequently, the choice of temperature must
+take into consideration the different stages of the thermal deterioration of the wood (Byrne and Nagle, 1997; Rousset et al., 2006;
+Braadbaart and Poole, 2008), but must also reﬂect the probable
+temperatures of archaeological hearths (Costamagno et al., 2010;
+Théry-Parisot and Chabal, 2010). The samples were charred at
+three different temperatures: 400, 500 and 750  C, in porcelain
+crucibles placed in the hot oven during 30 min. 302 of the 400
+prepared samples were usable, representing a 25% loss principally
+for samples charred at 400 and 750  C. On average, 30 samples
+were tested for each species, with an average of 9.1, 15.6 and 5.5
+samples at temperatures of 400  C, 500  C and 750  C respectively.
+
+Stress (M Pa)
+
+32
+
+0.05
+
+0.1
+
+0.15
+
+0.2
+
+Strain
+Fig. 1. Typical stressestrain curve of the compression test (comprising the three main
+phases: setting up the compression test, crushing and destruction of the charcoal
+structure) and mechanical indicators calculated (CS, CM and TS).
+
+- Theoretical crushing strain (TS ¼ CS/CM).
+Crushing strength (CS) is directly linked to the maximum force
+(pressure) that can be applied to a piece of charcoal before complete destruction. If the CS is low, the charcoal is less resistant to
+pressure.
+Theoretical crushing strain (TS) is mainly related to the time
+required to completely crush the charcoal. If TS is low, the charcoal
+is more fragile in the compressive test.
+Crushing modulus (CM), like any modulus, relates charcoal
+contraction to the compressive force exerted on it. If CM is low, the
+charcoal is less rigid during compression.
+As both wood and charcoal are honeycomb-like materials, mechanical properties in grain direction are roughly proportional to
+their density (Gibson and Ashby, 1999). It is therefore interesting to
+use “speciﬁc” crushing strength, i.e. CS divided by charcoal density:
+CS/WCD (expressed in 103 m2/s2), as a criterion, independently of
+density itself.
+The applied pressure induces sample fragmentation. The residues of each test were systematically sieved in three different
+meshes: [1e2 mm], [2e4 mm], > 4 mm and the fragments were
+then counted using image analysis (ImageJ).
+3.5. Statistical methods
+Several univariate to multivariate statistical methods were used
+to analyze the data and to assess the relation between the mechanical properties and the fragmentation process. The choice of
+tests depends on the purpose of the analysis and the nature of the
+available data. Non-parametric tests based on the ranks of the values
+were chosen when the normality of the distribution was not veriﬁed. The Spearman’s rank correlation coefﬁcient is a nonparametric
+measure of statistical dependence between two variables. Regression analysis was used when the dependent variable follows a
+Normal distribution. The very ﬂexible and extremely powerful oneway analysis of variance (ANOVA), widely used for the analysis of
+experimental schemes, can simultaneously analyse several scenarios and detect the effects of independent nominal variables on a
+large number of continuous variables. This test was performed to
+assess and evaluate the effect of the charring temperature and the
+taxon on the fragmentation process. The BonferronieDunn test allows for comparisons, controlling the family error rate. It was carried
+out in order to identify groups of taxon with the same fragmentation
+process. A multiple correspondence analysis (MCA) was applied to
+our data set categories to test relationships between variables.
+
+J. Chrzazvez et al. / Journal of Archaeological Science 44 (2014) 30e42
+
+4. Results (Table 1)
+4.1. Physical and mechanical properties
+4.1.1. Mass, volume and density
+In our tests, charring induces severe mass, volume and density
+loss.
+If we disregard wood water loss at the beginning of charring (on
+average 12%), on average, mass loss (Mloss) approaches 55% at
+400  C, 60% at 500  C and 70% at 750  C. There are no systematic
+signiﬁcant differences between the different species.
+Volume loss (Vloss) is about 50% at 400 and 500  C and increases to 58% at 750  C, which is considerable in comparison to the
+hygroscopic shrinkage between air-dried wood and oven-dried
+wood (about 6e8%). In this case, there are noticeable systematic
+differences between species, with Quercus pubescens displaying the
+lowest volume shrinkage and Carpinus betulus the highest.
+Density loss (Dloss) increases markedly with temperature
+(Fig. 2a). It rises from 32% at 400  C, to 40% at 500  C, and reaches
+55% at 750  C. Average density loss is 40%, with variations from 33
+to 50% according to the species (Fig. 2b), with Quercus and Carpinus
+representing the two extremes (Quercus records a much higher
+density loss than the other species e which tends to slot it into the
+average e whereas that of Carpinus is much lower).
+
+33
+
+Charring tends to regulate density differences between species
+but charcoal density remains globally proportional to the initial
+wood density (Fig. 2c). The Spearman correlation test indicates a
+signiﬁcant positive correlation between the two series of values
+(rho ¼ 0.69/p-value < 2.2ee16) (Table 2).
+
+4.1.2. Crushing strength (CS), crushing modulus (CM) and
+theoretical crushing strain (TS) (Fig. 3)
+-
+
+The effect of temperature
+
+The three mechanical indicators evolve markedly with temperature (Table 1). All three decrease when the charring temperature increases, with crushing strength (CS) being more affected
+than the others. The crushing modulus (CM) decreases slightly
+between 400  C (424 MPa) and 500  C (396 MPa), but is almost
+halved at 750  C (220 MPa) (Fig. 3a). Crushing strength (CS) varies
+on average from 16.9 MPa at 400  C, to 14.5 MPa at 500  C and
+6.9 MPa at 750  C (Fig. 3b). As for the theoretical crushing strain
+(TS), it decreases regularly from 4.3% at 400  C to 3.2% at 750  C,
+with a value of 3.8% at 500  C (Fig. 3c).
+It appears from these results that charcoal becomes less resistant and more fragile as charring temperatures increase.
+
+Table 1
+Average values for mechanical properties and fragmentation of the 10 species and 3 heat treatments. Abbreviations: Nb: number of samples; WD: wood density; WCD:
+charcoal density; Mloss: mass loss; Vloss: volume loss; Dloss: density loss; >4 mm, 2e4 mm, 1e2 mm: number of fragments in each class size; Total: total number of
+fragments; CM: crushing modulus; CS: crushing strength; TS: theoretical crushing strain; CS/WCD: speciﬁc crushing modulus.
+T
+
+Species
+
+Acer
+
+Betula
+
+Carpinus
+
+Corylus
+
+Fagus
+
+Fraxinus
+
+Pinus pinaster
+
+Pinus sylvestris
+
+Populus
+
+Quercus
+
+Nb
+
+WD
+
+WCD
+
+Mloss
+
+Vloss
+
+Dloss
+
+>4 mm
+
+2e4 mm
+
+1e2 mm
+
+Total
+
+CM
+
+CS
+
+TS
+
+CS/WCD
+
+Means
+CS
+
+CM
+
+400
+500
+750
+
+9
+16
+4
+
+0.65
+0.65
+0.64
+
+0.41
+0.39
+0.28
+
+0.68
+0.71
+0.81
+
+0.49
+0.51
+0.58
+
+0.37
+0.40
+0.54
+
+20
+19
+19
+
+52
+66
+61
+
+82
+105
+87
+
+154
+189
+167
+
+461
+437
+324
+
+19.8
+19.9
+13
+
+0.044
+0.046
+0.038
+
+48.6
+51.0
+42
+
+18.9
+
+429
+
+400
+500
+750
+
+9
+15
+5
+
+0.59
+0.59
+0.60
+
+0.40
+0.36
+0.27
+
+0.69
+0.74
+0.84
+
+0.55
+0.56
+0.64
+
+0.32
+0.39
+0.55
+
+17
+15
+17
+
+34
+41
+33
+
+96
+136
+106
+
+147
+191
+156
+
+501
+426
+181
+
+20.4
+16.7
+6.9
+
+0.041
+0.039
+0.037
+
+51.3
+46.1
+25.5
+
+16.1
+
+407
+
+400
+500
+750
+
+11
+15
+2
+
+0.73
+0.73
+0.74
+
+0.54
+0.49
+0.44
+
+0.70
+0.74
+0.82
+
+0.59
+0.62
+0.68
+
+0.26
+0.33
+0.42
+
+20
+16
+15
+
+45
+44
+40
+
+156
+160
+114
+
+221
+220
+169
+
+548
+591
+356
+
+20.6
+19.9
+9.5
+
+0.042
+0.033
+0.030
+
+38.1
+40.9
+22.3
+
+19.4
+
+557
+
+400
+500
+750
+
+7
+16
+7
+
+0.60
+0.63
+0.65
+
+0.43
+0.40
+0.29
+
+0.68
+0.73
+0.83
+
+0.55
+0.57
+0.60
+
+0.28
+0.37
+0.56
+
+17
+16
+17
+
+48
+54
+43
+
+137
+156
+109
+
+202
+227
+169
+
+475
+445
+198
+
+22.5
+20.3
+4.9
+
+0.049
+0.047
+0.026
+
+51.7
+51.3
+16.8
+
+17.2
+
+394
+
+400
+500
+750
+
+8
+16
+4
+
+0.69
+0.68
+0.69
+
+0.50
+0.41
+0.33
+
+0.66
+0.71
+0.81
+
+0.53
+0.52
+0.58
+
+0.28
+0.39
+0.53
+
+16
+17
+17
+
+37
+43
+44
+
+62
+71
+69
+
+115
+131
+129
+
+408
+436
+258
+
+15.3
+14.2
+9.6
+
+0.041
+0.033
+0.037
+
+30.7
+33.9
+28.3
+
+13.9
+
+402
+
+400
+500
+750
+
+11
+14
+7
+
+0.72
+0.74
+0.76
+
+0.52
+0.45
+0.32
+
+0.60
+0.71
+0.82
+
+0.45
+0.52
+0.58
+
+0.27
+0.40
+0.58
+
+20
+16
+17
+
+47
+64
+50
+
+141
+210
+149
+
+207
+290
+216
+
+437
+406
+286
+
+12.9
+12.4
+8.8
+
+0.031
+0.034
+0.030
+
+24.7
+27.8
+25.5
+
+11.8
+
+390
+
+400
+500
+750
+
+8
+16
+6
+
+0.54
+0.60
+0.52
+
+0.34
+0.35
+0.23
+
+0.62
+0.68
+0.80
+
+0.40
+0.45
+0.55
+
+0.37
+0.41
+0.56
+
+17
+22
+22
+
+41
+63
+58
+
+66
+102
+78
+
+124
+187
+157
+
+351
+357
+181
+
+19.0
+11.3
+6.4
+
+0.056
+0.037
+0.037
+
+56.2
+32.6
+27.8
+
+12.4
+
+320
+
+400
+500
+750
+
+8
+16
+7
+
+0.52
+0.52
+0.54
+
+0.36
+0.31
+0.23
+
+0.63
+0.70
+0.82
+
+0.46
+0.50
+0.56
+
+0.31
+0.40
+0.58
+
+24
+19
+18
+
+48
+62
+58
+
+73
+108
+100
+
+144
+189
+176
+
+345
+284
+164
+
+12.7
+10.2
+4.6
+
+0.042
+0.039
+0.028
+
+35.5
+32.9
+19.6
+
+9.6
+
+272
+
+400
+500
+750
+
+8
+16
+7
+
+0.49
+0.49
+0.48
+
+0.33
+0.28
+0.20
+
+0.68
+0.74
+0.83
+
+0.53
+0.55
+0.58
+
+0.32
+0.42
+0.58
+
+14
+13
+19
+
+28
+33
+42
+
+45
+54
+60
+
+87
+100
+121
+
+377
+295
+138
+
+15.6
+11.8
+4.1
+
+0.049
+0.041
+0.029
+
+46.7
+41.5
+19.8
+
+11.2
+
+283
+
+400
+500
+750
+
+8
+16
+7
+
+0.91
+0.93
+0.85
+
+0.51
+0.46
+0.32
+
+0.63
+0.66
+0.81
+
+0.34
+0.31
+0.48
+
+0.44
+0.50
+0.62
+
+40
+35
+23
+
+75
+88
+60
+
+139
+144
+97
+
+255
+267
+180
+
+337
+285
+165
+
+10.4
+7.8
+4.3
+
+0.033
+0.028
+0.027
+
+20.8
+17.1
+13.5
+
+8.1
+
+281
+
+T
+
+T
+
+Nb
+
+WD
+
+WCD
+
+M loss
+
+Vloss
+
+Dloss
+
+>4 mm
+
+2e4 mm
+
+1e2 mm
+
+Total
+
+CM
+
+CS
+
+TS
+
+CS/WCD
+
+Means
+
+400
+500
+750
+
+91
+155
+55
+
+0.66
+0.66
+0.64
+
+0.44
+0.39
+0.28
+
+0.66
+0.71
+0.82
+
+0.49
+0.51
+0.58
+
+0.32
+0.40
+0.56
+
+21
+19
+19
+
+46
+56
+50
+
+103
+124
+97
+
+170
+200
+165
+
+426
+394
+210
+
+16.7
+14.4
+6.6
+
+0.042
+0.038
+0.031
+
+39.3
+37.2
+23.2
+
+20
+
+a)
+
+b)
+
+0
+
+0
+
+20
+
+40
+
+40
+
+60
+
+60
+
+J. Chrzazvez et al. / Journal of Archaeological Science 44 (2014) 30e42
+
+Density loss (%)
+
+34
+
+400°C
+
+500°C
+
+s
+s
+s
+r
+s
+r
+us cus
+lu tris ula
+te lu ce agu inu
+A F
+xin uer
+pu ves Bet nas ory
+rp
+a
+o
+r
+a
+l
+i
+C
+P sy
+Q
+F
+p
+C
+P.
+P.
+
+750°C
+
+1.0
+0.9
+0.8
+0.7
+
+Density
+
+0.6
+0.5
+0.4
+0.3
+0.2
+
+Wood density
+
+0.1
+
+c)
+
+0.0
+
+Po
+
+p
+
+s
+ulu
+Pi
+
+alb
+nu
+
+Charcoal density
+
+a
+
+ss
+
+e
+ylv
+
+t
+Be
+
+str
+
+ula
+
+is
+
+pu
+
+s
+be
+
+ce
+
+Pi
+
+ns
+
+nu
+
+s
+
+a
+pin
+Co
+
+ste
+
+ry
+
+r
+
+lus
+Ac
+
+e
+av
+
+p
+er
+
+lla
+
+se
+
+na
+
+ud
+
+la
+op
+
+ta
+
+Fa
+
+n
+
+gu
+
+us
+
+s
+
+lv
+sy
+
+at
+
+r
+Ca
+
+ica
+
+pin
+
+u
+
+e
+sb
+
+Fr
+
+ax
+
+tu
+
+lus
+
+inu
+
+x
+se
+
+e
+Qu
+
+ce
+
+rc
+
+ls
+
+ior
+
+us
+
+b
+pu
+
+es
+
+ce
+
+ns
+
+Fig. 2. Mean density loss by charring temperatures (a), by species (b), Mean density of wood and charcoal by species (c).
+
+-
+
+Species effect
+
+Due to the fact that a larger and more constant number of
+specimens were charred at 500  C, the mean values at this temperature were used to compare species.
+The three indicators vary according to the different species
+(Table 1), which partly explains the substantial standard deviations
+observed for this temperature. The differences between taxa are
+noticeable, with CM ranging between 285 MPa for Quercus and
+591 MPa for Carpinus, CS between 7.8 MPa for Quercus and 20.3 MPa
+for Corylus and TS between 2.8% for Quercus and 4.7% for Corylus.
+Quercus is by far the least resistant and most fragile taxon, while
+Acer, Carpinus and Corylus are the most resistant and the least fragile.
+The difference is even more accentuated between Quercus and
+Corylus for the speciﬁc crushing strength: respectively 17.1 and 51.3.
+-
+
+Interaction between the effects of temperature and species
+
+An increase in temperature globally induces a decrease in
+charcoal resistance (CS), regardless of species (Fig. 3). This decrease
+is partly due to the reduction in charcoal density, which is most
+pronounced between 500 and 750  C.
+According to the CIRAD database (Cirad database TROPIXÒ 7,
+2011), measurements taken on 243 air-dried wood samples from
+
+tree species, with densities ranging from 0.2 to 1.2, show that
+resistance to axial compression is proportional to the density of dry
+wood (WD): CS ¼ 84.7 * WD, with a coefﬁcient of regression
+R2 ¼ 0.88. The CS/WD ratio is called speciﬁc resistance (in relation
+to density) and varies little between species.
+It is therefore interesting to compare the speciﬁc resistance of
+charcoal (CS/WCD) to the mean value observed for air-dried wood.
+On average (Table 1), the ratio between (CS/WCD) and this mean
+value (84.7) is still 0.48 and 0.44 for 400  C and 500  C respectively,
+but it drops to 0.28 at 750  C.
+There are marked differences in temperature between species
+when the sudden drop in resistance occurs (Fig. 4). Fraxinus, Fagus
+and Quercus already display low values at 400  C and these values
+do not fall suddenly at 750  C. Pinus pinaster decreases clearly between 400 and 500  C but not so much between 500 and 750  C. All
+the other species present a strong decrease in resistance between
+500 and 750  C.
+4.2. Fragmentation
+4.2.1. Global fragmentation process, all class sizes combined
+After the compression tests, the samples produced on average,
+170 fragments at 400  C, 200 fragments at 500  C and 165 fragments at 750  C (Fig. 5a). The relationship between temperature
+
+J. Chrzazvez et al. / Journal of Archaeological Science 44 (2014) 30e42
+
+Pairs of variables
+WCD
+WD
+WCD
+CM
+CS
+CS/WCD
+Dloss
+WD
+WCD
+WCD
+Dloss
+WCD
+Dloss
+
+p-Value
+
+Coef.
+determination
+
+0.708
+0.517
+0.433
+0.170
+0.070
+0.090
+0.019
+0.496
+0.464
+0.516
+0.587
+0.404
+0.671
+
+<0.0001
+<0.0001
+<0.0001
+0.003
+0.225
+0.120
+0.739
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+
+0.501
+0.267
+0.188
+0.029
+0.005
+0.008
+0.000
+0.246
+0.215
+0.266
+0.344
+0.163
+0.451
+
+400°C
+500°C
+750°C
+
+400°C
+500°C
+750°C
+
+Po
+pu
+P.
+lus
+syl
+ve
+str
+Be is
+tu
+P.
+pin la
+ate
+r
+Co
+ryl
+us
+Ac
+e
+Fa r
+Ca gus
+rpi
+n
+Fra us
+xin
+Qu us
+erc
+us
+
+Po
+pu
+P.
+lus
+syl
+ve
+str
+Be is
+tu
+P.
+pin la
+a
+Co ter
+ryl
+us
+Ac
+e
+Fa r
+Ca gus
+rpi
+n
+Fra us
+xin
+Qu us
+erc
+us
+
+100
+Po
+pu
+P.
+lus
+syl
+ve
+str
+Be is
+tu
+P.
+pin la
+a
+Co ter
+ryl
+us
+Ac
+e
+Fa r
+Ca gus
+rpi
+n
+Fra us
+xin
+Qu us
+erc
+us
+
+5
+
+200
+
+0.03
+
+10
+
+TS (%)
+
+CS (MPa)
+15
+
+0.05
+
+CM (MPa)
+300
+400
+500
+
+400°C
+500°C
+750°C
+
+4.2.2. Mechanical properties versus fragmentation
+Series of Spearman tests show that, on the whole, there is virtually
+no link between mechanical properties and the fragmentation process (Table 2). Mass loss, crushing strength and speciﬁc crushing
+
+20
+
+600
+
+and the number of fragments is therefore not consistent during our
+tests. The total number of fragments for each species presents
+marked variability, ranging from 34 fragments for Populus to 400
+for Fraxinus, with, on average, 101 fragments for Populus and 246 for
+Quercus pubescens.
+The differences between species are signiﬁcant, as shown by the
+results of the ANOVA (Table 3), which make it possible to classify
+the effects of temperature and species. Both factors combined
+
+0.04
+
+WD
+Total Nb fragt
+Total Nb fragt
+Total Nb fragt
+Total Nb fragt
+Total Nb fragt
+Total Nb fragt
+Nb fragt [1e2 mm]
+Nb fragt [1e2 mm]
+CM
+CM
+CS
+CS
+
+Coef. correlation
+(Rhô)
+
+account for 61.5% of the total variability but the F- value and the
+sum of the squares for the SPECIES factor are more signiﬁcant,
+explaining 49.7% (R2) of the variation of the model. The histogram
+(Fig. 6) summarizing the total number of fragments produced by
+compression, according to species and temperature, clearly shows
+the preponderant role of the taxon on fragmentation. Apart from
+some rare exceptions (500  C/Fraxinus), the observed variability is
+much more signiﬁcant between the different species than between
+temperatures.
+A bilateral paired-comparison test brings to light four partly
+overlapping groups of taxa. Populus on one hand, and Quercus and
+Fraxinus on the other hand, display contrasting responses, which
+differ from those of most species. On average, Populus is not very
+fragmented whereas Quercus and Fraxinus are much more fragmented. The other species are clustered around two median
+groups. Fagus is similar to Populus, followed by a group made up of
+P. pinaster, Acer and Betula. P. sylvestris, Corylus and Carpinus tend to
+display slightly greater fragmentation and P. sylvestris has median
+fragmentation (Table 4).
+
+0.06
+
+Table 2
+Table of correlations between variables (Spearman test).
+
+35
+
+1.0
+
+b)
+
+0.8
+
+a)
+
+500°C
+
+750°C
+
+Po
+
+400°C
+
+pu
+lus
+Pi
+nu
+ss
+.
+Be
+tu
+la
+Pi
+nu
+sp
+.
+Co
+ry
+lus
+Ac
+er
+Fa
+gu
+s
+Ca
+rp
+inu
+s
+Fr
+ax
+inu
+Qu s
+er
+cu
+s
+
+0.4
+
+0.4
+
+0.6
+
+CS/WCD
+0.6
+0.8
+
+1.0
+
+Fig. 3. Interaction between temperatures and species on the mechanical properties: crushing modulus CM (a); crushing strength CS (b); theoretical crushing strain TS (c).
+
+Fig. 4. Speciﬁc rupture strength (CS/WCD) by: temperature (a) and species (b).
+
+200
+
+300
+
+a)
+
+b)
+
+0
+
+50
+
+100
+
+N fragments
+
+100 150 200 250 300
+
+J. Chrzazvez et al. / Journal of Archaeological Science 44 (2014) 30e42
+
+400
+
+36
+
+500°C
+
+[1-2 mm]
+
+750°C
+
+[2-4 mm]
+
+> 4 mm
+
+200
+
+300
+
+c)
+
+er
+
+cu
+
+s
+
+s
+Qu
+
+inu
+
+s
+
+ax
+Fr
+
+inu
+
+s
+
+rp
+Ca
+
+gu
+Fa
+
+er
+Ac
+
+lus
+ry
+
+as
+pin
+
+Co
+
+te
+
+r
+
+la
+tu
+P.
+
+Be
+
+str
+lve
+
+sy
+P.
+
+Po
+
+pu
+
+lus
+
+is
+
+100
+
+N fragments
+
+400
+
+400°C
+
+Fig. 5. Box & Whiskers plot for the total number of fragments: by charring temperature (a), by class sizes (b), by species (c).
+
+strength are not correlated with the total number of fragments produced. The crushing modulus is very slightly correlated with the total
+number of fragments: the p-value is signiﬁcant (0.0076), but the
+determination coefﬁcient is low (rho ¼ 0.15). Scatter graph (Fig. 7)
+explicitly shows that there is no relation between crushing strength
+(which is a good expression of the brittleness of charcoal) and the
+number of fragments produced by compression tests. In other words,
+mechanical properties and fragmentation are strongly dependent on
+the species, but there is no correlation between the two factors
+themselves. Each species is more or less resistant to compression but
+once the fragmentation process has begun, it affects each species
+independently of the pressure applied.
+4.2.3. Fragmentation modalities by class size [1e2 mm], [2e4 mm],
+>4 mm
+The ﬁrst observation concerns the disparity in fragment distribution between the different class sizes. All species combined, the
+average number of fragments by class size is 111 in the smallest
+class size [1e2 mm], 51 in the second [2e4 mm], and only 19
+fragments larger than 4 mm (Fig. 5b).
+According to the species, the number of fragments varies from
+16 to 304 in the class [1e2 mm], from 11 to 121 in the class [2e
+4 mm] and from 5 to 62 in the class >4 mm (Fig. 5c). The variance of
+the three series is thus quite marked and the coefﬁcient of variation
+is around 40% for the three class sizes.
+
+Fragmentation variability by species is very signiﬁcant in the
+class [1e2 mm] with substantial tiering of the dispersion boxes
+(Fig. 8a). Populus is the least fragmented species with a minimum of
+16 fragments and Fraxinus is the most fragmented species with a
+maximum of 304 fragments. The bilateral paired-comparison test
+(BonferronieDunn procedure, Table 4) distinguishes four signiﬁcantly different groups.
+The upper and lower extremes are respectively made up of
+an isolated species, Populus, and a group made up of Corylus,
+Quercus, Carpinus, Fraxinus, which generally yields more fragments. Fagus and P. pinaster are similar to Populus, whereas Acer,
+P. sylvestris and Betula display intermediate fragmentation, between the species with high and low fragmentation. Variability
+is less marked in the intermediate class [2e4 mm], where
+divergence between the species is slightly reduced and only two
+species deviate: Populus generally produces less fragments
+(mean ¼ 33) and Quercus (mean ¼ 78) produces on average a lot
+more fragments. As for the other species, Betula, Fagus, Carpinus
+and Corylus present a low fragmentation tendency whereas
+Fraxinus, P. Sylvestris, P. pinaster and Acer display a high tendency
+(Fig. 8b).
+Lastly, in the >4 mm class, the dispersion boxes have a more or
+less constant distribution, apart from Quercus, which is quite detached from the other species (BonferronieDunn-test). Variability
+is generally much less signiﬁcant here (Fig. 8c).
+
+J. Chrzazvez et al. / Journal of Archaeological Science 44 (2014) 30e42
+
+In the upper left part, the high crushing strength is strongly
+correlated to the presence of spiral thickenings and, secondarily, to
+the “small aggregate vessels” modality.
+Lastly, in the lower part of the graphic, the “low density” (WCD)
+and “small isolated vessels or homoxylous wood” are linked to the
+low total number of fragments.
+Wood with a marked porous zone, with large vessels, such as
+Quercus and Fraxinus, and with long radial ﬁle vessels (Carpinus and
+Corylus) are the most fragmented. Homogeneous wood (small
+isolated diffuse vessels or homoxylous) such as Populus, Acer, Betula
+or P. pinaster, P. sylvestris are those that produce fewer fragments.
+Corylus, Carpinus and Acer present a higher crushing strength than
+the other taxa. This characteristic seems to be linked to the presence of spiral thickenings. Conversely, the weak value of crushing
+strength is either linked to the porosity of the charcoal (case of
+Fraxinus and Quercus), or to its low density, as is the case for Populus, P. sylvestris and P. pinaster. In all cases, wood with a low density
+presents a low value for crushing strength. On the other hand,
+dense wood alternatively yields either very high or very low values.
+
+Table 3
+Effect of species and temperature on fragmentation (ANOVA one-way variance
+analysis and PLSD Fisher test).
+Variable
+
+DDL
+
+Sum of the squares
+
+F value
+
+Pr > F
+
+Species
+Temperature
+Species * temperatures
+
+9
+2
+18
+
+671386.8
+45851.4
+68889.6
+
+40.762
+25.054
+2.091
+
+<0.0001
+<0.0001
+0.006
+
+350
+
+N fragments
+
+300
+250
+200
+150
+
+400°C
+
+100
+
+500°C
+
+50
+
+37
+
+750°C
+
+Po
+pu
+sy lus
+lve
+str
+is
+Be
+tu
+P.
+pin la
+as
+te
+Co r
+ryl
+us
+Ac
+er
+Fa
+g
+Ca us
+rp
+in
+Fr us
+ax
+in
+Qu us
+er
+cu
+s
+
+0
+
+4.4. Results synthesis
+
+P.
+
+Table 3 summarizes correlation coefﬁcients and brings to light
+the differential responses of the tested species as regards resistance
+to compression and fragmentation. These two processes are clearly
+not related. We have observed that:
+
+Fig. 6.
+
+Differences between taxa are thus very slight in the >4 mm size
+and relatively minor in the [2e4 mm] class. They are most marked
+in the [1e2 mm] class.
+
+-
+
+4.3. Multivariate analysis
+The multiple correspondence analysis (MCA) conducted on all
+the specimens charred at 500  C allows us to discuss the relationships between our results and the main physical and anatomical
+characteristics of the studied species. Only the variables with a
+strong impact on the analysis have been retained (deﬁned by two or
+three modalities: high/medium/low). For example, ﬁber thickness
+was initially tested and then removed. Moreover, the species
+themselves are integrated as supplementary variables and are not
+used for the calculation of the ACM (Fig. 9).
+On axis 1, accounting for 62. 21% of the total variance, the “large
+vessels”, “very large and long rays” and “high porosity” modalities
+are closely linked. These modalities are secondarily associated with
+the absence of spiral thickenings and are related to a low crushing
+strength (CS) and a high number of fragments >4 mm. On axis 2, in
+the upper right part of the graphic, in relation to the active variables
+on axis 1, “high density” is strongly correlated with the high values
+of the total number of fragments and the high number of fragments
+>1 mm.
+
+-
+
+-
+
+-
+
+-
+
+Temperature increase generally induces a decrease in the
+resistance of the charcoal, whatever the species (Fig. 3). This is
+similar to the results of tests carried out at low temperatures on
+industrial wood (Gündüz et al., 2008; Korkut et al., 2008; Korkut
+and Hiziroglu, 2009; Kocaefe et al., 2010; Majano-Majano et al.,
+2012). Crushing strength loss is particularly noticeable above
+500  C.
+Density loss is correlated to the charring temperature but is also
+related to the species. However, charring tends to attenuate the
+differences in density between species (Fig. 2).
+Density loss induces crushing strength loss and accounts for the
+main mechanical properties of charcoal.
+All temperatures combined, charcoal resistance is also linked to
+the species. The mechanical properties of the species are
+modiﬁed at distinctive thermal thresholds (Fig. 3).
+Resistance to pressure is dependent on the species but fragmentation intensity is not correlated to the resistance of the
+material itself. The least resistant species are not those subject to
+the most fragmentation (Fig. 7).
+The relationship between the number of fragments produced by
+compression and temperature is not constant (Fig. 5a).
+The total number of fragments after compression depends
+mainly on the species, regardless of temperature (Table 3 and
+
+Table 4
+Groups of species vs. fragmentation (DunneBonferroni Test).
+Total
+
+[1e2 mm]
+
+>4 mm
+
+[2e4 mm]
+
+Taxon
+
+Groups
+
+Taxon
+
+Groups
+
+Taxon
+
+Groups
+
+Taxon
+
+Groups
+
+Populus
+Fagus
+P. pinaster
+Betula
+Acer
+P. sylv.
+Corylus
+Carpinus
+Fraxinus
+Quercus
+
+A
+A
+
+Populus
+Fagus
+P. sylv.
+Acer
+P. pinaster
+Betula
+Corylus
+Quercus
+Carpinus
+Fraxinus
+
+A
+A
+A
+
+Populus
+Betula
+Fagus
+Carpinus
+Corylus
+Fraxinus
+P. pinaster
+P. sylv.
+Acer
+Quercus
+
+A
+A
+A
+A
+
+Populus
+Betula
+Corylus
+Fagus
+Carpinus
+Fraxinus
+P. sylv.
+Acer
+P. pinaster
+Quercus
+
+A
+A
+A
+A
+A
+A
+A
+A
+
+B
+B
+B
+
+C
+C
+C
+C
+C
+
+D
+D
+D
+D
+D
+
+E
+E
+E
+E
+
+B
+B
+B
+B
+
+C
+C
+C
+C
+
+D
+D
+D
+D
+D
+
+B
+B
+B
+B
+
+C
+C
+C
+C
+C
+C
+
+D
+D
+D
+D
+D
+D
+
+E
+E
+
+B
+B
+B
+B
+B
+B
+B
+C
+
+38
+
+J. Chrzazvez et al. / Journal of Archaeological Science 44 (2014) 30e42
+
+Fig. 7. Effect of the Speciﬁc rupture strength on the number of fragments.
+
+-
+
+-
+
+-
+
+Fig. 6). Populus is not prone to much fragmentation whereas
+Quercus and Fraxinus produce a lot of fragments. Between these
+two extremes, Fagus, P. pinaster, Acer and Betula display little
+fragmentation, whereas Corylus and Carpinus tend to be highly
+fragmented. P. sylvestris shows an intermediate response to
+fragmentation (Table 4 and Fig. 5c).
+However, interspeciﬁc variability is signiﬁcant for the small
+fragments [1e2 mm], but less so for larger fragments [2e4 mm].
+In the largest class size (>4 mm), only Quercus is different from
+the other taxa, producing a lot more fragments (Fig. 8).
+Wood with a marked porous zone, with large vessels, and with
+long radial ﬁle vessels (Carpinus and Corylus) produces the most
+fragments. Homogeneous wood (small isolated diffuse vessels
+or homoxylates) such as Populus, Acer, Betula or P. pinaster,
+P. sylvestris are those that produce the least fragments (Fig. 9).
+The presence of spiral thickenings (Corylus, Carpinus and Acer) is
+linked to a higher crushing strength. The low value of crushing
+strength is either linked to the porosity of the charcoal (Fraxinus
+and Quercus), or to its low density (Populus, P. sylvestris and
+P. pinaster). In all cases, wood with a low density presents a low
+value for crushing strength. On the other hand, dense wood
+alternatively yields either very high or very low values (Fig. 9).
+
+5. Interpretation
+5.1. Focus on factors impacting fragmentation
+-
+
+Density
+
+The density of dry wood seems to have an impact on fragmentation: charcoal from dense wood is very fragmented while low to
+medium density wood charcoal presents low to medium fragmentation. Despite a low coefﬁcient of determination (0.267), there
+
+is a signiﬁcant positive correlation (Rhô ¼ 0.517) between “wood
+density” (and therefore charcoal density) and the "total number of
+fragments”. As the majority of the fragments are in the [1e2 mm]
+fraction, density is also logically correlated with the number of
+small fragments, as shown by the MCA analysis: the denser the
+wood, the higher the number of small fragments.
+-
+
+Wood porosity vs. homogeneity
+
+Fragmentation intensity is related to charcoal porosity. Cellular
+organization seems to be strongly linked to the fragmentation
+processes. Marked porous zones with large vessels or radial pore
+ﬁles are prone to fragmentation. Conversely, more homogeneous
+porous wood (with small isolated diffuse vessels or homoxylates)
+such as Populus, Acer, Betula or P. pinaster, P. sylvestris tends to be
+less fragmented.
+-
+
+Length and width of the rays
+
+The production of large fragments, as for Quercus, is also
+linked to the presence of a signiﬁcant porous zone. But Quercus
+differs from the other species by the presence of multiseriate
+rays, which create fragile zones after combustion and account for
+the speciﬁc fragmentation mode of this species. For the other
+species, the rays, whether multiseriate or uniseriate, play a secondary role in both fragmentation and the mechanical properties
+(cf. central position and weak contribution in the construction of
+the MCA graphic).
+5.2. Factors affecting crushing strength
+In all cases, charcoal with a low density presents a low value for
+crushing strength, but high density charcoal alternatively yields
+
+300
+
+J. Chrzazvez et al. / Journal of Archaeological Science 44 (2014) 30e42
+
+120
+
+sy
+
+P.
+
+Po
+
+pu
+
+lus
+lve
+str
+is
+Be
+tu
+la
+P.
+pin
+as
+te
+r
+Co
+ry
+lus
+Ac
+er
+Fa
+g
+Ca us
+rp
+inu
+s
+Fr
+ax
+inu
+s
+Qu
+er
+cu
+s
+
+50
+
+N frgts. [1-2 mm]
+100
+150
+200
+
+250
+
+a)
+
+80
+60
+40
+
+Fr
+
+cu
+
+Qu
+
+er
+
+inu
+ax
+
+s
+
+s
+
+s
+
+s
+
+inu
+
+Ca
+
+rp
+
+gu
+
+er
+
+Fa
+
+lus
+ry
+
+Ac
+
+r
+
+Co
+
+P.
+
+pin
+
+as
+
+te
+
+la
+
+is
+
+tu
+
+str
+
+lve
+
+Be
+
+lus
+pu
+
+sy
+
+P.
+
+Po
+
+20
+
+30
+
+40
+
+50
+
+60
+
+c)
+
+This study shows that the anatomical structure of the different
+tested wood taxa has a signiﬁcant impact on the mechanical
+properties of charcoal. Charring produces less heterogeneous material than the different initial woods, but it does not erase the
+differences in density, organization and cellular composition, etc.
+Thermal response, resistance to pressure, fragmentation and its
+modalities are largely dependent on the anatomical features and
+thus, on the physical characteristics of wood. Some of the noted
+differences are signiﬁcant from an archaeological viewpoint. The
+alteration of the mechanical properties follows a differential thermal pattern depending on the species, which can cause differences
+in taxa fragmentation in the same hearth or among scattered
+charcoals. The formation temperature of charcoal also inﬂuences
+the fragmentation of the material (Théry-Parisot, 2013). Yet, the
+temperatures are highly ﬂuctuant in a same combustion structure.
+It is therefore very difﬁcult to archaeologically assess the question
+of the weakness of charcoal in relation to charring temperatures.
+Fragmentation differences are mainly visible outside the
+[>4 mm] class size. These ﬁrst results tend to show that anthracoanalysis limited to charcoal over 4 mm would induce less risk of
+under or over-representation of the different taxa, with the
+exception of Quercus, which is over-represented in this class size.
+We also noted variations in crushing strength values from one
+species to another. This signiﬁes that the rupture of the material is
+not initiated at the same pressure levels. Thus, from an archaeological perspective, in the same burial conditions, taxa will not
+necessarily demonstrate the same resistance capacity, which could
+
+Qu
+
+er
+
+cu
+
+s
+
+s
+
+s
+
+inu
+ax
+
+Fr
+
+rp
+
+inu
+
+s
+
+er
+
+gu
+
+Ca
+
+Fa
+
+Ac
+
+lus
+ry
+
+r
+
+Co
+
+as
+te
+
+la
+P.
+
+pin
+
+tu
+
+str
+is
+
+Be
+
+lve
+
+sy
+
+P.
+
+Po
+
+pu
+
+lus
+
+10
+
+N frgts. >4mm
+
+very high or very low values. The relationship between charcoal
+density and crushing strength is thus not clear.
+Corylus, Carpinus and Acer present a higher crushing strength
+than the other taxa. This characteristic is linked to the presence of
+spiral thickenings, which are preserved after charring. Conversely,
+the weak value of crushing strength is either linked to the porosity
+of the charcoal, in the case of Fraxinus and Quercus, or to its low
+density, as is the case for Populus, P. sylvestris and P. pinaster.
+For dry wood, crushing strength is more or less proportional to
+wood density. Although Quercus is the wood with the highest
+density, its charcoal has the lowest crushing strength. This is due to
+the fact that charring induces the highest density loss for this
+species, perhaps because of its chemical composition. In addition,
+Quercus displays two orthogonal arrays of weak zones: an initial
+porous zone in a tangential direction and very large rays in the
+radial direction. This should be conducive to the initiation of a large
+number of cracks at rather low stress levels.
+On the other hand, Corylus, Carpinus and Acer present a higher
+crushing strength than the other taxa, although the density of these
+species is no higher than that of Fraxinus, for example. They are
+more homogeneous woods with less distinct weak zones prone to
+fractures. Furthermore, the presence of spiral thickenings in the
+ﬁbers, which are preserved after charring, appears to reinforce the
+structure of these charred woods.
+Populus is characterized by a very homogeneous structure, but
+with a much lower density than the former species.
+The low resistance of Fraxinus and Fagus charcoal, in spite of the
+rather high density of these woods, can also be explained by the
+presence of weak zones: tangential (initial porous zone) for Fraxinus and radial (large rays) for Fagus.
+6. Discussion: from experimentation to the archaeological
+context
+
+20
+
+N frgts. [2-4 mm]
+
+100
+
+b)
+
+39
+
+Fig. 8. Box & Whiskers plot for the number of fragments by species in the three class
+sizes: 1e2 mm (a); 2e4 mm (b); >4 mm (c).
+
+40
+
+J. Chrzazvez et al. / Journal of Archaeological Science 44 (2014) 30e42
+
+C arpinus
+C orylus
+High crushing strength
+1
+
+Spiral thickenings
+
+High N fragts [1-2 mm]
+
+Small agregate vessels
+
+High density
+
+F2 (20.90 %)
+
+High total N of fragments
+
+0
+
+A cer
+Low porosity
+Large and long rays
+F agus
+
+Medium density
+Low to medium total N fragts > 4mm
+Short and fine rays
+High N fragts > 4mm
+
+Low to medium N frgts. [1-2 mm]
+B etula
+
+Large vessels / porous wood
+Very large and long rays
+Q uercus pubescens
+
+High porosity
+
+Medium crushing strength
+
+Low crushing strength
+Spiral thickenings absent
+
+Small isolated vessels / homoxylous wood
+Low total N fragts
+
+F raxinus
+
+Mean N fragments
+
+P inus pinaster
+
+-1
+
+P inus sylvestris
+P opulus
+Low density
+-1
+
+0
+
+F1 (62.21 %)
+
+1
+
+2
+
+3
+
+Fig. 9. Multiple Correspondence Analysis (symmetric graph): mechanical properties/ wood anatomy.
+
+bias interpretation. However, crushing strength depends on the
+formation temperature of charcoal and has no impact on the
+quantity of fragments produced after the rupture of the material.
+This results in a set of extremely variable situations where it is
+impossible to assess or to measure all the parameters. It is thus
+important to study and to take account of burial conditions (the
+nature and intensity of post-depositional processes involved in the
+deposit formation, rate of burial at the scale of the site, but also
+intra-site variations), but it is nonetheless impossible to infer the
+mechanical behaviour of charcoal. However, when interpreting the
+data, it is imperative to bear in mind that some taxa are more fragile
+than others.
+Conversely, the values obtained for crushing strength appear to be
+more signiﬁcant. Charcoal tolerates relatively high pressure before
+fragmentation, oscillating between 8 and 19.4 MPa, with an average of
+13.7 MPa. Mechanically, charcoal is considered to be fragile. In comparison, the crushing strength of common conifers (uncharred) is
+between 18 and 30 MPa, that of ordinary concrete is between 16 and
+40 MPa and that of steel between 235 and 350 MPa (Ashby, 2005). Yet
+most post-depositional processes do not generate very strong pressure. Cattle exert greater static pressure (160e192 kPa) on soil than
+sheep (83 kPa), although this pressure is at least doubled when animals are walking (Drewry, 2006), which represents less than 0.4 MPa.
+The value for human beings cannot be much higher. The maximum
+pressure measured during freeze propagation experiments in a
+limestone notch is about 6 MPa (Bost, 2008).
+Thus, the intense fragmentation of charcoal (extending at
+times to the disappearance of the macroscopic fraction), characteristic of some Pleistocene sites (Théry-Parisot, 2001; ThéryParisot et al., 2010a; Beresford-Jones et al., 2010, Marquer
+et al., 2012) does not seem to result from single, short-term
+processes. However, classic processes, such as freeze-thaw
+
+action or trampling occurring repeatedly during the course of a
+phase of low (or no) sedimentation, could doubtlessly generate
+progressive charcoal weakening, leading to extreme fragmentation. Under natural conditions, the repetition of these processes
+induces progressive mechanical fatigue of the material (which is
+not measured in our experiment), thereby increasing charcoal
+damage. Finally, it is important to distinguish post-depositional
+processes from fuel management. The disappearance of the
+coarse fraction due to burial conditions sometimes leads to the
+misinterpretation of charcoal scarcity, suggesting that other
+fuels, such as bones or dung, were used. Further investigations
+based on the study of very thin coarse fractions combined with
+geoarchaeological studies, are required, so that more reliable
+interpretations can be proposed. (Fernández-Jalvo et al., 2010;
+Marquer et al., 2010, 2012; Miller et al., 2010; Scott and
+Damblon, 2010).
+Naturally, these observations must be moderated, notably
+because of the way the samples are made, which is quite far
+removed from the archaeological reality. Complementary analyses
+are required, incorporating other criteria, such as the chemical
+composition of the taxa. Moreover, this paper does not take account
+of the other stages of fragmentation, namely combustion. Through
+cross indexing data from research on combustion and postdepositional processes, it will become possible to gain a better
+understanding of anthracological assemblages.
+Based on an innovative experimental approach combining both
+archaeobotany and biomechanics, these results are fundamental for
+a comprehensive understanding of archaeology, archaeobotany and
+palaeoecology. They document the mechanical behaviour of charcoal, a largely unknown domain up until now. They enhance our
+understanding of charcoal taphonomy by providing added resolution and improving the accuracy of charcoal analysis.
+
+J. Chrzazvez et al. / Journal of Archaeological Science 44 (2014) 30e42
+
+References
+Ascough, P.L., Bird, M.I., Scott, A.C., Collinson, M.E., Cohen-Ofri, I., Snape, C.E., Le
+Manquais, K., 2010. Charcoal reﬂectance measurements: implications for
+structural characterization and assessment of diagenetic alteration. J. Archaeol.
+Sci. 37 (7), 1590e1599.
+Ascough, P.L., Bird, M.I., Francis, S.M., Lebl, T., 2011a. Alkali extraction of archaeological and geological charcoal: evidence for diagenetic degradation and formation of humic acids. J. Archaeol. Sci. 38 (1), 69e78.
+Ascough, P.L., Bird, M.I., Francis, S.M., Thornton, B., Midwood, A.J., Scott, A.C.,
+Apperley, D., 2011b. Variability in oxidative degradation of charcoal: inﬂuence
+of production conditions and environmental exposure. Geochim. Cosmochim.
+Acta 75 (9), 2361e2378.
+Ashby, M.F., 2005. Material Selection in Mechanical Design, third ed. U.K. Butterworth-Heinemann, Oxford, p. 624.
+Badal-Garcia, E., 1990. Méthode de prélèvement et paléoécologie du Néolithique
+d’après les charbons de bois de “La Cova de les Cendres” (Alicante, Espagne). In:
+Hackens, T., Munaut, A.V., Till, C. (Eds.), Wood and Archaeology, Bois et archéologie, First European Conference, Louvain-la-Neuve, October 2nde3rd 1987,
+Pact, 22, pp. 231e243.
+Badal-Garcia, E., 1992. L’anthracologie préhistorique: à propos de certains problèmes méthodologiques. In: Vernet, J.L. (Ed.), Les charbons de bois les anciens
+écosystèmes et le rôle de l’Homme. Bull. Soc. Bot. France 139, 167e189.
+Belcher, C.M., Collinson, M.E., Scott, A.C., 2005. Constraints on the thermal energy
+released from the Chicxulub impactor: new evidence from multi-method
+charcoal analysis. J. Geol. Soc. London 162, 591e602.
+Beresford-Jones, D.G., Johnson, K., Pullen, A.G., Pryor, A.J.E., Svobod, J., Jones, M.K.,
+2010. Burning wood or burning bone? A reconsideration of ﬂotation evidence
+from Upper Palaeolithic (Gravettian) sites in the Moravian Corridor. J. Archaeol.
+Sci. 37 (11), 2799e2811.
+Blackford, J.J., 2000. Charcoal fragments in surface samples following a ﬁre and the
+implications for interpretation of subfossil charcoal data. Palaeogeogr. Palaeoclimatol. Palaeoecol. 164 (1e4), 33e42.
+Borrega, M., Kärenlampi, P.P., 2008. Mechanical behavior of heat-treated spruce
+spruce (Picea abies) wood at constant moisture content and ambient humidity.
+Holz Roh Werkst 66, 63e69.
+Bost, M., 2008. Altération par le gel des massifs rocheux: Etude expérimentale et
+modélisation des mécanismes de génération des contraintes dans les ﬁssures.
+Thèse de doctorat, Paristech, p. 281.
+Braadbaart, F., Poole, I., 2008. Morphological, chemical and physical changes during
+charcoaliﬁcation of wood and its relevance to archaeological contexts.
+J. Archaeol. Sci. 35 (9), 2434e2445.
+Braadbaart, F., Poole, I., Van Brussel, A.A., 2009. Preservation potential of charcoal in
+alkaline environments: an experimental approach and implications for the
+archaeological record. J. Archaeol. Sci. 36 (8), 1672e1679.
+Braadbaart, F., Poole, I., Huisman, Hans D.J., van Os, B., 2012. Fuel, Fire and Heat: an
+experimental approach to highlight the potential of studying ash and char remains from archaeological contexts. J. Archaeol. Sci. 39 (4), 836e847.
+Byrne, C.E., Nagle, D.C., 1997. Carbonization of wood for advanced materials applications. Carbon 35, 259e266.
+Carcaillet, C., 2001. Soil particles reworking evidences by AMS 14C dating of charcoal. Comp. Rend. Acad. Sci. Paris Sér. Sci. Terre Planèt. 332, 21e28.
+Carcaillet, C., Talon, B., 1996. Stratigraphie et datations de charbons de bois dans les
+Alpes: quelques aspects taphonomiques. Géogr. Phys. Quatern. 50, 233e244.
+Chabal, L., 1988. Pourquoi et comment prélever les charbons de bois pour la période
+antique: les méthodes utilisées sur le site de Lattes (Hérault), Lattara, 1,
+A.R.A.L.O. Ed., Lattes, 187e222.
+Chabal, L., 1990. L’étude paléo-écologique de sites protohistoriques à partir des
+charbons de bois: la question de l’unité de mesure. Dénombrement de fragments ou pesées? In: Hackens, T., Munaut, A.V., Till, Cl (Eds.), Wood and
+Archaeology. Bois et archéologie. First European Conference, Louvain-la-Neuve,
+October 2nde3rd 1987, Belgique, PACT, 22, pp. 189e205.
+Chabal, L., 1991. L’Homme et l’évolution de la végétation méditerranéenne, des âges
+des métaux à la période romaine: recherches anthracologiques théoriques,
+appliquées principalement à des sites du Bas-Languedoc. Thèse de Doctorat.
+Université de Montpellier II, p. 435.
+Chabal, L., 1997. Forêts et sociétés en Languedoc (Néolithique ﬁnal, Antiquité tardive. L’anthracologie, méthode et paléoécologie. DAF 63. Éditions de la Maison
+des Sciences de l’Homme, Paris, 192 p.
+Cohen-Ofri, I., Weiner, L., Boaretto, E., Mintz, G., Weiner, S., 2006. Modern and fossil
+charcoal: aspects of structure and diagenesis. J. Archaeol. Sci. 33 (3), 428e439.
+Costamagno, S., Théry-parisot, I., Kuntz, D., Bon, F., Mensan, R., 2010. Impact
+taphonomique d’une combustion prolongée sur des ossements utilisés comme
+combustible. In: Théry-Parisot, I., Chabal, L., Costamagno, S. (Eds.), The
+Taphonomy of Burned Organic Residues and Combustion Features in Archaeological Contexts. Proceedings of the round table, Valbonne, May 27e29, 2008.
+Palethnologie 2, 173e187.
+Drewry, J.J., 2006. Natural recovery of soil physical properties from treading damage
+of pastoral soils in New Zealand and Australia: a review. Agric. Ecosyst. Environ.
+114 (2e4), 159e169.
+Ducom, A., 2010. Comportement de charbons de bois face à la compression et applications en archéologie. Unpublished report. École Polytechnique de Paris, p. 23.
+Fengel, D., Wegener, G., 1989. Wood Chemistry, ultrastructure, reactions. Walter de
+Gruyter 33, 333e335.
+
+41
+
+Fernández-Jalvo, Y., Scott, L., Andrews, P., 2010. Taphonomy in palaeoecological
+interpretations. Q. Sci. Rev. 30 (11e12), 1296e1302.
+Forest Products Laboratory, 2010. Wood Handbook: Wood as an Engineering Material. USDA, Madison, p. 508.
+Gibson, L.J., Ashby, M.F., 1999. Cellular Solids: Structure & Properties. Cambridge
+University Press, p. 510.
+Goldberg, P., Macphail, R.I., 2013. Practical and Theoretical Geoarchaeology. Published Online: 3 MAY 2013. Blackwell Publishing Ltd. http://dx.doi.org/10.1002/
+9781118688182
+Gündüz, G., Korkut, S., Korkut, D.S., 2008. The effects of heat treatment on physical
+and technological properties and surface roughness of Camiyanı Black Pine
+(Pinus nigra Arn. subsp. pallasiana var. pallasiana) wood. Bioresour. Technol. 99,
+2275e2280.
+Hillis, W.E., 1984. High temperature and chemical effects on wood stability. Wood
+Sci. Technol. 18, 281e293.
+Kocaefe, D., Poncsak, S., Tang, J., Bouazara, M., 2010. Effect of heat treatment on the
+mechanical properties of North American jack pine: thermogravimetric study.
+J. Mater. Sci. 45 (3), 681e687.
+Korkut, S., Akgül, M., Dündar, T., 2008. The effects of heat treatment on some
+technological properties of Scots pine (P. sylvestris, P. sylvestris L.) wood. Bioresour. Technol. 99, 1861e1868.
+Korkut, S., Hiziroglu, S., 2009. Effect of heat treatment on mechanical properties of
+hazelnut wood (Corylus colurna L.). Mater. Design 30, 1853e1858.
+Lancelotti, C., Madella, M., Ajithprasad, P., Petrie, C., 2010. Temperature, compression
+and fragmentation: an experimental analysis to assess the impact of taphonomic
+processes on charcoal preservation. Archaeol. Anthropol. Sci. 2, 307e320.
+Lingens, A., Windeisen, E., Wegener, G., 2005. Investigating the combustion
+behavior of various wood species via their ﬁre gases. Wood Sci. Technol. 39 (1),
+49e60.
+Loreau, P., 1994. Du bois au charbon de bois: approche expérimentale de la combustion. Unpublished Master 2. Université de Montpellier II, p. 64.
+Majano-Majano, A., Hughes, M., Fernandez-Cabo, J.L., 2012. The fracture toughness
+and properties of thermally modiﬁed beech and ash at different moisture
+contents. Wood Sci. Technol. 46, 5e21.
+Marquer, L., Otto, T., Nespoulet, R., Chiotti, L., 2010. A new approach to study the fuel
+used in hearths by hunteregatherers at the Upper Palaeolithic site of Abri
+Pataud (Dordogne, France). J. Archaeol. Sci. 37 (11), 2735e2746.
+Marquer, L., Lebretona, V., Otto, T., Valladas, H., Haesaerts, P., Messager, E.,
+Nuzhnyi, D., Péan, S., 2012. Charcoal scarcity in Epigravettian settlements with
+mammoth bone dwellings: the taphonomic evidence from Mezhyrich
+(Ukraine). J. Archaeol. Sci. 39 (1), 109e120.
+Mburu, F., Dumarçay, S., Bocquet, J.F., Pétrissans, M., Gérardin, P., 2008. Effect of
+chemical modiﬁcations caused by heat treatment on mechanical properties of
+Grevillea robusta wood. Polymer Degrad. Stab. 93, 401e405.
+Miller, C.E., Conard, N.J., Goldberg, P., Berna, F., 2010. Dumping, sweeping and
+trampling: experimental micromorphological analysis of anthropogenically
+modiﬁed combustion features. In: Théry-Parisot, I., Chabal, L., Costamagno, S.
+(Eds.), The Taphonomy of Burned Organic Residues and Combustion Features in
+Archaeological Contexts. Proceedings of the Round Table, Valbonne, May 27e
+29, 2008. Palethnologie 2, 25e37.
+Nichols, G., Cripps, J.A., Collinson, M.E., Scott, A.C., 2000. Experiments in waterlogging and sedimentology of charcoal: results and implications. Palaeogeogr.
+Palaeoclimatol. Palaeoecol. 164 (1e4), 43e56.
+Poletto, M., Zattera, A.J., Forte, M.C., Santana, R., 2012. Thermal decomposition of
+wood: inﬂuence of wood components and cellulose crystallite size. Bioresour.
+Technol. 109, 148e153.
+Prior, J., Gasson, P., 1993. Anatomical changes on charring six African hardwoods.
+IAWA J. 14, 77e86.
+Rebollo, N.-R., Cohen-Ofri, I., Popovitz-Biro, R., Bar-Yosef, O., Meignen, L.,
+Goldberg, P., Weiner, S., Boaretto, E., 2008. Structural characterization of charcoal exposed to high and low ph: implications for 14c sample preparation and
+charcoal preservation. Radiocarbon 50 (2), 289e307.
+Rossen, J., Olson, J., 1985. The controlled carbonisation and archaeological analysis
+of SE U.S. wood charcoals. J. Field Archaeol. 12, 445e456.
+Rousset, P., Turner, I., Donnot, A., Perré, P., 2006. Choix d’un modèle de pyrolyse
+ménagée du bois à l’échelle de la microparticule en vue de la modélisation
+macroscopique. Ann. Forest Sci. 63, 213e229.
+Salisbury, K.J., Jane, F.W., 1940. Charcoals from Maiden Castle and their signiﬁcance
+in relation to the vegetation and climatic conditions in prehistoric times. J. Ecol.
+28, 310e325.
+Santa, S., 1961. Essai de reconstitution de paysages végétaux Quaternaires d’Afrique
+de Nord. Libyca 6-7, 37e77.
+Schiegl, S., Goldberg, P., Bar-Yosef, O., Weiner, S., 1996. Ash deposits in Hayonim and Kebara caves, Israel: macroscopic, microscopic and mineralogical
+observations, and their archaeological implications. J. Archaeol. Sci. 23 (5),
+763e781.
+Scott, A., 2010. Charcoal recognition, taphonomy and uses in palaeoenvironmental
+analysis. Palaeogeogr. Palaeoclimatol. Palaeoecol. 291 (1e2), 11e39.
+Scott, A.C., Jones, T.P., 1991. Microscopical observations of Recent and fossil charcoal.
+Microscopy Anal. 24, 13e15.
+Scott, A.C., Cripps, J.A., Collinson, M.E., Nichols, G.J., 2000. The taphonomy of
+charcoal following a recent heathland ﬁre and some implications for the
+interpretation of fossil charcoal deposits. Palaeogeogr. Palaeoclimatol. Palaeoecol. 164 (1e4), 1e31.
+
+42
+
+J. Chrzazvez et al. / Journal of Archaeological Science 44 (2014) 30e42
+
+Scott, A., Damblon, F., 2010. Charcoal: taphonomy and signiﬁcance in geology,
+botany and archaeology. Palaeogeogr. Palaeoclimatol. Palaeoecol. 291 (1e2),
+1e10.
+Smart, T.L., Hoffman, E.S., 1988. Environmental interpretation of archaeological
+charcoal. In: Hastorf, C.A., Popper, V.S. (Eds.), Current Paleoethnobotany. University of Chicago Press, Chicago and London, pp. 165e205.
+Théry-Parisot, I., 1998. Économie des combustibles et paléoécologie en contexte
+glaciaire et périglaciaire, Paléolithique moyen et supérieur du sud de la France.
+Anthracologie, Expérimentation, Taphonomie. Thèse de doctorat. Université de
+Paris I, Paris, p. 500.
+Théry-Parisot, I., 2001. Économie des combustibles au Paléolithique, Anthracologie,
+Expérimentation, Taphonomie. Dossier de Documentation Archéologique, 20.
+CNRS Editions, 195 p.
+Théry-Parisot, I. 2013. Gestion des ressources combustibles et environnements des
+sociétés préhistoriques du sud de la France. Apport de l’expérimentation à la
+compréhension des pratiques et des dépôts. Mémoire d’habilitation à Diriger
+des Recherches, Université de Nice Sophia Antipolis, 187p.
+Théry-Parisot, I., Chabal, L., Chrzavzez, J., 2010a. Anthracology and taphonomy, from
+wood gathering to charcoal analysis. A review of the taphonomic processes
+modifying charcoal assemblages. Palaeogeogr. Palaeoclimatol. Palaeoecol. 291
+(1e2), 142e153.
+
+Théry-Parisot, I., Chabal, L., Costamagno, S., 2010b. The taphonomy of burned
+organic residues and combustion features in archaeological contexts.
+Proceedings of the round table, Valbonne, May 27e29, 2008. Palethnologie
+2, 223.
+Théry-Parisot, I., Chabal, L., 2010c. From wood to wood charcoal: an experimental
+approach to combustion/Du bois au charbons de bois, approche expérimentale
+de la combustion. In: Théry-Parisot, I., Chabal, L., Costamagno, S. (Eds.), The
+Taphonomy of Burned Organic Residues and Combustion Features in Archaeological Contexts. Proceedings of the Round Table, Valbonne, May 27e29, 2008.
+Palethnologie 2, 81e93.
+Thiébault, S., 1980. Étude critique des aires de combustion en France, Mémoire de
+Maîtrise. Université de Paris I, Paris, p. 246.
+Thinon, M., 1992. Analyse pédoanthracologique: aspects méthodologiques et applications. Thèse de doctorat. Université Aix-Marseille, p. 272.
+Vaughan, A., Nichols, G.J., 1995. Controls on the deposition of charcoal: implications
+for sedimentary accumulations of fusain. J. Sediment. Res. 65, 129e135.
+Vernet, J.-L., 1973. Étude sur l’histoire de la végétation du sud-est de la France au
+Quaternaire d’après les charbons de bois principalement. Paléobiol. Continent.
+4 (1), 1e90.
+Yildiz, S., Gezer, E.D., Yildiz, U.C., 2006. Mechanical and chemical behavior of spruce
+wood modiﬁed by heat. Build. Environ. 41, 762e766.
+
+

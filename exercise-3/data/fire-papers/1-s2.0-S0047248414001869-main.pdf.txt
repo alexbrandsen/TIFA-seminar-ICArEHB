@@ -1,0 +1,2887 @@
+Journal of Human Evolution 78 (2015) 122e143
+
+Contents lists available at ScienceDirect
+
+Journal of Human Evolution
+journal homepage: www.elsevier.com/locate/jhevol
+
+Were Upper Pleistocene human/non-human predator occupations at
+the Témara caves (El Harhoura 2 and El Mnasra, Morocco) inﬂuenced
+by climate change?
+Emilie Campmas a, *, Patrick Michel a, Sandrine Costamagno b, Fethi Amani c,
+Emmanuelle Stoetzel d, Roland Nespoulet e, Mohamed Abdeljalil El Hajraoui c
+a
+
+ l’Actuel: Culture, Environnement, Anthropologie (PACEA) e CNRS-UMR 5199, Equipe
+de la Préhistoire a
+Préhistoire, Paléoenvironnement, Patrimoine,
+Université de Bordeaux, B8 Allée Geoffroy Saint-Hilaire, CS 50023, 33 615 Pessac Cedex, France
+b
+Travaux et Recherches Archéologiques sur les Cultures, les Espaces et les Sociétés (TRACES) e CNRS-UMR 5608, Université de Toulouse 2 - le Mirail, Maison
+^t 26, 5 allée Antonio Machado, 31058 Toulouse, France
+de la Recherche, Ba
+c
+Institut National des Sciences de l’Archéologie et du Patrimoine (INSAP), Angle rues 5 et 7 Rabat-Instituts, Rabat, Morocco
+d
+Muséum National d’Histoire Naturelle (MNHN), Département de Systématique et Evolution e CNRS-UMR 7205, 55 rue Buffon-CP 51, 75005 Paris, France
+e
+Muséum National d’Histoire Naturelle (MNHN), Département de Préhistoire e CNRS-UMR 7194, 43 rue Buffon-CP 48, 75005 Paris, France
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 19 February 2014
+Accepted 14 August 2014
+Available online 3 October 2014
+
+The inﬂuence of climate change on human settlements in coastal areas is a central question for archaeologists. This paper addresses this issue by focusing on the Témara region in Morocco. The study
+area was selected for two main reasons. First, it contains numerous caves with Upper Pleistocene deposits, which have yielded remains of anatomically modern humans in association with Aterian and
+Iberomaurusian artifacts. Second, these caves are currently located on the shore, thus this region is
+particularly sensitive to major climate change and sea level ﬂuctuations. Diachronic taphonomic study of
+faunal remains from two sites in the region, El Harhoura 2 and El Mnasra caves, shows alternating human/non-human predator occupations. The lower layers of El Mnasra Cave dating to Oxygen Isotope
+Stage (OIS) 5 have yielded diverse ungulate remains with signiﬁcant anthropogenic impact marks,
+together with numerous mollusk shells, Nassarius shell beads, hearths, lithics, some bone tools and used
+pigments. Faunal remains from the upper layers dating to OIS 4, 3 and 2 of El Harhoura 2 and El Mnasra
+caves, largely dominated by gazelles, provide evidence of carnivore activities, such as tooth marks,
+numerous semi-digested bones and coprolites alongside some anthropogenic signatures (cut marks and
+burnt bones). Non-human predators appear to be the main agents responsible for faunal modiﬁcations
+and accumulations. The ‘non-intensive’ nature of human occupation is conﬁrmed by analyses of the lithic
+industry at El Harhoura 2. The ‘intensive’ human occupations date to OIS 5 and could have taken place
+during wet periods in connection with high sea levels, which allowed the exploitation of shellﬁsh in this
+area. ‘Non-intensive’ human occupations generally correspond to arid periods and lower sea levels,
+during which the Témara area was further inland and may have been less attractive to humans.
+© 2014 Elsevier Ltd. All rights reserved.
+
+Keywords:
+North Africa
+Aterian
+Carnivores
+Taphonomy
+
+Introduction
+Climate change has played a major role in human evolution,
+cultural adaptation, behavioral changes, territorial occupations and
+dispersal within and outside Africa (e.g., deMenocal, 1995, 2004;
+Derricourt, 2005; Aouraghe, 2006a; Osborne et al., 2008; Carto
+~ eda et al., 2009; d'Errico et al., 2009; Trauth
+et al., 2009; Castan
+et al., 2009; Balter, 2011; Abbate and Sagri, 2012; d'Errico, 2012;
+* Corresponding author.
+E-mail address: em.campmas@gmail.com (E. Campmas).
+http://dx.doi.org/10.1016/j.jhevol.2014.08.008
+0047-2484/© 2014 Elsevier Ltd. All rights reserved.
+
+~ a, 2012; Stewart and Stringer, 2012;
+Garcea, 2012a,b; Larrasoan
+Boivin et al., 2013; Delagnes et al., 2013). The Upper Pleistocene
+(Oxygen Isotope Stage [OIS] 5 to OIS 2) is a key period for the
+dispersal of anatomically modern humans (AMH) out of Africa (e.g.,
+Stringer, 2000; Mellars, 2006; Macchiarelli, 2009; Boivin et al.,
+2013). This period was subject to signiﬁcant palaeoenvironmental
+changes caused by glacial cycles, which notably modiﬁed the territories crossed by humans and other animals (e.g., Aouraghe,
+~ a, 2012; Garcea,
+2006a,b; Abbate and Sagri, 2012; Larrasoan
+2012a), including changes in the location of the shoreline. Thus,
+during glacial phases of the Pleistocene, the continental shelf was
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+exposed due to lower sea levels (e.g., Shackleton, 2000; Jouzel et al.,
+2002; Waelbroeck et al., 2002). Several researchers have suggested
+that coastal areas could have played a crucial role in AMH dispersal
+(e.g., Stringer, 2000; Mellars, 2006), even if recent data highlight
+the importance of inland regions (Boivin et al., 2013).
+North Africa is located close to the ‘out of Africa’ routes and
+could have been the “launch pad for modern human migrations”
+(Balter, 2011: 20) ~100 ka (thousands of years ago) (Balter, 2011;
+Garcea, 2012a). The human populations that inhabited North
+Africa at this time are associated with a technological industry
+known as the Aterian (e.g., Debénath, 1976, 1979e1980, 1992, 2000;
+Ferembach, 1976, 1998; Roche, 1976; Hublin, 1991, 2000; Balter,
+2011; Jacobs et al., 2011; Oujaa and Hublin, 2012). The Aterian is a
+Middle Stone Age (MSA) North African technological complex (e.g.,
+Nespoulet et al., 2008a; Nami and Moser, 2010; Barton and d'Errico,
+2012; Linst€
+adter et al., 2012; Dibble et al., 2013; Scerri, 2013a,b),
+dating to approximately 170/130e50/30 ka (OIS 6 to 4/3) (e.g.,
+Cremaschi et al., 1998; Bouzouggar et al., 2007; Mercier et al., 2007;
+Barton et al., 2009; Schwenninger et al., 2010; Richter, 2010, 2012;
+€dter
+Richter et al., 2010, 2012; Jacobs et al., 2011, 2012a,b; Linsta
+et al., 2012; Jacobs and Roberts, 2012a,b; Janati-Idrissi et al.,
+2012a,b; Dibble et al., 2013; Scerri, 2013a; Douka et al., 2014). The
+lithic industry is characterized by a Levallois knapping system and
+the presence of tanged tools in several assemblages (Tixier, 1967;
+Camps, 1974; Debénath et al., 1986; Debénath, 1992, 2000; Pasty,
+1999; Bouzouggar et al., 2002; Nami and Moser, 2010; Debénath
+and El Hajraoui, 2012; Nespoulet and El Hajraoui, 2012a; Dibble
+et al., 2013; Scerri, 2013a). Shell beads (Nassarius sp.) indicating
+symbolic activities have been found in layers attributed to the
+Aterian and date to OIS 5 (e.g., Vanhaeren et al., 2006; Bouzouggar
+et al., 2007; d'Errico et al., 2009; Nami and Moser, 2010; Steele and
+Alvarez-Fernandez, 2011; Barton and d'Errico, 2012; Dibble et al.,
+2012; El Hajraoui et al., 2012a; Stoetzel et al., 2014). The recent
+discovery of an early anatomically modern human with archaic
+features at Contrebandiers Cave, dating to 110e80 ka (e.g., Balter,
+2011; Jacobs et al., 2011; Oujaa and Hublin, 2012), complements
+previous remains found in the Témara caves and other parts of
+Morocco for this period (e.g., Debénath, 1976, 1977e1978,
+1979e1980, 1992, 2000; Ferembach, 1976, 1998; Roche, 1976;
+Hublin, 1991, 2000; Smith et al., 2007).
+In very rare cases, as at Taforalt, a non-Levallois ﬂake industry
+tentatively attributed to the MSA has been recognized after the
+Aterian. The industry recorded at Taforalt dates to around 25 ka
+(OIS 3) and remains poorly deﬁned (e.g., Barton et al., 2005, 2013;
+€dter et al., 2012).
+Linsta
+The Iberomaurusian culture occurred in several North African
+localities from approximately 20 to 10 ka (OIS 2 to the beginning of
+the Holocene). These lithic industries are rich in microlithic tools,
+primarily backed bladelets (e.g., Barton et al., 2005, 2007, 2013;
+€dter et al., 2012; Sari, 2012, 2014).
+Bouzouggar et al., 2008; Linsta
+Humans from this period have a completely modern anatomy. They
+buried their dead, sometimes in large cemeteries and used artistic
+representation (molding clay statuettes) as well as various types of
+ornamentation (e.g., Hachi et al., 2002; Barton et al., 2005, 2007;
+Hachi, 2006; Bouzouggar et al., 2008; Mariotti et al., 2009;
+Belcastro et al., 2010; Humphrey et al., 2012; Aoudia-Chouarki, 2013).
+Aterian and Iberomaurusian archaeological records have been
+found in different areas of North Africa, such as in mountains (e.g.,
+Nami, 2003; Aumassip, 2004; Bouzouggar et al., 2007; Nami and
+Moser, 2010; Barton et al., 2013; Sari, 2014), in the desert (e.g.,
+Cremaschi et al., 1998; Pasty, 1999; Aumassip, 2004; Garcea, 2004,
+2012b) or on the coast where numerous sites have been identiﬁed
+(e.g., Bouzouggar et al., 2002, 2010; Aumassip, 2004; El Hajraoui
+et al., 2012b; Sari, 2014). This raises the question whether North
+African Regions, currently located in coastal areas, were occupied
+
+123
+
+permanently. It also stresses the issue of the impact of sea level
+shifts on these occupations. Initial insights on these issues have
+been gained through the study of lithic industries and chronological
+data in the Témara caves, located on the Atlantic coast near Rabat
+(Morocco). These ﬁrst results have shown discontinuous human
+occupations. According to optically stimulated luminescence (OSL)
+dates, there are three episodes of MSA occupation, dating to
+approximately 110e90 ka, 75 ka and 55 ka, in connection with the
+wetter OIS 5c, 5a and OIS 3 periods separated by archaeologically
+sterile layers (Jacobs et al., 2012b). In addition, the Iberomaurusian
+culture is also present in the upper part of some sequences
+(Nespoulet et al., 2008a).
+In this paper we examine a number of questions. Were humans
+the main agents responsible for faunal modiﬁcation/accumulation?
+Did shifts of occupants occur in the caves over time? Were the
+occupations identiﬁed by Jacobs et al. (2012b) always of similar
+‘intensities’? Which factors inﬂuenced these changes of occupations? We use taphonomic studies to identify if predators accumulated and/or modiﬁed the large mammal faunal assemblages
+throughout time in two caves in the Témara region, El Harhoura 2
+(EH2) and El Mnasra (EM). Results are compared to past global
+climatic shifts, local environmental records and sea level ﬂuctuations in order to understand the inﬂuence of these factors on the
+occupation of the Témara caves by past human populations.
+Témara region
+Location and geological context
+The Témara region, located south-west of Rabat, contains
+several coastal caves (Doukkala 1 and 2 caves, Contrebandiers Cave,
+El Mnasra Cave, El Harhoura 1 and 2 caves, Dar es Soltane 1 and 2
+caves) (Fig. 1). The region is formed by a sequence of consolidating
+dunes alternating with marine and continental deposits (Akil, 1985;
+Chahid, 2011). The Témara caves were formed before OIS 5,
+approximately 130 ka, by karstic and/or marine erosion of the
+calcarenites (secondarily consolidated dune or ouljian palaeocliff).
+They open onto a narrow coastal plain (‘Oulja’), which is protected
+by the primary consolidated dune. This dune overlooks a platform
+with rocks and water pools where the waves break (Fig. 2)
+(Mhammdi et al., 2008). However, the landscape of the Témara
+region has differed in the past. The slope rupture at the edge of the
+continental platform is located between approximately 200
+to 130 m on the Moroccan Atlantic coast. The continental platform extends to the Casablanca region (southewest of Témara)
+over 49 km and into the Kénitra region (northeeast of Témara)
+where it narrows, over 20 km (Joly, 1950; Cirac et al., 1979). Thus,
+during periods of marine regression, the Témara caves could have
+opened onto a continental plain, which may have extended for
+several kilometers. During OIS 4 and 3, marine regression would
+have moved the shoreline away from the caves, but certainly to a
+lesser extent during OIS 3. During OIS 2 (the Last Glacial
+Maximum), the shore was further from the caves.
+The sedimentary record of the caves dates between approximately 120 and 6 ka BP (e.g., Jacobs et al., 2011, 2012a,b; Richter,
+2012; Jacobs and Roberts, 2012a,b; Janati-Idrissi et al., 2012a,b).
+These sequences cover the Upper Pleistocene and the Holocene,
+and have recorded human and non-human occupations of the
+caves in correlation with climate changes, therefore allowing us to
+tackle the questions outlined above.
+Current climate and environment
+Currently, the Témara region is characterized by a Mediterranean climate with dry summers associated with mild and humid
+
+124
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+Figure 1. Map of northwestern Africa showing some of the well-known archaeological sites in Morocco (1: Djebel Irhoud, 2: Gazelles Cave, 3: Hominid, Rhinoceros and Felines
+caves, 4: Témara region, 5: Mugharet el Aliya, 6: Benzù rock shelter, 7: Ifri N'Ammar, 8: Taforalt, 9: Rhafas). The Témara region includes: El Mnasra Cave, El Harhoura 2 Cave and
+several other caves (after Jacobs et al., 2012b).
+
+Figure 2. Topography of the Témara coast [MHT: marine high tide; MLT: marine low tide] (after Mhammdi et al., 2008).
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+winters. The inﬂuence of the Atlantic Ocean is important because it
+reduces daily and seasonal climate variation compared with inland
+areas. These conditions were probably similar throughout the Upper Pleistocene (Biberson, 1961), but depending on climate ﬂuctuation and sea level changes this inﬂuence of the Atlantic may have
+been less signiﬁcant. Currently, the mosaic landscape is dominated
+by cork oak (Quercus suber), which is part of the relict Mamora
+woodland, but anthropogenic action has opened landscapes and
+deteriorated natural vegetation (Joly, 1962 in; Bouzouggar, 1997;
+Quézel, 2002; Stoetzel et al., 2014). In addition, the Témara region
+is located at the boundary between the sub-humid and the semiarid bioclimate systems (Sauvage, 1963; Chennaoui, 2004;
+Stoetzel et al., 2014). Thus, during Upper Pleistocene climate
+changes, the Témara region would have been part of a sub-humid
+or semi-arid system (Stoetzel et al., 2014).
+Background to El Harhoura 2 and El Mnasra caves
+El Harhoura 2 Cave
+El Harhoura 2 (EH2) Cave (33 570 08.900 N, 6 550 32.500 W) was
+discovered in 1977 by André Debénath. Since 2001, this site has
+been excavated by a Moroccan-French team (Nespoulet et al.,
+2008a,b; Nespoulet and El Hajraoui, 2012b). The cave faces west
+towards the ocean, around 300 m away from the current shoreline.
+It is 18 m above sea level (Ref. Global Marine Level) and measures at
+least 200 m2 (Nespoulet et al., 2008a). The main excavation work
+has been undertaken in the cave entrance (‘entry area’) (Fig. 3). The
+stratigraphy of the ‘entry area’ is composed of 11 main archaeostratigraphic layers. Layer 1 is attributed to the Neolithic (dated to
+around 5800 BP by 14C) and historical periods (Daugas et al., 1999,
+2008; Daugas, 2002; El Hajraoui and Nespoulet, 2002e2003). Layer
+2 is attributed to the Iberomaurusian, while layers 3 to 11 are
+attributed to the MSA. Layers 5, 7, 9, 10 and 11 are almost archaeologically sterile in lithic industries, or have very low artifact densities. It should be noted that layers 4B to 11 were only excavated
+over a small surface (~2 m2) by a test-pit, and the bedrock has not
+yet been reached (Fig. 3).
+Optically stimulated luminescence measurements suggest dates
+between 120 and 55 ka for the Upper Pleistocene deposits (layers
+
+125
+
+11 to 3) (Jacobs et al., 2012b; Jacobs and Roberts, 2012a, Fig. 3).
+Combined electron spin resonance/UraniumeThorium (ESR-U/Th)
+dating on fossil bovid teeth provide younger ages, between 92 ka
+(layer 8) and 44 ka (layer 4A) (Janati-Idrissi et al., 2012a,b; Fig. 3).
+Our study focused on faunal remains from layers 2, 3, 4A and
+layer 8.
+Layer 2 has yielded Iberomaurusian industries including blade
+and bladelet production. Rare MSA artifacts reﬂect minimal mixing
+with lower layers (Nespoulet et al., 2008a,b; Nespoulet and El
+Hajraoui, 2012a). One burial has yielded a large and robust individual displaying dental avulsion of the ﬁrst upper incisors, which
+is typical of the Iberomaurusian culture (Oujaa and Lacombe, 2012).
+Layers 4A to 3 have yielded MSA industries, composed of
+Levallois and micro-Levallois knapping tools, laminar artifacts,
+side-scrapers and chopping tools. No tanged tools, characteristic of
+the Aterian have been recovered despite an extensive excavated
+surface. The low density of artifacts, small size of the products,
+scarcity of cores, knapping preparation and maintenance, such as
+resharpening by-products associated with a relatively high proportion of retouched tools may represent considerable group
+mobility and short occupations (Nespoulet and El Hajraoui, 2012a).
+Few mollusk shells have been collected (study in progress) and a
+hearth is present in layer 4A.
+Despite the small excavation area, layer 8 yielded a signiﬁcant
+amount of lithic material in relatively pristine condition in comparison to artifacts from other layers (Nespoulet and El Hajraoui,
+2012a). This layer also contained four Nassarius sp. (El Hajraoui
+et al., 2012a) and a large number of marine mollusk shells, consisting mainly of limpets (Nouet et al., Submitted; Fig. 4).
+
+El Mnasra Cave
+El Mnasra (EM) Cave (33 550 40.900 N, 6 570 13.300 W) was discovered in 1956 by Jean Roche. In 2005, this cave was included in the
+same archaeological program as EH2 Cave (Nespoulet et al.,
+2008a,b; El Hajraoui et al., 2012c). El Mnasra Cave opens onto the
+Atlantic Ocean towards the west, about 500 m from the shore. It is
+14 m above the current sea level (Ref. Global Marine Level) and
+measures approximately 400 m2 (Nespoulet et al., 2008a). Unlike
+
+Figure 3. EH2 Cave, a: Plan and location of the excavation area; b: Archaeostratigraphy of the ‘entry area’ (infography R. Nespoulet) with cultural attributions and dates (ESR: JanatiIdrissi et al., 2012a,b; OSL: Jacobs et al., 2012b).
+
+126
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+Figure 4. In situ limpets in layer 8 of EH2 Cave (Photograph: R. Nespoulet).
+
+EH2 Cave, the excavation area (~24 m2) is located inside the cavity
+(Fig. 5).
+El Mnasra Cave shows a complex stratigraphy composed of 13
+main archaeostratigraphical layers (Fig. 5). The central area of the
+cave bedrock was reached in a test-pit (~4 m2). Layer 1 is a modern
+disturbed soil, layer 2 contains Neolithic material and layer 3 has
+been attributed in part to the Iberomaurusian. Layers 4 to 11 have
+been ascribed to the MSA (Aterian). The basal deposits (layers 12
+and 13) are archaeologically sterile (El Hajraoui and Debénath in
+Nespoulet et al., 2008b; El Hajraoui and Debénath, 2012a). This
+stratigraphy is currently under revision (Lenoble, 2010).
+Optically stimulated luminescence measurements suggest dates
+between 120 and 70 ka for the Upper Pleistocene deposits (layers
+12 to 3). However, the date of 75 ka for layer 3 could correspond to
+disturbances in the stratigraphy (Jacobs et al., 2012b; Jacobs and
+Roberts, 2012b, Fig. 5). Combined ESR-U/Th dating on bovid fossil
+teeth provided younger ages, between 89 and 67 ka for layers 6 to 7
+(Janati-Idrissi et al., 2012a,b; Fig. 5).
+Our study focused on faunal remains from a portion of layer 3
+and layers 5, 6 and 7.
+
+A middle portion of layer 3 (archaeostratigraphy of El Hajraoui
+and Debénath in Nespoulet et al., 2008b), corresponding to unit 4
+(lithostratigraphy of Lenoble, 2010), is only preserved at the bottom
+of the cave (squares G13, F13, E13 and D13). This deposit consists of
+brown-red sands suggesting continentalization and the aridiﬁcation of the environment. It has been tentatively attributed by geoarchaeologists to OIS 2 and/or OIS 3/4 (Lenoble, 2010).
+The lithic industries from layers 5, 6 and 7 are characteristic of
+the Aterian with the presence of tanged tools (Debénath and El
+Hajraoui, 2012). One anthropogenic structure (layer 6), several
+hearths (layers 5 and 6) (Nespoulet et al., 2008a,b; El Hajraoui et al.,
+2012d), numerous Nassarius sp. (N > 200) and other mollusk shells,
+such as limpet and mussel, pigments and bone tools are also present in these layers (El Hajraoui, 1994, b; Campmas, 2012a; El
+Hajraoui et al., 2012a,e; El Hajraoui and Debénath, 2012b).
+Several burrows (Lenoble, Study in progress) have cut through
+all layers in the cave. Recent excavations in layer 3 (¼ unit 4) have
+taken into account these disturbances by excluding remains from
+the problematic areas. In layers 5, 6 and 7, large honey badger
+(Mellivora capensis) burrows were observed during the excavation.
+Also in layers 5, 6 and 7, an area of recent trampling has been noted,
+which may be due to the intervention of a gardener or recent water
+runoff leading to the collapse of archaeological sections in excavation squares H13, H14, G12 (Lenoble, Study in progress). The
+material from this area has been excluded from our study
+(Campmas, 2012a).
+Materials and methods
+A large sample of plotted and unplotted faunal remains from
+recent excavations (2002-2009 and only 2012 for the portion of the
+layer 3 of El Mnasra), using modern computer-assisted methods,
+are the focus of these detailed analyses. The studied faunal remains
+include macrofauna (ungulates and carnivores) and turtles. Lagomorph remains have been previously studied by Bougariane (2013)
+and are not discussed in this paper.
+For El Harhoura 2, a total, of 7016 plotted and identiﬁed
+unplotted remains have been analyzed in detail and augmented by
+the partial analysis of 9225 unidentiﬁed unplotted remains
+
+Figure 5. EM Cave, a: Plan and location of the excavation area; b: Archaeostratigraphy (Drawings: Debénath and El Hajraoui) with cultural attributions and dates (ESR: Janati-Idrissi
+et al., 2012a,b; OSL1: Jacobs et al., 2012b; OSL2: Schwenninger et al., 2010).
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+Table 1
+Sample of faunal remains studied for EH2 and EM caves.
+Sites
+
+Layers
+
+El Harhoura 2
+
+El Mnasra
+
+l.
+l.
+l.
+l.
+l.
+l.
+
+2
+3
+4A
+8
+5, 6, 7
+3
+
+Plotted NR used
+in database
+
+Unplotted NR used
+in database
+
+Unplotted
+NR count
+
+498
+3788
+787
+207
+3385
+151
+
+546
+1040
+150
+
+1117
+6159
+1949
+
+328
+191
+
+26836
+
+NR: number of remains.
+
+(Table 1). Unfortunately, the unplotted remains from layer 8 were
+lost following severe ﬂoods at Rabat in 2009.
+For El Mnasra, all remains from layers 7, 6 and 5 have been
+analyzed as a unique set because recent geoarchaeological observations have shown that these layers correspond to the same
+overall set of deposits, called unit 8 in the new lithostratigraphy
+(Lenoble, 2010, In progress). A second argument for their aggregation is that these layers have not been excavated following the
+slight dip, and excavation surfaces have cut these different layers. In
+total (layers 7e5 and the portion of layer 3), 4055 plotted and
+identiﬁed unplotted remains were analyzed in detail and
+augmented by the partial analysis of 26 836 unidentiﬁed unplotted
+remains (Table 1).
+The data collection was conducted at the Institut National des
+Sciences de l’Archéologie et du Patrimoine (INSAP, Rabat, Morocco)
+and the de la Préhistoire 
+a l’Actuel: Culture, Environnement,
+Anthropologie (PACEA) laboratory at the University of Bordeaux,
+France. Each specimen plotted or identiﬁed among unplotted remains was entered as individual records into an Excel database.
+Information, such as the quantity of burnt remains, from the unidentiﬁed unplotted remains was also included.
+The faunal spectrum is documented as the Minimum Number of
+Individuals (MNI) (Grayson, 1984; Lyman, 1994) and the Number of
+Identiﬁed Specimens (NISP) (Grayson, 1984; Lyman, 1984, 1994).
+Table 2
+Size classes used for the North African ungulates.
+Categories
+
+Size
+classes
+
+Species
+
+Small
+
+Size 1
+
+Large
+
+Size 2
+
+Gazelles (Gazella dorcas, Gazella cuvieri,
+Gazella atlantica, Gazella sp.)
+Reduncinae [reedbuck (Redunca
+redunca)]
+Suidae [warthog (Phacochoerus
+africanus), wild boar (Sus scrofa)]
+Alcelaphinae [wildebeest (Connochaetes
+taurinus) and hartebeest (Alcelaphus
+buselaphus)]
+Cervidae
+Barbary sheep (Ammotragus lervia)
+Reducinae [Kob (Kobus sp.)]
+Hippotraginae [scimitar-horned oryx
+(Oryx dammah), gemsbok (Oryx
+gazella)]
+Tragelaphinae (Tragelaphus sp.)
+Equidae (Equus algericus, Equus asinus,
+Equus africanus, Equus melkiensis, Equus
+mauritanicus, Equus grevyi, Equus sp.)
+Bovinae [ancient buffalo (Pelorovis
+antiquus), aurochs (Bos primigenius),
+eland (Taurotragus sp.).
+Hippo (Hippopotamus amphibius)
+Rhinocerotidae [white rhinoceros
+(Ceratotherium simum) and grassland
+rhinoceros (Dicerorhinus hemitoechus)]
+Proboscidean [elephant (Loxodonta
+africana)]
+
+Size 3
+
+Size 4
+
+(kg)
+17e50 kg
+
+50e200 kg
+
+200e1000 kg
+
+>1000 kg
+
+127
+
+The size classes used are reported in Table 2. Identiﬁcation of faunal
+remains was conducted using the skeletal collection of the mission
+‘El Harhoura-Témara’ at INSAP, the skeletal collection of the PACEA
+laboratory containing some African species, reference books and
+palaeontological studies (Arambourg, 1938, 1957; Lavocat, 1966;
+s and Lambert, 1971a,b; Schmid, 1972; Eisenmann, 1981;
+Pale
+s and Garcia, 1981; Walker, 1984; Peters, 1986, 1988, 1989;
+Pale
+Eisenmann et al., 1988; Michel, 1990; Amani, 1991; Hillson, 1992,
+2005; Helmer and Rocheteau, 1994; Peters et al., 1997; Thomas,
+1997; Barone, 1999; Aouraghe, 2001; Varela and Rodriguez, 2004;
+Assefa, 2006a). We compared the NISP proportions of carnivores
+and ungulates, the proportions of small carnivores (small felids,
+small canids) and large carnivores (large canids, hyenids, large felids, ursids), the proportion of small ungulates (size 1) and large
+ungulates (size 2e4), and different sizes of large ungulates (size 2,
+size 3 and size 4). In order to integrate unidentiﬁed specimens, we
+compared proportions of small (size 1) and large mammals (size
+2e4) excluding carnivores.
+Bone surfaces were observed with low magniﬁcation using a
+handheld lens (10). Several taphonomic processes such as
+weathering, root etching or adhering matrix can alter the surface of
+bones and hide marks left by the accumulating agents. These biases
+were taken into consideration in our study. Some of the remains
+with adhering matrix were treated with acetic acid to remove the
+matrix. Therefore, poorly preserved bones (with important
+adhering matrix, with important roots etching) were excluded from
+the percentages of remains with marks.
+Carnivore marks (tooth marks and semi-digested bones), cut
+marks, percussion marks, and burnt bones were counted. More
+details on the butchery sequences and the burnt bones will be
+presented separately in a paper focusing speciﬁcally on human
+activities and site functions for humans (Campmas, 2012a; Campmas et al., In progress).
+The main criteria used by researchers for identifying agents
+responsible for the faunal accumulations is the presence of tooth
+marks (pits, grooves, scoring, depressions and notches) and
+anthropogenic marks, such as cut marks and percussion marks with
+the consideration of their location on long bones (e.g., Marean et al.,
+2000; Assefa, 2006b; Costamagno et al., 2009; Thompson and
+Henshilwood, 2011; Faith, 2013). The localization of carnivore and
+anthropogenic marks on long bones as recommended by
+Blumenschine (1988) were noted.
+The frequencies of cut marks depends on many factors, such as
+culinary preferences, butchery practices, numbers of hunted prey,
+season, carcass size, butcher skill, tools used, post-depositional
+fragmentation, surface preservation, magnifying glass used, count
+type, excavation strategies, and choice of the analyst (e.g., Guilday
+et al., 1962; Binford, 1978; Lyman, 1987, 1992; Blumenschine,
+1988; Bartram, 1993; Fosse, 1994; Marean, 1998; Costamagno,
+1999, 2012; Abe et al., 2002; Lupo and O'Connell, 2002; Egeland,
+2003; Pobiner and Braun, 2005; Costamagno and David, 2009;
+Dominguez-Rodrigo and Yravedra, 2009; Otarola-Castillo, 2010).
+Due to this important variability of cut mark frequencies, the
+dispersion of cut marks on long bones is not the best indicator of
+the order of access to carcasses. Although the identiﬁcation of
+notches has been performed according to the criteria of Capaldo
+and Blumenschine (1994), allowing human hammerstone
+breakage and carnivore tooth notches to be distinguished on the
+basis of the morphology of notches on bovid long bones, several
+notches have been considerated as ‘indeterminates’ due to the
+difﬁculty of clearly distinguishing human and carnivore activities
+and a low readability of medullar portions. Because cut mark frequencies are variable and notches made by human or carnivores are
+difﬁcult to identify, we have focused our attention on the distribution of tooth marks. In addition, frequencies of tooth marks on
+
+128
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+Table 3
+MNI/NISP or presence of EH2 Cave taxa.
+Species
+
+Ungulates size 1
+
+Ungulates size 2
+
+Ungulates size 3
+
+Ungulates size 4
+
+Small carnivores
+
+Large carnivores
+
+Carnivores indet.
+Other
+
+El Harhoura 2
+
+Gazella sp.
+cf. Gazella sp.
+Caprinae?
+TOTAL NISP
+Suidae
+Alcelaphinae
+cf. Tragelaphinae?
+cf. Hippotraginae?
+Cervidae
+Alcelaphinae and/or Hippotraginae and/or Cervidae and/or Tragelaphinae
+TOTAL NISP
+Equidae
+cf. Equidae
+Bovinae
+cf. Bovinae
+TOTAL NISP
+Rhinocerotidae
+cf. Rhinocerotidae
+Hippo
+TOTAL NISP
+Small carnivores (cf. Mustelidae)
+Felis sp.
+Small canids [cf. fox (Vulpes vulpes)/jackala (Canis aureus and/or Lupulella sp.)]
+TOTAL NISP
+Large Canidae (cf. large Canis aureus) ¼ large jackal
+Hyenidae
+Panthera sp.
+Ursus sp.
+TOTAL NISP
+Hystrix cristata
+Leporidae
+Turtles
+Struthio camelus eggs
+
+l. 2
+
+l. 3
+
+l. 4A
+
+l. 8
+
+7/272
+e/79
+
+27/1285
+e/232
+1/1
+1518
+1/14
+4/25
+
+5/179
+e/74
+
+3/21
+e/5
+
+253
+2/2
+1/2
+
+26
+1/1
+
+e/17
+21
+
+1/4
+5
+
+1/2
+e/1
+3
+
+1/12
+e/3
+15
+
+2/2
+1/25
+27
+1/3
+1/1
+
+1/1
+1
+1/1
+
+351
+1/5
+3/7
+1/1
+
+e/78
+91
+2/9
+e/1
+3/12
+e/4
+26
+1/4
+e/1
+5
+
+3/55
+55
+2/18
+1/4
+1/1
+23
+e/12
+X
+X
+X
+e/47
+e/65
+e/242
+
+Size 1 indet.
+Size >1 indet.
+indet.
+
+1/2
+1/1
+e/99
+141
+1/7
+4/22
+e/19
+48
+1/9
+1/1
+10
+1/7
+1/2
+7/111
+120
+5/44
+1/4
+1/1
+1/2
+51
+e/17
+X
+X
+X
+X
+e/689
+e/151
+e/1827
+
+4
+e/2
+X
+X
+X
+e/142
+e/21
+e/396
+
+1
+
+X
+e/15
+e/30
+e/106
+
+X: presence.
+a
+Different attribution of small jackals according to several authors, such as Geraads (2011) and Bougariane et al. (2012).
+
+shaft fragments depend on the size of the fragments included in the
+counts, as proportions of tooth marks increase with the size of
+fragments (e.g., Castel, 2004; Beauval and Morin, 2010). In order to
+discuss the inﬂuence of the size of considered fragments on the
+mark frequencies, we characterized the degree of fragmentation
+and measured all of the remains. We have considered frequencies
+of complete remains as the length and circumference of the
+conserved long bone shaft (Villa and Mahieu, 1991) and particularly
+the length of shaft and middle shaft fragments.
+Other elements, such as frequencies of semi-digested bones (e.g.,
+Marra et al., 2004; Beauval and Morin, 2010; Discamps, 2011) and the
+presence/abundance of coprolites (e.g., Cruz-Uribe, 1991; Pickering,
+2002; Kuhn et al., 2010), give evidence of important carnivore or
+other non-human predator presence in caves. Only partially digested
+bones with a high degree of modiﬁcation were considered as digested, because light alterations could also be due to the acetic acid
+treatment. The presence of coprolites was also considered, even if
+coprolites were not systematically preserved or collected (especially
+when broken). Carnivores generally destroy less dense parts of long
+bones, such as epiphyses, to consume fat. This practice can produce
+long bone shaft ‘cylinders’ (e.g., Binford, 1981; Brain, 1981; Haynes,
+1983; Cruz-Uribe, 1991; Faith et al., 2007; Campmas and Beauval,
+2008; Kuhn et al., 2010), thus the presence of long bone shaft ‘cylinders’ was also considered. The proportions of carnivores are a
+supplementary index used to discuss carnivore occupations. Indeed,
+rates of carnivore specimens are usually high in faunal accumulations
+
+due to carnivore activities (e.g., Cruz-Uribe, 1991; Brugal et al., 1997;
+Pickering, 2002; Kuhn et al., 2010). In addition, the presence of young
+carnivores indicates the use of cave as maternity dens by carnivores
+(e.g., Brugal et al., 1997; Fosse, 1997).
+Results
+El Harhoura 2 Cave
+The faunal spectrum is diverse with the presence of many ungulates and carnivores (Table 3). In layers 2, 3 and 4A, carnivores
+represent between 10% and 16% of the NISP, and are dominated by
+canids (such as jackal and fox) (Table 3 and Fig. 6). Large canids
+(Fig. 7) may correspond to a large jackal (Bougariane et al., 2012).
+Other carnivores are also present: small felids (layers 3 and 4A),
+small mustelids (layer 3), hyenids (layers 2, 3 and 4A), large felids
+(layers 2 and 3) and bears (layer 3). The proportion of carnivores is
+low in layer 8 (Table 3 and Fig. 6). Small size 1 ungulates (gazelles)
+are dominant (>70% in layers 2, 3 and 4A and almost 57% in layer 8).
+Other ungulates include a possible caprinid (layer 3) (tooth fragment that could correspond to perturbations with upper layers),
+suids such as wild boar (Sus scrofa) and warthog (Phacochoerus
+africanus), Alcelaphini, a possible Tragelaphini (layer 2), cervids
+(layer 3), a possible Hippotragini (layer 3), equids, Bovini and rhinoceros (layers 2 and 3) (Table 3). When the remains are taxonomically indeterminate but classiﬁed according to size, the
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+129
+
+Figure 6. EH2 Cave, a: Relative proportions of ungulates/carnivores; b: Relative proportions of small/large carnivores; c: Relative proportions of ungulates size 1/ungulates size >1;
+d: Proportions of size 1/size >1 including indeterminate remains; e: Relative proportion of different ungulate sizes >1.
+
+proportions of large ungulates are highest in layer 2 (32%) and in
+layer 8 (55%). In layer 2, large ungulates belong mainly to size 2 (the
+size of Alcelaphini) whereas in layer 8 they belong to size 3 (Table 3
+and Fig. 6). Turtle bones are rare but some may have been categorized as microfauna during the sorting of sieve residues (Stoetzel
+et al., 2010).
+Several coprolites (layer 2: 1, layer 3: 12, layer 4A: 3) are present,
+some of which are attributed to hyenas by their morphology
+(spherical with a ﬂat face; Fig. 8). In 2008, a crushed pile of coprolites was excavated from layer 3 (Fig. 8).
+Adhering matrix is abundant (Fig. 9) and is present on 80% of the
+remains in layer 2, 60% in layers 3 and 4A, and 40% in layer 8. The
+formation of adhering matrix is the major process that affects the
+observation of osseous surfaces. Root etching is the most signiﬁcant
+constraint, after adhering matrix, limiting the observation of the
+osseous surfaces. This affects 60e80% of the remains from layers 2,
+3 and 4A and 40% from layer 8 (after excluding quantiﬁcations of
+remains highly covered with adhering matrix).
+Carnivore marks, i.e., tooth marks and semi-digested bones
+(9e12%), are relatively scarce in layers 2, 3 and 4A, particularly
+
+tooth marks, but are nonetheless more frequent than cut marks
+(<2%) (Fig. 9 and Table 4). Ungulates of all sizes show carnivore
+marks. Due to the difﬁculty of removing the adhering matrix from
+medullary parts, it is difﬁcult to attribute notch formation to human
+or carnivore activities. On size 1 ungulates, carnivore marks and
+particularly tooth marks are rare, and are mainly located on
+epiphyses even if they are also present on shaft portions. Carnivore
+marks are present on 8e13% of gazelle shafts and ~10% of middle
+shaft fragments (Table 4).
+Alteration by digestion is well represented in these layers
+(6e9%) (Table 4), and was mainly identiﬁed on small bones and
+epiphyses. This could result from only the most signiﬁcant traces of
+digestion (usually marked by the appearance of spongy bone) being
+taken into account in this sample, as the acetic acid treatment can
+also produce a small digestive effect. This effect mainly concerns
+small remains less than 5 cm long (mostly less than 3 cm). As
+adhering matrix is abundant, semi-digested bones have not been
+counted in sieve residues.
+Anthropogenic impact appears very low, notably cut marks
+(layers 3e4A: < 2%) and percussion marks (without ‘indeterminate’
+
+Figure 7. Large canid (cf. large jackal) remains from EH2 Cave (Scales: 2 cm) (Photograph: E. Campmas).
+
+130
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+Figure 8. EH2 Cave, a: Coprolite attributed to hyena (layer 2) (Scale: 2 cm) (Photograph: N. Hamzaoui and E. Campmas); b: accumulation of crushed coprolites (layer 3)
+(Photograph: P. Plailly).
+
+percussion marks: < 2%; with ‘indeterminate’ percussion marks,
+layers 2, 3 and 4A: 5e12%). Cut marks are slightly more frequent in
+layer 8 (5%) where carnivore marks are less abundant (3%). Burnt
+bones are more common in layer 4A (15%), in connection with the
+hearth, and in layer 8 (18%).
+Remains are mainly small (less than 4 cm) and the percentage of
+complete remains (including all types of remains, such as small
+bones, long bones, ﬂat bones, teeth) is low (layer 2: 12%; layer 3: 8%;
+layer 4A: 6%; layer 8: 3% and when residue sieves are included:
+layer 2: 5%; layer 3: 3%; layer 4A: 2%). For all size classes and for
+layers 2, 3 and 4A, 70% of the long bones present a shaft length of
+less than one-quarter of the total length and less than one-half of
+the total circumference. End fractures on shaft fragments are
+mainly characteristic of green fractures: for layers 2, 3 and 4A, more
+than 90% of the observed shaft extremities correspond to green
+fractures. The majority of observed shaft fragments measure less
+than 10 cm (>90%), and even less than 6 cm (>75%). Layer 2 contains 10 shaft ‘cylinders’, layer 3, 26 and layer 4A, ﬁve.
+
+El Mnasra Cave
+The faunal spectrum is diverse, with the presence of many ungulates and carnivores (Table 5). In the portion of layer 3, carnivores
+represent 10% of the NISP and 11% in layers 5e7 (when the intrusive
+honey badger remains are excluded this rate falls to 4%). In the
+studied part of layer 3, canids dominate (Table 5 and Fig. 10).
+Among herbivores, small size 1 ungulates (gazelles) are dominant
+(layers 5e7: 51%; studied part of the layer 3 (¼ unit 4): 96%). When
+the taxonomically indeterminate remains are classiﬁed and the
+large size class is integrated, the proportions of large ungulates are
+greater in layers 5e7 (around 70%). These large ungulates are
+mainly large bovids and suids (Table 5 and Fig. 10).
+A few small coprolites are present in layers 5e7 (N ¼ 5). In the
+studied part of layer 3 (¼ unit 4), coprolite fragments were
+observed in the sieve residues but have not yet been quantiﬁed.
+Remains with adhering matrix are less frequent at EM Cave than
+at EH2 Cave (layers 5e7: 46%; layer 3 [ ¼ unit 4]: 40%). After the
+
+Figure 9. EH2 Cave: 1: Bones with adhering matrix (a: gazelle radius, b: gazelle humerus); 2: Carnivore marks on bones from layers 4A-2 (Tooth marks: a: Bovini humerus, b and c:
+gazelle metapodial, d: gazelle radius, e: gazelle coxal, f: gazelle femur, g: gazelle coxal, arrows point the location of tooth marks; semi-digested: h: compact size 1 mammal bone, i:
+gazelle cubonavicular, j: gazelle femur, k: gazelle patella, l: gazelle phalanx II, m: gazelle metapodial, n and o: gazelle talus, p: small canid canine, q: small canid humerus); 3:
+Anthropic marks (cut marks on gazelle coxal, b: cut marks on ﬂakes from a size 1 mammal, c: cut marks on gazelle humerus, d: indeterminate remains with cut marks, e and f:
+remains from layer 8 with scraping marks, arrows point the location of cut marks) (Photographs: E. Campmas).
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+Table 4
+Proportions of NR (number of remains) with carnivore and anthropic marks, as well
+as distribution of tooth marks along size 1 long bones at EH2 Cave.
+
+131
+
+Table 5
+MNI/NISP or presence of EM Cave taxa.
+Species
+
+El Harhoura 2
+
+Carnivore marks (Total)
+Carnivore marks (Total)a
+Tooth marks (te)
+Tooth marksa (te)
+Semi-digested
+Carnivore marks on ungulates size 1 (te)
+Carnivore marks on ungulates size 1a (te)
+Carnivore marks on long bones size 1a
+
+Carnivore marks on long bones size 1
+
+Tooth marks on long bones size 1a
+
+Tooth marks on long bones size 1
+Tooth marks on long bones size 1
+Tooth marks on long bones size 1a
+Cut marks
+Percussion marksa
+Percussion marks
+Burnt bones
+Burnt bones (unplotted)
+
+SH þ EP
+EP
+SH
+SH þ EP
+EP
+SH
+SH þ EP
+EP
+SH
+SH
+M SH
+M SH
+
+El Mnasra
+l. 5e7
+
+l. 2
+
+l. 3
+
+l. 4A
+
+l. 8
+
+9%
+10%
+4%
+6%
+6%
+19%
+20%
+P
+P
+15%
+P
+P
+8%
+P
+P
+13%
+4%
+P
+P
+1%
+7%
+_
+4%
+9%
+
+12%
+13%
+4%
+6%
+9%
+21%
+24%
+35%
+43%
+17%
+33%
+43%
+13%
+16%
+5%
+13%
+9%
+10%
+18%
+1%
+5%
+1%
+6%
+8%
+
+9%
+12%
+3%
+6%
+6%
+21%
+22%
+P
+P
+20%
+P
+P
+13%
+P
+P
+15%
+7%
+P
+P
+2%
+12%
+2%
+15%
+15%
+
+2%
+3%
+1%
+2%
+1%
+14%
+14%
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+5%
+4%
+_
+18%
+
+P: presence of marks but less than 30 long bones in total; EP: long bones represented
+by epiphyseal parts; SH: long bones represented by shaft parts; SH þ EP: long bones
+with shaft and epiphyseal parts; M SH: middle shaft fragments; (te): teeth excluded.
+a
+With indeterminate notches.
+
+exclusion of unobservable remains, the number of cut marks represents 5% of the remains (% NR containing unidentiﬁed remains
+plotted and identiﬁed remains plotted and unplotted) in layers 5e7
+(Fig. 11). Cut marks are more frequent for counts by NISP by size
+classes (NISP size 1: 10%; NISP size 2: 13%, NISP size 3: 17%) and are
+present on all parts of long bones. Around 11% of long bones present
+percussion marks and carnivore marks are very rare (1%). Burnt
+bones are very frequent in layers 5e7 (32e85% depending on the
+color considered). A large portion of bony plates of turtles are burnt
+on their external surface (44% of burnt bony plates; and only 1% is
+burnt only on the internal face; Campmas, 2012a; Campmas et al.,
+In progress).
+In the studied part of layer 3, carnivore marks (tooth marks and
+semi-digested bones) are more abundant (27%) and correspond
+mainly to semi-digested remains (23%) while tooth marks are rare
+(7%) (Table 6 and Fig. 11). All of the semi-digested bones measure
+less than 4 cm. Carnivore marks are visible on 29% of gazelle remains and nine out of 11 observable canid remains. Approximately
+24% of the size 1 ungulate shaft fragments preserve carnivore
+marks. Tooth marks are present on three out of 10 middle shaft long
+bones of gazelles (30%) (Table 6). Several of these marks show
+morphology similar to that of notches made by carnivore consumption. Only one middle shaft fragment corresponds to a cylinder without tooth marks, and one cylinder of long bone of small
+canid preserves carnivore marks. Cut marks and burnt bones are
+scarce (8%).
+Remains are often small (less than 4 cm) and numbers of
+complete remains are low (layers 5e7: 7% and <1% when sieve
+residues are included; studied part of layer 3: 13% of plotted bones).
+The length and circumference of conserved long bone shafts are
+low (for all size classes and layers more than 70% of the long bones
+present a shaft length of less than one-quarter of the total length
+and less than one-half of the total circumference). In layers 5e7 the
+rare shaft ‘cylinders’ (24) come from young individuals (21). In the
+
+Ungulates size 1 Gazella sp.
+cf. Gazella sp.
+Total NISP
+Ungulates size 2 Suidae
+Alcelaphinae
+cf. Hippotraginae?
+cf. Alcelaphinae and/or
+Hippotraginae
+Total NISP
+Ungulates size 3 Equidae
+cf. Equidae
+Bovinae
+cf. Bovinae
+Total NISP
+Ungulates size 4 cf. Rhinocerotidae
+Hippo
+Elephantidae
+cf. Elephantidae
+Total NISP
+Small carnivores Mustelidae (cf. Mellivora capensis)
+Cf. small mustelidae
+Felis sp.
+Small canids [cf. fox (Vulpes vulpes)/
+jackala (Canis aureus and/or
+Lupulella sp.)]
+Indet.
+Total NISP
+Large carnivores Indet.
+Carnivores
+Indet.
+Other
+Leporidae
+Turtles
+Struthio camelus eggs
+Size 1 indet.
+Size >1 indet.
+indet.
+
+l. 5e7*
+
+l. 3
+
+8/191
+e/73
+264
+4/75
+2/4
+1/3
+e/31
+
+8/191
+e/73
+264
+4/75
+2/4
+1/3
+e/31
+
+4/123
+e/48
+171
+1/1
+1/3
+
+113
+2/20
+e/7
+2/60
+e/40
+127
+1/6
+1/2
+1/3
+e/1
+12
+2/48
+1/2
+1/1
+3/7
+
+113
+2/20
+e/7
+2/60
+e/40
+127
+1/6
+1/2
+1/3
+e/1
+12
+
+4
+
+1/2
+1/1
+3/7
+
+1/2
+1/1
+2/13
+
+e/4
+62
+e/3
+e/2
+X
+X
+X
+e/169
+e/798
+e/1772
+
+e/4
+14
+e/3
+e/2
+X
+X
+X
+e/169
+e/798
+e/1772
+
+e/3
+17
+e/1
+e/2
+
+1/3
+3
+
+X
+e/40
+e/18
+e/83
+
+MNI/NISP; X: presence; * without Mustelidae, mainly intrusive Mellivora capensis.
+a
+Different attribution of small jackals according to several authors, such as
+Geraads (2011) and Bougariane et al. (2012).
+
+studied part of layer 3 [ ¼ unit 4], there are two shaft ‘cylinders’,
+including one bearing carnivore marks. It should be noted that all
+studied shaft and middle shaft fragments from the studied part of
+layer 3 [ ¼ unit 4] measure less than 10 cm, and that more than 80%
+of them measure less than 6 cm.
+Discussion
+The presence of carnivore remains, carnivore marks, coprolites,
+some cut marks, burnt bones, lithic artifacts, bone tools, used pigments and hearths points towards the intervention of multiple
+agents, human and non-human predators, in these two caves. The
+results are similar in the upper layers of EH2 Cave (layers 2, 3 and
+4A) and EM Cave (layer 3 ¼ unit 4) and between the lower layers of
+EM Cave (layers 5e7) and EH2 Cave (layer 8). Here, we examine the
+main agents responsible for the accumulation and modiﬁcation of
+these faunal assemblages, who occupied these caves, how they
+varied throughout time, what factor(s) might have inﬂuenced the
+change of occupants in the caves, and how EH2 and EM caves
+compare to other sites in North Africa and elsewhere.
+Identiﬁcation of the cave occupants and the main agents responsible
+for the accumulation and modiﬁcation of faunal remains
+Upper layers In layers 2, 3 and 4A of EH2 Cave and layer 3 of EM Cave,
+percussion and cut marks are rare, and carnivore marks are more
+
+132
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+Figure 10. EM Cave, a: Relative proportions of ungulates/carnivores; b: Relative proportions of small/large carnivores; c: Relative proportions of size 1 ungulates/ungulates size >1;
+d: Proportions of size 1/size >1 including indeterminate remains; e: Relative proportion of different ungulate sizes >1 (*: without Mustelidae, mainly intrusive honey badger).
+
+numerous, despite the fact that tooth marks are scarce. In parallel
+these layers contains few lithic artifacts and some mollusk shells.
+Relatively low frequencies of carnivore marks coupled with low
+frequencies of anthropogenic marks could indicate a second access
+to carnivores or separate accumulations by both carnivores and
+humans. Another hypothesis is that non-human predators took
+remains, some bearing cut marks, left by people, and brought them
+back to their dens.
+The North African fossil record has demonstrated the occurrence
+of several carnivore species on the Atlantic coast of Morocco during
+the Upper Pleistocene, which could have accumulated and modiﬁed
+bone assemblages in the cave: small canids such as fox (Vulpes
+vulpes) (e.g., Ruhlmann, 1951; Michel, 1990, 1992; Michel and
+Wengler, 1993; Aouraghe, 2000, 2001; Monchot and Aouraghe,
+2009; Michel et al., 2009, 2010; Bougariane et al., 2010; Daujeard
+et al., 2011; Stoetzel et al., 2012; Amani et al., 2012a; Campmas,
+2012a) and small jackal (Canis aureus and/or Lupulella sp.) (e.g.,
+Michel, 1990, 1992; Michel and Wengler, 1993; Aouraghe, 2000,
+2001; Monchot and Aouraghe, 2009; Michel et al., 2009, 2010;
+Bougariane et al., 2010, 2012; Geraads, 2011; Stoetzel et al., 2012;
+Campmas, 2012a; Amani et al., 2012b); large canids such as large
+jackal (C. aureus or Canis sp.) (e.g., Michel, 1990, 1992; Aouraghe,
+2000, 2001; Michel et al., 2009, 2010; Daujeard et al., 2011;
+Geraads, 2011; Bougariane et al., 2012; Stoetzel et al., 2012;
+Campmas, 2012a; Amani et al., 2012b); large felids such as lion
+(Panthera leo) (e.g., Michel, 1990, 1992; Michel and Wengler, 1993;
+Aouraghe, 2000, 2001; Monchot and Aouraghe, 2009; Daujeard
+et al., 2011) and leopard (Panthera pardus) (e.g., Michel, 1990,
+1992; Michel and Wengler, 1993; Aouraghe, 2000, 2001; Merzoug,
+2005; Monchot and Aouraghe, 2009; Michel et al., 2009, 2010;
+Bougariane et al., 2010; Daujeard et al., 2011; Stoetzel et al.,
+
+2012); and hyenas such as spotted hyaena (Crocuta crocuta) (e.g.,
+Michel, 1990, 1992; Michel and Wengler, 1993; Aouraghe, 2000,
+2001; Monchot and Aouraghe, 2009; Michel et al., 2009, 2010;
+Bougariane et al., 2010; Stoetzel et al., 2012) and striped hyena
+(Hyaena hyaena) (e.g., Michel, 1990, 1992; Michel and Wengler,
+1993; Aouraghe, 2000, 2001; Monchot and Aouraghe, 2009;
+Daujeard et al., 2011). In addition, large raptors, such as bearded
+vulture (Gypaetus barbatus) (e.g., Robert and Vigne, 2002a,b; Attard
+and Reumer, 2009) or Egyptian vulture (Neophron percnopterus)
+(Sanchis Serra et al., 2009, 2013), can also accumulate bones in nests
+located in caves, and are still present today in Morocco (e.g.,
+Génsbøl, 1993; Heinzel et al., 2004). A detailed discussion of the
+carnivores and/or raptors that could be involved in accumulations is
+beyond the scope of this article and is presented elsewhere
+(Campmas, 2012a; Campmas et al., In progress).
+In layers 2, 3 and 4A of EH2 Cave and in the studied part of layer
+3 of EM Cave, carnivores represent between 10% and 16% of the
+NISP, dominated by canids (such as jackal and fox). The carnivore
+ratio is less than in European hyena dens (e.g., Brugal et al., 1997),
+but is similar to fossil African carnivore dens and higher than in
+present day hyena dens (e.g., Cruz-Uribe, 1991; Kuhn, 2011; Fourvel,
+2012). Young carnivores are almost absent (remains from only one
+young hyena has been observed by P. Michel but was not included
+in this study) and young canids are very rare. Pups are abundant in
+European hyena dens (Brugal et al., 1997), but they are uncommon
+in modern African hyena dens (e.g., Leakey et al., 1999; Lacruz and
+Maude, 2005; Pokines and Kerbis-Peterhans, 2007; Egeland et al.,
+2008; Prendergast and Dominguez-Rodrigo, 2008; Monchot and
+Mashkour, 2010; Kuhn, 2011; Fourvel, 2012).
+The frequencies of tooth marks on shaft and middle shaft fragments are lower than those obtained during experimentation
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+133
+
+Figure 11. EM Cave, 1: Carnivore marks on bones from the studied part of layer 3 (¼ unit 4); 1: semi-digested (a: small canid femur, b: small canid talus, c and d: small canid femur,
+e, f, g, h and i: mammal size 1 vertebra; j, k and l: gazelle patella; m: gazelle humerus, n: gazelle femur, o: gazelle radius, p, q and r: gazelle phalanx 1, s, t, u, v and w: gazelle phalanx
+2); 2: Anthropic marks on bones from layers 5e7 (a and b: cutmarks on a Bovini metapodial, c: cutmarks on indeterminate remains, d: cutmarks on a Suidae phalanx, e: cutmarks
+on a Suidae talus, f: percussion mark on a large ungulate long bone, g: cutmarks on a gazelle talus, h: cutmarks on a gazelle radius, i: cutmarks on a gazelle carpal, j: k and l:
+cutmarks on gazelle humeri, m: cutmarks on a humerus shaft ‘cylinder’ from a gazelle, n: tearing of the anconeus process of a gazelle ulna due to dismemberment, o: scraping
+marks, arrows point the location of cut marks) (Photographs: E. Campmas).
+
+Table 6
+Proportions of NR (number of remains) with carnivore and anthropic marks, as well
+as distribution of tooth marks along size 1 long bones at EM.
+El Mnarsa
+l. 5e7
+Carnivore marks (Total)
+Tooth marks (te)
+Semi-Digested
+Carnivore marks on ungulates size 1
+Carnivore marks on long bones size 1
+
+Tooth marks on long bones size 1
+
+Cut marks
+Cut marks on size 1 (very young excluded)
+Cut marks on size 2 (very young excluded)
+Cut marks on size 3 (very young excluded)
+Percussion marks on long bones
+Burnt bones
+Burnt bones (unplotted)
+
+SH þ EP
+EP
+SH
+SH þ EP
+EP
+SH
+M SH
+
+1%
+<1%
+<1%
+_
+_
+_
+_
+_
+_
+_
+_
+5%
+10%
+13%
+17%
+11%
+32% (85%a)
+31% (99%a)
+
+l. 3
+27%
+7%
+23%
+29%
+P
+P
+24%
+
+18%
+(3/10)30%
+1%
+_
+_
+_
+_
+8%
+
+P: presence of marks but less than 30 long bones in total; SH þ EP: long bones with
+shaft and epiphyseal parts; EP: only long bones represented by epiphyseal parts; SH:
+only long bones represented by shaft parts; M SH: middle shaft fragments.
+a
+Bones with brown color that could correspond to low temperature.
+
+where carnivores had primary access to remains (e.g.,
+Blumenschine, 1995; Marean et al., 2000), which may indicate
+secondary access to carcasses by carnivores. However, it is important to remember that experiments where carnivores had primary
+access were conducted in a natural open-air site context, with the
+inclusion of several carnivores but mainly spotted hyenas, which
+are renowned for fragmenting bones more intensely than other
+carnivores. At Témara it is possible that non-human predators other
+than hyenas, such as canids or birds of prey, have modiﬁed faunal
+remains. In addition, in experimentation with ﬁrst hyena access to
+carcasses, resulting shaft fragments were not always collected,
+despite the fact that the hyena intensively fragments bones
+(Blumenschine, 1995). Consequently, comparisons with fossil records are distorted. Results from studies restricted only to faunal
+remains bearing tooth marks, such as Selvaggio (1994), could also
+distort comparisons. In several cases small fragments of bones or of
+shaft fragments do not display tooth marks (Castel, 2004; Beauval
+and Morin, 2010). At EH2 and EM, faunal remains, such as lengths
+and circumferences of conserved shaft fragments, are small. This
+factor can explain the low frequencies of tooth marks. Indeed, rates
+of tooth marks are similar to those from hyena cave dens in the
+Lussacois France (between 2% and 10% according to the different
+sites and layers), where small fragments have been considerated
+and tooth marks are more numerous on fragments larger than 8 cm
+(~15e20% at EH2).
+
+134
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+Fossil records from North African contexts where agents
+responsible for faunal accumulations have been identiﬁed can
+provide clues for our study. At Gazelles Cave, where the number of
+carnivore marks is low (17% of NISP and on 14% on shaft portions of
+gazelles long bones), Daujeard et al. (2011) suggested that carnivores (mainly canids, and hyenids to a lesser extent) modiﬁed
+faunal remains introduced naturally into the bottom of the cave
+through the occulus. At EM Cave, the location of the excavation
+under the oculus allows for this possibility, but at EH2 Cave there is
+no oculus and the excavation is located at the entrance of the cave,
+thus the function of the cavity as a trap can be excluded. The frequencies of carnivore marks at EH2 and EM caves are fewer than at
+Feline Cave (30% NISP and 50% of shaft portion of long bones of
+ungulates) (Daujeard et al., 2011) and Hominid Cave (20% NR 33% of
+middle shaft portions) (Raynal et al., 2010, 2011; Daujeard et al.,
+2012), which seems to correspond to carnivore dens. However,
+the EM and EH2 caves faunal assemblages are highly similar to
+those of El Harhoura 1 attributed to hyena dens (Monchot and
+Aouraghe, 2009).
+As distribution of tooth marks (pending the use of a method that
+allows the removal of the adhering matrix efﬁciently while not
+affecting bone surfaces) and fossil records have not allowed us to
+identify the speciﬁc modifying/accumulating agents, it is necessary
+to consider other elements. Semi-digested bones are numerous at
+EH2 and EM caves. Frequencies at EM Cave are similar to fossil
+European hyena cave dens (between 20% and 40%) (Beauval and
+Morin, 2010). Fourvel (2012) in hyena caves found similar frequencies than at EH2 Cave, higher than in current African hyena
+dens (mainly < 2%) where small fragments are not included in
+studies. Thus, the non-readability of faunal remains provided by the
+unplotted remains fraction could explain the small number of semidigested bones identiﬁed.
+Semi-digested bones of ungulates are not produced only by
+hyenas but also by large canids (Esteban-Nadal et al., 2010;
+Esteban-Nadal, 2012; Fosse et al., 2012; Mallye et al., 2012) and
+large raptors (e.g., Robert and Vigne, 2002a,b), indicating the possibility that several non-human predators intervened at Témara.
+The presence of coprolites corroborates the identiﬁcation of
+carnivore activity. The scarcity of coprolite fragments could be due
+to their fragility as well as to the wet sieving and sorting during
+excavations, because small coprolite fragments were not consistently collected. Recently, during the 2011 excavation, one of us
+(Emilie Campmas) observed the presence of small coprolite fragments in sieve residues from layers 4b to 6 of EH2 Cave. It may be
+necessary to resample the upper layers of EH2 Cave in order to
+systematically evaluate the presence of small coprolite fragments in
+sieve residues. Thus, on the basis of all of the evidence examined,
+non-human predators seem to be main agent of modiﬁcation for
+faunal remains at EH2 and EM caves.
+Lower layers In layers 5e7 of EM, carnivore remains are rare,
+particularly when intrusive honey badger remains are excluded.
+Carnivore marks are again rare, while burnt bones are frequent,
+particularly in connection with the numerous hearths. Despite the
+low frequency of cut marks, such alteration is present on differentsized ungulates (Table 6) and could be explained by several factors:
+1) Although most bones covered with adhering matrix have been
+excluded from quantiﬁcation, remains with less adhering matrix
+have been included. The presence of such adhering matrix
+impedes the observation of osseous surfaces. 2) Burnt bones
+(surface degradation and fragmentation) could decrease this rate.
+3) Visualization with low magniﬁcation (x 10) could also limit the
+observation of very thin cut marks. 4) Human butchery practices
+can leave few marks. Indeed, although Dominguez-Rodrigo
+(1997a,b) suggests that human accumulations are characterized
+by high frequencies of cut marks, attaining up to 20% on humeri
+
+and femora (long bones rich in meat), some butchery practices
+such as boiling can explain the scarcity of cut marks (Costamagno
+and David, 2009). However, several Middle Palaeolithic/Middle
+Stone Age and Upper Palaeolithic/Later Stone Age assemblages,
+that have been subject to taphonomic analysis and identiﬁed as
+having been accumulated and primarily modiﬁed by humans,
+have been noted to display highly variable frequencies of cut
+marks (5e25% NISP) (Dominguez-Rodrigo and Yravedra, 2009). At
+the Témara caves, the presence of cut marks, percussion marks,
+burnt bones, mollusk shells, stone tools, bone tools, hearths, used
+pigments and Nassarius sp. shell beads conﬁrms the human
+occupation of these caves, which seems to be ‘intense’.
+The characteristics of the archaeological material from layer 8 at
+EH2 Cave are different from those in the upper layers. This layer
+contains numerous mollusk shells, four Nassarius sp. and burnt
+bones. Cut marks are present in low frequency, but are more
+abundant than carnivore marks in the same layer, and cut marks in
+other layers. In addition, carnivore numbers are low and numerous
+size >1 ungulate remains are present. These results, associated with
+other archaeological data for this layer, argue for more intensive
+human occupations. New excavations and an extension of the testpit will allow us to conﬁrm this hypothesis.
+Change of cave occupants throughout time
+ESR-U/Th dates (Janati-Idrissi et al., 2012a,b) are younger than
+dates obtained by OSL (Jacobs and Roberts, 2012a,b; Jacobs et al.,
+2012b). The difference in age estimates between OSL and ESR
+methods at present remains an unresolved problem. We chose to
+base our reﬂection on OSL dates, because many sedimentary deposits from archaeological caves in the region of Temara (and other
+regions in Morocco) have been dated by OSL, such as Dar es Soltane
+1 (Barton et al., 2009; Schwenninger et al., 2010), Dar es Soltane 2
+(Schwenninger et al., 2010), El Mnasra (Schwenninger et al., 2010;
+Jacobs et al., 2012b; Jacobs and Roberts, 2012b), Contrebandiers
+(Jacobs et al., 2011, 2012a) and El Harhoura 2 (Jacobs and Roberts,
+2012a; Jacobs et al., 2012b). These dates present a high degree of
+coherence between them, and with those obtained by thermoluminescence (TL) at Contrebandiers Cave (Jacobs et al., 2011, 2012b;
+Richter, 2012). In addition, Jacobs et al. (2012b) have proposed that
+human occupations have been correlated with wet periods, on the
+basis of OSL dating and lithic industries.
+According to the OSL method, deposition of layers 5e7 at EM
+Cave and layer 8 at EH2 Cave, which have a higher anthropogenic
+activity index than the other studied layers, date to OIS 5c (Jacobs
+and Roberts, 2012a; Jacobs et al., 2012b). Layers 3 and 4A of EH2
+Cave are attributed to OIS 4/3 (Jacobs et al., 2012b; Jacobs and
+Roberts, 2012b). According to geoarchaeological observations
+(Lenoble, In progress), a studied part of layer 3 of EM is tentatively
+ascribed to OIS 2 and/or OIS 3/4. Non-human predators seem to be
+the main occupants of the cave during these periods and human
+occupation seems to be non-intensive (few anthropogenic marks
+on faunal remains and lithic technology analyses; Nespoulet and El
+Hajraoui, 2012a). Layer 2 of EH2 Cave has been attributed to OIS 2
+based on the presence of lithic industries ascribed to the Iberomaurusian. Non-human predators also appear to be the main
+agents for the modiﬁcation and/or accumulation of large faunal
+remains, despite the change in the use of the cave by humans for
+sepulchral activities, perhaps, integrated on a larger territory
+crossed by Iberomaurusian groups.
+The three periods of MSA human occupation identiﬁed by Jacobs
+et al. (2012b), ~110e95 ka, ~80 ka and ~60 ka, do not seem to
+display the same intensity of human occupation. During the ﬁrst
+episode (OIS 5c; Jacobs et al., 2012b) the human occupation appears
+more intensive. The third episode (OIS 3; Jacobs et al., 2012b)
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+corresponds to a low human intensity occupation associated with
+non-human predator activities. Further taphonomic analyses of the
+intermediate layers of EM and EH2 caves are required to explore
+further the hypothesis of Jacobs et al. (2012b) and characterize the
+second episode of MSA occupation (OIS 5a).
+Correlation with local environmental changes
+The Upper Pleistocene (OIS 5 to OIS 2) was subject to signiﬁcant
+palaeoenvironmental change caused by glacial cycles and the
+development of ice in the Northern Hemisphere. In North Africa,
+the impact of these global phenomena corresponds to an alternation of arid and humid periods accompanied by landscape modiﬁcations, sea level ﬂuctuations and the movement of the shoreline
+away from the studied coastal caves during several periods in the
+past (e.g., Shackleton, 2000; Jouzel et al., 2002; Waelbroeck et al.,
+2002) (Fig. 12). As humans intensively occupied these caves
+approximately between 110 and 95 ka (e.g., Shackleton, 2000;
+Jouzel et al., 2002; Waelbroeck et al., 2002, Fig. 12), Jacobs et al.
+(2012b) suggested that these occupations were related to a wet
+climate period. Here, we thus propose a model for the sequence of
+carnivore/human occupations at Témara, taking into consideration
+the inﬂuence of climate change and the date of the different
+stratigraphic layers.
+
+135
+
+Currently, no archaeobotanical investigation has been carried
+out at the Témara caves, and there are no Pleistocene sequences
+suitable for pollen analyses in the Rabat-Témara-Casablanca region.
+Continental pollen data are rare pre-40 ka in North Africa with most
+pollen sequences located in Tunisia (e.g., Brun, 1989, 1991;
+Stambouli-Essassi et al., 2007) and the Moroccan mountains (e.g.,
+Ballouche, 1986; Lamb et al., 1988; Cheddadi et al., 1998; Ballouche
+and Marinval, 2003; Rhoujjati et al., 2009). Other pollen sequences
+are available for the Saharan area (e.g., Hooghiemstra and Agwu,
+1988; Dupont and Hooghiemstra, 1989; Hooghiemstra et al.,
+1992; Petit-Maire, 1992; Le Houérou, 1997; Hooghiemstra, 2004),
+but far from non-desertic areas with Mediterranean climate inﬂuences. Thus, local palaeoenvironmental data dating to the Upper
+Pleistocene from the Rabat-Témara area are based on faunal analysis, and especially on small vertebrates, which are better indicators of climatic and landscape changes in comparison to large
+mammals (Stoetzel, 2009; Stoetzel et al., 2010, 2011, 2014).
+At EH2 Cave, layer 8 has yielded microfauna mainly found in
+open habitats, but also a good representation of taxa such as
+amphibians (Bufo bufo, Pleurodeles cf. waltl) and some reptiles
+(Natrix maura) from wet habitats (Stoetzel, 2009; Stoetzel et al.,
+2010, 2011, 2014). Layer 6 of EM Cave has yielded remains
+attributed to the rodent Arvicanthis sp. (Amani et al., 2012a;
+Stoetzel et al., 2014). This strictly Afro-tropical genus today
+
+Figure 12. Global schema corresponding to changes in occupation history throughout time at EH2 and EM caves [a: isotopic curve (Petit et al., 1999), b: eustatic curves (dark grey:
+Shackleton, 2000; black: Jouzel et al., 2002; light grey; Waelbroeck et al., 2002), c and e: Jacobs et al., 2012b; d and f: Campmas, 2012a; g: Oujaa and Lacombe, 2012].
+
+136
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+inhabits sub-Saharan savannas with dense vegetal cover, close to
+water sources, and occurs in Egypt along the Nile Valley. Its
+presence in layer 6 of EM Cave indicates a savannah-type environment, probably with a humid winter and a dry summer.
+Arvicanthis occurred sporadically in the Maghreb throughout the
+Quaternary period in relation with climatic changes and the
+opening of migration routes (notably in the Saharan and Sahelian
+areas during wet periods) allowing the expansion of its distribution towards northern Morocco (Stoetzel, 2013a; Stoetzel et al.,
+2014). Thus, in accordance with the OSL dating (Jacobs et al.,
+2012b), the occupation of layer 6 of EM Cave may be related to
+the wet period and the high sea level of OIS 5c (only ~ 20 m
+bellow sea level) (e.g., Shackleton, 2000; Jouzel et al., 2002;
+Waelbroeck et al., 2002). Consequently, at this period the caves
+were located near the shore, giving humans the opportunity to
+exploit shellﬁsh. Even if the precise quantity of shells is yet to be
+determined, observations during excavations have revealed that
+they are clearly more numerous in layers 7e5 of EM Cave and at
+the bottom of the layer 3 of EM Cave (corresponding to unit 6 of
+the lithostratigraphy). Layer 8 of EH2 Cave has also yielded
+abundant limpets (Nouet et al., In progress). During the period of
+deposit of the layer 7e5 of EM, large ungulates, such as Bovini
+and suids, are better represented. Their presence could correspond to the expansion of these species during wet periods and/
+or increasing preference for them by humans (Campmas, 2012a).
+Layers 4A and 3 at EH2 Cave, and perhaps a portion of the
+studied part of the layer 3 of EM Cave, were deposited during OIS
+4 and/or 3 (Jacobs et al., 2012b, Fig. 12). They correspond to nonhuman predator occupations and non-intensive human occupation. During these periods, sea levels ranged from 100 m (OIS 4)
+and 70/-40 m (OIS 3) (e.g., Shackleton, 2000; Jouzel et al., 2002;
+Waelbroeck et al., 2002). Consequently, the caves were located
+further from the sea since the continental shelf is considerable in
+this area (between 20 km and 50 km) (Joly, 1950). Thus, the caves
+did not have the same attraction for MSA humans during this
+period because they were not in the vicinity of the shore, despite
+the presence of ungulates. The signiﬁcant number of gazelles
+could correspond to increased aridity or preferences of nonhuman predators (Campmas, 2012a). However, microfaunal
+studies of layers 3 and 4A of EH2 Cave denote a relatively wet and
+open environment, close to that observed for the layer 8
+(Stoetzel, 2009; Stoetzel et al., 2010, 2011, 2014). This result is in
+agreement with the suggestion that there was a third MSA
+occupation at EH2 Cave during the wet stage of the OIS 3 (Jacobs
+et al., 2012b), but not with the same intensity than during OIS 5.
+An alternative hypothesis suggests that the main activity of the
+human occupation may have been located in another part of the
+EH2 Cave.
+Layer 2 of EH2 Cave, and perhaps a portion of the studied part of
+the layer 3 of EM, were deposited during the Last Glacial Maximum
+(OIS 2; ~30e10 ka) (Fig. 12). Palaeoecological data based on large
+and small vertebrates indicate an aridiﬁcation and an opening of
+the environment (Stoetzel et al., 2011, 2014; Stoetzel, 2013b). This
+period also corresponds to the most signiﬁcant sea level regression
+(120 m) (e.g., Shackleton, 2000; Jouzel et al., 2002; Waelbroeck
+et al., 2002). Despite a signiﬁcant change in lithic industries (MSA
+to Iberomaurusian) and the presence of a human burial (EH2, layer
+2), the main agents of modiﬁcation/accumulation of large faunas
+appear to be non-human predators (Campmas, 2012a,b). The
+increasing proportion of large ungulates in layer 2 of EH2 could
+have resulted from climatic inﬂuences on ungulate biomass
+(however, the ﬁrst results from the studied part of the layer 3 of EM
+Cave indicate that gazelle prevails). New dating of these layers will
+enable us to deﬁne the exact timing of these deposits and/or
+changes in non-human accumulators.
+
+Figure 13. Relative proportions of size 1 ungulates/size >1 ungulates in the Témara
+region with bibliographic data (El Harhoura 2 and El Mnasra caves: this work; El
+Harhoura 1 Cave: Monchot and Aouraghe, 2009).
+
+Comparison with other contexts
+Comparison in the Rabat-Témara area Human occupation dates
+during OIS 5 is also evident at Contrebandiers Cave (Jacobs et al.,
+2011, 2012a), Dar es Soltane 1 (Ruhlmann, 1951; Barton et al.,
+2009; Schwenninger et al., 2010), and Dar es Soltane 2
+(Debénath, 1977e1978; Debénath et al., 1986; Schwenninger
+et al., 2010). Several human occupation sites have yielded
+Nassarius shell beads, such as El Mnasra, Contrebandiers and El
+Harhoura 2 (e.g., El Hajraoui et al., 2012a). In contrast, carnivore
+accumulation mainly identiﬁed without complete taphonomic
+analyses, date mainly to OIS 4/3 as it is the case at Dar es Soltane
+1 (Ruhlmann, 1951; Barton et al., 2009; Schwenninger et al.,
+2010). At El Harhoura 1 Cave, taphonomic analyses have shown
+that carnivores are the main accumulators of large fauna, but
+without precise chronological context (Monchot and Aouraghe,
+2009). These results are very similar to those obtained for upper
+layers of EH2 Cave. The only exception that does not ﬁt our
+model is the occupation from the top of Dar es Soltane 1 Cave
+attributed to human occupation dating to OIS 3 and 4. However,
+taphonomic analyses are required to evaluate the accuracy of
+these interpretations, since human lithic artifacts are mixed with
+non-human predator accumulations, as was observed at EH2 Cave
+(layers 4A and 3).
+When relative proportions of ungulate sizes are available, it
+seems that humans are responsible for the accumulation of faunal
+remains: larger ungulates are better represented, whereas gazelle
+is predominant in non-human predator accumulations (Fig. 13). It is
+notably the case at El Harhoura 1 and Doukkala 2 caves where
+gazelles are abundant (Michel and Wengler, 1993; Monchot and
+Aouraghe, 2009), and in the upper layers of EH2 and EM caves.
+This observation may reﬂect prey selection by accumulators.
+However, it is also possible that during the OIS 5 climate amelioration, environments were conducive to the development of large
+ungulate herds, such as buffalo or aurochs, which were probably
+generally associated with less arid environments (e.g., DespardEstes et al., 1991; Corson, 2002; van Vuure, 2002). Furthermore,
+gazelles, which are both carnivore prey and human prey at EM and
+EH2 caves, are present in other Témara caves, such as Dar es Soltane
+2, El Harhoura 1, Contrebandiers and Doukkala 2 (Stoetzel et al.,
+2014). To conclude, this change in ungulate size may be the
+consequence of climate shifts or accumulator selection, or may be
+both. These initial observations must be complemented by further
+taphonomic studies, dating, and ﬁeld excavations.
+Larger scale comparisons with other parts of North Africa The
+association of gazelles, canid remains and carnivore activity has
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+been identiﬁed in different areas of Morocco. At Djebel Irhoud (west
+of Marrakech, Morocco), part of which dates to ~160 ka (Smith et al.,
+2007), no taphonomic study was conducted, but the presence of
+coprolites and hearths suggests that carnivore dens associated
+with abundant gazelle remains occurred later than the human
+occupation (Amani, 1991; Amani and Geraads, 1993, 1998). The
+Gazelles Cave (currently located on the coastal area of Casablanca,
+Morocco) has yielded numerous large canid and gazelle remains.
+The cavity appears to have been used by carnivores, may be
+attracted by the presence of prey that had fallen into the oculus, as
+shown by the presence of tooth marks. Even if tooth marks are
+slightly more numerous than at EH2 Cave, their frequencies
+remain scarce. These observations raise the question of which
+carnivore species have modiﬁed and/or accumulated the bone
+assemblages, and what the function of this site was for them. In
+this site, as at Témara, scarce Atero-Mousterian industries
+(Monchot and Aourhage, 2009; Bougariane et al., 2010; Daujeard
+et al., 2011) attest to non-intensive human presence. Other
+deposits, also containing lithic industries, correspond to large
+carnivore dens. They present several differences with EH2 and EM
+caves (upper layers), in species frequencies (more larger
+ungulates) and/or carnivore marks frequencies, such as at Felines
+Cave (Casablanca, Morocco; Daujeard et al., 2011) or in lower
+layers of Mugharet el Aliya Cave (Tanger, Morocco) (Wrinn, 2001).
+res (Alger,
+In the Mediterranean area, at the site of Phacoche
+Algeria), warthog and large Bovini dominate (Hadjouis, 1994,
+2002, 2003). In the study by Hadjouis (2002), the faunal dataset
+corresponds to a combination of carnivores and human MSA
+occupations. These variations among prey species consumed by
+carnivores could reﬂect the ecology of these carnivores and/or
+environmental changes leading to resources changes, and/or
+differences in the season of occupation.
+In more inland sites in the Rif and eastern Morocco, at Taforalt,
+the only layers bearing Nassarius sp. shell beads have been dated to
+OIS 5 (Bouzouggar et al., 2008), as is the case at Ifri n’Ammar where
+sedimentary records also contain Nassarius sp. shell beads as well
+as pigments (Nami and Moser, 2010) such as at Témara during the
+intensive period of occupation. It is clear that OIS 5, not only on the
+coastal area but also inland, is a key period for human evolution. In
+addition, the presence of these marine shells (Nassarius sp.) further
+inland argues for links/exchanges between coastal and inland
+areas, perhaps thanks to the mobility of ancient hunter-gatherers
+and/or contact among several groups.
+Contexts other than North Africa Beyond Témara, Morocco and
+North Africa in general, South African coastal sites show similar
+shifts in occupation. For example at Ysterfontein 1 rock shelter,
+despite the low chronological resolution, the uppermost layers
+contain few artifacts or faunal remains. Tooth-marked bones and
+occasional coprolites indicate that small carnivores and hyaenas
+sometimes lived inside the shelter. The deepest layers contain
+hearth lenses, numerous artifacts, and abundant intertidal shells
+characteristic of MSA occupation (Avery et al., 2008). At Pinnacle
+Point Cave 13B, the human occupation intensity has been
+correlated to the distance to the shore. According to dates, more
+intense human occupations (characterized by more lithic
+industries, faunal remains, shellﬁsh and pigments) occurred
+when the shore was near the cave (Marean, 2010).
+As at Témara (Steele and Alvarez-Fernandez, 2011, 2012), OIS 5
+(and OIS 6) coastal assemblages in southern Africa present higher
+rates of mollusk consumption such as at Pinnacle Point Cave 13,
+Klasies River, Blombos Cave, Ysterfontein 1 (Henshilwood et al.,
+2001; Halkett et al., 2003; Marean et al., 2007; Avery et al., 2008;
+Jerardino and Marean, 2010; Marean, 2010, 2011). In addition, the
+presence of lithic industries on the Red Sea shore was attributed to
+OIS 5, and may indicate the exploitation of shore resources by
+
+137
+
+humans in Eritrea since the beginning of the Upper Pleistocene
+(Walter et al., 2000; Bruggemann et al., 2004). In order to reﬁne
+understanding of human adaptation to coastal environments, it is
+necessary to identify precise changes in the shoreline position
+through time (Fisher et al., 2010).
+As is the case in North Africa during this period, in South Africa
+ancient AMH used beads made from Nassarius sp. shells (d'Errico
+et al., 2005; Marean et al., 2007; Marean, 2010, 2011). Also during
+this time AMH ﬁrst appear in the Levantine area (e.g., Tillier, 2006)
+where Nassarius shell beads have also been found (Vanhaeren et al.,
+2006). Thus, the simultaneous emergence of all of these ‘modern’
+behaviors in several distant geographic areas raises issues concerning exchanges and/or dispersal of AMH across the African
+continent and the factors (climate, economic organization)
+accompanying the emergence of these symbolic behaviors.
+Anatomically modern humans are unlikely to have been
+concentrated only in littoral areas or their surroundings, as there
+are inland records, even in the central part of the Arabian Peninsula
+(e.g., Groucutt and Petraglia, 2012; Boivin et al., 2013; Drake et al.,
+2013) during OIS 5. It is suggested that human populations occupied coastal areas as refuges during arid periods (e.g., Mellars,
+2006; Rose and Petraglia, 2009) though records for these periods
+were submerged during sea level rises (e.g., Bailey and Flemming,
+2008). However, archaeological evidence also suggests their presence during wetter periods.
+We can ask the question of whether the exploitation of coastal
+resources has played a major role for the emergence of Upper
+Pleistocene innovations. Marean (2011: 434) suggests that “a
+coastal niche provided excellent incubation conditions for the
+material cultural expression of behavioral complexity, and may
+explain the rather singular material cultural complexity [ … ]
+during this crucial phase in the origins of modern humans”.
+Erlandson (2001) discusses the fact that coastal adaptations facilitated larger group sizes and reduced mobility. “These larger group
+sizes could add selective pressure on more effective mechanisms
+for mediation of social relationships” (Marean, 2011: 435). Thus,
+according to these ideas, littoral areas such as southern Africa and
+Témara, besides being preferential areas for raw material collection
+to make Nassarius shell beads, could have played a role for their use
+as social symbolic hallmark. Future work on the exploitation of
+coastal resources and coastal occupations in North Africa, especially
+at Témara, will obviously reﬁne the understanding of the cultural
+context in which particular Upper Pleistocene innovations
+emerged, as it is the case for the production of Nassarius beads,
+tracing symbolic behaviors, which could be local both in time and
+in space (in speciﬁc regions with Mediterranean-type environment) (Cowling and Campbell, 1980; Mooney, 1988; Cowling et al.,
+1996).
+Conclusion
+El Harhoura 2 and El Mnasra caves present long-term stratiﬁed
+sequences, covering the whole Upper Pleistocene and Holocene
+periods, allowing us to assess the timing of alternating human/nonhuman predator occupations, as well as the inﬂuence of climate
+change. Taphonomic analyses of faunal remains result in the
+identiﬁcation of the agents responsible for the accumulations and
+large faunal modiﬁcations. In layers 2, 3 and 4A of EH2 Cave and the
+studied part of layer 3 (¼ unit 4) of EM Cave, the taphonomic study
+seems to indicate that non-human predators seem to be the main
+agents for modiﬁcation/accumulation of large faunas, mainly made
+up of gazelles. These results, associated with low densities of lithic
+industries at EH2 Cave (Nespoulet and El Hajraoui, 2012a) show
+that humans occupied the caves, but probably in a non-intensive
+way. The presence of a burial in layer 2 of EH2 Cave evidences a
+
+138
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+change of use of the cave by the Iberomaurusian populations, with a
+sepulchral purpose.
+At EM, humans are primarily responsible for the faunal accumulation in layers 5e7. Numerous in situ activities were practiced
+on the site (butchery, use of ﬁre, stone tools, mollusk shells, Nassarius sp., and pigments) (Nespoulet et al., 2008a,b; Debénath and
+El Hajraoui, 2012; El Hajraoui et al., 2012a,d,e), which conﬁrm
+relatively intense human occupations. Even in layer 8 of EH2 Cave,
+in which only a small surface has been excavated, there is a large
+amount of evidence (such as cut marks more frequent than carnivore marks, burnt bones, numerous mollusk shells and four Nassarius sp.) for more intensive human occupation (Nespoulet et al.,
+2008a,b; Campmas, 2012a; El Hajraoui et al., 2012a; Nespoulet
+and El Hajraoui, 2012a; Nouet et al., In progress).
+The location of the Témara area near the shore during periods of
+high sea level could have played a role in these occupations. During
+OIS 5c, humans occupied these caves intensively, certainly in correlation with high sea levels, perhaps in order to exploit shellﬁsh,
+mainly mollusks (abundant in these layers). During periods of
+climate degradation (OIS 4, 3 and 2), the caves are located further
+inland and non-human predators seem to have been at the origin of
+large fauna accumulations/modiﬁcations, mainly composed of
+gazelles. Humans do not appear to have occupied the sites in an
+intensive manner at this period. Throughout OIS 2, despite the
+cultural change and sepulchral use of the EH2 cavity by Iberomaurusian populations (Oujaa and Lacombe, 2012), carnivores are
+mainly responsible for the faunal accumulation.
+The AMH/non-human predator relationships in cave occupations are complex. In spite of the limited extension of excavations in
+several layers, the timing and causes of the alternating human/nonhuman predator occupations and the abandonment of caves by
+humans have been clariﬁed at Témara, taking account of climate
+oscillations. During OIS 5 in this area, as in other parts of Africa,
+AMH exploited coastal environments and this period seems to have
+played an important role for the dispersal of AMH. Future work on
+intermediate periods between OIS 5 and the end of OIS 4, in other
+parts of the caves and other faunal series, will continue to reﬁne
+this global model of occupation.
+Acknowledgments
+This research was funded by the ‘Agence Universitaire de la
+Francophonie’, ‘L’Oréal-France/UNESCO’ foundation and the ANR09-PEXT-004 MOHMIE Project (Coordinator Christiane Denys).
+Particular thanks to the PACEA laboratory (CNRS-UMR 5199) and its
+directors, Bruno Maureille, Catherine Ferrier and Francesco d’Errico. We are grateful to the scientiﬁc team of the El HarhouraTémara mission, especially Larbi Boudad, Bouchra Bougariane,
+res, Iz Eddine El
+Driss Chahid, André Debénath, Christophe Falgue
+Amrani El Hassani, Kamal El Hammouti, Abdelaziz El Idrissi, Zenobia Jacobs, Nouha Janati-Idrissi, Jean-Paul Lacombe, Matthieu
+Lebon, Vincent Lebreton, Arnaud Lenoble, Laurent Marquer, André
+Morala, Brahim Ouchaou, Aïcha Oujaa and all of the other excavators, especially Sylvain Grosﬁlley. This archaeological mission was
+conducted under the administrative supervision of the ‘Institut
+National des Sciences de l’Archéologie et du Patrimoine’ (INSAP,
+Rabat, Morocco), which we thank, especially its Director, Professor
+Aomar Akerraz. We also wish to acknowledge ﬁnancial support of
+re des Affaires Etrange
+res et
+the mission from the ‘Ministe
+re de la Culture’ (Maroc).
+Européennes’ (France) and the ‘Ministe
+Particular thanks to Arnaud Lenoble for on-site discussions concerning the stratigraphy, deposits and his lithostratigraphy of El
+Mnasra. Thanks also to Véronique Laroulandie for her proofreading
+and advice, to the three anonymous reviewers and to Louise Byrne
+and Amy Jeffrey for correcting the English manuscript.
+
+References
+Abbate, E., Sagri, M., 2012. Early to Middle Pleistocene Homo dispersals from Africa
+to Eurasia: Geological, climate and environmental constraints. Quatern. Int. 267,
+3e19.
+Abe, Y., Marean, C.W., Nilssen, P.J., Assefa, Z., Stone, E.C., 2002. The analysis of
+cutmarks on archaeofauna: a review and critique of quantiﬁcation procedures
+and a new image-analysis GIS approach. Am. Antiq. 67, 643e663.
+^ts co
+^ tiers Quaternaires au Sud de
+Akil, M., 1985. Aspect sédimentologique des dépo
+Rabat. Bull. Sci. Terre. 1, 9e17.
+Amani, F., 1991. La faune du gisement 
+a Hominidés du Djebel Irhoud, contribution
+de l'étude de la chronologie et de l'environnement du Quaternaire marocain.
+Ph.D. Dissertation, Mohammed V University, Rabat.
+Amani, F., Geraads, D., 1993. Le gisement moustérien du Djebel Irhoud, Maroc:
+précisions sur la faune et la biochronologie, et description d'un nouveau reste
+humain. C. R. Acad. Sci. Paris II 316, 847e852.
+Amani, F., Geraads, D., 1998. Le gisement moustérien de Djebel Irhoud, Maroc:
+Précisions sur la faune et la paléoécologie. Bull. Archéol. Marocaine XVIII, 11e17.
+Amani, F., Bougariane, B., Stoetzel, E., 2012a. Partie 3. Grotte d’El Mnasra : Chapitre
+XVI. Faunes et Paléoenvironnements. In: El Hajraoui, A.M., Nespoulet, R.,
+Debénath, A., Dibble, H. (Eds.), Préhistoire de la région de Rabat-Témara, Villes
+re de la
+et Sites Archéologiques du Maroc, vol. III. Royaume du Maroc, Ministe
+culture, Institut National des Sciences de l'Archéologie et du Patrimoine, Rabat,
+pp. 110e117.
+Amani, F., Reed, K., Hallett-Desguez, E., Bougariane, B., Reed, D., 2012b. Partie 4.
+Grotte des Contrebandiers: Chapitre XXIX. Faunes et Paléoenvironnements. In:
+El Hajraoui, A.M., Nespoulet, R., Debénath, A., Dibble, H. (Eds.), Préhistoire de la
+région de Rabat-Témara, Villes et Sites Archéologiques du Maroc, vol. III. Royre de la culture, Institut National des Sciences de
+aume du Maroc, Ministe
+l'Archéologie et du Patrimoine, Rabat, pp. 211e222.
+Aoudia-Chouarki, L., 2013. Pratiques funéraires complexes : réévaluation archéoanthropologique des contextes Ibéromaurusiens et Capsiens (Paléolithique
+supérieur et Epipaléolithique, Afrique du Nord-Ouest). Ph.D. Dissertation,
+Bordeaux 1 University.
+Aouraghe, H., 2000. Les carnivores fossiles d'El Harhoura 1, Témara, Maroc.
+L'anthropologie 104, 147e171.
+ne supérieur du
+Aouraghe, H., 2001. Contribution 
+a la connaissance du Pléistoce
+Maroc : Les vertébrés d'El Harhoura (Témara). Ph.D. Dissertation, Mohammed
+er
+1 University, Oujda.
+res au
+Aouraghe, H., 2006a. L'impact des changements climatiques sur les mammife
+Maghreb au cours de la Préhistoire. In: Descamps, C., Camara, A. (Eds.), Senegalia, Etude sur le Patrimoine ouest-africain. Sepia, Paris, pp. 277e284.
+Aouraghe, H., 2006b. Histoire du peuplement paléolithique de l'Afrique du Nord et
+dynamique des interactions entre l'homme et son environnement. C. R. Palevol
+5, 237e242.
+res fossiles du Maroc. Mém. Soc. Sci. Nat. Maroc.
+Arambourg, C., 1938. Mammife
+XLVI, 0e92.
+ne supérieur
+Arambourg, C., 1957. Observations sur les gazelles fossiles du Pléistoce
+de l'Afrique du Nord. Bull. Soc. Hist. Nat. Afr. Nord 1e2, 49e75.
+Assefa, Z., 2006a. Dentitions of East African ungulates: Digital Archive. Smithsonian
+Institution - NMNH (Human Origins and Archaeobiology). http://www.ripley.si.
+edu/hop/dentition/default.htm.
+Assefa, Z., 2006b. Faunal remains from Porc-Epic: Paleoecological and zooarchaeological investigations from a Middle Stone Age site in southeastern Ethiopia.
+J. Hum. Evol. 51, 50e75.
+Attard, R.I., Reumer, J.W.F., 2009. Taphonomic reinterpretation of a bone sample of
+endemic Pleistocene deer from Crete (Greece): osteoporosis versus regurgitation. Palaeodiversity 2, 379e385.
+Aumassip, G., 2004. Préhistoire du Sahara et de ses abords. Maison et Larose, Paris.
+Avery, G., Halkett, G., Orton, J., Steele, T., Tusenius, M., Klein, R., 2008. The Ysterfontein 1 Middle Stone Age rock shelter and the evolution of coastal foraging.
+S. Afr. Archaeol. Soc. Goodwin Ser. 10, 66e89.
+Bailey, G.N., Flemming, N.C., 2008. Archaeology of the continental shelf: Marine
+resources, submerged landscapes and underwater archaeology. Quatern. Sci.
+Rev. 27, 2153e2165.
+ne au Maroc.
+Ballouche, A., 1986. Paléoenvironnements de l’homme fossile Holoce
+Apports de la palynologie. Ph.D. Dissertation, Université Bordeaux 1.
+Ballouche, A., Marinval, P., 2003. Données palynologiques et carpologiques sur la
+domestication des plantes et l’agriculture dans le Néolithique ancien du Maroc
+septentrional (site de Kaf Taht El-Ghar). Revue d’Archéométrie 27, 49e54.
+Balter, M., 2011. Was North Africa, the launch pad for modern human migrations?
+Science 331, 20e23.
+res domestiques: Tome 1er
+Barone, R., 1999. Anatomie comparée des mammife
+ostéologie. Vigot, Paris.
+Barton, N., d'Errico, F., 2012. North African origins of symbolically mediated
+behaviour and the Aterian. In: Elias, S., Van Der Meer, J.J.M. (Eds.), Origins of
+Human Innovation and Creativity, Dev. Quatern. Sci., vol. 16, pp. 23e34.
+Barton, R.N.E., Bouzouggar, A., Collcutt, S.N., Gale, R., Higham, T.F.G., Humphrey, L.T.,
+Parﬁtt, S., Rhodes, E., Stringer, C.B., Malek, F., 2005. The late Upper Palaeolithic
+occupation of the Last Glacial Maximum. Afr. Archaeol. Rev. 22, 77e98.
+Barton, R.N.E., Bouzouggar, A., Bronk-Ramsey, C., Collcutt, S., Higham, T.F.G.,
+Humphrey, L.T., Parﬁtt, S., Rhodes, E.J., Schwenninger, J.-L., Stringer, C.,
+Turner, E., Ward, S., 2007. Abrupt climate change and chronology of the Upper
+Palaeolithic in northern and eastern Morocco. In: Bar Yosef, O., Mellars, P.A.,
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+Stringer, C.B. (Eds.), Rethinking the Human Revolution: New Behavioural and
+Biological Perspectives on the Origins and Dispersal of Modern Humans.
+McDonald Institute for Archaeological Research, Cambridge, pp. 177e186.
+Barton, R.N.E., Bouzouggar, A., Collcutt, S.N., Schewenninger, J.-L., Clark-Balzan, G.,
+2009. OSL dating of the Aterian levels at Dar es-Soltan I (Rabat, Maroc) and
+implications for the dispersal of modern Homo sapiens. Quatern. Sci. Rev. 28,
+1914e1931.
+Barton, R.N.E., Bouzouggar, A., Hogue, J.T., Lee, S., Collcutt, S.N., Ditchﬁeld, P., 2013.
+Origins of the Iberomaurusian in NW Africa: New AMS radiocarbon dating of
+the Middle and Later Stone Age deposits at Taforalt Cave, Morocco. J. Hum. Evol.
+65, 266e281.
+Bartram, L.E., 1993. An ethnoarchaeological Analysis of Kua San (Botswana) bone
+food refuse. Ph.D. Dissertation, Wisconsin University.
+nes du Lussacois (Lussac-lesBeauval, C., Morin, E., 2010. Les repaires d’hye
+^teaux, Vienne, France). Apport des sites des Plumettes et des Rochers-deCha
+Villeneuve. In: Buisson-Catil, J., Primault, J. (Eds.), Préhistoire entre Vienne et
+Charente, Hommes et sociétés du Paléolithique, Mémoire XXXVIII. Association
+des publications chauvinoises, Chauvigny, pp. 175e189.
+Belcastro, M.G., Condemi, S., Mariotti, V., 2010. Funerary practices of the Iberomaurusian population of Taforalt (Tafoughalt, Morocco, 11e12,000 BP): the
+case of Grave XII. J. Hum. Evol. 58, 522e532.
+Biberson, P., 1961. Le cadre paléogéographique de la Préhistoire marocaine atlantique, 16. Publication du Service des Antiquités du Maroc, p. 235.
+Binford, L.R., 1978. Numamiut, Ethnoarchaeology. Academic Press, New York.
+Binford, L.R., 1981. Bones, Ancient Men and Modern Myths. Academic Press, New
+York.
+Blumenschine, R., 1988. An experimental model of the timing of hominid and
+carnivore inﬂuence on archaeological bone assemblages. J. Archaeol. Sci. 15,
+483e502.
+Blumenschine, R., 1995. Percussion marks, tooth marks, and experimental determinations of the timing of hominid and carnivore access to long bones at FLK
+Zinjanthropus, Olduvai Gorge, Tanzania. J. Hum. Evol. 29, 21e51.
+Boivin, N., Fuller, D.Q., Dennell, R., Allaby, R., Petraglia, M.D., 2013. Human dispersal
+across diverse environments of Asia during the Upper Pleistocene. Quatern. Int.
+300, 32e47.
+ne terminal-Holoce
+ne de quelques
+Bougariane, B., 2013. Les Vertébrés du Pléistoce
+sites marocains: Paléontologie, Taphonomie et Archéozoologie. Ph.D. Dissertas.
+tion, Moulay Ismaïl University, Mekne
+Bougariane, B., Zourhi, S., Ouchaou, B., Oujaa, A., Boudad, L., 2010. Large mammals
+from the Upper Pleistocene at Tamaris I “Grotte des gazelles” (Casablanca,
+Morocco): paleoecological and biochronological implications. Hist. Biol. 22,
+295e302.
+Bougariane, B., Zourhi, S., Ouchaou, B., Oujaa, A., 2012. Description et position
+systématique du Grand Canidé de Tamaris I (Casablanca, Maroc). Quaternaire
+23, 155e162.
+res premie
+res, processus de fabrication et gestion des
+Bouzouggar, A., 1997. Matie
+supports d'outils dans la séquence atérienne de la grotte des Contrebandiers 
+a
+Témara. Ph.D. Dissertation, Bordeaux 1 University.
+Bouzouggar, A., Kozlowski, J.K., Otte, M., 2002. Etude des ensembles lithiques
+ Tanger (Maroc). L'anthropologie 106, 207e248.
+atériens de la grotte d'El Aliya a
+Bouzouggar, A., Barton, R.N.E., Vanhaeren, M., d'Errico, F., Collcutt, S.N.,
+Higham, T.F.G., Hodge, E., Parﬁtt, S., Rhodes, E., Schwenninger, J.L., Stringer, C.B.,
+Turner, E., Ward, S., Moutmir, A., Stambouli, A., 2007. 82,000-year old shell
+beads from North Africa and implications for the origins of modern human
+behavior. Proc. Natl. Acad. Sci. 104, 9964e9969.
+Bouzouggar, A., Barton, R.N.E., Blockley, S., Bronk-Ramsey, C., Collcutt, S.N., Gale, R.,
+Higham, T.F.G., Humphrey, L.T., Parﬁtt, S., Turner, E., Ward, S., 2008. Reevaluating the age of the Iberomaurusian in Morocco. Afr. Archaeol. Rev. 25, 3e19.
+Bouzouggar, A., Collina-Girard, J., Cravinho, S., Fernandez, P., Gallin, A., 2010. Prospections et sondages sur les littoraux oriental et sud-atlantique du Maroc. Les
+Nouvelles de l’archéologie 120e121, 110e116.
+Brain, C.K., 1981. The Hunters or the Hunted? An Introduction to African Cave
+Taphonomy. University of Chicago Press, Chicago.
+Brugal, J.-P., Fosse, P., Guadelli, J.-L., 1997. Comparative study of bone assemblages
+ne Hyenids. In: Hannus, L.A., Rossum, L.,
+made by recent and Pleistoce
+Winham, P. (Eds.), Proceedings of the 1993 bone modiﬁcation conference, Hot
+Strings, South Dakota, Hot Springs (1993). Archeology Laboratory, Augustana
+College, Sioux Falls, pp. 158e187.
+Bruggemann, J.H., Bufﬂer, R.T., Guillaume, M.M.M., Walter, R.C., von Cosel, R.,
+Ghebretensae, B.N., Berhe, S.M., 2004. Stratigraphy, palaeoenvironments and
+model for the deposition of the Abdur Reef Limestone: context for an important
+archaeological site from the last interglacial on the Red Sea coast of Eritrea.
+Palaeogeogr. Palaeoclimatol. Palaeoecol. 203, 179e206.
+Brun, A., 1989. Micoﬂores et paléovégétations en Afrique du Nord depuis 30 000
+ans. Bull. Soc. Géol. Fr. 1, 25e33.
+ne supérieur et 
+Brun, A., 1991. Réﬂexions sur les Pluviaux et Arides au Pléistoce
+a
+ne en Tunisie. In: Ballouche, A., Malley, J. (Eds.), Palaeoecology of Africa,
+l’Holoce
+vol. 22, pp. 157e183.
+Campmas, E., 2012a. Caractérisation de l'occupation des sites de la région de
+ne supérieur et nouvelles données sur la subTémara (Maroc) au Pléistoce
+sistance des Hommes du Paléolithique moyen d'Afrique du Nord: exemples des
+approches taphonomiques et archéozoologiques menées sur les faunes d'El
+Harhoura 2 et d'El Mnasra. Ph.D. Dissertation, Bordeaux 1 University.
+Campmas, E., 2012b. Partie 2. La grotte d'El Harhoura 2-Chapitre IX. Etude taphonomique: Homme ou Carnivores? Exemple de la couche 2 d'El Harhoura 2. In:
+
+139
+
+El Hajraoui, A.M., Nespoulet, R., Debénath, A., Dibble, H. (Eds.), Préhistoire de la
+région de Rabat-Témara, Villes et Sites Archéologiques du Maroc, vol. III. Royre de la culture, Institut National des Sciences de
+aume du Maroc, Ministe
+l'Archéologie et du Patrimoine, Rabat, pp. 70e76.
+Campmas, E., Beauval, C., 2008. Consommation osseuse des carnivores: résultats de
+l'étude de l'exploitation de carcasses de boeufs (Bos taurus) par les loups captifs.
+Annls. Paléontol. 94, 167e186.
+Camps, G., 1974. Préhistoire de l'Afrique du Nord. Edition CNRS, Paris.
+Capaldo, S.D., Blumenschine, R., 1994. A quantitative diagnosis of notches made by
+hammerstone percussion and carnivore gnawing on bovid long bone. Am.
+Antiq. 59, 724e748.
+Carto, S.L., Weaver, A., Hetherington, R., Lam, Y.M., Weibe, E.C., 2009. Out of
+Africa and into ice age: on the role of global climate change in the late
+Pleistocene migration of early modern humans out of Africa. J. Hum. Evol.
+56, 139e151.
+~ eda, I.S., Mulitza, S., Schefu, E., Lopes dos Santos, R.A., Sinninghe Damste, J.S.,
+Castan
+Schouten, S., 2009. Wet phases in the Sahara/Sahel region and human migration patterns in North Africa. Proc. Natl. Acad. Sci. 106, 20159e20163.
+Castel, J.-C., 2004. L'inﬂuence des canidés sur la formation des ensembles archéologiques. Caractérisation des destructions dues aux loups. Rev. Paléobiol. 23,
+675e693.
+Chahid, D., 2011. Etude lithologique et pétrographique du cordon littoral
+post-ouljien de Témara (Maroc). Master Memory Dissertation. Moulay Ismail
+s.
+University, Mekne
+Cheddadi, R., Lamb, H.F., Guiot, J., Van Der Kaars, S., 1998. Holocene climatic change
+in Morocco: a quantitative reconstruction from pollen data. Clim. Dynam. 14,
+883e890.
+Chennaoui, K., 2004. Reconstruction des paléoenvironnements et paléoclimats
+préhistoriques 
+a travers l'étude sédimentologique, complétée par une approche
+che, France)
+pluridisciplinaire. Exemple des sites paléolithiques de Soyons (Arde
+
+et des sites néolithiques du littoral atlantique marocain (région d'Essaouira a
+s.
+Rabat). Post-Ph.D. Dissertation, Moulay Ismail University, Mekne
+Cirac, P., Faugeres, J.-C., Gayet, J., 1979. Résultats préliminaires d'une reconnaissance
+sédimentaire du plateau atlantique marocain. Bull. Inst. Géol. Bassin Aquitain
+25, 69e81.
+Corson, J.-P., 2002. Le Bufﬂe d'Afrique: Biologie, Ethologie et chasse. Gerfaut, Paris.
+Costamagno, S., 1999. Stratégie de Chasse et Fonction des Sites au Magdalénien
+dans le Sud de la France. Ph.D. Dissertation, Bordeaux 1 University.
+mes techniques de
+Costamagno, S., 2012. Des stries de boucherie aux sous-syste
+transformation et de consommation des ressources animales: apport de l’approche expérimentale. Post-Ph.D. Dissertation, Bordeaux 1 University.
+res et culinaires
+Costamagno, S., David, F., 2009. Comparaison des pratiques bouche
+de différents groupes sibériens vivant de la renniculture. Archaeofauna 18,
+9e25.
+Costamagno, S., Beauval, C., Lange-Badré, B., Vandermeersch, B., Mann, A.,
+Maureille, B., 2009. Hommes ou Carnivores? Protocole d'étude d'ensembles
+osseux mixtes: l'exemple du gisement Moustérien des Pradelles (Marillac-LeFranc, Charente). P@lethnologie Varia, 371e400.
+Cowling, R.M., Campbell, B.M., 1980. Convergence vegetation structure in the
+Mediterranean communities of California, Chile and South Africa. Vegetation
+43, 191e197.
+Cowling, R.M., Rundel, P.W., Lamont, B.B., Arroyo, M.K., Arianoutsou, M., 1996. Plant
+diversity in Mediterranean-climate regions. Trends Ecol. Evol. 11, 162e366.
+Cremaschi, M., Di Lernia, S., Garcea, E.A.A., 1998. Some insights on the Aterian
+Libyan Sahara: Chronology, environment, and archaeology. Afr. Archaeol. Rev.
+15, 261e285.
+Cruz-Uribe, K., 1991. Distinguishing hyena from hominid bone accumulations.
+J. Field Archaeol. 18, 467e488.
+res cultures matérielles symboliques. Dossiers
+d'Errico, F., 2012. Les premie
+d'Archéologie 351, 16e21.
+d'Errico, F., Henshilwood, C., Vanhaeran, M., yan Niekerk, K., 2005. Nassarius
+kraussianus shell beads from Blombos Cave: evidence for symbolic behaviour in
+the Middle Stone Age. J. Hum. Evol. 48, 3e24.
+d'Errico, F., Vanhaeran, M., Barton, N., Bouzouggar, A., Mienis, H., Richter, D.,
+Hublin, J.-J., McPherron, S.P., Lozouet, P., 2009. Additional evidence on the use of
+personal ornaments in the Middle Paleolithic of North Africa. Proc. Natl. Acad.
+Sci. 106, 16051e16056.
+le d’évolution chroDaugas, J.P., 2002. Le Néolithique du Maroc: pour un mode
+nologique et culturelle. Bull. Archéol. Marocaine 19, 135e175.
+Daugas, J.P., Raynal, J.P., El Idrissi, A., Ousmoi, M., Fain, J., Miallier, D., Montret, M.,
+se radioSanzelle, S., Pilleyre, T., Occhietti, S., Rhodes, E.-J., 1999. Synthe
+chronométrique concernant la séquence Néolithique au Maroc. In: Actes du
+ Congre
+s International, Lyon, avril 1998,
+colloque “14C et Archéologie”. 3e
+Mémoires de la Soc. Préhist. Fr. tome XXVI, et supplément 1999 de la Revue
+d'Archéométrie, Paris, pp. 349e353.
+Daugas, J.P., El Idrissi, A., Ballouche, A., Marinval, P., Ouchaou, B., 2008. Le Néolithique ancien au Maroc septentrional: données documentaires, sériation
+ses génétiques. Bull. Soc. Préhist. Fr. 105,
+typochronologique et hypothe
+787e812.
+Daujeard, C., Geraads, D., Raynal, J.P., Mohib, A., Gallotti, R., Sbihi-Alaoui, F.Z., 2011.
+Carnivores et/ou hommes dans deux sites moustéro-atériens de Dar Bouazza
+(Casablanca, Maroc): les données de la taphonomie. In: Brugal, J.-P.,
+Gardeisen, A., Zucker, A. (Eds.), Prédateurs dans tous leurs états. Evolution,
+Interactions, Mythes, Symboles, XXXIe rencontres internationales d'archéologie
+et d'histoire d'Antibes. APDCA Ed, Antibes, pp. 351e366.
+
+140
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+Daujeard, C., Geraads, D., Gallotti, A., Mohib, A., Raynal, J.P., 2012. Carcass acquisition
+and consumption by carnivores and humans in Middle Pleistocene sites of
+Casablanca (Morocco). J. Taphonomy 10, 339e363.
+ Dar es Soltane 2.
+Debénath, A., 1976. Rapport sur la campagne de fouille 1967 a
+re d'état chargé des affaires culturelles (Rabat), Forces Armées Royales
+Ministe
+(Rabat), Mission universitaire et culturelle de l'ambassade de France au Maroc
+(Rabat). CNRS, Paris unpublished.
+Debénath, A., 1977e1978. Le gisement préhistorique de Dar es Soltane. Champ de
+tir d’El Menzeh 
+a Rabat (Maroc). Note préliminaire. I. Le site. Bull. Archéol.
+Marocaine XI, 9e23.
+ El
+Debénath, A., 1979e1980. Découverte d'une mandibule humaine atérienne a
+Harhoura (province de Rabat), Atérien. Bull. Archéol. Marocaine XII, 12.
+Debénath, A., Raynal, J.P., Roche, J., Texier, J.-P., Ferembach, D., 1986. Stratigraphie,
+habitat, typologie et devenir de l'Atérien marocain: données récentes.
+L'anthropologie 2, 233e246.
+Debénath, A., 1992. Hommes et cultures matérielles de l'Atérien marocain.
+L'anthropologie 96, 711e720.
+Debénath, A., 2000. Le peuplement Préhistorique du Maroc: données récentes et
+mes. L'anthropologie 104, 131e145.
+proble
+Debénath, A., El Hajraoui, A.M., 2012. Partie 3. Grotte d’El Mnasra: Chapitre XXII.
+L’industrie lithique. In: El Hajraoui, A.M., Nespoulet, R., Debénath, A.,
+Dibble, H. (Eds.), Préhistoire de la région de Rabat-Témara, Villes et Sites
+re de la culture,
+Archéologiques du Maroc, vol. III. Royaume du Maroc, Ministe
+Institut National des Sciences de l'Archéologie et du Patrimoine, Rabat,
+pp. 165e173.
+Delagnes, A., Crassard, R., Bertran, P., Sitzia, L., 2013. Cultural and human dynamics
+in southern Arabia at the end of the Middle Palaeolithic. Quatern. Int. 300,
+234e243.
+deMenocal, P.B., 1995. Plio-Pleistocene African climate. Science 270, 53e59.
+deMenocal, P.B., 2004. African climate change and faunal evolution during the
+Pliocene-Pleistocene. Earth Planet. Sci. Lett. 220, 324.
+Derricourt, R., 2005. Getting “out of Africa”: sea crossings, land crossings and culture in the hominin migrations. J. World Prehist. 19, 119e132.
+Despard-Estes, R., Otte, D., Wilson, E.O., 1991. The Behavior Guide of African
+Mammals, Including Hoofed Mammals, Carnivores, Primates. University of
+California Press, Los Angeles.
+Dibble, H., Aldeias, V., Alvarez-Fernandez, E., Blackwell, B.A.B., Hallett-Desguez, E.,
+Jacobs, Z., Goldberg, P., Lin, C.S., Morala, A., Meyer, M.C., Olszewski, D.I., Reed, K.,
+Reed, D., Rezek, Z., Richter, D., Roberts, R.G., Sandgathe, D., Schurmans, U.,
+Skinner, A.R., Steele, T., El Hajraoui, A.M., 2012. New excavations at the site of
+Contrebandiers Cave, Morocco. PaleoAnthropology 145e201.
+Dibble, H.L., Aldeias, V., Jacobs, Z., Olszewski, D.I., Rezek, Z., Lin, S.C., Alvarezndez, E., Barshay-Szmidt, C.C., Hallett-Desguez, E., Reed, D., Reed, K.,
+Ferna
+Richter, D., Steele, T.E., Skinner, A., Blackwell, B., Doronicheva, E.,
+El-Hajraoui, M.A., 2013. On the industrial attributions of the Aterian and
+Mousterian of the Maghreb. J. Hum. Evol. 64, 194e210.
+nes face aux recompositions des communautés
+Discamps, E., 2011. Hommes et hye
+
+d’Ongulés (MIS 5-3): Eléments
+pour un cadre paléoécologique des sociétés du
+Paléolithique moyen et supérieur ancien d’Europe de l’Ouest. Ph.D. Dissertation,
+Bordeaux 1 University.
+Dominguez-Rodrigo, M., 1997a. Testing meat-eating in early hominids: an analysis
+of butchery marks on deﬂeshed carcases. Hum. Evol. 12, 169e182.
+Dominguez-Rodrigo, M., 1997b. Meat-eating by early hominids at the FLK 22 Zinjanthropus site, Olduvai Gorge (Tanzania): an experimental approach using cut
+mark data. J. Hum. Evol. 33, 669e690.
+Dominguez-Rodrigo, M., Yravedra, J., 2009. Why are cut mark frequencies in
+archaeofaunal assemblages so variable? A multivariate analysis. J. Archaeol. Sci.
+36, 884e894.
+Douka, K., Jacobs, Z., Lane, C., Grün, R., Farr, L., Hunt, C., Inglis, R.H., Reynolds, T.,
+Albert, P., Aubert, M., Cullen, V., Hill, E., Kinsley, L., Roberts, R.G.,
+Tomlinson, E.M., Wulf, S., Barker, G., 2014. The chronostratigraphy of the Haua
+Fteah cave (Cyrenaica, northeast Libya). J. Hum. Evol. 66, 39e63.
+Drake, N.A., Breeze, P., Parker, A., 2013. Palaeoclimate in the Saharan and Arabian
+Deserts during the Middle Palaeolithic and the potential for hominin dispersals.
+Quatern. Int. 300, 48e61.
+Dupont, L.M., Hooghiemstra, H., 1989. The Saharan-Sahelian boundary during the
+Brunhes chron. Acta Bot. Neerl. 38, 405e415.
+Egeland, C.P., 2003. Carcass processing intensity and cutmark creation: An experimental approach. Plains Anthropol. 48, 39e51.
+Egeland, A.G., Egeland, C.P., Bunn, H.T., 2008. Taphonomic analysis of modern
+spotted hyena (Crocuta crocuta) den from Nairobi, Kenya. J. Taphonomy 6, 25.
+Eisenmann, V., 1981. Etude des dents jugales inférieures des Equus (Mammalia,
+Perissodactyla) actuels et fossiles. Palaeovertebrata 10, 127e226.
+Eisenmann, V., Alberdi, M.T., De Guili, C., Staesche, U., 1988. Studying fossil horses.
+In: Woodburne, M., Sondaar, P. (Eds.), New York International Hipparion Conference, Methodology, vol. I, pp. 1e71.
+El Hajraoui, A.M., 1994. L'industrie osseuse atérienne de la grotte d'El Mnasra.
+Préhistoire Anthropologie Méditerranéennes 3, 91e94.
+El Hajraoui, M.A., Nespoulet, R., 2002e2003. Mission Archéologique El Harhoura II.
+re de la Culture (Rabat), Ministe
+re des AfProgramme de coopération, Ministe
+res et Européennes (Paris) unpublished.
+faires Etrange
+El Hajraoui, M.A., Debénath, A., 2012a. Partie 3. Grotte d’El Mnasra: Chapitre XV.
+Contexte géologique et remplissage sédimentaire. In: El Hajraoui, A.M.,
+Nespoulet, R., Debénath, A., Dibble, H. (Eds.), Préhistoire de la région de RabatTémara, Villes et Sites Archéologiques du Maroc, vol. III. Royaume du Maroc,
+
+re de la culture, Institut National des Sciences de l'Archéologie et du
+Ministe
+Patrimoine, Rabat, pp. 108e109.
+El Hajraoui, M.A., Debénath, A., 2012b. Partie 3. Grotte d’El Mnasra: Chapitre XXIV.
+L’industrie osseuse. In: El Hajraoui, A.M., Nespoulet, R., Debénath, A., Dibble, H.
+(Eds.), Préhistoire de la région de Rabat-Témara, Villes et Sites Archéologiques
+re de la culture, Institut National
+du Maroc, vol. III. Royaume du Maroc, Ministe
+des Sciences de l'Archéologie et du Patrimoine, Rabat, pp. 179e188.
+El Hajraoui, M.A., Oudouche, H., Nespoulet, R., 2012a. Partie 3. Grotte d’El Mnasra:
+ Témara. In: El
+Chapitre XXVI. Etude des coquilles perforées découvertes a
+Hajraoui, A.M., Nespoulet, R., Debénath, A., Dibble, H. (Eds.), Préhistoire de la
+région de Rabat-Témara, Villes et Sites Archéologiques du Maroc, vol. III. Royre de la culture, Institut National des Sciences de
+aume du Maroc, Ministe
+l'Archéologie et du Patrimoine, Rabat, pp. 191e199.
+El Hajraoui, A.M., Nespoulet, R., Debénath, A., Dibble, H., 2012b. Préhistoire de la
+région de Rabat-Témara. In: Villes et Sites Archéologiques du Maroc, vol. III.
+re de la culture, Institut National des Sciences de
+Royaume du Maroc, Ministe
+l'Archéologie et du Patrimoine, Rabat.
+El Hajraoui, M.A., Debénath, A., Nespoulet, R., 2012c. Partie 3. Grotte d’El Mnasra:
+Chapitre XIV. Présentation du site et archéostratigraphie. In: El Hajraoui, A.M.,
+Nespoulet, R., Debénath, A., Dibble, H. (Eds.), Préhistoire de la région de RabatTémara, Villes et Sites Archéologiques du Maroc, vol. III. Royaume du Maroc,
+re de la culture, Institut National des Sciences de l'Archéologie et du
+Ministe
+Patrimoine, Rabat, pp. 105e107.
+El Hajraoui, M.A., Debénath, A., Nespoulet, R., 2012d. Partie 3. Grotte d’El Mnasra:
+Chapitre XXIII. Foyers et structure anthropique. In: El Hajraoui, A.M.,
+Nespoulet, R., Debénath, A., Dibble, H. (Eds.), Préhistoire de la région de RabatTémara, Villes et Sites Archéologiques du Maroc, vol. III. Royaume du Maroc,
+re de la culture, Institut National des Sciences de l'Archéologie et du
+Ministe
+Patrimoine, Rabat, pp. 174e178.
+El Hajraoui, M.A., Debénath, A., Nespoulet, R., 2012e. Partie 3. Grotte d’El Mnasra:
+Chapitre XXV. L’hématite. In: El Hajraoui, A.M., Nespoulet, R., Debénath, A.,
+Dibble, H. (Eds.), Préhistoire de la région de Rabat-Témara, Villes et Sites Archére de la culture, Institut
+ologiques du Maroc, vol. III. Royaume du Maroc, Ministe
+National des Sciences de l'Archéologie et du Patrimoine, Rabat, pp. 189e190.
+Erlandson, J.M., 2001. The archaeology of aquatic adaptations: Paradigms for a new
+millennium. J. Archaeol. Res. 9, 287e350.
+Esteban-Nadal, M., 2012. Can archaeozoology and taphonomy contribute to
+knowledge of the feeding habits of the Iberian wolf? J. Archaeol. Sci. 39,
+3208e3216.
+Esteban-Nadal, M., Caceres, I., Fosse, P., 2010. Characterization of a current coprogenic sample originated by Canis lupus as a tool for identifying a taphonomic
+agent. J. Archaeol. Sci. 37, 2959e2970.
+Faith, J.T., 2013. Taphonomic and paleoecological change in the large mammal
+sequence from Boomplaas Cave, Western Cape, South Africa. J. Hum. Evol. 65,
+715e730.
+Faith, J.T., Marean, C.W., Behrensmeyer, A.K., 2007. Carnivore competition, bone
+destruction, and bone density. J. Archaeol. Sci. 34, 1025e2034.
+Ferembach, D., 1976. Les restes humains de la Grotte de Dar-es-Soltane II (Maroc).
+Campagne 1975. Bull. Mém. Soc. Anthropol. Paris 3, 183e193.
+Ferembach, D., 1998. Le cr^
+ane atérien de Témara (Maroc atlantique). Bull. Archéol.
+Marocaine XVIII, 19e66.
+Fisher, E.C., Bar-Matthews, M., Jerardino, A., Marean, C.W., 2010. Middle and Late
+Pleistocene paleoscape modeling along the southern coast of South Africa.
+Quatern. Sci. Rev. 29, 1382e1398.
+ne des Cavernes comme agent d'accumulation des ossements a
+
+Fosse, P., 1994. L'Hye
+Lunel-Viel 1 (Hérault, France): observations préliminaries. In: Patou-Mathis, M.
+(Ed.), Outillage peu élaboré en os et bois de Cervidés, IV. 6e Table Ronde,
+Taphonomie, Bone Modiﬁcation, Paris (septembre, 1991). CEDRAC, pp. 91e96.
+ne des Cavernes.
+Fosse, P., 1997. Variabilité des assemblages osseux créés par l'Hye
+PALEO 9, 15e54.
+Fosse, P., Wajrak, A., Fourvel, J.-B., Madelaine, S., Esteban-Nadal, M., Caceres, I.,
+Brugal, J.-P., Prucca, A., Haynes, G., 2012. Bone modiﬁcation by modern wolf
+(Canis lupus): A taphonomic study from their natural feeding places.
+J. Taphonomy 10, 197e217.
+Fourvel, J.-B., 2012. Hyénidés modernes et fossiles d’Europe et d’Afrique: Taphonomie comparée de leurs assemblages osseux. Ph.D. Dissertation, Toulouse Le
+Mirail University.
+Garcea, E.A.A., 2004. Crossing Deserts and Avoiding Seas: Aterian North AfricanEuropean Relations. J. Anthropo. Res. 60, 27e53.
+Garcea, E.A.A., 2012a. Successes and failures of human dispersals from North Africa.
+Quatern. Int. 270, 119e128.
+Garcea, E.A.A., 2012b. Modern human desert adaptations: a Libyan perspective on
+the Aterian complex. In: Hublin, J.-J., McPherron, S.P. (Eds.), Modern Origins: A
+North African Perspective. Springer, New York, pp. 127e142.
+Génsbøl, B., 1993. Guide des rapaces diurnes: Europe, Afrique du Nord, ProcheOrient. Delachaux et Niestlé, Paris.
+Geraads, D., 2011. A revision of the fossil Canidae (Mammalia) of North-Africa.
+Palaeontology 54, 429e446.
+Grayson, D.K., 1984. Quantitative Zooarchaeology: Topics in the Analysis of
+Archaeological Fauna. Academic Press, New York.
+Groucutt, H.S., Petraglia, M.D., 2012. The prehistory of the Arabian Peninsula:
+Deserts, dispersals, and demography. Evol. Anthropol. 21, 113e125.
+Guilday, J.E., Parmalee, P.W., Tanner, D.P., 1962. Aboriginal butchering techniques at
+the Eschelman Site (36 La 12), Lancaster County, Pennsylvania. Pennsylvania
+Archaeol. 32, 59e83.
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+Hachi, S., 2006. Du comportement symbolique des derniers chasseurs MetchaAfalou d'Afrique du Nord. C. R. Palevol 5, 429e440.
+€hlich, F., Gendron-Badou, A., de Lumley, H., Roubet, C., Abdessadok, S.,
+Hachi, S., Fro
+re minérale plastique cuite
+2002. Figurines du Paléolithique supérieur en matie
+res analyses par spectroscopie
+d'Afalou Bou Rhumel (Babors, Algérie). Premie
+d'absorption Infrarouge. L'anthropologie 106, 57e97.
+res
+Hadjouis, D., 1994. Taphonomie des restes du gisement Atérien des Phacoche
+(Algérie). In: Patou-Mathis, M. (Ed.), Outillage peu élaboré en os et en bois de
+Cervidés IV: taphonomie/bone modiﬁcations. CEDRAC, pp. 183e191.
+nes dans les sites préhistoriques du Maghreb et étude de
+Hadjouis, D., 2002. Les hye
+ne tachetée au gisement atérien des Phacoche
+res. In: Horwitz, L.K.,
+cas de la hye
+Fosse, P. (Eds.), Hyenids in the Circum-Mediterranean. A Taphonomic Perspective. Aix-en-Provence (Submitted).
+Hadjouis, D., 2003. La faune quaternaire d'Algérie, des renouvellements constants,
+Dossiers d'Archéologie. Préhistoire de l'Algérie 282, 42e61.
+Halkett, D., Hart, T., Yates, T., Volman, P., Parkington, J.E., Orton, J., Klein, R.G., CruzUribe, K., Avery, G., 2003. First excavation of intact Stone Age layers at Ysterfontein, Western Cape Province, South Africa: implications for Middle Stone
+Age ecology. J. Archaeol. Sci. 30, 955e971.
+Haynes, G., 1983. Frequencies of spiral and green-bone fractures on ungulate limb in
+modern surface assemblages. Am. Antiq. 48, 102e114.
+Helmer, G., Rocheteau, M., 1994. Atlas du squelette appendiculaire des principaux
+nes de petits ruminants du Nord de la méditerranée et du Prochegenres holoce
+re partie: La scapula et
+Orient (Capra, Ovis, Pupicapra, Capreolus, Gazella). Premie
+l'humérus. In: Desse, J., Desse-Berset, N. (Eds.), Fiches d'ostéologie animale pour
+res. APDCA Ed, Antibes, pp. 2e21.
+l'archéologie, série B: mes Mammife
+Heinzel, H., Fitter, R., Parslow, J., 2004. Guide Heinzel des oiseaux d'Europe,
+d'Afrique du Nord et du Moyen-Orient. Delachaux et Niestlé, Paris.
+Henshilwood, C.S., Sealy, J.C., Yates, R., Cruz-Uribe, K., Goldberg, P., Grine, F.E.,
+Klein, R.G., Poggenpoel, C., Van Niekerk, K., Watts, I., 2001. Blombos Cave,
+Southern Cape, South Africa: Preliminary report on the 1992e1999 excavations
+of Middle Stone Age levels. J. Archaeol. Sci. 28, 421e448.
+Hillson, S., 1992. Mammal Bones and Teeth. An Introductory Guide to Methods of
+Identiﬁcation. University College London, London.
+Hillson, S., 2005. Teeth. Cambridge University of Cambridge, Cambridge.
+Hooghiemstra, H., 2004. Late Quaternary marine palynology in the NW African
+setting: biome migrations, trade wind history, and climate change. In: Rapid
+and catastrophic environmental changes in the Holocene and human response.
+First joint meeting of IGCP 490 and ICSU Environmental catastrophes in
+Mauritania, the desert and the coast (January, 2004).
+Hooghiemstra, H., Agwu, C.O.C., 1988. Changes in the vegetation and trade winds in
+equatorial Northwest Africa 140,000e70,000 yr BP, as deduced from marine
+pollen records. Palaeogeogr. Palaeoclimatol. Palaeoecol. 66, 173e213.
+Hooghiemstra, H., Stalling, H., Agwu, C.O.C., Dupont, L.M., 1992. Vegetational and
+climatic changes at the northern fringe of the Sahara 250,000e5000 BP: evidence from four marine pollen records between Portugal and the Canary
+Islands. Rev. Palaeobot. Palynol. 74, 1e53.
+Hublin, J.-J., 1991. L'émergence des Homo sapiens archaïques: Afrique du Nord-ouest
+et Europe orientale. Ph.D. Dissertation, Bordeaux 1 University.
+Hublin, J.-J., 2000. Modern-non modern hominid interactions: a Mediterranean
+perspective. In: Bar Yosef, O., Pilbeam, D. (Eds.), The Geography of Neanderthals
+and Modern Humans in Europe and Greater Mediterranean. Harvard University
+Press, Cambridge, pp. 157e182.
+Humphrey, L.T., Bello, S.M., Turner, E., Bouzouggar, A., Barton, N., 2012. Iberomaurusian funerary behaviour: Evidence from Grotte des Pigeons, Taforalt,
+Morocco. J. Hum. Evol. 62, 261e273.
+Jacobs, Z., Roberts, R.G., 2012a. Partie 2. Grotte d’El Harhoura 2 : Chapitre III.
+Datations par OSL avec la technique du grain unique. In: El Hajraoui, A.M.,
+Nespoulet, R., Debénath, A., Dibble, H. (Eds.), Préhistoire de la région de RabatTémara, Villes et Sites Archéologiques du Maroc, vol. III. Royaume du Maroc,
+re de la culture, Institut National des Sciences de l'Archéologie et du
+Ministe
+Patrimoine, Rabat, pp. 52e54.
+Jacobs, Z., Roberts, R.G., 2012b. Partie 3. Grotte d’El Mnasra : Chapitre XVII. Datation
+par OSL avec la technique du grain unique. In: El Hajraoui, A.M., Nespoulet, R.,
+Debénath, A., Dibble, H. (Eds.), Préhistoire de la région de Rabat-Témara, Villes
+re de la
+et Sites Archéologiques du Maroc, vol. III. Royaume du Maroc, Ministe
+culture, Institut National des Science de l'Archéologie et du Patrimoine, Rabat,
+pp. 118e121.
+Jacobs, Z., Meyer, M.C., Roberts, R.G., Aldeias, V., Dibble, H., El Hajraoui, M.A., 2011.
+Single-grain OSL dating at La Grotte des Contrebandiers (‘Smugglers’ Cave’),
+Morocco: improved age constraints for the Middle Paleolithic levels. J. Archaeol.
+Sci. 38, 3631e3643.
+Jacobs, Z., Meyer, M.C., Roberts, R.G., 2012a. Partie 4. Grotte des Contrebandiers:
+Chapitre XXXI. Datation OSL avec la technique du grain unique. In: El
+Hajraoui, A.M., Nespoulet, R., Debénath, A., Dibble, H. (Eds.), Préhistoire de la
+région de Rabat-Témara, Villes et Sites Archéologiques du Maroc, vol. III. Royre de la culture, Institut National des Sciences de
+aume du Maroc, Ministe
+l'Archéologie et du Patrimoine, Rabat, pp. 228e231.
+Jacobs, Z., Roberts, R.G., Nespoulet, R., El Hajraoui, M.A., Debénath, A., 2012b. Singlegrain OSL chronologies for Middle Palaeolithic deposits at El Mnasra and El
+Harhoura 2, Morocco: Implications for Late Pleistocene human environment
+interactions along the Atlantic coast of northwest Africa. J. Hum. Evol. 62,
+377e394.
+res, C., Haddad, M., Nespoulet, R., El Hajraoui, M.A.,
+Janati-Idrissi, N., Falgue
+Debénath, A., Bellit, L., Bahian, J.J., Michel, P., Garcias, T., Boudad, L., El
+
+141
+
+Hammouti, K., Oujaa, A., 2012a. Datation par ESR-U/Th combinées de dents
+fossiles de la région de Rabat-Témara: Grottes d'El Mnasra et d'El Harhoura 2.
+Quaternaire 23, 25e35.
+res, C., Haddad, M., 2012b. Partie 2. Grotte d’El Harhoura 2:
+Janati-Idrissi, N., Falgue
+Chapitre VII. Datations par ESR-US d’El Harhoura 2 et d’El Mnasra. In: El
+Hajraoui, A.M., Nespoulet, R., Debénath, A., Dibble, H. (Eds.), Préhistoire de la
+région de Rabat-Témara, Villes et Sites Archéologiques du Maroc, vol. III. Royre de la culture, Institut National des Sciences de
+aume du Maroc, Ministe
+l'Archéologie et du Patrimoine, Rabat, pp. 55e58.
+Jerardino, A., Marean, C.W., 2010. Shellﬁsh gathering, marine paleoecology and
+modern human behavior: perspectives from cave PP13B, Pinnacle Point, South
+Africa. J. Hum. Evol. 59, 412e424.
+Joly, F., 1950. Le plateau continental du littoral atlantique du Maroc. Annls. Géogr.
+59, 157e158.
+ de l’utilisation du sol au Maroc. Application
+Joly, F., 1962. Une carte au 1: 1 000 000e
+ la recherché des regions géographiques. Ph.D.
+de la méthode cartographique a
+Dissertation, Paris University.
+Jouzel, J., Hoffmann, G., Parrenin, F., Waelbroeck, C., 2002. Atmospheric oxygen 18
+and sea-level changes. Quatern. Sci. Rev. 21, 307e314.
+Kuhn, B.F., 2011. Hyaenids: Taphonomy and Implications for Palaeoenvironment.
+Cambridge Scholar Publishing, Cambridge.
+Kuhn, B.F., Berger, L.R., Skinner, J.D., 2010. Examining criteria for identifying and
+differentiating fossil faunal assemblages accumulated by hyenas and hominins
+using extant hyenid accumulations. Int. J. Osteoarchaeol. 10, 15e35.
+Lacruz, R., Maude, G., 2005. Bone accumulations at brown hyena (Parachyaena
+brunnea) den sites in the Makgadikgadi Pans, Northern Bostwana: Taphonomic,
+behavioral and palaeoecological implications. J. Taphonomy 3, 43e54.
+Lamb, H.F., Eicher, U., Switsur, V.R., 1988. An 18,000 year record of vegetational,
+lake-level and climatic change from the Middle Atlas, Morocco. J. Biogeogr. 16,
+65e74.
+~ a, J.C., 2012. A Northeastern Saharan perspective on environmental variLarrasoan
+ability in North Africa and its implications for modern human origins. In:
+Hublin, J.J., McPherron, S.P. (Eds.), Modern Origins: A North African Perspective.
+Springer, Dordrecht, pp. 19e34.
+Lavocat, R., 1966. Faunes et ﬂores préhistoriques de l'Europe occidentale. Boubée et
+Cie, Paris.
+Leakey, L.N., Milledge, S.A.H., Leakey, S.M., Edung, J., Haynes, P., Kiptoo, D.K.,
+McGeorge, A., 1999. Diet of striped hyaena in northern Kenya. Afr. J. Ecol. 37,
+314e326.
+Le Houérou, H.N., 1997. Climate, ﬂora and fauna changes in the Sahara over the past
+500 million years. J. Arid Env. 37, 619e647.
+Lenoble, A., 2010. Lithostratigraphie de la grotte d'El Mnasra. Description et
+ses proposées. In: El Hajraoui, A.M., Nespoulet, R. (Eds.), Mission
+hypothe
+archéologique El Harhoura-Témara, Rapport D'Activités 2010. Programme de
+re de la Culture (Rabat), Ministe
+re des Affaires Etrange
+res
+coopération, Ministe
+et Européennes, Paris, pp. 14e15.
+€dter, J., Eiwanger, J., Mikdad, A., Weniger, G.C., 2012. Human occupation of
+Linsta
+Northwest Africa: A review of Middle Palaeolithic to Epipalaeolithic sites in
+Morocco. Quatern. Int. 274, 158e174.
+Lupo, D., O'Connell, J.F., 2002. Cut and tooth mark distributions on large animal
+bones: Ethnoarchaeological data from the Hadza and their implications for
+current ideas about early human carnivory. J. Archaeol. Sci. 29, 85e109.
+Lyman, R.L., 1984. Bone density differential survivorship of fossil classes.
+J. Anthropol. Archaeol. 3, 259e299.
+Lyman, R.L., 1987. Archaeofaunas and butchery studies: a taphonomic perspective.
+Adv. Archaeol. Method Th. 10, 249e337.
+Lyman, R.L., 1992. Prehistoric seal and sea-lion butchering on the southern Northwest Coast. Am. Antiq. 57, 246e261.
+Lyman, R.L., 1994. Quantitative units and terminology in zooarchaeology. Am. Antiq.
+59, 36e71.
+Macchiarelli, R., 2009. From Africa to Asia through Arabia: models, predictions, and
+witnesses of ﬁrst phases of human settlement. In: Suleimenov, O., Iwamoto, W.
+(Eds.), First Great Migrations of Peoples. UNESCO, Paris, pp. 19e25.
+Mallye, J.-B., Costamagno, S., Boudadi-Maligne, M., Prucca, A., Laroulandie, V.,
+Thiébaut, C., Mourre, V., 2012. Dhole (Cuon alpinus) as a bone accumulator and
+new taphonomic agent. The case of the Noisetier Cave (French Pyrenees).
+J. Taphonomy 10, 305e338.
+Marean, C.W., 1998. A critique of the evidence for scavenging by Neanderthals and
+early modern humans: new data from Kobeh Cave (Zargos Mountains, Iran) and
+Die Kelders Cave 1 layer 10 (South Africa). J. Hum. Evol. 35, 111e136.
+Marean, C.W., 2010. Pinnacle Point Cave 13B (Western Cape Province, South Africa)
+in context: The Cape Floral kingdom, shellﬁsh, and modern human origins.
+J. Hum. Evol. 59, 425e443.
+Marean, C.W., 2011. Coastal South Africa and the co-evolution of the modern human
+lineage and the coastal adaptation. In: Bicho, N., Haws, J.A., Davis, L.G. (Eds.),
+Trekking the Shore: Changing Coastlines and the Antiquity of Coastal Settlement. Springer, Dordrecht, pp. 421e441.
+Marean, C.W., Abe, Y., Frey, C.J., Randall, R.C., 2000. Zooarchaeological and taphonomic analysis of Die Kelders Cave 1 layers 10 and 11 Middle Stone Age larger
+mammal fauna. J. Hum. Evol. 38, 197e233.
+Marean, C.W., Bar-Matthews, M., Bernatchez, J., Fisher, E., Goldberg, P.,
+Herries, A.I.R., Jacobs, Z., Jerardino, A., Karkanas, P., Minichillo, T., Nilssen, P.J.,
+Thompson, E., Watts, I., Williams, H.M., 2007. Early human use of marine resources and pigment in South Africa during the Middle Pleistocene. Nature 449,
+905e909.
+
+142
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+
+Mariotti, V., Bonﬁglioli, B., Facchini, F., Condemi, S., Belcastro, M.G., 2009. Funerary
+practices of the Iberomaurusian population of Taforalt (Tafoughalt; Morocco,
+11e12,000 BP): new hypotheses based on a grave by grave skeletal inventory
+and evidence of deliberate human modiﬁcation of the remains. J. Hum. Evol. 56,
+340e354.
+Marra, A.C., Villa, P., Beauval, C., Bonﬁglio, L., Goldberg, P., 2004. Same predator,
+variable prey: taphonomy of two Upper Pleistocene hyena dens in Sicily and SW
+ve 23, 787e801.
+France. Rev. Paléobiol. Gene
+Mellars, P., 2006. Why did modern human populations disperse from Africa ca.
+60,000 years ago? A new model. Proc. Natl. Acad. Sci. 103, 9381e9386.
+Mercier, N., Wengler, L., Valladas, H., Joron, J.-L., Froget, L., Reyss, J.-L., 2007. The
+Rhafas Cave (Morocco): Chronology of the Mousterian and Aterian archaeological occupations and their implications for Quaternary geochronology based
+on luminescence (TL/OSL) age determinations. Quatern. Geochronol. 2,
+309e313.
+s
+Merzoug, S., 2005. Comportement de subsistance des Ibéromaurusiens d'apre
+res de Tamar Hat, Taza 1 et Columata
+l'analyse archéozoologique des mammife
+(Algérie). Ph.D. Dissertation, National Museum of Natural History, Paris.
+Mhammdi, N., Medina, F., Kelletat, D., Ahmamou, M.F., Aloussi, L., 2008. Large
+boulders along the Rabat Coast (Morocco); possible emplacement by the
+November, 1st, 1755 A.D. Tsunami. Science of Tsunami Hazards 27, 17e32.
+ l'étude paléontologique des vertébrés fossiles du
+Michel, P., 1990. Contribution a
+ partir de sites du Maroc Atlantique, central et oriental.
+Quaternaire marocain a
+Ph.D. Dissertation, Muséum National d'Histoire Naturelle, Paris.
+Michel, P., 1992. Pour une meilleure connaissance du quaternaire continental
+marocain: les vertébrés fossiles du Maroc Atlantique, centrale et oriental.
+L'anthropologie 96, 643e656.
+Michel, P., Wengler, L., 1993. Un site paléontologique avec des vestiges archére de Doukkala II (Région de Témara - Maroc atlantique).
+ologiques: la carrie
+PALEO 5, 11e41.
+Michel, P., Campmas, E., Stoetzel, E., Nespoulet, R., El Hajraoui, A.M., 2009. La
+ne d'El Harhoura 2: Données préliminaires. L'anthromacrofaune du Pléistoce
+pologie 113, 282e312.
+Michel, P., Campmas, E., Stoetzel, E., Nespoulet, R., El Hajraoui, A.M., Amani, F., 2010.
+La grande faune du Paléolithique supérieur (niveau 2) et du Paléolithique
+moyen (niveau 3) de la grotte d’El Harhoura 2 (Témara, Maroc): Etude paléontologique, reconstitutions paléoécologiques et paléoclimatiques. Hist. Biol.
+22, 327e340.
+Monchot, H., Aouraghe, H., 2009. Deciphering the taphonomic history of an Upper
+Palaeolithic faunal assemblage from Zouhrah Cave/El Harhoura 1, Morocco.
+Quaternaire 20, 239e253.
+Monchot, H., Mashkour, M., 2010. Hyenas around the city (Kashan, Iran).
+J. Taphonomy 8, 17e32.
+Mooney, H.A., 1988. Lessons from Mediterranean-climate regions. In: Wilson, E.O.
+(Ed.), Biodiversity. National Academy Press, Washington, pp. 157e165.
+Nami, M., 2003. La grotte d'Ifri n'Ammar, Tome 1: l'Ibéromaurusien. Linden Soft,
+Verlagsges.
+Nami, M., Moser, J., 2010. La grotte d'Ifri n'Ammar: Le paléolithique moyen. Kommission fur Archaologie Aubereuropaisher Kulturen, Bonn.
+Nespoulet, R., El Hajraoui, M.A., 2012a. Partie 2. Grotte d’El Harhoura 2 : Chapitre
+XIII. L’industrie lithique Paléolithique. In: El Hajraoui, A.M., Nespoulet, R.,
+Debénath, A., Dibble, H. (Eds.), Préhistoire de la région de Rabat-Témara, Villes
+re de la
+et Sites Archéologiques du Maroc, vol. III. Royaume du Maroc, Ministe
+culture, Institut National des Sciences de l'Archéologie et du Patrimoine, Rabat,
+pp. 91e102.
+Nespoulet, R., El Hajraoui, M.A., 2012b. Partie 2. Grotte d’El Harhoura 2: Chapitre III.
+Présentation du site et archéostratigraphie. In: El Hajraoui, A.M., Nespoulet, R.,
+Debénath, A., Dibble, H. (Eds.), Préhistoire de la région de Rabat-Témara, Villes
+re de la
+et Sites Archéologiques du Maroc, vol. III. Royaume du Maroc, Ministe
+culture, Institut National des Sciences de l'Archéologie et du Patrimoine, Rabat,
+pp. 27e30.
+Nespoulet, R., Debénath, A., El Hajraoui, A.M., Michel, P., Campmas, E., Oujaa, A., Ben
+Cer, A., Amani, F., Stoetzel, E., Boudad, L., 2008a. Le contexte archéologique des
+restes humains Atériens de la région de Témara (Maroc). Apport des fouilles des
+grottes d'El Mnasra et d'El Harhoura 2. In: Aouraghe, H., Haddoumi, H., El
+Hammouti, K. (Eds.), Le Quaternaire marocain dans son contexte Méditerrames Rencontres des Quaternaristes Marocains (RQM4),
+néen. Actes des Quatrie
+Oujda (November 2007). Publication de la faculté des Sciences d'Oujda,
+pp. 356e375.
+Nespoulet, R., El Hajraoui, A.M., Amani, F., Ben-Ncer, A., Debénath, A., El Idriss, A.,
+Lacombe, J.P., Michel, P., Oujaa, A., Stoetzel, E., 2008b. Palaeolithic and Neolithic
+occupations in the Témara region (Rabat, Morocco): recent data on hominin
+contexts and behavior. Afr. Archaeol. Rev. 25, 21e39.
+Osborne, A.H., Vance, D., Rohling, E.J., Barton, N., Rogerson, M., Fello, N., 2008.
+A humid corridor across the Sahara for the migration of early modern humans
+out of Africa 120,000 years ago. Proc. Natl. Acad. Sci. 105, 16444e16447.
+Otarola-Castillo, E., 2010. Differences between NISP and NME in cutmark of highly
+fragmented faunal assemblages. J. Archaeol. Sci. 37, 1e12.
+Oujaa, A., Hublin, J.-J., 2012. Partie 4. Grotte des Contrebandiers: Chapitre XXXIII.
+Les restes humains Atériens de la grotte des Contrebandiers: Historique et
+données préliminaires. In: El Hajraoui, A.M., Nespoulet, R., Debénath, A.,
+Dibble, H. (Eds.), Préhistoire de la région de Rabat-Témara, Villes et Sites
+re de la culture,
+Archéologiques du Maroc, vol. III. Royaume du Maroc, Ministe
+Institut National des Sciences de l'Archéologie et du Patrimoine, Rabat,
+pp. 234e238.
+
+Oujaa, A., Lacombe, J.-P., 2012. Partie 3. Grotte d’El Mnasra : Chapitre XIX. L’occupation humaine Paléolithique de la région de Témara: Les grottes d’El Harhoura
+2 et d’El Mnasra. In: El Hajraoui, A.M., Nespoulet, R., Debénath, A., Dibble, H.
+(Eds.), Préhistoire de la région de Rabat-Témara, Villes et Sites Archéologiques
+re de la culture, Institut National
+du Maroc, vol. III. Royaume du Maroc, Ministe
+des Sciences de l'Archéologie et du Patrimoine, Rabat, pp. 136e149.
+s, L., Garcia, M.A., 1981. Atlas ostéologique pour servir a
+ l'identiﬁcation des
+Pale
+res du Quaternaire, II. Te
+^te - Rachis, Ceintures scapulaire et pelvienne,
+mammife
+Membres, Herbivores. CNRS, Paris.
+s, L., Lambert, C., 1971a. Atlas Ostéologique pour servir 
+Pale
+a l'identiﬁcation des
+res du Quaternaire, I. Les membres-Herbivores. CNRS, Paris.
+mammife
+s, L., Lambert, C., 1971b. Atlas ostéologique pour servir a
+ l'identiﬁcation des
+Pale
+res du Quaternaire, I. Les membres, Carnivores. CNRS, Paris.
+mammife
+ l'étude de l'Atérien du nord mauritanien. In: British
+Pasty, J.-P., 1999. Contribution a
+Archaeological Reports International Series 758. Archaeopress, Oxford.
+Peters, J., 1986. Osteomorphology and ostéometry of the appendicular skeleton of
+Grant's gazelle, Gazella granti (Brooke, 1871), Bohor Reedbuck, Redunca
+redunca (Pallas, 1767) and bushbuck, Tragelaphus scriptus (PALLAS, 1766). Occasional papers. In: Laboratorium voor Paleontologie, 2. Rijksuniversiteit Gent,
+p. 65.
+Peters, J., 1988. Osteomorphological features of the appendicular skeleton of African
+buffalo, Syncerus caffer (Sparrman, 1779) and of domestic cattle, Bos primigenius
+€ugerierkunde 53, 108e123.
+cf. taurus Bojanus, 1827. Zbtschrift für Sa
+Peters, J., 1989. Osteomorphological features of the appendicular skeleton of gazelles, genus Gazella Blainville 1816, Bohor Reedbuck, Redunca redunca (Pallas,
+1767) and bushbuck, Tragelaphus scriptus (Pallas 1766). Anat. Histol. Embryol.
+18, 97e113.
+Peters, J., Van Neer, W., Plug, I., 1997. Comparative postcranial osteology of hartebeest (Alcelaphus buselaphus), Scimitar oryx (Oryx dammah), and addax (Addax
+nasomaculatus), with notes on the osteometry of gembok (Oryx gazella) and
+Arabian oryx (Oryx leucoryx). Annls. Sci. Zool. 280, 1e83.
+Petit, J.R., Jouzel, J., Raynaud, D., Barkov, N.I., Barnola, J.-M., Basile, I., Bender, M.,
+Chappellaz, J., Davisk, M., Delaygue, G., Delmotte, M., Kotlyakov, V.M.,
+Legrand, M., Lipenkov, V.Y., Lorius, C., Pépin, L., Ritz, C., Saltzmank, E.,
+Stievenard, M., 1999. Climate and atmospheric history of the past 420,000 years
+from the Vostok ice core, Antarctica. Nature 399, 429e436.
+Petit-Maire, N., 1992. Environnements et climats de la ceinture tropicale nordafricaine depuis 140 000 ans. Soc. Géol. Fr. 160, 27e34.
+Pickering, T.R., 2002. Reconsideration of criteria for differentiating faunal assemblages accumulated by hyenas and hominids. Int. J. Osteoarchaeol. 12,
+127e141.
+Pobiner, B.L., Braun, D.R., 2005. Strengthening the inferential link between cutmark
+frequency data and Oldowan hominid behavior: Results from modern butchery
+experiments. J. Taphonomy 3, 107e119.
+Pokines, J.T., Kerbis Peterhans, J.C., 2007. Spotted hyena (Crocuta crocuta) den use
+and taphonomy in the Masai Mara National Reserve, Kenya. J. Archaeol. Sci. 34,
+1914e1931.
+Prendergast, M.E., Dominguez-Rodrigo, M., 2008. Taphonomic analyses of a hyena
+den and a natural-death assemblage near Lake Eyasi (Tanzania). J. Taphonomy
+6, 301e335.
+Quézel, P., 2002. Réﬂexions sur l'évolution de la ﬂore et de la végétation au Maghreb
+méditerranéen. Ibis Press, Paris.
+vre, D., Texier, J.-P.,
+Raynal, J.P., Sbihi-Alaoui, F.Z., Mohib, A., El Graoui, M., Lefe
+Geraads, D., Hublin, J.-J., Smith, T., Tafforeau, J.-P., Zouak, M., Grün, R.,
+Rhodes, E.J., Eggins, S., Daujeard, C., Fernandes, P., Gallotti, R., Hossini, S.,
+Queffelec, A., 2010. Hominid Cave at Thomas Quarry I (Casablanca, Morocco):
+Recent ﬁndings and their context. Quatern. Int. 223e224, 369e382.
+vre, D., Texier, J.-P.,
+Raynal, J.P., Sbihi-Alaoui, F.Z., Mohib, A., El Graoui, M., Lefe
+Geraads, D., Hublin, J.-J., Smith, T., Tafforeau, J.-P., Zouak, M., Grün, R.,
+Rhodes, E.J., Eggins, S., Daujeard, C., Fernandes, P., Gallotti, R., Hossini, S.,
+Queffelec, A., 2011. Contexte et ^
+age des nouveaux restes dentaires humains du
+ne moyen de la carrie
+re Thomas I a
+ Casablanca (Maroc). Bull. Soc.
+Pléistoce
+Préhist. Fr. 108, 645e669.
+Rhoujjati, A., Cheddadi, R., Taïeb, M., Baali, A., Ortu, E., 2009. Environmental changes
+over the past c. 29,000 years in the Middle Atlas (Morocco): a record from Lake
+Ifrah. J. Arid Environ. 74, 737e745.
+Richter, D., 2010. Thermoluminescence dating of heated ﬂint artefacts from Ifri
+n'Ammar. In: Nami, M., Moser, J. (Eds.), La grotte d'Ifri n'Ammar: Le paléolithique moyen. Kommission fur Archaologie Aubereuropaisher Kulturen, Bonn,
+pp. 325e337.
+Richter, D., 2012. Partie 4. Grotte des Contrebandiers: Chapitre XXXII. Datations
+préliminaires par thermoluminescence (TL) d’éclats de silex chauffés. In: El
+Hajraoui, A.M., Nespoulet, R., Debénath, A., Dibble, H. (Eds.), Préhistoire de la
+région de Rabat-Témara, Villes et Sites Archéologiques du Maroc, vol. III. Royre de la culture, Institut National des Sciences de
+aume du Maroc, Ministe
+l'Archéologie et du Patrimoine, Rabat, pp. 232e233.
+Richter, D., Moser, J., Nami, M., Eiwanger, J., Mikdad, A., 2010. New chronometric
+data from Ifri n'Ammar (Morocco) and the chronostratigraphy of the Middle
+Palaeolithic in the Western Maghreb. J. Hum. Evol. 59, 672e679.
+Richter, D., Moser, J., Nami, M., 2012. New data from the site of Ifri n'Ammar
+(Morocco) and some remarks on the chronometric status of the Middle
+Palaeolithic in the Maghreb. In: Hublin, J.-J., McPherron, S. (Eds.), Modern
+Origins: A North African Perspective. Springer, Dordrecht, pp. 61e78.
+Robert, I., Vigne, J.D., 2002a. The bearded vulture (Gypaetus barbatus) as an accumulator of archaeological bones. Late glacial assemblages and present-day
+
+E. Campmas et al. / Journal of Human Evolution 78 (2015) 122e143
+reference data in Corsica (Western Mediterranean). J. Archaeol. Sci. 29,
+763e777.
+Robert, I., Vigne, J.D., 2002b. Bearded vulture Gypaetus barbatus contributions to the
+constitution of two different bone assemblages: Modern reference data and an
+archaeological example in Corsica. Acta Zool. Cracoviensia 45, 319e329.
+Roche, E., 1976. Chronostratigraphie des restes atériens de la grotte des Contrebandiers
+
+a Témara (Province de Témara). Bull. Mém. Soc. Anthropol. Paris 3, 165e173.
+Rose, J.I., Petraglia, M.D., 2009. Tracking the origin and evolution of human populations in Arabia. In: Petraglia, M.D., Rose, J.I. (Eds.), The Evolution of Human
+Populations in Arabia, Vertebrate Paleobiology and Paleoanthropology.
+Springer, New York, pp. 1e12.
+Ruhlmann, A., 1951. La grotte préhistorique de Dar es-Soltan. Larose.
+Sanchis Serra, A., Morales Pérez, J.V., Pérez Ripoll, M., Ribera I Gomez, A., 2009. La
+recherche d'un référentiel pour l'étude des restes de petits vertébrés provenant
+^d'accumulations de rapaces diurnes rupioles: les ensembles des grottes-fene
+re Tuejar (Chelva, Valencia, Espagne). In: Laroulandie, V.,
+tres de la rivie
+Mallye, J.-B., Denys, C. (Eds.), Taphonomie des Petits Vertébrés: Référentiels et
+Transferts aux Fossiles. British Archaeological Reports International Series 2269.
+Archaeopress, Oxford, pp. 57e63.
+Sanchis Serra, A., Real Margalef, C., Morales Pérez, J.V., Pérez Ripoll, M., Tormo
+~ at, C., Carrio
+ n Marco, Y., Pérez Jorda
+, G., Ribera Go
+mez, A., Bolufer
+Cun
+Marqués, J., Villaverde Bonilla, V., 2013. Towards the identiﬁcation of a new
+taphonomic agent: An analysis of bone accumulations obtained from modern
+Egyptian vulture (Neophron percnopterus) nests. Quatern. Int. 330, 136e149.
+Sari, L., 2012. L’Ibéromaurusien, culture du Paléolithique supérieur tardif. Approche
+technologique des productions lithiques taillées de Tamar Hat, Rassel et Columnata (Algérie). Ph.D. Dissertation, Paris X-Nanterre University.
+Sari, L., 2014. Technological change in Iberomaurusian culture: The case of Tamar
+Hat, Rassel and Columnata lithic assemblages (Algeria). Quatern. Int. 320,
+131e142.
+Sauvage, C., 1963. Etages bioclimatiques. Atlas du Maroc. Comité National de Géographie du Maroc, Rabat.
+Scerri, E.M.L., 2013a. The Aterian and its place in the North African Middle Stone
+Age. Quatern. Int. 300, 111e130.
+Scerri, E.M.L., 2013b. On the spatial and technological organisation of hafting
+modiﬁcations in the North African Middle Stone Age. J. Archaeol. Sci. 40,
+4234e4248.
+Schmid, E., 1972. Atlas of Animal Bones. For Prehistorians, Archaeologists and
+Quaternary Geologists. Elsevier Publishing Company, Amsterdam.
+Schwenninger, J.L., Collcutt, S.N., Barton, R.N.E., Bouzouggar, A., Clarck-Balzan, J.L., El
+Hajraoui, A.M., Nespoulet, R., Debénath, A., 2010. A new luminescence chronology for Aterian cave sites on the Atlantic coast of Morocco. In: Garcea, E.A.A.
+(Ed.), South-Eastern Mediterranean Peoples. Between 130,000 and 10,000 Years
+Ago. Oxbow Books, Oxford, pp. 18e36.
+Selvaggio, M.M., 1994. Carnivore tooth marks and stone tool butchery marks on
+scavenged bones: archaeological implications. J. Hum. Evol. 27, 215e228.
+Shackleton, N.J., 2000. The 100 000 year ice-age cycle identiﬁed and found to lag
+temperature, carbon dioxide, and orbital eccentricity. Science 289, 1897e1902.
+Smith, T.M., Tafforeau, P., Reid, D.J., Grün, R., Eggins, S., Boutakiout, M., Hublin, J.-J.,
+2007. Earliest evidence of modern human life history in North African early
+Homo sapiens. Proc. Natl. Acad. Sci. 104, 6128e6133.
+Stambouli-Essassi, S., Roche, E., Bouzid, S., 2007. Evolution de la végétation et du
+climat dans le nord-ouest de la Tunisie au cours des 40 derniers millénaires.
+Rev. Int. Géol. Géogr. Ecol. Tropic. 31, 171e214.
+Steele, T.E., Alvarez-Fernandez, E., 2011. Initial investigations into the exploitation of
+coastal resources in North Africa during the Late Pleistocene at Grotte Des
+Contrebandiers, Morocco. In: Bicho, N.F., Haws, J.A., Davis, L.G. (Eds.), Trekking
+the Shore: Changing Coastlines and the Antiquity of Coastal Settlement.
+Springer (Verlag), Dordrecht, 383e403.
+Steele, T.E., Alvarez-Fernandez, E., 2012. Partie 4. Grotte des Contrebandiers: Chapitre XXX. Restes de mollusques marins. In: El Hajraoui, A.M., Nespoulet, R.,
+Debénath, A., Dibble, H. (Eds.), Préhistoire de la région de Rabat-Témara, Villes
+re de la
+et Sites Archéologiques du Maroc, vol. III. Royaume du Maroc, Ministe
+
+143
+
+culture, Institut National des Sciences de l'Archéologie et du Patrimoine, Rabat,
+pp. 223e227.
+Stewart, J.R., Stringer, C.B., 2012. Human evolution Out of Africa: the role of refugia
+and climate change. Science 335, 1317e1321.
+Stoetzel, E., 2009. Les microvertébrés du site d'occupation humaine d'El Harhoura 2
+ne supérieur. Holoce
+ne, Maroc). Systématique, évolution, taphonomie
+(Pléistoce
+et paléoécologie. Ph.D. Dissertation, Muséum National d'Histoire Naturelle,
+Paris.
+Stoetzel, E., 2013a. Late Cenozoic micromammal biochronology of northwestern
+Africa. Palaeogeogr. Palaeoclimatol. Palaeoecol. 392, 359e381.
+Stoetzel, E., 2013b. Avancées sur l’étude des microfaunes de Témara. In: El
+Hajraoui, A.M., Nespoulet, R. (Eds.), Mission archéologique El Harhoura-Témara,
+re de la Culture
+Rapport d’Activités 2010. Programme de coopération, Ministe
+re des Affaires Etrange
+res et Européennes, Paris, pp. 29e31.
+(Rabat) et Ministe
+Stoetzel, E., Bailon, S., Nespoulet, R., El Hajraoui, A.M., 2010. Pleistocene and
+Holocene small vertebrates of El Harhoura 2 cave (Rabat-Témara, Morocco): an
+annotated preliminary taxonomic list. Hist. Biol. 22, 303e319.
+Stoetzel, E., Denys, C., Bailon, S., El Hajraoui, A.M., Nespoulet, R., 2011. Taphonomic
+analysis of amphibian and squamate remains from El Harhoura 2 (RabatTémara, Morocco): Contributions to palaeoecological and archaeological interpretations. Int. J. Osteoarchaeol. 22, 626e635.
+Stoetzel, E., Bougariane, B., Campmas, E., Ouchaou, B., Michel, P., 2012. El Harhoura 2:
+faunes et paléoenvironnement. In: El Hajraoui, A.M., Nespoulet, R., Debénath, A.,
+Dibble, H. (Eds.), Préhistoire de la région de Rabat-Témara, Villes et Sites Archére de la culture, Institut
+ologiques du Maroc, vol. III. Royaume du Maroc, Ministe
+National des Sciences de l'Archéologie et du Patrimoine, Rabat, pp. 35e51.
+Stoetzel, E., Campmas, E., Michel, P., Bougariane, B., Ouchaou, B., Amani, F., El
+Hajraoui, M.A., Nespoulet, R., 2014. Context of modern human occupations in
+North Africa: Contribution of the Témara caves data. Quatern. Int. 320, 143e161.
+Stringer, C., 2000. Paleoanthropology: coasting out of Africa. Nature 405, 24e27.
+Thomas, H., 1997. Géologie et Paléontologie du gisement Acheuléen de l'Erg Tihodaine, Ahaggar-Saharien Algérien. In: Mémoire du Centre de Recherches
+Anthropologiques Préhistoriques et Ethnographiques, XXVII, pp. 1e122.
+Thompson, E., Henshilwood, C., 2011. Taphonomic analysis of the Middle Stone Age
+larger mammal faunal assemblage from Blombos Cave, southern Cape, South
+Africa. J. Hum. Evol. 60, 746e767.
+Tillier, A.M., 2006. Les plus anciens Homo sapiens (sapiens). Perspectives biologique,
+ne 214, 132e146.
+chronologique et taxinomique. Dioge
+Tixier, J., 1967. Procédés d'analyse et questions de terminologie concernant l'étude
+des ensembles industriels du paléolithique récent et de l'épipaléolithique dans
+l'Afrique du nord-ouest. In: Bishop, W.W., Clarck, J.D. (Eds.), Background to
+Evolution in Africa. University of Chicago Press, Chicago, pp. 721e820.
+Trauth, M.H., Larrasona, J.C., Mudelsee, M., 2009. Trends, rhythms and events in
+Plio-Pleistocene African climate. Quatern. Sci. Rev. 28, 399e411.
+Vanhaeren, M., d'Errico, F., Stringer, C., James, S.L., Todd, A.J., Meines, H.K., 2006.
+€l and Algeria. Science 312, 1785e1788.
+Middle Palaeolithic shell beads in Israe
+van Vuure, T., 2002. History, morphology and ecology of the aurochs. Lutra 45, 1.
+Varela, S., Rodriguez, J., 2004. Atlas Osteologico, Carnivoros Ibéricos. MNCN, Madrid.
+Villa, P., Mahieu, E., 1991. Breakage patterns of human long bones. J. Hum. Evol. 21,
+27e48.
+Waelbroeck, C., Labeyrie, L., Michel, E., Dusplessy, J.C., McManus, J.F., Lambeck, K.,
+Balbon, E., Labracherie, M., 2002. Sea-level and deep water temperature
+changes derived from benthic foraminifera isotopic records. Quatern. Sci. Rev.
+21, 295e305.
+Walker, R., 1984. A Guide to Post-Cranial Bones of East African Animals. Blackwell
+Science Inc., Oxford.
+Walter, R.C., Bufﬂer, R.T., Bruggemann, J.H., Guillaume, M.M.M., Berhe, S.N.,
+Negassi, B., Libsekal, Y., Cheng, H., Edwards, R.L., von Cosel, R., Néraudeau, D.,
+Gagnon, M., 2000. Early human occupation of the Red Sea coast of Eritrea
+during the last interglacial. Nature 405, 65e69.
+Wrinn, P.J., 2001. Reanalysis of the Pleistocene archaeofauna from Mugharet el
+Aliya, Tangier, Morocco: implications for the Aterian. In: Proceedings of the
+ge (September 2001), pp. 2e8.
+XIVth UISPP Congress, Lie
+
+

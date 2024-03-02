@@ -1,0 +1,1410 @@
+Journal of Archaeological Science: Reports 19 (2018) 454–464
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science: Reports
+journal homepage: www.elsevier.com/locate/jasrep
+
+Macrobotanical evidence (wood charcoal and seeds) from the Middle
+Palaeolithic site of El Salt, Eastern Iberia: Palaeoenvironmental data and
+plant resources catchment areas
+
+T
+
+⁎
+
+Paloma Vidal-Matutanoa,b, , Guillem Pérez-Jordàc, Cristo M. Hernándezd, Bertila Galvánd
+a
+
+PREMEDOC Research Group, Universitat de València, Departament de Prehistòria, Arqueologia i Història Antiga, Blasco Ibáñez 28, 46010 València, Spain
+Université Côte-d'Azur CEPAM, CNRS, France
+c
+IJCI - 2015-25082. GI Arqueobiología, Instituto de Historia, CCHS-CSIC, Albasanz 26-28, 28037 Madrid, Spain
+d
+U.D.I. de Prehistoria, Arqueología e Historia Antigua, Facultad de Geografía e Historia, Universidad de La Laguna, Campus de Guajara, 38071 La Laguna, Santa Cruz de
+Tenerife, Spain
+b
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+El Salt
+Neanderthals
+Charcoal analysis
+Fruit-gathering
+Fuel management
+Landscape
+
+Despite the current growing number of studies that focus on macrobotanical remains from Middle Palaeolithic
+contexts, plant use among hunter-gatherer societies remains unknown in many regions of Europe. Large-scale
+ﬂotation of archaeological sediments has made it possible to recover a large amount of plant remains (fruits,
+seeds and wood) from units VIII, IX, Xa and Xb at El Salt, Eastern Iberia (49.2–52.3 ka BP). The combination of
+anthracological and carpological analyses has provided a more accurate picture of the Middle Palaeolithic
+landscape in the Serpis valley, as well as signiﬁcant information about other possible uses of plants, not only as
+fuel, but for woodworking or food, for instance. A minimum of twenty diﬀerent taxa have been identiﬁed among
+the plant remains. Charcoal analysis suggested that ﬁrewood was gathered from nearby sources (< 1 km), with a
+predominance of black-scots pine woodlands (Pinus nigra-sylvestris) and maples (Acer sp.). The carpological data
+reveal the use of some woody taxa not documented in the anthracological record (Taxus baccata or yew) and the
+presence of few mineralised seeds whose origin remains unknown (Celtis australis or hackberry, Rubus cf. laciniatus or evergreen blackberry). These data have signiﬁcant implications for the interpretation of plant economy
+among Neanderthal groups, reinforcing the importance of available woody resources in the surroundings for the
+subsistence of the group.
+
+1. Introduction
+The study of the subsistence practices of hunter-gatherer societies
+has traditionally focused on hunting, leaving the role of the plants
+unknown (Haws, 2004; Aura et al., 2005; Pryor et al., 2013; Bigga et al.,
+2015). This is partly due to taphonomic problems and those regarding
+the preservation of organic remains, in addition to the lack of recovered
+plant remains based on the assumption that they are only preserved in
+exceptional conditions (Madella et al., 2002; Badal et al., 2012b; Pryor
+et al., 2013; Martínez and Badal, 2018). In recent decades, the increasing application of systematic recovery methods by ﬂotation of
+sediments has made it possible to perform more studies that focus on
+macrobotanical remains from Palaeolithic and Mesolithic contexts
+(Uzquiano, 1992; Théry-Parisot et al., 1996; Gale and Carruthers, 2000;
+Goren-Inbar et al., 2002; Théry-Parisot, 2002; Aura et al., 2005;
+Arsuaga et al., 2012; Badal et al., 2012a; Uzquiano et al., 2012;
+
+⁎
+
+Monteiro, 2013; Vidal-Matutano et al., 2015; Alcolea, 2016; Allué et al.,
+2016; Henry and Boboeuf, 2016; Vidal-Matutano, 2017; Badal and
+Martínez, 2017; Martínez and Badal, 2018; Vidal-Matutano et al.,
+2017a). More recently, the introduction of new archaeobotanical disciplines has led to the development of methodological advances in
+order to obtain essential information about diﬀerent uses of plants,
+other than for fuel, among hunter-gatherer groups (Hardy and Garuﬁ,
+1998; Richards et al., 2000; Dominguez-Rodrigo et al., 2001; Madella
+et al., 2002; Albert, 2010; Cabanes et al., 2010; Hardy and Moncel,
+2011; Henry et al., 2011; Albert et al., 2012; Hardy et al., 2012; Sistiaga
+et al., 2014; Rodríguez-Cintas and Cabanes, 2015; Estalrrich et al.,
+2017). In Iberia, although anthracological analyses in Middle Palaeolithic contexts are becoming increasingly frequent (Gale and
+Carruthers, 2000; Finlayson et al., 2008; Arsuaga et al., 2012; Badal
+et al., 2012a; Uzquiano et al., 2012; Vidal-Matutano et al., 2015; Allué
+et al., 2016; Vidal-Matutano, 2017; Zilhão et al., 2016; Vidal-Matutano
+
+Corresponding author at: PREMEDOC Research Group, Universitat de València, Departament de Prehistòria, Arqueologia i Història Antiga, Blasco Ibáñez 28, 46010 València, Spain.
+E-mail address: paloma.vidal@uv.es (P. Vidal-Matutano).
+
+https://doi.org/10.1016/j.jasrep.2018.03.032
+Received 16 January 2018; Received in revised form 20 March 2018; Accepted 27 March 2018
+Available online 03 April 2018
+2352-409X/ © 2018 Elsevier Ltd. All rights reserved.
+
+Journal of Archaeological Science: Reports 19 (2018) 454–464
+
+P. Vidal-Matutano et al.
+
+2001), i.e. superimposed ﬂat combustion features of various sizes
+(0.20–1 m diameter) associated with rich archaeological assemblages
+including faunal remains, lithic objects, limestone pebbles with usewear and wood-charcoal fragments. Excavation of subunit Xb has led to
+the identiﬁcation of an initial division of the palimpsest deposit into
+several ﬁne-grained analytical units called archaeosedimentary facies
+associations (henceforth, AFA). These units correspond to the highest
+possible temporal resolution achievable within the studied context
+(Machado and Pérez, 2016; Machado et al., 2016).
+
+et al., 2017a, 2017b), there are still gaps that must be studied (VidalMatutano, 2016). In addition to this, few carpological remains have
+been recovered and identiﬁed in these chronologies where the only
+known assemblages from the Iberian Peninsula to date are the pine
+kernels from Gorham's Cave and Vanguard Cave (Gale and Carruthers,
+2000; Metcalf, 1964) or the mineralised Celtis seeds from Cueva del
+Niño (García Moreno et al., 2014), fact possibly related to a lack of
+sampling.
+In this paper we present the results of the analysis of macrobotanical
+remains recovered from units VIII, IX, Xa and Xb at El Salt, Eastern
+Iberia (49.2–52.3 ka BP). The main objective is to provide information
+about the use of plant resources during MIS 3 human occupations at El
+Salt, a Middle Palaeolithic site which has yielded signiﬁcant information that contributes to a deeper knowledge of Neanderthal behaviour
+based on a multidisciplinary approach (Galván et al., 2014a). On the
+one hand, analysing fuel remains could shed light both on the local
+landscape that would have existed in the Serpis valley at that time and
+the areas that could have provided ﬁrewood resources. On the other
+hand, it is important to analyse the carpological remains that have been
+recovered in order to complement palaeoecological and palaeoeconomic data, as their presence may or may not be linked to the use of
+fuel.
+
+2.1. Current climatic and plant formations data
+The climate in the study area is determined by the topography.
+Rainfall is high compared with the local environment, with values close
+to 500 mm per year and reaching 800 mm at the highest points (Serra
+Mariola or Font Roja) (López Gómez and Rosselló Verger, 1978). Alcoy,
+where both sites are located, is currently framed in the mesomediterranean bioclimatic belt with mean annual temperature or
+MAT = 14.5 °C and a dry ombroclimate (mean annual precipitation or
+MAP = 479 mm) (Rivas-Martinez, 1987).
+Nowadays the Aleppo pine (Pinus halepensis) is the predominant
+woody taxa in the region, followed by evergreen oaks (Quercus coccifera, Quercus rotundifolia) and legumes (Ulex parviﬂorus, Genista scorpius), terebinth (Pistacia terebinthus), mastic (Pistacia lentiscus),
+Mediterranean buckthorn (Rhamnus alaternus), blackthorn (Prunus spinosa), hawthorn (Crataegus monogyna) and elmleaf blackberry (Rubus
+ulmifolius). In the riverbank areas, poplar trees (Populus alba) and elms
+(Ulmus minor) are frequent. The presence of a mixed relict forest of
+Eurosiberian plant formations in the nearby mountain range of Font
+Roja should be pointed out, where taxa such as deciduous oaks (Quercus
+faginea, Quercus pubescens), ash (Fraxinus ornus), maple (Acer opalus
+subsp. granatense), whitebeam (Sorbus aria and Sorbus torminalis) and
+yew (Taxus baccata) are present (Costa et al., 2005; Serra Laliga and
+Soler, 2011). Evidence of relict formations of yew are also present in the
+higher altitude areas of Serra Mariola mountain range (Gualda Gómez,
+1988; Costa et al., 2005).
+
+2. Regional setting and excavation method
+The site of El Salt is an open-air rock shelter located at 680 m a.s.l. in
+the mountainous region of Alicante, Eastern Iberia (Fig. 1). The Middle
+Palaeolithic sequence is represented by eight stratigraphic units dating
+between 60.7 ± 8.9 and 45.2 ± 3.4 ka BP (Galván et al., 2014b). A
+38-metre high Palaeocene limestone wall formed at a thrust fault and
+covered with tufa and travertine gave refuge to the space occupied by
+humans at the bottom of the wall, which would have covered almost
+the entire excavated surface at times of maximum development. This
+deposit has been systematically excavated since 1986 with an integrated multidisciplinary approach based on obtaining a higher temporal resolution of analysis related to Neanderthal behaviour (Mallol
+et al., 2013b, 2013a; Galván et al., 2014b, 2014a; Garralda et al., 2014;
+Sistiaga et al., 2014; Machado and Pérez, 2016; Rodríguez-Cintas and
+Cabanes, 2015; Machado et al., 2016; Vidal-Matutano, 2017; VidalMatutano et al., 2017a). The stratigraphic sequence consists of a dense
+palimpsest originating from recurrent human occupations, during
+which several activities were carried out. These activities correspond to
+the generic model of “hearth-related assemblages” (Vaquero and Pastó,
+
+3. Materials and methods
+3.1. Sampling method
+During the archaeological ﬁeld seasons carried out between 2000
+and 2012 all the sediment excavated from units VIII, IX and Xa was
+
+Fig. 1. Geographic location of the Middle Palaeolithic site of El Salt in the Iberian Peninsula and the Prebaetic System. The 3D map shows the Serpis valley and the
+mountain ranges of Font Roja and Mariola.
+455
+
+Journal of Archaeological Science: Reports 19 (2018) 454–464
+
+P. Vidal-Matutano et al.
+
+processed by ﬂotation and water sieving using 5 and 2 mm sieves. With
+regard to unit Xb, systematic ﬂotation of the sediments has been carried
+out using smaller mesh sizes since 2013. Thus, the denser remains that
+do not ﬂoat were collected using a 1 mm mesh positioned inside the
+tank, while the ﬂots were collected onto a 0.25 mm external mesh
+(Vidal-Matutano, 2016).
+
+4.2. Seeds and fruits
+The seed and fruit remains recovered in the samples are not very
+frequent. A total of 7 taxa have been diﬀerentiated, although some of
+the samples present a large number of fruit fragments. The density of
+seeds and fruits is very low, ranging from 0.02 to 0.008. (Table 2 and
+Fig. 2). Almost all the materials are charred. There are two taxa, Celtis
+australis (Mediterranean hackberry) and Rubus cf. laciniatus (evergreen
+blackberry), which are only mineralised, so there is some doubt about
+whether they may be present-day intrusions. There is also some uncertainty about the determination of Rubus cf. laciniatus, a taxon of
+unknown origin that is believed to have been introduced to Iberia
+(Monasterio-Huelin, 1999), although it's unknown at what point.
+As it has been mentioned for wood charcoal remains, the coarser
+sieves used in older archaeological ﬁeld seasons provided fewer carpological remains than those obtained in unit Xb with smaller mesh
+sizes. The charred material recovered includes a remarkable number of
+Acer sp. remains, which only come from unit Xb. In subunit AFA 2, a
+considerable concentration of maple fruits was found inside combustion
+structure H57, together with wood charcoal fragments from this same
+taxon, which seems to point to its use as fuel although maple fruits
+could also serve as a food source (Kuhnlein and Turner, 1991). Other
+taxa that appear with a similar frequency are Juniperus sabina (savin
+juniper) and Fabaceae (legumes). Legumes are annual trees, shrubs or
+plants that usually grow in the same place each year. This fact facilitates their collection which usually takes place at the end of spring or
+beginnings of summer. Its seeds are rich in carbohydrates and proteins,
+making them an excellent food resource available before autumn, when
+Mediterranean forests produce most of their fruits. The seeds of this
+family may possibly belong to the genus Vicia or Lathyrus, but we don't
+have elements to conﬁrm this determination. In any case, their presence
+at hunter-gatherer contexts is common (Aura et al., 2005; Martínez and
+Badal, 2018). More occasionally other taxa are found, such as Galium
+sp. (bedstraw) and Taxus baccata (yew).
+
+3.2. Charcoal analysis
+Each charcoal fragment was fractured manually to provide transverse, tangential and radial sections for taxonomic identiﬁcation using
+a Nikon Optiphot-100 bright/dark ﬁeld incident light microscope with
+50–500× magniﬁcation. Botanical identiﬁcation was performed with
+specialised plant anatomy atlases (Jacquiot et al., 1973; Schweingruber,
+1976), in addition to the reference collection of modern charred woody
+taxa from the Department of Prehistory, Archaeology and Ancient
+History, University of Valencia. The spatial information relating to the
+current distribution of taxa has been obtained from the database of the
+Anthos Project (www.anthos.es). These data have been processed using
+GIS software (Quantum GIS v.2.10.1 “Pisa”).
+3.3. Carpological analysis
+Plant remains are preserved through carbonisation and mineralisation and they were identiﬁed using a binocular microscope (8–80×
+magniﬁcation). Identiﬁcation was carried out by comparison with
+modern specimens from the seed reference collection of the
+Archaeobiology Lab of the Spanish National Research Council in
+Madrid (Spain), and by consulting specialised literature on plant
+anatomy. Botanical nomenclature follows Castroviejo (1986–2012).
+4. Results
+4.1. Wood charcoal analysis results
+
+5. Discussion
+
+Previous studies have provided interesting data on anthracological
+assemblages from combustion structures at El Salt (Vidal-Matutano,
+2017; Vidal-Matutano et al., 2017a), so this work focuses on scattered
+assemblages at the site. The scattered charcoal remains analysed from
+units VIII, IX, Xa and Xb at El Salt comprise a total of 4263 charcoal
+fragments and at least 17 taxa have been identiﬁed (Table 1). The
+diﬀerence between the sampling and recovery methods used in earlier
+and more recent ﬁeld campaigns means that it is diﬃcult to make a
+comparison between units. In fact, the sampling from units VIII, IX and
+Xa, which correspond to the ﬁeld seasons where coarser sieves were
+used, has provided fewer macrobotanical remains than unit Xb, which
+was sampled more recently.
+The most representative taxa in the part of the sequence of El Salt
+contemplated in this study are Pinus nigra-sylvestris (black-scots pine),
+Juniperus sp. (juniper) and Acer sp. (maple). This overall pattern is seen
+throughout these units, with a clear dominance of black-scots pine
+(values of 75–85%), a lower frequency of juniper species (maximum
+values of 10%) and a minor but constant presence of maples in all the
+units. There are few examples of evergreen and deciduous Quercus
+(oaks), and this is also the case with other taxa such as Buxus sempervirens (box), Fabaceae (the legume family), Rosaceae (the rose family),
+Pistacia sp. (cf. terebinth), Hedera sp. (ivy), Monocotyledoneae, Ephedra
+sp. (joint pine) and hygrophilous taxa such as Ulmus sp. (elm) and SalixPopulus (willow-poplar). With regard to the distinction between Pinus
+nigra and Pinus sylvestris, it is not possible to identify the exact species
+from anatomical criteria, so the nomenclature Pinus nigra-sylvestris has
+been used by many authors to refer to the identiﬁcation of charred
+wood from these two possible species (Badal and Carrión, 2001; Badal
+et al., 2012a; Uzquiano et al., 2012; Roiron et al., 2013; Allué et al.,
+2016; Vidal-Matutano, 2017; Vidal-Matutano et al., 2017a, 2017b;
+Badal and Martínez, 2017).
+
+5.1. Palaeoecological data
+The scattered charcoal assemblage from El Salt is characterised by
+the strong presence of cryophilous or medium-high Mediterranean
+mountain pines (black pine or scots pine) (Fig. 3). The dominance of
+Pinus nigra-sylvestris, with a proportion of 85–90% in some units, indicates that cryophilous pine forests must have played an important
+role in the vegetation of the studied region during MIS 3. These
+medium-high mountain pine forests would have been accompanied by a
+variable presence of junipers and/or savins, together with a sub-Mediterranean ﬂora consisting of maples, evergreen/deciduous oaks and
+shrub taxa such as boxwood, legumes, joint-pine and terebinth. The
+occasional presence of charred ivy fragments in unit Xb (AFA 2) could
+be the result of accidental combustion due to this plant's ability to become entangled with other trees and shrubs in shady areas. In the valley
+ﬂoor, next to the Serpis river or in low or shady areas there would have
+been riverbank formations with willows and/or poplars and elms. It
+should be mentioned that 4 charred fragments of Olea europaea (wild
+olive) were identiﬁed in unit Xa and 6 charred fragments of Ficus carica
+(ﬁg tree) were recorded in unit Xb (AFA 1 and AFA 2). In the case of the
+wild olive, this species is characteristic of warm Holocene contexts
+(Costa et al., 2005). Radiocarbon dating of olive wood-charcoal fragments at Palaeolithic sites has always yielded a Holocene chronology
+due to the percolation of fragments from more recent levels (Carrión
+et al., 2010; Badal et al., 2012b). With regard to Ficus carica, it is not a
+taxon that is frequently identiﬁed in Palaeolithic contexts of Western
+Europe, although carpological evidence of its presence has been recorded (Martínez and Badal, 2018). Thus, due to the absence of more
+data that support its presence in Palaeolithic period, we must be
+456
+
+Journal of Archaeological Science: Reports 19 (2018) 454–464
+
+P. Vidal-Matutano et al.
+
+Table 1
+Anthracological data from the scattered assemblages of units VIII, IX, Xa and Xb.
+Unit
+
+VIII
+
+IX
+
+Xa
+
+Xb
+
+Subunit
+
+AFA3
+
+223.5
+
+294.7
+
+305
+
+112
+
+Taxa
+
+N
+
+%
+
+N
+
+%
+
+N
+
+%
+
+N
+
+%
+
+N
+
+%
+
+N
+
+%
+
+10
+
+2.95
+
+10
+4
+
+6.45
+2.58
+
+43
+9
+
+7.30
+1.53
+
+2
+77
+14
+
+0.25
+9.52
+1.73
+
+0.65
+19.17
+1.55
+
+0.29
+0.59
+
+1
+15
+
+0.65
+9.68
+
+67
+
+11.38
+
+6
+21
+
+0.74
+2.6
+
+0.13
+6.88
+1.50
+0.13
+1.13
+3.19
+
+5
+148
+12
+
+1
+2
+
+2
+110
+24
+2
+18
+51
+
+12
+21
+
+1.55
+2.72
+
+2
+
+0.34
+
+1
+
+0.12
+
+1
+
+0.13
+
+5
+2
+
+0.62
+0.25
+
+6
+
+0.74
+
+3
+
+0.39
+
+2
+656
+2
+
+1
+12
+1
+
+5
+1
+
+1.47
+0.29
+
+1
+313
+
+0.29
+92.33
+
+4
+1
+
+1.18
+0.29
+
+1
+
+0.29
+
+339
+7
+
+100
+
+237
+
+AFA 2
+
+Vol. litres
+
+cf. Acer sp.
+Acer sp.
+Angiosperms
+cf. Buxus sempervirens
+Buxus sempervirens
+Conifers
+cf. Ephedra sp.
+Ephedra sp.
+cf. Fabaceae
+Fabaceae
+Ficus carica
+Hedera sp.
+Juniperus sp.
+Monocotyledoneae
+Olea europaea
+cf. Pinus nigra-sylvestris
+Pinus nigra-sylvestris
+cf. Pistacia sp.
+Pistacia sp.
+cf. Prunus sp.
+cf. Quercus sp.
+Quercus sp.
+Quercus deciduous
+Quercus evergreen
+cf. Salix-Populus
+Salix-Populus
+Ulmus sp.
+Ulmaceae
+Total charcoal
+Total taxa
+
+120
+
+AFA 1
+
+1
+
+0.65
+
+11
+
+7.10
+
+105
+
+67.74
+
+1
+
+0.65
+
+3
+
+1.94
+
+26
+1
+4
+2
+407
+
+4.41
+0.17
+0.68
+0.34
+69.10
+
+1
+1
+2
+13
+4
+2
+
+0.17
+0.17
+0.34
+2.21
+0.68
+0.34
+
+Preservation
+
+VIII
+
+Xa
+
+Subunit
+Vol. litres
+Acer sp. fragments
+Celtis australis
+Fabaceae
+Galium sp.
+Juniperus sabina
+Rubus cf. laciniatus
+Taxus baccata
+Parenchyma tissues
+Undetermined
+Total
+Total fragments
+Density × 1 l.
+
+112
+Charred
+Mineralised
+Charred
+Charred
+Charred
+Mineralised
+Charred
+Charred
+Charred
+
+237
+
+4
+545
+
+0.52
+70.60
+
+0.12
+1.48
+0.12
+
+1
+24
+1
+3
+1
+3
+
+0.06
+1.50
+0.06
+1.19
+0.06
+0.19
+
+2
+18
+
+0.26
+2.33
+
+1
+
+0.13
+
+1
+1599
+12
+
+0.06
+100
+
+772
+6
+
+100
+
+1
+
+0.12
+
+155
+8
+
+100
+
+589
+11
+
+100
+
+809
+10
+
+100
+
+certain diﬀerences can be identiﬁed in the rainfall pattern. Thus, the
+greater percentages of Acer sp. and Buxus sempervirens in unit Xb, together with increasing Juniperus sp. values in units Xa and IX, indicate
+that the climate would have been more humid in the oldest part of the
+sequence (unit Xb), which coincides with microfaunal data recovered
+from this unit (Fagoaga et al., 2017).
+
+Xb
+AFA 1
+
+AFA 2
+
+AFA3
+
+223.5
+
+294.7
+
+305
+
+20
+
+255
+1
+3
+2
+
+5.1.1. Current climatic requirements of the identiﬁed ﬂora
+The dominant species in the plant record of El Salt are not currently
+found in the study area but are characteristic of medium-high mountain
+areas in supra-Mediterranean and oro-Mediterranean bioclimatic belts
+(Ozenda, 1982; Rivas-Martinez, 1987). In order to discover the closest
+region that currently has similar climatic conditions to those of the
+Serpis valley during MIS 3, we have processed data on the current
+spatial distribution of some of the identiﬁed taxa. By processing these
+data in Quantum GIS we have been able to obtain diﬀerent overlapping
+areas and to analyse whether there are any signiﬁcant changes in the
+geographical distribution when species with speciﬁc altitude, humidity
+and temperature requirements are added. In this regard, the carpological data have added signiﬁcant information to the palaeoecological
+approach. The homogeneous anatomical structure of Juniperus means
+that it cannot be identiﬁed at species level, so the identiﬁcation of Juniperus sabina (savin juniper) seeds makes it possible to conﬁrm that at
+least this species was present, thus contributing highly detailed ecological information.
+The overlapping areas generated result from selecting and/or
+eliminating taxa identiﬁed in the archaeological record in order to
+outline diﬀerent possible ecological scenarios (Table 3). Overlapping
+area 1 has been obtained for Juniperus, Pinus nigra, Taxus baccata, Pistacia terebinthus and evergreen and deciduous Quercus species (Fig. 4a).
+
+1
+
+2
+7
+0.02
+
+0.56
+82.24
+0.06
+0.06
+
+0.85
+
+1
+
+7
+1
+2
+7
+0.008
+
+9
+1315
+1
+1
+
+5
+
+1
+7
+
+0.25
+81.09
+0.25
+
+2.58
+
+2
+2
+
+0.44
+0.25
+0.31
+1.00
+
+4
+
+Table 2
+Carpological data from El Salt.
+Unit
+
+7
+4
+5
+16
+
+3
+20
+0.013
+
+1
+7
+255
+0.024
+
+1
+0.003
+
+cautious in its interpretation.
+The plant record from El Salt, based on the macrobotanical remains
+recovered, is indicative of a local landscape characterised by predominantly supra-Mediterranean sub-humid conditions (MAT of
+8–13 °C MAP of 600–1000 mm). The climatic parameters contrast with
+those obtained for unit IV of Abric del Pastor, an earlier Middle
+Palaeolithic site (MIS 4/5) located 4 km away from El Salt, which shows
+predominantly semi-arid conditions consistent with a cooler and a more
+xeric climate during the development of MIS 4 period (Vidal-Matutano
+et al., 2015). Despite the fact that there is a great deal of homogeneity
+in the anthracological sequence from unit Xb to unit VIII at El Salt,
+457
+
+Journal of Archaeological Science: Reports 19 (2018) 454–464
+
+P. Vidal-Matutano et al.
+
+Fig. 2. Carpological remains identiﬁed at El Salt. A: Acer sp. (white layer from feature H57, AFA 2, unit Xb); b: Juniperus sabina (unit VIII); c: Taxus baccata (unit Xb,
+AFA 3); d: Fabaceae (unit Xb, AFA 3); e: Galium sp. (unit Xb. AFA 2); f: Rubus cf. laciniatus (unit Xb, AFA 1); g: Celtis australis (unit Xb, AFA 2). Scale bar indicates
+1 mm.
+
+However, the maps generated indicate the prevalence of supra-Mediterranean bioclimatic conditions that are consistent with the palaeoecological results of the analysis of macrobotanical remains. In fact, the
+diﬀerent ecological scenarios generated show the Sierra de Javalambre
+(Teruel) and the eastern Iberian System as the areas where the identiﬁed taxa are currently found. This mountainous region
+(1000–1500 m a.s.l.) lies in the supra-Mediterranean and oro-Mediterranean bioclimatic belts, with a MAT of 8–10 °C and a MAP of
+500–700 mm (Rivas-Martinez, 1987; Costa et al., 2005). According to
+the macrobotanical data, these could have been the bioclimatic conditions in the Serpis valley region during the Middle Palaeolithic (Vidal-
+
+Overlapping area 2 includes the presence of Pinus sylvestris, Pinus nigra,
+Buxus sempervirens and species of the genus Acer (Fig. 4b). Overlapping
+area 3 includes the same taxa as overlapping area 2, but replacing Pinus
+sylvestris with Pinus nigra (Fig. 4c). Finally, overlapping area 4 covers
+the taxa included in overlapping area 2, but with the addition of
+evergreen and deciduous Quercus (Fig. 4d). The spatial analysis of these
+data has made it possible to detect small diﬀerences made by taxa with
+higher or lower temperature and humidity requirements (e.g. the notable distribution of overlapping area 2 in the Pyrenees due to the
+presence of boxwood, or the disappearance of points located at a higher
+altitude with the inclusion of Quercus species in overlapping area 4).
+
+458
+
+Journal of Archaeological Science: Reports 19 (2018) 454–464
+
+P. Vidal-Matutano et al.
+
+Fig. 3. Anthracological diagram from El Salt.
+
+Most of the carpological remains are charred, which is a basic
+condition to infer their relationship with anthropic activities. The carbonisation of the seeds indicates that they were exposed to ﬁre either
+intentionally (to be processed for eating or disposed of in the ﬁre) or
+unintentionally (accompanying ﬁrewood). Two taxa (Rubus cf. laciniatus and Celtis australis) are only mineralised, which leads to the
+question of whether their origin is anthropic. Some fruits, such as Celtis,
+are known for having a high carbonate content in the pericarp, which
+makes them resistant to decay (Cowan et al., 1997; Messager et al.,
+2010; Shillito and Almond, 2010). This property of Celtis has been seen
+as a reason for its abundance in some Pleistocene archaeological sites
+(Lev et al., 2005; Messager et al., 2010; García Moreno et al., 2014;
+Allué et al., 2015). However, as no charred remains of this fruit have
+been recovered yet, its relationship with human activities could be
+questioned, and it may be the result of modern contamination, percolation from Holocene levels at sites with an extensive sequence or introduction by birds (Sievers, 2006). Even so, it is noteworthy that
+abundant fragments of mineralised Celtis pericarps were found in the
+thin layers obtained from unaltered primary contexts of unit Xb (Mallol
+et al., 2013b).
+The charred materials that could have been used as food by
+Neanderthal groups are maples seeds, legumes and juniper. Indeed, the
+presence of legumes in contexts of hunter-gatherer groups is common
+(Aura et al., 2005; Martínez and Badal, 2018) and they are a food resource found in Mediterranean forests. Juniperus and Acer are taxa that
+have been used for human consumption (Rivera-Núñez and Obón-deCastro, 1991; Kuhnlein and Turner, 1991), but when they appear associated with wood charcoal fragments the question arises as to whether the fruits were accidentally harvested or not and whether they
+were intended for human consumption.
+Despite the fact that the carpological record is well preserved, the
+Acer sp. seeds recovered in the area of combustion structure H57 show a
+high degree of fragmentation (Fig. 2a). This hyper-fragmentation of the
+macrobotanical remains is consistent with that observed in the
+
+Table 3
+Taxa used in the overlapping areas.
+Overlapping area
+Acer campestre
+Acer granatensis
+Acer monspessulanum
+Acer negundo
+Acer opalus
+Buxus sempervirens
+Juniperus communis
+Juniperus oxycedrus
+Juniperus phoenicea
+Juniperus sabina
+Juniperus thurifera
+Pinus nigra subsp. Arnold
+Pinus nigra subsp. salzmanii
+Pinus sylvestris
+Pistacia terebinthus
+Quercus faginea
+Quercus ilex ballota
+Taxus baccata
+
+1
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+2
+
+3
+
+4
+
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+
+x
+
+x
+x
+x
+
+Matutano, 2016, 2017).
+5.2. Palaeoeconomic data
+5.2.1. Contribution of seed remains to the palaeoeconomic approach
+Few seed remains were recovered at El Salt, although they provide
+signiﬁcant information given the scarcity of known evidence of wild
+seeds in hunter-gatherer contexts (Gale and Carruthers, 2000; Weiss
+et al., 2004; Aura et al., 2005; Lev et al., 2005; Sievers, 2006; Weiss
+et al., 2008; García Moreno et al., 2014; Allué et al., 2015; Snir et al.,
+2015; Badal and Martínez, 2017; Martínez and Badal, 2018). The results presented here show the importance of performing a systematic
+and exhaustive ﬂotation of the sediments to achieve optimum results
+(Vidal-Matutano, 2016).
+459
+
+Journal of Archaeological Science: Reports 19 (2018) 454–464
+
+P. Vidal-Matutano et al.
+
+Fig. 4. Current overlapping areas for the taxa identiﬁed at El Salt. Black dots represent points of concurrence of diﬀerent species (see Table 3). The shaded area refers
+to the coincident region between the overlapping areas (Sierra de Javalambre-Gúdar, Teruel, and the eastern Iberian System).
+
+is why it was so highly valued in the past, as can be seen from its use in
+numerous Mesolithic and Neolithic bows from Northern Europe
+(Cattelain, 1997) or the yew tools recovered from the lakeside settlement of La Draga (Blanco et al., 2008). Recent evidence from Aranbaltza III (northern Iberia) point out to the presence of a Middle Palaeolithic wooden tool made of yew (Rios-Garaizar et al., 2018),
+reinforcing the importance of this species for woodworking. The
+charred yew fruit fragment from El Salt is a conﬁrmation of its presence
+in the local environment, despite it was not being used for fuel. This
+may be related to the possibility that Neanderthal groups protected this
+tree in order to make use of it for other products: wood for tools, a
+natural poison due to its high taxine content (Pérez-Díaz et al., 2013),
+for medicinal uses (Cortés et al., 2000) or even as food (Rivera-Núñez
+and Obón-de-Castro, 1991). These last options must be evaluated since
+only one carpological remain is evidenced.
+Finally, the observation of wood degradation patterns that occurred
+prior to charring followed by their quantitative analysis according to
+previous experimental studies revealed diﬀerences between the alteration degrees of the ﬁrewood used in the hearths, highlighting the
+existence of ﬁrewood acquisition criteria based on dead wood gathering
+by Neanderthal groups of Eastern Iberia and also suggesting smokerelated functions, e.g. the preservation of meat in view of a group migration, the treatment of hides, the repelling of mosquitoes or ﬂies,
+among others (Vidal-Matutano et al., 2017a). In this regard, the recovery of 253 charred maple seed fragments within the ash layer of
+combustion feature H57 at El Salt has provided signiﬁcant information
+about the state of the wood that was chosen as fuel (dead, mostly degraded black-scots pine together with the collection of dead maple
+branches at, at least, an incipient state of biodegradation). Furthermore,
+
+anthracological assemblages of El Salt, where the overall distribution of
+charcoal fragments ﬁts into two size categories: 2–4 mm and 1–2 mm
+(Vidal-Matutano et al., 2017a). This may be related to exposure of the
+remains to ﬁre and/or to the occupation dynamics of the shelter. In fact,
+the conﬁguration of the stratigraphic sequence of El Salt as a dense
+palimpsest of recurrent occupation events (Mallol et al., 2013a;
+Machado and Pérez, 2016; Machado et al., 2016; Vidal-Matutano,
+2017) could explain the fact that the macrobotanical remains are affected by mechanical processes of anthropic origin (trampling, reworking) in addition to natural processes (freezing/thawing or drying/
+humidity cycles) (Théry-Parisot et al., 2010).
+Bearing in mind that much of the carpological record consists of
+taxa that are present in the anthracological assemblages from the site, it
+is feasible that these remains could have been thrown into the ﬁre together with the fuel. However, there are certain considerations that are
+worthy of attention. Firstly, both Rubus cf. laciniatus and Celtis australis
+produce edible fruits that have traditionally been valued by human
+societies (Pardo-de-Santayana et al., 2007). Nevertheless, their presence should be interpreted with caution, as these taxa are easily mineralised and are not charred. Signiﬁcant evidence comes from a
+fragment of yew fruit, as the use of this taxon as fuel has not been noted
+at any point in the sequence of El Salt (Vidal-Matutano, 2016). This
+contrasts with the anthracological information from Abric del Pastor,
+where few yew fragments were identiﬁed among the fuel used (VidalMatutano, 2015). The presence of this carpological remain only in unit
+Xb of El Salt raises the question of plants being collected for uses other
+than as fuel, e.g. the selection of woods with which to manufacture
+implements or handles for tools. In fact, yew wood is very strong and
+elastic, which makes it easy to work with (Uzquiano et al., 2015). This
+460
+
+Journal of Archaeological Science: Reports 19 (2018) 454–464
+
+P. Vidal-Matutano et al.
+
+Fig. 5. Cost surface map with the isochrones (walking hours) from El Salt. Bioclimatic belts represented show its theoretical distribution based on simulated
+biogeographical conditions for MIS 3 period in the region (Vidal-Matutano and Pardo-Gordó, 2017).
+
+and to the north it would be possible to reach part of the Sierra Mariola
+and the Serpis valley in this period of time, as there are no signiﬁcant
+slopes (Fig. 5). However, these landscape analysis models are based on
+the current geomorphological features of a region, concealing the
+orographic changes that have taken place since the Pleistocene. Given
+that our intention is to deﬁne the optimal distribution of vegetation
+based on the identiﬁed macrobotanical remains, we have chosen to use
+two theoretical concentric circles relating to two levels of wood procurement (Fig. 6):
+- Theoretical procurement within a radius of 1 km: the immediate
+vicinity of the site based on ethnographic data that suggest that dead
+wood is gathered within a radius of up to 1 km and green wood within a
+distance of 50–70 m (Alix and Brewster, 2004; Henry et al., 2009;
+Henry and Théry-Parisot, 2014). This distance from the site would
+depend mainly on the availability of Pinus nigra-sylvestris and Acer sp.
+wood in diﬀerent states, i.e. dead, rotting, green or healthy wood.
+- Theoretical procurement within a radius of 5 km: an area that was
+traditionally regarded as optimal for ﬁrewood gathering, equivalent to
+the territory covered in 1 h (Butzer, 1982; Badal and Heinz, 1991).
+Juniperus sabina would have been present in this area, predominantly
+occupying the oro-Mediterranean bioclimatic belt, possibly together
+with other species of the same genus (J. communis, J. thurifera). Some
+species of Quercus would have been present in the region, with a greater
+abundance of deciduous Quercus sp. in more humid areas. Finally, some
+scantly represented taxa would have occupied riverside plant formations (ash, elm, willow, poplar) or valleys or shady areas (yew).
+The analysis of ﬁrewood procurement, together with the hypothetical distribution of vegetation during MIS 3, reinforces the idea of the
+strategic location of the settlement in a rock shelter with quick, easy
+access to a variety of biotopes: supra-Mediterranean and oroMediterranean medium-high mountains, extensive plains in the Serpis
+
+the presence of these carpological remains could provide clues to the
+seasonal use of this hearth. According to the growth cycle of maple, the
+occupation event related to combustion structure 57 may have taken
+place during the autumn-winter period (Vidal-Matutano et al., 2017a).
+This evidence is a good example of the need to interrelate the presence
+of carpological and anthracological remains in order to obtain signiﬁcant information about the use and management of plants.
+5.2.2. Plant resources management by Neanderthal groups
+Site catchment analysis (SCA) has been widely used to assess the
+interaction of human societies with the natural resources available in
+their surroundings (Jarman et al., 1972; Roper, 1979; Hodder and
+Orton, 1990). Despite the potential shown by this tool in the ﬁrst model
+applied to catchment areas among hunter-gatherer groups in the area
+around Monte Carmelo (Vita-Finzi and Higgs, 1970), few studies have
+been published for Pleistocene contexts (Bailey and Davidson, 1983;
+Marín Arroyo, 2008). In our case, it is a good analytical tool for estimating the extent to which the composition of the local landscape inﬂuenced planned wood gathering activities.
+One of the proposed approaches for achieving a more accurate
+calculation of catchment areas and distances from the site is to readjust
+the theoretical area on the basis of the topography. Thus, the area is
+delimited by isochrones or contour lines, making it possible to show the
+theoretical walking hours according to Naismith's rule (Jarman et al.,
+1972; Roper, 1979; Norman, 2004). In our case, the cumulative anisotropic cost of moving from El Salt to diﬀerent geographical locations
+was calculated using a raster map containing simulated biogeographical
+conditions for the MIS 3 period in the region of the Serpis valley (VidalMatutano and Pardo-Gordó, 2017). The cost map generated for El Salt
+shows that it takes two walking hours to reach the theoretical distribution of the oro-Mediterranean bioclimatic belt (Font Roja's peak),
+461
+
+Journal of Archaeological Science: Reports 19 (2018) 454–464
+
+P. Vidal-Matutano et al.
+
+Fig. 6. Hypothetical plant distribution during MIS 3 human occupations in the Serpis valley, based on the anthracological data from El Salt. Taxa symbols are based
+on the codiﬁcation used by De la Blache (1908).
+
+and Prins (1992), where ﬁrewood collection activities would take place
+within a small radius that would only have been extended due to a
+scarcity of dead wood.
+
+valley and riverside plant formations. Availability, access and abundance of ﬁrewood in the local environment would certainly have been
+decisive factors in choosing this location for the settlement. The
+abundance of coniferous woods in the anthracological record contrasts
+with the lower frequency of other plant formations that are found
+further from the shelter, such as riverside vegetation. This lower proportion could be explained by the existence of suﬃcient dead pine and
+maple wood in the immediate vicinity of the shelter, which would avoid
+its inhabitants having to transport wood from greater distances. The
+theoretical distance of 1 km around El Salt seems to suggest the existence of various biotopes that could provide the taxonomical diversity
+seen in the macrobotanical analysis. Moreover, this radius of action is
+consistent with the “Principle of least eﬀort” proposed by Shackleton
+
+6. Conclusions
+The data from the macrobotanical remains presented here have shed
+new light on the environmental conditions in Eastern Iberia during MIS
+3 and the use and management of ﬁrewood resources by Neanderthal
+groups. Systematic ﬂotation of sediments at El Salt has proven to be an
+eﬀective method for recovering charcoal and seed fragments. The anthracological data suggest that the local plant landscape was characterised by the dominance of sub-humid supra-Mediterranean
+462
+
+Journal of Archaeological Science: Reports 19 (2018) 454–464
+
+P. Vidal-Matutano et al.
+
+conditions (MAT 8–13 °C and MAP 600–1000 mm), similar to those
+currently found in the Sierra de Javalambre (Teruel) and the eastern
+Iberian system. Fuel gathering would have been a planned activity
+carried out mainly in local procurement areas. Site catchment analysis
+shows that wood collection activities could have been concentrated
+within a small radius of 1 km, where the diﬀerent biotopes found in the
+analysis of the macrobotanical remains would have been present. The
+theoretical distance of 1 km around the shelter is deﬁned in relation to
+the ethnographic observations that indicate this radius for the procurement of dead wood and a smaller distance for collecting green
+wood. In this regard, previous anthracological studies carried out at El
+Salt from a palaeoeconomic perspective have pointed to the preferential
+use of dead wood by Neanderthal groups, a type of biomass that would
+have been readily available in the immediate vicinity of the site. The
+combination of anthracological and carpological analyses is fundamental, as it enables us to gain a better picture of the local climatic
+conditions at that time (e.g. identiﬁcation of the species Juniperus sabina
+thanks to the recovery of endocarps). Moreover, the recovery of fruits
+from taxa that are absent in the anthracological record means that these
+plants may have been used for other purposes, e.g. wood working or
+food source (Taxus baccata). The application of systematic methods of
+recovering macrobotanical remains in other Middle Palaeolithic contexts will help to provide more knowledge about the dynamics of the
+local plant landscape and the way human groups interacted with plant
+resources.
+
+los restos carbonizados hallados en las cuevas de Alicante. In: Villaverde, V. (Ed.), De
+Neandertales a Cromañones: El inicio del poblamiento en las tierras valencianas.
+Servei de Publicacions. Universitat de València, pp. 21–40.
+Badal, E., Heinz, C., 1991. Méthodes utilisées en Anthracologie pour l'étude de sites
+préhistoriques. BAR International Series 573. pp. 17–47.
+Badal, E., Martínez, C., 2017. Diﬀerent parts of the same plants. Charcoals and seeds from
+Cova de les Cendres (Alicante, Spain). Quat. Int. http://dx.doi.org/10.1016/j.quaint.
+2016.12.020.
+Badal, E., Villaverde, V., Zilhão, J., 2012a. Middle Palaeolithic wood charcoal from three
+sites in South and West Iberia: biogeographic implications. In: Badal, E., Carrión, Y.,
+Macías, M., Ntinou, M. (Eds.), Wood and Charcoal. Evidence for Human and Natural
+History. 13. Saguntum-Extra, pp. 13–24.
+Badal, E., Carrión, Y., Figueiral, I., Oliva Rodríguez-Ariza, M., 2012b. Pinares y enebrales.
+El paisaje solutrense en Iberia. In: Espacio, Tiempo y Forma. Serie I Prehistoria y
+arqueología 5. pp. 259–272.
+Bailey, G.N., Davidson, I., 1983. Site exploitation territories and topography: two case
+studies from Palaeolithic Spain. J. Archaeol. Sci. 10, 87–115.
+Bigga, G., Schoch, W.H., Urban, B., 2015. Paleoenvironment and possibilities of plant
+exploitation in the Middle Pleistocene of Schöningen (Germany). Insights from botanical macro-remains and pollen. J. Hum. Evol. 89, 92–104.
+Blanco, E., Vasco, F., Abella, I., Cortés, S., 2008. Tejo y cultura: de la tradición
+etnobotánica a la farmacología cientíﬁca. In: Annals de la Delegació de La Garrotxa
+de la Institució Catalana d'Història Natural. 4. pp. 63–78.
+Butzer, K.W., 1982. Archaeology as Human Ecology: Method and Theory for a Contextual
+Approach. Cambridge University Press.
+Cabanes, D., Mallol, C., Expósito, I., Baena, J., 2010. Phytolith evidence for hearths and
+beds in the late Mousterian occupations of Esquilleu cave (Cantabria, Spain). J.
+Archaeol. Sci. 37, 2947–2957.
+Carrión, Y., Ntinou, M., Badal, E., 2010. Olea europaea L. in the North Mediterranean
+Basin during the Pleniglacial and the Early–Middle Holocene. Quat. Sci. Rev. 29,
+952–968.
+Castroviejo, S., 1986–2012. Flora ibérica 1–8, 10–15, 17–18, 21. Real Jardín Botánico.
+CSIC, Madrid.
+Cattelain, P., 1997. Hunting during the Upper Paleolithic: bow, spearthrower, or both? In:
+Knecht, H. (Ed.), Projectile Technology. Springer, pp. 213–240.
+Cortés, S., Vasco, F., Castro, E.B., 2000. El libro del tejo (Taxus baccata L.): un proyecto
+para su conservación. Arba.
+Costa, M., Morla, C., Sainz (Eds.), 2005. Los bosques ibéricos: Una interpretación
+geobotánica. Planeta, Barcelona.
+Cowan, M.R., Gabel, M.L., Jahren, A.H., Tieszen, L.L., 1997. Growth and biomineralization of Celtis occidentalis (Ulmaceae) pericarps. Am. Midl. Nat. 137, 266–273.
+De la Blache, P.V., 1908. Tableau de la géographie de la France. Hachette.
+Dominguez-Rodrigo, M., Serrallonga, J., Juan-Tresserras, J., Alcala, L., Luque, L., 2001.
+Woodworking activities by early humans: a plant residue analysis on Acheulian stone
+tools from Peninj (Tanzania). J. Hum. Evol. 40, 289–299.
+Estalrrich, A., El Zaatari, S., Rosas, A., 2017. Dietary reconstruction of the El Sidrón
+Neandertal familial group (Spain) in the context of other Neanderthal and modern
+hunter-gatherer groups. A molar microwear texture analysis. J. Hum. Evol. 104,
+13–22.
+Fagoaga, A., Ruiz-Sánchez, F.J., Laplana, C., Blain, H.A., Marquina, R., Marin-Monfort,
+M.D., Galván, B., 2017. Palaeocological implications of Neanderthal occupation at
+Unit Xb of El Salt (Alcoi, eastern Spain) during MIS 3 using small mammals proxy.
+Quat. Int. http://dx.doi.org/10.1016/j.quaint.2017.10.024.
+Finlayson, C., Fa, D.A., Espejo, F.J., Carrión, J.S., Finlayson, G., Pacheco, F.G., Vidal, J.R.,
+Stringer, C., Ruiz, F.M., 2008. Gorham's Cave, Gibraltar — the persistence of a
+Neanderthal population. Quat. Int. 181, 64–71.
+Gale, R., Carruthers, W., 2000. Charcoal and charred seed remains from Middle
+Palaeolithic levels at Gorham's and Vanguard Caves. In: Stringer, C., Barton, R.,
+Finlayson, C. (Eds.), Neanderthals on the Edge. Oxbow Books, pp. 207–210.
+Galván, B., Hernández, C.M., Mallol, C., Machado, J., Sistiaga, A., Molina, F.J., Pérez, L.J.,
+Afonso, R., Garralda, M.D., Mercier, N., Morales, J.V., Sanchis, A., Tarriño, A.,
+Gómez, J.A., Rodríguez, Á., Abreu, I., Vidal-Matutano, P., 2014a. El Salt. Últimos
+neandertales de la montaña alicantina (Alcoy, España). In: Carbonell, E., Bermúdez
+de Castro, J.M., Arsuaga, J.L. (Eds.), Los cazadores-recolectores del Pleistoceno y del
+Holoceno en Iberia y el Estrecho de Gibraltar: Estado actual del conocimiento del
+registro arqueológico. Universidad de Burgos and Fundación Atapuerca, Burgos, pp.
+380–388.
+Galván, B., Hernández, C.M., Mallol, C., Mercier, N., Sistiaga, A., Soler, V., 2014b. New
+evidence of early Neanderthal disappearance in the Iberian Peninsula. J. Hum. Evol.
+75, 16–27.
+García Moreno, A., Rios Garaizar, J., Marín Arroyo, A.B., Eugenio Ortíz, J., de Torres, T.,
+López-Dóriga, I., 2014. La secuencia musteriense de la Cueva del Niño (Aýna,
+Albacete) y el poblamiento neandertal en el sureste de la península Ibérica. Trab.
+Prehist. 71, 221–241.
+Garralda, M.D., Galván, B., Hernández, C.M., Mallol, C., Gómez, J.A., Maureille, B., 2014.
+Neanderthals from El Salt (Alcoy, Spain) in the context of the latest Middle
+Palaeolithic populations from the southeast of the Iberian Peninsula. J. Hum. Evol.
+75, 1–15.
+Goren-Inbar, N., Sharon, G., Melamed, Y., Kislev, M., 2002. Nuts, nut cracking, and pitted
+stones at Gesher Benot Ya ‘aqov, Israel. Proc. Natl. Acad. Sci. 99, 2455–2460.
+Gualda Gómez, C.E., 1988. La Sierra de Mariola: aspectos geomorfológicos y
+biogeográﬁcos. Universidad de Alicante.
+Hardy, B.L., Garuﬁ, G.T., 1998. Identiﬁcation of woodworking on stone tools through
+residue and use-wear analyses: experimental results. J. Archaeol. Sci. 25, 177–184.
+Hardy, B.L., Moncel, M.-H., 2011. Neanderthal use of ﬁsh, mammals, birds, starchy plants
+and wood 125–250,000 years ago. PLoS One 6, e23768.
+Hardy, K., Buckley, S., Collins, M., Estalrrich, A., Brothwell, D., Copeland, L., GarcíaTabernero, A., García-Vargas, S., de la Rasilla, M., Lalueza-Fox, C., Huguet, R., Bastir,
+M., Santamaría, D., Madella, M., Wilson, J., Cortés, Á., Rosas, A., 2012. Neanderthal
+medics? Evidence for food, cooking, and medicinal plants entrapped in dental
+
+Acknowledgements
+This work was carried out with the ﬁnancial support of a VALi+d
+pre-doctoral grant (ACIF/2013/260) awarded to P. Vidal-Matutano.
+The archaeological research was funded under the Spanish Government
+projects HAR2012-32703 and HAR2015-68321-P (MICINN-FEDER/UE)
+and Direcció General de Cultura (Conselleria d'Educació, Cultura i
+Esports, Generalitat Valenciana). PVM is funded by the APOSTD
+Postdoctoral grant (APOST/2017/126, Generalitat Valenciana). GPJ
+has participated as part of his post-doctoral contract IJCI-2015-25082
+funded by the Spanish Ministerio de Economía, Industria y
+Competitividad. We would like to thank the ANTHOS Project
+(Fundación Biodiversidad and CSIC – Real Jardín Botánico) which allowed us the use of spatial information relating to the current distribution of taxa and the team from El Salt for their help with ﬁeld
+sampling tasks. We are very grateful to the reviewers for helpful comments on the manuscript.
+References
+Albert, R., 2010. Hearths and plant uses during the Upper Palaeolithic period at Klissoura
+Cave 1 (Greece): the results from phytolith analyses. In: Eurasian Prehistory. 7. pp.
+71–85.
+Albert, R.M., Berna, F., Goldberg, P., 2012. Insights on Neanderthal ﬁre use at Kebara
+Cave (Israel) through high resolution study of prehistoric combustion features: evidence from phytoliths and thin sections. Quat. Int. 247, 278–293.
+Alcolea, M., 2016. Mesolithic fuel use and woodland in the Middle Ebro Valley (NE Spain)
+through wood charcoal analysis. Quat. Int. http://dx.doi.org/10.1016/j.quaint.2015.
+11.029.
+Alix, C., Brewster, K., 2004. Not all driftwood is created equal: wood use and value along
+the Yukon and Kuskowim Rivers, Alaska. Alaska J. Anthropol. 2, 48–65.
+Allué, E., Cáceres, I., Expósito, I., Canals, A., Rodríguez, A., Rosell, J., Bermúdez de
+Castro, J.M., Carbonell, E., 2015. Celtis remains from the Lower Pleistocene of Gran
+Dolina, Atapuerca (Burgos, Spain). J. Archaeol. Sci. 53, 570–577.
+Allué, E., Solé, A., Burguet-Coca, A., 2016. Fuel exploitation among Neanderthals based
+on the anthracological record from Abric Romaní (Capellades, NE Spain). Quat. Int.
+http://dx.doi.org/10.1016/j.quaint.2015.12.046.
+Arsuaga, J.L., Baquedano, E., Pérez-González, A., Sala, N., Quam, R.M., Rodríguez, L.,
+García, R., García, N., Álvarez-Lao, D.J., Laplana, C., Huguet, R., Sevilla, P.,
+Maldonado, E., Blain, H.-A., Ruiz-Zapata, M.B., Sala, P., Gil-García, M.J., Uzquiano,
+P., Pantoja, A., Márquez, B., 2012. Understanding the ancient habitats of the lastinterglacial (late MIS 5) Neanderthals of central Iberia: Paleoenvironmental and taphonomic evidence from the Cueva del Camino (Spain) site. Quat. Int. 275, 55–75.
+Aura, J., Carrión, Y., Estrelles, E., Jordà, G., 2005. Plant economy of hunter-gatherer
+groups at the end of the last Ice Age: plant macroremains from the cave of Santa
+Maira (Alacant, Spain) ca. 12000–9000 B.P. Veg. Hist. Archaeobotany 14, 542–550.
+Badal, E., Carrión, Y., 2001. Del Glaciar al Interglaciar: los paisajes vegetales a partir de
+
+463
+
+Journal of Archaeological Science: Reports 19 (2018) 454–464
+
+P. Vidal-Matutano et al.
+
+calculus. Naturwissenschaften 99, 617–626.
+Haws, J.A., 2004. An Iberian perspective on Upper Paleolithic plant consumption. PRO 2,
+49–106.
+Henry, A., Boboeuf, M., 2016. Environnement ligneux et gestion du bois de feu au cours
+du Mésolithique au Clos de Poujol (Campagnac, Aveyron). In: Bulletin de la Société
+Préhistorique Française. 113. pp. 5–30.
+Henry, A., Théry-Parisot, I., 2014. From Evenk campﬁres to prehistoric hearths: charcoal
+analysis as a tool for identifying the use of rotten wood as fuel. J. Archaeol. Sci. 52,
+321–336.
+Henry, A., Théry-Parisot, I., Voronkova, E., 2009. La gestion du bois de feu en forêt
+boréale: problématique archéo-anthracologique et étude d'un cas ethnographique
+(Région de l'Amour, Sibérie). In: Théry-Parisot, I., Costamagno, S., Henry, A. (Eds.),
+Gestion des combustibles au Paléolithique et au Mésolithique: Nouveaux outils,
+nouvelles interprétations. Fuel Management during the Palaeolithic and Mesolithic
+periods: New tools, new interpretations. BAR International Series. 1914. pp. 17–37.
+Henry, A.G., Brooks, A.S., Piperno, D.R., 2011. Microfossils in calculus demonstrate
+consumption of plants and cooked foods in Neanderthal diets (Shanidar III, Iraq; Spy I
+and II, Belgium). Proc. Natl. Acad. Sci. 108, 486–491.
+Hodder, I., Orton, C., 1990. Análisis espacial en Arqueología. Crítica.
+Jacquiot, C., Trenard, Y., Dirol, D., 1973. Atlas d'anatomie des bois des angiosperms
+(Essences feuillues). Paris.
+Jarman, M.R., Vita-Finzi, C., Higgs, E.S., 1972. Site catchment analysis in archaeology. In:
+Ucko, P.J., Tringham, R., Dimbleby, G.W. (Eds.), Man, Settlement and Urbanism.
+Duckworth, London, pp. 61–66.
+Kuhnlein, H.V., Turner, N.J., 1991. Traditional Plant Foods of Canadian Indigenous
+Peoples. Gordon and Breach Publishers, Amsterdam.
+Lev, E., Kislev, M.E., Bar-Yosef, O., 2005. Mousterian vegetal food in Kebara Cave, Mt.
+Carmel. J. Archaeol. Sci. 32, 475–484.
+López Gómez, A., Rosselló Verger, V., 1978. Geografía de la provincia de Alicante.
+Diputación Provincial de Alicante.
+Machado, J., Pérez, L., 2016. Temporal frameworks to approach human behaviour concealed in Middle Palaeolithic palimpsests: a high-resolution example from El Salt
+Stratigraphic Unit X (Alicante, Spain). Quat. Int. 417, 66–81.
+Machado, J., Molina, F.J., Hernández, C.M., Tarriño, A., Galván, B., 2016. Using lithic
+assemblage formation to approach Middle Palaeolithic settlement dynamics: El Salt
+Stratigraphic Unit X (Alicante, Spain). Archaeol. Anthropol. Sci. http://dx.doi.org/
+10.1007/s12520-016-0318-z.
+Madella, M., Jones, M.K., Goldberg, P., Goren, Y., Hovers, E., 2002. The exploitation of
+plant resources by Neanderthals in Amud Cave (Israel): the evidence from phytolith
+studies. J. Archaeol. Sci. 29, 703–719.
+Mallol, C., Hernández, C.M., Cabanes, D., Machado, J., Sistiaga, A., Pérez, L., Galván, B.,
+2013a. Human actions performed on simple combustion structures: an experimental
+approach to the study of Middle Palaeolithic ﬁre. Quat. Int. 315, 3–15.
+Mallol, C., Hernández, C.M., Cabanes, D., Sistiaga, A., Machado, J., Rodríguez, Á., Pérez,
+L., Galván, B., 2013b. The black layer of Middle Palaeolithic combustion structures.
+Interpretation and archaeostratigraphic implications. J. Archaeol. Sci. 40,
+2515–2537.
+Marín Arroyo, A.B., 2008. Patrones de movilidad y control del territorio en el Cantábrico
+oriental durante el Tardiglaciar. Trab. Prehist. 65, 29–45.
+Martínez, C.M., Badal, E., 2018. Plant use at the end of the Upper Palaeolithic: archaeobotanical remains from Cova de les Cendres (Teulada-Moraira, Alicante, Spain).
+Veg. Hist. Archaeobotany 27 (1), 3–14.
+Messager, E., Badou, A., Fröhlich, F., Deniaux, B., Lordkipanidze, D., Voinchet, P., 2010.
+Fruit and seed biomineralization and its eﬀect on preservation. Archaeol. Anthropol.
+Sci. 2, 25–34.
+Metcalf, C.R., 1964. Gorham's cave, Gibraltar: report on the plant remains. The excavation of Gorham's cave, Gibraltar, 1951–1954. Bull. Inst. Archaeol. 4, 219.
+Monasterio-Huelin, E., 1999. Rubus. In: Castroviejo, S., Aedo, C., Laínz, M., Muñoz
+Garmedia, F., Nieto Feliner, G., Paiva, J., Benedí, C. (Eds.), Flora ibérica 6, pp. 16–71.
+Monteiro, P.D., 2013. Wood charcoal analysis of Mesolithic archaeological contexts from
+Portugal: state of the art. In: ArkeoGazte: Revista de arqueología-Arkelogia aldizkaria. 3. pp. 51–62.
+Norman, J., 2004. Running uphill: energy needs and Naismith's Rule. J. Oper. Res. Soc.
+55, 308–311.
+Ozenda, P., 1982. Les végétaux dans la biosphère. Doin Éditeurs, Paris.
+Pardo-de-Santayana, M., Tardío, J., Blanco, E., Carvalho, A.M., Lastra, J.J., San Miguel,
+E., Morales, R., 2007. Traditional knowledge of wild edible plants used in the
+northwest of the Iberian Peninsula (Spain and Portugal): a comparative study. J.
+Ethnobiol. Ethnomed. 3, 27.
+Pérez-Díaz, S., López-Sáez, J.A., Ruiz-Alonso, M., Zapata, L., Abel-Schaad, D., 2013.
+Holocene history of Taxus baccata in the Basque Mountains (Northern Iberian
+Peninsula). Lazaroa 34, 29–41.
+Pryor, A.J., Steele, M., Jones, M.K., Svoboda, J., Beresford-Jones, D.G., 2013. Plant foods
+in the Upper Palaeolithic at Dolní Vӗstonice? Parenchyma redux. Antiquity 87,
+971–984.
+Richards, M.P., Pettitt, P.B., Trinkaus, E., Smith, F.H., Paunović, M., Karavanić, I., 2000.
+Neanderthal diet at Vindija and Neanderthal predation: the evidence from stable
+isotopes. Proc. Natl. Acad. Sci. 97, 7663–7666.
+Rios-Garaizar, J., López-Bultó, O., Iriarte, E., Pérez-Garrido, C., Piqué, R., Aranburu, A.,
+Iriarte-Chiapusso, M.J., Ortega-Cordellat, I., Bourguignon, L., Garate, D., Libano, I.,
+2018. A Middle Palaeolithic wooden digging stick from Aranbaltza III, Spain. PLoS
+ONE 13 (3), e0195044. http://dx.doi.org/10.1371/journal.pone.0195044.
+Rivas-Martinez, S., 1987. Memoria del mapa de series de vegetación de España:
+1:400.000. ICONA.
+
+Rivera-Núñez, D., Obón-de-Castro, C., 1991. La Guía de INCAFO de las plantas útiles y
+venenosas de la Península Ibérica y Baleares (excluidas medicinales). INCAFO,
+Madrid.
+Rodríguez-Cintas, Á., Cabanes, D., 2015. Phytolith and FTIR studies applied to combustion structures: the case of the Middle Paleolithic site of El Salt (Alcoy, Alicante).
+Quat. Int. http://dx.doi.org/10.1016/j.quaint.2015.09.043.
+Roiron, P., Chabal, L., Figueiral, I., Terral, J.-F., Ali, A.A., 2013. Palaeobiogeography of
+Pinus nigra Arn. subsp. salzmannii (Dunal) Franco in the north-western
+Mediterranean Basin: a review based on macroremains. Rev. Palaeobot. Palynol. 194,
+1–11.
+Roper, D.C., 1979. The method and theory of site catchment analysis: a review. Adv.
+Archeol. Method Theory 2, 119–140.
+Schweingruber, F.H., 1976. Prähistorisches Holz: die Bedeutung von Holzfunden aus
+Mitteleuropa für die Lösung archäologischer und vegetationskundlicher Probleme. P.
+Haupt.
+Serra Laliga, L., Soler, J., 2011. Flora del Parc Natural de la Font Roja. Caja Mediterráneo,
+Alcoi.
+Shackleton, C.M., Prins, F., 1992. Charcoal analysis and the “Principle of Least Eﬀort”—a
+conceptual model. J. Archaeol. Sci. 19, 631–637.
+Shillito, L.-M., Almond, M.J., 2010. Comment on: fruit and seed biomineralization and its
+eﬀect on preservation by E. Messager et al. Archaeol. Anthropol. Sci. 2, 225–229.
+Sievers, C., 2006. Seeds from the Middle Stone Age layers at Sibudu Cave. South. Afr.
+Humanit. 18, 203–222.
+Sistiaga, A., Mallol, C., Galván, B., Summons, R.E., 2014. The Neanderthal meal: a new
+perspective using faecal biomarkers. PLoS One 9, e101045.
+Snir, A., Nadel, D., Weiss, E., 2015. Plant-food preparation on two consecutive ﬂoors at
+Upper Paleolithic Ohalo II, Israel. J. Archaeol. Sci. 53, 61–71.
+Théry-Parisot, I., 2002. Fuel management (bone and wood) during the Lower Aurignacian
+in the Pataud rock shelter (Lower Palaeolithic, Les Eyzies de Tayac, Dordogne,
+France). Contribution of experimentation. J. Archaeol. Sci. 29, 1415–1421.
+Théry-Parisot, I., Gril, J., Vernet, J., Meignen, L., Maury, J., 1996. Coal used for fuel at
+two prehistoric sites in southern France: Les Canalettes (Mousterian) and Les
+Usclades (Mesolithic). J. Archaeol. Sci. 23, 509–512.
+Théry-Parisot, I., Chabal, L., Chrzavzez, J., 2010. Anthracology and taphonomy, from
+wood gathering to charcoal analysis. A review of the taphonomic processes modifying
+charcoal assemblages, in archaeological contexts. Palaeogeogr. Palaeoclimatol.
+Palaeoecol. 291, 142–153.
+Uzquiano, P., 1992. L'Homme et le bois au Paléolithique en région cantabrique, Espagne.
+Exemples d'Altamira et d'El Buxu. In: Bulletin de la Société Botanique de France.
+Actualités Botaniques. 139. pp. 361–372.
+Uzquiano, P., Yravedra, J., Zapata, B.R., Garcia, M.J.G., Sesé, C., Baena, J., 2012. Human
+behaviour and adaptations to MIS 3 environmental trends (> 53–30 ka BP) at
+Esquilleu cave (Cantabria, northern Spain). Quat. Int. 252, 82–89.
+Uzquiano, P., Allué, E., Antolín, F., Burjachs, F., Picornel, L., Piqué, R., Zapata, L., 2015.
+All about yew: on the trail of Taxus baccata in Southwest Europe by means of integrated palaeobotanical and archaeobotanical studies. Veg. Hist. Archaeobotany 24,
+229–247.
+Vaquero, M., Pastó, I., 2001. The deﬁnition of spatial units in Middle Palaeolithic sites:
+the hearth-related assemblages. J. Archaeol. Sci. 28, 1209–1220.
+Vidal-Matutano, P., 2015. Evidència de recol· lecció de teix (Taxus baccata L.) pels grups
+neandertals de l'Abric del Pastor (Alcoi, Alacant). In: Recerques del Museu d'Alcoi.
+24. pp. 7–20.
+Vidal-Matutano, P., 2016. Around the Fire: Landscape, Climate and Firewood
+Management in Hunter-Gatherer Groups during the Middle Palaeolithic (Alicante,
+Spain). Unpublished Doctoral Dissertation, Universitat de València.
+Vidal-Matutano, P., 2017. Firewood and hearths: middle Palaeolithic woody taxa distribution from El Salt, Stratigraphic Unit Xb (Eastern Iberia). Quat. Int. 457, 74–84.
+Vidal-Matutano, P., Pardo-Gordó, S., 2017. Modelling Middle Palaeolithic climatic data
+based on charcoal analysis results: evidence from Abric del Pastor and El Salt (Eastern
+Iberia). In: 23rd Annual Meeting of the European Association of Archaeologists, 30th
+August–3rd September 2017, Maastricht. Abstract book., Jos Bazelmans and
+Klinkhamer Group, pp. 349.
+Vidal-Matutano, P., Hernández, C.M., Galván, B., Mallol, C., 2015. Neanderthal ﬁrewood
+management: evidence from Stratigraphic Unit IV of Abric del Pastor (Eastern Iberia).
+Quat. Sci. Rev. 111, 81–93.
+Vidal-Matutano, P., Henry, A., Théry-Parisot, I., 2017a. Dead wood gathering among
+Neanderthal groups: charcoal evidence from Abric del Pastor and El Salt (Eastern
+Iberia). J. Archaeol. Sci. 80, 109–121.
+Vidal-Matutano, P., Blasco, R., Sañudo, P., Fernández-Peris, J., 2017b. The anthropogenic
+use of ﬁrewood during the European Middle Pleistocene: Charcoal evidence from
+levels XIII and XI of Bolomor Cave, Eastern Iberia (230–160 ka). Environ. Archaeol.
+http://dx.doi.org/10.1080/14614103.2017.1406026.
+Vita-Finzi, C., Higgs, E.S., 1970. Prehistory economy in the Mount Carmel area of
+Palestine: site catchment analysis. Proc. Prehist. Soc 36, 1–37.
+Weiss, E., Wetterstrom, W., Nadel, D., Bar-Yosef, O., 2004. The broad spectrum revisited:
+evidence from plant remains. Proc. Natl. Acad. Sci. U. S. A. 101, 9551–9555.
+Weiss, E., Kislev, M.E., Simchoni, O., Nadel, D., Tschauner, H., 2008. Plant-food preparation area on an Upper Paleolithic brush hut ﬂoor at Ohalo II, Israel. J. Archaeol.
+Sci. 35, 2400–2414.
+Zilhão, J., Ajas, A., Badal, E., Burrow, C., Kehl, M., López-Sáez, J.A., Pimenta, C., Preece,
+R.C., Sanchis, A., Sanz, M., Weniger, G.-C., White, D., Wood, R., Angelucci, D.E.,
+Villaverde, V., Zapata, J., 2016. Cueva Antón: A multi-proxy MIS 3 to MIS 5a paleoenvironmental record for SE Iberia. Quat. Sci. Rev. 146, 251–273.
+
+464
+
+

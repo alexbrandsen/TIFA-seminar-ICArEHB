@@ -1,0 +1,1156 @@
+Journal of Archaeological Science 36 (2009) 1590–1596
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Short-chain n-alkanes (C16–20) in ancient soil are useful molecular markers for
+prehistoric biomass burning
+Eileen Eckmeier a, *, Guido L.B. Wiesenberg b
+a
+b
+
+University of Zurich, Department of Geography, Winterthurerstrasse 190, 8057 Zurich, Switzerland
+University of Bayreuth, Department of Agroecosystem Research, 95440 Bayreuth, Germany
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 12 August 2008
+Received in revised form
+22 December 2008
+Accepted 10 March 2009
+
+The incorporation of plant biomass into soil usually leads to long-chain n-alkanes with a relative
+predominance of odd carbon numbered homologues. Contrastingly, an increase in short-chain even
+carbon numbered n-alkanes was found in charred biomass with progressing temperatures. We applied
+lipid analysis to buried ancient topsoils that contained charred organic matter and to corresponding
+control soils, which were characterized by a lighter color and lower contents of charred materials.
+Commonly, the proportion of lipid extracts was found to be lower in the ancient soil than in the control
+samples, which indicated an enhanced degradation of organic matter, e.g., by thermal degradation. All
+samples displayed a particular pattern of short-chain and even carbon numbered n-alkanes (maximum
+at n-C16 or n-C18). The ratios CPI (carbon preference index) and ACL (average chain length) for the
+investigated soil samples matched the ratios found for maize and rye straw charred at 400  C or 500  C,
+respectively. These molecular ratios indicate the presence of charred biomass. The predominance of
+short-chain and even carbon numbered n-alkanes was a result of thermal degradation of biomass. The
+degradation products were preserved in ancient soils and could be applied as molecular markers in
+archaeological or palaeoenvironmental research.
+Ó 2009 Elsevier Ltd. All rights reserved.
+
+Keywords:
+n-Alkanes
+Biomass burning
+Charred organic matter
+
+1. Introduction
+Geochemical methods are used to measure the changes in soil
+inorganic and organic matter over time, either caused by natural
+processes or by human impact (e.g., Bull et al., 1999b; Entwistle
+et al., 2000; Schuldenrein, 1995). Anthropogenic changes in soil
+organic matter composition could result from various activities, e.g.,
+clearing of forests or individual agricultural practices like manuring
+or burning. Until now, knowledge concerning prehistoric agricultural techniques is strongly limited (Bakels, 1997). The changes in
+soil organic matter composition due to agricultural practice could be
+considered part of the archaeological record, but the marker
+substances that allow the assessment of anthropogenic activities are
+diverse and their long-term fate in soil is often unknown (Heron,
+2004). The ﬁre-history of a site can be reconstructed by the presence
+of macrocharcoal or by applying chemical methods to determine the
+amount of charred organic matter in soil samples (e.g., Bird and Cali,
+1998; Carcaillet et al., 2002; Wang et al., 2005; Gerlach et al., 2006).
+However, burning of grass or herbaceous vegetation does not
+
+* Corresponding author. Tel.: þ41 446 355 227; fax: þ41 446 356 848.
+E-mail address: eileen.eckmeier@geo.uzh.ch (E. Eckmeier).
+0305-4403/$ – see front matter Ó 2009 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2009.03.021
+
+produce large amounts of charcoal particles and chemical methods
+are rarely applied.
+The analysis of lipids in soils became an established application in palaeoenvironmental and archaeological research (Knights
+et al., 1983; Pepe and Dizabo, 1989; Evershed, 1993; Bethell et al.,
+1994). Soil lipids derive mainly from plants or microorganisms
+(Dinel et al., 1990). After their incorporation into the soil matrix,
+the primary biogenic lipids are progressively reduced to lipid
+moieties that are less susceptible against degradation and yield
+the potential to be preserved in sedimentary environments and
+soils (Kolattukudy et al., 1976) due to the higher recalcitrance of
+degradation products like aliphatic and aromatic hydrocarbons
+(Marschner et al., 2008). Hence, n-alkanes and aromatic hydrocarbons are more resistant against microbial decomposition than
+lipidic precursor compounds like fatty acids and alcohols
+(Kästner, 2000; Nguyen Tu et al., 2001; Galiulin et al., 2002;
+Wiesenberg et al., 2004b, 2008). The chain length of n-alkanes is
+related to their provenance: odd carbon numbered long-chained
+(>C25) alkanes are attributed to higher plants (Eglinton et al.,
+1962), while odd carbon numbered short-chained (<C21) alkanes
+derive from microbial organisms (Dinel et al., 1990). The distribution patterns of lipidic compounds like n-alkanes may therefore indicate the sources of biomass inputs in soils or sediments
+
+E. Eckmeier, G.L.B. Wiesenberg / Journal of Archaeological Science 36 (2009) 1590–1596
+
+(Jambu et al., 1991; Amblès et al., 1994; Marseille et al., 1999;
+Peters et al., 2005). Lipid analysis has been demonstrated to be
+a useful tool to detect vegetation or land use changes in soils after
+several thousands of years, e.g., to identify the use of grass turfs
+to build the Orkney plaggen soils (Bull et al., 1999a), or to follow
+the environmental history in lake sediments (Schwark et al.,
+2002; Fisher et al., 2003) and in a sequence of palaeosoils (Xie
+et al., 2003). During the recent past, a variety of lipid patterns and
+compounds have been described to be diagnostic for different
+organic materials. They provide the potential to reﬂect soil
+management practises in soil organic matter (Pepe and Dizabo,
+1989; Bethell et al., 1994; Evershed et al., 1997; Simpson et al.,
+1998; Bull et al., 1999a; Wiesenberg and Schwark, 2006).
+The thermal degradation of biomass during a ﬁre causes
+changes in lipid distribution patterns (González-Vila et al., 2001;
+Simoneit, 2002) that differ from microbial degradation during
+composting (Dinel et al., 2001; Spaccini and Piccolo, 2007) because
+biomass burning induces faster and stronger reactions due to the
+high temperatures reached. Wiesenberg et al. (2009) showed that
+the distribution patterns of n-alkanes in biomass samples (maize
+and rye straw) changed as a function of temperature. During the
+charring process, the long-chain n-alkanes were strongly reduced
+by heat, which caused short-chain even carbon numbered
+n-alkanes with a maximum at n-C18 or n-C16 to dominate in
+samples charred at 500  C. Hence, this extraordinary predominance
+of short-chain even carbon numbered homologues was found to be
+a useful marker for incomplete burning of biomass.
+After burning events, either wildﬁres or deliberate burning,
+a fraction of the charred organic material left on the soil surface is
+incorporated into the soil mineral matrix (Eckmeier et al., 2007).
+The lipid distribution patterns in some soils in Spain that were
+affected by vegetation burning were dominated by short-chain
+even carbon numbered n-alkanes (Tinoco et al., 2006). These
+patterns were different from the patterns observed in unburned
+biomass but in some cases similar to the composition of soot
+(Simoneit, 2002; Oros et al., 2006) and to the results of Wiesenberg
+et al. (2009) for charred biomass.
+In the present study, we applied lipid analysis to buried ancient
+topsoils in NW-Germany that contained charred organic matter.
+The 14C-ages of macrocharcoals and black carbon indicated burning
+of biomass during Mesolithic to Neolithic periods. The aim of the
+study is to investigate if the distribution patterns of n-alkanes
+detected in freshly charred biomass or recently burned soils (shortchained and even carbon numbered) are also detectable in ancient
+soils after several thousands of years, and if n-alkanes might
+therefore be applicable as molecular markers for ﬁre in archaeological or palaeoenvironmental research.
+2. Material and methods
+Soil samples were collected in the southern Lower Rhine Basin
+(NW-Germany) from a gas pipeline trench and from four archaeological excavations within the region. We investigated ancient
+dark brown humic soil horizons (relic Anthrosols) that were
+distributed as patches (diam. < 100 m) in surrounding Luvisols.
+Always connected to the dark soil horizons were anthropogenic
+pits that were ﬁlled with the same soil material. The organic matter
+found in the investigated dark soils is former topsoil material that
+was preserved in the pits or that has been transported down the
+soil proﬁle as a result of leaching and clay migration and accumulated in the Bt-horizon.
+The pits have regular shapes but never contained visible artefacts. About one-third of the soil organic matter in pit ﬁllings and
+soil horizons consisted of charred organic matter, or black carbon.
+AMS 14C data of charred organic matter from soil samples selected
+
+1591
+
+for this study (Table 1) indicated the occurrence of ﬁres during
+Mesolithic to Neolithic periods (Gerlach et al., 2006; Eckmeier et al.,
+2009). The control samples were taken from the soil material
+(Bt-horizon of Luvisols) directly next to the pits from an identical
+soil depth. Additionally, two settlement pit ﬁllings were sampled in
+a clearly deﬁned and archaeologically dated Early Neolithic settlement area. They contained artefacts, mainly settlement waste like
+pot-sherds or bones, and charred organic matter.
+After drying the soil samples at 40  C, the aggregates were
+crushed and coarse material (>2 mm) was removed by dry sieving.
+Total carbon concentrations were determined for all soil samples by
+dry combustion via an elemental analyzer (Elementar VarioEL).
+Lipids were extracted from soil samples (100–120 g) via
+a Soxhlet-extractor for 24 h using dichloromethane/methanol (2/1;
+v/v). According to Wiesenberg et al. (in press) the total lipid extract
+(TLE) was separated into two fractions by elution on a KOH coated
+SiO2 column: (i) a neutral fraction and (ii) an acid fraction, containing mainly fatty acids. The neutral lipids were subsequently
+separated using the medium-pressure liquid chromatography
+separation scheme (MPLC) described by Radke et al. (1980) to gain
+the aliphatic hydrocarbons, which were directly amenable for gas
+chromatographic analyses. For quantiﬁcation, a deﬁned amount of
+d50-n-C24 alkane was added to each sample. Identiﬁcation and
+quantiﬁcation of compounds were performed on an Agilent 6890N
+gas chromatograph with a diphenyldimethylpolysiloxan-coated
+(0.33 mm) silica capillary column (50 m  0.2 mm; J&W DB5),
+coupled to an Agilent 5973 mass spectrometer. The initial
+temperature was held at 70  C for 3 min after injection, then
+ramped to 140  C at 10  C per minute, followed by a temperature
+increase of 3  C per minute until 320  C and held constant at 320  C
+for 30 min.
+3. Results and discussion
+3.1. Total lipid extracts
+Soil lipids usually contribute 20–60 g kg1 to soil organic matter
+(Stevenson, 1982). Here, the lipid extract yields, normalized to soil
+organic carbon (SOC), varied between 19 and 324 g TLE kg1 SOC.
+They exceeded values determined for B-horizons from other loessderived soils in Germany (9–15 g lipid kg1 SOC; Wiesenberg et al.,
+2006) and from a Haplic Podzol (4–24 g lipid kg1 SOC; Naafs et al.,
+2004). The carbon concentrations were higher in the dark fossil
+soils than in the control samples but as shown in Fig. 1, in six of
+eight cases (average values; p ¼ 0.128) the proportion of lipid
+extracts in SOC was lower in the dark fossil soils.
+The age of the organic matter and the low concentrations of SOC
+suggest the preferential decomposition of more labile organic
+compounds over time, while mainly stable compounds like black
+carbon or n-alkanes have been enriched. This would explain the
+relatively high proportion of total lipids in our samples. The
+reduced microbial activity in acidic soils (van Bergen et al., 1998)
+and in buried soils due to limited oxygen access supports the
+preservation of lipids, which is a prerequisite for investigating soils
+in an archaeological context.
+The lower proportion of lipids in the dark fossil soil horizons and
+pit ﬁllings might nevertheless indicate an advanced degradation of
+lipid compounds relative to the control samples. Otto et al. (2006)
+found less extractable lipids in charred soil surface samples than in
+the underlying mineral soil material, probably because of the
+exposure of the plant litter to higher temperatures. Contrastingly,
+burning could also increase the abundance of lipids in soil by
+releasing organic compounds from charred biomass, which are
+subsequently translocated into the soil (DeBano et al., 1970;
+Czimczik et al., 2003). About one-third of the organic matter in the
+
+1592
+
+E. Eckmeier, G.L.B. Wiesenberg / Journal of Archaeological Science 36 (2009) 1590–1596
+
+Table 1
+Description of all investigated soil samples and results of lipid analysis (TLE ¼ total lipid extract). Same numbers indicate one sample set, with p ¼ pit ﬁlling, h ¼ horizon,
+c ¼ control.
+Sample
+
+Sample typea
+
+14
+
+C age
+(cal BC)b
+
+Clay
+(mass-%)
+
+Silt
+(mass-%)
+
+Sand
+(mass-%)
+
+pH
+(KCl)
+
+SOC
+(g kg1)
+
+N
+(g kg1)
+
+C/N
+
+Black C
+(g kg1 BC SOC)
+
+TLE
+(g kg1)
+
+TLE
+(g kg1 TLE SOC)
+
+1p
+1h
+1c
+2p
+2c
+3p
+3h
+3c
+4p
+4c
+5p1
+5p2
+5c
+6p
+6c
+7p
+7c
+8p1
+8p2
+8p3
+8p4
+8c
+9p
+10p
+
+P
+Horizon
+Control
+P
+Control
+P
+Horizon
+Control
+P bottom
+Control
+P top
+P bottom
+Control
+P bottom
+Control
+P top
+Control
+P top
+P middle
+P middle
+P bottom
+Control
+SP
+SP
+
+6230–6090
+6380–6230
+
+41
+35
+35
+21
+18
+24
+21
+21
+24
+20
+22
+27
+23
+22
+20
+25
+22
+16
+16
+21
+25
+19
+13
+14
+
+41
+41
+39
+77
+80
+74
+77
+77
+75
+78
+76
+72
+75
+74
+79
+74
+77
+84
+83
+79
+74
+79
+81
+80
+
+18
+24
+27
+2
+2
+2
+2
+2
+1
+2
+2
+2
+2
+4
+1
+2
+1
+1
+1
+1
+1
+1
+6
+6
+
+6.0
+6.6
+6.4
+6.6
+6.7
+5.8
+5.6
+6.0
+5.6
+5.7
+5.9
+5.6
+5.6
+6.0
+5.9
+n.d.
+6.0
+6.6
+6.7
+6.7
+6.7
+6.7
+6.6
+6.5
+
+7.2
+5.0
+2.8
+3.7
+1.7
+3.3
+4.4
+2.7
+3.0
+3.1
+4.3
+4.9
+3.4
+4.0
+1.7
+4.3
+1.7
+1.6
+1.3
+1.2
+1.8
+1.3
+9.4
+17.3
+
+0.8
+0.9
+0.7
+0.6
+0.4
+0.4
+0.5
+0.3
+0.4
+0.4
+0.2
+0.2
+0.3
+0.3
+0.2
+0.2
+0.1
+0.2
+<0.1
+<0.1
+0.2
+0.1
+0.4
+0.5
+
+9
+6
+4
+6
+4
+9
+9
+9
+8
+8
+19
+20
+13
+15
+11
+20
+14
+9
+n.d.
+n.d.
+8
+9
+26
+32
+
+350
+290
+
+0.17
+0.10
+0.13
+0.11
+0.06
+0.16
+0.16
+0.18
+0.14
+0.10
+0.40
+0.18
+0.47
+0.13
+0.15
+0.08
+0.08
+0.14
+0.08
+0.39
+0.10
+0.15
+0.18
+0.13
+
+23
+19
+46
+31
+34
+47
+36
+67
+48
+32
+93
+37
+140
+33
+86
+19
+49
+90
+58
+324
+53
+116
+19
+7
+
+a
+b
+
+5480–5360
+6440–6250
+
+5320–5070
+
+120
+140
+
+570
+
+P ¼ pit ﬁlling, SP ¼ settlement pit ﬁlling. Locations: 1 ¼ Köln-Rondorf; 2 ¼ Jüchen; 3–7 ¼ Pulheim; 8 ¼ Grevenbroich-Neurath; 9, 10 ¼ Mönchengladbach-Wanlo.
+Radiocarbon ages of black carbon chemically separated from soil samples (details given in Gerlach et al., 2006; Eckmeier et al., 2009).
+
+investigated dark soils is charred (black carbon; Gerlach et al., 2006).
+During one or more burning events, the lipid contents of the charred
+biomass were most likely reduced. The charred organic matter, now
+depleted in lipids, was incorporated into the soil. This causes the
+lower lipid yields in the dark soil material, which is in agreement
+with the observations made by Wiesenberg et al. (2009), where
+charring of biomass resulted in a decrease in lipid contents.
+3.2. n-Alkanes
+As shown in Fig. 2, all sample sets displayed a particular pattern
+of short-chain and even carbon numbered n-alkanes. The distribution patterns of n-alkanes were dominated by a maximum at nC16 or n-C18. Highly abundant in sample set 3 and in the settlement
+pits (9, 10) were also n-C20 and n-C22. Sample sets 2 and 4 showed
+a high abundance of n-C17, as well as n-C19 in sample set 5. A
+predominance of n-C17 and n-C19 was found in sets 5–7. The highest
+detectable carbon number in all samples was n-C31. n-C29 and n-C31
+were relatively higher abundant than n-C21–28 and n-C30. Sample
+set 8 revealed that the pattern of n-alkanes in different depths of
+
+one pit proﬁle was similar. Here, the predominance of even carbon
+numbered n-alkanes was not as clear as in the other samples. The
+isoprenoid alkanes pristane and phytane, which are frequently
+used for source apportionment and as a degradation parameter in
+sediments, were present in all samples. Their relative abundance in
+comparison to n-C17 and n-C18 alkanes was almost identical in all
+samples and showed no distinct differences between and within
+the sample sets. Unresolved complex mixtures (UCM) were present
+in all samples, but never exceeded thrice the value of the baseline
+and were lower than in common recent soils (e.g., Wiesenberg
+et al., 2004a) and thus can be neglected.
+The incorporation of higher plant biomass into soils usually
+leads to long-chain n-alkanes with a relative enrichment of odd
+carbon numbered homologues (Rieley et al., 1991; Jandl et al.,
+2007). The elevated amount of n-C31 alkanes might indicate the
+input of grass or crops (Maffei, 1996), while the n-C29 alkane
+would be a signal for the incorporation of grass or woody biomass
+(van Bergen et al., 1997). An exception was reported by Jansen
+et al. (2006), who showed that mainly root extracts but also leaves
+from some Andean plant species contain not only long-chained
+
+Fig. 1. The proportion of the total lipid extract (TLE) at soil organic carbon (SOC) given in g TLE kg1 SOC (p ¼ pit ﬁlling, in black, c ¼ control, in white, ave ¼ average value for
+samples taken from one pit ﬁlling, in grey).
+
+E. Eckmeier, G.L.B. Wiesenberg / Journal of Archaeological Science 36 (2009) 1590–1596
+
+1593
+
+Fig. 2. The relative abundance of n-alkanes in all investigated soil samples (p ¼ pit ﬁlling, h ¼ horizon, c ¼ control).
+
+n-alkanes but also high amounts of n-C18 and n-C20 alkanes. They
+explained the latter with an origin from microbial biomass sitting
+on the leaves, which has not been described elsewhere. Traces of
+short-chain and even carbon numbered n-alkane homologues
+were detected in the corresponding Andean soils, too, but in low
+proportions (Jansen et al., 2008). Extracts from rye and maize
+roots as well as from farmyard manure (Halle, East-Germany)
+yielded high abundances of n-C16 and/or n-C18, but in the soils
+under rye or maize cultivation these short-chain n-alkanes were
+hardly present (Jandl et al., 2007), and their ﬁndings were not
+supported by complementary studies on similar tissues (e.g.,
+Wiesenberg et al., 2004b). Xie et al. (2003) found maximum peaks
+at n-C16 or n-C18 in palaeosoils but with an odd-over-even
+predominance above n-C22. An even-over-odd predominance of nalkane compounds, including n-C16–18 alkanes, was reported by
+Love et al. (2005) for products derived from diverse marine and
+freshwater microalgae and bacteria species. We can exclude these
+species as sources for the pattern found in our soils, as there was
+no evidence for water logging or high groundwater tables at the
+investigated locations. Furthermore, the n-alkanes of aquatic algae
+or bacteria are also dominated by n-C17, a pattern typically found
+in lake sediments (Cranwell et al., 1987). The latter was the case in
+three of our sample sets (5–7), which, however, were taken from
+the same location as sample sets 3 and 4 that do not show
+a predominance of n-C17. We are also not aware of the presence of
+a higher water table at this location in the past.
+
+An increase in short-chain even carbon numbered n-alkane
+homologues was reported for charred biomass (Wiesenberg et al.,
+2009), for aerosols produced during the burning of biomass (Oros
+et al., 2006), for topsoil material after ﬁre (Almendros et al., 1988;
+Tinoco et al., 2006) and for tar layers formed from soil and vegetation during a volcanic eruption on the island of Montserrat (Bull
+et al., 2008). The reported patterns are all related to a loss of higher
+n-alkane homologues during heating. Wiesenberg et al. (2009)
+showed that a decrease in chain length and a decrease in
+predominance of odd n-alkanes correlated with progressing charring temperatures or thermal degradation, respectively. They
+proposed that a thermal degradation results in a breakdown of wax
+n-alkanes at high temperatures (500  C) in combination with
+a defunctionalization of precursor compounds resulting in the
+predominance of short-chain even carbon numbered n-alkanes. A
+transition with increasing temperature was determined: from
+primary plant lipid distribution patterns, which could be detected
+even at 300  C, to the predominance of mid-chain n-alkanes at
+400  C (maximizing at n-C20–24) and ﬁnally towards the predominance of short-chain n-alkanes at 500  C. Only small amounts of
+primary long-chain n-alkanes (n-C29–31) were present after charring at high temperatures. When compared to the results obtained
+by Wiesenberg et al. (2009a), the distribution pattern of n-alkanes
+determined in the dark soils might indicate the incomplete
+combustion of non-woody plant material at temperatures between
+400 and 500  C, but it should be considered that the exposure time
+
+1594
+
+E. Eckmeier, G.L.B. Wiesenberg / Journal of Archaeological Science 36 (2009) 1590–1596
+
+Table 2
+Molecular ratios of n-alkanes.
+Sample
+
+Sample typea
+
+CPIshortb
+
+CPIlongc
+
+CPIshort/long
+
+CPIlong/short
+
+CPIshort
+
+1p
+1h
+1c
+2p
+2c
+3p
+3h
+3c
+4p
+4c
+5p1
+5p2
+5c
+6p
+6c
+7p
+7c
+8p1
+8p2
+8p3
+8p4
+8c
+9p
+10p
+
+P
+Horizon
+Control
+P
+Control
+P
+Horizon
+Control
+P bottom
+Control
+P top
+P bottom
+Control
+P bottom
+Control
+P top
+Control
+P top
+P middle
+P middle
+P bottom
+Control
+SP
+SP
+
+4.8
+6.5
+3.2
+22.4
+3.3
+1.6
+2.7
+6.6
+2.2
+4.4
+0.8
+0.7
+1.7
+0.4
+0.6
+0.9
+0.9
+1.8
+1.4
+1.4
+1.6
+1.2
+3.6
+3.7
+
+3.5
+4.0
+2.0
+1.6
+15.4
+3.4
+5.1
+3.6
+8.1
+8.4
+8.0
+20.0
+2.8
+7.8
+8.6
+9.1
+9.4
+1.3
+1.3
+1.5
+2.9
+2.1
+3.2
+2.8
+
+0.7
+0.6
+0.6
+0.1
+4.7
+2.2
+1.9
+0.5
+3.7
+1.9
+9.6
+28.5
+1.6
+19.1
+14.5
+9.6
+10.5
+0.7
+0.9
+1.0
+1.9
+1.7
+0.9
+0.8
+
+14.1
+22.0
+5.8
+30.7
+45.4
+4.4
+11.7
+20.7
+14.7
+35.4
+4.9
+10.2
+3.6
+2.5
+3.8
+6.7
+6.6
+2.0
+1.6
+1.7
+3.6
+2.2
+9.9
+9.1
+
+0.2
+0.2
+0.4
+0.1
+0.3
+0.8
+0.4
+0.2
+0.5
+0.2
+1.6
+1.9
+0.8
+3.1
+2.2
+1.4
+1.4
+0.7
+0.9
+0.9
+0.8
+0.9
+0.3
+0.3
+
+d
+odd/even
+
+ACLe
+20.9
+19.7
+20.1
+19.2
+21.3
+18.2
+19.2
+19.4
+18.7
+18.9
+20.9
+20.7
+22.2
+19.6
+21.1
+20.5
+20.7
+22.3
+22.5
+22.5
+23.3
+22.2
+22.2
+20.6
+
+a
+
+P ¼ pit ﬁlling, SP ¼ settlement pit ﬁlling. Locations: 1 ¼ Köln-Rondorf; 2 ¼ Jüchen; 3–7 ¼ Pulheim; 8 ¼ Grevenbroich-Neurath; 9, 10 ¼ Mönchengladbach-Wanlo.
+Carbon preference index of short-chain n-alkanes: CPIshort ¼ [(C16 þ C18)/(C15 þ C17) þ (C16 þ C18)/(C17 þ C19)]  0.5.
+c
+Carbon preference index of long-chain n-alkanes: CPIlong ¼ [(C29 þ C31)/(C28 þ C30) þ (C29 þ C31)/C30]  0.5.
+d
+Carbon preference index of short-chain n-alkanes, relation of odd to even-numbered carbons: CPIshort odd/even ¼ [(C15 þ C17 þ C19)/(C14 þ C16 C18) þ (C15 þ C17 þ C19)/
+(C16 þ C18 þ C20)]  0.5.
+P
+P
+e
+Average chain length: ACL ¼ (zn  n)/ (zn), with zn as the relative amount of the n-alkane with n carbons (n ¼ 14–31).
+b
+
+of biomass to ﬁre and the oxygen availability are also of relevance
+and that we could not deduce a ﬁre-temperature of the observed
+patterns.
+Molecular ratios describe the patterns of n-alkanes measured in
+the investigated soil samples and indicate possible lipid sources
+(Table 2). Due to the lack of homologues >C31 we chose the
+(i) carbon preference index of short-chain alkanes (CPIshort) and the
+(ii) average chain length (ACL) to compare our results:
+(i) CPIshort ¼ [(C16 þ C18)/(C15 þ C17) þ (C16 þ C18)/
+(C17 þ C19)]  0.5;
+P
+P
+(ii) ACL ¼ (zn  n)/ (zn), with zn as the relative amount of the
+n-alkane with n carbons (n ¼ 14–31 carbons).
+The average CPIshort of dark fossil soil material (3.3) and control
+(2.7) samples match the ratios Wiesenberg et al. (2009) found for
+maize and rye straw charred at 500  C, while the average ACL of pit
+
+(20.8) and control (20.7) samples ﬁt to results for straw charred at
+400  C (maize), or lies between 400  C and 500  C (rye), as shown
+in Fig. 3. These molecular ratios indicate the presence of charred
+biomass in the soil samples, i.e. the n-alkane patterns are most
+likely a result of thermal degradation.
+The presence of the even-over-odd distribution of n-alkanes in
+the control samples is a problematic aspect. We suggest that this
+could be a result of translocation from lipid material from the
+adjacent dark soil material, as the control samples had to be taken
+less than 50 cm away from the pits. It is unlikely that lipids from
+former burnt topsoil material leached down the proﬁle because
+then we would have found other charred biomass materials.
+Additionally, a thermal alteration of material surrounding the pits
+cannot be excluded if the biomass burning occurred within the pits
+or if the pits were ﬁlled with hot residues of burned biomass.
+The comparison of different sample sets indicated that the
+results reveal the same trend, but that some variations occur
+
+Fig. 3. Average chain length (ACL) and carbon preference index (CPI) of short-chain n-alkanes of investigated samples (p ¼ pit ﬁlling, h ¼ horizon, c ¼ control) and the ACL-values for
+rye straw and rye charred at 500  C (Wiesenberg et al., 2008a).
+
+E. Eckmeier, G.L.B. Wiesenberg / Journal of Archaeological Science 36 (2009) 1590–1596
+
+between the locations. It is unlikely that all sites have the same ﬁrehistory and history of landscape management. In addition, different
+amounts of charred biomass from various sources (grass or wood)
+might have been incorporated into the soil at different sites. The
+similar shape of the pits does not indicate that they had the same
+purpose or function. While recent soils are characterized by a low
+recalcitrance of organic matter (Marschner et al., 2008), we can
+assume that organic material preserved in buried soils and other
+terrestrial sedimentary environments yields potential to be
+preserved for several millennia as demonstrated for n-alkanes in
+buried soils (Zech, 2006) and in peaty soils (Bol et al., 1996).
+However, a modiﬁcation of lipid distribution patterns in individual
+pits might have occurred over time, resulting in some differences of
+lipid distribution pattern between the sites.
+4. Conclusions
+Lipid distribution patterns from soil material containing charred
+organic matter of Mesolithic to Neolithic age showed a predominance of short-chain and even carbon numbered n-alkanes, maximizing at n-C16 or n-C18. This exceptional distribution pattern can
+be attributed to thermal degradation or incomplete combustion of
+preferentially non-woody biomass occurring most likely at
+temperatures between 400 and 500  C. The pattern of small
+amounts of plant derived long-chain n-alkanes and relatively large
+amounts of short-chain n-alkanes derived from biomass burning
+has been preserved for several thousands of years and therefore
+yields high potential to be an adequate parameter to determine
+biomass sources as well as burning of biomass in buried soils.
+Archaeological research could beneﬁt from this analytical tool in
+terms of determining the land use history or ancient agricultural
+practice. The reconstruction of biomass burning relies either on the
+preservation of macrocharcoals or chemical analyses. The n-alkane
+patterns could give evidence for ﬁre events independently from the
+occurrence of charcoal in soils.
+Acknowledgements
+The authors gratefully acknowledge the helpful support of
+Lorenz Schwark, Department of Geology and Mineralogy, University of Cologne, who also provided the laboratory facilities. We
+thank Renate Gerlach, Rheinisches Amt für Bodendenkmalpﬂege
+Bonn, for constructive discussions and providing the soil samples.
+This work was ﬁnancially supported by the University of Zurich. We
+would also like to thank two anonymous reviewers for their helpful
+comments on the manuscript.
+References
+Almendros, G., Martin, F., Gonzalez-Vila, F.J., 1988. Effects of ﬁre on humic and lipid
+fractions in a Dystric Xerochrept in Spain. Geoderma 42, 115–127.
+Amblès, A., Parlanti, E., Jambu, P., Mayoungou, P., Jacquesy, J.C., 1994. n-Alkane
+oxidation in soil. Formation of internal monoalkenes. Geoderma 64, 111–124.
+Bakels, C.C., 1997. The beginnings of manuring in western Europe. Antiquity 71,
+442–445.
+Bethell, P.H., Ottaway, J., Campbell, G., Goad, L.J., Evershed, R.P., 1994. The study of
+molecular markers of human activity: the use of coprostanol in the soil as an
+indicator of human faecal material. J. Archaeol. Sci. 21, 619–632.
+Bird, M.I., Cali, J.A., 1998. A million-year record of ﬁre in sub-Saharan Africa. Nature
+394, 767–769.
+Bol, R., Huang, Y., Meridith, J.A., Eglinton, G., Harkness, D.D., Ineson, P., 1996. The 14C
+age and residence time of organic matter and its lipid constituents in a stagnohumic gley soil. Eur. J. Soil Sci. 47, 215–222.
+Bull, I.D., Simpson, I.A., Dockrill, S.J., Evershed, R.P., 1999a. Organic geochemical
+evidence for the origin of ancient anthropogenic soil deposits at Tofts Ness,
+Sanday, Orkney. Org. Geochem. 30, 535–556.
+Bull, I.D., Simpson, I.A., Van Bergen, P.F., Evershed, R.P., 1999b. Muck-‘n’-molecules:
+organic geochemical methods for detecting ancient manuring. Antiquity 73,
+86–96.
+
+1595
+
+Bull, I.D., Knicker, H., Poirier, N., Porter, H.C., Scott, A.C., Sparks, R.S.J., Evershed, R.P.,
+2008. Biomolecular characteristics of an extensive tar layer generated during
+eruption of the Soufrière Hills volcano, Montserrat, West Indies. Org. Geochem.
+39, 1372–1383.
+Carcaillet, C., Almquist, H., Asnong, H., Bradshaw, R.H.W., Carrión, J.S., Gaillard, M.J.,
+Gajewski, K., Haas, J.N., Haberle, S.G., Hadorn, P., Müller, S.D., Richard, P.J.H.,
+Richoz, I., Rösch, M., Sánchez Goñi, M.F.S., von Stedingk, H., Stevenson, A.C.,
+Talon, B., Tardy, C., Tinner, W., Tryterud, E., Wick, L., Willis, K.J., 2002. Holocene
+biomass burning and global dynamics of the carbon cycle. Chemosphere 49,
+845–863.
+Cranwell, P.A., Eglinton, G., Robinson, N., 1987. Lipids of aquatic organisms as
+potential contributors to lacustrine sediments – II. Org. Geochem. 11, 513–527.
+Czimczik, C.I., Preston, C.M., Schmidt, M.W.I., Schulze, E.D., 2003. How surface ﬁre in
+Siberian Scots pine forests affects soil organic carbon in the forest ﬂoor: stocks,
+molecular structure, and conversion to black carbon (charcoal). Global Biogeochem. Cycles 17, doi:10.1029/2002GB001956.
+DeBano, L.F., Mann, L.D., Hamilton, D.A., 1970. Translocation of hydrophobic
+substances into soil by burning organic litter. Soil Sci. Soc. Am. J. 34, 130–133.
+Dinel, H., Schnitzer, M., Mehuys, G.R., 1990. Soil lipids: origin, nature, contents,
+decomposition and effect on soil physical properties. In: Bollag, J.M., Stotzky, G.
+(Eds.), Soil Biochemistry. Marcel Dekker, New York, pp. 397–427.
+Dinel, H., Schnitzer, M., Paré, T., Lemee, L., Ambles, A., Lafond, S., 2001. Changes in
+lipids and sterols during composting. J. Environ. Sci. Health Part B 36, 651–665.
+Eckmeier, E., Gerlach, R., Skjemstad, J.O., Ehrmann, O., Schmidt, M.W.I., 2007. Minor
+changes in soil organic carbon and charcoal concentrations detected in
+a temperate deciduous forest a year after an experimental slash-and-burn.
+Biogeosciences 4, 377–383.
+Eckmeier, C.C., van der Borg, K., Tegtmeier, U., Schmidt, M.W.I, Gerlach, R., 2009.
+Dating charred soil organic matter – comparison of radiocarbon ages from
+macrocharcoals and chemically separated charcoal carbon. Radiocarbon 51 (2).
+Eglinton, G., González, A.G., Hamilton, R.J., Raphael, R.A., 1962. Hydrocarbon
+constituents of the wax coatings of plant leaves: a taxonomic survey. Phytochemistry 1, 89–102.
+Entwistle, J.A., Abrahams, P.W., Dodgshon, R.A., 2000. The geoarchaeological signiﬁcance and spatial variability of a range of physical and chemical soil properties
+from a former habitation site, Isle of Skye. J. Archaeol. Sci. 27, 287–303.
+Evershed, R.P., 1993. Biomolecular archaeology and lipids. World Archaeol. 25, 74–93.
+Evershed, R.P., Bethell, P.H., Reynolds, P.J., Walsh, N.J., 1997. 5b-Stigmastanol and
+related 5b-stanols as biomarkers of manuring: analysis of modern experimental
+material and assessment of the archaeological potential. J. Archaeol. Sci. 24,
+485–495.
+Fisher, E., Oldﬁeld, F., Wake, R., Boyle, J., Appleby, P., Wolff, G.A., 2003. Molecular
+marker records of land use change. Org. Geochem. 34, 105–119.
+Galiulin, R.V., Bashkin, V.N., Galiulina, R.A., 2002. Review: behaviour of persistent
+organic pollutants in the air–plant–soil system. Water Air Soil Pollut 137, 179–
+191.
+Gerlach, R., Baumewerd-Schmidt, H., van den Borg, K., Eckmeier, E., Schmidt, M.W.I.,
+2006. Prehistoric alteration of soil in the Lower Rhine Basin, Northwest Germany
+– archaeological, 14C and geochemical evidence. Geoderma 136, 38–50.
+González-Vila, F.J., Tinoco, P., Almendros, G., Martin, F., 2001. Pyrolysis–GC–MS
+analysis of the formation and degradation stages of charred residues from
+lignocellulosic biomass. J. Agric. Food Chem. 49, 1128–1131.
+Heron, C., 2004. Geochemical prospecting. In: Brothwell, D.R., Pollard, A.M. (Eds.),
+Handbook of Archaeological Sciences. Wiley, Chichester, pp. 565–573.
+Jambu, P., Amblès, A., Dinel, H., Secouet, B., 1991. Incorporation of natural hydrocarbons from plant residues into an hydromorphic humic podzol following
+afforestation and fertilization. J. Soil Sci. 42, 629–636.
+Jandl, G., Leinweber, P., Schulten, H.R., 2007. Origin and fate of soil lipids in
+a phaeozem under rye and maize monoculture in Central Germany. Biol. Fertil.
+Soils 43, 321–332.
+Jansen, B., Nierop, K.G.J., Hageman, J.A., Cleef, A.M., Verstraten, J.M., 2006. The
+straight-chain lipid biomarker composition of plant species responsible for the
+dominant biomass production along two altitudinal transects in the Ecuadorian
+Andes. Org. Geochem. 37, 1514–1536.
+Jansen, B., Haussmann, N.S., Tonneijck, F.H., Verstraten, J.M., de Voogt, P., 2008.
+Characteristic straight-chain lipid ratios as a quick method to assess past forest–
+paramo transitions in the Ecuadorian Andes. Palaeogeogr. Palaeoclimatol.
+Palaeoecol. 262, 129–139.
+Knights, B.A., Dickson, C.A., Dickson, J.H., Breeze, D.J., 1983. Evidence concerning the
+Roman military diet at Bearsden, Scotland, in the 2nd century AD. J. Archaeol.
+Sci. 10, 139–152.
+Kolattukudy, P.E., Croteau, R., Buckner, J.S., 1976. Biochemistry of plant waxes. In:
+Kolattukudy, P.E. (Ed.), Chemistry and Biochemistry of Natural Waxes. Elsevier,
+Amsterdam, pp. 290–347.
+Kästner, M., 2000. Degradation of Aromatic and Polyaromatic Compounds. In:
+Rehm, H.J., Reed, G., Pühler, A., Stadler, P. (Eds.), Biotechnologie. Wiley-VCH,
+Weinheim, pp. 211–239.
+Love, G.D., Bowden, S.A., Jahnke, L.L., Snape, C.E., Campbell, C.N., Day, J.G.,
+Summons, R.E., 2005. A catalytic hydropyrolysis method for the rapid screening
+of microbial cultures for lipid biomarkers. Org. Geochem. 36, 63–82.
+Maffei, M., 1996. Chemotaxonomic signiﬁcance of leaf wax alkanes in the Gramineae. Biochem. Syst. Ecol. 24, 53–64.
+Marschner, B., Brodowski, S., Dreves, A., Gleixner, G., Gude, A., Grootes, P.M., Hamer, U.,
+Heim, A., Jandl, G., Ji, R., Kaiser, K., Kalbitz, K., Kramer, C., Leinweber, P.,
+Rethemeyer, J., Schaeffer, A., Schmidt, M.W.I., Schwark, L., Wiesenberg, G.L.B., 2008.
+
+1596
+
+E. Eckmeier, G.L.B. Wiesenberg / Journal of Archaeological Science 36 (2009) 1590–1596
+
+How relevant is recalcitrance for the stabilization of organic matter in soils? J. Plant
+Nutr. Soil Sci. 171, 91–110.
+Marseille, F., Disnar, J.R., Guillet, B., Noack, Y., 1999. n-Alkanes and free fatty acids in
+humus and Al horizons of soils under beech, spruce and grass in the MassifCentral (Mont-Lozere), France. Eur. J. Soil Sci. 50, 433–441.
+Naafs, D.F.W., van Bergen, P.F., de Jong, M.A., Oonincx, A., de Leeuw, J.W., 2004. Total
+lipid extracts from characteristic soil horizons in a podzol proﬁle. Eur. J. Soil Sci.
+55, 657–669.
+Nguyen Tu, T.T., Derenne, S., Largeau, C., Mariotti, A., Bocherens, H., 2001. Evolution
+of the chemical composition of Ginkgo biloba external and internal leaf lipids
+through senescence and litter formation. Org. Geochem. 32, 45–55.
+Oros, D.R., Bin Abas, M.R., Omar, N.Y.M.J., Rahman, N.A., Simoneit, B.R.T., 2006.
+Identiﬁcation and emission factors of molecular tracers in organic aerosols from
+biomass burning. Part 3: grasses. Appl. Geochem. 21, 919–940.
+Otto, A., Gondokusumo, R., Simpson, M.J., 2006. Characterization and quantiﬁcation
+of biomarkers from biomass burning at a recent wildﬁre site in Northern
+Alberta, Canada. Appl. Geochem. 21, 166–183.
+Pepe, C., Dizabo, P., 1989. Les marqueurs biogéochimiques: application à l’archéologique. Revue d’Archéométrie 13, 1–12.
+Peters, K.E., Walters, C.C., Moldowan, J.M., 2005. The Biomarker Guide. Cambridge
+University Press, Cambridge.
+Radke, M., Willsch, H., Welte, D.H., 1980. Preparative hydrocarbon group type
+determination by automated medium pressure liquid chromatography. Anal.
+Chem. 52, 406–411.
+Rieley, G., Collier, R.J., Jones, D.M., Eglinton, G., 1991. The biogeochemistry of
+Ellesmere Lake, U.K. – I: source correlation of leaf wax inputs to the sedimentary lipid record. Org. Geochem 17, 901–912.
+Schuldenrein, J., 1995. Geochemistry, phosphate fractionation, and the detection of
+activity areas at prehistorich North American sites. In: Collins, M.E., Carter, B.J.,
+Gladfelter, B.G., Southard, R.J. (Eds.), Pedological Perspectives in Archaeological
+Research. Soil Science Society of America, Madison, pp. 107–132.
+Schwark, L., Zink, K., Lechterbeck, J., 2002. Reconstruction of postglacial to early
+Holocene vegetation history in terrestrial Central Europe via cuticular lipid
+biomarkers and pollen records from lake sediments. Geology 30, 463–466.
+Simoneit, B.R.T., 2002. Biomass burning – a review of organic tracers for smoke
+from incomplete combustion. Appl. Geochem. 17, 129–162.
+Simpson, I.A., Dockrill, S.J., Bull, I.D., Evershed, R.P., 1998. Early anthropogenic soil
+formation at Tofts Ness, Sanday, Orkney. J. Archaeol. Sci. 25, 729–746.
+Spaccini, R., Piccolo, A., 2007. Molecular characterization of compost at increasing
+stages of maturity. 1. Chemical fractionation and infrared spectroscopy. J. Agric.
+Food Chem. 55, 2293–2302.
+
+Stevenson, F.J., 1982. Humus Chemistry. Wiley, New York.
+Tinoco, P., Almendros, G., Sanz, J., González-Vázquez, R., González-Vila, F.J., 2006.
+Molecular descriptors of the effect of ﬁre on soil under pine forest in two
+Mediterranean soils. Org. Geochem. 37, 1995–2018.
+van Bergen, P.F., Bull, I.D., Poulton, P.R., Evershed, R.P., 1997. Organic geochemical
+studies of soils from the Rothamsted classical experiments – 1. Total lipid
+extracts, solvent insoluble residues and humic acids from Broadbalk wilderness.
+Org. Geochem. 26, 117–135.
+van Bergen, P.F., Nott, C.J., Bull, I.D., Poulton, P.R., Evershed, R.P., 1998. Organic
+geochemical studies of soils from the Rothamsted classical experiments – IV.
+Preliminary results from a study of the effect of soil pH on organic matter decay.
+Org. Geochem. 29, 1779–1795.
+Wang, X., Peng, P.A., Ding, Z.L., 2005. Black carbon records in Chinese loess plateau
+over the last two glacial cycles and implications for paleoﬁres. Palaeogeogr.
+Palaeoclimatol. Palaeoecol. 223, 9–19.
+Wiesenberg, G.L.B., Schwark, L., Schmidt, M.W.I., 2004a. Improved automated
+extraction and separation procedure for soil lipid analyses. Eur. J. Soil Sci. 55,
+349–356.
+Wiesenberg, G.L.B., Schwarzbauer, J., Schmidt, M.W.I., Schwark, L., 2004b. Source
+and turnover of organic matter in agricultural soils derived from n-alkane/ncarboxylic acid compositions and C-isotope signatures. Org. Geochem. 35,
+1371–1393.
+Wiesenberg, G.L.B., Schwark, L., 2006. Carboxylic acid distribution patterns of
+temperate C3 and C4 crops. Org. Geochem. 37, 1973–1982.
+Wiesenberg, G.L.B., Schwark, L., Schmidt, M.W.I., 2006. Extractable lipid contents
+and colour in particle-size separates and bulk arable soils. Eur. J. Soil Sci. 57,
+634–643.
+Wiesenberg, G.L.B., Lehndorff, E., Schwark, L., 2009. Thermal degradation of rye and
+maize straw: lipid pattern changes as a function of temperature. Org. Geochem.
+40, 167–174.
+Wiesenberg, G.L.B., Schmidt, M.W.I., Schwark, L., 2008. Plant and soil lipid modiﬁcations under elevated atmospheric CO2 conditions: I. Lipid distribution
+patterns. Org. Geochem. 39, 91–102.
+Wiesenberg, G.L.B., Schneckenberger, K., Kuzyakov, Y., Schwark, L. Plant lipid
+composition is not affected by short-term isotopic (13C) pulse-labelling experiments. J. Plant Nutr. Soil Sci., in press, doi: 10.1002/jpln.200700344
+Xie, S., Chen, F., Wang, Z., Wang, H., Gu, Y., Huang, Y., 2003. Lipid distributions in
+loess–paleosol sequences from northwest China. Org. Geochem. 34, 1071–1079.
+Zech, M., 2006. Evidence for Late Pleistocene climate changes from buried soils on
+the southern slopes of Mt. Kilimanjaro, Tanzania. Palaeogeogr. Palaeoclimatol.
+Palaeoecol. 242, 303–312.
+
+

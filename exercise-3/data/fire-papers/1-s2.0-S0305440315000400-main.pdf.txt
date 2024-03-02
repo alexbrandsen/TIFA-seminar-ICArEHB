@@ -1,0 +1,1927 @@
+Journal of Archaeological Science 63 (2015) 175e192
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+An improved single grain OSL chronology for the sedimentary
+deposits from Diepkloof Rockshelter, Western Cape, South Africa
+Zenobia Jacobs*, Richard G. Roberts
+Centre for Archaeological Science, School of Earth and Environmental Sciences, University of Wollongong, Wollongong 2522, Australia
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 17 November 2014
+Received in revised form
+19 January 2015
+Accepted 22 January 2015
+Available online 18 February 2015
+
+The single grain optically stimulated luminescence (OSL) chronology for the sedimentary deposit at
+Diepkloof Rockshelter, reported by Jacobs et al. (2008c), has recently been critiqued and several reasons
+proposed for why the OSL ages for the Intermediate and Early Howieson's Poort (HP) and Still Bay (SB)
+techno-complexes might be inaccurate. Tribolo et al. (2013) presented a series of OSL and thermoluminescence (TL) ages that were in agreement with each other, but, for some part of the sequence at least,
+were much older than the OSL chronology of Jacobs et al. (2008c). In this paper, we have tested the
+criticisms of Tribolo et al. (2013) and colleagues related to both the equivalent dose (De) estimates and
+the beta dose rates by performing a series of targeted experiments, combined with updates and reassessments of our error calculations. We show that the De estimates are stable over a range of alternative measurement conditions and also over time. We also demonstrate the reproducibility of our
+measurement procedures for the beta dose rates, and their accuracy tested against a range of independently obtained estimates. We show that, for the stratigraphic units (SUs) where there are major
+discrepancies in age between Jacobs et al. (2008c) and Tribolo et al. (2013)dnotably the Intermediate HP
+and Early HPdand for which both studies had single grain OSL ages, the estimation of potassium (K) in
+the sediment surrounding the dated grains is critical. We provide new and updated De and dose rate
+estimates, and ﬁnal ages which we compare with our previous age estimates and those of Tribolo et al.
+(2013). The differences in the size of the errors associated with the ages reported in the two independent
+studies are also addressed. We can show that our ages are robust and consistent with the original
+chronology, but we cannot satisfactorily explain why the TL and OSL ages provided by Tribolo et al. (2013)
+might be wrong. So, the dating conundrum at Diepkloof Rockshelter remains. As a result, we caution
+against the development of HP and SB age models based on only one of the chronologies for this site. At
+this stage, extrapolation of the Tribolo et al. (2013) chronology to a re-interpretation of the southern
+African MSA would appear to be premature, especially as the ages do not differ systematically between
+the two studies and as differences between TL and OSL ages are not an issue at other sites in southern
+Africa where both dating methods have been applied. Further work is needed to resolve the question of
+the Diepkloof chronology.
+© 2015 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Optically stimulated luminescence
+OSL dating
+TL dating
+Howieson's Poort
+Still Bay
+Middle Stone Age
+MSA
+
+1. Introduction
+In a recent compilation of papers in a Special issue of this journal,
+the previously published single grain optically stimulated luminescence (OSL) chronology for Diepkloof Rockshelter, presented in
+Jacobs et al. (2008c), was called to question. Tribolo et al. (2013)
+proposed a new chronology based on measurement of both thermoluminescence (TL) and isothermal TL (ITL) dating of burnt stones,
+
+* Corresponding author.
+E-mail address: zenobia@uow.edu.au (Z. Jacobs).
+http://dx.doi.org/10.1016/j.jas.2015.01.023
+0305-4403/© 2015 Elsevier Ltd. All rights reserved.
+
+and single grain OSL dating of sedimentary quartz grains. They obtained consistent results between their TL/ITL and OSL chronologies,
+but some of their resultsdnotably those within the middle of the
+technological and lithological sequencedare inconsistent with the
+single grain OSL chronology of Jacobs et al. (2008c). The latter
+chronology was, therefore, dismissed by all papers in this Special
+Issue, and excluded from the new chrono-stratigraphy proposed for
+the site, which was then used to interpret all aspects of the site,
+including its technological and typological sequences and the implications for understanding the MSA of southern Africa.
+rin et al. (2013) made a number of
+Tribolo et al. (2013) and Gue
+suggestions as to why the single grain OSL chronology of Jacobs et al.
+
+176
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+Fig. 1. Summary of ages with 1s errors for samples collected from Diepkloof Rockshelter and published in Jacobs et al. (2008c) and Tribolo et al. (2005, 2009 and 2013).
+The ﬁlled circles represent the ages for individual samples obtained from OSL dating of
+single quartz grains by Jacobs et al. (2008c). The DRS numbers at the left are the
+sample names used by Jacobs et al. (2008c). The open symbols denote the weighted
+mean TL and/or ITL ages on burnt stones (squares) and individual OSL ages on single
+quartz grains (triangles) by Tribolo et al. (2013). The technological phases at the right
+are those provided by Porraz et al. (2013). Note that DRS13 was previously assigned to
+the SB, but is now associated with the EHP (Porraz et al., 2013, p. 3386).
+
+(2008c) may be wrong. Tribolo et al. (2013) expressed concerns that
+the single grain equivalent dose (De) estimates may have been in
+error because ‘dose recovery tests’ were conducted on multi-grain
+aliquots and not on single grains. Such tests are routinely carried
+out to establish the most suitable measurement conditions for the
+
+rin et al.
+samples under investigation (Galbraith et al., 1999). Gue
+(2013) raised some objections about our application of the ﬁnite
+mixture model (FMM) to single grain OSL measurements. They also
+criticised our methods for estimating the beta-particle dose rate, in
+particular 1) the small size of the uncertainties attached to the betaparticle contribution to the environmental dose rate for some of the
+samples, including those from Diepkloof; and 2) the details of
+implementation of a model proposed by Jacobs et al. (2008b) to
+adjust the beta dose rate in speciﬁc circumstances. Tribolo et al.
+(2013) also commented on these two issues, but indicated that
+these were insufﬁcient to explain the age discrepancies. Tribolo et al.
+(2009) had previously also criticised our use of laboratory measurements to estimate the gamma dose rates at Diepkloof, but
+showed that this was not the source of the age discrepancy.
+All of these criticisms and their potential effects on the calculated ages of the samples are testable. In this paper, we scrutinise
+the effects that the issues raised may have on our single grain OSL
+chronology for Diepkloof, and re-assess our previously published
+ages. We also present new De and dose rate data for all of the
+samples to explicitly test the criticisms raised. In the light of our
+new results, we compare our updated chronology with that
+developed by Tribolo et al. (2013).
+2. Current luminescence chronologies for Diepkloof
+Rockshelter
+In 2008, we published single grain OSL ages for 13 samples from
+Diepkloof (Jacobs et al., 2008c). These are shown in Fig. 1 together
+with the weighted mean TL or ITL and individual OSL samples
+presented in Tribolo et al. (2005, 2009, 2013). The samples of Jacobs
+et al. (2008c) were collected by the ﬁrst author from two different
+sectors (Fig. 2). In the absence of stratigraphic connections between
+the different excavated sectors in the site (Parkington et al., 2013),
+
+Fig. 2. Schematic of Diepkloof Rockshelter and the excavation plan marked in black (modiﬁed from Parkington et al., 2013). Each square represents 1 m2. The two red areas
+represent those parts of the excavation from which OSL samples were collected for the study of Jacobs et al. (2008c) and this study. The blue areas represent the excavated areas
+from which samples were collected for the TL and OSL studies of Tribolo et al. (2013). The red and blue shading in squares L6 and M6 indicates an overlap in sampling area between
+the two studies. The green shading in the ‘Back’ sector indicates the approximate position of the section wall from which samples were collected by Feathers and Woodborne
+(Tribolo, 2003). (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+we consider it critical to understand where the samples were
+collected from in order to correctly interpret the ages and make
+meaningful comparisons. The uppermost samples (DRS4 to DRS9)
+were all collected from squares C6 and D6 in the ‘Trench’ sector
+(Fig. 2) and are representative of the post-HP (DRS8 and 9) and Late
+HP (DRS4 to DRS7) technological phases, as deﬁned by Porraz et al.
+(2013). None of the ages presented in Tribolo et al. (2013) were for
+samples from this sector; instead all their samples for the post-HP
+and Late HP were from the ‘Back’ sector (Fig. 2). Samples were also
+previously collected in the late 1990s from the ‘Back’ sector by
+Feathers and Woodborne (Tribolo, 2003, Fig. 2), but those remain
+unpublished. The remaining samples (DRS10 to DRS17) were
+collected from squares L6 and M6 in the ‘Main’ sector (Fig. 2) and
+represent some, but not all, of the remaining technological phases
+e Late HP (DRS10), Intermediate HP (DRS11), Early HP (DRS13), Still
+Bay (DRS14) and Lower MSA (DRS15 to DRS17). Note that the current technological phases were not yet established in 2008, but,
+apart from one sample (DRS13), this has not made a considerable
+difference. DRS13 (collected from SU Kerry) was originally assigned
+by the excavators to the SB, but has since been re-assigned to the
+Early HP (Porraz et al., 2013, p. 3386 and Tribolo et al., 2013, p.
+3409). The relative positions of most of the samples from these two
+areas are shown in Fig. 3, on the stratigraphic drawings presented
+in Parkington et al. (2013). The stratigraphic drawing of the north
+face in the ‘Main’ sector is for squares N6 and O6, but the OSL
+samples were collected from squares L6 and M6, for which a
+photograph is also shown in Fig. 3 (lower panels). From this ﬁgure,
+it is clear that there is a higher density of samples in the upper
+levels of the ‘Trench’ sector (upper panels in Fig. 3), than in the
+‘Main’ sector.
+The dating conundrum is evident in Fig. 1. Jacobs et al. (2008c)
+presented a chronology that started from ~48 ka for the post-HP
+in the ‘Trench’ sector, gradually increasing in age through the HP
+and the SB to ~90 ka at the base in the Lower MSA of the ‘Main’
+Sector. Tribolo et al. (2013) reported a chronology that shows some
+consistency with our chronology at the top (LHP) and bottom
+(Lower MSA) of the sequence, but not for the middle. Their
+weighted mean age (65 ± 8 ka) for the intermediate HP (IHP) of the
+‘Back’ sector (in SU OB5) is consistent with the age (63 ± 2 ka)
+obtained for the IHP by Jacobs et al. (2008c) from sample DRS11,
+which was collected from the interface of SUs John and Jeff near the
+base of the IHP in the ‘Main’ sector. By contrast, the ages of Tribolo
+et al. (2013) for the IHP from SUs Fred and Fox in the ‘Main’ sector
+(Fig. 3) are signiﬁcantly older, but their weighted mean age for
+lowest SU John (77 ± 8 ka) is consistent at 2s with our age for the
+same SU (65 ± 8 ka). Signiﬁcantly different ages from those presented in Jacobs et al. (2008c) were also obtained by Tribolo et al.
+(2013) for the EHP and the SB; ages for the latter pair are between 30 and 35 ka older than the corresponding OSL ages presented by Jacobs et al. (2008c). (We note that the weighted mean
+age of 105 ± 10 ka provided in Table 3 of Tribolo et al. (2013) is
+incorrect and should be 100.5 ± 9.7 ka). The ages of Tribolo et al.
+(2013) for the Lower MSA are systematically older than those
+provided by Jacobs et al. (2008c), but are statistically consistent at
+2s. Perhaps the most important discrepancy between the two
+studies is the lack of correlation between the two sets of single
+grain OSL ages. Those obtained by Tribolo et al. (2013) are consistent with their TL/ITL ages, which led them to suggest that the
+single grain OSL ages presented by Jacobs et al. (2008c) are ﬂawed.
+3. Optical dating
+In the next few sections, we will scrutinise our data and test the
+data sets according to the suggestions made by Tribolo et al. (2013)
+rin et al. (2013). But before doing so, it is worthwhile to
+and Gue
+
+177
+
+remind the reader about optical dating of quartz grains. There are
+two parts of the OSL age equation:
+
+Age ðkaÞ ¼
+
+Equivalent dose; De ðGyÞ
+ 
+Environmental dose rate Gy
+ka
+
+Aspects of both parts of the equation have been criticised as
+regards their implementation by Jacobs et al. (2008c).
+The numerator, De, represents the radiation energy absorbed by
+the quartz grains since they were last exposed to sunlight
+(‘bleached’) or heated to a high temperature, and stored as trapped
+electrons. The De is estimated from measurements of the OSL signal
+emitted by individual grains or by single aliquots composed of
+many grains. The bleaching and burial history of an individual grain
+is the smallest meaningful unit of analysis in OSL dating (Jacobs and
+Roberts, 2007; Duller, 2008).
+The denominator in the age equation is the environmental dose
+rate, which consists of four separate contributions: the betaparticle and gamma-ray dose rates from materials surrounding
+the quartz grains by up to ~3 mm and ~30 cm, respectively, and
+lesser contributions from cosmic rays and alpha particles (the latter
+emitted by radioactive inclusions internal to the quartz grains).
+
+4. Assessing the equivalent dose (De) values
+4.1. Dose recovery tests
+All of the ages presented in Jacobs et al. (2008c) were based on
+the measurement of many individual grains of quartz that were all
+treated in an identical manner. This included a preheat temperature
+of 260  C for 10 s prior to measurement of all natural and regenerative dose signals (PH-1), a preheat temperature of 220  C for 5 s
+prior to all test dose measurements (PH-2), and a high temperature
+optical stimulation with blue light-emitting diodes at 280  C for
+40 s (‘hot’ wash) to empty out all remaining charge from the
+electron traps at the end of each measurement (Lx/Tx) cycle (Wintle
+and Murray, 2006; Jacobs et al., 2006b). The same OSL instrument
+was used to measure all the samples, so the equivalent dose (De)
+values are directly comparable. The measurement parameters were
+established based on dose recovery tests. A dose recovery test
+(Galbraith et al., 1999; Roberts et al., 1999) is a controlled laboratory
+experiment in which grains from a sample are ﬁrst exposed to
+natural sunlight for several days (or artiﬁcial light for shorter periods), and then stored in the dark for several days before being
+given a known laboratory dose using a 90Sr/90Y beta source; the
+latter is built into the OSL measurement equipment and is used to
+administer radiation doses to grains to construct their dose
+response curves. Ideally, the given dose is similar to the expected De
+value for that sample of grains. The grains are then measured in the
+same way as for the natural sample, using the single aliquot
+regenerative-dose (SAR) measurement procedure (Murray and
+Wintle, 2000) applying the same preheat and other measurement
+parameters, with the aim to accurately measure (‘recover’) the dose
+given to the sample. The results are usually expressed as a ratio of
+the measured dose to the given dose. The idea behind the test is
+that if the known dose can be ‘recovered’ (a measured/given dose
+rate within experimental error of unity), then this provides an
+indication that the laboratory procedures and measurement parameters are appropriate to create an accurate dose response curve
+for the grains from that sample (Galbraith et al., 1999). A ratio of
+unity, however, is not an assurance that the ‘natural’ dose (i.e., the
+De) will be measured with accuracy as other factors can also inﬂuence the natural dose and as laboratory conditions are not
+
+Fig. 3. Stratigraphic diagrams (after Parkington et al., 2013) for the parts of the ‘Trench’ and ‘Main’ sectors (upper and lower panels, respectively) from which OSL samples were
+collected by Jacobs et al. (2008c) (see Fig. 2). Also shown are photographs of the sedimentary proﬁles from which the samples were collected. The relative position of each sample is
+shown as a yellow-ﬁlled circle. Note that samples DRS15 to DRS17 are not shown, as they were collected from layers below the lowest shown in the stratigraphic diagram for the
+‘Main’ sector. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+identical to those in the ﬁeld (Galbraith et al., 2005; Galbraith and
+Roberts, 2012).
+Jacobs et al. (2008c) performed a dose recovery test on 3 of the
+Diepkloof samples (DRS5, DRS10 and DRS12) using six multi-grain
+aliquots, each consisting of ~10 grains, for each sample (Table S2 in
+Jacobs et al., 2008c). They obtained a measured/given dose ratio of
+0.99 ± 0.03 and interpreted this positive result as suggesting that
+the measurement conditions tested were appropriate to use for OSL
+dating of individual grains from all 13 Diepkloof samples.
+Tribolo et al. (2013) performed dose recovery tests using a range
+of different preheat combinations to establish the best measurement conditions for their sediment samples (Table 2 in Tribolo
+et al., 2013). One of their preheat combinations was the same as
+that used by Jacobs et al. (2008c), namely a PH-1 of 260  C for 10 s, a
+PH-2 of 220  C for 5 s and a blue LED stimulation for 40 s at 280  C
+(‘hot’ wash) at the end of each measurement cycle. Using this
+combination, they successfully recovered the known dose for two
+of their samples from SUs Fox and Jude/Joy (both from the IHP), but
+were unable to recover a known dose for 5 of 8 samples collected
+from SUs Kenny (SB), Lynn/Leo (pre-SB), Mike, Maggy and Noel
+(Lower MSA). The sample collected from SU Jess (EHP) gave a result
+that was on the margins of acceptability (measured/given dose
+ratio of 0.92 ± 0.03). This poor performance of the dose recovery
+test on samples from the lower part of the ‘Main’ sector led them to
+conclude that the measurement conditions used by Jacobs et al.
+(2008c) for the samples from the deepest SUs, including John
+(IHP), Kerry (EHP) and Logan (SB), were probably inappropriate and
+that the De values were likely to have been underestimated by at
+least 10%. They also strongly recommended that a dose recovery
+test should be performed for each Diepkloof sample.
+4.2. New single grain OSL dose recovery tests
+To address this issue and to test the effect that alternative
+measurement conditions may have on our De values, we have
+conducted a series of dose recovery tests on single grains from all
+our samples. We ﬁrst exposed a sub-set of grains from each sample
+to natural sunlight for several days and then gave these grains a
+known beta dose of ~100 Gy, similar to the measured De values for
+our samples. We then measured between 300 and 500 grains from
+each sample using the experimental parameters used in Jacobs
+et al. (2008c). The results are presented in Fig. 4, where the
+measured/given dose ratio is plotted for each of the samples,
+together with the number of grains used to estimate the ratio and
+the ‘overdispersion’ (OD); the OD is the amount of scatter
+remaining among the dose estimates for a particular sample after
+all measurement uncertainties have been taken into account
+(Galbraith and Roberts, 2012). The broken line indicates a ratio of
+unity and the two stippled lines mark the ±5% limits. Ten of the 13
+samples have measured/given dose ratios that are within 5% of
+unity and are considered to be acceptable. The three samples that
+failed the dose recovery test under these measurement conditions
+are DRS7 (0.92 ± 0.02) from SU Helen (LHP) and DRS15 (0.89 ± 0.02)
+and DRS17 (0.79 ± 0.04) from SUs Mark and the interface of Nina/
+Nel, respectively, both from the Lower MSA. Our samples from the
+IHP, EHP and SB performed well, and do not show the same signiﬁcant underestimation as that observed by Tribolo et al. (2013).
+We next tried a different set of dose recovery test conditions,
+and were able to satisfactorily recover the given dose for samples
+DRS7 (0.97 ± 0.02; N ¼ 187; OD ¼ 14 ± 2), DRS15 (1.02 ± 0.02;
+N ¼ 184; OD ¼ 13 ± 1%) and DRS17 (1.02 ± 0.04; N ¼ 44;
+OD ¼ 15 ± 3%) using a PH-1 of 260  C for 10 s, a PH-2 of 160  C for
+10 s and a 60 s optical stimulation at 125  C with blue LEDs at the
+end of each measurement cycle (i.e., a ‘cold’ wash). This outcome is
+consistent with that reported by Tribolo et al. (2013) for their three
+
+179
+
+Fig. 4. Single grain dose recovery test results for all OSL samples (sample numbers
+shown at the bottom of the graph), presented in stratigraphic order (deepest sample
+on the right). The symbols show the measured/given dose ratio for each sample based
+on the weighted mean ± 1s error. The broken line indicates unity and the two stippled
+lines denote the þ5 and 5% limits, which represent arbitrary levels of acceptability.
+The uppermost row of numbers show the overdispersion (OD) value for each sample
+and those just above the þ5% limit line shows the number of measured dose values
+included in the ratio estimate.
+
+samples from the Lower MSA. To err on the side of caution, we also
+conducted a series of dose recovery tests using a range of alternative measurement parameters for the three critical samples from
+the IHP (DRS11), EHP (DRS13) and SB (DRS14). These results are
+presented in Fig. 5aec. All three samples show some sensitivity to
+changes in the preheat combinations, but these plots also show that
+the preheat combination used by Jacobs et al. (2008c) does not
+result in signiﬁcant underestimation of the known dose. It is also
+interesting that the range of OD values does not change signiﬁcantly with the different dose recovery test combinations. We
+interpret the OD to be the result of inherent differences (natural
+variation) in the physical behaviour of the grains, such that not all
+grains in any particular sample respond identically to the same
+measurement conditions, and that this should be taken into
+consideration when interpreting the De distributions of the natural
+samples.
+4.3. Sensitivity of the natural signal to changes in preheat
+temperature
+The dose recovery test may not completely reﬂect the determination of the natural dose, because of a number of differences
+between radiation doses received by the grains in nature and those
+given in the laboratory and various time-dependent phenomena.
+Foremost are the differences in delivery rate of the dose, storage
+time between irradiation and OSL measurement, and the possibility
+of phenomena such as trap and recombination centre stability and/
+or competition. The time-dependent effects cannot be reproduced
+in the laboratory and they should be kept in mind when interpreting dose recovery test results (Murray et al., 2002; Galbraith
+et al., 2005). So, we have also measured the natural signal of the
+three most important samples (DRS11, 13 and 14) using a range of
+alternative preheat combinations.
+4.3.1. DRS11 e interface of SUs Jeff and John in the IHP
+The results for DRS11 are displayed in Fig. 6a and d. Apart from
+one preheat combination (PH-1 ¼ 260  C for 10 s and PH-2 ¼ 220  C
+for 5 s without a ‘hot’ wash), all of the other combinations produced
+De values that are statistically consistent. We have, therefore,
+combined the latter values to obtain a ‘new’ weighted mean De
+value of 124.3 ± 3.4 Gy, which is consistent with the ‘old’ weighted
+mean De value of 125.2 ± 2.2 Gy; the weighted mean and 2s errors
+
+180
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+corresponding overdispersion values are 24 ± 5% and 0%. Hence, the
+use of the ‘fast ratio’ as a rejection criterion has a negligible effect
+on both the weighted mean De value and the De overdispersion,
+although less precise De estimates were obtained owing to the large
+reduction in the number of accepted De values, as reported previously for other sites (Duller, 2012; Jacobs et al., 2013).
+The consistency in De values allows us to statistically combine
+the ‘old’ and ‘new’ De value data sets to obtain a ‘grand’ weighted
+mean De of 124.2 ± 1.9 Gy (OD ¼ 24.7 ± 1.4%), which we now use for
+age determination of this sample. The radial plot containing all ‘old’
+and ‘new’ De values are presented in Fig. 6d, where the grey band is
+centred on the grand weighted mean De value. Tribolo et al. (2013)
+presented single grain OSL ages for two sediment samples from the
+SUs that overlie (SU Fox; DRS-OSL8) and underlie (SU Jude/Joy;
+DRS-OSL7) the SU from which our sample was collected (the
+interface of SUs Jeff and John). They obtained similar De values for
+their two samples (115.8 ± 3.8 and 116.0 ± 3.1 Gy, respectively),
+which are also consistent with the De values obtained for our
+sample (Fig. 6a). These samples are not, strictly speaking, directly
+comparable, since our sample was collected from the face of square
+L6, into square M6, whereas their samples were collected from the
+face of square O6, ~2 m away (Fig. 2). Nevertheless, the overall
+concordance of results indicates that we obtain similar De values to
+Tribolo et al. (2013) using the same measurement conditions for
+samples from the IHP and the underlying MSA-Jack.
+
+Fig. 5. Dose recovery tests for single grains of quartz from samples DRS11 (IHP), DRS13
+(EHP) and DRS14 (SB) using a range of preheat combinations (listed at the bottom of
+each graph). The broken line indicates a ratio of unity and the two stippled lines ±5%.
+The open symbol denotes the preheat combination used for De determination. The
+numbers above the stippled lines show the OD associated with the weighted mean
+ratio and the number of measured dose values included in the ratio.
+
+are displayed as broken lines in Fig. 6a and were calculated using
+the Central Age Model (CAM) of Galbraith et al. (1999). We also
+calculated ‘fast ratios’ (Durcan and Duller, 2011; Duller, 2012) for all
+the newly measured grains for which De values could be calculated,
+following the approach explained in Jacobs et al. (2013). For grains
+with fast ratios >10 and >20, the respective CAM De values are
+122.7 ± 7.1 Gy (N ¼ 33) and 117.2 ± 7.0 Gy (N ¼ 15) and the
+
+4.3.2. DRS13 e interface of SUs Kate and Kenny in the EHP
+The results for DRS13 are presented in Fig. 6b and e. All preheat
+combinations resulted in De values that are consistent, giving a
+combined ‘new’ De value of 104 ± 2 Gy. For grains with (high) fast
+ratios >10 and >20, the respective CAM De values are 98.6 ± 4.0 Gy
+(N ¼ 83) and 95.0 ± 7.0 Gy (N ¼ 18) and the corresponding overdispersion values are 29 ± 3% and 25 ± 6%. This ‘new’ weighted
+mean De value is ~10% lower than the ‘old’ weighted mean De of
+116 ± 2 Gy, whereas the weighted mean De values from the grains
+with high fast ratios are ~15e18% lower. We cannot explain this
+difference, and have no objective criterion to favour one value over
+the other. We have, therefore, combined the ‘new’ and ‘old’ De data
+sets to obtain a grand weighted mean De of 108.3 ± 1.3 Gy, with an
+OD value of 25.9 ± 1.1% (the effect on age is also discussed below);
+the individual De values are displayed as a radial plot in Fig. 6e. Also
+shown in Fig. 6b is the De value obtained by Tribolo et al. (2013) for
+their sample from SU Jess in the EHP (DRS-OSL6), the most closely
+positioned sample to DRS13. They obtained a De value that is ~26%
+higher than the grand weighted mean for DRS13, using a preheat
+combination of 260  C for 10 s (PH-1), 220  C for 5 s (PH-2) and a
+ﬁnal optical stimulation at 125  C for 60 s (i.e., a ‘cold’ wash). In
+Fig. 5b, we showed that we could also satisfactorily recover the
+known dose using this preheat combination (number 2), obtaining
+a measured/given dose ratio of 1.04 ± 0.02. We also measured the
+natural signal of 500 grains with this combination, and De values
+could be calculated for 99 of these grains (Fig. 6b). The resulting
+weighted mean De value of 99.8 ± 3.2 Gy (and an OD value of
+26 ± 3%), is similar to that obtained for grains with high fast ratios,
+but ~36% lower than that obtained by Tribolo et al. (2013). We
+interpret this difference as a real effect and not the result of a
+ﬂawed methodology as suggested by Tribolo et al. (2013). We must
+keep in mind that DRS-OSL6 and DRS13 were not collected from the
+same excavation face, so that differences in dose rate may be
+responsible for some or all of the discrepancy between their
+measured De values (see below).
+4.3.3. DRS14 e SU Logan in the SB
+The results for DRS14 are presented in Fig. 6c and f. The lowertemperature preheat combinations all give marginally higher De
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+181
+
+Fig. 6. Single grain De and overdispersion values obtained for a) DRS11, b) DRS13 and c) DRS14 using a range of preheat combinations for measurement of the natural, regenerative
+and test dose OSL signals. Each De value represents the weighted mean (CAM) of a number of individual grains, with the number of grains included also listed (N). The asterisk (*)
+refers to a preheat combination for which an optical wash at 280  C for 40 s was added at the end of each measurement cycle, whereas the hash symbol (#) indicates that an optical
+wash at 125  C for 60 s was added at the end of each measurement cycle. For DRS11 and DRS13, the De values for the samples of Tribolo et al. (2013) that are stratigraphically most
+closely related to our samples are shown as blue squares. The De values obtained for these three samples by Jacobs et al. (2008c) are shown as red circles. On the right-hand side of
+each ﬁgure is the weighted mean De, OD value, and the number of grains included in the average when the ‘new’ De values are combined (i.e., all values shown to the left that are
+statistically consistent). These weighted means and 1s errors are shown on the left as the black and red broken lines, respectively. The grand weighted mean De values obtained by
+combining the ‘new’ and ‘old’ De values (i.e., the ﬁnal De values used for age calculation) are also presented, as the boxed points on the left and as the De values given in the righthand plots. The latter are radial plots of single grain De values for all the ‘old’ and ‘new’ data for d) DRS11, e) DRS13 and f) DRS14. (For interpretation of the references to colour in this
+ﬁgure legend, the reader is referred to the web version of this article.)
+
+182
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+values compared to the higher preheat temperatures. The small
+range in weighted mean De values of between 90 ± 3 and 106 ± 5 Gy
+is not considered signiﬁcant and, for two of these combinations, we
+obtained successful dose recovery results (see Fig. 5c). When all
+‘new’ De values are combined, a weighted mean De of 97 ± 1 Gy is
+obtained. This is consistent with the ‘old’ weighted mean De value
+of 100 ± 2 Gy and also with the weighted mean De values of
+94.2 ± 3.5 Gy (N ¼ 89) and 95.2 ± 6.9 Gy (N ¼ 25) for grains with
+fast ratios of >10 and >20 (OD values of 27 ± 3% and 31 ± 6%,
+respectively). This allows us to combine the ‘new’ and ‘old’ data sets
+to obtain a grand weighted mean De for age determination of
+99 ± 1 Gy, with an OD value of 24 ± 1%; the individual De values,
+numbering more than 1000, are displayed as a radial plot in Fig. 6f.
+Tribolo et al. (2013) did not collect a sediment sample from the SB
+for single grain OSL dating, so there are no data of theirs to compare
+against.
+
+4.4. Reproducibility of De values over time
+We also re-measured seven of the samples (DRS4, 5, 6, 8, 9, 10
+and 11) for which successful dose recovery test results were obtained using our original preheat combination. The old and new
+results are presented in Fig. 7a. The new De values measured in this
+study are both higher and lower by up to ~5% compared to the
+original De values, but they are statistically consistent at 1s, which
+suggests that we can measure our De values reproducibly more
+than 7 years apart. In Fig. 7b are the new De values for the three
+samples (DRS7, DRS15 and DRS17) that failed the dose recovery test
+using our original preheat conditions (see Fig. 4). A total of 1000
+grains of each sample was measured using the preheat combination
+that resulted in a successful dose recovery test on these samples
+(PH-1 ¼ 260  C for 10 s; PH-2 ¼ 160  C for 10 s; ﬁnal optical
+stimulation at 125  C for 60 s). None of the samples show a signiﬁcant change (<5%) between the De values measured >7 years
+apart. Since all of the samples yielded statistically consistent ‘old’
+
+Fig. 7. a) Weighted mean single grain De values obtained for seven samples reported in
+Jacobs et al. (2008c). The original data are shown as ﬁlled circles, and the data obtained
+from new measurements made in this study, are shown as open circles. The triangles
+show the De values obtained when both data sets are combined; the ratios of the ‘old’
+versus the ‘new’ De values are also provided. b) Weighted mean De values for the three
+samples that failed the dose recovery test using the original preheat combination (see
+Fig. 4). The ‘old’ De values obtained using the latter combination are shown as ﬁlled
+circles and the ‘new’ De values obtained using a PH-1 of 260  C for 10 s, a PH-2 of
+160  C for 10 s and a ﬁnal optical stimulation at 125  C for 60 s are shown as open
+circles. The combined De values (triangles), and the ratios of the ‘old’ versus the ‘new’
+De values, are also indicated. (For interpretation of the references to colour in this
+ﬁgure legend, the reader is referred to the web version of this article.)
+
+and ‘new’ De values, we have combined the two data sets to obtain
+the grand weighted mean De values for age determination; these
+are shown as triangles in Fig. 7a and b. For sample DRS16, we also
+measured 2000 additional grains and calculated new De values
+using two different preheat combinations: 180  C or 260  C for 10 s
+(PH-1) and 180  C or 160  C for 10 s (PH-2), respectively. These two
+combinations yielded De estimates that were statistically compatible (95.3 ± 6.0 Gy and 97.2 ± 3.7 Gy, respectively) and consistent
+with the ‘old’ De value of 94.2 ± 2.4 Gy.
+4.5. De distributions and interpretations
+For all of the samples, the ‘new’ and ‘old De data sets have been
+combined to obtain the ﬁnal De for age determination (Table 1).
+Table S1 contains information about the total number of grains
+measured, the number for which De values could be determined,
+and the reasons for rejecting the remaining grains. The three
+‘combined De'radial plots for DRS11, DRS13 and DRS14 are shown in
+Fig. 6 and for the rest of the samples in Fig. S1. The radial plots of all
+the ‘old’ De data sets are provided in Fig. S8 of Jacobs et al. (2008c).
+In Jacobs et al. (2008c), we observed 4 different types of De
+distribution, namely ‘well-bleached’, ‘scattered’, ‘mixed’ and ‘scattered and mixed’ (after Jacobs et al., 2008a). We applied the Central
+Age Model (CAM) of Galbraith et al. (1999) to the ‘well-bleached’
+samples (DRS15e17) to calculate the weighted mean De for each of
+the samples. For the remaining 10 samples, we applied the Finite
+Mixture Model (FMM) of Roberts et al. (2000) to the ‘scattered’
+(DRS8, 6, 11 and 13), ‘mixed’ (DRS4 and 10) and ‘scattered and
+mixed’ (DRS9, 5, 17 and 14) De distributions to calculate the
+weighted mean De for the dominant component; that is, the population of grains with De values representative of the majority of
+the grains. We also estimated the proportion of grains in that
+population and optimised the OD value for that population using
+the statistical criteria described by Galbraith (2005).
+rin et al. (2013: 314) have suggested that Jacobs et al.
+Gue
+(2008c) chose between using CAM and FMM “based on a potentially subjective 20% limit on the dose overdispersion expected from
+well-bleached quartz grains” and that this “limit was then used to
+constrain the use of the FMM”. We never use an OD value of 20% as
+the sole criterion for choosing between the CAM and any other age
+model (e.g., the FMM or the minimum age model, MAM). Instead,
+we routinely take several steps to assess the possible cause(s) of the
+observed distribution of De values for any sample, as we have
+explained in previous publications (e.g., Jacobs and Roberts, 2007;
+Jacobs et al., 2008a, 2011, 2013). First, we calculate the OD value for
+each sample using the CAM. OD values of up to 20% have been
+commonly observed for many quartz samples from around the
+world (Arnold and Roberts, 2009), so when OD values greater than
+20% are obtained, we pay special attention to any additional features, but do not automatically apply the FMM or MAM. In Jacobs
+et al. (2008c), the distinction between the CAM and FMM
+happened to coincide with an OD value of ~20% or less. Second, we
+make a visual assessment of the distribution pattern of De values in
+a radial plot to identify whether a De distribution is composed of a
+single population of values or multiple, discrete components, or if it
+shows some other feature(s) of interest. Third, we apply our
+knowledge of the site and sample contexts to pose questions about
+the known depositional and post-depositional processes that could
+result in the observed De distribution. These different strands of
+evidence are then combined to develop a plausible scenario to
+explain the De distribution for any particular sample and help us
+decide which statistical model to use for age estimation.
+When the FMM is chosen, we consistently use statistically
+objective measures, namely the Bayes Information Criterion (BIC)
+and the maximum log likelihood (llik), based on the
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+183
+
+Table 1
+Dose rate data, equivalent dose (De) values, and OSL ages for sediment samples from Diepkloof Rockshelter.
+Sample code
+
+Moisture
+content (%)
+
+Post-HP
+DRS9
+DRS8
+DRS6
+
+5±2
+5±2
+5±2
+
+DRS5
+DRS4
+DRS7
+DRS10
+DRS11
+DRS13
+DRS14
+DRS15
+DRS16
+DRS17
+
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+External dose rates (Gy/ka)
+
+Total dose
+rate (Gy/ka)a
+
+De (Gy)a
+
+94.6
+94.8
+93.4
+112.5
+113.7
+112.2
+123.1
+100.1
+124.2
+108.3
+98.5
+104.4
+94.3
+100.8
+
+Betaa
+
+Gammaa
+
+Cosmica
+
+1.40 ± 0.07
+1.17 ± 0.06
+1.28 ± 0.06
+
+0.70 ± 0.04
+0.59 ± 0.03
+0.55 ± 0.04
+
+0.04
+0.04
+0.04
+
+2.17 ± 0.08
+1.83 ± 0.07
+1.90 ± 0.07
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.04
+0.04
+0.04
+0.04
+0.03
+0.03
+0.03
+0.03
+0.03
+0.03
+
+2.03
+1.82
+2.14
+1.52
+2.04
+1.66
+1.29
+1.18
+1.01
+1.14
+
+1.40
+1.16
+1.33
+0.98
+1.35
+1.10
+0.75
+0.70
+0.57
+0.58
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.07
+0.06
+0.06
+0.05
+0.06
+0.06
+0.04
+0.04
+0.03
+0.03
+
+0.57
+0.60
+0.75
+0.47
+0.63
+0.50
+0.47
+0.41
+0.38
+0.51
+
+0.03
+0.03
+0.04
+0.03
+0.03
+0.02
+0.02
+0.03
+0.02
+0.04
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.07
+0.07
+0.07
+0.06
+0.07
+0.06
+0.05
+0.05
+0.04
+0.05
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+Age modelb
+
+2.3
+2.4
+2.4
+2.8
+2.9
+2.6
+3.1
+2.4
+3.2
+2.5
+2.2
+2.4
+2.7
+3.0
+
+CAM
+CAM
+CAM
+FMM
+FMM
+FMM
+FMM
+CAM
+CAM
+CAM
+CAM
+CAM
+CAM
+CAM
+
+Number
+of grains
+
+569
+423
+538
+(66.2%)
+(97.4%)
+(97.1%)
+(98.6%)
+
+425
+474
+375
+734
+461
+808
+1040
+791
+265
+255
+
+Over-dispersion (%)
+
+Optical age (ka)c
+
+26.6 ± 1.2
+24.8 ± 1.4
+33.6 ± 1.4
+
+43.6
+51.9
+49.1
+59.2
+56.0
+61.6
+57.5
+65.9
+60.8
+65.1
+76.5
+88.4
+93.3
+88.2
+
+32.8
+20.7
+31.6
+22.8
+24.7
+25.9
+23.7
+23.0
+22.5
+25.7
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+1.5
+1.2
+1.6
+0.9
+1.4
+1.1
+0.9
+0.9
+1.9
+2.0
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+1.9
+2.3
+2.2
+2.7
+2.5
+2.7
+2.5
+3.0
+2.6
+2.8
+3.3
+4.0
+4.4
+4.4
+
+(1.0)
+(1.4)
+(1.3)
+(1.6)
+(1.3)
+(1.5)
+(1.5)
+(1.7)
+(1.4)
+(1.5)
+(2.4)
+(2.6)
+(3.3)
+(3.3)
+
+Uncertainties (at 1s) include both the random and systematic errors, combined in quadrature. See text and supporting information for further details.
+Values in parentheses indicates the proportion of grains included in the calculation of the weighted mean De value using the FMM.
+Uncertainties (at 1s) include both the random and systematic errors, combined in quadrature. The random components of error on the age estimates are also listed
+separately in parentheses.
+a
+
+b
+c
+
+recommendations of Galbraith (2005). This allows us to determine
+1) whether a De distribution consists of more than one discrete De
+component, and 2) if more than one discrete De component can be
+statistically supported, then the BIC and llik are used to determine,
+for a range of tested alternatives, the number of components and
+OD value, at which the model is optimised; an OD value of 20% is
+not used to constrain the FMM. Readers may refer to the supporting
+information in Jacobs et al. (2011) for a detailed explanation and
+worked example of this approach, and to Galbraith and Roberts
+(2012) for statistical details of model implementation. We maintain, therefore, that our implementation of the FMM is statistically
+robust and appropriate.
+The new combined De data sets, presented as radial plots in
+Fig. 6 and Fig. S1, contain considerably more data than those published previously. Although the De distribution patterns are similar
+to those presented in Jacobs et al. (2008c), the interpretation of the
+distributions can be simpliﬁed. A reassuring feature of the two
+studies is that the CAM De values for the original De data sets of all
+samples (Jacobs et al., 2008c) are consistent with the CAM De estimates for the new combined De data sets in this study (Fig. S1),
+yielding an average ratio of 1.00 with a standard deviation of 0.03.
+This internal consistency conﬁrms that our De measurements are
+highly reproducible over time.
+The additional data collected in this study indicate that all
+samples, except for four samples (DRS4e7) from the LHP in the
+“Trench” sector (Figs. 2 and 3), each have De values compatible with
+a common De. This suggests that the grains that comprise these
+distributions were ‘well-bleached’ prior to burial. The OD values for
+these De distributions range between 22.0 ± 1.1% (DRS10) and
+26.6 ± 1.2% (DRS9), which are consistent with, or higher than, the
+range of OD values obtained from the dose recovery tests (10 ± 1 to
+22 ± 3%). We interpret this greater extent of OD to reﬂect natural
+variability in the behaviour of grains that is not captured in a
+laboratory-controlled experiment, such as a dose recovery test,
+and/or the effects of variable beta dose rates delivered to individual
+grains (e.g., Galbraith et al., 2005; Galbraith and Roberts, 2012). It is
+clear from the micromorphology work conducted at Diepkloof by
+Miller et al. (2013) that the beta dose rate to each grain is unlikely to
+be homogeneous, owing to the variable composition of materials in
+the beta-particle sphere of inﬂuence (2e3 mm radius) around individual quartz grains. Accordingly, for these 9 ‘well-bleached’
+samples, we used the CAM to combine the individual De values, and
+
+obtain a ﬁnal weighted mean De for OSL age determination. This
+statistical treatment of the data sets is the same as that used by
+Tribolo et al. (2013), so differences in age cannot be attributed to the
+use or implementation of different age models.
+The remaining four samples (DRS4e7) clearly have a small
+proportion of grains with signiﬁcantly smaller De values. The
+weighted mean De values of these secondary components are
+indicated by the solid lines in Fig. S1 and constitute between 1.4 and
+2.9% of the grains in each of the respective De distributions. We
+interpret these grains to be intrusive from the LSA pits and/or layers
+directly overlying the MSA in this part of the site (Parkington et al.,
+2013). Such intrusive grains have been incorporated into the sample after burial, so they are not meaningful for dating the target
+archaeological event. Removal of these grains reduces the OD
+values to 16.2 ± 1.1% (DRS4), 25.9 ± 1.3% (DRS5) and 21.8 ± 1.3%
+(DRS7), which are consistent with the range of OD values obtained
+for the ‘well-bleached’ samples. The weighted mean De for the
+remaining grains, which comprise the major De component, was
+obtained directly from the FMM and is taken to represent the
+depositional event for these samples.
+Only sample DRS6 has a higher OD value (29.2 ± 1.3%) after
+removing these intrusive grains, owing to the presence of an
+additional, intermediate De component identiﬁed using the FMM.
+We do not know whether these latter grains have intruded from a
+younger layer of Pleistocene age (‘mixed’), or whether their De
+values are the result of a reduced beta dose rate delivered to these
+particular grains (‘scattered’), or a combination of these. Given
+these uncertainties, we have provided the De values and ages for
+both scenarios in Table 1, so that the effect on the calculated age can
+be seen.
+4.6. Summary of De evaluations
+We have demonstrated that our De values are robust to a range
+of alternative experimental procedures, and that the preheat
+combination used by Jacobs et al. (2008c) did not adversely inﬂuence the outcomes. We have, therefore, falsiﬁed the suggestion of
+Tribolo et al. (2013) that the ages of our samples from the IHP, EHP
+and SB in the ‘Main’ sector differ from theirs due to underestimation of the single grain De values. We do, however, concur with
+Tribolo et al. (2013) that single grain dose recovery tests should be
+conducted on the same samples for which single grains are then
+
+184
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+measured for age determination. This has been standard practice in
+our laboratory for a number of years, but was not so in 2006/2007
+when the original measurements were made. The consistency of
+the ‘old’ and ‘new’ De data sets, separated by several years, are very
+pleasing and suggest that 1) our equipment is stable over time, and
+2) continuous improvements in our measurement and analytical
+procedures over the last 8 years have not introduced any signiﬁcant
+systematic biases.
+5. Evaluating the beta-particle dose rates at Diepkloof
+The sedimentary deposits at Diepkloof are heterogeneous in
+their composition and in the spatial distribution of the organic and
+inorganic constituents (Miller et al., 2013). Such inhomogeneity is
+common at archaeological sites. As a result, quartz grains deposited
+at the same time but situated a few mm or cm apart can experience
+different beta dose rates, depending on their relative proximity to
+materials of high or low radioactivity. The differences in beta dose
+rate to individual grains is difﬁcult to model in a way that is both
+simple to implement and faithful to the ﬁeld context of the sample,
+because each sample poses a unique set of circumstances that no
+single model can address without knowing the detailed boundary
+conditions speciﬁc to that sample. The beta dose rate is typically
+determined on a bulk sample (several grams or tens of grams in
+mass) to obtain a ‘sample-average’ beta dose rate, so the collection
+of a truly representative sub-sample is imperative. But, even so, the
+sample-average beta dose rate is unlikely to be representative of
+the beta dose rate to each and every dated grain in a sample. At
+Diepkloof, we took a random sub-sample from the sediment
+collected for OSL measurement. For these samples, the sampleaverage beta dose rate accounts for between ~50% and 70% of the
+total environmental dose rate, so any error associated with the beta
+dose rate will have a large effect on the calculated OSL age. In the
+next few sections, we provide further details and updates on our
+estimates of the beta dose rate for the OSL samples collected at
+Diepkloof.
+5.1. Updated dose rate conversion factors
+rin
+Nuclear data tables are updated periodically, from which Gue
+et al. (2011, 2012) derived a set of revised dose rate conversion
+factors. This necessitates updating the beta dose rate associated
+with the laboratory reference standard that we use to calculate the
+beta dose rates for our samples using a Risø GM-25-5 beta counter.
+The previous update was published by Adamiec and Aitken (1998),
+and their conversion factors were used by Jacobs et al. (2008c). We
+routinely use a loess sample (Nussi) for which the beta dose rate
+has been independently estimated from high-resolution gamma
+spectrometry measurements (Kalchgruber, 2002). To convert the
+measured values of U, Th and K to beta dose rate, we employed the
+rin et al. (2011), resulting in an increase of ~1.5%
+new values of Gue
+in the Nussi-derived beta dose rate for a dry sample. The outcome
+of this is that all of our original dry-sample beta dose rates have
+increased by ~1.5% and the ages have decreased by a similar
+amount, but such changes are smaller than the margin of error
+associated with each age. All the beta dose rates presented in this
+paper are based on the updated conversion factors. As Tribolo et al.
+rin et al. (2011), the
+(2013) also used the conversion factors of Gue
+two studies are directly comparable.
+5.2. Sizing up the beta dose rate errors
+rin et al. (2013) viewed the dose-rate uncertainties cited by
+Gue
+Jacobs et al. (2008c) for the Diepkloof samples as too small; they
+were obtained from GM-25-5 beta-counting. Their objection is
+
+based largely on the results of a study by Ankjærgaard and Murray
+(2007), who reported an overdispersion of ~10% among beta dose
+rates measured using beta-counting and inferred from highresolution gamma-ray spectrometry measurements of selected
+rin et al.
+radionuclides in the 238U and 232Th day chains and 40K. Gue
+(2013) arbitrarily assigned half of this overdispersion to each of
+these two techniques, amounting to ~7% for beta counting and ~7%
+for gamma spectrometry (the two values being added together as
+the square root of the sum of the squares). Certainly, such an error
+may be valid for the speciﬁc instruments used by Ankjærgaard and
+Murray (2007) and for samples prepared and measured in the exact
+same way. But there is no logical reason to assume that the same
+error should apply to any other set of beta counters or to samples
+that are prepared differently and measured using background
+blanks and reference standards that are also different.
+Since our publication of OSL ages for the Diepkloof (and other)
+samples in 2008, we have reﬁned and changed the way we calculate our beta dose rate errors on several occasions. So, instead of
+defending the errors used in Jacobs et al. (2008c) that we also now
+consider too small, we explain here how we currently calculate our
+errors and update the beta dose rate estimates accordingly, so the
+effect on the ﬁnal ages can be assessed in the context of the total
+environmental dose rate. Rex Galbraith has assisted us in devising a
+robust method based on an analysis of variance between replicate
+measurements. The full procedure, together with a worked
+example for one of the samples from Diepkloof, is described in
+Supporting Information. This procedure takes into account the
+counting errors associated with day-to-day ﬂuctuations in the
+behaviour of the equipment, the differences in counting efﬁciencies
+of the ﬁve detectors, the reproducibility among the three subsamples measured for each sample, and the counting statistics of
+the replicate sub-samples, the laboratory standard and the background blank. Our error estimate also includes four systematic errors, namely the measurement imprecision associated with the
+laboratory standard (~1.8%); the uncertainties associated with the
+rin et al. (2011), assumed to be
+dose rate conversion factors of Gue
+~2%; a further ~2% error associated with the correction required for
+grain-size attenuation of beta particles (Murray and Olley, 2002);
+and the relative error of 40% associated with the water content
+estimate of 5 ± 2% for the Diepkloof samples. Using the approach
+and equations given in Supporting Information, we calculated total
+errors (random plus systematic; see Galbraith and Roberts, 2012)
+on the beta dose rate of between 4.6 and 6.1% for the 13 samples
+from Diepkloof; the random errors alone range between 2.6 and
+4.7%. We note in passing that the latter values are consistent with
+the size of the random errors on the beta dose rates reported by
+Tribolo et al. (2013) for their sediment samples (2.4e4.1%). These
+errors, while larger than those reported by Jacobs et al. (2008c), are
+smaller than the random (measurement) error of 7% advocated by
+rin et al. (2013) on the basis of the study of Ankjærgaard and
+Gue
+Murray (2007), in which measurements were made under
+different experimental conditions and replicate measurements
+were not made for each sample.
+5.3. How accurate is the beta dose rate measured using our GM-255 beta counter?
+The accuracy of our instrument and procedures has been tested
+and conﬁrmed in several ways. We have measured samples as both
+loose powder and as powder pressed into pellets and bound
+together with a few drops of PVA, with and without delay times
+between preparation and measurement (to allow for equilibration
+of radon and its daughter products, and to identify any effects of
+possible radon loss). Finely powdered sediment was compressed
+into pellets using a hydraulic press of a design typical of that used to
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+make pellets for X-ray ﬂuorescence (XRF) analysis, but with a pellet
+diameter and depth tailored to our Risø GM-25-5 beta counter.
+Fig. 8a shows the beta dose rates calculated for loose sediment (no
+delay time) and for pressed pellets (with a 1-month delay time)
+measured using the GM-25-5 beta counter, for all 13 samples from
+Diepkloof; each data point represents the results of three separate
+measurements. The random errors for both data sets were determined using the procedure outlined in Supporting Information, but
+the systematic errors are not included for comparison because they
+are the same for both data sets. The beta dose rates obtained for the
+loose sediment are, on average, ~2.4% higher than the corresponding results for the pressed pellets (ratio of 1.024 ± 0.017), but
+Fig. 8a shows that the results are randomly spread around a ratio of
+unity and are not systematically biased.
+The same data are shown in Fig. 8e as the difference between
+each pair of estimates plotted against the mean dose rate of the pair
+(after Oldham, 1962). As the size of the standard errors increases in
+proportion to the dose rates, we have used the natural logarithms of
+the dose rates, following Galbraith and Roberts (2012). The error
+bars are shown at 2s, calculated as the square root of the sum of the
+variances for each pair of observations. Fig. 8e indicates that the
+ratios are only slightly overdispersed (i.e., the empirical scatter is
+only slightly larger than expected from the theoretical variances),
+as reﬂected in the OD value of 4.0 ± 1.7%.
+We have also measured the U, Th and K contents of all 13
+samples using 1) a combination of thick-source alpha-counting
+(TSAC) for U and Th and XRF for K; and 2) a combination of ICP-MS
+(for U and Th) and ICP-OES (for K). We obtain consistent results. The
+XRF, ICP-MS and ICP-OES measurements were made independently
+in commercial laboratories. Fig. 8b and c compare the beta dose
+rates determined from pressed pellets (with a 1-month delay time)
+and the GM-25-5 beta counter with those obtained from elemental
+concentrations of U, Th and K by ICP-MS/ICP-OES and TSAC/XRF,
+respectively. Average ratios consistent with unity were obtained for
+both sets of data, again with individual ratios randomly spread
+around the 1:1 line. Fig. 8d shows the beta dose rates derived from
+ICP-MS/ICP-OES plotted against those calculated from TSAC/XRF
+measurements; the results are consistent, with a mean ratio of
+0.999 ± 0.017. Fig. 8feh are the corresponding plots of the differences between each pair of log dose rates estimated by these
+methods. In each comparison, the ratios are very slightly overdispersed with respect to the expected variances, but the OD values
+of 2e3% are not signiﬁcantly different from zero at 2s.
+The data in Fig. 8a provide a direct test of our sample preparation and measurement procedures using the GM-25-5 beta
+counter, while the comparisons with the independent measurements (Fig. 8b and c) validate the accuracy of our GM-25-5
+measurements over a 3-fold range in beta dose rate
+(~0.5e~1.5 Gy/ka). These comparisons clearly indicate that our
+new errors are not too small and that the concerns raised by
+rin et al. (2013) about the accuracy of our beta dose rate
+Gue
+measurements are unfounded. We consider that the beta dose
+rates derived using the pressed pellets, with a 1-month delay time
+before measurement, are the most reliable estimates, because
+pressed pellets provide reproducible sample geometry and retain
+radon gas. Accordingly, we have incorporated these values in the
+total environmental dose rates used to calculate the ages of the
+Diepkloof samples.
+5.4. Comparing our beta dose rates with those of Tribolo et al.
+(2013)
+Owing to the differences in sampling locations at Diepkloof, only
+a few samples are comparable between the two studies. For lithological unit 2 (LU2; Miller et al., 2013) sample DRS13 (SUs Kate and
+
+185
+
+Kenny) can be compared to DRS-OSL5 (SU Kenny) and DRS-OSL6
+(SU Jess), and sample DRS17 (SU Noel) can be compared to DRSOSL1 (SU Noel). For LU1, sample DRS15 (SU Mark) can be
+compared to DRS-OSL3 (SU Mike). DRS11 (SUs John and Jeff) is not
+directly comparable to DRS-OSL8 (SU Fox) as these samples originate from LU3 and LU4, respectively (Miller et al., 2013), but they
+are located close to each other. Fig. 9aed shows the various estimates of U, Th and K concentrations. The closed symbols denote the
+samples measured in this study using ICP-MS and ICP-OES (circles),
+XRF (diamonds), and TSAC and GM-25-5 beta counting (squares).
+The open triangles are the beta dose rates reported in Tribolo et al.
+(2013), deduced from high resolution gamma spectrometry (HRGS)
+measurements. Regardless of the measurement technique used,
+consistent results are obtained for the measurement of U for 3 of
+the 4 comparisons, and the discrepancy in Fig. 9c is small. Measurements of Th are more variable: ICP-MS and HRGS data are
+consistent in all four cases, whereas the TSAC measurements are
+sometimes signiﬁcantly different and have much larger
+uncertainties.
+The most important estimate is that of potassium (K) because
+this accounts for most of the beta dose rate (see below). Samples
+DRS11 (IHP) and DRS13 (EHP) were collected from the technological units in the ‘Main’ sector that had widely divergent results
+(Fig. 1). It is clear that there are signiﬁcant differences in the estimates of K obtained in this study compared to those reported by
+Tribolo et al. (2013) for two of the critical comparisons (Fig. 10a and
+b). For our samples, we obtained estimates of K using two measurement techniques (ICP-OES and XRF) that directly measure the K
+concentration, and a combination of two techniques (TSAC and
+GM-25-5 beta counting) that enable an indirect estimate of K to be
+made by subtraction. These measurements were made on separate
+sub-samples of sediment from the sample collected for OSL dating
+with 5 g of material used for the ICP and XRF measurements (from
+which a further small sub-sample was randomly picked for measurement) and ~2.5 g for TSAC and ~6 g for the triplicate GM-25-5
+measurements. Since the beta dose rate is derived from material
+distributed 2e3 mm around the grains, it is important to measure K
+on a sample of sediment associated as closely as possible with the
+dated grains. The ICP-OES and XRF measurements were made by
+external commercial laboratories using their own reference standards, so these data provide a completely independent measure of
+the accuracy of our in-house measurements. We note that no information is provided by Tribolo et al. (2013) about the size of the
+samples analysed by HRGS or how these sediment relate physically
+to the OSL samples.
+Why do we need to obtain reliable estimates of the K content?
+The average contributions of U and Th to the beta dose rates of the
+Diepkloof samples are only ~10% and ~6%, respectively, so any
+disequilibria in the U chain or differences in the measured concentrations of Th (Fig. 9) will have a negligible effect on the
+calculated beta dose rates. By contrast, the radioactive decay of 40K
+contributes ~84% of the average beta dose rate, so even a small
+difference can signiﬁcantly affect the calculated age. For the deposits associated with the EHP and IHP (Fig. 9a and b), the HRGS
+estimates of K presented by Tribolo et al. (2013) are 44e48% lower
+than those obtained in this study using three independent
+methods. The repercussions of this on the beta dose rate are
+evident in Fig. 9aed: the open circles are the beta dose rates obtained using GM-25-5 beta counting of pressed pellets measured
+after a 1-month delay and in triplicate; these are the beta dose rates
+used to calculate the ﬁnal ages. The ﬁlled circles and the open
+diamond symbols are the corresponding dose rates calculated using ICP-MS and ICP-OES, and TSAC and XRF, respectively. These
+three independent estimates are in good agreement. In contrast,
+the open triangles are the calculated beta dose rates obtained by
+
+186
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+Fig. 8. a) Comparison of beta dose rates calculated for samples prepared and measured in two different ways: loose sediment samples and pressed pellets, without and with a 1month delay, respectively, between preparation and measurement. b) Beta dose rates obtained from GM-25-5 beta counting of pressed pellets compared to those calculated from
+elemental concentrations of U, Th and K derived from ICP-MS and ICP-OES measurements. c) Comparison of GM-25-5 beta dose rates with those estimated from a combination of
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+Tribolo et al. (2013), which are ~35e38% smaller; the latter will give
+rise to ages that are older by the same percentage.
+On the other hand, for the deposits associated with the Lower
+MSA (Fig. 9c and d), the estimates of K obtained by Tribolo et al.
+(2013) are compatible with those obtained in this study, and the
+beta dose rates are also statistically consistent. As the ages for the
+Lower MSA are likewise statistically concordant between the two
+studies, we deduce that the methods employed by Jacobs et al.
+(2008c) and Tribolo et al. (2013) are not the cause of the chronological discrepancy between the IHP, EHP and SB at Diepkloof.
+Instead, we conclude that the samples collected and measured by
+us and by Tribolo et al. (2013) genuinely have different concentrations of K. While we have ﬁrst-hand knowledge of how our
+samples for beta dose rate determination relate to the dated grains,
+we cannot say the same for those collected by Tribolo et al. (2013).
+Miller et al. (2013) have shown that the Diepkloof deposits have a
+complex composition and spatial distribution of materials at the
+scale of a few millimetres (i.e., the range of beta particles), so it is
+paramount to ensure that the samples used for 40K determination
+are intimately related and representative of the sediments for
+which De values are obtained. We consider the difference in the
+estimation of the K content as the most likely reason for the
+discrepant OSL ages at Diepkloof. Further work could usefully focus
+on the construction of a detailed and spatial map of K across the site
+to resolve deﬁnitively which (if either) of the two OSL chronologies
+for the IHP, EHP and SB at Diepkloof is correct.
+
+187
+
+conversion factors (Adamiec and Aitken, 1998) in use at that time.
+Also shown in Fig. 10, as ﬁlled circles, are the corresponding ages
+obtained using the CAM De values and the bulk (unadjusted) beta
+dose rates. The CAM ages include all De valuesdthat is, none of the
+grains in each of the distributions interpreted as intrusive have
+been removed. From this plot, it can be seen that the beta dose
+adjustment method has only a small effect. None of the CAM ages
+differ by more than 1s from their FMM counterparts, even when
+using the errors on the beta dose rate that we now consider too
+small and if intrusive (younger) grains are included in the CAM De
+estimates of samples DRS4e7. The CAM ages (calculated using the
+unadjusted beta dose rate) are, in general, slightly younger than the
+beta-adjusted FMM ages (albeit within 1s uncertainty), which is
+opposite to the effect proposed by Tribolo et al. (2013). That is to
+say, the use of CAM ages does not remove, or even reduce, the
+extent of the discrepancy with the ages reported by Tribolo et al.
+(2013) for the IHP to pre-SB layers at Diepkloof.
+Here we have demonstrated that the beta dose rate adjustment
+method has a negligible effect on the estimation of OSL age at
+Diepkloof Rockshelter. Accordingly, we have taken the most
+parsimonious approach and have not used this method to calculate
+rin et al.’s criticism
+the OSL ages in this study. Other aspects of Gue
+of the adjustment method will be discussed elsewhere (see also
+Galbraith, 2015), as they now have no bearing on the calculated
+ages for the samples from Diepkloof.
+
+5.6. Summary of beta dose rate evaluations
+5.5. The beta dose rate adjustment method of Jacobs et al. (2008b)
+The beta dose rate adjustment method of Jacobs et al. (2008b)
+was applied to 8 of the 13 Diepkloof samples presented in Jacobs
+et al. (2008c)dthat is, all of the samples interpreted as having
+‘scattered’ and ‘scattered and mixed’ De distributions. This
+rin
+approach has been criticised by Tribolo et al. (2013) and Gue
+et al. (2013). Tribolo et al. (2013) attempted to reconstruct from
+our published data what the ages would have been had we not used
+the beta dose rate adjustment method, but their task was made
+difﬁcult because we did not report the weighted mean De values or
+the unadjusted (bulk) beta dose rates in Jacobs et al. (2008c). Based
+on their calculations, Tribolo et al. (2013) suggested that the
+recalculated ages were within 10% of those originally reported and
+that one sample from the LHP had a recalculated age that was 16%
+older. They also pointed out that application of the beta dose rate
+adjustment cannot resolve all of the age discrepancies between the
+two studies.
+The original ages presented in Jacobs et al. (2008c, Table S8) are
+shown here in Fig. 10 as open squares (for ‘scattered’ and ‘scattered
+and mixed’ samples, to which the FMM and the beta dose adjustment method was applied) and as open triangles for the two
+‘mixed’ samples (DRS4 and DRS10) to which the FMM was applied
+with the bulk (unadjusted) beta dose rate. DRS10 was claimed by
+rin et al. (2013) to represent an example of the inconsistent
+Gue
+application of the beta dose rate adjustment method, but, in fact, no
+such adjustment was made for this sample, so their claim is unfounded. Note that these ages do not incorporate the updated dose
+rate conversion factors or our error calculations, but represent the
+original data presented in Jacobs et al. (2008c) and the dose rate
+
+We have demonstrated that our beta dose rates are both accurate and reproducible using a range of independent measurement
+techniques, with measurements performed in-house and by
+external laboratories. We have updated our previously published
+beta dose rates using the latest conversion factors and reassessed
+the errors associated with our beta dose rates. A worked example of
+the latter is provided in Supporting Information. We compared our
+beta dose rates, and the estimates of U, Th and K, to those of the
+samples in Tribolo et al. (2013) that are most closely comparable,
+and found that the discrepant ages (notably those for the IHP and
+EHP) are associated with signiﬁcantly different estimates of K,
+which accounts for ~84% of the beta dose rate. The reason for the
+discrepancy in 40K estimation is not fully understood and needs
+further investigation. We obtained reproducible estimates of K for
+our samples using 3 different methods, which gives us conﬁdence
+in our measurement of K for the samples that we collected and
+measured. We consider the sub-samples used for determination of
+K for our samples are appropriate, as they were collected from
+within the OSL sediment sample and are, therefore, representative
+of the latter. Furthermore, the 3 methods require different amounts
+of material, so the reproducibility of the results argues against
+inappropriate sub-sampling. Few details are available regarding the
+HRGS sample collection and measurement procedures used by
+Tribolo et al. (2013), and spatial differences in beta dose rates in
+different parts of the rockshelter deposit need to be investigated
+further. Finally, we have shown that the beta dose adjustment
+method of Jacobs et al. (2008b) does not result in ages signiﬁcantly
+different or younger than those obtained without this adjustment.
+In this study, we have simpliﬁed our interpretation of the De
+
+TSAC and XRF measurements. d) Comparison of beta dose rates obtained from ICP-MS and ICP-OES with those estimated from TSAC and XRF. The broken line indicates the 1:1 ratio.
+Also listed are the mean ratio and standard error for each pair of data sets, and the associated overdispersion among the individual ratios, calculated using the CAM. Panels e), f), g)
+and h) are the corresponding plots of the difference between each pair of log dose rates (on the vertical axis) against the mean log dose rate of the pair (on the horizontal axis). The
+error bars are at 2s and were calculated from the theoretical standard errors for each pair of observations. The natural logs of the dose rates are used for this comparison because
+variation can be more easily interpreted on a log scale when, as here, the size of the error increases with the size of the dose rate by the same multiplicative factor (Galbraith and
+Roberts, 2012).
+
+188
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+Fig. 9. Comparison of U (ppm), Th (ppm), K (%) and beta dose rate (Gy/ka) values, obtained in this study using a range of measurement techniques (ICP-MS, ICP-OES, XRF and a
+combination of TSAC and GM-25-5 beta counting) with those obtained by Tribolo et al. (2013) using high resolution gamma spectrometry (HRGS). The comparisons are shown for
+the stratigraphically most comparable samples: a) DRS11 and DRS-OSL8, b) DRS13 and DRS-OSL5 and DRS-OSL6, c) DRS15 and DRS-OSL3, and d) DRS17 and DRS-OSL1. The open
+triangles are the HRGS data of Tribolo et al. (2013); all other symbols denote data sets obtained in this study. A: ICP-MS and ICP-OES, B: XRF, C: TSAC and GM-25-5 beta counting, D:
+GM-25-5 beta counting, E: TSAC and XRF, F: HRGS.
+
+Fig. 10. Comparison of single grain OSL ages with and without the beta dose adjustment method of Jacobs et al. (2008b), and the ratio of the ages so obtained. In the right-hand
+panel, the ratio is showed as an open circle if a beta dose adjustment was not made and a ﬁlled circles for the 8 samples for which the adjustment was applied by Jacobs et al.
+(2008c).
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+distributions, and in doing so, have not used the beta-adjustment
+method. After re-measuring of the beta dose rates, updating the
+error calculations and conversion factors, the new ages calculated
+in this study differ only marginally from the original ages reported
+by Jacobs et al. (2008c).
+
+6. A revised single grain OSL chronology for the Diepkloof
+deposits
+The ﬁnal ages for all 13 samples are listed in Table 1, together
+with the supporting De and dose rate estimates, and displayed as
+open circles in Fig. 11. Uncertainties on the ages are given at 1s
+(standard error of the mean) and were derived by combining, in
+quadrature, all known and estimated sources of random and systematic error. For the sample De, the random error was obtained
+from the particular statistical model used to determine the
+weighted mean (i.e., CAM or FMM), and a systematic error (of 2%)
+was included for any possible bias associated with calibration of the
+laboratory beta source. The error on the CAM De estimate incorporates any observed overdispersion among the individual De
+values, while the error on the FMM De estimate includes the
+overdispersion required to get the statistically optimised ﬁt.
+Ages of 43.6 ± 1.9 ka (DRS9) and 51.9 ± 2.3 ka (DRS8) were obtained for the post-HP sediments. Sediments from the underlying
+late-HP (LHP) layers in the ‘Trench’ sector gave ages, in stratigraphic
+order, of 49.1 ± 2.2 (CAM) or 59.2 ± 2.7 (FMM) for DRS6, 56.0 ± 2.5
+(DRS5), 61.6 ± 2.7 (DRS4) and 57.5 ± 2.5 ka (DRS7); an age of
+65.9 ± 3.0 ka (DRS10) was obtained for the top of the ‘Main’ sector.
+The IHP and EHP are here dated to 60.8 ± 2.6 ka (DRS11) and
+65.1 ± 2.8 ka (DRS13), respectively, and the underlying SB to
+76.5 ± 3.3 ka (DRS14). Three ages of 88.4 ± 4.0 (DRS15), 93.3 ± 4.4
+(DRS16) and 88.2 ± 4.4 ka (DRS17) were obtained for the Lower
+MSA layers.
+How do these new ages compare to those presented in Jacobs
+et al. (2008c)? The two sets are presented in Fig. 11, which shows
+that the ages have not changed signiﬁcantly, despite updates on the
+conversion factors, new measurements of the beta dose rate and
+additional De measurements on single grains. It is also clear that the
+
+189
+
+new ages are both younger and older than the old agesdthat is,
+they are not systematically higher or lowerdyielding an average
+ratio of ‘new’ compared to ‘old’ ages of 0.99 ± 0.02dthus, an
+average difference of only ~1%. Most of the ‘old’ and ‘new’ ages are
+consistent at 1s, but there are 2 samples that show greater deviation. The most conspicuous is DRS6, for which we obtained a De
+distribution that could be interpreted in two different ways (see
+Fig. S1). In Table 1, we reported both the CAM De value (assuming a
+single dose-population) and, assuming additional mixing, the FMM
+De value for the high-dose population, which comprises ~66% of the
+total number of dated grains. The CAM De value yields an age
+consistent with those for the overlying post-HP, whereas the FMM
+De value gives an age consistent with those for the LHP.
+DRS13 is also worth elaborating on, as this sample was previously assigned to the SB, and has been re-assigned to the EHP, by
+Porraz et al. (2013). DRS13 is also the sample for which we obtained
+statistically smaller De values than our original De value using
+alternative preheat combinations (see Fig. 6b). By contrast, slightly
+larger measured doses were obtained using two alternative preheat
+combinations in the dose recovery test (Fig. 5b), so the effect of the
+preheat on this sample is ambiguous. The original preheat combination was used to measure the ‘new’ De values, so the difference
+between the latter and the ‘old’ De values is not due to the preheat.
+The age of 65 ± 3 ka plotted in Fig. 11 is based on the weighted
+mean of the ‘old’ and ‘new’ De values. If we use only the ‘old’ De
+value of 116 ± 2 Gy, then we obtain an age of 69.8 ± 3.0 ka, which is
+consistent with the ‘old’ age of 70.9 ± 2.3 ka (FMM þ adjusted beta
+dose rate) or 68.6 ± 4.0 ka (CAM þ bulk beta dose rate). If we use
+only the ‘new’ De value of 104 ± 2 Gy, then an age of 62.6 ± 2.7 ka is
+calculated. We have no objective basis to prefer one data set over
+the other, and the two sets of De values cannot be resolved
+graphically, so at this stage we have opted to combine the ‘old’ and
+the ‘new’ De values (plotted on Fig. 6e) to calculate the depositional
+age of DRS13. We accept that the differences in De values might
+reﬂect mixing across the boundary between the EHP and SB, but we
+cannot resolve this issue at present. We note that using the preheat
+combination suggested by Tribolo et al. (2013) as the most appropriate for their sample from the EHP, give rise to younger ages,
+rather than the much older ages required to match theirs. This
+outcome further supports our argument that the age discrepancies
+between Jacobs et al. (2008c) and Tribolo et al. (2013) are not due to
+our speciﬁc measurement and data analysis procedures, but is the
+result of real differences between the samplesdin particular spatial
+variations in the potassium content in the pre-SB to IHP deposits.
+7. Discussion
+7.1. Age comparisons and stratigraphic correlations
+
+Fig. 11. Summary of single grain OSL ages with 1s errors for sediment samples
+collected from Diepkloof Rockshelter. Open circles are ages published by Jacobs et al.
+(2008c) and ﬁlled circles are the ages calculated in this study. Note that two alternative revised ages (based on the CAM and FMM) are provided for DRS6. The DRS
+numbers at the left are the sample codes, and the technological phases at the right are
+as assigned by Porraz et al. (2013a).
+
+How do our revised ages for Diepkloof compare to the ages of
+Tribolo et al. (2013)? Their single TL age of 68 ± 7 ka for the post-HP
+is inconsistent with our OSL ages of 44 ± 2 and 52 ± 2 ka, and is also
+older than their TL ages from the underlying layers OB2e4 in the
+‘Back’ sector, which represents the LHP: the latter TL ages give a
+weighted mean of 52 ± 5 ka. Porraz et al. (2013b: p. 3396), incorrectly attribute this TL age to the post-HP instead of the LHP. Our
+OSL ages for the LHP in the ‘Trench’ sector are consistent with their
+TL, but discrepancies remain for the IHP, EHP and SB chronologies.
+In this study, we obtained a single OSL age for the IHP: 61 ± 3 ka for
+sample DRS11, from near the base of this technological phase. This
+age is consistent with the TL ages (weighted mean of 65 ± 8 ka)
+obtained by Tribolo et al. (2013) for samples from layer OB5 in the
+‘Back’ sector. The OSL age for DRS11 is also consistent (at 2s) with
+the weighted mean TL/ITL age (77 ± 8 ka) for the same SU (John) in
+the ‘Main’ sector, but is signiﬁcantly younger than the weighted
+
+190
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+mean ITL and OSL ages for samples from the overlying SUs Fred
+(83 ± 8 ka) and Fox (85 ± 9 ka).
+We note, however, that there is confusion over the exact stratigraphic relationship between layer OB5 in the ‘Back’ sector and the
+layers representing the IHP in the ‘Main’ sector, which has implications for how the chronological framework for the site is constructed and interpreted. Tribolo et al. (2009) stated that
+“Stratigraphic relationships suggest OB5 and John might be contemporaneous”, but Tribolo et al. (2013) present the ages in Table 3 as if
+the OB5 samples lie stratigraphically above those from SUs Fred,
+Fox and John. The ages are presented in chronological order, and
+not necessarily in stratigraphic order. Nowhere in the 2013
+compilation of papers is it suggested that the stratigraphic relationship proposed by Tribolo et al. (2009) is invalid. Parkington
+et al. (2013), however, clearly states that direct stratigraphic connections between the different sectors only exists for the upper
+MSA deposits (but did not deﬁne what this means), and that they
+“favour the study of each sector as an independent unit” while investigations are ongoing into the correlations between the different
+and discontinuous excavated areas (Parkington et al., 2013, p. 3371).
+Yet, the chronology proposed for Diepkloof by Tribolo et al. (2013)
+and Porraz et al. (2013b) does not adhere to this preference. It is
+imperative, therefore, to understand where OB5 ﬁts into the
+stratigraphic framework before an age model can be reliably
+developed for the site and inferences drawn about durations of
+technological complexes, as was attempted by Porraz et al. (2013b:
+Fig. 3). The presentation of ages for the IHP in Tribolo et al. (2013)
+and Porraz et al. (2013b) implies continuous occupation and a
+signiﬁcant duration for the IHP, starting at ~90 ka ago (when MSA
+Jack appears in the sequence), and ending ~60 ka ago (Tribolo et al.,
+2013). We consider it premature to rely on this chronology in the
+absence of supporting evidence for the stratigraphic association of
+the ‘Back’ and ‘Main’ sectors.
+A ~40 ka discrepancy exists between our OSL ages and their OSL
+and TL ages for the EHP, and a similarly large difference (~35 ka)
+remains between the two sets of ages for the SB. But, the TL and OSL
+ages of Tribolo et al. (2013) are consistent with our OSL ages for the
+Lower MSA in the ‘Main’ sector.
+7.2. The size of age uncertainties and what they mean
+It is worthwhile making a comment about the small size of the
+uncertainties associated with our ages, relative to those associated
+with the ages presented in Tribolo et al. (2013) (see Fig. 1 for a
+graphical display). Tribolo et al. (2013, p. 3409) commented that the
+ages reported by Jacobs et al. (2008c) have “an unusual precision”.
+Our original ages had relative standard errors of ~3.5%, and part of
+this precision is due to the small errors associated with the beta
+dose rate. As discussed above, we have now updated these errors
+using the method outlined in Supporting Information. We also
+noted earlier that the measurement (‘random’) errors for the beta
+dose rates are consistent with those reported by Tribolo et al. (2013)
+for their samples, and which were measured in a different way. The
+random errors on the gamma dose rates are about the same size in
+this study and Tribolo et al. (2013), and the two studies use the
+same relative error (40%) on the water content (5 ± 2%). There is
+good agreement between the gamma dose rate estimates where
+comparisons can be made, as was discussed in Tribolo et al. (2009).
+The random error associated with the total environmental dose rate
+ranges between 1.4 (DRS-OSL4) and 3.7% (DRS-OSL8) for the Tribolo
+et al. (2013) samples and between 1.7 and 3.0% for the ages presented in this study. Note that the latter does not include the error
+associated with our estimate of the water contentdit is treated as a
+‘systematic’ error because it is the same for all samples and, hence,
+will bias the ages in the same direction.
+
+In practical terms, random errors of measurement can be
+reduced by making multiple repeated, independent measurements
+under the same conditions, and then averaging these estimates
+appropriately. So, for example, the random error on the estimate of
+the beta dose rate can be reduced in size by making more replicate
+measurements. Similarly, by making more single grain measurements for a particular sample, the size of the standard error of the
+mean De can be reduced, because the latter is calculated as the
+population standard deviation divided by the square root of the
+number of measured grains. By contrast, systematic errors cannot
+be reduced by averaging: they remain of ﬁxed size, no matter how
+many measurements are made. For example, in this study we have
+rin et al.
+used the updated dose rate conversion factors of Gue
+(2011). But if the true conversion factors (which are not known)
+are slightly different from these latest estimates, then all of our ages
+will either be slightly too old or too young (hence the ‘systematic’
+epithet). So we have included a 2% systematic error in the total age
+uncertainty to allow for any possible bias associated with these
+conversion factors, as well as various other systematic errors as
+mentioned above. When comparing and combining ages obtained
+using identical measurement and data analysis procedures, the
+systematic errors should be omitted because they are common to
+all of the samples. But they should be included when comparing
+our OSL ages with those reported by independent studies, such as
+Tribolo et al. (2013), and with ages obtained using other dating
+methods. Other statistical aspects of random and systematic errors
+are discussed by Galbraith and Roberts (2012).
+The biggest difference between the data presented in this study
+and in Tribolo et al. (2013) is the standard error on the weighted
+mean De values. The random errors on the De values for the single
+grain OSL samples of Tribolo et al. (2013) range between 2.7 (DRSOSL7) and 4.2% (DRS-OSL1), compared to the error range of 1.0
+(DRS14) and 2.2% (DRS17) for the ages in this study. The reason is
+that we have measured between 3 and 12 times more single grains
+for our samples than did Tribolo et al. (2013), so by increasing the
+number of observations, we have reduced considerably the size of
+our random errors. For example, we calculated the weighted mean
+De using between 255 grains (DRS17) and 1040 grains (DRS14),
+whereas Tribolo et al. (2013) used between 85 (DRS-OSL1) and 185
+(DRS-OSL7) grains to calculate the weighted mean De values of
+their samples. They have also observed slightly larger overdispersion among their single grain De estimates (29 ± 2 to 37 ± 3%)
+than we did (21 ± 1 to 34 ± 1%, with most samples below 25%),
+which also contributes to the size of the calculated random error.
+Importantly, both studies used the same age modeldthe CAM of
+Galbraith et al. (1999)dso, we have calculated the errors on the
+weighted mean De in an identical manner; where the FMM was
+used in this study, the calculated random error also takes the
+overdispersion among De values into account. The random errors
+associated with individual burnt stone samples are apt to be much
+larger because many fewer TL measurements are made; Tribolo
+et al. (2013) report random errors on the De values for individual
+samples of between 2.2% (DRS1) and 11.5% (DRS132).
+The other signiﬁcant difference in the total uncertainty associated with the ages appears to relate to the addition of systematic
+errors that are not deﬁned by Tribolo et al. (2013). They state, in the
+caption of their Table 3 that “The uncertainties are statistical but for
+the ages where the systematic uncertainties are taken into account.”,
+but further details are not provided. We can estimate what the total
+systematic error is for each sample, but we cannot reconstruct the
+individual components. To be fair to Tribolo et al. (2013), it is not
+common practice to report the errors in such detail. Nevertheless,
+the total systematic error amounts to between about 6 and 9% of
+the total age uncertainties for their samples, compared to ~3.8% for
+the OSL samples in this study. Accordingly, when our random and
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+systematic errors on the De and dose rate are combined in quadrature, our OSL ages have total 1s errors of ~4.5%, compared to
+5e12% for the samples presented in Tribolo et al. (2013).
+So, what are the beneﬁts of determining ages with the smallest
+possible errors? By minimising the size of the measurement errors
+and by employing a systematic approach e such as that adopted by
+Jacobs et al. (2008c) for MSA sites across southern Africa e chronologies can be ﬁne-tuned and allow the timing and duration of
+archaeological events to be estimated with improved precision.
+Compared to some other numerical dating methods, however, the
+age uncertainties attached to OSL and TL dating are large, owing to
+the need to measure many quantities, each of which has an associated random or systematic error and which may also be subject to
+natural variation. It is critical, therefore, to quantify each of these
+sources of error using well-established statistical procedures and
+approaches and to report these in publications (Galbraith and
+Roberts, 2012). For example, errors need to be correctly estimated
+to properly interpret the distribution of single grain De values and
+to compare (and perhaps combine) OSL ages for different samples.
+If the size of the errors is overestimated, then the De or age distribution may appear to be homogeneous when it is not; and a
+single-component De or age distribution may appear to consist of
+multiple components if the size of the errors is underestimated. We
+concur, therefore, with the edict of Ludwig (2003, p. 632) that “the
+uncertainty of a date is no less signiﬁcant than the date itself.”
+7.3. Current state of play at Diepkloof
+The signiﬁcant discrepancies between the luminescence chronologies of Tribolo et al. (2013) and this study for the IHP, EHP and
+SB technological phases remains a conundrum. Here we have
+presented ample data to suggest that our single grain OSL chronology is accurate for the deposits dated and cannot be dismissed
+out of hand. Notably, we have shown that our measurement and
+analytical procedures do not introduce systematic biases, as some
+of the ages are consistent with those of Tribolo et al. (2013),
+whereas others are not. Moreover, the discrepancy in ages for
+certain portions of the Diepkloof deposit cannot be used as a valid
+reason to cast doubt on the OSL ages produced by us for other sites.
+On the contrary, there is good agreement between our OSL ages and
+the TL chronologies published for several other sites in southern
+Africa e including Blombos Cave (Tribolo et al., 2006), Klasies River
+(Tribolo et al., 2005) and Rose Cottage Cave (Valladas et al., 2005).
+We do not suggest that the ages of Tribolo et al. (2013) are necessarily in error, but, rather, that further work is needed to resolve the
+discrepancies at Diepkloof. At this stage we do not favour one
+chronology over another. This has implications for the age model
+advocated for Diepkloof by Porraz et al. (2013b), which is solely
+based on the TL/ITL and OSL ages of Tribolo et al. (2013). Diepkloof
+Rockshelter is currently the anomaly amongst the many dated HP
+and SB sites in southern Africa (e.g., Grün et al., 2001; Valladas et al.,
+€ gberg and
+2005; Tribolo et al., 2006; Jacobs et al., 2008c, 2013; Ho
+Larsson, 2011; Henshilwood et al., 2014; Marean et al., 2014) and
+should be treated as such until the dating enigma is satisfactorily
+resolved. We note that at least 5 laboratories have contributed the
+ages reported in these studies, so there is broad agreement between our ﬁndings and those of independent laboratories for a
+range of different sites.
+
+191
+
+present, however, the site is in a dating deadlock. Several recent
+papers on Diepkloof Rockshelter, published in a Special Issue of
+this journal, dismissed the single grain OSL chronology proposed
+for the site by Jacobs et al. (2008c), choosing instead to adopt the
+chronology presented by Tribolo et al. (2013). The latter paper,
+rin et al. (2013), suggested some
+together with another by Gue
+possible reasons for why the chronology of Jacobs et al. (2008c)
+might be ﬂawed. In this paper, we have addressed those criticisms by testing them explicitly via a series of targeted experiments, new measurements and re-assessments of some of our
+procedures, including all of those criticised by Tribolo et al. (2013)
+rin et al. (2013). The results are provided in full in this
+and Gue
+paper, from which we conclude that their concerns are unfounded. The single grain De values of all 13 samples measured by
+us exhibit great consistency across a range of alternative experimental conditions, both in laboratory-controlled trials and in
+measurements of the natural signal. The beta dose rates estimated
+for our samples were also highly reproducible despite measuring
+the samples using three independent techniques. These results
+support the reliability and accuracy of our in-house measurements of the beta dose rate used in this study and by Jacobs et al.
+(2008c). We have explicitly addressed the issue of the size of the
+errors associated with our beta dose rate, and discussed the difference in the size of the errors associated with our OSL ages
+compared to the TL/ITL and OSL ages presented in Tribolo et al.
+(2013) to explain why our age uncertainties remain smaller than
+theirs.
+Despite the number of updates and new measurements made
+in this study, we still obtain results consistent with the ‘old’ OSL
+chronology of Jacobs et al. (2008c), but the provision of substantial
+additional data has improved the accuracy of the ‘new’ chronology.
+Importantly, while we have shown that the OSL chronology for our
+samples is robust to a wide range of reasonable alternative assumptions and measurement options, we cannot refute the chronology of Tribolo et al. (2013). One reason for this stalemate is that
+the two studies did not date samples from the exact same locations. This means that an age discrepancy continues to exist in
+some parts of the site, and that further work, conducted in a systematic manner, on samples collected from different parts of the
+site is needed to resolve the issue. Investigations of the spatial
+variations in the luminescence properties and radioactivity of the
+sediment associated with the Intermediate HP, Early HP and SB
+technological phases would be particularly valuable as these layers
+of the site suffer from the largest age discrepancies. At present, the
+OSL and TL ages proposed by Tribolo et al. (2013) for these technological phases are at odds with the ages proposed in this study
+at Diepkloof and by other dating studies of HP and SB sites in
+southern Africa.
+
+Acknowledgements
+This research was funded by the Australian Research Council
+through Discovery Project grants DP0666084 to Roberts and Jacobs
+and DP1092843 to Jacobs. We thank many of our colleagues for
+valuable discussions about MSA archaeology in southern Africa. We
+especially thank Rex Galbraith for his patience and help with the
+error calculations for the beta dose rates and errors, and for his
+advice on statistics more generally.
+
+8. Concluding remarks
+The archaeological sequence at Diepkloof Rockshelter is one of
+the most important and detailed records of its type in southern
+Africa, and an accurate chronological framework is fundamentally
+important to the resolution of debates concerning the MSA. At
+
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at http://
+dx.doi.org/10.1016/j.jas.2015.01.023.
+
+192
+
+Z. Jacobs, R.G. Roberts / Journal of Archaeological Science 63 (2015) 175e192
+
+References
+Adamiec, G., Aitken, M.J., 1998. Dose-rate conversion factors: update. Anc. TL 16,
+37e50.
+Ankjærgaard, C., Murray, A.S., 2007. Total beta and gamma dose rates in trapped
+charge dating based on beta counting. Radiat. Meas. 42, 352e359.
+Arnold, L.J., Roberts, R.G., 2009. Stochastic modelling of multi-grain equivalent dose
+(De) distributions: implications for OSL dating of sediment mixtures. Quat.
+Geochronol. 4, 204e230.
+Duller, G.A.T., 2008. Single-grain optical dating of Quaternary sediments: why
+aliquot size matters in luminescence dating. Boreas 37, 589e612.
+Duller, G.A.T., 2012. Improving the accuracy and precision of equivalent doses
+determined using the optically stimulated luminescence signal from single
+grains of quartz. Radiat. Meas. 47, 770e777.
+Durcan, J.A., Duller, G.A.T., 2011. The fast ratio: a rapid measure for testing the
+dominance of the fast component in the initial OSL signal from quartz. Radiat.
+Meas. 46, 1065e1072.
+Galbraith, R.F., 2005. Statistics for Fission Track Analysis. Chapman & Hall/CRC Press,
+Boca Raton.
+Galbraith, R.F., 2015. On the mis-use of mathematics: a comment on “How conﬁdent are we about the chronology of the transition between Howieson's Poort
+rin et al. (2013). J. Hum. Evol. 80, 184e186. http://
+and Still Bay?” by Gue
+dx.doi.org/10.1016/j.jhevol.2014.10.006.
+Galbraith, R.F., Roberts, R.G., Laslett, G.M., Yoshida, H., Olley, J.M., 1999. Optical
+dating of single and multiple grains of quartz from Jinmium rock shelter,
+northern Australia: Part 1, experimental design and statistical models.
+Archaeometry 41, 339e364.
+Galbraith, R.F., Roberts, R.G., Yoshida, H., 2005. Error variation in OSL palaeodose
+estimates from single aliquots of quartz: a factorial experiment. Radiat. Meas.
+39, 289e307.
+Galbraith, R.F., Roberts, R.G., 2012. Statistical aspects of equivalent dose and error
+calculation and display in OSL dating: an overview and some recommendations.
+Quat. Geochronol. 11, 1e27.
+Grün, R., Beaumont, P.B., 2001. Border Cave revisited: a revised ESR chronology.
+J. Hum. Evol. 40, 467e482.
+rin, G., Mercier, N., Adamiec, G., 2011. Dose-rate conversion factors: update. Anc.
+Gue
+TL 29, 5e9.
+rin, G., Mercier, N., Nathan, R., Adamiec, G., Lafrais, Y., 2012. On the use of the
+Gue
+inﬁnite matrix assumption and associated concepts: a critical review. Radiat.
+Meas. 47, 778e785.
+rin, G., Murray, A.S., Jain, M., Thomsen, K.J., Mercier, N., 2013. How conﬁdent are
+Gue
+we in the chronology of the transition between the Howieson's Poort and the
+Still Bay? J. Hum. Evol. 64, 314e317.
+Henshilwood, C.S., Van Niekerk, K.L., Wurz, S., Delagnes, A., Armitage, S.J.,
+Rifken, R.F., Douze, K., Keene, P., Haaland, M., Reynard, J., Discamps, E.,
+Mienies, S.S., 2014. Klipdrif shelter, southern Cape, South Africa: preliminary
+report on the Howiesons poort layers. J. Archaeol. Sci. 45, 284e303.
+€gberg, A., Larsson, L., 2011. Lithic technology and behavioural modernity: new
+Ho
+results from the still Bay site, Hollow rock shelter, Western Cape Province,
+South Africa. J. Hum. Evol. 61, 133e155.
+Jacobs, Z., Roberts, R.G., 2007. Advances in optically stimulated luminescence dating
+of individual grains of quartz from archeological deposits. Evol. Anthropol. 16,
+210e223.
+Jacobs, Z., Wintle, A.G., Duller, G.A.T., 2006. Evaluation of SAR procedures for De
+determination using single aliquots of quartz from two archaeological sites in
+South Africa. Radiat. Meas. 41, 520e533.
+Jacobs, Z., Wintle, A.G., Duller, G.A.T., Roberts, R.G., Wadley, L., 2008a. New ages for
+the post-Howiesons Poort, late and ﬁnal Middle Stone Age at Sibudu, South
+Africa. J. Archaeol. Sci. 35, 1790e1807.
+Jacobs, Z., Wintle, A.G., Roberts, R.G., Duller, G.A.T., 2008b. Equivalent dose distributions from single grains of quartz at Sibudu, South Africa: context, causes and
+consequences for optical dating of archaeological deposits. J. Archaeol. Sci. 35,
+1808e1820.
+Jacobs, Z., Roberts, R.G., Galbraith, R.F., Deacon, H.J., Grün, R., Mackay, A., Mitchell, P.,
+Vogelsang, R., Wadley, L., 2008c. Ages for the Middle Stone Age of southern
+Africa: implications for human behavior and dispersal. Science 322, 733e735.
+Jacobs, Z., Meyer, M.C., Roberts, R.G., Aldeais, V., Dibble, H., El Hajraoui, M.A., 2011.
+Single-grain OSL dating at La Grotte des Contrebandiers (‘Smugglers’ Cave’),
+Morocco: improved age constraints for the Middle Paleolithic levels. J. Archaeol.
+Sci. 38, 3631e3643.
+
+Jacobs, Z., Hayes, E.H., Roberts, R.G., Galbraith, R.F., Henshilwood, C.S., 2013. An
+improved OSL chronology for the Still Bay layers at Blombos Cave, South Africa:
+further tests of single-grain dating procedures and a re-evaluation of the timing
+of the Still Bay industry across southern Africa. J. Archaeol. Sci. 40, 579e594.
+Kalchgruber, R., 2002. Al2O3:C als Dosimeter zur Bestimmung der Dosisleistung bei
+der Lumineszenzdatierung (PhD thesis). University of Cologne, 146 pp.
+Ludwig, K.R., 2003. Mathematicalestatistical treatment of data and errors for 230Th/
+U geochronology. Rev. Mineral. Geochem. 52, 631e656.
+Marean, C.W., Cawthra, H.C., Cowling, R.M., Esler, K.J., Fisher, E., Milewski, A.,
+Potts, A.J., Singels, E., De Vynck, J., 2014. Stone Age people in a changing South
+African greater Cape Floristic region. In: Allsopp, N., Colville, J.F., Verboom, G.A.
+(Eds.), Fynbos: Ecology, Evolution, and Conservation of a Megadiverse Region.
+Oxford University Press, Oxford, pp. 164e199.
+Miller, C.E., Goldberg, P., Berna, F., 2013. Geoarchaeological investigations at diepkloof rock shelter, Western Cape, South Africa. J. Archaeol. Sci. 40, 3432e3452.
+Murray, A.S., Wintle, A.G., 2000. Luminescence dating of quartz using an improved
+single-aliquot regenerative-dose protocol. Radiat. Meas. 32, 57e73.
+Murray, A.S., Wintle, A.G., Wallinga, J., 2002. Dose estimation using quartz OSL in
+the non-linear region of the growth curve. Radiat. Prot. Dosim. 101, 371e374.
+Murray, A.S., Olley, J.M., 2002. Precision and accuracy in the optically stimulated
+luminescence dating of sedimentary quartz: a status review. Geochronometria
+21, 1e16.
+Oldham, P.D., 1962. A note on the analysis of repeated measurements of the same
+subjects. J. Chronic Dis. 15, 969e977.
+Parkington, J., Rigaud, J.-Ph, Poggenpoel, C., Porraz, G., Texier, P.-J., 2013. Introduction to the project and excavation of diepkloof rock shelter (Western Cape,
+South Africa): a view on the middle stone age. J. Archaeol. Sci. 40, 3369e3375.
+Porraz, G., Parkington, J., Rigaud, J.-P., Miller, C.E., Poggenpoel, C., Tribolo, C.,
+-Duhaut, A., Dayet, L., De Araujo Igreja, M., Klein, R.G.,
+Cartwright, C., Charrie
+Steele, T., Verna, C., Texier, P.-J., 2013b. The MSA sequence of Diepkloof and the
+history of southern African Late Pleistocene populations. J. Archaeol. Sci. 40,
+3542e3552.
+Porraz, G., Texier, P.-J., Archer, W., Piboule, M., Rigaud, J.-P., Tribolo, C., 2013a.
+Technological successions in the middle stone age sequence of diepkloof rock
+shelter, Western Cape, South Africa. J. Archaeol. Sci. 40, 3376e3400.
+Roberts, R.G., Galbraith, R.F., Olley, J.M., Yoshida, H., Laslett, G.M., 1999. Optical
+dating of single and multiple grains of quartz from jinmium rock shelter,
+northern Australia: Part 2, results and implications. Archaeometry 41, 365e395.
+Roberts, R.G., Galbraith, R.F., Yoshida, H., Laslett, G.M., Olley, J.M., 2000. Distinguishing dose populations in sediment mixtures: a test of single-grain optical dating procedures using mixtures of laboratory-dosed quartz. Radiat.
+Meas. 32, 459e465.
+thodes de la luminesTribolo, C., 2003 (Unpublished PhD thesis). Apport des Me
+s aux
+cence 
+a la chronologie des Techno-facies du Middle Stone Age associe
+premiers hommes anatomiquement modernes du Sud de l’Afrique, vol. 1.
+ Bordeaux, 239 pp.
+Universite
+Tribolo, C., Mercier, N., Valladas, H., 2005. Chronology of the Howieson's Poort and
+Still Bay techno-complexes: assessment and new data from luminescence. In:
+D'Errico, F., Backwell, L. (Eds.), From Tools to Symbols, from Hominids to
+Modern Humans, International Round Table, Johannesburg, 16-18 March 2003,
+pp. 493e511.
+Tribolo, C., Mercier, N., Selo, M., Valladas, H., Joron, J.L., Reyss, J.L., Henshilwood, C.S.,
+Sealy, J.C., Yates, R., 2006. TL dating of burnt lithics from Blombos Cave (South
+Africa): further evidence for the antiquity of modern human behaviour.
+Archaeometry 48, 341e357.
+Tribolo, C., Mercier, N., Valladas, H., Joron, J.L., Guibert, P., Lefrais, Y., Selo, M.,
+Texier, P.-J., Rigaud, J.-P., Porraz, G., Poggenpoel, C., Parkington, J., Texier, J.-P.,
+Lenoble, A., 2009. Thermoluminescence dating of a Stillbay-Howiesons poort
+sequence at diepkloof rock shelter (Western Cape, South Africa). J. Archaeol. Sci.
+36, 730e739.
+Tribolo, C., Mercier, N., Douville, E., Joron, J.-L., Reyss, J.-L., Rufer, D., Cantin, N.,
+Lefrais, Y., Miller, C.E., Parkington, J., Porraz, G., Rigaud, J.-P., Texier, P.-J., 2013.
+OSL and TL dating of the middle stone age sequence of diepkloof rock shelter
+(Western Cape, South Africa): a clariﬁcation. J. Archaeol. Sci. 40, 3401e3411.
+Valladas, H., Wadley, L., Mercier, N., Tribolo, C., Reyss, J.L., Joron, J.L., 2005. Thermoluminescence dating on burnt lithics from Middle Stone Age layers at Rose
+Cottage Cave. South Afr. J. Sci. 101, 169e174.
+Wintle, A.G., Murray, A.S., 2006. A review of quartz optically stimulated luminescence characteristics and their relevance in single-aliquot regeneration dating
+protocols. Radiat. Meas. 41, 369e391.
+
+

@@ -1,0 +1,1226 @@
+Journal of Anthropological Archaeology 46 (2017) 68–81
+
+Contents lists available at ScienceDirect
+
+Journal of Anthropological Archaeology
+journal homepage: www.elsevier.com/locate/jaa
+
+Zooming out from archaeological discontinuities: The meaning
+of mid-Holocene temporal troughs in South American deserts
+Ramiro Barberena a,⇑, César Méndez b, María Eugenia de Porras c
+a
+CONICET, Laboratorio de Paleocología Humana, Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo, Padre Jorge Contreras 1300, Mendoza City 5500,
+Mendoza Province, Argentina
+b
+Departamento de Antropología, Facultad de Ciencias Sociales, Universidad de Chile, Ignacio Carrera Pinto 1045, Ñuñoa, Santiago, Chile
+c
+CEAZA (Centro de Estudios Avanzados en Zonas Áridas), La Serena, Chile
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 17 December 2015
+Revision received 21 June 2016
+Available online 18 July 2016
+Keywords:
+South American deserts
+Mid-Holocene discontinuities
+Radiocarbon databases
+Human demography
+Bottlenecks
+Demographic release
+
+a b s t r a c t
+Building on previous research at smaller scales, in this paper we assemble paleoecological data and
+archaeological time-series for deserts located in three latitudinal bands along the South American Arid
+Diagonal (16°–41°S, 1,236,000 km2 of area). Diverse proxies suggest the existence of arid and extremely
+arid conditions in large parts of these deserts. Working with a database composed of 914 archaeological
+dates falling between the first human presence in each region and 3000 years BP, which produce a minimum number of 578 occupational events, we identify a series of patterns at a macro-regional scale: a
+robust increase in the temporal signal at the beginning of the mid-Holocene (8000–7600 years BP) followed by two troughs (7600–7200, 6800–6400 years BP) during this period. The spatial scope of the data
+presented provides an opportunity for disentangling processes of spatial re-localization from actual
+changes in population size. We present a demographic hypothesis at a macro-regional scale, which suggests the existence of mid-Holocene population bottleneck(s). This hypothesis would account not only for
+the mid-Holocene troughs, but also for the posterior record of an intense and relatively rapid population
+growth (release) observed in many regions of the arid diagonal. These mid-Holocene events provide the
+context for independent trajectories of economic intensification based on different sets of resources marine foods, camelids, and also probably wetland resources-, some of which lead to domestication processes. These cases occur in association with a tendency towards reduced residential mobility in regions
+that may have acted as refugia during arid periods of the mid-Holocene.
+The analysis produces testable expectations for future research at different scales and for different
+research domains, including human DNA and morphometric evidence. We consider that these issues
+have a fecund comparative potential, since the analysis of the socio-demographic meaning of archaeological discontinuities in different continents shares a similar conceptual structure.
+Ó 2016 Elsevier Inc. All rights reserved.
+
+1. Introduction: building from the local to the continental
+Archaeological discontinuities are a multi-layered phenomenon
+with demographic, informational, economic, technological, and
+taphonomic interacting dimensions. These levels are inextricably
+linked in historical processes. Assessing the behavioral, demographic, and evolutionary meaning of archaeological discontinuities is a highly complex endeavor permeated by issues of scale
+(Bailey, 2007; Holdaway and Wandsnider, 2006). The behavioral
+and demographic mechanisms invoked to explain discontinuities
+vary according to the temporal and spatial scale of patterns
+⇑ Corresponding author.
+E-mail addresses: ramidus28@gmail.com (R. Barberena), cmendezm@uchile.cl
+(C. Méndez).
+http://dx.doi.org/10.1016/j.jaa.2016.07.003
+0278-4165/Ó 2016 Elsevier Inc. All rights reserved.
+
+recorded in the data. Following ‘time perspectivism’ (Bailey,
+2007), we consider that evidence at different scales can reveal
+the operation of diverse processes that can be hierarchically connected. Thus, zooming out the scale of analysis becomes a powerful
+tool for envisioning answers otherwise concealed at smaller scales,
+traditionally used in the archaeological research in South American
+deserts.
+Archaeological radiocarbon databases provide a spatialtemporal proxy reflecting human rates of human discard of datable
+material (Rick, 1978; Williams, 2012). The use of summed probabilities of radiocarbon dates as a demographic proxy has grown
+in scope, methodological robustness, and theoretical insight
+(Bueno et al., 2013; Gamble et al., 2004; Shennan et al., 2013;
+Surovell et al., 2009; Williams et al., 2015). Some recent debate
+has focused on the validity of this line of enquiry based on system-
+
+R. Barberena et al. / Journal of Anthropological Archaeology 46 (2017) 68–81
+
+atic and random sources of bias that question the chain of connection between time-series and reconstruction of human demography (Bamforth and Grund, 2012; Contreras and Meadows, 2014;
+García Guraieb et al., 2015). Besides specific methodological
+responses (Timpson et al., 2014), we consider that this method
+provides a productive approach to explore structure in the data
+at a multiplicity of scales, helping to produce hypotheses that
+can be subjected to scrutiny from independent proxies, genomic
+analyses paramount among them (Gamble et al., 2004; Sundell
+et al., 2014; Wang et al., 2007).
+In this paper we undertake an exploratory analysis of the temporal trajectories of human occupation in desert regions located
+along the South American Arid Diagonal (SAAD from now
+onwards). The goal is to explore the behavioral and demographic
+meaning of archaeological troughs and gaps in human signals
+recorded for the mid-Holocene (8000–5000 years BP). This period
+has received increasing attention in South American deserts, in
+particular regarding the presence of archaeological hiatuses, initially termed ‘archaeological silence’ by Núñez and Santoro
+(1988; see also Grosjean et al., 2007). This trough, which was first
+analyzed through settlement patterns and later on with radiocarbon datasets, was associated with the advent of global and local
+mid-Holocene climate changes (Anderson et al., 2007; Gil et al.,
+2005). Increasing arid conditions starting ca. 9000–8500 years BP
+recorded in diverse paleoclimatic archives in the Andes and nearby
+areas (Lamy et al., 1999, 2004; Latorre et al., 2003) have provided
+the frame for studying human responses to climatic change and
+resource degradation (Méndez et al., 2015; Neme and Gil, 2009).
+Volcanic eruptions have also been suggested to operate at local
+and regional scales (Durán et al., in press).
+The analysis presented here is based on a compilation of radiocarbon databases recently published for the following regions
+(Fig. 1): (a) ‘Low latitudes of the SAAD’ (16°–25°S), usually referred
+to as the South Central Andes, which include northern Chile, southern Peru and western Bolivia (Gayo et al., 2015; Grosjean et al.,
+2007; Marquet et al., 2012); (b) ‘Mid latitudes of the SAAD’ (29°–
+35°S), integrating Cuyo region of Argentina and North Central Chile
+(Méndez, 2013; Méndez et al., 2015; Neme and Gil, 2009); and (c)
+‘High latitudes of the SAAD’ (35°–41°S), corresponding to northwestern Patagonia in Argentina and Southern Chile (Barberena et al.,
+2015; Campbell and Quiroz, 2015).
+Enhanced aridity in already dry regions would increase environmental unpredictability and the associated costs of use of marginal
+lands (Mandryk, 1993). The most immediate response by mobile
+hunter-gatherers to increased risks would be spatial reorganization and/or relocation (Garvey, 2008; Méndez et al., 2015), which
+could lead to abandonment of regions in different spatial scales
+and for varying amounts of time. So far, working at local and regional levels, evidence of local abandonments and spatial re-locations
+has been presented for a number of desert regions along the Andes
+(Marquet et al., 2012; Neme and Gil, 2009; Núñez et al., 2002;
+Yacobaccio, 2013). While providing the basis for an assessment
+of the impact of climate change in local populations, this scale of
+analysis does not allow estimation of the overall demographic trajectories in the South American deserts and neighbor areas. The
+question in hand is whether the coincidence of multiple discontinuities in neighboring areas is evidence enough of a demographic
+decrease, which may display seemingly divergent local archaeological trajectories. Our core methodological suggestion is that, by
+augmenting the analytical scope, we can disentangle processes of
+spatial re-localization and/or reorganization of mobility from significant demographic changes at the level of metapopulations
+(i.e., significant increase or decrease in the numbers of people
+inhabiting a given unit of space). On this basis, we can then explore
+the behavioral and demographic basis of archaeological
+discontinuities.
+
+69
+
+2. South American Arid Diagonal: ecology and paleoecology
+Large-scale patterns in the climate of southern South America
+are related to major atmospheric circulation patterns. The interaction of two large climatic systems that control precipitation patterns, the tropical easterlies and the southern westerlies, and the
+orographic (rain-shadow) effect of the Andes, results in the major
+climatic and biogeographic boundary of the SAAD, an arid NW-SE
+continuous area which extends from Peru to southern Argentina
+(Figs. 1 and 2) (Abraham de Vazquez et al., 2000; Bruniard, 1982;
+Villagrán and Hinojosa, 1997). The SAAD, which originated during
+the Pliocene (Villagrán and Hinojosa, 1997), has remained relatively stable since then, but global and regional climate change
+during the Late Quaternary has had important changes in the distribution of plants, animals, and human populations (Betancourt
+et al., 2000; Grosjean et al., 2003; Latorre et al., 2013; Marquet
+et al., 2012; Méndez et al., 2015).
+The three latitudinal bands considered here present striking
+topographic, climatic, and ecological contrasts. In Fig. 2 we reproduce their main eco-physiographic properties. In Fig. 3 we present
+an overview of some settings. In the ‘Low latitudes of the SAAD’
+space is subdivided in: (a) coastal Atacama region, (b) inland Atacama region, and (c) Bolivian Altiplano region (Gayo et al., 2015). In
+the ‘Mid latitudes of the SAAD’, space is stratified in: (a) Pacific coast,
+(b) western valleys, (c) West Andes, (d) East Andes, (e) Eastern
+foothills, (f) Eastern lowlands (Méndez et al., 2015). Finally, for
+the ‘High latitudes of the SAAD’ space is subdivided in: (a) Pacific
+coast, (b) Valleys, and (c) Western Andes, (d) Eastern Andes, (e)
+Eastern steppes (Barberena et al., 2015; Campbell and Quiroz,
+2015).
+In Fig. 4 we present an overview of dominant climate trends
+since the late Pleistocene onwards for the three latitudinal bands
+considered. These tendencies are assessed in detail below.
+
+2.1. Low latitudes of the SAAD (16°–25°S): South Central Andes of
+Chile, Peru, and Bolivia
+After widespread humid conditions during the late Pleistoceneearly Holocene (Betancourt et al., 2000; Latorre et al., 2002, 2003;
+Maldonado et al., 2005; Sylvestre et al., 1999), extreme arid conditions were established in the South Central Andes around
+9500 years BP, peaking at 9000–7000 years BP (Betancourt et al.,
+2000; Grosjean et al., 2003; Latorre et al., 2003; Maldonado et al.,
+2005), although the timing of this arid phase varies from site to
+site. After this arid phase, still more extreme arid conditions characterized the mid-Holocene, but the onset of this environmental
+condition is a matter of discussion (Grosjean, 2001; Quade et al.,
+2008). On one hand, wetland and rodent midden-associated plant
+macro-remains records suggest that less arid conditions would
+have occurred since 8000–7000 years BP (Betancourt et al., 2000;
+Latorre et al., 2003; Rech et al., 2002). On the other hand, and in
+agreement with our view, lake sedimentary records and alluvial
+deposits from the Altiplano and the Salar de Atacama suggest that
+the arid phase would have lasted until 4000–3000 years BP, interrupted by a moist pulse around 6000–5000 years BP (Bobst et al.,
+2001; Grosjean, 2001; Grosjean et al., 2003). Pollen records from
+rodent middens at 21°S indicate the termination of the arid phase
+around 3300 years BP, supporting the second alternative
+(Maldonado and Uribe, 2015). During the late Holocene, highly
+variable environmental conditions at centennial-to-millennial
+scales occurred in the South Central Andes, but under less dry scenarios than those of the mid-Holocene. A series of moderate humid
+phases were recorded at 21°S in the highlands between 2400–
+720 years BP peaking at 2000 and 1000 years BP (Maldonado and
+Uribe, 2015), and in the lowlands at 2245–2230, 1615–1350, and
+
+70
+
+R. Barberena et al. / Journal of Anthropological Archaeology 46 (2017) 68–81
+
+Fig. 1. South American Arid Diagonal and study areas.
+
+1050–650 years BP (Gayo et al., 2012). At the Central Atacama
+Desert (22°–25°S), humid phases occurred between 1700–
+1000 years BP (22°300 S; Latorre et al., 2003), 1500–600 years BP
+(25°300 S; Maldonado et al., 2005), and 1000–500 years BP (24°S;
+Latorre et al., 2002). It is possible that the onset of the late Holocene moisture increase in the Central Atacama Desert began
+around 1700 years BP, presenting a peak by 1500 years BP so as
+to be recorded in the most arid areas.
+
+2.2. Mid latitudes of the SAAD’ (29°–35°S): Cuyo region of Argentina,
+North Central Chile and Norte Chico
+During the Pleistocene-Holocene transition (ca. 11,500 years
+BP), a change from humid and cold conditions to similar to modern
+conditions occurred (Villagrán and Varela, 1990) in Central Chile
+and Norte Chico. Then, most of the records suggest early Holocene
+
+humid conditions interrupted by an arid phase centered at
+9200 years BP represented as an expansion of xerophytic scrubland
+taxa and a decrease of local humidity indicators (Jenny et al., 2002;
+Maldonado and Villagrán, 2006). Starting in 8500 years BP, the
+mid-Holocene was characterized by widespread and extreme arid
+conditions particularly accentuated between 7800 and 6200 years
+BP (Jenny et al., 2002; Maldonado and Villagrán, 2002, 2006;
+Valero-Garcés et al., 2005; Villa-Martínez et al., 2003). Following
+the mid-Holocene arid conditions, swamp-forests and terrestrial
+pollen records show a gradual trend towards increased humidity
+started, peaking at 4500 years BP, which was recorded as a dramatic decrease of Chenopodiaceae percentages in lake records
+(Valero-Garcés et al., 2005; Villa-Martínez et al., 2003) and a rise
+of local moisture taxa indicators in swamp forests (32°S;
+Maldonado and Villagrán, 2002, 2006), whereas marine core
+records indicate a gradual decrease of temperature (Kim et al.,
+2002; Lamy et al., 1999).
+
+R. Barberena et al. / Journal of Anthropological Archaeology 46 (2017) 68–81
+
+71
+
+Fig. 2. Eco-physiographic areas in the three latitudinal bands considered. References: (A) Low latitudes, (B) Mid latitudes, (C) High latitudes.
+
+On the contrary, the scarce records located eastwards of the
+Andes point out humid conditions between 6400 and 5000 years
+BP. Thus, the presence of Patagonian shrub communities that
+develop today 100–500 m up slope the Laguna El Sosneado location and a maximum fire frequency and magnitude suggest high
+fuel availability and, therefore, high water availability during this
+period (Navarro et al., 2012). On the other hand, Neoglacial
+advances that occurred between 6400 and 4800 years BP at the
+Río Valenzuela basin (35°S), strongly dependent on precipitation
+(Espizúa and Pitte, 2009), suggest humid conditions (Espizúa,
+2005). During the late Holocene, most SAAD records show high climatic variability under similar-to-present conditions related to an
+increased frequency of El Niño Southern Oscillation (ENSO from
+now onwards) events during the last 2000 years (Rein et al.,
+2005). Laguna El Sosneado record shows, however, a trend towards
+drier conditions up to present ones (Navarro et al., 2012).
+2.3. High latitudes of the SAAD’ (35°–41°S): northwestern Patagonia in
+Argentina and South Central Chile
+Most records between 41° and 42°S along the western Andes
+show abrupt increases and dominance of the thermophilous Valdivian trees Eucryphia/Caldcluvia between 11,500 and 7000 years BP
+(Abarzúa et al., 2004; Jara and Moreno, 2014; Moreno, 2004;
+Moreno and León, 2003; Villagrán, 1990), whereas between 38
+and 39°S, a Nothofagus obliqua-dominated forest developed
+(Abarzúa, 2009; Heusser, 1984). This dramatic vegetation change
+in the Late Glacial plant communities suggests the establishment
+of peak interglacial warmth (multi-millennial warm/dry phase)
+and a substantial reduction in precipitation driven by a regional
+weakening of the westerly winds. Since 7000 years BP, a gradual
+
+expansion of the north Patagonian forest between 41 and 42°S
+indicates overall cool-temperate conditions associated to a precipitation increase compared to the early Holocene, brought on by an
+equator-ward shift/intensification of the southern Westerlies
+(Heusser, 1966; Jara and Moreno, 2014; Vargas et al., 2008). At
+38–39°S, changes in the forest composition reveal wetter conditions but still presenting thermophilous elements, therefore suggesting warm scenarios up to 2000 years BP (Abarzúa, 2009).
+Coupled with cooler conditions, enhanced fire activity prevailed
+over the region during the mid-Holocene, pointing out high climatic variability mainly related to ENSO (Jara and Moreno, 2012).
+A well-defined west-to-east vegetation gradient developed
+eastward of the Andes during the late Pleistocene-early Holocene
+(Iglesias et al., 2014; Markgraf et al., 2009; Whitlock et al., 2006).
+Then, no major vegetation changes were recorded during the
+mid-Holocene given that their dynamics mainly involved
+millennial- and centennial- trade-offs between trees and shrubs
+that were likely brought about by shifts in water availability. At
+39°S, a high diversity of the steppe recorded in Mallín Vaca Lauquen between 12,000 and 8000 years BP was interpreted as
+increased precipitation and temperature, though below present
+values (Markgraf et al., 2009). Based on the later, it was hypothesized that the existence of opposite precipitation patterns west
+and east of the Andes (dipole) would have been the result of an
+anomalous component of the upper level flow. However, the development of open Nothofagus dombeyi forest supporting substantial
+amounts of steppe and scrubland elements associated with recurrent fires in Laguna El Trébol (41°S) between 11,400 and
+6000 years BP was interpreted as a signal of drier than present conditions (Whitlock et al., 2006). In synthesis, Laguna El Trébol record
+supports the arid conditions recorded in those sites on the leeward
+
+72
+
+R. Barberena et al. / Journal of Anthropological Archaeology 46 (2017) 68–81
+
+Fig. 3. Different areas of the SAAD: (A) Camarones 14 site (mid-Holocene) at low latitudes, (B) Ñagué site (early Holocene) at mid latitudes, (C) Cueva Huenul 1 site (late
+Pleistocene-late Holocene) at high latitudes.
+
+side of the Andes and does not match the climatic inferences (precipitation dipole) proposed by Markgraf et al. (2009). During the
+last 5000 years, higher effective moisture promoted the development of modern vegetation likely as a response to the continued
+northward shift/strengthening of the southern westerlies, as well
+as the strengthening of ENSO-related climate variability (Lamy
+et al., 2004; Markgraf et al., 2007, 2013).
+3. Materials and methods
+3.1. Materials
+We integrate four radiocarbon databases that have been compiled in previous publications (Barberena et al., 2015; Campbell
+and Quiroz, 2015; Gayo et al., 2015; Grosjean et al., 2007;
+Marquet et al., 2012; Méndez, 2013; Méndez et al., 2015; Neme
+and Gil, 2009). While this combined database does not provide a
+continuous spatial cover of the SAAD and its ecotones, it allows a
+first exploration of variation of the mid-Holocene archaeological
+record in deserts with diverse geographic and ecological features.
+These databases were selected because they provide some of the
+largest temporal series available for South American deserts and
+
+neighbor areas, and are currently updated. In order to consider
+both flanks of the Andes in the three latitudinal bands, we decided
+to include the database recently published by Campbell and Quiroz
+(2015) for South Central Chile, which lies in a humid setting westwards of the SAAD. This allows for a first step towards integrating
+the temporal record from deserts with contiguous ecologic zones.
+We include dates ranging between the earliest clearly documented human presence in each region and up to 3000 14C years
+BP. This allows assessing the mid-Holocene chronological trends in
+a wider temporal frame. With the exception of areas in the high
+latitude, 3000 years BP further provides a limit for fully huntergatherer life-ways in most areas comprised by these regions
+(Morales et al., 2009). This is important since the key feature of
+mobile societies is the relocation of residential camps at different
+yearly time scales (Kelly, 1995), thus providing broad comparability of patterns of interaction with the environment. In addition,
+3000 years BP sets a limit for the widespread use of other dating
+methods, such as thermoluminiscence on pottery, which introduces an additional bias since sample selection and calibration is
+not fully comparable to radiocarbon dating (Falabella et al.,
+2015). Since these temporal series have already been fully published as sets, we do not reproduce them here. We excluded dates
+
+R. Barberena et al. / Journal of Anthropological Archaeology 46 (2017) 68–81
+
+73
+
+Fig. 4. Map of southern South America showing the SAAD and general climatic conditions during key periods.
+
+showing standard deviation larger than 250 years, since they introduce imprecision in the analysis (Jull et al., 2013). On the other
+hand, we also excluded dates obtained from marine organisms,
+since there is no precision on the magnitude of the ‘‘aging” of the
+14C signatures due to local reservoir effects in these different areas
+and also through time (Ortlieb et al., 2011). This improves the precision of the analysis, though may certainly introduce some bias in
+coastal records. Nevertheless, preliminary comparisons between
+time series with and without shell dates at North Central Chile
+show that overall trends are not altered, while peaks and troughs
+in the radiocarbon record are enhanced when these are excluded
+(Méndez et al., 2015). Unless specifically stated otherwise, the
+radiocarbon ages mentioned in the text are calibrated and
+expressed as years BP.
+3.2. Methods
+The radiocarbon samples were calibrated with Calib 7.1 (Reimer
+et al., 2013), using the calibration curve for the southern hemisphere (SHCal13, Hogg et al., 2013). The basic analytical units in
+this paper are the occupational events at the site scale. These
+events were calculated by averaging the dates at sites with multiple 14C measurements that are statistically undistinguishable
+(Shennan and Edinborough, 2007). Dates were sorted in ascending
+order and two or more dates were averaged whenever their differences were not significant (at <0.05) according to a t-test (Ward
+and Wilson, 1978). The number of occupational events that results
+from these operations must be considered a ‘‘minimum number of
+events” (Méndez, 2013; Peros et al., 2010; Wicks and Mithen,
+2014).
+As a first step, we use summed probability plots at two-sigma
+confidence level to assess comparative trends in the different
+regions. Then, dates are assigned to 200 years-bins based on their
+medians. Following Peros et al. (2010), this bin-size was selected
+
+since it is considerably larger than double the median 14C error
+of 64 year for the full dataset (Table 1). The resulting histograms
+are plotted with a moving average trend line of 400 years that
+helps removing the most important effects of the calibration process, such as artificial troughs associated to the presence of plateaus in the calibration curve (Michczynski and Michczynski,
+2006; Williams, 2012).
+Taphonomic bias is among the main factors influencing the
+results of 14C time series analysis since, other things being equal,
+the older an archaeological event is, the less likely it is to be preserved. As Surovell et al. (2009) suggest, this time-dependent
+taphonomic destruction may mimic a signal of population growth.
+To address this issue we utilize the taphonomic correction equation suggested by Surovell et al. (2009) with the correction introduced by Williams (2012). We do not differentiate samples in
+terms of their context (open air vs. shelters). Aiming at an assessment of the changes introduced by the taphonomic correction, we
+compare the original and corrected curves.
+4. Results
+4.1. Macroregional scale
+The database is comprised of 914 dates that produce a minimum number of 578 occupation events distributed across the
+three latitudinal bands (Table 1). The regions considered here present very different research histories that lead to unequal sampling
+intensities. Northern Patagonia, particularly on the western watershed of the Andes, is under-sampled. With this exception, the density of occupational events per km2 is relatively even, with a mean
+value of 0.46 event per km2. The standard deviations for the different regions have median values between 50 and 72 years with a
+global median for the 578 occupational events of 64 years
+(Table 1).
+
+74
+
+R. Barberena et al. / Journal of Anthropological Archaeology 46 (2017) 68–81
+
+Table 1
+Numbers of dates and occupational events for the regions considered.
+Region
+
+N of raw
+dates
+
+Minimum N of
+occupation events
+
+Median of standard
+deviations
+
+Area
+(km2)
+
+Events
+per km2
+
+Reference
+
+Low latitudes
+Mid latitudes
+
+515
+258
+
+323
+160
+
+64
+60
+
+760,000
+205,000
+
+0.42
+0.78
+
+High latitudes west (Chile)
+High latitudes east (Argentina)
+
+65
+76
+
+38
+57
+
+70
+52
+
+163,000
+108,000
+
+0.23
+0.53
+
+Gayo et al. (2015)
+Méndez (2013), Méndez et al. (2015) and
+Neme and Gil (2009)
+Campbell and Quiroz (2015)
+Barberena et al. (2015)
+
+Total
+
+914
+
+578
+
+64
+
+1,236,000
+
+0.46
+
+The combined chronological database for the three latitudinal
+bands represents a total of ca. 1,236,000 km2, integrating areas
+such as the South Central Andes -northern Chile, southern Peru,
+and western Bolivia-, Central Argentina and Chile, and northern
+Patagonia (Fig. 1). This provides a glimpse of a number of South
+American deserts with diverse topographic, climatic, and biogeographic features. In Fig. 5 we present the summed probability
+curve for the three latitudinal bands combined, a histogram with
+the frequency of dates per time interval of 200 years and a
+400 years-moving average, and the frequency of occupation events
+corrected for taphonomic destruction (following Williams, 2012).
+The earliest widely accepted date for human presence in South
+America is 14,600 years BP at Monte Verde II (Dillehay, 1997),
+included here in the high latitudes assemblage. This initial human
+signal is not repeated in other areas of the SAAD. The most widespread human presence appears consistently at 13,000 years BP
+and generates an initial peak in the time-series, lending support
+for the existence of demographically viable hunter-gatherer populations (Méndez, 2013; Steele and Politis, 2009) in the SAAD. This
+early peak should be regarded with caution in view of a possible
+bias towards dating the first human appearances in stratified sites.
+During the early Holocene, variable increases in dates produce a
+series of peaks that are different for each latitudinal band herein
+discussed. The early troughs recorded at high latitudes of the SAAD
+
+should also be treated with caution, since they are likely artifact of
+low research intensity.
+The beginning of the mid-Holocene at 9000–8500 years BP is
+marked by an augment in the density of the probability curve,
+and then followed by two distinct troughs occurring respectively
+between ca. 7600–7200 and 6600–6400 years BP, separated by a
+period of intense density of summed probabilities between 7200
+and 6600 years BP (Fig. 5). Overall, this temporal structure is replicated in the different analyses conducted: summed probability
+(Fig. 5a), frequency of dates per 200 years intervals and 400 years
+moving average (Fig. 5b), and frequency of dates corrected for
+taphonomic destruction (Fig. 5c). The only noteworthy difference
+is observable between the series corrected for taphonomic destruction against the others, since the correction increases the intensity
+of the signal during the Early Holocene to levels that are similar to
+those recorded for the late Holocene.
+4.2. Regional scale
+In Figs. 6–8 we present the time series for the low latitudes
+(16°–25°S), mid latitudes (29°–35°S), and high latitudes
+(35°–41°S) databases respectively.
+Despite minor differences, the structure of the mid-Holocene
+probability curves is remarkably similar in the three latitudinal
+
+Fig. 5. Time series for the three latitudinal bands of the SAAD: (a) summed probability; (b) frequency of dates per 200-interval and 400 years-moving average; (c) frequency
+of occupation events corrected for taphonomic destruction (Nc).
+
+R. Barberena et al. / Journal of Anthropological Archaeology 46 (2017) 68–81
+
+75
+
+Fig. 6. Time series for the low latitudes of the SAAD: (a) summed probability; (b) frequency of dates per 200-interval and 400 years-moving average; (c) frequency of
+occupation events corrected for taphonomic destruction (Nc).
+
+Fig. 7. Time series for the mid latitudes of the SAAD: (a) summed probability; (b) frequency of dates per 200-interval and 400 years-moving average; (c) frequency of
+occupation events corrected for taphonomic destruction (Nc).
+
+76
+
+R. Barberena et al. / Journal of Anthropological Archaeology 46 (2017) 68–81
+
+Fig. 8. Time series for the high latitudes of the SAAD: (a) summed probability; (b) frequency of dates per 200-interval and 400 years-moving average; (c) frequency of
+occupation events corrected for taphonomic destruction (Nc).
+
+bands of the SAAD, as can be seen in the summed probabilities, the
+frequencies of minimal occupational events, and the 400 yearsmoving average lines, which would soften peaks and troughs. This
+overall similarity includes an increase in the signal at the beginning of the mid-Holocene that is followed by the two troughs
+referred above for the full dataset (Fig. 5). This is most visible in
+the mid (Fig. 7) and high latitudes (Fig. 8), where the temporal signal is fully interrupted at times. In the case of the low latitudes
+band (Fig. 6), the troughs are still present, tough in a less marked
+fashion (Fig. 6).
+The series based on the data corrected for taphonomic destruction homogenize the time series for the full dataset, as well as for
+the individual latitudinal bands, by producing an increase in the
+intensity of the signal for the early Holocene when compared to
+the late Holocene. Interestingly, the mid-Holocene troughs are still
+recorded in these corrected series.
+
+5. Discussion
+5.1. Alternative explanations for the temporal patterns
+When attempting to extract information on intensity of human
+occupations to infer aspects of paleodemography, we face three
+main sources of bias: sampling limitations, taphonomic destruction, and artificial products of the calibration curve (Campbell
+and Quiroz, 2015; Gayo et al., 2015; Méndez et al., 2015;
+Shennan et al., 2013; Williams, 2012).
+Biases stemming from deficiencies in sampling can be minimized by zooming out and increasing spatial scale. In the three
+regions considered here, teams with diverse research traditions,
+aims, and field sampling strategies have produced the radiocarbon
+record during the last decades, minimizing systematic bias due to
+research decisions and contributing to provide an averaged
+
+chronological signature for the macro-region. We do not consider
+that research decisions would have the capacity to artificially produce the troughs recorded on a macro-regional scale.
+We cover a region large and diverse enough to include multiple
+taphonomic modes that would not have been affected by sources
+of taphonomic bias acting in a similar fashion, so as to produce
+taphonomic biases at a macro-regional level.
+In addition, the presence of an intense -though variable- early
+Holocene signal in association to different taphonomic modes from
+the three latitudinal bands weakens taphonomy as the main explanation for the mid-Holocene patterns recorded.
+Admittedly, the series corrected for taphonomic destruction
+provide only a preliminary assessment, since we have not discriminated samples in terms of their context of deposition (open air vs.
+sheltered sites). In the three regions, it is evident that the correction produces an over-representation of the early Holocene record,
+which shows levels comparable to the late Holocene, a consideration that is not supported by quantitative nor qualitative data from
+these regions. This would be due to the inclusion of the samples
+coming from rock shelters and caves, indicating that an assumption of time-dependent taphonomic loss may not be valid for samples deposited in these contexts (see Goldberg et al., 2016;
+Williams, 2012), at least as modeled by the correction equation.
+Interestingly, the mid-Holocene troughs are not obscured by the
+likely artificial changes introduced by the taphonomic correction
+to the early Holocene section of the curve, remaining as distinctive
+low points within the series. We suggest that this highlights the
+robustness of the pattern in the full dataset of the SAAD and in
+the three individual regions.
+Properties inherent to the southern hemisphere calibration
+curve may produce ‘artificial’ outcomes in the summed probabilities, biasing the macro-regional temporal patterns. Steep segments
+of the calibration curve for the southern hemisphere (Hogg et al.,
+2013) produce artificial concentration of dates within certain time
+
+R. Barberena et al. / Journal of Anthropological Archaeology 46 (2017) 68–81
+
+periods that simulate temporal peaks, while plateaus in the calibration curve may produce troughs in the temporal series
+(Michczynski and Michczynski, 2006; Prates et al., 2013). Due to
+their susceptibility to methodological factors, we do not give
+accentuated peaks a role in the development of our discussion.
+By augmenting analytical scale, the use of the 200 years-intervals
+coupled with a 400 years-moving average minimizes the incidence
+of these effects (Williams, 2012). Importantly, the mid-Holocene
+troughs are recorded in the different analyses applied to the temporal data. In addition, we refer to the thorough analysis published
+by Gayo et al. (2015) for the calibration curve of the southern
+hemisphere showing that, when calibrating samples at twosigma, there are no major plateaus in the mid-Holocene, as
+opposed to two significant ones detected between 5381–4973
+and 4675–4207 years BP (Gayo et al., 2015, Table S4). In addition,
+there is no overlap between steep sections of the calibration curve
+with the areas of high density of summed probability in the plot for
+the SAAD during the mid-Holocene (Gayo et al., 2015, Table S5). In
+sum, the temporal tendencies recorded for the mid-Holocene in
+the three latitudinal bands of the SAAD would not be an artifact
+of the calibration process.
+As already mentioned, the degree of consistency in the patterns
+recorded across regions with diverse taphonomic modes and
+research histories do not lend support to taphonomy or sampling
+decisions as the main source for this pattern. On this basis, we suggest that the main troughs recorded for the mid-Holocene represent periods of decreased human occupation in multiple regions
+of the SAAD and neighbor ecological zones (among others, see
+Araujo et al., 2005–2006; Gil et al., 2005; Goldberg et al., 2016).
+5.2. Climate change and landscape fragmentation in macro-regional
+scale
+In the context of considerable spatial and temporal variation,
+the paleoecological information reviewed above suggests the predominance of dry conditions during the mid-Holocene in large
+parts of the SAAD. This is particularly clear in the records from
+the low (Fig. 6) and mid latitudes (Fig. 7), with periods characterized as ‘extremely dry’ on the basis of several proxies (Grosjean
+et al., 2007; Latorre et al., 2003; Maldonado and Villagrán, 2006;
+Maldonado et al., 2005), while the fragmentary information available for northern Patagonia (Fig. 8) indicates the establishment of a
+well-defined west-to-east humidity and vegetation gradient developed eastward of the Andes since the late Pleistocene-early Holocene (Iglesias et al., 2014; Markgraf et al., 2009; Whitlock et al.,
+2006). It is also evidently clear that, despite the existence of predominantly arid conditions, humid pulses of varying extent and
+intensity also characterized the mid-Holocene across the latitudinal range considered (Bobst et al., 2001; Grosjean et al., 2003).
+The exploratory nature of this paper, plus the large scale of analysis
+utilized, prevent us from attempting to correlate temporal trends
+in the archaeological record with paleoclimatic proxies in a high
+temporal resolution. Rather, we are interested in exploring the
+effects of enhanced and prolonged aridity on resource availability
+for human populations.
+Different proxies from the three latitudinal bands indicate that
+enhanced aridity in these already dry settings would have produced an increase in landscape fragmentation, expressed as large
+parts of the landscape taking the character of temporary or continuous barriers for humans (Veth, 1989). The persistence of arid conditions in annual, decennial, and centennial time scales would
+produce a progressive desiccation of the landscape with cumulative consequences for forager societies (Marsh et al., in press).
+The occurrence of short wetter pulses interspersed between dry
+periods would ameliorate, but not reverse, prevailing ecological
+conditions. The barrier-character implies infrequent human use
+
+77
+
+associated to elevated risks involved in traversing or occupying
+dry and unpredictable areas (Fitzhugh et al., 2011; Mandryk,
+1993). In ecologically extreme cases, this could also produce the
+abandonment of large regions (Gil, 2006; Manning and Timpson,
+2014; Núñez et al., 2002; Schlanger and Wilshusen, 1993).
+5.3. Refugia in archaeological scale
+There is abundant paleoecological and archaeological evidence
+for the existence of favored tracts of the landscape of the SAAD
+during the mid-Holocene. These may be considered analogous to
+Veth’s (1989) ‘islands in the interior’ of the Australian Desert,
+Yacobaccio’s (1994) ‘zones of nutrient concentration’ of northwestern Argentina, or Núñez et al. (1999) ‘opportunistic refugia’ of Atacama. We explore a few cases that play a qualitative role in our
+argument, by indicating places that may have had a key role in
+terms of demographic persistence (Smith, 1989) and, in some
+cases, socio-economic change. These cases can be considered
+potential refugia during the mid-Holocene, and may have acted
+as buffer zones allowing to cope with the higher risks that prevailed during adverse climatic pulses (Lanata and Borrero, 1994).
+In the low latitudes of the South Central Andes, some tracts of
+the Pacific coast did not only have continuous human occupation,
+but also experienced demographic growth and social elaboration
+leading to the astounding Chinchorro cultural complex (Arriaza
+et al., 2005). As Marquet et al. (2012:14756) indicate, ‘‘the resulting
+[temporal] curve indicates that human populations increased dramatically at 7 ka BP and peaked by 6 ka BP”. This demographic
+node is associated with a process of economic intensification based
+on marine foods (Santoro et al., 2012).
+Also located in the low latitudes band, high areas of the Puna
+plateau presented scattered oases-like settings in association to
+springs or river valleys (Latorre et al., 2006; Ledru et al., 2013;
+Núñez et al., 1999; Yacobaccio, 2013). Núñez et al. (1999, 2002)
+acknowledged these contexts first at the Puripica locality in northern Chile, where water availability was controlled by local factors.
+Recent interdisciplinary research suggests that these settings experienced the first experiments of guanaco (Lama guanicoe) ‘herd protecting strategies’ leading to domestication (Cartajena et al., 2007;
+Yacobaccio, 2004). Based on extensive Andean databases,
+Yacobaccio and Vilá (2013) suggest that this process should be
+framed as a trajectory of gradual economic intensification on wild
+camelid populations in the context of reduced residential mobility.
+In the mid latitudes-band, we have the record of the Tagua
+Tagua wetlands in Central Chile (34°S), which remained as a key
+and persistent wetland ecosystem during mid-Holocene (ValeroGarcés et al., 2005). Yielding an initial occupation at 13,000 years
+BP (Núñez et al., 1994), the most redundant archaeological assemblages in the Tagua Tagua area appear to be of mid-Holocene age.
+Though only published on a preliminary basis, this locality is
+known to present a mortuary record indicative of recurrent human
+burial in particular sites, such as Cuchipuy and Santa Inés, during
+the mid-Holocene (Jackson et al., 2012; Kaltwasser et al., 1983).
+The Cuchipuy site is a key early burial and residential site in Central Chile showing a minimum number of ca. 50 individuals (E.
+Aspillaga, pers. comm. to C. Méndez, 2015) excavated on a continuous stratigraphic feature contained between ca. 8000 and
+5800 years BP (Jackson et al., 2012; D. Jackson, unpublished data;
+Kaltwasser et al., 1983). The archaeological record at this particular
+ecological site suggests the attraction and role of stable freshwater
+resources, a suggestion that is substantiated by preliminary stable
+isotope determinations for the site (Sanhueza and Falabella, 2010).
+Summing up, despite their different ecological and historical
+dynamics, low-latitude localities, such as coastal Atacama and
+some Puna oases, and mid-latitude contexts, such as the Tagua
+Tagua wetlands, preserve an intense and unique mid-Holocene sig-
+
+78
+
+R. Barberena et al. / Journal of Anthropological Archaeology 46 (2017) 68–81
+
+nal with behaviors suggestive of reduced mobility and incipient
+economic intensification that is based in different sets of resources.
+In the macro-regional context of aridity and increasing landscape
+fragmentation that is indicated for segments of the midHolocene, these localities can be satisfactorily conceived as refugia.
+Some of these refugia witnessed initial processes of economic
+intensification during the mid-Holocene, such as marine specialization in the Chinchorro complex of northern Chile (Marquet
+et al., 2012; Santoro et al., 2012) and camelid herd-protecting
+strategies ultimately leading to llamas (Lama glama) and alpacas
+(Vicugna pacos) in the South Central Andes (Cartajena et al.,
+2007; Stahl, 2008; Yacobaccio and Vilá, 2013). The mid-latitudes
+in Central Chile may have witnessed human adaptations emphasizing low mobility and broad-spectrum diets focused on wetland
+resources.
+5.4. Is spatial relocation/reorganization a sufficient explanation for the
+mid-Holocene record? A demographic hypothesis
+The primary mechanism that mobile societies employ to cope
+with increasing aridity and landscape fragmentation would be spatial and/or organizational rearrangements. Depending on human
+decisions, these spatial changes may take the form of increased
+residential and/or logistical mobility (Binford, 1991; Veth, 2005)
+or decreased residential mobility and tethering to favored locales
+(Garvey, 2008). An enlargement of logistical mobility circuits
+may also complement the second option (Goñi, 2000). However,
+ecological and demographic conditions may limit the capacity of
+these spatial mechanisms to overcome landscape fragmentation.
+The key issues would be the extent of landscape fragmentation
+produced by persistent aridity, or the amount of space that takes
+the character of barriers for humans (Smith, 2013; Veth, 1989;
+Williams et al., 2013), the carrying capacity of environments suitable for human use, which could be realized by means of economic
+intensification, and the availability of adequate information and
+technology enabling it.
+As presented in Figs. 6–8 the structure of the time series for the
+three latitudinal bands is remarkably similar, showing a robust
+increase in the signal at the beginning of the mid-Holocene, ca.
+8000–7600 years BP, followed by two troughs respectively at ca.
+7600–7200 and 6800–6400 years BP. The first trough, in particular,
+indicates the minima in the intensity of the temporal signal in the
+three latitudinal bands of the SAAD. Accepting the limitations of
+the currently available database, its spatial scale that covers
+1,236,000 km2 is an important asset. The concurrence in the timing of the two troughs described, plus their macro-regional spatial
+scale, lead us to suggest that besides spatial mechanisms of coping
+with risk, the mid-Holocene record of the SAAD would indicate a
+large-scale demographic decrease. Recent research by Goldberg
+et al. (2016, 234) at the scale of South America, with a focus that
+is not restricted to deserts, suggests that ‘‘. . . population density
+during the mid-Holocene is in the lower range of estimates for
+the density of worldwide hunter-gatherer populations”. In addition
+to a decrease in presumable numbers of people, the archaeological
+record also suggests a ‘contraction of range’, or space that is systematically occupied by human populations, as the occupational
+histories of several regions indicate (Barberena, 2015; Núñez
+et al., 2002; Méndez et al., 2015).
+In sum, the combination of two macro-regional troughs occurring at roughly the same periods –though with different intensity
+– in the three latitudinal bands of the SAAD (low abundance), the
+absence or near absence of human occupation in several tracts of
+the SAAD (contraction of range), plus the record of relatively fast
+increases in the temporal signal following the troughs, make an
+excellent case for the existence of population bottleneck(s) in the SAAD
+during the mid-Holocene.
+
+The bottleneck scenario implies a release or demographic
+expansion stage following the trough. We consider that this
+dynamic provides a mechanism that may explain several demographic, economic, and social processes observed after 6000 years
+BP. The end of the mid-Holocene is marked by a temporal signal
+that is more intense and continuous than ever before. So far, this
+macro-regional pattern has been described rather than explained.
+The expansion mechanisms involved in a bottleneck may contribute to explain these demographic changes at an appropriate
+spatial scale (Ambrose, 1998; Bennett and Provan, 2008; Sundell
+et al., 2014). Goldberg et al. (2016, 234) have suggested that the
+post mid-Holocene record shows exponential demographic growth
+that would be associated to ‘‘the shift to a predominantly sedentary and agricultural subsistence . . . between 5.5 ka and 3.5 ka”,
+akin to the demographic transition characteristic of the European
+Neolithic. While this explanation may account for a fraction of
+the late Holocene processes of demographic growth, it seems unlikely that it accounts for the full range of processes recorded in
+South America, particularly if we consider that large parts of the
+continent did not experience a transition to productive economies
+until ca. 2000–1000 years BP (e.g., Gil et al., 2014). In addition,
+other regions that would display a pattern of post mid-Holocene
+exponential demographic growth, such as the high latitudes band
+discussed here, plus other areas further south, did not witness
+the shift to productive economies nor sedentary organization
+whatsoever (Morales et al., 2009; Morello et al., 2012). In synthesis,
+we suggest that the release following the alleged mid-Holocene
+bottleneck(s) and the demographic transition associated to
+reduced mobility (as suggested by Goldberg et al., 2016) provide
+complementary mechanisms to account for the late Holocene
+archaeological record of South America.
+
+6. Conclusions and perspectives
+Building on previous research in smaller scales (Gayo et al.,
+2015; Grosjean et al., 2007; Marquet et al., 2012; Méndez et al.,
+2015; Neme and Gil, 2009), we have assembled and compared
+paleoecological data and archaeological time series for three latitudinal bands of the SAAD from 16° to 41°S. Diverse proxies suggest
+the existence of arid and extremely arid conditions in large parts of
+the SAAD, though not in a synchronous fashion. We have identified
+a number of archaeological patterns that are recorded on a macroregional scale of analysis: a robust increase in the temporal signal
+at the beginning of the mid-Holocene (ca. 8000–7600 years BP) followed by two troughs (ca. 7600–7200, 6800–6400 years BP). The
+first trough indicates the minima in the intensity of human occupation in the three latitudinal bands. Though causal relations are
+far from clear, these mid-Holocene events provide the context for
+the initiation of independent trajectories of economic intensification based on different sets of resources -marine foods, camelids,
+and probably wetland resources-, some of which lead to domestication processes. These cases occur in regions that can be conceived as refugia during arid periods of the mid-Holocene, and
+would share a tendency towards reduced residential mobility
+(Dillehay, 2014). On the basis of this review, we formalized a
+demographic working hypothesis at a macro-regional scale, which
+suggests the existence of mid-Holocene population bottleneck(s)
+at a macro-regional scale. Though not conclusive, the temporal evidence presented fits well with this suggestion, providing an explanation not only for the occupational troughs, but also for the post6000 years BP record of intense and relatively rapid population
+growth observed in many regions of the SAAD, and in South America in general (Goldberg et al., 2016). There is no conclusive evidence regarding the presence of biological discontinuities
+between populations before and after the mid-Holocene. While
+
+R. Barberena et al. / Journal of Anthropological Archaeology 46 (2017) 68–81
+
+this is not part of our current focus, we would tentatively favor an
+option of biological continuity from a restricted genetic pool modified by random processes.
+The spatial scope of the data presented in this paper provides
+the chance of disentangling processes of spatial re-localization
+from actual changes in population size. At this exploratory stage
+of analysis, we are more concerned in presenting a framework with
+the capacity to guide research on a macro-regional scale, rather
+than in probing the hypothesis presented. This analysis produces
+testable expectations at different analytical scales and for different
+research domains. At a regional scale, work in some of the proposed refugia would be paramount, particularly in the underresearched wetlands of Central Chile (other regions, such as the
+mesic steppes or the Atlantic coast in northern Patagonia, also hold
+this potential). The existence of parallel trajectories towards
+reduced residential mobility should be assessed in a comparative
+frame. While some of the regions that may have acted as geographical barriers have been thoroughly surveyed, such as parts of the
+Atacama Desert and southern Mendoza Province, many have not.
+This should also be the focus of systematic regional work targeting
+the mid-Holocene period (Garvey, 2012; Durán et al., in press).
+This research produces expectations for human genomic and
+morphometric evidence. There is a robust body of theoretical and
+empirical DNA research that focuses in assessing the role of population bottlenecks in human history (Excoffier et al., 2009; Sundell
+et al., 2014), as well as the incidence of random (genetic drift) and
+selective processes leading to specific relations between genetic
+and phenotypic features in human populations from South America (Perez et al., 2009). Deciphering the behavioral, demographic,
+and evolutionary meaning of archaeological discontinuities
+requires a continental scope.
+Setting issues of historical and ecological scale aside, we consider that there is a similitude in the conceptual structure of the
+debates on the socio-demographic meaning of temporal discontinuities across the southern continents, including the Last Glacial
+Maximum in the Australian and African deserts (Barham and
+Mitchell, 2008; Mitchell, 2017; Smith, 2013; Veth et al., 2005,
+2017; Williams et al., 2013). These issues hold a great comparative
+potential at different scales, including an intercontinental level. We
+will learn a great deal from a comparative take on this matter.
+Acknowledgments
+We specially thank Luciano Prates for his help and advice along
+the process. We acknowledge Jo McDonald, Peter Mitchell, Peter
+Veth, Valeria Cortegoso, Eugenia Gayo, and Erik Marsh for their
+comments. We thank Eugenio Aspillaga for sharing unpublished
+data on the archaeology of Cuchipuy. Finally, we thank Gustavo
+G. Politis and John M. O’Shea for editorial advice, and three anonymous reviewers for very helpful input.
+References
+Abarzúa, A.M., 2009. Respuestas ambientales a cambios climáticos y culturales en la
+Región de la Araucanía, Chile. Facultad de Ciencias Forestales, Universidad
+Austral de Chile, Valdivia.
+Abarzúa, A.M., Villagrán, C., Moreno, P.I., 2004. Deglacial and postglacial climate
+history in east-central Isla Grande de Chiloé, southern Chile (43°S). Quatern.
+Res. 62, 49–59.
+Abraham de Vazquez, E.M., Garleff, K., Liebricht, H., Regairaz, A., Schabitz, F., Squeo,
+F., Stingl, H., Veit, H., Villagrán, C., 2000. Geomorphology and paleoecology of
+the arid diagonal in southern South America. Sonderheft ZAG 1, 55–61.
+Ambrose, S.H., 1998. Late Pleistocene human population bottlenecks, volcanic
+winter, and differentiation of modern humans. J. Hum. Evol. 34, 623–651.
+Anderson, D.G., Maasch, K.A., Sandweiss, D.H., Mayewski, P.A., 2007. Climate and
+culture change: exploring Holocene transitions. In: Anderson, D.G., Maasch, K.
+A., Sandweiss, D.H. (Eds.), Climate Change and Cultural Dynamics: A Global
+Perspective on Mid-Holocene Transitions. Academic Press, San Diego, pp. 1–24.
+
+79
+
+Araujo, A.G.M., Pilo, L.B., Neves, W.A., Atui, J.P.V., 2006. Human occupation and
+paleoenvironments in South America: expanding the notion of an ‘‘Archaic
+gap”. Rev. Museu Arqueol. Etnol. 15–16, 3–35.
+Arriaza, B., Doubrava, M., Standen, V., Haas, H., 2005. Differential mortuary
+treatment among Andean Chinchorro fishers: social inequalities or in situ
+regional evolution. Curr. Anthropol. 46, 662–671.
+Bailey, G., 2007. Time perspectives, palimpsests and the archaeology of time. J.
+Anthropol. Archaeol. 26, 198–223.
+Bamforth, D.B., Grund, B., 2012. Radiocarbon calibration curves, summed
+probability distributions, and early Paleoindian population trends in North
+America. J. Archaeol. Sci. 39, 1768–1774.
+Barberena, R., 2015. Cueva Huenul 1 archaeological site (northwestern Patagonia,
+Argentina): initial colonization and mid-Holocene demographic retraction.
+Latin Am. Antiq. 26, 304–318.
+Barberena, R., Prates, L., de Porras, M.E., 2015. The human occupation of
+northwestern Patagonia (Argentina): paleoecological and chronological
+trends. Quatern. Int. 356, 111–126.
+Barham, L., Mitchell, P., 2008. The First Africans: Africans Archaeology from the
+Earliest Toolmakers to Most Recent Foragers. Cambridge World Archaeology.
+Cambridge.
+Bennett, K.D., Provan, J., 2008. What do we mean by refugia? Quatern. Sci. Rev. 27,
+2449–2455.
+Betancourt, J.L., Latorre, C., Rech, J.A., Quade, J., Rylander, K.A., 2000. A 22,000-year
+record of monsoonal precipitation from Northern Chile’s Atacama Desert.
+Science 289, 1542–1546.
+Binford, L.R., 1991. When the going gets tough, the tough get going: Nunamiut local
+groups, camping patterns and economic organization. In: Gamble, C.S.,
+Boismier, W.A. (Eds.), Ethnoarchaeological Approaches to Mobile Campsites.
+International Monographs in Prehistory, Ann Arbor, pp. 25–138.
+Bobst, A.L., Lowenstein, T.K., Jordan, T.E., Godfrey, L.V., Ku, T.-L., Luo, S., 2001. A
+106 ka paleoclimate record from drill core of the Salar de Atacama, northern
+Chile. Palaeogeogr. Palaeoclimatol. Palaeoecol. 173, 21–42.
+Bruniard, E.D., 1982. La diagonal árida argentina: un límite climático real. Rev.
+Geogr. Inst. Panam. 95, 5–19.
+Bueno, L., Prates, L., Politis, G.G., Steele, J. (Eds.), 2013. A Late Pleistocene/early
+Holocene archaeological 14C database for South America and the Isthmus of
+Panama: palaeoenvironmental contexts and demographic interpretations.
+Quatern. Int. 301.
+Campbell, R., Quiroz, D., 2015. Chronological database for southern Chile (35°300 –
+42°S), 33,000 BP to present: human implications and archaeological biases.
+Quatern. Int. 356, 39–53.
+Cartajena, I., Núñez, L., Grosjean, M., 2007. Camelid domestication on the
+western slope of the Puna de Atacama, northern Chile. Anthropozoologica 42,
+155–173.
+Contreras, D.A., Meadows, J., 2014. Summed radiocarbon calibrations as a
+population proxy: a critical evaluation using a realistic simulation approach. J.
+Archaeol. Sci. 52, 591–608.
+Dillehay, T.D., 1997. Monte Verde, A Late Pleistocene Settlement in Chile, vol. 2.
+Smithsonian Institution Press, Washington.
+Dillehay, T.D., 2014. Sedentarismos y complejidad prehispánicos en América del
+Sur. Intersecciones Antropol. 14, 29–64.
+Durán, V., Winocur, D., Stern, C., Garvey, R., Barberena, R., Peña Monné, J., Benítez, A.,
+in press. Volcanismo holocénico y poblamiento humano en la cordillera sur de
+la provincia de Mendoza (Argentina): una perspectiva geoarqueológica.
+Intersecciones Antropol. (in press)
+Espizúa, L.E., 2005. Holocene glacier chronology of Valenzuela Valley, Mendoza
+Andes, Argentina. Holocene 15, 1079–1085.
+Espizúa, L.E., Pitte, P., 2009. The Little Ice Age glacier advance in the Central Andes
+(35°S), Argentina. Palaeogeogr. Palaeoclimatol. Palaeoecol. 281, 345–350.
+Excoffier, L., Foll, M., Petit, R.J., 2009. Genetic consequences of range expansions.
+Annu. Rev. Ecol. Evol. Syst. 40, 481–501.
+Falabella, F., Cornejo, L.E., Sanhueza, L., Correa, I., 2015. Trends in
+thermoluminescence date distributions for the Angostura micro region in
+Central Chile. Quatern. Int. 356, 27–38.
+Fitzhugh, B., Phillips, S.C., Gjesfjeld, E., 2011. Modeling hunter-gatherer information
+networks: an archaeological case study from the Kuril Islands. In: Whallon, R.,
+Lovis, W.A., Hitchcock, R.K. (Eds.), Information and Its Role in Hunter-Gatherer
+Bands. University of California Press, Los Angeles, pp. 85–115.
+Gamble, C., Davies, W., Pettitt, P., Richards, M., 2004. Climate change and evolving
+human diversity in Europe during the last glacial. Philos. Trans. Roy. Soc. Lond. B
+359, 243–254.
+García Guraieb, S., Goñi, R., Tessone, A., 2015. Paleodemography of Late Holocene
+hunter-gatherers from Patagonia (Santa Cruz, Argentina): an approach using
+multiple archaeological and bioarchaeological indicators. Quatern. Int. 356,
+147–158.
+Garvey, R., 2008. A behavioural ecological approach to a proposed middle Holocene
+occupational gap. Before Farming.
+Garvey, R., 2012. Human Behavioral Responses to Mid Holocene Climate Changes in
+Northern Argentine Patagonia (Ph.D. thesis). University of California, Davis.
+Gayo, E., Latorre, C., Jordan, T., Nester, P.L., Estay, A.S., Ojeda, K.F., Santoro, C., 2012.
+Late Quaternary hydrological and ecological change in the hyperarid core of the
+northern Atacama Desert (21°S). Earth-Sci. Rev. 113, 120–140.
+Gayo, E.M., Latorre, C., Santoro, C.M., 2015. Timing of occupation and regional
+settlement patterns revealed by time-series analyses of an archaeological
+radiocarbon database for the South-Central Andes (16°–25°S). Quatern. Int. 356,
+4–14.
+
+80
+
+R. Barberena et al. / Journal of Anthropological Archaeology 46 (2017) 68–81
+
+Gil, A.F., 2006. Arqueología de La Payunia (Mendoza, Argentina). El poblamiento
+humano en los márgenes de la agricultura. BAR International Series 1477.
+Archaeopress, Oxford.
+Gil, A., Villalba, R., Ugan, A., Cortegoso, V., Neme, G., Michieli, C.T., Novellino, P.,
+Durán, V., 2014. Isotopic evidence on human bone for declining maize
+consumption during the little ice age in central western Argentina. J.
+Archaeol. Sci. 49, 213–227.
+Gil, A., Zárate, M., Neme, G., 2005. Mid-Holocene paleoenvironments and the
+archaeological record of Southern Mendoza, Argentina. Quatern. Int. 132, 81–
+94.
+Goldberg, A., Mychajliw, A.M., Hadly, E.A., 2016. Post-invasion demography of
+prehistoric humans in South America. Nature 532 (7598), 232–235.
+Goñi, R.A., 2000. Arqueología de momentos históricos fuera de los centros de
+conquista y colonización: un análisis de caso en el sur de la Patagonia. In: Desde
+el País de los Gigantes, Tomo I. UNPA, Río Gallegos, pp. 283–296.
+Grosjean, M., 2001. Mid-Holocene climate in the south-central Andes: humid or
+dry? Science 292, 2391.
+Grosjean, M., Cartajena, I., Geyh, M.A., Nuñez, L., 2003. From proxy data to
+paleoclimate interpretation: the mid-Holocene paradox of the Atacama Desert,
+northern Chile. Palaeogeogr. Palaeoclimatol. Palaeoecol. 194, 247–258.
+Grosjean, M., Santoro, C., Thompson, L., Núñez, L., Standen, V., 2007. Mid-Holocene
+climate and cultural change in the South-Central Andes. In: Anderson, D.G.,
+Maasch, K.A., Sandweiss, D.H. (Eds.), Climate Change and Cultural Dynamics: A
+Global Perspective on Mid-Holocene Transitions. Academic Press, San Diego, pp.
+51–115.
+Heusser, C.J., 1966. Late-Pleistocene pollen diagrams from the Province of
+Llanquihue, southern Chile. Proc. Am. Philos. Soc. 110, 269–305.
+Heusser, C.J., 1984. Late-glacial-Holocene climate of the Lake District of Chile.
+Quatern. Res. 22, 77–90.
+Hogg, A.G., Hua, Q., Blackwell, P.G., Niu, M., Buck, C.E., Guilderson, T.P., Heaton, T.J.,
+Palmer, J.G., Reimer, P.J., Reimer, R.W., Turney, C.S.M., Zimmerman, S.R.H., 2013.
+SHCAL13 Southern Hemisphere CALIBRATION, 0–50,000 years cal BP.
+Radiocarbon 55, 1889–1903.
+Holdaway, S., Wandsnider, L.A., 2006. Temporal scales and archaeological
+landscapes from the Eastern Desert of Australia and Intermontane North
+America. In: Lock, G., Molyneaux, B. (Eds.), Confronting Scale in Archaeology,
+Issues of Theory and Practice. Springer, New York, pp. 183–202.
+Iglesias, V., Whitlock, C., Markgraf, V., Bianchi, M.M., 2014. Postglacial history of the
+Patagonian forest/steppe ecotone (41–43°S). Quatern. Sci. Rev. 94, 120–135.
+Jackson, D., Aspillaga, E., Rodríguez, X.P., Jackson, D., Santana, F., Méndez, C., 2012.
+Las Ocupaciones Humanas del Sitio Arqueológico de Santa Inés, Laguna de
+Tagua Tagua, Chile Central. Rev. Chil. Antropol. 26, 151–168.
+Jara, I.A., Moreno, P.I., 2012. Temperate rainforest response to climate change and
+disturbance agents in northwestern Patagonia (41°S) over the last 2600 years.
+Quatern. Res. 77, 235–244.
+Jara, I.A., Moreno, P.I., 2014. Climatic and disturbance influences on the temperate
+rainforests of northwestern Patagonia (40°S) since 14,500 cal yr BP. Quatern.
+Sci. Rev. 90, 217–228.
+Jenny, B., Valero-Garcés, B.L., Villa-Martínez, R., Urrutia, R., Geyh, M.A., Veit, H.,
+2002. Early to mid-Holocene aridity in Central Chile and the Southern
+Westerlies: the Laguna Aculeo record (34°S). Quatern. Res. 58, 160–170.
+Jull, T.A., Burr, G.S., Hodgins, G.W.L., 2013. Radiocarbon dating, reservoir effects, and
+calibration. Quatern. Int. 299, 64–71.
+Kaltwasser, J., Medina, A., Munizaga, J., 1983. Estudio de 11 fechas de RC14
+relacionadas con el hombre de Cuchipuy. Bol. Prehist. Chile 9, 9–14.
+Kelly, R.L., 1995. The Foraging Spectrum. Diversity in Hunter-Gatherers Lifeways.
+Smithsonian Institution, Washington DC.
+Kim, J.-H., Schneider, R.R., Hebbeln, D., Müller, P.J., Wefer, G., 2002. Last deglacial
+sea-surface temperature evolution in the Southeast Pacific compared to climate
+changes on the South American continent. Quatern. Sci. Rev. 21, 2085–2097.
+Lamy, F., Hebbeln, D., Wefer, G., 1999. High-resolution marine record of climatic
+change in mid-latitude Chile during the last 28,000 years based on terrigenous
+sediment parameters. Quatern. Res. 51, 83–93.
+Lamy, F., Kaiser, J., Ninnemann, U., Hebbeln, D., Arz, H.W., Stoner, J., 2004. Antarctic
+timing of surface water changes off Chile and Patagonian ice sheet response.
+Science 304, 1959–1962.
+Lanata, J., Borrero, L., 1994. Riesgo y arqueología, in Arqueología de CazadoresRecolectores. Arqueol. Contemp. 5, 129–143.
+Latorre, C., Betancourt, J.L., Arroyo, M.T.K., 2006. Late Quaternary vegetation and
+climate history of a perennial river canyon in the Río Salado basin (22°S) of
+Northern Chile. Quatern. Res. 65, 450–466.
+Latorre, C., Betancourt, J.L., Rylander, K.A., Quade, J., 2002. Vegetation invasions into
+absolute desert: a 45,000 yr rodent midden record from the Calama-Salar de
+Atacama basins, northern Chile (lat 22°–24°S). Geol. Soc. Am. Bull. 114, 349–
+366.
+Latorre, C., Betancourt, J.L., Rylander, K.A., Quade, J., Matthei, O., 2003. A vegetation
+history from the arid prepuna of northern Chile (22–23°S) over the last
+13,500 years. Palaeogeogr. Palaeoclimatol. Palaeoecol. 194, 223–246.
+Latorre, C., Santoro, C., Ugalde, P., Gayo, E., Osorio, D., Salas-Egaña, C., De Pol-Holz,
+R., Joly, D., Rech, J., 2013. Late Pleistocene human occupation of the hyperarid
+core in the Atacama Desert, northern Chile. Quatern. Sci. Rev. 77, 19–30.
+Ledru, M., Jomelli, V., Bremond, L., Ortuno, T., Cruz, P., Bentaleb, I., Sylvestre, F.,
+Kuentz, A., Beck, S., Martin, C., Pailles, C., Subitani, S., 2013. Evidence of moist
+niches in the Bolivian Andes during the Mid-Holocene arid period. Holocene 23,
+1547–1559.
+
+Maldonado, A., Betancourt, J.L., Latorre, C., Villagrán, C., 2005. Pollen analyses from a
+50,000-yr rodent midden series in the Southern Atacama desert (25°300 S). J.
+Quatern. Sci. 20, 493–507.
+Maldonado, A., Uribe, M., 2015. Paleoambientes y ocupaciones humanas en
+Tarapacá durante el período Formativo y comienzos del Intermedio Tardío. In:
+XIX Congreso Nacional de Arqueología Chilena. Universidad de Tarapacá,
+Sociedad Chilena de Arqueología, Arica.
+Maldonado, A., Villagrán, C., 2002. Paleoenvironmental changes in the semiarid
+coast of Chile (32°S) during the last 6200 cal years inferred from a swampforest pollen record. Quatern. Res. 58, 130–138.
+Maldonado, A., Villagrán, C., 2006. Climate variability over the last 9900 cal yr BP
+from a swamp forest pollen record along the semiarid coast of Chile. Quatern.
+Res. 66, 246–258.
+Mandryk, C.A.S., 1993. Hunter-gatherers social costs and the nonviability of
+submarginal environments. J. Anthropol. Res. 49, 39–71.
+Manning, K., Timpson, A., 2014. The demographic response to Holocene climate
+change in the Sahara. Quatern. Sci. Rev. 101, 28–35.
+Markgraf, V., Iglesias, V., Whitlock, C., 2013. Late and postglacial vegetation and fire
+history from Cordón Serrucho Norte, northern Patagonia. Palaeogeogr.
+Palaeoclimatol. Palaeoecol. 371, 109–118.
+Markgraf, V., Whitlock, C., Anderson, S.R., García, A., 2009. Late Quaternary
+vegetation and fire history in the northernmost Nothofagus forest region:
+Mallín Vaca Lauquen, Neuquén Province, Argentina. J. Quatern. Sci. 24, 248–
+258.
+Markgraf, V., Whitlock, C., Haberle, S., 2007. Vegetation and fire history during the
+last 18,000 cal yr B.P. in Southern Patagonia: Mallín Pollux, Coyhaique, Province
+Aisén (45°410 3000 S, 71°500 3000 W, 640 m elevation). Palaeogeogr. Palaeoclimatol.
+Palaeoecol. 254, 492–507.
+Marquet, P., Santoro, C., Latorre, C., Standen, V., Abades, S., Rivadeneira, M., Arriaza,
+B., Hochberg, M., 2012. Emergence of social complexity among coastal huntergatherers in the Atacama Desert of northern Chile. Proc. Natl. Acad. Sci. USA
+109, 14754–14760.
+Marsh, E., Cortegoso, V., Castro, S., in press. Hunter-gatherer mobility decisions and
+synchronous climate change in the Southern Andes: the early and middle
+Holocene occupations of ARQ-18, San Juan, Argentina (29.5°S). Quatern. Int. (in
+press)
+Méndez, C., 2013. Terminal Pleistocene/early Holocene 14C dates form
+archaeological sites in Chile: critical chronological issues for the initial
+peopling of the region. Quatern. Int. 301, 60–73.
+Méndez, C., Gil, A., Neme, G., Nuevo Delaunay, A., Cortegoso, V., Huidobro, C., Durán,
+V., Maldonado, A., 2015. Mid Holocene radiocarbon ages in the Subtropical
+Andes (29°–35°S), climatic change and implications for human space
+organization. Quatern. Int. 356, 15–26.
+Michczynski, A., Michczynski, D.J., 2006. The effect of PDF peaks’ height increase
+during calibration of radiocarbon date sets. Geochronometria 25, 1–4.
+Mitchell, P.J., 2017. Discontinuities in hunter-gatherer prehistory in southern
+African drylands. J. Anthropol. Archaeol. 46, 40–52.
+Morales, M., Barberena, R., Belardi, J., Borrero, L., Cortegoso, V., Durán, V., Guerci, A.,
+Goñi, R., Gil, A., Neme, G., Yacobaccio, H., Zárate, M., 2009. Reviewing humanenvironment interactions in arid regions of Southern South America during the
+past 3000 years. Palaeogeogr. Palaeoclimatol. Palaeoecol. 281, 283–295.
+Morello, F., Borrero, L., Massone, M., Stern, C., Garcia-Herbst, A., McCulloch, R.,
+Arroyo-Kalin, M., Calás, E., Torres, J., Prieto, A., 2012. Hunter-gatherers,
+biogeographic barriers and the development of human settlement in Tierra
+del Fuego. Antiquity 86 (331), 71–87.
+Moreno, P.I., 2004. Millennial-scale climate variability in northwest Patagonia over
+the last 15,000 yr. J. Quatern. Sci. 19, 35–47.
+Moreno, P.I., León, A.L., 2003. Abrupt vegetation changes during the last glacial to
+Holocene transition in mid-latitude South America. J. Quatern. Sci. 18, 787–800.
+Navarro, D., Rojo, L., De Francesco, C.G., Hassan, G.S., 2012. Paleoecología y
+reconstrucciones paleoambientales en Mendoza durante el Holoceno. In: Neme,
+G., Gil, A. (Eds.), Paleoecología humana en el sur de Mendoza: perspectivas
+arqueológicas. Sociedad Argentina de Antropología, Buenos Aires, pp. 17–56.
+Neme, G., Gil, A., 2009. Human occupation and increasing mid-Holocene aridity.
+Southern Andean perspectives. Curr. Anthropol. 50, 149–163.
+Núñez, L., Grosjean, M., Cartajena, I., 1999. Un ecorefugio oportunístico en la puna
+de Atacama durante eventos áridos del Holoceno Medio. Estud. Atacameños 17,
+125–174.
+Núñez, L., Grosjean, M., Cartajena, I., 2002. Human occupations and climate change
+in the puna de Atacama, Chile. Science 298, 821–824.
+Núñez, L., Santoro, C., 1988. Cazadores de la Puna Seca y Salada del área Centro-Sur
+Andina (Norte de Chile). Estud. Atacameños 9, 11–60.
+Núñez, L., Varela, J., Casamiquela, R., Schiappacasse, V., Niemeyer, H., Villagrán, C.,
+1994. Cuenca de Taguatagua en Chile: El Ambiente del Pleistoceno Superior y
+Ocupaciones Humanas. Rev. Chil. Hist. Nat. 67, 503–519.
+Ortlieb, L., Vargas, G., Saliege, J.-F., 2011. Marine radiocarbon reservoir effect along
+the northern Chile–southern Peru coast (14–24°S) throughout the Holocene.
+Quatern. Res. 75, 91–103.
+Perez, S.I., Bernal, V., González, P.N., Sardi, M., Politis, G.G., 2009. Discrepancy
+between cranial and DNA data of early Americans: implications for American
+peopling. PLoS One 4 (5), e5746.
+Peros, M.C., Munoz, S.E., Gajewski, K., Viau, A.E., 2010. Prehistoric demography of
+North America inferred from radiocarbon data. J. Archaeol. Sci. 37, 656–664.
+Prates, L., Politis, G.G., Steele, J., 2013. Radiocarbon chronology of the early human
+occupation of Argentina. Quatern. Int. 301, 104–122.
+
+R. Barberena et al. / Journal of Anthropological Archaeology 46 (2017) 68–81
+Quade, J., Rech, J.A., Betancourt, J.L., Latorre, C., Quade, B., Rylander, K.A., Fisher, T.,
+2008. Paleowetlands and regional climate change in the central Atacama Desert,
+northern Chile. Quatern. Res. 69, 343–360.
+Rech, J.A., Quade, J., Betancourt, J.L., 2002. Late Quaternary paleohydrology of the
+central Atacama Desert. Geol. Soc. Am. Bull. 114.
+Reimer, P., Bard, E., Bayliss, A., Beck, J., Blackwell, P., Ramsey, C., Buck, C., Cheng, H.,
+Edwards, R., Friedrich, M., Grootes, P., Guilderson, T., Haflidason, H., Hajdas, I.,
+Hatté, C., Heaton, T., Hoffmann, D., Hogg, A., Hughen, K., Kaiser, K., Kromer, B.,
+Manning, S., Niu, M., Reimer, R., Richards, D., Scott, M., Southon, J., Staff, R.,
+Turney, C., van der Plicht, J., 2013. INTCAL13 and MARINE13 radiocarbon age
+calibration curves 0–50,000 years cal BP. Radiocarbon 55, 1859–1887.
+Rein, B., Lückge, A., Reinhardt, L., Siroko, F., Wolf, A., Dullo, W.C., 2005. El Niño
+variability off Peru during the last 20,000 years. Palaeoceanography 20, 1–17.
+Rick, J.W., 1978. Dates as data: an examination of the Peruvian preceramic
+radiocarbon record. Am. Antiq. 52, 55–73.
+Sanhueza, L., Falabella, F., 2010. Analysis of stable isotopes: from the archaic to the
+horticultural communities in central Chile. Curr. Anthropol. 51, 127–136.
+Santoro, C.M., Rivadeneira, M.M., Latorre, C., Rothammer, F., Standen, V.G., 2012.
+Rise and decline of Chinchorro sacred landscapes along the hyperarid coast of
+the Atacama Desert. Chungara: Rev. Antropol. Chil. 44, 637–653.
+Schlanger, S.H., Wilshusen, R.H., 1993. Local abandonments and regional conditions
+in the North American Southwest. In: Cameron, C.M., Tomka, S.A. (Eds.),
+Abandonment of Settlements and Regions: Ethnoarchaeological and
+Archaeological Approaches. Cambridge University Press, Cambridge, pp. 85–98.
+Shennan, S., Downey, S.S., Timpson, A., Edinborough, K., Colledge, S., Kerig, T.,
+Manning, K., Thomas, M.G., 2013. Regional population collapse followed initial
+agriculture booms in mid-Holocene Europe. Nat. Commun. 4, 2486.
+Shennan, S., Edinborough, K., 2007. Prehistoric population history: from the Late
+Glacial to the Late Neolithic in Central and Northern Europe. J. Archaeol. Sci. 34,
+1339–1345.
+Smith, M.A., 1989. The case for a resident human population in the Central
+Australian Ranges during full glacial aridity. Archaeol. Oceania 24, 93–105.
+Smith, M.A., 2013. The Archaeology of Australia’s Deserts. Cambridge University
+Press, Cambridge.
+Stahl, P.W., 2008. Animal domestication in South America. In: Silverman, H., Isbell,
+W.H. (Eds.), The Handbook of South American Archaeology. Springer, New York,
+pp. 121–130.
+Steele, J., Politis, G., 2009. AMS 14C dating of early human occupation in southern
+South America. J. Archaeol. Sci. 36, 419–439.
+Sundell, T., Kammonen, J., Halinen, P., Pesonen, P., Onkamo, P., 2014. Archaeology,
+genetics and a population bottleneck in prehistoric Finland. Antiquity 88, 1132–
+1147.
+Surovell, T.A., Finley, J.B., Smith, G.M., Brantingham, P.J., Kelly, R., 2009. Correcting
+temporal frequency distributions for taphonomic bias. J. Archaeol. Sci. 36,
+1715–1724.
+Sylvestre, F., Servant, M., Servant-Vildary, S., Causse, C., Fournier, M., Ybert, J.-P.,
+1999. Lake-level chronology on the Southern Bolivian Altiplano (18°–23°S)
+during late-glacial time and the early Holocene. Quatern. Res. 51, 54–66.
+Timpson, A., Colledge, S., Crema, E., Edinborough, K., Kerig, T., Manning, K., Thomas,
+M.G., Shennan, G., 2014. Reconstructing regional population fluctuations in the
+European Neolithic using radiocarbon dates: a new case-study using an
+improved method. J. Archaeol. Sci. 51, 98–114.
+Valero-Garcés, B.L., Jenny, B., Rondanelli, M., Delgado-Huertas, A., Burns, S.J., Veit,
+H., Moreno, A., 2005. Palaeohydrology of Laguna de Tagua Tagua (34°300 S) and
+moisture fluctuations in Central Chile for the last 46,000 yr. J. Quatern. Sci. 20,
+625–641.
+
+81
+
+Vargas, L., Roche, E., Gerrienne, P., Hooghiemstra, H., 2008. A pollen-based record of
+lateglacial-Holocene climatic variability on Southern Lake District, Chile. J.
+Paleolimnol. 39, 197–217.
+Veth, P., 1989. Islands in the interior: a model for the colonisation of Australia’s arid
+zone. Archaeol. Oceania 24, 81–92.
+Veth, P.M., 2005. Cycles of aridity and human mobility: risk minimization among
+late Pleistocene foragers of the Western Desert, Australia. In: Veth, P., Smith, M.,
+Hiscock, P. (Eds.), Desert Peoples, Archaeological Perspectives. Blackwell,
+Oxford, pp. 100–115.
+Veth, P., Smith, M., Hiscock, P. (Eds.), 2005. Desert Peoples. Archaeological
+Perspectives. Blackwell Publishing, Oxford.
+Veth, P., Ward, I., Ditchfield, K., 2017. Reconceptualising Last Glacial Maximum
+Discontinuities: a case study from the maritime deserts of north-western
+Australia. J. Anthropol. Archaeol. 46, 82–91.
+Villagrán, C., 1990. Glacial climates and their effects on the history of the vegetation
+of Chile; a synthesis based on palynological evidence from Isla de Chiloe. Rev.
+Palaeobot. Palynol. 65, 17–24.
+Villagrán, C., Hinojosa, L.F., 1997. Historia de los bosques del sur de Sudamérica II:
+análisis biogeogáfico. Rev. Chil. Hist. Nat. 70, 241–267.
+Villagrán, C., Varela, J., 1990. Palynological evidence for increased aridity on the
+central Chilean Coast during the Holocene. Quatern. Res. 34, 198–207.
+Villa-Martínez, R., Villagrán, C., Jenny, B., 2003. The last 7500 cal yr B.P. of westerly
+rainfall in Central Chile inferred from a high-resolution pollen record from
+Laguna Aculeo (34°S). Quatern. Res. 60, 284–293.
+Wang, S., Lewis, C., Jakobsson, M., Ramachandran, S., Ray, N., Bedoya, G., Rojas, W.,
+Parra, M., Molina, J., Gallo, C., Mazzotti, G., Poletti, G., Hill, K., Hurtado, A.,
+Labuda, D., Klitz, W., Barrantes, R., Bortolini, M., Salzano, F., Petzl-Erler, M.,
+Tsuneto, L., Llop, E., Rothhammer, F., Excoffier, L., Feldman, M., Rosenberg, N.,
+Ruiz-Linares, A., 2007. Genetic variation and population structure in Native
+Americans. PLoS Genet. 3, e185.
+Ward, G.K., Wilson, S.R., 1978. Procedures for combining radiocarbon age determinations: a critique. Archaeometry 20, 19–31.
+Whitlock, C., Bianchi, M.M., Bartlein, P.J., Markgraf, V., Marlon, J., Walsh, M., McCoy,
+N., 2006. Postglacial vegetation, climate, and fire history along the east side of
+the Andes (lat 41–42.5°S), Argentina. Quatern. Res. 66, 187–201.
+Wicks, K., Mithen, S., 2014. The impact of the abrupt 8.2 ka cold event on the
+Mesolithic population of western Scotland: a Bayesian chronological analysis
+using ‘activity events’ as a population proxy. J. Archaeol. Sci. 45, 240–269.
+Williams, A.N., 2012. The use of summed radiocarbon probability distributions in
+archaeology: a review of methods. J. Archaeol. Sci. 39, 578–589.
+Williams, A.N., Ulm, S., Cook, A.R., Langley, M.C., Collard, M., 2013. Human refugia in
+Australia during the Last Glacial Maximum and Terminal Pleistocene: a
+geospatial analysis of the 25–12 ka Australian archaeological record. J.
+Archaeol. Sci. 40 (12), 4612–4625.
+Williams, A.N., Veth, P., Steffen, W., Ulm, S., Turney, C.S.M., Phipps, S., Smith, M.,
+Reeves, J., 2015. A continental narrative: human settlement patterns and
+Australasian climate change over the last 35,000 years. Quatern. Sci. Rev. 123,
+91–112.
+Yacobaccio, H.D., 1994. Biomasa animal y consumo en el Pleistoceno-Holoceno
+Surandino. Arqueología 4, 43–71.
+Yacobaccio, H.D., 2004. Social dimensions of camelid domestication in the Southern
+Andes. Anthropozoologica 39, 237–247.
+Yacobaccio, H.D., 2013. Towards a human ecology for the middle Holocene in the
+Southern Puna. Quatern. Int. 307, 24–30.
+Yacobaccio, H.D., Vilá, B., 2013. La domesticación de los camélidos andinos como
+proceso de interacción humana y animal. Intersecciones Antropol. 14, 227–238.
+
+

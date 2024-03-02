@@ -1,0 +1,2123 @@
+Received: 29 August 2016
+
+Revised: 30 July 2017
+
+Accepted: 30 July 2017
+
+DOI: 10.1002/gea.21668
+
+RESEARCH ARTICLE
+
+Fire and collapse: Untangling the formation of destruction
+layers using archaeomagnetism
+Ruth Shahack-Gross1
+Mathilde Forget3
+
+Ron Shaar2
+
+Erez Hassul2
+
+Norbert Nowaczyk4
+
+Yael Ebert2
+
+Shmuel Marco5
+
+Israel Finkelstein6
+
+Amotz Agnon2
+1 Department of Maritime Civilizations,
+
+University of Haifa, Haifa, Israel
+2 Institute of Earth Science, The Hebrew
+
+Abstract
+Historical events are sometimes expressed in destruction layers. We present here a study in which
+
+University of Jerusalem, Jerusalem, Israel
+
+aspects of construction, destruction, and chronostratigraphy of fired mud bricks were explored
+
+3 Fives Machining, Saint Laurent Les Tours,
+
+using archaeomagnetism, infrared spectroscopy, and micromorphology. We measured 88 ori-
+
+France
+
+ented samples mostly collected from one stratum, dated ca. 1000 B.C.E., representing a destroyed
+
+4 GFZ German Research Centre for Geosciences,
+
+Potsdam, Germany
+5 Department of Geophysics, Tel Aviv University,
+
+Tel Aviv, Israel
+6 Institute of Archaeology, Tel Aviv University, Tel
+
+late Canaanite (late Iron Age I) city in Tel Megiddo, Israel. Firing temperatures, evaluated from
+infrared spectroscopy, micromorphology, and high-temperature magnetic susceptibility cycles,
+range between 300◦ C and 800◦ C. Samples studied in one archaeomagnetic site yield a single stable magnetization vector in demagnetization experiments. Archaeomagnetic site means of three
+
+Aviv, Israel
+
+standing walls are grouped near the expected direction of the ancient geomagnetic field. We pro-
+
+Correspondence
+Ruth Shahack-Gross, Department of Maritime
+Civilizations, University of Haifa, Haifa, Israel.
+Emal: rgross@univ.haifa.ac.il
+
+pose that walls in the destruction layer were constructed from sun-dried mud bricks that later
+
+Scientific editing by Rob Sternberg
+
+burned during the destruction. Collapsed bricks and tilted walls show variable directions, diagnostic for the relative timing of collapse and cooling of bricks, during and following the destruction event. In addition, we attempt to assign stratigraphic affiliation based on archaeomagnetic
+considerations to standing walls, which are spatially disconnected from the studied destruction
+layer. Altogether, this study demonstrates the usefulness of archaeomagnetism to understanding
+site formation processes related to fire and destruction.
+KEYWORDS
+
+archaeomagnetism, burnt mud brick walls, FTIR spectroscopy, Megiddo destruction layer, micromorphology
+
+1
+
+INTRODUCTION
+
+inhabitants), there is greater opportunity for reliable interpretation of
+past life ways and intensive research into activity patterns, which can
+
+Destruction of settlements while they are inhabited (rather than after
+
+lead to understanding ancient households and broader economic and
+
+their abandonment) is a phenomenon globally recognized in archaeol-
+
+social patterns (Driessen, 2013; Torrence & Grattan, 2002).
+
+ogy. It is evident on a regional scale as well as on the site level, with
+
+Architectural units in urban centers representing the last 10,000
+
+the latter being especially known in urban centers (Torrence & Grat-
+
+years in the ancient Near East were, in many cases, constructed from
+
+tan, 2002). Among the various causes for destruction, conflagration is
+
+chaff-tempered sun-dried mud bricks. The virtues of this construction
+
+rather well identified, as it produces dramatic field evidence in ancient
+
+material have long been recognized and include its low cost, ease of
+
+settlements (e.g., Regev et al., 2015; Stevanović, 1997; Twiss et al.,
+
+access, ease of manufacture, weather-proofing and insulation quali-
+
+2008). Conflagration events result in destruction layers, often charac-
+
+ties, ability to withstand heavy loads (multiple-storied structures), and
+
+terized by in situ human activity remains mixed with and/or covered by
+
+durability against earthquake shaking (van Beek & van Beek, 2008;
+
+charcoal and ash. This assemblage is typically further covered by a thick
+
+see also Homsher, 2012). Fired mud bricks are also prevalent in Near
+
+layer of architectural collapse. Because such destruction events tend
+
+Eastern mound sites. They often appear in piles or wall segments;
+
+to be rapid, sealing material culture items and features in their place of
+
+common archaeological wisdom takes this to indicate destruction by
+
+production and use (sometimes also including trapped remains of the
+
+fire. Notably, new cities are often constructed above these piles, but
+
+Geoarchaeology. 2018;33:513–528.
+
+wileyonlinelibrary.com/journal/gea
+
+c 2018 Wiley Periodicals, Inc.
+
+
+513
+
+514
+
+evidence for re-use of bricks from destruction levels has not been
+purported.
+Recent experimental research into the effect of fire on mud bricks
+showed that chaff, a common component within sun-dried mud bricks,
+burns when bricks are heated above 400◦ C, elevating temperatures
+within the bricks to as much as 100◦ C above the temperature on
+the outside (Forget et al., 2015). This observation raises the question
+whether sun-dried mud bricks, despite having the many virtues outlined above, may in fact be disadvantageous in case of fire, that is,
+become a death-trap during conflagration events. Forget and ShahackGross (2016) further show that it takes a minimum of 2–3 hours of constant heat, conducted from all directions, to produce homogeneously
+burnt mud bricks. Therefore, the effect of fire on mud brick architectural spaces poses an interesting perspective for understanding the
+inter-relationship between humans and their constructed living space.
+With this information at hand, and assisted with microarchaeological techniques such as infrared spectroscopy that allow assessment of
+burning temperatures from clay minerals, the following two opposing
+interpretations have been suggested for ancient construction technology: (a) homogeneously burnt mud bricks indicate construction with
+pre-fired bricks (e.g., Namdar et al., 2011), or (b) homogeneously burnt
+mud bricks indicate in situ burning of walls composed of sun-dried
+chaff-tempered mud bricks (e.g., Forget et al., 2015). Both these interpretations would be consistent with the data, but up to this point,
+one could not be chosen over the other because systematic geoarchaeological and experimental studies that look into this question
+have only begun in the last several years. Using either one of the two
+interpretations would lead to different historical and anthropological
+implications.
+Considering the first interpretation—construction with pre-fired
+mud bricks—implies that certain archaeological layers interpreted as
+the result of conflagration events may have not been destroyed by fire
+at all. This would further influence the understanding of the level of
+technological skill of these ancient Near Eastern societies, and in turn
+reflect on work organization and human–environment interactions.
+In other words, using pre-fired bricks would indicate high investment
+in brick manufacture technology (unless people re-used fired bricks)
+and an environmental impact such as deforestation due to the need
+for large amounts of fuel material. Also, if evidence for pre-firing
+of bricks is revealed in Bronze and Iron Age layers, it would put the
+appearance of this technology earlier than generally perceived. It is
+noteworthy that despite years of excavations and surveys in the Near
+East, brick kilns dating to the Bronze and Iron Ages have not been
+recorded. According to the second interpretation (the prevalent one
+among Near Eastern archaeologists), whereby construction is with
+sun-dried mud bricks, the implication for the use of technology by
+ancient societies in the Near East would be different, indicating lower
+investment in brick manufacture technology and no environmental
+impact related to fuel requirements. In addition, it would affect the
+understanding about the relationship between destruction layers
+and historical events. Below we present a study that aims to resolve
+the issue of construction technology of bricks using an independent
+method, namely archaeomagnetism.
+
+SHAHACK-GROSS ET AL .
+
+1.1
+
+Archaeomagnetism
+
+Studies of the Earth's ancient magnetic field use a variety of materials, geological and archaeological. The working assumption that underlies archaeomagnetism is that an archaeological artifact can acquire
+a remanent magnetization through cooling after being heated to high
+temperatures, which can be stable over thousands of years. This is
+known as thermoremanent magnetization (TRM), a vectorial property
+of the artifact. Thus, in situ fired archaeological features carry TRM
+pointing to the direction of the ancient geomagnetic field at the time
+of the fire. The direction is expressed in terms of declination (Dec), the
+angle between the horizontal component of the vector and the geographic north, and inclination (Inc), the angle between the vector and
+the horizontal plane.
+The characteristics of TRM relevant to the current study are that (a)
+TRM is proportional and parallel to the ambient field in which it was
+acquired, (b) TRM is the vectorial sum of independent partial TRMs
+acquired at different temperatures termed “blocking temperatures”
+(TB ), (c) a natural material composed of different minerals can have a
+broad spectrum of TB ranging up to the Curie temperature (Tc ) of the
+minerals, (d) partial TRM acquired at TB is erased by re-heating the artifact to equal or higher TB, and (e) TRM might be masked by nonthermal
+remanent magnetization, which we consider noise for the present purpose. Laboratory demagnetization methods are designed to recover
+the declination and inclination of the ancient magnetization by a series
+of demagnetization steps. This procedure sheds light on the processes
+involved in the ancient heating events (Gallet et al., 2009; Goulpeau,
+1994; Hassul et al., in press; Lanos, Kovacheva, & Chauvin, 1999; Shaar
+et al., 2016; Sternberg, 2008; Sternberg & McGuire, 1990; Sternberg
+et al., 1999).
+Burnt structures can theoretically supply human-related information on an archaeological event of destruction by fire. It can potentially
+inform about the method of construction, identify heating events that
+affected the archaeological material (provided that successive heating events occurred with successively lower blocking temperatures,
+below the maximum TB ), and untangle collapse directions of architectonic units. In addition, it can possibly resolve chronostratigraphic
+questions about the association of burnt walls from unclear contexts
+to specific destruction events. For example, Shaffer (1993) conducted
+an archaeomagnetic study to understand the construction and/or collapse of a wattle-and-daub Neolithic structure in Italy. He concluded
+that the structure burnt while walls were completely or partially standing, rather than after complete collapse. This enabled him to dismiss
+the hypothesis that wattle-and-daub Neolithic structures were hardened by fire prior to habitation. Goulpeau (1994) used thermal demagnetization of bricks in a Roman hypocaust to separate the partial TRM
+acquired when the hypocaust was used from the TRM associated with
+the bricks' firing. This enabled spatial reconstructions of temperatures
+and archaeomagnetic dating. One of the case studies in Sternberg et al.
+(1999), who used archaeomagnetism in several Israeli archaeological
+sites, was a fired mud brick from a destruction layer at Tel Miqne. It
+was unclear whether the brick was fired in the find place (i.e., fell and
+then fired) or elsewhere (i.e., fired and then fell). The archaeomagnetic
+analysis showed that the magnetization was acquired while the brick
+
+515
+
+SHAHACK-GROSS ET AL .
+
+cooled down in the find place. Ben-Yosef and Ron (in press) studied
+
+side of the mound (Figure 1b), Late Iron Age I pottery was unearthed
+
+eight mud bricks from burnt and tilted wall segments in a destruction
+
+in association with thick and extensive piles of collapsed reddish
+
+layer in Tel Rehov (Israel), dating to the Iron Age IIA. They identified a
+
+mud bricks. Stratigraphically and ceramically this layer is indicative of
+
+single heating event and concluded that the fire took place during or
+
+Stratum VIA, locally labeled Level Q-7 (Table 1); it has been under
+
+shortly after the tilting occurred.
+
+excavation since 2012. A recent study of scattered reddish mud bricks
+
+Below, we present an archaeomagnetic study of mud bricks and
+
+and a wall segment in Level Q-7 utilized Fourier transform infrared
+
+mud brick wall segments from a well-known destruction event at Tel
+
+spectroscopy (FTIR) and demonstrated that dozens of individual col-
+
+Megiddo (Israel). The analysis was designed to answer archaeological
+
+lapsed mud bricks have been homogeneously heated to roughly 600◦ C,
+
+questions pertaining to construction with mud bricks as well as pat-
+
+whereas mud bricks in the wall segment showed a thermal gradient
+
+terns of architectonic collapse during destruction. In addition, we used
+
+from about 700◦ C to 800◦ C on its edge to less than 500◦ C in its core
+
+archaeomagnetism as a tool to determine the ages of burnt walls with
+
+(Forget et al., 2015). While the evidence from the wall segment seems
+
+unclear stratigraphic affiliation.
+
+to indicate that it was constructed from sun-dried mud bricks that later
+burnt as one unit, the homogeneous heating identified in the scattered
+
+1.2 Case study and research hypotheses: the
+destruction of Stratum VIA at Tel Megiddo, Israel
+
+bricks makes it unclear whether heating occurred before or after construction. The question that arises, therefore, is whether the Late Iron
+Age I city in Megiddo was constructed from sun-dried or pre-fired mud
+
+Tel Megiddo (latitude 32.58◦ N, longitude 35.18◦ E) is one of the most
+
+bricks. This case is therefore ideal to approach through archaeomag-
+
+celebrated mound sites of the ancient world, strategically situated on
+
+netism because of the following reasons:
+
+the most important highway of the Near East, which led from Egypt
+to Mesopotamia and Anatolia (Figure 1a). It features a long history of
+
+a. If walls were constructed from pre-fired bricks (prepared off-site
+
+human occupation, from the 7th or 6th millennium to the second half of
+
+in a kiln, extracted from the kiln and then piled to form a wall) and
+
+the 1st millennium B.C.E. The archaeological site formed by successive
+
+were not heated afterward, we would expect that archaeomagnetic
+
+construction of ancient cities one upon another, each denoted as a stra-
+
+directions from different bricks will be randomly scattered.
+
+tum. The current study focuses on one stratum, dating to the Late Iron
+
+b. If walls were constructed from sun-dried bricks and heated dur-
+
+Age I (late eleventh to early tenth century B.C.E.), labeled Stratum VIA
+
+ing the destruction event, we would expect that all archaeomag-
+
+by the University of Chicago team in the 1930s (Loud, 1948). According
+
+netic directions will roughly point to the reference geomagnetic
+
+to pottery typology and other features of material culture, this stratum
+
+field direction.
+
+accords with the Canaanite tradition of the region in the late second
+millennium B.C.E. (Finkelstein, 2003). Following widespread exposure
+
+c. If walls were constructed from pre-fired bricks and later underwent
+another heating event at a lower temperature below the maximum
+
+of this stratum across the site, it is believed that this ancient Canaanite
+
+unblocking temperature of the material, we would expect to iden-
+
+city experienced a violent and fast destruction (Finkelstein, Ussishkin,
+
+tify two archaeomagnetic components with different directions: a
+
+& Halpern, 2000, 2006, 2013; Harrison, 2004; Lamon & Shipton, 1939;
+
+high blocking temperature component randomly oriented and a low
+
+Loud, 1948; Schumacher, 1908; Zarzecki-Peleg, 2005). This destruc-
+
+blocking temperature component pointing to the reference geo-
+
+tion layer includes vast charred floors, with large amounts of crushed
+
+magnetic field direction.
+
+pottery vessels and other in situ remains, as well as several human
+skeletons trapped below ca. 1-m thick mud brick collapse. A famous
+
+d. If a wall is hot and cooling as it collapses, and then continues to cool
+
+marker of this stratum is the red color of its collapsed debris, inter-
+
+after collapse, the alignment of TRM components in the different
+
+preted to be a result of fierce fire that annihilated the city. The cause
+
+bricks will depend on respective blocking temperatures.
+
+for this destruction has been debated. Two viable explanations prevail.
+One states that the destruction was caused by an earthquake (Cline,
+2011); indeed, the city is situated close to an active tributary fault
+
+2
+
+MATERIALS AND METHODS
+
+of the Dead Sea transform (Marco, 2008; Marco, Agnon, Ussishkin, &
+Finkelstein, 2006). The other states that the devastation was caused
+
+Table 2 lists the sampling locations, termed “archaeomagnetic sites”
+
+during a conquest (Finkelstein, 2009; Finkelstein & Piasetzky, 2009).
+
+hereafter. Sample abbreviations were arbitrarily designated by one
+
+Neither explanation is based on conclusive data, so the force behind
+
+of us (E.H.) during field work. Archaeomagnetic sites from Level Q-7
+
+the city's devastation remains elusive. A short occupational gap seems
+
+include a mud-constructed cooking oven (tabun), an in situ standing
+
+to have followed the destruction of Stratum VIA, based on the fact that
+
+wall consisting of eight burnt mud bricks (of which five were sampled
+
+the next phase of settlement at the site (Stratum VB) is culturally dif-
+
+for archaeomagnetism; MGD-A-E), and six different segments of tilted
+
+ferent, carrying North Israelite characteristics reflected in the ceramic
+
+and collapsed walls found near the standing wall (one to three bricks
+
+traditions (and other traits of material culture) and in the layout of
+
+sampled in each segment). All these were sampled during the 2012 and
+
+the city (Finkelstein, 2009; Harrison, 2004 and references therein; see
+
+2014 excavation seasons from squares I/2 and I/3 over a total area of
+
+Table 1 for further stratigraphic details).
+
+ca. 50 m2 (Figure 2). Two standing walls located outside area Q (labeled
+
+The current excavations at the site are directed by I. Finkelstein,
+
+MGDF and CWV; Figure 1b), unearthed by the Chicago Expedition dur-
+
+M.J. Adams, and M.A.S. Martin. In Area Q, located on the southwestern
+
+ing the 1940s and left on the Tel's surface intact, were sampled as well.
+
+516
+
+SHAHACK-GROSS ET AL .
+
+F I G U R E 1 (a) Map showing the location of Tel Megiddo. (b) An oblique aerial photograph of the southeastern part of the mound looking northwest, showing excavation areas Q and K, the location of excavation squares I/2 and I/3 within Area Q, and the location of two upright standing mud
+brick walls that were sampled outside excavation areas (MGDF and CWV), the chronostratigraphic association of which is uncertain [Color figure
+can be viewed at wileyonlinelibrary.com]
+
+TA B L E 1
+
+Outline of the relative and absolute chronological scheme in Area Q at Tel Megiddo
+
+Stratum
+
+Relative Age
+
+Numerical Age
+
+Level in Area Q
+
+IVA
+
+Iron IIB
+
+Eighth century B.C.E.
+
+Q-2
+
+VA/IVB
+
+Late Iron IIA
+
+First half of ninth century B.C.E.
+
+Q-4
+
+VB/VA-IVB transition
+
+Early/Late Iron IIA transition
+
+ca. 900 B.C.E.
+
+Q-5
+
+VB
+
+Early Iron IIA
+
+Late tenth century B.C.E.
+
+Q-6
+
+VIA
+
+Late Iron I
+
+Late eleventh to early tenth century B.C.E.
+
+Q-7
+
+VIB
+
+Early Iron I
+
+Eleventh century B.C.E.
+
+Q-8
+
+VIIA
+
+Late Bronze III
+
+Twelfth century B.C.E.
+
+Q-9
+
+Stratum relates to the basic nomenclature used by the University of Chicago Expedition (Loud, 1948), indicating site-wide exposure of one ancient city from
+a specific time period. Relative age is estimated based on pottery typology, and numerical age is based on radiocarbon determinations (see references in the
+text). The archaeological levels excavated in Area Q correlate typologically with the site-wide strata, with Level Q-7 being part of the city identified as the
+Late Iron Age I, i.e., Stratum VIA (highlighted in bold).
+
+This was in an attempt to use their magnetic properties as chronos-
+
+Centre Potsdam, GFZ Germany, each equipped with a three-axis
+
+tratigraphic markers or, more specifically, to test whether they may
+
+2G cryogenic magnetometer. Eighty-five samples were demagnetized
+
+also belong to the Stratum VIA destruction event. Figure 3 shows the
+
+under alternating field (AF) in multiple steps at progressively elevated
+
+archaeomagnetic sites as they appeared in the field.
+
+peak fields. In addition, three samples from wall segment MGDF under-
+
+Each archaeomagnetic site was sampled through the collection
+
+went thermal demagnetization (TH) experiments at progressively ele-
+
+of 4–21 oriented samples. Two sites were sampled using an elec-
+
+vated temperature steps up to 590◦ C or until the remanent magne-
+
+trical portable core 1-in. drill (MGD-A-E and MGDF) and Pomeroy
+
+tization was removed. Samples for this analysis were available only
+
+orienting device. All other archaeomagnetic sites were sampled as
+
+from wall MGDF. The magnetization after each step was measured and
+
+separate blocks by marking the orientation and attitude (dip, dip-
+
+plotted on an orthogonal vector end-point Zijderveld plot (Zijderveld,
+
+direction) on flat surfaces before removing the blocks. In the labora-
+
+1967). Best-fit directions were calculated using principal component
+
+tory, the blocks were cut to standard archaeomagnetic size samples
+
+analysis (Kirschvink, 1980). Archaeomagnetic site means were calcu-
+
+(2.2 cm × 2.2 cm × 1.8 cm). A total of 88 samples were prepared and
+
+lated using Fisher statistics (Fisher, 1953). The reliability of the mean
+
+measured.
+
+was evaluated from the precision parameter, k (Fisher, 1953), a mea-
+
+Demagnetization experiments were carried out in the paleomag-
+
+sure of the scatter of the data around the mean, and the 𝛼 95 , the
+
+netic laboratory of the Institute of Earth Sciences, the Hebrew Univer-
+
+95% confidence cone around the mean. Data were analyzed using
+
+sity of Jerusalem, and in the paleomagnetic laboratory in Helmholtz
+
+the Demag-GUI program, part of the PmagPy v.3.9 software package
+
+517
+
+SHAHACK-GROSS ET AL .
+
+TA B L E 2
+
+List of archaeomagnetic sampling sites, with archaeological context, temperature estimation from FTIR analysis, and method of
+
+sampling
+
+Archaeomagnetic
+site
+Location
+
+Description
+
+Position
+
+Temperature
+according to
+FTIR
+spectroscopy
+
+Sampling
+method
+
+MGD-A-E
+
+Area Q, Level Q-7; Square
+I/3; Locus 12/Q/204
+
+Five bricks from a standing
+wall segment
+
+In situ, bricks lie horizontally
+on their wide face
+
+500–600◦ C
+
+Cores
+
+MGD-G
+
+Area Q, Level Q-7; Square
+I/2; Locus 12/Q/184
+
+Single brick
+
+Tilted, not in situ
+
+500–600◦ C
+
+Hand samples
+
+MGD-H-I
+
+Area Q, Level Q-7; Square
+I/2; Locus 12/Q/184
+
+Two bricks from a collapsed
+wall segment
+
+Tilted, not in situ
+
+500–600◦ C
+
+Hand samples
+
+MGD-J
+
+Area Q, Level Q-7; Square
+I/2; Locus 12/Q/184
+
+Single brick
+
+Tilted, not in situ
+
+500–600◦ C
+
+Hand samples
+
+MTQK
+
+Area Q, Level Q-7; Square
+I/2; Locus 12/Q/210
+
+Cooking oven (tabun)
+
+Upright oven walls, in situ
+
+600–700◦ C
+
+Hand samples
+
+IBW
+
+Area Q, Level Q-7; Square
+I/2-3; Locus 14/Q/068
+
+Three bricks from a
+collapsed wall segment
+
+Tilted, not in situ
+
+<500–800◦ C
+
+Hand samples
+
+MCW
+
+Area Q, Level Q-7; Square
+I/2-H/2; Locus 14/Q/056
+
+Three bricks from a
+collapsed wall segment
+
+Tilted, not in situ
+
+700–800◦ C
+
+Hand samples
+
+MGDF
+
+Stratigraphic affiliation is
+unknown
+
+Ten bricks from a standing
+wall outside Area Q
+
+Horizontal, in situ
+
+700–800◦ C
+
+Cores and
+hand samples
+
+CWV
+
+Stratigraphic affiliation is
+unknown
+
+Three bricks from a standing
+wall outside Area Q
+
+Horizontal, in situ
+
+500–600◦ C
+
+Hand samples
+
+F I G U R E 2 Aerial photograph of the southern part of Area Q at the end of the 2014 season, showing excavation squares I/2 and I/3 and the
+paleomagnetic sampling sites specific to the Late Iron Age I destruction at Level Q-7. The flat, lowest levels exposed in the sampled excavation
+squares and those to their east and north, correspond to the floor of Level Q-7 (correlative to the floor of Stratum VIA) [Color figure can be viewed
+at wileyonlinelibrary.com]
+
+(Tauxe et al., 2016). High-temperature susceptibility cycles, an addi-
+
+In order to further understand the material under study, we charac-
+
+tional method that allows estimation of the temperature of the ancient
+
+terized the mud bricks from most archaeomagnetic sites using micro-
+
+heating, was measured on three samples from wall MGDF using an
+
+morphology and determined the temperature range to which the clay
+
+AGICO MFK1 kappabridge with a C4 furnace. Six heating–cooling
+
+minerals within the mud bricks had been exposed, using FTIR spec-
+
+cycles were carried out at progressively elevated peak temperatures,
+
+troscopy. Samples cover the variety of brick colors observed in the
+
+from 200◦ C to 700◦ C in 100◦ C steps, to detect alteration tempera-
+
+field. Samples were analyzed with the KBr FTIR method (Weiner,
+
+tures of the magnetic minerals upon heating. The highest tempera-
+
+2010), using a Nicolet iS5 spectrometer (Thermo Scientific) and Omnic
+
+ture until thermomagnetic curves are still reversible is interpreted as
+
+Software. Spectra were collected between 4000 and 400 cm−1 at
+
+a lower bound of ancient heating temperatures.
+
+4 cm−1 resolution. Data interpretation followed the model presented
+
+518
+
+SHAHACK-GROSS ET AL .
+
+F I G U R E 3 Specific sampling sites. (a) Upright standing wall segment MGD-A-E, noting the five bricks sampled from the base of this wall. (b)
+Upright standing wall segment MGDF. Note the variety of mud brick colors and textures (hence compositions). (c) Collapsed single-brick MGDG after sawing and removing an oriented block sample. Note the heterogeneous composition of the brick. (d) Collapsed wall segment MGD-H-I,
+of which two attached bricks (H and I) have been sampled. (e) Collapsed single-brick MGD-J. (f) Collapsed wall segment IBW. (g) Collapsed wall
+segment MCW. (h) Upright standing wall segment CWV. Scale bar is 20 cm, except for (f) where it is 15 cm [Color figure can be viewed at wileyonlinelibrary.com]
+
+in Forget et al. (2015), showing that infrared analysis of heated calcitic-
+
+3
+
+RESULTS
+
+clay as found in Megiddo's mud bricks makes it possible to determine
+and distinguish between the following heat ranges: below 500◦ C, 500–
+
+3.1
+
+Archaeomagnetic analysis
+
+600◦ C, 700–800◦ C, and above 900◦ C. Blocks of sampled mud bricks
+have been impregnated by polyester resin and prepared as 30-𝜇m thin
+sections at Arizona Quality Thin Sections, Tucson, Arizona. Micromorphological observations were obtained with a Nikon Eclipse 50i POL at
+X2 to X400 magnifications. Descriptions follow Stoops (2003).
+
+Figure 4 shows behaviors in the AF and TH demagnetization experiments (see additional plots in the Supplementary Figure 1). All the
+Zijderveld plots show straight lines converging to the origin. Bestfit lines calculated using at least five points show MAD (maximum
+
+519
+
+SHAHACK-GROSS ET AL .
+
+F I G U R E 4 Representative results of thermal (a, b) and AF (c) demagnetization experiment displayed on an orthogonal vector endpoint Zijderveld
+plot and normalized magnetization versus step. Red circles are declination and blue squares are inclination. All Zijderveld plots show straight lines
+converging to the origin indicating a stable single-component magnetization [Color figure can be viewed at wileyonlinelibrary.com]
+
+TA B L E 3
+
+Archaeomagnetic site means
+
+Archaeomagnetic site
+
+Declination
+
+Inclination
+
+n/n0
+
+𝜶 95
+
+k
+
+MGD-A-E
+
+358
+
+58
+
+14/16
+
+3.4
+
+135
+
+MGD-H-I
+
+353
+
+58
+
+7/9
+
+7.6
+
+75
+
+MGD-J
+
+016
+
+67
+
+4/4
+
+11.5
+
+65
+
+MGDA-E,H-I,J
+
+359
+
+60
+
+25/29
+
+3.4
+
+74
+
+MGD-A-E, H-I
+
+356
+
+58
+
+21/25
+
+3.1
+
+104
+
+MTQK
+
+022
+
+63
+
+5/5
+
+9.0
+
+72
+
+MGDF
+
+013
+
+62
+
+17/19
+
+3.4
+
+112
+
+CWV
+
+349
+
+61
+
+14/16
+
+5.2
+
+58
+
+angular deviation; Kirschvink, 1980) lower than 5◦ , an indication for
+
+mean was larger than 2𝛼95 and/or larger than 15◦ , and (2) a technical
+
+a single stable magnetization vector. A small (<10% of the NRM) low-
+
+difficulty was reported for precisely measuring the field orientation of
+
+temperature secondary component removed under 5 mT or 200◦ C
+
+the sample.
+
+is observed in some samples. We interpret this low-coercivity low-
+
+Figure 4a shows that at least one brick holds TRM that is nearly
+
+temperature component as viscous remanent magnetization (VRM)
+
+entirely erased at 300◦ C. This implies that perhaps the heating was
+
+overprint. In the thermal experiments, the magnetization is almost
+
+lower than 300◦ C. To test this possibility, we gave the samples with the
+
+indicating maximum respec-
+
+low TB a new laboratory TRM in 600◦ C and 50 𝜇T in the z-axis direction
+
+tive blocking temperatures (TB ) (Figure 4a,b). From a total of 88 sam-
+
+of the sample. After measuring the magnetization, we gave the sample
+
+ples, eight were excluded from further analysis (Table 3) on the basis of
+
+a second laboratory TRM at 300◦ C, this time in the x-axis direction.
+
+anomalous outlier directions, most likely caused by unreliable field ori-
+
+We carried out an AF demagnetization sequence, similar to the one
+
+entation measurements or instability of the sampled material. Outlier
+
+shown in Figure 4 to see if we can identify two orthogonal magnetiza-
+
+directions were rejected when the following conditions were met: (1)
+
+tion vectors. The difference between the two TRMs was less than 2%,
+
+the angle between the sample's archaeomagnetic direction and site's
+
+and the AF demagnetization revealed a single component in the x-axis
+
+entirely removed at
+
+300◦ C
+
+or at
+
+590◦ C,
+
+520
+
+SHAHACK-GROSS ET AL .
+
+a)
+
+b)
+
+c)
+
+F I G U R E 5 Equal area projections showing archaeomagnetic directions. (a) All samples from the different walls segments (archaeomagnetic sites)
+in Level Q-7. The ‘x’ shows the geocentric axial dipole (GAD) field direction. Three sites are grouped near the GAD direction indicating that the
+position of the bricks did not change since the last heating. Site means are shown in (b). (c) Archaeomagnetic site mean vectors, with Level Q-7
+represented by “MGD-A-E, H-I” (see text for details), oven MTQK from Level Q-7, and the two walls with unclear stratigraphic association (CWV
+and MGDF). [Color figure can be viewed at wileyonlinelibrary.com]
+
+direction. The results of this experiment indicate that the magnetiza-
+
+MGD-A-E (n = 14, k = 135, 𝛼 95 = 3.4), and 𝛼 95 is lowest when samples
+
+tion of the brick was removed at 300◦ C not because the heating tem-
+
+from MGD-A-E and MGD-H–I are merged into one archaeomagnetic
+
+perature was 300◦ C, but because the maximal TB of the material is
+
+site, labeled “MGD-A-E, H-I,” hereafter (n = 21, k = 104, 𝛼 95 = 3.1). If
+
+300◦ C.
+
+segment MGD-J is added to the site mean calculation (MGDA-E,H-I,J),
+
+Figure 5a shows archaeomagnetic directions of all mud brick
+
+k decreases and 𝛼 95 increases (n = 25, k = 74, 𝛼 95 = 3.4). We therefore
+
+samples collected from Level Q-7, including one standing wall and
+
+conclude that MGD-A-E and MGD-H-I are indistinguishable and con-
+
+several collapsed wall segments. The reference archaeomagnetic
+
+sider the site mean of “MGD-A-E, H-I” as best representing the refer-
+
+direction at the time of the heating is unknown, thus the geocentric
+
+ence geomagnetic field direction at the time of the fire.
+
+axial dipole (GAD) direction (dec =
+
+0◦ ,
+
+inc =
+
+52◦ ),
+
+which represents
+
+Figure 5c shows an equal area projection with four Fisher means
+
+the time-averaged direction is marked “x” and used as the reference
+
+of four archaeomagnetic sites: “MGD-A-E, H-I” (fired wall segments
+
+direction. Samples from MGD-A-E, MGD-H-I, and MGD-J have direc-
+
+in Level Q-7), “MTQK” (cooking oven on the Q-7 floor), “MGDF” and
+
+tions grouped near the GAD direction. Other samples (from MGD-G,
+
+“CWV” (burnt standing wall segments outside area Q with unknown
+
+IBW, and MCW) display a different pattern of scatter that falls outside
+
+stratigraphic affiliation); for field positions, see Figures 1 and 3. The
+
+the expected range of the geomagnetic field direction. Fisher means
+
+overlap of the 𝛼 95 confidence cones of “CWV” and “MGD-A-E, H-I” indi-
+
+of these three sites yield 𝛼 95 > 15 and therefore rejected from further
+
+cates that the heating event of these walls can be contemporaneous.
+
+analyses. These results show that (1) the standing wall (MGD-A-E)
+
+Similarly, the overlap of the 𝛼 95 cones for MGDF and MTQK would be
+
+was most probably heated in the position as it was found, (2) some
+
+consistent with these features having been heated at the same time;
+
+collapsed bricks and wall segments (MGD-H-I, MGD-J) were still
+
+but, given the low number of samples (n = 5) and the high 𝛼 95 of MTQK
+
+hot after they fell, and (3) some collapsed bricks and wall segments
+
+(𝛼 95 = 9◦ ), the archaeomagnetic site mean of MTQK is unreliable and
+
+(MGD-G, IBW, MCW) were heated and cooled down before they fell.
+
+should be taken with caution. The 𝛼 95 confidence cones of “MGD-A-
+
+To best calculate a mean archaeomagnetic direction representing
+
+E, H-I” and CWV do not overlap with that of MGDF, indicating that it is
+
+the geomagnetic field at the time of the fire that engulfed Level Q-7, we
+
+very unlikely that MGDF represents the same age as the other two wall
+
+plot in Figure 5b wall segments with directions grouped near the GAD
+
+segments.
+
+(MGD-A-E, MGD-H-I, MGD-J) and calculate the Fisher statistics of the
+possible combinations from these segments (Table 3). Samples from
+wall segments MGD-A-E and MGD-H-I are clustered together, and the
+
+3.2
+
+Magnetic susceptibility
+
+𝛼 95 cone of the two segments overlap. The four samples from brick
+
+Figure 6 shows high-temperature susceptibility measurements of
+
+MGD-J, however, are more scattered and fall outside the 𝛼 95 cones
+
+three representative samples from wall MGDF. Any difference
+
+of MGD-A-E and MGD-H-I. A comparison of the 𝛼 95 and k calculated
+
+between the heating and the cooling curves would indicate chemical
+
+from these wall segments (Table 3) shows that k is highest for segment
+
+alteration of the magnetic minerals upon heating. All samples show
+
+521
+
+SHAHACK-GROSS ET AL .
+
+Kt
+[E-6]
+-110
+
+Kt
+[E-6]
+-130
+
+MGDF-A
+
+-120
+-130
+
+Kt
+[E-6]
+-135
+
+MGDF-G
+
+-135
+
+-140
+
+-140
+
+-145
+
+-145
+
+-150
+
+-150
+
+-140
+
+-155
+
+-155
+-150
+
+-160
+
+-160
+
+-165
+
+-165
+
+-160
+-170
+-180
+
+-170
+
+-170
+
+-175
+
+-175
+
+-180
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800 T [°C]
+
+MGDF-J
+
+-180
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800 T [°C]
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800 T [°C]
+
+F I G U R E 6 High temperature magnetic susceptibility measured at progressively elevated peak temperature. Sample MGDF-A shows progressive
+alteration, while samples MGDF-G and MGDF-J show light alteration at low temperature and significant increase on cooling from 700◦ C. The
+alteration in the laboratory between 600◦ C to 700◦ C can be attributed to ancient heating temperature below 700◦ C.
+
+perfectly reversible curves, with no alteration upon heating to 200◦ C
+
+rubefied and not all of their voids are infilled with secondary calcite,
+
+and 300◦ C. Sample MGDF-A shows small, gradually increased alter-
+
+suggesting that these bricks have been prepared from materials that
+
+ation from 400◦ to 700◦ C. Samples MGDF-G and MGDF-J show minor
+
+have low amount of primary calcite to begin with (Figure 7e,f).
+
+and insignificant alteration between 400◦
+
+and 600◦ C, but a significant
+
+Mud bricks in the color of light yellow or yellow-white, from
+
+change in susceptibility is observed between 600◦ C and 700◦ C. In all
+
+archaeomagnetic sites MGD-J and MGDF, show the most extreme
+
+three samples, the dominant magnetic remanence carrier is likely to
+
+deviation in structure and composition from unburnt mud bricks.
+
+be magnetite, with Curie temperature of 585◦ C. Overall, differences
+
+Their groundmass is isotropic and secondary calcite is dominant. Voids
+
+in reversibility within this wall segment indicate heterogeneous heat-
+
+are scarce, indicating structural collapse and sintering (Figure 7g,h).
+
+ing of the whole segment or heterogeneous magnetic properties of raw
+
+FTIR analysis of these bricks indicates exposure to temperatures
+
+materials for different bricks.
+
+around 700–800◦ C (Table 2) and a possible formation of new hightemperature mineral phases (yet to be identified).
+
+3.3 Micromorphology and FTIR spectroscopy
+of burnt mud bricks
+
+4
+
+DISCUSSION
+
+Mud bricks in Level Q-7 are composed of a silty-clay soil groundmass
+that includes pedogenic calcite nodules mixed with sand to gravel size
+
+We present here an archaeomagnetic study of mud bricks and wall
+
+particles including carbonaceous rock fragments (chalk and limestone),
+
+segments associated with a massive destruction event that occurred
+
+and occasional flint, basalt, ceramic, slag, bone, and shell fragments.
+
+during the Late Iron Age I in Tel Megiddo. The method is used to
+
+Despite low amounts of bone fragments, their composition includes 2–
+
+reveal the temporal relation between the fire and the collapse in
+
+3% of carbonated hydroxylapatite, a phosphate mineral often found in
+
+an urban context. Also, we use archaeomagnetism to address the
+
+ash waste (Forget et al., 2015).
+
+question whether or not construction methods in Late Iron Age I at
+
+The structure of sun-dried mud bricks is massive, including abun-
+
+Tel Megiddo (Level Q-7) included preheated mud bricks. Although the
+
+dant planar voids, which are pseudomorphic after chaff temper
+
+study is conducted in a specific site in the Near East, its methodological
+
+(Friesem et al., 2014). We observe this structure in black and beige-
+
+implications are global and the approach can be applied at any site
+
+colored mud bricks (Table 4; archaeomagnetic site IBW). The infrared
+
+built from mud bricks across the world.
+
+spectrum obtained from these bricks shows that the clay mineral com-
+
+Field and micromorphological observations show that the Iron Age
+
+ponent is unaffected by heat, that is, these bricks have not been heated
+
+mud bricks under study are heterogeneous, composed of a variety of
+
+above 500◦ C (Table 4; archaeomagnetic site IBW), but may have been
+
+minerals at various grain sizes, as well as rock fragments and remains of
+
+heated to a lower temperature. The groundmass of these mud bricks is
+
+human activity such as ceramics, bones, and slag fragments (Figures 3c
+
+highly birefringent due to the calcitic nature of the parent soil material,
+
+and 7). Based on FTIR analysis, mud bricks have been heated to a range
+
+and primary calcite is abundant (Figure 7a,b).
+
+of temperatures from below 500◦ C to around or above 800◦ C. The
+
+Mud bricks in the colors brown, yellow, and pinkish-red, from
+archaeomagnetic sites IBW, MGD-A-E, and MGD-G, have different
+
+results of this study demonstrate that fired mud brick walls can be valuable in situ archaeomagnetic recorders.
+
+micromorphological properties. Their groundmass is predominantly
+opaque, and there is a mixture of primary and secondary calcite, with
+the latter often found as void infilling (Figure 7c,d). FTIR spectroscopy
+
+4.1
+
+Deciphering the construction method
+
+results suggest that these mud bricks have been fired at a temperature
+
+Distinguishing construction with sun-dried mud bricks from construc-
+
+range of 500–700◦ C (Table 2). Deeply red mud bricks (from archaeo-
+
+tion with pre-fired bricks is fundamental for understanding destruction
+
+magnetic site MGD-J) have also been fired at this temperature range,
+
+events. We address this through reconstruction of brick heating, based
+
+having some primary calcite present; however, their groundmass is
+
+on demagnetization analysis, high-temperature susceptibility cycles,
+
+Bright crystallitic
+
+Yellow
+
+Yellow part
+
+Pinkish-red
+
+12/Q/204 (MGD-A-E)
+
+12/Q/184 (MGD-G)
+
+Bright crystallitic
+
+Isotropic
+
+Bright crystallitic
+
+Isotropic
+
+Isotropic
+
+Bright crystallitic
+
+Bright crystallitic
+
+Few, filled
+
+Many, filled
+
+Few, filled
+
+Few, filled
+
+Many, filled
+
+Few, filled
+
+Many, open
+
+Many, open
+
+Few, open
+
+Few, open and filled
+
+Many, open
+
+Few, filled
+
+Many, open
+
+Few, filled
+
+Few, filled
+
+Planar voidsc
+
+Unaffected; blackened shell; white with high
+relief
+
+Unaffected; blackened shell
+
+Unaffected; blackened shell
+
+White with high relief
+
+Unaffected; blackened shell; white with high
+relief
+
+White with high relief
+
+Unaffected; blackened shell and nodules;
+white with high relief
+
+Unaffected; blackened shell
+
+Unaffected
+
+Unaffected; white with high relief
+
+Unaffected; blackened shell
+
+Unaffected; white with high relief
+
+Unaffected
+
+Unaffected; blackened shell
+
+Blackened nodules; white with high relief
+
+Primary calcite (in XPL)
+
+Collapse of structure, almost no
+voids
+
+Micritic calcite infilling voids; root
+channels
+
+None
+
+Micritic calcite infilling voids
+
+Micritic calcite infilling voids; root
+channels
+
+Collapse of structure, almost no
+voids
+
+Root channels
+
+None
+
+None
+
+Micritic calcite infilling voids
+
+None
+
+Micritic calcite infilling voids
+
+None
+
+Micritic calcite infilling voids
+
+Micritic calcite infilling voids
+
+Pedofeatures
+
+Dull crystallitic: slightly birefringent, i.e., some calcite is present; bright crystallitic: highly birefringent, i.e., groundmass is highly calcitic; isotropic: no birefringence, i.e., no calcite in the groundmass; rubefied: deeply
+red groundmass having high relief.
+c
+Open: clearly visible planar voids without infilling; filled: planar voids sometimes having undulating and diffused edges, filled with secondary calcite.
+Different colors suggest different firing conditions (e.g., temperature, duration, oxygen level) and/or differences in original material composition. Primary carbonates are present in the form of pedogenic calcite
+nodules, chalk, limestone, and aragonitic shell fragments. Secondary calcite is present in the form of micritic calcite in voids, expected to form following re-carbonation after burning at temperatures close to or higher
+than 600◦ C.
+
+b
+
+a Samples from wall MGDF are not associated to Level Q-7.
+
+Yellow-white
+
+Yellow-white
+
+14/Q/089/LB 12, 13
+
+12/Q/205 (MGDF)a
+
+Beige-black
+
+14/Q/068/LB 32 (IBW)
+
+Reddish-brown
+
+Dull crystallitic
+
+Beige
+
+14/Q/068/LB 31 (IBW)
+
+12/Q/184 (MGD-J)
+
+Isotropic
+
+Black
+
+14/Q/068/LB 29 (IBW)
+
+Dull crystallitic
+
+14/Q/068/LB 24, 25 (IBW)
+Rubefied
+
+Brown
+
+Pinkish-red
+
+14/Q/068/LB 27 (IBW)
+
+Isotropic
+
+Black core
+
+Light yellow
+
+Dull crystallitic
+
+Brown inside
+
+14/Q/068/LB 22, 23 (IBW)
+
+Dull crystallitic
+
+Yellow edge
+
+14/Q/056/LB 50 (IBW)
+
+Groundmass b-fabricb
+
+Field color
+
+Micromorphology of mud bricks from Level Q-7a
+
+Sample number
+(archaeomagnetic site)
+
+TA B L E 4
+
+522
+SHAHACK-GROSS ET AL .
+
+SHAHACK-GROSS ET AL .
+
+523
+
+Micromorphological characteristics of mud bricks from Level Q-7. (a) Black mud brick, fired to less than 500◦ C, showing microstructure and groundmass properties similar to that of sun-dried mud bricks, i.e., silty-clay groundmass with open planar voids after chaff temper. Plane
+polarized light (PPL). (b) Same, in crossed polarized light (XPL). Note the highly crystallitic b-fabric. (c) Yellow mud brick, fired at ca. 500–600◦ C,
+PPL. Note the blackened calcite nodule, presence of unaffected calcitic fragments, and open planar voids. (d) Same, in XPL. Note the dull crystallitic
+b-fabric. (e) Red mud brick, fired at ca. 500–600◦ C, PPL. Note the rubefied appearance of the groundmass and presence of open voids. (f) Same,
+in XPL. Note the dull crystallitic b-fabric. (g) Yellow-white mud brick, fired at ca. 700–800◦ C, PPL. Note the shattered appearance of the groundmass. (h) Same, in XPL. Note the isotropic appearance of the groundmass and dominance of secondary calcite infilling voids. The width of view in all
+photomicrographs is 7.2 mm [Color figure can be viewed at wileyonlinelibrary.com]
+FIGURE 7
+
+524
+
+SHAHACK-GROSS ET AL .
+
+clay mineral infrared spectrum, micromorphology, and field observations.
+Demagnetization: If the bricks were pre-fired, and then heated again
+during conflagration to a lower temperature, below the maximal TB of
+the material, we would expect to identify two magnetization vectors
+in the demagnetization experiments pointing to different directions.
+Both the AF and the thermal demagnetizations showed a single magnetization vector in all samples ruling out this option. Thermal demagnetization analysis on one brick from wall MGDF (Figure 5b) indicates
+that this brick was exposed to at least 590◦ C. This puts a lower bound
+for the maximal heating temperature of wall MGDF. Hence, it is possible that the last heating of the bricks exceeded the Curie temperature of magnetite (585◦ C), thus erasing any previous magnetization
+that may have been acquired if pre-firing took place. From FTIR analysis, we infer that other bricks in this wall were heated to temperatures
+near, or even exceeding, the Tc of magnetite. Thus, we suggest that the
+last heating event, during the destruction event, masked potential previous magnetic signal/s. Therefore, in the case of wall MGDF, we cannot
+rule out the possibility that the bricks were pre-fired before they were
+used in construction.
+High-temperature susceptibility: These measurements, also conducted on bricks from wall MGDF, help put an independent bound to
+the temperature mud bricks have been heated to. The difference in
+heating and cooling curves indicates a change in the magnetic mineralogy between 600◦ C and 700◦ C. We suggest that this signal indicates
+that the ancient heating did not surpass 700◦ C.
+FTIR, micromorphology, and field observations: The maximum heat
+reconstructed for wall MGDF using magnetic susceptibility (700◦ C)
+fits well with the reconstruction to a maximum of 700–800◦ C using
+clay mineralogy via FTIR spectroscopy. This is also supported by micromorphological criteria. It is therefore safe to use FTIR and micro-
+
+F I G U R E 8 (a) General view of excavation square I/2 (looking north),
+showing location of archaeomagnetic sites of wall segments. The blackened floor of Level Q-7 can be appreciated, and the placement of the
+mud bricks above the floor, forming the destruction debris. (b) Close
+up on a section through wall IBW, with annotation of the heat (in◦ C)
+recorded by clay minerals via FTIR analysis as well as brick micromorphology. Note the temperature gradient across the wall section and the
+blackened area in its core where heat did not surpass 500◦ C [Color figure can be viewed at wileyonlinelibrary.com]
+
+morphology criteria together with archaeomagnetic direction data to
+understand the method of construction of walls studied in Level Q-7.
+Taken together, based on FTIR and micromorphology, mud bricks
+from the standing in situ wall MGD-A-E have been heated to 500–
+
+the time of the fire in Level Q-7. Directions of samples from collapsed
+
+600◦ C, and all of them have similar archaeomagnetic directions point-
+
+bricks that cluster around this anchor direction indicate that architec-
+
+ing roughly toward the reference geomagnetic field. This indicates that
+
+tonic features burnt following their collapse, while scattered archaeo-
+
+the whole wall was heated as a single unit. The collapsed wall IBW is the
+
+magnetic directions of a certain archaeomagnetic site would indicate
+
+only wall that was studied in section where it was observed that it is
+
+that architectonic features burnt in another position than the one they
+
+composed of a highly fired edge (ca. 700–800◦ C) and a blackened core
+
+are found in. We have examples of both possibilities. Wall segment
+
+that was exposed to temperatures below 500◦ C (Figure 8). Forget et al.
+
+MGD-H-I is composed of two mud bricks that form a part of a tilted (i.e.,
+
+(2015) argued that this pattern too indicates that the wall was heated
+
+collapsed) wall (Figure 3d). The archaeomagnetic directions obtained
+
+as a single unit, and that the temperature gradient indicates construc-
+
+from both mud bricks cluster near those of MGD-A-E. This indicates
+
+tion from sun-dried mud bricks. Together, the data from walls MGD-
+
+that wall segment MGD-H-I cooled down as a single unit, after collaps-
+
+A-E and IBW argue in favor of construction with sun-dried mud bricks,
+
+ing to the position in which it was found during the excavation. Samples
+
+which were then heated after wall construction. This suggestion is sup-
+
+from the single-brick MGD-J show scattered archaeomagnetic direc-
+
+ported by the lack of brick kilns in or outside Megiddo, despite surveys
+
+tions falling close to the “anchor” direction of MGD-A-E, indicating it
+
+and excavations in the area for over a century.
+
+too cooled down in the location it was found in the excavation. The
+bricks from collapsed segments MGD-G, IBW, and MCW show a totally
+
+4.2 Reconstructing directions of architectonic
+collapse
+
+different archaeomagnetic direction, probably indicating that they collapsed after cooling down in another position. Overall, we show here
+evidence for the variety of collapse possibilities during destruction by
+
+The archaeomagnetic site mean of the in situ standing wall segment
+
+fire—walls remaining in place, walls collapsing while hot or first col-
+
+MGD-A-E serves as an “anchor” for the geomagnetic field direction at
+
+lapsing and then burning, and walls burning, cooling down, and then
+
+SHAHACK-GROSS ET AL .
+
+525
+
+F I G U R E 9 Archaeomagnetic dating of wall MGDF using declination (a), and inclination (b) directions obtained from 15 cooking ovens in Tel
+Megiddo (Shaar et al., 2016, Hassul et al., in press) and from Q-7 archaeomagnetic site MGD-A-E, H-I (this study). Vertical dashed lines mark four
+known destruction events in Tel Megiddo. Solid lines show directions in Tel Megiddo calculated from models pfm9k (Green line; Nilsson et al. 2014),
+SHA.DIF.14k (orange line; Pavón-Carraso et al., 2014), and ARCH3k.1 (brown line; Korte et al., 2009). The horizontal gray stripe is the direction of
+MGDF that best matches directions recorded in the Iron Age IIA destruction event. [Color figure can be viewed at wileyonlinelibrary.com]
+
+collapsing. This is a unique contribution to understanding collapse pat-
+
+Age I data for the geomagnetic field during that time window serves
+
+terns in Near Eastern destruction layers.
+
+as a test for the present approach. A robust continuous archaeomagnetic curve for the Levant is not yet in hand. Yet, our on-going
+
+4.3
+
+Archaeomagnetic dating of burnt walls
+
+archaeomagnetic study in Tel Megiddo has yielded so far 15 archaeomagnetic directions that can be used as a basis for dating. Figure 9
+
+Of the three standing walls studied here, only wall MGD-A-E from
+
+shows archaeomagnetic directions obtained from 15 cooking ovens in
+
+Level Q-7 has a well-defined chronological affiliation, that is, the Late
+
+Tel Megiddo (Hassul et al., in press; Shaar et al., 2016) as well as the
+
+Iron Age I (ca. late eleventh to early tenth century B.C.E.). Archaeo-
+
+direction of “MGD-A-E, H-I,” the anchor for Level Q-7 dated to the
+
+magnetism can be used to assign the most likely chronostratigraphic
+
+Late Iron Age I, and directional variations expected in Tel Megiddo
+
+affiliation to the two burnt walls found outside Area Q that were
+
+calculated from three different global geomagnetic models (Korte,
+
+left standing after the 1930s excavations (CWV, MGDF) by compar-
+
+Donadini, & Constable, 2009; Nilsson, Holme, Korte, Suttie, & Hill,
+
+ing their archaeomagnetic data with that available from the region.
+
+2014; Pavón-Carrasco, Osete, Torta, & De Santis, 2014). Because of
+
+The extent to which the TRM of Q-7 MGD-A-E agrees with Late Iron
+
+the low density of the Levantine archaeomagnetic data in the global
+
+526
+
+SHAHACK-GROSS ET AL .
+
+data sets used to construct the above geomagnetic models, all show-
+
+this option unlikely because fuel requirements in a region that is not
+
+ing a smoothed-out behavior, there are differences between the mod-
+
+densely wooded will make this investment economically demanding
+
+els and the Tel Megiddo data. Yet, the models predict quite well the
+
+and environmentally damaging.
+
+trends shown in Tel Megiddo. Figure 9 shows the four known destruc-
+
+From a historical perspective, the cause of destruction of Late Iron
+
+tion events in Tel-Megiddo (Finkelstein & Piasetzky, 2009) as verti-
+
+Age I Megiddo is still debated. While we cannot supply here conclusive
+
+cal dashed lines. We assume that wall MGDF was burnt in one of
+
+evidence to support either destruction by an earthquake or by a con-
+
+these events. By comparing the declination and inclination from MGDF
+
+quest, we assume that a very large amount of combustibles would be
+
+(shown as a horizontal gray stripe in Figure 9) and the available data
+
+required to bake entire walls. Whether these combustibles are present
+
+from Tel Megiddo, we can conclude at a reasonable confidence that
+
+in an inhabited city or brought from the outside specifically to set the
+
+MGDF was heated during the Iron IIA destruction (ca. mid-ninth cen-
+
+city on fire is a question for further research.
+
+tury B.C.E.). However, we stress that more archaeomagnetic data are
+required in order to build a robust data set that could enable a more
+precise and reliable archaeomagnetic dating.
+
+5
+
+CONCLUSION
+
+Wall segment MGDF is found outside Area Q at a topographic elevation that is higher than that of Level Q-7. It has been exposed since
+
+The study demonstrates how archaeomagnetic analysis of fired mud
+
+the excavations conducted by the University of Chicago Expedition
+
+bricks from in situ and collapsed wall segments can contribute to
+
+in the 1930s. Its elevation indeed fits the Iron Age IIA remains exca-
+
+the understanding of ancient construction methods. This analysis also
+
+vated in Area K in its immediate vicinity (Lehmann, Killebrew, & Gadot,
+
+enables reconstruction of the manner by which walls collapse during
+
+2000). The Iron Age IIA settlement represented by Stratum VA-IVB
+
+a conflagration event. Finally, archaeomagnetic analysis proposes that
+
+at Megiddo was at least partially destroyed by fire (Lamon & Ship-
+
+chronostratigraphic correlations may be constrained using burnt walls.
+
+ton, 1939, p. 6, Figure 11, taken ca. 35 m to the north of wall segment
+
+We recommend using multiproxy data, as demonstrated in this study,
+
+MGDF). Thus, the independent archaeomagnetic interpretation of an
+
+to evaluate heating temperatures. We then stress the importance
+
+Iron IIA affiliation for MGDF is in agreement with the archaeological
+
+of working with in situ standing wall segments, preferentially those
+
+site stratigraphy.
+
+cut through so that thermal gradients across walls could be appreci-
+
+Wall segment CWV is found further away from Area Q, also left
+
+ated. On a broader perspective, this study contributes to the grow-
+
+after the excavations carried out by the University of Chicago Expe-
+
+ing tool-kit by which site formation processes can be approached and
+
+dition in the 1930s. It is built over by the city wall of Stratum IVA of
+
+disentangled.
+
+the Iron IIB (first half of the eighth century B.C.E.). The archaeomagnetic directions of mud bricks from this wall (dec = 349, 𝛼 95 = –11,
+inc = 61, 𝛼 95 = 5.2; Table 3) overlap with those of wall segments MGD-
+
+ACKNOWLEDGMENTS
+
+A-E and H-I (Figure 5c), but also marginally overlap with the available
+
+This study was supported by an Israel Science Foundation (Grant No.
+
+declination/inclination data from the four known destruction events in
+
+1181/12 to A. Agnon and Grant No. 463154 to R. Shaar), and a Euro-
+
+Tel-Megiddo (cf., Table 3 and Figure 9). In this case, we cannot safely
+
+pean Research Council Advanced Grant No.229418, titled “Recon-
+
+assign an archaeomagnetic age to this wall.
+
+structing Ancient Israel: The Exact and Life Sciences Perspective,”
+directed by Israel Finkelstein of Tel Aviv University and Steve Weiner
+of the Weizmann Institute of Science (where Ruth Shahack-Gross
+
+4.4
+
+Historical and anthropological implications
+
+acted as the geoarchaeology track leader). FTIR and micromorphol-
+
+The data provided in this article are not merely for methodological
+
+ogy analyses were conducted at the Kimmel Center for Archaeo-
+
+demonstration. Even from this relatively small data set, several imme-
+
+logical Science, Weizmann Institute, Israel. We acknowledge Hillel
+
+diate anthropological inferences can be made. First, we demonstrate
+
+Lachmi and Ittai Eden for collecting the samples and conducting the
+
+(based primarily on field observations, FTIR, and micromorphology)
+
+measurements of wall MGDF, and Kate Raphael, Avishai Abo and
+
+that in all likelihood, the walls in Level Q-7 were constructed using
+
+Eli Ram for dedicated assistance in sampling. We wish to also thank
+
+sun-dried mud bricks. This bears implications for the level of labor
+
+two anonymous reviewers and the associate editor who handled this
+
+organization associated with construction at this Late Iron Age I city,
+
+manuscript for their thoughtful comments that helped us improve this
+
+as it required less effort and organizational skills than in the case of
+
+work.
+
+mass production of pre-fired mud bricks. The latter requires skilled
+personnel not only in the preparation of bricks but also in construction and use of brick kilns. Moreover, operation of brick kilns for the
+
+ORCID
+Ruth Shahack-Gross
+
+http://orcid.org/0000-0001-8085-9381
+
+mass production of mud bricks would require large amounts of fuel,
+which arguably would have severe effects on the environment. As mentioned above, currently there is no evidence for brick kilns—of any
+period—in the region. It is possible to explain the results in this study as
+construction with sun-dried mud bricks and purposeful firing of walls
+before habitation (rather than destruction by fire); however, we find
+
+REFERENCES
+Ben-Yosef, E., & Ron, H. (in press). Reconstructing a seismic destruction at
+Tel Rehov: Insights from a paleomagnetic fold test on tilted walls in Area
+C, Stratum V. In A. Mazar & N. Panitz-Cohen (Eds.), The Excavations at Tel
+
+527
+
+SHAHACK-GROSS ET AL .
+
+Rehov 1997–2012 (Qedem Monographs Series). Jerusalem: Institute of
+Archaeology, The Hebrew University of Jerusalem.
+Cline, E. H. (2011). Whole lotta shakin’ going on: The possible destruction by earthquake of Stratum VIA at Megiddo. In I. Finkelstein &
+N. Na'aman (Eds.), The Fire Signals of Lachish: Studies in the Archaeology and History of Israel in the Late Bronze Age, Iron Age, and Persian
+Period in honor of David Ussishkin (pp. 55–70). Winona Lake, Indiana:
+Eisenbrauns.
+Driessen, J. (2013). Destruction: Archaeological, philological and historical perspectives. Louvain-la-Neuve: Presses universitaires de Louvain.
+Finkelstein, I. (2003). City states and states: Polity dynamics in the 10th–
+9th centuries B.C.E. In W. G. Dever & S. Gitin (Eds.), Symbiosis, symbolism
+and the power of the past: Canaan, Ancient Israel, and their neighbors (pp.
+75–83). Winona Lake, Indiana: Eisenbrauns.
+Finkelstein, I. (2009). Destructions: Megiddo as a case study. In D. J. Schloen
+(Ed.), Exploring the Longue Durée: Essays in honor of Lawrence E. Stager (pp.
+113–126). Winnona Lake, Indiana: Eisenbrauns.
+Finkelstein, I., & Piasetzky, E. (2009). Radiocarbon-dated destruction layers: A skeleton for Iron Age chronology in the Levant. Oxford Journal of
+Archaeology, 28, 255–274.
+Finkelstein, I., Ussishkin, D., & Halpern, B. (2000). Megiddo III. Tel-Aviv:
+Monograph Series of the Institute of Archaeology Tel-Aviv, Tel-Aviv University.
+
+Korte, M., Donadini, F., & Constable, C. G. (2009). Geomagnetic field for 0–
+3 ka: 2. A new series of time-varying global models. Geochemistry, Geophysics, Geosystems, 10, Q06008. doi: 10.1029/2008GC002297
+Lamon, R., & Shipton, G. (1939). Megiddo I: Seasons of 1925–34, Strata I-V.
+Chicago: Oriental Institute Publications: University of Chicago Press.
+Lanos, P., Kovacheva, M., & Chauvin, A. (1999). Archaeomagnetism, methodology and applications: Implementation and practice of the archeomagnetic method in France and Bulgaria. European Journal of Archaeology,
+2(3), 365–392.
+Lehmann, G., Killebrew, A., & Gadot, Y. (2000). In K. Area, I. Finkelstein, D. Ussishkin, & B. Halpern, & (Eds.), Megiddo III (pp. 123–139).
+Tel-Aviv: Monograph Series of the Institute of Archaeology, Tel-Aviv
+University.
+Loud, G. (1948). Megiddo II: Season of 1935–1939. Chicago: Oriental Institute Publications.
+Marco, S. (2008). Recognition of earthquake-related damage in archaeological sites: Examples from the Dead Sea fault zone. Tectonophysics, 453,
+148–156.
+Marco, S., Agnon, A., Ussishkin, D., & Finkelstein, I. (2006). Megiddo earthquakes. In I. Finkelstein, D. Ussishkin, & B. Halpern (Eds.), Megiddo IV (pp.
+568–575). Tel-Aviv: Monograph Series of the Institute of Archaeology,
+Tel-Aviv University.
+
+Finkelstein, I., Ussishkin, D., & Halpern, B. (2006). Megiddo IV: The 1998–
+2002 Seasons. Tel Aviv: Monograph Series of the Institute of Archaeology Tel-Aviv, Tel-Aviv University.
+
+Namdar, D., Zukerman, A., Maeir, A. M., Katz, J. C., Cabanes, D., Trueman,
+C., … Weiner, S. (2011). The 9th century BCE destruction layer at Tell
+es-Safi/Gath, Israel: Integrating macro- and microarchaeology. Journal
+of Archaeological Science, 38, 3471–3482.
+
+Finkelstein, I., Ussishkin, D., & Cline, E. H. (2013). Megiddo V: The 2004–2008
+Seasons. Tel Aviv: Monograph Series of the Institute of Archaeology, Tel
+Aviv University.
+
+Nilsson, A., Holme, R., Korte, M., Suttie, N., & Hill, M. (2014). Reconstructing
+Holocene geomagnetic field variation: New methods, models and implications. Geophysical Journal International, 198, 229–248.
+
+Fisher, R. (1953). Dispersion on a sphere. Proceedings of the Royal Society of
+London, 217A, 295–305.
+
+Pavón-Carrasco, F. J., Osete, M. L., Torta, J. M., & De Santis, A. (2014).
+A geomagnetic field model for the Holocene based on archaeomagnetic and lava flow data. Earth and Planetary Science Letters, 388, 98–
+109.
+
+Forget, M., Regev, L., Friesem, D., & Shahack-Gross, R. (2015). Physical and mineralogical properties of experimentally heated sun-dried
+mud bricks: Implications for reconstruction of environmental factors influencing the appearance of mud bricks in archaeological
+conflagration events. Journal of Archaeological Science: Reports, 2,
+80–93.
+Forget, M., & Shahack-Gross, R. (2016). How long does it take to burn down
+an ancient Near Eastern City? Antiquity, 90, 1213–1225.
+Friesem, D., Karkanas, P., Tsartsidou, G., & Shahack-Gross, R. (2014). Where
+are the roofs? A geo-ethnoarchaeological study towards the identification of roofs in the archaeological record. Archaeological and Anthropological Sciences, 6, 73–92.
+
+Regev, L., Cabanes, D., Homsher, R., Kleiman, A., Weiner, S., Finkelstein, I., &
+Shahack-Gross, R. (2015). Geoarchaeological investigation in a domestic Iron Age quarter, Tel Megiddo, Israel. Bulletin of the American Schools
+for Oriental Research, 374, 135–157.
+Schumacher, G. (1908). Tell el-Mutesellim I. Leipzig: Haupt.
+Shaar, R., Tauxe, L., Ron, H., Ebert, Y., Zuckerman, S., Finkelstein, I., & Agnon,
+A. (2016). Large geomagnetic field anomalies revealed in Bronze to Iron
+Age archeomagnetic data from Tel Megiddo and Tel Hazor, Israel. Earth
+and Planetary Science Letters, 442, 173–185.
+Shaffer, G. D. (1993). An archaeomagnetic study of a wattle and daub building collapse. Journal of Field Archaeology, 20, 59–75.
+
+Gallet, Y., Genevey, A., Le Goff, M., Warmé, N., Gran-Aymerich, J., & Lefèvre,
+A. (2009). On the use of archeology in geomagnetism, and vice-versa:
+Recent developments in archeomagnetism. Comptes Rendus Physique,
+10(7)630–648.
+
+Stevanović, M. (1997). The age of clay: The social dynamics of house
+destruction. Journal of Anthropological Archaeology, 16, 334–395.
+
+Goulpeau, L. (1994). Analyse archéomagnétique de structures en
+hypocauste. Revue d'archéométrie, 18(1), 43–51.
+
+Sternberg, R. S., & McGuire, R. H. (1990). Techniques for constructing secular variation curves and for interpreting archaeomagnetic dates. In J. L.
+Eighmy & R. S. Sternberg (Eds.), Archaeomagnetic dating (pp. 109–134).
+Tucson: University of Arizona Press.
+
+Harrison, T. P. (2004). Megiddo 3: Final Report on the Stratum VI Excavations.
+Chicago: Oriental Institute Publications.
+Hassul, E., Shaar, R., Shahack-Gross, R., Nowaczyk, N., Finkelstein, I., &
+Agnon, A. (in press). Archaeomagnetic directions from burnt structures
+in Tel Megiddo. In I. Finkelstein & E. H. Cline (Eds.), Megiddo VI. Tel Aviv:
+Monograph Series of the Institute of Archaeology, Tel-Aviv University.
+
+Sternberg, R. S., Lass, E., Marion, E., Katari, K., & Holbrook, M. (1999).
+Anomalous archaeomagnetic directions and site formation processes at
+archaeological sites in Israel. Geoarchaeology, 14(5), 415–439.
+Sternberg, R. S. (2008). Archaeomagnetism in archaeometry—A semicentennial review. Archaeometry, 50(6), 983–998.
+
+Homsher, R. S. (2012). Mud bricks and the process of construction in the
+Middle Bronze Age southern Levant. Bulletin of the American Schools of
+Oriental Research, 368, 1–27.
+
+Stoops, G. (2003). Guidelines for analysis and description of soil and regolith thin
+sections. Madison, Wisconsin: Soil Science Society of America Inc.
+
+Kirschvink, J. L. (1980). The least-squares line and plane and the analysis of
+palaeomagnetic data. Geophysical Journal International, 62, 699–718.
+
+Tauxe, L., Shaar, R., Jonestrask, L., Swanson-Hysell, N. L., Minnett, R., Koppers, A. A. P., … Fairchild, L. (2016). PmagPy: Software package for
+paleomagnetic data analysis and a bridge to the Magnetics Information
+
+528
+
+SHAHACK-GROSS ET AL .
+
+Consortium (MagIC) Database. Geochemistry, Geophysics, Geosystems,
+17, 2450–2463.
+
+rary sites in Northern Israel (Unpublished doctoral dissertation). The
+Hebrew University of Jerusalem, Jerusalem, Israel (in Hebrew).
+
+Torrence, R., & Grattan, J. (2002). The archaeology of disasters: Past and
+future trends. In R. Torrence & J. Grattan (Eds.), Natural disasters and cultural change (pp. 1–18). London: Routledge.
+
+Zijderveld, J. D. A. (1967). A.C. demagnetization of rocks: Analysis of results.
+In D. W. Collinson, K. M. Creer, & S. K. Runcorn (Eds.), Methods in palaeomagnetism (pp. 254–286). New York: Elsevier.
+
+Twiss, K. C., Bogaard, A., Bogdan, D., Carter, T., Charles, M. P., Farid, S.,
+… Yeomans, L. (2008). Arson or accident? The burning of a Neolithic
+house at Çatalhöyük, Turkey. Journal of Field Archaeology, 33, 41–
+57.
+Van Beek, G. W., & Van Beek, O. (2008). Glorious mud! Ancient and contemporary earthen design and construction in North Africa, Western Europe, the
+Near East, and Southwest Asia. Washington, DC: Smithsonian Institute
+Scholarly.
+Weiner, S. (2010). Microarchaeology: Beyond the visible archaeological record.
+Cambridge: Cambridge University Press.
+Zarzecki-Peleg, A. (2005). Tel Megiddo during the Iron Age I and IIA-IIB:
+The excavations of the Yadin Expedition to Megiddo and their contribution for comprehending the history of this site and other contempo-
+
+SUPPORTING INFORMATION
+Additional Supporting Information may be found online in the supporting information tab for this article.
+
+How to cite this article: Shahack-Gross R, Shaar R, Hassul E,
+et al. Fire and collapse: untangling the formation of destruction layers using archaeomagnetism. Geoarchaeology.
+2018;33:513–528. https://doi.org/10.1002/gea.21668
+
+

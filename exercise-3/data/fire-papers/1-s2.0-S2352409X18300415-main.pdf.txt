@@ -1,0 +1,631 @@
+Journal of Archaeological Science: Reports 20 (2018) 192–199
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science: Reports
+journal homepage: www.elsevier.com/locate/jasrep
+
+Some problems with modelling the positions of prehistoric hunter-gatherer
+settlements on the basis of landscape topography
+
+T
+
+Ole Grøn
+A B S T R A C T
+
+This paper discusses a couple of basic methodological problems inherent in predictive modelling as used today in
+mapping the location of Stone Age settlements based solely on landscape topography/bathymetry. It argues that
+the modelling approach employed is based on elements adopted from a type of landscape ecology that was
+abandoned more than 20 years ago, because it was unable to produce reasonable results, and that it can be
+diﬃcult to develop prediction methodology based on the present understanding of landscape ecology as being
+extremely complex and dynamic. Furthermore, it maintains that the modelling approach currently employed in
+Stone Age archaeology is based on assumptions about prehistoric resource-strategic behaviour that are simplistic
+and out of tune with what we now know. It therefore questions whether it is possible to develop a precise and
+eﬃcient predictive procedure for modelling the locations of Stone Age sites.
+
+1. Introduction
+Tthe use of topographical/bathymetric predictive modelling for
+mapping prehistoric, i.e. Stone Age, hunter-gatherer settlements on
+land and under water is seeing increasing application in both Cultural
+Heritage management and research (Benjamin, 2010; Chang-Martínez
+et al., 2015; Fischer, 2004; Fitch et al., 2007; Kamermans et al., 2009).
+This is being undertaken in ways that prompt concern, because they
+often focus exclusively on the topography/bathymetry of the prehistoric landscape surface, while ignoring the importance of the spatial
+conﬁguration of the prehistoric vegetation. In landscape ecology, it is a
+well-established fact that the vegetation on land, as well as in marine
+areas, tends to form dynamic mosaics that inﬂuence small-scale animal
+and human behaviour and thereby lead to signiﬁcant variation in the
+cultural spatial behaviour over time (Bjørnstad et al., 1999; Bode &
+Possingham, 2005; Grøn, 2012; Odum & Barrett, 2005, 246–255;
+Turner & Gardner, 2015; Vandermeer, 2006; Levin et al., 1993, 50–60,
+70–89, 277–304; Mustamäki et al., 2015; Lewis et al., 2013; Warden
+et al., 2017) (Fig. 1). A further problem is that this type of modelling is
+often based on simplistic and general assumptions about how huntergatherers place their settlements in the landscape. These ignore both
+archaeological and ethnoarchaeological evidence, which reveals signiﬁcant deviations from some of these assumptions and demonstrates
+that diﬀerent hunter-gatherer cultures can behave diﬀerently in similar
+landscapes, and that even individual groups can display signiﬁcant
+behavioural diﬀerences (Vandermeer, 2006; Gross et al., 2018).
+The incorporation of landscape ecology and realistic hunter-gatherer behavioural variation into archaeological predictive modelling of
+
+E-mail addresses: olegron111@gmail.com, og@ign.ku.dk.
+https://doi.org/10.1016/j.jasrep.2018.04.034
+Received 24 January 2018; Received in revised form 24 April 2018; Accepted 30 April 2018
+
+Available online 09 May 2018
+2352-409X/ © 2018 Elsevier Ltd. All rights reserved.
+
+settlement distribution in the landscape renders the discipline more
+complicated, both theoretically and practically. On the other hand, it
+introduces a realistic relationship to the real world. One can only guess
+why archaeology has been allowed to pick the simple and easy-tohandle modelling principles, while ignoring the more diﬃcult ones, in
+its attempts to develop fast and cheap ‘desktop’ approaches to the
+mapping of Stone Age settlements. The aim of this paper is to demonstrate how poorly the hitherto applied type of modelling ﬁts with the
+variations evident in hunter-gatherer settlement behaviour, thereby
+underpinning the importance of developing new methodologies for either better predictive modelling or, alternatively, direct physical detection of Stone Age settlements.
+2. The landscape concept in hunter-gatherer archaeology
+In archaeological circles, the characteristics of the landscapes lived
+in and used by prehistoric hunter-gatherers are generally conceived as
+congruent with a landscape concept that was abandoned by landscape
+ecology in the mid-1990s (Hansson et al., 1995):
+A marked change has occurred recently within the science of ecology.
+Previously, ecological processes commonly were assumed to proceed
+within homogeneous environments, and usually within populations of
+randomly distributed individuals. Recently it has been widely recognized
+that environments are not homogeneous, and organisms are usually
+clumped into patchy populations, and that this heterogeneity has signiﬁcant eﬀects on ecological processes.
+This means that landscapes should basically be understood as
+
+Journal of Archaeological Science: Reports 20 (2018) 192–199
+
+O. Grøn
+
+Fig. 1. Map showing the ﬁre intervals for diﬀerent types of wildﬁres in USA (Wiens, 1995).
+
+Fig. 2. Landscape mosaic in Siberia covering an area of 65 × 35 km with its centre located at 544106E 7283045N UTM zone 49W. Several black burnt patches from
+wildﬁres can be seen.
+Google Earth.
+
+193
+
+Journal of Archaeological Science: Reports 20 (2018) 192–199
+
+O. Grøn
+
+heterogeneous mosaics composed of patchworks of concentrations of
+various plant (grasses, herbs, shrubs and trees) and animal (insects,
+reptiles, amphibians, ﬁshes, birds, mammal etc.) communities (Odum &
+Barrett, 2005, 375–411; Turner & Gardner, 2015, 175–228; Warden
+et al., 2017).
+While archaeological landscape modelling is based on the concept
+of rather stable landscapes, landscape ecology operates with highly
+dynamic landscapes, in which the diﬀerent parts of the mosaics asynchronously progress through the diﬀerent phases of individual ‘ecological successions’, from burnt patches to climax vegetation, if they
+manage this before being burnt down once again. While the horizontal
+diﬀerentiation of species in the landscape into mosaics may be due to
+variations in geochemistry, moisture, air movements, shade/sun exposure, epidemics, storm damage etc., important drivers for terrestrial
+and marine dynamics are regularly occurring wildﬁres and redeposition
+of sea-ﬂoor sediments by currents and storms (Odum & Barrett, 2005,
+194–199; Belsky, 1995; Lundquist et al., 2013) (Fig. 1). There are different types of wildﬁres – ground ﬁres, surface ﬁres, sub-canopy ﬁres
+and crown ﬁres. These can occur in diﬀerent combinations and at different intervals, as well as with diﬀerent types of spread patterns, depending on vegetation type, wind, moisture, slope etc., which have
+diﬀerent eﬀects on the landscape (Turner & Gardner, 2015, 175–228;
+Saito, 2001; Sommers et al., 2011: 29; Weber, 2001).
+Wildﬁres alone, independent of other factors, will in the most cases
+be able to generate a landscape complexity and dynamics that make it
+impossible to reconstruct in suﬃcient detail the prehistoric vegetation
+and the consequent faunal and human spatial patterns. Alone the task of
+identifying and dating, in relation to archaeological features, the many
+signiﬁcant vegetation changes caused by wildﬁres, which in some areas
+can occur as often as every 30–40 years (Wiens, 1995; Brown & Smith,
+2000) (Figs. 1, 2), would be an extremely diﬃcult task. Even though
+some modelling approaches include vegetational data at a basic and
+general level, they will tend to lack a signiﬁcant part of the picture
+necessary for mapping the Stone Age sites (Chang-Martínez et al., 2015;
+Jasiewicz & Sobkowiak-Tabaka, 2015).
+A further consequence of recent developments in landscape ecology
+is that approaches to studies of prehistoric resources, such as the archaeological site-catchment analysis, must be regarded as outdated.
+This is based on assumptions of an even distribution of stable resources
+in the prehistoric landscape, which belongs to an earlier generation of
+landscape ecology. Subsequent attempts to update this approach by
+integrating it into the application of GIS techniques does not solve the
+basic problem of establishing a suﬃciently precise spatio-temporal
+environmental framework (Hunt, 1992; Jarman et al., 1972).
+
+Fig. 3. The ﬁshing-site model's assumed typical settlement positions for prehistoric hunters utilising marine resources (Fischer, 2004).
+
+sites. Experience demonstrates that it identiﬁes zones where Stone Age
+sites appear on the basis of very basic topographical assumptions, while
+no attempts have been made to demonstrate that other topographical
+situations, which the approach ignores, did not similarly attract Stone
+Age settlement (Fischer, 1993; Fischer, 2007).
+Topographical positions where Stone Age sites appear to be concentrated on the surface may well reﬂect the fact that some types of
+location actively promote exposure of observable Stone Age material,
+whereas others, for instance in areas where sediments accumulate, do
+not. Proper testing of the ‘null-hypothesis’, that Stone Age sites are
+randomly distributed in the landscape, can therefore be problematic,
+even in relatively uncomplicated topographical modelling approaches.
+In the case of the ﬁshing-site model it is, however, possible to evaluate
+its validity.
+Analyses of the distribution of Late Mesolithic coastal settlements in
+a couple of well-surveyed areas, where these sites can be recorded
+today in relation to their contemporaneous shoreline, which matches or
+is above present sea level, produce a picture that deviates signiﬁcantly
+from the one postulated by the model. In the Karrebæksminde Fjord
+system, some of the settlements are located in accordance with the
+model, but the majority is not (Figs. 3, 4) (Johansson, 1999; Johansson,
+2006). Analysis of the positions of Mesolithic and Neolithic shell middens, relative to the former coastline, in the well-surveyed Limfjord
+area, northern Jutland, gives a similar result (Figs. 3, 5) (Jensen, 2001:
+157). In both cases, a signiﬁcant number of sites are found along the
+sides as well as near the head of inlets, i.e. positions that are not
+
+3. Hunter-gatherer landscape behaviour – in archaeology
+Apart from the diﬃculties associated with temporal-spatial reconstruction of the prehistoric environment in suﬃcient detail to
+permit identiﬁcation of optimal settlement locations, another serious
+problem is that our perception of what the prehistoric hunting-gatherer
+cultures regarded as good/optimal settlement locations often diﬀers, in
+some cases signiﬁcantly, from the types of locations in which they actually placed their settlements.
+One example is the so-called Danish ﬁshing-site model, which postulates that sites exploiting marine resources will be placed on the coast
+in immediate proximity to topographical positions where these resources appear/pass by in larger concentrations (Fig. 3). This model is
+interesting because, since it was introduced by the Danish Agency for
+Culture, it has been accepted worldwide as an eﬀective method for
+mapping submerged Stone Age sites, which would be diﬃcult and expensive to locate in other ways (Benjamin, 2010; Fischer, 2004). It is
+also rather uncomplicated and typically representative for the types of
+modelling that focus solely on topography and ignore other landscape
+ecological factors. Strikingly, however, its validity has never been demonstrated through systematic analysis of a representative sample of
+194
+
+Journal of Archaeological Science: Reports 20 (2018) 192–199
+
+O. Grøn
+
+Fig. 4. The Karrebækminde Fjord system showing recorded Late Mesolithic sites. The size of the red dots signiﬁes the number of ﬂake axes found on the sites and
+thereby serves as an indication of the site's size (Johansson, 2006). (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the
+web version of this article.)
+
+transported quite a distance to the sites (van Andel & Lianos, 1984;
+Arias et al., 2009; Colonese et al., 2011; Gutiérrez-Zugasti et al., 2011;
+Haws et al., 2011; Habu et al., 2011; Orquera et al., 2011; Rabett et al.,
+2001; Saunders & Russo, 2011; Szabo & Amesbury, 2011; Wagner et al.,
+2011; Degerbøl, 1943; Noe-Nygaard, 1971). One implicit, and possibly
+erroneous, assumption underlying the ﬁshing-site model is the idea that
+when groups utilised marine resources, these played a major role in
+their subsistence economy. Even though the remains of molluscs can be
+highly conspicuous in archaeological contexts, especially when piled up
+into shell middens, marine resources may, in some cases, represent only
+a minor supplement to the main economic base, and the settlements
+may have been located optimally in relation to the most important
+terrestrial resources (Colonese et al., 2011; Gutiérrez-Zugasti et al.,
+2011; Orquera et al., 2011; Saunders & Russo, 2011). Taking account in
+predictive modelling of the considerable variation in the weighting of
+various resource types would, however, lead to a very complex procedure without solving the problem of high-resolution vegetation dynamics.
+A well-documented archaeological example of how diﬀerent cultures employ diﬀerent resource strategies and, accordingly, have
+
+predicted by the model.
+Analysis of available Danish maritime archaeological survey reports
+up to 2015 shows that systematic survey of a total of 316.9 km2, based
+on the ﬁshing-site model, has led to the recording of 15 ‘new’ Stone Age
+sites (=0.05 per km2). Random recording on land of a total of
+2192.7 km2 in several selected Danish counties has led to the recording
+of 3258 Stone Age sites (=1.48 per km2). Systematic surface survey on
+land of a total of 33.8 km2 in two areas on Zealand, Denmark, has led to
+the recording of 291 Stone Age sites (=8.61 per km2). Therefore, the
+density of submerged Stone Age sites recorded during systematic survey
+in accordance with the ﬁshing-site model represents 0.6% of the density
+of Stone Age sites recorded on land during systematic surface survey
+(Grøn, 2015).
+Even though it can be debated whether the 0.6% should be adjusted
+slightly upwards, the results outlined above indicate indisputably that
+something must be wrong with the basic ‘topographical’ assumptions
+behind the ﬁshing-site model. Results from many parts of the world
+show that Mesolithic and Upper Palaeolithic settlements exploiting
+marine resources can be located several kilometres inland from contemporaneous coastlines, such that marine resources had to be
+195
+
+Journal of Archaeological Science: Reports 20 (2018) 192–199
+
+O. Grøn
+
+Fig. 5. The Limfjord showing the locations of with Mesolithic and Neolithic shell middens (Jensen, 2001: 157).
+
+As far back as the 1970s, pollen analysts suggested, with only limited archaeological response, that some of the wildﬁres they were able
+to trace in the peat cores they studied appeared to be anthropogenic in
+origin. They were though unable to provide conclusive evidence for this
+interpretation due to restrictions imposed by the temporal resolution
+they were able to attain. Recently, more convincing evidence has appeared in support of this point of view (Innes et al., 2004; Selsing, 2016;
+Simmons, 1975; Simmons, 1996).
+
+diﬀerent settlement patterns, is provided by the appearance of the
+Thule culture in Alaska around 900 CE. This culture based its subsistence on much broader exploitation of the available maritime resources, and the employment of a wider range of hunting techniques,
+than the earlier Birknirk/Norton cultures in the area. The Thule culture
+appears to represent a strategic shift from hunting of larger pods of
+whales, which was only possible in a few coastal locations, to the targeting of single individuals, such as bowhead whales, by smaller highly
+mobile crews in the open sea. Blubber lamps were introduced as a
+heating source, supplementing wood-ﬁred hearths. This new resource
+strategy is consistent with a shift from relatively few larger villages to a
+greater number of smaller settlements. The Thule culture's rapid spread
+as a replacement for the Dorset culture in large parts of Canada around
+1000 CE, and to Greenland in 1200 CE, most likely reﬂects the fact that
+it was highly successful (Gulløv, 2004: 178–179, 283–343; McGhee,
+1984). This example is interesting because it involves the development
+of a new and apparently superior strategy for resource exploitation,
+accompanied by a new and signiﬁcantly diﬀerent settlement pattern
+within a restricted time interval. It concurs with Murray's central conclusion about the economies of the Palaeoeskimo cultures of the Foxe
+Basin, Canada (Murray, 1996):
+
+4. Hunter-gatherer landscape behaviour – in ethnoarchaeology
+and social anthropology
+While the archaeological data can demonstrate clear deviations
+from simpliﬁed model patterns, observations from ethnoarchaeology
+and social anthropology can provide a better understanding of the
+cultural-ideological diﬀerences behind such pattern variations. One
+example of how ideological diﬀerences result in variations in settlement
+patterns in quite similar environments is evident from two huntergatherer cultures: the Evenk (Siberia) and the Mistissini Iinuu (formerly
+the Mistassini Cree) (Canada). The Evenk drink melted snow in winter
+and maintain that they prefer its taste to that of unfrozen water from
+rivers and lakes, which must be obtained through an often quite thick
+layer of ice. In contrast, the Mistissini Iinuu are forbidden to drink
+melted snow and ice and must therefore obtain unfrozen water through
+holes in the ice all winter. As a consequence, the Mistassini winter
+camps are always located immediately adjacent to lakes or rivers, while
+the Evenk winter sites and winter hunting cabins can be up to 5 km
+from the nearest water body (Grøn, 2012; Tanner personal communication).
+The Evenk also identify cold valleys with little wind, where the cold
+air accumulates on their ﬂoors, and they place their winter settlements
+relatively high up the mountain sides and in warmer valleys, where
+downdraughts level out the temperature diﬀerences so that the dwellings can be placed somewhat lower. The crucial factor is, however, that
+their winter settlements are placed close to areas with the snow conditions preferred by reindeer, their main winter game in some regions
+(Grøn, 2012). It will obviously be extremely diﬃcult to reconstruct such
+environmental details, and their potential variation, even though they
+are of major importance to the Evenk.
+A speciﬁc trait of some Eurasian hunter-gatherer groups is the use of
+
+[…] it is clear that there was a wide range of economic options for Arctic
+peoples, despite a perception that this might not have been the case. While
+it is true that the number of diﬀerent animal resources in the Arctic may
+have been limited, the ways in which humans chose to exploit available
+resources were highly variable. Economies varied temporally, geographically and culturally.
+In addition to small-scale landscape dynamics and cultural economic diversity, the possibility of modelling optimal settlement zones
+for prehistoric hunter-gatherers is complicated by strategic human
+manipulation of the environment. While observation of such strategies
+is easier in ethnoarchaeological studies of living cultures, there is
+convincing archaeological evidence of both controlled burning at the
+Mesolithic site of Star Carr in England, reﬂected in charred plant macroremains found at the site, and the extensive systematic coppicing or
+controlled burning of hazel thickets to produce straight-grown hazel
+rods for wattle panels used in Late Mesolithic/Early Neolithic ﬁshing
+weirs on Zealand in Denmark (Grøn, 2012; Hather, 1998; Christensen,
+1997).
+196
+
+Journal of Archaeological Science: Reports 20 (2018) 192–199
+
+O. Grøn
+
+Fig. 6. Evenk domesticated reindeer protected against summer mosquitoes by smoke provided by the humans.
+Photo Ole Grøn.
+
+domesticated reindeer for transport. The ‘contract’ between humans
+and their transport reindeer is that the former supply the latter with:
+good grazing near the settlements (in addition to their winter food, lichen, reindeer also eat more than 30 diﬀerent grass and shrub species),
+salt (often in the form of frozen human urine in winter), smoke in the
+summer as protection against mosquitoes (from smudge ﬁres of fresh
+larch twigs) (Grøn et al., 1999) (Fig. 6) and, where possible, easy access
+to naled areas (i.e. lakes and rivers frozen until around august) near the
+settlements so that the reindeer can, when the mosquito problem becomes too unpleasant, take refuge on the ice were the cold air immediately kills the insects. In principle, the domesticated reindeer, including the transport reindeer, are free to run away if they wish, but
+they stay with their humans out of habit and because this behaviour
+provides them with the above advantages. Consequently, the settlement
+locations for hunter-gatherers with transport reindeer will be chosen
+with their reindeers' demands in mind, which means that they will tend
+to diﬀer from settlement locations chosen by hunter-gatherers without
+domesticated reindeer. (1)
+Reindeer domestication is generally believed to extend back to the
+1st millennium BC (Ingold, 1980: 104–107; Aronsson, 1991). In good
+accordance with this, petroglyphs in the Sayan Mountains in Siberia
+showing humans riding reindeer are dated back to the Bronze Age
+(Devlet, 1965; Vainshtein, 1980: 120–121, 134). However, petroglyphs
+showing a human riding a reindeer, a human apparently handling a
+reindeer as a transport animal and several corrals of the type reindeer
+cultures use to protect their animals and to catch them in for butchering
+of selected individuals in the autumn evident at the rock art site in Alta,
+Norway, have fairly reliable coastline dates of c. 4500 BCE (Helskog,
+1988: 31–34, 40–41, 75, 83, 104–105; Helskog, 1999; Helskog, 2011).
+Since even earlier reindeer domestication has been discussed, this
+problem might also be relevant to earlier Stone Age sites (Bahn, 1984;
+Grøn, 2011; Higgs & Jarman, 1969; White, 1989).
+Based on new ethnoarchaeological data, concepts of hunter-gatherer societies are currently undergoing radical change. Whereas these
+cultural groups were previously seen as exploiting plants and animals in
+a rather ‘passive’ way, without any conscious management, their active
+strategic manipulation of ﬂoral and faunal resources has recently become central to the understanding of the subsistence economy extending back 50,000–100,000 years, or possibly even further (Grøn,
+2012; Lewis, 1973; Anderson, 2005; Lightfoot & Parrish, 2009; Morgan
+
+et al., 2017; Pyne, 2001; Archibald et al., 2012; Bird et al., 2016; Boivin
+et al., 2016).
+Where the evidence of manipulation strategies applied to vegetational resources, and the positive impact of some of these on game
+populations is well-founded, direct manipulation of game resources still
+requires further documentation,
+One tangible example of the direct hunter-gatherer manipulation of
+animal populations is the systematic shooting of predators in larger
+river valleys in Siberia to create a local overpopulation of moose/
+European elk, thereby forcing younger individuals into parts of the
+landscape where they would not normally be found, but where the
+Evenk wanted a game population for winter hunting (Grøn, 2012; Grøn
+& Turov, 2007).
+
+5. Discussion
+It is obvious from the above that several serious drawbacks associated with the widely used ﬁshing-site model are of such a general
+character that they are also problematic relative to other topographically/bathymetrically-based predictive modelling approaches to
+identifying the locations Stone Age hunter settlements in the landscape.
+The basic assumption that both ﬂoral and faunal elements had a rather
+even distribution in the prehistoric landscape is in direct conﬂict with
+the views of landscape ecology today. There is a need to update archaeological predictive modelling to a level where it can cope with the
+evident complexity of the situation, in addition to improving the topographical/bathymetric data which play such a dominant role in
+current modelling approaches – if this is possible.
+During my ﬁeldwork in Siberia, it was interesting to observe the
+frequent wildﬁres in the landscape we travelled through, and observe
+the signiﬁcant eﬀects they have on the vegetation. The smaller wildﬁres
+are not regarded as a problem by the Evenk. But the larger ones, which
+appear more recently to be a consequence of increased dryness, potentially related to global warming, create enormous severely burnt and
+unusable zones. The Evenk cannot move here with their reindeer because the almost 40–50 cm thick layer of lichen and other suitable
+reindeer fodder has been burnt away. Dynamic situations such as this
+can be diﬃcult to understand and accept if one is used to living in
+agriculturally managed landscapes, but for the Evenk and many other
+similar groups living in ‘wild’ landscapes is a matter of routine.
+197
+
+Journal of Archaeological Science: Reports 20 (2018) 192–199
+
+O. Grøn
+
+Another basic assumption is that all hunter-gatherer groups act in
+similar ways in relation to similar landscape situations. This view also
+needs fundamental revision, as both the archaeological record and the
+available ethnoarchaeological data demonstrate that diﬀerent cultural
+groups can adopt very diﬀerent economic strategies in similar landscapes.
+In practical survey work, a major additional problem is consequently that the economic strategic behaviour of each of the local
+groups being surveyed must be known in advance. This is likely to be
+both extremely expensive and time consuming. Consideration of the
+potential for further complications from conscious resource manipulation makes it clear that the type of predictive modelling discussed
+above may be very diﬃcult to apply to archaeological survey in the way
+we would like.
+The conclusion from the above is that archaeological modelling
+relying on earlier landscape ecological concepts and older ideas about
+the economic-strategic behaviour of small-scale prehistoric huntinggathering cultures, which facilitated relatively easy modelling of optimal settlement locations, requires signiﬁcant updating. Models of the
+resources accessible from the chosen settlements, such as the sitecatchment analysis, suﬀer from the same basic problems and will require similar revision. Dabbling with agent-based modelling may not
+solve the basic problem, which is related to the applied system's ability
+to deal with vegetation dynamics. These can be potentially impossible
+to reconstruct in the necessary detail and are, moreover, related to
+signiﬁcant diﬀerences in cultural behaviour patterns. A central problem
+is consequently having to decide which patterns should be expected
+when and where.
+It is possible that the continued use in archaeology of predictive
+modelling based on topographic/bathymetric factors is exclusively due
+to recognition of the fact that any attempt to develop more realistic
+modelling might lead to a troublesome future for this discipline and its
+related smart and cheap GIS-based desktop solutions that are so popular
+with some heritage managers. From a user point of view, however, it
+will be of immense importance to clarify whether predictive modelling
+has a future in archaeology – albeit in a probably somewhat costlier
+version. If not, it is time to focus on, and invest in, the development of
+viable alternatives.
+One promising method under development in this respect is acoustic
+detection of lithics knapped by humans. It appears that human knapping confers special acoustic properties on the removed debitage that
+are not developed with natural cleavage of the same materials. These
+artefacts can therefore be detected by acoustic means even though they
+are embedded in sea-ﬂoor sediments. The method requires further development (which is ongoing) before it can be applied in maritime archaeological survey as an eﬀective alternative to diver inspection and
+modelling. This direct detection approach will not, however, be able to
+detect Stone Age sites with no knapped lithics (Hermand et al., 2011;
+Hermand & Tayong, 2013; Grøn et al., 2018).
+
+Mesolithic Horizons: Papers Presented at the Seventh International Conference on the
+Mesolithic in Europe, Belfast 2005. Oxbow, Oxford, pp. 303–311.
+Aronsson, K.-A., 1991. Forest Reindeer Herding A.D. 1-1800. An Archaeological and
+Palaeoecological Study in Northern Sweden. Archaeological Environment. vol. 10
+University of Umeå, Department of Archaeology, Sweden.
+Bahn, P., 1984. Pre-Neolithic control of animals in Western Europe: the faunal evidence.
+In: Grigson, C., Clutton-Brock, J. (Eds.), Animals and Archaeology. Husbandry in
+Europe. British Archaeological Reports International Series 227, vol. 4. pp. 27–34.
+Belsky, A.J., 1995. Spatial and temporal landscape patterns in arid and semi-arid African
+savannas. In: Hansson, L., Fahrig, L., Merriam, G. (Eds.), Mosaic Landscapes and
+Ecological Processes. Chapman & Hall, London, pp. 31–56.
+Benjamin, J., 2010. Submerged prehistoric landscapes and underwater site discovery:
+reevaluating the ‘Danish Model’ for international practice. J. I. Coast. Archaeol. 5,
+253–270.
+Bird, D.W., Bird, R.B., Codding, B.F., 2016. Pyrodiversity and the Anthropocene: the role
+of ﬁre in the broad spectrum revolution. Evol. Anthropol. 25, 105–116.
+Bjørnstad, K., Rolf, A., Lambin, X., 1999. Spatial population dynamics: analyzing patterns
+and processes of population synchrony. Trees 14 (11), 427–432.
+Bode, M., Possingham, H., 2005. In: Zerger, A., Argent, R.M. (Eds.), Optimally managing
+oscillating predator-prey systems. MODSIM05 International Congress on Modelling
+and Simulation. Modelling & Simulation Society of Australia & New Zealand Inc,
+Melbourne, pp. 2054–2060.
+Boivin, N.L., Zeder, M.A., Fuller, D.Q., Crowther, A., Larson, G., et al., 2016. Ecological
+consequences of human niche construction: examining long-term anthropogenic
+shaping of global species distributions. PNAS 113 (23), 6388–6396.
+Brown, J.K., Smith, J.K. (Eds.), 2000. Wildland Fire in Ecosystems. Eﬀects on Flora.
+United States Department of Agriculture. Rocky Mountains Research Station. General
+Technical Report RMRS-GTR-42-volume 2.
+Chang-Martínez, L.A., Mas, J.-F., Valle, N.T., Torres, P.S.U., Foldan, W.J., 2015. Modeling
+historical land cover and land use: a review from contemporary modeling. Int. J.
+Geogr. Inf. Sci. 4, 1791–1812.
+Christensen, K., 1997. Wood from ﬁsh weirs-forestry in the Stone Age. In: Pedersen, L.,
+Fischer, A., Aaby, B. (Eds.), The Danish Storebaelt since the Ice Age - Man, Sea and
+Forest. A/S Storebaelt Fixed Link, Copenhagen, pp. 151–156.
+Colonese, A.C., Mannino, M.A., Bar-Yosef Mayer, D.E., et al., 2011. Marine mollusc exploitation in Mediterranean prehistory: an overview. Quat. Int. 239, 86–103.
+Degerbøl, M., 1943. Dyrelivet i Aamosen i Stenalderen. In: Stenalderbopladser i Aamosen.
+Mathiasen, T. Nordiske Fortidsminder III, 3. Det Kongelige Nordiske Oldskriftselskab.
+København, pp. 165–206.
+Devlet, M.A., 1965. Bol'shaya boyarskaya pisanitsa. Sovetskaya Arkheologiya 3, 124–142.
+Fischer, A., 1993. Marinarkæologiske forundersøgelser forud for etablering af en fast
+Øresundsforbindelse. Stenalderbopladser på bunden af Øresund. Afprøvning af en
+model. Del 1. Det centrale Øresund. Miljøministeriet, Skov- og Naturstyrelsen.
+Fischer, A., 2004. Submerged Stone Age - Danish examples and North Sea potential. In:
+Flemming, N.C. (Ed.), Submarine Prehistoric Archaeology of the North Sea. Research
+Priorities and Collaboration With Industry. CBA Research Report. vol. 141. pp.
+23–36.
+Fischer, A., 2007. Coastal ﬁshing in Stone Age Denmark – evidence from below and above
+the present sea level and from human bones. In: Milner, N., Bailey, G., Craig, O.
+(Eds.), Shell Middens and Coastal Resources Along the Atlantic façade. Oxbow,
+Oxford, pp. 54–69.
+Fitch, S., Gaﬀney, V., Thompson, K., 2007. In sight of Doggerland: from speculative
+survey to landscape exploration. Internet Archaeol. 22, 1–10.
+Grøn, O., 2011. Reindeer antler trimming in modern large-scale reindeer pastoralism and
+parallels in an early type of hunter-gatherer reindeer herding system: Evenk ethnoarchaeology in Siberia. Quat. Int. 238, 76–82.
+Grøn, O., 2012. Our grandfather sent the elk – some problems for hunter-gatherer predictive modelling. Quartär 59, 175–188.
+Grøn, O., 2015. Fiskeplassmodellen, en metode for lokalisering av steinalderboplasser
+under vann - eller det motsatte? Norsk Maritimt Museum Årbok 2014. pp. 235–244.
+Grøn, O., Turov, M., 2007. Resource “pooling” and resource management. An ethno-archaeological study of the Evenk hunter-gatherers, Katanga County, Siberia. In:
+Hårdh, B., Jennbert, K., Olausson, D. (Eds.), On the Road. Studies in Honour of Lars
+Larsson. Acta Archaeologica Lundensia in 4o, No. 26pp. 67–72.
+Grøn, O., Holm-Olsen, I.M., Tømmervik, H., Kuznetsov, O., 1999. Reindeer hunters and
+herders: settlement and environmental impact. In: Kulturminneforskningens mangfold. NIKU Temahefte 31. Oslo, pp. 20–26.
+Grøn, O., Boldreel, L.O., Hermand, J.-P., Rasmussen, H., Dell'Anno, A., Cvikel, D., Galili,
+E., Madsen, B., Nørmark, E., 2018. Detecting human-knapped ﬂint with marine highresolution reﬂection seismics. A preliminary study of new possibilities for sub-sea
+mapping of submerged Stone Age sites. Underw. Technol. 35 (1) (in press).
+Gross, D., Zander, A., Boethius, A., Dreibrodt, S., Grøn, O., Hansson, A., Jessen, C.,
+Koivisto, S., Larsson, L., Lübke, H., Nilsson, B., 2018. People, lakes and seashores:
+studies from the Baltic Sea basin and adjacent areas in the early and Mid-Holocene.
+Quat. Sci. Rev. 185, 27–40.
+Gulløv, H.C. (Ed.), 2004. Grønlands Forhistorie. Gyldendal, Copenhagen.
+Gutiérrez-Zugasti, I., Andersen, S.H., Araújo, A.C., et al., 2011. Shell midden research in
+Atlantic Europe: state of the art, research problems and perspectives for the future.
+Quat. Int. 239, 70–85.
+Habu, J., Matsui, A., Yamamoto, H., Kanno, T., 2011. Shell midden archaeology in Japan:
+aquatic food acquisition and long-term change in the Jomon culture. Quat. Int. 239,
+19–27.
+Hansson, L., Fahrig, L., Merriam, G., 1995. Preface. In: Hansson, L., Fahrig, L., Merriam,
+G. (Eds.), Mosaic Landscapes and Ecological Processes. Chapman & Hall, London (xvixix).
+Hather, J.G., 1998. Identiﬁcation of macroscopic charcoal assemblages. In: Mellars, P.,
+
+Notes
+1) This is based on my own ﬁeld observations of the Evenk in the Kalar,
+Khatanga and Olenok regions of Siberia.
+References
+van Andel, T.H., Lianos, N., 1984. High-resolution seismic reﬂection proﬁles for the
+econstruction of postglacial transgressive shorelines: an example from Greece. Qual.
+Res. 22, 31–45.
+Anderson, M.K., 2005. Tending the Wild. Native American Knowledge and the
+Management of California Natural Resources. University of California Press,
+Berkeley.
+Archibald, S., Staver, A.C., Levin, S.A., 2012. Evolution of human-driven ﬁre regimes in
+Africa. PNAS 109 (3), 847–852.
+Arias, P., Cuenca, E.C., Fernández, E.Á., Pellón, E.G., Cordero, A.G., 2009. In: McCartan,
+S.B., Schulting, R.J., Warren, G., Woodman, P. (Eds.), A view from the edges: the
+Mesolithic settlement of the interior areas of the Iberian Peninsula reconsidered.
+
+198
+
+Journal of Archaeological Science: Reports 20 (2018) 192–199
+
+O. Grøn
+
+American IndiansVol. 5. Arctic. Smithsonian Institution, Washington, pp. 369–376.
+Morgan, C., Tushingham, S., Garvey, R., Barton, L., Bettinger, R., 2017. Hunter-gatherer
+economies in the old world and new world. In: Shugart, H. (Ed.), Oxford Research
+Encyclopedia, Environmental Science. Oxford University Press, USA. http://dx.doi.
+org/10.1093/acrefore/9780199389414.013.164. (40 p).
+Murray, M.S., 1996. Economic Change in the Palaeoeskimo Prehistory of the Foxe Basin,
+NWT (Ph.D. dissertation). University of Alberta, Edmonton.
+Mustamäki, N., Jokinen, H., Scheinin, M., Bonsdorf, E., Mattila, J., 2015. Seasonal smallscale variation in distribution among depth zones in a coastal Baltic Sea ﬁsh assemblage. ICES J. Mar. Sci. 72 (8), 2374–2384.
+Noe-Nygaard, N., 1971. Spur dog spines from prehistoric and early historic Denmark.
+Bull. Geol. Soc. Den. 2, 18–33.
+Odum, E.P., Barrett, G.W., 2005. Fundamentals of Ecology. Thomson Brooks/Cole,
+Belmont, CA.
+Orquera, L.A., Legoupil, D., Piana, E.L., 2011. Littoral adaptation at the southern end of
+South America. Quat. Int. 239, 61–69.
+Pyne, S.J., 2001. Fire: A Brief History. University of Washington Press and British
+Museum.
+Rabett, R., Appelby, J., Blyth, A., et al., 2001. Inland shell midden site-formation: investigation into a late Pleistocene to early Holocene midden from Tràng An, Northern
+Vietnam. Quat. Int. 239, 153–169.
+Saito, K., 2001. Flames. In: Johnson, E.A., Miyanishi, K. (Eds.), Forest Fires. Behavior and
+Ecological Eﬀects. Academic Press, San Diego, pp. 11–54.
+Saunders, R., Russo, M., 2011. Coastal shell middens in Florida: a view from the Archaic
+period. Quat. Int. 38–50.
+Selsing, L., 2016. Intentional Fire Management in the Holocene with Emphasis on Huntergatherers in the Mesolithic in South Norway. Museum of Archaeology, University of
+Stavanger, Norway.
+Simmons, I.G., 1975. Towards an ecology of Mesolithic man in the uplands of great
+Britain. J. Archaeol. Sci. 2, 1–15.
+Simmons, I.G., 1996. The Environmental Impact of Later Mesolithic Cultures: The
+Creation of Moorland Landscape in England and Wales. Edinburgh University Press
+for the University of Durham, Edinburgh.
+Sommers, W.T., Colof, S.G., Conrad, S.G., 2011. Fire history and climate change. Report
+submitted to the joint ﬁre science program for project 01-2-01-09. https://www.
+ﬁrescience.gov/JFSP_ﬁre_history.cfm.
+Szabo, K., Amesbury, J.R., 2011. Molluscs in a world of islands: the use of shellﬁsh as a
+food resource in the tropical island Asia-Paciﬁc region. Quat. Int. 239, 8–18.
+Turner, M.G., Gardner, R.H., 2015. Landscape Ecology in Theory and Practice. Pattern
+and Process. Springer, New York.
+Vainshtein, S., 1980. Nomads of South Siberia. The Pastoral Economies of Tuva.
+Cambridge University Press, Cambridge.
+Vandermeer, J., 2006. Oscillating populations and biodiversity maintenance. Bioscience
+56 (12), 967–975.
+Wagner, G., Hilbert, K., Bandeira, D., et al., 2011. Sambaquis (shell mounds) of the
+Brazilian coast. Quat. Int. 239, 51–60.
+Warden, L., Moros, M., Neumann, T., et al., 2017. Climate induced human demographic
+and cultural change in northern Europe during the mid-Holocene. Sci. Rep. 7, 15251.
+http://dx.doi.org/10.1038/s41598-017-14353-5. P-11.
+Weber, R.O., 2001. Wildland ﬁre spread models. In: Johnson, E.A., Miyanishi, K. (Eds.),
+Forest Fires. Behavior and Ecological Eﬀects. Academic Press, San Diego, pp.
+151–169.
+White, R., 1989. Husbandry and herd control in the upper Paleolithic. A critical review of
+the evidence. Curr. Anthropol. 30, 609–632.
+Wiens, J.A., 1995. Landscape mosaics and ecological theory. In: Hansson, L., Fahrig, L.,
+Merriam, G. (Eds.), Mosaic Landscapes and Ecological Processes. Chapman & Hall,
+London, pp. 1–26.
+
+Dark, P. (Eds.), Star Carr in Context: New Archaeological and Palaeoecological
+Investigations at the Early Mesolithic Site of Star Carr, North Yorkshire. McDonald
+Institute for Archaeological Research, Cambridge, pp. 183–196.
+Haws, J.A., Funk, C.L., Bendetti, M.M., et al., 2011. Palaeolithic Landscapes and
+Seascapes of the West Coast of Portugal. In: Bicho, N.F., Haws, J.A., Davis, L.G. (Eds.),
+Trekking the Shore. Changing Coastlines and the Antiquity of Coastal Settlement.
+Springer, New York, pp. 203–246.
+Helskog, K., 1988. Helleristningene i Alta. Spor Etter Ritualer og Dagligliv i Finnmarks
+Forhistorie. Alta Museum, Alta.
+Helskog, K., 1999. The shore connection. Cognitive landscape and communication with
+rock carvings in northernmost Europe. Nor. Archaeol. Rev. 32 (2), 73–94.
+Helskog, K., 2011. Reindeer corrals 4700e4200 BC: myth or reality? Quat. Int. 238,
+25–34.
+Hermand, J.-P., Tayong, R., 2013. In: Geoacoustic characterization of Stone Age cultural
+layers: preliminary FE modelling. OCEANS - Bergen, 2013 MTS/IEEE. http://dx.doi.
+org/10.1109/OCEANS-Bergen.2013.6608184. (6 p.).
+Hermand, J.-P., Gron, O., Asch, A., Ren, Q., 2011. In: Modeling ﬂint acoustics for detection of submerged Stone Age sites. Proc. OCEANS'11 MTS/IEEE Kona Conf.
+(Oceans of Opportunity: International cooperation and partnership across the
+Paciﬁc). Institute of Electrical and Electronics Engineers, IEEE (Sept. 2011. 9 p).
+Higgs, E.S., Jarman, M.R., 1969. The origins of agriculture: a reconsideration. Antiquity
+43, 31–41.
+Hunt, E.D., 1992. Upgrading site-catchment analyses with the use of GIS: investigating
+the settlement patterns of horticulturalists. World Archaeol. 24 (2), 283–309
+(Analytical Field Survey (Oct., 1992)).
+Ingold, T., 1980. Hunters, Pastoralists, and Ranchers: Reindeer Economics and Their
+Transformations. Cambridge University Press, Cambridge.
+Innes, J.B., Blackford, J.J., Simmons, I.G., 2004. Testing the integrity of ﬁne spatial resolution palaeoecological records: microcharcoal data from near-duplicate peat
+proﬁles from the North York Moors, UK. Palaeogeogr. Palaeoclimatol. Palaeoecol.
+214, 295–307.
+Jarman, M.R., Vita-Finzi, C., Higgs, E.S., 1972. Site catchment analysis in archaeology. In:
+Ucko, P., Tringham, R., Dimbleby, G.W. (Eds.), Man, Settlement and Urbanism.
+Duckworth, London, pp. 61–66.
+Jasiewicz, J., Sobkowiak-Tabaka, I., 2015. Geo-spatial modelling with unbalanced data:
+modelling the spatial pattern of human activity during the Stone Age. Open Geosci. 7,
+289–307.
+Jensen, J., 2001. Danmarks Oldtid. Stenalder 13.000-2.000 f.Kr. Gyldendal, Copenhagen.
+Johansson, A.D., 1999. Ertebøllekulturen i Sydsjælland. Aarbøger for Nordisk
+Oldkyndighed og Historie 1997. pp. 7–88.
+Johansson, A.D., 2006. Fjordﬁskeri. SKALK 2006. vol. 1. pp. 5–10.
+Kamermans, H., van Leusen, M., Verhagen, P., 2009. Archaeological Prediction and Risk
+Management. Alternatives to Current Practice. ASUL 17. Leiden University Press,
+Leiden.
+Levin, S.A., Powell, T.M., Steele, J.H. (Eds.), 1993. Patch Dynamics. Springer-Verlag.
+Lewis, H.T., 1973. Patterns of Indian burning in California: ecology and ethnohistory. In:
+Ballena Press Anthropological Papers No. 1.
+Lewis, J.P., Ryves, D.B., Rasmussen, P., et al., 2013. Environmental change in the
+Limfjord, Denmark (ca 7500e1500 cal yrs BP): a multiproxy study. Quat. Sci. Rev. 78,
+126–140.
+Lightfoot, K.G., Parrish, O., 2009. California Indians and Their Environment. An
+Introduction. University of California Press, Berkeley.
+Lundquist, C.J., Pritchard, M., Thrush, S.F., Hewitt, J.E., Greenﬁeld, B.L., Halliday, J.,
+Lohrer, A.M., 2013. Bottom Disturbance and Seaﬂoor Community Dynamics:
+Development of a Model of Disturbance and Recovery Dynamics for Marine Benthic
+Ecosystems. Publications Logistics Oﬃcer, Ministry for Primary Industries,
+Wellington, New Zealand.
+McGhee, R., 1984. Thule prehistory of Canada. In: Damas, D. (Ed.), Handbook of North
+
+199
+
+

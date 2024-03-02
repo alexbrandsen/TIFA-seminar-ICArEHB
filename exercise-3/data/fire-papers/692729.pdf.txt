@@ -1,0 +1,1560 @@
+Current Anthropology
+
+Volume 58, Supplement 16, August 2017
+
+S175
+
+Recognizing Fire in the Paleolithic
+Archaeological Record
+by Paul Goldberg, Christopher E. Miller, and Susan M. Mentzer
+Everyone agrees that ﬁre has played an important part in the history of the genus Homo. However, because of the
+sometimes ephemeral and ambiguous nature of the evidence for ﬁre in the Paleolithic record, establishing when and how
+hominins actively interacted with ﬁre has been difﬁcult. Over the past several decades, multiple techniques have been
+developed and employed in the search for the origins of human use of ﬁre. Because ﬁre is a natural phenomenon, the
+identiﬁcation of burned remains at an archaeological site is generally not considered to be, on its own, convincing
+evidence for human use of ﬁre. Rather, much of the difﬁculty of identifying early evidence for ﬁre use has hinged on the
+question of how to establish a more direct link between burned materials and human activity. Here, we advocate for an
+approach to the investigation of the history of hominin use of ﬁre that emphasizes an integration of multiple techniques.
+In particular, we argue that a contextualized study conducted at the microscopic scale—what we call a microcontextual
+approach—shows the most promise for establishing a behavioral connection between hominins and ﬁre in the archaeological record.
+
+Prelude
+Look at ﬁgure 1. On a recent trip to the high Andes of Peru,
+Susan Mentzer and Chris Miller stopped to stretch their legs
+during the long ascent to the Puna. They pulled over onto the
+side of the rut-worn road and took in the sparsely vegetated
+landscape. “Look over there,” Susan said. “A ruined house.”
+Kurt Rademaker, who was leading the expedition, spoke up:
+“Yeah, there are lots of those up here. Some of them date to Inca
+or even pre-Inca times.” Mentzer and Miller got out of the truck
+crammed with students and equipment and headed over. The
+remnants of the stone walls still provided a clear outline of the
+
+Paul Goldberg is Professor Emeritus in the Department of Archaeology at Boston University (675 Commonwealth Avenue, Boston,
+Massachusetts 02215, USA [paulberg@bu.edu]), at the Institute for
+Archaeological Sciences at the University of Tübingen (Rümelinstrasse
+23, 72070 Tübingen, Germany), and at the School of Earth and Environmental Sciences of the University of Wollongong (Wollongong,
+New South Wales 2502, Australia). Christopher E. Miller is Professor
+at the Institute for Archaeological Sciences at the University of Tübingen (Rümelinstrasse 23, 72070 Tübingen, Germany [christopher
+.miller@uni-tuebingen.de]) and at the Senckenberg Centre for Human
+Evolution and Paleoenvironment (Rümelinstrasse 23, 72070 Tübingen,
+Germany). Susan M. Mentzer is a Research Scientist at the Institute for
+Archaeological Sciences at the University of Tübingen (Rümelinstrasse
+23, 72070 Tübingen, Germany [susan.mentzer@ifu.uni-tuebingen.de])
+and at the School of Anthropology at the University of Arizona (1009
+East South Campus Drive, Tucson, Arizona 85721, USA). This paper
+was submitted 25 VII 16, accepted 21 III 17, and electronically published
+6 VII 17.
+
+structure, with obvious doorways and subdivisions of rooms.
+But the house had clearly been abandoned for a long time
+since shrubs and other vegetation now grew throughout the
+building.
+“Hey,” Mentzer said excitedly. “Look at this! There was a
+bushﬁre!” Sure enough, many of the shrubs outside the structure had been burned, with ashes and charcoal collected in neat
+circles below the charred remains of branches.
+“Wow,” Miller said. “Some of the shrubs inside the ruin are
+burned too!” Maybe it was the low oxygen of the high Andes,
+but their minds began to wander. Shooting each other a knowing glance, they started to think of what this ruin would look
+like to archaeologists in the future.
+“It’s clearly a bushﬁre,” Miller said. “You can see where it
+started over there at the base of the hill.”
+“Yeah, but it didn’t burn evenly across the surface . . . the
+vegetation is patchy and so each shrub, when it burned, left
+a circular feature of charcoal and ash behind.”
+“So it’s natural.”
+“Yes, but some of the shrubs inside the house also burned
+and left those circular patches. You know,” Mentzer said, “in
+ten or twenty years, or if this site ever becomes buried, those
+patches would look a lot like hearths to archaeologists.”
+“Yeah,” Miller said, a bit despondently.
+“And these burned patches are natural, but they are associated with an archaeological site. And since the burned patches
+are inside the structure, it would be easy to assume that they
+are hearths,” Mentzer said.
+“Yeah,” Miller said again. “But how could archaeologists distinguish between a natural ﬁre like this and a hearth?”
+
+q 2017 by The Wenner-Gren Foundation for Anthropological Research. All rights reserved. 0011-3204/2017/58S16-0003$10.00. DOI: 10.1086/692729
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+S176
+
+Current Anthropology
+
+Figure 1. Archaeological site affected by a recent brush ﬁre in Peru.
+A, Shrubs growing within and around an abandoned stone structure have been differentially affected by brush ﬁres. One concentration of burned shrubs (arrow) is located in the center of the room.
+B, Detail of the burned shrubs pictured in A. The burning reached
+an intensity such that round concentrations of charcoal and ashes
+formed. A color version of this ﬁgure is available online.
+
+“Easy,” Mentzer replied. “If you can date the house architecture stylistically, and then run a radiocarbon date on the
+charcoal from the hearth, you could see that they wouldn’t
+match, assuming that there is a large enough hiatus between
+abandonment and the bushﬁre.”
+“OK,” Miller said after a long pause. “But what if this
+weren’t a historical site, but a Paleolithic site?”
+They stared at each other without saying a word and silently
+returned to the truck to continue the ascent into the mountains.1
+
+Introduction
+Fire—as with any aspect of the past studied by archaeologists—
+requires us to establish clear theoretical links between exca-
+
+1. This is a ﬁctionalized account of a true event. The dialogue has been
+changed and some literary license has been taken, but the scientiﬁc concerns are real.
+
+Volume 58, Supplement 16, August 2017
+
+vated material remains and human activities and behavior. In
+sites from most time periods, the evidence for anthropogenic
+ﬁre can appear to be quite convincing: constructed hearths, kilns,
+and other installations can be readily compared with analogous
+features known from historic and ethnographic studies (GurArieh et al. 2013). Similarly, the presence of ceramic sherds,
+glass, bricks, metal, and slag all clearly point to the control of
+ﬁre for craft and industrial practices in the past.
+Archaeological evidence for the use of ﬁre becomes spottier
+when dealing with hunter-gatherer or other nonsedentary societies, particularly those from the Pleistocene. Although some
+Upper Paleolithic people lined and paved their hearths with
+clay and stone (Karkanas et al. 2004; Movius 1966), thus making them more readily identiﬁable by archaeologists, most evidence for ﬁre in the Pleistocene takes the form of scatters and
+concentrations of charcoal, ash, burned bone, heated stone, and
+reddened substrates. Recognizing and interpreting these materials as evidence for use of ﬁre, let alone control or production
+of ﬁre, can be difﬁcult (see Sandgathe 2017 for deﬁnitions of use,
+control, and production of ﬁre). Furthermore, this difﬁculty
+is only compounded the farther back in time we look when we
+search for the origins of hominin interactions with ﬁre.
+The evidence for ﬁre that we encounter in the archaeological record can be different from many other types of artifacts
+found at Paleolithic sites. Unlike handaxes, cave paintings, or
+butchered bones, materials such as charcoal, ash, and other
+burned remains can be produced by humans but also by natural processes. Evidence for naturally occurring ﬁres in the form
+of preserved charcoal is known from the geological record dating to the Devonian, more than 350 Mya (Scott 2000). Similarly, Bordes (1957) reports evidence for heated chert from deposits dating to the Miocene. Fire is essentially a natural chemical
+reaction that humans have learned to anticipate, use, control,
+and produce.
+The difﬁculties of ﬁrst identifying heated materials in the Paleolithic record and second determining whether humans were
+the agents responsible have been recognized by archaeologists
+since at least the mid-twentieth century (Oakley 1954). Later
+researchers, in particular Barbetti (1986), formalized the problem: “Demonstrating that ﬁre was used at an archaeological site
+is a two-step process. One must ﬁrst ﬁnd the evidence and show
+that ﬁre was present. It is then necessary to demonstrate that
+it was associated with human activity” (771).
+In the 30 years since Barbetti laid out the two-step process of
+evaluating evidence for ﬁre in the archaeological record, many
+new methods and techniques have been introduced that aid
+in identifying burned materials at Paleolithic sites. Similarly,
+many new sites have been excavated and novel studies conducted that help us evaluate the nature of the association of
+burned materials and human activity. However, despite these
+advances, Barbetti’s two-step approach should still form the
+foundation for any archaeological study of ﬁre.
+Therefore, in this paper, we have decided to revisit and expand on Barbetti’s arguments, focusing on how we address
+the following three questions about materials encountered in
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+Goldberg, Miller, and Mentzer
+
+Recognizing Paleolithic Fire
+
+archaeological sites: (1) Are they burned? (2) Were they recovered from the primary location of heating, and if not, what
+is the nature of their deposition? and (3) Were they burned by
+humans?
+We will present a range of approaches to identifying heated
+materials from archaeological sites. But we will also show how
+positive results—those that show that materials have been
+heated—do not alone constitute sufﬁcient evidence for human
+use of ﬁre. Rather, we argue that these techniques need to be
+applied in conjunction with high-resolution analyses of site
+formation processes in order to form a link between material
+evidence for heating and human behavior.
+
+The Microcontextual Approach
+The microcontextual approach was put forward by Goldberg
+and Berna (2010) from concepts developed by researchers such
+as Boivin (2004), Goldberg and Macphail (2006), Matthews
+(2005), and Matthews et al. (1997). It is essentially the in situ
+analysis of microscopic components in thin section using a variety of microanalytical techniques. The microcontextual approach provides a framework for the integration of these data
+by extending the context of an archaeological artifact—its
+matrix, its provenience, and its associations with other artifacts
+(Renfrew and Bahn 2007)—to the microscopic scale. In this
+framework, we treat individual particles of anthropogenic sediments as artifacts and microscopic deposits as assemblages
+(ﬁg. 2). This approach has proven successful in the analysis of
+combustion features and burned materials in sites of all ages,
+ranging from the Paleolithic (Goldberg and Berna 2010) to the
+Iron Age (Mentzer, Romano, and Voyatzis 2015; Toffolo et al.
+2012).
+The most effective and efﬁcient way to monitor and control
+for (micro)context is the use of soil micromorphology (Courty,
+Goldberg, and Macphail 1989; Goldberg and Macphail 2006;
+Macphail and Cruise 2001), which is the meso- and microscopic analysis of intact blocks of sediments or soils that have
+been indurated, sliced, polished, and prepared into thin sections (Courty, Goldberg, and Macphail 1989). Observations
+made on micromorphological samples can include the mineralogical and organic composition of sedimentary components;
+the size, shape and sorting of grains; the porosity and microstructure of deposits; the presence of bedding or other microscopic sedimentary structures; and the fabric—the internal organization of all these attributes (Bullock et al. 1985; Courty,
+Goldberg, and Macphail 1989; Stoops 2003). Furthermore, micromorphological analysis can reveal both physical and chemical postdepositional alteration of deposits that may be related
+to either natural or human agents. Anthropogenic physical alteration might include trampling or reworking of combustion
+residues by dumping, middening, or hearth rake out. Natural,
+chemical alteration might entail dissolution of ashes or bone
+or the secondary precipitation of carbonates or phosphates. Because the use of micromorphology facilitates the analysis of
+postdepositional alteration and enables the distinction between
+
+S177
+
+natural and anthropogenic sediments, it is widely used as a
+ﬁrst-order approach to the study of combustion features and
+burned materials (Berna and Goldberg 2008; Mentzer 2013;
+Miller, Goldberg, and Berna 2013).
+A number of additional microanalytical techniques outlined
+in table 1 can be conducted on either loose sediment or materials present in micromorphology samples. Ideally, a study
+of evidence for ﬁre applies the same techniques on both loose
+and micromorphological samples, thereby supporting the integration of results obtained microscopically with observations
+made at the site scale. Deﬁned narrowly (or optimistically), a
+microcontextual approach to the study of a combustion feature might mean that every analysis conducted as part of the
+study should be conducted directly on materials visible in a
+micromorphological thin section or in its corresponding indurated sediment block.
+Micromorphology and a microcontextual approach can also
+be used as a type of “methodological ﬁlter” for determining which additional techniques could be applied to identify
+heating and to assess the depositional association of heated
+materials with other traces of human activity. In the possible
+combustion feature illustrated in ﬁgure 2, observation of three
+types of potentially heated material and fuel residues as well as
+anthropogenic inclusions (ﬁg. 2B) lead to an analytical trajectory that includes micro-FTIR (m-FTIR; Fourier transform infrared spectroscopy), organic petrology, and the scanning electron microscope (SEM; ﬁg. 2E). Similarly, the microcontextual
+approach can also help discourage the use of certain other
+techniques that may be unnecessary or produce misleading results. In the same example, the observation that the suspected
+ashes have been chemically altered (ﬁg. 2C) precludes the
+measurement of stable isotopes of carbon and oxygen from the
+calcareous ashes (Mentzer and Quaid 2013). A microcontextual
+study ideally does not focus on a single feature or only on potential evidence for human use of ﬁre. Rather, microcontextual
+analyses should be part of a broader geoarchaeological study
+that attempts to understand how potential evidence for use of
+ﬁre ﬁts within a holistic site formation model.
+
+Examples
+Roebroeks and Villa (2011), in their assessment and ranking
+of sites containing evidence for early use of ﬁre, give particular
+weight to studies that identify combustion features. In particular, they privilege studies that employ micromorphology or
+use multiple analytical techniques over those that rely on only
+one method or on one line of evidence. The microcontextual
+approach, by providing a methodological and theoretical link
+between multiple analytical techniques and micromorphology,
+is therefore ideally suited for the study of Paleolithic ﬁre. In
+practice, this has only been carried out to a limited extent.
+Many of the techniques for studying burned materials were
+developed ﬁrst using loose sediment samples, and only recently
+have they been applied to micromorphological samples. For
+example, Shahack-Gross et al. (2008) ﬁrst investigated the
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+Figure 2. Application of the microcontextual approach to a suspected combustion feature. A, Middle Stone Age deposits in the site of
+Sibudu, South Africa, contain discrete features (arrow) that appear in the ﬁeld to be composed of charred material overlain by ashes.
+These features were sampled for micromorphological analysis. For more detailed information about the micromorphology at this site,
+see Goldberg et al. (2009). B, Thin section prepared from a different feature but with similar characteristics (incident light scan). The
+area photographed in parts C and D is indicated with the red box. C, Feature viewed using a petrographic microscope (plane-polarized
+light; PPL) can be likened to a microscopic stratigraphic section containing what appears to be a basal layer of rubiﬁed sediment (Ru)
+overlain by charred plant fragments (Ch) and topped with ashes (Ash). The sequence also contains microscopic artifacts such as bone
+fragments (B) and lithic debitage (L). The depositional history of the three layers is clear at this scale of observation. The contacts are
+gradational over several millimeters with no indication that they are derived from discrete depositional events. This relationship is
+consistent with a formation model for intact hearths proposed by Meignen et al. (2001). Each of the materials visible in this feature can
+be analyzed using additional techniques described in table 1. The bone fragments and charred plants can be analyzed using organic
+petrology. The ash layer can be investigated at higher resolution using a petrographic microscope or SEM, which facilitates morphological identiﬁcations of different components (e.g., ash rhombs, phytoliths). The molecular and elemental compositions of the bones
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+Goldberg, Miller, and Mentzer
+
+Recognizing Paleolithic Fire
+
+isotopic composition of ashes using experimental materials and
+archaeological samples from the site of Amud Cave (Israel).
+This approach was extended to micromorphological samples
+several years later (Mentzer and Quade 2013). Moreover, until
+recently, many microanalytical instruments were available to
+archaeologists on a limited basis. Nevertheless, there are a few
+cases in which a microcontextual study was conducted on
+Paleolithic ﬁre features (Berna and Goldberg 2008; Berna et al.
+2012; Goldberg and Berna 2010; Lowe et al. 2016; Mallol,
+Mentzer, and Miller, forthcoming; Shahack-Gross et al. 2014;
+Stahlschmidt et al. 2015). Here, we draw on several examples
+from three Lower Paleolithic sites to illustrate how the approach can yield positive, negative, and ambiguous results. At
+the end, we highlight an application where we believe the approach is most promising: in the analysis of traces of ﬁre that
+have been affected by postdepositional processes.
+Positive Results from Qesem Cave
+Microcontextual analyses have been essential in establishing
+some of the earliest clear evidence for repeated use of ﬁre by
+humans. At Qesem Cave (Israel), which is associated with an
+Acheulo-Yabrudian occupation that dates between ca. 400 and
+200 kya (Barkai et al. 2003; Gopher et al. 2005; Karkanas et al.
+2007), researchers conducted a microcontextual study that relied heavily on micromorphology but was augmented with
+other techniques, such as FTIR analysis on loose sediment
+samples and bones and isotopic analysis of calcareous deposits.
+The analysis on loose sediment samples returned negative or
+ambiguous results. For example, FTIR analysis of loose sediment did not reveal any evidence that the clay fraction of the
+cave deposits had been heated to above 5007C. In addition,
+no phytoliths or siliceous aggregates were found in the acidinsoluble fraction of the loose samples, possibly reﬂecting unfavorable preservation conditions in the alkaline environment
+of the cave. However, in thin section, Karkanas et al. (2007)
+identiﬁed clear evidence for ﬁre in the form of numerous examples of calcareous ashes. The authors reported that at a microscopic scale, the ashes were found in discrete layers, generally
+2 cm thick and in association with small fragments of burned
+bone and clay-rich soil aggregates that appeared reddened and
+probably heated. Supporting the micromorphological evidence
+for ﬁre at the site, FTIR analysis of bone showed that some
+fragments contained pyrolyzed collagen, and some were cal-
+
+S179
+
+cined. Similarly, carbon and oxygen isotopic analysis suggested
+that at least some of the deposits at the site consisted of recrystallized ashes or a mixture of ashes and geogenic calcite.
+At Qesem, a combination of micromorphology, FTIR, and
+isotopic analyses clearly demonstrated the presence of ﬁre. However, it was the contextualization of these analyses at the microscopic scale that allowed the authors to demonstrate that
+the burned remains were probably related to human behavior.
+Karkanas et al. (2007) point out that some authors (e.g., Harrold and Otte 2001) argue that natural ﬁres, such as those caused
+by lightning strikes or spontaneous combustion of guano, could
+account for the presence of burned materials in caves. In contrast, Karkanas et al. (2007) argue that spontaneous combustion is unlikely because these types of ﬁres require signiﬁcant
+amounts of organic material that were generally absent from
+the deposits. Additionally, guano ﬁres, according to the authors,
+burn at relatively low temperatures and do not produce completely combusted remains. At Qesem, much of the evidence
+for ﬁre consists of completely combusted wood (in the form of
+ashes) and charred and calcined bones, which generally would
+be expected to occur with higher-temperature ﬁres. The most
+convincing argument is that small fragments of burned bone
+are found in thin, discrete lenses composed of pure ash. The
+micromorphological study documented the repetitive occurrence of these distinct “microcontexts” throughout the sequence at Qesem, thereby providing strong evidence for the
+repeated use of ﬁre by the site’s inhabitants.
+A further study at Qesem (Shahack-Gross et al. 2014) focused on a 300 kya stone-lined feature and employed a broader
+range of microcontextual analyses. The ca. 4 m2 feature was
+lined by a ring of rocks and contained laminated deposits
+within it (Shahack-Gross et al. 2014). In addition to micromorphology and FTIR analysis on loose sediment samples
+from the laminated deposits, the authors also conducted
+m-FTIR measurements directly on thin sections including bone
+fragments and soil aggregates. These measurements conﬁrmed
+that the bone fragments found in association within the laminations of ashes were burned to above 5007C. The authors also
+demonstrated the presence of clay aggregates that had been
+heated to above 4007C. The identiﬁcation of heated clay aggregates using m-FTIR in the ash laminations shows in particular the strength of the microcontextual approach because previous FTIR analysis of loose sediments did not provide any
+clear evidence for heating of clays above 5007C at the site.
+
+and ashes can be documented using m-FTIR and SEM-EDS. D, Same view as C, cross polarized light. Analyses with a light microscope
+provide some information about the composition of certain materials, serving as a methodological ﬁlter for further investigations. Here,
+the ash layer is isotropic, which indicates that it is not composed of calcite, a primary mineral constituent of wood ash (Canti 2003;
+Shahack-Gross and Ayalon 2013). Additional analyses that address the composition of this layer are warranted. E, Observation of the
+“ash” layer under higher magniﬁcation and PPL reveals that the characteristic morphologies of ash components (Canti 2003) are absent.
+F, Analyses of the area in E using m-FTIR reveal the presence of two main phases. The spectrum in red contains peaks indicative of
+phosphate (Ph) and silicates (Si), further identiﬁed as apatite and quartz, respectively. The spectrum in blue contains peaks indicative of
+an amorphous silicate, such as opal. Resin peaks (R) are also present. Volumetric replacement of ashes with phosphatic minerals has
+been documented in other Paleolithic contexts (Karkanas and Goldberg 2010; Goldberg et al. 2007). In this case, the micromorphology
+and m-FTIR results neither support nor refute the hypothesis that the feature is an intact hearth, but further microcontextual analyses of
+other components may prove more fruitful in the future.
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+S180
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+Phytolith analysis:
+• Phytoliths extracted from loose
+sediment samples
+• In situ observation of phytoliths
+visible in micromorphological
+samples
+
+XRD:b
+• Loose sediment samples
+and artifacts (bone, lithics)
+• In situ measurements on
+micromorphological samples
+using micro-XRD
+SEM-EDS:c
+• Loose sediment samples
+• In situ measurements on polished or
+carbon-coated micromorphological
+samples
+
+FTIR:a
+• Loose sediment samples
+• Heated lithics and rocks
+• In situ measurements on intact
+blocks and thin sections collected
+for micromorphological analyses
+using m-FTIR
+
+Micromorphology:
+• Oriented blocks of sediment
+indurated with resin and processed
+into petrographic thin sections
+
+Analytical technique, sample type
+
+Yes. Measurements of the refractive
+index of individual phytoliths can
+be used to determine heating.
+
+No.
+
+Elemental abundance for major and
+trace elements (Na through U);
+output in the form of spectra
+
+Qualitative description of phytolith
+morphology; quantitative information from analysis of populations
+
+Yes. Certain materials (e.g., clay
+minerals, bone) can be analyzed
+to document molecular changes that
+occur with heating.
+
+Yes. Certain materials (e.g., clay
+minerals, bone) can be analyzed
+to document molecular changes that
+occur with heating.
+
+Yes. Can be used to identify some
+by-products of combustion based
+on mineralogical composition and
+morphology (e.g., ashes).
+
+Used to identify presence/
+absence of heating?
+
+Spacing and arrangement of atoms in
+a crystal lattice; output in the form
+of diffraction patterns
+
+Type and strength of molecular bonds;
+output in the form of spectra
+
+Visual observation of sedimentary
+components using a petrographic
+microscope and different sources of
+light (plane-polarized, cross polarized,
+darkﬁeld, ﬂuorescent, reﬂected,
+oblique incident)
+
+Type of information/data
+
+Table 1. Geoscientiﬁc analytical techniques for the study of ancient ﬁre
+
+Identiﬁcation of phytoliths to plant
+type based on morphology can be
+used to study the types of fuels in
+hearths.
+
+When one mineral phase is present,
+the relative abundance of elements
+can be used to estimate the chemical
+formula and identify the mineral.
+Used primarily for the study of
+diagenesis of burned materials.
+
+Can be used to identify primary and
+secondary minerals. Can be used
+to study heat treatment of lithic
+materials.
+
+Provides temperature ranges of heating
+for bone and clay minerals; can also
+be used to identify primary and
+secondary minerals. Under ideal
+preservation conditions, pyrogenic
+calcite can be distinguished from
+geogenic calcite.
+
+Allows the analyst to observe the
+spatial relationship between different
+components of the feature. Fabric
+and structure can be used to make
+interpretations about depositional
+context. Other components provide
+information about postdepositional
+history.
+
+Other information
+
+Albert, Berna, and Goldberg 2012;
+Albert and Cabanes 2007;
+Albert et al. 1999, 2000;
+Cabanes et al. 2010; Elbaum et al.
+2003; Madella et al. 2002;
+Piperno 2006
+
+Karkanas 2010; Karkanas et al. 2002;
+Schiegl et al. 1996
+
+Domanski and Webb 1992;
+Rogers and Daniels 2002;
+Schmidt et al. 2012, 2013;
+Weymouth and Mandeville 1975
+
+Berna et al. 2007; Forget et al. 2015;
+Goldberg and Berna 2010;
+Regev et al. 2010; Thompson,
+Islam, and Bonniere 2013;
+Weiner 2010; Weiner and BarYosef 1990; Weiner and Goldberg
+1990; Weiner, Goldberg, and BarYosef 1993; Weiner et al. 1995,
+1998; Xu et al. 2015
+
+Canti 2003; Courty, Goldberg, and
+Macphail 1989; Goldberg and
+Macphail 2003; Meignen et al.
+2001; Mentzer, Romano, and
+Voyatzis 2015; Wattez 1988
+
+Key references
+
+S181
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+c
+
+b
+
+a
+
+FTIR p Fourier transform infrared spectroscopy.
+XRD p X-ray diffraction.
+SEM/EDS p scanning electron microscopy/energy-dispersive X-ray spectroscopy.
+
+Identiﬁcation of calcite sourced from
+wood ashes and its degree of
+recrystallization in an alkaline
+environment
+
+Measurements of stable isotopes
+of carbon and oxygen:
+• Loose sediment samples
+• Quasi in situ measurements
+on powders drilled from
+micromorphological blocks
+No.
+
+Yes. Charring reduces the relative
+abundance of long-chain n-alkenes.
+
+Yes. Heated sediments have higher
+magnetic susceptibility than unheated
+sediments. Iron-bearing minerals in
+heated rocks record the intensity and
+direction of the magnetic ﬁeld at the
+time of burning.
+
+Enrichment in ferromagnetic minerals
+are visible as magnetic anomalies.
+Magnetic susceptibility is a measure
+of the abundance of magnetized grains
+within sediment. Measurements of
+remnant magnetism can indicate
+whether rocks were heated in the past
+
+Identiﬁcation of alkanes from plants
+and fatty acids from burned animal
+tissues
+
+Yes. Heated materials have a measurable
+luminescence signal.
+
+Yes. Heated bones have characteristic
+ESR spectra.
+
+Measurement of the g-value of charred
+organic component of bone
+Measurement of the amount of radiation
+damage sustained by a material
+following a heating event
+
+Yes. Charred plant tissues have
+reﬂectance values that are different
+from those of humiﬁed tissues.
+
+Used to identify presence/
+absence of heating?
+
+Identiﬁcation of microscopic fragments
+of plants based on morphology,
+reﬂectance measurements of tissues
+and gels, and quantitative ﬂuorescence
+
+Type of information/data
+
+Organic chemistry:
+• Gas chromatography mass
+spectrometry on sediment
+containing organic material
+
+Luminescence measurements:
+• Thermoluminescence on heated
+ﬂints or sediment
+• Optically stimulated luminescence
+on heated sediment
+Magnetic measurements:
+• Magnetic ﬁeld survey on
+buried features (magnetometry)
+• Magnetic susceptibility on loose
+sediment samples
+• Palaeomagnetism on heated rocks
+
+Organic petrology:
+• In situ measurements on polished,
+resin-indurated block sediment
+samples (from micromorphological
+samples)
+• Other materials (e.g., bones)
+mounted in epoxy and polished
+Electron spin resonance:
+• Measurements on heated bones
+
+Analytical technique, sample type
+
+Table 1 (Continued )
+
+Can indicate low- or high-temperature
+burning in well-preserved samples.
+
+May be useful for identifying residues
+from cooking or animal processing
+and conditions of heating. Applications
+are thus far limited to Holocene
+contexts.
+
+Magnetic susceptibility measurements
+can be complicated by soil forming
+processes with equiﬁnality producing
+ambiguous results in some cases.
+Components of magnetization
+can be used to determine heating
+temperatures. Paleomagnetic
+measurements can be used to
+determine whether burned rocks
+are in situ.
+
+Can be used to study heat treatment
+of lithic materials. Both techniques
+provide ages for burning events.
+
+Can be used to reconstruct heating
+temperature.
+
+Provides information about fuels and
+their state of decomposition before
+burning.
+
+Other information
+
+Mentzer and Quade 2013; ShahackGross and Ayalon 2013; ShahackGross et al. 2008
+
+Almendros, Martin, and GonzalezVila 1988; Buonasera 2005;
+Buonasera et al. 2015;
+Eckmeier and Wiesenberg 2009;
+Mallol et al. 2013; March 2013;
+March, Ferreri, and Guez 1993;
+Sistiaga et al. 2011
+
+Barbetti 1986; Bellomo 1993;
+Dalan and Banerjee 1998;
+Gose 2000
+
+Brodard et al. 2012; Mercier et al.
+2007; Richter 2007
+
+Michel, Falguères, and Dolo 1998;
+Schurr and Hayes 2008
+
+Clark and Ligouis 2010;
+Goldberg et al. 2009;
+Stahlschmidt et al. 2015; Suá rezRuiz 2012
+
+Key references
+
+S182
+
+Current Anthropology
+
+Combining ﬁeld observations with the results of the microcontextual study, the authors could convincingly argue that the
+feature probably represented a large-scale hearth that was repeatedly used and around which various activities were conducted. Taken together, the studies by Karkanas et al. (2007)
+and Shahack-Gross et al. (2014) suggest that ﬁre was repeatedly
+used by humans at Qesem. Furthermore, the authors could also
+show that the way in which the occupants engaged with ﬁre
+changed over time. Although different techniques such as micromorphology, FTIR, and isotopic analysis could reveal the
+presence of heat-altered remains at Qesem, it was the integration of these data within a microcontextual research framework
+that allowed the authors to make clear behavioral inferences
+regarding hominin interactions with ﬁre in the past (Barkai
+et al. 2017).
+Negative Results from Schöningen and Zhoukoudian
+Other microcontextual studies have shown that some Paleolithic sites that were reported and widely cited as containing
+evidence for ﬁre in fact do not. One such case is Schöningen
+(Lower Saxony, Germany), an open-air Lower Paleolithic site
+dating to ca. 300 kya that is renowned for its excellent organic
+preservation, including wooden hunting implements. Thieme
+(1997, 1999) presented several lines of evidence for anthropogenic ﬁre at Schöningen, including four purportedly burned
+wooden implements as well as several features that he called
+Feuerstellen, or hearths. These features consisted of localized
+reddened areas of calcareous marl that were on average 1 m2 in
+size. Excavators noted that there were no obvious remains of
+charcoal or ash. In a preliminary micromorphological study of
+the features, Schiegl and Thieme (2007) suggested that the
+evidence for ﬁre alteration of the substrate was ambiguous
+based on the presence of mollusk shells that had not been heat
+altered.
+Expanding on the initial study of the features by Schiegl and
+Thieme, Stahlschmidt et al. (2015) conducted a more detailed
+microcontextual analysis employing micromorphology, FTIR
+and m-FTIR, organic petrology, mineral magnetic parameters,
+and thermoluminescence. Their analysis of the reddened areas
+showed that these features consisted of a thick, consolidated
+crust of iron oxide that impregnated the calcareous lake deposits
+of the substrate. In thin section, the reddening observed in the
+ﬁeld appeared to correlate with sediment containing staining
+and matrix impregnations of hematite, which result from natural redox processes (Lindbo, Stolt, and Vepraskas 2010). In
+direct association with the hematite were calcareous lake sediment and calcareous fragments of mollusk shells, which suggest that the substrate could not have been heated above 5007C.
+Similarly, the presence of kaolinite within the feature, which
+was identiﬁed using FTIR analysis, suggested that the substrate
+had never been heated above 4007C. A study of experimentally
+heated sediment collected from Schöningen suggested that the
+degree of reddening observed in the features would occur only
+at higher temperatures. Additionally, the thermoluminescence
+
+Volume 58, Supplement 16, August 2017
+
+study showed that the lithological character of the sediment
+within the features did not differ signiﬁcantly from those from
+outside of the features. Finally, none of the mineral magnetic
+parameters recorded from the sediment samples from the features corresponded with parameters measured from control
+samples of the calcareous lake deposits that were experimentally heated. The results of this study strongly suggested that the
+reddened features formed as a result of natural oxidation of the
+iron sulﬁde (pyrite) and organic material in the lake deposits.
+This process was probably induced by the artiﬁcial lowering of
+the water table at Schöningen during mining operations in the
+late twentieth century.
+The Schöningen microcontextual study did yield some evidence for ﬁre at the site, but the authors argue that it was
+probably not related to human behavior. Sand-size fragments
+of charcoal are present within the features. However, organic
+petrographic analysis of these fragments showed that the charcoal was not derived from wood but rather was composed of
+rounded fragments of peat. The authors argued that these
+fragments came from natural peat ﬁres and were subsequently
+redeposited in the lake.
+Similarly, the site of Zhoukoudian, Locality 1 (China), has
+long been cited as representing early evidence for ﬁre since its
+initial excavations in the 1920s and 1930s: the presence of burned
+bones and reddish layers were reported from both Layers 10
+and 4 and were interpreted as hearths (Black 1931; Jia-Chia
+1980; Jia and Huang 1990; Teilhard 1934; Wu and Lin 1983).
+Micromorphology and FTIR analysis of the sediments and features in both layers (Goldberg et al. 2001; Weiner et al. 1998)
+suggested that they were not related to heating. Layer 10 consists of ﬁnely laminated silt and clay interbedded with yellow
+and reddish brown organic fragments with localized fragments
+of limestone; charcoal was not observed in the ﬁeld. The ﬁnely
+laminated nature of the Layer 10 deposits is consistent with low
+energy water or ponded deposition by the Zhoukoudian River,
+which at that time entered the cave. In the ﬁeld, channeling and
+erosion of Layer 10 is clearly visible. Additionally, the deposits
+of Layer 10 completely lack the red-black-white structure of
+a combustion feature or hearth (Goldberg et al. 2001; ﬁg. 2).
+Micromorphological analysis also demonstrated that the reddening of Layer 4 is a result of diagenesis evidenced by the presence of ﬁne, silt-size grains of hematite. These grains probably
+formed during a period of subaerial exposure after the roof of
+the site had collapsed. Moreover, FTIR and elemental analyses
+revealed no evidence of heat alteration of the limestone (Weiner et al. 1998). However, new data from recent excavations
+presented by Gao et al. (2017) may reveal the presence of indisputable ﬁreplaces.
+Ambiguous Results from Wonderwerk
+Whereas the microcontextual studies at Zhoukoudian and
+Schöningen clearly demonstrated absence of evidence for anthropogenic ﬁre and the study at Qesem produced clear evidence for repeated use of ﬁre, other microcontextual studies
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+Goldberg, Miller, and Mentzer
+
+Recognizing Paleolithic Fire
+
+have produced results that are more difﬁcult to interpret. At
+Wonderwerk Cave (Northern Cape, South Africa), Berna et al.
+(2012) presented several lines of evidence for heated materials
+from a single layer dated to ca. 1.0 Ma. The study integrated
+micromorphology with m-FTIR, FTIR analysis of excavated
+bone fragments, and lithic analysis. The authors report potlidded lithics, which they interpret as having fractured as a result of heating, probably above 5007C. In addition, they noted
+that bones recovered during excavation exhibit colors that are
+consistent with bones that have been exposed to heat (Stiner
+et al. 1995). FTIR analysis of several of these bones demonstrated that they were heated to above 4007C, and additionally
+some altered clay adhering to a gray-colored bone suggested
+heating of the clay to somewhere between 4007C and 7007C.
+FTIR spectra collected on white bone fragments did not contain peaks that would indicate the high temperatures that are
+typically associated with calcination (Thompson, Islam, and
+Bonniere 2013). In micromorphological samples, Berna and colleagues (2012) identiﬁed pseudomorphic grains of oxalate crystals composed of calcite, which the authors identiﬁed as ashes
+following (Canti 2003; Wattez 1988); however, Berna et al.
+(2012) and Goldberg, Berna, and Chazan (2015) note that calciﬁed plant remains in the form of rhizoliths and other plant
+fragments are also present in the same deposits, suggesting that
+the formation history of these layers may be complex. Additionally, m-FTIR analysis conducted directly on the thin sections identiﬁed bone that was also heated to between 4007C
+and 5507C.
+The authors employed microcontextual analyses to identify
+the presence of heated materials at Wonderwerk Cave. To address the association of this evidence with hominin behavior,
+they considered both microscopic and site-scale formation processes of the deposits in question. The authors ﬁrst addressed
+whether the burning could have occurred independently of
+human activity. They argued that because the burned materials
+are distributed throughout a thick archaeological stratum, it is
+unlikely that wildﬁres could have repeatedly extended deep into
+the cave from the surrounding landscape. Second, they noted
+that whereas none of the burned materials were recovered in
+primary position, the angularity of the bone and ash fragments
+observed in thin section rules out the possibility that these
+materials were transported into the cave by natural processes.
+Berna et al. (2012) point out that without a clear combustion
+feature, it is difﬁcult to demonstrate hominin control of ﬁre
+(Roebroeks and Villa 2011). However, they argue that there is a
+clear association of human activity and ﬁre at Wonderwerk,
+implying human knowledge, if not use, of ﬁre in the cave.
+Difﬁcult Cases: The Levantine Middle Paleolithic
+In the three types of scenarios described above, microcontextual studies have contributed to answering the three questions
+about burned materials that were raised at the beginning of this
+paper. We feel that in addition to linking humans to burned
+materials, the microcontextual approach is instrumental in cases
+
+S183
+
+where less-than-ideal preservation conditions at Paleolithic sites
+have greatly altered the evidence for human use of ﬁre. Indeed,
+many of the analytical techniques that we champion in earlier
+sections of this paper were developed for the study of combustion features affected by chemical diagenesis and physical
+reworking or a combination thereof at the Levantine Middle
+Paleolithic sites of Kebara, Hayonim, and Amud (Berna and
+Goldberg 2008; Schiegl et al. 1994; Weiner, Goldberg, and BarYosef 2002; Weiner et al. 1995, 2007). In each of these sites,
+research teams expanded on an initial desire to document the
+presence of burned materials in primary or secondary position,
+ﬁrst integrating micromorphological studies with mineralogy
+and chemical analyses and later microsampling the intact features
+for other types of microscopic artifacts, such as phytoliths. In this
+way, these sites served as laboratories for the development of
+analytical techniques that, thanks to recent improvements in
+instrumentation, can now be directly applied to micromorphological samples (see table 1).
+At the sites of Kebara and Hayonim, evidence for ﬁre seems
+readily apparent in the ﬁeld (Meignen, Goldberg, and BarYosef 2007; Meignen et al. 2001), where the most obvious expression is structured combustion features consisting of a sometimes rubiﬁed basal substrate overlain by a charcoal-rich zone,
+which is capped by calcareous or diagenetically altered ashes
+consisting of apatite (dahllite) and other phosphate minerals
+(Meignen et al. 2001) In proﬁle, these features vary from
+centimeter- to decimeter-diameter lenses (e.g., Hayonim Cave)
+to thin, centimeter-thick stringers within depressions. In plan
+view the features are generally circular (Berna and Goldberg
+2008; Goldberg and Bar-Yosef 1998; Meignen, Goldberg, and
+Bar-Yosef 2007), although at Amud Cave, only the cemented
+ashy portions of the tripartite sequence of combustion features
+seem to have survived, the rest of the sediments having been
+homogenized by bioturbation (Berna and Goldberg 2008; Madella et al. 2002). At Kebara and Hayonim, similar vertical sequences of basal rubiﬁcation, burned organic matter or charcoal,
+and ashes can be seen in thin section, which also reveals repeated
+stacking of combusted layers that are not evident in the ﬁeld.
+In the ﬁeld, many of the features were identiﬁed as obvious
+combustion residues. Other features reveal an important caveat in trying to evaluate the former presence of ﬁre because of
+diagenesis: the physical and chemical changes following deposition. In Kebara and Hayonim, some of the original components, especially calcareous ashes, dissolved or were transformed into other minerals, such as phosphates (Berna and
+Goldberg 2008; Schiegl et al. 1994, 1996; Weiner, Schiegl, and
+Bar-Yosef 1995; Weiner et al. 1995, 2007). Although these
+changes can be readily observed in the ﬁeld where the original
+combustion structures still exist (e.g., Kebara Cave; Meignen,
+Goldberg, and Bar-Yosef 2007), other components, such as
+bone, have been completely dissolved (Goldberg et al. 2007;
+Schiegl et al. 1994; Weiner, Goldberg, and Bar-Yosef 1993, 2002;
+Weiner et al. 1995). Based on the typical sequence of rubiﬁed
+sediment overlain by charcoal and ashes that was documented
+in better-preserved areas of the sites (Meignen et al. 2001),
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+S184
+
+Current Anthropology
+
+similar features containing phosphate minerals and amorphous
+silicates instead of ashes were interpreted as hearths affected by
+diagenesis.
+In addition to micromorphology, a number of other techniques were employed to conﬁrm the presence of anthropogenic ﬁre within the sites. In Kebara Cave, researchers documented not only the presence of numerous hearth structures
+but also the occurrence of wood phytoliths, which would not
+have accumulated within the cave naturally (Albert, Berna, and
+Goldberg 2012; Albert et al. 2000). Furthermore, wood phytoliths also occur in cave sediments that do not contain hearth
+structures that are visible in the ﬁeld; these types of phytoliths
+are absent from control samples of terra rossa collected outside
+the site. In Amud Cave, phytoliths from calcareous ashes and
+surrounding sediments were studied using micromorphology
+and stable isotope analysis. The phytoliths were predominantly
+from wood (including palm and ﬁg), whereas grass phytoliths,
+which are fresh and composed of spikelets, were thought to
+have been brought into the cave and accumulated within the
+anthropogenic ashy units (Madella et al. 2002). Thus, the ubiquitous presence of wood phytoliths in ashes suggested that these
+siliceous materials could be an indication of ﬁreplaces in cases
+when the more soluble calcitic component might have been
+dissolved.
+One of the most important things to come out of the Levantine cave studies was an improved understanding of the
+microscopic expression of burned materials in different depositional contexts. The fabric and structure of burned materials, which are visible in thin section, can help one determine
+whether the burned materials (1) are in their original place;
+(2) have been reworked locally by natural processes such as
+bioturbation (Berna and Goldberg 2008; Goldberg and BarYosef 1998; Madella et al. 2002), colluviation, or runoff (Goldberg et al. 2007); or (3) have been reworked by human activities,
+such as dumping or hearth rake out (Goldberg 2003; Kuhn et al.
+2009; Meignen, Goldberg, and Bar-Yosef 2007; Miller 2015;
+Schiegl et al. 2003). At the site of Kebara, a large concentration of ashes in the rear of the cave was interpreted as a midden
+only after micromorphological analyses ruled out other agents
+of redeposition. Such evidence for intentional collection and
+movement of burned materials within the living environment
+not only provides an indirect marker of human intentionality
+in the control and maintenance of ﬁre but also shows that this
+behavior was repeated over long periods of time.
+Many of the techniques that, when combined, form the basis
+of a microcontextual analysis of a combustion feature, were
+developed during the decades-long excavations at these sites.
+In Kebara and Hayonim Caves, mineralogical analyses were
+classically carried out using FTIR in the ﬁeld on bulk sediment
+samples that were ground and made into a pellet using KBr as a
+binder; supplemental conﬁrmations followed in the laboratory
+using X-ray diffraction (XRD; e.g., Weiner, Goldberg, and BarYosef 1993; Weiner et al. 1995, 1998). Within the past decade,
+however, it became clear that certain contextual evidence was
+lost using bulk samples, even if they were collected as !1 g
+
+Volume 58, Supplement 16, August 2017
+
+samples in the ﬁeld: it was not readily apparent what was really being measured. For example, apatite in a sediment sample
+could be sand- or silt-size fragments of bone or a secondary
+precipitate. Thus, in order to have an idea of what is actually
+being analyzed in the sample, researchers have developed new
+microanalytical techniques such as m-FTIR and micro-XRD
+(m-XRD; Berna, forthcoming; Berthold and Mentzer, forthcoming). Although these techniques were not available at the
+time, similar microcontextual analyses were conducted directly on thin sections from Kebara and Hayonim using SEM/
+energy-dispersive X-ray spectroscopy (SEM/EDS; Schiegl et al.
+1996). Kebara Cave was also the site of one of the ﬁrst studies to integrate phytolith analyses from loose samples with
+micromorphology of combustion features (Albert, Berna, and
+Goldberg 2012), an approach that was recently extended to
+include phytolith identiﬁcations in thin section (Wadley et al.
+2011).
+Despite these methodological advances, true microcontextual studies from the Levantine “laboratory” sites are limited. However, a test case for the microcontextual approach
+was developed for the site of Kebara and presented by Berna
+and Goldberg (2008). They analyzed a large, well-structured
+hearth containing an organic-rich layer with bones overlain
+by ashes with both micromorphology and m-FTIR, which
+provided temperature estimates of the different components:
+(a) combusted plant fuel, heated at ~3007C, and the included
+burned bones heated at ~3007C; (b) the overlying !1 mm thick
+accumulation of phosphatized calcitic ashes with (c) inclusions
+of calcined bone heated at ≥5507C, and (d) burned soil particles
+heated at ≥5007C. These results yield evidence of heating of
+various components within the different parts of the hearth
+structure and also provide additional FTIR data to corroborate
+previous studies of the diagenesis of the features (e.g., Schiegl
+et al. 1996; Weiner et al. 2007). This work demonstrates how
+such an approach yields a more holistic picture of the conditions of formation and preservation of hearths.
+
+Approaches to Recognizing Heated
+Archaeological Materials
+Steps toward positive recognition of ﬁre in the Paleolithic archaeological record take place in both the ﬁeld and in the laboratory. The ﬁeld is the ﬁrst place where the context of possible
+burned material can be established, including the mutual associations among objects and features as well as their connection to the deposits that contain them.
+In the ﬁeld, one can note possible indicators of in situ ﬁre,
+including rubiﬁcation of sediments, the presence of ashy sediment, charcoal and char, and other burned objects, such as ﬁrecracked rock and burned or calcined bone. In younger sites
+intact, structured features, such as pits (including stone-lined or
+plastered pits; e.g., Thoms 2008, 2009) can be primary combustion features. Mounded accumulations and middens can
+also be loci of reworked combusted materials, like those ob-
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+Goldberg, Miller, and Mentzer
+
+Recognizing Paleolithic Fire
+
+served at sites such as Kebara and Üçağızlı (e.g., Goldberg 2003;
+Kuhn et al. 2009; Meignen, Goldberg, and Bar-Yosef 2007).
+Fieldwork aimed at recovering data about ﬁre should be
+focused on observing the setting of the site and its lithostratigraphy. For example, noting the shape, size, nature, and context of suspected burned zones may be helpful for deciding
+whether a reddened zone is the result of heating or diagenesis
+(Cushing et al. 1986; Pigati et al. 2014).
+In addition, objects and features should be recorded precisely
+in the ﬁeld using, for example, a theodolite system (Dibble and
+McPherron 1988; McPherron and Dibble 2002; McPherron,
+Dibble, and Goldberg 2005). This or a similar type of strategy
+provides both accurate 3-D data on objects, features, and samples and also virtual real-time data in the ﬁeld to assess the integrity of deposits, as well as the location and context of samples collected for further analysis in the laboratory.
+Laboratory analyses are needed to supply qualitative and
+quantitative data that, when combined with ﬁeld observations,
+can document—or at least suggest—the former presence of
+ﬁre. The materials Paleolithic archaeologists often cite as evidence for past ﬁre include ashes, charcoal, burned bone, heated
+(often reddened) substrates, and ﬁre-altered rocks; most of
+these materials are initially identiﬁed in the ﬁeld. For example,
+a deposit that appears grayish and silty is described as ashy,
+black ﬂecks encountered during excavation are called charcoal,
+black and white bones are termed charred and calcined, and
+reddened patches of sediment are ﬁre-altered substrate. Although these types of observations provide the ﬁrst line of
+evidence for the possible presence of ﬁre at an archaeological site, on their own, ﬁeld observations are not sufﬁcient to
+demonstrate heating, let alone human use of ﬁre. This is because interpreting these ﬁeld observations is confounded by
+equiﬁnality: the characteristics that we most often use to identify potential ﬁre evidence in the ﬁeld are not solely produced
+by ﬁre. For example, most ﬁeld identiﬁcations of burned materials—following guidelines that we advocate (e.g., Meignen
+et al. 2001)—are based on color: charcoal is black, burned bone
+is black or white, ash is gray, and heated substrates are red.
+However, color is not always a useful indicator for evidence of
+heating. Bone that has been subjected to heating can undergo
+color changes (Shipman, Foster, and Schoeninger 1984; Stiner
+et al. 2001), but similar color changes, particularly blackening,
+can be mimicked by mineral staining (Shahack-Gross, BarYosef, and Weiner 1997). Additionally, black-colored organic
+material may be carbonized; however, humiﬁed organic material can also appear black (e.g., Stahlschmidt et al. 2015; Taylor et al. 1998). Similarly, reddened patches of sediment can be
+caused by heating, but they can also form through natural processes of oxidation (Canti and Linford 2000; Stahlschmidt et al.
+2015). Therefore, any ﬁeld identiﬁcation of potential evidence
+for ﬁre must be followed up by laboratory analyses that can
+either conﬁrm or refute the ﬁeld observations. Over the past
+several decades, numerous laboratory techniques and methods
+have been developed and applied to suspected burned materials
+from archaeological sites. These techniques, the type of infor-
+
+S185
+
+mation they provide, and the capacities in which they can be
+informative about past use of ﬁre are summarized in table 1.
+Despite the plethora of techniques that can be successfully
+employed in the identiﬁcation of materials subjected to heat
+in the past, none of the techniques on their own can clearly
+demonstrate that the source of this heat was directly related
+to human behavior. Barbetti (1986) suggested that the macroscopic association of burned areas with concentrations of
+unambiguously cultural material may provide strong but not
+necessarily conclusive evidence for anthropogenic heating. However, as in the Peru example from the beginning of this paper
+(ﬁg. 1), natural ﬁres can mimic anthropogenic ones, so that
+the simple association of demonstrably burned materials with
+cultural artifacts can be ambiguous at best and misleading at
+worst. Since 1986, archaeological scientists have heeded Barbetti’s call for the application of new techniques for identifying
+heated remains in the archaeological record, but the problem of
+demonstrating human agency in the thermal alteration of archaeological materials remains. More attention must be paid to
+the deposit or deposits in which burned materials are found.
+We believe that the application of geoarchaeological methods is necessary to establish clear links between human behavior and ﬁre in the Paleolithic archaeological record. As geoarchaeologists working at the microscopic scale, we argue here
+for a research strategy that moves beyond simply associating
+cultural artifacts with burned remains in the ﬁeld. Rather, we
+advocate for the use of high-resolution approaches to the study
+of burned materials in Paleolithic archaeological sites. These
+approaches can be broadly grouped under the category of “microarchaeology” (sensu Weiner 2010). But more importantly,
+we stress the integration of different types of analyses and contextualization of burned materials within macroscopic and microscopic deposits.
+
+Summary and Concluding Comments
+As seen in the preceding case studies, determining whether one
+has evidence for human use of ﬁre at a Paleolithic site is more
+complicated than simply establishing whether burned remains
+are associated with cultural artifacts. First, one must determine
+that what is suspected to be burned—whether charcoal, ash,
+burned bone, or heat-altered stone and substrate—is in fact
+burned. Multiple studies including those at Schöningen (Stahlschmidt et al. 2015) and Zhoukoudian (Goldberg et al. 2001;
+Weiner et al. 1998) have repeatedly shown that simple ﬁeld
+identiﬁcations of heated remains are not reliable; laboratory
+tests are necessary for ﬁrmly establishing whether an object
+has been subjected to heat in the past. Thankfully, numerous
+techniques have been developed over the past several decades
+for examining how archaeological materials have been transformed through heating.
+On the other hand, when these techniques are used alone,
+they cannot demonstrate that the agent of heating was human
+rather than natural (see also Aldeias 2017). One must establish
+whether the burned materials are located where originally
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+S186
+
+Current Anthropology
+
+burned or whether they have been redeposited or transported
+since combustion. Determining the depositional history of
+burned materials—along with any other type of material contained within an archaeological site—requires that one conduct a geoarchaeological study that develops a holistic site
+formation model. A geoarchaeological perspective is necessary
+because context is more than the association of certain types
+of materials within a speciﬁc layer or site. Rather, context is the
+entire history of how these objects came to be associated with
+one another. By establishing the depositional history of burned
+remains and cultural materials, we can more readily assess the
+role that humans played in the formation of burned archaeological remains.
+To illustrate this point, we can look at two examples from the
+case studies above. At Schöningen, Stahlschmidt et al. (2015)
+reported the occurrence of small fragments of charcoal within
+layers containing cultural remains, namely, wooden spears and
+butchered bones. If we assume that context is simply a matter
+of association, then one could conclude that the fragments of
+charcoal were produced by humans. However, when they applied a microcontextual approach, Stahlschmidt et al. (2015)
+demonstrated that the fragments of charcoal were likely produced elsewhere as a result of peat ﬁres and were subsequently
+transported from their original place of combustion and redeposited within the lake sediments. These results strongly
+suggest that the charcoal fragments were formed by natural
+ﬁres despite their association with cultural remains. In contrast,
+at Qesem Cave, Karkanas et al. (2007) and Shahack-Gross
+et al. (2014) were able to demonstrate that various types of
+remains—such as ashes, burned bone, and heated soil aggregates—were associated with one another within single lenses.
+By establishing the association of these burned materials within
+individual depositional contexts and by investigating the formation processes of the cave, the authors could convincingly
+argue that such depositional contexts were not natural and
+were therefore probably anthropogenic.
+Recent studies, particularly those conducted at Qesem (Karkanas et al. 2007; Shahack-Gross et al. 2014) show how a microcontextual approach can provide insights into ﬁre-related
+behavior not readily gained from other types of studies. At
+Qesem, the researchers presented clear evidence for repeated,
+habitual use of ﬁre throughout the sequence and for repeated
+control of ﬁre in the form of a multiphase hearth. These types
+of observations go a long way in directly testing evolutionary
+models of hominin interaction with ﬁre. However, they are
+possible only through a microscopic approach that emphasizes
+integration and contextualization of multiple analytical techniques.
+Despite the promise that the microcontextual approach has
+shown, we should not see it as a panacea for making the identiﬁcation and interpretation of ﬁre use in the Paleolithic easy
+or simple. In fact, applications of the microcontextual approach
+to sites with potential evidence for early use of ﬁre have shown
+how complicated the issue can be. As seen in several of the case
+studies presented above, the results—even when placed within
+
+Volume 58, Supplement 16, August 2017
+
+a microcontextual framework—can be either difﬁcult to interpret or ambiguous. For sites like Kebara and Hayonim, the
+researchers were able to demonstrate that the repeated burning
+of hearths produced the sedimentary sequence seen at these
+sites. However, because the calcareous ashes that originally composed these hearths were susceptible to diagenesis, the researchers
+needed to study the chemical environment of the cave and how
+this inﬂuenced the preservation of ashes. A microcontextual
+approach here was essential for understanding the complex
+interplay of depositional and postdepositional processes and
+for establishing repeated use and control of ﬁre by Neanderthals in these sites.
+The researchers at Wonderwerk (Berna et al. 2012) could
+demonstrate at a microscopic scale that burned remains were
+found in association with cultural artifacts. And while they
+could argue that the burned materials are probably anthropogenic, they were circumspect in their interpretation of the
+results: an association of burned remains and artifacts may
+suggest knowledge and possible use of ﬁre, but it does not
+necessarily imply control or production.
+We can now revisit the ambiguous case from the Peruvian
+Andes presented at the beginning of the paper. We believe we
+were rightly concerned that if the remains of the bushﬁres
+entered into the archaeological record, it may be difﬁcult—if
+not impossible—to determine whether they were natural or
+cultural. Certainly, ﬁeld observations would establish that circular patches of charcoal and ash were associated with cultural
+remains. Even the location of one of the patches—within the
+center of the structure—would imply, based solely on association, that it was likely cultural and may even represent a central, domestic hearth. We suggested that given the possibility of
+stylistically dating the architecture of the house and radiometrically dating the charcoal from the “hearth” one could
+potentially establish a chronological association of the feature
+with the architecture. This scenario could still prove problematic if there is an old-wood effect, or if the house had been
+used for a long period of time. Even these concerns would
+be moot in a similar situation from a Paleolithic site, where
+stylistic dating of artifacts covers broad time periods and radiometric dating has large standard errors or is not directly
+applicable.
+However, a microcontextual analysis that would examine
+the depositional context of the burned remains may help resolve the issue. For example, a micromorphological study may
+provide evidence for an occupational hiatus between the last
+use of the structure (such as a ﬂoor or concentrated occupational debris) and the burned feature. This evidence could be a
+thin layer formed from the collapse of the roof of the structure
+or could include a thin layer of windblown sand, which would
+only accumulate once the building had been abandoned. Similarly, a micromorphological study may identify increased biological activity directly below the burned feature or even formation of a soil, which would imply stasis in accumulation and
+probably abandonment of the structure. Although all of these
+scenarios are hypothetical, they illustrate how an interpreta-
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+Goldberg, Miller, and Mentzer
+
+Recognizing Paleolithic Fire
+
+tion of human interaction with ﬁre requires a thorough and
+detailed understanding of the formation history of an entire
+site that can only be obtained at the microscopic scale.
+Researchers have successfully applied the microcontextual
+approach to critical sites that are, or have been, often quoted
+to document the presence of ﬁre in early human history, including Zhoukoudian and Schöningen. Microcontextual analyses have also provided suggestive evidence of ﬁre at sites that
+were not readily thought to have them at ﬁrst glance (e.g.,
+Wonderwerk). In this light, it is clear that such multimethod
+approaches need to be expanded to other sites, particularly
+early ones when circumstances permit, that have been thought
+to have evidence of early use of ﬁre (e.g., Swartkrans, Beeches
+Pit, Chesowanja, Olorgesailie) or other, yet-to-be-discovered
+sites.
+Attempts to study hominin interactions with ﬁre in the past
+necessarily depend on the context of the objects, features, deposits, and the site in its landscape (see examples in Aldeias
+2017; James 1989; Sandgathe 2017). So much of the older
+literature and excavations—and sadly, many current ones as
+well—fail to document or appreciate deposits, stratigraphy,
+geoarchaeology, and site formation, so we have a rather eclectic
+and fuzzy view of ﬁre from ancient and even more recent
+prehistoric sites. The message for the future seems clear: we
+have to make a concerted effort to closely examine the context
+of archaeological deposits at all scales using microcontextual
+approaches (e.g., micromorphology, m-FTIR, micro-XRF, m-XRD).
+Without such an approach, we can hope to achieve only incomplete results and answers.
+
+Acknowledgments
+A. Sistiaga Gutiérrez is gratefully acknowledged for a primer in
+organic matter, and comments from V. Aldeias and D. Sandgathe helped to clarify some of the text in its early stages.
+Deutsche Forschungsgemeinschaft grant MI 1748/1-1 funded
+analyses presented in ﬁgure 2. K. Rademaker facilitated our
+fortuitous discovery in the Andes.
+
+References Cited
+Albert, R. M., Francesco Berna, and Paul Goldberg. 2012. Insights on Neanderthal ﬁre use at Kebara Cave (Israel) through high resolution study of
+prehistoric combustion features: evidence from phytoliths and thin sections.
+Quaternary International 247:278–293.
+Albert, R. M., and D. Cabanes. 2007. Fire in prehistory: an experimental
+approach to combustion processes and phytolith remains. Israel Journal of
+Earth Sciences 56:175–189.
+Albert, R. M., O. Lavi, L. Estroff, S. Weiner, A. Tsatskin, A. Ronen, and S. LevYadun. 1999. Mode of occupation of Tabun Cave, Mt Carmel, Israel during
+the Mousterian period: a study of the sediments and phytoliths. Journal of
+Archaeological Science 26:1249–1260.
+Albert, R. M., S. Weiner, O. Bar-Yosef, and L. Meignen. 2000. Phytoliths in
+the Middle Palaeolithic deposits of Kebara Cave, Mt Carmel, Israel: study of
+the plant materials used for fuel and other purposes. Journal of Archaeological Science 27:931–947.
+Aldeias, Vera. 2017. Experimental approaches to archaeological ﬁre features
+and their behavioral relevance. Current Anthropology 58(suppl. 16):S191–
+S205.
+
+S187
+Almendros, G., F. Martin, and F. J. Gonzalez-Vila. 1988. Effects of ﬁre on
+humic and lipid fractions in a Dystric Xerochrept in Spain. Geoderma 42:
+115–127.
+Barbetti, M. 1986. Traces of ﬁre in the archaeological record, before one
+million years ago. Journal of Human Evolution 8:771–781.
+Barkai, Ran, Avi Gopher, S. Lauritzen, and A. Frumkin. 2003. Uranium series
+dates from Qesem Cave, Israel, and the end of the Lower Palaeolithic. Nature
+423:977–979.
+Barkai, Ran, Jordi Rosell, Ruth Blasco, and Avi Gopher. 2017. Fire for a reason:
+barbecue at Middle Pleistocene Qesem Cave, Israel. Current Anthropology 58
+(suppl. 16):S314–S328.
+Bellomo, R. 1993. A methodological approach for identifying archaeological
+evidence of ﬁre resulting from human activities. Journal of Archaeological
+Science 20:525–554.
+Berna, Francesco. Forthcoming. Micro-FTIR. In Encyclopedia of archaeological
+soil and sediment micromorphology. G. Stoops and C. Nicosia, eds. Hoboken,
+NJ: Wiley-Blackwell.
+Berna, Francesco, A. Behar, R. Shahack-Gross, J. Berg, J. Zorn, E. Boaretto,
+A. Gilboa, et al. 2007. Sediments exposed to high temperatures: reconstructing pyrotechnological processes in Late Bronze and Iron Age strata at Tel Dor
+(Israel). Journal of Archaeological Science 34:358–373.
+Berna, Francesco, and Paul Goldberg. 2008. Assessing Paleolithic pyrotechnology and associated hominin behavior in Israel. Israel Journal of
+Earth Sciences 56:107–121.
+Berna, Francesco, Paul Goldberg, L. K. Horwitz, J. Brink, S. Holt, M. Bamford,
+and Michael Chazan. 2012. Microstratigraphic evidence of in situ ﬁre in the
+Acheulean strata of Wonderwerk Cave, Northern Cape Province, South
+Africa. Proceedings of the National Academy of Sciences of the USA 109:7593–
+7594.
+Berthold, C., and Susan M. Mentzer. Forthcoming. Micro X-ray diffraction. In
+Encyclopedia of archaeological soil and sediment micromorphology. G. Stoops
+and C. Nicosia, eds. Hoboken, NJ: Wiley-Blackwell.
+Black, D. 1931. Evidence of the use of ﬁre by Sinanthropus. Bulletin of the
+Geological Society of China 11:107–108.
+Boivin, N. 2004. Landscape and cosmology in the South Indian Neolithic: new
+perspectives on the Deccan ashmounds. Cambridge Archaeological Journal
+14:235–257.
+Bordes, F. 1957. Review of K. P. Oakley “Fire as a Paleolithic tool and weapon.”
+L’Anthropologie 61:314–317.
+Brodard, A., P. Guibert, F. Lévêque, V. Mathé, L. Carozza, and A. Burens.
+2012. Thermal characterization of ancient hearths from the cave of Les
+Fraux (Dordogne, France) by thermoluminescence and magnetic susceptibility measurements. Quaternary Geochronology 10:353–358.
+Bullock, P., N. Fedoroff, A. Jongerius, G. Stoops, T. Tursina, and U. Babel.
+1985. Handbook for soil thin section description. Wolverhampton: Waine
+Research.
+Buonasera, T. 2005. Fatty acid analysis of prehistoric burned rocks: a case
+study from central California. Journal of Archaeological Science 32:957–965.
+Buonasera, T. Y., A. H. Tremayne, C. M. Darwent, J. W. Eerkens, and O. K.
+Mason. 2015. Lipid biomarkers and compound speciﬁc d13C analysis indicate early development of a dual-economic system for the Arctic Small Tool
+tradition in northern Alaska. Journal of Archaeological Science 61:129–138.
+Cabanes, D., Carolina Mallol, I. Exposito, and J. Baena. 2010. Phytolith evidence for hearths and beds in the late Mousterian occupations of Esquilleu
+cave (Cantabria, Spain). Journal of Archaeological Science 37:2947–2957.
+Canti, M., and N. Linford. 2000. The effects of ﬁre on archaeological soils and
+sediments: temperature and colour relationships. Proceedings of the Prehistoric Society 66:385–395.
+Canti, M. G. 2003. Aspects of the chemical and microscopic characteristics of
+plant ashes found in archaeological soils. Catena 54:339–361.
+Clark, J. L., and B. Ligouis. 2010. Burned bone in the Howieson’s Poort and
+post-Howieson’s Poort Middle Stone Age deposits at Sibudu (South Africa):
+behavioral and taphonomic implications. Journal of Archaeological Science
+37:2650–2661.
+Courty, M.-A., Paul Goldberg, and R. I. Macphail. 1989. Soils and micromorphology in archaeology. Cambridge: Cambridge University Press.
+Cushing, J., A. M. Wenner, E. Noble, and M. Daily. 1986. A groundwater
+hypothesis for the origin of “ﬁre areas” on the northern Channel Islands,
+California. Quaternary Research 26:207–217.
+Dalan, R. A., and S. K. Banerjee. 1998. Solving archaeological problems using
+techniques of soil magnetism. Geoarchaeology 13:3–36.
+Dibble, Harold L., and Shannon P. McPherron. 1988. On the computerization
+of archaeological projects. Journal of Field Archaeology 15:431–440.
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+S188
+
+Current Anthropology
+
+Domanski, M., and J. A. Webb. 1992. Effect of heat treatment on siliceous
+rocks used in prehistoric lithic technology. Journal of Archaeological Science
+19:601–614.
+Eckmeier, E., and G. L. B. Wiesenberg. 2009. Short-chain n-alkanes (C16–20)
+in ancient soil are useful molecular markers for prehistoric biomass burning.
+Journal of Archaeological Science 36(7):1590–1596.
+Elbaum, R., S. Weiner, R. M. Albert, and M. Elbaum. 2003. Detection of burning
+of plant materials in the archaeological record by changes in the refractive indices of siliceous phytoliths. Journal of Archaeological Science 30:217–226.
+Forget, M. C. L., L. Regev, D. E. Friesem, and R. Shahack-Gross. 2015. Physical
+and mineralogical properties of experimentally heated chaff-tempered mud
+bricks: implications for reconstruction of environmental factors inﬂuencing
+the appearance of mud bricks in archaeological conﬂagration events. Journal
+of Archaeological Science: Reports 2:80–93.
+Gao, Xing, Shuangquan Zhang, Yue Zhang, and Fuyou Chen. 2017. Evidence of
+hominin use and maintenance of ﬁre at Zhoukoudian. Current Anthropology
+58(suppl. 16):S267–S277.
+Goldberg, Paul. 2003. Some observations on Middle and Upper Palaeolithic
+ashy cave and rockshelter deposits in the Near East. In More than meets the
+eye: studies on Upper Palaeolithic diversity in the Near East. A. N. GoringMorris and A. Belfer-Cohen, eds. Pp. 19–32. Oxford: Oxbow.
+Goldberg, Paul, and O. Bar-Yosef. 1998. Site formation processes in Kebara
+and Hayonim Caves and their signiﬁcance in Levantine prehistoric caves.
+In Neandertals and modern humans in western Asia. T. Akazawa, K. Aoki,
+and O. Bar-Yosef, eds. Pp. 107–125. New York: Plenum.
+Goldberg, Paul, and Francesco Berna. 2010. Micromorphology and context.
+Quaternary International 214:56–62.
+Goldberg, Paul, Francesco Berna, and Michael Chazan. 2015. Deposition and
+diagenesis in the Earlier Stone Age of Wonderwerk Cave, Excavation 1,
+South Africa. African Archaeological Review 32:613–643.
+Goldberg, Paul, H. Laville, L. Meignen, and O. Bar-Yosef. 2007. Stratigraphy
+and geoarchaeological history of Kebara Cave, Mount Carmel. In Kebara
+Cave, Mt. Carmel, Israel: the Middle and Upper Paleolithic archaeology, pt. 1.
+O. Bar-Yosef and L. Meignen, eds. Pp. 49–89. American School of Prehistoric
+Research Bulletin 49. Cambridge, MA: Peabody Museum of Archaeology
+and Ethnology, Harvard University.
+Goldberg, Paul, and R. I. Macphail. 2003. Strategies and techniques in collecting
+micromorphology samples. Geoarchaeology 18:571–578.
+———. 2006. Practical and theoretical geoarchaeology. Oxford: Blackwell.
+Goldberg, Paul, Christopher E. Miller, S. Schiegl, Francesco Berna, B. Ligouis,
+N. J. Conard, and L. Wadley. 2009. Bedding, hearths, and site maintenance
+in the Middle Stone Age of Sibudu Cave, KwaZulu-Natal, South Africa.
+Archaeological and Anthropological Sciences 1:95–122.
+Goldberg, Paul, S. Weiner, O. Bar-Yosef, Q. Xu, and J. Liu. 2001. Site formation processes at Zhoukoudian, China. Journal of Human Evolution 41:
+483–530.
+Gopher, Avi, Ran Barkai, R. Shimelmitz, M. Khalaily, C. Lemorini, I. Heshkovitz,
+and M. Stiner. 2005. Qesem Cave: an Amudian site in Central Israel. Journal
+of the Israel Prehistoric Society 35:69–92.
+Gose, W. 2000. Paleomagnetic studies of burned rocks. Journal of Archaeological Science 27:409–421.
+Gur-Arieh, S., E. Mintz, E. Boaretto, and R. Shahack-Gross. 2013. An ethnoarchaeological study of cooking installations in rural Uzbekistan: development of a new method for identiﬁcation of fuel sources. Journal of Archaeological Science 40:4331–4347.
+Harrold, F., and M. Otte. 2001. Time, space, and cultural process in the European Middle-Upper Palaeolithic transition. In Questioning the answers: resolving fundamental problems of the Early Upper Paleolithic. M. A. Hays and
+P. T. Thacker, eds. Pp. 3–12. British Archaeological Reports International
+Series 1005. Oxford: Archaeopress.
+James, S. R. 1989. Hominid use of ﬁre in the Lower and Middle Pleistocene.
+Current Anthropology 30:1–26.
+Jia, L., and W. Huang. 1990. The story of Peking Man. Beijing: Foreign
+Languages Press.
+Jia, L. P. 1980. Early man in China. Beijing: Foreign Language Press.
+Karkanas, P. 2010. Preservation of anthropogenic materials under different
+geochemical processes: a mineralogical approach. Quaternary International
+214:63–69.
+Karkanas, P., M. Koumouzelis, J. K. Kozlowski, V. Sitlivy, K. Sawbucks, Francesco Berna, and S. Weiner. 2004. The earliest evidence for clay hearths: Aurignacian features in Closure Cave 1, southern Greece. Antiquity 78:513–525.
+Karkanas, P., J. P. Rigged, J. F. Semite, R. M. Albert, and S. Weiner. 2002. Ash
+bones and guano: a study of the minerals and phytoliths in the sediments of
+
+Volume 58, Supplement 16, August 2017
+
+Grotte XVI, Dordogne, France. Journal of Archaeological Science 29:721–
+732.
+Karkanas, P., R. Shahack-Gross, A. Ayalon, M. Bar-Matthews, Ran Barkai,
+A. Frumkin, Avi Gopher, and M. C. Stiner. 2007. Evidence for habitual use
+of ﬁre at the end of the Lower Paleolithic: site-formation processes at Qesem
+Cave, Israel. Journal of Human Evolution 53:197–212.
+Kuhn, S. L., M. C. Stiner, E. Güleç, I. Özer, H. Yilmaz, I. Baykara, A. AçIkkol,
+et al. 2009. The early Upper Paleolithic occupations at ÜçagIzlI Cave (Hatay,
+Turkey). Journal of Human Evolution 56:87–113.
+Lindbo, D. L., M. H. Stolt, and M. J. Vepraskas. 2010. Redoximorphic features.
+In Interpretation of micromorphological features of soils and regoliths. G.
+Stoops, V. Marcelino, and F. Mees, eds. Pp. 129–147. Amsterdam: Elsevier.
+Lowe, K. M., Susan M. Mentzer, L. A. Wallis, and J. Shulmeister. 2016. A multiproxy study of anthropogenic sedimentation and human occupation of Gledswood Shelter 1: exploring an interior sandstone rockshelter in Northern
+Australia. Archaeological and Anthropological Sciences, doi:10.1007/s12520
+-016-0354-8.
+Macphail, R. I., and G. M. Cruise. 2001. The soil micromorphologist as team
+player: a multianalytical approach to the study of European microstratigraphy. In Earth science and archaeology. Paul Goldberg, V. Holliday, and
+R. Ferring, eds. Pp. 241–267. New York: Plenum.
+Madella, M., M. K. Jones, Paul Goldberg, Y. Goren, and E. Hovers. 2002. Exploitation of plant resources by Neanderthals in Amud Cave (Israel): the
+evidence from phytolith studies. Journal of Archaeological Science 29:703–
+719.
+Mallol, Carolina, C. M. Hernández, D. Cabanes, A. Sistiaga, J. Machado, Á.
+Rodríguez, L. Pérez, and B. Galván. 2013. The black layer of Middle Palaeolithic combustion structures: interpretation and archaeostratigraphic implications. Journal of Archaeological Science 40:2515–2537.
+Mallol, Carolina M., Susan M. Mentzer, and Christopher E. Miller. Forthcoming. Combustion features. In Encyclopedia of archaeological soil and sediment micromorphology. G. Stoops and C. Nicosia, eds. Hoboken, NJ: WileyBlackwell.
+March, R. J. 2013. Searching for the functions of ﬁre structures in Eynan
+(Mallaha) and their formation processes: a geochemical approach. In Natuﬁan foragers in the Levant. O. Bar-Yosef and F. Valla, eds. Pp. 227–283. Ann
+Arbor, MI: International Monographs in Prehistory.
+March, R. J., J. C. Ferreri, and C. Guez. 1993. Étude des foyers préhistoriques
+des gisements magdaléniens du Bassin Parisien: l’approche expérimentale.
+Mémoires du Groupement Archéologique de Seine-et-Marne 1:87–95.
+Matthews, W. 2005. Micromorphological and microstratigraphic traces of
+uses and concepts of space. In Inhabiting Çatalhöyük: reports from the 1995–
+1999 seasons. I. Hodder, ed. Pp. 355–398. BIAA Monograph 40. Ankara:
+McDonald Institute Monographs.
+Matthews, W., C. A. I. French, T. Lawrence, D. F. Cutler, and M. K. Jones. 1997.
+Microstratigraphic traces of site formation processes and human activities.
+World Archaeology 29:281–308.
+McPherron, Shannon P., and Harold Dibble. 2002. Using computers in archaeology: a practical guide. New York: McGraw Hill.
+McPherron, Shannon J. P., Harold L. Dibble, and Paul Goldberg. 2005. Z. Geoarchaeology 20:243–262.
+Meignen, L., O. Bar-Yosef, Paul Goldberg, and S. Weiner. 2001. Le feu au
+Paléolithique moyen: recherches sur les structures de combustion et le
+statut des foyers: l’exemple du Proche-Orient. Paléorient 26:9–22.
+Meignen, L., Paul Goldberg, and O. Bar-Yosef. 2007. The hearths at Kebara
+Cave and their role in site formation processes. In Kebara Cave, Mt. Carmel,
+Israel: the Middle and Upper Paleolithic archaeology, pt. 1. O. Bar-Yosef and
+L. Meignen, eds. Pp. 91–122. American School of Prehistoric Research
+Bulletin 49. Cambridge, MA: Peabody Museum of Archaeology and Ethnology, Harvard University.
+Mentzer, Susan. 2013. Microarchaeological approaches to the identiﬁcation
+and interpretation of combustion features in prehistoric archaeological sites.
+Journal of Archaeological Method and Theory 21:616–668.
+Mentzer, Susan M., and J. Quade. 2013. Compositional and isotopic analytical
+methods in archaeological micromorphology. Geoarchaeology 28:87–97.
+Mentzer, Susan M., D. G. Romano, and M. E. Voyatzis. 2015. Micromorphological contributions to the study of ritual behavior at the ash altar to Zeus on
+Mt. Lykaion, Greece. Archaeological and Anthropological Sciences, doi:10.1007
+/s12520-014-0219-y.
+Mercier, N., H. Valladas, L. Froget, J.-L. Joron, J.-L. Reyss, S. Weiner, Paul
+Goldberg, L. Meignen, O. Bar-Yosef, and A. Belfer-Cohen. 2007. Hayonim
+Cave: a TL-based chronology for this Levantine Mousterian sequence. Journal of Archaeological Science 34:1064–1077.
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+Goldberg, Miller, and Mentzer
+
+Recognizing Paleolithic Fire
+
+Michel, V., C. Falguères, and J.-M. Dolo. 1998. ESR signal behavior study at
+g ∼ 2.002 of modern and fossil bones for heating palaeotemperature assessment. Radiation measurements 29:95–103.
+Miller, Christopher E. 2015. A tale of two Swabian caves: geoarchaeological
+investigations at Hohle Fels and Geißenklösterle. Tübingen Publications in
+Prehistory. Tübingen: Kerns.
+Miller, Christopher E., Paul Goldberg, and Francesco Berna. 2013. Geoarchaeological investigations at Diepkloof Rock Shelter, Western Cape, South
+Africa. Journal of Archaeological Science 40:3432–3452.
+Movius, H. L. J. 1966. The hearths of the Upper Perigordian and Aurignacian
+horizons at the Abri Pataud, Les Eyzies (Dordogne), and their possible signiﬁcance. American Anthropologist 68:296–325.
+Oakley, K. P. 1954. Evidence of ﬁre in South African cave deposits. Nature
+174:261–262.
+Pigati, J. S., J. P. McGeehin, G. L. Skipp, and D. R. Muhs. 2014. Evidence
+of repeated wildﬁres prior to human occupation on San Nicolas Island,
+California. Monographs of the Western North American Naturalist 7:35–47.
+Piperno, D. R. 2006. Phytoliths: a comprehensive guide for archaeologists and
+paleoecologists. Lanham, MD: AltaMira.
+Regev, L., K. M. Poduska, L. Addadi, S. Weiner, and E. Boaretto. 2010. Distinguishing between calcites formed by different mechanisms using infrared
+spectrometry: archaeological applications. Journal of Archaeological Science
+37:3022–3029.
+Renfrew, C., and P. Bahn. 2007. Archaeological essentials. New York: Thames &
+Hudson.
+Richter, D. 2007. Advantages and limitations of thermoluminescence dating
+of heated ﬂint from Paleolithic sites. Geoarchaeology 22:671–683.
+Roebroeks, W., and P. Villa. 2011. On the earliest evidence for habitual use of
+ﬁre in Europe. Proceedings of the National Academy of Sciences of the USA
+108:5209–5214.
+Rogers, K., and P. Daniels. 2002. An X-ray diffraction study of the effects of
+heat treatment on bone mineral microstructure. Biomaterials 23:2577–2585.
+Sandgathe, Dennis M. 2017. Identifying and describing pattern and process in
+the evolution of hominin use of ﬁre. Current Anthropology 58(suppl. 16):
+S360–S370.
+Schiegl, S., Paul Goldberg, O. Bar-Yosef, and S. Weiner. 1996. Ash deposits in
+Hayonim and Kebara Caves, Israel: macroscopic, microscopic and mineralogical observations, and their archaeological implications. Journal of
+Archaeological Science 23:763–781.
+Schiegl, S., Paul Goldberg, H.-U. Pfretzschner, and N. J. Conard. 2003. Paleolithic burnt bone horizons from the Swabian Jura: distinguishing between in situ ﬁre places and dumping areas. Geoarchaeology 18:541–565.
+Schiegl, S., S. Lev-Yadun, O. Bar-Yosef, A. El Goresy, and S. Weiner. 1994.
+Siliceous aggregates from prehistoric wood ash: a major component of
+sediments in Kebara and Hayonim Caves (Israel). Israel Journal of Earth
+Sciences 43:267–278.
+Schiegl, S., and H. Thieme. 2007. Auf den Spuren von Feuer in Schöningen 13
+II-4. In Die Schöninger Speere-Menschen und Jagd vor 400,000 Jahren.
+H. Thieme, ed. Pp. 167–171. Stuttgart: Theis.
+Schmidt, P., S. Masse, G. Laurent, A. Slodczyk, E. Le Bourhis, C. Perrenoud, J.
+Livage, and F. Fröhlich. 2012. Crystallographic and structural transformations
+of sedimentary chalcedony in ﬂint upon heat treatment. Journal of Archaeological Science 39:135–144.
+Schmidt, P., G. Porraz, A. Slodczyk, L. Bellot-Gurlet, W. Archer, and
+Christopher E. Miller. 2013. Heat treatment in the South African Middle
+Stone Age: temperature induced transformations of silcrete and their technological implications. Journal of Archaeological Science 40:3519–3531.
+Schurr, M. R., and R. G. Hayes. 2008. Stable carbon- and nitrogen-isotope ratios
+and electron spin resonance (ESR) g-values of charred bones: changes with
+heating and a critical evaluation of the utility of g-values for reconstructing
+thermal history and original isotope ratios. Journal of Archaeological Science
+35:2017–2031.
+Scott, A. C. 2000. The pre-Quaternary history of ﬁre. Palaeogeography, Palaeoclimatology, Palaeoecology 164:281–329.
+Shahack-Gross, R., and A. Ayalon. 2013. Stable carbon and oxygen isotopic
+compositions of wood ash: an experimental study with archaeological implications. Journal of Archaeological Science 40:570–578.
+Shahack-Gross, R., A. Ayalon, Paul Goldberg, Y. Goren, B. Ofek, R. Rabinovich, and E. Hovers. 2008. Formation processes of cemented features in
+karstic cave sites revealed using stable oxygen and carbon isotopic analyses:
+a case study at Middle Paleolithic Amud Cave, Israel. Geoarchaeology 23:
+43–62.
+
+S189
+Shahack-Gross, R., O. Bar-Yosef, and S. Weiner. 1997. Black-coloured bones
+in Hayonim Cave, Israel: differentiating between burning and oxide staining.
+Journal of Archaeological Science 24:439–446.
+Shahack-Gross, R., Francesco Berna, P. Karkanas, C. Lemorini, Avi Gopher,
+and Ran Barkai. 2014. Evidence for the repeated use of a central hearth at
+Middle Pleistocene (300 ky ago) Qesem Cave, Israel. Journal of Archaeological Science 44:12–21.
+Shipman, P., G. Foster, and M. Schoeninger. 1984. Burnt bones and teeth: an
+experimental study of color, morphology, crystal structure and shrinkage.
+Journal of Archaeological Science 11:307–325.
+Sistiaga, A., R. March, C. M. Hernández Gómez, and B. Galván Santos. 2011.
+Aproximación desde la química orgánica al estudio de los hogares del
+yacimiento del Paleolítico medio de El Salt (Alicante, España). Recerques
+del Museu d’Alcoi 20:47–70.
+Stahlschmidt, M. C., Christopher E. Miller, B. Ligouis, U. Hambach, Paul
+Goldberg, Francesco Berna, D. Richter, B. Urban, J. Serangeli, and N. J.
+Conard. 2015. On the evidence for human use and control of ﬁre at Schöningen. Journal of Human Evolution 89:181–201.
+Stiner, M. C., S. L. Kuhn, T. A. Surovell, Paul Goldberg, L. Meignen, S. Weiner,
+and O. Bar-Yosef. 2001. Bone preservation in Hayonim Cave (Israel): a
+macroscopic and mineralogical study. Journal of Archaeological Science 28:
+643–659.
+Stiner, M. C., S. L. Kuhn, S. Weiner, and O. Bar-Yosef. 1995. Differential
+burning, recyrstallization, and fragmentation of archaeological bone. Journal of Archaeological Science 22:223–237.
+Stoops, G. 2003. Guidelines for analysis and description of soil and regolith
+thin sections. Madison, WI: Soil Science Society of America.
+Suá rez-Ruiz, I. 2012. Organic petrology: an overview. In Petrology: new perspectives and applications. A. Al-Juboury, ed. Rijeka, Croatia: INTECH, doi:10
+.5772/23431. https://www.intechopen.com/books/petrology-new-perspectives
+-and-applications/organic-petrology-an-overview.
+Taylor, G. H., M. Teichmüller, D. A., Diessel, C. F. K., R. Littke, and P. Robert.
+1998. Organic petrology. Berlin-Stuttgart: Gebrüder Bornträger.
+Teilhard de Chardin, Pierre. 1934. Les fouilles préhistoriques de Péking. Revue
+des Questions Scientiﬁques 25:181–193.
+Thieme, H. 1997. Lower Palaeolithic hunting spears from Germany. Nature
+385:807–810.
+———. 1999. Altpaläolithische Holzgeräte aus Schöningen, Lkr. Helmstedt:
+Bedeutsame Funde zur Kulturentwicklung des frühen Menschen. Germania
+77:451–487.
+Thompson, T. J. U., M. Islam, and M. Bonniere. 2013. A new statistical approach for determining the crystallinity of heat-altered bone mineral from
+FTIR spectra. Journal of Archaeological Science 40:416–422.
+Thoms, A. V. 2008. The ﬁre stones carry: ethnographic records and archaeological expectations for hot-rock cookery in western North America. Journal
+of Anthropological Archaeology 27:443–460.
+———. 2009. Rocks of ages: propagation of hot-rock cookery in western
+North America. Journal of Archaeological Science 36:573–591.
+Toffolo, M., A. M. Maeir, J. R. Chadwick, and E. Boaretto. 2012. Characterization of contexts for radiocarbon dating: results from the early Iron Age
+at Tell es-Saﬁ/Gath, Israel. Radiocarbon 54:371–390.
+Wadley, L., C. Sievers, M. Bamford, Paul Goldberg, Francesco Berna, and
+Christopher Miller. 2011. Middle Stone Age bedding construction and
+settlement patterns at Sibudu, South Africa. Science 334:1388–1391.
+Wattez, J. 1988. Contribution à la connaissance des foyers préhistoriques par
+l’étude des cendres. Bulletin de la Société Préhistorique Française 85:353–
+366.
+Weiner, S. 2010. Microarchaeology: beyond the visible archaeological record.
+New York: Cambridge University Press.
+Weiner, S., and O. Bar-Yosef. 1990. States of preservation of bones from prehistoric sites in the Near East: a survey. Journal of Archaeological Science
+17:187–196.
+Weiner, S., Francesco Berna, I. Cohen-Ofri, R. Shahack-Gross, R. M. Albert,
+P. Karkanas, L. Meignen, and O. Bar-Yosef. 2007. Mineral distributions in
+Kebara Cave: diagenesis and its effect on the archaeological record. In Kebara
+Cave, Mt. Carmel, Israel: the Middle and Upper Paleolithic archaeology.
+O. Bar-Yosef and L. Meignen, eds. Pp. 131–146. American School of Prehistoric Research Bulletin 49. Cambridge, MA: Peabody Museum of Archaeology and Ethnology, Harvard University.
+Weiner, S., and Paul Goldberg. 1990. On site Fourier transform-infrared
+spectrometry at an archaeological excavation. Spectroscopy International 2(2):
+38–42.
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+S190
+
+Current Anthropology
+
+Weiner, S., Paul Goldberg, and O. Bar-Yosef. 1993. Bone preservation in
+Kebara Cave, Israel using on-site Fourier transform infrared spectrometry.
+Journal of Archaeological Science 20:613–627.
+———. 2002. Three-dimensional distribution of minerals in the sediments of
+Hayonim Cave, Israel: diagenetic processes and archaeological implications.
+Journal of Archaeological Science 29:1289–1308.
+Weiner, S., S. Schiegl, and O. Bar-Yosef. 1995. Recognizing ash deposits in the
+archaeological record: a mineralogical study at Kebara and Hayonim caves,
+Israel. Acta Anthropologica Sinica 14:340–351.
+Weiner, S., S. Schiegl, Paul Goldberg, and O. Bar-Yosef. 1995. Mineral assemblages in Kebara and Hayonim Caves, Israel: excavation strategies, bone
+
+Volume 58, Supplement 16, August 2017
+
+preservation, and wood ash remnants. Israel Journal of Chemistry 35:143–
+154.
+Weiner, S., Q. Xu, Paul Goldberg, J. Liu, and O. Bar-Yosef. 1998. Evidence for
+the use of ﬁre at Zhoukoudian, China. Science 281:251–253.
+Weymouth, J. W., and M. Mandeville. 1975. An X-ray diffraction study
+of heat-treated chert and its archaeological implications. Archaeometry 17:
+61–67.
+Wu, R., and S. Lin. 1983. Peking Man. Scientiﬁc American 246:86–95.
+Xu, B., M. B. Toffolo, L. Regev, E. Boaretto, and K. M. Poduska. 2015. Structural
+differences in archaeologically relevant calcite. Analytical Methods 7:9304–
+9309.
+
+This content downloaded from 132.229.250.193 on September 23, 2019 07:00:04 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+

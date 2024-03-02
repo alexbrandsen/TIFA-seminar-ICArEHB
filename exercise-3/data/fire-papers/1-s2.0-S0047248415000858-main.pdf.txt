@@ -1,0 +1,2759 @@
+Journal of Human Evolution 89 (2015) 181e201
+
+Contents lists available at ScienceDirect
+
+Journal of Human Evolution
+journal homepage: www.elsevier.com/locate/jhevol
+
+€ ningen
+On the evidence for human use and control of ﬁre at Scho
+Mareike C. Stahlschmidt a, *, Christopher E. Miller a, b, Bertrand Ligouis c,
+Ulrich Hambach d, Paul Goldberg a, e, Francesco Berna e, f, Daniel Richter d, g,
+Brigitte Urban h, i, Jordi Serangeli j, Nicholas J. Conard j, k
+a
+
+Institute for Archaeological Sciences, University of Tübingen, Rümelinstr. 23, 72070 Tübingen, Germany
+Senckenberg Centre for Human Evolution and Palaeoecology, University of Tübingen, Rümelinstr. 23, 72070 Tübingen, Germany
+c
+Laboratories for Applied Organic Petrology (LAOP), Institute for Archaeological Sciences, University of Tübingen, Rümelinstr. 23, 72070 Tübingen, Germany
+d
+€t Bayreuth, Universit€atsstraße 30, 95440 Bayreuth, Germany
+BayCEER & Lehrstuhl für Geomorphologie, Universita
+e
+Department of Archaeology, Boston University, 675 Commonwealth Avenue, Boston, MA 02215, USA
+f
+Department of Archaeology, Simon Fraser University, 8888 University Drive, Burnaby, British Columbia V5A 1S6, Canada
+g
+Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Deutscher Platz 6, 04103 Leipzig, Germany
+h
+Leuphana University Lüneburg, 21335 Lüneburg, Germany
+i
+Early Prehistory and Quaternary Ecology, Institute for Pre- and Protohistory and Archaeology of the Middle Ages, University of Tübingen, 72070 Tübingen,
+Germany
+j
+Department of Early Prehistory and Quaternary Ecology, University of Tübingen, Schloss Hohentübingen, 72070 Tübingen, Germany
+k
+Senckenberg Centre for Human Evolution and Palaeoecology, University of Tübingen, Schloss Hohentübingen, 72070 Tübingen, Germany
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 12 March 2014
+Accepted 7 April 2015
+Available online 16 June 2015
+
+When and how humans began to control ﬁre has been a central debate in Paleolithic archaeology for
+decades. Fire plays an important role in technology, social organization, subsistence, and manipulation of
+the environment and is widely seen as a necessary adaptation for the colonization of northern latitudes.
+Many researchers view purported hearths, burnt wooden implements, and heated ﬂints from
+€ ningen as providing the best evidence for the control of ﬁre in the Lower Paleolithic of Northern
+Scho
+Europe. Here we present results of a multianalytical study of the purported hearths along with a critical
+€ ningen. We conclude that
+examination of other possible evidence of human use or control of ﬁre at Scho
+the analyzed features and artifacts present no convincing evidence for human use or control of ﬁre. Our
+study also shows that a multianalytical, micro-contextual approach is the best methodology for evaluating claims of early evidence of human-controlled ﬁre. We advise caution with macroscopic, qualitative
+identiﬁcation of combustion features, burnt ﬂint, and burnt wood without the application of such
+techniques as micromorphology, Fourier transform infrared (FTIR) spectroscopy, organic petrology,
+luminescence, and analysis of mineral magnetic parameters. The lack of evidence for the human control
+€ningen raises the possibility that ﬁre control was not a necessary adaptation for the human
+of ﬁre at Scho
+settlement of northern latitudes in the Lower Paleolithic.
+© 2015 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Early ﬁre
+Northern latitudes
+Human behavior
+Paleolithic archaeology
+Micromorphology
+
+1. Introduction
+The origins of the use and control of ﬁre is one of the central and
+most debated topics in Paleolithic archaeology and human evolution (e.g., Goudsblom, 1986; James et al., 1989; de Lumley, 2006;
+Gowlett, 2006; Wrangham, 2009; Alperson-Aﬁl and Goren-Inbar,
+2010; Roebroeks and Villa, 2011a; Sandgathe et al., 2011a; Gowlett and Wrangham, 2013). Fire use and control would have provided several crucial advantages to early humans: it can serve as a
+
+* Corresponding author.
+E-mail address: mareike.stahlschmidt@ucd.ie (M.C. Stahlschmidt).
+http://dx.doi.org/10.1016/j.jhevol.2015.04.004
+0047-2484/© 2015 Elsevier Ltd. All rights reserved.
+
+light and heating source (Oakley, 1955; Bellomo, 1994; Gilligan,
+2010), as a hunting aid (Goudsblom, 1986; Mallol et al., 2007),
+can be used for cleaning occupation surfaces (Goldberg et al., 2009;
+Wadley et al., 2011), as protection from predators (Goudsblom,
+1986; Brain, 1991), as a means to improve tool technology
+(Ahlers, 1983; Mallol et al., 2007; Brown et al., 2009), and as a way
+to increase food range, its nutritional value, and preservation (Stahl
+et al., 1984; Bellomo, 1994; Wrangham et al., 1999; Wrangham and
+Conklin-Brittain, 2003; Mallol et al., 2007; Wrangham, 2009; for an
+overview, see Clark and Harris, 1985). Because of these advantages,
+archaeologists assign ﬁre use and control an important role in
+human evolution. Brain (1991) suggests that ﬁre use and control
+could have increased early humans' competitiveness (Brain, 1991),
+
+182
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+and Gowlett (2006) and Wrangham (2009) amongst others
+(Rolland, 2004; Pruetz and LaDuke, 2010) suggest that ﬁre use and
+control impacted the evolution of biological traits, including brain
+size and cognition.
+Furthermore, several researchers see the use and control of ﬁre
+as a precondition for the ﬁrst settlement of northern latitudes
+(Oakley, 1955; Brace et al., 1987; Straus, 1989; Weiner et al., 1998;
+Wrangham et al., 1999; Klein, 2002; Rolland, 2004; Gowlett,
+€ ningen are referenced
+2006; Preece et al., 2006). The sites at Scho
+as among the earliest such examples (Mania, 1995; Thieme, 1997,
+2005, 2007a, b, c, d; Klein, 2002, 2009; Goren-Inbar et al., 2004;
+Alperson-Aﬁl and Goren-Inbar, 2006; Gowlett, 2006; Preece et al.,
+2006; Berna and Goldberg, 2008; Wrangham, 2009; Daniau et al.,
+2010; Roebroeks and Villa, 2011a; Gowlett and Wrangham, 2013;
+Shahack-Gross et al., 2014). Northern latitudes present several
+challenges to their occupants, having shorter duration of daylight in
+winter, severely cold winters, a variety of large predators, and a
+scarcity of edible plants during winter, consequently demanding a
+stronger reliance on animal resources. According to Gilligan (2010),
+these challenges can be answered through seasonal migration,
+physical adaptation, or technological improvement in the form of
+new hunting weaponry, clothing, use of shelters, and use of ﬁre.
+Most evidence for early use of ﬁre relies on macroscopic, qualitative identiﬁcation of residues and objects that appear to have
+been affected by ﬁre, often described as a change in color (e.g.,
+Purdy and Brooks, 1971; Purdy, 1971, 1975; Shipman et al., 1984).
+However, macroscopic observations of burning are often
+misleading and need to be conﬁrmed by speciﬁc analyses, such as
+micromorphology, Fourier transform infrared (FTIR) spectroscopy,
+organic petrology, analysis of mineral magnetic parameters, and
+thermoluminescence measurements (e.g., James et al., 1989; Stiner
+et al., 1995; Shahack-Gross et al., 1997; Richter, 1998; Goldberg
+et al., 2001; Ligouis, 2006; Hanson and Cain, 2007; Roebroeks and
+Villa, 2011a). In short, human control of ﬁre is best investigated by
+employing a micro-contextual approach (e.g., Karkanas et al.,
+2007).
+Several researchers cite hearths, burnt wood, and ﬂint from
+different localities and ﬁnd horizons as providing evidence for
+€ ningen (e.g., Klein, 2002;
+human use and control of ﬁre at Scho
+Alperson-Aﬁl and Goren-Inbar, 2006; Berna and Goldberg, 2008;
+Wrangham, 2009; Weiner, 2010; Roebroeks and Villa, 2011a).
+However, apart from a preliminary and inconclusive micromorphological investigation of one of the purported hearths (Schiegl
+and Thieme, 2007), only macroscopic, qualitative observations of
+€ ningen (Thieme,
+ﬁre use and control have been reported at Scho
+1997, 1999, 2005, 2007b; Schiegl and Thieme, 2007). Here we
+present the ﬁrst contextualized, multianalytical study of deposits,
+€ ningen and show that
+materials, and purported hearths at Scho
+claims for human use and control of ﬁre are highly dubious.
+1.1. Early evidence for human use of ﬁre
+Evidence for ﬁre in the archaeological record can be the result of
+either human action or natural ﬁre, and it is commonly difﬁcult to
+separate the two. Therefore, the burden of proof rests on the archaeologists to demonstrate that the evidence for ﬁre clearly represents human action, and not a natural process. Identiﬁcation of
+human use of ﬁre is further complicated by the possible human
+exploitation of natural ﬁre. Archaeologists generally differentiate
+three stages of anthropogenic ﬁre: (1) the use, (2) control, and (3)
+production of ﬁre (e.g., Frazer, 1930; Pruetz and LaDuke, 2010;
+Sandgathe et al., 2011a). Roebroeks and Villa (2011a) and
+Sandgathe et al. (2011a, b) further differentiate between observations of sporadic ﬁre usedincluding the use and controlled use of
+ﬁre from natural, more unreliable sourcesdand habitual ﬁre use,
+
+which infers the production of ﬁre, in the archaeological record (see
+also Shahack-Gross et al., 2014). In many cases, the stages of ﬁre use
+can be differentiated from each other and from natural ﬁre by a
+contextual analysis (e.g., Bellomo, 1994; Weiner et al., 1998;
+Goldberg et al., 2001; Gowlett et al., 2005; Karkanas et al., 2007;
+Roebroeks and Villa, 2011a; Berna et al., 2012; Shahack-Gross
+et al., 2014).
+1.1.1. Natural ﬁre The earliest evidence for naturally occurring ﬁre
+are fragments of charcoal found reported in rocks dating to the
+Devonian (Scott, 2000). Fires can be caused by lightning strikes
+(which are the source for the majority of natural ﬁres), volcanic
+activity, sparks from rock falls, spontaneous combustion, and
+meteorite impacts (Batchelder, 1967; Tutin et al., 1996; Jones and
+Lim, 2000; Scott, 2000). Tree-crown ﬁres, volcanic eruptions, and
+lightning strikes can produce temperatures over 700 C, and tree
+stumps, burning humus, or peat ﬁres can burn over elongated
+periods (Davis, 1959; Stach et al., 1975; Isaac, 1982; James et al.,
+1989; Scott, 1989, 2000; Pyne et al., 1996; DeBano et al., 1998;
+Buenger, 2003; Christian et al., 2003; Fessler, 2006). Lightning
+strikes and burning tree stumps can produce local heatalterations of sediments that mimic anthropogenic combustion
+features (see also Isaac, 1982; Clark and Harris, 1985; Isaac and
+Harris, 1997; Scott, 2000).
+Evidence that archaeologists assume to be indicative of
+anthropogenic ﬁredsuch as burnt bone or heated ﬂint or sedimentdcan also be produced naturally. For example, Hendey
+(1976) reported Miocene burnt bone from the fossil bone bed of
+Langebaanweg, whereas Avery et al. (2004) mention burnt tortoise
+bones caused by bush ﬁres in South Africa and Bordes (1957) reported Miocene burnt ﬂint from Thenay, France. Clark et al. (1984)
+and Clark and Harris (1985) reported Pliocene burnt sediment at
+Middle Awash, Ethiopia.
+1.1.2. Human use of ﬁre Human use or opportunistic use (Clark
+and Harris, 1985) of ﬁre includes both conceptualization of ﬁre
+and its collection from natural sources (Pruetz and LaDuke, 2010).
+Fire use does not represent a unique human behavior, since
+chimpanzees have been observed to show predictive behavior
+towards ﬁre, and other species are known to exploit wild ﬁres for
+warmth and food (Goudsblom, 1986; Wrangham, 2009; Pruetz
+and LaDuke, 2010). Human knowledge of ﬁre is difﬁcult to
+identify in the archaeological record, and most hypotheses
+regarding early humaneﬁre interaction are based on inferences
+or indirect data (e.g., Berna et al., 2012; Gowlett and Wrangham,
+2013). Some of the earliest evidence for knowledge of ﬁre comes
+from the ca. 1.0 Ma site of Wonderwerk in South Africa. Here,
+Berna et al. (2012) described ash remains and burnt bone, as
+identiﬁed by micromorphological and FTIR analysis, inside the
+cave, arguing that one would not expect natural ﬁre in this
+setting. Gowlett and Wrangham (2013), using observations of
+changes in human morphology, argue that humans used ﬁre as
+early as 1.5 Ma, despite the lack of direct archaeological evidence.
+1.1.3. Human control of ﬁre Control of ﬁre or predetermined use
+(Clark and Harris, 1985) means the maintenance of a ﬁre via fuel
+provisioning and restraint. The control of ﬁre includes
+preservation and transport of ﬁre from natural sources of ignition
+and represents a much more complex and unique human
+behavior, excluding some rehabilitated chimpanzees who are
+capable of managing campﬁres (Brewer, 1978). Researchers have
+argued for indirect evidence for the control of ﬁre, such as
+selective burning of materials (Gowlett and Wrangham, 2013)
+and materials heated to high temperatures at archaeological sites
+(e.g., Brain and Sillen, 1988; Bellomo, 1993, 1994; Preece et al.,
+2006; Backhouse and Johnson, 2007). The latter arguments
+assume that high temperatures are only reached within campﬁres
+and are not reached by natural ﬁres, which exhibit a shorter
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+burning time; however, this assumption is questionable (see above
+and Gowlett and Wrangham, 2013).
+Combustion features, in the form of structured hearths, provide
+the most direct evidence for human control of ﬁre; however, they
+can be difﬁcult to identify since they are often ephemeral features
+subject to post-depositional alteration. Micromorphological analysis has proven useful in the analysis of archaeological combustion
+features (Courty et al., 1989; Goldberg et al., 2001; Karkanas et al.,
+2007; Wadley et al., 2011; Mentzer, 2012; Shahack-Gross et al.,
+2014). Localized features consisting of heat-altered sediments that
+excavators interpreted as the remains of hearths have been reported and subsequently criticized at the Lower Paleolithic sites of
+Chesowanja (Gowlett et al., 1981, 1982; Isaac, 1982), Gadeb (Clark
+and Kurashina, 1979; Barbetti, 1986), Koobi Fora (Isaac, 1984;
+Clark and Harris, 1985; Barbetti, 1986), and Olorgesailie (Isaac,
+1977, 1984) in Africa, and Zhoukoudian (Wu, 1985; Binford et al.,
+1985; Weiner et al., 1998; Goldberg et al., 2001) in Asia (for a critical overview see James et al., 1989). Alperson-Aﬁl (2008) and
+Alperson-Aﬁl and Goren-Inbar (2006), Alperson-Aﬁl et al. (2007)
+proposed indirect evidence of hearths at Gesher Benot Ya'aqov,
+dated to 800,000 BP. They inferred the former presence of hearths
+using spatial analysis of burnt ﬂint, as veriﬁed by thermoluminescence analysis. However, in their discussion of burning by natural
+ﬁre they only refute the possibility of an in situ natural ﬁre. Similarly, they do not discuss the possibility that nodules of raw material had been heat altered before human use.
+In Europe, burnt sediment at the Lower Paleolithic sites of
+rtesszo
+€llo
+€s (Ve
+rtes and Dobosi, 1990), Menez-Dregan (Monnier
+Ve
+et al., 1994, 2001), and Terra Amata (Villa, 1982, 1983), an accumulation of purported burnt wood at Bilzingsleben (Mania, 1991;
+Mania and Mania, 2000; but see Steguweit, 2003), and hearths at
+€ ningen (Thieme, 1997, 2005) have been reported as evidence of
+Scho
+human control of ﬁre. However, the researchers at these sites do
+not demonstrate that the purported heat-altered materials are
+anthropogenic (see also James et al., 1989; Roebroeks and Villa,
+2011a), and the dating of Menez-Dregan is still unclear (Mercier
+et al., 2004). Gowlett (2006) and Preece et al. (2007) reported on
+scatters of burnt ﬂint and bone next to possible hearths at Beeches
+Pit, UK. To date, no data have been published to demonstrate that
+the supposed hearths were formed through heating, and it is not
+clear if the heated bones and lithic artifacts were produced by
+human activities or natural ﬁres (see also Preece et al., 2007).
+The most direct and unambiguous evidence for the control of
+ﬁre and of habitual ﬁre use in the form of hearths and reused
+hearths comes from Qesem Cave in Israel, dated to 400,000 and
+300,000 BP, respectively (Karkanas et al., 2007; Shahack-Gross
+et al., 2014). In the Middle Paleolithic and Middle Stone Age, evidence for control of ﬁre with discrete hearths is known in Africa
+from Sibudu (Wadley et al., 2011), in Asia from sites such as Tabun,
+Kebara, and Hayonim (Goldberg, 2003), and in Europe from sites
+, Roc de Marsal (Goldberg, 2004; Aldeias et al.,
+such as Pech-de-l'Aze
+2012; Goldberg et al., 2012), and Abric Romani (Vallverdú et al.,
+2010).
+1.1.4. Human production of ﬁre Fire can be artiﬁcially produced by
+wood-on-wood friction or stone-on-stone percussion in addition to
+a tinder source (Hough, 1926; Weiner, 2003). Direct evidence for
+this behavior is rare and so far has only been reported from the
+Upper Paleolithic (e.g., Weiner and Floss, 2005; Sorensen et al.,
+2014), with one possible exception from the Middle Paleolithic
+site of Bettencourt, France (Rots, 2011, 2015). Habitual ﬁre use,
+manifested in the archaeological record as a repetitive pattern of
+ﬁre control, is often seen as a prelude to the production of ﬁre
+(Frazer, 1930; Goudsblom, 1986; Gowlett, 2006; Pruetz and
+LaDuke, 2010). Sandgathe et al. (2011a, b) maintain that habitual
+ﬁre use presents indirect evidence for ﬁre production. They
+
+183
+
+further argue, based on a lack of evidence for habitual ﬁre use at
+, that Middle
+the sites of Roc de Marsal and Pech-de-l'Aze
+Paleolithic humans in Europe still relied on scarce, natural
+sources of ignition and that Neanderthals lacked the ability to
+make ﬁre (Sandgathe et al., 2011a; but see Roebroeks and Villa,
+2011b).
+€ningen
+1.2. Scho
+€ningen lies between the North
+1.2.1. Setting and geology Scho
+German Plain to the north and the Harz Mountains to the southeast
+(Fig. 1) and is situated at the southeastern foot of the Elm, a
+limestone ridge 25 km long and up to 8 km wide (Elsner, 2003)
+at an altitude of 114 m above mean sea level.
+€ningen is located on the southwestern syncline of the OffScho
+leben salt wall and in the Helmstedt Staßfurt salt structure (Mania,
+€ ningen is
+1995; Brandes et al., 2012). Today the site complex of Scho
+located in an open-cast lignite mine, which exposes Middle Pleistocene sites sandwiched between glaciogenic deposits of the
+Elsterian and Saalian glaciations (Urban et al., 1991a; Mania, 1995;
+Elsner, 2003; Ehlers et al., 2004). The Paleolithic site complex of
+€ningen is preserved in an elongated trough, which dissects the
+Scho
+underlying Paleogene marine bedrock. Lang et al. (2012, 2015)
+recently interpreted the trough as a tunnel valley that formed underneath the Elsterian ice shield. Mania (1995, 2007) interpreted
+the formation of the trough as a result of salt dome solution, which
+resulted in lowering of the basin. He suggested that recurring ﬂuvial
+activity at the onset of a warm period would have eroded and
+inﬁlled the trough during the interglacial following the Elsterian.
+1.2.2. Stratigraphy The trough is ﬁlled with Elsterian glaciogenic
+deposits that are unconformably overlain by a sequence of interglacial deltaic and lacustrine deposits. These deposits are in turn
+capped by Saalian glaciogenic deposits and Weichselian loess
+
+€ningen in Northern Germany. Green, light blue, red, and
+Figure 1. Location of Scho
+dark blue lines indicate the maximum extent of the glacial ice sheets (E ¼ Elsterian;
+D ¼ Saalian Drenthe; WA ¼ Saalian Warthe; WE ¼ Weichselian; modiﬁed from Lang
+et al., 2012:87).
+
+184
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+€ningen 13 II (after Mania [in Thieme, 1999:463 and Urban, 2007], modiﬁed according to Lang et al. (2012); see also Stahlschmidt
+Figure 2. Simpliﬁed, schematic sequence at Scho
+€ ningen 13 II-1 to II-4, with calcareous
+et al., 2015). 1 and 2) Elsterian glaciolacustrine deposits; 3) Lacustrine deposits; 4e7) Reinsdorf Interglacial shallowing cycles of the lake Scho
+€ningen 13 II-4 in cycle 4 and 13 II-2 and II-3 in cycles 2 and 3;
+mud grading into an overlaying dark organic mud: 4) cycle 1; 5) cycle 2; 6) cycle 3; 7) cycle 4; note the location of Scho
+8) 5th shallowing cycle, composed of sandy silt and an overlaying dark organic mud; 9 and 10) Glaciolacustrine deposits; 11) Lacustrine deposits and loess. See Figure 3 for the
+position of the proﬁle.
+
+(Fig. 2). The interglacial Middle Pleistocene sedimentary sequence,
+which contains the numerous Paleolithic layers, consists of three
+major superimposed deltaic systems (Urban, 1995, 2007; Lang
+et al., 2012; Figs. 2 and 3). Urban (2007) and Van Kolfschoten
+(2014) assign the ﬁrst deltaic systems to the Holsteinian
+interglacial and MIS 11. However, the correlation of the
+Holsteinian interglacial with MIS 9 or 11 is still under debate
+(Geyh and Müller, 2005; Ashton et al., 2008; Geyh and Krbetschek,
+2012).
+The second major deltaic system consists of a series of lacustrine
+deposits (Figs. 2 and 3; Lang et al., 2012) and contains the materials
+€ningen 12 B and Scho
+€ningen 13 II analyzed in this
+from sites Scho
+€ ningen 13 II and 12 B in
+study. Biostratigraphic evidence places Scho
+the Reinsdorf Interglacial, which was most recently dated to MIS 9
+(Urban, 2007; Urban and Sierralta, 2012; but see Urban et al., 2015).
+Some researchers (Litt et al., 2007; Bittmann, 2012; Lang et al.,
+2012) argue that the Reinsdorf Interglacial is a possible equivalent subset of the Holsteinian Interglacial. The sedimentary
+€ningen 13 II consists of ﬁve lacustrine cycles of
+sequence at Scho
+gray calcareous mud that grade upward into dark brown organic
+muds (Thieme, 2007c; Urban, 2007; Stahlschmidt et al., 2015).
+Geological studies (Mania, 2007; Urban, 2007; Lang et al., 2012)
+interpret the alternation between marl and organic mud at
+€ ningen 13 II as a result of lake-level ﬂuctuations related to
+Scho
+variations in climate. Similarly, the sedimentary sequence at
+€ ningen 12 B consists of sequences of calcareous muds and
+Scho
+organic rich deposits interpreted as the result of lake level changes
+(Thieme and Maier, 1995).
+Urban et al. (1991a) assign the third episode of deltaic inﬁll,
+which has only been exposed in the northern mine, to the
+€ ningen Interglacial, which they interpret as an equivalent of
+Scho
+marine isotope stage 7 (MIS 7). The same authors (Urban et al.,
+1991a, b) also report travertine and peat in the northern part of
+the mine, which they correlate with Eemian MIS 5e and substages
+5d and 5c.
+1.2.3. Archaeology During the course of mining, which began at
+€ ningen in the 1970s, the miners artiﬁcially lowered the
+Scho
+groundwater table through the construction of several deep wells.
+Starting in 1983 state archaeologist H. Thieme monitored operations at the lignite mine and discovered the ﬁrst Paleolithic artifacts
+in 1992 (Thieme, 1997). Additional wells were then constructed to
+facilitate subsequent archaeological excavation. Twenty-eight
+Paleolithic sites and ﬁnd horizons were discovered in association
+with the mine (Serangeli et al., 2012; Serangeli and Conard,
+
+€ ningen sites discussed here (after Mania in Thieme, 1999:457
+Figure 3. Map of Scho
+€ningen sites are located in an open-cast mine
+and Serangeli et al., 2012:14). The Scho
+€ ningen 13 II and 12 B are associated with sediments from the second
+and the sites Scho
+major cycle of lacustrine deposition. The approximate 13 II proﬁle position refers to
+Figure 2.
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+2015), most of which were excavated as salvage operations. The
+sites contain lithic material, bone remains, and wooden artifacts,
+the last being excellently preserved due to the waterlogged state
+of the deposits. The materials discussed in this study come from
+€ ningen 12 B and 13 II.
+Scho
+€ ningen 13 II Excavations at Scho
+€ningen 13 II began in
+1.2.4. Scho
+€ningen 13 II-4
+1994 and are ongoing. Archaeological artifacts at Scho
+are mostly found at the contact of layer 4b/c, a calcareous marl,
+with layer 4b, an organic mud (e.g., Stahlschmidt et al., 2015),
+and consist of butchered horse remains, wooden spears, and
+numerous ﬂint artifacts in addition to purported evidence for
+anthropogenic ﬁre (Thieme, 1997, 2005, 2007b; Voormolen, 2008;
+€ hner, 2012; Van Kolfschoten, 2014; Schoch et al.,
+Serangeli and Bo
+2015; Fig. 4).
+€ningen 13 II-3 and 13 II-2 bone remains, lithic artifacts,
+At Scho
+and one wooden artifact were discovered (Thieme, 2002, 2007d;
+€ hner, 2012). Here, the recent excavation team
+Serangeli and Bo
+observed an additional case of possible heat-altered sediment. They
+noted a vertical crack several meters long through the calcareous
+marl of 13 II-3 and across layers 13 II-2 that was ﬁlled with black
+sediment (Fig. 5; see below).
+€ ningen 12 B Scho
+€ ningen 12 B was a rescue excavation,
+1.2.5. Scho
+and the locality contains two ﬁnd horizons. Find horizon 1 consists
+of a sandy mud and ﬁnd horizon 2 of coarse detrital mud, both
+containing bone remains and lithic material (Thieme and Maier,
+1995). Mania (1995) and Thieme (2007c) reported an
+accumulation of burnt wood in ﬁnd horizon 2 and interpreted
+this accumulation of burnt wood as a possible hearth. The ﬁnd
+
+185
+
+horizon contained an additional fragment of supposedly burnt
+wood, the so-called Fackelkopf (ID 13325; see below).
+1.2.6. Evidence for ﬁre Thieme (1997, 1999, 2002, 2005, 2007a, b)
+and Mania (1995) reported evidence for anthropogenic ﬁre from six
+€ningen (Table 1). Most of the
+sites and ﬁnd horizons at Scho
+evidence was based on qualitative, macroscopic observations;
+however, Richter (1998, 2007) conducted a thermoluminescence
+€ningen 13 I, and Schiegl and
+study of burnt ﬂint pieces from Scho
+Thieme (2007) conducted an inconclusive micromorphological
+€ ningen 13 II-4. Most of the arguments
+study of hearth 1 from Scho
+€ningen are based on
+for the anthropogenic origin of ﬁre at Scho
+the association of supposedly burnt materials with archaeological
+remains (e.g., Thieme, 2005).
+1.2.7. Evidence for ﬁre e hearths Thieme (1997, 1999, 2005,
+€ ningen as hearths (see
+2007b) interpreted four features at Scho
+Fig. 4). His interpretation was based on macroscopic observations
+of localized reddening of the calcareous marl, layer 4b/c, at the
+contact with the organic mud, layer 4b, and on cracks in the
+sediment at this contact (Thieme, 1997, 1999, 2005; Schiegl and
+Thieme, 2007; Fig. 6). Thieme excavated the features only
+partially and preserved the remaining sediment columns in
+wooden cases for future analysis. The recent excavation team
+reopened and excavated the hearth features between 2010 and
+2012, noting that they had been affected by bioturbation and
+drying (Fig. 6). No charcoal, burnt bone, or ash was recovered
+from the features. Thieme reported that the hearths had a
+dimension of 1 m2, whereas upon reopening the wooden cases,
+the reddened area was up to 3 m2, thus presenting what would
+
+€ningen 13 II-4 showing ﬁnd density and the locations of the four purported hearths (modiﬁed after Thieme, 2007e:173; see also Stahlschmidt et al.,
+Figure 4. Schematic map of Scho
+€ 13 II-4 2003/3. The excavation area Scho
+€ningen 13 II-4 is cut by mining activities to the north, east, and south, and the actual size dimension of
+2015) and the reference sample Scho
+the ﬁnd horizon is therefore not known. Colored in dark gray is the approximate area of highest ﬁnd density, in medium gray of medium ﬁnd density, and in light gray of low ﬁnd
+€ningen 13 II-4 (thick line). Note, however, that the proﬁle in Fig. 2
+density. The schematic sequence depicted in Figure 3 was taken at the northern edge of the excavation area Scho
+continues further east.
+
+186
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+with thermoluminescence and recently dated to 321 ± 16ka
+(Richter and Krbetscheck, 2015). None of these pieces show clear
+characteristics of having been worked or modiﬁed by humans
+(Richter, 1998, 2007; Richter and Thieme, 2012; Richter and
+Krbetscheck, 2015).
+Since its discovery and the reporting of evidence for ﬁre,
+€ningen has been cited in almost all of the major reviews of
+Scho
+early evidence for ﬁre (Gowlett, 2006; Klein, 2009; Wrangham,
+2009; Alperson-Aﬁl and Goren-Inbar, 2010; Daniau et al., 2010;
+Roebroeks and Villa, 2011a; Gowlett and Wrangham, 2013). Several
+studies mention ﬁre-hardening of the wooden spears from
+€ningen as evidence for human use of ﬁre (Rice, 2007; Berna
+Scho
+and Goldberg, 2008; Coolidge and Wynn, 2009; Alperson-Aﬁl and
+Goren-Inbar, 2010; Weiner, 2010). Neither Thieme (1997, 2005) nor
+any subsequent studies (Schoch et al., 2015) described the spears as
+exhibiting evidence for heating.
+2. Material and methods
+2.1. Materials
+
+€ ningen 13 II-3 and 13 II-2. The crack
+Figure 5. Photo of the crack running through Scho
+runs through the calcareous marl of 13 II-3 and across the organic mud of 13 II-2. The
+crack was ﬁlled with black sediment, which was interpreted as a possible heat-altered
+€ningen 13 II-2 with 13 II-3 and the
+sediment. Samples were taken at the contact of Scho
+“X” illustrates the approximate location of the samples. Photo by W. Mertens ©NLD.
+
+be unusually large hearths (but see Shahack-Gross et al. [2014] for
+similarly large hearths). Preliminary micromorphological analysis
+by S. Schiegl on thin sections from hearth 1 detected the
+presence of quartz grains with surface cracks, which she
+suggested could have been caused by heating. However, Schiegl
+and Thieme (2007) also pointed out that the mollusk shells
+within the sediment from hearth 1 did not appear altered by
+heat. The authors reported these results as inconclusive (Schiegl
+and Thieme, 2007).
+1.2.8. Evidence for ﬁre e burnt wood Excavators have described
+€ ningen 13 II-1, 13 II-2 Berm, 13
+fragments of burnt wood from Scho
+II-4, 12 A ﬁnd horizon 2, and 12 B (Mania, 1995; Thieme and Maier,
+1995; Thieme, 1997, 1999, 2002, 2005, 2007a, b, c, d; W. Schoch,
+pers. comm.; Table 1). Two accumulations of burnt wood in
+€ ningen 13 II-2 Berm and 12 A ﬁnd horizon 2 were reported
+Scho
+as hearths, but no details were provided. Thieme (2005) also
+reported a piece of wood that appeared to be worked by humans
+and also possibly burnt. He interpreted this as a roasting stick, or
+Bratspieß.
+1.2.9. Evidence for ﬁre e burnt ﬂint Richter (1998, 2007), Richter
+and Thieme (2012), and Richter and Krbetschek (2015) reported 13
+€ningen 13 I, which was conﬁrmed
+burnt pieces of ﬂint from Scho
+
+Table 2 contains an overview of all samples and the performed
+analyses.
+€ ningen 13 II-4
+2.1.1. Hearths All four purported hearths from Scho
+were sampled in blocks from various locations that encompass
+the sediments of layer 4b/c, layer 4b, and their contact, where the
+purported hearths are located (Fig. 6). Hearth 1 was analyzed by
+all methods, whereas the remaining hearths were investigated
+only with micromorphology. One bulk sample from layer 4b, two
+block samples and one bulk sample from layer 4b/c, and one
+block sample encompassing the contact of layer 4b/c with the
+overlying sediments, layer 4b, with no reddening in between,
+were additionally taken outside the hearths to serve as control
+samples (Table 2). The control bulk samples were used for a
+heating experiment, studied by micromorphology, FTIR, mineral
+magnetic parameters, and thermoluminescence, and the control
+block samples were studied by micromorphology and
+thermoluminescence.
+2.1.2. Burnt sediment Two bulk samples from the black, purport€ningen 13
+edly burnt sediment from the crack running through Scho
+II-3 and 13 II-2 were taken at the contact of an organic mud from 13
+II-2 and studied by organic petrology.
+2.1.3. Burnt wood A piece (2 mm3) of purported carbonized wood
+€ningen 12 B and the
+from a supposed wooden artifact from Scho
+attached sediment were studied by organic petrology. Sampling
+here was conducted by the Department of State Heritage Lower
+Saxony.
+2.2. Methods
+Both micromorphological and organic petrology analyses were
+employed to describe microscopic organic constituents. For clarity
+and consistency between the two methods we employ the term
+“plant tissue” for organic constituents originating from plants. This
+term is similar to soil micromorphology terms such as “plant residue” (Stoops, 2003) and organic petrology terms such as “macerals” (Taylor et al., 1998).
+2.2.1. Micromorphology Micromorphology is the study of intact
+blocks of sediment and soils in thin section using a petrographic
+microscope. It permits identiﬁcation of the composition, texture,
+structure, and fabric of the deposits, as well as the observation of
+pedogenic and anthropogenic features. Since the original integrity
+of the sediment is conserved it is possible to determine the relative
+spatial and temporal relationships among materials and voids in
+the sample (e.g., Courty et al., 1989). The technique of
+
+Note that only in one instance (burnt lithics 13 I) were analyses able to conﬁrm the burnt state of the material, while at the same time an anthropogenic involvement is doubtful.
+
+Thieme and
+Maier, 1995
+Mania, 1995; Thieme, 2007c e
+Accumulation of burnt
+wood (termed hearth)
+Burnt wood
+
+€ningen 12
+Scho
+e
+A e ﬁnd horizon 2
+€ningen 12
+Scho
+Bone remains, lithics
+B e ﬁnd horizon 2
+
+a
+
+Not burnt e
+Organic petrology
+
+e
+e
+e
+
+e
+e
+e
+
+e
+e
+e
+
+Preece et al., 2006; Wrangham, 2009;
+Roebroeks and Villa, 2011a
+Rice, 2007; Berna and Goldberg, 2008;
+Coolidge and Wynn, 2009; Alperson-Aﬁl
+and Goren-Inbar, 2010; Weiner, 2010
+e
+Charred wood e roasting
+Thieme, 1997, 1999,
+stick (Bratspieß)
+2005, 2007a
+Burnt wood e Fire-hardened e
+spears
+
+Lithics, wooden tools, bone
+remains with cutmarks
+Lithics, wooden tools, bone
+remains with cutmarks
+Lithics, wooden tools, bone
+remains with cutmarks
+
+Burnt bone
+
+e
+
+Not burnt e
+Micromorphology, FTIR,
+Gaudzinski and Roebroeks, 2000;
+mFTIR, organic petrology,
+Alperson-Aﬁl and Goren-Inbar, 2006;
+thermoluminescence, mineral
+Preece et al., 2006; Klein, 2009;
+Wrangham, 2009; Roebroeks and Villa, 2011a magnetic parameters
+Voormolen, 2008
+e
+e
+e
+Thieme, 1997, 1999,
+2005, 2007b; Schiegl
+and Thieme, 2007
+
+e
+e
+e
+Thieme, 2007d
+
+Accumulation of burnt
+wood (termed hearth)
+Hearths
+
+e
+
+Not burnt e
+Organic petrology
+e
+Thieme, 2002
+e
+Burnt wood
+Black sediment
+
+€ningen 13 II-1
+Scho
+Bone remains with cutmarks
+€ningen 13 II-2/3 Bone remains, lithics, one
+Scho
+wood artefact
+€ningen
+Scho
+Bone remains, two lithics
+13 II-2 Berme
+€ningen 13 II-4
+Scho
+Lithics, wooden tools,
+bone remains with cutmarks
+
+Fire use: unknown
+Fire control: no
+Fire making: no
+Burnt
+Thermoluminescence
+Alperson-Aﬁl and Goren-Inbar, 2006;
+Wrangham, 2009; Roebroeks
+and Villa, 2011a
+Richter, 1998, 2007,
+Richter and Thieme, 2012
+Burnt ﬂint e natural pieces
+Lithics, bone remains
+€ningen 13 I
+Scho
+
+Publication of
+ﬁre evidence
+Fire evidence
+Archaeological remains
+Site/locality
+
+Table 1
+€ningen.a
+Overview of the Middle Pleistocene purported evidence for anthropogenic ﬁre at Scho
+
+References of ﬁre evidence
+
+Performed analysis
+
+Results
+
+Interpretation:
+anthropogenic ﬁre
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+187
+
+micromorphology has proven to be a powerful tool for detecting
+early ﬁre by revealing the presence of ash and the in situ
+character of hearth-related features (e.g., at Sibudu [Goldberg
+et al., 2009], Qesem Cave [Karkanas et al., 2007; Shahack-Gross
+et al., 2014], Wonderwerk Cave [Berna et al., 2012], Kebara, and
+Hayonim Cave [Goldberg and Bar-Yosef, 1998]); it was also
+successfully applied to the correction of claims of ﬁre at
+Zhoukoudian (Goldberg et al., 2001).
+For the micromorphological study, oriented blocks of sediment
+were collected in the ﬁeld and stabilized by plaster of Paris or
+wooden containers. Sample preparation was conducted at the
+Geoarchaeology Laboratory, University of Tübingen. Samples were
+oven dried at 40 C for 1 day and then impregnated under a vacuum
+with a 7:3 part mixture of unpromoted polyester resin and styrene,
+catalyzed with methyl ethyl ketone peroxide (MEKP). After 5e10
+days the samples were again heated at 50 C until they had hardened completely. The hardened blocks were then sliced into tiles of
+50  75  10 mm. Thin sections were produced by Spectrum Petrographics, Inc. in Vancouver, Washington, U.S.A., and Th. Beckmann, Braunschweig, Germany. Analysis of the resulting thin
+sections was conducted with a Zeiss Axio Imager petrographic
+microscope under plane-polarized (PPL), cross-polarized (XPL), and
+blue light ﬂuorescence, at magniﬁcations of 20 to 500.
+Description and analysis follows Courty et al. (1989), Stoops (2003),
+and Stoops et al. (2010).
+2.2.2. Organic petrology Organic petrology is a branch of earth
+sciences that is widely used in the study of peat, brown coal, and
+hard coal properties with reﬂected light microscopy (Taylor et al.,
+1998). The study of the reﬂectance and ﬂuorescence of organic
+constituents can be informative about the presence of charred
+plant material (wood, seeds, tissues etc.), which constitutes
+important evidence for fuel use and combustion conditions (e.g.,
+Schiegl et al., 2004; Ligouis, 2006; Goldberg et al., 2009; Clark
+and Ligouis, 2010).
+Organic petrological investigations are carried out on wellpolished surfaces of particulate- or block-samples in reﬂected
+white light and in ﬂuorescence mode on organic particles known as
+“macerals” (see Stahlschmidt et al., 2015:Table 3 for organic
+petrology terms). Sample preparation for organic petrology was
+conducted at the Laboratory for Applied Organic Petrology (LAOP)
+at the University of Tübingen. Polarized light is used to assess the
+properties (anisotropy, mosaic structure) of the carbon forms,
+especially if they result from coal carbonization (coke) and from
+incomplete combustion of fossil fuels (nonburnt carbon in the form
+of char; Taylor et al., 1998). Analysis was conducted with a Leitz
+DMRX-MPVSP microscope photometer equipped for reﬂected
+white-light and blue-light illumination, and is set up with oil immersion objectives (20 to 50).
+2.2.3. FTIR Fourier-Transform Infrared Spectrometric analysis was
+performed on thin sections and loose samples. Fourier-Transform
+Infrared (FTIR) spectroscopy is used in order to determine the
+characteristic molecular absorptions of infrared radiation by
+organic and inorganic material. The resulting infrared absorbance
+spectra are used to understand the composition of archaeological
+sediments and materials. Furthermore, FTIR spectroscopy is very
+sensitive to variations in composition (substitutions) and
+crystallography (atomic order) that result from diagenetic
+processes such as heat alteration (e.g., Weiner, 2010).
+Sample preparation was performed at the MicroStratigraphy
+Laboratory at Boston University. Powdered aliquots of experimental
+and archaeological samples were analyzed by FTIR spectroscopy
+using a Thermo-Nicolet Nexus 470 IR spectrometer. Representative
+FTIR spectra were obtained by grinding a few tens of micrograms of
+sample with an agate mortar and pestle. About 0.1 mg or less of the
+sample was mixed with about 80 mg of KBr (IR-grade). A 7 mm
+
+188
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+€ ningen 13 II-4. The sedimentary sequence at the purported hearths at Scho
+€ningen 13 II-4 consists of a calcareous
+Figure 6. Sedimentary sequence at the purported hearth 1 at Scho
+marl, layer 4c, at the base, overlain by a transitional layer, layer 4b/c, exhibiting an increase in organic matter, which in turn is overlain by an organic mud, layer 4b. The contact
+between layer 4b/c and layer 4b is overprinted by an indurated, reddened crust, which was interpreted as the result of heat alteration (Thieme, 1997, 2005). The squares show the
+approximate locations of samples for micromorphology, FTIR, and organic petrology (all “M”), for study of mineral magnetic parameters (“P”), and for thermoluminescence analysis
+(“TL”). Note the recent bioturbation (reﬁlled channel) and drying features (cracks). Photo by J. Lehmann ©NLD.
+
+pellet was made using a hand press (Qwik Handi-Press, SpectraTech Industries Corporation) without evacuation. The spectra were
+collected between 4000 and 400 cm1 at 4 cm1 resolution. The
+presence of FTIR absorption of organic and inorganic phases was
+
+identiﬁed by using in-house or ad hoc spectral libraries (i.e.,
+Weiner, 2010).
+2.2.4. Mineral magnetic parameters Mineral magnetic properties
+can reﬂect changes in iron mineralogy in soils, soft sediments, and
+
+Table 2
+Sample list of all block and bulk samples, their location, and employed method.a
+Site
+€ ningen
+Scho
+13 II-4
+
+€ ningen
+Scho
+13 II-3/2
+€ ningen
+Scho
+13 II-3/2
+€ ningen
+Scho
+12 B
+a
+b
+
+Sample No/ID
+
+Sample type
+
+Square
+
+Z-valueb
+
+Layer
+
+Employed method
+
+hearth 1
+
+4b-red layer-4c
+
+102.29e102.40
+102.54e102.80
+
+hearth 1
+hearth 1
+
+4b-red layer-4c
+4b-red layer-4c
+
+682/21
+683/22
+
+102.37e102.42
+102.61e102.05
+
+hearth 1
+hearth 1
+
+4c
+4c
+
+Micromorphology/mFTIR/Organic
+Petrology
+Micromorphology/mFTIR
+Micromorphology/mFTIR/Organic
+Petrology
+Micromorphology/mFTIR
+Thermoluminescence
+
+683/22
+682/22
+693/14
+693/13
+694/6
+695/7
+695/8
+704/9
+705/9
+684/22
+719/-995
+776/-949
+
+102.05e102.62
+102.54
+102.42
+102.46
+102.73
+103.00
+102.99e102.74
+101.65e102.05
+101.51e102.15
+102.17
+102.16
+101.26
+
+hearth
+hearth
+hearth
+hearth
+hearth
+hearth
+hearth
+hearth
+hearth
+
+4c
+4c
+4b-red layer-4c
+4b-red layer-4c
+4c-red layer-4c
+4b-red layer-4c
+4b-red layer-4c
+4b-red layer-4c
+4b-red layer-4c
+4c
+4be4c
+4c
+
+Mineral Magnetic Parameters
+Mineral Magnetic Parameters
+FTIR
+Micromorphology/FTIR
+Micromorphology
+Micromorphology
+Micromorphology
+Micromorphology/FTIR
+Micromorphology/FTIR
+Micromorphology/mFTIR
+Micromorphology
+Thermoluminescence
+Heating Experiment
+Heating Experiment
+Organic Petrology
+
+€ 13 II-4 Sch FS1 1
+Scho
+
+Sediment block sample
+
+683/21
+
+102.44e102.56
+
+€ 13 II-4 Sch FS1 2
+Scho
+€ 13 II-4 Sch FS1 3
+Scho
+
+Sediment block sample
+Sediment block sample
+
+682/21
+683/21
+
+€ 13 II-4 Sch FS1 4
+Scho
+€ 13 II FS1 2010/21.1
+Scho
+BT 1079
+€ 13 II-4 FS 1 2010/22.1
+Scho
+€ 13 II-4 FS 1 2010/16
+Scho
+€ 13 II-4 2010/29
+Scho
+€ 13 II-4 2010/30
+Scho
+€ 13 II-4 2011/5
+Scho
+€ 13 II-4 2011/08
+Scho
+€ 13 II-4 2011/01
+Scho
+€ 13 II-4 2010/23
+Scho
+€ 13 II-4 2010/24
+Scho
+€ 13 II-4 FS1 5
+Scho
+€ 13 II-4 2003/3.1
+Scho
+€ 13 II-4 BT-2011/25
+Scho
+BT 1077
+€ 13 II-4 BrEx 4b/c
+Scho
+€ 13 II-4 BrEx 4b
+Scho
+€ningen 13 II-3/2
+Scho
+2010/35
+€ningen 13 II-3/2
+Scho
+2010/36
+ID 13325
+
+Sediment block sample
+Sediment block sample
+Sediment
+Sediment
+Sediment
+Sediment
+Sediment
+Sediment
+Sediment
+Sediment
+Sediment
+Sediment
+Sediment
+Sediment
+
+bulk sample
+bulk sample
+bulk sample
+bulk sample
+block sample
+block sample
+block sample
+block sample
+bulk sample
+block sample
+block sample
+block sample
+
+Feature
+
+1
+1
+2
+2
+3
+3
+3
+4
+4
+
+Sediment bulk sample
+Sediment bulk sample
+Sediment bulk sample
+
+off site marl
+off site marl
+681/21
+
+98.95
+
+4b/c
+4b
+2a
+
+Sediment bulk sample
+
+682/21
+
+98.95
+
+2a
+
+Organic Petrology
+
+Wood and sediment
+
+7/10
+
+Not speciﬁed
+
+Not speciﬁed
+
+Organic Petrology
+
+Note that some block samples were analyzed by micromorphology, organic petrology, and FTIR.
+Z-value relates to block sample and not the actual sample.
+
+Table 3
+€ 13 II-4 2003/3.1).a
+Micromorphological description of layers 4b and layer 4b/c at the four hearths and the control sample (Scho
+
+€ 13 II-4 sediment
+Scho
+hearth 1e4
+
+4b
+
+Homogenous, locally laminated; elongated
+plant tissue residues with a tendency for
+horizontal alignment, large fractures, lens
+structure in one TS
+
+Clay and amorphous organic
+ﬁne material
+
+€ 13 II-4 sediment
+Scho
+hearth 1e4
+
+4b/c
+
+Water escape structures
+elongated plant tissue residues with a
+tendency for horizontal alignment,
+simple packing voids, some large fractures
+
+Dominantly micritic to rarely
+rhombohedral calcite to clayey
+and amorphous organic ﬁne material
+
+€ 13 II-4 sediment
+Scho
+hearth 1, 4
+
+4c
+
+Homogenous, elongated plant tissues
+residues with tendency for horizontal
+alignment, simple packing voids, few
+larger fractures
+
+Dominantly micritic to rarely
+rhombohedral calcite to slightly clayey
+
+€ 13 II-4 2003/3.1
+Scho
+
+4b
+
+Elongated plant tissue residue with a
+tendency for horizontal alignment, large
+vertical fractures slightly ﬁssural
+
+Clay and amorphous organic
+ﬁne material
+
+€ 13 II-4 2003/3.1
+Scho
+
+4b/c
+
+Elongated plant tissue residue with a
+tendency for horizontal alignment, simple
+packing voids, some large fractures
+
+Dominantly micritic to rarely
+rhombohedral calcite to clay and
+amorphous organic ﬁne material
+
+a
+
+Coarse fractionb
+Plant issue residues and cells (0.1e0.002 mm,
+but predominantly ~0.5 to 0.1 mm; fragmented,
+light brown to brown in color), quartz (rounded,
+ﬁne sand to silt sized), mica, gypsum, framboidal
+pyrite, sponge spicules, diatoms, very few rounded
+charcoal particles
+Plant tissue residues and cells (0.02e0.001 mm, but
+predominantly around 0.5 to 0.1 mm, fragmented,
+light brown to brown in color), quartz (rounded, ﬁne
+sand to silt sized), framboidal pyrite, ostracods and
+mollusk fragments, charophyte internodia and
+gyrogonites, gypsum sponge, spicules, diatoms, bone
+fragments (angular, ~0.5 mm)
+Quartz (rounded, ﬁne sand to silt sized), plant tissue
+residues and cells (0.01e0.2 mm, fragmented, light
+brown to brown in color) framboidal pyrite, gypsum,
+ostracod and mollusk fragments, charophyte internodia
+and gyrogonites, diatoms sponge spicules
+Plant tissue residues and cells (around 0.5 to 0.1 mm;
+fragmented, light brown to brown in color), gypsum,
+quartz (rounded, ﬁne sand to sit sized), mica, framboidal
+pyrite, diatoms, sponge spicules
+Plant tissue residues and cells (0.5e0.1 mm, fragmented,
+light brown to brown in color), quartz (rounded, ﬁne sand
+to silt sized), framboidal pyrite, ostracods and mollusk
+fragments, charophyte internodia and gyrogonites, gypsum,
+sponge spicules, diatoms, bone fragments (angular, ~0.5 mm)
+
+Comments
+
+Contact with unit 4b clear and with
+intense iron precipitation
+Diffuse iron precipitation
+
+Contact with unit 4b/c gradual
+Diffuse iron precipitation
+
+Fracture and ﬁssure related to recent
+freezing and defrosting
+
+Contact with 4b/c clear but fractured
+Fractures related to recent freezing
+and defrosting
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+Layer
+
+b
+
+Microstructure, aggregates, voids, and
+ratio coarse to ﬁne fraction
+
+Fine fractionb
+
+Sample No.
+
+The variation among the four hearths is insigniﬁcant and they are therefore described as one.
+Limit ﬁne to coarse fraction at 10 mm.
+
+189
+
+brightly yellow and
+brightly green ﬂuorescing
+non-ﬂuorescing to
+brown ﬂuorescing
+34
+0.051
+0.15
+
+yellow and green
+ﬂuorescing
+non-ﬂuorescing to
+brown ﬂuorescing
+0.042
+0.15
+
+40
+0.031
+0.13
+
+47
+
+yellow and brightly green
+ﬂuorescing
+yellow and brightly green
+ﬂuorescing
+non-ﬂuorescing to
+brown ﬂuorescing
+non-ﬂuorescing to
+brown ﬂuorescing
+100
+0.028
+0.17
+
+yellow and green
+ﬂuorescing
+non-ﬂuorescing to
+brown ﬂuorescing
+0.030
+0.22
+
+20
+
+non-ﬂuorescing to
+brown ﬂuorescing
+0.054
+0.17
+
+10
+
+0.048
+0.19
+
+23
+
+yellow and brightly
+green ﬂuorescing
+
+4b
+>6.3
+Red contact
+upper part
+0.3e0.5
+Red contact
+lower part
+2.0e2.5
+4c
+>1.3
+brightly yellow and
+green ﬂuorescing
+brightly yellow and
+brightly green ﬂuorescing
+non-ﬂuorescing to
+brown ﬂuorescing
+non-ﬂuorescing to
+brown ﬂuorescing
+100
+0.039
+0.21
+
+4b
+>1.8
+Red contact
+upper part
+0.4e0.8
+Red contact
+lower part
+1.0e1.5
+4c
+>5.8
+
+Huminite (telohuminite)
+reﬂectance
+Lithological units
+and thickness (cm)
+Number of
+measurements
+Standard
+deviation
+Liptinite
+Huminite
+Number of
+measurements
+Standard
+deviation
+Mean
+value %Rr
+
+Lithological
+units and
+thickness (cm)
+
+Huminite (telohuminite)
+reﬂectance
+
+Fluorescence properties of
+organic particles
+
+Lithological
+units and
+thickness
+(cm)
+
+Mean
+value %Rr
+
+Huminite (telohuminite)
+reﬂectance
+
+€ 13 II-4 FS1 3a&b
+Scho
+€ 13 II-4 FS1 1a&b
+Scho
+
+hard rocks that result from diagenetic redox-processes,
+pedogenesis, and also thermal alteration. Thermal alteration leads
+to an enhancement of mineral magnetic parameters caused ﬁrstly
+by the thermal degradation of plant material and secondly by the
+transformation of para- and/or antiferromagnetic iron minerals to
+ferrimagnetics. This enhancement of mineral magnetic
+parameters can be identiﬁed by low ﬁeld susceptibility and
+concentration of independent interparametric ratios derived from
+laboratory induced remanences (Dalan and Banerjee, 1998; Evans
+and Heller, 2003).
+Sample preparation was conducted at the Laboratory for Palaeoand Environmental Magnetism, Bayreuth University, Germany. The
+low ﬁeld magnetic susceptibility was determined with a MAGNON
+Susceptibility Bridge (MAGNON, Dassel, Germany) at AC-ﬁelds of
+300 A/m at 0.3 and 3 kHz, respectively, and is given as mass speciﬁc
+susceptibility (c). The frequency dependence of susceptibility (cfd)
+(cfd% ¼ [c(0.3 kHz)  c(3 kHz)]/c(0.3 kHz)  100 in %) is a measure
+of the relative contribution of SP-ferrimagnetica close to the SP-SD
+threshold. c reﬂects concentration of ferrimagnetic minerals and
+also grain size distribution. Fine-grained superparamagnetic (SP)
+ferrimagnetica (<0.03 mm) have a 2e3 times higher c than stable
+single-domain, pseudosingle-domain (SSD, PSD; ~0.03e10 mm),
+and multidomain ferrimagnetica (MD, >~10 mm; Evans and Heller,
+2003). Induced isothermal remanent magnetizations (IRMs) were
+determined after exposing the samples to a pulsed ﬁeld of 2000
+and 200 mT (back ﬁeld), respectively, along one spatial axis.
+Magnetization was produced using a MAGNON PM II pulse
+magnetizer and measured via an AGICO JR6-spinner magnetometer
+(AGICO, Brno, Czech Republic). The IRM acquired in the 2 T ﬁeld is
+regarded as saturation isothermal remanent magnetization (SIRM).
+As the SP-size fraction is deﬁned by the absence of magnetic
+remanence under room temperature, IRMs are essentially
+controlled by the concentration of SSD to MD-ferrimagnetica.
+Furthermore, IRMs depend on the mineralogical composition
+with ferrimagnetica (magnetite, maghemite) being more easily
+magnetized than antiferromagnetica (goethite, hematite; Maher,
+1986). Therefore, the modiﬁed S-ratio (¼ ((IRM200mT/
+IRM2000mT) þ 1)/2) is indicative of the relative abundance of
+ferrimagnetica to antiferromagnetica and a concentrationindependent proxy (Walden et al., 1999; van Velzen and Deckers,
+1999).
+Anhysteretic remanent magnetizations (ARMs) were induced
+with a 50 mT static ﬁeld and 100 mT alternating ﬁeld (AF) amplitude
+using a Magnon AFD 300 demagnetizer. The ARM was produced
+along one spatial axis, and remanent magnetization was measured
+via the AGICO JR6-spinner magnetometer. Similar to the IRM, the
+ARM reﬂects the concentration of remanence carrying magnetic
+phases. However, the ARM decreases more strongly from the SSD to
+the MD-fraction than does the SIRM. Therefore, the IRM/ARM ratio
+is a useful concentration-independent proxy for detecting changes
+in the ratio of SSD-MD fraction versus SSD fraction (Maher, 1986;
+Evans and Heller, 2003).
+2.2.5. Thermoluminescence Thermoluminescence (TL) analysis
+can determine if sediment has been exposed to heating in the past
+by analyzing the TL glow curve shapes and TL sensitivities. Luminescence has been frequently used to examine the presence of
+temperature-induced changes in sediment and subsequently to
+determine the age of heated sediment from archaeological
+contexts (Aitken, 1985; Alperson-Aﬁl et al., 2007). Veriﬁcation of
+prehistoric heating is usually done by the heating plateau test
+(Aitken, 1985), where a ﬂat ratio of TL induced by artiﬁcial
+irradiation versus the natural TL signal provides evidence of the
+heating in the past. However, the material under study here is
+sediment, and bleaching of the signal during deposition or
+sampling could induce results comparable to heating. Therefore
+
+Fluorescence properties of
+organic particles
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+Table 4
+€ 13 II-4 FS 1 1a, 1b, 3a, and 3b.
+Optical properties of plant tissues of the liptinite group (spores, pollen, algae, bark- or cork-derived tissue) in the samples Scho
+
+190
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+191
+
+Figure 7. Thin section analyses in layer 4b/c, the reddening and the heating experiment. A: Scan of thin section Sch FS 1 03B showing the reddening and the lower layer 4b/c. Note
+the laminated appearance of the reddening. B: Microphotograph of reddening. Note again the laminated appearance of the reddening. Scale lower right 5 mm, Plane-polarized light
+(PPL). C: The reddening at higher magniﬁcation showing the impregnation of layer 4b/c by amorphous iron. Scale at lower right 1 mm, PPL. D: Microphotograph of shell fragments
+in layer 4b/c directly below the reddening. Note that the shell fragments show no evidence for heat alteration contrary to what was replicated by the heating experiment (see F and
+G). Scale at lower right 0.2 mm, PPL. E: Microphotograph of layer 4b/c below the reddening. Note the abundance of pyrite (yellow arrows), brown plant tissues, and a bone fragment
+(yellow circle). None of these components show evidence for heat alteration. Scale at lower right 0.1 mm, PPL. F: Microphotograph of the calcareous marl heated to 500 C. Note the
+gray coloring of the shell fragments (yellow arrows) and localized red staining (yellow circle). Scale at lower right, 0.2 mm, PPL. G: Microphotograph of the calcareous marl heated to
+800 C. Calcite depletion is visible here and hematite (pinkish color) formation. Note also the black color of the two shell fragments. Scale at lower right 0.5 mm, PPL.
+
+the heating plateau test alone is not proof of a prehistoric ﬁring
+event. However, heating of minerals changes the sensitivity of the
+TL-signal and results in different shapes of the TL-glow curves,
+which can indicate prehistoric heating.
+Sample preparation was conducted at the Max Planck Institute
+for Evolutionary Anthropology in Leipzig, Germany. TL measurements were performed on a Risø Da-15 luminescence reader at
+5 K s1 to 450 C with immediate background subtraction. Luminescence detection with an EMI 9236QA photomultiplier was
+restricted to the UV-blue wavelength range by Corning 5-58 and
+KG-5 glass ﬁlters. Irradiations were performed with a calibrated
+external 90Sr/90Y-source, and samples were stored at 50 C for one
+week before measurement. Prior to the luminescence study, the
+organic and carbonate content of this ﬁne grained sediment was
+removed and the ﬁne grain fraction (4e11 mm) was extracted according to Stokes law.
+2.2.6. Heating experiment Sample preparation and the heating
+experiment itself were performed at the Geoarchaeology Laboratory, University of Tübingen. Sediment samples from layer 4b/c and
+€ningen 13 II-4 were subjected to a stepwise
+layer 4b from Scho
+heating experiment. The samples were heated for 4 h in a mufﬂe
+furnace to temperatures of 100 C, 200 C, 300 C, 400 C, 500 C,
+700 C, 800 C, 900 C, 1000 C, and 1100 C, and subsequently
+cooled down for at least 24 h in a desiccator. In a second run, no
+desiccator was employed to account for possible variance, but
+none was observed and only some test analyses of the mineral
+magnetic parameters were carried out on these. Color change and
+weight loss were recorded and further analyses were chosen
+based on these observations. The samples of layer 4b were only
+studied macroscopically. For the samples of layer 4b/c, study of the
+mineral magnetic parameters was conducted on the whole
+temperature range. Micromorphological analyses and FTIR
+spectroscopy were also performed on the samples from layer 4b/c
+between temperatures of 400 Ce1100 C. Thermoluminescence
+analyses were conducted on samples from layer 4b/c heated to
+400 C, 700 C, and 900 C. A non-heated sample from layer 4b/c
+
+was analyzed with micromorphology, FTIR, by study of the
+mineral magnetic parameters, and by thermoluminescence
+analyses.
+3. Results
+€ningen 13 II-4
+3.1. Hearths at Scho
+Stahlschmidt et al. (2015) present a detailed analysis of the
+geological context of the purported hearth features and the
+following includes a short review of the geological context.
+3.1.1. Geological context e layer 4b Layer 4b is composed of dark
+brown (Munsell Soil Color Chart 7.5YR 3/2) organic silt, which
+locally exhibits laminations. Layer 4b has a variable but maximal
+thickness of 35 cm. Under the microscope, layer 4b is composed
+mostly of small (<0.3 mm), slightly humiﬁed fragments of plant
+tissue, with a minor portion of rounded, sand- to silt-sized grains of
+quartz and mica (Tables 3 and 4). Framboidal pyrite, diatoms,
+sponge spicules, and secondary nodules of gypsum were
+additionally noted in thin section. The microstructure is massive
+with some lamina distinguished by increased silt-sand-sized
+quartz and clay content. No evidence for heat alteration was
+found in this layer (Table 3).
+3.1.2. Geological context e layer 4b/c Macroscopically, layer 4b/c
+is a calcareous mud with some mollusks that represent the only
+macroscopically identiﬁable materials in addition to the archaeological remains. Layer 4b/c exhibits minor soft sediment deformation, and it varies in color from brownish gray to gray (Munsell Soil
+Color Chart 2.5YR 6/3, 5/4, 6/1, and 10YR 5/8 to 4/6), which results
+from variable content of plant material, pyrite, and iron precipitations (see Stahlschmidt et al., 2015). Microscopically, layer 4b/
+c consists of small (<0.3 mm), slightly humiﬁed fragments of plant
+tissue, pyrite, silt- to sand-sized quartz grains, diatoms, and shell
+fragments in a calcareous matrix (Fig. 7d, e; Table 3).
+Below the strongly reddened features interpreted as hearths,
+layer 4b/c appears slightly more red than the marls outside the
+
+192
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+€ 13 II-4 FS11a. The reﬂectance values range from 0.17%Rr to 0.28%Rr, which indicates low humiﬁcation of the
+Figure 8. Huminite reﬂectance histogram of layer 4c/b in sample Scho
+plant tissue and not carbonization.
+
+purported hearth areas (Munsell Soil Color Chart 2.5YR 5/3). Excavators initially thought that this was also a result of heat alteration. However, the micromorphological analyses revealed the
+reddish colorations result from localized iron oxidation associated
+with microscopic plant tissues and oxidation of the ubiquitous
+pyrite (see above). The general reﬂectance value of the plant tissue
+from layer 4b/c (0.17%Rr to 0.22%Rr) indicates humiﬁcation and
+geliﬁcation, not charring (Fig. 8). Only very few, dispersed fragmented pieces of charred plant tissue were observed (Fig. 9). The
+recorded ﬂuorescence color and intensity of the plant tissue are
+typical for the peat stage of plant tissue and corroborate the
+reﬂectance values. Micromorphological analyses on layer 4b/c from
+outside the hearths showed no difference in components or
+structures from within the four hearths. Similarly, thermoluminescence analysis showed no difference in the glow curve shape
+€ 13
+and sensitivity in the sample from layer 4b/c from hearth 1 (Scho
+II-4 FSI 2010/21 BT-1079; Fig. 10a and b) to that from outside the
+€ 13 II-4 2011/25 BT-1077; Fig. 10c and d).
+purported hearths (Scho
+The heating plateau test indicates an apparent zeroing of the
+sample from hearth 1 (Fig. 10b), but the plateau is even more
+pronounced in the sample outside the hearths (Fig. 10d). Furthermore, heating as a single cause is revoked by bleaching experiments that showed the bleachability of the TL signal. Consequently,
+the presence of a plateau is not suited here for testing the occurrence of heating. A heating plateau is expected for luminescence
+not in saturation, but changes in sensitivities and especially glow
+curve shapes have to occur when sediment is heated. The sediment
+from layer 4b/c from outside the hearths was experimentally
+heated in the laboratory and shows an entirely different sensitivity
+and rather different glow curve shapes (Sch 13 II-4 Br Ex 4b/c LS 39
+BT-1080; Fig. 10e) compared to the samples obtained from the
+€ ningen site (Fig. 10a and c). Taken together, these results
+Scho
+suggest that the samples from hearth 1 and outside the hearths did
+not experience different temperatures.
+3.1.3. Results of the heating experiment Table 5 provides an
+overview of the results of the heating experiment. The heated
+samples from layer 4b/c show a range of reactions starting from
+100 to 300 , at which point destruction of ferromagnetic Fesulﬁdes occurs and neo-formation of para- and supermagnetic
+phases (SP) takes place (Fig. 11). Stable single domain (SSD)
+magnetite/maghemite forms at 400 C (Fig. 11). A macroscopic
+
+color change from greyish brown to pale brown was ﬁrst
+observed at 500 C (Fig. 7f). The color change continues to reddish
+yellow (Munsell Soil Color 7.5YR 7/4-6/4) from 700 to 800 C and
+to light gray (Munsell Soil Color 10YR 7/2) at 900 C. The change
+in color noticed in our experiments is likely a result of 1) gray
+shell fragments and orange staining by iron oxidation at 500 C,
+2) blackened shell fragments and an increase in dark red and
+orange staining from 800 C onwards, 3) calcite depletion from
+700 to 800 C, and 4) destruction of magnetite/maghemite from
+700 to 900 C with hematite formation at 800 C and 900 C
+(Figs. 7g and 11). Furthermore, we observed that kaolinite is
+absent from samples heated to 400 C, and that portlandite ﬁrst
+appears at 700 C (Fig. 12) as a result of CaO re-hydration (Weiner,
+2010). Finally, at 1000 C all Fe-bearing phases are transformed to
+magnetite/maghemite (Fig. 11). The shape of the TL signal
+changes as a result of laboratory heating as observed in the
+samples heated to 400 C, 700 C, and 900 C (Fig. 10e).
+Additionally, for an identical dose the sensitivity is raised by a
+
+Figure 9. Microphotograph in reﬂected light of a polished block from layer 4b at
+hearth 1. Two fragments of charred herbaceous-derived tissue (white) occur next to
+numerous fragments of mixed, not burnt huminitic herbaceous-derived tissues. Scale
+at the left 50 mm.
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+193
+
+€ 13-II FS1 2010/21.2 (BT-1079) from layer 4b/c in hearth 1. A: The blue curves (NTL) show the natural TL, the red lines (NTLþb) the
+Figure 10. A and B: TL glow curves of sample Scho
+TL signal produced by an additional artiﬁcial irradiation (200 Gy), and the green lines (450 C/b) the TL-signal after identical irradiation of the sample after measurement of the NTL.
+€ 13 II-4 2011/25 BT-1077 from layer 4b/c outside the hearths. C:
+B: Ratio of NTLþb over NTL (heating plateau test) shows apparent zeroing. C and D: TL glow curves of sample Scho
+The blue curves (NTL) show the natural TL, the red lines (NTLþb) the TL signal produced by an additional artiﬁcial irradiation (200 Gy), and the green lines (450 C/b) the TL-signal
+after identical irradiation of the sample after measurement of the NTL. Note the similar shape of the glow curves attained in the hearth 1 sample, Figure 10A. D: the ratio of NTLþb
+€ 13-II BrEx 4b/c LS 39 (BT-1080) which is layer 4b/c heated to 400 C. The blue curves
+over NTL (heating plateau test) shows apparent zeroing. E: TL glow curves of sample Scho
+(400 C) show the residual TL after heating, the red lines (400 Cþb) show the TL signal produced by an artiﬁcial irradiation (200 Gy), and the green lines the TL-signal after identical
+irradiation of the sample after measurement of the residual. Note the clear difference in sensivity and shape of glow curves compared to the samples from hearth 1 and outside the
+hearths in Figure 10A and C.
+
+factor of seven compared to the regeneration of the sample from
+the purported hearths.
+3.1.4. The reddening/purported hearth features The reddened
+contact between layers 4b/c and 4b occupied horizontal spaces
+of 1e3 m3, varying among the four hearths. The reddened
+contact consists of a consolidated hard crust with a thickness of
+2e3 cm and a brownish yellow to reddish yellow color (Munsell
+Soil Color 10YR 6/8- 7.5YR 6/6). Microscopically, the reddening is
+composed of amorphous iron that impregnated the groundmass
+of layers 4b and 4b/c. This reddening is in fact composed of
+several microlayers, which indicates multiple episodes of
+
+formation (Fig. 7aec). Oxygen-rich water in combination with a
+redox (reduction/oxidation) boundary at the contact of the two
+layers brought about the massive precipitation of iron at the
+contact. Other spatially extensive iron oxidation features at
+similar sedimentary contacts were observed in the excavation
+€ningen 13 II (Fig. 13). Moreover, the observation
+area at Scho
+by the excavators that the reddened contact has grown
+vertically and horizontally over the years supports the
+assumption that the reddening represents a recent, on-going
+process, likely related to the recent groundwater lowering at
+the mine.
+
+194
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+Table 5
+Overview of the results from the heating experiment.a
+Temperature
+
+Color Macroscopic
+(Munsell color Chart)
+
+Microstructure
+
+0 C
+
+10YR 5/2 grayish brown
+
+Massive
+
+up to 300 C
+
+10YR 5/2 grayish brown
+
+e
+
+400 C
+
+10YR 5/2 grayish brown
+
+500 C
+
+Components and
+their alterations
+
+Red staining
+
+Mineral phases
+(present after cooling-down
+to ambient temperatures)
+
+Shells, diatoms, quartz grains, plant
+tissue residues and cells, bone,
+calcite, clay
+Shells, diatoms, quartz grains, plant
+tissue residues and cells, calcite, clay
+
+None
+
+Calcitic crystallitic b-fabric,
+Kaolinite present
+
+e
+
+Massive to
+granular
+
+Shells grayish, diatoms and quartz
+unaltered, charred plant tissue
+residues and cells, calcite, clay
+
+Many dark red spots
+
+10YR 6/3 pale brown
+
+Granular to
+dense massive
+
+Many dark red spots
+
+700 C
+
+7.5YR 7/4-6/4 reddish
+yellow
+
+Granular to
+dense massive
+
+Shells grayish, diatoms and quartz
+unaltered, charred plant tissue
+residues and cells, calcite, clay
+Shells dark gray to black, diatoms and
+quartz unaltered, calcite, clay altered,
+portlandite
+
+800 C
+
+7.5YR 7/4-6/4 reddish
+yellow
+
+Dense massive,
+locally granular
+
+Very few diatoms and few brown
+to black colored shells observed,
+quartz grains unaltered, portlandite
+
+Many dark red spots and
+some orange red staining
+
+900 C
+
+10YR 7/2 light gray
+
+1000 C
+
+10YR 7/2 -7/3 light
+gray to very pale
+brown
+10YR 7/2 light gray
+
+Dense massive,
+locally granular
+Dense massive
+
+Very few diatoms and brown shells,
+quartz grains unaltered, portlandite
+Very few diatoms and no shells
+observed, quartz grains unaltered,
+portlandite
+No diatoms observed neither shells,
+quartz grains unaltered, portlandite
+
+Many dark red spots and
+some orange red staining
+Many dark red spots and
+some orange red staining
+
+Destruction of ferrimagnetic
+Fe-sulﬁdes, neo-formation of
+para- and superparamagnetic
+(SP; Fe-oxide?) phases
+Calcitic crystallitic b-fabric,
+no Kaolinite, neo-formation
+of SP Fe-oxide-phases and
+of stable single domain (SSD)
+magnetite/maghemite
+Calcitic crystallitic b-fabric,
+magnetic phases as above,
+no Kaolinite
+Calcite depletion zones visible,
+beginning hematite formation,
+destruction of magnetite/maghemite,
+no Kaolinite
+Calcite dissolved, increasing
+hematite formation, destruction
+of magnetite/maghemite continues,
+no Kaolinite
+Hematite present,
+no Kaolinite
+Transformation of all Fe-bearing
+phases to magnetite/maghemite,
+no Kaolinite
+Magnetite/Maghemite,
+no Kaolinite
+
+1100 C
+
+Granular to
+massive
+
+Many dark red spots and
+some orange red staining
+
+Locally dark red spots
+
+a
+The sediment samples exposed to heating show a range of reactions (charring of plant tissue, color change of shell fragments, formation of portlandite, hematite, and
+magnetite, calcite depletion, local red staining) at the different temperature intervals, which was not replicated in the samples from the purported hearths.
+
+Figure 11. Changes of mineral magnetic parameters with heating up to 1100 C. Concentration-dependent parameters are plotted at the left (orange ¼ IRM@2T [A/m] value, gray ¼ X
+[m3kg1] value), and mineral and grain size indicative inter-parametric ratios are shown at the right (green ¼ Kfd[%] value, blue purple ¼ S-parameter, red purple ¼ IRM/K[A/m]
+ratio). The dashed lines mark the respective values of the reddened layer at the purported hearth. Note that there is no temperature interval where the magnetic characteristics of
+the reddened layer correspond to the experimental results. Several magneto-mineralogical changes were observed with increasing temperatures: 300 C destruction of ferrimagnetic Fe-sulﬁdes and neo-formation of para- and superparamagnetic (SP) phases occurs; 700 C neo-formation of SP phases AND of stable single domain (SSD) magnetite/
+maghemite can be observed; 900 C: increasing neo-formation of hematite occurs; up to 1100 C transformation of all Fe-bearing phases to SSD magnetite/maghemite occurs.
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+Micromorphological analyses did not detect ash remains or
+phytoliths associated with the reddening and revealed only a few,
+isolated charcoal fragments. Reﬂectance values indicate generally
+low humiﬁcation of the plant tissues. Organic petrology analysis
+observed very few, small (<0.3 mm) fragmented, charred particles
+and showed that the charred plant tissues are herbaceous (Table 4;
+Fig. 14). Accordingly, they most likely derive from natural peat ﬁres.
+Bone, ostracod, and mollusk shell fragments in thin section show
+no evidence for heat alteration (Fig. 7d, e; Table 3). Furthermore,
+FTIR analyses demonstrated the presence of kaolinite, which is not
+stable above temperatures of 400 C (Fig. 12). None of the experimentally produced heat alterations (charring of plant tissue, color
+change of shell fragments, formation of portlandite, hematite,
+magnetite, or calcite depletion) were observed on the material
+obtained from the purported hearths, and the local red staining
+observed in the heating experiment is unlike the reddening at the
+purported hearths (see above).
+€ningen 13 II-2 and 13 II-3
+3.2. Burnt sediment from Scho
+The reﬂectance values of the two sediment samples from
+€ ningen 13 II-2 and 13 II-3 show a mean value of 0.25%Rr and a
+Scho
+range from 0.10%Rr to 0.45%Rr (Fig. 15). These reﬂectance values are
+indicative of humiﬁcation and not carbonization (which results in
+values greater than ~0.6%Rr). Charred plant tissues (fusinites) are a
+rare occurrence in the sediment sample and are dominantly herbaceous and highly fragmented.
+€ningen 12 B
+3.3. Burnt wood and sediment from Scho
+The presumed burnt piece of wood is very well preserved and
+shows low reﬂectance values, 0.11%Rr to 0.16%Rr (Fig. 16), which are
+indicative of humiﬁcation and not carbonization. No part of the
+wood piece showed reﬂectance values that indicate combustion
+(which would be >0.6%Rr). Brown ﬂuorescence of the cell walls
+shows that the wood sample is composed of humic substances in
+addition to lignin and cellulose.
+
+195
+
+Figure 12. a) Representative FTIR spectrum of local marl sediment showing the IR
+absorptions of kaolinite (3620 and 3695 cm1) and calcite (2516 and
+2875e2982 cm1); b) Representative FTIR spectrum of local marl sediment heated to
+500 C showing the abatement of kaolinite IR absorptions (3620 and 3695 cm1); c)
+Representative FTIR spectrum of local marl sediment heated to 700 C showing the IR
+absorption of portlandite [Ca(OH)2](3644 cm1) and the abatement of kaolinite IR
+absorptions (3620 and 3695 cm1).
+
+2007; Richter and Thieme, 2012; Richter and Krbetschek, 2015).
+This being said, the association of burnt, possibly natural pieces
+of ﬂint with archaeological remains does not demonstrate
+human use of ﬁre (e.g., James et al., 1989; Roebroeks and Villa,
+2011a). This particularly applies to burnt wood, which occurs
+naturally and is frequently preserved in lacustrine deposits (e.g.,
+Power et al., 2010).
+4.2. Implications for the archaeological record in northern latitudes
+€ningen does not contain evidence for controlled or habitual
+Scho
+use of ﬁre. The results of our study on the reddened and black
+€ ningen call into question similar claims for husediments at Scho
+man control of ﬁre that are solely based on macroscopic, visual
+
+4. Discussion
+€ningen
+4.1. No evidence for human use or control of ﬁre at Scho
+Our results show that the reddening at the purported hearths at
+€ ningen 13 II-4 did not result from heating but instead repreScho
+sents a natural, recent post-depositional process of iron precipitation and oxidation. Such reddened contacts of two overlying
+sedimentary layers are widely known features in lacustrine sequences (e.g., Deike et al., 1997; Kaczorek and Sommer, 2003). A
+few transported, charred plant tissues probably resulting from
+€ ningen 13 II (see
+natural ﬁres are the only evidence for ﬁre at Scho
+also Urban et al., 2015). Palynological analyses (Stahlschmidt et al.,
+2015; Urban et al., 2015) document an increase in microcharcoal at
+several erosional contacts in the proﬁle section 12 II and 13 II,
+which may indicate a change in frequency of natural ﬁres resulting
+from shifts in climate or changing seasonality.
+Furthermore, the organic petrology analyses show that the
+€ ningen 13 II-3 and purported
+presumably burnt sediment from Scho
+€ningen 12 B have not been exposed to heat.
+burnt wood from Scho
+These results highlight the difﬁculty of using macroscopic identiﬁcation of burnt sediment and charcoal without further veriﬁcation, and call into question other burnt wood claimed as evidence
+€ ningen, such as the Bratspieß (e.g., Thieme, 2005;
+for ﬁre at Scho
+Schoch et al., 2015).
+€ningen 13 I had been exposed to ﬁre, as
+Lithic artifacts from Scho
+demonstrated by thermoluminescence analysis (Richter, 1998,
+
+Figure 13. Photograph of the contact of a lower calcareous marl with an upper organic
+€ningen 13 II-1. Note the iron precipitation at this contact,
+mud/peat deposit at Scho
+which is similar to the purported hearth features in 13 II-4. Height of proﬁle about
+1.20 m.
+
+196
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+€ 13 II-4 FS 13a and 13b. The reﬂectance values range from 0.03%Rr to 0.31%Rr, which indicates low
+Figure 14. Huminite reﬂectance histogram of the reddening in sample Scho
+humiﬁcation of the plant tissue and not carbonization.
+
+identiﬁcation of reddened or dark-colored sediments. At Beeches
+Pit, Gowlett et al. (2005) identify hearths based on the presence of
+oxidized sediments overlain by dark-colored deposits. They note
+the spatial association of these features with clusters of burnt ﬂint
+and bone. However, the inferred temperature of 350e800 C for the
+bones and lithic material does not exclude natural ﬁres, and no
+analysis of the purported hearth sediments has yet been presented.
+A detailed micro-contextual analysis of the purported hearths, as
+also proposed by Gowlett et al. (2005), would potentially be able to
+differentiate between natural and anthropogenic ﬁre.
+€ningen, and
+The lack of evidence for human induced ﬁre at Scho
+the questionable evidence at Beeches Pit, leaves archaeologists
+with no conclusive evidence for human control of ﬁre in northern
+latitudes during the Lower Paleolithic (Roebroeks and Villa, 2011a).
+This stands in contrast to the evidence for human occupation as
+early as 800,000 years ago above the 50th degree of latitude in
+Europe (Parﬁtt et al., 2010). The lack of evidence for human use and
+control of ﬁre could be either a result of poor preservation, human
+behavior, or both.
+
+4.2.1. Preservation Surovell and Brantingham (2007) argue that
+the archaeological record is subject to taphonomic biases, which
+cause overrepresentation of younger periods relative to older
+periods (but see Surovell et al., 2009). The lack of early evidence
+for human use and control of ﬁre in northern latitudes might also
+be a result of taphonomic processes erasing the evidence
+(Sandgathe et al., 2011b). Hearths and burnt materials can be
+subject to destructive processes, such as bioturbation, erosion,
+and chemical alterations (e.g., Sergant et al., 2006; Mallol et al.,
+2007; Braadbaart et al., 2009; Mentzer, 2012). Combustion
+features can also be inﬂuenced by geochemical conditions and
+modiﬁcations of the depositional environment (e.g., ShahackGross et al., 2004, 2014). For example, in northern latitudes acidic
+soils predominate (e.g., Jones et al., 2010), which negatively
+affects ash preservation. However, charcoal shows better
+preservation under acidic, rather than alkaline conditions
+(Braadbaart et al., 2009). Caves and rockshelters exhibit very good
+preservation properties, as shown by the rich record of wellpreserved hearth features in Middle Paleolithic sites in Europe,
+
+€ 13 II-2/3 2010/35&36. The reﬂectance values show a mean value of 0.25%Rr and a range from
+Figure 15. Huminite reﬂectance histogram of the purported burnt sediment Scho
+0.10%Rr to 0.4%Rr, which is indicative of humiﬁcation and not carbonization.
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+197
+
+Figure 16. Huminite reﬂectance histogram of the purported burnt wood ID 13325. The reﬂectance values range from 0.11%Rr to 0.16%Rr. These values indicate humiﬁcation and not
+carbonization.
+
+the Near East, and Africa (e.g., Goldberg and Bar-Yosef, 1998;
+Goldberg et al., 2009; Wadley et al., 2011). However, Lower
+Paleolithic sites in caves and rock shelters in Europe have not
+been reported to contain any evidence for human use of ﬁre (e.g.,
+Atapuerca Gran Dolina and Sima del Elefante, Arago,
+Treugol'naya, and Visogliano; Roebroeks and Villa, 2011a).
+Most Lower Paleolithic sites in northern latitudes are located in
+open-air settings (e.g., Pakeﬁeld, Boxgrove, Happisburgh,
+€ ningen, Bilzingsleben), and sites in open-air settings are subScho
+ject to more pronounced post-depositional alterations, such as
+bioturbation, erosion, and subaerial weathering (Goldberg and
+Sherwood, 2006). Sergant et al. (2006), in their investigation of a
+lack of Mesolithic hearths in the NW European plain, argue that
+unstructured hearths rarely preserve in this type of setting, since
+they are erased by bioturbation and erosion. Mallol et al. (2007) in
+an ethnographic study on the use of ﬁre by the Hadza observed that
+taphonomic processes, such as root invasion and erosion, can erase
+hearths in open-air settings, but that microscopic traces are often
+preserved depending on sedimentation rate. Supporting those
+observations, Friesem et al. (2013) report on a Middle Paleolithic
+hearth in an open-air setting, noting that it was likely preserved
+because of rapid burial.
+4.2.2. Human behavior Gowlett and Wrangham (2013) argue that
+a lack of natural ﬁre in northern latitudes presented a limiting
+factor for human settlement there. However, whereas most of the
+Lower Paleolithic sites in Europe date to interglacials (e.g.,
+€ ningen), there are sites
+Boxgrove, Bilzingsleben, Pakeﬁeld, Scho
+occupied during unfavorable climatic conditions, such as
+Happisburgh (Parﬁtt et al., 2010). Sandgathe and colleagues
+(2011a, b) claim that Neanderthals did not practice habitual ﬁre
+use and that they depended on natural sources of ﬁre. However,
+contradicting Sandgathe et al.'s claim, Rots (2011, 2015) presents
+evidence for ignition activities on a Levallois point at the site of
+Bettencourt, France. The current state of evidence strongly
+suggests that the ﬁrst inhabitants of northern Europe did not
+habitually use and control ﬁre (Roebroeks and Villa, 2011a).
+An independence from ﬁre seems odd in the face of data indicating that modern humans cannot survive, even if fully acclimatized, to temperatures below 5 C without some kind of protection
+against the cold in the form of clothing, ﬁre, or shelter (Hardy et al.,
+1971; Gilligan, 2010). However, it is possible that archaic humans
+
+might have had a different temperature tolerance. In this context,
+providing warmth seems the most important application of ﬁre
+next to providing nutritional improvement and light. Use of shelters, seasonal migration, a stronger reliance on animal food
+resource, clothing, and physical and nutritional adaptation present
+further strategies to cope with a colder environment (Gilligan,
+2010).
+Some Lower Paleolithic sites in Europe are situated in rock
+shelters and caves that could have provided protection. However,
+most of the known Lower Paleolithic record consists of open-air
+sites. The analysis of sites in open-air settings have not yet yielded reliable evidence for the construction of shelters in the Lower
+and Middle Paleolithic (cf. the controversial cases of Terra Amata
+[de Lumley, 1969], Chichibu [Hadﬁeld, 2000], and Bilzingsleben
+[Mania and Mania, 2000]). Constructed shelters become a common
+feature of archaeological sites only in the Upper Paleolithic
+(Iakovleva and Djindjian, 2005; Svoboda et al., 2005).
+Seasonal migration in winter to areas with less harsh climate or
+only ephemeral occupation have been suggested for Early Pleistocene occupation in northern latitudes (e.g., Roebroeks, 2001;
+Dennell, 2003, 2013), but high resolution data on seasonal signals
+and cold or warm phase occupation is often lacking. So far this
+option has been explored in detail only from the later Middle
+blot-Augustins, 1993). Similarly, the
+Paleolithic onward (e.g., Fe
+fossil record of the Middle Pleistocene in northern latitudes is too
+sparse to ascertain a physical adaptation to colder climates,
+whereas with the Middle Paleolithic a cold-adapted speciesdthe
+Neanderthalsdappears in Europe (Sergi, 1944; Churchill, 1998;
+Steegmann et al., 2002; Snodgrass and Leonard, 2009; but see
+Rae et al., 2011).
+Some researchers suggest that an increase in the consumption
+of animal resources is a necessary adaptation in order to maintain a
+high metabolic rate when confronted with the rarity of plant food
+in northern latitudes (Snodgrass and Leonard, 2009; but see Speth,
+2010). However, more detailed studies of edible plants in northern
+latitudes are still in progress (Bigga et al., 2015). The lack of vitamin
+C caused by the scarcity of plant food could have been answered
+with an increase of rawdnot cookeddmeat, especially liver, as is
+€ygaard, 1940; Draper, 1977). The spears
+practiced by the Inuit (Ho
+€ ningen are an excellent example of an improved hunting
+from Scho
+technology, and the richness of butchery remains at the site shows
+
+198
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+good access to animal resources (see also Dennell, 2013). Horsehide
+might also have been exploited as protection against the cold
+(Voormolen, 2008), and it is generally assumed that Neanderthals
+(e.g., Wales, 2012) depended on clothing to survive winter. The
+origin of clothing is still an open question since its preservation in
+Paleolithic context is very improbable. However, studies of needles,
+depictions, textile impressions, and the evolution of lice have
+provided some indirect evidence for Paleolithic clothing (e.g.,
+Adovasio et al., 1996; Soffer et al., 1998; Soffer, 2004).
+
+The authors declare no competing ﬁnancial interests.
+C.E.M., P.G., J.S., and N.J.C. conceived the project; M.C.S., C.E.M.,
+and J.S. performed sampling and ﬁeld analysis; M.C.S., C.E.M., P.G.,
+and F.B. performed micromorphological analysis; B.L. performed
+organic petrology; U.H. performed mineral magnetic parameters
+studies; D.R. performed thermoluminescence studies; F.B. performed FTIR and mFTIR analyses; M.C.S. and C.E.M. designed the
+heating experiment, and M.C.S. wrote the paper.
+
+5. Conclusion
+References
+Since James et al.'s (1989) early critique on the various claims for
+human use and control of ﬁre in the Paleolithic literature, the
+evaluation of evidence for ﬁre has been approached in a much more
+circumspect manner and the associated human behavior is carefully classiﬁed into ﬁre use, control, sporadic use and control,
+habitual use and control, and ﬁre production. However, many
+claims for early use of ﬁre still rest on unsubstantiated assumptions
+and “intuitive” claims. Our multianalytical, contextualized study at
+€ ningen is an example of a refutation of such types of unsupScho
+ported claims. Our analysis on purported hearths, burnt sediment,
+wood, and lithic material, along with a critical reassessment of
+€ ningen, clearly show that the site
+other claims for ﬁre at Scho
+complex does not serve as an example of human use or control of
+ﬁre in the Lower Paleolithic.
+In order to investigate the human mastery of ﬁre, archaeologists
+must conduct a three-step evaluation of their data. First, the
+researcher must demonstrate that the material evidence was either
+produced or altered by ﬁre. As shown in this study, macroscopic,
+qualitative evidence for heat alteration is often ambiguous but can
+be veriﬁed with such techniques as micromorphology, Fourier
+transform infrared (FTIR) spectroscopy, organic petrology, luminescence, and analysis of mineral magnetic parameters. Second, the
+researcher must demonstrate that the heat alteration is related to
+human activity and is not the result of a natural process (e.g., forest
+ﬁre or lightning strike); a micro-contextual approach presents the
+most promising tool. Third, the researcher must evaluate whether
+the evidence suggests use of ﬁre, control of ﬁre, production of ﬁre,
+or habitual use of ﬁre.
+The lack of direct evidence for human use and control of ﬁre in
+northern latitudes does not serve as evidence for absence of such
+behavior, and it is still debatable if this lack of evidence is related to
+poor preservation or to human behavior. Accepting the null hypothesis would mean that unless material is proven to be burnt, it is
+not burnt, and that unless human ﬁre use can be proven, humans
+did not use ﬁre. Accordingly, the present data set in Europe suggests
+the absence of ﬁre use and control in the Lower Paleolithic.
+More in-depth research along the lines used in this study is
+needed to ﬁnd and evaluate evidence for early ﬁre use in northern
+latitudes.
+Acknowledgments
+This work was largely funded by DFG grant CO 226/22-1.We are
+€chsische Landesamt für Denkmalpﬂege (NLD)
+grateful to the Niedersa
+€chsisches Ministerium für Wissenschaft und Kultur
+and the Niedersa
+(MWK) for cooperation and support. We would like to thank the
+National Science Foundation (#0073856; 0551927) for support.
+M.S. would like to thank the Athene program for support. We are
+also indebted to S. Winghardt, P. Kritikakis, S. Mentzer, J. Bega, the
+€ ningen excavation team, and J. Lehmann. D.R. would like to
+Scho
+thank Manfred Fischer (Bayreuth) for sample preparation and TL
+measurement. We are thankful to the anonymous reviewers for
+their helpful comments to an earlier version of this manuscript.
+
+Adovasio, J., Soffer, O., Bohuslay, K., 1996. Upper Paleolithic ﬁbre technology: interlaced woven ﬁnds from Pavlov I, Czech Republic, c. 26,000 years ago. Antiquity 70, 526e534.
+Ahlers, S.A., 1983. Heat treatment of Knife River ﬂint. Lithic Technology 12, 1e8.
+Aitken, M.J., 1985. Thermoluminescence Dating. Academic Press, London.
+Aldeias, V., Goldberg, P., Sandgathe, D., Berna, F., Dibble, H.L., McPherron, S.P.,
+Turq, A., Rezek, Z., 2012. Evidence for Neandertal use of ﬁre at Roc de Marsal
+(France). J. Archaeol. Sci. 39 (7), 2414e2423.
+Alperson-Aﬁl, N., 2008. Continual ﬁre-making by hominins at Gesher Benot Ya'aqov,
+Israel. Quatern. Sci. Rev. 27, 1733e1739.
+Alperson-Aﬁl, N., Goren-Inbar, N., 2006. Out of Africa and into Eurasia with
+controlled use of ﬁre: evidence from Gesher Benot Ya'aqov, Israel. Archaeol.
+Ethnol. Anthropol. Eurasia 28, 63e78.
+Alperson-Aﬁl, N., Goren-Inbar, N., 2010. The Acheulian Site of Gesher Benot Ya'aqov
+Volume II. Springer, Netherlands.
+Alperson-Aﬁl, N., Richter, D., Goren-Inbar, N., 2007. Phantom hearths and
+controlled use of ﬁre at Gesher Benot Ya'aqov, Israel. PaleoAnthropology
+2007, 1e15.
+Ashton, N., Lewis, S.G., Parﬁtt, S.A., Penkman, K.E.H., Coope, G.R., 2008. New evidence for complex climate change in MIS 11 from Hoxne, Suffolk, UK. Quatern.
+Sci. Rev. 27, 652e668.
+Avery, G., Kandel, A., Klein, R.G., Conard, N.J., Cruz-Uribe, K., 2004. Tortoises as food
+and taphonomic elements in palaeo « landscapes ». In: Brugal, J.-P., Jesse, D.
+te
+s humaines. Du comple
+ment alimentaire aux
+(Eds.), Petits animaux et socie
+ressources utilitaires XXIV, pp. 147e161.
+Backhouse, P.N., Johnson, E., 2007. Where were the hearths: an experimental
+investigation of the archaeological signature of prehistoric ﬁre technology in
+the alluvial gravels of the Southern Plains. J. Archaeol. Sci. 34, 1367e1378.
+Barbetti, M., 1986. Traces of ﬁre in the archaeological record, before one million
+years ago? J. Hum. Evol. 15, 771e781.
+Batchelder, R.B., 1967. Spatial and temporal patterns of ﬁre in the tropical world.
+Proc. A. Tall Timbers Fire Ecol. Conf. 6, 171e207.
+Bellomo, R.V., 1993. A methodological approach for identifying archaeological
+evidence of ﬁre resulting from human activities. J. Archaeol. Sci. 20,
+525e553.
+Bellomo, R.V., 1994. Methods of determining early hominid behavioral activities
+associated with the controlled use of ﬁre at FxJj 20 Main, Koobi Fora, Kenya.
+J. Hum. Evol. 27, 173e195.
+Berna, F., Goldberg, P., 2008. Assessing Paleolithic pyrotechnology and associated
+hominin behavior. Isr. J. Earth Sci. 56, 107e121.
+Berna, F., Goldberg, P., Horwitz, L.K., Brink, J., Holt, S., Bamford, M., Chazan, M., 2012.
+Microstratigraphic evidence of in situ ﬁre in the Acheulean strata of Wonderwerk Cave, Northern Cape province, South Africa. Proc. Natl. Acad. Sci. 109,
+E1215eE1220.
+Bigga, G., Schoch, W.H., Urban, B., 2015. Paleoenvironment and possibilities of plant
+€ningen (Germany). Insights from
+exploitation in the Middle Pleistocene of Scho
+botanical macro-remains and pollen. J. Hum. Evol. 89, 92e104.
+Binford, L.R., Ho, C.K., Aigner, J.S., Alimen, M.-H., Borrero, L.A., Te-K-un, C., Chung, T.,
+Goldberg, P., Ikawa-Smith, F., Lanata, J.L., Zune, L., Luchterhand, K., Lyman, R.L.,
+~ alons, G., Pei, G., Straus, L.G., Yacobaccio, H.D., Yi, S., 1985.
+Mengoni Gon
+Taphonomy at a distance: Zhoukoudian, “The Cave Home of Beijing Man”? Curr.
+Anthropol. 26, 413e442.
+€ninger Pollendiagramme und ihre Stellung im mitteBittmann, F., 2012. Die Scho
+€ischen Mittelpleistoza
+€n. In: Behre, K.-E. (Ed.), Die chronologische
+leuropa
+€ningen, Forschungen zur
+Einordnung der pal€
+aolithischen Fundstellen von Scho
+€ningen Band 1. Verlag des Ro
+€mischUrgeschichte aus dem Tagebau von Scho
+Germanischen Zentralmuseums, Mainz, pp. 97e112.
+Bordes, F., 1957. Review of K.P. Oakley ‘Fire as a paleolithic tool and weapon’.
+L'Anthropologie 61, 314e317.
+Braadbaart, F., Poole, I., van Brussel, A.A., 2009. Preservation potential of charcoal in
+alkaline environments: an experimental approach and implications for the
+archaeological record. J. Archaeol. Sci. 36, 1672e1679.
+Brace, L., Rosenberg, K.R., Hunt, K.D., 1987. Gradual change in human tooth size in
+the Late Pleistocene and Post-Pleistocene. Evolution 41, 705e720.
+Brain, C.K., 1991. The Hunters or the Hunted? An Introduction to African Cave
+Taphonomy. University of Chicago Press, Chicago.
+Brain, C.K., Sillen, A., 1988. Evidence from the Swartkrans cave for the earliest use of
+ﬁre. Nature 336, 464e466.
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+Brandes, C., Pollok, L., Schmidt, C., Wilde, V., Winsemann, J., 2012. Basin modelling
+of a lignite-bearing salt rim syncline: insights into rim syncline evolution and
+salt diapirism in NW Germany. Basin Res. 24, 699e716.
+Brewer, S., 1978. The chimps of Mt. Asserik. Knopf, New York.
+Brown, K.S., Marean, C.W., Herries, A., Jacobs, Z., Tribolo, C., Braun, D., Roberts, D.L.,
+Meyer, M.C., Bernatchez, J., 2009. Fire as an engineering tool of early modern
+humans. Science 325, 859e862.
+Buenger, B.A., 2003. The impact of wildland and prescribed ﬁre on archaeological
+resources. Ph.D. Dissertation, University of Kansas.
+Christian, H.J., Blakeslee, R.J., Boccippio, D.J., Boeck, W.L., Buechler, D.E., Driscoll, K.T.,
+Goodman, S.J., Hall, J.M., Koshak, W.J., Mach, D.M., Stewart, M.F., 2003. Global
+frequency and distribution of lightning as observed from space by the Optical
+Transient Detector. J. Geophys. Res. 108 (D1), 4005. http://dx.doi.org/10.1029/
+2002JD002347.
+Churchill, S.E., 1998. Cold adaptation, heterochrony, and Neandertals. Evol.
+Anthropol. 7, 46e60.
+Clark, J.D., Harris, J.W.K., 1985. Fire and its roles in early hominid lifeways. Afr.
+Archaeol. Rev. 3, 3e27.
+Clark, J.D., Kurashina, H., 1979. Hominid occupation of the East-Central Highlands of
+Ethiopia in the Plio-Pleistocene. Nature 282, 33e39.
+Clark, J.D., Asfaw, B., Assefa, G., Harris, J.W.K., Kurashina, H., Walter, R.C., White, T.D.,
+Williams, M.A.J., 1984. Paleoanthropological discoveries in the Middle Awash
+Valley, Ethiopia. Nature 307, 423e428.
+Clark, J.L., Ligouis, B., 2010. Burned bone in the Howieson's Poort and postHowieson's Poort Middle Stone Age deposits at Sibudu (South Africa): behavioral and taphonomic implications. J. Archaeol. Sci. 37, 2650e2661.
+Coolidge, F.L., Wynn, T., 2009. The rise of Homo sapiens: the evolution of modern
+thinking. Wiley-Blackwell, Chichester, UK.
+Courty, M.A., Goldberg, P., Macphail, R., 1989. Soils and Micromorphology in
+Archaeology. Cambridge University Press, Cambridge.
+Dalan, R.A., Banerjee, S.K., 1998. Solving archaeological problems using techniques
+of soil magnetism. Geoarchaeology 13, 3e36.
+nchez Gon
+~ i, M.F., 2010. Testing the hypothesis of ﬁre use
+Daniau, A.-L., d'Errico, F., Sa
+for ecosystem management by Neanderthal and Upper Palaeolithic modern
+human populations. PLoS ONE 5, e9157. http://dx.doi.org/10.1371/
+journal.pone.0009157.
+Davis, K.P., 1959. Forest Fire-Control and Use. McGraw-Hill, New York.
+DeBano, L.F., Neary, D.G., Ffolliott, P.F., 1998. Fire's Effects on Ecosystems. John Wiley
+and Sons, Chichester, UK.
+Deike, R.G., Granina, L., Callender, E., McGee, J.J., 1997. Formation of ferric crusts in
+Quaternary sediments of Lake Baikal, Russia, and implications for paleoclimate.
+Mar. Geol. 139, 21e46.
+Dennell, R., 2003. Dispersal and colonisation, long and short chronologies: how
+continuous is the early Pleistocene record for hominids outside East Africa?
+J. Hum. Evol. 45, 421e440.
+Dennell, R., 2013. The Nihewan Basin of North China in the Early Pleistocene:
+continuous and ﬂourishing, or discontinuous, infrequent and ephemeral
+occupation? Quatern. Int. 295, 223e236.
+Draper, H.H., 1977. The aboriginal Eskimo diet in modern perspective. Am.
+Anthropol. 79, 309e316.
+Ehlers, J., Eissmann, L., Lippstreu, L., Stephan, H.-J., Wansa, S., 2004. Pleistocene
+glaciations of North Germany. In: Ehlers, J., Gibbard, P.L. (Eds.), Quaternary
+Glaciations. Extent and Chronology Part I, Europe. Dev. Quatern. Sci. 2,
+pp. 135e146.
+€r im Tagebau Scho
+€ ningen der Braunschweigischen
+Elsner, H., 2003. Das Quarta
+Kohlenbergwerke AG, Helmstedt. Diploma thesis, University of Hannover.
+Evans, M.E., Heller, F., 2003. Environmental magnetism e principles and applications of Enviromagnetics. Academic Press, San Diego.
+blot-Augustins, J., 1993. Mobility strategies in the late Middle Paleolithic of
+Fe
+Central Europe and Western Europe: elements of stability and variability.
+J. Anthropol. Archaeol. 12, 211e265.
+Fessler, D.M.T., 2006. A burning desire: steps toward an evolutionary psychology of
+ﬁre learning. J. Cognition Culture 6, 429e451.
+Frazer, J.G., 1930. Myths of the origin of ﬁre: an essay. Macmillan, London.
+Friesem, D.E., Zaidner, Y., Shahack-Gross, R., 2013. Formation processes and combustion features at the lower layers of the Middle Palaeolithic open-air site of
+Nesher Ramla, Israel. Quatern. Int. 331, 128e138.
+Gaudzinski, S., Roebroeks, W., 2000. Adults only. Reindeer hunting at the Middle
+Palaeolithic site Salzgitter Lebenstedt, Northern Germany. J. Hum. Evol. 38,
+497e521.
+Geyh, M.A., Krbetschek, M., 2012. Zum radiometrischen Alter des Holstein-Interglazials. In: Behre, K.-E. (Ed.), Die chronologische Einordnung der
+€olithischen Fundpla
+€tze von Scho
+€ningen, Forschungen zur Urgeschichte aus
+pala
+€ningen Band 1. Verlag des Ro
+€ misch-Germanischen
+dem Tagebau von Scho
+Zentralmuseums, Mainz, pp. 151e170.
+Geyh, M.A., Müller, H., 2005. Numerical 230Th/U dating and a palynological review
+of the Holsteinian/Hoxnian Interglacial. Quatern. Sci. Rev. 24, 1861e1872.
+Gilligan, I., 2010. The prehistoric development of clothing: archaeological implications of a thermal model. J. Archaeol. Method Th. 17, 17e80.
+Goldberg, P., 2003. Some Observations on Middle and Upper Palaeolithic Ashy Cave
+and Rockshelter Deposits in the Near East. In: Goring-Morris, A.N., BelferCohen, A. (Eds.), More than meets the Eye: Studies on Upper Palaeolithic Diversity in the Near East. Oxbow Books, UK, pp. 19e32.
+ II Sediments. J. Archaeol. Sci.
+Goldberg, P., 2004. Micromorphology of Pech-de-l' Aze
+6, 17e47.
+
+199
+
+Goldberg, P., Bar-Yosef, O., 1998. Site formation processes in Kebara and Hayonim
+Caves and their signiﬁcance in Levantine Prehistoric Caves. In: Akazawa, T.,
+Aoki, K., Bar-Yosef, O. (Eds.), Neandertals and Modern Humans in Western Asia.
+Plenum Press, New York, pp. 107e125.
+Goldberg, P., Sherwood, S., 2006. Deciphering human prehistory through the geoarchaeological study of cave sediments. Evol. Anthropol. 15, 20e36.
+Goldberg, P., Weiner, S., Bar-Yosef, O., Xu, Q., Liu, J., 2001. Site formation processes at
+Zhoukoudian, China. J. Hum. Evol. 41, 483e530.
+Goldberg, P., Miller, C.E., Schiegl, S., Ligouis, B., Berna, F., Conard, N.J., Wadly, L.,
+2009. Bedding, hearths, and site maintenance in the Middle Stone Age of
+Sibudu Cave, KwaZulu-Natal, South Africa. Archaeol. Anthropol. Sci. 1,
+95e122.
+Goldberg, P., Dibble, H., Berna, F., Sandgathe, D., McPherron, S.J.P., Turq, A., 2012.
+New evidence on Neandertal use of ﬁre: examples from Roc de Marsal and Pech
+ IV. Quatern. Int. 247, 325e340.
+de l'Aze
+Goren-Inbar, N., Alperson, N., Kislev, M.E., Simchoni, O., Melamed, Y., Ben-Nun, A.,
+Werker, E., 2004. Evidence of hominin control of ﬁre at Gesher Benot Ya'aqov,
+Israel. Science 304, 725e727.
+Goudsblom, J., 1986. The human monopoly on the use of ﬁre: its origins and conditions. Hum. Evol. 1, 517e523.
+Gowlett, J.A.J., 2006. The early settlement of northern Europe: ﬁre history in the
+context of climate change and the social brain. C. R. Palevol. 5, 299e310.
+Gowlett, J.A.J., Wrangham, R., 2013. Earliest ﬁre in Africa: towards the convergence
+of archaeological evidence and the cooking hypothesis. Anzania: Archaeol. Res.
+Afr. 48 (1), 5e30.
+Gowlett, J.A.J., Harris, J.W.K., Walton, D., Wood, B.A., 1981. Early archaeological sites,
+hominid remains and traces of ﬁre from Chesowanja, Kenya. Nature 294,
+125e129.
+Gowlett, J.A.J., Harris, J.W.K., Walton, D., Wood, B.A., 1982. Reply to Isaac. Nature
+296, 870.
+Gowlett, J.A.J., Hallos, J., Hounsell, S., Brant, V., Debenham, N.C., 2005. Beeches Pit e
+archaeology, assemblage dynamics and early ﬁre history of a Middle Pleistocene
+site in East Anglia, UK. Eurasian Prehist. 3, 3e38.
+Hadﬁeld, P., 2000. Gimme shelter. New Sci. 165 (2228), 4.
+Hanson, M., Cain, C.R., 2007. Examining histology to identify burned bone.
+J. Archaeol. Sci. 34, 1902e1913.
+Hardy, J.D., Stolwijk, J.A.J., Gagge, A.P., 1971. Man. In: Whittow, G.C. (Ed.), Comparative Physiology of Thermoregulation, Volume II: Mammals. Academic, New
+York, pp. 327e380.
+Hendey, Q.B., 1976. The Pliocene fossil occurrences in ‘E’ quarry, Langebaanweg,
+South Africa. Ann. S. Afr. Mus. 69, 215e247.
+Hough, W., 1926. Fire as an agent in human culture. Government Printing Ofﬁce,
+Washington.
+€ygaard, A., 1940. Im Treibeisgürtel. Als Arzt unter Gro
+€ nla
+€ndischen Eskimos. Georg
+Ho
+Westermann Verlag, Braunschweig.
+Iakovleva, L., Djindjian, F., 2005. New data on Mammoth bone settlements of
+Eastern Europe in light of the new excavations of the Gontsy site (Ukraine).
+Quatern. Int. 126e128, 195e207.
+Isaac, G.L., 1977. Olorgesailie: Archaeological Studies of a Middle Pleistocene Lake
+Basin in Kenya. University of Chicago Press, Chicago.
+Isaac, G.L., 1982. Early hominids and ﬁre at Chesowanja, Kenya. Nature 296, 870.
+Isaac, G.L., 1984. The archaeology of human origins: studies of the Lower Pleistocene
+in East Africa 1971e1981. Adv. World Archaeol. 3, 1e87.
+Isaac, G.L., Harris, J.W.K., 1997. Sites stratiﬁed within the KBS tuff. In: Isaac, G.L. (Ed.),
+Koobi Fora Research Project Volume 5: Plio-Pleistocene Archaeology. Clarendon
+Press, Oxford, pp. 71e99.
+James, S.R., Dennell, R.W., Gilbert, A.S., Lewis, H.T., Gowlett, J.A., Lynch, T.F.,
+McGrew, W.C., Peters, C.R., Pope, G.G., Stahl, A.B., 1989. Hominid use of ﬁre in the
+Lower and Middle Pleistocene: a review of the evidence. Curr. Anthropol. 30,1e26.
+Jones, T.P., Lim, B., 2000. Extraterrestrial impacts and ﬁre. Palaeogeogr. Palaeoclimatol. Palaeoecol. 164, 57e66.
+Jones, A., Montanarella, L., Stolbovoy, V., Broll, G., Tarnocai, C., Spaargaren, O.,
+Ping, C.-L., 2010. Soil atlas of the Northern Circumpolar Region. European
+Commission, Luxembourg.
+Kaczorek, D., Sommer, M., 2003. Micromorphology, chemistry, and mineralogy of
+bog iron ores from Poland. Catena 54, 393e402.
+Karkanas, P., Shahack-Gross, R., Ayalon, A., Bar-Matthews, M., Barkai, R., Frumkin, A.,
+Gopher, A., Stiner, M.C., 2007. Evidence for habitual use of ﬁre at the end of the
+Lower Paleolithic: site formation processes at Qesem Cave, Israel. J. Hum. Evol.
+53, 197e212.
+Klein, R.G., 2002. The Dawn of Human Culture. John Wiley and Sons, New York.
+Klein, R.G., 2009. The Human Career: Human Biological and Cultural Origins. The
+University of Chicago Press, Chicago.
+€hner, U., Polom, U., Serangeli, J., Winsemann, J., 2015. The Middle PleisLang, J., Bo
+€ningen as a Paleolithic archive. J. Hum. Evol. 89,
+tocene tunnel valley at Scho
+18e26. http://dx.doi.org/10.1016/j.jhevol.2015.02.004.
+€hner, U., Serangeli, J.,
+Lang, J., Winsemann, J., Steinmetz, D., Polom, U., Pollok, L., Bo
+€ ningen,
+Brandes, C., Hampel, A., Winghart, S., 2012. The Pleistocene of Scho
+Germany: a complex tunnel valley ﬁll revealed from 3D subsurface modelling
+and shear wave seismics. Quatern. Sci. Rev. 39, 86e105.
+res organiques fossiles:
+Ligouis, B., 2006. Jais, lignite, charbon et autres matie
+trologie organique 
+tude des e
+l e
+ments de parure et des
+application de la pe
+a l'e
+fragments bruts. In: Bullinger, J., Leesch, D., Plumettaz, N. (Eds.), Le site magnian de Monruz, 1. Premiers e
+le
+ments pour l'analyse d'un habitat de plein
+dale
+e Cantonal d'Arche
+ologie, Neucha
+^tel, pp. 197e216.
+air. Service et Muse
+
+200
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+
+Litt, T., Behre, K.-E., Meyer, K.-D., Stephan, H.-J., Wansa, S., 2007. Stratigraphische
+Begriffe für das Quart€
+ar des norddeutschen Vereisungsgebietes. Eisz. Gegenw.
+56, 7e65.
+de Lumley, H., 1969. A Paleolithic camp at Nice. Sci. Am. 220, 42e50.
+de Lumley, H., 2006. Il y a 400 000 ans: la domestication du feu, un formidable
+moteur d'homisation. C. R. Palevol. 5, 149e154.
+Maher, B.A., 1986. Characterisation of soils by mineral magnetic measurements.
+Phys. Earth Planet. Int. 42, 76e92.
+Mallol, C., Marlowe, F.W., Wood, B.M., Porter, C.C., 2007. Earth, wind, and ﬁre:
+ethnoarchaeological signals of Hadza ﬁres. J. Archaeol. Sci. 34, 2035e2052.
+€ontologie der mittelpleistoz€
+Mania, D., 1991. Zur Pala
+anen Travertine von Bilzing€ ff. Landesmus. Vorgesch. Halle 44, Berlin,
+sleben. In: Bilzingsleben IV. Vero
+pp. 9e28.
+€ltnisse im Gebiet von Scho
+€ningen. In:
+Mania, D., 1995. Die geologischen Verha
+Thieme, H., Maier, R. (Eds.), Arch€
+aologische Ausgrabungen im Braunkohlenta€ningen. Landkreis Helmstedt, Hannover, pp. 33e43.
+gebau Scho
+€ ningen. In:
+Mania, D., 2007. Das Eiszeitalter und seine Spuren im Tagebau Scho
+€ ninger Speere e Mensch und Jagd vor 400.000 Jahren.
+Thieme, H. (Ed.), Die Scho
+Theiss Verlag, Stuttgart, pp. 35e61.
+Mania, D., Mania, U., 2000. Der Urmensch von Bilzingsleben e Ein Lebensbild vor
+400.000 Jahren. In: Hansch, W. (Ed.), Eiszeit e Mammut, Urmensch… und wie
+€dtische Museen Heilbronn, Heilbronn, pp. 116e137.
+weiter? Sta
+Mentzer, S., 2012. Microarchaeological approaches to the identiﬁcation and interpretation of combustion features in prehistoric archaeological sites. J. Archaeol.
+Method Th. 1e53.
+Mercier, N., Froget, L., Miallier, D., Pilleyre, T., Sanzelle, S., Tribolo, C., 2004. Noues chronologiques pour le site de Menez-Dregan 1 (Bretagne):
+velles donne
+l'apport de la thermoluminescence. Quaternaire 15, 253e261.
+goue
+€t, B., Hinguant, S., Laurent, M., Auguste, P., Bahain, J.-J.,
+Monnier, J.-L., Halle
+res, C., Gebhardt, A., Marguerie, D., Molines, N., Morzadec, H.,
+Falgue
+Yokoyama, Y., 1994. A new regional group of the Lower Paleolithic in Brittany
+(France), recently dated by Electron Spin Resonance. C. R. Acad. Sci. 319, 155e160.
+Monnier, J.-L., Hallegouet, B., Hinguant, S., Molines, N., 2001. La Datation de l'habitat
+olithique infe
+rieur de Menez-Dregan 1 (Plouhinec, Finiste
+re, France):
+pale
+ologique et arche
+ologique. In: Barradon, J.-N., Guibert, P.,
+argumentation ge
+ologique et
+Michel, V. (Eds.), DATATION XXI rencontres internationales d'arche
+d'historie d'Antibes. APDCA, pp. 261e277.
+Oakley, K.P., 1955. Fire as a Paleolithic tool and weapon. Proc. Prehist. Soc. 21,
+36e48.
+Parﬁtt, S.A., Ashton, N.M., Lewis, S.G., Abel, R.L., Coope, R., Field, M.H., Gale, R.,
+Hoare, P.G., Larkin, N.R., Lewis, M.D., Karloukovski, V., Maher, B.A., Peglar, S.M.,
+Preece, R.C., Whittaker, J.E., Stringer, C.B., 2010. Early Pleistocene human occupation at the edge of the boreal zone in northwest Europe. Nature 466, 229e233.
+Power, M.J., Marlon, J.R., Bartlein, P.J., Harrison, S.P., 2010. Fire history and the Global
+Charcoal Database: a new tool for hypothesis testing and data exploration.
+Palaeogeogr. Palaeoclimatol. Palaeoecol. 291, 52e59.
+Preece, R.C., Gowlett, J.A.J., Parﬁtt, S., Bridgland, D.R., Lewis, S.G., 2006. Humans in
+the Hoxnian: habitat, context and ﬁre use at Beeches Pit, West Stow, Suffolk,
+UK. J. Quatern. Sci. 21, 485e496.
+Preece, R.C., Parﬁtt, S.A., Bridgland, D.R., Lewis, S.G., Rowe, P.J., Atkinson, T.C.,
+Candy, I., Debeham, N.C., Penkman, K.E.H., Rhodes, E.J., Schwenninger, J.-L.,
+Grifﬁths, H.I., Whittaker, J.E., Gleed-Owen, C., 2007. Terrestrial environments
+during MIS 11: evidence from the Paleolithic site at West Stow, Suffolk, UK.
+Quatern. Sci. Rev. 26, 1236e1300.
+Pruetz, J.D., LaDuke, T.C., 2010. Brief communication: Reaction to ﬁre by savanna
+chimpanzees (Pan troglodytes verus) at Fongoli, Senegal: conceptualization of
+“ﬁre behavior” and the case for a chimpanzee model. Am. J. Phys. Anthropol.
+141, 646e650.
+Purdy, B.A., 1971. Investigations Concerning the Thermal Alteration of Silica Minerals: An Archaeological Approach. Ph.D. Dissertation, University of Florida.
+Purdy, B.A., 1975. Fractures for the Archaeologist. Lithic technology. In:
+Swanson, E.H. (Ed.), Lithic Technology. Mouton, Chicago, pp. 133e141.
+Purdy, B.A., Brooks, H.K., 1971. Thermal alteration of silica minerals: an archeological approach. Science 173, 322e325.
+Pyne, S.J., Andrews, P.L., Laven, R.D., 1996. Introduction to Wildland Fire. Wiley, New
+York.
+Rae, T.C., Koppe, T., Stringer, C.B., 2011. The Neanderthal face is not cold adapted.
+J. Hum. Evol. 60, 234e239.
+Rice, S.A., 2007. Encyclopedia of evolution. Facts On File, New York.
+Richter, D., 1998. Thermolumineszenzdatierungen erhitzter Silices aus
+€olithischen Fundstellen. Ph.D. Dissertation, University of Tübingen.
+pala
+€ningen mit dosiRichter, D., 2007. Altersbestimmung der Fundschichten von Scho
+€ ninger Speere e
+metrischen Datierungsmethoden. In: Thieme, H. (Ed.), Die Scho
+Mensch und Jagd vor 400,000. Konrad Theiss, Stuttgart, pp. 62e66.
+Richter, D., Krbetschek, M., 2015. The age of the Lower Paleolithic occupation at
+€ningen. J. Hum. Evol. 89, 46e56.
+Scho
+Richter, D., Thieme, H., 2012. One ﬁrst chronometric date for the Lower Palaeolithic
+€ningen 13 I. In: Behre, K.-E. (Ed.), Die chronologische
+occupation at Scho
+€olithischen Fundpl€
+€ningen, Forschungen zur
+Einordnung der pala
+atze von Scho
+€ningen Band 1. Verlag des Ro
+€mischUrgeschichte aus dem Tagebau von Scho
+Germanischen Zentralmuseums, Mainz, pp. 171e182.
+Roebroeks, W., 2001. Hominid behaviour and the earliest occupation of Europe: an
+exploration. J. Hum. Evol. 41, 437e461.
+Roebroeks, W., Villa, P., 2011a. On the earliest evidence for habitual use of ﬁre in
+Europe. Proc. Natl. Acad. Sci. 108, 5209e5214.
+
+Roebroeks, W., Villa, P., 2011b. Reply to Sandgathe et al.: Neandertal use of ﬁre. Proc.
+Natl. Acad. Sci. 108, 299.
+Rolland, N., 2004. Was the emergence of home bases and domestic ﬁre a punctuated event? A review of the Middle Pleistocene record in Eurasia. Asian Perspect. 34, 248e280.
+Rots, V., 2011. Tool Use and Hafting in the Western European Middle Palaeolithic.
+ te
+ royale belge d'e
+tudes ge
+ologiques et arche
+ologiques e Les
+Bulletin de la Socie
+rie 4, 277e287.
+Chercheurs de laWallonie. Hors-se
+Rots, V., 2015. Hafting and the interpretation of site function in the European
+Middle Palaeolithic. In: Conard, N.J. (Ed.), Settlement Dynamics of the Middle
+Palaeolithic and Middle Stone Age, Vol. 4. Kerns Verlag, Tübingen, pp. 383e410.
+Sandgathe, D.M., Dibble, H.L., Goldberg, P., McPherron, S.P., Turq, A., Niven, L.,
+Hodgkins, J., 2011a. On the role of ﬁre in Neandertal adaptations in western
+ IV and Roc de Marsal, France. PaleoAnEurope: evidence from Pech de l'Aze
+thropology 216e242.
+Sandgathe, D.M., Dibble, H.L., Goldberg, P., McPherron, S.P., Turq, A., Niven, L.,
+Hodgkins, J., 2011b. Timing of the appearance of habitual ﬁre use. Proc. Natl.
+Acad. Sci. 108, 298.
+€ ningen 13 II-4. In:
+Schiegl, S., Thieme, H., 2007. Auf den Spuren von Feuer in Scho
+€ninger Speere e Mensch und Jagd vor 400,000 Jahren.
+Thieme, H. (Ed.), Die Scho
+Theiss Verlag, Stuttgart, pp. 166e171.
+Schiegl, S., Stockhammer, P., Scott, C., Wadley, L., 2004. A mineralogical and phytolith study of the Middle Stone Age in Sibudu Cave, KwaZulu-Natal, South
+Africa. S. Afr. J. Sci. 100, 185e194.
+€hner, U., Richter, P., Terberger, T., 2015. New insights on
+Schoch, W.H., Bigga, G., Bo
+€ ningen. J. Hum. Evol. 89,
+the wooden weapons from the Paleolithic site of Scho
+214e225.
+Scott, A.C., 1989. Observations on the nature and origin of fusain. Int. J. Coal Geol. 12,
+443e475.
+Scott, A.C., 2000. The Pre-Quaternary history of ﬁre. Palaeogeogr. Palaeoclimatol.
+Palaeoecol. 164, 281e329.
+€hner, U., 2012. Die Artefakte von Scho
+€ningen und deren zeitliche
+Serangeli, J., Bo
+Einordnung. In: Behre, K.-E. (Ed.), Die chronologische Einordnung der
+€ ningen, Forschungen zur Urgeschichte aus
+pal€
+aolithischen Fundpl€
+atze von Scho
+€ ningen Band 1. Verlag des Ro
+€misch-Germanischen
+dem Tagebau von Scho
+Zentralmuseums, Mainz, pp. 23e38.
+Serangeli, J., Conard, N.J., 2015. Overview and new results from large-scale exca€ningen. J. Hum. Evol. 89, 27e45.
+vations in Scho
+€hner, U., Haßmann, H., Conard, N.J., 2012. Die pleistoza
+€nen FundSerangeli, J., Bo
+€ningen e eine Einführung. In: Behre, K. (Ed.), Die chronologische
+stellen in Scho
+€ningen, Forschungen zur
+Einordnung der pal€
+aolithischen Fundstellen von Scho
+€ningen Band 1. Verlag des Ro
+€mischUrgeschichte aus dem Tagebau von Scho
+Germanischen Zentralmuseums, Mainz, pp. 1e22.
+, P., Perdaen, Y., 2006. The “invisible” hearths: a contribution to
+Sergant, J., Crombe
+the discernment of Mesolithic non-structured surface hearths. J. Archaeol. Sci.
+33, 999e1007.
+Sergi, S., 1944. Craniometria e craniograﬁa del primo paleantropo di Saccopastore.
+Ric. Morfol. 20e21, 733e791.
+Shahack-Gross, R., Bar-Yosef, O., Weiner, S., 1997. Black-coloured bones in Hayonim
+Cave, Israel: differentiating between burning and oxide staining. J. Archaeol. Sci.
+24, 439e446.
+Shahack-Gross, R., Berna, F., Karkanas, P., Weiner, S., 2004. Bat guano and preservation of archaeological remains in cave sites. J. Archaeol. Sci. 31,
+1259e1272.
+Shahack-Gross, R., Berna, F., Karkanas, P., Lemorini, C., Gopher, A., Barkai, R., 2014.
+Evidence for the repeated use of a central hearth at Middle Pleistocene (300 ky
+ago) Qesem Cave, Israel. J. Archaeol. Sci. 44, 12e21.
+Shipman, P., Foster, G.F., Schoeninger, M., 1984. Burnt bones and teeth: an experimental study of colour, morphology, crystal structure and shrinkage.
+J. Archaeol. Sci. 11, 307e325.
+Snodgrass, J., Leonard, W.R., 2009. Neandertal energetics revisited: insights into
+population dynamics and life history evolution. PaleoAnthropology 2009,
+220e237.
+Soffer, O., 2004. Recovering perishable technologies through use wear on tools:
+preliminary evidence for Upper Paleolithic weaving and net making. Curr.
+Anthropol. 45, 407e413.
+Soffer, O., Advasio, J.M., Hyland, D.C., Klima, B., Svoboda, J., 1998. Perishable technologies and the genesis of the eastern Gravettian. Anthropologie 36, 43e68.
+Sorensen, A., Roebroeks, W., van Gijn, A., 2014. Fire production in the deep past?
+The expedient strike-a-light model. J. Archaeol. Sci. 42, 476e486.
+Speth, J., 2010. The Paleoanthropology and Archaeology of Big-Game Hunting e
+Protein, Fat, or Politics? Springer, New York.
+Stach, E., Mackowsky, M.-T., Teichmüller, M., Taylor, G.H., Chandra, D., Teichmüller, R.,
+€ger, Berlin.
+1975. Stach's Textbook of Coal Petrology. Gebrüder Borntra
+Stahl, A.B., Dunbar, R.I.M., Homewood, K., Ikawa-Smith, F., Kortlandt, A.,
+McGrew, W.C., Milton, K., Paterson, J.D., Poirier, F.E., Sugardjito, J., Tanner, N.M.,
+Wrangham, R.W., 1984. Hominid dietary selection before ﬁre. Curr. Anthropol.
+25, 151e168.
+Stahlschmidt, M.C., Miller, C.E., Ligouis, B., Goldberg, P., Berna, F., Urban, B.,
+€ningen 13 II-4 and
+Conard, N.J., 2015. The depositional environments of Scho
+their archaeological implications. J. Hum. Evol. 89, 71e91.
+Steegmann, A., Cerny, F., Holliday, T., 2002. Neandertal cold adaptation: physiological and energetic factors. Am. J. Hum. Biol. 14, 566e583.
+Steguweit, L., 2003. Gebrauchsspuren an Artefakten der Hominidenfundstelle Bilzingsleben (Thüringen). Verlag Marie Leidorf, Rahden.
+
+M.C. Stahlschmidt et al. / Journal of Human Evolution 89 (2015) 181e201
+Stiner, M.C., Kuhn, L., Weiner, S., Bar-Yosef, O., 1995. Differential burning, recrystallization, and fragmentation of archaeological bone. J. Archaeol. Sci. 22,
+223e237.
+Stoops, G., 2003. Guidelines for Analysis and Description of Soil and Regolith Thin
+Sections. Soil Science Society of America, Madison, WI.
+Stoops, G., Marcelino, V., Mees, F. (Eds.), 2010. Interpretation of Micromorphological
+Features of Soils and Regoliths. Elsevier, Amsterdam.
+Straus, L., 1989. On early hominid use of ﬁre. Curr. Anthropol. 30, 488e491.
+Surovell, T.A., Brantingham, P.J., 2007. A note on the use of temporal frequency
+distributions in studies of prehistoric demography. J. Archaeol. Sci. 34,
+1868e1877.
+Surovell, T.A., Finley, J.B., Smith, G.M., Brantingham, P.J., Kelly, R., 2009. Correcting
+temporal frequency distributions for taphonomic bias. J. Archaeol. Sci. 36,
+1715e1742.
+an, S., Wojtal, P., 2005. Mammoth bone deposits and subsistence
+Svoboda, J., Pe
+practices during Mid-Upper Palaeolithic in Central Europe: three cases from
+Moravia and Poland. Quatern. Int. 126e128, 209e221.
+Taylor, G.H., Teichmüller, M., Davis, A., Diessel, C.F.K., Littke, R., Robert, P., 1998.
+Organic Petrology. Gerbrüder Borntraeger, Berlin.
+Thieme, H., 1997. Palaeolithic hunting spears from Germany. Nature 385, 807e810.
+€olithische Holzgera
+€te aus Scho
+€ningen, Lkr. Helmstedt.
+Thieme, H., 1999. Altpala
+Bedeutsame Funde zur Kulturentwicklung des frühen Menschen. Germania 77,
+451e487.
+€ningen e Fundchronik Niedersachsen 2001. Nachrichten aus
+Thieme, H., 2002. Scho
+Niedersachsens Urgeschichte 8, 11e13.
+€ ningen
+Thieme, H., 2005. The Lower Palaeolithic art of hunting: the case of Scho
+13 II-4, Lower Saxony, Germany. In: Gamble, C., Porr, M. (Eds.), The hominid
+individual in context: archaeological investigations of Lower and Middle
+Palaeolithic landscapes, locales and artefacts. Routeledge, London,
+pp. 115e132.
+Thieme, H., 2007a. Ein Befund von Weltbedeutung: Ein Wildpferd-Jagdlager vor
+400 000 Jahren e Die Holzger€
+ate: Speere, Wurfstock, Bratspieß. In: Thieme, H.
+€ ninger Speere e Mensch und Jagd vor 400 000 Jahren. Theiss(Ed.), Die Scho
+Verlag, Stuttgart, pp. 144e157.
+Thieme, H., 2007b. Überlegungen zum Gesamtbefund des Wildpferd-Jagdlagers. In:
+€ninger Speere e Mensch und Jagd vor 400 000 Jahren.
+Thieme, H. (Ed.), Die Scho
+Theiss-Verlag, Stuttgart, pp. 177e190.
+€olithische Fundstelle Scho
+€ningen 12 (Reinsdorf-WarmThieme, H., 2007c. Die pala
+zeit) e Eine dreimonatige Rettungsgrabung 1992 in 15m Tiefe. In: Thieme, H.
+€ninger Speere - Mensch und Jagd vor 400 000 Jahren. Theiss(Ed.), Die Scho
+Verlag, Stuttgart, pp. 192e201.
+€ ningen: Das ReinsdorfThieme, H., 2007d. Eine neu entdeckte Warmzeit in Scho
+€hrend der Reinsdorf-WarmInterglazial e Zur Anwesenheit des Menschen wa
+€ninger Speere e Mensch und Jagd vor
+zeit. In: Thieme, H. (Ed.), Die Scho
+400 000 Jahren. Theiss-Verlag, Stuttgart, pp. 124e126.
+Thieme, H., 2007e. Der Zerlegungsplatz der Jagdbeute. In: Thieme, H. (Ed.), Die
+€ninger Speere e Mensch und Jagd vor 400 000 Jahren. Theiss-Verlag,
+Scho
+Stuttgart, pp. 172e173.
+Thieme, H., Maier, R., 1995. Arch€
+aologische Ausgrabungen im Braunkohlentagebau
+€ningen, Landkreis Helmstedt. Verlag Hahnsche Buchhandlung, Hannover.
+Scho
+Tutin, C.E.G., White, L.J.T., Mackanga-Missandzou, A., 1996. Lightening strike burns
+ Reserve, Gabon. Global Ecol. Biogeogr. 5, 26e42.
+large forest tree in the Lope
+Urban, B., 1995. Palynological evidence of younger Middle Pleistocene Interglacials
+€ ningen) in the Scho
+€ningen open cast lignite mine
+(Holsteinian, Reinsdorf, Scho
+(eastern Lower Saxony, Germany). Mededelingen Rijks Geol. Dienst 52, 175e186.
+€ningen, North Germany. In:
+Urban, B., 2007. Interglacial pollen records from Scho
+Sirocko, F., Claussen, M., Goni, M.F.S., Litt, T. (Eds.), The Climate of Past Interglacials. Dev. Quatern. Sci. 7, pp. 418e444.
+
+201
+
+Urban, B., Sierralta, M., 2012. New palynological evidence and correlation of Early
+€ningen 12 B and 13 II, Scho
+€ningen open lignite mine. In:
+Palaeolithic sites Scho
+€olithischen
+Behre, K.-E. (Ed.), Die chronologische Einordnung der pala
+€ningen, Forschungen zur Urgeschichte aus dem Tagebau
+Fundpl€
+atze von Scho
+€ningen Band 1. Verlag des Ro
+€ misch-Germanischen Zentralmuseums,
+von Scho
+Mainz, pp. 77e96.
+€n im Tagebau
+Urban, B., Lenhard, R., Mania, D., Albrecht, B., 1991a. Mittelpleistoza
+€ningen, Ldkrs. Helmstedt. Z. Dt. Geol. Gesellschaft 142, 351e372.
+Scho
+€lzer, A., Mania, D., Albrecht, B., 1991b. Eine eem-und frühUrban, B., Elsner, H., Ho
+€ningen, Landkreis Helmstedt. Eisz.
+weichselzeitliche Abfolge im Tagebau Scho
+Gegenw. 41, 85e99.
+€hner, U., van Kolfschoten, T., 2015. Environmental reconUrban, B., Bigga, G., Bo
+struction and biostratigraphy of Upper Middle Pleistocene lakeshore deposits at
+€ningen. J. Hum. Evol. 89, 57e70.
+Scho
+, E., Rosell, J., Saladie
+, P., Chaco
+ n, G.,
+Vallverdú, J., Vaquero, M., C
+aceres, I., Allue
+, A., Canals, A., Sala, R., Courty, M.A., Carbonell, E., 2010. Sleeping activity
+Olle
+area within the site structure of archaic human groups. Evidence from Abric
+Romani Level N combustion activity areas. Curr. Anthropol. 51, 137e145.
+€ningen (Germany): a review
+Van Kolfschoten, T., 2014. The Palaeolithic locality Scho
+of the mammalian record. Quat. Int. 326e327, 469e480.
+van Velzen, A.J., Deckers, M.J., 1999. Low-temperature oxidation of magnetite in
+loess-paleosol sequences: a correction of rock magnetic parameters. Stud.
+Geophys. Geod. 43, 357e375.
+rtes, L., Dobosi, V.T., 1990. Fireplaces of the settlement. In: Kretzoi, M., Dobosi, V.T.
+Ve
+rtesszo
+€ llo
+€ s. Akademiai Kiado, Budapest, pp. 519e521.
+(Eds.), Ve
+Villa, P., 1982. Conjoinable pieces and site formation processes. Am. Antiq. 47,
+276e310.
+Villa, P., 1983. Terra Amata and the Middle Pleistocene Archaeological Record of
+Southern France. University of California Press, Berkeley.
+€ningen 13 II-4, a killVoormolen, B., 2008. Ancient hunters, modern butchers: Scho
+butchery site dating from the northwest European Lower Palaeolithic. Ph.D.
+Dissertation, Leiden University.
+Wadley, L., Sievers, C., Bamford, M., Goldberg, P., Berna, F., Miller, C., 2011. Middle
+Stone Age bedding construction and settlement patterns at Sibudu, South Africa. Science 334, 1388e1391.
+Walden, J., Oldﬁeld, F., Smith, J.P., 1999. Environmental Magnetism: A Practical
+Guide. In: Technical Guide Series, no. 6. Quaternary Research Association,
+London.
+Wales, N., 2012. Modeling Neanderthal clothing using ethnographic analogues.
+J. Hum. Evol. 63, 781e795.
+Weiner, J., 2003. Friction vs. percussion. Some comments on ﬁremaking from Old
+Europe. Bull. Primit. Technol. 26, 10e16.
+Weiner, J., Floss, H., 2005. Eine Schwefelkiesknolle aus dem Aurignacien vom
+Vogelherd, Baden- Württemberg e Zu den Anf€
+angen der Feuererzeugung im
+€ischen Pala
+€olithikum. Arch€
+europa
+aol. Inf. 27, 59e78.
+Weiner, S., 2010. Microarchaeology-Beyond the Visible Archaeological Record.
+Cambridge University Press, New York.
+Weiner, S., Xu, Q., Goldberg, P., Liu, J., Bar-Yosef, O., 1998. Evidence for the use of ﬁre
+at Zhoukoudian, China. Science 281, 251e253.
+Wrangham, R.W., 2009. Catching Fire: How Cooking Made Us Human. Basic Books,
+New York.
+Wrangham, R.W., Conklin-Brittain, N., 2003. Review: ‘Cooking as a biological trait’.
+Comp. Biochem. Physiol. Part A 136, 35e46.
+Wrangham, R.W., Jones, H.J., Laden, G., Pilbeam, D., Conklin-Brittain, N., 1999. The
+raw and the stolen: cooking and the ecology of human origins. Curr. Anthropol.
+40, 567e594.
+Wu, R. (Ed.), 1985. Multi-disciplinary Study of the Peking Man Site at Zhoukoudian.
+Science Press, Beijing.
+
+

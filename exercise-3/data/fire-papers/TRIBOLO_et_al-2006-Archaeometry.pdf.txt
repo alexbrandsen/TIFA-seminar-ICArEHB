@@ -1,0 +1,1456 @@
+Archaeometry 48, 2 (2006) 341– 357. Printed in Singapore
+
+TL DATING OF BURNT LITHICS FROM BLOMBOS CAVE
+(SOUTH AFRICA): FURTHER EVIDENCE FOR THE
+ANTIQUITY OF MODERN HUMAN BEHAVIOUR*
+
+Oxford,
+©
+0003-813X
+Archaeometry
+ARCH
+May
+2ORIGINAL
+48
+TL
+C.
+University
+Tribolo
+dating
+2006
+UK
+of
+etof
+ARTICLE
+burnt
+al.
+Oxford,
+lithics
+2006from Blombos Cave (South Africa)
+Blackwell
+Publishing
+Ltd
+
+C. TRIBOLO,1† N. MERCIER,1 M. SELO,2 H. VALLADAS,1 J.-L. JORON,3
+J.-L. REYSS,1 C. HENSHILWOOD,4,5 J. SEALY6 and R. YATES7
+1
+
+Laboratoire des Sciences du Climat et de l’Environnement (LSCE), UMR CEA-CNRS, Domaine du CNRS,
+Avenue de la Terrasse, F-91198 Gif-sur-Yvette cedex, France
+2
+Laboratoire d’Etude de la Matière Extra-terrestre, CNRS-MNHN, 51 rue Buffon, 75005 Paris, France
+3
+Groupe des Sciences de la Terre, Laboratoire Pierre Süe, CEN, Saclay, 91191 Gif-sur-Yvette, France
+4
+Centre for Development Studies, University of Bergen, Norway
+5
+African Heritage Research Institute, 167 Buitenkant Street, Gardens, 8001, Cape Town, South Africa
+6
+Iziko Museum of Cape Town, South African Museum, Post Office Box 61, Cape Town, 8000, South Africa
+7
+Department of Archaeology, University of Cape Town, Private Bag, Rondebosch, 7701, Cape Town,
+South Africa
+
+This paper presents the first TL dates for burnt quartzites and silcretes from the Still Bay
+layers of Blombos Cave (South Africa). These layers contained engraved ochres and marine
+shell beads that could be an early manifestation of symbolic and thus ‘modern’ behaviour
+by the Middle Stone Age humans. The procedure devised to calculate the ages is presented
+in detail, particularly with regard to internal microdosimetry, because the problems faced
+in estimating the dose rates require an approach different from the one usually used on flints
+and sediments. A mean age of 74 ± 5 ka was obtained for five burnt lithics unearthed in
+the BBC M1 member of the Still Bay layers. This result is in good agreement with both ESR
+dates on teeth and OSL dates on sediment, and demonstrates the great antiquity of the
+archaeological remains discovered at Blombos Cave.
+KEYWORDS: TL DATING, MIDDLE STONE AGE, STILL BAY, BLOMBOS CAVE, SOUTH
+AFRICA, BURNT LITHICS, MODERN BEHAVIOUR
+*Received
+†Corresponding
+©
+University
+13of
+December
+Oxford,
+author: e-mail
+2006
+2004; accepted
+ctribolo@ouce.ox.ac.uk.
+22 June 2005. Present address: University of Oxford, School of Geography and the Environment, Mansfield Road, Oxford OX1 3TB, UK.
+
+INTRODUCTION
+
+Very few Middle Stone Age (MSA, ≈ 250–40 ka) sites have been found with Still Bay artefacts,
+whose distinguishing feature is a very finely shaped bifacial foliate point. This techno-complex
+of the South African MSA is poorly known. The excavations at Blombos Cave (34°25′S,
+21°13′E, southern coast, 300 km east of Cape Town—Fig. 1) by C. Henshilwood and coworkers in 1992 and after 1997, have propelled the Still Bay techno-complex into the
+limelight after the discovery of more than 400 bifacial foliate points, more than 30 bone tools,
+and several large fish bones, engraved ochres and marine shell beads (Henshilwood and Sealy
+1997; Henshilwood et al. 2001a,b, 2002, 2004; d’Errico et al. 2005). Bone points and large
+fish bones are extremely rare in MSA sites, marine shell beads are previously unrecorded and
+although ochres are not uncommon, no engraved pieces have previously been reported for this
+period: engraved ochres are more common in Upper Palaeolithic and Later Stone Age (LSA)
+*Received 13 December 2004; accepted 22 June 2005.
+†Corresponding author: e-mail ctribolo@ouce.ox.ac.uk. Present address: University of Oxford, School of Geography and the
+Environment, Mansfield Road, Oxford OX1 3TB, UK.
+© University of Oxford, 2006
+
+342
+
+C. Tribolo et al.
+
+Figure 1 (a) The location of Blombos. (b) An example of one of the stratigraphic sections (from Henshilwood et al.
+2001a,b). (c) A sketch of the Blombos stratigraphy, broadly locating the main findings and indicating ages for the top
+of the sequence. Note that some of the layers mentioned in the text are not represented here, but the alphabetic order
+generally corresponds to the stratigraphic order. The MSA layers (members BBC M1 to M3) are capped by a sterile
+sand dune (‘hiatus’), dated by OSL to c. 70 ka (Jacobs 2003a,b), which underlies the recent (<2 ka) LSA layers
+(members BBC L1 to L3). The 14C date at 39 200 BP at the top of the MSA sequence might be considered as infinite.
+
+sites and have been linked with modern behaviour (e.g., McBrearty and Brooks 2000). Thus,
+the age of the Blombos Cave MSA layers, for which the 14C method suggests an age greater
+than 40 ka (Henshilwood et al. 2002) and the OSL and preliminary TL dates of sediments
+indicate an age in excess of 70 ka (Vogel et al. 1999; Jacobs et al. 2003a,b; Jacobs 2004;
+Henshilwood pers. comm.), acquires key importance in refining the MSA chronology and
+establishing the antiquity of modern human behaviour. This paper presents thermoluminescence
+(TL) dates of burnt lithic artefacts found in the upper part of the MSA complex.
+SITE STRATIGRAPHY AND SAMPLES
+
+Blombos Cave is a 50 m2 wave-cut cavity in the calcrete cliff and is now 35 m above sea level.
+The LSA layers, which are less than 2000 years old, are underlain by a 5–60 cm thick sterile
+sand dune that caps the MSA layers (Fig. 1). The latter, labelled from CA to CJ, are finely
+bedded or laminated and composed of brown sands, ashes and shells. Organic materials, such
+as bone and shell, are very well preserved throughout the stratigraphy and some layers have
+been affected by subsidence. In the lower part of the MSA sequence, this subsidence distorted
+the layers around large blocks of calcarenite dispersed on the basal bedrock.
+
+TL dating of burnt lithics from Blombos Cave (South Africa)
+
+343
+
+The stratigraphic sequence has been divided into three main phases: at the top, BBC M1
+(layers CA to CE), in which most Still Bay points were found, more than 40 marine shell beads
+and two fragments of engraved ochre; in the middle, BBC M2 (layers CFA to CGA), which
+yielded most of the bone points; and at the bottom, BBC M3 (layers CGB to CJ and beyond),
+containing high densities of shellfish remains and ochre fragments (Henshilwood et al. 2002).
+Seven lithic artefacts found in the proximity of ash and charcoals were selected for TL
+dating as they appeared to have been heated: two were of quartzite (BB1 and BB23) and five
+of silcrete (BB6, BB12, BB15, BB20 and BB24). These samples weighed from 5.6 to 150 g
+and came mainly from the BBC M1 phase, except for BB1 and BB6, which came from BBC
+M2 phase (Fig. 1).
+METHODOLOGY
+
+The heating of a siliceous stone in a hearth at a temperature of at least 400°C enables the
+complete erasure of any accumulated time-dependent (luminescence) signal and this process
+offers the possibility of using the stone as a geochronometer. Moreover, the natural radiation
+dose recorded by the crystal lattice since the sample was last heated in a prehistoric hearth can
+be evaluated by the thermoluminescence (TL) technique: the dose that induces a TL signal
+equivalent to the natural signal is called the palaeodose or dose equivalent (De) and, when
+divided by the average dose rate (Dr) experienced by the sample during burial, gives its ‘age’
+(i.e., the time elapsed since the last heating event):
+age = De/Dr.
+The dose received by a sample comes from the alpha and beta particles and gamma rays emitted
+by the natural radioisotopes of the U and Th series as well as 40K. Cosmic rays also contribute
+to the total dose, but to a lesser extent. As these radiations have very different ranges in siliceous
+materials (typically 20 µm, 2 mm and 30 cm for α, β and γ, respectively), the total dose rate
+can be divided into an internal component, due mainly to α and β originating in the sample
+itself, and an external component including cosmic rays and γ photons received from the
+radioisotopes present in the surrounding sediment within a sphere of 30–40 cm radius.
+Sample preparation
+In order to simplify the microdosimetry, the external part (at least 2 mm thick) of each sample
+irradiated by alpha and beta particles from the surrounding sediment was removed with a diamond saw. The remaining core, weighing between 1 and 4 g, was crushed in a Habisch mortar
+until all grains passed through a 160 µm mesh. One part of this powder was kept for dosimetric
+analyses; another was sieved and the 100–160 µm fraction selected for De measurements.
+The internal dose rate
+The internal dose rate depends on the concentration of radioisotopes, and because of the
+relatively short range of α and β particles compared to the sample size, it also depends on their
+distribution inside the artefact. These two factors were investigated separately.
+The mean concentrations of radioisotopes (U, Th and K) were determined by delayed neutron activation (DNA) (Joron 1974) on homogenized 100 mg aliquots. For each sample, one
+aliquot was analysed in a first batch (Table 1 (a)). U and Th values are highly variable, ranging
+
+344
+
+C. Tribolo et al.
+
+Table 1 (a) The uranium, thorium and potassium contents of the Blombos Cave samples, measured by delayed
+neutron activation (DNA) on the core of each sample. (b) Evaluation of the scatter of the uranium and thorium contents measured by DNA analysis on the remaining parts of BB1 and BB6 after the core had been extracted for De
+measurements. Note that the mean U and Th contents of these parts differ slightly from those measured on the core,
+indicating that the distribution of radioisotopes is not uniform on the scale of a few centimetres. This observation
+shows that it is essential to measure the radioisotope contents and De on the same part of each sample
+(a)
+Sample
+
+Nature
+
+BB24
+BB23
+BB20
+BB15
+BB12
+BB6
+BB1
+
+Silcrete
+Quartzite
+Silcrete
+Silcrete
+Silcrete
+Silcrete
+Quartzite
+
+Th (ppm)
+
+U (ppm)
+
+K (ppm)
+
+3.48
+1.77
+5.15
+2.69
+3.06
+5.60
+6.73
+
+2.50
+0.20
+2.03
+1.14
+2.42
+3.88
+1.03
+
+95
+1017
+61
+507
+81
+85
+1955
+
+(b)
+Sample
+Mass of aliquots
+
+Mean
+SD
+Rel. SD
+
+BB1
+100 mg
+
+BB6
+100 mg
+
+BB6
+5.9 –20.9 mg
+
+U (ppm)
+
+Th (ppm)
+
+U (ppm)
+
+Th (ppm)
+
+Th (ppm)
+
+0.5
+0.7
+0.6
+0.9
+0.7
+0.7
+0.7
+0.6
+0.5
+0.6
+0.7
+1.0
+0.7
+0.1
+21%
+
+4.1
+4.9
+4.4
+5.3
+5.2
+4.1
+4.7
+4.2
+4.3
+4.3
+3.8
+4.9
+4.5
+0.5
+10%
+
+3.3
+3.0
+3.0
+3.3
+3.0
+3.4
+3.4
+2.9
+
+5.0
+5.3
+5.1
+5.0
+5.4
+5.2
+5.3
+5.3
+
+5.55
+5.39
+5.47
+5.39
+5.07
+5.57
+5.43
+5.44
+5.4
+5.2
+
+3.1
+0.2
+6%
+
+5.2
+0.2
+3%
+
+5.4
+0.2
+3%
+
+from 0.20 to 3.88 ppm and from 1.77 to 6.73 ppm respectively, but do not seem to be correlated with the nature (quartzite or silcrete) of the samples. On the other hand, the K content is
+more than 10 times higher in the quartzites (BB23, 1017 ppm; BB1, 1955 ppm) than in silcretes
+(from 61 to 95 ppm), except for BB15, which gave an intermediate value (507 ppm). In order
+to assess the representativeness of the 100 mg aliquots, another part of the largest samples
+(quartzite BB1 and silcrete BB6) was crushed and split into ∼100 mg aliquots: this second
+batch was analysed for U and Th. Thorium was also measured in the BB6 sample by using
+smaller aliquots (from ∼6 to 21 mg). The scatter of these results (Table 1 (b)) is always smaller
+for Th (10% for BB1, 3% for BB6 for 100 mg or smaller aliquots) than for U (21% for BB1
+and 6% for BB6). However, an examination of the U values of sample BB1 reveals that this
+
+TL dating of burnt lithics from Blombos Cave (South Africa)
+
+345
+
+Figure 2 Thin sections of samples BB24, BB15 and BB1, showing the large difference in the distribution and sizes
+of quartz grains—the main component. Coloured (heavy) minerals are rare and not easily seen on pictures. (a) BB24
+(silcrete); natural light: variable-size quartz grains are set among a cryptocrystalline phase (shown in black on
+low-magnification pictures)—BB6, BB12 and BB20 look like BB24. (b) BB15 (silcrete); natural light: this sample is
+characterized by quartz grains that are more homogeneous in size (diameter 250 µm) and by the absence of a fine
+matrix. (c) BB1 (quartzite); crossed-polarized light: two ranges of grain size are mixed (>200 µm and 20 µm) and
+the grains are set along cleavage planes, which are underlined by small fissures—BB23 is very similar to BB1.
+
+high relative standard deviation (21%) is mainly due to aliquots whose concentrations differ
+significantly from the mean (at more than two sigma) and which might contain a higher proportion of grains rich in uranium. However, as only two of over 12 aliquots are concerned, we
+assumed that the U, Th and K contents determined with 100 mg aliquots were representative
+of the fragments analysed and we used these concentrations in the dose-rate calculations.
+Observation of thin sections yielded indirect information on the distribution of radioisotopes: as quartz grains are the main constituents of quartzite and silcrete lithics, it is likely
+that the radioisotopes are located between the grains (or as ‘grain coatings’) where ferruginous
+oxides are found and/or concentrated in certain mineral impurities (Fig. 2). At the grain scale,
+radioisotopes are then probably not uniformly distributed. These observations also indicated
+that grain-size distributions were highly variable and differed from sample to sample.
+The distribution of uranium was investigated by the fission track mapping (FTM) technique
+(Price and Walker 1963; Kleeman and Lovering 1967). One silcrete (BB6), and two quartzites
+(BB1 and BB23) were examined. In this method, the fission tracks of 235U induced by neutron
+
+346
+
+C. Tribolo et al.
+
+Figure 3 Fission-track maps obtained on BB1 and BB6. For each analysed sample, a 1 × 2 cm fragment was cut out,
+covered with a plastic (kapton; Sélo 1983) and irradiated in the nuclear reactor ‘Orphée’, canal P1 (CEA-Saclay),
+simultaneously with SRM standards (50 and 1 ppm) from the National Bureau of Standards (Washington). Two
+integrated fluxes of 1.35 × 1015 and 2.67 × 1016 neutrons were used to allow for the counting of tracks of weak and
+strong concentrations, respectively (only the kaptons were changed between the irradiations). The tracks made visible
+by an exposure to a solution of 14% NaClO + 12% NaCl, for 8 min at 100°C, and counted with an optical microscope
+under ×100 magnification. (a) BB1: the uranium is concentrated in ‘hot spots’. (b) BB6: the uranium is concentrated
+around the quartz grains, but small hot spots and high concentrations in a fissure have also been observed.
+
+irradiation are recorded using an external detector, fixed on the sample during irradiation. In
+all cases, as expected, quartz grains were found to be free of uranium. In BB1, almost 63% of the
+uranium is scattered along the surface in ‘hot spots’ (50–200 µm in diameter) of variable U
+concentrations (from 14 to 600 ppm), and sometimes along fissures (Fig. 3 (a)). The same could
+be observed for BB23, although the spots are less numerous and exhibit higher concentrations.
+For the silcrete BB6, the uranium is mostly present around the biggest quartz inclusions—that
+is, in the ‘fine matrix’ visible on thin sections—although one also finds small hot spots and
+locally high concentrations in fissures (Fig. 3 (b)). The level of heterogeneity of the uranium
+distribution appears, then, to be dependent upon the samples, but it is important to note that
+these heterogeneities have only a limited influence upon the beta dose rate inside the grains
+because of the relatively long range of this type of radiation in silica (∼2 mm), and they concern mainly the alpha particles, whose range is much smaller (∼20 µm).
+
+TL dating of burnt lithics from Blombos Cave (South Africa)
+
+347
+
+Figure 4 A 100 –160 µm grain of BB1 prepared by crushing for the De measurements, observed with a scanning
+electron microscope. It is actually a cluster of a ∼100 µm grain to several ∼20 µm ones.
+
+As it is not possible to get a precise 3D distribution of all the radioisotopes, we calculated
+the internal dose rate for each sample by applying a statistical model in which the emitters are
+homogeneously distributed outside the quartz grains. According to thin-section and FTM
+observations, it is clear that such a model is more appropriate for BB6 (and samples BB12,
+BB20 and BB24) than for BB1 and BB23 (and BB15). In this model, for a given size of quartz
+grain (i), the internal dose rate for a radiation (α or β) and a radioisotope (U, Th or K) is as
+follows:
+Dr = ZCdsai,
+where Z is the efficiency factor (1 for beta, S-alpha for alpha radiation; see Appendix 1), C is
+the concentration of the radioisotope, ds is the specific dose rate (Adamiec and Aitken 1998)
+or flux (deduced from Brennan and Lyons 1989) and ai is the attenuation factor for the range
+size i (Mejdahl 1979; Brennan et al. 1991).
+Thus, grains of different size received different doses and so do not contribute to the same
+extent to the natural TL. These contributions need to be evaluated separately. Furthermore, it was
+assumed that the grains used for TL measurements were representative of the natural sample
+(i.e., all grain-size fractions are present in their relative proportions). This hypothesis was tested
+by looking at the 100–160 µm fraction selected for De measurements with a scanning electron
+microscope (Fig. 4): this fraction contains a mixture of ‘natural’ grains split by crushing during
+preparation and ‘artificial’ grains made partly of large grains and clusters of small ‘real’ grains.
+The internal dose rate for a type of radiation (α or β) is then as follows:
+
+∑ZCds ai fi ,
+i
+
+where fi is the fraction of volume occupied by the grain of size i. In order to evaluate this
+parameter for each sample, ‘fi’ diagrams were built from numerical pictures of thin sections by
+
+348
+
+C. Tribolo et al.
+
+Figure 5 The fi parameter (the percentage of the volume occupied by each size range). The diagrams were
+constructed either ‘manually’ or using the image-analysis software Scion-Image1 (Francus 1998). In the first case,
+small and large axes were defined for each grain, the mean value was used as a diameter and the surface was
+deduced; in the second case, the area was directly measured by the software (it was verified that both methods led to
+the same results). In white, BB15: the grain sizes were measured ‘manually’, since the picture quality prevented the
+software from properly distinguishing the grains. In black, BB20: the size measurements for the >25 µm grains were
+carried out using the software.
+
+assuming that the area frequency of a phase on a random section of a rock is proportional to
+its volume frequency (Delesse 1847; cited by Clark 1982). Figure 5 gives an example of the
+‘fi’ diagram for samples BB15 and BB20.
+The internal dose rates calculated using this model range from 11 ± 1 to 295 ± 10 µGy a−1
+for alpha radiation and from 122 ± 8 to 559 ± 22 µGy a−1 for beta radiation.
+The external dose rate
+As already mentioned, the sedimentological sequence of the MSA layers seems strongly
+heterogeneous: scattered amidst clearly distinguishable sands, shell middens and ash layers, are
+huge blocks of calcarenite. Consequently, spatial variations in the dose rate are to be expected.
+In order to get information about the spatial heterogeneity of the dose rate, 24 SO4Ca:Dy
+dosimeters were left in the different layers for a period of nearly 1 year (Fig. 6). They were
+inserted 30 cm into accessible sections, in close proximity to the lithic sample find spots. Field
+gamma spectrometer measurements were also performed in a hole in the calcarenite wall and
+in the dune layer.
+The gamma dose rates, which are displayed in Figure 6 and in Table 3 below, were calculated from the doses recorded by the dosimeters, assuming a cosmic ray contribution of
+45 µGy a−1 (Jacobs et al. 2003b). For the upper dune, the deduced values range from 321 to
+394 µGy a−1 and are similar to the gamma dose rate measured with the field gamma spectrometer
+1
+This is a free software package from Scion Corporation for the PC, based on NIH-image for the Macintosh by Waysne Rasband
+of National Institute of Health, USA.
+
+TL dating of burnt lithics from Blombos Cave (South Africa)
+
+349
+
+Figure 6 The horizontal scheme of the excavation, featuring the locations of the dosimeters (black diamonds; the
+lines represent the PVC tubes in which they were placed) and the samples (white triangles). The gamma dose rates
+(in µGy a−1) deduced from the doses recorded are indicated in parentheses.
+
+Dosimeter
+
+Layer
+
+Burnt sample
+
+Layer
+
+BBC1
+A
+D11
+BBC2
+D4
+D5
+D3
+D1
+H
+D2
+BBC3
+BBC4
+D
+D9
+D10
+B
+F
+C
+D8
+E
+D6
+D7
+
+Dune
+Dune
+Dune
+CA
+CAB
+CAC
+CAC
+CC
+CD/CDB
+CF
+CFA
+CFA
+CFA
+CFA
+CFB
+CFD
+CGAA
+CGAC
+CGB
+CH/CI
+CI
+CIA/CIB
+
+BB24
+BB23
+BB20
+BB15
+BB12
+BB6
+BB1
+
+BZB
+CAB
+CAC
+CCh1
+CCh1
+CF2
+CGAC
+
+(311 ± 47 µGy a−1). The dune values are clearly lower than those measured in the MSA layers,
+where they range from 400 to 557 µGy a−1. It is worth noting, however, that no clear horizontal
+or vertical trend of radioactivity change is observed. Moreover, the gamma dose rates measured
+in the calcarenite wall (409 ± 61 µGy a−1) do not differ significantly from those recorded in
+
+350
+
+C. Tribolo et al.
+
+Table 2 Radioisotopic activities (in dpm g−1 for U and Th series) and concentration (% for K) measured by gamma
+spectrometry: (a) for the sediment samples and (b) for the calcarenite block samples. Sediment samples were dried
+and homogenized before being sealed in boxes; they were then stored for at least 15 days prior to measurements to
+allow the radon to achieve equilibrium with its parent. The gamma dose rates indicated for the calcarenite samples
+correspond to a 0% moisture content
+
+Layer
+
+Uranium chain
+234
+
+Dune
+BZB
+CAC
+CCh1
+CF2
+CF2
+CGAC
+CGAC
+
+Calcarenite
+samples
+(square)
+R7
+R2
+R4
+R3
+R6
+
+(G5)
+(G5)
+(E4)
+(E5)
+(roof)
+
+1.10
+1.96
+2.15
+3.01
+1.95
+0.85
+2.65
+2.80
+
+226
+
+Th
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.10
+0.11
+0.12
+0.11
+0.11
+0.06
+0.10
+0.11
+
+0.92
+1.75
+1.91
+1.95
+0.90
+0.68
+1.92
+1.91
+
+Thorium chain
+210
+
+Ra
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.05
+0.03
+0.04
+0.05
+0.03
+0.02
+0.02
+0.04
+
+0.80
+1.54
+1.48
+1.86
+0.70
+0.69
+1.57
+1.97
+
+228
+
+Pb
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.27
+0.16
+0.19
+0.24
+0.13
+0.13
+0.13
+0.21
+
+0.27
+0.52
+0.47
+0.51
+0.18
+0.22
+0.56
+0.56
+
+Thorium chain
+234
+
+1.51
+1.85
+1.43
+1.53
+2.45
+
+Th
+
+±
+±
+±
+±
+±
+
+0.15
+0.20
+0.14
+0.13
+0.15
+
+226
+
+1.36
+1.38
+1.43
+1.70
+1.44
+
+Ra
+
+±
+±
+±
+±
+±
+
+0.05
+0.05
+0.05
+0.05
+0.05
+
+228
+
+Ra
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.04
+0.04
+0.04
+0.05
+0.03
+0.02
+0.01
+0.04
+
+0.43
+0.53
+0.59
+0.53
+0.19
+0.31
+0.48
+0.60
+
+Thorium chain
+210
+
+0.87
+1.33
+1.08
+1.42
+1.39
+
+Pb
+
+±
+±
+±
+±
+±
+
+0.31
+0.18
+0.23
+0.21
+0.26
+
+228
+
+0.32
+0.27
+0.38
+0.45
+0.40
+
+Ra
+
+±
+±
+±
+±
+±
+
+0.04
+0.03
+0.06
+0.04
+0.04
+
+228
+
+0.40
+0.31
+0.64
+0.59
+0.39
+
+Th
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.06
+0.40
+0.63
+0.41
+0.29
+0.29
+1.08
+1.15
+
+Potassium
+
+0.22
+0.02
+0.02
+0.02
+0.02
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.01
+0.02
+0.02
+0.01
+0.02
+0.01
+0.02
+0.03
+
+234
+
+Th/ 226Ra
+
+K
+0.52
+0.60
+1.23
+1.13
+0.75
+
+Th / 226Ra
+
+K
+
+0.02
+0.02
+0.02
+0.02
+0.01
+0.02
+0.02
+0.02
+
+Th
+
+±
+±
+±
+±
+±
+
+234
+
+Potassium
+
+±
+±
+±
+±
+±
+
+0.30
+0.03
+0.04
+0.03
+0.02
+
+1.11
+1.34
+1.00
+0.90
+1.70
+
+±
+±
+±
+±
+±
+
+0.12
+0.15
+0.10
+0.08
+0.12
+
+1.20
+1.12
+1.13
+1.54
+2.17
+1.25
+1.38
+1.47
+
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.13
+0.07
+0.07
+0.07
+0.14
+0.10
+0.05
+0.07
+
+Gamma
+dose rate
+(µGy a−1)
+418
+415
+446
+468
+386
+
+the sediments, and one can conclude that the calcarenite blocks present in the MSA layers do
+not introduce any strong radioactive heterogeneity.
+While the spatial heterogeneity of the dose rate is less dramatic than expected, a second
+problem to be addressed concerns possible temporal variations. Indeed, this could be induced by
+the subsidence phenomenon observable at the bottom of the sequence, as well as through past
+variations of water content, which potentially affects the state of equilibrium of the uranium
+decay chain. Therefore, it is possible that the present-day dose rate is not representative of the
+past mean dose rate. To get information concerning the eventual disequilibrium in the decay
+chain, sediment samples (taken in close vicinity to each lithic sample), as well as blocks of
+calcarenite, were analysed by gamma spectrometry in the laboratory (Tables 2 (a) and 2 (b)).
+The measured 234Th/226Ra ratio revealed that the uranium series is not in secular equilibrium, and
+alpha spectrometric measurements carried out on one sample indicated that this disequilibrium
+is due to radium loss. In evaluating the gamma dose rate to which the burnt lithics were
+subjected in the past, we took this observation into account. However, it is important to note
+that this particular disequilibrium, whose importance could have been different in the past, has
+a minor impact on the calculated age. In fact, the U-series contributes to only 56 ± 6% of the
+actual gamma dose rate, and since this fraction of the total dose rate is 54 ± 12%, even a
+change as high as 50% of the uranium contribution would lead to a final age error of no more than
+15%. Moreover, the 226Ra and 210Pb activities are quite similar, and since these radioisotopes
+
+TL dating of burnt lithics from Blombos Cave (South Africa)
+
+351
+
+Figure 7 Additive (in black) and regenerative (in white) TL glow curves for sample BB15. The plateaux of equivalent
+doses deduced from the additive ( fine) and slide (bold) methods are also indicated.
+
+contribute mainly to the gamma dose rate, it is likely that the value of this parameter did not
+change significantly, at least recently. Furthermore, without more information, we assumed that
+the present moisture content (already taken into account by the dosimeters) was representative
+of the past mean water content of the sediments.
+Equivalent dose (Ed) determinations
+The 100–160 µm fraction was used for the De determinations after it was washed with aqueous
+hydrochloric acid (3N), distilled water, ethanol and acetone. The TL measurements were carried
+out using a home-made automatic apparatus (Valladas et al. 1994) that uses large plates containing 10 mg of sample powder. The detection of the TL signal was performed with a Thorn EMI
+9635QB photomultiplier tube and a 3 mm thick MTO 385 optical filter (maximum transmission
+∼380 nm). A 137Cs gamma source delivering 78.4 Gy h−1 was used for artificial irradiations.
+The samples exhibited variable TL glow curves (Fig. 7): the signals displayed either a large
+composite peak at 360°C (BB23) or 340°C (BB6), or a single peak at 375°C (BB24), or both
+325 and 400°C TL peaks. Moreover, all of the artificially irradiated samples showed a 240°C
+TL peak, which was eliminated by a preheat before measurement.
+To determine the De, an additive dose technique was used (Aitken 1985) and regenerative
+curves were built by irradiating a part of the powder after its natural TL signal had been erased
+by a low thermal treatment at 300 or 320°C for 8 h (Tribolo 2003) in order to minimize
+any thermal effect leading to changes in the shape of the TL curves (Michab et al. 1998).
+This approach was suitable for most of the samples, except for BB23. In this particular case,
+the De was estimated by extrapolation along the x-axis of the additive growth curve and the
+
+352
+Table 3 Radiometric and associated values used for TL age calculations. For each sample, its nature—silcrete (S) or quartzite (Q)—determined by thin-section observations is indicated. Beta and alpha dose rates were calculated from the U, Th and K contents given in Table 2, with a 10% associated error on each radioisotope, and assuming a uniform distribution of radioisotopes outside the quartz grains. The alpha dose rate also takes into account the alpha efficiency (S-alpha given in µGy a−1 for 103
+alpha per cm2) of each sample (Valladas and Valladas 1982). Gamma dose rates (internal and external) were calculated by taking into account the attenuation expected
+for each sample according to its weight and shape (Valladas 1985). The total dose rate includes a 45 µGy a−1 cosmic contribution. The De’s are the unweighted averages
+(except for BB1, BB23 and BB6) of the values obtained with the additive dose (A) and slide (S) methods (n.d. = not determined)
+
+Sample
+
+Nature
+
+Dose rates (µGy a−1)
+
+S-alpha
+Alpha
+
+BBCM 1
+
+BBCM 2
+
+±
+±
+±
+±
+±
+
+BB24
+BB23
+BB20
+BB15
+BB12
+
+S
+Q
+S
+S
+S
+
+5.6
+6.4
+5.4
+6.1
+6.4
+
+187
+22
+118
+11
+129
+
+20
+2
+12
+1
+14
+
+BB6
+BB1
+
+S
+Q
+
+7.3
+4.8
+
+295 ± 32
+90 ± 10
+
+Beta
+
+373
+122
+328
+192
+331
+
+±
+±
+±
+±
+±
+
+30
+8
+24
+13
+27
+
+559 ± 45
+378 ± 22
+
+Equivalent doses (Gy)
+
+External
+gamma
+
+Internal
+gamma
+
+±
+±
+±
+±
+±
+
+41
+51
+49
+40
+39
+
+16
+9
+19
+16
+38
+
+1031
+705
+999
+664
+929
+
+468 ± 56
+395 ± 40
+
+57
+58
+
+1424 ± 73
+967 ± 46
+
+410
+507
+489
+400
+387
+
+Total
+
+±
+±
+±
+±
+±
+
+A
+
+55
+52
+56
+42
+50
+
+83
+47
+80
+42
+69
+
+±
+±
+±
+±
+±
+
+n.d.
+n.d.
+
+S
+
+13
+3
+8
+3
+9
+
+83
+n.d.
+74
+49
+85
+
+±3
+±3
+±2
+±3
+
+150 ± 4
+73 ± 4
+
+Average
+
+83
+47
+77
+45
+77
+
+±
+±
+±
+±
+±
+
+8
+3
+6
+2
+6
+
+150 ± 4
+73 ± 4
+
+Age
+(ka)
+81
+67
+77
+68
+82
+
+±
+±
+±
+±
+±
+
+10
+7
+8
+6
+8
+
+105 ± 9
+76 ± 7
+
+C. Tribolo et al.
+
+Member
+
+TL dating of burnt lithics from Blombos Cave (South Africa)
+
+353
+
+Figure 8 A plot of the seven calculated TL ages (circles) together with the ESR (triangles) and OSL (squares)
+estimates (Jones 2001; Jacobs 2004; Jacobs et al. submitted). All TL ages were calculated assuming a model in which
+the uranium is uniformly distributed in the siliceous matrix surrounding the quartz grains (filled circles). For the two
+quartzites (BB23 and BB1) and the silcrete BB15, the ages were recalculated with a model in which the uranium is
+concentrated in ‘hot spots’ separated by an average distance of 1000 µm (open circles). As noted in the text, this
+model is diametrically opposed to the uniform distribution model and the true age of these samples might lie between
+these two values.
+
+regenerative curve was not used. For all of the other samples, the intercepts on the dose axis of
+the extrapolated additive and regenerative growth curves were added. A slide technique was also
+attempted for these samples: the additive curve was moved along the dose axis until it fitted
+with the regenerative curve, in order to accommodate sensitivity changes (Mercier et al. 1992;
+Sanzelle et al. 1996).
+The De estimated using these two approaches are given in Table 3. For BB20 and BB24, the
+results obtained by the two techniques are compatible within one standard deviation. For
+BB12 and BB15, the agreement is only within two standard deviations and might be due to a
+small (but tolerable) difference between the additive and regeneration curve shapes. For each
+sample, the age was calculated by averaging the two De determinations, when such were available.
+AGE CALCULATION AND DISCUSSION
+
+The calculated ages are plotted in Figure 8 in stratigraphic order. For the BBC M1 member,
+the ages are compatible at one standard deviation and the stratigraphic inversions in mean
+estimates are not significant. For BBC M2, the ages are compatible only at two standard deviations. By looking at the data, one can see that the fine fraction (<15 µm) of the silcretes gave
+
+354
+
+C. Tribolo et al.
+
+the oldest ages, whereas the two quartzites (BB23 and BB1) and the BB15 silcrete appeared
+younger. An explanation for this scatter might be related to the uranium distribution inside the
+samples. Indeed, the fission track maps indicate that a model assuming a uniform distribution
+of radioisotope is better adapted to silcretes (except for BB15, which stands apart due to its K
+content) than to quartzites in which the radioisotopes are concentrated among scattered hot spots.
+For these last samples, a model in which the relevant parameter is the average distance between
+hot spots would have been probably more suitable. It can thus be shown that if one had assumed,
+for instance, a value of 1000 µm for this distance, the ages would have been greater, as expected,
+since the uniform model leads to minimum ages. Thus one would have calculated 75 ± 7 ka
+instead of 68 ± 6 ka for BB15, 74 ± 8 ka for BB23 (instead of 67 ± 7 ka) and 98 ± 10 ka for
+BB1 (instead of 76 ± 8 ka). It is important to point out that such a distance can be seen as an
+extreme, for it is greater than what was observed on fission track maps as well as on thin sections,
+where minerals other than quartz are sometimes visible. One can safely conclude that the true
+ages of these three samples are likely to be bounded by the limits listed above (see Fig. 8).
+If we take into account all the ages calculated using the uniform model, a weighted mean
+age of 74 ± 5 ka is obtained for the BBC M1 member. In the other extreme case, assuming a
+1000 µm model for samples BB15 and BB23, the weighted mean age is 78 ± 6 ka. Therefore,
+the most reliable time interval for member BBC M1 can be presumed to fall between 74 ± 5
+and 78 ± 6 ka. This result can be compared with the ages obtained by other methods (Fig. 8).
+Single and multiple grains OSL measurements on sediment gave consistent ages from 65.6 ± 2.8
+to 70.9 ± 2.8 ka for three samples of the upper dune (Jacobs et al. 2003a) and 74.9 ± 3.8 ka
+for one sample of BBC M1, layer CC (Jacobs 2004; Jacobs et al. submitted). Electron spin
+resonance (ESR) dating on seven teeth from BBC M1 yielded a mean age of 80 ± 6 ka, assuming
+a linear uptake model (but an age of only 62 ± 6 ka was obtained with an early uptake model;
+Jones 2001). For BBC M2, the OSL method gives ages between 76.8 ± 3.0 and 84.6 ± 5.8 ka,
+which are consistent with the TL age of BB1. Sample BB6 seems too old compared to these
+estimates. This sample set apart, the fact that the three different dating methods yield concordant results supports the idea that the uranium series disequilibrium detected in the sediment is
+not significant. If this had been the case, different ages would have been obtained, since the
+dependence on the external dose rate is not the same for the different samples, such as teeth,
+sediment and stones. The good agreement between the TL, OSL and ESR dates also confirms
+that despite the approximate nature of the model used, the approach we used for determining
+the internal dose rate of the burnt lithics can yield consistent results.
+Thus the ages obtained at Blombos Cave firmly suggest that the Still Bay techno-complex
+was in use during isotope stage 5a (Martinson et al. 1987), which is consistent with the palaeoenvironmental data from these layers, suggesting a temperate climate. Moreover, the sterile
+dune that caps this complex corresponds to an increase of sand availability as the sea level
+decreased, during the cooler stage 4. Thanks to the interdisciplinary research at Blombos
+Cave, the Still Bay can now be chronologically correlated with other techno-complexes,
+whereas, up to now, it was only known in a poor stratigraphic context at a handful of sites and
+its place amongst other MSA features was uncertain. Henshilwood et al. (2001b) has suggested that since bifacial points are found below occurrences of Howieson’s Poort and not
+above, the Still Bay is older than the Howieson’s Poort. The increasing number of dates
+obtained by different methods suggests that the Howieson’s Poort can be assigned (at least in
+the southern Cape) to between the end of stage 4 and the beginning of stage 3 (Tribolo 2003;
+Tribolo et al. 2005), further supporting the hypothesis proposed by Henshilwood et al. However, it is accepted that the range of dated Still Bay occurrences requires expansion.
+
+TL dating of burnt lithics from Blombos Cave (South Africa)
+
+355
+
+As stated in the introduction to this paper, another important point about the dating of the
+Still Bay layers at Blombos Cave was the presence of items with possible symbolic meaning,
+such as engraved ochres, marine shell beads and bone points. Since the integrity of the stratigraphy has already been demonstrated (Henshilwood et al. 2001a, 2002, 2005; Jacobs et al.
+2005), the new data provide supplementary evidence for the early and possibly gradual
+appearance of ‘modern’ (at least ‘symbolic’) behaviour amongst anatomically modern humans
+in Africa, as opposed to the ‘revolution hypothesis’, which claims that modern behaviour first
+appeared in Europe at the onset of the Upper Palaeolithic (e.g., McBrearty and Brooks 2000).
+CONCLUSIONS
+
+The TL dating method enables us to propose the time interval between 74 ± 5 and 78 ± 6 ka
+as being the most reliable age for the upper part of the MSA layers at Blombos Cave (Phase
+M1), where Still Bay bifacial points, marine shell beads, two fragments of engraved ochre and
+bone points have been discovered. This result is in agreement with ages obtained by other
+radiometric methods (Jones 2001; Jacobs et al. 2003a,b) and supports the idea that the Still
+Bay techno-complex is slightly older than the Howieson’s Poort. The consistency of our
+results also indicates that the difficulties encountered in calculating the internal dose rate of
+the burnt lithics dated by TL (silcrete and quartzite) can be overcome in part. However, further
+improvements are necessary to increase the precision of the age determinations.
+ACKNOWLEDGEMENTS
+
+This project has been supported by the CEA and the CNRS program ‘Origine de l’homme, du
+langage et des langues’ (Project: ‘La parole aux symboles. Les implications linguistiques de
+l’archéologie, du langage et de la diversification des langues’, directed by Francesco d’Errico),
+as well as by a joint research program between the Centre National de la Recherche Scientifique
+and the Foundation for Research Development (now the National Research Foundation) of
+South Africa.
+S. Sanzelle has kindly run calculations with the slide method. The authors thank J. C.
+Lefèvre and P. Y. Gillot, who gave us access to facilities at the Department of Geology of the
+University of Orsay (Paris XI), and J. C. Lamotte and R. Pottin for technical support. We also
+thank Francesco d’Errico for the discussions that we had about the project and its results.
+REFERENCES
+Adamiec, G., and Aitken, M. J., 1998, Dose-rate conversion factors: update, Ancient TL, 16(2), 37–50.
+Aitken, M. J., 1985, Thermoluminescence dating, Academic Press, London.
+Brennan, B. J., and Lyons, R. G., 1989, Ranges of alpha particles in various media, Ancient TL, 7, 32–7.
+Brennan, B. J., Lyons, R. G., and Phillips, S. W., 1991, Attenuation of alpha particle track dose for spherical grains,
+Nuclear Tracks and Radiation Measurements, 18, 249–53.
+Clark, R. L., 1982, Point count estimation of charcoal in pollen preparations and thin sections of sediments, Pollen et
+Spores, 24(3– 4), 523–35.
+Delesse, M. A., 1847, Procédé mécanique pour déterminer la composition des roches, Comptes Rendu de l’Académie
+des Sciences, Paris, 25, 544–5.
+d’Errico, F., Henshilwood, C. S., Vanhaeren, M., and Van Niekerk, K., 2005, Nassarius kraussianus shell beads from
+Blombos cave: evidence for symbolic behaviour in the Middle Stone Age, Journal of Human Evolution, 48(1), 3–24.
+Francus, P., 1998, An image-analysis technique to measure grain-size variation in thin sections of soft clastic sediments, Sedimentary Geology, 121, 289–98.
+
+356
+
+C. Tribolo et al.
+
+Henshilwood, C., 2005, Stratigraphic integrity of the Middle Stone Age levels at Blombos Cave, in From tools to
+symbols: from early hominids to modern humans, International Round Table, Johannesburg, 16 –18 March 2003
+(eds. F. d’Errico and L. Backwell), 441–58, Witwatersrand University Press, Witwatersrand, South Africa.
+Henshilwood, C., and Sealy, J., 1997, Bone artefacts from the Middle Stone Age at Blombos Cave, Southern Cape,
+South Africa, Current Anthropology, 38(5), 890–5.
+Henshilwood, C. S., d’Errico, F., Marean, C. W., Milo, R. G., and Yates, R., 2001a, An early bone tool industry from
+the Middle Stone Age at Blombos Cave, South Africa: implications for the origins of modern human behaviour,
+symbolism and language, Journal of Human Evolution, 41, 631–78.
+Henshilwood, C. S., d’Errico, F., Vanhaeren, M., van Niekerk, K., and Jacobs, Z., 2004, Middle Stone Age shell beads
+from South Africa, Science, 304, 404.
+Henshilwood, C. S., Sealy, J., Yates, R., Cruz-Uribe, K., Goldberg, P., Grine, F. E., Klein, R. G., Poggenpoel, C. A.,
+van Niekerk, K., and Watts, I., 2001b, Blombos Cave, southern Cape, South Africa: preliminary report on the
+1992–1999 excavations of the Middle Stone Age levels, Journal of Archaeological Science, 28, 421– 48.
+Henshilwood, C. S., d’Errico, F., Yates, R., Jacobs, Z., Tribolo, C., Duller, G. A. T., Mercier, N., Sealy, J. C.,
+Valladas, H., Watts, I., and Wintle, A. G., 2002, Emergence of modern human behaviour: Middle Stone Age
+engravings from South Africa, Science, 295, 1278.
+Jacobs, Z., 2004, Development of luminescence techniques for dating Middle Stone Age sites in South Africa, Unpublished Ph D. thesis, University of Aberystwyth.
+Jacobs, Z., 2005, Testing and demonstrating the stratigraphic integrity of artefacts from NSA deposits at Blombos
+Cave, South Africa, in From tools to symbols: from early hominids to modern humans, International Round Table,
+Johannesburg, 16 –18 March 2003 (eds. F. d’Errico and L. Backwell), 453–74, Witwatersrand University Press,
+Witwatersrand, South Africa.
+Jacobs, Z., Wintle, A. G., and Duller, G. A. T., 2003a, Optical dating of dune sand from Blombos Cave, South Africa:
+I—multiple grain data, Journal of Human Evolution, 44(5), 599 – 612.
+Jacobs, Z., Wintle, A. G., and Duller, G. A. T., 2003b, Optical dating of dune sand from Blombos Cave, South Africa:
+II—single grain data, Journal of Human Evolution, 44(5), 613 –25.
+Jacobs, Z., Duller, G. A. T., Henshilwood, C. S., and Wintle, A. G., submitted, Optical dating of single and multiple
+grains of quartz from Middle Stone Age layers at Blombos Cave, South Africa, Journal of Human Evolution.
+Jones, H. L., 2001, Electron spin resonance dating of tooth enamel at three Palaeolithic sites, Unpublished M.Sc.
+thesis, McMaster University, Hamilton, Ontario, Canada.
+Joron, J.-L., 1974, Contribution à l’analyse des éléments en traces dans les roches et les minéraux par activation neutronique. Application à la caractérisation d’objets archéologiques, Université Paris Sud.
+Kleeman, J. D., and Lovering, J. F., 1967, Uranium distribution studies by fission track registration in Lexan plastic
+prints, Atomic Energy in Australia, 10(4), 3–8.
+Martinson, D. G., Pisias, N. G., Hays, J. D., Imbrie, J., Moore, T. C., and Shackleton, N. J., 1987, Age dating and the
+orbital theory of the ice ages: development of a high-resolution 0 to 300000-years chronostratigraphy, Quaternary
+Research, 27, 1–29.
+McBrearty, S., and Brooks, A., 2000, The revolution that wasn’t: a new interpretation of the origin of modern human
+behavior, Journal of Human Evolution, 39, 453–563.
+Mejdahl, V., 1979, Thermoluminescence dating: beta-dose attenuation in quartz grains, Archaeometry, 21, 61–72.
+Mercier, N., Valladas, H., and Valladas, G., 1992, Some observations on palaeodose determination in burnt flints,
+Ancient TL, 10(3), 28–32.
+Michab, M., Valladas, H., Froget, L., and Mercier, N., 1998, Distinguishing burnt from partly bleached unburnt quartz
+pebbles of Pedra Furada, Brazil, Ancient TL, 16(1), 5–9.
+Price, P. B., and Walker, R. M., 1963, A simple method for measuring low uranium concentrations in natural crystals,
+Applied Physics Letters, 2, 23–5.
+Sanzelle, S., Miallier, D., Pilleyre, T., Fain, J., and Montret, M., 1996, A new slide technique for regressing TL/ESR
+dose response curves—intercomparisons with other regression techniques, Radiation Measurements, 26(4), 631–8.
+Sélo, M., 1983, La fission nucléaire et sa signification en géochronologie, paléothermométrie et géochimie—applications à l’étude particulière des basaltes océaniques, Thèse d’etat, Université Paris VI.
+Tribolo, C., 2003, Apport des méthodes de la luminescence à la chronologie des techno-faciès du Middle Stone Age
+associés aux premiers hommes modernes du sud de l’Afrique, Unpublished Ph.D. thesis, Université Bordeaux I.
+Tribolo, C., Mercier, N., and Valladas, H., 2005, Chronology of the Howieson’s Poort and Still Bay techno-complexes:
+assessment and new data from luminescence, in From tools to symbols: from hominids to modern humans,
+International Round Table, Johannesburg, 16–18 March 2003 (eds. F. d’Errico and L. Backwell), 493–511,
+Witwatersrand University Press, Witwatersrand, South Africa.
+
+TL dating of burnt lithics from Blombos Cave (South Africa)
+
+357
+
+Valladas, G., Mercier, N., and Létuvé, R., 1994, A simple semi-automatic TL apparatus of new design, Ancient TL,
+12, 39 – 40.
+Valladas, H., 1985, Datation par la thermoluminescence de gisements moustériens du sud de la France, Unpublished
+thesis, Muséum National d’Histoire Naturelle et Université Paris VI.
+Valladas, H., and Valladas, G., 1982, Effet de l’irradiation alpha sur des grains de quartz, PACT, 6, 171– 8.
+Vogel, J. C., Wintle, A. G., and Woodborne, S. M., 1999, Focus: luminescence dating of coastal sands: overcoming
+changes in environmental dose rate, Journal of Archaeological Science, 26, 729 –33.
+
+APPENDIX
+
+The calculation of S-alpha
+The S-alpha value (Valladas and Valladas 1982) is determined by comparing the luminescence
+signals obtained after irradiations with a beta source (calibrated in Gy s−1) and an alpha source
+(delivering a known flux of alpha particles; i.e., a number per second and square centimetre):
+S-alpha =
+
+Lα × Dβ
+,
+Lβ × Fα
+
+where Lα and Lβ are the luminescence signals induced, respectively, by the alpha (Fα) and
+beta (Dβ) irradiations.
+Note that the S-alpha value is supposed to depend on the nature of quartz and not on the
+grain-size fraction.
+
+

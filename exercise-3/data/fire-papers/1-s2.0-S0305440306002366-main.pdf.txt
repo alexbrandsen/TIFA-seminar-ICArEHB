@@ -1,0 +1,1899 @@
+Journal of Archaeological Science 34 (2007) 1417e1433
+http://www.elsevier.com/locate/jas
+
+Charcoal analysis and dendrology: data from archaeological
+sites in north-western France
+Dominique Marguerie a,*, Jean-Yves Hunot b
+a
+
+CNRS, Archaeology and Archaeosciences (UMR C2A), University of Rennes 1, Beaulieu, 35042 Rennes Cedex, France
+b
+Archaeological Service of Maine-et-Loire (SDA), 114 rue de Frémur, 49000 Angers, France
+Received 24 May 2006; received in revised form 14 September 2006; accepted 31 October 2006
+
+Abstract
+During the last 15 years, charcoal analysis of archaeological sites in north-western France has been carried out in conjunction with systematic
+and detailed dendrological examination. By considering these extrinsic criteria in association with the analytical results, palaeo-ethnographic and
+palaeo-environmental information can be obtained. The charcoals are classically identified under the microscope on the basis of their cellular
+structure. This examination is associated with an observation of the ligneous structure on transverse sections using a binocular lens. When
+charcoal fragments are large enough, the growth ring widths are measured. Tree ring curvature is also noted. Finally, alteration by fusion or
+radial cracks, the presence of fungal hyphae, and insect degradation are also recorded. Results are thus obtained on the nature of fuel used
+in domestic fireplaces and kilns. The selection of timbers and their catchment areas are also revealed. The average width of the growth rings
+in oak charcoal from domestic hearths coming from about forty sites in north-western France shows a significant increase from 6000 to
+2000 BP. There is a similar increase in the number of heliophilic taxa used from the Neolithic to the Iron Age. This implies that the environment
+became more and more open because of use by society. The interpretation of the dendrology results applied to charcoal analyses is obtained
+through a convergence of criteria. Thus, charcoal analysis can provide more than just an identification of the species used, and can yield
+fundamental information on the interaction of society with the environment.
+Ó 2006 Elsevier Ltd. All rights reserved.
+Keywords: Charcoal; Dendrological analysis; Archaeology; Palaeo-environment; Palaeo-ecology; Palaeo-ethnography; North-western France
+
+1. Introduction
+During prehistoric times, societies established an economy
+based on firewood. Therefore, charcoal analysis is an efficient
+approach for studying the relationship between people and the
+environment, reflecting the customs and techniques of management of ligneous vegetation. The collection of wood relates back
+to the knowledge of its physical properties or to an attitude
+motivated by traditions. However, the environmental conditions
+are decisive in controlling the availability and quality of any exploitable ligneous biomass. Charcoals are excellent indicators
+
+* Corresponding author. Tel.: þ33 2 23 23 56 77; fax: þ33 2 23 23 69 34.
+E-mail addresses: dominique.marguerie@univ-rennes1.fr (D. Marguerie),
+jy.hunot@cg49.fr (J.-Y. Hunot).
+0305-4403/$ - see front matter Ó 2006 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2006.10.032
+
+of exploited environments and the vegetation that developed
+within them.
+1.1. Brief history of anthracology
+The first identifications of charcoals were carried out using
+samples from archaeological sites in Switzerland, Germany
+and Hungary during the 19th century. In France, the forerunners of anthracology were Dangeard (1899) and Fiche (Breuil,
+1903).
+The application of episcopic microscopy to charcoal
+analysis led to the analysis of large quantities of charcoals
+(Dimbleby, 1967; Fietz, 1933; Stieber, 1957; Western, 1963).
+The first global studies on prehistoric charcoals of anthropic origin were carried out in the south of France, and later
+
+1418
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+in Spain by Vernet (1972) and his students. More recently,
+charcoal analysis has been used to study the relationship
+between humans and forests through the economy of fuel.
+Methods used for the study of firewood economy are in constant progress and many archaeological contexts are now studied. In this spirit, charcoal analysis of archaeological sites in
+north-western France has been systematically carried out for
+about 15 years using detailed dendrological examination
+(Marguerie, 1992). Marguerie and Hunot supplemented the
+taxonomic identification of charcoals by the study of rings
+as well as the origin and state of the wood before carbonization, thus providing palaeo-ecological and palaeo-ethnological
+information. This approach was referred to as a ‘‘dendrotypological’’ study by Billamboz (1987, 1992), who applied it to
+waterlogged woods of the lake-dwelling settlements of the
+Bodensee (Germany). He highlighted the first models of
+Neolithic forestry economy. This kind of approach was taken
+up again and developed in the Paris Basin (Bernard, 1998).
+More recently, Bernard et al. (2006) worked on the effect of
+trimming and pruning on ligneous productivity by studying
+the radial growth of deciduous oaks.
+However, an anecdotal application of dendrology to charcoals has existed for a long time. Around 1930, Guinier began
+the analysis of charcoals from the Mesolithic site on Teviec
+Island in Brittany (France) and, several years later, on the
+nearby Hoedic Island (Péquart and Péquart, 1954; Péquart
+et al., 1937). At these sites, Guinier recorded the presence of
+twigs, branches and trunks of oaks and Pomoideae. Furthermore, he noticed that several oak charcoals had marks of
+lopping. Salisbury and Jane (1940) studied a large number
+of charcoals from Neolithic and Iron Age layers from Maiden
+Castle in Dorset (U.K.). They measured nearly two thousand
+growth rings of oak and hazel charcoals and compared the
+results with the annual rings from recent specimens of the
+same species to obtain ‘‘evidence regarding the climatic conditions of the past by means of the width of the annual rings’’.
+In the cave of Lascaux (Dordogne, France), Jacquiot (1960)
+systematically observed the aspect of rings of the charred
+wood. In this way, he obtained information about climate, density of forests and diameters of wood used.
+In her analysis of charcoal from the Neolithic sites of
+Clairvaux-Les-Lacs (Jura, France), Lundström-Baudais
+(1986) developed a method to evaluate the maximum diameter
+of wood used based on the observation of tree ring curvature.
+After Lundström-Baudais, Dufraisse (2002) analysed the
+ring curvature of samples from the lake-dwelling sites of
+Chalain and Clairvaux to estimate the calibre of woods converted into charcoals. In Cabrières (Southern France), using
+construction wood (16th c.), observation and measurement
+of ring curvature were used to calculate the minimum diameters, with oak samples having the greater dimensions. By contrast, the samples with bark came from small twigs of coppice
+(Durand, 2002). In the study of the historic charcoal kiln sites
+in the Southern Black Forest and Bavarian Forest (Germany),
+Ludemann and Nelle (Ludemann and Nelle, 2002; Nelle,
+2002) used a diameter stencil to estimate the original
+minimum diameter of the charcoal pieces.
+
+Over a few years, dendrological analysis applied to carbonized wood became increasingly employed and concerned not
+only charcoals coming from archaeological sites but also those
+found in natural soils (Bégin and Marguerie, 2002).
+The aim of this paper is to present methods used for
+dendrological studies of wood charcoal and give examples of
+palaeo-ecological and palaeo-ethnographical results obtained
+by dendro-anthracology in north-western France during the
+last 15 years.
+2. Methods
+There are numerous origins of charcoals from archaeological sites (Fig. 1):
+e
+e
+e
+e
+e
+
+domestic fire places,
+craft combustion structures such as kilns,
+post-holes, pits or ditches,
+archaeological layers,
+burnt objects.
+
+After sampling with the surrounding sediment, the charcoals are classically identified on the basis of their cellular
+structure under a reflected light microscope. To this determination, we add a systematic examination of the ligneous structure
+on transverse sections using a binocular lens (magnification 7
+to 90). This dendrological approach gives valuable data for
+aiding identification of the part of the woody plant the charcoals came from, recording the growth ring width, ascertaining
+the state of the wood before carbonization and about visible
+working marks where possible. A coding grid table is compiled for all transverse sections of charcoal samples of sufficient surface area having a readable record (Table 1) (Fig. 2).
+2.1. Charcoal state
+2.1.1. Presence of bark and pith
+For fragments having both bark and pith, it is possible to
+measure a complete radius and estimate the calibre of the
+stem from which it came (Fig. 2A). Evidently, it is necessary
+to take into account the reduction of size caused by combustion (see Section 2.3.1).
+2.1.2. Presence of reaction wood
+Reaction wood can be observed in a branch or leaning trunk
+(Fig. 2B). To avoid drooping under their own weight, these
+stems develop eccentric growth (Wilson and White, 1986;
+Zobel and Van Buijtenen, 1989). In reaction wood, the walls
+of the tracheids are thick and show radial grooves on their
+inner surfaces. In longitudinal sections of the charcoal fragments, they appear as conspicuous parallel striations obliquely
+aligned to the cell axis, commonly at an angle of about 40e45 ,
+thus forming helices around the cell. These features are clearly
+visible in the coniferous charcoals. The observation of reaction
+wood in charcoals indicates the origin of the fragments within
+the tree. Associated with strong ring curvature, this criterion
+demonstrates that the charcoal originates from a branch.
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+1419
+
+2
+
+4
+1
+
+5
+
+3
+6
+
+Fig. 1. Origins of charcoals at an archaeological site. (1) domestic fire places; (2) craft combustion structures; (3e5) post-holes, pits, ditches; (6) archaeological
+layers.
+
+2.1.4. Presence of fungal hyphae
+In longitudinal sections of vessels, white filaments can
+sometimes be observed (Fig. 2D). These correspond to fungal
+hyphae that penetrate into the dead or dying wood under
+aerobic conditions from fungus living on the surface. The
+fungal attack takes place over several hours or days in the parts
+of the wood not protected by bark. This process is all the more
+rapid when temperatures are high (in summer) and when wood
+humidity is about 70-90% (Schweingruber, 1982). This observation gives information about the state of wood before
+carbonization. It is rare or impossible to find hyphae in the
+heartwood of oak and some other species with numerous
+tyloses.
+
+2.1.3. Presence of tyloses
+In the transition zone between sapwood and heartwood, living cells of axial or ray parenchyma adjacent to vessels may
+grow out through the pits into the vessel cavity, forming tyloses (Fig. 2C). When this phenomenon becomes intense, the
+vessel cavity may become filled with a close-packed cellular
+structure, blocking it completely (Wilson and White, 1986).
+These extensions of the parenchyma cells, mutually compressed into irregular prismatic shapes, are very clearly visible
+under the light microscope. In charcoals, the tyloses are refractive. Such features can be readily observed in oak. This type of
+systematic observation indicates that the charcoals were
+derived from heartwood.
+
+Table 1
+Example of coding grid for dendro-anthracological analysis
+Sample Code Species
+no.
+1
+2
+3
+4
+5
+6
+
+1
+1
+10
+9
+3
+27
+a
+b
+c
+
+No. Total width Rings
+Carboni- Hyphaec Insect
+Pithc Barkc Tylosesc Reaction Working Comments
+of
+of rings
+bendinga zationb
+degradationc
+woodc
+marksc
+rings (mm)
+
+Quercus sp.
+5
+Quercus sp.
+15
+Juglans sp.
+2
+Fagus sylvatica
+1
+Corylus avellana 12
+Ilex aquifolium
+7
+
+4.74
+10.23
+
+6.76
+3.12
+
+1
+1
+1
+1
+2
+3
+
+1
+1
+
+1
+1
+
+1
+
+1
+2
+
+1 ¼ low curve rings; 2 ¼ intermediate curve rings; 3 ¼ strong curve rings.
+1 ¼ radial cracks; 2 ¼ low brilliance; 3 ¼ strong brilliance.
+1 ¼ ‘‘yes’’.
+
+1
+
+1
+1
+
+1420
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+Fig. 2. Scanning electron micrographs showing systematically observed dendrological criteria. (A) Stem of archaeological charred oak (Quercus sp.) with bark and
+pith; (B) coniferous charcoal (Picea mariana) with reaction wood in tracheids; (C) tyloses in archaeological oak heartwood charcoal; (D) fungal hyphae in vessels
+of charred oak sapwood; (E) tunnels of wood-boring insects or woodworms in Scots pine (Pinus sylvestris); (F) radial cracks in a white spruce charcoal (Picea
+glauca); (GeI) different degrees of vitrification in archaeological charcoals; (J, K) different tree ring curves in archaeological charred oaks: (J) weakly curved
+rings, (K) moderately curved rings; (L) large rings and narrow rings in archaeological oak charcoal; (M) working mark on a charcoal from an incense-vase.
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+2.1.5. Presence of insect degradation
+In some charcoals, tunnels are sometimes observed
+(Fig. 2E). Dimbleby (1967) mentioned that, in some Neolithic
+charcoals, irregular patterns of large holes could result from
+some wood-boring insect or woodworm degradation. Sometimes, it is possible to find beetles within these channels.
+Even when the animal is not preserved inside, the aspect of
+the channels can nevertheless indicate, not without some difficulty, the species of insect or worm that lived there (Serment
+and Pruvost, 1991). The presence of many such channels in
+charcoals is a good indicator of the combustion of drifted
+dead wood. In their study of charcoals from Maiden Castle
+(Dorset, U.K.), Salisbury and Jane (1940) mentioned that the
+wood employed was ‘‘dead wood rests’’ because the charcoals
+contained ‘‘bore-holes filled with carbonized frass’’, the result
+of the activity of ‘‘beetle larvae of the type which attack dead
+and not living wood’’.
+2.1.6. Presence of radial cracks
+Radial cracks are often common in charcoals (Fig. 2F).
+Their frequency depends on the anatomy of the wood (more
+frequent in the case of dense and large rays), the location in
+the wood (less frequent when close to the pith), the level of
+wood dampness (consequence of the discharge of ‘‘closed
+water’’) and temperature (Théry-Parisot, 2001). According to
+Prior and Alvin (1986), the carbonization of watterlogged
+wood favours a substantial increase in the number of radial
+cracks.
+2.1.7. Presence of vitrification features
+The vitrification of charcoals corresponds to a variable
+fusion of anatomical constituents within the wood, leading
+to homogenisation of the structure that makes identification
+impossible when the process reaches its final stage. The
+vitrified charcoals become very dense and refractive with
+‘‘sub-conchoidal’’ fractures. Many stages of alteration by
+fusion are known, ranging from a still- recognisable anatomical structure to a dense mass, completely molten and nondeterminable (Fig. 2GeI):
+e low brilliance-refractiveness (degree 1),
+e strong brilliance (degree 2),
+e total fusionddense, non-recognisable mass (degree 3).
+
+1421
+
+The fusion may be associated with radial cracks. Vitrification often affects small pieces of wood such as twigs. Rapid
+combustion at high temperatures frequently causes tissue deformation, fissures and fusion (Schweingruber, 1982). But, more
+generally, this alteration of the anatomical structure by fusion
+may result from specific conditions of combustion or taphonomy, and can reveal the state of the wood before combustion.
+There appear to be numerous types of conditions affecting
+fusion, and many anthracologists are currently attempting to
+understand this phenomenon in all its aspects.
+2.2. Evaluation of growth-ring curvature
+The evaluation of tree-ring curvature (and the angle of the
+rays) enables us to identify which part of the tree was used.
+For example, a weak or smooth curve corresponds to the
+tree trunk (Fig. 2J), while a strong or marked curve corresponds to the branches (Fig. 2K).
+The ring curvature is estimated according to a standard
+classification: with a constant magnification and using a transparent test card placed on top of or under the fragment (Fig. 3).
+To apply this method, it would appear necessary to have
+a minimal tangential width of charcoal of around 3 to 4 mm
+to estimate the approximate parallelism of rays, or a radial
+length of 5 mm to estimate the curvature of the rings. These
+minimal conditions are not necessary when the fragments
+have both pith and bark and therefore correspond to a branch
+or twig.
+Charcoals are divided into four groups, which exhibit:
+e strongly curved rings,
+e moderately curved rings,
+e weakly curved rings (at this observation scale, the rings
+seem ‘‘straight’’ and the rays parallel),
+e indeterminate curvature (on fragments without minimal
+conditions).
+While such an approach reveals trends, it is not a measurement of the diameter of the wood, but merely a characterization.
+In one case, it was possible to measure the wood section (where
+pith and bark appear together in a charcoal; see Section 2.1.1).
+More generally, abundant charcoals with strongly curved rings
+in one sample indicate the use of small calibre wood or
+
+Fig. 3. Test card for evaluation of tree-ring curvature.
+
+1422
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+branches. On the other hand, the predominance of charcoals
+with weakly curved rings suggests the use of large calibre
+wood such as trunks or large branches. Finally, by combining
+the criteria of ring- curvature and the presence of bark, pith
+or reaction wood, it is possible to demonstrate the use of
+branches.
+2.3. Growth ring width
+2.3.1. Measurement of growth ring width
+When charcoal fragments were large enough, we systematically measured the growth ring widths (Fig. 2L). The average
+growth ring width can provide information on the growing
+conditions of the trees:
+e narrow rings correspond to restrictive growing conditions,
+e large rings indicate favourable growing conditions.
+The average growth ring widths were only measured on
+charcoal samples with a weak curvature of rings (derived
+from trunks or large branches, far away from the pith), and
+with regular width rings. This measurement was indeed
+impossible on branches or small stems with eccentric growth
+because of the development of reaction wood. The ring widths
+are thus highly variable on two opposite rays. Furthermore, the
+rings near the pith are always thicker than the outer rings. In
+their response to Salisbury and Jane’s paper (1940), Godwin
+and Tansley (1941) put forward serious criticisms about the
+method of handling the tree-ring data obtained from specimens of young stems. They considered it was imprudent to ignore ‘‘the progressive diminution of tree-ring width with the
+age of the tree’’. They suggested that comparison of ring
+widths is ‘‘valid only for the outer rings of large trees’’.
+2.3.2. Intra-site frequency distribution of the
+charcoal ring-widths
+In one sample of charcoals, an average ring width was
+calculated for each charcoal sample of readable and measurable rings. Thus, we obtained as many average width values
+as measurable charcoals. This procedure minimizes the
+influence of extreme values and reveals trends in the growth
+of woods.
+A bar chart is used represent these measurements by classes
+of 0.25 mm or 0.5 mm for each taxon and for each sample of
+charcoal. Measurements were mainly performed on samples
+with substantial numbers of charcoals (>50 fragments with
+measurable rings). If not, there would be an excessive risk
+of taking exceptional rings into account.
+
+It is interesting to characterize the distribution of these
+values for each taxon within a site and note their approximate
+dispersion using descriptive statistics. A unimodal distribution
+of these classes is interpreted as indicative of a homogeneous
+stand or a single tree (Fig. 10a). On the contrary, a multimodal
+distribution is interpreted as a heterogeneous community of
+trees or several populations (Fig. 10c).
+Finally, it is possible to produce growth curves for large
+charcoals that contain dozens of rings. This method, for example, allows us to ensure that charcoals come from a single tree
+and assemble fragments with the same ring-width patterns
+coming from the same stand (Morgan, 2000).
+2.3.3. Validity of the growth-ring width measurement
+modified by carbonization
+Combustion processes have some effects on the morphology of the wood. While the size and shape of wood constituents can vary, the qualitative anatomical characteristics remain
+the same (Beall et al., 1974). The deformation of the charcoal
+microstructure varies with wood species. The loss of 70e80%
+of the substance of the wood causes a shrinkage of 7e13%
+longitudinally and 12e20% radially/tangentially. The cell
+wall is reduced to 1/5e1/4 of its original thickness (Schweingruber, 1982).
+In 1940, Salisbury and Jane converted recent specimens of
+hazel stems into charcoal and measured the width of the
+annual rings both before and after carbonization using various
+techniques (slow and rapid combustion). These authors concluded that the widths were ‘‘not significantly different whatever method was employed to produce the charcoal’’
+(Salisbury and Jane, 1940). Based on these data, it would
+appear possible to measure the radial growth that can be
+observed on transverse sections of a charcoal and compare
+these measurements from one charcoal to another. In any
+case, the present study does not aim to compare the absolute
+values measured on charcoals with data obtained from fresh
+or waterlogged wood.
+In practice, we were able to measure the average ring-width
+with an electronic calliper or a dendrochronological digital
+positioning table (accuracy: 0.01 mm) by examining the ligneous structure of charcoals on transverse sections with a binocular lens. To compare these two methods of measuring the
+average ring width, we measured 161 fragments of oak charcoals (834 growth rings) from a Roman archaeological site
+(Allonnes, Sarthe). The extremely close similarity of results
+obtained shows that it is not possible to favour one of these
+measuring systems above the other (Table 2).
+To improve our knowledge of the growth conditions, it is becoming increasingly necessary to measure systematically
+
+Table 2
+Comparison of two dendrological measuring systems for growth ring width
+
+Electronic calliper
+Dendrochronological table
+
+Mean
+(mm)
+
+Standard
+deviation
+
+Min.
+(mm)
+
+Max.
+(mm)
+
+N charcoals
+
+N rings
+
+1.64
+1.65
+
+1.14
+1.29
+
+0.2
+0.17
+
+6.53
+6.31
+
+161
+147
+
+834
+521
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+1423
+
+Atlantic
+Ocean
+Caen
+Mediterranean
+Sea
+
+100 km
+
+Brest
+
+Saint-Brieuc
+
+Rennes
+
+Laval
+
+Quimper
+
+Vannes
+0
+
+50
+
+100 Km
+
+Angers
+
+Sites with:
+Domestic fireplaces
+
+Nantes
+
+Kilns
+Other structures
+
+Fig. 4. Location map of the study sites.
+
+0
+
+80%
+
+0
+
+40
+
+90 0
+
+0
+
+80 0
+
+30
+
+10
+
+0
+
+90
+
+le
+x
+U
+
+In
+S
+de ali
+te x s
+rm p
+in .
+ab
+le
+
+sp
+
+.
+sp
+ta
+is
+en
+G
+
+PO
+M
+O
+ID
+EA
+E
+
+us
+Fa / C
+gu as
+s tan
+sy e
+C
+ar U lva a
+pi lm tic
+C nu us a
+or s
+yl be sp
+us t .
+av ulu
+el s
+la
+na
+
+rc
+Q
+ue
+
+Pi
+
+nu
+s
+s
+Q ylve
+ue s
+rc tris
+us
+sp
+.
+
+Loc EG C8
+Loc TDM F5
+Bilgroix
+Rouick F1
+Ernes Ee21
+Ernes Ff26
+Cairon St11
+Condé St19
+Condé St21
+Condé Sub101
+Mez Notariou
+Kersigneau C4
+Kersigneau C5
+Ebihens C2
+Pont-l’Abbé 438
+Pont-l’Abbé 387
+Tinténiac TF
+
+.
+Be
+t
+Ac Pr ula
+er unu sp
+Fr Fr ca s s .
+ax an mp p.
+in gu e
+us la st
+ex al ris
+ce nu
+ls s
+io
+r
+
+Erdeven F1
+Erdeven F2
+Loc EG C5
+
+Fig. 5. Percentage charcoal diagram for domestic fireplaces of north-western France. Upper diagram: Neolithic structures; lower diagram: Iron Age structures;
+black dots correspond to sparsely occurring taxa (1%).
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+1424
+
+%
+100
+
+Neolithic
+
+Iron Age
+
+A
+
+90
+80
+70
+
+Rings curvature
+
+60
+
+Weakly curved
+
+50
+
+Moderately curved
+Strongly curved
+
+40
+30
+20
+10
+
+100
+
+Neolithic
+
+Kersigneau
+C4
+
+Rouick F1
+
+Bilgroix
+
+Loc TDM F5
+
+Loc EG C8
+
+Loc EG C5
+
+Erdeven F2
+
+Erdeven F1
+
+0
+
+Iron Age
+
+B
+
+90
+80
+70
+60
+
+Rings curvature
+
+50
+
+Weakly curved
+
+40
+
+Moderately curved
+Strongly curved
+
+30
+20
+10
+
+Kersigneau
+C4
+
+Mez Notariou
+
+Rouick F1
+
+Bilgroix
+
+Loc TDM F5
+
+Loc EG C8
+
+Loc EG C5
+
+Erdeven F2
+
+Erdeven F1
+
+0
+
+Fig. 6. Calibre of wood in Neolithic and Iron Age domestic fireplaces of north-western France (A: oak; B: all woody plant species).
+
+within the growth ring of a charcoal (i.e. the width of early and
+late wood, vessel area, vessel density, frequency of rays, etc.).
+Such measurements should be automated as much as possible
+to facilitate the acquisition of results on many charcoals.
+From this perspective, and following an initial study by Vernet
+et al. (1983) on ring morphology in olive tree charcoals, Terral,
+1999, 2002) used an eco-anatomical approach with morphometric analyses of wooden archaeological material to determine the origin of cultivation of olive trees and grapevines in
+the western Mediterranean region.
+3. Results
+Examples of dendrology applied to anthracology are taken
+from the studies of sites located in north-western France,
+most of these being located in Brittany. Around seventy archaeological sites have now been studied in this area (Fig. 4).
+
+3.1. Palaeo-ethnographic information
+3.1.1. Fuel
+3.1.1.1. Fuel from domestic fireplaces. We considered the contents of charcoals from twenty domestic fireplaces situated at
+12 archaeological sites in Brittany and Normandy (Fig. 4).
+They correspond to Neolithic burial sites or rural settlements
+of the Iron Age (Marguerie, 2003).
+The studied fireplaces contain wood representing from one
+to nine taxa. Oak is found in 14 of the structures (Fig. 5). From
+48% to 100% of oak charcoals in Neolithic fireplaces had
+weakly curved rings and originated from wood of large calibre. On the other hand, in the only example from the Iron
+Age where we could carry out this kind of examination, the
+oak charcoals have strongly curved rings in 89% of cases
+(Fig. 6A). Taking all the taxa together, the Neolithic structures
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+contain wood of large or medium calibre. On the contrary,
+charcoals from the two Iron Age structures are of small
+cross-section (Fig. 6B). During the Iron Age, the use of stems
+with small cross-section was also the consequence of exploiting shrubs and small trees.
+3.1.1.2. Fuel of kilns. The anthracological study of craft structures is based on material from 12 settlements (Fig. 4). The
+archaeological sites dated chronologically from the second
+Iron Age to the late Middle Ages. Twenty combustion structures were studied. They can be categorized into four groups
+of kilns: ceramic or tile, glass, metal and lime (Marguerie,
+2002).
+A taxonomic richness factor from one to seven is observed
+in the studied sites (Fig. 7). The tree ring curvature systematically observed indicates that the oak charcoals in craft structures originated from large-diameter timber (Fig. 8). In the
+case of the beech charcoals, fragments in the pottery kilns
+also came from tree trunks. Some oak and beech charcoals
+from the pottery kiln of La Haute-Chapelle display radial
+cracks (13.5%). On the contrary, such features are totally absent from the oak charcoals of the lime kilns of Jouars.
+Shrubs or small trees such as hazel, Pomo€ıdeae, Prunus,
+birch, maple, broom and alder provide high flames over a short
+time when tied up into bundles. The ‘‘big fire’’ obtained in this
+way produces a high temperature. Gallo-Roman potters used
+some plant materials with fast combustion, such as straw,
+reed, heather, bark or pine cones, to obtain a high and very
+hot flame yielding a rapid rise in temperature. When added
+to the ‘‘small fire’’, this additional plant-based fuel produced
+0
+
+90%
+
+30
+
+1425
+
+the ‘‘big fire’’ needed for the main firing process (Brongniart,
+1977; Le Ny, 1988; Pillet, 1982).
+The cellular tissue of some oak (15%) and beech (23%) charcoals found in the metal kilns of La Bazoge had been molten
+(vitrified). In the bell kiln of Ambon, more than 50% of oak
+charcoals were ‘‘ vitrified ’’. The molten or vitrified features
+of some oak and beech charcoals suggest that some metal kilns
+could use burning charcoal and not exclusively wood. This hypothesis must be tested by identifying the origin of the process
+involved the vitrification of charcoals. The vitrification process
+is not yet well understood and its association with burning charcoal not clearly established. For the metalworking craft industry, the heat needed to be stable and intense.
+In the ‘‘Ambroise Paré’’ site (Rennes), the excavation of
+a Roman kiln has yielded oak charcoals produced from large
+branches (Guitton et al., 2002). The majority of these have
+weakly curved rings and an average age of 15 years. They are
+assumed to be contemporaneous, representing the last phase
+of the kiln activity. For some of the charcoals, it was possible
+to measure the growth ring widths using a dendrochronological
+table (Lintab Rinntech). Matching the average dendrochronology curve for Ambroise Paré (M1: 36 years long), which
+groups together nine curves, was facilitated by the presence
+of one charcoal of the same length (AP13: 36 rings) and
+a fall in growth rate visible at the beginning of many sequences
+(Fig. 9). The ring-width patterns of these carbonized woods are
+so similar that they probably came from the same tree.
+3.1.1.3. Fuel in incense-vases. Charcoals in incense-vases
+from Anjou were derived from oak branches. This was
+80
+
+20
+
+30
+
+10
+
+A
+
+B
+
+C
+
+D
+
+Fig. 7. Percentage charcoal diagram for kilns of north-western France (A: ceramic or tile kilns; B: glass kiln; C: metal kilns; D: lime kilns). Black dots correspond
+to sparsely occurring taxa ( 1%).
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+1426
+
+A
+
+Pottery kilns
+
+with a strong curvature of rings points to the use of small
+twigs (Hunot, 1992, 1996) (Fig. 10). Moreover, the working
+marks on several suggest the use of coppicing wood
+(Fig. 2M).
+
+100
+90
+80
+70
+60
+
+probably a result of the over-exploitation of forests around
+Angers over many centuries during Medieval times. The
+wood of oak represented from 90% to 100% of the remains
+contained in 70 vases dating from the Middle Ages to Modern times. The presence of bark and pith together, associated
+
+3.1.3. Catchment areas
+For La Hersonnais, we systematically analysed the
+distribution of oak ring widths wherever possible. Owing to
+this method, it was possible to assess the homogeneity or
+heterogeneity of the sample as well as the supplier areas
+(Fig. 13).
+
+%
+
+Fig. 8. Calibre of wood in Neolithic and Iron Age kilns of north-western
+France (A: oak; B: beech).
+
+3.1.2. Timber: example of the Neolithic settlements of La
+Hersonnais
+The site of La Hersonnais (Pléchatel, Ille-et-Vilaine) has
+provided a great number of charcoals coming from the timbers
+of different late Neolithic settlements (Tinevez, 2004). Each
+building is surrounded by an enclosure. They belong to the
+late Neolithic period, and it is possible to follow their architectural evolution from the 27th to the 26th century BC (Bernard
+and Thibaudeau, 2002) (Fig. 11).
+The studied charcoals come from post-holes and ditches
+(Marguerie and Thibaudeau, 2004) (Fig. 12). The wooden superstructures were made from pieces taken from large
+branches or trunks of oak. The majority (74.4%) of oak charcoals from all the studied samples show a weak ring curvature. The charcoals of others species came from pieces with
+medium to small calibre. This is also the consequence of
+the morphology of the smaller trees or shrubs from which
+they came.
+Very few charcoals of oaks (38/1959) from building A and
+enclosures B and C have insect tunnels. Combined with the
+frequent observation of tyloses in vessels, this result indicates
+the preferential use of heartwood for construction.
+Oak has excellent mechanical properties. In north-western
+Europe, it is the building material par excellence. The density and the mechanical qualities vary greatly depending on
+the proportion of latewood in the total width of a ring
+(Zobel and Van Buijtenen, 1989). The thick annual growths
+are of high density and are best suited to resist the static
+and dynamic forces experienced. These woods are difficult
+to work and have large shrinkages. In contrast, medium annual growths (less than 2 mm) correspond to mechanically
+weaker and softer woods, which are easer to work and
+have small shrinkages. Trees with such wood have even
+and straight trunks that are ideal for obtaining long beams
+(C.T.B.A., 1989; Rameau et al., 1989; Sell and Kropf,
+1990).
+At La Hersonnais, oaks with slow growth were used. This
+was the case within any given architectural group, with a great
+similarity between timbers from the building and the enclosures. There was no significant difference according to the Student t-test, except for group B where the average widths are
+clearly greater in the fences (Sokal and Rholf, 1981). The trees
+with narrow rings, and probably with long, straight and regular
+trunks, were probably chosen owing to the large size of the
+buildings.
+
+50
+40
+30
+20
+10
+Vannes
+
+HauteChapelle
+
+Roche-Mabile
+
+Chartres
+
+Tressé
+
+Trémentines
+
+0
+
+A
+
+%
+
+Metal kilns
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+La Bazoge
+
+Plélan
+
+Ambon
+
+Cesson
+
+A
+
+%
+
+Lime kilns
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Jouars
+
+Touffreville
+
+B
+
+%
+
+Kilns
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+Rings curvature
+Weakly curved
+Moderately curved
+Strongly curved
+Chartres
+
+RocheMabile
+
+HauteChapelle
+
+Vannes
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+1427
+
+Growth ring width
+
+100%
+
+A
+
+90%
+80%
+70%
+
+position 12
+
+60%
+
+Taxa contents
+
+50%
+
+Others 6 woody
+species
+Oak
+
+40%
+
+AP12
+
+30%
+20%
+position 10
+
+10%
+
+AP8
+
+0%
+
+position 9
+
+AP7
+
+Weight
+100%
+90%
+
+Fragments
+
+B
+
+80%
+
+AP14
+
+position 11
+
+70%
+60%
+
+AP2
+
+position 11
+
+AP15
+
+position 12
+position 7
+
+Rings curvature of oak
+
+50%
+
+Weakly curved
+
+40%
+
+Moderately curved
+Strongly curved
+
+30%
+
+AP11
+
+20%
+10%
+
+position 7
+
+0%
+
+AP13
+
+position 1
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+AP5
+
+Pith
+1mm
+
+Oak with strongly curved rings
+No
+Bark & Pith
+Pith only
+Bark only
+
+Fig. 10. Anthracology and dendrology of charcoals from four incensevases from La Haye-aux-Bonshommes (Avrillé, Anjou), grave HB1/US60
+(15th C.).
+
+AP.M1
+40
+
+C
+
+Years
+
+Fig. 9. Ring-width patterns of nine large oak charcoals from ‘‘Ambroise Paré’’
+site (Rennes).
+
+The histogram of classes drawn up for building A shows
+a very well classified normal distribution, which is unimodally
+centred on the value 1.25 mm (M ¼ 1.30 mm, s ¼ 0.49,
+N ¼ 486 charcoals and 5193 rings). The oaks used come
+from a single homogeneous population (Fig. 13A).
+At Saint-Symphorien (Paule, Côtes-d’Armor), the
+sediments filling the underground passage (P1555) during
+the second half of the 5th century BC contain charcoals
+of oak with a large average ring width (M ¼ 2.78 mm,
+standard deviation ¼ 1.41, N ¼ 59 charcoals and 363 rings),
+showing a scattered and multimodal distribution from 1.01
+
+to 7.25 mm (Fig. 13B). The woods of these mixed
+fires came from different areas with different growing
+conditions.
+In the Carolingian settlement of Talvassais at Montours
+(Ille-et-Vilaine) (Cattedu, 2001), oak charcoals corresponding
+to the first stage of the use of the domestic kiln (St. 629) have
+ring widths with a strongly scattered distribution from 1.71 to
+7 mm (Fig. 13C). The average width is 3.32 mm with a standard deviation of 1.12 mm, calculated on 74 charcoals and
+327 rings. This sample contains seven charcoals with very
+high growth rate. In this case, charcoals seem to have come
+from different areas or from the middle of a dense forest out
+to its open edge.
+
+1428
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+A
+
+C
+
+B
+
+D
+Fig. 11. Plan of buildings and enclosures at the Neolithic site of La Hersonnais (Pléchatel, Ille-et-Vilaine). (From Tinevez, 2004).
+
+3.2. Palaeo-environmental information
+In forest ecology, incremental variations in wood may be
+interpreted using a complex series of parameters: adaptation
+of the tree to the location, availability of water and nutrients,
+tree spacing, attack by pathogenic organisms and climate
+(Gassman, 1999; Otto, 1994; Schweingruber, 1988; Wilson
+and White, 1986; Zobel and Van Buijtenen, 1989). In 1983,
+Heinz carried out a palaeo-dendroclimatological analysis by
+measuring the widths of tree rings on charcoals of Juniperus
+(Heinz, 1983).
+Along with environmentally induced variations in wood
+formation, we consider the effect of spacing within communities on wood properties, as shown by the examples given
+below. Differences in spacing have a considerably effect on
+competition between trees, such as through the availability
+of moisture and nutrients (Otto, 1994). Recently, Carrion
+(2003) carried out a dendrological analysis of charred
+material from the wooden support structure of the Neolithic
+dolmen of Tres Montes (Navarra, Spain). This author
+
+measured tree growth rings in charcoals of Juniperus, thus
+highlighting the exploitation of two different stands as well
+as the impact of climatic variations and human activities
+around the site.
+Following many studies in the north-western France covering the postglacial period, during which climatic variations
+were too weak to modify clearly the average radial growth
+of the trees, we conclude that the average annual growth
+rate provided by the dendrological analysis of charcoals above
+all reflects the density of the stands.
+At the Neolithic site of La Hersonnais, the different settlement complexes were not contemporaneous. The stratigraphic
+study carried out during the excavation, as well as the typological criteria and the relative dating of the structures, all suggest
+that the oldest building was structure A, followed in order by
+B, C and D (Fig. 11).
+In this case, anthracology may provide information about
+the environmental context and the structure of surrounding
+woodlands. The increase of the average ring width over the
+studied time interval reflects forest degradation and the
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+0
+
+90%
+
+1429
+
+10
+
+Building A
+
+Enclosure A
+
+Building B
+
+Enclosure B
+
+Building C
+
+Enclosure C
+
+m
+pe
+Be stri
+PO t
+s
+M ula
+O sp
+ID .
+C EA
+or
+nu E
+Pr s s
+un p.
+us
+Fr
+ax Gen sp
+.
+in
+us ista
+ex sp
+.
+c
+Al els
+nu io
+In S s s r
+de a p
+te lix .
+rm sp
+in .
+ab
+le
+
+ca
+er
+Ac
+
+Ile
+x
+ar aqu
+pi
+nu ifol
+s ium
+be
+C U tul
+or lm us
+yl
+us us
+av sp.
+el
+la
+na
+C
+
+Q
+
+ue
+
+rc
+
+us
+
+sp
+
+.
+
+Building D
+
+Fig. 12. Percentage charcoal diagram for buildings and enclosures of La Hersonnais (Pléchatel, Ille-et-Vilaine). Black dots correspond to sparsely occurring taxa
+(1%).
+
+evolution of woodland potential around the site. It seems that
+a single forest was exploited throughout the occupation of the
+site. Following the same pattern, buildings became smaller and
+the walls, previously made of big oak posts, were replaced by
+thinner wattle walls.
+The samples of oak charcoal have an average ring widthd
+measured on 1501 fragmentsdthat varies between 1.26 and
+1.94 mm. This average value increases from group AeB to
+group D (Fig. 14). The Student t-test shows that the difference
+between A and B is not significant and that oaks used for the
+construction of these two groups probably came from the same
+ecosystem. Between the groups A and C, and between B and
+C, the average values are significantly different at a 99%
+confidence level.
+The narrowness of oak rings in groups A and B indicates
+the existence of dense supplier forests. Then, the increase of
+the average width observed during the development of occupation over the next century informs us about the opening up of
+the forest, leading to a damaged formation of scattered and
+isolated large trees.
+From woods designated for the construction of buildings,
+we can interpret the dendro-anthracological data in terms of
+palaeo-ecology. The growing proportion of heliophilic species
+(birch, hazel, maple, broom, etc.) used during the different
+phases of occupation of the site follows the clearing of the environment and the greater availability of these species around
+the settlement (Fig. 12).
+
+In north-western France, the average width of the growth
+rings in oak charcoal from domestic hearths, coming from about
+40 sites and 55 samples, shows a significant increase from the
+Neolithic to the end of the Iron Age. Linear regression analysis
+gives a relationship between time (t years) and ring width
+( y mm) that can be expressed as y ¼ 0.0028t þ 1.2682
+(r ¼ 0.57) (Fig. 15A).
+The graph shows the average width of growth rings observed, along with the standard deviation. Two sets of samples
+are quite clearly contrasted:
+e width of about 1.5 mm during the middle Neolithic period,
+corresponding to narrow rings,
+e width of about 2.4 mm during the Iron Age, with a large
+dispersion of values, corresponding to wide rings in
+general.
+The increase in oak ring width and the greater dispersion of
+the values suggests a clearing of the forest between these two
+periods. This observation supports the increasing taxonomic
+richness and abundance of recorded heliophilic taxa among
+the charcoals from domestic fires, some of which are characteristic of heathland (Fig. 15B). This phenomenon is the result
+of an increasing exploitation of the forest (Gaudin, 2004). At
+the same time, there is evidence for the development of heliophilic vegetation over time. During the establishment of Neolithic peoples in north-western France, trees with low growth
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+1430
+
+3
+
+N charcoals
+La Hersonnais A
+100
+
+A
+
+80
+60
+40
+20
+
+0 - 0.25
+0.25 - 0.5
+0.5 - 0.75
+0.75 - 1
+1 - 1.25
+1.25 - 1.5
+1.5 - 1.75
+1.75 - 2
+2 - 2.25
+2.25 - 2.5
+2.5 - 2.75
+2.75 - 3
+3 - 3.25
+3.25 - 3.5
+3.5 - 3.75
+3.75 - 4
+4 - 4.25
+4.25 - 4.5
+4.5 - 4.75
+4.75 - 5
+5 - 5.25
+5.25 - 5.5
+5.5 - 5.75
+5.75 - 6
+6 - 6.25
+6.25 - 6.5
+6.5 - 6.75
+6.75 - 7
+7 - 7.25
+
+0
+
+Widths of oak charcoals rings (mm)
+
+Buildings
+
+120
+
+4
+2
+
+Widths of oak charcoals rings (mm)
+
+B
+
+6
+
+0
+
+A
+
+B
+
+C1
+
+C2
+
+C3
+
+D
+
+2,5
+2
+1,5
+1
+0,5
+0
+
+0 - 0.25
+0.25 - 0.5
+0.5 - 0.75
+0.75 - 1
+1 - 1.25
+1.25 - 1.5
+1.5 - 1.75
+1.75 - 2
+2 - 2.25
+2.25 - 2.5
+2.5 - 2.75
+2.75 - 3
+3 - 3.25
+3.25 - 3.5
+3.5 - 3.75
+3.75 - 4
+4 - 4.25
+4.25 - 4.5
+4.5 - 4.75
+4.75 - 5
+5 - 5.25
+5.25 - 5.5
+5.5 - 5.75
+5.75 - 6
+6 - 6.25
+6.25 - 6.5
+6.5 - 6.75
+6.75 - 7
+7 - 7.25
+
+A
+
+B
+
+C1
+
+C2
+
+D
+
+3
+
+C
+
+16
+14
+12
+10
+8
+6
+4
+
+Widths of oak charcoals rings (mm)
+
+La Talvassais 629
+
+0,5
+
+Groups
+
+mm
+
+18
+
+1
+
+Enclosures
+
+8
+
+20
+
+1,5
+
+3
+
+12
+
+Saint-Symphorien 1555
+
+2
+
+0
+
+mm
+
+10
+
+2,5
+
+2,5
+2
+1,5
+1
+0,5
+
+2
+
+0
+0 - 0.25
+0.25 - 0.5
+0.5 - 0.75
+0.75 - 1
+1 - 1.25
+1.25 - 1.5
+1.5 - 1.75
+1.75 - 2
+2 - 2.25
+2.25 - 2.5
+2.5 - 2.75
+2.75 - 3
+3 - 3.25
+3.25 - 3.5
+3.5 - 3.75
+3.75 - 4
+4 - 4.25
+4.25 - 4.5
+4.5 - 4.75
+4.75 - 5
+5 - 5.25
+5.25 - 5.5
+5.5 - 5.75
+5.75 - 6
+6 - 6.25
+6.25 - 6.5
+6.5 - 6.75
+6.75 - 7
+7 - 7.25
+
+0
+
+A
+
+B
+
+C
+
+D
+
+Fig. 14. Evolution of average ring widths of oak charcoals within architectural
+groups of La Hersonnais.
+
+mm
+
+Fig. 13. Different bar charts of the ring-widths of charcoals A: unimodal
+frequency distribution, La Hersonnais, building A. B: multimodal frequency
+distribution, Saint-Symphorien, P 1555. C: bimodal frequency distribution,
+Talvassais, St. 629.
+
+were the first to be felled or collected as deadwood within
+dense forest. With the considerable growth of human population in north-western France during the Late Iron Age
+(Audouze and Buchsenschutz, 1989), wood collection led to
+significant deforestation and people made use of numerous
+different varieties including many heliophilic species. However, the Iron Age corresponds to a period of development
+of regressive heathland in Brittany. Similarly, we can observe
+more frequent use of oak firewood of small diameter from
+branches or young trees.
+
+The dendrological analysis of various samples of Medieval
+and post-Medieval charcoals from the Anjou region, near Angers (Fig. 4), reveals large variations in the average ring width.
+We were unable to detect any chronological trend. The charcoals
+collected from the fireplaces of the Dark age sarcophagus quarry
+of Doué-la-Fontaine yield an average ring width of 2.33 mm
+(standard deviation ¼ 0.96, N charcoals ¼ 93). By contrast,
+oak charcoals from the mortar of the abbey church of Fontevraud
+(early 12th century) have an average width of 1.20 mm (standard
+deviation ¼ 0.43, N charcoals ¼ 197). The various results in
+space and time over this region point out a Medieval
+landscape where dense forests coexisted with over-exploited
+open zones.
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+mm
+
+1431
+
+A
+
+5
+
+4
+
+3
+ρ = 0.57
+2
+
+1
+6000
+
+5700
+
+5400
+
+5070
+
+4770
+
+4470
+
+4170
+
+3870
+
+3570
+
+3270
+
+2970
+
+2670
+
+0
+
+2370
+
+2070
+
+1770
+
+BP
+
+2
+4
+6
+ρ = 0.49
+8
+10
+12
+14
+16
+18
+
+B
+
+N taxa
+Fig. 15. Average widths of the growth rings of oak charcoals (A) and number of taxa (B) found in domestic fires from western France from the Neolithic to the Iron
+Age (horizontal axis is time scale).
+
+4. Conclusion
+The application of dendrochronological methods supplements the analysis of charcoals. We can interpret the results
+of dendrology applied to charcoal analysis through a convergence of criteria, without taking into account the small variations found in some of the parameters. This new tool in
+charcoal analysis is more than just an identification of the
+species or genus used, since it provides fundamental data on
+gathering modes, fuel economy, types of supplier areas, timber
+selection, catchments areas and, of course, the environment.
+By considering these extrinsic criteria in association with the
+analytical results, we can obtain palaeo-ethnographic and
+palaeo-environmental information.
+In north-western France, our work in this field over many
+years has led to information of an ethnographic and environmental nature on a local and regional scale.
+In the study of fuel used in domestic and craft combustion
+structures, dendrology provides us with information about
+the calibre and state of the wood chosen for combustion.
+These studies of kilns show that craftsmen chose their
+wood fuel according to the wood’s technical characteristics.
+Similarly, detailed examination of woodwork from the Neolithic site of La Hersonnais allows us to assess its provenance, initial calibre and rate of growth. On wood with
+porous zones, such as oak, growth rate confers the particular
+
+technical properties that would be appreciated by Neolithic
+builders.
+From a palaeo-environmental point of view, the information
+obtained at La Hersonnais, based on measurements of the
+average radial growth rate of oaks used in the various construction phases, concerns the evolution of the forest environment exploited around the site and its progressive degradation.
+From the systematic measurement of the average ring-widths
+of oak charcoals on forty sites in north-western France, we
+are able to distinguish two states of the forest environment:
+tree cover remained dense during the Neolithic, but was
+degraded and varied during the Late Iron Age.
+Palaeo-environmental interpretations based on the measurement of growth-ring width in charred and fragmented material
+are only valid only when applied to large charcoals (with weak
+ring curvature) belonging to the same taxon in the same geographical area and ecological setting, while also coming from
+the same archaeological context (i.e. domestic fire places) and
+size of wood.
+The next step in this application of dendrology to anthracology will be to increase the precision of the wood anatomy
+observations. It is important to distinguish the phenomena responsible for a given width of ring. The morphometric analysis
+provides valuable information on the conditions affecting
+growth, such as climate, local conditions, cultural uses,
+domestication, tree treatments, etc.
+
+1432
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+
+Acknowledgements
+The authors are grateful to Drs. V. Bernard, Y. Le Digol,
+and N. Marcoux for their collaboration in the laboratory of
+Anthracology and Dendrochronology in Rennes and to J. Le
+Lannic for his assistance in the Scanning Electron Microscope
+Laboratory of the University of Rennes 1 (C.M.E.B.A.).
+M.S.N. Carpenter post-edited the English style.
+References
+Audouze, F., Buchsenschutz, O., 1989. Villes, villages et campagnes de
+l’Europe celtique. Hachette, Paris.
+Bégin, Y., Marguerie, D., 2002. Characterization of tree macroremains production in a recently burned conifer forest in northern Quebec, Canada. Plant
+Ecology 159 (2), 143e152.
+Beall, F.C., Blankenhorn, P.R., Moore, G.R., 1974. Carbonized woodd
+physical properties and use as a SEM preparation. Wood Science 6 (3),
+212e219.
+Bernard, V., 1998. L’homme, le bois et la forêt dans la France du Nord entre le
+Mésolithique et le Haut Moyen-Age. BAR International Series, 733,
+Oxford.
+Bernard, V., Thibaudeau, C., 2002. Dendroarchaeology and charred wood from
+the late Neolithic site of Pléchatel (Brittany, western France). A chronological, palaeoenvironmental and architectural contribution. In: Thiébault, S.
+(Ed.), Proceedings of the Second International Meeting of Anthracology,
+Paris. BAR International Series, 1063. Oxford, pp. 255e259.
+Bernard, V., Renaudin, S., Marguerie, D., 2006. Evidence of trimmed oaks
+(Quercus sp.) in North Western France during the early Middle Ages
+(9th-11th centuries A.D.), In: Dufraisse, A. (Ed.), Charcoals Analysis:
+New Analytical Tools and Methods for Archaeology. Workshop, October
+2004, Basel, B.A.R. S1483, 103e108.
+Billamboz, A., 1987. Archéodendrologie dans les palafittes du sud-ouest de
+l’Allemagne: le bois raconte l’histoire des hommes et de la forêt.
+Archéologia 222, 30e38.
+Billamboz, A., 1992. Tree-ring analysis in archaeodendrological perspective.
+The structural timber from the South West German lake dwellings. In:
+Tree-Ring and Environment. Lundqua Report 34. Lund, pp. 34e40.
+Breuil, H., 1903. Les fouilles dans la grotte du Mas d’Azil (Ariège). Bull.
+archéol. Comité Trav. Historiques et Scientifiques, 421e436.
+Brongniart, A., 1977. Traité des arts céramiques ou des poteries considérées
+dans leur histoire, leur pratique et leur théorie. Dessain et Tolra, Paris.
+Carrion, Y., 2003. Afinidades y diferencias de las secuencias antracologicas en
+las vertientes mediterranea y atlantica de la peninsula Iberica, MS thesis,
+Universidad de Valencia, Spain.
+Cattedu, I., 2001. Les habitats carolingiens de Montours et de La ChapelleSaint-Aubert (Ille-et-Vilaine), Document d’Archéologie Française, Archéologie préventive, 89, Paris.
+C.T.B.A., 1989. Dossier essences feuillues. Centre Technique du Bois et de
+l’Ameublement, Paris.
+Dangeard, P., 1899. Détermination de quelques-uns des bois trouvés dans la
+sépulture du Tossen-Maharit. Bull. Soc. Emul. Côtes-du-Nord XXXVII,
+34e35.
+Dimbleby, G.W., 1967. Plants and Archaeology. Baker, London.
+Dufraisse, A., 2002. Les habitats littoraux néolithiques des lacs de Chalain et
+Clairvaux (Jura, France): collecte du bois de feu, gestion de l’espace
+forestier et impact sur le couvert arboréen entre 3700 et 2500 av. J.-C.,
+analyses anthracologiques, MS thesis, Université de Franche-Comté,
+Besançon.
+Durand, A., 2002. Elements for a cultural history of wood in Southern France
+(Xth-XVIth centuries). In: Thiébault, S. (Ed.), Proceedings of the Second
+International Meeting of Anthracology, Paris. BAR International Series,
+1063. Oxford, pp. 261e266.
+Fietz, A., 1933. Prähistorische Pflanzenreste aus der Umgebung von Mährisch
+Neustadt. Beitr. Z. Biol. D. Pflanzen 21, 211e218.
+
+Gaudin, L., 2004. Transformations spatio-temporelles de la végétation du
+nord-ouest de la France depuis la fin de la dernière glaciation. Reconstitutions paléo-paysagères. MS thesis, Université de Rennes 1, Rennes.
+Gassman, P., 1999. Chênes de forêt et chênes de lisière. In: Arnold, B. (Ed.),
+Altapira, archéologie expérimentale et architecture navale gallo-romaine.
+Archéologie Neuchateloise no. 25. Musée Cantonal d’Archéologie,
+Neuchâtel, pp. 62e67.
+Godwin, H., Tansley, A.G., 1941. Prehistoric charcoals as evidence of former
+vegetation, soil and climate. Journal of Ecology 29 (1), 117e126.
+Guitton, V., Le Digol, Y., Marguerie, D., Bernard, V., 2002. Etude anthracologique et dendrologique d’un four de potier sur le site de L’Hôpital
+militaire. In: Archives de l’UMR 6566. Ille-et-Vilaine, Rennes. Rapport
+d’analyses, Rennes.
+Heinz, C., 1983. Analyse anthracologique et paléodendroclimatique du gisement préhistorique de l’Abeurador (Felines-Minervois). Mémoire DEA,
+Université U.S.T.L., Montpellier.
+Hunot, J.-Y., (1992). Charbons de bois recueillis à l’intérieur de vases funéraires. Approche ethnobotanique, Bull. Soc. bot. Fr. 139 Actual. Bot. (2/
+3/4) 651e657.
+Hunot, J.-Y., 1996. Le combustible dans les vases funéraires médiévaux et
+modernes en Anjou. Fontevraud Histoire-archéologie 3, 49e61.
+Jacquiot, C., 1960. Détermination de bois fossiles provenant de la grotte de
+Lascaux, Montignac-sur-Vézère (Dordogne). Bull. Soc. Bot. Fr. 107,
+15e17.
+Le Ny, F., 1988. L’atelier de tuilier gallo-romain au Bas-Rouault en Tressé
+(Ille-et-Vilaine), Les Dossiers du Ce.R.A.A., 16, Saint-Malo.
+Ludemann, T., Nelle, O., 2002. Die Wälder am Schauinsland und ihre Nutzung durch Bergbau und Köhlerei. Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg, Abteilung Botanik und Standortskunde,
+15, Freiburg.
+Lundström-Baudais, K., 1986. Etude paléoethnobotanique de la station III de
+Claivaux. In: Pétrequin, P. (Ed.), Les sites littoraux néolithiques de Clairvaux-Les-Lacs (Jura), T. I Problématique générale, l’exemple de la station
+III. Maison des Sciences de l’Homme, Paris, pp. 311e391.
+Marguerie, D., 1992. Evolution de la végétation sous l’impact humain en
+Armorique du Néolithique aux périodes historiques. Trav. Labo Anthropologie Rennes 40.
+Marguerie, D., 2002. Fuel of Protohistorical and Historical Kilns in
+North-western France. In: Thiébault, S. (Ed.), Proceedings of the Second
+International Meeting of Anthracology, Paris. BAR International Series,
+1063. Oxford, pp. 187e191.
+Marguerie, D., 2003. Le combustible de foyers domestiques du Néolithique et
+de l’Age du Fer dans le nord-ouest de la France. In: Frère-Sautot, M.C.
+(Ed.), Le feu domestique et ses structures au Néolithique et aux âges des
+métaux. Mergoil, Montagnac, pp. 199e208.
+Marguerie, D., Thibaudeau, C., 2004. Apport de l’anthracologie et de la
+dendrologie à l’analyse architecturale et paléoenvironnementale. In:
+Tinevez, J.-Y. (Ed.), Le site de la Hersonnais à Pléchatel, (Ille-et-Vilaine):
+un ensemble de bâtiments collectifs du Néolithique final. Travaux Société
+Préhistorique Française, 5. Paris, pp. 139e148.
+Morgan, R., 2000. Tree-ring studies and the character of the wood used in
+some of the buildings and trackways. In: Bell, M., Caseldine, A.,
+Neumann, H. (Eds.), Prehistoric intertidal archaeology in the Welsh Severn
+estuary. Council for British Archaeology, York, pp. 196e207. CBA
+Research Report, 120.
+Nelle, O., 2002. Charcoal burning remains and forest stand structure. Examples from the Black Forest (South-west-Germany) and the Bavarian Forest
+(South-east-Germany). In: Thiébault, S. (Ed.), Proceedings of the Second
+International Meeting of Anthracology, Paris. BAR International Series,
+1063. Oxford, pp. 201e207.
+Otto, H.J., 1994. Waldökologie. Eugen Ulmer, Stuttgart.
+Péquart, M., Péquart, S.-J., 1954. Hoëdic deuxième station-nécropole du
+Mésolithique côtier armoricain. De Sikkel, Anvers.
+Péquart, M., Péquart, S.-J., Boule, M., Vallois, H., 1937. Téviec stationd
+nécropole mésolithique du Morbihan, Archives I.P.H., 18. Masson,
+Paris.
+Pillet, M., 1982. Potiers et poteries populaires en France. Dessain et Tolra,
+Paris.
+
+D. Marguerie, J.-Y. Hunot / Journal of Archaeological Science 34 (2007) 1417e1433
+Prior, J., Alvin, K.L., 1986. Structural changes on charring woods of Dichrostachys and Salix from Southern Africa: the effect of moisture content.
+IAWA Bulletin n.s 7 (3), 243e249.
+Rameau, J.-C., Mansion, D., Dumé, G., 1989. Flore forestière française, guide
+écologique illustré, plaines et collines. Institut pour le développement
+forestier, Paris.
+Salisbury, E.J., Jane, F.W., 1940. Charcoals from Maiden Castle and their
+significance in relation to the vegetation and climatic conditions in
+prehistoric times. Journal of Ecology 28, 310e325.
+Schweingruber, F.H., 1982. Microscopic wood anatomy. Flück-Wirth, Teufen.
+Schweingruber, F.H., 1988. Tree rings, basics and applications of dendrochronology. Kluwer Academic Publishers, Dordrecht.
+Sell, J., Kropf, F., 1990. Propriétés et caractéristiques des essences de bois.
+Lignum, Le Mont.
+Serment, M.-M., Pruvost, A.-M., 1991. Fiches signalitiques de 25 insectes
+xylophages. CTBA, Paris.
+Sokal, R.R., Rholf, F.J., 1981. Biometry. W.H. Freeman, New York.
+Stieber, J., 1957. Histoire de la végétation du Pléistocène supérieur en Hongrie
+à la lumière des résultats anthracologiques, in: Proceedings of the Fifth International Congress INQUA, Madrid/Barcelona, pp. 181e182.
+Terral, J.-F., 1999. La morphométrie à la recherche des origines de la culture et
+de la domestication des arbres fruitiers: le modèle de l’olivier en Méditerranée nord-occidentale. Revue d’Archéométrie 23, 101e126.
+
+1433
+
+Terral, J.-F., 2002. Quantitative anatomical criteria for discriminating wild
+grapevine (Vitis vinifera ssp. sylvestris) from cultivated vines (Vitis vinifera
+ssp. Vinifera). In: Thiébault, S. (Ed.), Proceedings of the Second International Meeting of Anthracology, Paris. BAR International Series, 1063.
+Oxford, pp. 59e64.
+Théry-Parisot, I., 2001. Economie des combustibles au Paléolithique.
+C.N.R.S., Paris. Dossier de Documentation Archéologiques, 20.
+Tinevez, J.-Y., 2004. Le site de la Hersonnais à Pléchatel (Ille-et-Vilaine): un
+ensemble de bâtiments collectifs du Néolithique final, Travaux Société
+Préhistorique Française, 5, Paris.
+Vernet, J.-L., 1972. Contribution à l’histoire de la végétation du Sud-Est de la
+France au Quaternaire, étude de macroflores de charbons de bois principalement, MS thesis, Université U.S.T.L., Montpellier.
+Vernet, J.-L., Badal-Garcia, E., Grau-Almero, E., 1983. La végétation néolithique du sud-est de l’Espagne (Valencia, Alicante) d’après l’analyse
+anthracologique. C.R. Acad. Sc. Paris 296 (III), 669e672.
+Western, A.C., 1963. Wood and charcoal in archaeology. In: Science in
+Archaeology, A survey of progress and research. Thames and Hudson,
+London. 178e187.
+Wilson, K., White, D.J.B., 1986. The Anatomy of Wood: Its Diversity and
+Variability. Stobart & Son, London.
+Zobel, B.J., Van Buijtenen, J.P., 1989. Wood Variation, its Causes and Control.
+Springer, Berlin.
+
+

@@ -1,0 +1,3310 @@
+J Archaeol Method Theory (2014) 21:616–668
+DOI 10.1007/s10816-012-9163-2
+
+Microarchaeological Approaches to the Identification
+and Interpretation of Combustion Features
+in Prehistoric Archaeological Sites
+Susan M. Mentzer
+
+Published online: 8 November 2012
+# Springer Science+Business Media New York 2012
+
+Abstract Combustion features inform archaeologists about the prehistoric use of
+space, subsistence behaviors, and tempo of site visitation. Their study in the field is
+difficult because burned sediments are susceptible to reworking and diagenesis.
+Microarchaeological analyses, including micromorphology, are essential for documenting the composition, preservation, and function of hearths and other burned
+residues. These investigations focus on the description of fuels, depositional fabrics
+and structures, and mineralogy. As evidenced by a literature review, microarchaeological analyses have much to offer Paleolithic archaeologists, while applications of
+the techniques to Late Pleistocene and Early Holocene sites and in ethnographic or
+experimental contexts are presently rare.
+Keywords Hearth . Micromorphology . Ashes . Charcoal . Controlled use of fire
+
+Introduction
+Combustion features in archaeological sites take many forms. Intact combustion
+structures are commonly known as hearths. Although the term is widely used to
+describe a combustion feature that exhibits elements of intentional preparation, such
+as basal pavings or a rock-lined perimeter, Dibble et al. (2009, p. 187) define a
+“hearth” as “the remnants of a domestic fire feature that retains some or most of its
+S. M. Mentzer
+Tübingen Senckenberg Center for Human Evolution and Paleoecology, Rümelinstr. 23, 72070
+Tübingen, Germany
+S. M. Mentzer (*)
+INA—Institute for Archaeological Sciences, Eberhard Karls Universität Tübingen, Rümelinstr. 23,
+72070 Tübingen, Germany
+e-mail: susan.mentzer@ifu.uni-tuebingen.de
+S. M. Mentzer
+Department of Anthropology, University of Arizona, Tucson, AZ, USA
+
+Microarchaeological Approaches…Combustion Features
+
+617
+
+original structural or compositional elements (e.g. organic matter and overlying ash).”
+Less intact features may be termed “hearth areas” or “combustion areas” to distinguish these fire traces from well-preserved hearths. Here, the terms “hearth” and
+“combustion structure” are employed in a similar sense, while the term “combustion
+feature” signifies a more general category that includes hearths and burned materials
+in secondary position due to human activities or natural processes.
+Hearths and their numerous permutations may represent the remnants of (1) single
+events or short-lived activities (Berna and Goldberg 2008; Goldberg et al. 2012),
+forming in a matter of minutes or hours; (2) a central activity in a permanent or
+semipermanent occupation of a site, persisting for months when well-maintained
+(Mallol et al. 2007); or (3) repeated opportunistic use of the same space over many
+seasons or years. Moreover, a single hearth or horizontal hearth area usually defines
+an ancient surface that was used for a wider range of economic and social activities.
+The study of hearths and other combustion features can, therefore, contribute to the
+quest for the ever-elusive “living floor” (Dibble et al. 1997) or to the identification of
+communal spaces. Combustion features also permit relatively expedient evaluation of
+the impacts of postdepositional processes on the character of their sediments. For
+example, investigations of chemical alteration using the mineralogical or elemental
+composition of sediments can be carried out in the field (e.g., Eliyahu-Behar et al.
+2009; Schiegl et al. 1996; Weiner 2010). Finally, hearths provide sources of material
+that can be dated using radiometric, paleomagnetic, and luminescence methods. Wellpreserved charcoal can yield radiocarbon ages as old as 60 kyr BP (Bird et al. 2003);
+calcined bone may also be dated (Lanting et al. 2001). Thermoluminescence and
+optically stimulated luminescence techniques can be applied to even older materials,
+depending on the dose rates in and around the heated rocks and sediments (Aitken
+1985, 1998). In sum, in an archaeological sequence, several meters thick combustion
+features and their contents are attractive sources of information about continuity and
+change in hominin behavior and sediment chemistry over time.
+At the most basic level, the presence of a hearth in a site implies, first, an ability to
+acquire and/or produce and control fire and, second, a need for fire for cooking, light,
+heat, or a combination of these benefits. Therefore, a burning question in Paleolithic
+archaeology is when and where the controlled use of fire first appeared in the
+archaeological record. This question is key to the testing of the hypothesis proposed
+by Wrangham and colleagues (Carmody and Wrangham 2009; Wrangham and
+Carmody 2010; Wrangham 2007, 2010; Wrangham et al. 1999) that the cooking of
+food was a crucial behavioral development in the history of our genus. A recent
+literature review in search of the answer led Roebroeks and Villa (2011) to conclude
+that the first hominins to enter Europe did not possess fire technology. Although
+burned materials, such as heated flints or rubified1 earth, are present in several Lower
+Paleolithic sites (e.g., Alperson-Afil et al. 2009; Goren-Inbar et al. 2004), James et al.
+(1989) insist that the best evidence for intentional burning in an archaeological site is
+the presence of an intact combustion structure.
+An intact combustion structure is an archaeological feature that contains the byproducts of burning in stratigraphic position within the original burning locality. The
+
+1
+
+Also spelled “rubefied.”
+
+618
+
+Mentzer
+
+presence of an intact combustion structure implies that burning occurred in situ. The
+materials recovered within an intact combustion structure may also be termed in situ.
+Following this possibly overstrict criterion for the existence of fire technology,
+some of the oldest intact combustion structures that have been described in the field
+and supported with micromorphological and geochemical identification of burned
+materials are the Amudian (400–200 ka BP) hearths in Qesem Cave, Israel (Barkai et
+al. 2003; Karkanas et al. 2007). In the upper deposits of this site, intact combustion
+structures composed of calcitic wood ashes are accompanied by burned bones and
+heated lithic artifacts. The recently reported burned materials in ∼1.0 mya deposits in
+Wonderwerk Cave, South Africa (Berna et al. 2012) are significantly older than the
+combustion structures at Qesem Cave. However, the ash layers and burned bones
+identified in Wonderwerk Cave are not associated with intact structures.
+The Qesem Cave and Wonderwerk Cave studies, like numerous other Paleolithic
+projects, utilize the technique of micromorphology to identify the by-products of
+burning and to determine whether these by-products are in situ or reworked by human
+activity or natural processes (Karkanas et al. 2007). Micromorphology is one of a
+number of analytical approaches that fall under the category of “microarchaeology”
+(sensu Weiner 2010). The most common of these approaches with applications in the
+study of combustion features are summarized in Table 1. In fact, a critique of the
+sparse evidence for controlled fire in the Lower Paleolithic (e.g., James et al. 1989),
+as well as more recent skepticism over the ubiquitous presence of intact hearths in
+Middle Paleolithic sites in Europe (e.g., Perlès 1981; Sandgathe et al. 2011), help to
+account for the development and growing adoption of microarchaeological techniques by the Paleolithic archaeological community. The impact of these investigations
+includes a proliferation in the types of combustion-related behaviors recognized in
+archaeological sites, a greater understanding of the different phenomena that influence the morphology and composition of combustion features (Table 2), and a strong
+bias in research efforts towards the earliest periods of human history.
+The following text outlines the microarchaeological criteria that, in conjunction
+with field-based observations, are crucial to the identification of combustion structures and burned materials in secondary position. The aim of this paper is to
+highlight the types of information that can be generated when one applies a
+microarchaeological approach to Paleolithic and later archaeological records; these
+methods are currently underused in research on Epipaleolithic and Mesolithic sites
+and their African and New World equivalents. Discussion includes published
+observations from sites dating primarily to the Pleistocene and Early Holocene,
+as well as later periods, as appropriate; sites located in both the Old and New
+Worlds; and experimental and ethnographic studies. Examples from later periods
+are provided, as appropriate. Specialized fire technologies that become widespread
+in the Holocene in association with agriculture or urbanization, such as the regular
+burning of animal dung in caves, human cremations, metallurgy, ceramic production, lime processing, or the use of permanent constructed features (“fire installations”; sensu Crawford 1981) including kilns and ovens, are not included in this
+article. The large number of cited Middle Paleolithic or Middle Stone Age cases
+represents a concentration of interest in fire technology during these periods. The
+technique of micromorphology is also emphasized over other approaches due to its
+widespread use and versatility.
+
+Description
+
+The analysis of intact and oriented
+archaeological sediments mounted
+on thin sections using an optical
+petrographic microscope at low to
+moderate magnifications (×2–500).
+Additional types of equipment
+include flatbed scanners and
+fluorescence microscopes.
+
+The analysis of loose sediment
+samples mounted on glass slides
+using a mounting medium or liquid
+(e.g., Canada balsam, Entellan
+New®, or clove oil) and cover slip.
+Additional types of equipment
+include sieves, an optical
+petrographic microscope, and
+centrifuge (for processing
+phytolith samples).
+
+Measurement of the percent
+reflectance of charred organic
+materials mounted on thin sections
+or in resin-impregnated and
+polished sample blocks.
+
+Analytical technique
+
+(Archaeological)
+micromorphology
+
+Grain mount
+analysis
+
+Reflectance
+petrography
+
+To determine the temperature
+of burning of organic materials
+and to identify phases such
+as chars and gels.
+
+Identifying alternative fuel
+sources such as coal
+
+Determining the temperature
+of combustion of charcoal
+
+Useful for
+
+Observing the presence
+of secondary salts
+
+To quickly determine the composition Useful for
+of a sediment or certain particle
+Identifying ashes
+size fraction of a sediment.
+Identifying phytoliths
+Analyses can be conducted
+Identifying microscopic
+in the field.
+fragments of charcoal
+
+Identifying postdepositional
+chemical alteration of burned
+materials
+
+Identifying the mechanism and
+degree of postdepositional
+reworking of burned materials
+
+Determining whether ash and
+charcoal layers are in situ using
+microfacies analysis
+
+Braadbaart and Poole
+2008; Ligouis 2006;
+Taylor et al. 1998
+
+Albert and Weiner 2001;
+Albert et al. 2000, 2012;
+Elbaum et al. 2003;
+Matthews 2010;
+Weiner 2010,
+
+Arpin et al. 2002; Courty
+et al. 1989; Goldberg
+et al. 2009
+
+Useful for
+
+To study the composition, fabric
+and structure of archaeological
+sediments and features.
+Identifying calcitic ashes,
+phytoliths and microcharcoal
+
+References
+
+Application to the study
+of combustion features
+
+Purpose
+
+Table 1 Microarchaeological methods for the description and interpretation of combustion features and their contents
+
+Microarchaeological Approaches…Combustion Features
+619
+
+The analysis of weight percent
+calcium or magnesium carbonate
+using acid digestion and
+measurement of the volume
+of CO2 produced. Requires a
+
+Carbonate
+equivalents
+
+To determine the abundance
+of calcium or magnesium
+carbonate in a sediment
+or sieved sedimentary grain
+size fraction.
+
+To identify and describe
+histological structures
+and color in thin section.
+
+The analysis of latitudinal
+cross-sections of bones using
+petrographic methods.
+
+Histomorphometry
+
+Determining the abundance
+of the calcitic fraction of wood
+ashes that are present
+in a mixed deposit (barring
+
+Useful for
+
+Determining the temperature
+of burning of bone
+
+Useful for
+
+Identifying the conditions
+and temperature of burning
+
+Identifying deposits that derive
+from multiple burning events,
+reworked deposits, and
+weathered materials
+
+Identifying the types of plants
+that were used as fuel
+or cooked in a fire
+
+Useful for
+
+Dreimanis 1962
+
+Squires et al. 2011
+
+Asouti 2003; Boardman
+and Jones 1990;
+Goldberg et al. 1994;
+Théry-Parisot et al. 2010
+
+To determine the genus and species
+of plant remains. To identify
+the plant parts that are present
+in a site or feature. To quantify
+diversity and fragmentation
+of plant assemblages.
+
+The identification of botanical
+remains in archaeological sites.
+Additional types of equipment
+include a flotation device and
+a low-magnification stereomicro
+scope. Analyses may also be con
+ducted on materials in thin section.
+
+Macrobotanical and
+microbotanical
+analyses and
+anthracology
+
+Observing the crystal habits
+of diagenetic minerals
+
+Observing the grain
+morphologies of wood ashes
+and determining the degree
+of dissolution (surface etching)
+or recrystallization
+
+Courty et al. 1989
+
+Useful for
+
+To observe grain morphologies
+and surface textures. Especially
+useful for viewing clay-sized
+sedimentary components.
+Basic elemental composition
+and compositional mapping.
+
+The analysis of loose sediments,
+thin sections, or resin-impregnated
+sample blocks at moderate
+to high magnification
+(×50–5,000).
+
+Scanning electron
+microscopy
+
+References
+
+Application to the study
+of combustion features
+
+Purpose
+
+Description
+
+Analytical technique
+
+Table 1 (continued)
+
+620
+Mentzer
+
+To determine the mineralogical
+composition of archaeological
+sediments. To identify changes
+to the crystal structure of materials
+that result from heating. Analyses
+of loose samples can be conducted
+in the field.
+
+To determine the elemental
+composition of sediments
+or materials. To observe
+the distribution of individual
+elements within a defined
+2-D area.
+
+The identification of major and
+trace elements present in sediments
+mounted on thin sections,
+or resin-impregnated
+sample blocks.
+
+Electron microprobe,
+EDAX, and μ-XRF
+
+Purpose
+
+The identification of molecular
+bonds in powdered sediment
+samples, in sediments mounted
+on thin section, or in
+resin-impregnated sediment blocks.
+
+Chittick apparatus
+or Dietrich-Früling calcimeter.
+
+Description
+
+FTIR and μ-FTIR
+
+Analytical technique
+
+Table 1 (continued)
+
+Determining the chemical
+composition of diagenetic
+minerals and sediments identified
+in thin section
+
+Useful for
+
+Distinguishing between ash
+and natural calcite
+
+Determining the burning
+temperatures of clay minerals
+
+Determining the burning
+temperatures of bone
+fragments
+
+Distinguishing between
+stained and charred bone
+
+Determining the mineralogy
+of materials identified in thin
+section (μ-FTIR)
+
+Identifying the by-products
+of postdepositional chemical
+alteration of ash deposits
+
+Useful for
+
+additional silt-sized sources
+of carbonate)
+
+Application to the study
+of combustion features
+
+Courty et al. 1989; Mentzer
+and Quade in press;
+Sherwood 2008
+
+Berna et al. 2007; Chu
+et al. 2008; Goldberg
+and Berna 2010; Karkanas
+et al. 1999, 2002; Regev
+et al. 2010; Schiegl
+et al. 2003; Shahack-Gross
+et al. 1997; Thompson
+et al. 2009; Weiner
+et al. 1993
+
+References
+
+Microarchaeological Approaches…Combustion Features
+621
+
+To identify fatty acids and
+their relative abundances.
+
+Lipid analysis
+
+Measurements of the lipid
+composition of sediment samples.
+Requires a gas chromatography
+mass spectrometer.
+
+To identify mineralogical
+changes within sediment
+that occur as a result
+of heating.
+
+Magnetic susceptibility
+Measurements of the relative
+and magnetic mineralogy degree of different types
+of magnetization of sediment
+are paired with mineralogical
+analysis to identify the
+magnetic phases.
+
+To calculate the ratios
+Measurement of the relative
+abundances of the isotopes of oxygen of 18O to 16O (δ18O;
+normalized to a standard)
+and carbon in loose sediments
+and 13O to 12O (δ13C;
+and samples drilled from
+normalized to a standard).
+resin-impregnated sediment
+blocks. Requires a mass
+spectrometer.
+
+Stable oxygen and carbon
+isotope analysis
+
+Purpose
+
+Description
+
+Analytical technique
+
+Table 1 (continued)
+
+Identifying organic residues
+derived from cooking or the
+burning of animal
+and plant tissues
+
+Useful for
+
+Distinguishing between
+rubification due to heating
+and rubification due to
+other processes
+
+Identifying burned sediments
+
+Useful for
+
+Identifying C3
+and C4 plant ashes, temperature
+of burning and degree
+of recrystallization of ashes
+
+Kedrowski et al. 2009;
+March et al. 1989, 1993
+
+Aitken 1978; Herries 2009;
+Herries and Fisher 2011;
+Herries et al. 2007;
+Latham and Herries 2004
+
+Mentzer and Quade in press;
+Shahack-Gross et al. 2008;
+Shahack-Gross
+and Ayalon 2012
+
+Useful for
+Identifying of the calcitic
+fraction of ashes in highly altered
+or cemented deposits
+
+References
+
+Application to the study
+of combustion features
+
+622
+Mentzer
+
+Microarchaeological Approaches…Combustion Features
+
+623
+
+Table 2 Archaeological expression of combustion features—some factors that influence the morphology,
+composition, internal organization, and structuring
+Factor
+
+Archaeological expression
+
+Phase 1: before combustion
+Location of combustion space
+
+Position of the combustion area with respect to other activity areas,
+structures, or boundaries of the site (e.g., cave walls or entrance)
+
+Substrate composition
+
+Variably heat-altered anthropogenic materials, geogenic sediments,
+or bedrock
+
+Substrate shape; modified
+or natural
+
+Shape of the feature in profile and plan; nature of the contact between
+combustion by-products and substrate; exploitation of bedrock
+morphology
+
+Size of combustion area
+
+Shape of the feature in profile and plan
+
+Fuel choice
+
+Morphology and composition of charred and calcined combustible
+materials (plants, bone, coal), presence/absence of phytoliths,
+composition of noncombustible inclusions, production of charcoal
+versus ash
+
+Phase 2: during combustion
+Hearth maintenance activities
+Fuel additions
+Tending/redistribution of fuel
+
+Size, shape, and intensity of burning
+High volume of burned material
+Intensity of burning
+Shape of the feature in profile and plan
+Vertical and lateral distribution of burned elements
+
+Combustion area function
+
+Presence of nonfuel materials
+
+Light/heat
+
+Toss zone
+
+Cooking
+
+Food remains (bone, char, shell, seeds)
+
+Refuse disposal
+
+Heated lithic artifacts and debitage
+
+Heat treatment/tool manufacture
+Oxygen availability
+
+Ratio of charcoal to ash
+
+Low
+
+High ratio of charcoal to ash
+
+High
+
+Low ratio of charcoal to ash
+
+Phase 3: extinction
+Loss of fuel
+
+Complete combustion
+
+Extinction by water
+
+Incomplete combustion
+
+Low ratio of charcoal to ash
+High ratio of charcoal to ash
+Water-related redistribution
+Grain size sorting
+Cementation or dissolution
+Loss of oxygen
+
+Incomplete combustion
+
+Smothering with sediment
+
+Incomplete combustion
+
+High ratio of charcoal to ash
+High ratio of charcoal to ash
+Burned sediment on top of partially combusted materials with
+sharp contact?
+
+624
+
+Mentzer
+
+Table 2 (continued)
+Factor
+Wind
+
+Archaeological expression
+Incomplete or rapid combustion
+Aeolian reworking/textural sorting
+Winnowing
+High ratio of charcoal to ash
+
+Removal of burning materials
+
+Charred or calcined materials distributed over a wide area
+with contact heat alteration of other materials
+
+Phase 4: after combustion
+Human activities
+
+Reworking, alteration of feature morphology
+
+New fire built directly atop old
+combustion structure
+
+Stacked combustion features; thick, microlaminated ash layers
+
+Hearth cleaning
+
+Loose, unstratified ash deposits; rake-out deposits; truncation
+of combustion features in profile
+
+Trampling
+
+Compaction, planar voids, in situ breakage (crushing and
+snapping) of bone and charcoal
+
+Construction of bedding areas
+
+Dispersal of combustion by-products, mixture with bedding
+materials
+
+Reworking/erosion
+
+General mixing of burned and unburned materials, loss
+of combustion area morphology and internal stratigraphy
+
+Water
+
+Laminations, textural sorting, graded bedding, lag deposits,
+ash dissolution/cementation
+
+Insect or animal bioturbation
+
+Channel, chamber, crumb, or granular microstructures; fecal
+pellets; burrows and passage features
+
+Wind
+
+Winnowing/removal of silt-sized materials, lag deposits
+
+Colluvial processes
+
+Laminations, textural sorting, shearing
+
+Cryoturbation
+
+Fragmentation of burned materials; development of lenticular,
+platy, or granular microstructure
+
+Burial
+
+Combustion features or deposits buried by anthropogenic, geogenic,
+or biogenic materials
+
+Plant growth
+
+Development of channel microstructure, formation of calcitic
+hypocoatings
+
+Moisture
+
+Diagenesis
+
+Low pH
+
+Dissolution of carbonate, volume loss
+
+High pH
+
+Dissolution of silicates, ash recrystallization
+
+Carbonate-saturated water
+
+Petrification or cementation, loss of porosity due to development
+of void infillings
+
+Phosphatic solutions
+
+Isovolumetric replacement of ash by secondary phosphatic
+minerals and crusts
+
+The first section describes the materials that are produced from the combustion of
+wood and other fuels and the types of information they may provide regarding fuel
+selection, temperature, and duration of burning. The second section explores the three
+most important lines of evidence that suggest that combustion occurred within an
+archaeological site: intact hearths, reworked burned materials, and indirect evidence
+
+Microarchaeological Approaches…Combustion Features
+
+625
+
+Fig. 1 Prior to combustion, plant tissues contain calcium oxalate crystals. Following combustion, ashes
+contain aggregates of micritic (<4 μm) calcite crystals that are pseudomorphic after the original calcium
+oxalates
+
+for burning. The third section investigates the postdepositional chemical alterations
+that impact the three types of deposits in both open-air sites and cave environments.
+Differential impacts of postdepositional dissolution, as well as other taphonomic
+factors, result in a strong bias towards the recovery of burned materials in cave sites.
+Finally, the fourth section outlines the microscopic and geochemical features that, in
+well-preserved sites, are indicative of specific combustion-related hominin behaviors.
+
+The By-Products of Combustion
+At their most basic level, hearths arise from the interaction of a substrate (typically
+bedrock or sediment), a fuel source (typically wood or dry plant material), and a
+source of ignition. The by-products of burning shared by all combustion features are
+the heat-altered remnants of the original fuel source. In most hearths, these remnants
+consist of ash and charcoal.
+According to Canti (2003), ash that forms as a result of burning dry plant material2
+contains three main components. The first component is calcium carbonate, which
+forms as pseudomorphic aggregates of micritic (<4 μm) crystals after the rhombic calcium
+oxalate and carbonate crystals that are naturally present in plant tissues (Fig. 1). The
+second component is siliceous phytoliths or slag. The third component is soluble salts,
+charcoal fragments, and other materials that were present on or in the plant tissues prior
+to burning. Rarely, other minerals, such as anhydrite, may be present in ash, depending
+on the nature of the fuel source (Shahack-Gross and Finkelstein 2008).
+Fresh, pure ash is whitish in color when viewed in recent hearths. This white color
+is attributed to both the siliceous and calcitic components (Canti 2003). Other
+variations in color result from inclusions, such as fragments of charcoal, which
+2
+
+Other types of ash, such as fly ash or volcanic ash, are not considered here.
+
+626
+
+Mentzer
+
+contribute black particles and an overall grayish appearance to the sediment. According to experiments conducted by Wattez (1988, 1992), different burning intensities
+can produce color variations in fresh wood ash. Wattez reports that moderate-intensity
+burning produces yellow- or brown-colored ashes, while high-intensity heating
+produces more typical gray or white ashes. Wattez also notes that these color differences are not frequently reported in archaeological settings (Wattez 1992).
+The three main components of ash are not visible to the naked eye. Consequently,
+methods of observing ash components include high-magnification analyses of loose
+samples. In the field, white sediments may be identified as ash using grain mounts
+viewed with a light microscope. In the laboratory, resin-impregnated or carbon-coated
+sediment samples can be viewed at low to high magnification using petrographic and
+scanning electron microscopes.
+At magnifications of ×100–400, one can see that wood ash is composed primarily of
+silt-sized grains of calcite crystal aggregates that exhibit rhombic, triangular, or lozengelike morphologies, depending on the orientation of the thin section (Fig. 2). These
+characteristic shapes and compositions result from the alteration of calcium oxalate
+druses present in plant tissues to micritic (<4 μm) calcite during burning (Fig. 1; see
+also Brochier and Thinon 2003, Figs. 1 and 2; Canti 2003, Fig. 3; and Shahack-Gross
+
+Fig. 2 Wood ash composition is dominated by calcium carbonate. a This grain mount of fresh wood ashes
+(Chilean mesquite; Prosopis chilensis) contains individual grains composed of aggregates of micritic calcite
+crystals with typical rhombic (grey arrow) or triangular (white arrow) morphologies. Experimental sample,
+cross-polarized light (XPL). b Individual calcitic druses aligned in anatomical position illustrate the
+relationship between the pseudomorphic crystal aggregates and the original oxalate-bearing plant structures. Experimental sample in grain mount, XPL. c In 30-μm-thick petrographic thin sections, two or more
+individual rhombs may be stacked in one position, although a single rhomb is visible here within a void
+(white arrow). Archaeological sample from Asıklı Höyük, Turkey in thin section, XPL
+
+Microarchaeological Approaches…Combustion Features
+
+627
+
+and Ayalon 2012, Fig. 2). In some studies, the rhombic grains composed of micritic
+crystal aggregates that are present in ashes are described using the acronym POCC for
+“pseudomorphose d’oxalate de calcium en calcite” (Brochier and Thinon 2003, p.
+1212). Other grains may source from primary calcium carbonates present in plant
+tissues (Canti 2003). Grains or aggregates of micrite may be naturally present in
+archaeological sediments. For example, calcareous loess may be a primary component
+of the silt-sized particle fraction, while some forms of postdepositional precipitation can
+produce secondary silt-sized calcitic crystal aggregates. However, the morphologies
+described above and in Figs. 1 and 2 are unique to plant ashes. Ashes in archaeological
+sites are regarded as the most direct evidence of the use of fire by Schiegl et al. (1996,
+p. 764). The presence of rhombic micrite in archaeological sediments is frequently
+attributed to the burning of woody plants and shrubs. However, despite early attempts
+at classification (e.g., Wattez 1988), more specific correlations between ash morphology and different types of wood have not been found (Canti 2003; Simpson et al.
+2003). Recent work by Shahack-Gross and Ayalon (2012) suggests that other properties of ashes, specifically their stable oxygen and carbon isotopic compositions,
+may be useful for distinguishing between C3 and C4 plant fuels.
+The siliceous component of ashes, likewise visible only above ×100, is composed
+of phytoliths or their altered products (Fig. 3). Unlike rhombic micrite aggregates,
+phytoliths can provide information about the fuel source if they have not been
+significantly altered by heating or chemical degradation (Albert et al. 2000). Phytolith
+analyses may reveal not only the genus of the plant, but also the portion of the plant
+that was burned. In addition, certain types of plants—particularly grasses and sedges
+—produce significantly more phytoliths than calcite after burning (Albert and Weiner
+2001; Miller and Sievers 2012). However, some plant species and tissue types, in
+particular woody tissues, do not contain phytoliths (Tsartsidou et al. 2007). When
+phytoliths are present in ashes, their analyses can be paired with micromorphology
+for a much better understanding of fuel choices over the short and long terms (Albert
+et al. 2012). Of course, phytoliths may enter archaeological sites as a result of
+hominin activities unrelated to combustion, such as in the form of decomposed mats
+or bedding (Wadley et al. 2011). Heated phytoliths are distinguished from unheated
+ones by measuring the refractive index of the silica (Elbaum et al. 2003). The
+analyses of Cabanes et al. (2010) of phytoliths in association with combustion
+features at Esquilleu Cave demonstrate the importance of using refractive index
+measurements to assess the degree of phytolith heating. In this example, the measurements revealed that wood and bark phytoliths in the combustion features were heated,
+while nearby grass phytoliths were not. This distinction suggested that there were at
+least two different cultural sources of phytoliths to the sediment—fuel and organic
+artifacts. Unfortunately, high temperatures can partly or completely melt phytoliths,
+although the resulting phytolith slags or glasses can be recognized by their negative
+relief in thin section, isotropy in cross-polarized light (XPL), white–gray color in
+oblique incident light, and the presence of internal vesicles (Fig. 3b, c; Canti 2003;
+Folk and Hoops 1982; Macphail and Crowther 2007; Zerboni 2011). Following
+postdepositional alteration of ashes, phytoliths may also weather into amorphous
+materials described as siliceous aggregates (Schiegl et al. 1996). These materials are
+also a component of fresh ashes (Schiegl et al. 1994). Although they can be by-
+
+628
+
+Mentzer
+
+Fig. 3 Phytoliths comprise the
+siliceous fraction of ashes.
+Although visible in thin section,
+these materials are best identified
+in grain mounts of loose sediment. Burned phytoliths are
+identified by color (Parr 2006)
+and refractive index (Elbaum
+et al. 2003). a Grain mount of
+phytoliths in association with
+calcitic ashes at the Neolithic site
+of Aşıklı Höyük, Turkey; PPL.
+b Phytolith slag from the site of
+Üçağızlı I, Turkey in thin section. The vesicles in this material
+contain air bubbles; PPL.
+c Phytolith slag from the site of
+Üçağızlı I, Turkey in thin section
+(same view as above). The
+siliceous material is isotropic
+in XPL
+
+products of burning, it is important to understand that siliceous aggregates alone are
+not reliable proxies for combustion activities.
+
+Microarchaeological Approaches…Combustion Features
+
+629
+
+Ash preservation in archaeological sites depends on both the depositional environment
+and postdepositional processes. Ashes are seldom preserved in open-air Paleolithic sites.
+They are most frequently encountered in the sheltered, alkaline environments typical of
+caves (Canti 2003). Loose, rhombic micrite aggregates and phytoliths are easily
+transported by water and wind. Thus, protected locations (such as caves), or rapid
+burial, contribute to ash recovery in excavation. Preservation of ashes also depends
+on the amount and chemistry of the water flowing through the sediments. In open-air
+sites, ashes near the ground surface may be dissolved by rainwater, which typically
+has a pH of 5.6 or lower (Drever 1997). At depth, the pH of infiltrating rainwater and
+groundwaters is variable and dependent on soil and sediment composition. The
+calcitic fraction of ashes preserves best in alkaline environments, while the siliceous
+fraction preserves best in neutral to slightly acidic environments. When very fresh
+ashes react with water, rapid dissolution of soluble salts produces highly concentrated
+localized groundwater solutions and soil pH as high as 9–13 and 11, respectively (Etiégni
+and Campbell 1991; Ulery et al. 1993). These conditions can contribute to the
+chemical breakdown of phytoliths and the preservation of the majority of the calcitic
+fraction of ashes (Albert et al. 2012; Karkanas et al. 2000). Extremely arid sedimentary environments are conducive to the preservation of both calcitic and siliceous
+components of ash because water is unavailable to act as a solvent on the materials.
+Sediment texture also promotes or hinders the preservation of ashes. Because
+sand- or gravel-rich sediments are typically highly porous, they permit the rapid
+infiltration and throughflow of groundwater. Mechanical removal of ashes and,
+depending on the groundwater pH, dissolution may occur rapidly in these sediments.
+Clay-rich sediments tend to preserve ashes by preventing rapid water and particle
+movement. For example, the waterlogged and stagnant clay-rich sediments in the
+submerged Epipaleolithic campsite of Ohalo II are reported to contain preserved
+ashes (Tsatskin and Nadel 2003).
+Charcoal (Fig. 4) is another major by-product of the combustion of plant material.
+Unlike ashes, large fragments of charcoal are visible to the naked eye and can be used
+to identify burned deposits encountered during excavation. At low and moderate
+magnification, charcoal is black in color, opaque in plane-polarized, cross-polarized,
+Fig. 4 Charcoal forms as a result of incomplete combustion of
+woody tissues. Microphotograph
+of charcoal in thin section from
+the Neolithic site of Aşıklı
+Höyük, Turkey. Visible orientations include cross-sections and
+the longitudinal plane; PPL
+
+630
+
+Mentzer
+
+and oblique incident light, and morphologically resembles wood or plant tissue,
+although tissues and cells may be distorted. According to geochemical studies, archaeological wood charcoal is composed of carbon exhibiting a graphite-like organized
+phase and a nonorganized phase. The proportions of the two phases are determined by
+wood species, burning temperature, and diagenesis (Cohen-Ofri et al. 2006).
+Under low oxygen conditions, the production of charcoal is favored over ash
+(Braadbaart and Poole 2008; Boardman and Jones 1990; Cohen-Ofri et al. 2006;
+Wattez 1988). Charcoal also dominates when wood combustion is halted by smothering or dousing with water (Braadbaart and Poole 2008; Wattez 1988). In experimental settings, well-ventilated hearths that are tended to ensure that all fuel reaches
+the center of the fire generally produce little charcoal and abundant ashes (Mentzer
+and Manne, unpublished data). Thus, one may regard abundant charcoal as evidence
+that combustion was less than complete.
+The occurrence of charcoal in a feature or scattered within archaeological sites also
+depends on the fuel type and preservation conditions as well as the conditions of
+combustion (Boardman and Jones 1990; Cohen-Ofri et al. 2006; Théry-Parisot et al.
+2010). Like phytoliths, well-preserved whole and sectioned charcoal fragments can
+be studied at low magnification to determine which types of plants were selected as
+fuel. Nonwoody plants, such as cereals, are composed of different tissues that
+carbonize at different rates, according to fire temperature (Boardman and Jones
+1990). The burning temperature of wood charcoal of known taxonomy and tissue
+density may be estimated using reflectance petrology (Braadbaart and Poole 2008).
+Carbon reflectance, (%R) is measured on a resin-impregnated and polished sample
+block. If the species is unknown, the structural properties of the sample may be only
+generally suggestive of burning temperature since charcoal fragments with wellpreserved wood structures are produced under low temperature (<1,000 °C) conditions (Braadbaart and Poole 2008). Reflectance petrology also distinguishes between
+decayed plant material and true charcoal and allows the identification of the charcoal
+type. For example, at Sibudu, this technique identified fusinite or inertodetrinite types
+of charcoal, which form as a result of incomplete burning (Taylor et al. 1998; Ligouis
+2006; Goldberg et al. 2009), as well as secritinite, which possibly forms when plantderived resins are heated (Ligouis 2006).
+Charcoal can be susceptible to postdepositional factors. With time, the graphitelike phase of charcoal degrades via oxidation into humic substances, a process that is
+accelerated in alkaline environments (Cohen-Ofri et al. 2006). However, relative to
+wood ashes, charcoal is more chemically stable under a variety of archaeological
+settings. Thus, charcoal can become enriched relative to other combustion byproducts under certain conditions of preservation, resulting in a bias in the interpretation of hearth function (Wattez 1988).
+Less common archaeological by-products of burning may include plant-derived
+resins and gels (Berna and Goldberg 2008), as well as carbonaceous, phosphatic, or
+metallic compounds (Courty et al. 2010). Fuel was not necessarily limited to wood,
+even in Paleolithic times. Alternative or supplemental fuels are thought to include
+bone (Costamagno et al. 2005; Mentzer 2009; Théry-Parisot 2002; Théry-Parisot et
+al. 2005), coal (Théry et al. 1996), and possibly liquid hydrocarbon (Courty et al.
+2010) in some cases. In the field, burned bone is identified by colors that range from
+black to white, depending on the intensity of burning (Stiner et al. 1995). Importantly,
+
+Microarchaeological Approaches…Combustion Features
+
+631
+
+Fig. 5 Burned bones in a matrix
+of wood ashes from an open-air
+context at the Classical Greek
+site of Mt. Lykaion range in color
+from black (B) to gray (G) in
+XPL, indicating both charring
+and calcination. One bone fragment (N) is not burned. The
+groundmass of this sediment is
+comprised of the calcitic fraction
+of wood ashes; thin section
+
+burned bone may persist in sediments long after all primary wood ash disintegrates.
+In thin section, lightly burned bone (Fig. 5) has an orange color in plane polarized
+light (PPL), fully charred bone has a black color in PPL (charred bone), and calcined
+bone is colorless in PPL paired with dulled interference colors in XPL (Courty et al.
+1989, 2010; Karkanas et al. 2007; Schiegl et al. 2003; Squires et al. 2011). Burned
+bone fragments may be associated with a vitreous, vesicular substance termed “bone
+char” (Clark and Ligouis 2010; Goldberg et al. 2009) or “fat-derived char” (Miller,
+unpublished; Miller et al. 2009). The use of alternative fuels and rare by-products
+may be studied using a combination of zooarchaeological and statistical methods
+(e.g., Costamagno et al. 2009) or specialized microscopic, molecular, and elemental
+techniques, such as coal petrography, X-ray diffraction, and X-ray fluorescence
+(XRF) (e.g., Courty et al. 2010). Finally, the use of gas chromatography mass
+spectrometry to identify organic residues, including lipids, is more common in
+analyses of archaeological ceramics, but also has applications to the study of hearth
+sediments (e.g., Kedrowski et al. 2009; March et al. 1989, 1993).
+Fig. 6 A fragment of chert
+heated under experimental conditions. Heated flints and other
+types of fire-cracked rocks are
+sometimes used as indirect evidence for burning in archaeological sites. Fire-cracked rock
+fragments have also been
+reported in thin sections from
+archaeological deposits
+(Villagran et al. 2011a)
+
+632
+
+Mentzer
+
+Rare compositional elements of combustion features include burned lithic artifacts
+or raw materials (Fig. 6), burned food residues (including bone and shell), burned
+discarded materials and other “casual fuels” (van der Veen 2007), burned soil
+aggregates, and rubified guano. Archaeological interpretations of such inclusions
+vary as to the degree intentionally attributed to their presence. Studies of rare hearth
+inclusions can nevertheless provide information about hearth function, age, fuel
+source, or temperature of burning. Burned lithic artifacts or bones may result from
+construction of a hearth atop or near knapping or butchery areas (e.g., Alperson-Afil
+et al. 2009; Stiner et al. 1995). Flints heated in this manner may be dated using the
+thermoluminescence technique. Construction of a hearth atop a biogenic substrate or
+beneath bat or bird roosts can likewise result in the production of rubified guano (e.g.,
+Macphail and Goldberg 2000). Microarchaeological studies reveal that the minerals
+present in burned guano vary according to the temperature of heating. For example, in
+Gorham’s Cave, the chemical state of organic matter within rubified guano found in
+association with burned sediments was used to evaluate the maximum temperature
+reached within the feature (Macphail and Goldberg 2000). Burned soil or sediment
+aggregates, like those found in sites such as Qesem and Sibudu (Karkanas et al. 2007;
+Goldberg et al. 2009), likely are produced when mineral matter enters fires with the
+fuel (Berna and Goldberg 2008). If radically different in texture or mineralogy from
+the geogenic sediments in the site, these aggregates may reveal information about the
+source of fuel brought to the site and its type (i.e., shrubby rather than woody
+vegetation). Identification of burned seeds can inform archaeologists about the types
+of plants growing near the site, the plants exploited as fuel, and in larger quantities,
+the plants that were consumed on-site during certain seasons or used for other
+purposes (see also Théry-Parisot et al. 2010). Lastly, burned food items may indicate
+the use of a fire for cooking (e.g., Gale and Carruthers 2000) or refuse disposal. Study
+of these burned materials may reveal information about subsistence and routine
+domestic activities that were conducted on-site (van der Veen 2007). Molecular
+changes that occur at certain temperatures in several types of food refuse can also
+provide additional information about hearth burning conditions. For example, the inorganic mineral component of bone tissue changes its molecular structure at known temperatures (Hiller et al. 2003; Rogers and Daniels 2002; Shipman et al. 1984), a
+phenomenon that has been exploited in archaeological samples from sites, such as
+Kebara Cave, Wonderwerk Cave, and Pech de l’Azé IV, to reconstruct temperature
+and degree of bone burning (e.g., Berna and Goldberg 2008; Berna et al. 2012;
+Dibble et al. 2009) (Fig. 7). Likewise, experimental studies indicate that the degree of
+calcination of burned mollusk shells and the presence of altered morphological
+features provide information about temperature of heating (Godino et al. 2011;
+Villagran et al. 2011a, b).
+
+The Identification of Burning in the Archaeological Record
+Intact Combustion Structures
+In archaeological excavation, the presence of three primary components—rubified
+sediment or fire-cracked rock, charcoal, and ash—is used to identify intact combustion
+
+Microarchaeological Approaches…Combustion Features
+
+633
+
+0.14
+0.12
+0.10
+0.08
+
+Absorbance
+
+0.06
+0.04
+0.02
+
+200oC
+0.00
+
+400oC
+
+-0.02
+
+600oC
+
+-0.04
+
+700oC
+-0.06
+
+800oC
+2200
+
+2000
+
+1800
+
+1600
+1400
+1200
+Wavenumbers (cm-1)
+
+1000
+
+800
+
+600
+
+Fig. 7 Infrared analyses of burned bones yield information about burning temperature. Here, attenuated
+total reflectance FTIR spectra of bones heated at different temperatures exhibit characteristic peaks (see also
+Thompson et al. 2009). At 600 °C, peaks at 1,088 and 631 cm−1 appear. Experimental sample of pig bone
+(Sus scrofa) heated in a kiln and ground following a standardized procedure after Surovell and Stiner (2001)
+
+structures or hearths (Fig. 8). The quantities of these three materials vary, depending
+on the nature of the substrate, the environment and duration of combustion, and the
+postdepositional alteration. The latter two materials, as discussed above, are direct byproducts of burning, while rubified sediment or cracked rock are a consequence of
+substrate composition and exposure to heat.
+Detailed and numerous macroscale and microscale descriptions of typical hearths
+come from the exceptionally well-studied site of Kebara Cave (Albert et al. 2012;
+Bar-Yosef et al. 1992; Goldberg 2001; Goldberg and Bar-Yosef 1998; Meignen et al.
+2001, 2007; Schiegl et al. 1996). In Kebara, Middle Paleolithic combustion structures
+are generally lenticular in cross-section and located atop a flat or concave surface.
+When a geogenic substrate is present, the sediment is burned and rubified (Meignen
+et al. 2001, 2007; Schiegl et al. 1996). Charcoal-rich layers (3–5 cm in thickness) are
+generally found at the base of each individual feature, while ash-rich layers (5–15 cm
+thickness) are present at the top (Albert et al. 2012; Meignen et al. 2001, 2007). In
+thin section, the charcoal layers are composed of a mixture of charcoal and ash, while
+the ash layers are composed of rhombic micrite and phytoliths exhibiting variable
+states of preservation (discussed further in the succeeding paragraphs). In addition,
+many features contain multiple superimposed and paired layers of charcoal overlain
+by ash, resulting from several phases of reuse of the space (Meignen et al. 2001,
+2007). Although single charcoal–ash couplets are typically interpreted as the remnants of one burning event (Goldberg and Sherwood 2006), some combustion
+structures in Kebara Cave contain very thick layers of ashes (up to 45 cm) above a
+comparably thick layer of charcoal. Meignen et al. (2007) interpret these features as
+evidence for multiple burning events within one feature.
+
+634
+
+Mentzer
+
+Fig. 8 A sequence of rubified sediment overlain by charcoal and ash visible in profile is indicative of an
+intact combustion structure (unprepared or lenticular substrate). Prehistoric archaeological sites contain
+many different types of combustion features that differ in morphology and composition from the typical
+structure illustrated in a. Depending on the composition of the substrate and the degree of burning, single
+events can produce combustion structures composed of rubified sediment overlain by charcoal and ash (a),
+charcoal overlain by ash (b), pure ash (c), or rubified sediment overlain by ash (not pictured). Multiple
+burning events in the same location result in stacked features containing superimposed lenses of rubified
+sediment, charcoal, and ash (b, e, h) or combinations thereof. Hearth cleaning activities produce ash
+dumping features that vary in composition from pure ash (i) to ash mixed with charcoal (f) to a mixture of
+ash, charcoal, and sediment (c). The identification of these features in the field is further complicated by
+postdepositional processes. Distinguishing between a laterally reworked or bioturbated stack of ashy
+hearths (h) and a dumped ash feature (i), for example, can be difficult in the field, as large pseudocarbonized plant structures and preserved plant tissues unique to (h) and high porosity more typical of (i) can only
+be observed at microscale
+
+The typical sequence of rubified earth overlain by charcoal and ash has been replicated
+in some burning experiments (Miller et al. 2009; Wattez 1992). In partnership with
+microscopic confirmation of burned materials, this sequence has become the fossil
+directeur for a hearth. Hearths of this type have been documented in numerous
+archaeological sites ranging in age from Middle Paleolithic to recent (e.g., BarYosef et al. 1992; Goldberg 2003; Goldberg and Bar-Yosef 1998; Goldberg et al.
+2009, 2012; Homsey and Capo 2006; Karkanas 2001; Karkanas and Goldberg 2010;
+Macphail and Goldberg 2000; Mallol et al. 2010; Meignen et al. 2001; Rigaud et al.
+1995; Wadley 2012; Wattez 1994; see also Tables 3, 4, 5, and 6). In some sites,
+rubified earth, charcoal, and ashes have been documented only in macroscale but are
+consistent with features that have been studied using microscopic techniques (e.g.,
+Akazawa and Sakaguchi 1987). In other cases, the absence of these three materials
+in sequence, or in any context, has been used to argue against intentional combustion
+at certain archaeological sites (e.g., Zhoukoudian Cave; Goldberg et al. 2001; Weiner
+
+Microarchaeological Approaches…Combustion Features
+
+635
+
+Table 3 Middle Paleolithic and Middle Stone Age (Pleistocene) sites with evidence for combustion
+confirmed by micromorphological analyses
+Site
+
+Location
+
+References
+
+Spain
+
+Courty et al. 2010; Pastó et al. 2000;
+Vallverdú et al. 2005
+
+Type 1: Intact hearths
+Abric Romani (rockshelter)
+Gorham’s Cave
+
+Spain
+
+Macphail and Goldberg 2000
+
+Grotte XVI (cave)
+
+France
+
+Karkanas et al. 2002; Rigaud et al. 1995
+
+Hayonim Cave
+
+Israel
+
+Goldberg 1979; Goldberg and Bar-Yosef 1998
+
+Kebara Cave
+
+Israel
+
+Albert et al. 2000; Bar-Yosef et al. 1992;
+Berna and Goldberg 2008;
+Meignen et al. 1989, 2001, 2007
+Karkanas et al. 2004
+
+Klissoura Cave
+
+Greece
+
+Lakonis Cave
+
+Greece
+
+Karkanas 2002
+
+Melikane Shelter
+
+Lesotho
+
+Stewart et al. 2012
+
+Pech de l’Azé IV (cave)
+
+France
+
+Dibble et al. 2009; Goldberg and Berna 2010
+
+Pinnacle Point site PP13B (cave)
+
+South Africa
+
+Karkanas and Goldberg 2010
+
+Qafzeh (Cave)
+
+Israel
+
+Berna and Goldberg 2008
+
+Roc de Marsal (cave)
+
+France
+
+Goldberg et al. 2012
+
+Sibudu (rockshelter)
+
+South Africa
+
+Goldberg et al. 2009; Schiegl and Conard 2006
+
+Üçağızlı II Cave
+
+Turkey
+
+Mentzer 2011
+
+Vanguard Cave
+
+Spain
+
+Macphail and Goldberg 2000
+
+Type 2: Reworked combustion materials
+(A) Anthropogenic reworking
+Kebara Cave
+
+Israel
+
+Bar-Yosef et al. 1992; Goldberg 2001;
+Meignen et al. 2007
+
+La Quina (rockshelter)
+
+France
+
+Mentzer, unpublished personal observation
+
+Lakonis Cave
+
+Greece
+
+Elefanti et al. 2008
+
+Pech de l’Azé IV (cave)
+
+France
+
+Dibble et al. 2009; Goldberg et al. 2012
+
+Sibudu Rockshelter
+
+South Africa
+
+Goldberg et al. 2009
+
+(B) Bioturbation
+Amud Cave
+
+Israel
+
+Madella et al. 2002
+
+Grotte XVI (cave)
+
+France
+
+Rigaud et al. 1995
+
+Hayonim Cave
+
+Israel
+
+Goldberg and Bar-Yosef 1998
+
+Kebara Cave
+
+Israel
+
+Meignen et al. 2007
+
+Sibudu (rockshelter)
+
+South Africa
+
+Goldberg et al. 2009
+
+Tabun Cave
+
+Israel
+
+Albert et al. 1999
+
+Üçağızlı II Cave
+
+Turkey
+
+Mentzer 2011
+
+(C) Natural reworking (e.g., transport by water or wind, cryoturbation or pedoturbation)
+Die Kelders Cave
+
+South Africa
+
+Esquilleu Cave
+
+Spain
+
+Goldberg 2000
+Mallol et al. 2010
+
+Hohle Fels Cave
+
+Germany
+
+Goldberg et al. 2003; Miller, unpublished
+
+Kebara Cave
+
+Israel
+
+Goldberg 2001
+
+Obi-Rakhmat (rockshelter)
+
+Uzbekistan
+
+Mallol et al. 2009
+
+636
+
+Mentzer
+
+Table 3 (continued)
+Site
+
+Location
+
+References
+
+Tabun Cave
+
+Israel
+
+Albert et al. 1999
+
+Vanguard Cave
+
+Spain
+
+Macphail and Goldberg 2000
+
+Israel
+
+Berna and Goldberg 2008
+
+(D) Unspecified reworking
+Qafzeh Cave
+Type 3: Presence of combustion
+Pinnacle Point site PP13B (cave)
+
+South Africa
+
+Karkanas and Goldberg 2010
+
+Tabun Cave
+
+Israel
+
+Albert et al. 1999
+
+et al. 1998) or in favor of postdepositional modifications of the burned materials (see
+also Tables 3, 4, 5, and 6).
+Of the three materials typical of intact hearths, the basal rubified sediment layer is
+most variable in its expression. “Oxidation of iron minerals” is an oft-cited cause of
+substrate rubification. According to Canti and Linford (2000) who described this
+process, brown- or yellow-colored iron oxide minerals, such as goethite, are typically
+present in sediments. Upon heating, these minerals transform to hematite, which is
+bright red in color. However, under certain burning conditions, iron oxides transform to
+other minerals. For example, under reducing conditions, brown or black maghemite can
+form. In addition, some substrates are composed of sediments or materials that do not
+contain iron. These substrates are theoretically unlikely to rubify upon heating.
+Canti and Linford (2000) explored the process of sediment rubification and the
+effects of in situ burning on different types of substrates. They reviewed previously
+published experiments and observations of natural fires and found that, at several
+centimeters depth within an assortment of substrates, temperatures varied widely (from
+∼100 to ∼500 °C), depending on the composition of the substrate and the duration of
+burning. In their own subsequent experiments, Canti and Linford documented substrate
+temperatures of more than 400 °C beneath fires exceeding 800 °C. Despite these high
+temperatures, only one of the three different test substrates exhibited rubification upon
+cooling. Within this substrate, Canti and Linford observed that the thickness of the red
+zone remained the same no matter the duration of burning (ranging from 6 h to 4 days).
+They hypothesize that rubification occurs only in sediments of a certain composition
+(determined in particular by the minerals present, organic material, and moisture content).
+However, when compositional requirements are met, the color change can be quite
+dramatic. Other experimental studies yield contradictory results. For example, following
+replication of the various types of prepared and unprepared burning surfaces at the site of
+Pincevent, March et al. (2010) observed visible differences in the rubified and
+blackened substrates, including a relationship between the thickness of the rubified
+zone and the duration of burning. Actualistic studies of prepared burning surfaces
+conducted by Homsey and Sherwood (2010) documented shifts in color in cave
+sediments following mixture with water and firing. In their experiments, four of five
+surfaces became darker and redder, while the fifth became lighter in color with no
+rubification. The archaeological significance of these findings is that reddening is
+
+Microarchaeological Approaches…Combustion Features
+
+637
+
+Table 4 Upper Paleolithic (Pleistocene) sites with evidence for combustion confirmed by micromorphological analyses
+Site
+
+Location
+
+References
+
+Abric Romani (rockshelter)
+
+Spain
+
+Vallverdú 2002
+
+Etoilles
+
+France
+
+Wattez 1994
+
+Gorham’s Cave
+
+Spain
+
+Macphail and Goldberg 2000
+
+Kebara Cave
+
+Israel
+
+Bar-Yosef et al. 1992
+
+Klissoura Cave
+
+Greece
+
+Karkanas 2010; Karkanas et al. 2004
+
+Pincevent
+
+France
+
+Wattez 1994
+
+Type 1: Intact hearths
+
+Theopetra (cave)
+
+Greece
+
+Karkanas 2001
+
+Üçağızlı I Cave
+
+Turkey
+
+Goldberg 2003; Mentzer 2011
+
+Verberie
+
+France
+
+Wattez 1994
+
+Type 2: Reworked combustion materials
+(A) Anthropogenic reworking
+Hohle Fels Cave
+
+Germany
+
+Goldberg et al. 2003; Miller, unpublished;
+Schiegl et al. 2003
+
+Kebara Cave
+
+Israel
+
+Meignen et al. 2007
+
+Klissoura Cave
+
+Greece
+
+Karkanas 2010
+
+Üçağızlı I Cave
+
+Turkey
+
+Goldberg 2003; Mentzer 2011
+
+Gorham’s Cave
+
+Spain
+
+Macphail and Goldberg 2000
+
+Klissoura Cave
+
+Greece
+
+Karkanas 2010
+
+Üçağızlı I Cave
+
+Turkey
+
+Goldberg 2003; Mentzer 2011
+
+Verberie
+
+France
+
+Wattez 1994
+
+(B) Bioturbation
+
+(C) Natural reworking (e.g., transport by water or wind, cryoturbation or pedoturbation)
+Etoilles
+
+France
+
+Wattez 1994
+
+Hohle Fels Cave
+
+Germany
+
+Miller, unpublished
+
+Kebara Cave
+
+Israel
+
+Goldberg and Bar-Yosef 1998
+
+Pincevent
+
+France
+
+Wattez 1994
+
+Theopetra (cave)
+
+Greece
+
+Karkanas 2001
+
+Üçağızlı I Cave
+
+Turkey
+
+Goldberg 2003; Mentzer 2011
+
+(D) Unspecified reworking
+Geißenklösterle (cave)
+
+Germany
+
+Goldberg and Berna 2010; Miller, unpublished
+
+Klissoura Cave
+
+Greece
+
+Karkanas et al. 2004
+
+Micromorphological studies of Upper Paleolithic combustion features are not conducted as frequently as at
+Middle Paleolithic sites, perhaps due to the identification of hearths in these sites (e.g., the Abri Pataud)
+using visibly prepared substrates or rock linings that are readily observable in the field
+
+dependent on both substrate composition and burning conditions and that the thickness of the rubified zone cannot be consistently correlated with hearth function.
+At microscale, rubification and other heat-induced alterations to the substrate are
+also variable. According to experiments conducted by Wattez (1992), microscopic
+features, such as cracking of sedimentary aggregates and rock fragments, and
+
+638
+
+Mentzer
+
+Table 5 Later Stone Age, Epipaleolithic, Natufian, Mesolithic, Paleoindian, and Archaic (Paleoamerican)
+sites with evidence for combustion confirmed by micromorphological analyses (these types of sites are
+generally Late Pleistocene to Early Holocene in age)
+Site
+
+Location
+
+References
+
+Dust Cave
+
+USA
+
+Homsey and Capo 2006; Sherwood 2001, 2008;
+Sherwood and Chapman 2005
+
+Mesolithic Site 16-D-4
+
+Sudan
+
+Zerboni 2011
+
+Mesolithic Site 16-D-5
+
+Sudan
+
+Zerboni 2011
+
+Type 1: Intact hearths
+
+Type 2: Reworked combustion materials
+(A) Anthropogenic reworking
+Dust Cave
+
+USA
+
+Homsey and Capo 2006; Sherwood 2001, 2008
+
+Lapa das Bolieras (rockshelter)
+
+Brazil
+
+Araujo et al. 2008
+
+Mesolithic Site 16-D-4
+
+Sudan
+
+Zerboni 2011
+
+USA
+
+Sherwood 2001, 2008
+
+(B) Bioturbation
+Dust Cave
+Kitulgala Beli-lena (rockshelter)
+
+Sri Lanka
+
+Kourampas et al. 2009
+
+Lapa das Bolieras (rockshelter)
+
+Brazil
+
+Araujo et al. 2008
+
+Mesolithic Site 16-D-5
+
+Sudan
+
+Zerboni 2011
+
+(C) Natural reworking (e.g. transport by water or wind, cryoturbation or pedoturbation)
+Dust Cave
+
+USA
+
+Kitulgala Beli-lena (rockshelter)
+
+Sri Lanka
+
+Sherwood 2001
+Kourampas et al. 2009
+
+Lapa das Bolieras (rockshelter)
+
+Brazil
+
+Araujo et al. 2008
+
+USA
+
+Mentzer, unpublished data
+
+Type 3: Presence of combustion
+Sierra Diablo Cave
+
+masking of clay birefringence occur only beneath moderate-intensity fires (350–500 °C).
+Rubification and development of a granular microstructure occur as a result of highintensity fires (>500 °C). These features may or may not be present in archaeological
+sites. Mallol et al. (2007) reported both masked and higher clay birefringence beneath
+ethnographic fires, the former attributable to the presence of finely divided charcoal
+mixed into the sediment. Moreover, they also observed that hearth substrates that
+appeared rubified in the field were either indistinguishable from natural soils or only
+slightly rubified in thin section.
+Finally, the identification of heat-induced rubification is controversial due to other
+processes that can produce red deposits within sites. For example, in Pech de l’Azé
+IV Layer 8, rubified sediments are present; however, Dibble et al. (2009) are cautious
+in their interpretation of these materials as burned due to the presence of hematite in
+unburned sediments within the cave. In the nearby site of Pech de l’Azé II, as well as
+the sites of Üçağızlı I and Zhoukoudian, red sediments naturally occur in deposits
+above the cave entrances (Goldberg 1979, 2003; Goldberg et al. 2001) and colluvial
+processes may contribute to their incorporation into the archaeological deposits.
+
+Microarchaeological Approaches…Combustion Features
+
+639
+
+Table 6 Ethnoarchaeological and experimental studies of combustion features paired with micromorphological analyses.
+Site
+
+Location
+
+References
+
+Type 1: Intact hearths
+Experimental wood fires
+
+France
+
+Wattez 1988
+
+Experimental wood fires
+
+Germany
+
+Miller et al. 2009
+
+Experimental wood fires
+
+Argentina
+
+Godino et al. 2011;
+Villagran et al. 2011b
+
+Experimental burned bedding
+
+South Africa
+
+Miller and Sievers 2012
+
+Hadza village fires
+
+Tanzania
+
+Mallol et al. 2007
+
+Maasai village fires
+
+Kenya
+
+Shahack-Gross et al. 2004
+
+Yamana fires associated with shellfish processing
+and consumption
+
+Argentina
+
+Villagran et al. 2011a
+
+Experimental dumped and trampled deposits
+
+Germany
+
+Miller et al. 2009
+
+Yamana fires associated with shellfish processing
+and consumption
+
+Argentina
+
+Godino et al. 2011;
+Villagran et al. 2011a
+
+Argentina
+
+Godino et al. 2011;
+Villagran et al. 2011a
+
+Experimental ash production of different fuels
+at various temperatures using a muffle furnace
+
+Iceland
+
+Simpson et al. 2003
+
+Experimental heating and petrography of shells
+and whale bone
+
+Argentina
+
+Godino et al. 2011;
+Villagran et al. 2011a, b
+
+Type 2: Reworked combustion materials
+(A) Anthropogenic reworking
+
+(B) Bioturbation
+Yamana fires associated with shellfish processing
+and consumption
+Type 3: Presence of combustion
+
+Lastly, rubified layers of postdepositional chemical origin have been documented at
+Grotte XVI (Karkanas 2010; Karkanas et al. 1999, 2002).
+In some sites, an alternative to the basal rubified substrate is an intentionally
+prepared combustion surface or hearth lining. Middle Paleolithic hearths are typically
+built atop unmodified surfaces, although the shallow lenticular profiles observed in
+Mousterian layers of Kebara Cave may be indicative of limited surface preparation
+(Meignen et al. 2001, 2007). However, Mallol et al. (2007) observed that a similar
+profile results from ash removal during hearth maintenance. In the Middle Paleolithic
+of Europe, hearth preparation is likewise limited to the construction of a lenticular
+basin or exploitation of naturally flat or basin-shaped surfaces (e.g., Abric Romani;
+Pastó et al. 2000; Vallverdú et al. 2012). Abric Romani levels J and K contain the
+only examples of block-lined Middle Paleolithic hearths (Pastó et al. 2000) and levels
+J and O contain features interpreted as prepared hearth substrates (Courty et al. 2010).
+In the Middle Stone Age rockshelter site of Sibudu, hearths are constructed atop flat
+or concave surfaces or on roof block surfaces (Wadley 2010). Rock-lined or paved
+hearths (a.k.a. fireplaces) appear regularly in the Eurasian Upper Paleolithic and
+
+640
+
+Mentzer
+
+become especially common in later periods. These features allow the ready identification of burning areas in open-air sites such as Kostenki (Grigor’ev 1993), where
+other combustion by-products are not consistently preserved.
+Manufactured hearth substrates are very rare in the Paleolithic but common in
+some later periods. Paleolithic examples are reported in the Aurignacian layers of
+Klissoura Cave, where dozens of hearths are lined with red clay that was collected
+and brought into the site (Karkanas et al. 2004). The clay linings were hardened by
+the fires built within them or by embers that were transferred into them from other
+fireplaces. Early prepared clay burning surfaces are reported in the Americas at
+Monte Verde (Quivira and Dillehay 1988) and at the Archaic sites of Ice House
+Bottom and Dust Cave, the latter studied at high resolution using micromorphology
+(Sherwood 2001, 2008; Sherwood and Chapman 2005). These features exhibit
+compositions and textures that distinguish them from the natural substrates in the
+archaeological layers of the same sites. In Dust Cave, the hardness of the clay appears
+to correlate with the temperature of the fire or the duration of burning, factors that
+may relate to the function of the combustion feature. Textile impressions and very
+thin ash crusts on the clay surfaces provide additional information on the mode of
+preparation and sweeping after or during use (Sherwood and Chapman 2005).
+Micromorphological studies of the layers of charcoal and ash within hearths have
+also revealed variability in thickness and expression due to burning conditions and
+combustion-related activities. Experimental studies have produced different types of
+sequences. Burning experiments conducted by Miller et al. (2009) produced typical
+clear sequences of rubified sediment overlain by charcoal and ash. On the other hand,
+Wattez (1992) documented some variability in the morphology and color of the
+charcoal and ash layers that formed in experimental fires. This variability occurred
+as a function of burning intensity. In her experiments, moderate-intensity fires
+produced basal layers of carbonized organic material overlain by upper layers of
+charcoal mixed with ash, while high-intensity fires produced upper layers composed
+of pure ash.
+Charcoal is not the only source of black material in archaeological sediments.
+Although combustion structures at some sites exhibit blackened basal layers, micromorphology reveals that these layers contain fine sediment that is enriched in plantderived organic material (Mallol et al. 2007; Goldberg et al. 2012) or organic material
+mixed with blackened bone (Dibble et al. 2009). At Pinnacle Point site PP13B,
+Karkanas and Goldberg (2010) observe some black layers that contain charcoal and
+burned bones, while others contain only humified organic material. Finally, as
+described above, burning under reducing conditions can lead to the formation of
+brown or black iron-bearing minerals that in the field may be confused with charcoal.
+Other studies suggest that the charcoal layers in hearths may be thin or, in some
+cases, absent. In Hayonim Cave, for example, some combustion structures are
+composed of bedded ashes atop bedded ashes mixed with burned terra rossa (Berna
+and Goldberg 2008, Fig. 2d). In Klissoura Cave, some Upper Paleolithic clay-lined
+hearths contain only ash (Karkanas 2010). At Pech de l’Azé IV, clear charcoal layers
+were not observed within the portions of the Layer 8 combustion sequence that were
+analyzed using micromorphology, despite the fact that charcoal layers were encountered during excavation and charcoal samples were analyzed using paleobotanical
+methods (Dibble et al. 2009). In ethnographic settings, development of charcoal beds
+
+Microarchaeological Approaches…Combustion Features
+
+641
+
+beneath ash is also inconsistent. Mallol et al. (2007) reported that intact Hadza
+hearths contain only ashes mixed with variably carbonized materials exhibiting
+preserved cellular structures. Some archaeological sites contain exceptionally thick
+ash layers over comparatively thin layers of charcoal. Karkanas et al. (2004, 2007)
+speculated that such thick ash layers can form from the continuous use of fires,
+especially when coupled with low geogenic sedimentation rates. Based on experimental calculations, the substantial ash deposits that are present in some Near Eastern
+sites could form as a result of several years of continuous combustion of wood
+(Schiegl et al. 1996).
+When rubified sediments and charcoal layers are absent, other characteristics present
+within ashes can confirm that combustion structures are intact. In Kebara Cave, for
+example, Meignen et al. (2001) used fragile layers of unbroken phytoliths within
+thick combustion sequences to identify individual structures that were not reworked.
+Stewart et al. (2012) also reported ashy deposits containing articulated phytoliths and
+intact leaf structures in the Middle Stone Age site of Melikane Rockshelter. Karkanas
+et al. (2007, p. 208) likewise used the “wavy internal fabric” of certain ash lenses in
+Qesem Cave to further support stratigraphic indications that they are intact. In Hadza
+hearths, Mallol et al. (2007) observed aligned clay intercalations within the intact ash
+layers, which they interpreted as undisturbed clays that were present within the plants
+prior to burning (Mallol et al. 2007, Fig. 10b). Other features present in intact ash
+layers include materials that Wattez (1988, p. 361 and Fig. 11) described as “residues
+brun noir” or “residues gris.” These materials, which exhibit morphologies consistent
+with plant tissue in thin section, preserve a stage of combustion during which charcoal
+is incompletely converted to ash. Mallol et al. (2007, pp. 2038–2039) described this
+stage of plant burning as “pseudocarbonization,” and the features visible in thin
+section as “pseudocarbonized wood.” In consideration of the fact that the term
+“pseudocarbonized” is misleading as to the dual calcitic and carbonized composition
+of the material, it is proposed here that the phrase “partially carbonized tissues” be
+used to describe such features in the future. In Dust Cave, plant tissue pseudomorphs
+are composed entirely of ash and are termed “articulated ash” (Sherwood 2001, p.
+130; 2008). Like the pseudocarbonized wood structures of Mallol et al., these
+features can exhibit the original fabric of the wood tissues. Courty et al. (1989, Figs.
+34 and 35) observed similar structures in layer 9 of Grotte Vaufrey and interpreted them
+as burned fragments of plant stems or leaves. Here, these features will be described as
+“articulated ashes,” a phrase modified from Sherwood (2001, 2008) that acknowledges
+the presence of multiple micritic crystal aggregates in anatomical position.
+Articulated ashes and partially carbonized tissues generated under experimental
+conditions (Fig. 9) are exceptionally fragile. These features are thus ideal for assessing the preservation of ash layers. Mallol et al. (2007) observe “pseudocarbonized
+wood,” “ash bundles,” and “carbonized and calcitic cells in anatomical position” in
+thin sections of intact Hadza hearths. In one hearth, they state that preservation is
+“excellent, as shown by the undisturbed position of the plant cells in the ash” (Mallol
+et al. 2007, p. 2041). These observations extend to archaeological settings. Homsey
+and Capo (2006) state that, in Dust Cave hearths, “calcitic pseudomorphs indicate
+minimal transport or disturbance.” Shahack-Gross et al. (2008, Fig. 6c) document
+“pseudomorphic cellular structures after woody tissue” that are present in cemented and
+laminated ash deposits at Amud Cave, later interpreted as intact hearths. Karkanas
+
+642
+
+Mentzer
+
+Fig. 9 Articulated ashes and carbonized tissues are indicative of intact ash deposits. a Photograph of two
+partially burned Chilean mesquite (P. chilensis) sticks that exhibit exceptionally fragile structures composed
+of charcoal, intermediate “pseudocarbonized”(sensu Mallol et al. 2007) or partially carbonized phases, and
+calcitic ash. b Photomicrograph of a grain mount of the partially carbonized phase from the lower stick;
+XPL. c Photomicrograph of a grain mount of articulated ashes from the upper stick. Informal agitation
+studies suggest that these multimillimeter structures would not frequently survive hearth sweeping or
+dumping episodes unless ash layers were previously cemented. Further work must be done to quantify these
+effects; XPL. d Articulated ashes and partially carbonized tissues in a thin section from a variably cemented
+ash layer in the archaeological site of Üçağızlı I; XPL. e Reworked and cemented articulated ashes and
+partially carbonized tissues in a thin section from the site of Üçağızlı II. The rounded edges of this sandsized fragment are indicative of mechanical abrasion. The surrounding matrix is ashy material mixed with
+geogenic materials; XPL
+
+Microarchaeological Approaches…Combustion Features
+
+643
+
+(2010, Fig. 10) identifies “calcitic cellular pseudomorphs after plant tissues” in
+hearths in Klissoura Cave. Finally, these features are present in two early sites with
+evidence for burning. In situ ash lenses at Qesem Cave contain articulated ashes and
+partially carbonized tissues (Karkanas et al. 2007, Figs. 5b, 10, and 12b); not
+surprisingly, intact hearths are rare in relation to disturbed ash deposits in this early
+site. The ash deposits at Wonderwerk Cave also contain “ashed plant material” (Berna
+et al. 2012, Fig. 3). In sum, although archaeological, experimental, and ethnographic
+studies demonstrate that intact hearths are compositionally variable, many different
+types of microscopic features may be used to assess their degree of preservation.
+Other microscopic features suggest partial erosion or alteration of otherwise intact
+structures. The most common types of alteration features, especially prevalent in
+caves, include discontinuous layers or secondary minerals formed in situ (Goldberg
+2000). In Pinnacle Point site PP13B, Karkanas and Goldberg (2010) interpret layers
+of burned bone and charcoal without overlying ash as intact combustion structures. In
+this locality, secondary carbonate recrystallization and dissolution have negatively
+impacted the preservation of ashes. Similar sequences are present in Sibudu, although, here, ashes are sometimes locally preserved (Goldberg et al. 2009). At this
+site, charcoal layers are exceptionally thick, while rubified substrates are also present,
+but very thin. In Melikane Rockshelter, ashes are partially dissolved and locally
+recrystallized; however, articulated phytoliths observed within burned features suggests that they are intact (Stewart et al. 2012). The causes and types of postdepositional dissolution processes implicated by such sequences are discussed further in the
+succeeding paragraphs.
+Reworked Combustion Materials
+Some sites contain burned materials in secondary position (“type 2” of Tables 3, 4, 5,
+and 6). These materials indicate that burning likely took place somewhere within the
+site, either within a documented intact structure or elsewhere. The site of Tabun
+highlights the necessity of using microarchaeological techniques to assess the integrity of combustion features. In Tabun Level C, features composed of alternating
+layers of black, brown, and white sediment. At <50 cm diameter, these features
+resemble hearths in cross-section, but features visible at microscale indicate reworking to a degree that the original depositional mechanism is unknown (Albert et al.
+1999). These results suggest that the presence of multicolored laminations in the field
+is not unambiguous evidence for intact hearths. Reworking of burned materials can
+range from movement on the order of millimeters to multiple meters and can occur as
+a result of geological processes, animal activity, or human activity. The macroscopic
+and micromorphological identification of naturally or biologically reworked deposits
+is discussed here, while case studies, in particular those concerning human modification during combustion-related activities, are detailed in later sections.
+In the field, reworked combustion materials are identified primarily by the
+absence of the tripartite sequence of rubified sediment, charcoal, and ash
+described above, as well as by the mixing of burned and unburned materials
+(Fig. 10a; Schiegl et al. 2003). Other features indicative of reworking are visible only
+at the microscale (Fig. 10b). These include rounding or mechanical abrasion of
+burned materials or sedimentary fabrics such as laminations, long-axis alignment,
+
+644
+
+Mentzer
+
+Fig. 10 Reworking by natural processes. a Reworked burned materials in a thin section from the Ahmarian
+layers at Üçağızlı I. This deposit contains rounded, reworked aggregates of geogenic materials, including
+red clay and silt (R) and cemented red clay and silt (Rc) mixed with materials sourced from combustion
+structures, including charcoal (Ch), and aggregates of ashes (A), one of which contains a fragment of bone
+(b) and partially carbonized wood tissue (p). The matrix of this sample is partially cemented red silt and
+clay mixed with wood ashes. Macroscale features of the layer are indicative of colluvial transport; XPL. b
+Reworked fragment of charcoal within a thin section from a water-lain deposit at the site of La Quina. The
+matrix is sorted and laminated quartz, carbonate, and glauconite sands sourced from the local limestone
+bedrock; PPL
+
+and textural sorting, including microscopic graded bedding. Laminated burned materials have been reported from the site of Lapa das Bolieras, where they are interpreted
+as secondary reworking by water (Araujo et al. 2008). In Kebara Cave, sorted and
+rounded fragments of charcoal are present within laminated and sandy deposits
+(Goldberg 2001). In the field, such features are often termed “stringers.” Stringers
+can be indicative of reworking by water or wind. Stringers of burned bone and/or
+charcoal have been identified within Die Kelders Layer 7 (Goldberg 2000). In Dust
+Cave, stringers of charcoal are sorted and graded. These textural features, in combination with ash depletion, suggest reworking by water (Homsey and Capo 2006;
+Sherwood 2001). Slight reworking of burned materials by low-energy water movement has also been documented experimentally by Villagran et al. (2011b) and at the
+Paleolithic sites of Etiolles and Pincevent (Wattez 1994). In the sites of Obi-Rakhmat
+and Esquilleau Cave, reworking of burned materials by local spring water is additionally evidenced by visible redoximorphic features and clotted calcite (Mallol et al.
+2009, 2010).
+Other natural postdepositional reworking processes that impact hearths include
+colluvial movement, cryoturbation, and pedoturbation. Colluvial deposits are distinguished from water- or wind-lain sediments by their heterogeneous compositions,
+erosive lower boundaries, and lack of textural sorting (see also Fig. 10a). In some
+depositional environments, colluvial reworking is also evidenced by grain rounding
+and coating (Miller, unpublished). Colluvial reworking of burned materials is a
+common occurrence throughout the sequence at Üçağızlı Cave I (Mentzer 2011).
+Within the Üçağızlı I deposits, colluvial layers in places truncate intact hearths and
+contain rounded aggregates of cemented ashes mixed with geogenic sediments.
+Cryoturbated sediments are identified in thin section by several characteristic
+features. These include aggregated microstructures in which coarse materials are
+coated by clay and silt, platy microstructures, or postdepositional porosity increases
+
+Microarchaeological Approaches…Combustion Features
+
+645
+
+relative to the original deposit, depending on the sediment texture. Cryoturbated
+combustion features have been identified at the sites of Hohle Fels and Esquilleau
+Cave. In Hohle Fels, cryoturbated layers are identified by the presence of coated bone
+fragments and rounded, sand- and silt-sized fragments of burned bone mixed with a
+small amount of ashes (Goldberg et al. 2003; Miller, unpublished; Schiegl et al.
+2003). In Esquilleau Cave, Mallol et al. (2010) describe deposits that have been
+reworked by a combination of cryoturbation, spring activity, and carnivores.
+Some postdepositional movements obscure the original fabrics but do not significantly impact the position of materials. For example, mild gravitational settling of
+fine burned materials is present in the thin sections of features from Pech de l’Azé IV
+with postdepositional movement occurring over distances of millimeters to centimeters (Dibble et al. 2009). In addition, Mallol et al. (2007) report that the dominant
+types of voids in well-preserved, intact hearths are packing voids, which are empty
+spaces between particles. Therefore, the presence of larger voids or higher sediment
+porosity within archaeological hearths may be indicative of some postdepositional
+disturbance. Sherwood (2008, p. 37) terms materials that have been reworked within
+the original locality of combustion as “mixed burned deposits.”
+Fine-scale, local reworking can also arise from the movements or feeding activities
+of insects and other small animals (Fig. 11). These processes have impacted combustion features at many archaeological sites. Bioturbation has locally dispersed
+burned materials in Amud Cave (Madella et al. 2002). At Verberie, postdepositional
+bioturbation resulted in excremental fabrics, fragmentation of burned materials,
+homogenization of formerly layered combustion by-products, and mixing of burned
+anthropogenic materials with natural materials (Wattez 1994). In Tabun Cave level C,
+bioturbation has resulted in channels, pellets, and very localized mixing of combustion materials (Albert et al. 1999). In Üçağızlı I Cave, insect activity has differentially
+impacted the ash and charcoal layers of intact, stacked combustion structures. While
+ash layers preserve internal laminated fabrics and contain articulated ashes and
+partially carbonized tissues, the charcoal layers exhibit crumb structures and high
+porosities that are indicative of postdepositional reworking. Identification of these
+
+Fig. 11 A bioturbated anthropogenic layer from the site of
+Üçağızlı I contains welded,
+pellet-shaped microaggregates of
+ashes mixed with geogenic red
+clay and silt. The overall porosity
+is higher than intact ash layers,
+laminations are absent, and fragile structures such as partially
+carbonized tissues or articulated
+ashes are not preserved. Thin
+section, PPL
+
+646
+
+Mentzer
+
+features as intact relies entirely on the microscopic characteristics of the ashes
+(Mentzer 2011).
+Bioturbation may also cause extensive homogenization of burned materials. Mixing due to carnivore activity (e.g., the aforementioned deposits at Esquilleu Cave;
+Mallol et al. 2010) can be identified in the field and thin section by the presence of
+coprolites and digested bone fragments. Smaller mammals produce burrows as well
+as homogenized deposits. Infilled burrows may be visible in excavation profiles or
+identified in thin section by higher sedimentary porosity. Insects feed on organic
+material present in the sediment, as well as on other insects. Intense insect activity
+related to feeding can result in the obliteration of all primary depositional fabrics, an
+increase in porosity, and the development of a strong crumb to spongy microstructure.
+In the site of Üçağızlı II, a combination of insect and rodent bioturbation has
+obliterated all primary combustion features in the eastern half of the excavation
+trench, while in Üçağızlı I, insect activity within suspected ash dumps or middens
+prevents further archaeological interpretation (Mentzer 2011). Studies of intact
+hearths at both sites indicate that bioturbation by all types of organisms is hindered
+by postdepositional cementation.
+Indirect Evidence for Burning
+Finally, some archaeological sites or layers contain isolated burned materials; however, the exact locality of burning and relationship to human activity are unknown. At
+the macroscale, burned bones and heated lithic artifacts are the most recognizable
+indirect evidence for burning, although other rare types of burned materials have been
+documented (e.g., Vandiver et al. 1989). In one case study, Stiner et al. (2011) used
+the frequency and intensity of burned bones to identify the presence and horizontal
+distribution of combustion activities in the lowermost layers of Qesem Cave, where
+intact structures or preserved ash are lacking. A similar approach was utilized at the
+sites of Wallertheim A and Tönchesberg 2B (Conard et al. 1998; Adler et al. 2003).
+Likewise, Goren-Inbar et al. (2004) and Dibble et al. (2009) consider burned flints to
+be usable proxies for combustion at sites when postdepositional conditions may have
+negatively impacted the preservation of hearths (c.f. Roebroeks and Villa 2011). In
+the site of Pech de l’Azé IV, for example, intact and semi-intact combustion structures
+are present only in the lowest layers of the site in association with burned lithic
+materials. Above Layer 8, burned flints are present but decrease significantly in
+abundance towards the top of the archaeological sequence. Sandgathe et al. (2011)
+interpret this trend as evidence for a lack of hearths in the upper portion of the
+sequence. In some cases, chert may be intentionally heated in order to influence its
+fracture properties. Therefore, it may be possible to determine if the heating of the
+flints occurred at the site by identifying the stage in the reduction sequence of the
+heated materials. If only finished tools or blanks show evidence of heating, it could be
+argued that heating was intentional and that heat-treated artifacts were preferentially
+transported to the site. On the other hand, if unmodified waste flakes removed during
+the early stages of the reduction sequence have been heat-altered, the alteration is
+likely to have occurred in the vicinity of the knapping area. Refitting of burned and
+nonburned lithic materials may also indicate that heating occurred following knapping on site. Other macroscale heated materials that may be recovered out of primary
+
+Microarchaeological Approaches…Combustion Features
+
+647
+
+context include isolated burned bones, heat-treated wood tools, fragments of charcoal, and faunal and heated rock assemblages associated with grease-rendering.
+In thin section, indirect evidence for burning at or near an archaeological site most
+commonly occurs as microscopic fragments of charcoal (e.g., Angelucci 2003;
+Boschian 1997; Kourampas et al. 2009). In Tabun Cave Level B, charcoal present
+within terra rossa-derived sediments suggests that burning took place at the site
+during their deposition (Albert et al. 1999). However, microscopic charcoal fragments can enter archaeological sites and other types of deposits following nonanthropogenic burning events, such as forest fires (see, for example, Goldberg et
+al. 2001; Théry-Parisot et al. 2010). Heated debitage or bedrock fragments may also
+be identified in thin section. Under magnification, heated chert is identified by the
+presence of microfractures (Angelucci 2003). Similarly heated fragments of limestone bedrock may develop shrinkage cracks and reaction rims when exposed to
+water after burning (Karkanas 2007). Other lines of indirect evidence for combustion
+in thin section include burned bones or burned shell in otherwise unburned sediments
+(Angelucci 2003; Karkanas and Goldberg 2010). Rubified sediments, as discussed
+above, are ambiguous indicators of burning but are sometimes cited as indirect
+evidence of burning. These arguments may be compelling when the color, structure,
+or optical properties of the rubified sediments are significantly different from the
+natural sediment (Angelucci 2003; Courty et al. 1989; Wattez 1992). For example, in
+Kebara Cave, reworked aggregates of rubified terra rossa are distinguished from
+unaltered sediment by their characteristic color and the presence of internal cracks
+(Meignen et al. 2007, Fig. 4.30). In Tabun Level B, stronger birefringence at the
+edges of clay-rich soil aggregates is cited as possible evidence for heating of the
+sediment (Albert et al. 1999; Courty et al. 1989). These observations can be further
+supplemented by other microarchaeological studies. For example, magnetic susceptibility and mineralogy, when paired with micromorphology, have proved useful in
+the identification of heated sediments (e.g., Herries and Fisher 2011). Likewise,
+molecular analyses, such as Fourier transform infrared spectroscopy (FTIR), can be
+used to document the presence of structural changes within certain clay minerals that
+indicate heating to specific temperatures (e.g., Berna et al. 2007).
+
+Postdepositional Chemical Alterations of Intact or Reworked Deposits
+As evidenced by the dominance of cave sites in Tables 3, 4, and 5, most prehistoric
+sites with visible or well-preserved combustion structures are found in caves or
+rockshelters. This bias is due to the fact that hearths in open-air sites are susceptible
+to a greater range of postdepositional modifications such as winnowing by wind,
+transport and dissolution by water, and mechanical alteration by soil fauna. Ethnographic studies support these observations. Mallol et al. (2007) noted that the
+components of open-air fires break down rapidly following abandonment. In a study
+of Maasai hearths and trash pits of varying age, Shahack-Gross et al. (2004) documented vesicular structures indicative of ash dissolution. Their observations suggest
+that dissolution proceeds quickly in open-air sites, with some features appearing
+within a year of abandonment. However, hearths in caves are not immune to chemical
+alteration. Despite highly alkaline groundwater environments, ash dissolution may
+
+648
+
+Mentzer
+
+still occur within limestone cave deposits. In addition, caves are home to a number of
+unique chemical microenvironments that contribute to the alteration or obliteration of
+burned deposits. Finally, some cave systems and rockshelters are formed within
+noncalcareous rock formations, such as sandstone or basalt. In these settings, dissolution can occur rapidly.
+Because wood ashes are composed almost entirely of calcite, decalcification can
+significantly undermine the preservation of ash layers in hearths and reworked
+deposits. Decalcification of ashes has been documented in Paleolithic sites, such as
+the sandstone rockshelter of Sibudu (Goldberg et al. 2009) and the open-air site of
+Verberie (Wattez 1994). Decalcification occurs as a result of acidic conditions or
+flushing of water with low amounts of dissolved calcium carbonate through porous
+sediments. Decalcification can be recognized in the field by loss of volume (Goldberg
+2000) and in thin section by dissolution pedofeatures, such as mammilate edges on
+limestone fragments. Decalcification is a basic soil-forming process that occurs
+within the leached surface horizons of sedimentary deposits and is responsible for
+the breakdown of ashes in most open-air sites (Fig. 12).
+Decalcification features are invaluable for understanding the ancient chemical
+environment in sediments or the conditions of site burial. According to Sherwood
+et al. (2004), decalcification in Dust Cave was more common during periods of less
+intense use of the site. This is because anthropogenic materials, particularly wood ash,
+raise sediment pH acting as primary buffering agents to sediment. Decalcification is
+further slowed by arid conditions or prevented when water entering the sediments is
+already saturated in calcite, as occurs in some limestone caves. Water becomes saturated
+in calcite by dissolving overlying bedrock or carbonate-bearing sediments. If such
+waters off-gas CO2 or evaporate within the combustion deposit, secondary carbonate
+
+Fig. 12 Decalcification and ash dissolution are visible in thin sections from the open-air site of Mt.
+Lykaion (a ritual burned deposit that nevertheless illustrates the taphonomic principles discussed in this
+article). a Here, acidic rainwater infiltration has resulted in ash dissolution and decalcification of limestone
+fragments in the upper 30 cm of the sacrificial ash altar to Zeus. Ashes are only present within cemented
+aggregates (arrow) that have moved upward through the deposit as a result of bioturbation. The upper edge
+of the limestone fragment exhibits a mammilate morphology indicative of dissolution. Sparry calcitic veins
+within the fragment are more resistant to weathering. The remainder of the sediment is rich in sand- and siltsized fragments of charcoal and fragments of calcined bone (B); XPL. b Below 30 cm depth, ashes are well
+preserved and present in association with pedogenic carbonates. This reworked deposit contains numerous
+fragments of limestone and fragments of calcined and burned bone—some containing ashes in their pores
+(arrow), in a matrix of ashes. The crescent shape of the ashes filling the spongy bone pores indicates that
+the bone fragment has not moved from its original place of deposition; XPL
+
+Microarchaeological Approaches…Combustion Features
+
+649
+
+Fig. 13 Secondary carbonate in thin section. a Calcitic pedofeatures formed at depth within the sacrificial
+ash altar to Zeus on Mt. Lykaion include pendants (arrow) on limestone and bone fragments. The calcite
+sources from the dissolution of ash and limestone (see also Fig. 11). Burned bones are also present (B);
+XPL. b Cemented ashes from the site of Üçağızlı I exhibit preserved rhomb-shaped grains in a matrix of
+microsparry calcite. Secondary carbonate fills nearly all of the packing voids that were originally present
+between the ashes. A fragment of partially carbonized tissue is present (arrow). Highly recrystallized ashes
+(not pictured), when present in intact hearths, preserve only their original laminated fabrics, clay intercalations, and larger partially carbonized tissues; XPL
+
+precipitation may also occur (Fig. 13); localized precipitation may result from water
+uptake by plant roots. In many cases, wood ashes are both the source of carbonate to
+the groundwater and loci for secondary carbonate precipitation. At Tabun Cave, for
+example, micromorphology reveals that secondary carbonate precipitation is greatest
+in the white, wood ash-rich layers of Level C (Albert et al. 1999). Calcite cementation
+and recrystallization of ash has been documented at microscale at several sites,
+including Qesem Cave (Karkanas et al. 2007), Sibudu (Goldberg et al. 2009),
+Mesolithic site 16-D-4 (Zerboni 2011), and Amud Cave (Madella et al. 2002), where
+secondary carbonates have replaced the original ash crystal rhombs (Shahack-Gross
+et al. 2008). In Amud Cave, cementation of ashes by secondary carbonate is
+corroborated by geochemical isotopic analyses (Shahack-Gross et al. 2008). In
+Qesem Cave, partially recrystallized wood ashes are identified by preserved micritic
+rhombs in a matrix of microspar and sparry calcite (Karkanas et al. 2007).
+Although recrystallization and cementation can lead to loss of ash morphology and
+fabric, these processes can also contribute to hearth preservation. In Pech de l’Azé IV,
+the thickest deposits of combustion structures are present along the former position of
+the cave’s drip line (Dibble et al. 2009). This arrangement of features may reflect
+intentional positioning of the combustion structures close to the cave entrance.
+Alternatively, calcareous drip waters concentrated near the entrance may have aided
+in preservation of the features by cementing the ashes and preventing their erosion. In
+Üçağızlı II, intact hearths are situated beneath the highest point of the chamber
+ceiling. Whether this spatial arrangement is a consequence of hominin response to
+cave morphology or to a greater abundance of dripping water is presently unknown
+(Mentzer 2011). Finally, in the site of Sibudu, Middle Stone Age humans may have
+exploited certain properties of cemented ashy hearths. Wadley (2010a) postulates that
+gypsum-cemented ashes formed hard surfaces that were used as receptacles for
+powdered yellow and red ochre. This hypothesis is supported by micromorphological
+
+650
+
+Mentzer
+
+and geochemical analyses that indicate that the ochre fragments were not heated, and
+thus, their introduction to the hearths postdated their firing.
+Secondary cementation by carbonates, although conducive to the preservation of ash
+layers, adversely impacts other burned materials. For example, secondary cementation
+has contributed to the fragmentation of charcoal in possible combustion structures in
+Pinnacle Point site PP13B (Karkanas and Goldberg 2010). In the site of Obi-Rakhmat,
+secondary carbonate precipitation within pores has contributed to the mechanical
+weathering of bone (Mallol et al. 2009). As mentioned above, chemical conditions
+that are favorable for the preservation of calcitic ashes may result in the dissolution of
+the siliceous phytolith component. Dissolution of silicates is evidenced in Qesem
+Cave by the lack of both phytoliths and siliceous aggregates and the active precipitation of secondary carbonates in the ash deposits (Karkanas et al. 2007).
+Phosphate-induced dissolution or replacement of the original mineral phases in ash
+and bone by secondary minerals is a well-studied process in Paleolithic caves (Berna
+et al. 2004; Karkanas et al. 1999, 2000, 2002; Mallol et al. 2010; Schiegl et al. 1996;
+Weiner et al. 1993, 2002). The process was first documented in the sites of Hayonim
+and Kebara Caves, the latter of which contains at least 46 Middle Paleolithic hearths
+altered by secondary phosphatization (Schiegl et al. 1996). Similar features have
+since been identified at other sites using a combination of micromorphology and
+mineralogical analyses. For example, some alteration of ashes to dahllite is present in
+the combustion features of Roc de Marsal (Goldberg et al. 2012). This transformation
+is evidenced in thin section by ash layers containing domains of phosphate minerals
+that are characteristically yellow in PPL and isotropic in XPL. In some samples, these
+nodules also contain inclusions of amorphous silica identified using FTIR. Because
+concentrated phosphatic solutions typically come from materials such as bat guano,
+Goldberg et al. (2012) interpret these features, which overlie other, unaltered features,
+as evidence of temporary abandonment of the site. Similar sequences are present in
+Esquilleu Cave (Mallol et al. 2010) and Hohle Fels Cave, where periods of phosphatization appear to indicate not only abandonment of the site, but warm and wet
+climatic conditions (Miller, unpublished).
+Unlike dissolution, secondary mineral replacement of ash helps maintain the original
+internal stratigraphy of the hearth or combustion feature. Therefore, when phosphatization occurs within a classic tripartite sequence of rubified sediment, charcoal, and ash,
+the intact nature of the original deposit can be established (Karkanas 2001). These
+sequences have been identified in sites such as Grotte XVI, Roc de Marsal, Esquilleu,
+Sibudu, Hayonim, and Kebara, where secondary phosphatic minerals (some pseudomorphic after ashes) are present within hearth-like structures containing other combustion by-products such as charcoal, burned lithic materials, and bone (Courty et al.
+1989; Goldberg and Bar-Yosef 1998; Goldberg et al. 2009, 2012; Karkanas et al.
+2002; Mallol et al. 2010). Gypsum, another secondary mineral that forms from
+guano, is precipitated into some intact hearth sequences at Sibudu (Goldberg et al.
+2009). Formation of large crystals results in localized movement of charcoal fragments but otherwise preserves the original stratigraphy. In highly altered features,
+neither the original carbonate nor the secondary phosphate minerals are present, and
+in situ combustion is evidenced by the presence of siliceous aggregates (Schiegl et al.
+1996), as well as other materials such as charcoal and burned bone (e.g., Karkanas
+and Goldberg 2010). Unfortunately, when the tripartite sequence is absent, it may be
+
+Microarchaeological Approaches…Combustion Features
+
+651
+
+more difficult to determine the original depositional fabric from the altered deposit.
+For example, in Tabun Cave Level C, secondary phosphatization has replaced some
+of the calcitic ashes in the generally white stratigraphic units (Albert et al. 1999). As
+phosphatization has obliterated the original fabric of the ashes in this case, it is
+impossible to determine whether the ashes that lend the units their white color are
+in situ or reworked.
+Finally, secondary chemical alteration can result in rubification of clay-sized
+materials or primary geogenic layers within the sequences. In Pech de l’Azé IV,
+some rubification may postdate the deposition of archaeological materials or sediments, as evidenced by the presence of both iron-stained bone fragments and hematite
+in reddish layers (Dibble et al. 2009). In Grotte XVI, rubified layers also result from
+the postdepositional concentration of hematite, perhaps as a result of microbial
+activity (Karkanas et al. 1999; Karkanas 2008, personal communication). These
+features highlight the importance of using additional tools, such as FTIR and FTIR
+microspectroscopy (μ-FTIR) (e.g., Dibble et al. 2009), to evaluate the composition of
+red sediments as well as molecular changes in clay minerals that result from heating.
+
+Microarchaeological Evidence for Hearth Function and Related Behaviors
+Consideration of combustion-related hominin behaviors often focuses on the spatial
+arrangement of hearths with respect to landforms, other archaeological features, and
+activity areas. For example, in Abric Romani, high-resolution study of numerous
+intact combustion structures reveals that the positioning of hearths relative to karstic
+features and other aspects of cave architecture changed through time. The “sleeping
+area” of level N contains few archaeological remains and is associated with wood
+preserved in travertine, which the researchers suggest may represent the remains of a
+structure (Vallverdú et al. 2012). They propose that regularly spaced hearths in this
+area near the wall of the cave were reused multiple times, although this hypothesis is
+supported only by the thickness of the rubified substrate and not by micromorphological evidence. In levels K and L, hearths were also situated in defined areas
+between the wall and drip line of the shelter (Pastó et al. 2000). In Abric Romani,
+intact combustion structures are identified by rubified sediment overlain by mixtures
+of ash and charcoal. Field-based measurements include the diameter of the structure
+and the thickness of the rubification zone. Micromorphological study of some
+combustion features confirms that the ash–charcoal layer results from burning in situ.
+Micromorphology is the most reliable method of confirming the presence of intact
+hearths. However, the technique offers us much more than this, as it can be used to
+identify and study other combustion-related behaviors and materials. These human
+behaviors include choice of substrate and hearth preparation activities, hearth reuse
+and maintenance behavior, and abandonment behaviors, such as trampling. For
+example, the presence of a visible hearth lining generally defines a prepared surface
+in the field. Rock pavers may be identified and studied in hand sample; however, as
+demonstrated at the sites of Klissoura Cave and Dust Cave, clay surfaces are best
+characterized using petrographic methods (Karkanas et al. 2004; Sherwood and
+Chapman 2005) with heating confirmed by FTIR or differential thermal analysis
+(Karkanas 2010). On the basis of different hearth morphologies with or without clay
+
+652
+
+Mentzer
+
+lining, Karkanas et al. (2004) proposed a functional model for the Upper Paleolithic
+prepared hearths at Klissoura Cave involving a main burning area and satellite areas.
+They also suggest that the prepared clay burning surfaces at Klissoura were swept or
+cleaned prior to reuse. The Aurignacian deposits contain reworked burned materials
+that may be related to sweeping and cleaning behaviors. Meignen et al. (2001)
+discuss a similar model for hearth use at Kebara Cave. Supported by micromorphological evidence for repeated hearth reuse and movement of hot coals, Meignen et al.
+(2001) suggest that actively burning fuels were moved throughout the site for various
+purposes. Reuse of hearth features has been documented at other sites, such as
+Vanguard Cave (Macphail and Goldberg 2000). At Vanguard, micromorphology also
+contributed to the study of the unmodified substrate. The presence of intact combustion structures atop a variety of burned substrates at Vanguard Cave was indicative of
+a lack of substrate choice in situating combustion activities in the Middle Paleolithic
+(Macphail and Goldberg 2000).
+Micromorphology is especially useful for identifying hearth maintenance behaviors such as sweeping and dumping or hearth rake-out. These and other activities,
+such as stirring and cooking, have been documented in ethnographic studies. For
+example, Mallol et al. (2007) observed Hadza villagers stirring coals in long-lived
+(3–4 months) sleeping and cooking fires in order to maintain heat and ensure that fuel
+burned to completion prior to renewal of the fire. Periodically, the Hadza would also
+scoop ashes out of long-lived hearths, a behavior that over time produced concave
+depressions at the base of the structures. Cooking fires, unlike fires built for other
+purposes (such as sleeping or tool manufacture), contained organic and inorganic
+residues from food. Although similar types of residues have yet to be recognized in
+archaeological hearths, raking, sweeping, and dumping deposits have been identified
+based on characteristic microscopic composition, fabric, and structure (Table 7); these
+deposits, like overthickened combustion structures, are associated with long-term
+reuse of activity areas.
+Rake-out deposits (Fig. 14a) result from the lateral spreading of burned material
+during combustion (Homsey and Capo 2006) or after cooling (Meignen et al. 2007).
+Rake-out deposits are identified at microscale by the presence of charcoal, ash,
+rubified sediment (when present), and other materials arranged roughly horizontally
+(especially the larger fragments; see Meignen et al. 2007, Fig. 5.A.24), but not
+comprising distinct bands or beds of uniform composition. Nonburned materials
+may also be mixed into the unit. Rake-out deposits exhibit generally high porosity
+relative to intact combustion structures. Homsey and Capo (2006) identify the byproducts of hearth rake-out as thin lenses of charcoal present in the sediments of Dust
+Cave. They state that, unlike ash dumping, the presence of charcoal in the stringers
+indicates that this behavior took place prior to the completion of combustion and
+produced sediments enriched in charcoal relative to ash. In Sibudu, Goldberg et al.
+(2009) identify a homogeneous, burned, and anthropogenic microfacies containing
+charcoal, bone, and phosphate (altered ashes) that they hypothesize formed as a result
+of rake-out or dumping of combusted materials. Indistinct ashy accumulations,
+bedded discontinuous deposits, or centimeter-sized aggregates of ashes mixed with
+charcoal are present in the combustion areas at Kebara Cave. These are likewise
+interpreted as combustion features that have been reworked by human activities such
+as hot coal displacement or cold hearth rake-out (Meignen et al. 2007). Rake-out is
+
+Within a fire
+
+Within and around a fire
+
+Anywhere, often identified within
+or around a fire
+
+Above and around a fire
+
+Away from the fire
+
+Away from the fire and activity areas
+
+Sweeping
+
+Rake-out
+
+Trampling
+
+Bedding
+
+Ash dumping
+
+Waste dumping
+
+Heterogeneous deposit of burned materials
+mixed with other debris
+
+Homogeneous deposit of nearly pure ashes
+with occasional inclusions of rubified
+or burned substrate aggregates; open
+or chaotic structure; absence of pseudocarbonized
+wood structures or laminations
+
+Layers of aligned or articulated phytoliths (burned
+or unburned) above combustion structures
+or rake-out deposits; often accompanied by trampling
+
+Compression of burned materials; downward movement
+of large fragments into lower compositional units;
+in situ fracturing of burned bone, charcoal and shell
+
+Horizontal beds (stringers) of unsorted burned
+materials; absence of or discontinuity/truncation
+in compositional layering; rounded aggregates
+of ashes and charcoal; blurring of combustion feature
+boundaries; alignment of large fragment long axes;
+mixture with unburned materials; high porosity
+
+Erosional surface within a hearth; development
+of a concave substrate; upward mixture of substrate
+aggregates into the hearth
+
+Amorphous phosphatic particles; charred animal
+tissue and bone; higher amounts of amorphous organic
+material in the substrate
+
+Complete combustion of fuel
+
+Features
+
+Courty et al. 1989; Shahack-Gross et al. 2004;
+Villagran et al. 2009, 2011a
+
+Araujo et al. 2008; Homsey and Capo 2006;
+Goldberg 2001, 2003; Karkanas et al. 2004;
+Meignen et al. 2007; Mentzer 2011
+
+Cabanes et al. 2010; Goldberg et al. 2009;
+Mallol et al. 2010; Wadley et al. 2011
+
+Balbo et al. 2010; Dibble et al. 2009;
+Goldberg et al. 2009, 2012; Karkanas 2010;
+Karkanas and Goldberg 2010;
+Mallol et al. 2010; Meignen et al. 2007;
+Miller et al. 2009; Schiegl et al. 2003;
+Zerboni 2011
+
+Dibble et al. 2009; Homsey and Capo 2006;
+Goldberg et al. 2009, 2012; Karkanas and
+Goldberg 2010; Meignen et al. 2007;
+Sherwood 2001, 2008
+
+Mallol et al. 2007
+
+Mallol et al. 2007
+
+Mallol et al. 2007
+
+Citations
+
+These behaviors have been observed in ethnographic and experimental settings or documented in multiple archaeological studies cited here and in the text. Behaviors are listed in
+order of proximity to the original hearth
+
+Within a fire
+
+Within or above a fire
+
+Coal stirring
+
+Cooking
+
+Location
+
+Behavior
+
+Table 7 Micromorphological signatures of hearth-related behaviors
+
+Microarchaeological Approaches…Combustion Features
+653
+
+654
+
+Mentzer
+
+Fig. 14 Anthropogenically reworked burned materials are in secondary position due to the activities of
+hominins. a An intact ash layer from the site of Üçağızlı I is overlain by probable rake-out containing ashes
+mixed with aligned bone fragments and geogenic sediment; 5×7-cm petrographic thin section, incident
+light. b An incident light scan of a 5×7-cm petrographic thin section from the site of La Quina illustrates
+the loose structure and heterogeneous composition of a probable dumped deposit containing abundant
+burned bones mixed with ashes and limestone fragments
+
+suggested as a cause of the diffuse appearance of combustion feature boundaries in
+the field, as well as the clear erosional surfaces visible within combustion sequences
+at Pech de l’Azé IV (Dibble et al. 2009; Goldberg et al. 2012) and Pinnacle Point site
+PP13B (Karkanas and Goldberg 2010).
+Sweeping and dumping of ashes from hearths occurs after combustion (Fig. 14b).
+This process generates erosional surfaces and upward mixing of substrate aggregates
+within the combustion feature (Mallol et al. 2007) and also results in the formation of
+a midden when burned materials are mixed with other anthropogenic waste (Homsey
+and Capo 2006) or an ash dump when ashes are the sole component of the feature
+(Goldberg 2001, 2003). According to Schiegl et al. (2003), the paired processes of
+sweeping and dumping are likely responsible for the significant deposits of burned
+bone found in several German and French Paleolithic caves. Miller et al. (2009)
+report the inclusion of rubified clasts of sediment with experimentally swept and
+dumped hearth materials, as well as an open, chaotic microstructure in experimental
+material that was swept or dumped, although they question the preservation of this
+structure over archaeological timescales. An archaeological example of an ash dump
+comes from the rear of Kebara Cave. This feature is 90 cm thick and composed of
+ashes interbedded with thin layers of clay. Goldberg (2001) and Meignen et al. (2007)
+hypothesize that this deposit formed when ashes were repeatedly removed from
+hearths and dumped, with subsequent reworking of the dumped materials by water.
+Similar features have also been documented at Üçağızlı I Cave (Goldberg 2003;
+Mentzer 2011). Finally, incorporation of dumped burned materials with other
+
+Microarchaeological Approaches…Combustion Features
+
+655
+
+discarded occupation debris yields heterogeneous midden deposits. Middens are
+identified in thin section by mixed burned and nonburned materials, high porosity,
+and decreased fragmentation of fragile materials such as coarse bones and shell
+(Courty et al. 1989; Villagran et al. 2009, 2011a).
+Bedding, or the intentional spreading of leafy or grassy plant materials across an
+area to create a surface, has been identified in association with combustion features at
+several Paleolithic sites. In Esquilleu Cave, reworked combustion features are capped
+by layers of articulated grass phytoliths (Mallol et al. 2010). Because these phytoliths
+are unheated, the layers of bedding were likely laid down after the underlying burned
+materials were dispersed (Cabanes et al. 2010). Other sites that may preserve similar
+bedding areas containing combustion materials include Sibudu (Goldberg et al. 2009;
+Wadley et al. 2011) and the aforementioned “sleeping area” of Abric Romani
+(Vallverdú et al. 2012). At Sibudu, the multiple aligned layers of fibrous materials
+interbedded with combustion features are sometimes charred or fully burned. Goldberg et al. (2009) and Wadley et al. (2011) interpret these sequences as bedding that
+was accidentally or intentionally ignited.
+Postdepositional anthropogenic modification of combustion features and deposits
+may result from unintentional behaviors such as trampling of the burned area
+following combustion or during later periods of occupation (e.g., Grotte XVI; Rigaud
+et al. 1995) (Fig. 15). Meignen et al. (2007) distinguish trampled burned features
+from nontrampled areas using a series of criteria including visible compaction, offsets
+in bedding, and localized downward movement of materials. Trampling has also been
+identified in archaeological settings by the compaction and in situ breakage of
+combustion materials or burned bones (Balbo et al. 2010; Dibble et al. 2009;
+Goldberg et al. 2009, 2012; Karkanas 2010; Karkanas and Goldberg 2010; Mallol
+et al. 2010; Schiegl et al. 2003; Zerboni 2011). This characteristic signature has been
+replicated in experimental settings (Miller et al. 2009). In Pech de l’Azé IV, postdepositional trampling identified using the above guidelines contributed to compaction
+of the deposits, which, along with rapid cementation, aided in the preservation of the
+combustion features (Dibble et al. 2009).
+
+Fig. 15 Trampled materials are
+identified in thin section and in
+the field by in situ breakage.
+Burned bone from the site of
+Pech de l’Azé IV. Scale bar is
+1 mm; PPL
+
+656
+
+Mentzer
+
+In many sites, the combustion-related behaviors discussed above are combined in
+multicomponent sequences of repeated activities. In some cases, these sequences
+have also been impacted by natural postdepositional mixing or alteration processes.
+The deposits in Sibudu, for example, contain complex sequences of hearth construction, rake-out, trampling, and bedding, as well as postdepositional ash dissolution and
+phosphatic alteration (Goldberg et al. 2009). Similar sequences of trampling, rakeout, and bioturbation are proposed as processes that affected the homogeneous
+Middle Paleolithic ashy and burned materials excavated at Hayonim Cave (Goldberg
+and Bar-Yosef 1998).
+The types of combustion features described above may be integrated with other
+archaeological and geological datasets to generate a more complete understanding of
+the use of space and tempo of occupation within prehistoric sites. The identification
+of intact hearths versus anthropogenically modified features can aid in the mapping of
+central and peripheral activity areas. Hearths are loci for many types of activities—
+some visible in the archaeological and ethnoarchaeological records (Audouze and
+Enloe 1997; Binford 1978; O’Connell 1987; Simms 1988; Stevenson 1985, 1991;
+Vaquero and Pastó 2001; Yellen 1977). On the other hand, ash dumps and middens
+occur in areas where people spend little time and their accurate identification can
+reveal as much as hearths about spatial planning in the site (Speth 2006; Speth et al.
+2012). In several examples presented above, microarchaeological techniques were
+instrumental in distinguishing between primary and secondary refuse. For example, at
+a Mesolithic site in the Sudan, micromorphology allowed Zerboni (2011) to distinguish between trash pits containing burned materials and intact or partially reworked
+fireplace pits. Intermediate deposits, such as trampled materials, can contribute to the
+identification of occupation surfaces in ephemeral sites. Of course, spatial organization of all types of combustion features excavated in confined spaces, such as caves
+and rockshelters, can be influenced by the wall and ceiling morphology and microenvironments within the site. For example, archaeologists should consider hearth
+placement with respect to chimneys, natural vents, high and low ceilings, active drip
+centers, and entrances. Preference for dry areas within the site has been observed at
+Dust Cave (Sherwood 2001), while at Üçağızlı II, the situation of stacked hearths
+beneath the high point of the cave ceiling and active drip centers contributed to the
+preservation of the features (Mentzer 2011). Finally, some studies have revealed that
+hearths and secondary refuse can be used to understand repeated behaviors and
+seasonality (Meignen et al. 2007; Villagran et al. 2011a). In the ethnographic site
+of Tunel VII, for example, dumped materials from more intense fires are correlated
+with winter occupation of the site (Villagran et al. 2011a).
+
+Summary and Future Directions
+The discussion and case studies presented here demonstrate how archaeologists may
+effectively document and interpret combustion features in archaeological sites. A few
+key points are highlighted briefly below. First, high-resolution analytical advances,
+such as the techniques of archaeological micromorphology, phytolith studies, and in
+situ mineralogical analyses, have created a wealth of information regarding hearth
+construction, maintenance, and postdepositional sedimentary conditions. On the other
+
+Microarchaeological Approaches…Combustion Features
+
+657
+
+hand, such advances have increased the number of specialists that work at sites,
+particularly Paleolithic sites, and force excavators to make decisions regarding the
+degree to which individual features should be studied. The discussion above has also
+highlighted some inconsistencies in the archaeological identification of combustion
+structures, specifically the poorly understood phenomenon of rubification, and the
+acceptable range in variability of compositional layers as a function of feature type.
+Finally, the review of archaeological sites containing combustion features that have
+been studied using micromorphology reveals biases towards cave sites and also
+against sites of late Upper Paleolithic, Epipaleolithic, Mesolithic, and Natufian ages,
+as well as their African and New World equivalents. These biases may be limiting
+important comparisons of pyrotechnology between time periods.
+The technique of archaeological micromorphology has been instrumental in the
+identification and interpretation of hearth formation sequences, as well as burned
+materials that are not visible with the naked eye (i.e., wood ashes). The technique has
+allowed for the secure identification of controlled burning in sites as early as 400 kyr
+BP (Barkai et al. 2003; Karkanas et al. 2007), a period which, until very recently, has
+been only associated with indirect evidence for burning (see James et al. 1989).
+Micromorphological studies reveal that, because of the combined effects of hominin
+behaviors prior to, during, and after burning, as well as the numerous natural
+postdepositional modifications (see also Table 2), it is possible for combustion
+structures to appear intact in the field, yet exhibit features consistent with reworking
+at microscale (e.g., Tabun Layer C). Conversely, some structures that appear ambiguous in the field—lenses of ashes lacking underlying charcoal or rubification zones,
+for example—may in microscale exhibit fabrics that indicate little to no postdepositional movement. These possibilities highlight the fact that, in order to interpret the
+distribution(s) of combustion features within sites, it is necessary to document clearly
+when burned materials are in situ or reworked.
+The success of micromorphology in the identification of intact and reworked
+features argues for its application at a wide variety of archaeological sites. Unfortunately, micromorphology can become ungainly when sites contain hundreds of
+hearths or burned deposits (e.g., Abric Romani, Kebara Cave, Hayonim Cave, El
+Salt). Here, other microarchaeological techniques can contribute to a triage system, of
+sorts, in the excavation and analysis of combustion features. As an example, at Abric
+Romani, Vallverdú et al. (2012) and Courty et al. (2010) have developed site-specific
+field methods that bridge the gap between excavation and laboratory analyses.
+Identification of intact combustion structures is made when rubified sediments are
+overlain by sediment that, according to expedient laboratory analyses, contains
+>40 % charcoal—termed “carbonaceous facies” (Vallverdú et al. 2010, 2012). The
+accuracy of these methods has been confirmed by paired micromorphological analyses that consistently reveal intact combustion structures containing ash, charcoal,
+and other compounds (Courty et al. 2010). Proposed future microstratigraphic sampling and excavation of sediments from combustion structures will be guided by
+findings from earlier thin sections and on-site loose sediment and microdebris
+analyses.
+Other model excavations include the sites of Kebara Cave, Sibudu, Pinnacle Point
+site PP13B, and Dust Cave (Albert et al. 2000, 2012; Bar-Yosef et al. 1992; Goldberg
+2003; Goldberg and Bar-Yosef 1998; Meignen et al. 1989, 2007; Schiegl et al. 1996;
+
+658
+
+Mentzer
+
+Weiner et al. 1993; Goldberg and Berna 2010; Goldberg et al. 2009; Miller and
+Sievers 2012; Schiegl and Conard 2006; Speth 2006; Speth et al. 2012; Wadley 2010,
+2012; Wadley et al. 2011; Herries and Fisher 2011; Karkanas and Goldberg 2010;
+Homsey and Capo 2006; Homsey and Sherwood 2010; Sherwood 2001, 2008;
+Sherwood and Chapman 2005; Sherwood et al. 2004). Each of these excavations
+utilizes numerous microarchaeological techniques to build site-specific classification
+systems for combustion features that consider differences in feature function and
+taphonomy. Several investigators (e.g., Homsey and Sherwood 2010) have gained
+further insight from experiments in burning and formation processes. All have
+contributed to methodological developments and further understanding of the range
+of behaviors of prehistoric peoples.
+Future directions in the microarchaeological study of combustion features include
+further investigation into combustion processes, such as rubification and magnetization, increasing the volume of information that can be generated from intact sediment
+block and petrographic thin sections and expansion of these analyses outside of the
+earlier periods of the Paleolithic. Experimental and ethnographic microarchaeology
+are also promising avenues for exploring whether the functions of hearths can be
+deduced from their microscopic contents. Using the present methods, the question of
+hearth function is unresolvable in most sites.
+Rubification, an understudied phenomenon associated with burning, suffers from the
+problem of equifinality. Some researchers have attempted to quantify the degree of
+rubification as a function of burning temperature and intensity (e.g., Canti and Linford
+2000). Others (e.g., Vallverdú et al. 2012) use the thickness of rubified layers in
+combustion structures as a proxy for firing duration. However, unlike other materials,
+such as bones, wherein molecular changes in the mineral phase occur at known
+temperatures (Hiller et al. 2003; Rogers and Daniels 2002; Shipman et al. 1984;
+Stiner et al. 1995), rubified sediments do not behave predictably in response to certain
+temperatures or firing duration thresholds. Substrate response to heating, and the
+resulting the color and thickness of the altered zone can depend on a number of
+factors. In addition, hematite formation and associated color changes can occur
+postdepositionally as a side effect of the in situ breakdown of organic materials
+(Karkanas et al. 2002). Finally, rubification is not easily or consistently identified or
+described in thin section. Rubification, its presence and absence in a variety of substrates,
+and associated microarchaeological features are important avenues for future research.
+Integrated, multidisciplinary studies of intact sediment blocks and petrographic thin
+sections or the “microcontextual approach” (Goldberg and Berna 2010) are developing
+quickly within the field of Paleolithic combustion feature research. When combined
+with traditional optical petrography and organic reflectance petrography, μ-FTIR
+analyses of clay and bone heating temperatures (e.g., Dibble et al. 2009; Goldberg
+and Berna 2010; Goldberg et al. 2009, 2012; Wadley et al. 2011; Berna et al. 2012)
+have the potential to significantly expand the types of information that can be used to
+compare multiple burning episodes within a single hearth or site. This approach
+should also be utilized when studying ethnographic and experimental features.
+Finally, the case studies listed in Tables 3, 4, 5, and 6 indicate two main trends in
+combustion feature research. First, sites containing intact hearths are overwhelmingly
+situated within caves and rockshelters. Second, Upper Paleolithic and later combustion features are understudied in comparison to Middle Paleolithic combustion
+
+Microarchaeological Approaches…Combustion Features
+
+659
+
+features, despite the fact that the former are more numerous. In fact, many micromorphological studies of Upper Paleolithic combustion features come from sites that
+contain both Middle and Upper Paleolithic components.
+The bias towards cave and rockshelter sites is due to the superior preservation of
+burned materials, in particular ashes, in alkaline karstic environments. It is not a
+coincidence that the earliest secure evidence for controlled fire (Karkanas et al. 2007)
+comes from a cave. The deposits in Qesem Cave do indeed evidence significant
+hominin behavioral developments; however, these developments may be related to
+landscape exploitation rather than to fire activities per se. In later periods, a propensity towards the study of combustion features in caves may also result in biases in the
+association between hearths and other types of domestic features. Only recently and
+only with significant interdisciplinary and microarchaeological contributions have
+researchers begun to explore the environmental contexts and differences in archaeological assemblages with and without associated hearths (Sandgathe et al. 2011).
+The focus on earlier periods in combustion feature research stems from the
+aforementioned, long-standing interest in the earliest controlled fire (e.g., James et
+al. 1989) and ongoing debates over the role of fire in the colonization of the northern
+latitudes (e.g., Roebroeks and Villa 2011; Sandgathe et al. 2011). The presence of
+well-controlled fires in later periods is less sensational and, therefore, receives less
+attention. In addition, Upper Paleolithic and later sites may not be sampled as
+frequently due to the presence of other markers of in situ combustion, such as
+constructed fireplaces with rock-lined edges and basal pavings. Constructed fireplaces are durable and are intended to be used repeatedly. These features are also
+most easily recognized during excavation. When archaeologists rely only on macroscopic markers to identify combustion areas, more expedient features may be ignored. Furthermore, as evidenced by the case studies presented above, the end goal in
+combustion feature research is not simply to document the presence and location of
+fires within sites. Microarchaeological techniques can be used to extract information
+about the diversity of pyrotechnologies and the formational histories of sites. Given
+the very detailed and valuable information that can be recovered from microlaminae within
+combustion features, it is likely that, due to a bias against research on Late Pleistocene and
+Early Holocene sites (see Table 5), the full range of modern human forager combustionrelated behaviors have not been documented. The lack of studies of sites from these
+time periods, therefore, currently limits not only our ability to compare datasets within
+specific geographic areas, but also the development of nuanced understandings of site
+structure and human activities. The case study from Dust Cave in particular provides a
+tantalizing glimpse into the diversification of combustion activities that may be associated with plant processing and consumption during the late Paleoindian and Archaic
+periods in North America (Homsey and Capo 2006; Homsey and Sherwood 2010;
+Sherwood 2001; Sherwood and Chapman 2005; Sherwood et al. 2004).
+Given the scholarly interest in intensification behaviors at the end of the Pleistocene and the early Holocene, higher-resolution analyses of combustion features
+within these sites may prove exceptionally valuable. Some key questions that may
+guide future archaeological and experimental research include:
+1. What are the microarchaeological signatures of specialized combustion activities,
+such as food smoking, stone heating, roasting, and boiling?
+
+660
+
+Mentzer
+
+2. What does it mean when prepared burning surfaces become more or less common in archaeological sites? If we only document these features (because they
+are most visible), what impact does this have on our interpretations of activity
+patterns, mobility, and spatial organization?
+3. Do later developments in the form and function of combustion features used for
+materials processing, ritual purposes, cremations, or cleaning have their roots in
+earlier periods?
+4. Can the study of combustion feature distributions, when integrated with paleoenvironmental and macroarchaeological data, contribute to reconstructions of
+occupation intensity on site-specific and regional scales?
+The proliferation of microarchaeological techniques in combustion feature research has allowed an impressive variety of human behaviors and postdepositional
+processes to be documented in Paleolithic sites. However, there is still a tremendous
+amount left to learn about and from the use of fire by peoples in the past.
+The information presented underscores the urgency for applying the techniques and
+synthetic approaches developed previously in research on Paleolithic sites to more recent
+periods. Microarchaeological approaches have assisted greatly in documenting the antiquity or geographical distribution of the controlled use of fire. However, systematic
+investigation of the pyrotechnologies of hunter–gatherers must be expanded to include
+sites dating to Late Pleistocene and Early Holocene, when the human pyrotechnic
+“footprint” increased both in scale and complexity. We also need more nuanced, accurate
+data on permanent and ephemeral burning localities, fuel sources for fires, and the
+organization of domestic spaces and activity areas. Expansion in the application of
+existing techniques to later cultural periods can, therefore, greatly improve our understanding of the dynamics of landscape changes brought about by humans, as well as the
+restructuring of occupation areas within sites that accompanied increases in sedentism.
+Acknowledgments The author is grateful to J. Quade, M. Stiner, P. Goldberg, and S. Kuhn for providing
+comments on earlier versions of this manuscript. Funding for research and a portion of the writing was provided, in
+part, by the PEO Foundation and the University of Arizona School of Anthropology Emil Haury Dissertation
+Improvement Grant. Support for micromorphological analyses and access to collections cited in this paper were
+provided by the Asıklı Höyük project funded by NSF grant no. BCS-0912148 to M. Stiner; the Mt. Lykaion
+Excavation and Survey Project, funded by donations from Nicholas and Athena Karabots, the Karabots Foundation and Annette Merle-Smith; the excavations at Pech de l’Azé IV funded by an NSF grant to H. Dibble, samples
+collected by P. Goldberg; the La Quina project, funded by an NSF grant to A. Jelinek, samples collected by T.D.
+Young; the excavations at Üçağızlı Caves I and II, funded by NSF grant nos. SBR-9804722, BCS-0106433, and
+BCS-0410654 and a Leakey Foundation Grant, samples collected by P. Goldberg. The author would also like to
+thank T. Manne and C. Miller for their insights on the topic and contributions to experimental combustion research
+and the three reviewers for their thoughtful comments and suggestions.
+
+References
+Adler, D. S., Prindiville, T. J., & Conard, N. J. (2003). Patterns of spatial organization and land use during
+the Eemian Interglacial in the Rhineland: New data from Wallertheim, Germany. Eurasian Prehistory,
+1(2), 25–78.
+Aitken, M. J. (1978). Archaeological involvements of physics. Physics Reports, 40(5), 277–351.
+
+Microarchaeological Approaches…Combustion Features
+
+661
+
+Aitken, M. J. (1985). Thermoluminescence dating. London: Academic.
+Aitken, M. J. (1998). An introduction to optical dating. Oxford: Oxford University Press.
+Akazawa, T., & Sakaguchi, Y. (1987). Paleolithic site of Douara Cave and paleogeography of Palmyra
+Basin in Syria, part IV: 1984 excavations. Tokyo: The University of Tokyo.
+Albert, R. M., & Weiner, S. (2001). Study of phytoliths in prehistoric ash layers from Kebara and Tabun
+caves using a quantitative approach. In J. D. Meunier & F. Colin (Eds.), Phytoliths: Applications in
+earth sciences and human history (pp. 251–266). Lisse: Swets and Zeitlinger.
+Albert, R. M., Lavi, O., Estroff, L., Weiner, S., Tsatskin, A., Ronen, A., et al. (1999). Mode of occupation of
+Tabun Cave, Mt Carmel, Israel during the Mousterian Period: A study of the sediments and phytoliths.
+Journal of Archaeological Science, 26(10), 1249–1260.
+Albert, R. M., Weiner, S., Bar Yosef, O., & Meignen, L. (2000). Phytoliths in the Middle Palaeolithic
+deposits of Kebara Cave, Mt. Carmel, Israel: Study of the plant materials used for fuel and other
+purposes. Journal of Archaeological Science, 27(10), 931–947.
+Albert, R. M., Berna, F., & Goldberg, P. (2012). Insights on Neanderthal fire use at Kebara Cave (Israel)
+through high resolution study of prehistoric combustion features: Evidence from phytoliths and thin
+sections. Quaternary International, 247, 278–293.
+Alperson-Afil, N., Sharon, G., Kislev, M., Melamed, Y., Zohar, I., Ashkenazi, S., et al. (2009). Spatial
+organization of hominin activities at Gesher Benot Ya’aqov, Israel. Science, 326(5960), 1677–1680.
+Angelucci, D. E. (2003). Geoarchaeology and micromorphology of Abric de la Cativera (Catalonia, Spain).
+Catena, 54(3), 573–601.
+Araujo, A. G. M., Feathers, J. K., Arroyo-Kalin, M., & Tizuka, M. M. (2008). Lapa das Boleiras
+rockshelter: Stratigraphy and formation processes at a Paleoamerican site in Central Brazil. Journal
+of Archaeological Science, 35(12), 3186–3202.
+Arpin, T. L., Mallol, C., & Goldberg, P. (2002). Short contribution: A new method of analyzing and
+documenting micromorphological thin sections using flatbed scanners: Applications in geoarchaeological studies. Geoarchaeology-An International Journal, 17(3), 305–313.
+Asouti, E. (2003). Woodland vegetation and fuel exploitation at the prehistoric campsite of Pınarbaşı,
+south-central Anatolia, Turkey: The evidence from the wood charcoal macro-remains. Journal of
+Archaeological Science, 30, 1185–1201.
+Audouze, F., & Enloe, J. G. (1997). High resolution archaeology at Verberie: Limits and interpretations.
+World Archaeology, 29(2), 195–207.
+Balbo, A. L., Madella, M., Vila, A., & Estévez, J. (2010). Micromorphological perspectives on the
+stratigraphical excavation of shell middens: A first approximation from the ethnohistorical site Tunel
+VII, Tierra del Fuego (Argentina). Journal of Archaeological Science, 37, 1252–1259.
+Barkai, R., Gopher, A., Lauritzen, S. E., & Frumkin, A. (2003). Uranium series dates from Qesem Cave,
+Israel, and the end of the Lower Palaeolithic. Nature, 423(6943), 977–979.
+Bar-Yosef, O., Vandermeersch, B., Arensburg, B., Belfer-Cohen, A., Goldberg, P., Laville, H., et al. (1992).
+The excavations in Kebara Cave, Mount Carmel. Current Anthropology, 33(5), 497–550.
+Berna, F., & Goldberg, P. (2008). Assessing Paleolithic pyrotechnology and associated hominin behavior in
+Israel. Israel Journal of Earth Science, 56, 107–121.
+Berna, F., Matthews, A., & Weiner, S. (2004). Solubilities of bone mineral from archaeological sites: The
+recrystallization window. Journal of Archaeological Science, 31(7), 867–882.
+Berna, F., Behar, A., Shahack-Gross, R., Berg, J., Boaretto, E., Gilboa, A., et al. (2007). Sediments exposed
+to high temperatures: Reconstructing pyrotechnological processes in Late Bronze and Iron Age Strata
+at Tel Dor (Israel). Journal of Archaeological Science, 34(3), 358–373.
+Berna, F., Goldberg, P., Horwitz, L. K., Brink, J., Holt, S., Bamford, M., et al. (2012). Microstratigraphic
+evidence of in situ fire in the Acheulean strata of Wonderwerk Cave, Northern Cape province, South
+Africa. Proceedings of the National Academy of Sciences, 109, E1215–E1220.
+Binford, L. R. (1978). Dimensional analysis of behavior and site structure: Learning from an Eskimo
+hunting stand. American Antiquity, 43(3), 330–361.
+Bird, M. I., Fifield, L. K., Santos, G. M., Beaumont, P. B., Zhou, Y., di Tada, M. L., et al. (2003).
+Radiocarbon dating from 40 to 60 ka BP at Border Cave, South Africa. Quaternary Science Reviews,
+22(8–9), 943–947.
+Boardman, S., & Jones, G. (1990). Experiments on the effects of charring on cereal plant components.
+Journal of Archaeological Science, 17, 1–11.
+Boschian, G. (1997). Sedimentology and soil micromorphology of the late Pleistocene and early Holocene
+deposits of Grotta dell’Edera (Trieste Karst, NE Italy). Geoarchaeology, 12(3), 227–249.
+Braadbaart, F., & Poole, I. (2008). Morphological, chemical and physical changes during charcoalification of
+wood and its relevance to archaeological contexts. Journal of Archaeological Science, 35(9), 2434–2445.
+
+662
+
+Mentzer
+
+Brochier, J. É., & Thinon, M. (2003). Calcite crystals, starch grains aggregates or…POCC? Comment on
+‘calcite crystals inside archaeological plant tissues’. Journal of Archaeological Science, 30(9), 1211–
+1214.
+Cabanes, D., Mallol, C., Expósito, I., & Baena, J. (2010). Phytolith evidence for hearths and beds in the late
+Mousterian occupations of Esquilleu cave (Cantabria, Spain). Journal of Archaeological Science, 37
+(11), 2947–2957.
+Canti, M. G. (2003). Aspects of the chemical and microscopic characteristics of plant ashes found in
+archaeological soils. Catena, 54(3), 339–361.
+Canti, M. G., & Linford, N. (2000). The effects of fire on archaeological soils and sediments: Temperature
+and colour relationships. Proceedings of the Prehistoric Society, 66, 385–395.
+Carmody, R. N., & Wrangham, R. W. (2009). The energetic significance of cooking. Journal of Human
+Evolution, 57(4), 379–391.
+Chu, V., Regev, L., Weiner, S., & Boaretto, E. (2008). Differentiating between anthropogenic calcite in
+plaster, ash and natural calcite using infrared spectroscopy: Implications in archaeology. Journal of
+Archaeological Science, 35(4), 905–911.
+Clark, J. L., & Ligouis, B. (2010). Burned bone in the Howieson’s Poort and post-Howieson’s Poort Middle
+Stone Age deposits at Sibudu (South Africa): Behavioral and taphonomic implications. Journal of
+Archaeological Science, 37(10), 2650–2661.
+Cohen-Ofri, I., Weiner, L., Boaretto, E., Mintz, G., & Weiner, S. (2006). Modern and fossil charcoal:
+Aspects of structure and diagenesis. Journal of Archaeological Science, 33(3), 428–439.
+Conard, N. J., Prindiville, T. J., & Adler, D. S. (1998). Refitting bones and stones as a means of
+reconstructing Middle Paleolithic subsistence in the Rhineland. In J. P. Brugal, L. Meignen, & M.
+Patou-Mathis (Eds.), Economie Préhistorique: Les Comportements de Subsistence au Paleolithique,
+Editions APDCA (pp. 273–290). Antibes: Sophia Antipolis.
+Costamagno, S., Théry-Parisot, I., Brugal, J. P., & Guilbert, R. (2005). Taphonomic consequences of the
+use of bones as fuel. Experimental data and archaeological applications. In T. O’Conner (Ed.),
+Biosphere to lithosphere: New studies in vertebrate taphonomy (pp. 51–62). London: Oxbow Books.
+Costamagno, S., Théry-Parisot, I., Brugal, J. P., & Guilbert, R. (2009). Combustible ou non? Analyse
+multifactorielle et modèles explicatifs sur des ossements brûlées paléolithiques. In I. Théry-Parisot, S.
+Costamagno, & A. Henry (Eds.), Gestion des Combustibles au Paléolithique et au Mésolithique:
+Nouveaux Outils, Nouvelles Interpretations (pp. 65–84). Oxford: Archaeopress.
+Courty, M. A., Goldberg, P., & Macphail, R. I. (1989). Soils and micromorphology in archaeology.
+Cambridge: Cambridge University Press.
+Courty, M.-A., Carbonell, E., Vallverdú Poch, J., & Banerjee, R. (2010). Microstratigraphic and multianalytical evidence for advanced Neanderthal pyrotechnology at Abric Romani (Capellades, Spain).
+Quaternary International. doi:10.1016/j.quaint.2010.10.031.
+Crawford, H. (1981). Some fire installations from Abu Salabikh, Iraq (Dedicated to the memory of
+Margaret Munn-Rankin). Paléorient, 7(2), 105–114.
+Dibble, H. L., Chase, P. G., Shannon, P. M., & Tuffreau, A. (1997). Testing the reality of a “living floor”
+with archaeological data. American Antiquity, 62(4), 629–651.
+Dibble, H., Berna, F., Goldberg, P., McPherron, S. J. P., Mentzer, S., Niven, L., et al. (2009). A preliminary
+report on Pech de l’Azé IV, Layer 8 (Middle Paleolithic, France). PaleoAnthropology, 2009, 182–219.
+Dreimanis, A. (1962). Quantitative gasometric determination of calcite and dolomite by using Chittick
+apparatus. Journal of Sedimentary Petrology, 32(3), 520–529.
+Drever, J. I. (1997). The geochemistry of natural waters: Surface and groundwater environments. Upper
+Saddle River: Prentice Hall.
+Elbaum, R., Weiner, S., Albert, R. M., & Elbaum, M. (2003). Detection of burning of plant materials in the
+archaeological record by changes in the refractive indices of siliceous phytoliths. Journal of Archaeological Science, 30(2), 217–226.
+Elefanti, P., Panagopoulou, E., & Karkanas, P. (2008). The transition from the Middle to the Upper
+Paleolithic in the southern Balkans: The evidence from the Lakonis I Cave, Greece. Eurasian
+Prehistory, 5(2), 85–95.
+Eliyahu-Behar, A., Regev, L., Shilstein, S., Weiner, S., Shalev, Y., Sharon, I., et al. (2009). Identifying a
+Roman casting pit at Tel Dor, Israel: Integrating field and laboratory research. Journal of Field
+Archaeology, 34(2), 135–151.
+Etiégni, L., & Campbell, A. G. (1991). Physical and chemical characteristics of wood ash. Bioresource
+Technology, 37(2), 173–178.
+Folk, R. L., & Hoops, G. K. (1982). An Early Iron-Age layer of glass made from plants at Tel Yin’am,
+Israel. Journal of Field Archaeology, 9(4), 455–466.
+
+Microarchaeological Approaches…Combustion Features
+
+663
+
+Gale, R., & Carruthers, W. (2000). Charcoal and charred seed remains from Middle Palaeolithic levels at
+Gorham’s and Vanguard Caves. In C. B. Stringer, R. N. E. Barton, & J. C. Finlayson (Eds.),
+Neanderthals on the edge. Oxford: Oxbow Books.
+Godino, I. B., Álvarez, M., Balbo, A., Zurro, D., Madella, M., Villagrán, X., et al. (2011). Towards highresolution shell midden archaeology: Experimental and ethnoarchaeology in Tierra del Fuego
+(Argentina). Quaternary International, 239(1–2), 125–134.
+Goldberg, P. (1979). Micro-morphology of Pech de L’Azé II sediments. Journal of Archaeological Science,
+6(1), 17–47.
+Goldberg, P. (2000). Micromorphology and site formation at Die Kelders Cave I, South Africa. Journal of
+Human Evolution, 38(1), 43–90.
+Goldberg, P. (2001). Some micromorphological aspects of prehistoric cave deposits. Cahiers de Archéologie du CELAT, 10(Série archéometrie No. 1), 161–175.
+Goldberg, P. (2003). Some observations on Middle and Upper Paleolithic ashy cave and rockshelter
+deposits in the Near East. In A. N. Goring-Morris & A. Belfer-Cohen (Eds.), More than meets the
+eye: Studies on Upper Palaeolithic diversity in the Near East (pp. 19–32). Oxford: Oxbow Books.
+Goldberg, P., & Bar-Yosef, O. (1998). Site formation processes in Kebara and Hayonim caves and their
+significance in Levantine prehistoric caves. In T. Akazawa, K. Aoki, & O. Bar-Yosef (Eds.), Neandertals and modern humans in Western Asia (pp. 107–125). New York: Plenum.
+Goldberg, P., & Berna, F. (2010). Micromorphology and context. Quaternary International, 214(1–2), 56–62.
+Goldberg, P., & Sherwood, S. C. (2006). Deciphering human prehistory through the geoarcheological study
+of cave sediments. Evolutionary Anthropology: Issues, News, and Reviews, 15(1), 20–36.
+Goldberg, P., Lev-Yadun, S., & Bar-Yosef, O. (1994). Petrographic thin section of archaeological sediments: A new method for paleobotanical studies. Geoarchaeology, 9(3), 243–257.
+Goldberg, P., Weiner, S., Bar-Yosef, O., Xu, Q., & Liu, J. (2001). Site formation processes at Zhoukoudian,
+China. Journal of Human Evolution, 41(5), 483–530.
+Goldberg, P., Schiegl, S., Meligne, K., Dayton, C., & Conard, N. J. (2003). Micromorphology and site
+formation at Hohle Fels Cave, Swabian Jura, Germany. Eiszeitalter Gegenwart, 53, 1–25.
+Goldberg, P., Miller, C., Schiegl, S., Ligouis, B., Berna, F., Conard, N., et al. (2009). Bedding, hearths, and
+site maintenance in the Middle Stone Age of Sibudu Cave, KwaZulu-Natal, South Africa. Archaeological and Anthropological Sciences, 1(2), 95–122.
+Goldberg, P., Dibble, H., Berna, F., Sandgathe, D., McPherron, S. J. P., & Turq, A. (2012). New evidence
+on Neandertal use of fire: Examples from Roc de Marsal and Pech de l’Azé IV. Quaternary International, 247, 325–340.
+Goren-Inbar, N., Alperson, N., Kislev, M. E., Simchoni, O., Melamed, Y., Ben-Nun, A., et al. (2004).
+Evidence of hominin control of fire at Gesher Benot Ya’aqov, Israel. Science, 304(5671), 725–727.
+Grigor’ev, G. P. (1993). The Kostenki-Avdeevo archaeological culture and the Villendorf-Pavlov-KostenkiAvdeevo cultural unity. In O. Soffer & N. D. Praslov (Eds.), From Kostenki to Clovis: Upper
+Paleolithic and Paleo-Indian adaptations (pp. 51–66). New York: Plenum.
+Herries, A. I. R. (2009). New approaches for integrating palaeomagnetic and mineral magnetic methods to
+answer archaeological and geological questions on Stone Age sites. In A. Fairbairn, S. O’Conner, & B.
+Marwick (Eds.), Terra Australis 28—New directions in archaeological science (pp. 235–253). Canberra: Australia National University Press.
+Herries, A. I. R., & Fisher, E. C. (2011). Multidimensional GIS modeling of magnetic mineralogy as a
+proxy for fire use and spatial patterning: Evidence from the Middle Stone Age bearing sea cave of
+Pinnacle Point 13B (Western Cape, South Africa). Journal of Human Evolution, 59(3–4), 306–320.
+Herries, A. I. R., Kovacheva, M., Kostadinova, M., & Shaw, J. (2007). Archaeo-directional and -intensity
+data from burnt structures at the Thracian site of Halka Bunar (Bulgaria): The effect of magnetic
+mineralogy, temperature and atmosphere of heating in antiquity. Physics of the Earth and Planetary
+Interiors, 162(3–4), 199–216.
+Hiller, J. C., Thompson, T. J. U., Evison, M. P., Chamberlain, A. T., & Wess, T. J. (2003). Bone mineral change
+during experimental heating: An X-ray scattering investigation. Biomaterials, 24(28), 5091–5097.
+Homsey, L. K., & Capo, R. C. (2006). Integrating geochemistry and micromorphology to interpret feature
+use at Dust Cave, a Paleo-Indian through Middle-Archaic site in northwest Alabama. Geoarchaeology,
+21(3), 237–269.
+Homsey, L. K., & Sherwood, S. C. (2010). Interpretation of prepared clay surfaces at Dust Cave, Alabama.
+Ethnoarchaeology, 2(1), 73–98.
+James, S. R., Dennell, R. W., Gilbert, A. S., Lewis, H. T., Gowlett, J. A. J., Lynch, T. F., et al. (1989).
+Hominid use of fire in the Lower and Middle Pleistocene: A review of the evidence [and comments and
+replies]. Current Anthropology, 30(1), 1–26.
+
+664
+
+Mentzer
+
+Karkanas, P. (2001). Site formation processes in Theopetra Cave: A record of climatic change during the
+Late Pleistocene and Early Holocene in Thessaly, Greece. Geoarchaeology, 16(4), 373–399.
+Karkanas, P. (2002). Micromorphological studies of Greek prehistoric sites: New insights in the interpretation of the archaeological record. Geoarchaeology, 17(3), 237–259.
+Karkanas, P. (2007). Identification of lime plaster in prehistory using petrographic methods: A review and
+reconsideration of the data on the basis of experimental and case studies. Geoarchaeology, 22(7), 775–
+796.
+Karkanas, P. (2010). Geology, stratigraphy and site formation processes in the Upper Paleolithic and later
+sequence in Kissoura Cave 1. Eurasian Prehistory, 7(2), 15–36.
+Karkanas, P., & Goldberg, P. (2010). Site formation processes at Pinnacle Point Cave 13B (Mossel Bay,
+Western Cape Province, South Africa): Resolving stratigraphic and depositional complexities with
+micromorphology. Journal of Human Evolution, 59(3–4), 256–273.
+Karkanas, P., Kyparissi-Apostolika, N., Bar-Yosef, O., & Weiner, S. (1999). Mineral assemblages in
+Theopetra, Greece: A framework for understanding diagenesis in a prehistoric cave. Journal of
+Archaeological Science, 26(9), 1171–1180.
+Karkanas, P., Bar-Yosef, O., Goldberg, P., & Weiner, S. (2000). Diagenesis in prehistoric caves: the use of
+minerals that form in situ to assess the completeness of the archaeological record. Journal of
+Archaeological Science, 27(10), 915–929.
+Karkanas, P., Rigaud, J.-P., Simek, J. F., Albert, R. M., & Weiner, S. (2002). Ash, bones and guano: A study
+of the minerals and phytoliths in the sediments of Grotte XVI, Dordogne, France. Journal of
+Archaeological Science, 29(7), 721–732.
+Karkanas, P., Koumouzelis, M., Kozlowski, J. K., Sitlivy, V., Sobczyk, K., Berna, F., et al. (2004). The
+earliest evidence for clay hearths: Aurignacian features in Klisoura Cave 1, southern Greece. Antiquity,
+78(301), 513–525.
+Karkanas, P., Shahack-Gross, R., Ayalon, A., Bar-Matthews, M., Barkai, R., Frumkin, A., et al. (2007).
+Evidence for habitual use of fire at the end of the Lower Paleolithic: Site-formation processes at Qesem
+Cave, Israel. Journal of Human Evolution, 53(2), 197–212.
+Kedrowski, B. L., Crass, B. A., Behm, J. A., Luetke, J. C., Nichols, A. L., Moreck, A. M., et al. (2009). GC/
+MS analysis of fatty acids from ancient hearth residues at the Swan Point archaeological site.
+Archaeometry, 51(1), 110–122.
+Kourampas, N., Simpson, I. A., Perera, N., Deraniyagala, S. U., & Wijeyapala, W. H. (2009). Rockshelter
+sedimentation in a dynamic tropical landscape: Late Pleistocene–Early Holocene archaeological
+deposits in Kitulgala Beli-lena, Southwestern Sri Lanka. Geoarchaeology, 24(6), 677–714.
+Lanting, J. N., Aerts-Bijma, A. T., & Van der Plicht, J. (2001). Dating of cremated bones. Radiocarbon, 43
+(2A), 249–254.
+Latham, A. G., & Herries, A. I. R. (2004). The formation and sedimentary infilling of the Cave of
+Hearths and Historic Cave complex, Makapansgat, South Africa. Geoarchaeology, 19(4), 323–
+342.
+Ligouis, B. (2006). Jais, lignite, charbon et autres matières organiques fossiles: Application de la pétrologie
+organique à la’étude des élements de parure et des fragments bruts. In J. Bullinger, D. Leesch, & N.
+Plumettaz (Eds.), Le site magdalénian de Monruz, 1. Premiers éléments pour l’analyse d’un habitat de
+plein air (pp. 197–216). Neuchâtel: Service et Musée Cantonal d’Archéologie.
+Macphail, R., & Crowther, I. (2007). Soil micromorphology, chemistry and magnetic susceptibility studies
+at Huizui (Yilou region, Henan province, northern China), with special focus on a typical Yangshao
+floor sequence. Indo-Pacific Prehistory Association Bulletin, 27, 103–113.
+Macphail, R., & Goldberg, P. (2000). Geoarchaeological investigations of sediments from Gorham’s and
+Vanguard Caves, Gibralter: Microstrigraphical (soil micromorphological and chemical) signatures. In
+C. B. Stringer, R. N. E. Barton, & J. C. Finlayson (Eds.), Neanderthals on the edge (pp. 183–200).
+Oxford: Oxbow Books.
+Madella, M., Jones, M. K., Goldberg, P., Goren, Y., & Hovers, E. (2002). The exploitation of plant
+resources by Neanderthals in Amud Cave (Israel): The evidence from phytolith studies. Journal of
+Archaeological Science, 29(7), 703–719.
+Mallol, C., Marlowe, F. W., Wood, B. M., & Porter, C. C. (2007). Earth, wind, and fire: Ethnoarchaeological signals of Hadza fires. Journal of Archaeological Science, 34(12), 2035–2052.
+Mallol, C., Mentzer, S. M., & Wrinn, P. J. (2009). A micromorphological and mineralogical study of site
+formation processes at the late Pleistocene site of Obi-Rakhmat, Uzbekistan. Geoarchaeology, 24(5),
+548–575.
+Mallol, C., Cabanes, D., & Baena, J. (2010). Microstratigraphy and diagenesis at the upper Pleistocene site
+of Esquilleu Cave (Cantabria, Spain). Quaternary International, 214(1–2), 70–81.
+
+Microarchaeological Approaches…Combustion Features
+
+665
+
+March, R. J., Baldessari, A., Ferreri, J. C., Grande, A., Gros, E. G., Morello, O., et al. (1989). Étude des
+structures de combustion archéologiques d’Argentine. Bulletin de la Société Préhistorique Française,
+86(10/12), 384–392.
+March, R. J., Ferreri, J. C., & Guez, C. (1993). Etude des foyers préhistoriques des gisements Magdaleniens
+du Bassin Parisien. L’approche experimentale. Memoires du Groupement Archeologique de Seine-etMarne, 1, 87–95.
+March, R. J., Muhieddine, M., & Canot, É. (2010). Simulation 3D des structures de combustion préhistoriques. In R. Vernieux & C. Delevoie (Eds.), Actes du Colloque Virtual Retrospect 2009 (pp. 19–29).
+Bordeaux: Editions Ausonius.
+Matthews, W. (2010). Geoarchaeology and taphonomy of plant remains and microarchaeological
+residues in early urban environments in the Ancient Near East. Quaternary International, 214
+(1–2), 98–113.
+Meignen, L., Bar-Yosef, O., & Goldberg, P. (1989). Les structures de combustion moustériennes de la
+grotte de Kébara (Mont Carmel, Israël). In M. Olive & Y. Taborin (Eds.), Nature et fonctions des foyers
+prehistoriques (pp. 141–146). Nemours: APRAIF.
+Meignen, L., Bar Yosef, O., Goldberg, P., & Weiner, S. (2001). Le feu au Paléolithique moyen: recherches
+sur les structures de combustion et le statut des foyers. Paleorient, 26(2), 9–22.
+Meignen, L., Goldberg, P., & Bar Yosef, O. (2007). The hearths at Kebara Cave and their role in site
+formation processes. In O. Bar Yosef & L. Meignen (Eds.), Kebara Cave, Mt. Carmel, Israel: The
+middle and upper Paleolithic archaeology, part 1. Cambridge: Peabody Museum of Archaeology and
+Ethnology.
+Mentzer, S. M. (2009). Bone as a fuel source: The effects of initial fragment size distribution. In I. Théry-Parisot,
+S. Costamagno, & A. Henry (Eds.), Gestion des Combustibles au Paleolithique et au Mesolithique:
+Nouveaux Outiles, Nouvelles Interpretations. UISPP Proceedings of the XV World Congress (Lisbon,
+4–9 September 2006) (pp. 53–64). Oxford: Archaeopress (BAR International Series 1914).
+Mentzer, S. M. (2011). Macro- and micro-scale geoarchaeology of Üçağızlı Caves I and II, Hatay, Turkey.
+Unpublished dissertation, School of Anthropology, University of Arizona, Tucson.
+Mentzer, S. M., & Quade, J. (in press). Short contribution: Compositional and isotopic analytical methods
+in archaeological micromorphology. Geoarchaeology, in press.
+Miller, C., & Sievers, C. (2012). An experimental micromorphological investigation of bedding construction in the Middle Stone Age of Sibudu, South Africa. Journal of Archaeological Science, 39(10),
+3039–3051.
+Miller, C., Conard, N. J., Goldberg, P., & Berna, F. (2009). Dumping, sweeping and trampling: Experimental micromorphological analysis of anthropogenically modified combustion features. P@lethnologie, 2009, 25–37.
+O’Connell, J. F. (1987). Alyawara site structure and its archaeological implications. American Antiquity, 52
+(1), 74–108.
+Parr, J. F. (2006). Effect of fire on phytolith coloration. Geoarchaeology, 21(2), 171–185.
+Pastó, I., Allué, E., & Vallverdú, J. (2000). Mousterian hearths at Abric Romaní, Catalonia (Spain). In C. B.
+Stringer, R. N. E. Barton, & J. C. Finlayson (Eds.), Neanderthals on the edge: Papers from a
+conference marking the 150th anniversary of the Forbes’ Quarry discovery, Gibraltar (pp. 59–67).
+Oxford: Oxbow Books.
+Perlès, C. (1981). Hearth and home in the Old Stone Age. Natural History, 90, 38–41.
+Quivira, M. P., & Dillehay, T. D. (1988). Monte Verde, South-Central Chile: Stratigraphy, climate change,
+and human settlement. Geoarchaeology, 3(3), 177–191.
+Regev, L., Poduska, K. M., Addadi, L., Weiner, S., & Boaretto, E. (2010). Distinguishing between calcites
+formed by different mechanisms using infrared spectrometry: Archaeological applications. Journal of
+Archaeological Science, 37(12), 3022–3029.
+Rigaud, J.-P., Simek, J. F., & Gé, T. (1995). Mousterian fires from Grotte XVI (Dordogne, France).
+Antiquity, 69, 902–912.
+Roebroeks, W., & Villa, P. (2011). On the earliest evidence for habitual use of fire in Europe. Proceedings
+of the National Academy of Sciences, 108(13), 5209–5214.
+Rogers, K. D., & Daniels, P. (2002). An X-ray diffraction study of the effects of heat treatment on bone
+mineral microstructure. Biomaterials, 23(12), 2577–2585.
+Sandgathe, D. M., Dibble, H. L., Goldberg, P., McPherron, S. P., Turq, A., & Niven, L. (2011). On the role
+of fire in Neanderthal adaptations in Western Europe: Evidence from Pech de l’Azé IV and Roc de
+Marsal, France. PaleoAnthropology, 2011, 216–242.
+Schiegl, S., & Conard, N. J. (2006). The Middle Stone Age sediments at Sibudu: Results from FTIR
+spectroscopy and microscopic analyses. Southern African Humanities, 18(1), 149–172.
+
+666
+
+Mentzer
+
+Schiegl, S., Lev-Yadun, S., Bar-Yosef, O., Goresy, A. E., & Weiner, S. (1994). Siliceous aggregates from
+prehistoric wood ash: A major component of sediments in Kebara and Hayonim caves (Israel). Israel
+Journal of Earth Sciences, 43(3–4), 257–278.
+Schiegl, S., Goldberg, P., Bar-Yosef, O., & Weiner, S. (1996). Ash deposits in Hayonim and Kebara Caves,
+Israel: Macroscopic, microscopic and mineralogical observations, and their archaeological implications. Journal of Archaeological Science, 23, 763–781.
+Schiegl, S., Goldberg, P., Pfretzschner, H.-U., & Conard, N. J. (2003). Paleolithic burnt bone horizons from
+the Swabian Jura: Distinguishing between in situ fireplaces and dumping areas. Geoarchaeology, 18
+(5), 541–565.
+Shahack-Gross, R., & Ayalon, A. (2012). Stable carbon and oxygen isotopic compositions of wood ash: an
+experimental study with archaeological implications. Journal of Archaeological Science. doi:10.1016/
+j.jas.2012.06.036.
+Shahack-Gross, R., & Finkelstein, I. (2008). Subsistence practices in an arid environment: A geoarchaeological investigation in an Iron Age site, the Negev Highlands, Israel. Journal of Archaeological
+Science, 35(4), 965–982.
+Shahack-Gross, R., Bar-Yosef, O., & Weiner, S. (1997). Black-coloured bones in Hayonim Cave, Israel:
+Differentiating between burning and oxide staining. Journal of Archaeological Science, 24(5), 439–446.
+Shahack-Gross, R., Marshall, F., Ryan, K., & Weiner, S. (2004). Reconstruction of spatial organization in
+abandoned Maasai settlements: Implications for site structure in the Pastoral Neolithic of East Africa.
+Journal of Archaeological Science, 31(10), 1395–1411.
+Shahack-Gross, R., Ayalon, A., Goldberg, P., Goren, Y., Ofek, B., Rabinovich, R., et al. (2008).
+Formation processes of cemented features in karstic cave sites revealed using stable oxygen and
+carbon isotopic analyses: A case study at middle paleolithic Amud Cave, Israel. Geoarchaeology, 23(1), 43–62.
+Sherwood, S. C. (2001). The geoarchaeology of Dust Cave: A late Paleoindian through middle Archaic site
+in the western middle Tennessee River valley. Unpublished dissertation, The University of Tennessee,
+Knoxville.
+Sherwood, S. (2008). Increasing the resolution of cave archaeology: Micromorphology and the classification of burned deposits at dust cave. In D. Dye (Ed.), Cave archaeology in the Eastern Woodlands:
+Papers in honor of Patty Jo Watson. Knoxville: University of Tennessee Press.
+Sherwood, S. C., & Chapman, J. (2005). The identification and potential significance of early Holocene
+prepared clay surfaces: Examples from Dust Cave and Icehouse Bottom. Southeastern Archaeology, 24
+(1), 70–82.
+Sherwood, S. C., Driskell, B. N., Randall, A. R., & Meeks, S. (2004). Chronology and stratigraphy at Dust
+Cave, Alabama. American Antiquity, 69(3), 533–554.
+Shipman, P., Foster, G., & Schoeninger, M. (1984). Burnt bones and teeth: An experimental study of color,
+morphology, crystal structure and shrinkage. Journal of Archaeological Science, 11(4), 307–325.
+Simms, S. R. (1988). The archaeological structure of a Bedouin camp. Journal of Archaeological Science,
+15(2), 197–211.
+Simpson, I. A., Vésteinsson, O., Adderley, W. P., & McGovern, T. H. (2003). Fuel resource utilization in
+landscapes of settlement. Journal of Archaeological Science, 30, 1401–1420.
+Speth, J. D. (2006). Housekeeping, Neandertal-style: Hearth placement and midden formation in Kebara
+Cave (Israel). In E. Hovers & S. L. Kuhn (Eds.), Transitions before the transition: Evolution and
+stability in the Middle Paleolithic and Middle Stone Age (pp. 171–188). New York: Springer.
+Speth, J. D., Meignen, L., Bar-Yosef, O., & Goldberg, P. (2012). Spatial organization of Middle Paleolithic
+occupation X in Kebara Cave (Israel): Concentrations of animal bones. Quaternary International, 247,
+85–102.
+Squires, K. E., Thompson, T. J. U., Islam, M., & Chamberlain, A. (2011). The application of histomorphometry and Fourier transform infrared spectroscopy to the analysis of early Anglo-Saxon burned bone.
+Journal of Archaeological Science, 38, 2399–2409.
+Stevenson, M. G. (1985). The formation of artifact assemblages at workshop/habitation sites: Models from
+Peace Point in Northern Alberta. American Antiquity, 50(1), 63–81.
+Stevenson, M. G. (1991). Beyond the formation of hearth-associated artifact assemblages. In E. M. Kroll & T. D.
+Price (Eds.), The interpretation of archaeological spatial patterning (pp. 269–299). New York: Plenum.
+Stewart, B. A., Dewar, G. I., Morley, M. W., Inglis, R. H., Wheeler, M., Jacobs, Z., et al. (2012).
+Afromontane foragers of the Late Pleistocene: Site formation, chronology and occupational pulsing
+at Melikane Rockshelter, Lesotho. Quaternary International. doi:10.1016/j.quaint.2011.11.028.
+Stiner, M., Kuhn, S., Weiner, S., & Bar-Yosef, O. (1995). Differential burning, recrystallization, and
+fragmentation of archaeological bone. Journal of Archaeological Science, 22, 223–237.
+
+Microarchaeological Approaches…Combustion Features
+
+667
+
+Stiner, M. C., Barkai, R., & Gopher, A. (2011). Hearth-side socioeconomics, hunting and paleocology during the late Lower Paleolithic at Qesem Cave, Israel. Journal of Human Evolution, 60
+(2), 213–233.
+Surovell, T. A., & Stiner, M. C. (2001). Standardizing infra-red measures of bone mineral crystallinity: An
+experimental approach. Journal of Archaeological Science, 28(6), 633–642.
+Taylor, G. H., Teichmüller, M., Davis, A., Diessel, C. F. K., Littke, R., & Robert, P. (1998). Organic
+petrology. Berlin: Gebrüder Bornträger.
+Théry, I., Gril, J., Vernet, J. L., Meignen, L., & Maury, J. (1996). Coal used for fuel at two prehistoric sites
+in southern France: Les Canalettes (Mousterian) and Les Usclades (Mesolithic). Journal of Archaeological Science, 23(4), 509–512.
+Théry-Parisot, I. (2002). Fuel management (bone and wood) during the Lower Aurignacian in the Pataud
+Rock Shelter (Lower Palaeolithic, Les Eyzies de Tayac, Dordogne, France). Contribution of experimentation. Journal of Archaeological Science, 29(12), 1415–1421.
+Théry-Parisot, I., Costamagno, S., Brugal, J. P., Fosse, P., & Guilbert, R. (2005). The use of bone as fuel
+during the Palaeolithic, experimental study of bone combustible properties. In J. Mulville & A. K.
+Outram (Eds.), The zooarchaeology of fats, oils, milk and dairying. Oxford: Oxbow Books.
+Théry-Parisot, I., Chabal, L., & Chrzavzez, J. (2010). Anthracology and taphonomy, from wood gathering
+to charcoal analysis. A review of the taphonomic processes modifying charcoal assemblages, in
+archaeological contexts. Palaeogeography, Palaeoclimatology, Palaeoecology, 291, 142–153.
+Thompson, T. J. U., Gauthier, M., & Islam, M. (2009). The application of a new method of Fourier
+transform infrared spectroscopy to the analysis of burned bone. Journal of Archaeological Science, 36,
+910–914.
+Tsartsidou, G., Lev-Yadun, L., Albert, R. M., Miller-Rosen, A., Efstratiou, N., & Weiner, S. (2007). The
+phytolith archaeological record: Strengths and weaknesses evaluated based on quantitative modern
+reference collections from Greece. Journal of Archaeological Science, 34(8), 1262–1275.
+Tsatskin, A., & Nadel, D. (2003). Formation processes at the Ohalo II submerged prehistoric campsite,
+Israel, inferred from soil micromorphology and magnetic susceptibility studies. Geoarchaeology, 18
+(4), 409–432.
+Ulery, A. L., Graham, R. C., & Amrhein, C. (1993). Wood-ash composition and soil pH following intense
+burning. Soil Science, 156(5), 358–364.
+Vallverdu, J. (2002). Micromorfología de las facies sedimentarias de la colección de referencia de la Sierra
+de Atapuerca y del nivel J del AbricRomaní. Implicaciones geoarqueológicas y paleoetnográficas.
+Unpublished dissertation, Universitat Rovira i Virgili, Tarragona.
+Vallverdú, J., Alluué, E., Bischoff, J. L., Cáceres, I., Carbonell, E., Cebria, A., et al. (2005). Short human
+occupations in the Middle Palaeolithic level I of the Abric Romaní rock-shelter (Capellades, Barcelona,
+Spain). Journal of Human Evolution, 48(2), 157–174.
+Vallverdú, J., Alonso, S., Bargalló, A., Bartrolí, R., Campeny, G., Carrancho, Á., et al. (2012). Combustion
+structures of archaeological level O and Mousterian activity areas with use of fire at the Abric Romaní
+rockshelter (NE Iberian Peninsula). Quaternary International, 247, 313–324.
+Vallverdú, J., Vaquero, M., Cáceres, I., Allué, E., Rosell, J., Saladié, P., et al. (2010). Sleeping activity area
+within the site structure of Archaic human groups: Evidence from Abric Romaní Level N combustion
+activity areas. Current Anthropology, 51(1), 137–145.
+van der Veen, M. (2007). Formation processes of desiccated and carbonized plant remains—The identification of routine practice. Journal of Archaeological Science, 34, 968–990.
+Vandiver, P. B., Soffer, O., Klima, B., & Svoboda, J. I. (1989). The origins of ceramic technology at Dolni
+Vestonice, Czechoslovakia. Science, 246(4933), 1002–1008.
+Vaquero, M., & Pastó, I. (2001). The definition of spatial units in Middle Palaeolithic Sites: The hearthrelated assemblages. Journal of Archaeological Science, 28(11), 1209–1220.
+Villagran, X. S., Giannini, P. C. F., & DeBlasis, P. (2009). Archaeofacies analysis: Using depositional
+attributes to identify anthropic processes of deposition in a monumental shell mound of Santa Catarina
+State, southern Brazil. Geoarchaeology, 24(3), 311–335.
+Villagran, X., Balbo, A., Madella, M., Vila, A., & Estevez, J. (2011a). Stratigraphic and spatial variability
+in shell middens: Microfacies identification at the ethnohistoric site Tunel VII (Tierra del Fuego,
+Argentina). Archaeological and Anthropological Sciences, 3(4), 357–378.
+Villagran, X. S., Balbo, A. L., Madella, M., Vila, A., & Estevez, J. (2011b). Experimental micromorphology in Tierra del Fuego (Argentina): Building a reference collection for the study of shell middens in
+cold climates. Journal of Archaeological Science, 38(3), 588–604.
+Wadley, L. (2010). Cemented ash as a receptacle or work surface for ochre powder production at Sibudu,
+South Africa, 58,000 years ago. Journal of Archaeological Science, 37(10), 2397–2406.
+
+668
+
+Mentzer
+
+Wadley, L. (2012). Some combustion features at Sibudu, South Africa, between 65,000 and 58,000 years
+ago. Quaternary International, 247, 341–349.
+Wadley, L., Sievers, C., Bamford, M., Goldberg, P., Berna, F., & Miller, C. (2011). Middle Stone
+Age bedding construction and settlement patterns at Sibudu, South Africa. Science, 334, 1388–
+1391.
+Wattez, J. (1988). Contribution à la conaissance des foyers préhistoriques par l’étude des cendres. Bulletin
+de la Société Prehistorique de France, 85(10–12), 353–366.
+Wattez, J. (1992). Dynamique de formation des structures de combustion de la fin du Paléolitique au
+Néolitique moyen. Unpublished dissertation, Université de Paris I, Paris.
+Wattez, J. (1994). Micromorphologie des foyers d’Etoilles, de Pincevent et de Verberie: Le milieu naturel et
+son exploitation. In Y. Taborin (Ed.), Environments et Habitats Magdaleniens dans le Centre du Bassin
+Parisien (pp. 120–127). Documents d’Archéologie Française 43, Paris.
+Weiner, S. (2010). Microarchaeology: Beyond the visible archaeological record. Cambridge: Cambridge
+University Press.
+Weiner, S., Goldberg, P., & Bar-Yosef, O. (1993). Bone preservation in Kebara cave, Israel using on-site
+Fourier transform infrared spectrometry. Journal of Archaeological Science, 20, 613–627.
+Weiner, S., Xu, Q., Goldberg, P., Liu, J., & Bar-Yosef, O. (1998). Evidence for the use of fire at
+Zhoukoudian, China. Science, 281(5374), 251–253.
+Weiner, S., Goldberg, P., & Bar-Yosef, O. (2002). Three-dimensional distribution of minerals in the
+sediments of Hayonim Cave, Israel: Diagenetic processes and archaeological implications. Journal
+of Archaeological Science, 29, 1289–1308.
+Wrangham, R. W. (2007). The cooking enigma. In P. S. Ungar (Ed.), Evolution of the human diet: The
+known, the unknown, and the unknowable (pp. 308–323). Oxford: Oxford University Press.
+Wrangham, R. W. (2010). Catching fire: How cooking made us human. New York: Basic Books.
+Wrangham, R., & Carmody, R. (2010). Human adaptation to the control of fire. Evolutionary Anthropology:
+Issues, News, and Reviews, 19(5), 187–199.
+Wrangham, R. W., Jones, J. H., Laden, G., Pilbeam, D., & Conklin-Brittain, N. (1999). The raw and the
+stolen: Cooking and the ecology of human origins. Current Anthropology, 40(5), 567–594.
+Yellen, J. (1977). Archaeological approaches to the present. New York: Academic.
+Zerboni, A. (2011). Micromorphology reveals in situ Mesolithic living floors and archaeological features in
+multiphase sites in central Sudan. Geoarchaeology, 26(3), 365–391.
+
+

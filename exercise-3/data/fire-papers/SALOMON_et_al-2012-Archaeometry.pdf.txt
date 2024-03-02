@@ -1,0 +1,1012 @@
+bs_bs_banner
+
+Archaeometry 54, 4 (2012) 698–722
+
+doi: 10.1111/j.1475-4754.2011.00649.x
+
+SE L E C TI O N AND HE AT ING OF C O LO U R I N G MATER I A LS I N
+T H E MO U ST E RIAN L E VE L OF E S - S K H U L (c. 1 0 0 0 0 0 Y EA R S
+B P, M OUNT CARMEL, I S R A EL) *
+H. SALOMON,1,2 C. VIGNAUD,3 Y. COQUINOT,3 L. BECK,3,4 C. STRINGER,5
+D. STRIVAY1 and F. D’ERRICO2,6
+1
+
+Centre Européen d’Archéométrie (CEA), Institut de Physique Nucléaire, Atomique et spectroscopie (IPNAS), Université de
+Liège (ULg), Sart Tilman B15, B-4000 Liège, Belgium
+2
+Université de Bordeaux, UMR 5199 PACEA, PACEA, Préhistoire, Paléoenvironnement, Patrimoine, Université Bordeaux 1,
+Bat. B18, Avenue des Facultés, F-33405 Talence, France
+3
+Centre de recherche et de Restauration des Musées de France (C2RMF), UMR 171 du CNRS, Palais du Louvre, Porte des
+Lions, 14, Quai François Mitterrand, F-75001 Paris, France
+4
+CEA, DEN, Service de Recherches de Métallurgie Physique, Laboratoire JANNUS, 91191 Gif-sur-Yvette, France
+5
+Department of Palaeontology, The Natural History Museum, London SW7 5BD, UK
+6
+Institute for Archaeology, History, Cultural and Religious Studies, University of Bergen, Norway
+
+The transformation of yellow goethite into red hematite by heating has long been assumed for
+Palaeolithic red artefacts excavated close to fireplaces. However, this transformation is
+extremely rare. Using SEM–FEG–EDX, PIXE–PIGE, TEM and mXRD, we characterized the
+mineralogical and chemical compositions of four microsamples of colouring materials from
+the Mousterian layer B in the es-Skhul rock-shelter, from about 100 kya ago. For some
+colouring materials, the Mousterian people of es-Skhul chose to gather remote yellow lumps
+for heating. Their significant transport distance provides evidence of the possible high cultural
+value of these colouring materials for transformation into red pigments.
+KEYWORDS: IRON OXIDE, PHOSPHORITE, HEAT TREATMENT, ISRAEL, MIDDLE
+PALAEOLITHIC, CATCHMENT ANALYSIS, TEM, FEG–SEM, PIXE–PIGE, mXRD
+
+INTRODUCTION
+
+The heating of iron-rich colouring materials—in particular, the dehydration of yellow iron
+hydroxide (goethite: a-FeOOH) into red iron oxide (hematite: a-Fe2O3)—has long been assumed
+for numerous artefacts excavated close to fireplaces for any periods; for instance, in France at La
+Mairie de Teyjat (Capitan et al. 1908), La Quina (Henri-Martin 1930; Groenen 1991), Terra
+Amata (Wreschner 1985; Lorblanchet 1999), Troubat, Enlène and Les Peyrugues (Pomiès 1997;
+Pomiès et al. 1999c) and in Gontsy, Ukraine (Iakovleva 2003; Iakovleva and Djindjian 2005). For
+instance, the Grotte du Renne at Arcy-sur-Cure (Yonne, France), excavated by A. Leroi-Gourhan
+in the 1950s and 1960s, revealed, in the levels occupied by Châtelperronians (late Neanderthals,
+makers of one of the techno-complexes of the European Middle to Upper Palaeolithic Transition),
+pigments found in the vicinity of fireplaces mentioned as heated, and it was suggested that
+numerous artefacts were used after being transformed by heat treatment. This assumption led
+archaeologists to assume that the inhabitants of the Grotte du Renne had extensively exploited
+colouring materials, and that they had perfectly mastered the heating techniques. According to
+this scenario, they would have been able to obtain the desired colour or hue—from orange to red,
+*Received 30 June 2011; accepted 10 October 2011
+© University of Oxford, 2012
+
+Colouring materials at es-Skhul (Mount Carmel, Israel)
+
+699
+
+purple, brown or black—for use as a pigment after grinding into powder (Leroi-Gourhan 1961).
+Consequently, these materials would not have been part of the subsistence economy of these
+hunter–gatherers, but would have been integrated into a complex system of symbolic expression.
+Symbolic activities were therefore extrapolated from Leroi-Gourhan’s work. Later on, the discovery at other Palaeolithic sites of large quantities of red material raised the question of heat
+treatment: Were the red samples in fact yellow minerals transformed into red ones by deliberate
+heating?
+Over the past 15 years, analytical methods based on transmission electron microscopy
+have been developed that allow the identification of previously heated materials (Pomiès
+et al. 1999a,b). Using the above-mentioned protocol, it becomes possible to determine whether
+or not heat treatment was applied. Moreover, when the sample was heated, and when the
+archaeological and geological contexts are well known, this method can enable us to distinguish
+between a deliberate, and perhaps perfectly mastered, heating and an accidental one.
+Archaeological evidence of such technical practices is quite limited so far. It has been possible
+to demonstrate the unique occurrence of a colouring material ‘workshop’, adjacent to a Solutrean
+flint one in Les Maîtreaux (18 000 bp, Indre-et-Loire, France), with a specific zone where
+goethite was heat treated (Salomon et al. in press). This mineral was carefully and minutely
+heated in order to produce hematite; the materials were separated into a sand oven, situated within
+the fireplace, to control the temperature and heating time (Salomon 2009). In the same way,
+Pomiès revealed heated goethite in the Grotte abri Moulin in Troubat, a Pyrenean prehistoric site
+with successive Magdalenian and Azilian occupation (Pomiès et al. 1999c). Except for these
+spectacular cases, assumptions about intentionally heat-treated yellow materials must be considered with caution. For instance, no cases of heated materials were identified when the famous
+pigments from the Grotte du Renne at Arcy-sur-Cure were studied (Salomon et al. 2008;
+Salomon 2009).
+The heat treatment of colouring materials excavated in the Qafzeh cave (Israel) was demonstrated by Godfrey-Smith and Ilani (2004). This study, based on thermoluminescence, determined whether or not minerals containing quartz were heated. These red materials were
+apparently in contact with a source of heat at about 350°C. Nevertheless, this did not define the
+crystallographic nature of the material prior to heating: Was yellow goethite transformed into
+hematite, or was original hematite just placed close to a fireplace? The question of the intentional
+heat treatment of yellow colouring material in the Qafzeh cave remains an open one.
+Our attention focused on the colour and size of four deep red or partially yellow and red
+objects, in the Natural History Museum collection from es-Skhul. In a previous paper (d’Errico
+et al. 2010), we presented the preliminary results pointing towards a possible heat transformation
+of the es-Skhul red colouring remains. Since then, we have refined our methodology and
+identified with precision the traces of a past heating procedure concerning part of the archaeological colouring material excavated in the Mousterian rock-shelter. Furthermore, the identification of the exact mineralogical composition of the pigmented rocks now permits us to propose a
+pattern of raw material acquisition strategies, depending on the outcrops of ferruginous layers in
+the environment of the archaeological site. In our work, we have characterized the crystallographic and chemical compositions of these few colouring materials with the aim of identifying
+their geological sources, so that it would be possible to reconstruct procurement strategies, and
+contribute to knowledge of the mobility range of the Skhul people. Furthermore, these investigations have allowed us to study some technical practices in heat treatment. Putting this together
+as steps in the ‘chaîne opératoire’ allows us to determine the aims of colouring material
+procurement by the inhabitants of Skhul. This undoubtedly enriches our knowledge of the
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+700
+
+H. Salomon et al.
+
+behaviour of these people who, along with the inhabitants of Qafzeh and Tabun, were the first
+known group to have practised inhumation.
+During the 1930s, shells (Nassarius gibbosulus) were discovered at es-Skhul, in layers containing the remains of at least 10 early modern humans. In 2006, study of these Nassarius
+gibbosulus preserved at the Natural History Museum in London suggested that these materials
+were used for personal ornaments by early modern humans in the Levant around 100 000 years
+ago (Vanhaeren et al. 2006). At the same time, the environment of the Mount Carmel caves was
+reassessed by Vita-Finzi and Stringer in 2007. Following these studies, some 30 neglected
+samples of colouring materials, including six breccia blocks from the same layer of the es-Skhul
+rock shelter, were re-examined by our team. Given our experience with rock art paintings, it
+seemed valuable to take on the study of these blocks using a multi-scale analytical approach on
+microsamples. In the past few years, an exhaustive analysis of microsamples from prehistoric
+rock art paintings in caves such as Lascaux and Chauvet has been performed, and the analytical
+protocols proposed by Pomiès have been refined concerning heating procedures of iron and
+manganese oxides (Baffier et al. 1999; Pomiès et al. 1999a,b; Chalmin et al. 2003, 2004, 2006;
+Vignaud et al. 2006).
+THE ES-SKHUL ROCK-SHELTER
+
+The Wadi el-Mughara (Valley of the Caves) cuts through a limestone escarpment on the western
+slope of Mount Carmel, some 3.2 km from the Mediterranean shore. Mugharet es-Skhul (Cave of
+the Kids) is situated on the south-west slope of Mount Carmel, 20 km south of Haifa, on the
+banks of Nahal Me’arot (Wadi el-Mughara). The site was excavated by McCown in 1931–2, who
+identified three main layers. Human remains and Mousterian stone tools were found in layer B
+(2 m thick), which was divided into two sub-units, mainly distinguished by their hardness and
+by a different patina observed on flint (MacCurdy 1936; Garrod and Bate 1937; McCown and
+Keith 1939). The lithics of Skhul Layer B were attributed to the Levantine Mousterian and are
+comparable to those of Tabun C and Qafzeh (Garrod and Bate 1937; Bar-Yosef and Meignen
+1992; Shea 2003), while the macro-faunal remains in Layer B are similar to those of Tabun C
+to D (Garrod and Bate 1937). Ten adult and immature human individuals (Skhul I–IX) were
+excavated from layer B at es-Skhul. These are commonly attributed to archaic modern humans,
+similar to those from Qafzeh (Vandermeersch 1981, 2006; Vandermeersch et al. 1988; BelferCohen and Hovers 1992; Trinkaus 1992, 1993; Stringer 2002), even if the skeletons of Skhul,
+Tabun and Qafzeh are considered by other authors as essentially the same population, with a high
+degree of variability (Wolpoff and Caspari 1996; Arensburg and Belfer-Cohen 1998; Kramer
+et al. 2001). At least three of these (IV, V and IX) were recognized as intentional burials, and the
+Skhul V individual had a large boar mandible in its arms, suggesting a ritual deposit in association
+with the body. New ESR (electron spin resonance) and U-series analyses, including direct dates
+on the human fossils (skeleton II), indicate that the best age estimate lies between 100 and
+135 kya (Grün et al. 2005; Vita-Finzi and Stringer 2007), which corresponds to the previous
+dating by TL (thermoluminescence), estimated at about 119 1 18 kya bp (Mercier et al. 1993).
+The hardness and the elementary composition of the sediment adhering to a pierced shell indicate
+that it comes from layer B2. Additionally, the breccia that constitutes layer B shows an important
+distinction: layer B1 is quartz-rich, whereas layer B2 is calcite-rich.
+Even though Garrod and Bate did not report the presence of pigments in layer es-Skhul B, the
+presence of millimetre-sized red orange and yellow pieces in 30 fragments of breccia from layer
+B has been observed and counted. However, no information linking to any spatial association, or
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+Colouring materials at es-Skhul (Mount Carmel, Israel)
+
+701
+
+any artefact such as a burial or hearth, tools and so on, is available. These breccia fragments are
+preserved, like the shells, in the Department of Palaeontology of the Natural History Museum
+in London. Their labels unambiguously indicate that they come from es-Skhul layer B, and
+we collected from amongst them four blocks with a large centimetre-scale size, of various
+colours, to study their geochemical nature, their provenance and the possibility of anthropogenic
+preparation.
+
+MATERIALS: THE DESCRIPTION OF THE FOUR SPECIMENS
+
+The four pieces, called Sk1–Sk4, are presented in Figure 1.
+Sk1 is still partially included in the hard thin-grained breccia typical of the site B layer, and the
+red material presents an egg-like morphology. The breccia shows a facet corresponding to the
+surface of a large object to which it was originally adhering, possibly a flint artefact, considering
+the flat, smooth aspect of the face.
+Sk2 is a flat quadrangular fragment of a particular material, characterized by a gradual
+variation of colour from yellow to dark orange and red. We analysed two microsamples: one in
+the yellow part (Sk2-3) and one in the red part (Sk2-2). A fragment of 0.3 cm size that was
+accidentally removed from the red part was labelled Sk2-1. At a microscopic scale, areas of the
+flat surfaces show evidence of having been compressed. It is, however, difficult to establish
+whether this corresponds to utilization, post-deposition/excavation damage or compaction during
+genesis, due to the fragile nature of the material.
+Sk3 is a round fragment of pigment, with variation in shade from red to light pink. Its surface
+is partly covered by residues of hard breccia.
+Sk4 is a large piece of pigmented material from which a part of the original volume has been
+removed by percussion. The scar exposes a plastic and homogeneous dark red matrix, which
+
+Figure 1 Specimens Sk1–Sk4. The black squares indicate the locations of the microsamples, with a mention of their
+label.
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+702
+
+H. Salomon et al.
+
+shows evidence of abrasion close to one end, in the form of two flat facets covered by striations.
+It is impossible to determine whether the removal and abrasion are ancient in origin. However, the
+softness of the material suggests that they may have been produced accidentally during the
+excavation.
+ANALYTICAL METHODS
+
+The four specimens were examined in London under a reflected-light microscope in order to
+record anthropogenic and natural modifications, and to identify areas suitable for sampling.
+Sampled areas are indicated in Figure 1. Sampling was conducted under the microscope with a
+sterile scalpel, and some micrograms of matter were preserved in a labelled micro-tube. Photomicrographs of the sampled area were taken before, during and after the sampling process for
+conservation reasons, and to leave a record for future studies. A copy of this documentation is
+kept at the Department of Palaeontology, Natural History Museum, London. Eleven samples
+were taken: 10 consist of pigmented material, and one is a fragment of breccia adhering to Sk1.
+We noted that the specimen Sk1 presents magnetic properties, as it adhered to the stainless
+steel tweezers.
+In the C2RMF (Paris) laboratory, the samples were observed at various scales:
+• First, under binocular microscopy, we noted the homogeneity of the matter, and we eliminated
+quartz or calcite grains and other types of superficial contamination.
+• The millimetre-sized samples, placed in a pure nickel cup without any specimen preparation,
+were observed under scanning electron microscopy (SEM). The observations were conducted
+using a Philips XL30 CP instrument, under 10–15 kV for secondary or retro-diffused electron
+imaging, to avoid charging effects. The Link Isis 300 energy-dispersive X-ray equipment (EDX)
+was used under 20 kV and a 10 mm working distance, for elementary analysis. Semi-quantitative
+treatment of the spectra, with ZAF corrections, were also performed. Note that the nickel
+spectrum of the cup does not interfere with the mineral spectra.
+• Sk2-3 (yellow part) SEM observations were completed by a special study at the Laboratoire
+Interfaces et Systèmes Electrochimiques, Université Pierre et Marie Curie, Paris. High-resolution
+micrographs, in SE and BSE mode under low voltage (5 kV), were recorded using the Zeiss
+UltraTM 55 SEM FEG (field emission gun), and EDX analysis conducted at 8 mm working
+distance under 15 kV with a Brucker system.
+• The samples were also characterized by transmission electron microscopy (TEM) at the
+nanometric scale. A small part of each sample was first ground in an agate mortar. Then, the
+resulting powder was dispersed ultrasonically in ethanol. A droplet of this suspension was
+deposited on to a carbon-coated copper grid. This procedure required a very small quantity of
+powder (less than 1 mg). It is necessary to obtain a good dispersion of crystals thin enough to be
+transparent under the 200 kV electron beam, and to allow selected-area electron diffraction
+(SAED). Two TEM grids were prepared and studied for each sampling. Manual grinding of the
+sample breaks up the polycrystalline macrostructure, giving access to the nanostructure of each
+crystal without any crystallographic modification (Šubrt et al. 2000). TEM observations and
+electron diffraction were conducted using a Jeol 2000 FX instrument (operating voltage 200 kV),
+equipped with an EDX analysis system (Oxford, ISIS 300) at the Laboratoire de Métallurgie
+structurale de l’Ecole Nationale Supérieure de Chimie, in Paris.
+• Powder mX-ray diffraction (XRD) can be performed on small quantities of material and is
+compatible with conservation considerations. Some powder is introduced into a capillary tube to
+perform such an analysis. The analyses were made using an X-ray microdiffraction system
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+Colouring materials at es-Skhul (Mount Carmel, Israel)
+
+703
+
+developed at the C2RMF. This equipment uses a Rigaku copper X-ray tube (X-ray emission:
+8.042 keV) collimated down to 200 mm, which can be operated at a maximum voltage of 45 kV
+and current of 660 nA. The detector is a 2D Rigaku. The acquisition time generally ranged
+between 5 and 15 minutes, and the circular diffractograms obtained were calibrated in 2q, to be
+later transformed into linear ones with software developed by A. Hammersley (ESRF) (Hammersley et al. 1997). Raman microscopy was not used because of the known inefficacy of this
+method to discriminate between hematite obtained by heating of goethite and natural hematite (de
+Faria and Lopez 2007). Furthermore, the phosphates are better characterized by XRD than by
+Raman.
+• The 0.3 cm fragment separated by accident from Sk2 (Sk2-2) was embedded in epoxy resin,
+cross-sectioned and finely polished using 0.25 mm size diamond spray, then analysed by the
+mXRD system in order to identify its mineral phases.
+This cross-section allowed m-PIXE–PIGE analysis in a helium atmosphere, using the 3 MeV
+external microbeam line, at the AGLAE tandem particle accelerator at the C2RMF (Beck et al.
+2011). The PIXE detectors are made of Si(Li). One of them is covered with an aluminium filter
+of 50 mm in order to limit the signal of low-energy elements. Procedures on how to derive
+elemental concentrations from mPIXE spectra are described in Maxwell et al. (1989) and, more
+recently, in Pichon et al. (2010). m-PIGE was also conducted to quantify the fluorine content of
+the sample. We used the proton 3 MeV line equipped with a HP Ge (hyper-pure) detector. Each
+five points were analysed for 25 min. In addition, the cross section Sk2-1, after carbon coating,
+allowed high-resolution BSE imaging with the Philips XL30 ESEM FEG at Catm (University of
+Liège, Belgium). The corresponding EDX spectra were recorded under 15 kV, and at 10 mm
+working distance.
+ANALYTICAL RESULTS
+
+SEM–EDX analysis
+The SEM–EDX analyses revealed that the four pieces from es-Skhul layer B present different
+mineral associations and textural features.
+The typical features of the sediment adhering to sample Sk1 correspond to a formation usually
+called ‘breccia’. Sample Sk1-2, layer B breccia, is made of a grey–beige matrix-cement phase
+enclosing fine red and black grains (Fig. 2 (a)). The sediment presents angular elements contained
+in a fine-to-medium grained matrix, cemented by a cryptocrystalline calcite. The breccia microstructure studied by SEM (Fig. 2 (b)) reveals tabular crystals (5–20 mm length). EDX analysis
+shows the main components: calcium (calcite) aluminosilicate (clay) and quartz grains. The
+spectra additionally show a few traces of phosphorus and iron in addition to the main Ca peak
+(Fig. 2 (c)).
+The very porous matrix of Sk1 and red- or yellow-coloured Sk2 is composed of calcium,
+phosphorus and iron; that is, an iron-rich phosphorite (EDX spectrum; Fig. 3 (b)). The characteristic matrix consists of a globular and fibrous microstructure made of different-sized and
+agglomerated empty spheroids. The biggest ones were about 1–5 mm diameter. These empty
+spheres appear to be covered with superficial tiny dendrites measuring 100–200 nm in length.
+The smallest one is about 0.5 mm diameter and also covered with tiny dendrites (SE micrograph;
+Fig. 3 (a)).
+Specimen Sk2 shows a shading from the yellow part (Sk2-3) to the bright red opposite part
+(Sk2-1 and Sk2-2) (Fig. 1), which at first suggested a possible heating process. The yellow part
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+704
+
+H. Salomon et al.
+
+Figure 2 (a) A micrograph of the breccia under the binocular microscope. (b) An SEM micrograph, in BSE mode, of
+tabular calcium-rich crystals with aluminosilica, limited iron grains and quartz grains. (c) EDX analysis of the breccia.
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+Colouring materials at es-Skhul (Mount Carmel, Israel)
+
+705
+
+Figure 3 (a) An SEM micrograph, in SE mode, of sample Sk1, revealing the spheroidal and hollow structures of 1–5 mm
+diameter. (b) the respective EDX spectrum with the three main peaks for P, Ca and Fe.
+
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+706
+
+H. Salomon et al.
+
+and the red fragment of Sk2 show similar spheres, with the tiny dendrites already observed in
+microsample Sk1. No elementary composition difference was registered between the yellow and
+red samples. P, Ca and Fe are major elements; the difference in the Fe peak heights between red
+and yellow samples can be explained by absorption phenomena, due to the superficial relief of the
+samples.
+On the yellow Sk2-3 powder, without preparation, we specifically carried out high-resolution
+scanning electron microscopic analyses to assess and determine the respective morphology
+of the calcium phosphate and iron oxide crystals. The observations in backscattered electron
+(BSE) mode with the FEG–SEMTM 55 reveal the presence of two types of crystals, identified at
+1000–2000¥ magnification. The first ones, with a 20–50 nm prismatic shape, correspond to
+calcium phosphate. The second ones present the typical acicular shape of goethite and measure
+200 nm in length (Fig. 4). In fact, some spheroidal structures were completely colonized by the
+iron oxides, whereas some others are only covered by an iron crust of about 200 nm (Fig. 5 (a)).
+The carbon-coated cross-section Sk2-1 observed using the Philips XL30 ESEM FEG at the
+University of Liège clearly points out the different structures that constitute this ferruginous
+phosphorite, and the different intensity of the ferruginization process. The structures appear to be
+tubular, curved, spheroidal or fibro-radial (Figs 5 (b)–(d)). The smallest ones barely measure
+100 nm in diameter. This cross-section clearly shows hollow spheres and curved tunnels, which
+suggest a microbial dissolution process, ancient bacterial activity and weeds (remains of
+aquatic plant material). The fibro-radial structures would better correspond to fungi due to damp
+conditions.
+These observations confirm the fact that the initial fossilized organic structures formed a
+sedimentary rock called phosphorite. Subsequently, the micro-organic structures were conserved
+by a differential ferruginization of their external and internal membranes during an epigenetic
+episode.
+Thus the Sk1 and Sk2 samples are phosphate rock of biochemical origin, referred to as the
+phosphorite rock francolite and sometimes identified as sedimentary apatite, taking into account
+the coupled calcium and phosphorus contents. Referring to the sum of the solitary main atoms
+(Ca + P + Fe), we measure a high-content iron level of more than 50 at%. Up to now, this very
+peculiar rock has never been encountered in colouring minerals from prehistoric excavations.
+The pink sample Sk3 reveals a potassium-rich clay (aluminosilicate) with a high calcite content
+and some titanium-rich iron inclusions (BSE micrograph and EDX spectrum illustrated in Fig. 6).
+This iron-enriched clay (illite type) presents iron oxide grains, which were well identified by
+EDX analysis.
+Sk4 shows a dark red colour compared to red Sk1. Well-formed tabular crystals are revealed
+by SE observations (Fig. 7 (a)) and an EDX analysis spectrum (Fig. 7 (b)), with a main high iron
+peak. This sample is essentially composed of red iron oxide.
+X-ray microdiffraction on the yellow-to-red piece Sk2-1 and Sk2-3
+Each sample provided interpretable m-diffractograms (Table 1). Except for the cross-section
+Sk2-1, the powder samples were introduced in a capillary tube to carry out the analysis. For
+samples Sk1 and Sk2, goethite or hematite mixed with calcite, hydroxylapatite and whitlockite
+were well identified. Whitlockite may present different structures, so that the main diffraction
+rays could shift with respect to the pattern of the natural regular formula of whitlockite,
+Ca9MgFe(PO4)6(PO3)OH, referring to the sheet number 00-009-0169 ICDD (The International
+Centre for Diffraction Data) reference card. Thus we refer to the diffraction pattern of whitlockite
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+Colouring materials at es-Skhul (Mount Carmel, Israel)
+
+707
+
+Figure 4 High-resolution Zeiss SEM FEG micrographs of the yellow part of Sk2-3: (a) spherical structures; (b) the
+architecture of the structure made of prismatic crystals measuring 20–50 nm, colonized by crystals with the typical
+acicular shape and size (100–200 nm) of goethite.
+
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+Figure 5 (a) High-resolution Zeiss SEM FEG micrographs of the yellow part of Sk2-3, in BSE mode, presenting spherical structures either colonized by the ferruginous
+material or covered with a crust of iron-rich material. (b–d) High-resolution XL30 ESEM FEG micrographs of the red cross-section of Sk2-1, in BSE mode: (b) ferruginous
+tubular and spherical structures of micrometric size near structures of infra-micrometric size; (c) ferruginous spherical structures; (d) fibro-radial structures 5–7 mm in
+diameter, presenting different stages of ferruginization.
+
+708
+H. Salomon et al.
+
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+Colouring materials at es-Skhul (Mount Carmel, Israel)
+
+709
+
+Figure 6 (a) An SEM micrograph, in BSE mode, of the iron and calcite-rich clay of sample Sk3. (b) The EDX spectrum
+reveals the presence of titanium within this material.
+
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+710
+
+H. Salomon et al.
+
+Figure 7 (a) An SEM micrograph, in SE mode, of iron tabs in sample Sk4. (b) An EDX spectrum of almost pure iron
+material.
+
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+Colouring materials at es-Skhul (Mount Carmel, Israel)
+
+711
+
+Table 1 mXRD identification of the various constituents in the samples and breccia
+
+Sample
+Sk1
+Sk2-1
+Sk2-2
+Sk2-3
+Sk2-4
+Sk3
+Sk4
+Sk breccia
+
+Hematite
+
+Goethite
+
+¥
+¥
+¥
+¥
+¥
+¥
+
+¥
+¥
+
+Calcite
+
+Hydroxylapatite
+
+Whitlockite
+
+¥
+¥
+¥
+
+¥
+¥
+¥
+¥
+¥
+
+¥
+¥
+
+¥
+¥
+
+Quartz
+
+¥
+
+¥
+
+¥
+
+documented by Calvo and Gopal (1975), which is the most suitable. In addition, for the red Sk1,
+Sk2-1, Sk2-2 and orange Sk2-4, the diffraction patterns present a non-uniform broadening of the
+peaks of hematite, structural information that suggests a hematite produced by dehydration of
+goethite. This needs to be confirmed by transmission electron microscopy, since natural hematites
+also present this particularity (Pomiès et al. 1999b; de Faria and Lopez 2007). The diffractogram
+of the orange Sk2-4 sample clearly shows the association of calcite, hydroxylapatite and whitlockite, goethite and hematite. The pattern of hematite presents a non-uniform broadening of the
+peaks too (Fig. 8).
+PIXE–PIGE elementary analysis on the yellow-to-red piece Sk2-1
+PIXE–PIGE analysis is generally considered an effective technique with which to obtain reliable
+quantitative results. We report the results in Table 2 in weight percentages for major compounds
+such as oxides and phosphate, and in weight ppm for minor oxides and fluorine.
+With PIGE, around 750 ppm fluorine content in Sk2-1 was detected. The fluorine concentration was calculated by comparison with a reference sample of MicaMg, which contains 2.85%
+fluorine, by using gamma-ray peaks at 110 and 197 keV. Three measurements were made on both
+the archaeological and the reference samples. The average value of fluorine detected in Sk2-1 is
+736 1 90 ppm [(min. – max.) = 634–843 ppm]. The dispersion of the values is due to the sample
+heterogeneity. With respect to the calcium phosphate phase, fluorine represents around 0.15%.
+The fluorine content certainly indicates a single mineral solid solution phase between carbonate
+hydroxylapatite (dahlite) and carbonate fluorapatite (francolite).
+Nanostructure study and stigma research of heat treatment by TEM
+On polychromic specimens (Sk2 and Sk3), the colour gradient between yellow and red suggests
+a modification resulting from heating.
+In previous studies, we showed that hematite iron oxide crystals may track previous heat
+treatment in their structural and crystallographic features. In particular, at low temperature,
+morphological changes appear on acicular, single-crystal goethite (FeOOH) crystals as a consequence of dehydration. A porous nanostructure forms by a topotactic crystallographic transformation (i.e., internal atomic displacements). At higher temperatures, recrystallization occurs as a
+growth in the three directions (Pomiès et al. 1998, 1999a,b).
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+Figure 8 A diffractogram of the orange of sample Sk2-4. The pigment phases are represented by goethite and hematite. The apatite phase is a mixture of whitlockite and
+hydroxylapatite. A calcite phase has been identified.
+
+712
+H. Salomon et al.
+
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+Colouring materials at es-Skhul (Mount Carmel, Israel)
+Table 2
+
+713
+
+Sk2-1 PIXE analysis reveals concentrations of 43 wt% iron oxides and nearly 50 wt% calcium phosphate,
+with few traces of fluorine measured by PIGE
+
+Wt%
+
+Wt (ppm)
+
+Wt (ppm)
+
+Na2O
+
+MgO
+
+Al2O3
+
+SiO2
+
+P2O5
+
+SO3
+
+Cl
+
+K2O
+
+CaO
+
+MnO
+
+Fe2O3
+
+ZnO
+
+SrO
+
+PbO
+
+F
+
+0.31
+
+1.01
+
+0.63
+
+1.61
+
+21.33
+
+0.45
+
+0.29
+
+–
+
+30.75
+
+0.27
+
+43.09
+
+456
+
+257
+
+631
+
+736
+
+The micrometric scale shows hollow spheres of some microns diameter, for Sk1 and Sk2.
+However, at the nanometric scale the material is very poorly crystallized. In fact, hematite or
+goethite crystals and apatite crystals have a size of less than 50 nm. This is the reason why the
+distinction between apatite and nanometric iron oxide crystals, and consequently heat-treatment
+marks, proved difficult.
+The dehydration process of the goethite–hematite phase transition implies the growth of the
+nanopores containing water from the pristine hydroxide within the new oxide crystals. Three
+parameters—the temperature, T, the duration of the heat treatment, t, and the thickness of
+the original crystal—control the kinetics of the process. All these parameters have to be taken
+into account and the morphology of the nanopores compared with those of well-known experimentally heat-treated ‘goethites’: synthesized goethite from a Fe(III) system (Schwertmann
+and Cornell 1991). The product consists of acicular crystals, measuring approximately
+1000 nm ¥ 100 nm. Samples of natural goethite (nanocrystalline—i.e., particles less than
+10 nm in size—and polycrystalline) from different geological contexts (metamorphic pyrenean
+beds, Sidérolithique crust of the Dordogne in France, Cretaceous ochres from Roussillon and
+Puisaye, and sparnacian ferruginous siltstone, for instance) and the synthesized ones were
+heat treated at temperatures ranging from 200°C to 1000°C (for at least 2 h) (Pomiès et al.
+1999a). To estimate the temperature and the duration of the exposure to heat, it is necessary to
+measure the size of the dehydration pores and observe their morphology and uniformity among
+the crystals.
+Sk1 presents a poorly crystallized calcium phosphate, and iron oxide crystals were identified
+unambiguously by electron diffraction as hematite with the first ring (012) at 0.366 nm. However,
+these hematite crystals retain the original acicular shape of goethite, with individual, spherical
+and longitudinal 5–10 nm diameter pores (Figs 9 (a1)–(a3)).
+The irregularity of the morphology of the nanopores leads to the conclusion that heat treatment
+was applied, the duration of which may be estimated at less than 2 h. The piece that presents a
+homogeneous red colour results from a yellow goethite fragment that has undergone a rather
+short heating at a temperature near 500°C.
+The Sk2 specimen appears to be a good example of a possibly partially heated goethite-rich
+material. On the yellow Sk2-3 TEM grid, thanks to EDX analysis, it is possible to identify, among
+poorly crystallized calcium phosphate, some iron-rich acicular single crystals, between 30 and
+100 nm long. The selected area electron diffraction (SAED) pattern identifies the goethite
+structure of the iron hydroxide FeOOH (Figs 9 (b1)–(b2)). It presents the first dhkl (020) 0.498 nm
+ring, specific to the orthorhombic structure of goethite.
+On the red Sk2-2 TEM grid, among poorly crystallized calcium phosphate, similar acicular
+crystallites of iron oxide are present, as in the yellow portion. Meanwhile, the internal diffraction
+contrast shows structural changes: it reveals a porous nanostructure produced by dehydration
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+714
+
+H. Salomon et al.
+
+Figure 9 TEM micrographs and microdiffraction patterns. (a) Red sample Sk1: (a1) Porous hematite presenting the
+acicular shape of the pristine goethite—dehydration nanopores are revealed thanks to the diffraction contrast; (a2) a
+drawing of the nanopores of dehydration within the crystals that present either a spherical or a channel-like shape; (a3)
+an electron diffraction pattern of hematite [first ring at 0.366 nm of the (012) diffracting plane]. (b) Yellow sample Sk2-3:
+(b1) an acicular crystal of goethite, measuring 100 nm in length; (b2) the electron diffraction pattern of goethite [first
+rings at 0.498 and 0.418 nm, corresponding to the (020) and (110) diffracting planes]. (c) Red sample Sk2-2: (c1) porous
+and acicular-shaped crystals; (c2) a drawing of the channel-like and spherical dehydration nanopores; (c3) the electron
+diffraction pattern of hematite and calcite. (d) Pink sample Sk3: (d1) a hematite crystal measuring 40 nm and emerging
+from a mass of clay and calcite; (d2) the electron diffraction pattern of a polycrystalline hematite. (e) Dark red sample
+Sk4: (e1) a hematite nanoporous crystal; (e2) a drawing of the spherical and channel-like dehydration nanopores.
+
+(Figs 9 (c1)–(c3)). SAE diffraction clearly identifies the hematite structure: the first 0.498 nm
+(020) and 0.418 nm (110) rings characteristic of goethite are missing, the first ring 0.366 nm
+(012) of hematite being present.
+The stage of growth of the dehydration pores is illustrated by the variation of their size from
+0.5 nm to 4 nm and their morphology: some are spherical, whereas others are longitudinal. The
+small size, the longitudinal arrays of the pores and the heterogeneity of their shape indicate a very
+early dehydration stage and a short heating at a moderate temperature (Pomiès et al. 1999a). The
+dehydration of the goethite into hematite perfectly accounts for the red colour of the sample. As
+this piece is not entirely red and is partially composed of goethite and hematite, the heating has
+only affected a restricted area. Sk2 probably remained on the edge of a hearth for a relatively
+short period of time, during which the temperature increased to ~300°C.
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+Colouring materials at es-Skhul (Mount Carmel, Israel)
+
+715
+
+Sk3, the pink-coloured portion, observed by TEM, presents poorly crystallized calcium carbonate, including hematite crystals that are 50 nm long and that lack any morphological characteristics. These crystals do not reveal any dehydration pores or heat-treatment traces by contrast
+analysis (Figs 9 (d1) and 9 (d2)). That is to say, this colouring material was originally yellow to
+pink, and has been extracted from the bed rock as such, without any heat treatment.
+On the brown- to red-coloured sample Sk4, with a large micrometric tabular feature of almost
+pure iron oxide, rather thicker 50 ¥ (100–150) nm crystals are observed and identified as hematite. The acicular morphology turns into a quite polygonal form, but with internal, spherical pores
+(Figs 9 (e1) and (e2)). The coincidence of the longitudinal and spherical pores about 10–15 nm
+in diameter is an indication of an estimated heating temperature below 500°C, lasting less than
+2 h. Furthermore, the homogeneous internal colour demonstrates a homogeneous heating of the
+goethite.
+To conclude, we point out that the TEM study provides very useful information on the
+mineralogical, and consequently the geological, origins of the red specimens Sk1, Sk2 and Sk4.
+These pieces were all yellow and goethite-rich when being mined, and they obviously came from
+two different goethite formations. Sk1 and Sk2 originate from a calcium phosphate context of a
+type that we are going to discuss, whereas Sk4 is almost exclusively composed of iron oxide,
+which is exceptional. The inhabitants of the es-Skhul shelter gathered yellow colouring materials
+that have been heated sufficiently to turn red.
+Two questions now arise. Are these types of geological formation in the vicinity of the
+es-Skhul rock-shelter? We will refer to bibliographical results to answer this question. The second
+question is whether or not these yellow colouring materials were intentionally heated.
+THE GEOLOGICAL ORIGINS OF THE SPECIMENS
+
+Stratigraphy and sedimentary
+As established by Goldberg and Nathan (1975) and Shahack-Gross et al. (2004), chemical
+cementation in Levantine caves usually produces calcitic deposits grading laterally into detrital
+sediments, which they cement, producing what is currently called ‘breccia’. Water, especially
+water dripping from the ceiling, thus plays a major role in cementation processes, creating
+erosional features.
+In fact, organic matter such as guano from bats and birds, which is particularly abundant in
+caves, are the major contributors to the production of phosphates, mainly attributed to the
+interaction of decomposition products of bat guano with cavity wall rocks (Hutchinson 1950; Hill
+and Forti 1997; Liu et al. 2008). For example, at Tabun cave, situated a few hundred metres away
+from es-Skhul, ‘millimeter-sized, well-rounded and polished gizzard stones’, evidence of the past
+presence of birds, represent about 1% of the sediment by weight (Goldberg 1978; Karkanas et al.
+2000). However, in Tabun Cave, ESR dating evidence for the formation of phosphates is around
+45–75 kya; that is, after the formation of the archaeological deposits in the es-Skhul cave. We can
+thus dismiss the hypothesis of a past procurement of the Skhul ferruginous phosphates in the
+apatite veins of Tabun.
+In contrast to marine phosphorites, which are usually characterized by carbonate fluorapatite—
+that is, francolite—the supergene phosphorites (continental formation) contain F-free carbonate–
+hydroxylapatites such as dahllite (Narchemashvili and Sokolova 1963). For example, the
+phosphorites formed from guano in limestone caves in South Korea are characterized by their
+lack of fluorine. So are the phosphorites stemming from guano in Arkheologicheskaya Cave (East
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+716
+
+H. Salomon et al.
+
+Siberia), made of tubular structures measuring 5–10 mm in external diameter and 8 mm in internal
+diameter, identified as capsules of cyanobacterial filaments mixed with tabular fragments (Zanin
+et al. 2005).
+In our study, we identified a sedimentary rock made of fossilized micro-organisms, mainly
+microscopic rootlets of weeds, bacterial organisms and fungi, which are not consistent with the
+phosphatization process of guano (Zanin et al. 2005; Liu et al. 2008). Furthermore, the lack of
+fluorine excludes the possibility of genesis from guano deposits. Moreover, the phosphate phase
+is clearly identified as having been composed of fluorohydroxylapatite and whitlockite. That is
+the reason why we consider that the ferruginous phosphorite excavated at es-Skhul was mined
+from a marine phosphorite formation. Furthermore, the possible compaction figure observed on
+specimen Sk2 could correspond to mechanical transformations such as those that have already
+been observed among many ferruginous phosphorite nodules at the top of the Mishash formation
+(Panczer 1990).
+In summary, three arguments lead us to conclude that the ferruginous phosphorites found at
+es-Skhul derive from marine phosphorite formations, either in the Negev region (Israel) or in
+Judea or Samaria (West Bank, Palestinian Authority):
+• the presence of fossilized rootlets (weed), bacterial micro-organisms and fungi;
+• the association of hydroxylapatite and whitlockite;
+• the presence of fluorine; and
+• the possible compaction observed on specimen Sk2.
+Besides, as we have shown up to now, the procurement strategy was oriented towards mining
+either red hematite-rich colouring materials, as illustrated by sample Sk3, or yellow goethite-rich
+colouring materials that would be heated, as illustrated by the red samples Sk1 and Sk4, or the
+yellow-to-red sample Sk2.
+The geological environment of the es-Skhul shelter and the presence of ferruginous
+materials Es-Skhul is situated in a Cenomanian–Turonian dolomite and limestone formation,
+belonging to the Judean group. The Nahal Me’arot cuts a gash through this formation, exposing
+layers of volcanic rocks interbedded with the carbonates (Fig. 10).
+Many sites of iron-rich raw material have been found as outcrops in the surroundings of the
+cave, according to the literature. Seven sites have been surveyed in a 10 km area around the
+Mount Carmel caves (Weinstein-Evron and Ilani 1994). These correspond to epigenetic iron
+mineralizations, in close relationship with the volcanic rocks, and fill the fractures within the
+carbonates along the faults that show the volcanic deposited layers. The iron formations are
+generally made of goethite, and more rarely hematite. The ferruginous mineralizations occur in
+veins, lenses and concretions measuring 1 to 10 m in length, and ranging from a few millimetres to a few centimetres in thickness (Weinstein-Evron and Ilani 1994). Thus the iron comes
+from the diagenesis of volcanic rocks. Goethite and/or hematite are trapped in two different
+types of rock. Some are silica-rich (jasperoid), while the others are carbonate-rich (calcite or
+dolomite).
+Sk3 is a potassic clay melted with carbonates enriched with hematite or goethite. This material
+may occur in the neighbouring formations. As for sample Sk4, composed exclusively of hematite
+resulting from the heating of a previous goethite, we cannot exclude a local origin.
+Samples Sk1 and Sk2, originally goethite-rich, are naturally melted with calcium phosphate—
+hydroxylapatite and whitlockite. They present a microstructure typical of marine microorganisms. These characteristics evoke the well-known sedimentary deposits of phosphorite in
+the desert of the Negev. As they are industrially extracted, they have been the subject of intense
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+Colouring materials at es-Skhul (Mount Carmel, Israel)
+
+717
+
+Figure 10 (a) The localization, in grey, of the iron mineralizations in the vicinity of the es-Skhul rock-shelter (modified
+after Weinstein-Evron and Ilani 1994). (b) A geological uniform map at 1:200,000 scale: the phosphorite mineralizations
+are represented in black, and the nearest formations are located 80 km from the archaeological site (courtesy of the Israel
+Geological Survey).
+
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+718
+
+H. Salomon et al.
+
+and numerous studies. These deposits contain at least 50% apatite, and the phosphogenesis leads
+to the formation of phosphate grains that subsequently concentrated. The Negev phosphorites
+reveal bacterial activities and are essentially formed with primary sea and plant producers
+(Panczer 1990; Soudry and Nathan 2000). The microstructure of the Sk1 and Sk2 samples is
+similar to that of Negev phosphorites, presenting coalescent hollow structures of 1–2 mm diameter made of microspheres of granular crystallites typical of secondary cryptocrystalline apatite
+(Panczer 1990; Soudry 1992; Jimenez-Millan et al. 1998; Soudry and Nathan 2000; Franquin
+et al. 2006). Goethite grains develop in the hollow and fibrous structure of some nodules (Panczer
+1990). This implies that these two samples from Skhul formed in a marine context, probably as
+a result of the diagenesis of marine fauna and plant remains, which explains the presence of
+calcium phosphates (Adderley et al. 2004). In the Mishash formation (Maastrichtian), the
+phosphate series are topped by ferruginous phosphorites containing goethite. These ferruginous
+phosphorites with goethite ferruginous concretions generally form brown, thin and compact
+encrusting. Furthermore, the formation is locally overlain with layers containing goethite, among
+other minerals (Soudry and Lewy 1988; Panczer et al. 1989; Soudry 1992).
+It is significant that the ferruginous phosphate layer occurring in the Negev has a much wider
+regional extension, including the Judean Desert; for example, Tarkumia (western Judea Mountains) or Pazael (eastern Samaria), where sequences are precisely described (Fig. 10; Panczer
+1990). In Pazael in particular, some 80 km SSE from es-Skhul, the stratigraphic position of such
+ferruginous goethite-rich phosphorites is well known in the Ghareb formation (Maastrichtian). In
+this section, we can find a goethite/limonite layer of about 0.3 m surmounted by a crust of
+ferruginous concretions. This shows that the phosphate nodule layer is a regional phenomenon
+that results from different phosphogenesis events. In sum, the ferruginous phosphorites are
+concentrated in thin layers within an encrusting scatter over a large region (Samaria, Judea and
+the Negev) and they are always associated with goethite.
+These materials cannot originate from the Cretaceous formations that surround the Nahal
+Me’arot. Actually, the nearest iron-phosphorite formations are about 80 km south or south-east of
+the es-Skhul rock-shelter.
+We feel that it is now indisputable that the colouring materials of es-Skhul were mined at some
+distance away from the immediate area surrounding the cave. What is more, the ferruginous
+phosphorite materials were originally goethite-rich.
+It is interesting to consider the procurement strategies in the Qafzeh cave, because it is also a
+Mousterian rock-shelter with evidence of mortuary practices. Furthermore, many colouring
+materials, mostly red, have been excavated. The site is located in northern Galilee, near Nazareth,
+some 30 km east of es-Skhul. It reveals a local procurement strategy for yellow and red materials;
+that is, goethite-rich or hematite-rich sandstone and siltstone from Mount Devora and Mount
+Tavor, about 8 km from the cave (Hovers et al. 2003). As this material is not represented among
+the es-Skhul colouring artefacts, we do not have to look for geological formations in an eastern
+direction, but to the south. That is to say, samples Sk1 and Sk2 most probably originated from the
+Ghareb formation around Pazael, about 80 km away from es-Skhul, which is relevant to the
+hypothesis of ‘minimal moving’ (Fig. 10).
+This minimal theoretical distance, expressed in kilometres measured in a straight line, in order
+to obtain an absolute distance comparable to other studies, indicates a possible relationship
+between two different places. The relationship is represented by a line on the map (Demars 1982),
+but has nothing to do with the actual path followed by prehistoric people—which is, of course,
+conditioned by the relief of the landscape, and is always longer. That is why we emphasize the
+fact that this distance was in reality even further, and therefore noteworthy.
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+Colouring materials at es-Skhul (Mount Carmel, Israel)
+
+719
+
+Samples Sk1 and Sk2 allow us to sustain the hypothesis that materials may come from very
+great distances, which in Eurasia has generally only been attributed before to the Upper Palaeolithic period and specific materials—flint, obsidian and marine shells—or for the Middle
+Palaeolithic in Europe for the procurement of flint. Never before have we been able to demonstrate that colouring materials have travelled such long distances for such a remote period as the
+Levantine Mousterian.
+
+CONCLUSIONS: THE IMPORTANCE OF THE HEAT TREATMENT AND USE OF COLOURING
+MATERIALS IN THE ES-SKHUL 100 000 BP CONTEXT
+
+As no pieces of the colouring materials of es-Skhul exhibit any trace of utilization, such as facets,
+grooves, notches, incisions, holes or traces of percussion—in other words, no particular macroscopic traces of anthropic activities are present—it is difficult to determine whether or not these
+colouring materials were used.
+However, during this study, new data have emerged that demonstrate that heat treatment was
+intentional, even if it was not systematically controlled. Indeed, we have shown that Sk2 was
+initially entirely yellow and goethite-rich, and turned red on a restricted area of the block due to
+the heat. This block was probably left next to an extinguishing fireplace. Thus Sk2 is an example
+of an accidental or non-controlled heating of goethite.
+On the contrary, for samples Sk1 and Sk4, the heat transformation was performed completely,
+so that from yellow, the blocks turned red. The mineralogical composition of these samples
+differs, although initially both were mainly composed of goethite.
+Regarding sample Sk3, it was not heated, and it was extracted in the neighbouring formations
+of iron mineralization.
+The multiplicity of the geological origins of the yellow and the red raw materials, whose
+geological sources could be at least 80 km away from the site (we know that at least three sources
+were mined), and the fact that two of these types of raw material were heated, are arguments that
+lead us to consider that the colouring materials desired by the inhabitants of es-Skhul had to be
+either red or hematite-rich. However, they collected yellow materials that became red due to heat
+treatment at a temperature of about 500°C.
+Despite sparse documentation and only few pieces of colouring artefacts, we conclude that
+these materials were the subject of a well-organized procurement strategy. It involved subsequent
+heat treatment of the original yellow colouring materials.
+The Cenomanian–Turonian mineral environment is favourable to flint collecting, as was the
+neighbouring seashore that could supply shells. For these two raw materials that were effectively
+collected by the inhabitants of the es-Skhul cave, the catchment area was local and could have
+been restricted to a 5 km area. It is remarkable that for some colouring materials, the Mousterian
+people of es-Skhul instead made the choice to gather remote cores, exploiting a catchment area
+80 km to the south of the cave. This important distance is the evidence of the possible high value
+of these materials, even though some iron mineralizations were accessible in the much more
+immediate vicinity.
+As for the particularities of the Levantine Mousterian, it is also remarkable that some cultural
+characteristics are connected with the exploitation of colouring materials. Indeed, as well as the
+Mousterian flint industries, graves and possible shell ornaments testified in the Qafzeh and
+es-Skhul caves, we can now add the behaviourally important acquisition, heating and utilization
+of colouring materials.
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+720
+
+H. Salomon et al.
+ACKNOWLEDGEMENTS
+
+We would like to thank Robert Kruszynski for facilitating access to the material kept at the
+Natural History Museum and for the pigment sampling. We thank Renata Garcia Moreno and
+Helena Calvo del Castillo for their critical reading. This research was made possible thanks to
+the financial support of the CNRS–OMLL programme of the European Science Foundation, the
+Programme ORIGINE II of the Aquitaine Region, the Programme PROTEA of the French
+Ministry of Higher Education and Research, the European Research Council (FP7/2007/2013)/
+ERC Grant TRACSYMBOLS n# 249587) and the ULg (Liège University) programme for
+post-doctoral fellowship. Chris Stringer is a Member of the Ancient Human Occupation of
+Britain project, funded by the Leverhulme Trust.
+We also thank Stephan Borensztajn (UPR 15 CNRS, Laboratoire Interfaces et Systèmes
+Electrochimiques, Université Pierre et Marie Curie, Paris) for his clever high-resolution SEM
+FEG micrographs.
+REFERENCES
+Adderley, W. P., Alberts, I. L., Simpson, I. A., Timothy, I., and Wess, J., 2004, Calcium–iron–phosphate features in
+archaeological sediments: characterization through microfocus synchrotron X-ray scattering analyses, Journal of
+Archaeological Science, 31, 1215–24.
+Arensburg, B., and Belfer-Cohen, A., 1998, Sapiens and Neandertals—rethinking the Levantine Middle Paleolithic hominids, in Neandertals and modern humans in western Asia (ed. T. Akazawa), 311–21, Plenum Press,
+New York.
+Baffier, D., Girard, M., Menu, M., and Vignaud, C., 1999, La couleur à la Grande Grotte d’Arcy-sur-Cure (Yonne),
+L’Anthropologie, 103, 1–21.
+Bar-Yosef, O., and Meignen, L., 1992, Insights into Levantine Middle Palaeolithic cultural variability, in The Middle
+Paleolithic: adaptation, behavior and variability (eds. H. Dibble and P. Mellars), 63–182, The University Museum,
+University of Pennsylvania, Philadelphia, PA.
+Beck, L., Pichon, L., Moignard, B., Guillou, T., and Walter, P., 2011, IBA techniques: Examples of useful combinations
+for the characterisation of cultural heritage materials, Nuclear Instruments and Methods in Physics Research Section
+B, 269, 2999–3005.
+Belfer-Cohen, A., and Hovers, E., 1992, In the eye of the beholder: Mousterian and Natufian burials in the Levant, Current
+Anthropology, 33(4), 463–71.
+Calvo, C., and Gopal, R., 1975, The crystal structure of whitlockite from the Palermo quarry, American Mineralogist, 60,
+120–33.
+Capitan, L., Breuil, H., Bourrinet, P., and Peyrony, D., 1908, La grotte de la Mairie de Teyjat (Dordogne), Revue de
+l’Ecole d’Anthropologie de Paris, 18th year, 198–218.
+Chalmin, E., Menu, M., and Vignaud, C., 2003, Analysis of rock art painting and technology of Palaeolithic painters,
+Measurement Science and Technologies, 14, 1590.
+Chalmin, E., Vignaud, C., and Menu, M., 2004, Palaeolithic painting matter: natural or heat-treated pigment? Applied
+Physics A: Materials Science & Processing, 79(2), 187–91.
+Chalmin, E., Vignaud, C., Salomon, H., Farges, F., Susini, J., and Menu, M., 2006, Minerals discovered in Paleolithic
+black pigments by transmission electron microscopy and micro-X-ray absorption near-edge structure, Applied
+Physics A: Materials Science & Processing, 83(2), 213–18.
+de Faria, D. L. A., and Lopez, F. N., 2007, Heated goethite and natural hematite: Can Raman spectroscopy be used to
+differentiate them? Vibrational Spectroscopy, 45, 117–21.
+Demars, P.-Y., 1982., L’utilisation du silex au Paléolithique supérieur: choix approvisionnement, circulation. L’exemple
+du bassin de Brive, Cahiers du Quaternaire, 5, CNRS, Paris.
+d’Errico, F., Salomon, H., Vignaud, C., and Stringer, C., 2010, Pigments from the Middle Palaeolithic levels of es-Skhul
+(Mount Carmel, Israel), Journal of Archaeological Science, 37(12), 3099–110.
+Franquin, I., Riboulleau, A., Bodineau, L., Trivollard, N., and Tannenbaum, E., 2006, Préservation de matière organique
+et condition de dépôt des phosphorites d’Israël (Crétacé supérieur), in Les matières organiques en France: état de
+l’art et prospective, 12–17, Université de Lille 1, Carqueiranne.
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+Colouring materials at es-Skhul (Mount Carmel, Israel)
+
+721
+
+Garrod, D. A., and Bate, D. M. A., 1937, The Stone Age of Mount Carmel, vol. 1: Excavations at the Wady El-Mughara,
+Clarendon Press, Oxford.
+Godfrey-Smith, D. I., and Ilani, S., 2004, Past thermal history of goethite and haematite fragments from Qafzeh cave
+deduced from thermal activation characteristics of 110°C TL peak of enclosed quartz grains, Revue d’Archéométrie,
+28, 185–90.
+Goldberg, P., 1978, Granulométrie de sédiment de la Grotte de Taboun, Mont-Carmel, Israël, Géologie Méditerranéenne,
+4, 371–83.
+Goldberg, P., and Nathan, Y., 1975, The phosphate mineralogy of et-Tabun cave, Mount Carmel, Israel, Mineralogical
+Magazine, 40, 253–8.
+Groenen, M., 1991, Présence de matières colorantes dans l’Europe paléolithique, Société Royale d’Anthropologie et
+Préhistoire de Belgique, 102, 9–28.
+Grün, R., Stringer, C. B., McDermott, F., Nathan, R., Porat, N., Robertson, S., Taylor, L., Mortimer, G., Eggins, S., and
+McCulloch, M., 2005, U-series and ESR analyses of bones and teeth relating to the human burials from Skhul,
+Journal of Human Evolution, 49, 316–34.
+Hammersley, A. P., Brown, K., Burmeister, W., Claustre, L., Gonzalez, A., McSweeney, S., Mitchell, E., Moy, J.-P.,
+Svensson, S. O., and Thompson, A., 1997, Monochromatic protein crystallography data collection using an X-ray
+image intensifier/CCD detector, Journal of Synchrotron Radiation, 4, 67–77.
+Henri-Martin, H., 1930, La station aurignacienne de La Quina (Charente), Bulletin et Mémoires de la Société
+archéologique et historique de la Charente, 20(8ème série).
+Hill, C., and Forti, P., 1997, Cave minerals of the world, 2nd edn, National Speleological Society, Inc., Huntsville, AL.
+Hovers, E., Ilani, S., Bar-Yosef, O., and Vandermeersch, B., 2003, An early case of color symbolism: ochre use by early
+modern humans in Qafzeh Cave, Current Anthropology, 44(4), 491–522.
+Hutchinson, G. E., 1950, Survey of contemporary knowledge of bio-geochemistry III. The biogeochemistry of vertebrate
+excretion, Bulletin of the American Museum of Natural History, 96, 1–554.
+Iakovleva, L., 2003., Les étapes de la recherche sur les sites du bassin du Dniepr, à cabanes en os de mammouths, Les
+dossiers de l’Archéologie, 291, 8–17.
+Iakovleva, L., and Djindjian, F., 2005, New data on mammoth bone dwellings of eastern Europe in the light of the new
+excavations of the Gonsty site (Ukraine), Quaternary International, 126–8, 195–207.
+Jimenez-Millan, J., Molina, J. M., Nieto, F., Nieto, L., and Ruiz-Ortiz, P. A., 1998, Glauconite and phosphate peloids in
+Mesozoic carbonate sediments (Eastern Subbetic Zone, Betic Cordilleras, SE Spain), Clay Minerals, 33, 547–59.
+Karkanas, P., Bar-Yosef, O., Goldberg, P., and Weiner, S., 2000, Diagenesis in prehistoric caves: the use of minerals that
+form in situ to assess the completeness of the archaeological record, Journal of Archaeological Science, 27, 915–29.
+Kramer, A., Crummett, T. L., and Wolpoff, M. H., 2001, Out of Africa and into the Levant: replacement or admixture in
+Western Asia? Quaternary International, 75, 51–63.
+Leroi-Gourhan, A., 1961, Les fouilles d’Arcy-sur-Cure (Yonne), Gallia Préhistoire, 4, 3–16.
+Liu, X.-D., Sun, L.-G., Cheng, Z.-Q., Zhao, S.-P., Liu, K.-X., Wu, X.-H., Xie, Z.-Q., Yin, X.-B., Luo, H.-H., Ding, X.-F.,
+Fu, D.-B., and Wang, Y.-H., 2008, Paleoenvironmental implications of the guano phosphatic cementation on Dongdao
+Island in the South China Sea, Marine Geology, 247, 1–16.
+Lorblanchet, M., 1999, La naissance de l’art: genèse de l’art préhistorique, Éditions Errance, Paris.
+McCown, T. D., and Keith, A., 1939, The Stone Age of Mount Carmel II: the fossil human remains from the LevalloisoMousterian, Clarendon Press, Oxford.
+MacCurdy, G. G., 1936, Prehistoric man in Palestine, Proceedings of the American Philosophical Society, 76(4), 523–41.
+Maxwell, J. A., Campbell, J. L., and, Teesdale, W. J., 1989, The Guelph PIXE software: a description of the code package,
+Nuclear Instruments and Methods in Physics Research B, 43, 218–30.
+Mercier, N., Valladas, H., Bar-Yosef, O., Vandermeersch, B., Stringer, C. B., and Joron, J. L., 1993, Thermoluminescence
+date for the Mousterian burial site of es-Skhul, Mt. Carmel, Journal of Archaeological Science, 20, 169–74.
+Narchemashvili, O. V., and Sokolova, A. S., 1963, Cave phosphorites on Java Island, Priroda, 2, 90–2.
+Panczer, G., 1990, Minéralogie et géochime de l’altération des phosphorites nodulaires du Négev à la discordance
+Mishash-Ghareb (Israël), Ph.D. dissertation, Louis Pasteur University, Strasbourg, France.
+Panczer, G., Nathan, Y., and Shiloni, Y., 1989, Trace element characterization of phosphate nodules in Israel, Sciences
+Geological Bulletin, 42(3), 173–84.
+Pichon, L., Beck, L., Walter, P., Moignard, B., and Guillou, Th., 2010, A new mapping acquisition and processing system
+for simultaneous PIXE–RBS analysis with external beam, Nuclear Instruments and Methods in Physics Research B,
+268, 2028–33.
+Pomiès, M.-P., 1997, Pigments rouges préhistoriques: goethite chauffée ou hématite nanocristalline naturelle? Ph.D.
+dissertation, Pierre et Marie Curie University, Paris, France.
+
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+722
+
+H. Salomon et al.
+
+Pomiès M.-P., Menu, M., and Vignaud, C., 1998, XRD study of the goethite–haematite transformation: application to the
+identification of heated prehistoric pigments, European Journal of Solid State and Inorganic Chemistry, 35, 9–25.
+Pomiès, M.-P., Menu, M., and Vignaud, C., 1999a, Red Palaeolithic pigments: natural haematite or heated goethite?
+Archaeometry, 41, 275–85.
+Pomiès, M.-P., Menu, M., and Vignaud, C., 1999b, TEM observations of goethite dehydration: application to archaeological samples, Journal of the European Ceramic Society, 19, 1605–14.
+Pomiès, M.-P., Barbaza, M., Menu, M., and Vignaud, C., 1999c, Préparation des pigments rouges préhistoriques par
+chauffage, L’Anthropologie, 103(4), 503–18.
+Salomon, H., 2009, Les matières colorantes au début du Paléolithique supérieur: sources, transformations et fonctions,
+Ph.D. dissertation, Prehistory, Bordeaux 1 University.
+Salomon, H., Vignaud, C., Aubry, T., Walter, B., Vialou, D., Geneste, J. M. and Menu, M., in press, Les matières
+colorantes en contexte Solutréen, Actes du Colloque: Le Solutréen 40 ans après la publication du Smith’66,
+Preuilly-sur-Claise (Indre-et-Loire), 28–31 octobre 2007, Revue Archéologique de Charente.
+Salomon, H., Vignaud, C., Coquinot, Y., Pagès-Camagna, S., Geneste, J.-M., Menu, M., Julien, M., and David, F., 2008,
+Les matières colorantes au début du Paléolithique supérieur, Colloque Science des Matériaux du Patrimoine Culturel,
+Paris, 6–7 décembre 2007, in Special Issue, Technè, 17–23.
+Schwertmann, U., and Cornell, R. M., 1991, Iron oxides in the laboratory, VCH Publishers, New York.
+Shahack-Gross, R., Berna, F., Karkanas, P., and Weiner, S., 2004, Bat guano and preservation of archaeological remains
+in cave sites, Journal of Archaeological Science, 31, 1259–72.
+Shea, J. J., 2003, The Middle Paleolithic of the East Mediterranean Levant, Journal of World Prehistory, 17(4), 313–94.
+Soudry, D., 1992, Primary bedded phosphorites in the Campanian Mishash Formation, Negev, southern Israel, Sedimentary Geology, 80, 77–88.
+Soudry, D., and Lewy, Z., 1988, Microbially influenced formation of phosphate nodules and megafossil moulds (Negev,
+southern Israel), Palaeogeography, Palaeoclimatology, Palaeoecology, 64, 15–34.
+Soudry, D., and Nathan, Y., 2000, Microbial infestation: a pathway of fluorine enrichment in bone apatite fragments
+(Negev phosphorites, Israel), Sedimentary Geology, 132, 171–6.
+Stringer, C., 2002, Modern human origins: progress and prospects, Philosophical Transactions of the Royal Society of
+London, 357, 563–79.
+Šubrt J., Perez-Maqueda, L. A., Criado, J. M., Real, C., Bohacek, J., and Vecernikova, E., 2000, Preparation of nanosized
+hematite particles by mechanical activation of goethite samples, Journal of the American Ceramic Society, 83(2),
+294–8.
+Trinkaus, E., 1992, Morphological contrasts between the Near Eastern Qafzeh–Skhul and late archaic human samples:
+grounds for a behavioral difference? In The evolution and dispersal of modern humans in Asia (eds. T. Akazawa,
+K. Aoki and T. Kimura), 277–94, Hokusensha, Tokyo.
+Trinkaus, E., 1993, Femoral neck-shaft angles of the Qafzeh–Skhul early modern humans, and activity levels among
+immature Near Eastern Middle Paleolithic hominids, Journal of Human Evolution, 25, 393–416.
+Vandermeersch, B., 1981, Les hommes fossiles de Qafzeh (Israël), CNRS, Paris.
+Vandermeersch, B., 2006, Ce que nous apprennent les premières sépultures, Comptes Rendus Palevol, 5, 61–167.
+Vandermeersch, B., Rak, Y., Arensburg, B., and Tillier, A.-M., 1988, Les sépultures néanderthaliennes du Proche-Orient:
+état de la question, Paléorient, 14(2), 130–6.
+Vanhaeren, M., d’Errico, F., Stringer, C. B., James, S. L., Todd, J. A., and Mienis, H. K., 2006, Middle Paleolithic shell
+beads in Israel and Algeria, Science, 312, 1785–8.
+Vignaud, C., Salomon, H., Chalmin, E., Geneste, J.-M., and Menu, M., 2006, Le groupe des ‘bisons adossés’ de Lascaux:
+étude de la technique de l’artiste par analyse des pigments, L’Anthropologie, 110, 482–99.
+Vita-Finzi, C., and Stringer, C., 2007, The setting of the Mt. Carmel caves reassessed, Quaternary Science Review, 26,
+436–40.
+Weinstein-Evron, M., and Ilani, S., 1994, Provenance of ochre in the Natufian layers of El Wad Cave, Mount Carmel,
+Israel, Journal of Archaeological Science, 21, 461–7.
+Wolpoff, M. H., and Caspari, R., 1996, Race and human evolution: a fatal attraction, Simon and Schuster, New York.
+Wreschner, E. E., 1985, Evidence and interpretation of red ochre in the early prehistoric sequences, in Hominid evolution:
+past, present and future (ed. P. V. Tobias), 387–94, Alan R. Liss, New York.
+Zanin, Y. N., Tsykin, R. A., and Dar’in, A. V., 2005, Phosphorites of the Arkheologicheskaya cave (Khakassia, east
+Siberia), Lithology and Mineral Resources, 40(1), 56–64.
+
+© University of Oxford, 2012, Archaeometry 54, 4 (2012) 698–722
+
+

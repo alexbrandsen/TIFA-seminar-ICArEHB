@@ -1,0 +1,1410 @@
+Journal of Archaeological Science 37 (2010) 1590–1599
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Charcoal reﬂectance measurements: implications for structural characterization
+and assessment of diagenetic alteration
+Philippa L. Ascough a, *, Michael I. Bird b, Andrew C. Scott c, Margaret E. Collinson c, Illit Cohen-Ofri d,
+Colin E. Snape e, Katherine Le Manquais e
+a
+
+SUERC, Scottish Enterprise Technology Park, Rankine Avenue, East Kilbride G75 0QF, UK
+School of Earth and Environmental Sciences, James Cook University PO Box 6811, Cairns, Queensland 4870, Australia
+Department of Earth Sciences, Royal Holloway University of London, Egham, Surrey TW20 OEX, UK
+d
+Weizmann Institute of Science, Rehovot, Israel
+e
+Fuels and Power Technology Research Division, Faculty of Engineering University of Nottingham, University Park, Nottingham, NG7 2RD, UK
+b
+c
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 23 July 2009
+Received in revised form
+14 January 2010
+Accepted 18 January 2010
+
+Charcoal is a valuable source of archaeological and palaeoenvironmental proxy data. However growing
+evidence suggests that production conditions can strongly inﬂuence post-depositional alteration of
+charcoal. Consequently, both reconstruction of production temperature and understanding of the
+potential for diagenetic alteration are of great interest. Here, we use mean random reﬂectance (Romean)
+in conjunction with other chemical characterization methods to address these questions. Romean was
+obtained for a suite of modern analogue charcoal, produced under controlled conditions, and for
+a series of natural charcoal samples, obtained from archaeological and palaeoenvironmental deposits.
+Romean proves to be a robust measure to assess formation temperature for samples produced at 400  C
+and above, even after exposure to highly oxidizing conditions. Romean is also useful for samples formed
+between 300  C and 400  C. However, if an assemblage of charcoals has been exposed to oxidizing
+conditions, lower temperature charcoals may be preferentially lost. It is apparent that charcoal
+produced at lower temperatures is more highly susceptible to chemical oxidation, and that there is
+a continuum in charcoal degradation potential, dependant upon fuel material and production
+conditions.
+Ó 2010 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Charcoal
+Reﬂectance
+Oxidative degradation
+Black carbon
+Diagenesis
+
+1. Introduction
+Charcoal production involves exposure of biomass to elevated
+temperatures under conditions of restricted oxygen, and is among
+the oldest forms of human chemical technology (e.g. Moore, 2000).
+During production, the most prominent chemical change is reorganization of lignocellulosic structures into highly stable condensed
+polyaromatic conﬁgurations (Darmstadt et al., 2000; Eckmeier et al.,
+2007). Charcoal is consequently among the forms of environmental
+carbon most resistant to alteration and degradation (Levine, 1991;
+Preston and Schmidt, 2006), displaying remarkable persistence
+within the geological record (Pessenda et al., 1996; Collinson et al.,
+2000; Gouveia et al., 2002; Scott, 1989, 2000, 2009; Scott and
+Glasspool, 2007). Charcoal therefore forms a valuable source of
+geological, archaeological and palaeoenvironmental proxy data
+
+* Corresponding author. Tel./fax: þ44 1335 270179.
+E-mail address: p.ascough@suerc.gla.ac.uk (P.L. Ascough).
+0305-4403/$ – see front matter Ó 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2010.01.020
+
+(Scott, 2010), not least as one of the most common materials
+submitted for radiocarbon (14C) age measurement (Bird, 2006).
+Long-term preservation makes it tempting to consider charcoal
+as chemically homogeneous, and uniformly recalcitrant. However,
+charcoal is neither a pure form of carbon, nor a single compound,
+but comprises a range of substances, the nature of which are heavily
+inﬂuenced by production conditions and fuel materials (Antal and
+Gronli, 2003). It is apparent that, along with highly stable, graphitelike polyaromatic ‘organized’ domains, charcoal can contain
+a variety of other carbon-based chemical structures (Pastorova et al.,
+1994; Baldock and Smernik, 2002; Ascough et al., 2008b). These
+comprise a complex disorganized phase containing aliphatic and
+aromatic moieties. This ‘disorganized’ phase appears to be more
+susceptible to diagenetic alteration than the organized phase
+(Cohen-Ofri et al., 2006). The presence of both organized and
+disorganized phases is also a feature of ancient archaeological
+charcoal samples (Cohen-Ofri et al., 2006) and is signiﬁcant because
+different charcoal samples display variable resistance to environmental diagenesis. For example, charcoal carbon degradation has
+
+P.L. Ascough et al. / Journal of Archaeological Science 37 (2010) 1590–1599
+
+been observed on the order of decades in a Zimbabwean savannah
+soil (Bird et al., 1999) and virtually complete loss of charcoal due to
+ﬂuctuating groundwater levels is recorded at an Australian
+archaeological site (Bird et al., 2002). However both the diagenetic
+processes affecting charcoal and the factors that determine the
+susceptibility of charcoal to these processes remain poorly
+understood.
+Temperature-dependant chemical changes directly dictate the
+elemental and isotopic composition, physical appearance, and
+chemical structure of charcoal (Antal and Gronli, 2003; Kim and
+Hanna, 2006; McParland et al., 2007; Hall et al., 2008). These factors
+are likely to strongly inﬂuence post-depositional behaviour.
+Therefore reconstruction of charcoal production temperatures is of
+great interest. Possible production temperatures vary considerably,
+with 300–600  C being typical of natural ﬁres (e.g. Swift et al., 1993).
+Data from natural wildﬁres suggests a range of <400  C–800  C
+(Stinson and Wright, 1969; Stronach and McNaughton, 1989), while
+estimated production temperatures for charcoal in Roman hypocaust furnaces is 330–410  C (McParland et al., 2009a). Traditional
+methods of anthropogenic charcoal production have a range of 300–
+800  C (McParland et al., 2009b), while industrial processes such as
+pottery ﬁring tend to involve higher temperatures up to and over
+800  C (Livingstone-Smith, 2001). Approaches to reconstruct
+production temperature include analysis of isotopic signatures and
+elemental compositional changes induced during heating (e.g.
+Werts and Jahren, 2007; Braadbaart and Poole, 2008). However
+complicating factors must be considered, including species-speciﬁc
+carbon isotopic responses to pyrolysis and chemical exchange
+during post-depositional diagenesis (e.g. Bird et al., 2002; Turney
+et al., 2006; Ascough et al., 2008b).
+An alternative approach to determining charcoal formation
+temperature is mean random reﬂectance (Romean), derived from
+photometric measurement of the fraction of incident light radiation
+reﬂected from a sample surface under oil. Romean is shown to have
+a positive relationship with formation temperature (Jones et al.,
+1991; Scott and Glasspool, 2005, 2007; McParland et al., 2007,
+2009b, Scott and Jones, 1991), and is suitable for analysis of both
+ancient and freshly-produced charcoal samples (Jones et al., 1991;
+Scott and Jones, 1994; McParland et al., 2007, 2009a; Braadbaart
+and Poole, 2008; Hudspith et al., 2010). Evidence from coal macerals indicates Romean values increase with the fraction of aromatic
+carbon within a sample (Stach et al., 1982), meaning Romean
+measurements may also provide valuable information on the
+chemistry of charcoal samples.
+To assess the use of Romean measurements in charcoal analysis
+requires consideration of a number of factors; in particular the
+potential effects of diagenetic alteration on Romean measurements.
+To achieve this, several different methods can be used, providing
+information on different aspects of samples. Such an approach is
+necessary because of initial heterogeneity in the chemical
+compounds present in different charcoal samples, and the additional variation introduced by diagenetic alteration. Here, we
+present the results of such a study, using a suite of modern
+analogue, natural and archaeological charcoal samples, where
+Romean measurements are used in conjunction with a variety of
+other characterization techniques. H/C ratio is used to assess
+pyrolysis efﬁciency, while O/C ratio provides a measure of the
+degree of oxidation of a sample (Nguyen et al., 2004; Schmidt et al.,
+2001). Raman spectroscopy enables an estimation of the size and
+content of aromatic domains in carbonaceous materials (Tuinstra
+and Koenig, 1970), and the level of sample thermal reactivity can be
+established via thermogravimetric analysis (TGA) (Sima-Ella et al.,
+2005). In this way, the interplay between charcoal production
+mechanisms and the subsequent potential for post-depositional
+alteration is addressed.
+
+1591
+
+2. Methodology
+2.1. Charcoal samples
+The ﬁrst sample set (Table 1), comprised freshly-produced
+laboratory analogue charcoal (fresh charcoal ¼ Frchar) from two
+species. These were a low-density (0.41  0.05 g/m3) gymnosperm
+(Scots pine (Pinus sylvestris L.), Tentsmuir Forest, Fife), and a high
+density (0.88  0.03 g/m3) angiosperm, (mangrove (Rhizophora
+apiculata Blume), northeast Palawan, Philippines). Bark was
+removed and the wood processed by cutting into 1 cm3 cubes before
+conversion to charcoal in a controlled-atmosphere rotary furnace
+(CarboliteÔ). The furnace was continuously purged with nitrogen at
+a constant metered ﬂow rate of 7.0 L min1 and ramped at
+10  C min1 from room temperature to four ﬁnal temperatures
+between 300 and 600  C, representing a typical range to which
+wood is heated in natural ﬁres (e.g. Swift et al., 1993) and over which
+major chemical changes are known to occur (Williams and Besler,
+1996). Temperature was monitored via a thermocouple inserted
+into a cube of wood in the furnace and the ﬁnal temperature was
+held for 60 min, after which samples were cooled to room
+temperature under N2. An aliquot of each charcoal was retained for
+reﬂectance measurement. Charcoal was ground to <500 mm and
+treated with 0.5 M HCl to remove calcitic ash before neutralization
+and wet-sieving to 63–500 mm followed by drying at 40  C overnight. Analogue charcoal sample codes (Table 1) relate to the wood
+species (P ¼ Pine (P. sylvestris); M ¼ Mangrove (R. apiculata)) and
+temperature of formation (300–600  C).
+The second sample set comprised environmental charcoal
+(Envchar) samples (Env-1–Env-6), from six archaeological/palaeoenvironmental deposits of various ages, obtained via consultation
+with specialists involved in site excavation or archaeobotanical
+analysis (Table 1). Visible mineral material was removed from the
+charcoal via sonication with deionized H2O for 24 h. A single, large
+charcoal fragment was selected from each deposit for processing
+and split into two aliquots. One aliquot was treated identically to
+the modern analogue samples (i.e. HCl followed by wet-sieving to
+63–500 mm). The other aliquot was retained for measurement of
+sample reﬂectance.
+Env-1 was sampled from trees charred in situ within paroxysmal
+ﬂow deposits of the Maninjau caldera, west-central Sumatra
+(53 400  1400 14C yrs BP (Alloway et al., 2004)), consisting of
+crudely stratiﬁed pumiceous lapilli and ash, overlain by andisol and
+basaltic-andesite lapilli layers (Alloway et al., 2004). Env-2 was
+recovered from a concentration of undated charcoal fragments
+
+Table 1
+Details of modern analogue (Frchar) and environmental (Envchar) charcoal samples
+used in this study.
+Modern analogue charcoal samples
+(Frchar)
+
+Environmental charcoal samples
+(Envchar)
+
+Sample
+code
+
+Species
+
+Temperature
+( C)
+
+Sample
+code
+
+Site
+
+Location
+
+P-300
+P-400
+P-500
+P-600
+M-300
+
+Pinus sylvestris
+Pinus sylvestris
+Pinus sylvestris
+Pinus sylvestris
+Rhizophora
+apiculata
+Rhizophora
+apiculata
+Rhizophora
+apiculata
+Rhizophora
+apiculata
+
+300
+400
+500
+600
+300
+
+Env-1
+Env-2
+Env-3
+Env-4
+Env-5
+
+Sumatra
+Azores
+Iceland
+Iceland
+Brazil
+
+400
+
+Env-6
+
+Maninjau
+Faial island
+Langanes
+Höskulsstaðir
+Toca da
+Bastiana
+Oursi-hubeero
+
+M-400
+M-500
+M-600
+
+500
+600
+
+Burkino
+Faso
+
+1592
+
+P.L. Ascough et al. / Journal of Archaeological Science 37 (2010) 1590–1599
+
+within a lahar deposit developed from basaltic eruptions from
+scoria cones spread along eruptive ﬁssures at Praia do Norte,
+northwest Faial Island, Azores (F. Tempera, pers comm.; Cruz et al.,
+2006).
+Env-3 and Env-4 were recovered from the basal ﬁll of Icelandic
+Norse-period charcoal production pits. Env-3 was obtained in
+southern Iceland at Langanes, previously dated to between
+935  35 and 960  35 14C yrs BP, while Env-4 was obtained from
+vatnsveit, previously dated to
+deposits close to Höskulsstaðir, My
+895  35 BP (Church et al., 2007). In both cases, following ﬁnal use
+of the pit, the basal ﬁll was covered with disturbed soil and turf,
+followed by w500 years of natural soil accumulation (Church et al.,
+2007).
+Env-5 was located in ﬂuvial deposits of red sand and clay at Toca
+do Serrote da Bastiana, a rock shelter containing calcite deposits, in
+a Precambrian limestone outcrop in northeast Brazil (Steelman et
+al., 2002). The charcoal was recovered from a discontinuous layer at
+a depth of >50 cm, overlying several burials dated to between 200
+and 150 years BP (Guidon, N., pers comm). Finally, Env-6 was
+recovered from a pile of charred wood within a house structure
+dated to ca.1050 AD at Oursi-hubeero, a settlement site in the Sahel
+region of Burkina Faso (Hallier and Petit, 2000, 2001). The deposits
+containing the charcoal were covered by sandy soils with clay
+inclusions derived from degradation of the mud brick structure
+(Höhn, 2005; Hohn pers comm).
+2.2. Reﬂectance measurements
+Individual charcoal fragments were embedded in resin and
+polished, then studied (using standard techniques for coal
+petrography) under a Nikon microphot microscope attached to
+Leica QWin image analysis software (Leica Image systems Ltd.,
+1997). Reﬂectance was measured under Cargill immersion oil
+(refractive index of 1.518 at 23  C) using the 40 objective lens,
+illuminated with a 546 nm light source. The instrument was
+calibrated against ﬁve standards (Spinel (Romean 0.393), yttriumaluminium garnet (Romean 0.929), gadolinium-gallium garnet
+(Romean 1.7486), cubic zirconium (Romean 3.188) and silicon
+carbide (Romean 7.506)). Reﬂectance measurements were made at
+100 points per sample in order to calculate Romean and standard
+deviation (SD) of Romean.
+
+2.4. Elemental analysis
+Carbon abundance (wt%) was measured in a Costech elemental
+analyser (EA) with a zero-blank auto-sampler, while oxygen and
+hydrogen abundance (wt%) was determined using high-temperature
+ﬂash pyrolysis in a ThermoFinnigan High-Temperature Conversion
+Elemental Analyser (TC/EA). Samples were measured in duplicate
+with laboratory standards and blanks. Both the EA and TC/EA were
+coupled through a ThermoFinnigan ConFlo III to a ThermoFinnigan
+Delta XL Plus mass spectrometer. Elemental abundances were
+calculated using comparison of gas pulse peak area and mass to that
+of acetanilide (IAEA/Sigma Aldrich, %C: 71.09%, %O: 11.84%, %H:
+6.71%), where the external reproducibility was better than 0.5%, 0.7%
+and 0.4% for C, O and H, respectively.
+2.5. Raman spectroscopy
+Raman spectroscopic measurements were made of Frchar
+prepared at 300  C and 600  C, and of Envchar samples that gave high
+(Env-1 and Env-2) and low (Env-5 and Env-6) Romean values. A
+compacted pellet of powdered charcoal was produced from each
+individual sample prior to analysis. Measurements were made at the
+Weizmann Institute of Science, Israel, in air at room temperature
+using a Renishaw 2000 Raman Imaging Microscope through
+a 50 lens without a polarizer. The excitation at 632 nm was
+produced by a 25 mw HeNe laser. Each measurement was made 8
+times at random locations on each charcoal pellet, and the maximum
+peak height and peak position were determined and averaged.
+2.6. TGA
+Thermogravimetric analysis (TGA) was performed on the
+analogue charcoal prepared at 300  C and 600  C and on environmental charcoal using a ‘Thermal Analysis’ SDT Q600 TGA/DSC.
+Samples were heated at 50  C min1 to 525  C under nitrogen to
+facilitate removal of volatiles, and mass loss due to volatile decomposition was calculated. Upon reaching 525  C, the samples were
+isothermally combusted in air for 20 min and carbon burnout
+proﬁles generated. Two quantitative measures of reactivity were
+then taken; ﬁrstly a time until 90% carbon conversion and, secondly,
+pseudo-ﬁrst order kinetics were applied, between 5 and 95% carbon
+burnout, to allow the calculation of a composite rate constant via:
+
+2.3. Dichromate oxidation and SEM/TEM
+Frchar was digested via a modiﬁed Walkley-Black method in
+acidiﬁed potassium dichromate (K2Cr2O7) (Bird and Gröcke, 1997).
+This methodology is commonly used in separation of fractions
+within carbonized biomass, where non-aromatic material, (e.g.
+cellulose), is preferentially removed (Wolbach and Anders, 1989;
+Bird and Gröcke, 1997). Brieﬂy, cubes of charcoal were placed in
+0.1 M K2Cr2O7/2M H2SO4 solution at 60  C in an incubator shaker
+for 72 h. For the 300  C analogue charcoal this time period resulted
+in complete breakdown and dissolution, and a reduced oxidation
+period of 24 h was used. After oxidation samples were neutralized
+by washing with deionized water and freeze-dried. Oxidative
+weight losses were recorded with a precision of 3%, based upon
+replicate analyses.
+Oxidized charcoal samples were examined and split open to
+characterize any visual differences following oxidation. Where any
+visible alteration was observed, light microscopy and Transmission
+Electron Microscopy (TEM) analyses were performed. Specimens
+for TEM were embedded in Spurr Resin prior to sectioning by
+ultramicrotome. The ultra-thin sections, cut with a diamond knife,
+and not stained, were imaged with a Hitachi H7600 transmission
+electron microscope (TEM).
+
+va
+¼ kð1  aÞ
+vt
+
+(1)
+
+Where a ¼ (1  C/C0) is the fractional weight conversion, C is the
+remaining carbon mass and C0 is the original carbon mass
+(Sima-Ella et al., 2005).
+3. Results
+3.1. Reﬂectance
+Romean values for Frchar range between 0.03  0.01 for M-300 to
+4.01  0.52 for M-600 (Table 2), and are consistent with those
+observed in previous studies (Scott, 1989; Jones et al., 1991; Guo
+and Bustin, 1998). Although mangrove charcoal Romean is slightly
+higher than pine at 500–600  C, Romean from both species is
+consistently within analytical error, and is strongly correlated
+(r2 ¼ 0.99, P < 0.05) with production temperature (Fig. 1) following
+the polynomial function:
+
+y ¼ 1e5 2 þ0:0011  1:2855
+Production temperatures calculated for
+
+(2)
+Frchar using this
+
+P.L. Ascough et al. / Journal of Archaeological Science 37 (2010) 1590–1599
+Table 2
+Romean and measurement standard deviations for charcoal samples based on 100
+measurements of reﬂectance across the sample surface and assessments of charcoal
+production temperatures derived from Romean for both Frchar and Envchar samples.
+Mass losses and Romean values following K2Cr2O7 oxidation treatment are given for
+the Frchar samples.
+Sample
+
+Env-1
+Env-2
+Env-3
+Env-4
+Env-5
+Env-6
+M-600
+M-500
+M-400
+M-300
+P-600
+P-500
+P-400
+P-300
+
+Romean
+
+2.51
+0.31
+0.70
+0.60
+0.70
+2.26
+4.01
+2.27
+1.26
+0.03
+3.54
+2.15
+1.13
+0.19
+
+standard
+deviation
+(s)
+
+Mean
+temperature
+calculated
+from Ro ( C)
+
+Mass loss
+during
+oxidation
+(wt %)
+
+Romean
+Following
+K2Cr2O7
+oxidation
+
+standard
+deviation
+(s)
+
+0.45
+0.24
+0.24
+0.31
+0.21
+0.33
+0.52
+0.26
+0.14
+0.01
+0.36
+0.25
+0.13
+0.08
+
+515
+320
+361
+351
+361
+497
+617
+498
+415
+287
+587
+488
+403
+306
+
+–
+–
+–
+–
+–
+–
+<1
+0
+2
+36
+<1
+<1
+0
+73
+
+–
+–
+–
+–
+–
+–
+3.87
+2.28
+1.07
+–
+3.68
+2.04
+1.01
+–
+
+–
+–
+–
+–
+–
+–
+0.41
+0.32
+0.16
+–
+0.6
+0.22
+0.12
+–
+
+calibration accurately reﬂect the known temperature to 15  C.
+Calculated production temperatures for Envchar via the calibration
+are 515  33  C for Env-1 (Romean ¼ 2.51  0.45) and 497  25  C for
+Env-6 (Romean ¼ 2.26  0.33). For Env-3, Env-4 and Env-5,
+a temperature range of 351  23  C to 361  25  C is obtained, while
+the lowest production temperature, 320  29  C, is calculated for
+Env-2. We note, however that reﬂectance increases slightly with
+time for up to 24 h (Scott and Glasspool, 2005; McParland et al.,
+2009b) meaning charring experiments of longer durations are
+needed to provide precise formation temperatures. However,
+
+1593
+
+comparisons of reﬂectance and temperature derived from the 1 h
+curves do appear to approximate to known and inferred temperatures from studies of wildﬁre charcoals (Scott and Jones, 1994; Scott,
+2000).
+3.2. Dichromate oxidation
+The Romean of Frchar produced at 400  C and above is not
+signiﬁcantly different after oxidation for either species (Table 2).
+Observable changes in mass after K2Cr2O7 oxidations were only
+recorded in P-300 and M-300 (Table 2), with respective mass loss of
+73% and 36%. High loss rates and physical sample breakdown
+during oxidation meant reliable recovery of sufﬁcient material for
+reﬂectance measurement was not possible from P-300 and M-300.
+After oxidation, visible alteration was only apparent in P-300,
+consisting of a lightening in colour of the outer sample surface.
+Light microscopy (Fig. 2) revealed these colour changes were
+limited to the outer few sample cells, and provided no strong
+evidence for structural alteration. Although TEM analysis of cell
+walls in the region of colour change showed slight evidence for
+thinning, this was of very limited extent (Fig. 3). The mass loss in
+300  C charcoals is therefore likely to relate to the removal of
+chemical compounds, without major alteration of the charcoal
+physical structure.
+3.3. Elemental analysis
+Carbon content of Frchar showed a strong, non-linear dependence on temperature (Table 3). Carbonized materials fall into
+discreet regions on two-dimensional van Krevelen diagrams
+depending upon their elemental content (Van Krevelen, 1950;
+Hockaday et al., 2007), and a diagram of the Frchar shows linear
+decrease in O/C and H/C ratios with temperature. Atomic ratios are
+
+Fig. 1. Mean random reﬂectance under oil (Romean) measurements and standard deviations for Frchar samples prior to and following chemical oxidation. The dotted line shows the
+correlation between Romean and production temperature for measured samples. Note that graphical data for different sample types overlap at 300  C, 400  C and 500  C, meaning
+some data points are obscured at these temperatures.
+
+1594
+
+P.L. Ascough et al. / Journal of Archaeological Science 37 (2010) 1590–1599
+
+equivalent production temperature. For Env-1, the O/C and H/C
+ratios are consistent with those of equivalent Frchar. However in the
+remainder of Envchar the atomic ratios differ from that of equivalent
+Frchar. In Env-2 and Env-5 both H/C and O/C ratios are higher than
+equivalent (i.e. w320–350  C) analogue samples. In Env-3 and Env4 the O/C atomic ratio is consistent with w300  C analogue
+samples, meaning the O/C atomic ratio is slightly higher than
+expected. For these samples the H/C ratios are lower than that
+predicted for this temperature from the Ro data, being more similar
+to the analogue charcoals produced at w450  C. In Env-6 although
+the H/C atomic ratio is consistent with those of equivalent (i.e.
+w500  C) analogue charcoal, the O/C atomic ratio is more similar to
+that of analogue charcoal produced at w300  C (Fig. 2). It may be
+noted that comparisons are broad as the exact charring times of the
+environmental charcoal samples are not known.
+Fig. 2. Thin section (Light Micrograph) of Pinus (P-300) Frchar after oxidation showing
+lightening of colour in the cell walls in a few outer cell layers. The outermost surface
+shows damage caused during production of the wood block (see methods).
+
+highly similar between species at 400  C (Fig. 4). However, there
+is an offset in H and O content between pine and mangrove that is
+most apparent at 300  C, where mangrove charcoal contains
+signiﬁcantly less of these elements and hence appears more efﬁciently charred.
+Using the Romean-based production temperature, the atomic
+ratios for each Envchar were compared with those of Frchar for an
+
+3.4. Raman spectroscopy
+Raman spectroscopy provides information on the molecular
+structure and chemical bonding of carbon atoms. The Raman
+spectra of graphitic carbon contains a band at 1575 cm1 (the G
+band), assigned to in-plane stretching motions of carbon sp2 atoms
+(Tuinstra and Koenig, 1970), representing highly stable, ordered
+carbon conﬁgurations. A second band at 1350 cm1 (the D band)
+represents disordered carbon conﬁgurations, arising from defects
+and discontinuities in crystallites, and has been assigned to carbons
+with an sp3 conﬁguration, not located in graphitic layers, likely to
+
+Fig. 3. TEM images of P-300 Pinus Frchar, focussing upon the sample area that underwent lightening during oxidation (see text and Fig. 2). A and B: Unoxidized outer cell walls, C and
+D: Outer cell walls after 24 h K2Cr2O7 oxidation. Comparison of images shows no signiﬁcant structural changes following oxidation.
+
+P.L. Ascough et al. / Journal of Archaeological Science 37 (2010) 1590–1599
+Table 3
+Content of carbon, oxygen and hydrogen (by weight %) derived via elemental
+analysis of Frchar and Envchar samples, together with calculated atomic O/C and H/C
+ratios for these samples.
+Sample
+
+C (wt%)
+
+%O (wt%)
+
+%H (wt%)
+
+Atomic
+O/C ratio
+
+Atomic
+H/C ratio
+
+P-300
+P-400
+P-500
+P-600
+M-300
+M-400
+M-500
+M-600
+Env-1
+Env-2
+Env-3
+Env-4
+Env-5
+Env-6
+
+59
+73
+81
+85
+68
+74
+80
+83
+82
+59
+63
+61
+58
+68
+
+31
+18
+11
+7
+22
+18
+10
+7
+7
+31
+27
+27
+27
+20
+
+5
+3
+3
+2
+5
+3
+3
+2
+2
+4
+3
+3
+4
+2
+
+0.39
+0.19
+0.10
+0.06
+0.25
+0.18
+0.10
+0.06
+0.06
+0.39
+0.33
+0.33
+0.35
+0.22
+
+1.05
+0.57
+0.49
+0.37
+0.79
+0.54
+0.50
+0.31
+0.31
+0.75
+0.50
+0.54
+0.75
+0.35
+
+be tetrahedrally bonded (Tuinstra and Koenig, 1970; Dresselhaus
+et al., 2000; Fey and Kao, 2002; Fung et al., 1993). Samples with
+narrower G bands, positioned closer to 1575 cm1 contain
+increasing area and amount of ordered, microcrystallite domains
+(Tuinstra and Koenig, 1969; Knight and White, 1989).
+Raman peaks in spectra of P-600 and M-600 are more highly
+resolved, suggesting greater chemical homogeneity compared P-300
+and M-300 (Table 4). The presence of a G peak indicates some
+organized graphitic microcrystallites are present in both 300  C and
+600  C charcoal, however the narrower G peaks at lower frequencies
+(1584 cm1) suggests a more highly ordered carbon structure in P600 and M-600. The G peak positions also suggest a slightly higher
+proportion of ordered carbon in mangrove charcoal. The position of
+the D peaks is not conclusively different between the samples,
+however these are considerably broader in the 300  C charcoals.
+The presence of a G peak also indicates a proportion of organized
+carbon domains within the Envchar. Samples Env-1 and Env-6
+closely resemble the 600  C Frchar, with narrow G peaks at
+w1584 cm1. In contrast, the Raman spectra of Env-5 and Env-2
+more closely resemble the 300  C analogue samples, with broad G
+peaks centred at 1590–1600 cm1 (Table 4). In these samples, the D
+peaks are also broader and positioned at a higher frequency than
+that of Env-1 and Env-5. Overall, the degree of structural order in the
+
+Fig. 4. Van Krevelan diagram of Frchar (white squares) and Envchar (black squares)
+showing atomic ratios of O/C and H/C. The dotted line shows the linear correlation
+between O/C and H/C ratios in the Frchar samples, where increases in both these
+parameters occur with increasing production temperature.
+
+1595
+
+Table 4
+Results of Raman spectroscopic measurements for high and low temperature Frchar
+and selected Envchar samples detailing the width and position of the G peak for
+organized (i.e. graphite-like) carbon and the D peak for disorganized carbon within
+the samples.
+Sample
+
+IG width
+(cm1)
+
+IG position
+(cm1)
+
+D width
+(cm1)
+
+D position
+(cm1)
+
+P-300
+P-600
+M-300
+M-600
+Env-1
+Env-2
+Env-5
+Env-6
+
+260.1
+111.5
+334.0
+115.1
+116.1
+221.2
+165.5
+134.9
+
+1606
+1584
+1592
+1584
+1583.8
+1604.4
+1590
+1587
+
+299.47
+261.17
+303.75
+285.12
+267.12
+380.32
+322.80
+280.00
+
+1342.86
+1333.00
+1314.98
+1337.53
+1343.20
+1361.49
+1351.31
+1341.83
+
+analogue and environmental samples can be broadly related to
+Romean, with higher Romean in samples showing narrow G peaks at
+a lower frequency (Fig. 5).
+3.5. TGA
+Sample reactivity during TGA relates to the thermal resistance of
+its molecular content. The bond energies of individual aromatic
+rings are w193.71 Kcal mol1, and can be much higher as the size of
+polyaromatic structures increases (Maitland, 2005). Bond energies
+in non-aromatic components, such as C–C (80.711 Kcal mol1) and
+C–H (92.241 Kcal mol1), can be much lower, and these are broken
+at an earlier stage in TGA. Following devolatilization, the time taken
+for sample burnout increases proportionally to chemical stability.
+Charcoal with a higher proportion of non-aromatic structures has
+lower thermal stability, and is therefore expected to show i.) higher
+mass loss during devolatilization, and ii.) decreased burnout times
+and composite ﬁrst order rate constants.
+In Frchar the reactivity of pine charcoal is clearly higher than that
+of mangrove for both 300  C and 600  C charcoals (Table 5), with
+similar time to 90% burnout in both M-300 and P-600 (7.4 versus
+7.3 min, respectively). In both species there is a large difference in
+volatile content between 300  C and 600  C charcoal, with w30–
+
+Fig. 5. Romean versus Raman G peak position for both Frchar and Envchar samples,
+showing the relationship between increasing G peak position and decreasing Romean
+values in both sample types. Analysed samples fall into two groups (indicated by dashed
+boxes), where high Romean corresponds to lower G peak position and vice versa.
+
+1596
+
+P.L. Ascough et al. / Journal of Archaeological Science 37 (2010) 1590–1599
+
+Table 5
+Volatile content, burnout time to 90% and composite ﬁrst order rate constant
+calculated on the basis of TGA analysis for high and low temperature Frchar and
+selected Envchar samples.
+Sample
+
+Volatile
+content (%)
+
+Burnout time
+to 90% (min)
+
+Sample
+
+Composite ﬁrst
+order rate constant
+(5–95% C burnout) min1
+
+P-300
+P-600
+M-300
+M-600
+Env-1
+Env-2
+Env-3
+Env-4
+Env-5
+Env-6
+
+49
+7
+31
+6
+7
+34
+28
+28
+41
+19
+
+5.9
+7.3
+7.4
+9.8
+10.8
+6.8
+7.8
+6.3
+6.8
+8.5
+
+P-300
+P-600
+M-300
+M-600
+Env-1
+Env-2
+Env-3
+Env-4
+Env-5
+Env-6
+
+0.529
+0.429
+0.381
+0.339
+0.314
+0.439
+0.413
+0.531
+0.467
+0.362
+
+50% low thermal stability material in P-300 and M-300, compared
+to w6% volatiles in P-600 and M-600, indicating much higher
+content of non-aromatic compounds in the 300  C charcoal.
+In Envchar, Env-1 and Env-6 show high thermal stability, with
+burnout times and ﬁrst order rate constants similar to M-600. Volatile content in Env-1 is comparable to the 600  C analogue samples,
+however Env-6 contains w20% volatile material. The remaining four
+Envchar samples are more reactive, generally intermediate between P300 and P-600. In this group, Env-3 is the most thermally stable, and
+Env-4 the least, and it appears that these samples contain a relatively
+high proportion of material in a chemical form that is more susceptible to thermal degradation.
+4. Discussion
+4.1. Analogue charcoal: relationship between production
+temperature, chemical characteristics and Romean
+The results clearly demonstrate the strong relationship between
+production temperature and chemical characteristics in charcoal.
+At higher production temperatures, O/C and H/C ratios of Frchar fall.
+This is due to progressive dehydrogenation and deoxygenation
+reactions as polycondensed aromatic structures are formed and
+polyaromatization (i.e. growth in the size of the aromatic sheets)
+becomes dominant (Nishimiya et al., 1998; Trompowsky et al.,
+2005). Frchar produced at lower temperatures is heterogeneous,
+containing higher proportions of oxygen, hydrogen, and disorganized carbon, evidently derived from incomplete thermal decomposition of lignocellulosic material (e.g. Baldock and Smernik,
+2002; Ascough et al., 2008b). The extent of organized carbon
+microcrystallites is smaller in Frchar produced at lower temperatures, presumably meaning a less well-developed aromatic structure exists in these samples.
+Differences in the extent of organized carbon microcrystallite
+domains and thermal stability are apparent between the two
+analogue species, with less highly ordered carbon structures in pine
+charcoal than in mangrove charcoal formed at the same temperature. These may relate to variations in the proportion of chemically
+different components in the starting wood (e.g. Ascough et al.,
+2008b), resulting in less complete thermal degradation and
+aromatization of initial wood macromolecules in pine. This interpretation is supported by differences in the elemental composition
+of the 300  C charcoal, where pine charcoal is closer to the
+composition of the un-pyrolysed wood, containing a relatively high
+proportion of oxygen and carbon.
+The strong linear correlation between Romean and content of
+carbon microcrystallites supports the interpretation that Romean is
+a function of the amount of ordered, aromatic carbon in a sample,
+
+which in turn is predominantly a function of temperature. Despite
+the differences in species described above, the Romean values for
+both species are within analytical uncertainty at equivalent
+temperatures, suggesting that species-dependant chemical differences are insufﬁcient to result in a signiﬁcant Romean offset.
+Ro-based temperatures calculated in this study are consistent
+with previous work, where Romean values >2.0 were only observed
+above 400  C, regardless of heating duration (Guo and Bustin, 1998;
+McParland et al., 2009b). An important point is that after exposure
+of biomass to temperatures much lower than 300  C, Romean is
+likely to be extremely low and therefore increasingly difﬁcult to
+quantify as cell wall outlines become increasingly difﬁcult to image
+in reﬂected light. However, the clear relationship between Romean
+and production temperature in the range tested here demonstrates
+the power of the technique to accurately reconstruct production
+temperatures for wood charcoal produced at 300–600  C, an
+interpretation supported by other work in this ﬁeld (e.g. Hudspith
+et al., 2010). It is also evident that in samples produced at 400  C,
+Romean values are not altered by the K2Cr2O7 treatment, indicating
+that the organized domains are not signiﬁcantly oxidized during
+the treatment. This means that even following exposure to conditions of extreme degradation potential, reﬂectance measurements
+appear to still be a robust measure of production temperature in
+these samples. Therefore, where Romean measurements of environmental samples indicate production above 400  C, and the
+sample appears structurally intact, the values of an assemblage as
+a whole are less likely to have been inﬂuenced by diagenetic
+processes. It is theoretically conceivable that such processes could
+affect Romean if the result was a large-scale breakdown of charcoal
+aromatic structure, reducing the size of polyaromatic domains
+throughout the entire sample, but we have no evidence of this. As it
+is not possible to use Romean measurements to assess potential
+post-depositional alteration of charcoal assemblages, alternative
+analytical methods are required to achieve this, as part of an integrated approach.
+In the 300  C samples, where material does survive the K2Cr2O7
+treatment, it appears not to have undergone major structural
+alteration at the macroscopic to cellular level (Figs. 2 and 3). This
+suggests that although a signiﬁcant proportion of the 300  C
+charcoal is readily oxidizable, these charcoals also contain a resistant component. It is possible that this aromatic component is more
+highly degradable as a result of the smaller microcrystallite extent
+in low temperature Frchar, as atoms at the edge of polyaromatic
+domains are more reactive than those within layer planes, meaning
+that oxidation occurs preferentially at edge and defect sites (Walker
+et al., 1959; Boehm et al., 1994). The mass loss during the K2Cr2O7
+treatment in 300  C Frchar suggests that a signiﬁcant proportion of
+the structure of low temperature charcoal is likely to be comprised
+of a disorganized phase, which is quite readily susceptible to
+oxidative degradation. If such degradation had the potential to alter
+the measured Romean of low temperature charcoal, this could affect
+interpretative accuracy based upon measurements of affected
+material. However it should be stressed that the evidence does not
+show that this is so. Until now reﬂectance measurements of charcoals giving temperatures between 300 and 400  C appear to give
+consistent and reliable results (see below). However, the concept
+that lower temperature charcoal samples are subject to greater
+diagenetic degradation has implications that should be considered.
+If a temperature is derived from Romean measurements of a suite of
+charcoal particles that have been subject to signiﬁcant oxidation,
+then a higher overall temperature may be inferred that is the actual
+average for the particle group. This would be due to more rapid
+degradation of the lower temperature charcoals, leaving only the
+charcoals formed at higher temperatures. Therefore, it is important
+that where Romean measurements indicate productions
+
+P.L. Ascough et al. / Journal of Archaeological Science 37 (2010) 1590–1599
+
+temperatures <400  C, the potential for diagenetic alterations of
+the sample be carefully assessed, for the reasons highlighted above.
+If such alteration is suspected, the methodological approaches
+employed in this study (e.g. elemental analysis) appear well suited
+as diagnostic tools, as demonstrated from the environmental
+charcoal samples.
+4.2. Environmental charcoal: reconstruction of production
+temperature and evidence for diagenetic alteration
+It should be noted that, unlike the experimentally produced
+charcoal where a charring time is known, in our environmental
+charcoals this is not so. This means, therefore, that the interpreted
+charring temperatures represent minimum charring temperatures
+and only where the time may be indicated from the nature of the
+deposit (e.g. in hot pyroclastic ﬂows, charcoal clamps) can an exact
+temperature be calculated (see McParland et al., 2009b for
+discussion).
+Env-1 appears to be a high temperature (>500  C) charcoal that
+has not been subject to alteration during deposition, as the sample
+elemental composition, ordered carbon content, volatile content
+and reactivity are all consistent with those of equivalent analogue
+charcoal. Although Env-1 is of considerable antiquity (>50 Ka BP
+(Alloway et al., 2004; Ascough et al., 2008a)), the conditions of burial
+indicate slow soil formation processes and a lack of well-deﬁned soil
+horizons (Alloway et al., 2004). It is possible that this resulted in
+exposure of Env-1 to a low range of degradation processes,
+contributing to the apparently pristine nature of this charcoal. The
+characteristics of this sample support previous interpretations that
+charcoal-derived black carbon can show extreme resistance to
+environmental degradation over very extended time periods (e.g.
+Liang et al., 2008).
+In the case of Env-6, the Romean temperature assessments
+(497  25  C) are consistent with pyrolysis efﬁciency estimated by
+H/C ratio, content of organized carbon and reactivity. However, this
+charcoal contains a larger amount of low thermal-stability volatile
+material and higher oxygen content than that predicted from
+analogue charcoal for this temperature. This suggests Env-6 may be
+affected by diagenetic alteration resulting in the addition of oxygen
+to the charcoal chemical structure. Previous observations suggest
+that carboxylation processes play an important role in charcoal
+diagenesis (e.g. Cohen-Ofri et al., 2006) and the addition of –COOH
+groups would explain the increased oxygen content in Env-6.
+However, all other analysis results support the results of Romean
+measurements, suggesting that the processes affecting elemental
+composition have not affected the accuracy of the Ro-based
+temperature reconstruction for this sample.
+The Romean data suggests Env-3 and Env-4 were produced at
+361  24  C and 351  41  C, respectively. These samples have
+similar atomic ratios and volatile content, and TGA data shows
+higher reactivity in Env-4, which would be consistent with
+production at a slightly lower temperature. All data are consistent
+with results of analogue charcoal, apart from the atomic ratios. The
+slightly higher than predicted O/C ratio indicates the possibility that
+oxygen has been added to the charcoal structure. However, in these
+samples the H/C ratios are also signiﬁcantly lower than predicted for
+charcoal produced at w350  C. In this instance, diagenetic alteration
+may have involved dehydrogenation reactions, resulting in the loss
+of CH2 and CH3 groups from aliphatic molecules that were incompletely converted to aromatic compounds below 400  C. In the ﬁnal
+two environmental samples, Env-2 and Env-5, Romean measurements again suggest production at <400  C. Both the oxygen and
+hydrogen content of these samples is somewhat higher than that
+predicted from equivalent analogue charcoal, again suggesting that
+some diagenetic alteration has occurred. In such samples, it is
+
+1597
+
+important to consider the possibility that this material represents
+the highly degraded remains of an initially more pristine charcoal
+structure. However, the organized carbon content, reactivities, and
+volatile content (34.10% and 41.13% of dry, ash-free sample weight) of
+these charcoals are all comparable to that of the 300  C analogue
+charcoal, supporting the reliability of the Romean temperature
+assessments. An additional consideration is that in these samples the
+non-aromatic component may represent incompletely converted,
+and possibly diagenetically altered, lignocellulosic components of
+the original plant material, or material derived from exogeneous
+sources to the original plant, such as soil humic acids. In comparison
+to charcoal, these materials contain a relatively high proportion of
+oxygen and hydrogen, that may contribute to the observed O/C and
+H/C ratios in Env-2 and Env-5.
+4.3. Implications for archaeological and palaeoenvironmental
+investigation
+The concept of a continuum in degradation potential has
+important implications for the use of charcoal within archaeological
+research. For example, diagenetic processes can affect radiocarbon
+dating accuracy; at the early human occupation site of Nauwalabila,
+post-depositional alteration of some charcoal was so severe that
+samples did not reliably reﬂect the sediment deposition date (Bird
+et al., 2002). Additionally, loss or alteration of charcoal following
+deposition may signiﬁcantly affect the accuracy of quantitative
+estimates of ﬁre histories. The issue is greatly complicated by the
+range in conditions of charcoal production that are likely to exist in
+most instances, from settings such as domestic hearths to forest
+wildﬁres. Here, a gradient in production temperature has the
+potential to produce charcoal with different chemical characteristics that enters the depositional record at a single point in time. The
+data also appear to indicate that deposition conditions play a key
+role in charcoal alteration, as ancient samples such as Env-1 may
+show less apparent alteration than younger samples exposed to
+a different set of environmental conditions, but which were initially
+exposed to a comparable temperature range (e.g. Env-6).
+The results presented here highlight the value of integrating
+Romean with other analytical methods in charcoal analysis when
+assessing the likely diagenetic alteration of charcoal assemblages.
+Useful approaches in this regard are elemental analysis, Raman
+spectroscopy and TGA. These methods require small sample quantities (on the order of mg), are rapid and relatively low-cost. Pyrolysis
+efﬁciency and the degree of charcoal oxidation is provided by H/C
+and O/C ratio, respectively, while the extent of aromatic domains in
+the charcoal, and its chemical resistance can be assessed via Raman
+spectroscopy and TGA. In particular, it appears that addition of
+oxygen to the charcoal chemical structure may occur during exposure to environmental conditions, as suggested previously (e.g.
+Cohen-Ofri et al., 2006). Therefore an approach integrating these
+methods allows assessment of the potential for post-depositional
+alteration, particularly where charcoal samples may have been
+produced at lower temperature. Where Romean measurements
+suggest production under 400  C, this indicates that the charcoal
+sample contains a variety of chemical compounds other than polyaromatic carbon. These could represent remains of incomplete
+conversion of plant macromolecules, degradation of the charcoal
+aromatic structure, or sources of exogenous contamination.
+Important added value is provided from investigation integrating
+several methodological approaches as a means of evaluating deliberate production of speciﬁc charcoal types. For example, it is interesting to note that although Env-3 and Env-4 were produced in
+different locations, the charcoal is chemically very similar. This
+suggests a consistency in production methodology and charcoal
+quality between the two sites, and the possibility that this
+
+1598
+
+P.L. Ascough et al. / Journal of Archaeological Science 37 (2010) 1590–1599
+
+represented optimization of charcoal quality at a particular site with
+regard for its intended purpose, an interpretation that is consistent
+with archaeological data for this region (e.g. Church et al., 2007).
+
+5. Conclusions
+The present study further emphasises that mean random
+reﬂectance under oil (Romean) of a charcoal sample is strongly positively correlated with the sample production temperature. As Romean
+measurements are applicable for analysis of both ancient and
+freshly-produced charcoal samples, the technique has important
+beneﬁts for archaeological and palaeoenvironmental investigations,
+as it provides quantitative information on ﬁre regime in both natural
+(e.g. wildﬁre) and anthropogenic (e.g. domestic hearth) settings. In
+this study we use an integrated methodological approach (i.e. Romean
+coupled with elemental analysis, Raman spectroscopy and TGA) to
+show that Romean is also strongly correlated with the extent of
+organized, polyaromatic domains within charcoal. Along with reliable temperature reconstructions, Romean therefore also provides
+information on the chemical structure of charcoal. This chemical
+structure is clearly strongly dependant upon production temperature, and the results show that charcoal produced at lower
+temperatures (e.g. 300  C) displays both higher reactivity and
+chemical heterogeneity. As diagenetic processes can potentially alter
+lower temperature (<400  C) charcoals, there may be a need to
+assess the level of diagenetic alteration with other methods for
+charcoal characterization. The results presented here highlight an
+overall continuum in charcoal ‘degradability’ that is dependant upon
+fuel material and production conditions. Diagenetic alteration and
+loss of material appears more likely if initial charcoal production
+temperatures were <400  C. This has importance for the use of
+charcoal as an archaeological and palaeoenvironmental proxy data
+source. For example, post-depositional loss of charcoal could affect
+interpretations of ﬁre histories that are based upon variations in
+charcoal abundance. The concept of diagenetic alteration also has
+implications for wider applications, including the use of ‘biochar’
+charcoal as a long-term carbon sequestration tool.
+
+Acknowledgements
+Funding for this research was provided by NERC standard grant
+NE/C004531/1 and NERC standard grant NE/F017456/1. This
+research represents a contribution from SAGES (The Scottish Alliance for Geosciences, Environment and Society). The authors
+gratefully acknowledge the assistance of Steve Weiner and the staff
+of the Kimmel Centre for Archaeological Science at the Weizmann
+Institute, Israel. Environmental charcoal samples were made
+available for analysis with the kind assistance of Brent Alloway,
+Alexandra Hohn, Antonio Valera, Fernando Tempera, Neide Guidon
+and Mike Church. We would like to thank Tony Brain (CUI, Kings
+College London) for technical assistance with the TEM work and
+Sharon Gibbons and Neil Holloway (RHUL) for help with sample
+preparation for reﬂectance microscopy.
+
+References
+Alloway, B.V., Pribadi, A., Westgate, J.A., Bird, M., Fiﬁeld, L.K., Hogg, A., Smith, I.,
+2004. Correspondence between glass-FT and AMS 14C ages of silicic pyroclastic
+density current (PDC) deposits sourced from Maninjau caldera, west-central
+Sumatra. Earth and Planetary Science Letters 227, 121–133.
+Antal, M.J., Gronli, M.G., 2003. The art, science, and technology of charcoal
+production. Industrial & Engineering Chemistry Research 42, 1619–1646.
+Ascough, P.L., Bird, M.I., Brock, F., Higham, T.F.G., Meredith, W., Snape, C., Vane, C.H.,
+2008a. Hydropyrolysis as a new tool for radiocarbon pretreatment and the
+quantiﬁcation of black carbon. Quaternary Geochronology 4 (2), 140–147.
+
+Ascough, P., Bird, M.I., Wormald, P., Snape, C.E., Apperley, D., 2008b. Inﬂuence of
+pyrolysis variables and starting material on charcoal stable isotopic and
+molecular characteristics. Geochimica et Cosmochimica Acta 72, 6090–6102.
+Baldock, J.A., Smernik, R.J., 2002. Chemical composition and bioavailability of
+thermally altered Pinus resinosa (Red pine) wood. Organic Geochemistry 33,
+1093–1109.
+Bird, M.I., 2006. Radiocarbon dating of charcoal. In: Elias, S.A. (Ed.), The Encyclopaedia of Quaternary Science. Elsevier, Amsterdam, pp. 2950–2957.
+Bird, M.I., Gröcke, D.R., 1997. Determination of the abundance and carbon isotope
+composition of elemental carbon in sediments. Geochimica et Cosmochimica
+Acta 61, 3413–3423.
+Bird, M.I., Moyo, E., Veenendaal, E., Lloyd, J.J., Frost, P., 1999. Stability of elemental
+carbon in a savanna soil. Global Biogeochemical Cycles 13, 923–932.
+Bird, M.I., Turney, C.S.M., Fiﬁeld, L.K., Jones, R., Ayliffe, L.K., Palmer, A., Cresswell, R.G.,
+Robertson, S., 2002. Radiocarbon analysis of the early archaeological site of
+Nauwalabila 1, Arnhem Land, Australia: implications for sample suitability and
+stratigraphic integrity. Quaternary Science Reviews 21, 1061–1075.
+Boehm, H., Setton, R., Stumpp, E., 1994. Nomenclature and terminology of graphite
+intercalation compounds (IUPAC Recommendations 1994). Pure and Applied
+Chemistry 66, 1893.
+Braadbaart, F., Poole, I., 2008. Morphological, chemical and physical changes during
+charcoaliﬁcation of wood and its relevance to archaeological contexts. Journal
+of Archaeological Science 35, 2434–2445.
+Church, M.J., Dugmore, A.J., Mairs, K.-A., Millard, A., Cook, G.T.,
+Sveinbjarnardóttir, G., Ascough, P.A., Newton, A.J., Roucoux, K., 2007. Charcoal
+production during the Norse and early medieval periods in Eyjafjallahreppur,
+Southern Iceland. Radiocarbon 49, 659–672.
+Cohen-Ofri, I., Weiner, L., Boaretto, E., Mintz, G., Weiner, S., 2006. Modern and fossil
+charcoal: aspects of structure and diagenesis. Journal of Archaeological Science
+33, 428–439.
+Collinson, M.E., Featherstone, C., Cripps, J.A., Nichols, G.J., Scott, A.C., 2000. Charcoalrich plant debris accumulations in the lower cretaceous of the Isle of Wight,
+England. Acta Palaeobotanica 164, 93–105.
+Cruz, J.V., Antunes, P., Amaral, C., Franca, Z., Nunes, J.C., 2006. Volcanic lakes of the
+Azores archipelago (Portugal): geological setting and geochemical characterization. Journal of Volcanology and Geothermal Research 156, 135–157.
+Darmstadt, H., Pantea, D., Summchen, L., Roland, U., Kaliaguine, S., Roy, C., 2000.
+Surface and bulk chemistry of charcoal obtained by vacuum pyrolysis of bark:
+inﬂuence of feedstock moisture content. Journal of Analytical and Applied
+Pyrolysis 53, 1–17.
+Dresselhaus, M.S., Pimenta, M.A., Ekiund, P.C., Dresselhaus, G., 2000. Raman scattering in Fullerenes and related carbon-based materials. In: Weber, W.H.,
+Merlin, R. (Eds.), Raman Scattering in Materials Science. Springer.
+Eckmeier, E., Gerlach, R., Skjemstad, J.O., Ehrmann, O., Schmidt, M.W.I., 2007. Only
+small changes in soil organic carbon and charcoal found one year after experimental slash-and-burn in a temperate deciduous forest. Biogeosciences
+Discuss 4, 595–614.
+Fey, G.T.K., Kao, Y.C., 2002. Synthesis and characterization of pyrolyzed sugar
+carbons under nitrogen or argon atmospheres as anode materials for lithiumion batteries. Materials Chemistry and Physics 73, 37–46.
+Fung, A.W.P., Rao, A.M., Kuriyama, K., Dresselhaus, M.S., Dresselhaus, G.,
+Endo, M., Shindo, N., 1993. Raman-scattering and electrical conductivity in
+highly disordered activated carbon-ﬁbers. Journal of Materials Research 8,
+489–500.
+Gouveia, S.E.M., Pessenda, L.C.R., Aravena, R., Boulet, R., Scheel-Ybert, R.,
+Bendassoli, J.A., Ribeiro, A.S., Freitas, H.A., 2002. Carbon isotopes in charcoal and
+soils in studies of paleovegetation and climate changes during the late Pleistocene and the Holocene in the southeast and centerwest regions of Brazil.
+Global and Platetary Change 33, 95–106.
+Guo, Y., Bustin, R.M., 1998. FTIR spectroscopy and reﬂectance of modern charcoals
+and fungal decayed woods: implications for studies of inertinite in coals.
+International Journal of Coal Geology 37, 29–53.
+Hall, G., Woodborne, S., Scholes, M., 2008. Stable carbon isotope ratios from
+archaeological charcoal as palaeoenvironmental indicators. Chemical Geology
+247, 384–400.
+Hallier, M., Petit, L.P., 2000. Tertres d’occupation et d’autre formes d’habitation à
+l’âge de Fer: rapport préliminaire de la campagne archéologique en été 2000 au
+nord du Burkina Faso. Nyame Akuma 54, 2–5.
+Hallier, M., Petit, L.P., 2001. Fouille d’une maison de l’Age du Fer dans le nord du
+Burkina Faso. Nyame Akuma 56, 2–3.
+Hockaday, W.C., Grannas, A.M., Kim, S., Hatcher, P.G., 2007. The transformation and
+mobility of charcoal in a ﬁre-impacted watershed. Geochimica et Cosmochimica
+Acta 71, 3432–3445.
+Höhn, A., 2005. Zur eisenzeitlichen Entwicklung der Kulturlandschaft im Sahel von
+Burkina Faso. Untersuchungen von archäologischen Holzkohlen. Unpublished
+PhD thesis, Universität in Frankfurt am Main.
+Hudspith, V., Scott, A.C., Wilson, C.J.N., Collinson, M.E., 2010. The preservation by
+plants by volcanic processes: an example from the Taupo Ignimbrite, New
+Zealand. Palaeogeography, Palaeoclimatology, Palaeoecology. doi:10.1016/
+j.palaeo.2009.06.036.
+Jones, T., Scott, A.C., Cope, M., 1991. Reﬂectance measurements against temperature
+of formation for modern charcoals and their implications for the study of fusain.
+Bulletin of the Geological Society of France 162, 193–200.
+Kim, N.H., Hanna, R.B., 2006. Morphological characteristics of Quercas variabilis charcoal prepared at different temperatures. Wood Science and Technology 40, 392.
+
+P.L. Ascough et al. / Journal of Archaeological Science 37 (2010) 1590–1599
+Knight, D.S., White, W.B., 1989. Characterization of diamond ﬁlms by Ramanspectroscopy. Journal of Materials Research 4, 385–393.
+Levine, J.S., 1991. Global Biomass Burning: Atmospheric, Climatic, and Biospheric
+Implications. The MIT Press, Cambridge, Massachusetts.
+Liang, B., Lehmann, J., Solomon, D., Sohi, S., Thies, J.E., Skjemstad, J.O., Luizao, F.J.,
+Engelhard, M.H., Neves, E.G., Wirick, S., 2008. Stability of biomass-derived black
+carbon in soils. Geochimica et Cosmochimica Acta 72, 6069–6078.
+Livingstone-Smith, A., 2001. Bonﬁre II: the return of pottery ﬁring temperature.
+Journal of Archaeological Science 28, 991–1003.
+Maitland, J., 2005. Organic Chemistry. W.W. Norton, New York.
+McParland, L., Collinson, M.E., Scott, A.C., Steart, D., 2007. Ferns and ﬁres: experimental charring of ferns compared to wood and implications for paleobiology,
+coal petrology and isotope geochemistry. PALAIOS 22, 528–538.
+McParland, L.C., Hazell, Z., Campbell, G., Collinson, M.E., Scott, A.C., 2009a. How the
+Romans got themselves into hot water: temperatures and fuel types used in
+ﬁring a hypocaust. Environmental Archaeology 14, 176–183.
+McParland, L.C., Scott, A.C., Collinson, M.E., Campbell, G., 2009b. The use of reﬂectance values for the interpretation of natural and anthropogenic charcoal
+assemblages. Archaeological and Anthropological Sciences 1, 249–261.
+Moore, J., 2000. Forest ﬁre and human interaction in the early holocene woodlands of Britain. Palaeogeography, Palaeoclimatology, Palaeoecology 164,
+125–137.
+Nguyen, T.H., Brown, R.A., Ball, W.P., 2004. An evaluation of thermal resistance as
+a measure of black carbon content in diesel soot, wood char, and sediment.
+Organic Geochemistry 35, 217–234.
+Nishimiya, K., Hata, T., Imamura, Y., Ishihara, S., 1998. Analysis of chemical structure
+of wood charcoal by X-ray photoelectron spectroscopy. Journal of Wood Science
+44, 56–61.
+Pastorova, I., Botto, R.E., Arisz, P.W., Boon, J.J., 1994. Cellulose char structure:
+a combined analytical Py-GC-MS, FTIR, and NMR study. Carbohydrate Research
+262, 27–47.
+Pessenda, L.C.R., Aravena, R., Melﬁ, A.J., Telles, E.C.C., Boulet, R., Valencia, E.P.E.,
+Tomazello, M., 1996. The use of carbon isotopes (C-13, C-14) in soil to evaluate
+vegetation changes during the Holocene in central Brazil. Radiocarbon 38,
+191–201.
+Preston, C.M., Schmidt, M.W.I., 2006. Black (pyrogenic) carbon: a synthesis of
+current knowledge and uncertainties with special consideration of boreal
+regions. Biogeoscience 3, 397–420.
+Scott, A.C., 1989. Observations on the nature and origin of fusain. International
+Journal of Coal Geology 12, 443–475.
+Scott, A.C., 2000. The pre-quaternary history of ﬁre. Palaeogeography, Palaeoclimatology, Palaeoecology 164, 281–329.
+Scott, A.C., 2009. Forest ﬁre in the fossil record. In: Cerdà, A., Robichaud, P. (Eds.),
+Fire Effects on Soils and Restoration Strategies. Science Publishers Inc., New
+Hampshire, pp. 1–37.
+Scott, A.C., 2010. Charcoal recognition, taphonomy and uses in palaeoenvironmental
+analysis. Palaeogeography, Palaeoclimatology, Palaeoecology in press, doi:10.
+1016/j.palaeo.2009.12.012.
+Scott, A.C., Glasspool, I.J., 2005. Charcoal reﬂectance as a proxy for the emplacement
+temperature of pyroclastic ﬂow deposits. Geology 33, 589–592.
+
+1599
+
+Scott, A.C., Glasspool, I.J., 2007. Observations and experiments on the origin and
+formation of inertinite group macerals. International Journal of Coal Geology
+70, 55–66.
+Scott, A.C., Jones, T.P., 1991. Microscopical observations of recent and fossil charcoal.
+Microscopy and Analysis 24, 13–15.
+Scott, A.C., Jones, T.J., 1994. The nature and inﬂuence of ﬁres in Carboniferous
+ecosystems. Palaeogeography, Palaeoclimatology, Palaeoecology 106, 91–112.
+Schmidt, M.W.I., Skjemstad, J.O., Czimczik, C.I., Glaser, B., Prentice, K.M., Gelinas, Y.,
+Kuhlbusch, T.A.J., 2001. Comparative analysis of black carbon in soils. Global
+Biogeochemical Cycles 15, 163–167.
+Sima-Ella, E., Yuan, G., Mays, T., 2005. A simple kinetic analysis to determine the
+intrinsic reactivity of coal char. Fuel 84, 1920–1925.
+Stach, E., Mackowsky, M.-Th, Teichmüller, M., Taylor, G.H., Chandra, D.,
+Teichmüller, R., 1982. Stach’s Textbook of Coal Petrology. Gebrüder Borntraeger,
+Berlin-Stuttgart.
+Steelman, K.L., Rickman, R., Rowe, M.W., Boutton, T.W., Russ, J., Guidon, N., 2002.
+Accelerator mass spectrometric radiocarbon ages of an oxalate accretion and
+rock paintings at Toca do Serrote da Bastiana, Brazil. In: Jakes, K.A. (Ed.),
+Archaeological Chemistry VI: Materials, Methods, and Meaning, #831. American
+Chemical Society, Washington, DC, pp. 22–35.
+Stinson, K.J., Wright, H.A., 1969. Temperatures of headﬁres in the southern mixed
+Prairie of Texas. Journal of Range Management 22, 169–174.
+Stronach, N.R.H., McNaughton, S.J., 1989. Grassland ﬁre dynamics in the serengeti
+ecosystem, and a potential method of retrospectively estimating ﬁre energy.
+Journal of Applied Ecology 26, 1025–1033.
+Swift Jr., L.W., Elliott, K.J., Ottmar, R.D., Vihnanek, R.E., 1993. Site preparation
+burning to improve southern Appalachian pine-hardwood stands: ﬁre characteristics and soil erosion, moisture, and temperature. Canadian Journal of Forest
+Research 23, 2242–2254.
+Trompowsky, P.M., Benites, V.M., Madari, B.E., Pimenta, A.S., Hockaday, W.C.,
+Hatcher, P.G., 2005. Characterization of humic like substances obtained by
+chemical oxidation of eucalyptus charcoal. Organic Geochemistry 36, 1480–1489.
+Tuinstra, F., Koenig, J.L., 1969. Characterization of graphite ﬁber surfaces with
+Raman spectroscopy. Journal of Chemical Physics 53, 1126–1130.
+Tuinstra, F., Koenig, J.L., 1970. Raman spectrum of graphite. Journal of Chemical
+Physics 53, 1126.
+Turney, C.S.M., Wheeler, D., Chivas, A.R., 2006. Carbon isotope fractionation in wood
+during carbonization. Geochimica et Cosmochimica Acta 70, 960–964.
+Van Krevelen, D., 1950. Graphical–statistical method for the study of structure and
+reaction process of coal. Fuel 29, 269–284.
+Walker Jr., P.L., Rusinko Jr., F., Austin, L.G., 1959. In: Eley, D.D., Selwood, P.W.,
+Weisz, P.B. (Eds.), Advances in Catalysis, 11. Academic Press, New York, p. 164.
+Werts, S.P., Jahren, A.H., 2007. Estimation of temperatures beneath archaeological
+campﬁres using stable isotopic composition of soil organic matter. Journal of
+Archaeological Science 34, 850–857.
+Williams, P.T., Besler, S., 1996. The inﬂuence of temperature and heating rate on the
+slow pyrolysis of biomass. Renewable Energy 7, 233–250.
+Wolbach, W.S., Anders, E., 1989. Elemental carbon in sediments: determination and
+spectroscopic analysis in the presence of kerogen. Geochimica et Cosmochimica
+Acta 53, 1637–1647.
+
+

@@ -1,0 +1,1497 @@
+Journal of Archaeological Science 39 (2012) 2785e2796
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Temporal nature and recycling of Upper Paleolithic artifacts: the burned tools
+from the Molí del Salt site (Vimbodí i Poblet, northeastern Spain)
+Manuel Vaquero a, b, *, Susana Alonso a, b, Sergio García-Catalán a, b, Angélica García-Hernández a, b,
+Bruno Gómez de Soler a, b, David Rettig a, b, María Soto a, b
+a
+b
+
+Area de Prehistoria, Universitat Rovira i Virgili, Avinguda Catalunya 35, 43002 Tarragona, Spain
+Institut Català de Paleoecologia Humana i Evolucio Social (IPHES), Escorxador s/n, 43003 Tarragona, Spain
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 8 February 2012
+Received in revised form
+11 April 2012
+Accepted 12 April 2012
+
+Recent research in Paleolithic archeology has stressed the importance of temporal issues in assemblage
+interpretation. Archeological assemblages are temporal constructs, formed by the addition of an
+unknown number of depositional events. This temporal dimension is also evident at the artifactual level,
+since single artifacts may undergo different events of modiﬁcation and/or uses over time. The recycling of
+previously discarded blanks for tool production is one of the best examples of the temporal nature of
+artifacts. The aim of this paper is to evaluate the importance of recycling in a Late Upper Paleolithic site,
+examining a type of artifact e burned tools e that has up to now been little used to approach this issue.
+Our results suggest that recycling was probably a signiﬁcant component of Upper Paleolithic provisioning
+behavior, with important implications in site formation processes and the typological variability of
+assemblages. The expedient or curated character of recycling is also discussed.
+Ó 2012 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Burned artifacts
+Provisioning strategies
+Recycling
+Late Upper Paleolithic
+Molí del Salt
+
+1. Introduction
+Recent developments in Paleolithic research have underscored
+the temporal nature of the archeological record. Most Paleolithic
+assemblages are palimpsests deﬁned by stratigraphic criteria and
+are aggregates made up of remains from an unknown number of
+depositional events (Bailey, 2007; Bailey and Galadinou, 2009;
+Brochier, 1999; Malinsky-Buller et al., 2011; Vaquero, 2008).
+Although the exact duration of such formation processes cannot be
+established, it is possible that most Pleistocene assemblages accumulated over the course of hundreds or thousands of years. This
+cumulative character has important consequences in interpreting
+archeological assemblages, especially when attempting to apply
+ethnographically-derived middle-range theories constructed in
+high resolution temporal contexts. Events of different natures can
+contribute to these palimpsests and assemblages should therefore
+not be considered as coherent constructs from a functional,
+economical or cultural point of view. Time averaging explanations
+of the assemblage as-a-whole may thus be seriously ﬂawed (Crema
+et al., 2010; Domínguez-Rodrigo, 2009; Lyman, 2003; Shott, 2008).
+
+* Corresponding author. Institut Català de Paleoecologia Humana i Evolucio
+Social (IPHES), Escorxador s/n, 43003 Tarragona, Spain. Tel.: þ34 977558703.
+E-mail address: manuel.vaquero@urv.cat (M. Vaquero).
+0305-4403/$ e see front matter Ó 2012 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2012.04.024
+
+The signiﬁcance of the temporal dimension in understanding
+archeological assemblages is widely recognized, but there is
+another time-related issue that has received comparatively less
+attention by archeologists: the temporal nature of single artifacts.
+Some artifacts may exhibit complex life histories characterized by
+the succession of different use and/or manufacture events. The
+meaning of such artifacts may differ through time (Bailey, 2007;
+Joy, 2009) and the ﬁnal form, which is the outcome of the successive modiﬁcations, may be very different from that imposed in the
+ﬁrst manufacture event. In these cases, artifact morphology should
+not be considered as the expression of mental templates imposed
+by the artisan, but the unplanned consequence of this sequence of
+modiﬁcation events. The relevance of artifact biographies for
+interpreting variability in lithic assemblages was clearly pointed
+out by Harold L. Dibble (1991, 1995) in his studies on Middle
+Paleolithic sidescrapers. According to Dibble, the morphology of
+some Mousterian sidescrapers e and therefore their typological
+classiﬁcation e was the result of several episodes of resharpening
+and use. Some artifacts were more intensely utilized and their
+edges were rejuvenated several times, while others were discarded
+after short use periods. These different life histories determined the
+appearance of different morphotypes, therefore playing a primary
+role in assemblage variability. These arguments are less common in
+Upper Paleolithic studies. Although resharpening has been used to
+explain the size variability of some tool types, like endscrapers
+
+2786
+
+M. Vaquero et al. / Journal of Archaeological Science 39 (2012) 2785e2796
+
+(Movius et al., 1968; Morrow, 1997; Blades, 2003), it is normally
+assumed that modiﬁcations through time did not change the
+typological classiﬁcation of retouched artifacts.
+However, resharpening is not the sole expression of the
+temporal nature of lithic artifacts. Recycling is another behavior
+that implies successive stages of modiﬁcation and/or use of the
+same artifact. Although the archeological consequences of
+resharpening and recycling may be difﬁcult to distinguish, they are
+different behaviors that can be explained by entirely different
+factors. Resharpening is a maintenance procedure aimed at
+extending the use life of an artifact. It can be considered an
+economic behavior which is especially useful in contexts characterized by a shortage of raw materials, in which it is costly to
+discard worn-out artifacts. Unlike resharpening, recycling is
+deﬁned by a phase of discard between the different use events. It is
+not the extension of the use life of the artifact, but the beginning of
+a new use life. Recycling has often been explained as the consequence of raw material scarcity, a way of maximizing the proﬁtability of lithic resources (Kelly, 1988; Dibble and Rolland, 1992;
+Close, 1996; Amick, 2007; Galup, 2007; Hiscock, 2009). In this
+sense, recycling would be expected in curated technologies and it
+has even been considered as one of the main aspects of curation
+(Bamforth, 1986). However, it can also appear in expedient
+contexts, as a way to quickly meet immediate needs. Therefore,
+recycling should not be associated solely with curated contexts.
+In spite of its potential signiﬁcance in assemblage formation and
+artifact morphology, recycling behavior is particularly difﬁcult to
+identify from archeological data. As some researchers point out
+(Amick, 2007; Galup, 2007), recycling was probably more common
+in prehistoric times than the scarce archeological evidence
+suggests. Due to these empirical problems, it has even been suggested that recycling is not a useful concept in archeological
+interpretation (Odell, 1996).
+Archaeologists have used different kinds of data to identify
+recycling. Recycling can be approached by means of artifact movements inferred from spatial distribution and reﬁtting (Vaquero,
+2011). In this context, the differential scattering of reduction
+sequences can be used to establish temporal relationships between
+artifacts. In other cases, the use of a single artifact for different
+functions (for example, a cobble ﬁrst used as a hammerstone and
+later exploited as a core) has been considered evidence of recycling
+(Thiébaut et al., 2010). However, most approaches to recycling are
+based on artifact attributes, and especially on surface alterations,
+that suggest a period of discard between different activity events.
+These alterations can be considered as temporal markers, since they
+allow those events previous to the alteration to be distinguished
+from those that occurred afterwards. Obsidian hydration is a good
+indicator of recycling, since the thickness of hydration rinds depends
+on exposure length (Michels, 1969). Identifying rinds of different
+thicknesses on the same artifact is therefore an indication of recycling (Amick, 2007). Likewise, patinated ﬂint artifacts are suitable for
+inferring recycling. In artifacts showing a double patina, the
+secondary modiﬁcations can be clearly differentiated from the older
+patinated surface. This has been the criterion most commonly used
+for identifying recycling in Paleolithic assemblages (cf. Barkai et al.,
+2009: 66; Debenath, 1992: 55; Galili and Weinstein-Evron, 1985:
+40; Mora et al., 2004: 428; Nishiaki, 1985: 221e222). Both hydration
+bands and patina need considerable time to form and are perhaps
+the best criteria for identifying long-term recycling.
+Fire damage is another temporal marker that provides clues as
+to what happened before and after it, although it has been less
+frequently used than hydration and patina in recycling studies. The
+effects of thermal alteration on ﬁne-grained rocks has been widely
+analyzed in experimental studies and several kinds of macroscopic
+modiﬁcations e color changes, potlid fractures, fragmentation, and
+
+crazing e have been identiﬁed (Grifﬁths et al., 1986; Olausson and
+Larsson, 1982; Patterson, 1995; Purdy and Brooks, 1971; Sergant
+et al., 2006). The intensity of ﬁre damage depends on temperature and exposure time, but experimental studies indicate that heat
+damage appears only at around 300  C in artifacts that come into
+direct contact with ﬁre (Sergant et al., 2006). Modiﬁcations made
+after ﬁre exposure are macroscopically identiﬁable due to the
+greasy luster on surfaces ﬂaked subsequent to heat damage. Artifacts with such lustrous ﬂake scars might be interpreted as the
+result of recycling, since burned blanks may correspond to previously discarded items that were unintentionally exposed to ﬁre and
+later recycled to manufacture tools.
+The main analytical problem lies in differentiating between
+items burnt after disposal from those intentionally exposed to ﬁre
+in order to improve their ﬂaking qualities. This obstacle might
+explain why the contribution of burnt artifacts to the discussion on
+recycling remains a relatively unexplored line of research. Several
+authors have deﬁned the conditions and methods for heat treating
+(Crabtree and Butler, 1964; Mandeville, 1973; Grifﬁths et al., 1986;
+Domanski et al., 1994; Mercieca and Hiscock, 2008). Heat treatment
+improves the knappability of siliceous stones through the removal
+of interstitial water. This behavior has been noted in ethnographic
+contexts (Hester, 1972) and has been identiﬁed in some Paleolithic
+assemblages, particularly in the manufacture of tools that require
+relatively high technical skill. For example, the thermal preparation
+of ﬂint was used in the manufacture of Solutrean points in Parpalló
+Cave (Tiffagom, 2006). However, determining the intentional
+nature of this heat treatment is not always straightforward and the
+accidental burning of lithics cannot be ruled out in some cases
+(Gregg and Grybush, 1976). In addition, thermal treatment seems
+superﬂuous for the manufacture of most Upper Paleolithic tools,
+which do not require high technical skill and are commonly made
+on unburned blanks. In this context, the typological distribution of
+tools retouched after ﬁre damage can provide insight into the use of
+an intentional heat treatment. If the most skill-demanding tools
+show higher indices of post-damage retouch, intentional heat
+treatment would be supported.
+The aim of this paper is to evaluate the relevance of recycling in
+Upper Paleolithic assemblages through the analysis of burned tools
+from Molí del Salt, a Late Upper Paleolithic site located in the
+northeastern Iberian Peninsula. We will try to establish whether
+recycling was a signiﬁcant factor in the formation of the lithic
+assemblage. A method for measuring recycling will be proposed for
+comparing the importance of this behavior in different assemblages. We will pay special attention to the typological distribution
+of post-damage tools in order to ascertain the role of recycling in
+the typological variability of assemblages. Typological differences
+between post-damage retouched tools and the rest of the tools in
+an assemblage may be useful not only in deﬁning the activity
+context of recycling, but also in distinguishing recycling from an
+intentional heat treatment. Multiple tools are of particular interest,
+as they may be the product of either an intentional design or,
+alternatively, the addition over time of different tools on the same
+blank. A higher index of recycling among multiple tools would
+support the temporal nature of these artifacts. Finally, we will
+discuss the economic meaning of recycling and its association with
+either curated or expedient technical strategies. Due to the
+economic implications of recycling, differences throughout the
+archeological sequence may also be indicative of temporal changes
+in raw material provisioning constraints or settlement patterns.
+2. Materials and methods
+The Molí del Salt site is located in the village of Vimbodí i Poblet,
+35 km northwest of the city of Tarragona (Fig. 1), at 490 m above sea
+
+M. Vaquero et al. / Journal of Archaeological Science 39 (2012) 2785e2796
+
+2787
+
+Fig. 1. A. Molí del Salt location in the northwestern corner of the Iberian Peninsula. B. General view of the site during the 2003 excavation season.
+
+level on the left bank of the Milans, a small tributary of the Francolí
+river. It is a rockshelter in the Tertiary conglomerates (Upper
+Oligocene) common along the eastern borders of the Ebro basin.
+Archeological excavations begun in 1999 revealed a 2.5 m thick
+stratigraphic sequence containing Mesolithic and Late Upper
+Paleolithic (Late Magdalenian) layers. The Late Upper Paleolithic
+sequence corresponds to the lowermost 1.5 m of the stratigraphy,
+a succession of silty and sandy layers with some large conglomerate
+blocks, in which two main stratigraphic and archeological units
+have been distinguished from top to bottom: unit A, subdivided
+into levels Asup, A and A1; and unit B, subdivided into levels B1 and
+B2. An Early Holocene Mesolithic layer at the top of the sequence
+will not be included in this study. Several 14C/AMS dates have
+been obtained for levels Asup and A (Table 1), ranging from
+10,840  50 and 11,800  50 14C years BP e from 12,690 to
+13,800 cal years BP. Levels B1 and B2 have been dated respectively
+to 11,940  100 and 12,510  100 14C years BP e 14,070e13,590 and
+
+15,300e14,540 cal years BP. The upper layers (Asup and A) have
+been extensively excavated, but levels A1, B1 and B2 have been
+exclusively documented in a 3 m2 test pit. The number of remains
+in these levels is therefore much lower than in the uppermost one.
+The archeological assemblages from the Molí del Salt site are
+characterized by ample evidence of burning. Burned remains are
+common in both the lithic and faunal assemblages. This may be
+explained by the hearth-focused nature of human occupations, but
+the characteristics of the stratigraphic succession also played an
+important role. The Paleolithic sequence of this site is a large
+palimpsest formed by a 1.5 m thick deposit of sands and silts
+without sterile layers. This means that hearths were systematically
+constructed over the lithics and bones discarded during previous
+occupations. In such a context, post-depositional and unintentional
+ﬁre damage would be common.
+Flint is overwhelmingly dominant in the lithic assemblages and
+it was practically the only raw material used in knapping activities.
+
+2788
+
+M. Vaquero et al. / Journal of Archaeological Science 39 (2012) 2785e2796
+
+Table 1
+14
+C AMS dates from Molí del Salt. 14C ages have been converted to calendar ages by
+using CalPal2007-HULU Calibration Curve in the CalPal calibration software.
+Level Ref. lab.
+
+Material
+
+14
+
+Sup
+Asup
+Asup
+Asup
+Asup
+Asup
+A
+A
+A
+A
+A
+A
+B1
+B2
+
+Bone
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+
+8040
+10,840
+10,990
+11,060
+10,850
+10,920
+11,000
+11,230
+11,440
+10,940
+11,770
+11,800
+11,940
+12,510
+
+Beta-173335
+Beta-179599
+Beta-179598
+Beta-221912
+Beta-221913
+Beta-235268
+Beta-235267
+Beta-277000
+Beta-277001
+Beta-284214
+Beta-284212
+Beta-284213
+GifA-101037
+GifA-101038
+
+C age
+ 40
+ 50
+ 50
+ 70
+ 70
+ 60
+ 60
+ 50
+ 60
+ 50
+ 50
+ 50
+ 100
+ 100
+
+Years cal BP
+(2s)
+
+Years cal BC
+(2s)
+
+9110e8710
+12,890e12,690
+13,050e12,730
+13,130e12,770
+12,950e12,670
+12,990e12,710
+13,080e12,720
+13,270e13,030
+13,500e13,180
+12,990e12,710
+13,790e13,550
+13,800e13,560
+14,070e13,590
+15,300e14,540
+
+7160e6760
+10,940e10,740
+11,100e10,780
+11,180e10,820
+11,000e10,720
+11,040e10,760
+11,130e10,770
+11,320e11,080
+11,550e11,230
+11,040e10,760
+11,840e11,600
+11,850e11,610
+12,120e11,640
+13,350e12,590
+
+Although some tools on limestone and schist have also been
+identiﬁed, only ﬂint tools have been considered in this paper. The
+technological and typological characteristics are typical of Late
+Upper Paleolithic assemblages in Mediterranean Spain. In general,
+toolkits are dominated by endscrapers, backed elements (points
+and blades) and denticulates, although other types (burins, borers,
+abrupts, truncations) are also relatively well represented. However,
+there are signiﬁcant differences between the archeological units.
+Truncations are particularly common in unit B, where they show
+percentage values of around 20%, but they are very scarce in unit A.
+Burins show the opposite trend; they are well represented in unit A,
+but practically absent in unit B. Endscrapers exhibit their maximum
+values in unit A, while in unit B their percentage is similar to that of
+truncations. Other types (denticulates, backed artifacts) do not
+show signiﬁcant changes throughout the sequence. These changes
+are associated with other evolutionary trends in raw material
+provisioning (local raw materials increase from bottom to top) and
+artifact size (tools tend to get smaller over time).
+We have identiﬁed burned tools using the different macroscopic
+features described in the literature as evidence of ﬁre damage in
+ﬂint artifacts. According to the incidence of burning, four kinds of
+artifacts have been distinguished among the retouched implements
+recovered at Molí del Salt: a) tools without ﬁre damage; b) tools
+retouched before ﬁre damage; c) tools retouched after ﬁre damage;
+and d) tools that were retouched both before and after ﬁre damage.
+The two latter categories have been identiﬁed through the presence
+of retouch scars whose surface is different from the rest of the blank
+surface, generally because they display a greasy luster (Fig. 2).
+These are the artifacts that can be directly associated with recycling,
+since they indicate the modiﬁcation of previously burned blanks.
+The artifacts were divided into size categories according to length
+and width: very small (<500 mm2), small (500e1000 mm2),
+medium (1000e1500 mm2), large (1500e2000 mm2) and very
+large (>2000 mm2).
+The retouched artifacts were analyzed and classiﬁed in keeping
+with the Structural and Analytical Typology of G. Laplace (1972),
+although only their adscription to the main typological groups will
+be used in this paper. However, we have also included a typological
+group that does not appear in Laplace’s typology: retouched blanks.
+This group contains artifacts that have been retouched on one side,
+but that lack the formalized morphology characteristic of the other
+typological groups. We have paid special attention to the distinction between simple tools, i.e. artifacts bearing only one tool type,
+and multiple tools, which display evidence of more than one tool
+type manufactured on a single blank. It is important to stress that
+we have considered one of the types of simple endscrapers deﬁned
+
+Fig. 2. Endscraper retouched after ﬁre damage. Close-up of the retouched edge
+showing the greasy luster characteristic of post-damage retouch.
+
+by Laplace e the endscraper with lateral retouch e as a multiple
+tool, since it is characterized by two retouched sides with different
+characteristics.
+A Minimum Recycling Index (MRI) was calculated as an estimate
+of the signiﬁcance of recycling in tool production. This index
+corresponds to the percentage of burned tools that were retouched
+after ﬁre damage. This must be considered as a minimum index
+because we do not know if some artifacts retouched before burning
+were also manufactured from recycled blanks. As for the unburned
+tools, we cannot say if the artifacts burned after retouch were
+previously recycled or not. We cannot therefore rule out that the
+actual number of recycled items is higher than that deduced from
+our data. Although it is only an approximation to the real incidence
+of recycling, this MRI essentially serves for comparative purposes,
+as it allows the differential practice of recycling among different
+assemblages to be estimated.
+3. Results
+We analyzed 1583 retouched artifacts from the Late Upper
+Paleolithic layers, 1383 of them corresponding to simple tools and
+199 to multiple tools. As shown in Table 2, the artifacts that do not
+
+Table 2
+Distribution of retouched artifacts by archeological levels and ﬁre damage
+categories.
+Archaeological
+level
+
+No ﬁre
+damage
+
+Damage
+after
+retouch
+
+Damage
+before
+retouch
+
+Damage
+before and
+after retouch
+
+Total
+
+Asup
+
+281
+61.6
+577
+61.1
+31
+57.4
+52
+77.6
+51
+82.2
+992
+62.6
+
+139
+30.4
+291
+30.8
+18
+33.3
+12
+17.9
+10
+16.1
+470
+29.6
+
+30
+6.5
+61
+6.4
+5
+9.2
+2
+2.9
+1
+1.6
+99
+6.2
+
+6
+1.3
+15
+1.5
+e
+e
+1
+1.4
+e
+e
+22
+1.3
+
+456
+100
+944
+100
+54
+100
+67
+100
+62
+100
+1583
+100
+
+A
+A1
+B1
+B2
+Total
+
+M. Vaquero et al. / Journal of Archaeological Science 39 (2012) 2785e2796
+
+show macroscopic evidence of ﬁre damage are dominant (62.6%),
+although there is a signiﬁcant proportion of burned tools. However,
+differences between levels are important and the percentage of
+burned artifacts tends to be higher in the levels of unit A. The effects
+of sample size cannot be dismissed in the explanation of these
+differences, but it is worth pointing out that the percentage of
+burned tools in level A1, which is the smallest assemblage, is similar
+to that obtained in the other levels of unit A. Natural formation
+
+2789
+
+processes may explain the different proportion of burned artifacts
+in units A and B. According to the geoarcheological study (Vallverdú
+and Carrancho, 2004), the sedimentary processes in unit B took
+place at a faster rate than in unit A. As a consequence, the artifacts
+were more rapidly buried and therefore less exposed to thermal
+damage.
+Artifacts manufactured after ﬁre damage account for 7.5% of the
+retouched tools (Figs. 3 and 4). If there was not a preferential
+
+Fig. 3. Tools retouched after ﬁre damage. White lines indicate the location of the retouched edges. 1, 5. Retouched blanks. 2. Endscraper with lateral retouch. 3, 4, 6. Endscrapers. 1
+and 2 were retouched both before and after ﬁre damage.
+
+2790
+
+M. Vaquero et al. / Journal of Archaeological Science 39 (2012) 2785e2796
+
+Fig. 4. Endscrapers retouched after ﬁre damage.
+
+selection of burned blanks for recycling, a similar proportion should
+be expected among the unburned artifacts. This percentage
+represents a Minimum Index of Recycling of 20.4. Both levels Asup
+and A exhibit a similar MRI (20.5 and 20.7 respectively). The MRI for
+levels A1 (21.7), B1 (20) and B2 (9) should be considered with
+caution due to the small sample size, although the indices for levels
+A1 and B1 are practically the same as those obtained in the two
+uppermost levels. Taken together, the MRI for unit B is 15.3, which
+is slightly lower than the index from unit A. This would suggest that
+the intensity of recycling was higher in unit A, but more artifacts
+need to be studied to corroborate this temporal trend.
+As shown in Table 3, very small items are clearly dominant
+among the unburned and pre-damage tools, accounting for more
+than 50% of the artifacts. However, very small artifacts are less
+common among post-damage tools, which are characterized by an
+increase in small pieces. This underrepresentation of the smallest
+size class among the tools manufactured after heat damage may be
+explained by the lower visibility of the smallest blanks, which tend
+to be buried faster than larger objects.
+As far as simple tools are concerned, endscrapers are the largest
+typological group (37.4%), followed by backed tools (19.4%),
+denticulates (12.5%) and retouched blanks (12.4%). The remaining
+tool types (abrupts, burins, borers, sidescrapers and truncations)
+are present in lower frequencies. As Table 4 shows, pre-damage and
+
+post-damage retouched implements are represented in all of the
+typological groups. If only the artifacts retouched after ﬁre damage
+are considered, the size of some typological groups is similar to that
+recorded in the assemblage as-a-whole, although others exhibit
+signiﬁcant differences (Fig. 5). Backed tools are the second most
+common tool type in the whole assemblage, but they only amount
+
+Table 3
+Tool distribution by ﬁre damage categories and artifact size.
+Size
+
+No ﬁre
+damage
+
+Damage
+after
+retouch
+
+Damage
+before
+retouch
+
+Damage
+before and
+after retouch
+
+Total
+
+Very small
+
+551
+55.5
+294
+29.6
+90
+9.1
+38
+3.8
+19
+1.9
+992
+100
+
+254
+54.0
+141
+30.0
+57
+12.1
+12
+2.6
+6
+1.3
+470
+100
+
+44
+44.4
+41
+41.4
+10
+10.1
+2
+2.0
+2
+2.0
+99
+100
+
+5
+22.7
+10
+45.5
+6
+27.3
+e
+e
+1
+4.5
+22
+100
+
+854
+53.9
+486
+30.7
+163
+10.3
+52
+3.3
+28
+1.8
+1583
+100
+
+Small
+Medium
+Large
+Very large
+Total
+
+M. Vaquero et al. / Journal of Archaeological Science 39 (2012) 2785e2796
+Table 4
+Distribution of simple tools according to typological groups and ﬁre damage categories. Only the most represented typological groups have been included in this
+table. Thirteen artifacts ascribed to very poorly represented groups (bitruncations,
+points and pieces with ﬂat retouch) have been excluded.
+Typological
+group
+
+No ﬁre
+damage
+
+Damage
+after
+retouch
+
+Damage
+before
+retouch
+
+Damage
+before and
+after retouch
+
+Total
+
+Abrupts
+
+43
+61.4
+28
+58.3
+22
+64.7
+103
+59.5
+309
+60.1
+191
+71.8
+11
+73.3
+98
+57.3
+58
+71.6
+863
+62.9
+
+21
+30.0
+17
+35.4
+8
+23.5
+53
+30.6
+167
+32.4
+72
+27.0
+3
+20.0
+49
+28.6
+21
+25.9
+411
+29.9
+
+6
+8.5
+2
+4.1
+3
+8.8
+16
+9.2
+35
+6.8
+2
+0.7
+1
+6.6
+22
+12.8
+2
+2.4
+89
+6.4
+
+e
+e
+1
+2.0
+1
+2.9
+e
+e
+3
+0.5
+1
+0.3
+e
+e
+2
+1.1
+e
+e
+8
+0.5
+
+70
+100
+48
+100
+34
+100
+172
+100
+514
+100
+266
+100
+15
+100
+171
+100
+81
+100
+1371
+100
+
+Burins
+Borers
+Denticulates
+Endscrapers
+Backed tools
+Sidescrapers
+Retouched blanks
+Truncations
+Total
+
+to 3% among the post-damage tools. Retouched blanks show the
+opposite trend, their percentage in the post-damage assemblage
+is signiﬁcantly higher (24.7%) than that recorded in the whole
+assemblage. There are also clear differences in terms of the representation of post-damage retouched tools inside each typological
+group. The highest percentages of post-damage artifacts are found
+among retouched blanks (13.9%) and borers (11.7%), which also
+show the highest MRI (32.8 and 33.3 respectively) (Table 5). On the
+other hand, backed elements and truncations exhibit the lowest
+indices of recycling (4 and 8.6 respectively). Only three backed tools
+and two truncations were manufactured on burned blanks. The
+scarce number of recycled truncations could be explained by the
+lower frequency of recycling in unit B, since truncations are
+abundant in these basal layers but uncommon in unit A. However,
+
+2791
+
+Table 5
+Percentage of simple tools retouched after thermal damage and Minimum Recycling
+Index for each typological group.
+Typological group
+
+Percentage of
+post-damage tools
+
+Minimum
+Recycling Index
+
+Abrupts
+Burins
+Borers
+Denticulates
+Endscrapers
+Backed tools
+Sidescrapers
+Retouched blanks
+Truncations
+Total
+
+8.5
+6.1
+11.7
+9.3
+7.3
+1
+6.6
+13.9
+2.4
+7
+
+22.2
+15.0
+33.3
+23.1
+18.5
+4
+25
+32.8
+8.6
+19
+
+this is not the case with backed tools, which are well represented
+throughout the sequence. Therefore, it seems that these artifacts,
+normally interpreted as hunting armatures, were rarely made on
+burned blanks.
+We identiﬁed 199 double tools in the retouched assemblage
+(Table 6). They represent 12.5% of all the retouched artifacts (Fig. 6).
+A large proportion of these tools (55.7%) correspond to endscrapers
+with lateral retouch. Twenty-three artifacts were manufactured on
+burned blanks and fourteen of them exhibit both pre- and postdamage retouch. The percentage of recycled blanks is higher
+among double tools than in the whole tool assemblage (11.5% and
+7% respectively). This difference is also evident when comparing
+the MRIs from simple and double tools (19 and 29.4 respectively),
+suggesting that the incidence of recycling is higher among double
+tools. If these data are extrapolated to the whole assemblage, this
+means that a signiﬁcant percentage of double tools were not the
+result of an intentional design, but rather of recycling previously
+retouched blanks. The double tools retouched both before and after
+heat damage are particularly interesting, because the type of tool
+that was originally on the burned blank can be distinguished from
+the type added after burning. Of the 14 artifacts included in this
+group, 12 of them indicate that the post-damage retouch event is
+associated with an expedient tool type: a denticulate (ﬁve cases)
+or a retouched blank (seven cases). In the remaining two cases,
+the second tool type was an endscraper. This corroborates the
+
+Fig. 5. Bar graph showing the percentage of each typological group in the three ﬁre damage categories.
+
+2792
+
+M. Vaquero et al. / Journal of Archaeological Science 39 (2012) 2785e2796
+
+Table 6
+Distribution of double tools according to typological groups and ﬁre damage
+categories.
+Typological group
+
+No ﬁre Damage Damage Damage
+Total
+damage after
+before
+before and
+retouch retouch after retouch
+
+Abruptedenticulate
+Abruptetruncation
+Boreredenticulate
+Borereendscraper
+Boreresidescraper
+Boreretruncation
+Burineburin
+Burinedenticulate
+Burineendscraper
+Burinesidescraper
+Denticulateedenticulate
+Denticulateeendscraper
+Denticulateesidescraper
+Denticulateeretouched blank
+Endscrapereendscraper
+Endscraperebacked blade
+Endscraperesidescraper
+Endscrapereretouched blank
+Endscraperetruncation
+Truncationetruncation
+Total
+
+4
+1
+1
+3
+e
+1
+9
+5
+1
+2
+6
+4
+5
+e
+9
+1
+e
+64
+4
+1
+121
+
+2
+e
+e
+e
+1
+e
+1
+2
+1
+1
+e
+4
+2
+e
+3
+e
+e
+37
+1
+e
+55
+
+e
+e
+e
+e
+e
+e
+e
+1
+e
+e
+1
+e
+e
+e
+1
+e
+1
+5
+e
+e
+9
+
+1
+e
+e
+e
+e
+e
+e
+1
+e
+e
+3
+1
+e
+2
+1
+e
+e
+5
+e
+e
+14
+
+7
+1
+1
+3
+1
+1
+10
+9
+2
+3
+10
+9
+7
+2
+14
+1
+1
+111
+5
+1
+199
+
+preferential association of post-damage retouch with the less
+formalized tool types, as suggested by simple tools.
+4. Discussion
+Our results suggest that burned artifacts may provide a useful
+approach to the study of recycling in archeological contexts.
+However, the incidence of recycling obtained through this
+approach should be considered an underestimation of the actual
+importance of recycling. A tool manufactured on a burned blank
+can be said to be the product of recycling, but the opposite is not
+true. We cannot say that a tool made on an unburned blank or one
+burned after retouch was not the product of recycling, because in
+this case there is no temporal marker that would allow different
+and successive events to be distinguished. As a consequence, the
+absolute importance of this practice in assemblage formation
+remains elusive. In the Molí del Salt assemblage, we were able to
+establish that 7.5% of tools were produced on recycled blanks, but
+this does not mean that the remaining 92.5% of the blanks were not
+recycled. We simply do not know. The feasibility of this approach
+also depends on the abundance of burned artifacts available for
+study and therefore on site formation processes. It will be more
+useful in deposits characterized by the overlapping of occupation
+events in which hearths were constructed over remains discarded
+by previous visitors. In this sense, palimpsests characterized by
+slow sedimentary rhythms would be more suitable in the study of
+this kind of recycling than sedimentary contexts of higher resolution in which discarded artifacts were rapidly buried. Moreover,
+residential sites deﬁned by activities focused around hearths would
+also be very suited to this approach.
+The evidence provided by the burned tools of Molí del Salt
+suggests that the gathering of previously discarded blanks was
+possibly a common provisioning strategy during the Upper Paleolithic. Although the ethnographic data on lithic production are
+relatively scarce, this lithic scavenging match the behavioral
+patterns observed among modern hunter-gatherers (Horne and
+Aiston, 1924; Kelly, 1934; Opler, 1946; Riddell, 1960; Smith, 1974;
+Gould, 1977). Both the ethnographic and the archeological studies
+tend to explain recycling as a response to raw material scarcity. As
+
+raw material availability can vary over time due to changes in
+mobility or subsistence patterns, temporal variations in the intensity of recycling can be expected accordingly. At Molí del Salt, the
+decreasing percentage of ﬂint from distant sources from bottom to
+top has been interpreted as the result of changes in settlement
+patterns characterized by a reduction in the size of the home range.
+As a consequence, the increasing stress on local ﬂint sources would
+lead to a more economizing behavior, as reﬂected in the decrease of
+mean tool size in the upper layers. A greater emphasis on recycling
+in the upper layers would be consistent with this picture. However,
+our data are inconclusive due to the scarce number of artifacts in
+the basal layers and we must wait for larger assemblages in order to
+verify this temporal trend.
+As lithic resources were transported to occupation sites, those
+sites were in turn transformed into lithic provisioning points. In
+this context, provisioning decisions may have changed according to
+the availability and abundance of artifacts at the sites, especially
+comparing the ﬁrst stages in the formation of the stratigraphic
+assemblage when the site was “empty”, and the ﬁnal stages, when
+the site offered plenty of resources abandoned by previous occupants. This can explain, for example, a part of the chert provisioning
+variability documented in the Middle Paleolithic of Abric Romaní
+(Vaquero et al., 2012). The availability of artifacts for scavenging
+would be more conspicuous in large occupational palimpsests,
+associated with slow sedimentary rhythms. Although undocumented as of yet, we cannot rule out that some anthropic disturbances of sediments in archeological sites may be related to the
+search for usable lithic materials. As a consequence of lithic scavenging, recycling may be the source of some “cultural anomalies”,
+like the appearance of Acheulean handaxes and cleavers in
+a Magdalenian layer (Corchón, 1993) or Early Holocene projectile
+points in a mid-Holocene assemblage (Amick, 2007). Moreover, this
+also has interesting consequences as far as the treatment of raw
+materials of different origins is concerned. One of the most
+straightforward conclusions of technological studies is that raw
+materials tend to be exploited and processed in different ways
+according to the distance to their respective provisioning areas.
+Exogenous materials coming from distant sources tend to be
+transported into the sites in a more elaborately altered form,
+whereas local raw materials gathered near the site are normally
+more expediently processed. As a consequence, the kind of tools
+made on exogenous and local materials also tend to be different.
+However, this general principle may be biased by the phenomenon
+of recycling. Once transported to the site, exogenous materials
+become strictly local resources and, if scavenged for recycling, may
+be treated as local and used to manufacture local tool types.
+All the typological groups contain artifacts retouched after heat
+damage. There is no evidence of the preferential use of burned
+blanks for the manufacture of tools requiring high technical
+performance, as expected in the case of an intentional heat treatment. In general, most of the lithic tools found in the Molí del Salt
+assemblage are easily made through direct percussion ﬂaking and
+they were usually produced on unburned blanks. In fact, the types
+with the highest MRIs (retouched blanks, borers, denticulates) can
+be considered expedient tools that do not involve an elaborate
+formal design or planning depth. In this context, recycling seems
+the most parsimonious explanation for the use of heated blanks in
+the production of tools. In fact, we think that recycling cannot be
+ruled out in some instances in which an intentional thermal
+treatment has been proposed. For instance, intentional heat treatment has been suggested for the manufacture of Solutrean points in
+Parpalló Cave (Tiffagom, 2006). Intentional heating seems likely for
+some Solutrean points, but it is not clear for others. Among the leafshaped points there is a high proportion of artifacts retouched after
+ﬁre damage (from 68 items, 16 were certainly manufactured on
+
+M. Vaquero et al. / Journal of Archaeological Science 39 (2012) 2785e2796
+
+2793
+
+Fig. 6. Double tools retouched before and after ﬁre damage. 1. Endscrapereendscraper. 2. Endscrapereretouched blank. 3. Endscraperedenticulate. 4. Denticulateedenticulate. 5.
+Endscraperedenticulate.
+
+heated blanks). However, of the 98 barbed and tanged points
+studied by Tiffagom, heating before retouch was a certainty in only
+one artifact and likely in 14. In spite of the technical complexity of
+these artifacts and the use of pressure ﬂaking, heating before
+retouch was not dominant and the proportion of probable post-
+
+damage tools was only slightly higher than that exhibited by
+some expedient tools e like retouched blanks, borers and denticulates e in Molí del Salt. This indicates that thermal treatment
+was not indispensable in the production of these artifacts and we
+think that recycling may be a more feasible explanation for the
+
+2794
+
+M. Vaquero et al. / Journal of Archaeological Science 39 (2012) 2785e2796
+
+post-damage tools. In order to conﬁrm an intentional heat treatment, a general approach to burned artifacts is needed to test if the
+most demanding artifacts are more commonly made on thermally
+damaged blanks. If this is not the case, the possibility of recycling
+cannot be dismissed.
+We found that not all tools were equally manufactured on
+recycled items. According to the data we have presented here,
+backed tools and truncations were rarely produced on burned
+blanks. As mentioned earlier, truncations are abundant in the lower
+archeological layers (unit B), which seem to be characterized by
+lower recycling indexes. However, backed elements are well represented at all the stratigraphic levels and temporal changes in
+recycling intensity therefore cannot explain their low MRI. Backed
+tools were used as hunting armatures and were blades and bladelets blunted on one or two sides by small steep removals. The
+aerodynamic requirements related to their use as projectile tips
+and the need to ﬁt a preexisting shaft cause a high degree of formal
+and metrical standardization, higher than those found in other
+tools. In addition, they can be considered a good example of
+a “reliable artifact” in the sense described by Bleed (1986), that is,
+they are designed to minimize the risk of failure in stressful situations. As a consequence, backed tools would be one of the most
+curated components in Late Upper Paleolithic technical systems.
+Furthermore, manufacture and use locations are clearly different,
+since projectile points have to be made in advance and their
+production process therefore has to be more planned and scheduled. Backed elements are more demanding in terms of the kind of
+blanks that are suitable for their manufacture, since they are made
+on blades or bladelets. The probability of ﬁnding a suitable blank
+among the previously discarded artifacts would be lower compared
+to other tools that can be made on any kind of blank. This is
+particularly true in a technical context like that of the Molí del Salt,
+in which blade/bladelet production is not dominant and blade/
+bladelets represent less than 20% of the discarded blanks. It is
+particularly signiﬁcant that of the three backed elements made on
+burned blanks, one of them is a backed point made on a naturally
+backed blade in which only a small part of the back has been shaped
+by retouch (Fig. 7). These partially backed points are unusual
+among backed elements and this underscores the expedient character of artifacts made on recycled items.
+The Molí del Salt evidence suggests that recycling is more
+closely linked to domestic tools, which show a coincidence
+between the context of manufacture and the context of use and
+are less demanding in terms of the metrical and formal characteristics of the blanks used for their production. Recycling seems
+to be a way of meeting immediate needs. As mentioned earlier, the
+highest recycling indices are associated with the least formalized
+tools e retouched blanks, denticulates, abrupts e which supports
+the expedient nature of recycling. In this sense, recycling cannot
+be linked to a curated technology, since the most curated
+component of a technical system would be the least affected by
+recycling. On the contrary, as the expedient character of a technical system increases, a higher frequency of recycling should be
+expected. This brings additional support to the differences
+between recycling and resharpening, since the latter, aimed at
+extending the use life of artifacts, seems more likely in a curated
+context.
+The higher incidence of recycling among double tools is
+particularly important in the interpretation of lithic assemblages,
+as it suggests that a high proportion of these tools were not the
+expression of well-deﬁned mental templates. This is especially
+signiﬁcant in Upper Paleolithic assemblages, in which it is normally assumed that artifacts were manufactured according to
+preconceived morphological designs. The degree of standardization exhibited by many Upper Paleolithic tool types indicates that
+
+Fig. 7. Backed point retouched after ﬁre damage. Retouched is limited to the distal end
+of the point. This expedient procedure for manufacturing backed tools is uncommon at
+Molí del Salt.
+
+such mental templates are beyond doubt in most instances.
+However, the temporal nature of at least some double tools
+suggests that artifact history is also an important factor in the
+typological variability of Upper Paleolithic assemblages. In this
+context, composite tools can be considered as indicative of an
+economizing or expedient behavior. We obviously need more
+cases to conﬁrm this relationship between recycling and multiple
+tools. However, if this is corroborated by additional data, the
+proportion of multiple tools could therefore be considered as
+a proxy of recycling in assemblages in which this practice cannot
+be identiﬁed by other methods.
+
+5. Conclusions
+The study of burned tools from the Molí del Salt site suggests
+that ﬁre damaged artifacts may be a useful approach towards
+understanding the phenomenon of recycling in Paleolithic assemblages. Our data indicate that recycling was an important component in the technological behavior of Late Upper Paleolithic huntergatherers. Although the recycling indices derived from burned
+artifacts should be considered an underestimation of the actual
+importance of recycling, the Molí del Salt data indicate that
+a signiﬁcant proportion of tools are associated with the scavenging
+of previously discarded blanks. The use of sites as lithic
+
+M. Vaquero et al. / Journal of Archaeological Science 39 (2012) 2785e2796
+
+provisioning points was probably an additional reason for the
+reoccupation of sites over the millennia, but at the same time such
+temporal dynamics changed the relationships between the site and
+its landscape, at least as far as lithic provisioning is concerned.
+Regardless of geological origin, all lithics should be considered as
+local once discarded at the site. In such a context, provisioning
+behavior would be less constrained by the distribution of primary
+raw material sources. The correlation of recycling with long-term
+trends associated with an increasing emphasis on economizing
+behaviors, although outlined in this paper, remains an open question and will be the subject of further research.
+The Molí del Salt data have also provided some insight into the
+technical context associated with recycling, especially concerning
+the relationship between recycling and curation. Contrary to
+previous assumptions, recycling does not seem to be related to
+curated technologies, but would be rather more common in
+expedient situations typical of domestic contexts. It would be an
+easy form of supplying blanks as needs arose in situations in which
+tool manufacture and use were carried out in the same place.
+Recycling was particularly suitable for the production of expedient
+tools that demanded little in terms of blank form or/and size. On
+the other hand, reliable tools that required a more scheduled
+production and were made on speciﬁc kinds of blanks were rarely
+manufactured on recycled artifacts. The importance of recycling is
+therefore conditioned by the organization of technology. It should
+become less common as the number of curated components
+increase in a technical system.
+Recycling appears as just another dimension of the dynamic and
+temporal nature of archeological entities, both assemblages and
+single artifacts, and emphasizes the need to “temporalize” interpretations in order to understand the behavioral signiﬁcance of
+assemblages. Although it seems clear that many Upper Paleolithic
+tool types correspond to well-deﬁned mental templates, the
+morphology of some artifacts may be the unplanned outcome of
+different and successive modiﬁcation events. The artifacts that were
+retouched both before and after thermal damage indicate that this
+may be the case in particular with multiple tools, especially those in
+which the presence of a formalized tool type e endscraper, burin,
+truncation e is associated with a more expedient and unformalized
+tool type. Increasing proportions of expedient and multiple tools
+would therefore be the consequence of a growing emphasis on
+recycling in the archeological record. However, additional studies
+on burned tools will be needed in order to verify whether these are
+general trends in Upper Paleolithic industries or if they are
+restricted to speciﬁc chronological or geographical contexts.
+Acknowledgments
+Fieldwork in the Molí del Salt site is possible thanks to the
+ﬁnancial support of the Departament de Cultura de la Generalitat de
+Catalunya, Consell Comarcal de la Conca de Barberà and Ajuntament
+de Vimbodí i Poblet. The archeological excavations are being carried
+out in the framework of the research project Prehistoric Settlement
+and Graphism in the Francolí Basin. This project beneﬁts from the
+collaboration of the Museu-Arxiu de Montblanc i Comarca and is
+funded by the Departament d’Economia i Coneixement de la Generalitat de Catalunya (2008ACOM00073, 2009ACOM00103 and
+2010ACOM00001). Research in the Molí del Salt is also supported by
+the project HAR2008-01984/HIST (Spanish Ministerio de Ciencia e
+Innovación). We would also like to thank Joan Duch and Teresa
+Dolcet, the owners of the property where the site is located, for
+authorizing us to carry out ﬁeldwork. We are also grateful to the
+three anonymous reviewers for their helpful comments. One of the
+authors (M.S.) is supported by a predoctoral grant (FI-DGR2012)
+with the ﬁnancial sponsorship of the Generalitat de Catalunya.
+
+2795
+
+References
+Amick, D.S., 2007. Behavioral causes and archaeological effects of lithic artifact
+recycling. In: McPherron, S. (Ed.), Tools Versus Cores: Alternative Approaches to
+Stone Tool Analysis. Cambridge Scholars Publications, Newcastle, pp. 223e252.
+Bailey, G., Galadinou, N., 2009. Caves, palimpsests and dwelling spaces: examples
+from the Upper Palaeolithic of south-east Europe. World Archaeology 41 (2),
+215e241.
+Bailey, G., 2007. Time perspectives, palimpsests and the archaeology of time. Journal
+of Anthropological Archaeology 26, 198e223.
+Bamforth, D.B., 1986. Technological efﬁciency and tool curation. American Antiquity
+51, 38e50.
+Barkai, R., Lemorini, C., Shimelmitz, R., Lev, Z., Stiner, M.C., Gopher, A., 2009. A blade
+for all seasons? Making and using Amudian blades at Qesem Cave, Israel.
+Human Evolution 24 (1), 57e75.
+Blades, B.S., 2003. End scraper reduction and hunter-gatherer mobility. American
+Antiquity 68 (1), 141e156.
+Bleed, P., 1986. The optimal design of hunting weapons: maintainability or reliability. American Antiquity 51, 737e747.
+Brochier, J.E., 1999. Couche archéologique, sol archéologique et distributions spatiales: quelques réﬂexions (géo)archéologiques sur un vieux problème. In:
+Geoarqueologia i Quaternari litoral. Memorial M.P. Fumanal. Universitat de
+València, València, pp. 91e95.
+Close, A.E., 1996. Carry that weight: the use and transportation of stone tools.
+Current Anthropology 37, 545e553.
+Corchón, M.S., 1993. El Magdaleniense con triángulos de Las Caldas (Asturias,
+España). Nuevos datos para la deﬁnición del Magdalenense inferior cantábrico.
+Zephyrus 46, 77e94.
+Crabtree, D.E., Butler, R., 1964. Notes on experiment in ﬂintknapping: 1, heat
+treatment of silica materials. Tebiwa 7 (1), 1e6.
+Crema, E.R., Bevan, A., Lake, M.W., 2010. A probabilistic framework for assessing
+spatio-temporal point patterns in the archaeological record. Journal of
+Archaeological Science 37, 1118e1130.
+Debenath, A., 1992. The place of the Mousterian of the Charente in the Middle
+Paleolithic of Southwest France. In: Dibble, H.L., Mellars, P. (Eds.), The Middle
+Paleolithic: Adaptation, Behavior and Variability. The University Museum,
+University of Pennsylvania, Philadelphia, pp. 53e57.
+Dibble, H.L., Rolland, N., 1992. On assemblage variability in the Middle Paleolithic of
+Western Europe. History, perspectives and a new synthesis. In: Dibble, H.L.,
+Mellars, P. (Eds.), The Middle Paleolithic: Adaptation, Behavior and Variability.
+The University Museum, University of Pennsylvania, Philadelphia, pp. 1e28.
+Dibble, H.L., 1991. Mousterian assemblage variability on an interregional scale.
+Journal of Anthropological Research 47 (2), 239e257.
+Dibble, H.L., 1995. Middle Paleolithic scraper reduction: background, clariﬁcation,
+and review of the evidence to date. Journal of Archaeological Method and
+Theory 2 (4), 299e368.
+Domanski, M., Webb, J.A., Boland, J., 1994. Mechanical properties of stone artefact
+materials and the effect of heat treatment. Archaeometry 36, 177e208.
+Domínguez-Rodrigo, M., 2009. Are all Oldowan Sites Palimpsests? If so, what can
+they tell us about Hominid Carnivory? In: Hovers, E., Braun, D.R. (Eds.), Interdisciplinary Approaches to the Oldowan. Springer, Dordrecht, pp. 129e147.
+Galili, E., Weinstein-Evron, M., 1985. Prehistory and paleoenvironments of
+submerged sites along the Carmel coast of Israel. Paléorient 11 (1), 37e52.
+Galup, S.M., 2007. Postclassic Maya Lithic Tool Maintenance, Recycling, and
+Consumption Patterns at Laguna de On Island. Occasional Publication No. 13.
+Institute for Mesoamerican Studies, Department of Anthropology, University of
+Albany.
+Gould, R.A., 1977. Chipping stones in the outback. In: Gould, R.A. (Ed.), Man’s Many
+Ways: The Natural History Reader in Anthropology. Harper and Row, New York,
+pp. 62e69.
+Gregg, M.L., Grybush, R.J., 1976. Thermally altered siliceous stone from prehistoric
+contexts: intentional versus unintentional alteration. American Antiquity 41 (2),
+189e192.
+Grifﬁths, D.R., Bergman, C.A., Clayton, C.J., Ohnuma, K., Robins, G.V., Seeley, N.J.,
+1986. Experimental investigation of the heat treatment of ﬂint. In: Sieveking, G.
+de G., Newcomer, M.H. (Eds.), The Human Uses of Flint and Chert. Cambridge
+University Press, Cambridge, pp. 43e52.
+Hester, T.R., 1972. Ethnographic evidence for thermal alteration of siliceous stone.
+Tebiwa 12, 63e65.
+Hiscock, P., 2009. Reduction, recycling, and raw material procurement in Western
+Arnhem Land, Australia. In: Adams, B., Blades, B.S. (Eds.), Lithic Materials and
+Paleolithic Societies. Blackwell Publishing Ltd., Chichester, pp. 78e93.
+Horne, G., Aiston, G., 1924. Savage Life in Central Australia. Macmillan, London.
+Joy, J., 2009. Reinvigorating object biography: reproducing the drama of object lives.
+World Archaeology 41 (4), 540e556.
+Kelly, I.T., 1934. Ethnography of the Surprise Valley Paiute, vol. 31 (3). University of
+California Publications in American Archaeology and Ethnography, 67e210 pp.
+Kelly, R.L., 1988. The three sides of a biface. American Antiquity 53 (4), 717e734.
+Laplace, G., 1972. La typologie analytique et structurale: base rationnelle d’étude des
+industries lithiques et osseuses. Banques de données archéologiques. Colloques
+nationaux du CNRS 932, 91e143 pp.
+Lyman, R.L., 2003. The inﬂuence of time averaging and space averaging on the
+application of foraging theory in zooarchaeology. Journal of Archaeological
+Science 30, 596e610.
+
+2796
+
+M. Vaquero et al. / Journal of Archaeological Science 39 (2012) 2785e2796
+
+Malinsky-Buller, A., Hovers, E., Marder, O., 2011. Making time: ‘Living ﬂoors’,
+‘palimpsests’ and site formation processes e A perspective from the open-air
+Lower Paleolithic site of Revadim Quarry, Israel. Journal of Anthropological
+Archaeology 30 (2), 89e101.
+Mandeville, M.D., 1973. A consideration of the thermal pretreatment of chert. Plains
+Anthropologist 18, 177e202.
+Mercieca, A., Hiscock, P., 2008. Experimental insights into alternative strategies of
+lithic heat treatment. Journal of Archaeological Science 35, 2634e2639.
+Michels, J.W., 1969. Testing stratigraphy and artifact re-use through obsidian
+hydration dating. American Antiquity 34, 15e22.
+Mora, R., De la Torre, I., Martínez Moreno, J., 2004. Middle Palaeolithic mobility and
+land use in the Southwestern Pyrenees: the example of level 10 in La Roca dels
+Bous (Noguera, Catalunya, Northeast Spain). In: Conard, N. (Ed.), Settlement
+Dynamics of the Middle Paleolithic and Middle Stone Age II. Kerns Verlag,
+Tübingen, pp. 415e435.
+Morrow, J., 1997. End scraper morphology and use-life: an approach for studying
+Paleoindian lithic technology and mobility. Lithic Technology 22, 70e85.
+Movius Jr., H.L., David, N., Bricker, H.M., Clay, R.B., 1968. The Analysis of Certain
+Major Classes of Upper Paleolithic Tools. In: American School of Prehistoric
+Research Bulletin, vol. 26. Peabody Museum, Harvard University, Cambridge.
+Nishiaki, Y., 1985. Truncated-Faceted Flakes from Levantine Mousterian Assemblages. In: Bulletin of the Department of Archaeology, vol. 4. University of
+Tokyo, 215e226 pp.
+Odell, G.H., 1996. Economizing behavior and the concept of “curation”. In:
+Odell, G.H. (Ed.), Stone Tools: Theoretical Insights into Human Prehistory.
+Plenum Press, New York, pp. 51e80.
+Olausson, D.S., Larsson, L., 1982. Testing for the presence of thermal pretreatment of
+ﬂint in the Mesolithic and Neolithic of Sweden. Journal of Archaeological
+Science 9, 275e285.
+Opler, M.E., 1946. Childhood and Youth in Jicarilla Apache Society. Southwest
+Museum, Los Angeles.
+
+Patterson, L.W., 1995. Thermal damage of chert. Lithic Technology 20 (1), 72e80.
+Purdy, B.A., Brooks, H.K., 1971. Thermal alteration of silica minerals: and archaeological approach. Science 73, 322e325.
+Riddell, F.A., 1960. Honey Lake Paiute Ethnography. Occasional Paper No. 3. Nevada
+State Museum, Carson City.
+Sergant, J., Crombé, Ph., Perdaen, Y., 2006. The ‘invisible’ hearths: a contribution to
+the discernment of Mesolithic non-structured surface hearths. Journal of
+Archaeological Science 33, 999e1007.
+Shott, M.J., 2008. Lower Paleolithic industries, time, and the meaning of assemblage
+variation. In: Holdaway, S., Wandsnider, L. (Eds.), Time in Archaeology: Time
+Perspectivism Revisited. The University of Utah Press, Salt Lake City, pp. 46e60.
+Smith, A.M., 1974. Ethnography of the Northern Utes. Papers in Anthropology No. 1.
+Museum of New Mexico, Santa Fe.
+Thiébaut, C., Claud, É., Mourre, V., Chacón, M.-G., Asselin, G., Brenet, M., Paravel, B.,
+2010. Le recyclage et la réutilisation de nucléus et de bifaces au Paléolithique
+moyen en Europe occidentale: quelles fonctions et quelles implications culturelles? P@lethnologie, 3e41.
+Tiffagom, M., 2006. De la Pierre à l’Homme. Essai sur une paléoanthropologie
+solutréenne. ERAUL, 113. Université de Liège, Liège.
+Vallverdú, J., Carrancho, A., 2004. Estratigraﬁa del Molí del Salt. In: Vaquero, M.
+(Ed.), Els darrers caçadors-recol$lectors de la Conca de Barberà: el jaciment del
+Molí del Salt (Vimbodí). Excavacions 1999e2003. Museu-Arxiu de Montblanc i
+Comarca, Montblanc, pp. 61e68.
+Vaquero, M., Chacón, M.G., García-Antón, M.D., Gómez de Soler, B., Martínez, K.,
+Cuartero, F., 2012. Time and space in the formation of lithic assemblages: the
+example of Abric Romaní Level J. Quaternary International 247, 162e181.
+Vaquero, M., 2008. The history of stones: behavioural inferences and temporal
+resolution of an archaeological assemblage from the Middle Palaeolithic.
+Journal of Archaeological Science 35, 3178e3185.
+Vaquero, M., 2011. New perspectives on recycling of lithic resources using reﬁtting
+and spatial data. Quartär 58, 113e130.
+
+

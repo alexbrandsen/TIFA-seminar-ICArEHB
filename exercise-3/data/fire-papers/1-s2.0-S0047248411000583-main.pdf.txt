@@ -1,0 +1,3931 @@
+Journal of Human Evolution 60 (2011) 746e767
+
+Contents lists available at ScienceDirect
+
+Journal of Human Evolution
+journal homepage: www.elsevier.com/locate/jhevol
+
+Taphonomic analysis of the Middle Stone Age larger mammal faunal assemblage
+from Blombos Cave, southern Cape, South Africa
+Jessica C. Thompson a, *, Christopher S. Henshilwood b, c
+a
+
+School of Social Science, Archaeology Program, The University of Queensland, Brisbane QLD 4072, Australia
+Institute for Archaeology, History, Culture and Religion, University of Bergen, Norway
+c
+Institute for Human Evolution, University of the Witwatersrand, Johannesburg, South Africa
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 15 October 2009
+Accepted 13 January 2011
+
+A detailed taphonomic analysis is reported for a sample of the larger mammalian faunal assemblage
+(>4.5 kg live body weight) from Blombos Cave. The analysis provides an assessment of human
+involvement in the accumulation and modiﬁcation of the faunal assemblage, and precedes equally
+detailed analyses and separate reports of Middle Stone Age (MSA) butchery, transport, and hunting
+behaviour. At Blombos, there are clear differences in the relative abundances of ungulate body size
+classes, with the lower MSA phases (upper/lower M2 and M3) showing a high representation of size 1
+ungulates relative to the most recent MSA phase (M1). The bones from the earliest MSA phase (M3) have
+not undergone much post-depositional fragmentation, in contrast to fragments from more recent phases
+(M1 and upper M2). Much of this variability can be attributed to more burning activity and trampling
+during M1 and upper M2, which could indicate more intensive occupation. Bone surfaces are variably
+preserved, with high levels of exfoliation in the most recent two phases. Surface modiﬁcation analyses
+revealed high proportions of human modiﬁcation throughout the sequence, indicating that MSA humans
+were responsible for accumulating most of the larger mammals. After discard, the bones were modiﬁed
+by scavenging carnivores, leading to a moderate amount of density-mediated destruction and toothmarking. Carnivores independently accumulated some of the smaller ungulates, mainly in the form of
+partially-digested remains. Raptorial birds are not implicated as major faunal accumulators. The results
+from Blombos are directly comparable with analogous datasets from two other sites in the Western Cape
+(Pinnacle Point Cave 13B and Die Kelders Cave 1). Such comparisons demonstrate that MSA faunal
+assemblages from nearby coastal sites have complex and different taphonomic histories both within and
+between sites. Because the human occupants were a major part of these processes, MSA subsistence
+behaviour and site use was also quite variable over time and space.
+Ó 2011 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Zooarchaeology
+Faunal analysis
+Behavioural complexity
+Western Cape
+
+Introduction
+The Middle Stone Age (MSA) in Africa started at or before ca.
+250 ka and in some regions continued until 30 ka (Deacon and
+Deacon, 1999; Stringer, 2002; McBrearty and Tryon, 2005; Tryon
+and McBrearty, 2006). Blombos Cave (BBC e Western Cape) has
+played an important role in studies of the emergence of modern
+humans by yielding abundant evidence for behavioural complexity
+for some periods within the MSA. This evidence includes marine
+
+* Corresponding author.
+E-mail addresses: jessica.thompson@uq.edu.au (J.C. Thompson), christopher.
+henshilwood@wits.ac.za (C.S. Henshilwood).
+0047-2484/$ e see front matter Ó 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jhevol.2011.01.013
+
+shell beads, large quantities of worked ochre, engraved ochre plaques, formal and informal bone tools, and ﬁnely-ﬂaked bifacial
+stone tools typical of the Still Bay industry (Henshilwood and Sealy,
+1997; d’Errico et al., 2001; Henshilwood et al., 2001a,b, 2002, 2004,
+2009; Henshilwood, 2009; Villa et al., 2009). Until the systematic
+excavation and analyses of the MSA layers at Blombos commenced
+in 1992, (Henshilwood, 2008) such ﬁnds were rare in the MSA and
+poorly-dated. New excavations at the South African site of Sibudu
+(KwaZulu-Natal) have produced bone tools, shell beads, and
+marked artefacts in association with Still Bay points (Cain, 2004;
+Wadley, 2007; Backwell et al., 2008; d’Errico et al., 2008; Jacobs
+et al., 2008). Also, a Still Bay component is present at Diepkloof
+Rock Shelter on the Cape west coast (Rigaud et al., 2006), just below
+younger MSA layers bearing engraved ostrich eggshell (Texier et al.,
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+747
+
+Figure 1. Location of Blombos Cave relative to sites in the Western Cape discussed in the text.
+
+2010). All of these sites contain worked ochre, as is the case for
+many other MSA collections, but with a few exceptions (WeinsteinEvron and Ilani, 1994) systematic investigations on the signiﬁcance
+and use of ochre commenced mostly in the past decade (Watts
+et al., 1999; Barham, 2002; Henshilwood et al., 2002; Watts,
+2002, 2009; Hovers et al., 2003; Mackay and Welz, 2008;
+Henshilwood, 2009).
+Finds of symbolic material culture from MSA contexts that may
+have mediated human behaviour have contributed to an enhanced
+understanding of the timing and tempo of the origins of modern
+behavioural complexity. The topic has stimulated much debate
+amongst archaeologists regarding when, where, and how the
+modern behavioural suite arose (McBrearty and Brooks, 2000;
+Henshilwood and Marean, 2003; Mellars, 2006; Klein, 2008;
+Conard, 2010). Faunal exploitation strategies during the MSA and
+Middle Palaeolithic have ﬁgured prominently in these discussions
+(Stiner, 1993; Milo, 1998; Marean and Assefa, 1999; McBrearty and
+Brooks, 2000). The focus has been on the ability to hunt large or
+dangerous ungulates (Klein, 1976, 1989; Binford, 1984; Milo, 1998;
+Marean et al., 2000; Clark and Plug, 2008; Faith, 2008), the ability
+to make intensive use of seasonal resources (Klein et al., 1987), the
+capacity to exploit ﬂying and swimming animals (Klein, 1975;
+Henshilwood et al., 2001b), and the intensive use of marine
+resources (Klein et al., 2004; Marean et al., 2007).
+More recent work has begun to emphasize the variability found
+within MSA subsistence behaviour, as evidenced by both faunal and
+stone/bone tool assemblages (Wurz, 2002; Villa and Michel, 2006;
+Lombard and Clark, 2008; Thompson, 2010b). These variations
+
+provide important evidence for understanding early behavioural
+complexity, and the mechanisms leading to its emergence.
+However, such an understanding relies upon the availability of
+a robust empirical record that includes a wide variety of
+geographical and chronological samples. Until the last decade,
+a lack of research focus on the MSA in general, limited preservation
+of faunal remains at most MSA sites, poor excavation techniques,
+and/or the discard of selected faunal materials from key sites has
+kept the MSA faunal record from meeting these criteria. Research
+based on the Blombos ﬁnds has played an important role in
+changing this situation by illustrating that many behaviours
+considered to be ‘modern’ were found in the MSA. This realisation
+is one factor that has spurred new research into the MSA and has
+resulted in the systematic recovery and analysis of large and wellpreserved faunal assemblages.
+A variety of issues still make it difﬁcult to incorporate the
+excavated sites that do preserve fauna into a larger picture of MSA
+subsistence. For some important sites, such as Klasies River Mouth
+(KRM e Eastern Cape) and Peers Cave (PC e Western Cape), the onsite collection of much of the faunal material was biased (Bartram
+and Marean, 1999). At KRM, only the largest and/or most identiﬁable fragments were retained, and this likely explains the inconsistent interpretations of human subsistence at the site that are
+presented in faunal reports (Klein, 1976; Binford, 1984; Milo, 1998).
+At PC, almost all of the fauna was discarded onto the talus.
+The MSA faunal assemblages from Diepkloof Rock shelter (DRS e
+Western Cape) and Geelbek/Anyskop Dunes (GBA e Western Cape)
+have not been published in detail (Parkington et al., 1987; Dietl
+
+748
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+et al., 2005; Rigaud et al., 2006), while that from Ysterfontein 1 (YS1
+e Western Cape) is currently too small to reveal meaningful
+patterns of human behaviour (Halkett et al., 2003; Klein et al.,
+2004). Border Cave (BC e KwaZulu-Natal) and Boomplaas (BPA e
+Western Cape), both have published faunal assemblages but there is
+no accompanying detailed taphonomic analysis that establishes the
+portions of the assemblage that are relevant to questions of human
+subsistence behaviour (Klein, 1977, 1978). Although taphonomic
+analyses are available for the MSA assemblage from Sibudu (Cain,
+2006; Clark, 2009), they are not integrated with the taxonomic/
+body size data in a manner that makes them directly comparable to
+published reports from other sites (Clark and Plug, 2008; Clark,
+2009). For example, bone surface modiﬁcation data are reported
+in general terms without being broken down by body size or bone
+portion (e.g., long bone midshaft versus epiphysis). Because of this,
+the Sibudu MSA assemblage cannot at present be directly compared
+with either the Blombos data presented here or data from published
+reports from the two other sites for which taphonomic analyses are
+available: Die Kelders Cave (DK1 e Western Cape) and Pinnacle
+Point Cave 13B (PP13B e Western Cape).
+In this paper, we provide a taphonomic study of the MSA faunal
+assemblage from Blombos using methods identical to those
+employed at DK1 and PP13B (Marean et al., 2000; Thompson,
+2010a). This allows for explicit comparisons across these three
+assemblages, but until analogous data from other sites are presented in comparable format, only general comparisons can be
+made to other important collections referred to here (Fig. 1). The
+purpose of the present paper is to integrate taphonomic and
+archaeological data in a way that will demonstrate the degree and
+nature of human involvement in the accumulation and modiﬁcation of the faunal assemblage. This will provide an assessment of
+human behaviour at the site and is a necessary prerequisite for
+further interpretations of the Blombos fauna that will examine
+human butchery, transport, and hunting. Detailed reports of cut
+marks, percussion marks, and skeletal element representation will
+be presented separately within these themes, along with raw data
+that can be used to synthesise the Blombos data with those from
+other sites (e.g., further details of MNE counts, skeletal element
+abundances, cut and percussion mark data broken down by
+element and element portion, etc.).
+
+1999, about 13 m3 of the MSA deposit was excavated from Blombos
+and excavations continue to the present (Henshilwood et al., 2001b,
+2009; Henshilwood, 2008).
+
+Stratigraphy and dating
+
+Basic description
+
+The MSA levels at the BBC site are divided into three phases,
+comprised of a number of discrete layers (Fig. 2). These phases are
+named M1, M2 and M3, and make up the analytical units used in
+this study. The MSA layers comprising these phases have been
+dated using a number of methods, including thermoluminescence
+(TL), optically stimulated luminescence (OSL) and electron spin
+resonance (ESR) (Jones, 2001; Henshilwood et al., 2002; Jacobs
+et al., 2003a,b, 2006; Tribolo, 2003; Tribolo et al., 2006). A hiatus
+level composed of undisturbed aeolian sand above the M1 phase,
+DUN (Fig. 2), is dated by OSL to ca. 70 ka (Henshilwood et al., 2002;
+Jacobs et al., 2003a,b, 2006). A major episode of cave mouth closure
+lasting ca. 68 ka is documented by this archaeologically sterile dune
+sand layer that separates the ﬁnal MSA layers (ca. 72 ka) from the
+earliest LSA layers with an age of ca. 2 ka (Henshilwood, 2008).
+By using grains for which the OSL signals were individually
+bleached and given two different laboratory doses, Jacobs et al.
+(2003a, 2006:272) demonstrated that it is possible to detect the
+mixing of grains with different values of De and to accurately
+evaluate the doses given. Their results show that mixing would be
+seen in single-grain measurements and that no mixing can be
+seen for the sand in the DUN layer. Jacobs et al. (2006) concur that
+this further strengthens the claim for the stratigraphic integrity of
+the layer that separates the MSA and LSA at BBC (Henshilwood,
+2006).
+An OSL age of 72.7  3.1 ka was obtained for the upper part of
+the M1 phase (Jacobs et al., 2006). The upper M2 phase is associated with the Still Bay techno-tradition and is dated at 74  5
+and 78  6 ka by the TL method (Tribolo, 2006), and at
+76.8  3.1 ka by OSL (Jacobs et al., 2006). These latter ages should
+be regarded as the terminus post quem for the Still Bay levels at the
+Blombos site. Based on the quantity of anthropogenically introduced deposits observed during excavations in the M1 phase, and
+from later analysis, the layers CA, CB, CC, CCC, CD and CDA are
+recorded as medium to high intensity deposits. Layer CDB in the
+M1 phase contains a low intensity deposit, meaning that there is
+some shell, bone, ash, etc., but in small quantities, and that these
+deposits are not necessarily present over the whole layer and in all
+
+Blombos Cave (BBC) is situated in a steep wave-cut cliff, 100 m
+from the Indian Ocean and 34.5 m above modern sea level (34 250 S,
+21130 E). Because of its elevation, there was no removal of sediments by high sea level stands during Marine Isotope Stage (MIS)
+5e or MIS 1 as is the case at many lower-elevation coastal caves in
+South Africa. Blombos Cave is set into the calciﬁed sediments of the
+Tertiary Wankoe Formation (Henshilwood, 2008), and the calcareous environment is at least partially responsible for the good to
+excellent state of the fossils that have been recovered
+(Henshilwood et al., 2001b; Henshilwood, 2008).
+When excavations at Blombos Cave commenced in 1992
+(Henshilwood, 1995, 2008), the cave entrance was almost totally
+sealed by dune sand. Approximately 20 cm of undisturbed aeolian
+sand overlay the surface of the Later Stone Age (LSA) deposits,
+indicating no disturbance of the cave’s contents since the ﬁnal LSA
+occupation ca. 290 years ago. The earliest LSA occupation is ca. 2 ka.
+It has a surface area of ca. 55 m2 with a long and low entrance about
+10 m across, 7 m deep and 1e2 m in height while standing on MSA
+deposits. The deposits partially extend into a recently-discovered
+antechamber (d’Errico and Henshilwood, 2007). Between 1992 and
+
+Figure 2. Plan map and representative section at Blombos Cave with associated age
+determinations.
+
+Background to Blombos Cave
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+quadrates. In the upper M2 phase (Still Bay), the intensity of the
+anthropogenic deposits in CFB/CFC and CFD are listed as medium
+to high and CFA as a low intensity unit.
+In the lower M2 phase layers, CGAA, CGAB, CGAB h1, CGAC are
+listed as low intensity deposits. The lower M2 phase layers have an
+OSL age of 84.6  5.8 ka (Jacobs et al., 2006). Only the upper level of
+the M3 phase has been dated and produced an OSL age of
+98.9  5.5 ka for the CH, CI and possibly CJ layers (Jacobs et al.,
+2006). Layer CH is a low intensity deposit, and CI and CJ are high
+intensity deposits. The ages of the lower layers within the M3 phase
+are currently being determined.
+Material culture: M1 and upper M2 phases
+These phases at Blombos Cave contain high densities of bifacial
+points, the fossil directeur of the Still Bay techno-tradition. Most are
+made on ﬁne grained silcrete (Henshilwood et al., 2001b; Villa
+et al., 2009). A strong argument for early behavioural modernity
+in the MSA is the discovery of more than 65 shell beads in the M1
+phase, 41 of which have been described (Henshilwood et al., 2004;
+d’Errico et al., 2005). All of the beads are made from the shell of the
+marine gastropod, Nassarius kraussianus, carefully pierced using
+a bone tool then strung, perhaps on cord or sinew, and worn as
+a personal ornament. More than 2000 pieces of ochre, many
+bearing signs of utilisation and including eight deliberately
+engraved pieces, have been recovered from the M1 and upper M2
+phases (Henshilwood et al., 2001b; Watts, 2009). The engraved
+pieces show that the designs result from deliberate intent and
+arguably are among the most complex and clearly-formed of
+objects claimed to be early abstract representations (Henshilwood
+et al., 2002; d’Errico et al., 2003; Henshilwood, 2009; Texier et al.,
+2010).
+More than forty formal bone artefacts have been recovered from
+the M1 and upper M2 phases, including awls and ‘points’
+(Henshilwood and Sealy, 1997; Henshilwood et al., 2001a; d’Errico
+and Henshilwood, 2007). The majority are awls made on long
+bone shaft fragments, further manufactured by scraping and then
+used to pierce soft material such as leather. At least some of the bone
+tools that were carefully polished after being shaped by scraping are
+probably projectile points made for hafting. It is noteworthy that the
+points are treated differently from the awls. The high polish on these
+points has no apparent functional reason that can be detected but
+seems rather a technique that gives a distinctive appearance e an
+
+749
+
+“added value” e to these artefacts (d’Errico and Henshilwood,
+2007).
+Material culture: lower M2 phase
+Bone tools, bifacial points and shell beads are absent from the
+lower M2 phase. The intensity of the cultural deposits is low in this
+phase but includes a few basin hearths, a very large hearth in layer
+CGAC, small quantities of blades, ﬂakes and cores in silcrete, quartz
+and quartzite, and some small pieces of ochre. A detailed analysis of
+these artefacts is currently underway and the overall impression is
+that human occupations in the M2 phase were of short duration
+and possibly that the size of the groups was also limited.
+Material culture: M3 phase
+In this lower phase, lithics are frequent and exotic ﬁne grained
+materials were commonly brought to the site for knapping. Retouch
+on the M3 lithics is mostly informal, and a higher incidence of
+ventral ﬂaking and denticulate or notched edges distinguish the
+retouched lithics in M3 from those in the upper phases. Preliminary
+ﬁndings indicate that the lithics in M3 do not conform to the typical
+MSA I or MSA II patterns observed at the Klasies River site (Soressi,
+pers. comm.).
+Ochre is abundant in this phase and eight of these slabs are
+deliberately engraved with either cross-hatched, Y-shaped or
+crenulated designs (Henshilwood et al., 2001b, 2009; Watts, 2009).
+This indicates a tradition for the production of geometric engraved
+representation in the MSA at Blombos with roots that go back in
+time to at least 100 ka, and which includes the production of
+a number of different patterns. The ﬁndings support the view that
+the use of ochre during the MSA at Blombos was not only functional
+but that it also served, perhaps primarily, in a symbolic role
+(Henshilwood, 2009). The chronological and material culture
+associations of the phases at Blombos are summarised in Table 1.
+General resource availability
+Along the Southern Cape, coast fresh water springs are
+numerous and emanate at the interface of the Table Mountain
+Group sandstones and the upper tidal reaches. These perennial
+springs are fed by deep inland aquifers in the Bredasdorp Group
+and provide, apart from occasional rivers, one of the few
+
+Table 1
+Minimum and maximum ages of sediments and NISP from analytical units used in the BBC faunal analysis. Ages and stratigraphic assignments are summarised from OSL data
+in Jacobs et al. (2003a,b, 2006).
+MIS
+
+Min age
+(ka)
+
+Max age
+(ka)
+
+Large mammal
+NISP
+
+Blombos phase or
+chronological event
+
+Cultural materials recovered
+Ochre
+
+Bone tools
+
+Lithic tools
+
+Other
+
+1
+
+0.3
+
+2
+
+N/A
+
+Later Stone Age
+
+Present
+
+Present
+
+Abundant
+
+4
+
+70
+
+72
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+5a/4
+
+69.6
+
+75.8
+
+3879
+
+Sealing of MSA occupation
+layers by dune e hiatus
+M1 phase (Still Bay) e high
+density occupation
+
+Abundant (relatively
+more engraved)
+
+Relatively
+abundant
+
+5a
+
+73.7
+
+78
+
+2047
+
+Abundant (some
+engraved)
+
+Relatively
+abundant
+
+Nassarius
+kraussianus shell
+beads
+Few beads
+
+5b
+
+85a
+
+85a
+
+419
+
+Present
+
+None
+
+Still Bay bifacial
+points, scrapers and
+debris relatively abundant
+Bifacial points,
+particularly near top of
+phase
+Present
+
+5c
+
+100a
+
+100a
+
+1256
+
+Very abundant (some
+engraved)
+
+None
+
+Specialised MSA lithic
+assemblage with small blades
+
+None of note here
+
+a
+
+M2 (upper) phase (Still Bay) e
+high density
+occupation
+M2 (lower) phase e low density
+occupation
+M3 phase e high density
+occupation
+
+OSL age is approximate (further OSL ages are expected).
+
+OES beads, bone
+beads, shell
+pendants, pottery
+N/A
+
+None of note here
+
+750
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+dependable sources of water on the coastal plain between the Cape
+Folded Belt mountains and the Indian Ocean (Henshilwood, 2008).
+Even during wet conditions, it is likely that these springs were
+a major attractant for MSA people and for animals.
+The faunal collection from Blombos is varied, which suggests
+that MSA people may have practiced a subsistence strategy that
+included a broad range of animals (Henshilwood et al., 2001b). This
+must be conﬁrmed by taphonomic analyses of the small mammal
+and tortoise components of the assemblage that are currently
+underway. Shellﬁsh were collected and brought back to the cave
+during all of the occupation phases, and the M3 phase is a particularly rich shell midden. The shellﬁsh species present in the MSA
+levels are similar to those from the LSA. Fish bones have been
+recovered in all phases and are under study. It has been argued that
+prior to ca. 50 ka, MSA people were unable to exploit coastal
+resources effectively (Klein et al., 2004) but this seems not to have
+been the case at Blombos.
+Palaeoclimatic context: Southern Cape and Blombos Cave
+Overview
+A bimodal or year-round rainfall system in the Quaternary
+suggests that the southern Cape region was wetter than the more
+western areas (Barrable et al., 2002), but was sensitive to changes in
+the convergence of the Agulhas and Benguela currents from the
+Indian and Atlantic Oceans, respectively. Upwellings on the adjacent shallow Agulhas plateau, sea level changes, and variability in
+wind directions are likely to have inﬂuenced moisture supply to the
+coastal areas of the southern Cape during the MSA (Bateman et al.,
+2004). This would have also affected the species of ﬁsh and shellﬁsh
+that are adapted to speciﬁc biomes. Climatic conditions during the
+early and middle parts of MIS 5a (ca. 85e72 ka) (Butzer, 2004) in
+southern Africa are likely to have been mild and warm with initially
+wetter conditions before moving into the relatively cooler MIS 4
+(van Andel, 1989; Chase, 2010). MIS 5a broadly correlates with the
+M1 and upper M2 phase at Blombos, with the terminal Still Bay at
+the top of M1 corresponding to the advent of MIS 4. The M3 phase
+at Blombos corresponds with MIS 5c and marks a period of relatively warm conditions with sea levels possibly similar to those at
+present.
+There is a higher density of known MSA archaeological sites
+with long sequences that date to MIS 5 in the Southern Cape (e.g.,
+Klasies River, Boomplaas, Blombos Cave, Die Kelders, Pinnacle Point
+13B, and Nelson Bay) compared with the few sites in the southwestern Cape (e.g., Peers Cave), which suggests that humans chose
+the former area because it supported a higher biomass and offered
+greater subsistence opportunities (Deacon and Lancaster, 1988;
+Bateman et al., 2004; Butzer, 2004).
+
+between local and regional scale environmental change, and the
+impacts of this change on human behaviour as reﬂected in the
+archaeological record.
+A relatively low shellﬁsh density of 17.5 kg/m3 in the M1 phase
+supports the contention of a retreating sea (Henshilwood et al.,
+2001b). The ﬁnal stages of the M1 phase occupation fall within
+the MIS 5/4a boundary and are dated to ca. 72 ka years ago.
+Bateman et al. (2004) describes this as the start of the period
+leading towards the Last Glacial Maximum with stadials of
+increasing intensity and brief interstadials. In this terminal phase,
+climatic conditions were likely also becoming colder and wetter
+regionally with ﬂuctuating sea levels (Chase, 2010). From conditions that were relatively benign at ca. 76 ka years ago, it seems that
+the colder, perhaps locally drier conditions and falling sea levels
+would have impacted on the hunter gatherer ﬁshers that occupied
+Blombos Cave in the terminal Still Bay. Deposition of the sterile
+hiatus dune directly above the ﬁnal Still Bay, dated to ca. 70 ka,
+further supports the model for dune accretion suggested by
+Bateman et al. (2004) and provides important data on the deteriorating palaeoenvironment during the M1 ﬁnal phase of
+occupation.
+M2 phase (MIS 5b/a)
+The early and middle parts of MIS 5b (ca. 95e85 ka) that
+coincide with the lower M2 phase at Blombos are characterised
+by interstadial conditions with rising sea levels after ca. 86 ka
+years ago that persisted until ca. 74e70 ka years ago (Butzer,
+2004). A transgression of sea levels from 60 m in MIS 5b
+to 20 to 30 m in MIS 5a is reported globally (Lambeck et al.,
+2002). Near the modern village of Still Bay, the presence of ca.
+90 ka fossilized footprints of the elephant (Loxodonta africana)
+indicate higher precipitation levels than at present with woodlands that may have extended close to this region during the
+early stages of 5a (Roberts et al., 2008). The presence of the
+common duiker (Sylvicapra grimmia) in the upper M2 phase at
+Blombos supports a bushy environment. The water-dependent
+southern reedbuck (Redunca arundinum) provides a further indicator for relatively wet conditions during this M2 phase
+(Henshilwood et al., 2001b).
+Shellﬁsh data from the upper M2 phase support the contention
+of a relatively higher sea level at this time. Shellﬁsh collecting at
+Blombos was relatively intense in the upper M2 phase with 31.8 kg
+of marine shells being recovered from each cubic metre excavated
+(Henshilwood et al., 2001b). Low numbers of shellﬁsh are present
+in some layers in the lower M2 phase. Easy access to shellﬁsh,
+a sessile protein, and ﬁsh during MIS 5 b/a could have served to
+draw hunter gatherer ﬁshers to the Southern Cape coast.
+M3 phase (MIS 5c)
+
+M1 phase (MIS 5a/4)
+Cooler, perhaps drier conditions are indicated by an increase in
+grazing animals at this time (Chase and Meadows, 2007). Grazers
+such as black wildebeest (Connochaetes gnou) and/or hartebeest
+(Alcelaphus buselaphus) are found in the M1 phase and suggest that
+grassy conditions had replaced the bushier elements that typiﬁed
+the vegetation during the M2 phase (Henshilwood et al., 2001b).
+However, a recent palaeoclimatic synthesis by Chase (2010)
+suggests that the conditions at this time may have actually been
+more moist in southern Africa than has previously been inferred
+from extra-regional records. This highlights the conclusions
+reached by Chase (2010) and Jacobs et al. (2008) that detailed local
+palaeoclimatic records paired with more reﬁned site chronologies
+are still necessary to understand the complex relationships
+
+This was a period of sea level ﬂuctuation in the southern Cape
+(Carr et al., 2006) but between 109 and 98 ka, sea levels were
+relatively high (Butzer, 2004) and possibly not less than 20 m below
+present (Lambeck et al., 2002). The possibility of a more than 4 m
+sea level during MIS 5c in the southern Cape is also reported
+(Ramsay, 2002). Overall conditions were likely cool and dry but not
+cold until after 100 ka (Shackleton et al., 1984; van Andel, 1989). The
+high concentration of shellﬁsh in the Blombos upper M3 phase
+(layers CH, CI), dated at ca. 100 ka, supports the proposition for
+relatively higher sea levels and the shellﬁsh species present in these
+layers are indicative of warmer sea surface temperatures
+(Henshilwood et al., 2001b).
+In summary, the excavated occupation horizons at Blombos
+post-date the severe climate and accentuated drop in sea levels
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+during MIS 6, and appear to be concentrated at times when
+marine resources were readily available (Henshilwood et al.,
+2001b; Jacobs et al., 2006; Henshilwood, 2008). The faunal
+assemblage from Blombos provides an opportunity for a detailed
+examination of human subsistence strategies during the relatively
+warmer periods of MIS 5c/b leading into the more severe MIS 5a/4.
+It also offers the chance to examine these strategies in tandem
+with the substantial changes in technology and the material
+expression of symbolism that have been documented at the site,
+particularly between the oldest M3 phase and the overlying Still
+Bay phases of M1 and upper M2.
+Materials and methods
+The faunal assemblage reported here consists of all of the larger
+mammal postcranial fragments (>4.5 kg live weight) from the
+2000, 2002, and 2004 excavation seasons that exceed 2 mm in the
+maximum dimension. The sample includes all of the piece-plotted
+specimens and specimens that have been recovered from the
+screens, although unmodiﬁed faunal specimens were only
+routinely piece-plotted in the 2002 and 2004 excavations. The
+study does not include pieces of trabecular bone, bits of cortical
+bone with no evidence of having a medullary cavity or having
+otherwise come from a long bone, or fragments of cortical bone
+with no facets, diagnostic shape, or muscle markings that could
+indicate even an approximate location in the skeleton. The analysed
+assemblage does include less identiﬁable fragments such as long
+bone shaft fragments and long bone ﬂakes. All specimens meeting
+the above criteria were cleaned with fresh water and given individual numbers for a total Number of Identiﬁed Specimens (NISP)
+of 3879 from the M1 phase, 2047 from the upper M2 phase, 419
+from the lower M2 phase, and 1256 from the M3 phase. These
+include fragments not identiﬁable to speciﬁc body size.
+All data collection was conducted at Iziko: South African
+Museums of Cape Town. Each numbered specimen was entered as
+an individual record into a customized Microsoft Access database.
+Attributes such as element, side, taxon, and body size were entered
+along with macroscopically visible taphonomic attributes such as
+fragmentation (Villa and Mahieu, 1991) and burning (used here in
+terms of present/absent and based on basic colour changes, such as
+carbonization or calcination). Each specimen was then examined
+under a 10e40 binocular zoom light microscope for more subtle
+taphonomic indicators, such as weathering (Behrensmeyer, 1978),
+rodent gnawing, and post-depositional surface destruction
+(Thompson, 2005). Tooth, percussion, and cut marks were identiﬁed using the criteria established from modern experimental
+collections (Blumenschine et al., 1996), and for which analyst
+accuracy has been veriﬁed by blind tests on specimens modiﬁed by
+known agents. These data were collected during the publication of
+arguments regarding how to distinguish between carnivore tooth
+marks, geochemical etching, and bioerosion (Dominguez-Rodrigo
+and Barba, 2006, 2007; Blumenschine et al., 2007). Although
+certain kinds of bioerosion can mimic tooth marks (particularly
+root and fungus etchings), the Blombos assemblage only suffered
+from one major morphological type of surface destruction (exfoliation). This, combined with the analyst’s experience in identifying
+instances of bioerosion on fossil assemblages (Thompson, 2005),
+and the fact that we only present high-conﬁdence marks of any
+kind here, renders the chances of misidentiﬁcation on the Blombos
+assemblage to be very low.
+Each fragment that could be identiﬁed to element and conﬁdently placed on a template of that element was drawn into a GIS
+image-analysis program developed by Marean et al. (2001), and
+linked by specimen number to the external database. Where fragments could be identiﬁed to element and positioned on a template
+
+751
+
+but not sided (as was most often the case with metapodial fragments), specimens were drawn on alternate left and right side
+templates (Thompson, 2008). The minimum number of elements
+(MNE) was estimated from these GIS images on the principle of
+overlaps: where two fragments overlap on a given element they
+cannot be from the same element (Marean et al., 2001). This
+provides a way to rapidly and effectively estimate MNE values from
+any given subset of data without manually revisiting the collection,
+but as with any method of estimating MNE values, it may miss an
+overlap or indicate a very slight overlap (in terms of pixels) where
+there is not one (Lyman, 2008). However, these errors are small and
+unsystematic, and all of the images produced by the program were
+manually inspected for areas where the MNE value may have been
+inﬂated in this way. The smallest number of deﬁnite overlaps was
+the one recorded as the MNE.
+More details on skeletal element abundances by both NISP and
+MNE will be presented separately, in a paper that deals speciﬁcally
+with the issue of skeletal part transport. Here, all fragment counts
+and bone counts are reported in terms of NISP and the MNE data are
+used only for quantitative evaluation of density-mediated attrition.
+This was done by examining bone portion representation relative to
+ﬁve long bone zones: two epiphyses, two near-epiphysis shafts
+(deﬁned as a length of shaft with any trabecular bone on the
+interior), and one midshaft (Abe et al., 2002). The area represented
+within each zone was calculated and multiplied by its MNE value,
+then added to obtain the total area count (in pixels) within that
+zone (Thompson, 2008; Thompson and Marean, 2009). The
+proportion of the total area that fell within the ﬁve zones was then
+expressed as a percentage and input as the y-axis into a regression
+analysis with density as the x-axis.
+Density values were taken from computed tomography (CT)
+scans of a goat (Capra hircus) skeleton (Lam et al., 1998). When
+dealing with an assemblage where nearly 98% of the fragments
+identiﬁable to family or below are bovids (as at Blombos), and
+where therefore the majority of generic ungulate fragments also
+likely derive from bovids, the most accurate bovid values were
+preferred. The sheep skeleton values are likely more accurate
+because the density values were obtained by scanning the specimens in water rather than an alternate method used for wild
+ungulates (Lam et al., 1999), where bones were scanned while dry
+and then density values were calculated using a regression.
+Spearman’s Rho was then applied to the bone mineral density
+values versus bone portion representation as calculated by the
+image-analysis program. This nonparametric test is less susceptible
+to small sample sizes and inﬂuence by outlying points, and the fact
+that the rank order of density values per scan site are tightly
+correlated even across a wide variety of taxa further ensures that
+the application of the sheep data to wild ungulates from Blombos is
+not problematic (Lam et al., 1999; Carlson and Pickering, 2004).
+Finally, because this test is based on rank ordering, inequalities in
+the distribution of pixels across the different long bone zones will
+have less inﬂuence on the resultant correlations.
+Four other statistical tests were employed in this analysis. A Chisquared test was used to examine the likelihood of independence
+between two nominal or ordinal variables (e.g., body size and
+analytical unit). Fisher’s Exact Test was used on two-way tables of
+data where small sample sizes made a chi-squared test inappropriate. This provided a way to assess if a given proportion of data in
+one analytical unit was statistically different from the proportion of
+data in another analytical unit. The 95% conﬁdence limits were
+determined using Wald’s adjusted method (Agresti and Coull, 1998)
+for proportional data for which large numbers of analytical units
+required comparison (e.g., proportion of fracture angles that are
+right or proportion of shaft fragments bearing a percussion mark).
+Where these conﬁdence intervals overlapped, two proportions
+
+752
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+were determined to be statistically indistinguishable with differences between the two possibly attributable to sampling error.
+Finally, a KruskaleWallis test was used to assess if statistically
+signiﬁcant differences existed between the medians of datasets
+comprised of continuous data.
+
+Table 2
+Basic taxonomic and body size representation by NISP for each analytical unit.
+Counts are of fragments that could be identiﬁed maximally to each taxonomic level
+(e.g., counts of ‘artiodactyl’ include fragments that could not be further identiﬁed as
+bovid, suid, etc., rather than a total count of all artiodactyl specimens in the
+assemblage).
+Body size
+
+Taxonomic and body size abundances
+Basic description
+The overall taxonomic composition of the Blombos Cave fauna
+has been reported elsewhere for the material recovered during the
+1992e1999 excavation seasons (Henshilwood et al., 2001b). In
+terms of the relative proportions of large mammals, small
+mammals (<4.5 kg live weight), and tortoises, the taxonomic
+representation is similar to DK1 (Klein and Cruz-Uribe, 2000) and
+YS1 (Halkett et al., 2003; Klein et al., 2004). The only other published MSA site for which taxonomic abundances of the complete
+faunal assemblage is reported is PP13B, which has been shown to
+have very high relative proportions of large mammals (Reed and
+Rector, 2010; Thompson, 2010a). Although representation by NISP
+has not been quantiﬁed for small mammals and tortoises at
+Blombos, it is clear that the assemblage is more ‘typical’ in that
+small fauna, such as hyraxes, hares, Cape dune mole rats, and
+tortoises are very abundant. This will be explored quantitatively in
+future studies, which will also include a return to the cranial
+portion of the 2000, 2002, and 2004 large mammals and a taphonomic study of the remaining excavation seasons.
+Because of the relatively small numbers of fragments that could
+be reliably identiﬁed to species or even genus, and because of the
+emphasis this study has on the taphonomic background of the
+assemblage, all large mammal data are given here in terms of body
+size and general taxonomic category at the family level or above
+(Table 2). This is a standard way to present basic taxonomic data in
+African zooarchaeology, where the diversity of ungulates, particularly bovids, makes it difﬁcult to identify species based on fragmented bone (Brain, 1981; Klein and Cruz-Uribe, 1984). In terms of
+both subsistence and taphonomy, body size plays an important role
+in determining how carcasses will be processed, transported, and
+affected by post-depositional processes. The emphasis on body size
+abundances rather than taxonomic abundances therefore also
+enables a much greater proportion of a given assemblage to be
+employed in behavioural and taphonomic inferences. Some
+examples of species from each body size class that were identiﬁed
+from the same sample (Henshilwood et al., 2001b) include, but are
+not limited to: grysbok/steenbok (Raphicerus spp., size 1),
+springbok (Antidorcas spp., size 2), wildebeest/hartebeest (Connochaetes/Alcelaphus., size 3), eland (Taurotragus oryx, size 4), and
+hippopotamus (Hippopotamus amphibius, size 5).
+One issue that should be addressed before comparing taxonomic or even body size abundances between phases is that of how
+taphonomic processes impact an analyst’s ability to identify bone
+fragments. The greater surface area of larger fragments gives them
+the opportunity to retain more diagnostic morphology or preserve
+anatomical landmarks, so that phases containing larger fragments
+may be expected to produce more accurate taxonomic identiﬁcations. The median fragment length in M1 is 23 mm, compared with
+lengths of 17, 15, and 17 mm for upper M2, lower M2, and M3,
+respectively. A KruskaleWallis test for equality of medians shows
+that there are signiﬁcant differences between the medians of
+maximum fragment length between all phases combined
+(H ¼ 328.5, p < 0.0001), but not between upper M2, lower M2, and
+M3 (H ¼ 4.643, p ¼ 0.0981). This indicates that the most recent level
+(M1) has larger fragment sizes and may therefore have more
+fragments that are readily identiﬁable.
+
+Analytical unit
+M1
+
+Class Mammalia
+
+Terrestrial Mammal
+
+Marine Mammal
+
+Order Carnivora
+Family Canidae
+Family Felidae
+Family Otariidae/Phocidae
+
+Superorder Ungulata
+
+Order Artiodactyla
+
+Family Bovidae
+
+Family Hippopotamidae
+Order Perissodactyla
+Family Equidae
+Family Rhinocerontidae
+
+Indet.
+1
+2
+3
+4
+5
+Indet.
+1
+2
+3
+4
+5
+Indet.
+1
+2
+3
+4
+1
+2
+1
+1
+2
+Indet.
+1
+2
+3
+Indet.
+1
+2
+3
+4
+5
+1
+2
+3
+Indet.
+1
+2
+3
+4
+5
+5
+0
+4
+5
+
+501
+169
+173
+182
+52
+12
+225
+685
+423
+308
+105
+14
+35
+3
+26
+27
+1
+11
+3
+0
+6
+2
+1
+18
+47
+18
+0
+16
+22
+67
+29
+6
+2
+5
+11
+3
+262
+152
+146
+79
+17
+4
+0
+7
+4
+
+M2 upper M2 lower
+244
+153
+52
+50
+8
+1
+119
+638
+148
+126
+25
+0
+3
+3
+3
+4
+0
+7
+3
+1
+1
+0
+0
+5
+6
+2
+1
+21
+6
+24
+11
+1
+6
+10
+1
+1
+254
+54
+39
+14
+2
+0
+0
+0
+0
+
+76
+42
+7
+6
+3
+1
+25
+102
+18
+14
+1
+0
+1
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+3
+7
+1
+0
+4
+1
+1
+2
+0
+0
+0
+0
+0
+78
+8
+8
+4
+1
+0
+0
+2
+0
+
+M3
+190
+70
+28
+30
+9
+9
+120
+287
+96
+94
+24
+1
+3
+0
+3
+4
+0
+5
+0
+2
+3
+0
+0
+12
+22
+0
+0
+10
+3
+7
+9
+1
+4
+5
+0
+1
+153
+16
+20
+10
+4
+0
+0
+0
+1
+
+However, smaller animals would be expected to produce
+smaller fragments. This is supported by signiﬁcant positive correlations between body size and maximum fragment length for M1
+(Rs ¼ 0.5296, p < 0.001), upper M2 (Rs ¼ 0.4571, p < 0.001), lower
+M2 (Rs ¼ 0.4238, p < 0.001), and M3 (Rs ¼ 0.4868, p < 0.001).
+Because M1 has a larger proportion of fragments from animals with
+body sizes of 3 and above (Fig. 3), the fragment size differences
+between the phases are likely attributable to differences in body
+size representation. This is important because a given fragment
+from a small animal has more chance of retaining diagnostic
+morphology than an analogous fragment of the same absolute size
+from a larger animal. The actual percentage of a complete element
+represented by a given fragment is therefore a major factor in
+determining how identiﬁable the specimen is, with the other being
+the presence of anatomical landmarks (Barba and DomínguezRodrigo, 2005; Pickering et al., 2006).
+The image-analysis program records the shape and size of each
+identiﬁed fragment on a template of a complete element, so that its
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+Figure 3. Large mammal body size representation broken down by analytical unit.
+
+area relative to the whole can be calculated (Marean et al., 2001).
+The proportional area of each fragment from a sample of elements
+(humerus, radius, femur, and tibia) was calculated in this manner,
+and very similar median proportional areas were found between
+body sizes 1, 2, 3, and 4 (4.5%, 5.1%, 4.8%, and 4.5%, respectively). A
+KruskaleWallis test did not ﬁnd these medians to be signiﬁcantly
+different from one another (H ¼ 1.14, p ¼ 0.7687), demonstrating
+that small and large ungulates experienced similar degrees of
+overall fragmentation. There were greater differences between the
+median proportional fragment sizes of bones from M1, upper M2,
+lower M2, and M3 (5.3%, 3.4%, 3.8% and 5.0%, respectively). This
+suggests that bones in the middle two phases experienced more
+overall fragmentation, and this is conﬁrmed by a signiﬁcant
+difference in medians (H ¼ 13.63, p ¼ 0.0035). However, from
+a practical perspective a fragment that retains 3% of the original
+element will not typically be more difﬁcult to identify than a fragment that retains 5%. It is therefore likely that taxonomic and
+skeletal element identiﬁcations could be determined with
+approximately equal degrees of conﬁdence throughout the
+sequence and between body sizes.
+Marine resources
+Marine mammal representation at Blombos is relatively low, at
+4.9% by the NISP of specimens that could be identiﬁed as either
+terrestrial or marine. This is lower than the 10% reported by
+Henshilwood et al. (2001b). The discrepancy between the two
+results from Blombos is likely because Henshilwood et al. (2001b)
+reported only specimens identiﬁable to element and did not
+include long bone shaft fragments that are easily identiﬁed as being
+terrestrial mammal owing to the presence of a medullary cavity.
+Increased scrutiny of these less identiﬁable fragments therefore
+likely resulted in a relative increase in terrestrial mammal
+representation.
+Despite the low overall proportions, differences in marine
+mammal representation are apparent between phases at Blombos:
+M1 has the highest proportion at 6.3%, upper M2 the lowest at
+1.7%, and lower M2 and M3 similar with slightly higher proportions (4.9% and 4.8%, respectively). These are all close ﬁgures, and
+it may be more useful to return to the larger set of published
+taxonomic data available in Henshilwood et al. (2001b). These
+mirror the results from the subsample reported here, keeping in
+mind that no distinction is made between upper and lower M2 in
+this dataset. In accordance with the methodological factors discussed above, the proportions are also higher: M1 has 12%, M2 has
+5%, and M3 has 10%.
+
+753
+
+These proportions are not expected if environmental change
+and proximity to the coastline was the primary determinate of
+marine mammal representation at Blombos. M1, dated to a time
+when the climate was shifting to one that was much cooler and
+global sea levels much lower, should have the least evidence for
+marine resource exploitation (Jacobs et al., 2006). In contrast, the
+reported abundances of shellﬁsh recovered from Blombos do follow
+the expected pattern. In terms of the kg shell/m3 of recovered
+sediment, shellﬁsh are least abundant in M1 and become
+progressively more so through upper M2 and M3 (Henshilwood
+et al., 2001b). This indicates that even at the same time extensive
+shellﬁsh exploitation was occurring in M3, the exploitation of other
+marine resources such as seals was minimal and likely opportunistic. The marine mammal sample is overall quite small at Blombos, but the data may still suggest a shift in subsistence strategies
+between upper M2 and M1. For example, the daily foraging radius
+may have increased, more seals may have been scavenged as
+climatic conditions deteriorated, or strategies to enhance opportunities for seal exploitation may have been developed.
+Terrestrial mammal resources
+There were no primate specimens identiﬁed in the Blombos
+sample. Large terrestrial carnivore representation is also very low
+(<1%). There were no hyenid remains recovered from the sample
+reported here, and Henshilwood et al. (2001b) also report only
+a single specimen. Small canids and felids, such as the black-backed
+jackal (Canis mesomelas) and the African wild cat (Felis libyca),
+instead comprise the larger carnivore representation in the sample.
+These species are just barely larger than some of the mongooses
+and other small carnivores that make up the majority of the
+carnivores at Blombos but that are too small to be included in the
+present study (Henshilwood et al., 2001b). The low carnivore
+representation is an excellent indication that the site was not
+extensively used by large denning carnivores such as hyenas, as den
+sites often have high proportions of carnivore remains, many of
+which are juveniles (Stiner, 1991). However, this does not rule out
+the possibility that carnivores used the site transiently as
+a temporary lair or as scavengers after human occupation.
+Ungulate taxa dominate the identiﬁable assemblage at Blombos
+(97.3% of specimens identiﬁable to the superorder or below). A full
+49.9% of the larger mammal assemblage is represented by body size
+1, and because of the dominance of ungulates it is most parsimonious to assume that most of these are ungulates (Fig. 3). Of the taxa
+identiﬁable to the family level or below, 97.6% were positively
+identiﬁed as bovids and because of this, it is very likely that other,
+more general categories such as ‘artiodactyl’ and ‘ungulate’ are also
+bovids (Table 2).
+There are quite dramatic differences in body size representation
+between major stratigraphic units at Blombos. There is a nearly
+even distribution between size 1, 2, and 3 mammals (most of which
+are likely ungulates) in M1, while upper M2, lower M2, and M3
+have an abundance of size 1 (64.9%, 72.6%, and 58.0%, respectively).
+The distributions of body sizes are shown to be independent from
+the phases from which they are derived when a Chi-squared test
+was used to examine each phase side-by-side with another phase
+(Table 3).
+Particular attention is given to the relative abundances of size 1
+mammals for three reasons. First, this size class has been shown at
+other MSA sites to be the most likely candidates for non-human
+accumulation. For example, in Layer 11 of DK1, small ungulates are
+the most abundant size class but were found to have been
+predominately collected by raptors (Marean et al., 2000). At PP13B,
+there was also an elevated non-human (in this case, carnivore)
+input for this size class (Thompson, 2010a). Second, if size 1
+
+754
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+Table 3
+Results of Chi-squared tests comparing the body size distributions between
+analytical units.
+D.F.
+4
+4
+4
+4
+4
+4
+
+Analytical unit 1
+
+Analytical unit 2
+
+Test statistic
+
+p-value
+
+M1
+M1
+M1
+Upper M2
+Upper M2
+Lower M2
+
+Upper M2
+Lower M2
+M3
+Lower M2
+M3
+M3
+
+2741
+43804
+6788.5
+6249.1
+1334.7
+424.3
+
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+
+ungulates at Blombos are found to be primarily accumulated by
+humans, then this has the potential to inform about changes in
+hunting technology. Clark and Plug (2008) suggested that size 1
+ungulate representation at Sibudu might be attributable to specialised hunting techniques, such as net-hunting. A detailed taphonomic analysis has not been published for each individual body size
+at Sibudu, but certainly if the accumulator was MSA humans, then
+small, pair-bonded antelope that use elusive hiding as their
+primary predator-defence system require different acquisition
+strategies than do large, herding ungulates that use speed to escape
+(Skinner and Chimimba, 2005).
+Finally, differences in the proportions of size 1 mammals at
+Blombos through time may provide subtle signals of climate
+change. Different species of African bovids have habitat preferences
+that can be used to reconstruct past environments. However, these
+analyses require faunal assemblages with large numbers of specimens identiﬁable at least to the tribe and often to the genus or even
+species level. This is further problematic at archaeological sites,
+where assemblages are often highly fragmented and human
+transport decisions may have biased the representation of cranial
+and dental elements (those elements that are most readily identiﬁed to the requisite level of speciﬁcity). Most of the size 1 ungulates
+at Blombos are grysbok/steenbok (Raphicerus spp.), and all are
+typical inhabitants of relatively closed-habitat (particularly fynbos)
+environments in the modern day (Henshilwood et al., 2001b;
+Skinner and Chimimba, 2005). The body size data based on postcranial NISP therefore also provide a proxy way to measure changes
+in the abundances of closed-habitat bovids with fewer of the
+problems that arise when more speciﬁc taxonomic identiﬁcations
+are required. Following on this, a reduction in size 1 representation
+at Blombos could signal periods of less fynbos in the area immediately around the site, as has been suggested here to be the case
+during M1 times based on other lines of evidence.
+In light of the potential importance of size 1 ungulates, it is
+notable that the most extreme differences in body size abundances
+at Blombos lie with size 1 mammals (most of which are likely
+ungulates). Fisher’s Exact Test shows that the proportions of size 1
+relative to all other size classes are statistically different between all
+phases (p ¼ 0.0080 between upper and lower M2; p < 0.0001 for
+the same comparisons between all other phases). The most parsimonious explanation for this pattern is that it was driven by
+changes in local climatic conditions. Upper/lower M2 and M3
+represent occupations during relatively warm intervals. Terminal
+M1 represents a shift to a colder and more arid period during MIS 4.
+This may have resulted in more open vegetation and a subsequent
+reduction in the available habitat for small browsers, which is in
+agreement with the climatic data summarised above. However,
+prey selection and transport will vary with the major predator
+responsible for the accumulation and faunal representation may
+not be a random sample of the surrounding environment. The
+remainder of this paper therefore focuses on determining which
+predator this was during each time period and for different
+mammalian body size classes.
+
+Agent of accumulation
+Background
+Reliable interpretations of past human subsistence behaviour
+rely on analyses that use only components of a given assemblage
+that were actually collected and/or modiﬁed by the people in
+question. Cave assemblages are particularly suspected as having
+had multiple accumulators because caves act as focal points on the
+landscape to which carnivores, raptors, rodents, humans, and
+abiotic processes (such as running water) all bring bones that will
+eventually become fossils (Brain, 1981; Lyman, 1994). Large
+mammal zooarchaeology beneﬁts from a variety of actualistic and
+naturalistic studies that bridge the interpretive gap between the
+behaviour of various bone modiﬁers and the physical effects they
+have on a bone accumulation. These analyses include the sizes and
+types of elements that are present (Marean and Spencer, 1991;
+Marean et al., 1992; Pickering et al., 2003), and the microscopic
+traces that are left on bone surfaces (Blumenschine, 1986, 1995;
+Blumenschine and Selvaggio, 1988; Capaldo and Blumenschine,
+1994; Selvaggio, 1994; Blumenschine et al., 1996; DominguezRodrigo, 1997, 2003a, 2008; Capaldo, 1998a; Selvaggio and
+Wilder, 2001; Pickering et al., 2004; Dominguez-Rodrigo and
+Yravedra, 2009).
+Along with the presentation of taxonomic data, Henshilwood
+et al. (2001b) provided macroscopic taphonomic data. Based on
+these preliminary results, the authors concluded that most of the
+large mammals were accumulated by humans but they recommended that a thorough taphonomic study that employs microscopic techniques also be employed (Henshilwood et al.,
+2001b:435). This is provided here, and indeed shows a greater
+complexity in the interpretation of site formation processes at
+Blombos. However, the results of this microscopic analysis can only
+follow primary assessments of the degree to which other taphonomic processes may have introduced systematic biases into the
+assemblage. Such biases can make it more difﬁcult to tease out the
+accumulative agent(s), as discussed in Thompson (2008). These
+include selective destruction of elements and element portions,
+such as long bone epiphyses (Marean and Frey, 1997; Bartram and
+Marean, 1999; Marean et al., 2004). Such portions retain more
+diagnostic morphology and are often the most readily identiﬁable
+but are less dense and may be preferentially destroyed by a variety
+of taphonomic processes (Lyman, 1993; Lam et al., 2003). Because
+of the impact that any form of differential destruction has on the
+interpretations of human behaviour and involvement in a fossil
+assemblage, an examination of the degree to which this might have
+occurred at Blombos is a ﬁrst-order priority.
+Differential destruction
+Because some skeletal elements are less dense than others,
+skeletal element representation at a site can provide an initial
+indication of whether or not density-mediated attrition may have
+been a component of the overall taphonomic system (Lyman, 1985).
+Table 4 provides an overview of skeletal representation at Blombos
+for the major elements by NISP and MNE. Fig. 4 shows both intraelement and inter-element differences in representation. Representative images of bone fragments mapped onto a template of
+each element illustrate how individual fragments are distributed
+and overlap most frequently on the densest and/or most easilyidentiﬁed portions (Marean et al., 2001).
+Fig. 4 also charts the MAU (Minimum Animal Units) next to
+maximum bone mineral density data for scan sites on a blue
+wildebeest (Connochaetes taurinus) skeleton from Lam et al. (1999).
+When comparing serial elements (such as ribs and vertebrate) to
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+755
+
+Table 4
+Representation of the major skeletal elements at Blombos for each body size class. MNE values were calculated using the image-analysis program described by Marean et al.
+(2001). Overlap values refer to actual overlaps across body sizes and count values are based on the assumption that MNE values for different body size classes can be added
+because they cannot have come from the same individual.
+Size 1
+R
+Blombos NISP element
+Atlas
+Axis
+Cervical Vertebra
+Thoracic Vertebra
+Lumbar Vertebra
+Sacrum
+Rib
+Scapula
+Humerus
+Radius
+Ulna
+Metacarpal
+Innominate
+Femur
+Tibia
+Metatarsal
+
+8
+5
+50
+83
+66
+9
+39
+15
+33
+24
+4
+7
+17
+25
+16
+9
+
+Blombos MNE element
+Atlas
+Axis
+Cervical Vertebra
+Thoracic Vertebra
+Lumbar Vertebra
+Sacrum
+Rib
+Scapula
+Humerus
+Radius
+Ulna
+Metacarpal
+Innominate
+Femur
+Tibia
+Metatarsal
+
+7
+4
+10
+33
+13
+7
+13
+7
+9
+6
+2
+3
+8
+8
+5
+4
+
+Size 2
+L
+
+R
+
+48
+13
+39
+17
+5
+17
+19
+20
+28
+14
+
+0
+1
+32
+17
+6
+0
+11
+4
+16
+5
+3
+0
+7
+8
+17
+4
+
+14
+7
+8
+5
+4
+8
+8
+4
+6
+10
+
+0
+0
+8
+4
+2
+0
+6
+3
+4
+2
+2
+2
+4
+3
+5
+4
+
+Size 3
+L
+
+R
+
+12
+6
+10
+8
+4
+1
+11
+7
+20
+3
+
+2
+0
+33
+57
+25
+1
+15
+6
+14
+7
+4
+1
+15
+12
+24
+2
+
+8
+4
+2
+3
+2
+3
+4
+2
+3
+3
+
+3
+0
+12
+18
+7
+1
+10
+0
+4
+4
+1
+6
+4
+3
+6
+2
+
+paired elements (such as long bones), the MAU provides a way to
+examine their representation in light of their actual occurrence in
+a complete skeleton (Lyman, 2008). The bone density data have
+been selected from Lam et al. (1999) because the sheep data from
+Lam et al. (1998) do not include values for non-long bones. Both the
+MAU and bone density were standardised to the highest value in
+the dataset in order to facilitate the visual comparisons.
+At Blombos, inter-element representation between axial and
+appendicular elements follows the same general pattern as bone
+mineral density. This can be a common result of density-mediated
+attrition (Bartram and Marean, 1999; Marean and Cleghorn, 2003;
+Cleghorn et al., 2004) and suggests that the two are correlated.
+However, when all of the elements are compared against maximum
+bone mineral density, Spearman’s rho shows only a weak and
+insigniﬁcant correlation within both standardised (Rs ¼ 0.2554,
+p ¼ 0.3330) and unstandardised values (Rs ¼ 0.3400, p ¼ 0.3240).
+This is a classic problem of equiﬁnality in faunal assemblages
+because the least dense bones also tend to have the highest caloric
+returns (Marean and Cleghorn, 2003), and inter-element representation may also therefore be shaped by hominin (or carnivore)
+transport behaviour (Stiner, 1991; Bar-Oz et al., 2004; Cleghorn and
+Marean, 2004). For example, there can be a great deal of variability
+in how modern hunter-gatherers transport heads from carcasses of
+different body sizes, and the axis and atlas vertebrae often travel
+where the head goes (Monahan, 1998). Because of the particularly
+dense dens portion of the axis, this element will be assigned the
+highest ranking in Spearman’s correlation even though its predepositional representation at a site may be very low because of
+transport decisions having to do with the number of carriers,
+
+Size 4
+L
+
+R
+
+14
+1
+17
+5
+0
+6
+9
+15
+18
+3
+
+1
+1
+9
+5
+9
+0
+0
+2
+4
+1
+2
+3
+0
+5
+5
+3
+
+7
+0
+6
+4
+0
+4
+3
+9
+5
+3
+
+1
+1
+2
+2
+3
+0
+5
+1
+3
+1
+2
+2
+0
+4
+2
+4
+
+Size 5
+
+All (overlap)
+
+L
+
+R
+
+L
+
+4
+0
+1
+3
+1
+1
+2
+2
+9
+4
+
+0
+1
+2
+1
+4
+0
+1
+0
+2
+0
+0
+0
+0
+1
+1
+1
+
+1
+0
+0
+0
+0
+0
+0
+0
+1
+1
+
+3
+0
+0
+2
+1
+2
+1
+1
+1
+3
+
+0
+1
+0
+1
+1
+0
+0
+0
+1
+0
+0
+1
+0
+0
+1
+1
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+R
+
+8
+5
+29
+49
+19
+7
+24
+11
+12
+9
+5
+9
+11
+13
+11
+9
+
+All (count)
+
+L
+
+R
+
+L
+
+23
+10
+12
+9
+6
+11
+11
+15
+14
+15
+
+11
+6
+32
+58
+26
+8
+34
+11
+20
+13
+7
+13
+16
+18
+18
+14
+
+32
+11
+16
+14
+7
+17
+16
+16
+15
+19
+
+distance from kill site, and other archaeologically unknowable
+factors.
+An examination of intra-element representation provides a way
+to evaluate the effects of density-mediated attrition independently
+of potential inter-element transport bias. Fig. 4 shows that within
+the long bones, Blombos is a shaft-dominated assemblage. This is
+conﬁrmed by the NISP data, where a full 67% of long bone fragments (including both generic fragments and those identiﬁable to
+speciﬁc element) are shaft fragments, with 20% near-epiphysis
+shaft fragments and a mere 13% represented by epiphyseal
+portions. When ungulate long bone portion representation is
+plotted against bone portion density for the entire sample (with no
+subdivisions by archaeological phase), Spearman’s Rho conﬁrms
+a highly signiﬁcant positive correlation between the two variables
+(Rs ¼ 0.4879, p ¼ 0.0062). This indicates that a substantial
+proportion of density-mediated destruction has occurred and long
+bone epiphyses are preserved in proportions that are farther
+removed from their original representation than denser portions
+such as long bone shafts (Cleghorn et al., 2004; Marean et al., 2004;
+Thompson and Marean, 2009).
+When the data were broken down stratigraphically ( ¼ chronologically) and by body size, Spearman’s Rho shows a positive and
+highly signiﬁcant correlation between bone density and bone portion
+representation below the a ¼ 0.05 level for all but two data subsets
+(Table 5). Fig. 5 visually shows this pattern for all analytical units and
+body sizes combined at Blombos, and for each MSA phase for which
+there is a signiﬁcant correlation. The sample sizes from lower M2 and
+M3 are extremely small. This is evidenced by the wide spread
+of datapoints, which also indicates that the correlations should be
+
+756
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+Figure 4. Standardised MAU values for the major skeletal elements at Blombos derived from the “Overlap” column in Table 5 (black bars) compared with a grey line showing
+standardised bone mineral density maximum values of a Connochaetes taurinus skeleton from Lam et al. (1999). Representative bone maps were generated using the image-analysis
+program described by Marean et al. (2001), and darker areas represent areas where more fragment portions overlap. All paired elements are from the left posterior view, except for
+metapodials (left anterior view).
+
+interpreted cautiously. Within the large samples from M1 and upper
+M2, the residuals for epiphyses almost always fall on or below the
+linear regression line. This indicates that these less dense portions are
+actually less well-represented than predicted by their density. In
+contrast, the residuals for near-epiphysis shafts are nearly always
+positive. The graphs also illustrate that both bone density and an
+analyst's ability to identify bone fragments likely impact how bone
+portion representation is reported from an assemblage. This is
+particularly the case for highly fragmented assemblages derived from
+animals of a larger body size. Near-epiphysis shafts may be overrepresented because they possess both a dense midshaft portion that
+
+Table 5
+Spearman’s Rho correlations, the N of fragments placed on the GIS templates to
+derive the MNE values, and p-values for bone portion representation versus bone
+density for small (size 1 and 2) and large (size 3 and 4) ungulates during M1, upper
+M2, and M3.
+Ungulate size
+
+Dataset
+
+N Fragments
+
+Spearman’s Rho
+
+Small
+Large
+
+M1
+
+160
+138
+
+0.5131
+0.4899
+
+0.0037
+0.0060
+
+p-value
+
+Small
+Large
+
+M2 upper
+
+130
+39
+
+0.3277
+0.3763
+
+0.0771
+0.0404
+
+Small
+Large
+
+M2 lower
+
+23
+6
+
+0.0121
+0.7885
+
+0.9494
+< 0.0001
+
+Small
+Large
+
+M3
+
+40
+19
+
+0.3905
+0.4692
+
+0.0329
+0.0089
+
+Note that exact values for Rs differ slightly from those reported in Thompson and
+Marean (2009) because %Area was rounded to only two decimal places in this
+analysis. Sample sizes were quite small for M3.
+
+is likely to survive, as well as a less dense but generally more easilyidentiﬁed near-epiphysis portion (Thompson and Marean, 2009).
+All correlations at Blombos are lower than were observed for
+large ungulates at other sites, such as PP13B and DK1 (note that
+values for Blombos given here differ slightly from Thompson and
+Marean [2009] because the current regressions were run after
+rounding both input values to two decimal places). However, there
+is sufﬁcient evidence of selective depletion of less dense portions to
+warrant careful consideration of which fragment types should be
+included in analyses used to determine the accumulator. This is
+because experimental and ethnoarchaeological studies have shown
+that carnivore ravaging of a bone assemblage results in such
+a pattern of density-mediated destruction, and that ravaging is an
+extremely common process even at sites where humans have
+nearly depleted all of the nutrients from bones through marrow
+and/or grease extraction (Marean and Spencer, 1991; Marean et al.,
+1992; Bartram, 1993; Lyman, 1993, 1994; Lupo, 1995; Lam et al.,
+1998, 2003; Bartram and Marean, 1999; Pickering et al., 2003;
+Cleghorn et al., 2004; Thompson and Lee-Gorishti, 2007).
+The density-mediated destruction documented at Blombos
+shows some suggestive patterns that should be explored in more
+detail. In particular, the small ungulates at Blombos appear to have
+undergone less density-mediated attrition than have large ungulates e although they are nearly equal in the M1 phase. This is
+important because it could indicate differences in the accumulator
+or the proportion of contribution from different accumulators.
+Raptors, large carnivores, small carnivores, carnivores with
+different bone-crunching apparatus (e.g., canids versus felids), and
+humans will destroy less dense portions of bone to varying degrees.
+This is also the case for humans using grease extraction methods
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+757
+
+Figure 5. Long bone portion representation at Blombos (y-axis) versus bone density (x-axis) as measured by CT scans (Lam et al., 1998). Open squares ¼ proximal end, open
+circles ¼ distal end, grey squares ¼ proximal shaft, grey circles ¼ distal shaft, black diamonds ¼ midshaft. Figure includes only results with a p-value where a  0.05 for Spearman’s
+Rho: overall Blombos (a), small and large ungulates from M1 (b, c), large ungulates from upper M2 and lower M2 (d,e), and small and large ungulates from M3 (f, g).
+
+758
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+Table 6
+Fracture angle and outline data for long bones 2 cm in maximum dimension in each analytical unit.
+Size 1
+
+Size 2
+
+Fracture Angles
+
+Oblique
+
+Oblique/Right
+
+Right
+
+Oblique
+
+Oblique/Right
+
+Right
+
+BBC M1
+BBC M2 Upper
+BBC M2 Lower
+BBC M3
+Total
+
+849
+725
+135
+415
+2124
+
+30
+28
+3
+4
+65
+
+356
+439
+40
+91
+926
+
+541
+166
+28
+139
+874
+
+27
+7
+0
+7
+41
+
+231
+98
+7
+36
+372
+
+Curved/V-Shaped
+
+Intermediate
+
+Transverse
+
+Transverse/Curved
+
+Curved/V-Shaped
+
+Intermediate
+
+Transverse
+
+Transverse/
+Curved
+
+906
+821
+135
+416
+2278
+
+9
+3
+1
+1
+14
+
+287
+336
+38
+83
+744
+
+33
+32
+4
+10
+79
+
+585
+199
+29
+147
+960
+
+8
+1
+0
+2
+11
+
+173
+69
+6
+29
+277
+
+33
+2
+0
+4
+39
+
+Fracture Outlines
+BBC M1
+BBC M2 Upper
+BBC M2 Lower
+BBC M3
+Total
+
+versus humans who do not comminute bone to extract bone grease
+(Church and Lyman, 2003). These results reinforce the importance
+of a thorough taphonomic analysis aimed at untangling the agent
+(s) of accumulation. They also show that only the densest archaeological fragments e long bone midshafts e should be used to
+explore this through analyses of bone surface modiﬁcation
+(Blumenschine, 1986, 1988, 1995; Capaldo and Blumenschine, 1994;
+Selvaggio, 1994; Blumenschine et al., 1996; Dominguez-Rodrigo,
+1997, 2003a, 2008; Capaldo, 1998a; Selvaggio and Wilder, 2001;
+Marean et al., 2004; Pickering et al., 2004; Dominguez-Rodrigo
+et al., 2007a; Dominguez-Rodrigo and Yravedra, 2009).
+Preservation and post-depositional fragmentation
+Because proportions of surface modiﬁcation on archaeological
+bones will be lowered by a high degree of weathering, surface
+destruction, or post-depositional fragmentation (i.e., when the bone
+was in a non-nutritive state), the second stage of analysis must
+assess and correct for these factors (Abe et al., 2002; Thompson,
+2005). One way to assess the relative degrees of post-depositional
+fragmentation between analytical units is by analysis of the
+completeness of compact bones (Marean, 1991). These are rarely
+fragmented by humans or carnivores while the bone is in a nutritive
+state, and if so they commonly bear a percussion mark, tooth mark,
+or gastric etching as evidence. Compact bones bearing such modiﬁcations can then be excluded from analysis, ensuring that fragmentation can be most reliably attributed to post-depositional
+processes such as sediment compaction or leaching (Marean, 1991).
+The calcaneum was also excluded because its small marrow
+cavity invites differential fragmentation relative to the other bones
+of the wrist and ankle. Sesamoids and the patella were not used in
+order to create a dataset that is comparable with that presented for
+other MSA sites and published sites in east Africa on which the
+method was developed (Marean, 1991; Thompson, 2010a). At
+Blombos, the sample of unmodiﬁed ungulate compact bones that ﬁt
+these criteria was relatively small, but sufﬁcient to be used as one
+line of evidence (n ¼ 80 in total, including the very small sample of
+seven from lower M2). By following the procedures outlined by
+Marean (1991), completeness indices were derived for unmodiﬁed
+carpals and tarsals from different analytical subsets. Overall, at
+Blombos compact bones from small (size 1 and 2) ungulates had
+a higher average completeness index (92%) than did compact bones
+from large (size 3, 4, and 5) ungulates (68%).
+Post-depositional fragmentation seems to have been more
+severe in more recent deposits, as shown by increasing completeness from top to bottom of the stratigraphy (M1 ¼ 78%, upper
+M2 ¼ 81%, and M3 ¼ 97%). This pattern may be exaggerated by the
+
+relatively higher numbers of large ungulates in M1 relative to M3,
+but sample sizes were too small for the effects of body size to be
+further examined for M1, upper M2, and M3 separately (n ¼ 28, 30,
+and 15, respectively). However, if differential post-depositional
+fragmentation of large ungulate compact bones was driving the
+pattern, the completeness indices from upper M2 and M3 should be
+more similar to one another, rather than upper M2 being more
+similar to M1. This provides an initial indication that post-depositional fragmentation cannot be explained by a simple model of
+sediment compaction acting over long periods of time.
+Another measure of post-depositional fragmentation is long
+bone fracture patterns; shafts that were broken while fresh tend to
+retain oblique fracture angles and curved or V-shaped fracture
+outlines, while shafts broken while in a ‘dry’ state tend to have right
+fracture angles and transverse fracture outlines (Villa and Mahieu,
+1991). The Blombos sample had 5082 long bone fragments (of
+which 3577 could only be identiﬁed as generic long bone fragments
+or long bone ﬂakes), resulting in a potential 10 164 long bone
+fractures that could be used for analysis. Of these, only 5856
+remained after elimination of unbroken ends, indeterminate ends,
+ends from fragments that could not be assigned to a body size, or
+fractures that suffered excavation damage and thus are uninformative about ancient breakage patterns. Most archaeological and
+experimental datasets report fragmentation data only for specimens at least 2 cm in maximum dimension. When only specimens
+of 2 cm or greater in maximum dimension are considered, this
+number is further reduced to 2969 (Table 6). Larger mammal
+specimens smaller than this can still often be assigned to body size
+class where the size difference is great (e.g., between size 1 and 3
+specimens), but adjacent body size classes (such as 1 and 2 or 2 and
+3) may not be as reliably discerned from one another. Also, fracture
+angles can be difﬁcult to describe because fracture planes can
+merge together on smaller fragments as the shape of fragments
+becomes less markedly elongate and cease to have two clear ‘ends’
+(Pickering et al., 2005). This shape change with increased fragmentation is documented at Blombos, where length:breadth ratios
+for the 5082 long bone fragments increase positively and signiﬁcantly as maximum fragment sizes increase (Spearman’s
+Rs ¼ 0.4617, p < 0.001). Therefore, the more conservative approach
+of only considering fragments of 2 cm or greater in maximum
+dimension for the analysis of fracture angles and outlines (Villa and
+Mahieu, 1991) is preferred here.
+At Blombos, there is no directional trend in the proportions of
+‘green’ and ‘dry’ breaks by body size and only small samples of size
+5 animals are available for some analytical units (Table 6). The angle
+and outline data also track one another closely within all data
+subsets. These factors justify dividing the fragmentation data into
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+Size 3
+Oblique
+438
+194
+16
+162
+810
+Curved/
+V-Shaped
+449
+202
+20
+158
+829
+
+759
+
+Size 4
+
+Oblique/
+Right
+
+Right
+
+28
+16
+0
+3
+47
+
+132
+56
+12
+25
+225
+
+Intermediate
+
+Transverse
+
+9
+1
+0
+0
+10
+
+118
+54
+7
+26
+205
+
+Oblique
+
+Size 5
+
+Oblique/
+Right
+
+Right
+
+154
+33
+9
+37
+233
+
+19
+3
+0
+2
+24
+
+54
+17
+2
+9
+82
+
+Transverse/
+Curved
+
+Curved/
+V-Shaped
+
+Intermediate
+
+Transverse
+
+22
+9
+1
+6
+38
+
+162
+36
+8
+35
+241
+
+1
+1
+0
+1
+3
+
+54
+13
+3
+10
+80
+
+groupings of size 1/2 and size 3/4 for analytical purposes, and using
+proportions of right-angled breaks as an overall proxy for the
+degree of post-depositional long bone fragmentation (Fig. 6). With
+the exception of the very small sample from lower M2, large (size 3/
+4) ungulates consistently have lower proportions of right-angled
+breaks than do small (size 1/2) ungulates from the same analytical
+unit. Although the 95% conﬁdence intervals all overlap, this
+consistency in the data may suggest that larger ungulates underwent slightly less post-depositional breakage than did smaller
+ungulates. This is not a consistent pattern across all sites of similar
+age. Layer 11 at DK1 shows the opposite pattern (Fig. 6), and
+Yeshurun et al. (2007) found that at Levantine Palaeolithic sites,
+larger ungulates seem to have been subjected to a greater degree of
+abiotic post-depositional fragmentation.
+Furthermore, the compact bone and long bone data do not show
+the same pattern for large versus small ungulates. This suggests
+that these two element types are differentially susceptible to postdepositional fragmentation at least partially in accordance with
+body size. However, at Blombos all fragmentation data clearly
+demonstrate that the oldest deposits (M3) were subjected to the
+least amount of post-depositional fragmentation. Because simple
+sediment compaction over time cannot be invoked to explain this
+phenomenon, it suggests that cave roof-fall, increased trampling, or
+some other agent had a greater impact in more recent deposits. One
+of these processes could be increased sub-aerial weathering and/or
+burning, which can weaken the bone and lead to greater susceptibility to breakage by other means (Marean et al., 2000).
+At Blombos, only one fragment was weathered beyond
+Behrensmeyer’s (1978) stage 1, and thus weathering cannot account
+for differences in post-depositional fragmentation. However, 27.4% of
+the assemblage shows some evidence of colouration changes owing
+to having been burned. The lowest proportion of burned fragments
+occurs in M3 at the base of the sequence (15.2%). This increases in
+lower M2 (22.4%), the highest proportion occurs in upper M2 (35.9%),
+and there is an intermediate proportion at the top in M1 (27.4%).
+Eliminating burned long bone fragments results in a decrease in the
+relative proportions of ‘dry’ breaks and a corresponding increase in
+the proportions of ‘green’ breaks for all phases (Fig. 6). However,
+when only unburned fragments are considered, the M3 fragments
+still appear to have been subjected to less post-depositional fragmentation and the upper end of the M3 conﬁdence intervals still only
+barely overlap with the lower ends of the M1 and M2 conﬁdence
+intervals. This suggests that increased burning in M1 and upper M2 is
+not the primary cause of additional post-depositional breakage in
+younger sediments at Blombos. Other potential causes may be
+increased intensity of occupation and/or trampling and surface
+activity per unit of time.
+
+Oblique
+
+Oblique/
+Right
+
+Right
+
+13
+1
+1
+5
+20
+
+2
+0
+0
+0
+2
+
+9
+0
+0
+2
+11
+
+Transverse/
+Curved
+
+Curved/
+V-Shaped
+
+Intermediate
+
+Transverse
+
+Transverse/
+Curved
+
+10
+3
+0
+2
+15
+
+14
+1
+1
+7
+23
+
+1
+0
+0
+0
+1
+
+8
+0
+0
+0
+8
+
+1
+0
+0
+0
+1
+
+Importantly, all archaeological data exhibit a degree of postdepositional fragmentation that exceeds the 95% conﬁdence limits
+reported for three modern known-agent experimental assemblages (Marean et al., 2000). This indicates that the proportions of
+surface modiﬁcation, such as cut, percussion, and tooth marks
+have been depressed from their original values at the time of
+discard. Fragments exhibiting evidence of post-depositional
+breakage should therefore be eliminated from long bone surface
+modiﬁcation analyses (Abe et al., 2002). This is the most conservative approach, and it will make the Blombos data comparable
+with those reported from other MSA sites in the Western Cape,
+such as PP13B (Thompson, 2010b) and DK1 (Marean et al., 2000).
+It is also necessary to eliminate fragments with poorlypreserved surfaces. Overall, less than 1% of the assemblage
+shows extensive dendritic etching, pocking, sheen, or smoothing
+(Thompson, 2005). These types of post-depositional surface
+modiﬁcation were spread evenly throughout the three major
+phases, suggesting that the factors that created these modiﬁcations
+were basically the same over time. In the case of dendritic etching,
+root activity was almost certainly the culprit, as evidenced by the
+preservation of small clusters of tubular plant cells that occasionally still follow these etchings. These clusters may represent
+modern rootlet invasion or they may be the calcined ash remnant of
+a plant that etched the surface of the bone long ago and was
+subsequently burned (Karkanas et al., 2007).
+Exfoliation at Blombos was by far the most common form of
+bone surface destruction, and occurred on 14.7% of specimens
+(Thompson, 2005). Fragments with severely exfoliated surfaces or
+with more than 70% of their surface covered in matrix are therefore
+not included in the surface modiﬁcation analysis. Unlike the other
+types of surface destruction, exfoliation was not evenly distributed
+throughout the phases, but instead is highest at the top in M1
+(31.2% of bones affected to some degree), similar in upper M2 and
+M3 (both 11.5%), and intermediate in lower M2 (16.2%). The agent
+behind such exfoliation is unknown, but it appears to proceed via
+the crystallization of minerals in miniscule ﬁssures in the bone
+surfaces such that layers of bone peel away. Ironically, fossils from
+the oldest sediments (M3) are the best-preserved in all senses of
+the word. In contrast, the fauna from M1 has suffered the most
+density-mediated destruction, one of the highest degrees of postdepositional fragmentation, and the most destruction of bone
+surfaces through exfoliation.
+Surface modiﬁcation
+Gastric etching and rodent gnawing are rare at Blombos at 4.0%
+and <0.6% for all phases and body sizes, respectively. The
+
+760
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+proportions of gastric etching differ among phases: 2.3% in M1, 3.8%
+in upper M2, 9.8% in lower M2, and 7.4% in M3. Furthermore, they
+differ a great deal among body sizes, with the highest proportions
+always occurring on size 1 specimens where body size could be
+determined and sample sizes were greater than N ¼ 4 (Table 7).
+Overall proportions of gastric etching among body sizes 2, 3, and 4,
+are not signiﬁcantly different below even the a ¼ 0.10 level using
+Fisher’s Exact Test. However, proportions of gastrically-etched size
+1 fragments are signiﬁcantly higher than all other body sizes
+(p < 0.0001 for all tests). This indicates that size 1 ungulates at
+Blombos were accumulated more commonly by a different agent
+than ungulates of other body size classes. Because both mammalian
+and avian predators can leave gastric etching (Andrews, 1990),
+several additional lines of evidence should be examined to determine what this agent was.
+Raptor involvement in the accumulation of small mammals,
+including small bovids, has been documented at other coastal MSA
+sites in the Western Cape. At DK1, the distribution of gastricallyetched fragments under solution cavities showed that size 1
+ungulates were collected in part by roosting raptorial birds (Marean
+et al., 2000). In contrast, at Blombos the gastrically-etched fragments are distributed evenly throughout the cave and well inside
+the dripline beyond appropriate roosting areas for raptors (Fig. 7).
+
+The distribution of this etching across the skeletal elements of size
+1 ungulates is in general agreement with this. Raptors typically are
+not able to digest elements much larger than the small bones of the
+distal limbs such as carpals, tarsals, and phalanges (Andrews, 1990),
+yet at Blombos between 46 and 61% of all gastrically-etched
+elements are on axial elements or long bones. Experimental studies
+and examination of ingested small mammal remains from
+archaeological contexts suggest that human digestive processes
+result in bone fragments with etching similar to other mammalian
+carnivores (Crandall and Stahl, 1995; Dewar and Jerardino, 2007).
+Such a study has not been conducted for the digestion of larger
+mammals by humans, but chimpanzee scats show that size 1
+animals can be gastrically-etched by hominoids (Tappen and
+Wrangham, 2000). However, this study also found that the mean
+fragment size was 11.8 mm for chimpanzees (s.d. 6.9) while the
+mean gastrically-etched fragment size at Blombos was larger (15.2
+in M1, s.d. 7.9; 13.2 in upper M2, s.d. 6.1; 16.3 in lower M2, s.d. 8.9;
+13.9 in M3, s.d. 7.3).
+Mammalian carnivores (especially canids and hyenids) swallow
+larger pieces of bone to extract any remaining grease in the gut
+(Estes, 1991; Marean et al., 1992; Skinner and Chimimba, 2005). The
+extent of etching on the bones, the distribution of etched fragments, and the size of etched fragments indicate that such carnivores are the most likely agents responsible for this type of
+modiﬁcation at Blombos. Because the proportion of etched bones is
+signiﬁcantly higher for size 1 ungulates, this in turn indicates that
+the abundance of size 1 ungulates at Blombos cannot be attributed
+solely to human prey choices. Importantly, the distribution of this
+etching differs between major phases, with particularly high
+proportions of gastrically-etched size 1 and size 2 fauna in lower
+M2 and M3 (Table 7). The taxonomic data did not indicate that
+carnivores were using the site for extended periods of denning, but
+other indicators of anthropogenic activity suggest that the lower
+phases were less intensively occupied than more recent phases.
+Therefore, the gastrically-etched bone was likely introduced from
+excreted or regurgitated carnivore food remains, consumed away
+from Blombos and brought to the site when humans were not
+present. In order to ascertain the accumulator of the bones brought
+to Blombos for consumption on site by either humans or carnivores,
+surface modiﬁcation inﬂicted on the bone when it was in a fresh
+state must be examined in detail.
+A series of actualistic studies has shown that long bone midshafts survive better than other elements or element portions
+through hominin processing and carnivore ravaging, and that they
+preserve evidence of the sequence of these activities on their
+Table 7
+Numbers and proportions of gastrically-etched specimens in the entire Blombos
+sample presented here.
+Gastric etching
+
+Figure 6. Proportions of long bone breaks that exhibit a right fracture angle and their
+95% conﬁdence intervals for individual analytical units at Blombos. Right-angled
+breaks are a proxy for post-depositional destruction, illustrated by comparison with
+a freshly-broken experimental assemblage and the PP13B and DK1 assemblages (data
+from Thompson [2010a] and Marean et al. [2000:209], respectively). Small
+squares ¼ small (size 1/2) mammals; large squares ¼ large (size 3/4) mammals; black
+squares include burned fragments and open squares include only unburned fragments.
+
+M3
+
+Total
+
+Size Indet.
+
+N
+%
+
+M1
+12
+1.6
+
+Upper M2
+11
+3.0
+
+Lower M2
+7
+6.9
+
+15
+4.8
+
+45
+2.9
+
+Size 1
+
+N
+%
+
+60
+5.1
+
+59
+5.4
+
+29
+12.6
+
+69
+12.6
+
+217
+7.1
+
+Size 2
+
+N
+%
+
+7
+0.8
+
+1
+0.4
+
+5
+11.9
+
+6
+3.5
+
+19
+1.4
+
+Size 3
+
+N
+%
+
+6
+0.8
+
+5
+2.0
+
+0
+0.0
+
+2
+1.3
+
+13
+1.1
+
+Size 4
+
+N
+%
+
+3
+1.1
+
+1
+1.7
+
+0
+0.0
+
+1
+1.9
+
+5
+1.3
+
+Size 5
+
+N
+%
+
+2
+3.5
+
+1
+25.0
+
+0
+0.0
+
+0
+0.0
+
+3
+3.8
+
+Total
+
+N
+%
+
+90
+2.3
+
+78
+3.8
+
+41
+9.8
+
+93
+7.4
+
+302
+4.0
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+761
+
+proportions of cut-marked bone to directly address the accumulator of an assemblage. This is because the frequencies with which
+cut marks are produced can vary dramatically depending on factors
+such as butcher skill, amount of ﬂesh remaining on the bone,
+butchering strategy, taxon, body size, and the material that
+comprises the cutting tool (Dominguez-Rodrigo, 1997, 2003b,
+2008; Nilssen, 2000; O’Connell et al., 2003; O’Connell and Lupo,
+2003; Dominguez-Rodrigo and Yravedra, 2009).
+Tooth marks can also be problematic because they are less
+activity-speciﬁc and can be left during both within-bone and
+outside-bone nutrient extractions. Based on morphology alone,
+a single mark cannot be diagnosed as being left by a felid, canid,
+hyenid, or other carnivore (Dominguez-Rodrigo and Piqueras,
+2003), although modiﬁcation by multiple carnivore taxa can be
+inferred from the shapes and sizes of the marks (Selvaggio and
+Wilder, 2001). Even suids, humans, and crocodiles leave tooth
+marks that cannot always be differentiated from other bone
+modiﬁers (Njau and Blumenschine, 2006; Landt, 2007;
+Domínguez-Solera and Domínguez-Rodrigo, 2008). This is important because proportions of tooth-marked midshafts can deviate
+from experimental models of carcass access if the numbers and
+species of carnivores accessing a carcass vary. For example, felids
+leave substantially fewer tooth marks when they have primary
+access and some carnivores leave extensive tooth-marking even
+when scavenging the remains of human kills (Dominguez-Rodrigo
+et al., 2007a,b). Given these variables, the relative proportions of
+tooth-marked and percussion-marked midshafts in an assemblage
+have been shown to be more informative than the absolute
+proportion regarding the sequence of carcass access for carnivores
+and humans (Blumenschine and Marean, 1993; Capaldo,
+1995,1998a; Blumenschine, 1988; Marean and Kim, 1998;
+Selvaggio, 1998a). Cut-marked midshafts can then also provide an
+additional line of evidence.
+There were 3419 long bone midshaft fragments from the
+Blombos sample, but only 1255 ﬁt the rigorous criteria demanded
+by the results of the preceding taphonomic analysis (no dry breaks,
+recent breaks, poorly-preserved surfaces, or heavily-obscured
+surfaces). Because most actualistic data have been reported only for
+specimens 2 cm or larger in their maximum dimension, this sample
+had to be further reduced to 502 in order to be comparable with
+experimental studies in which the agents of bone modiﬁcation are
+known (Capaldo, 1995; Dominguez-Rodrigo, 1997; Blumenschine,
+1988; Selvaggio, 1998b; Marean et al., 2000). Unfortunately, this
+reduced sample hinders statistically robust comparisons between
+each body size in each analytical unit at Blombos, particularly for
+the small sample from the lower M2 phase (Table 8). Because the
+gastric etching data indicated an increased carnivore input for size
+1 ungulates, and because this body size comprises a relatively large
+proportion of the sample, mammals of this size range are examined
+
+Figure 7. Map of the site showing the incidence of gastric etching in the sampled
+squares with progressive grey shading with higher proportions. Numbers on top are
+proportions and N for each proportion is given in brackets. Data for square H4 are
+25.0% and N ¼ 1.
+
+surfaces in the form of percussion, cut, and tooth marks
+(Blumenschine, 1988; Blumenschine and Selvaggio, 1988; Marean
+et al., 1992; Selvaggio, 1994; Blumenschine et al., 1996;
+Dominguez-Rodrigo, 1997; Capaldo, 1998b; Domínguez-Rodrigo
+et al., 2007a). Models of carnivore and hominin interaction with
+an assemblage have been developed from these data and used to
+infer past carcass access scenarios at archaeological sites based on
+the frequencies of marked midshaft fragments (Blumenschine,
+1995; Capaldo, 1995, 1998a; Dominguez-Rodrigo, 1997; Marean
+and Kim, 1998; Selvaggio, 1998a,b; Marean et al., 2000; Selvaggio
+and Wilder, 2001; Pickering, 2002; Dominguez-Rodrigo and
+Barba, 2006). Examples of these marks from Blombos are given in
+Supplementary Online Materials (SOM) Fig. 1.
+These experimental studies provide a guide for the interpretation of the frequencies of marked shafts in an assemblage, but there
+is a wide array of variables that can inﬂuence how many marks are
+inﬂicted and on how many fragments. For example, percussion
+marks provide an excellent indication of a speciﬁc activity performed by tool-using hominins (marrow and/or grease extraction),
+but their numbers vary according to the shapes and types of stone
+used to break the bones, and by the body size of the animal from
+which the bone is derived (Pickering and Egeland, 2006; Galán
+et al., 2009). Cut marks are also clear indicators of human
+activity, but there has been much debate over the utility of using
+
+Table 8
+Numbers of percussion-marked, tooth-marked, and cut-marked midshaft fragments and proportions of these in each analytical unit. Fragments have no post-depositional
+breaks, well-preserved and visible surfaces, and are 2 cm in maximum length.
+Size Indet.
+PM
+
+TM
+
+N marked shafts in sample
+M1
+7
+2
+M2 Upper
+2
+1
+M2 Lower
+0
+0
+M3
+5
+0
+Proportion of marked shafts
+M1
+0.44
+0.13
+M2 Upper
+0.40
+0.20
+M2 Lower
+0.00
+0.00
+M3
+0.56
+0.00
+
+Size 1
+
+Size 2
+
+Size 3
+
+Size 4
+
+Size 5
+
+CM
+
+PM
+
+TM
+
+CM
+
+PM
+
+TM
+
+CM
+
+PM
+
+TM
+
+CM
+
+PM
+
+TM
+
+CM
+
+PM
+
+TM
+
+CM
+
+4
+0
+0
+1
+
+33
+35
+9
+20
+
+16
+15
+6
+6
+
+20
+25
+6
+9
+
+25
+8
+0
+11
+
+6
+4
+2
+6
+
+17
+4
+1
+4
+
+35
+24
+2
+21
+
+9
+12
+0
+3
+
+20
+11
+1
+9
+
+29
+4
+3
+9
+
+9
+0
+0
+5
+
+15
+2
+2
+3
+
+0
+0
+0
+2
+
+1
+0
+0
+0
+
+0
+0
+0
+2
+
+0.00
+0.00
+0.00
+1.00
+
+0.33
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+1.00
+
+in each sample
+0.25
+0.53
+0.00
+0.51
+0.00
+0.56
+0.11
+0.56
+
+0.26
+0.22
+0.38
+0.17
+
+0.32
+0.37
+0.38
+0.25
+
+0.56
+0.40
+0.00
+0.79
+
+0.13
+0.20
+0.67
+0.43
+
+0.38
+0.20
+0.33
+0.29
+
+0.58
+0.53
+0.67
+0.64
+
+0.15
+0.27
+0.00
+0.09
+
+0.33
+0.24
+0.33
+0.27
+
+0.73
+0.80
+1.00
+0.75
+
+0.23
+0.00
+0.00
+0.42
+
+0.38
+0.40
+0.67
+0.25
+
+762
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+Figure 8. Proportions of midshafts bearing a percussion mark (black circles), tooth mark (open triangles), or cut mark (x’s) and their 95% conﬁdence intervals for chronological
+aggregates at Blombos, compared with actualistic data from known-agent carcass access scenarios (Blumenschine, 1988; Dominguez-Rodrigo, 1997; Capaldo, 1998b; Selvaggio,
+1998b; Marean et al., 2000), and compared with DK1 (Marean et al., 2000:215). Comparable data from PP13B and DK1 are also provided (data from Thompson [2010a] and
+Marean et al. [2000:215], respectively).
+
+relative to larger body sizes (size 2e4). Small mammals (size 1 and
+2) are then also aggregated and examined relative to larger (size 3
+and 4) mammals and in comparison with analogous datasets from
+the nearby coastal MSA sites of PP13B (Thompson, 2010a) and DK1
+(Marean et al., 2000).
+If one looks only at the proportions of hominin-modiﬁed midshafts, the taphonomic signature at Blombos is overwhelmingly
+one of a ‘hominin ﬁrst’ scenario for all datasets (Fig. 8). The cut
+mark and percussion mark data fall well outside the 95% conﬁdence
+intervals in ‘three-stage’ experiments where carnivores had ﬁrst
+access, followed by hominin scavenging (or a very small degree of
+hominin input), and then subsequent further scavenging by carnivores. Both classes of hominin modiﬁcation are also outside or at
+the upper limit of Selvaggio’s (1998b) experiments for a carnivore
+ﬁrst scenario. However, it should be noted that Selvaggio (1998b)
+only reports specimens that have only a cut mark and no other
+type of mark, so her actual proportions of cut-marked midshafts are
+likely to be slightly greater. The Blombos data do not fall outside the
+95% conﬁdence interval for a ‘carnivore to hominin’ scenario
+reported by Dominguez-Rodrigo (1997). This experiment has
+a wide conﬁdence interval because only his sample where marrow
+extraction also took place is illustrated here. The complete sample
+
+includes a ‘carnivore to hominin’ experiment where marrow was
+not removed, and this proportion of cut-marked midshafts does fall
+well below the observed proportions in all datasets at Blombos
+(5.7%, upper C.I. ¼ 11.5%, lower C.I. ¼ 2.6%).
+These methodological and sample size issues make interpretation of the Blombos cut mark data somewhat ambiguous, although
+a ‘three-stage’ model has been shown to be highly unlikely. The
+percussion mark data are clearer, and they speak to a strong
+component of human modiﬁcation in that they fall within or above
+the 95% conﬁdence intervals for both ‘hominin only’ and ‘hominin
+ﬁrst’ scenarios and completely above the ranges for all ‘carnivore
+ﬁrst’ scenarios. The percussion data are critical to understanding the
+role of human subsistence behaviour in site formation at Blombos
+because long bone shafts from which marrow has been removed are
+not commonly transported by scavenging carnivores or human
+hunters (Marean and Spencer, 1991; Marean and Bertino, 1994).
+There is some variability between body size classes in the Blombos
+datasets, with large mammals almost always having higher
+proportions of marked midshafts. This initially supports the inference from the gastric etching data that smaller ungulates were more
+often modiﬁed and/or accumulated by carnivores, but it has also
+been shown experimentally that bones from smaller ungulates tend
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+Table 9
+Numbers of percussion-marked (a) and tooth-marked (b) long bone ﬂakes and their
+proportions within each analytical unit.
+M1
+Percussion-marked ﬂakes
+Size 1
+N
+23
+%
+36.5
+Size 2
+N
+16
+%
+47.1
+Size 3
+N
+14
+%
+53.8
+Size 4
+N
+5
+%
+100.0
+Size Indet.
+N
+19
+%
+51.4
+Total
+N
+77
+%
+46.7
+Tooth-marked ﬂakes
+Size 1
+N
+4
+%
+6.3
+Size 2
+N
+1
+%
+2.9
+Size 3
+N
+1
+%
+3.8
+Size 4
+N
+0
+%
+N/A
+Size Indet.
+N
+5
+%
+13.5
+Total
+N
+11
+%
+6.7
+
+M2 upper
+
+M2 lower
+
+M3
+
+Total
+
+19
+36.5
+3
+25.0
+7
+63.6
+0
+0.0
+10
+22.2
+39
+35.1
+
+4
+50.0
+1
+100.0
+0
+N/A
+0
+N/A
+8
+62.5
+13
+50.0
+
+14
+27.5
+10
+47.6
+11
+57.9
+1
+100.0
+24
+31.2
+60
+35.5
+
+60
+34.5
+30
+44.1
+32
+56.1
+6
+100.0
+61
+36.7
+189
+40.1
+
+4
+7.7
+3
+25.0
+1
+9.1
+0
+
+1
+12.5
+0
+N/A
+0
+N/A
+0
+
+3
+5.9
+3
+14.3
+1
+5.3
+0
+
+12
+6.9
+7
+10.3
+3
+5.3
+0
+
+7
+19.4
+15
+13.5
+
+1
+6.3
+2
+7.7
+
+6
+7.8
+13
+7.7
+
+19
+11.4
+41
+8.7
+
+to exhibit fewer marked midshafts than do bones from larger
+ungulates (Galán et al., 2009). This, along with documented variability in the production of percussion marks based on the hammerstone type that is used (Pickering and Egeland, 2006; Galán et al.,
+2009), likely also explains why there is no statistical overlap
+between ‘hominin only’ percussion mark datasets from
+Blumenschine (1988) and Marean et al. (2000).
+Fig. 8 also does not show one important aspect of the percussion
+data that is particularly relevant to understanding the accumulation and modiﬁcation of the faunal assemblage at the site. Small
+long bone ﬂakes bearing a percussion mark often detach and
+remain near the original locus of hammerstone percussion (Marean
+and Bertino, 1994), but many of these ﬂakes are below the 2 cm cut
+off point and are not included in Fig. 8. In all phases combined at
+Blombos, there are 471 long bone ﬂakes, 40.1% of which bear
+a percussion mark while only 8.7% bear a tooth mark to indicate
+that the marrow was accessed by a carnivore (Table 9). This strongly
+supports the inference from the proportion of marked shafts that
+the primary bone accumulator at Blombos was MSA people.
+Table 10
+Numbers and proportions of long bone midshaft fragments with well-preserved,
+visible surfaces and no fresh breaks that bear both a percussion mark and a tooth
+mark.
+Midshafts
+with both PM
+and TM
+
+M1
+
+M2 upper
+
+M2 lower
+
+M3
+
+Total
+
+Size 1
+
+N
+%
+
+7
+11.3
+
+5
+7.4
+
+3
+18.8
+
+2
+5.6
+
+17
+9.3
+
+Size 2
+
+N
+%
+
+2
+4.4
+
+0
+0.0
+
+0
+0.0
+
+4
+28.6
+
+6
+7.3
+
+Size 3
+
+N
+%
+
+3
+5.0
+
+4
+8.9
+
+0
+0.0
+
+1
+3.0
+
+8
+5.7
+
+Size 4
+
+N
+%
+
+4
+10.0
+
+0
+0.0
+
+0
+0.0
+
+3
+25.0
+
+7
+11.7
+
+Total
+
+N
+%
+
+16
+7.7
+
+9
+6.5
+
+3
+12.0
+
+10
+10.5
+
+38
+8.2
+
+763
+
+However, it is also clear that carnivores were involved in the
+modiﬁcation of bones at Blombos. Proportions of tooth-marked
+midshafts lie at the upper end or just above the 95% conﬁdence
+intervals for two of the three experimental scenarios where hominins had primary access to carcasses. The only exception is lower
+M2, which shows a very high proportion of tooth-marked size 1/2
+mammals and no tooth-marked size 3/4 mammal specimens. The
+percussion data are also anomalous for this phase, and show the
+opposite pattern. Although the sample size is small, this phase
+again stands out as having a relatively high input of small ungulates
+from carnivores and an occasional human contribution in the form
+of large hunted ungulate remains. For the other phases, the
+extensive degree of percussion-marking on midshafts combined
+with the consistent presence of cut mark proportions just below
+the ‘hominin only’ scenarios point to a predominately ‘hominin
+ﬁrst’ situation at Blombos. This is moderated by the tooth mark
+data, which agree with the slightly low proportions of cut-marked
+midshafts in suggesting that there was a degree of independent
+carnivore input and/or a small amount of scavenging by MSA
+people from carnivore kills along with substantial carnivore scavenging of human food debris.
+The question of independent carnivore input can be addressed
+by examining well-preserved midshaft fragments that bear both
+a percussion mark and a tooth mark. Experimental studies that
+replicate a ‘hominin ﬁrst’ scenario have been shown to result in
+a proportion of midshafts with both a percussion and tooth mark
+on the same fragment that is close to 5% (Capaldo, 1997, 1998a;
+Marean et al., 2000; Egeland et al., 2004). The corrected dataset
+(e.g., those fragments 2 cm or larger with well-preserved, unobscured surfaces and no dry breaks) from Blombos for which both
+marks occur on the same fragment is small (n ¼ 38) but the
+proportion is relatively high at 8.2%. This indicates that many of the
+tooth marks on midshafts at Blombos can be attributed to scavenging carnivores (and/or scavenging from carnivores) rather than
+an independent carnivore accumulation. This is true for all body
+sizes (size 1, 2, 3, and 4 mammals have proportions of 9.3%, 7.3%,
+5.7%, and 11.7%, respectively).
+Sample sizes are extremely small when the data are divided by
+both body size and analytical unit, but M3 does consistently seem
+to have a different pattern (Table 10). The proportions of size 1
+midshafts bearing both mark types are smaller in M3 than they are
+in the other two phases, while proportions of size 2 and size 4
+midshafts meeting these criteria are extremely high. This suggests
+again that the small ungulates in the lowermost phases at Blombos
+underwent a subtly different taphonomic pathway than they did in
+more recent phases. This interpretation is in line with chronometric
+and stone tool data from Blombos, which suggest a less intense
+initial human occupation in the lower phases followed by a shift in
+lithic technology after the M3 and lower M2 layers were deposited
+(Jacobs et al., 2006; Villa et al., 2009). Importantly, it also indicates
+that although there are similarly high proportions of size 1 fauna in
+upper M2, lower M2, and M3, these small ungulates were not likely
+accumulated by human hunters to the same degree. This has
+ramiﬁcations for understanding changes in MSA subsistence
+strategies that would not be apparent from body size representation data alone, and may support the inference from Sibudu that
+new methods for exploiting small ungulates were developed
+around the time of the innovation of the Still Bay techno-complex
+in the southern African MSA (Clark and Plug, 2008).
+Conclusion
+The analysis from Blombos shows several distinctive patterns. In
+terms of overall taxonomic representation, the faunal assemblage is
+similar to several other coastal MSA sites in the Western Cape, such
+
+764
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+as DK1 and YS1. The larger mammal assemblage is dominated by
+ungulates (especially bovids). Nearly half of these are size 1 antelope, such as grysbok/steenbok. As is typical at many archaeological
+sites of this age, there has been a substantial degree of densitymediated destruction. This has resulted in a high representation of
+long bone midshafts relative to epiphyseal ends and trabecular
+elements. However, this destruction is variable over time and
+between body size classes. This, combined with a moderate degree
+of post-depositional fragmentation and variable amounts of bone
+surface exfoliation, indicates that behavioural inferences of skeletal
+element transport and butchery strategies that will be presented
+elsewhere cannot reliably proceed without adjustments for
+preserved surface area and bone portion representation.
+The taphonomic pathways of the fauna from the three main
+phases at Blombos were distinctive. When the cave was occupied
+approximately 100 ka, small ungulates mainly in the size class of
+grysbok and steenbok were sporadically brought to the site by
+human hunters and occasionally by small carnivores. These hunters
+used an MSA lithic technology that included small blades. The high
+proportions of small antelope can likely be attributed to their
+relative abundance around the site because of ecological conditions
+favouring these species. Both humans and carnivores used Blombos
+relatively transiently, with the humans leaving behind evidence of
+low-level symbolic behaviour in the form of worked ochre. Carnivores frequently scavenged after human food waste and deposited
+additional small ungulate remains on site in the form of partiallydigested bone. The two major modiﬁers of the fauna at this time
+(humans and carnivores) left the faunal assemblage depleted in less
+dense fragments, such as long bone epiphyseal portions. However,
+because of the brief and likely opportunistic nature of the occupation, they inﬂicted only small amounts of post-depositional
+breakage on bones that were already present at the site in a dry
+state. Between 95 and 85 ka, the human occupation at Blombos was
+even more ephemeral, but they did occasionally transport large
+ungulate remains to the site. These were broken open for marrow
+on site and then scavenged by carnivores. Small ungulates were
+also primarily brought to the site independently by carnivores.
+After 85 ka, human hunters began to occupy Blombos Cave
+either in larger groups or more frequently than they had previously.
+These occupants had Still Bay technology and employed varied
+forms of external symbolic signalling (such as personal ornamentation). Such differences in material culture may have been
+important in mediating larger group sizes. Smaller ungulates were
+exploited more commonly by these hunters, perhaps because of an
+increase in diet breadth facilitated by the innovation of new
+hunting technology. The increased occupation resulted in less
+carnivore scavenging, more burning, and relatively more postdepositional breakage. As the climate began to deteriorate into MIS
+4, small ungulates became less abundant locally and humans began
+to exploit larger ungulates more often. Site use remained at
+approximately the same intensity in terms of faunal exploitation
+from M2 into M1 times when the cave was eventually closed to
+MSA inhabitants.
+The work presented here provides the basis for more detailed
+studies of MSA butchery, transport, and prey acquisition strategies
+at Blombos. These will be dealt with in separate papers, but it is
+clear already that humans engaged in at least the ﬁnal stages of
+marrow extraction on site for all body sizes and throughout the
+MSA occupation of Blombos. As at the nearby sites of DK1 and
+PP13B, it was found that the size 1 fauna had the highest degree of
+contribution and modiﬁcation by non-human agents, and that this
+was variable throughout time (Marean et al., 2000; Thompson,
+2010a). The main difference between these sites and Blombos is
+that at Blombos, most of the carnivore activity is implicated as
+scavenging of human-deposited detritus and the deposition of
+
+partially-digested small ungulate fragments on site, rather than
+independent transport of prey to the cave in a nutritive state. These
+data together demonstrate that variability in the taphonomic
+pathways undertaken by a faunal assemblage can be documented
+both between and within sites. This underscores the importance of
+a well-described taphonomic study prior to interpreting patterning
+in larger mammal fauna at other MSA localities, and indicates that
+much is yet to be learnt about variability in MSA faunal exploitation
+strategies. It also shows how taphonomic analyses link faunal data
+directly into other aspects of human behaviour in a way that goes
+far beyond simple descriptions of subsistence strategies.
+Acknowledgements
+JCT collected the faunal data with the aid of National Science
+Foundation (NSF) Dissertation Improvement Grant number 0620317,
+an NSF Graduate Research Fellowship, a Fulbright Fellowship to
+South Africa, and funding from the School of Human Evolution and
+Social Change at Arizona State University. All work was carried out at
+Iziko: South African Museums of Cape Town. Graham Avery and
+Royden Yates facilitated access to space and comparative osteological
+specimens in the initial stages of research, and Sarah Wurz acted in
+this capacity at the end. Financial support was provided to CSH by
+a European Research Council Advanced Grant, TRACSYMBOLS No.
+249587, awarded under the FP7 programme at the University of
+Bergen, Norway and by a National Research Foundation/Department
+of Science and Technology funded Chair at the University of the
+Witwatersrand, South Africa and by a grant from the Norwegian
+Research Council. The current manuscript beneﬁtted greatly from the
+input of four anonymous reviewers.
+Appendix. Supplementary data
+Supplementary data related to this article can be found online at
+doi:10.1016/j.jhevol.2011.01.013.
+References
+Abe, Y., Marean, C.W., Nilssen, P.J., Stone, E.C., Assefa, Z., 2002. The analysis of
+cutmarks on archaeofauna: a review and critique of quantiﬁcation procedures,
+and a new image-analysis GIS approach. Am. Antiq. 67, 643e663.
+Agresti, A., Coull, B., 1998. Approximate is better than “Exact” for interval estimation
+of binomial proportions. Am. Stat. 52, 119e126.
+van Andel, T.H., 1989. Late Pleistocene sea levels and the human exploitation of the
+shore and shelf of southern South Africa. J. Field Archaeol. 16, 133e154.
+Andrews, P., 1990. Owls, Caves and Fossils: Predation, Preservation and Accumulation of Small Mammal Bones in Caves, with an Analysis of the Pleistocene
+Cave Faunas from Westbury-Sub-Mendip, Somerset, U.K. University of Chicago
+Press, Chicago.
+Backwell, L., d’Errico, F., Wadley, L., 2008. Middle Stone Age bone tools from the
+Howiesons Poort layers, Sibudu Cave, South Africa. J. Archaeol. Sci. 35,
+1566e1580.
+Bar-Oz, G., Dayan, T., Kaufman, D., Weinstein-Evron, M., 2004. The Natuﬁan
+economy at el-Wad Terrace with special reference to gazelle exploitation
+patterns. J. Archaeol. Sci. 31, 217e231.
+Barba, R., Domínguez-Rodrigo, M., 2005. The taphonomic relevance of the analysis
+of bovid long limb bone shaft features and their application to element identiﬁcation: study of bone thickness and morphology of the medullary cavity.
+J. Taphonomy 3, 29e42.
+Barham, L.S., 2002. Systematic pigment use in the Middle Pleistocene of SouthCentral Africa. Curr. Anthropol. 43, 181e190.
+Barrable, A., Meadows, M.E., Hewitson, B.C., 2002. Environmental reconstruction
+and climate modelling of the Late Quaternary in the winter rainfall region of the
+Western Cape, South Africa. S. Afr. J. Sci. 98, 611e616.
+Bartram, L.E., 1993. An ethnoarchaeological analysis of Kua San (Botswana) bone
+food refuse. Ph.D. Dissertation, University of Wisconsin at Madison.
+Bartram Jr., L.E., Marean, C.W., 1999. Explaining the “Klasies Pattern”: Kua ethnoarchaeology, the Die Kelders Middle Stone Age archaeofauna, long bone fragmentation and carnivore ravaging. J. Archaeol. Sci. 26, 9e29.
+Bateman, M.D., Holmes, P.J., Carr, A.S., Horton, B.P., Jaiswal, M.K., 2004. Aeolianite
+and barrier dune construction spanning the last two glacialeinterglacial cycles
+from the Southern Cape coast, South Africa. Quatern. Sci. Rev. 23, 1681e1698.
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+Behrensmeyer, A.K., 1978. Taphonomic and ecologic information from bone
+weathering. Paleobiology 4, 150e162.
+Binford, L.R., 1984. The Faunal Remains from Klasies River Mouth. Academic Press,
+New York.
+Blumenschine, R.J., 1986. Carcass consumption sequences and the archaeological
+distinction of scavenging and hunting. J. Hum. Evol. 15, 639e659.
+Blumenschine, R.J., 1988. An experimental model of the timing of hominid and carnivore inﬂuence on archaeological bone assemblages. J. Archaeol. Sci. 15, 483e502.
+Blumenschine, R.J., 1995. Percussion marks, tooth marks, and experimental determinations of the timing of hominid and carnivore access to long bones at FLK
+Zinjanthropus, Olduvai Gorge, Tanzania. J. Hum. Evol. 29, 21e51.
+Blumenschine, R.J., Marean, C.W., 1993. A carnivore’s view of archaeological bone
+assemblages. In: Hudson, J. (Ed.), From Bones to Behavior. Center for Archaeological Investigations, Carbondale, pp. 273e301.
+Blumenschine, R.J., Selvaggio, M.M., 1988. Percussion marks on bone surfaces as
+a new diagnostic of hominid behavior. Nature 333, 763e765.
+Blumenschine, R.J., Marean, C.W., Capaldo, S.D., 1996. Blind tests on inter-analyst
+correspondence and accuracy in the identiﬁcation of cut marks, percussion
+marks, and carnivore tooth marks on bone surfaces. J. Archaeol. Sci. 23,
+493e507.
+Blumenschine, R.J., Prassack, K.A., Kreger, C.D., Pante, M.C., 2007. Carnivore toothmarks, microbial bioerosion, and the invalidation of Dominguez-Rodrigo and
+Barba’s (2006) test of Oldowan hominin scavenging behavior. J. Hum. Evol. 53,
+420e426.
+Brain, C.K., 1981. The Hunters or the Hunted? An Introduction to African Cave
+Taphonomy. University of Chicago Press, Chicago.
+Butzer, K.W., 2004. Coastal eolian sands, paleosols, and Pleistocene geoarchaeology
+of the Southwestern Cape, South Africa. J. Archaeol. Sci. 31, 1743e1781.
+Cain, C., 2004. Notched, ﬂaked, and ground bone artefacts from Middle Stone
+Age layers of Sibudu Cave, KwaZulu-Natal, South Africa. S. Afr. J. Sci. 100,
+195e197.
+Cain, C., 2006. Human activity suggested by the taphonomy of 60 ka and 50 ka
+faunal remains from Sibudu Cave. South. Afr. Humanities 18, 241e260.
+Capaldo, S.D., 1995. Inferring hominid and carnivore behavior from dual-patterned
+archaeofaunal assemblages. Ph.D. Dissertation, Rutgers University.
+Capaldo, S.D., 1997. Experimental determinations of carcass processing by PlioPleistocene hominids and carnivores at FLK 22 (Zinjanthropus), Olduvai Gorge,
+Tanzania. J. Hum. Evol. 33, 555e597.
+Capaldo, S.D., 1998a. Methods, marks and models for inferring hominid and
+carnivore behavior. J. Hum. Evol. 35, 323e326.
+Capaldo, S.D., 1998b. Simulating the formation of dual-patterned archaeofaunal
+assemblages with experimental control samples. J. Archaeol. Sci. 25, 311e330.
+Capaldo, S.D., Blumenschine, R.J., 1994. A quantitative diagnosis of notches made by
+hammerstone percussion and carnivore gnawing on bovid long bones. Am.
+Antiq 59, 724e748.
+Carlson, K.J., Pickering, T.R., 2004. Shape-adjusted bone mineral density measurements in baboons: other factors explain primate skeletal element representation at Swartkrans. J. Archaeol. Sci. 31, 577e583.
+Carr, A.S., Thomas, D.S.G., Bateman, M.G., 2006. Climatic and sea level controls on
+Late Quaternary aeolian activity on the Agulhas Plain, South Africa. Quatern.
+Res. 65, 252e263.
+Chase, B.M., 2010. South African palaeoenvironments during marine oxygen isotope
+stage 4: a context for the Howiesons Poort and Still Bay industries. J. Archaeol.
+Sci. 37, 1359e1366.
+Chase, B.M., Meadows, M.E., 2007. Late Quaternary dynamics of southern Africa’s
+winter rainfall zone. Earth. Sci. Rev. 84, 103e138.
+Church, R.R., Lyman, R.L., 2003. Small fragments make small differences in efﬁciency when rendering grease from fractured artiodactyl bones by boiling.
+J. Archaeol. Sci. 30, 1077e1084.
+Clark, J.L., 2009. Testing models on the emergence and nature of modern human
+behavior: Middle Stone Age fauna from Sibudu Cave (South Africa). Dissertation, University of Michigan.
+Clark, J.L., Plug, I., 2008. Animal exploitation strategies during the South African
+Middle Stone Age: Howiesons Poort and post-Howiesons Poort fauna from
+Sibudu Cave. J. Hum. Evol. 54, 886e898.
+Cleghorn, N., Marean, C.W., 2004. Distinguishing selective transport and in situ
+attrition: a critical review of analytical approaches. J. Taphonomy 2, 43e67.
+Cleghorn, N., Marean, C.W., Pickering, T.R., 2004. The destruction of skeletal
+elements by carnivores: the growth of a general model for skeletal element
+destruction and survival in zooarchaeological assemblages. In: Toth, N.,
+Schick, K. (Eds.), African Taphonomy: a Tribute to the Career of C.K. “Bob”. Brain
+Stone Age Institute Press, Bloomington.
+Conard, N.J., 2010. Cultural modernity: consensus or conundrum? Proc. Natl. Acad.
+Sci. 107, 7621e7622.
+Crandall, B.D., Stahl, P.W., 1995. Human digestive effects on a micromammalian
+skeleton. J. Archaeol. Sci. 22, 789e797.
+d’Errico, F., Henshilwood, C.S., 2007. Additional evidence for bone technology in the
+southern African Middle Stone Age. J. Hum. Evol. 52, 142e163.
+d’Errico, F., Henshilwood, C.S., Nilssen, P., 2001. An engraved bone fragment from ca.
+70 ka year old Middle Stone Age levels at Blombos Cave, South Africa: implications for the origin of symbolism and language. Antiquity 73, 309e318.
+d’Errico, F., Henshilwood, C.S., Lawson, G., Vanhaeren, M., Tillier, A.M., Soressi, M.,
+Bresson, F., Maureille, B., Nowell, A., Lakarra, J., et al., 2003. Archaeological
+evidence for the emergence of language, symbolism, and music e an alternative
+multidisciplinary perspective. J. World Prehist. 17, 1e70.
+
+765
+
+d’Errico, F., Henshilwood, C., Vanhaeren, M., Van Niekerk, K., 2005. Nassarius
+kraussianus shell beads from Blombos Cave: evidence for symbolic behaviour in
+the Middle Stone Age. J. Hum. Evol. 48, 3e24.
+d’Errico, F., Vanhaeren, M., Wadley, L., 2008. Possible shell beads from the Middle
+Stone Age layers of Sibudu Cave, South Africa. J. Archaeol. Sci. 35, 2675e2685.
+Deacon, H.J., Deacon, J., 1999. Human Beginnings in South Africa: Uncovering the
+Secrets of the Stone Age. David Philip, Cape Town.
+Deacon, J., Lancaster, N., 1988. Late Quaternary Palaeoenvironments of Southern
+Africa. Clarendon Press, Oxford.
+Dewar, G., Jerardino, A., 2007. Micromammals: when humans are the hunters.
+J. Taphonomy 5, 1e14.
+Dietl, H., Kandel, A.W., Conard, N., 2005. Middle Stone Age settlement and land use at the
+open-air sites of Geelbek and Anyskop, South Africa. J. Afr. Archaeol. 3, 233e244.
+Domínguez-Solera, S.D., Domínguez-Rodrigo, M., 2008. A taphonomic study of bone
+modiﬁcation and of tooth-mark patterns on long limb bone portions by suids.
+Int. J. Osteoarchaeol. 19, 345e363.
+Dominguez-Rodrigo, M., 1997. Meat-eating by early hominids at the FLK 22 Zinjanthropus site, Olduvai Gorge (Tanzania): an experimental approach using
+cutmark data. J. Hum. Evol. 33, 669e690.
+Dominguez-Rodrigo, M., 2003a. Bone surface modiﬁcations, power scavenging and the
+“display” model at early archaeological sites: a critical review. J. Hum. Evol. 45,
+411e415.
+Dominguez-Rodrigo, M., 2003b. On cut marks and statistical inferences: methodological comments on Lupo & O’Connell (2002). J. Archaeol. Sci. 30, 381e386.
+Dominguez-Rodrigo, M., 2008. Conceptual premises in experimental design and
+their bearing on the use of analogy: an example from experiments on cut
+marks. World Archaeol. 40, 67e82.
+Dominguez-Rodrigo, M., Barba, R., 2006. New estimates of tooth mark and
+percussion mark frequencies at the FLK Zinj site: the carnivore-hominidcarnivore hypothesis falsiﬁed. J. Hum. Evol. 50, 170e194.
+Dominguez-Rodrigo, M., Barba, R., 2007. Five more arguments to invalidate the
+passive scavenging version of the carnivore-hominid-carnivore model: a reply
+to Blumenschine et al. (2007a). J. Hum. Evol. 53, 427e433.
+Dominguez-Rodrigo, M., Piqueras, A., 2003. The use of tooth pits to identify
+carnivore taxa in tooth-marked archaeofaunas and their relevance to
+reconstruct hominid carcass processing behaviours. J. Archaeol. Sci. 30,
+1385e1391.
+Dominguez-Rodrigo, M., Yravedra, J., 2009. Why are cut mark frequencies in archaeofaunal assemblages so variable? A multivariate analysis. J. Archaeol. Sci. 36,
+884e894.
+Dominguez-Rodrigo, M., Barba, R., Egeland, C.P., 2007a. Deconstructing Olduvai:
+a Taphonomic Study of the Bed I Sites. Springer, Dordrecht, Netherlands.
+Dominguez-Rodrigo, M., Pickering, T.R., Egeland, C.P., 2007b. Models of passive
+scavenging by early hominids: problems arising from equiﬁnality in carnivore
+tooth mark frequencies and the extended concept of archaeological palimpsests. In: Pickering, T.R., Toth, N., Schick, K. (Eds.), African Taphonomy: a Tribute
+to the Career of C.K. Brain CRAFT Press, Bloomington, Indiana.
+Egeland, C.P., Pickering, T.R., Domínguez-Rodrigo, M., Brain, C.K., 2004. Disentangling Early Stone Age palimpsests: determining the functional independence of hominid- and carnivore-derived portions of archaeofaunas. J. Hum.
+Evol. 47, 343e357.
+Estes, R.D., 1991. The Behavior Guide to African Mammals. University of California
+Press, Berkeley.
+Faith, J.T., 2008. Eland, buffalo, and wild pigs: were Middle Stone Age humans
+ineffective hunters? J. Hum. Evol. 55, 24e36.
+Galán, A.B., Rodríguez, M., de Juana, S., Dominguez-Rodrigo, M., 2009. A new experimental study on percussion marks and notches and their bearing on the interpretation of hammerstone-broken faunal assemblages. J. Archaeol. Sci. 36, 776e784.
+Halkett, D., Hart, T., Yates, R., Volman, T.P., Parkington, J., Orton, J., Klein, R.G., CruzUribe, K., Avery, G., 2003. First excavation of intact Middle Stone Age layers at
+Ysterfontein, western Cape Province, South Africa: implications for Middle
+Stone Age ecology. J. Archaeol. Sci. 30, 955e973.
+Henshilwood, C.S., 1995. Holocene archaeology of the coastal Garcia State Forest,
+Southern Cape, South Africa. Ph.D. Dissertation, University of Cambridge.
+Henshilwood, C.S., 2006. Stratigraphic integrity of the Middle Stone Age Levels at
+Blombos Cave. In: d’Errico, F., Backwell, L. (Eds.), From Tools to Symbols: From
+Early Hominids to Modern Humans. Witwatersrand University Press,
+Johannesburg, pp. 441e458.
+Henshilwood, C.S., 2008. Holocene Prehistory of the Southern Cape, South Africa:
+Excavations at Blombos Cave and the Blombosfontein Nature Reserve. In:
+Cambridge Monographs in African Archaeology Cambridge.
+Henshilwood, C.S., 2009. The origins of symbolism, spirituality and shamans:
+exploring Middle Stone Age material culture in South Africa. In: Renfrew, C.,
+Morley, I. (Eds.), Becoming Human: Innovation in Prehistoric Material and
+Spiritual Cultures. Cambridge University Press, Cambridge, pp. 29e49.
+Henshilwood, C.S., Marean, C.W., 2003. The origin of modern human behavior:
+critique of the models and their test implications. Curr. Anthropol. 44, 627e651.
+Henshilwood, C.S., Sealy, J., 1997. Bone artefacts from the Middle Stone Age at
+Blomboos Cave, Southern Cape, South Africa. Curr. Anthropol. 38, 890e895.
+Henshilwood, C.S., d’Errico, F., Marean, C.W., Milo, R.G., Yates, R.J., 2001a. An early
+bone tool industry from the Middle Stone Age, Blombos Cave, South Africa:
+implications for the origins of modern human behaviour, symbolism and
+language. J. Hum. Evol. 41, 631e678.
+Henshilwood, C.S., Sealy, J.C., Yates, R.J., Cruz-Uribe, K., Goldberg, P., Grine, F.E.,
+Klein, R.G., Poggenpoel, C., van Niekerk, K., Watts, I., 2001b. Blombos Cave,
+
+766
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+
+Southern Cape, South Africa: preliminary report on the 1992e1999 excavations
+of the Middle Stone Age levels. J. Archaeol. Sci. 28, 421e448.
+Henshilwood, C.S., d’Errico, F., Yates, R., Jacobs, Z., Tribolo, C., Duller, G.A.T., Mercier, N.,
+Sealy, J.C., Valladas, H., Watts, I., et al., 2002. Emergence of modern human behavior:
+Middle Stone Age engravings from South Africa. Science 295, 1278e1280.
+Henshilwood, C.S., d’Errico, F., Vanhaeren, M., van Niekerk, K., Jacobs, Z., 2004.
+Middle Stone Age shell beads from South Africa. Science 304, 404.
+Henshilwood, C.S., d’Errico, F., Watts, I., 2009. Engraved ochres from the Middle
+Stone Age levels at Blombos Cave, South Africa. J. Hum. Evol. 57, 27e47.
+Hovers, E., Ilani, S., Bar-Yosef, O., Vandermeersch, B., 2003. An early case of color
+symbolism: ochre use by modern humans in Qafzeh Cave. Curr. Anthropol. 44,
+491e522.
+Jacobs, Z., Duller, G.A.T., Wintle, A.G., 2003a. Optical dating of dune sand from
+Blombos Cave, South Africa: IIdsingle grain data. J. Hum. Evol. 44, 613e625.
+Jacobs, Z., Wintle, A.G., Duller, G.A.T., 2003b. Optical dating of dune sand from
+Blombos Cave, South Africa: Iemultiple grain data. J. Hum. Evol. 44, 599e612.
+Jacobs, Z., Duller, G.A.T., Wintle, A.G., Henshilwood, C.S., 2006. Extending the
+chronology of deposits at Blombos Cave, South Africa, back to 140 ka using
+optical dating of single and multiple grains of quartz. J. Hum. Evol. 51, 255e273.
+Jacobs, Z., Roberts, R.G., Galbraith, R.F., Deacon, H.J., Grun, R., Mackay, A., Mitchell, P.,
+Vogelsang, R., Wadley, L., 2008. Ages for the Middle Stone Age of southern
+Africa: implications for human behavior and dispersal. Science 322, 733e735.
+Jones, H.L., 2001. Electron spin resonance dating of tooth enamel at three Palaeolithic sites. Ph.D. Dissertation, McMaster University.
+Karkanas, P., Shahack-Gross, R., Ayalon, A., Bar-Matthews, M., Barkai, R., Frumkin, A.,
+Gopher, A., Stiner, M.C., 2007. Evidence for habitual use of ﬁre at the end of the Lower
+Paleolithic: site-formation processes at Qesem Cave, Israel. J. Hum. Evol. 53,
+197e212.
+Klein, R.G., 1975. Middle Stone Age man-animal relationships in southern Africa:
+evidence from Die Kelders and Klasies River Mouth. Science 190, 265e267.
+Klein, R.G., 1976. The mammalian fauna of the Klasies River Mouth sites, Southern
+Cape Province, South Africa. S. Afr. Archaeol. Bull. 31, 75e98.
+Klein, R.G., 1977. The mammalian fauna from the Middle and Later Stone Age (Later
+Pleistocene) levels of Border Cave, Natal Province, South Africa. S. Afr. Archaeol.
+Bull. 32, 14e27.
+Klein, R.G., 1978. A preliminary report on the larger mammals from the Boomplaas
+Stone Age cave site, Cango Valley, Oudtshoorn District, South Africa. S. Afr.
+Archaeol. Bull. 33, 66e75.
+Klein, R.G., 1989. Biological and behavioural perspectives on modern human origins
+in Southern Africa. In: Mellars, P., Stringer, C. (Eds.), The Human Revolution.
+Edinburgh University Press, Edinburgh, pp. 529e546.
+Klein, R.G., 2008. Out of Africa and the evolution of human behavior. Evol.
+Anthropol. 17, 267e281.
+Klein, R.G., Cruz-Uribe, K., 1984. The Analysis of Animal Bones from Archaeological
+Sites. University of Chicago Press, Chicago.
+Klein, R.G., Cruz-Uribe, K., 2000. Middle and Later Stone Age large mammal and
+tortoise remains from Die Kelders Cave 1, western Cape Province, South Africa.
+J. Hum. Evol. 38, 169e196.
+Klein, R.G., Nitecki, M.H., Nitecki, D.V., 1987. Reconstructing how early people
+exploited animals: problems and prospects. In: Nitecki, M.H., Nitecki, D.V.
+(Eds.), The Evolution of Human Hunting. Plenum Press, New York, pp. 11e45.
+Klein, R.G., Avery, G., Cruz-Uribe, K., Halkett, D., Parkington, J.E., Steele, T.,
+Volman, T.P., Yates, R., 2004. The Ysterfontein 1 Middle Stone Age site, South
+Africa, and early human exploitation of coastal resources. Proc. Natl. Acad. Sci.
+101, 5708e5715.
+Lam, Y.M., Chen, X., Marean, C.W., Frey, C.J., 1998. Bone density and long bone
+representation in archaeological faunas: comparing results from CT and photon
+densitometry. J. Archaeol. Sci. 25, 559e570.
+Lam, Y.M., Chen, X., Pearson, O.M., 1999. Intertaxonomic variability in patterns of
+bone density and the differential representation of bovid, cervid, and equid
+elements in the archaeological record. Am. Antiq. 64, 343e362.
+Lam, Y.M., Pearson, O.M., Marean, C.W., Chen, X., 2003. Bone density studies in
+zooarchaeology. J. Archaeol. Sci. 30, 1701e1708.
+Lambeck, K., Esat, T.M., Potter, E.-K., 2002. Links between climate and sea levels for
+the last three million years. Nature 419, 199e206.
+Landt, M.J., 2007. Tooth marks and human consumption: ethnoarchaeological
+mastication research among foragers of the Central African Republic.
+J. Archaeol. Sci. 34, 1629e1640.
+Lombard, M., Clark, J.L., 2008. Variability and change in Middle Stone Age hunting
+behaviour: aspects from the lithic and faunal records. In: Badenhorst, S.,
+Mitchell, P., Driver, J.C. (Eds.), Animals and People: Archaeozoological Papers in
+Honour of Ina Plug. Archaeo Press, Oxford, pp. 46e56.
+Lupo, K.D., 1995. Hadza bone assemblages and hyena attrition: an ethnographic
+example of the inﬂuence of cooking and mode of discard on the intensity of
+scavenger ravaging. J. Anthropol. Archaeol. 14, 288e314.
+Lyman, R.L., 1985. Bone frequencies: differential transport, in situ destruction, and
+the MGUI. J. Archaeol. Sci. 12, 221e236.
+Lyman, R.L., 1993. Density-mediated attrition of bone assemblages: new insights.
+In: Hudson, J. (Ed.), From Bones to Behavior. Center for Archaeological Investigations, Carbondale, pp. 324e341.
+Lyman, R.L., 1994. Vertebrate Taphonomy. Cambridge University Press, New York.
+Lyman, R.L., 2008. Quantitative Paleozoology. Cambridge University Press, Cambridge/New York.
+Mackay, A., Welz, A., 2008. Engraved ochre from a Middle Stone Age context at Klein
+Kliphuis. J. Archaeol. Sci. 35, 1521e1532.
+
+Marean, C.W., 1991. Measuring the postdepositional destruction of bone in
+archaeological assemblages. J. Archaeol. Sci. 18, 677e694.
+Marean, C.W., Assefa, Z., 1999. Zooarchaeological evidence for the faunal exploitation behavior of Neandertals and early modern humans. Evol. Anthropol. 8,
+22e37.
+Marean, C.W., Bertino, L., 1994. Intrasite spatial analysis of bone: subtracting the
+effect of secondary carnivore consumers. Am. Antiq. 59, 748e768.
+Marean, C.W., Cleghorn, N., 2003. Large mammal skeletal element transport:
+applying foraging theory in a complex taphonomic system. J. Taphonomy 1,
+15e42.
+Marean, C.W., Frey, C.J., 1997. The animal bones from caves to cities: reverse utility
+curves as methodological artifacts. Am. Antiq. 62, 698e711.
+Marean, C.W., Kim, S.Y., 1998. Mousterian large-mammal remains from Kobeh Cave:
+behavioral implications for Neanderthals and early modern humans. Curr.
+Anthropol. 39, S79eS113.
+Marean, C.W., Spencer, L.M., 1991. Impact of carnivore ravaging on zooarchaeological measures of element abundance. Am. Antiq. 56, 645e658.
+Marean, C.W., Spencer, L.M., Blumenschine, R.J., Capaldo, S.D., 1992. Captive hyena
+bone choice and destruction, the schlepp effect, and Olduvai archaeofaunas.
+J. Archaeol. Sci. 19, 101e121.
+Marean, C.W., Abe, Y., Frey, C.J., Randall, R.C., 2000. Zooarchaeological and taphonomic analysis of the Die Kelders Cave 1 layers 10 and 11 Middle Stone Age
+larger mammal fauna. J. Hum. Evol. 38, 197e233.
+Marean, C.W., Abe, Y., Nilssen, P.J., Stone, E.C., 2001. Estimating the minimum
+number of skeletal elements (MNE) in zooarchaeology: a review and a new
+image-analysis GIS approach. Am. Antiq. 66, 333e348.
+Marean, C.W., Dominguez-Rodrigo, M., Pickering, T.R., 2004. Skeletal element
+equiﬁnality begins with method. J. Taphonomy.
+Marean, C.W., Bar-Matthews, M., Bernatchez, J., Fisher, E., Goldberg, P.,
+Herries, A.I.R., Jacobs, Z., Jerardino, A., Karkanas, P., Minichillo, T., 2007. Early
+human use of marine resources and pigment in South Africa during the Middle
+Pleistocene. Nature 449, 905e908.
+McBrearty, S., Brooks, A.S., 2000. The revolution that wasn’t: a new interpretation of
+the origin of modern human behavior. J. Hum. Evol. 39, 453e563.
+McBrearty, S., Tryon, C.A., 2005. From Acheulian to Middle Stone Age in the Kapthurin formation, Kenya. In: Hovers, E., Kuhn, S.L. (Eds.), Transitions before the
+Transition: Evolution and Stability in the Middle Paleolithic and Middle Stone
+Age. Springer, New York, pp. 257e277.
+Mellars, P., 2006. Why did modern human populations disperse from Africa ca.
+60,000 years ago? A new model. Proc. Natl. Acad. Sci. 103, 9381e9386.
+Milo, R.G., 1998. Evidence for hominid predation at Klasies River Mouth, South
+Africa, and its implications for the behavior of early modern humans.
+J. Archaeol. Sci. 25, 99e133.
+Monahan, C.M., 1998. The Hadza carcass transport debate revisited and its
+archaeological implications. J. Archaeol. Sci. 25, 405e424.
+Nilssen, P.J., 2000. An actualistic butchery study in South Africa and its implications for
+reconstructing hominid strategies of carcass acquisition and butchery in the Upper
+Pleistocene and Plio-Pleistocene. Ph.D. Dissertation, University of Cape Town.
+Njau, J.K., Blumenschine, R.J., 2006. A diagnosis of crocodile feeding traces on larger
+mammal bone, with fossil examples from the Plio-Pleistocene Olduvai Basin,
+Tanzania. J. Hum. Evol. 50, 142e162.
+O’Connell, J.F., Hawkes, K., Lupo, K.D., Blurton Jones, N.G., 2003. Another reply to
+Dominguez-Rodrigo. J. Hum. Evol. 45, 417e419.
+O’Connell, J.F., Lupo, K.D., 2003. Reply to Dominguez-Rodrigo. J. Archaeol. Sci. 30,
+387e390.
+Parkington, J., Poggenpoel, C., Hall, M., 1987. Diepkloof rockshelter. In: Parkington, J.,
+Hall, M. (Eds.), Papers in the Prehistory of the Western Cape. South Africa,
+Oxford.
+Pickering, T.R., 2002. Reconsideration of criteria for differentiating faunal assemblages accumulated by hyenas and hominids. Int. J. Osteoarchaeol. 12, 127e141.
+Pickering, T.R., Egeland, C.P., 2006. Experimental patterns of hammerstone
+percussion damage on bones: implications for inferences of carcass processing
+by humans. J. Archaeol. Sci. 33, 459e469.
+Pickering, T.R., Marean, C.W., Dominguez-Rodrigo, M., 2003. Importance of limb
+bone shaft fragments in zooarchaeology: a response to “On in situ attrition and
+vertebrate body part proﬁles” (2002), by M.C. Stiner. J. Archaeol. Sci. 30,
+1469e1482.
+Pickering, T.R., Dominguez-Rodrigo, M., Egeland, C.P., Brain, C.K., 2004. Beyond
+leopards: tooth marks and the contribution of multiple carnivore taxa to the
+accumulation of the Swartkrans Member 3 fossil assemblage. J. Hum. Evol. 46,
+595e604.
+Pickering, T.R., Dominguez-Rodrigo, M., Egeland, C.P., Brain, C.K., 2005. The contribution of limb bone fracture patterns to reconstructing early hominid behavior
+at Swartkrans Cave (South Africa): archaeological application of a new analytical method. Int. J. Osteoarchaeol. 15, 247e260.
+Pickering, T.R., Egeland, C.P., Schnell, A.G., Osborne, D.L., Enk, J., 2006. Success in identiﬁcation of experimentally fragmented limb bone shafts: implications for estimates of skeletal element abundance in archaeofaunas. J. Taphonomy 4, 97e108.
+Ramsay, P.J.C.J.A.G., 2002. Late Quaternary sea-level change in South Africa. Quatern. Res. 57, 82e90.
+Reed, K., Rector, A., 2010. Paleoecology of the PP13b and PP30 large mammal fauna.
+J. Hum. Evol. 59, 340e357.
+Rigaud, J.-P., Texier, P.-J., Parkington, J., Poggenpoel, C., 2006. Stillbay and Howiesons
+Poort stone tool techno-complexes. South African Middle Stone Age chronology
+and its implications. Comptes Rendus Palevol 5, 839e849.
+
+J.C. Thompson, C.S. Henshilwood / Journal of Human Evolution 60 (2011) 746e767
+Roberts, D.L., Bateman, M.D., Murray-Wallace, C.V., Carr, A.S., Holmes, P.J., 2008.
+Last Interglacial fossil elephant trackways dated by OSL/AAR in coastal aeolianites, Still Bay, South Africa. Palaeogeogr. Palaeoclimatol. Palaeoecol. 257,
+261e279.
+Selvaggio, M.M., 1994. Carnivore tooth marks and stone tool butchery marks on
+scavenged bones: archaeological implications. J. Hum. Evol. 27, 215e228.
+Selvaggio, M.M., 1998a. Concerning the three stage model of a carcass processing at
+FLK Zinjanthropus: a reply to Capaldo. J. Hum. Evol. 35, 319e321.
+Selvaggio, M.M., 1998b. Evidence for a three-stage sequence of hominid and
+carnivore involvement with long bones at FLK Zinjanthropus, Olduvai Gorge,
+Tanzania. J. Archaeol. Sci. 25, 191e202.
+Selvaggio, M.M., Wilder, J., 2001. Identifying the involvement of multiple carnivore
+taxa with archaeological bone assemblages. J. Archaeol. Sci. 28, 465e470.
+Shackleton, J.C., van Andel, T.H., Runnels, C.N., 1984. Coastal paleogeography of the
+central and western Mediterranean during the last 125,000 years and its
+archaeological implications. J. Field Archaeol. 11, 307e314.
+Skinner, J., Chimimba, C., 2005. The Mammals of the Southern African Subregion.
+Cambridge University Press, Cambridge.
+Stiner, M.C., 1991. Food procurement and transport by human and non-human
+predators. J. Archaeol. Sci. 18, 455e482.
+Stiner, M.C., 1993. Modern human origins - faunal perspectives. Annu. Rev.
+Anthropol. 22, 55e82.
+Stringer, C., 2002. Modern human origins: progress and prospects. Phil. Trans. R.
+Soc. London B 357, 563e579.
+Tappen, M., Wrangham, R., 2000. Recognizing hominoid-modiﬁed bones: the
+taphonomy of colobus bones partially digested by free-ranging chimpanzees in
+the Kibale Forest, Uganda. Am. J. Phys. Anthropol. 113, 217e234.
+Texier, J.P., Porraz, G., Parkington, J., Rigaud, J.-P., Poggenpoel, C., Miller, C.,
+Tribolo, C., Cartwright, C., Coudenneau, A., Klein, R., 2010. A Howiesons Poort
+tradition of engraving ostrich eggshell containers dated to 60,000 years ago at
+Diepkloof Rock Shelter, South Africa. Proc. Natl. Acad. Sci. 107, 6180e6185.
+Thompson, J.C., 2005. The impact of post-depositional processes on bone surface
+modiﬁcation frequencies: a corrective strategy and its application to the
+Loiyangalani site, Serengeti Plain, Tanzania. J. Taphonomy 3, 57e80.
+Thompson, J.C., 2008. Zooarchaeological tests for modern human behavior at
+Blombos Cave and Pinnacle Point Cave 13B, southwestern Cape, South Africa.
+Ph.D. Dissertation, Arizona State University.
+Thompson, J.C., 2010a. Taphonomic analysis of the faunal assemblage from Pinnacle
+Point Cave 13B, Western Cape, South Africa. J. Hum. Evol. 59, 321e339.
+Thompson, J.C., 2010b. Variability in Middle Stone Age faunal exploitation and use
+of the physical and social landscapes in the southwestern Cape, South Africa. In:
+
+767
+
+Delagnes, A., Conard, N. (Eds.), Settlement Dynamics of the Middle Paleolithic
+and Middle Stone Age III. Kerns Verlag, Tubingen.
+Thompson, J.C., Lee-Gorishti, Y., 2007. Carnivore bone portion choice and surface
+modiﬁcation on modern experimental boiled bone assemblages. J. Taphonomy
+5, 121e135.
+Thompson, J.C., Marean, C.W., 2009. Using image analysis to quantify relative
+degrees of density-mediated attrition in Middle Stone Age archaeofaunas. Soc.
+Archaeol. Sci. Bull. 32, 18e23.
+Tribolo, C., 2003. Apports des méthodes de la luminescence à la chronologie de
+techno-faciès du Middle Stone Age associés aux premiers Hommes modernes
+d’Afrique du Sud. Ph.D. dissertation, Université Bordeaux-1.
+Tribolo, C., Mercier, N., Selo, M., Valladas, H., Joron, J.-L., reyss, J.-l.,
+Henshilwood, C., Sealy, J., Yates, R., 2006. TL dating of burnt lithics from
+Blombos Cave (South Africa) and the antiquity of modern behaviour.
+Archaeometry 48, 341e357.
+Tryon, C.A., McBrearty, S., 2006. Tephrostratigraphy of the Bedded Tuff Member
+(Kapthurin formation, Kenya) and the nature of archaeological change in the
+later middle Pleistocene. Quatern. Res. 65, 492e507.
+Villa, P., Mahieu, E., 1991. Breakage patterns of human long bones. J. Hum. Evol. 21,
+27e48.
+Villa, P.L., Michel, L., 2006. Hunting weapons of the Middle Stone Age and the
+Middle Paleolithic spear points from Sibudu, Roe Cottage and Bouheben. South.
+Afr. Humanities 18, 89e122.
+Villa, P., Soressi, M., Henshilwood, C.S., Mourre, V., 2009. The Still Bay points of
+Blombos Cave (South Africa). J. Archaeol. Sci. 36, 441e460.
+Wadley, L., 2007. Announcing a Still Bay industry at Sibudu Cave, South Africa.
+J. Hum. Evol. 52, 681e689.
+Watts, I., 2002. Ochre in the Middle Stone Age of southern Africa: Ritualized display
+or hide preservative? S. Afr. Archaeol. Bull. 57, 1e14.
+Watts, I., 2009. Red ochre, body painting and language: interpreting the Blombos
+ochre. In: Botha, R., Knight, C. (Eds.), The Cradle of Language. Oxford University
+Press, Oxford, pp. 62e92.
+Watts, I., Dunbar, R., Knight, C., Power, C., 1999. The origin of symbolic culture. In:
+The Evolution of Culture. Edinburgh University Press, Edinburgh, pp. 113e146.
+Weinstein-Evron, M., Ilani, S., 1994. Provenance of ochre in the Natuﬁan layers of el
+Wad Cave, Mt. Carmel, Israel. J. Archaeol. Sci. 21, 461e467.
+Wurz, S., 2002. Variability in the Middle Stone Age lithic sequence, 115,000e60,000
+Years Ago at Klasies River, South Africa. J. Archaeol. Sci. 29, 1001e1015.
+Yeshurun, R., Marom, N., Bar-Oz, G., 2007. Differential fragmentation of different
+ungulate body-size e comparison of gazelle and fallow deer bone fragmentation in Levantine prehistoric assemblages. J. Taphonomy 5, 137e148.
+
+

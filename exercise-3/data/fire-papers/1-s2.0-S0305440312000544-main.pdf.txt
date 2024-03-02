@@ -1,0 +1,1081 @@
+Journal of Archaeological Science 39 (2012) 2414e2423
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Evidence for Neandertal use of ﬁre at Roc de Marsal (France)
+Vera Aldeias a, *, Paul Goldberg b, c, Dennis Sandgathe d, e, Francesco Berna b, Harold L. Dibble e, f, g,
+Shannon P. McPherron f, Alain Turq h, Zeljko Rezek e
+a
+
+Department of Earth and Environmental Sciences, University of Pennsylvania, Hayden Hall 240 South 33rd Street, Philadelphia, PA 19104, USA
+Department of Archaeology, 675 Commonwealth Ave., Boston University, Boston, MA 02215, USA
+c
+Heidelberg Acad. of Science and Humanities, ROCEEH, Rümelinstrasse 23, 72070 Tübingen, Germany
+d
+Department of Archaeology and Human Evolutionary Studies Program, 8888 University Drive, Simon Fraser University, Burnaby, BC V5A-1S6, Canada
+e
+Department of Anthropology, University of Pennsylvania, 3260 South Street, Philadelphia, PA 19104, USA
+f
+Department of Human Evolution, Max Planck Institute for Evolutionary Studies, Deutscher Platz 6, Leipzig D-04103, Germany
+g
+Institute of Human Origins, School of Human Evolution and Social Change, Arizona State University, Box 874101, Tempe, AZ 85282-4101, USA
+h
+Museé National de Préhistoire, Les Eyzies 24200, France
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 1 December 2011
+Received in revised form
+25 January 2012
+Accepted 28 January 2012
+
+The association of Neandertal occupations with ﬁre has been reported for several European late Middle
+Paleolithic sites. Renewed excavations at the French site of Roc de Marsal (Dordogne) have exposed
+a series of well-preserved ﬁre features associated with artifact-rich Neandertal occupations. This paper
+provides detailed descriptions of the combustion sediments and associated archaeological assemblages,
+using ﬁeld observations and laboratory methods, including soil micromorphology, FTIR, and GIS techniques. From an integrity point of view, the available data demonstrate the excellent preservation of the
+hearths at Roc de Marsal, which display minimal or no post-depositional movement. However, our
+results suggest that it is often impossible to access the level of contemporaneity between different
+combustion events, the absence of association between burned objects and the hearths, and that it is
+often very difﬁcult to distinguish distinct ﬁre events based solely on macroscopic observations. These
+problems have signiﬁcant implications for how such features are excavated and analyzed.
+Ó 2012 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Roc de Marsal
+Mousterian
+Combustion features
+Micromorphology
+Spatial analyzes
+Geographical information Systems
+Fire
+
+1. Introduction
+The development of controlled use of ﬁre must be seen as one of
+the most important developments in prehistory. Currently there is
+signiﬁcant debate over what constitutes the earliest evidence for
+controlled use of ﬁre, although there appears to be incontrovertible
+evidence by at least 250 ka (e.g., Mercier et al., 2007; Roebroeks and
+Villa, 2011). However, even after 250 ka ﬁre-use appears to have
+remained intermittent, at least in Europe, until perhaps the Upper
+Paleolithic (Sandgathe et al., 2011a, 2011b). And while ﬁre presents
+a range of potential functions (e.g., cooking food, providing light,
+providing warmth, heat treatment of lithics, etc.), it has proven
+difﬁcult to determine exactly its applications during the Paleolithic
+(Sandgathe et al., 2011a). It is true, however, that detailed studies of
+ﬁre residues are rare, though more recently several examples
+illustrate where they have been studied more closely with regard to
+spatial organization (e.g., Galanidou, 2000; Henry, 2012; Henry
+et al., 2004; Vallverdú et al., 2012; Vaquero and Pastó, 2001) and
+* Corresponding author. Tel.: þ1 215 520 0726.
+E-mail addresses: valdeias@sas.upenn.edu, veraldeias@gmail.com (V. Aldeias).
+0305-4403/$ e see front matter Ó 2012 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2012.01.039
+
+internal composition and structure (e.g., Baquedano et al., 2004;
+Berna and Goldberg, 2008; Dibble et al., 2009; Goldberg et al.,
+2012, 2009; Gómez et al., 2010; Schiegl et al., 1996, 2004; Texier
+et al., 2010). The aim of this paper is to provide detailed data on
+combustion features uncovered during recent excavations at the
+French Neandertal site Roc de Marsal. These include (1) highresolution micromorphological data on the nature and variation in
+composition of combustion features and on their internal organization and structure; (2) basic data on their vertical and spatial
+distribution, and variation in size and shape. The high-resolution
+micromorphological data can be evaluated in order to understand
+some aspects of Neandertal pyrotechnology: types of combustibles
+used, hearth integrity, or temperatures attained. In addition, data
+are presented on the spatial distribution of these features and
+associated artifacts in an attempt to reconstruct patterns of site use.
+
+2. The site of Roc de Marsal
+Roc de Marsal is a small cave that developed along a ﬁssure in
+Cenonian limestone. The south-facing cave is situated 80 m above
+
+V. Aldeias et al. / Journal of Archaeological Science 39 (2012) 2414e2423
+
+a small tributary valley of the Vézère River, approximately 5 km
+southwest of Les Eyzies (Fig. 1). Early excavations at the site were
+carried out by amateur archaeologist, Jean Laﬁlle, from 1953 until
+1971 (Bordes and Laﬁlle, 1962; Sandgathe et al., 2011c; Turq, 1979).
+New excavations by the authors took place from 2004 through 2010
+(Turq et al., 2008).
+The area of occupation at Roc de Marsal is about 50 m2 and
+consists of a main elongated area trending approximately N-S
+(principally squares B-N, 16-19); another, more open area, still
+unexcavated, is located in the front part of the cave (Fig. 2).
+Brieﬂy, the principal aspects of the stratigraphic succession are
+as follows. Overall, the deposits consist of sands and silts, with
+abundant lithic and bone remains. In the basal layers, these
+components are interbedded with intact and partly remobilized
+combustion features (CF) principally comprised of charcoal and
+organic matter, burned bone, and ashes. Seven geological lithostratigraphic units (GU, numbered from bottom to top) were identiﬁed based on color, composition, and texture. Within these
+geological units several archaeological layers (AL) were recognized
+using these and other criteria; these are numbered from top to
+bottom. GU 1, is of particular focus here and include AL 10 through
+6. The main features of each of the GU and AL are illustrated in Fig. 3
+and summarized in Table 1.
+The dating of the site is still on going. A series of preliminary TL
+dates from burned sediments at the very base of the sequence have
+yielded ages spanning from 72 to 91 kya (Guibert et al. in Sandgathe
+et al., 2008), suggesting that the initial occupations at Roc de Marsal
+began in Marine Isotopic Stage (MIS) 5a. A mean ESR date for AL2
+(the ﬁnal Mousterian layer) of 43,600  2600 (Blackwell et al. in
+Sandgathe et al., 2008) suggests the ﬁnal Mousterian occupations
+occurred during late mid-MIS 3.
+The upper part of the Roc de Marsal sequence, that is ALs 4
+through 2, contains Quina Mousterian industries characterized by
+high frequencies of scrapers made on thick blanks, few cores, and
+almost no Levallois components. These levels also contain very high
+concentrations of heavily butchered faunal remains dominated
+almost entirely by reindeer (Rangifer tarandus), but with small
+percentages of bos/bison and Equus sp. The combustion features,
+however, are associated with ALs 10, 9, and 7, which contain
+Mousterian industries characterized by lower frequencies of
+retouched pieces overall, more cores and clearer evidence that core
+reduction took place on the site, signiﬁcant presence of Levallois
+technique, and many so-called Asinipodian elements (Bordes, 1975;
+
+Fig. 1. Map showing the location of Roc de Marsal in relation to other Middle Paleolithic sites in the vicinity.
+
+2415
+
+Fig. 2. The general plan of Roc de Marsal showing shape of cave, grid, and areas left by
+Laﬁlle, as well as those excavated recently by the current team.
+
+Dibble and McPherron, 2006), including diminutive Levallois cores,
+truncated-faceted pieces, and Kombewa cores and ﬂakes. ALs 9
+through 5 contain lower concentrations of faunal remains
+compared to the upper layers, although they are still rich in fauna
+that were also heavily exploited. There is also a wider range of
+species represented, including red deer (Cervus elephus), roe deer
+(capreolus capreolus), wild pig (sus scrofa), horse (Equus sp.), and
+
+Fig. 3. West Section of proﬁle at Roc de Marsal at end of 2009 season showing
+stratigraphic layers described in Table 1. The blue tags represent Geological Units (GU),
+whereas the white ones refer to Archaeological Layers (AL). The meter stick is lying on
+bedrock, which slopes gradually to the north and south from the center of the photo.
+The arrow points north and is 20 cm long. (For interpretation of the references to color
+in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+2416
+
+V. Aldeias et al. / Journal of Archaeological Science 39 (2012) 2414e2423
+
+Table 1
+Summary of principal Geological Units (GU) and Archaeological Layers (AL) from Roc de Marsal. (Read from bottom up).
+Geol. Lithostrat.
+unit (GU)
+
+Arch.
+layer (AL)
+
+Field description
+
+7
+
+1
+
+6
+5
+
+2
+
+4
+
+3
+
+3
+
+4
+
+2
+
+5
+
+Layer with high organic content, especially outside the cave, but is highly disturbed. This is due to both bioturbation and
+later Medieval occupants who excavated into this AL to create storage pits. The archaeological material reﬂects this
+disturbance, including historic materials (metal, pottery) as well as a small number of lithic items that may be Middle
+and/or Upper Palaeolithic, but which are not particularly diagnostic. 10e30 cm thick.
+Yellow to light brown clayey-silt, very similar in composition to AL 4; predominantly Aeolian in origin. It includes a large
+number of limestone blocks (roof fall) ranging from centimeter to meter size. In fact, inside the cave, AL2 is capped
+by a layer of roof collapse approximately three quarters of a meter thick. The ﬁner sediments are approximately
+45e50 cm thick.
+A very thin lens that is not found throughout the site. Similar in composition to AL4, but is notably darker. Thickest
+(c. 1e2 cm) near the cave mouth.
+Resembles AL5 in general composition except it is light yellow-brown color and is less consolidated. Rich in lithics, but
+most not able for the high concentration of faunal remains. 20e30 cm thick.
+Composed of light gray clayey-silts that are ﬁner in texture than the lower deposits. It includes small to medium sized
+pieces of limestone roof fall and a high concentration of archaeological materials. The lithic component is assigned to the
+Typical Mousterian industry with a signiﬁcant Levallois component. 10e15 cm thick.
+Similar to AL8, it is discontinuous across the site and thickest (c. 3e5 cm) just inside the cave mouth. It is composed of
+brown clayey-silts.
+Similar in color and basic composition to AL8, although darker (due to a higher content of charcoal and burned bone);
+has slightly decreased concentration of archaeological materials. As in AL9, it contains numerous intact and discrete
+combustion features. 5e8 cm thick.
+Occurs mainly just inside the cave mouth and is discontinuous across the site. It is composed of gray-brown clayey-silts
+with abundant archaeological materials. c. 8e10 cm thick.
+Clayey-silts with a very marked anthropogenic component of combustion features consisting of ash, burned bone, and
+charcoal; these components occur in both localized lenses and as more massive accumulations. AL9 contains the most
+abundant combustion features and very high concentrations of archaeological materials. 5e10 cm thick.
+Very thin (c. 1e5 cm) orange clayey-silt, with some small fragments of roof fall. Very little archaeological material, but
+lens of rubeﬁed AL10 sediments separated from AL9 by thin lens of unrubeﬁed AL10 sediments indicate that the initial
+occupations were associated with uppermost AL10.
+Brown to orange clayey-sand that rests directly on bedrock and ﬁlls in locally undulating karstic mini-topography.
+1e2 cm to 20e30 cm thick; archaeologically sterile.
+
+6
+7
+
+8
+9
+
+1
+
+10
+
+13e11
+
+beaver (Castor sp.); reindeer, while rare in ALs 9 and 8, steadily
+increase in frequency throughout the sequence.
+3. Methods
+3.1. Excavation methods
+The methods of excavation employed at Roc de Marsal follow
+the concepts used in other archaeological sites and described
+elsewhere (see Dibble et al., 1997; Dibble and Lenoir, 1995;
+McPherron and Dibble, 2002). The location of all artifacts (stone
+tools, bones, charcoal fragments, etc) with dimensions greater than
+2.5 cm was recorded using a total station and integrated into the
+local coordinate system developed for the site. All non-artifact
+features, including hearth-related sediments, were recorded in
+the same manner, with the limits of these sediments taken as
+sequential points. This method of point proveniencing all individual artifacts and features allowed the recording of spatial
+information in three dimensions.
+In addition, once the hearth-rich anthropogenic layers (namely
+AL7 and 9) were reached during excavation, the methodology was
+modiﬁed to expose “décapage” surfaces. This excavation method
+has been widely used in archaeology, particularly in French
+archaeological contexts (see, for example the excavation at the site
+of Pincevent: Leroi-Gourhan, 1984). The basic concept of décapage is
+to expose the features and archaeological materials and to associate
+these objects with a speciﬁc décapage surface number. Consequently, the criteria to deﬁne each décapage surface is somewhat
+ﬂexible and inherently dependent on factors such as the concentration of artifacts and/or features exposed while excavating thin
+slices of sediments over a somewhat horizontal surface. The
+décapage method we used, however, still involves the separation of
+different natural and anthropic layers. Consequently, since the
+combustion features are often composed of the superposition of
+
+distinct types of sediments (for instance, an ash layer overlying
+charcoal-rich sediments): each of these deposits was excavated
+separately and associated with distinct décapage surface numbers.
+The result of these procedures is the slicing of a stratigraphic
+unit into several sub-surfaces (often of varying thickness, but
+generally within a range of 2e4 cm) that e at least theoretically should associate artifacts and bones that are penecontemporaneous. As each décapage surface was exposed, it was then photographed, and its associated bones and artifacts were provenienced
+and removed, with each object or sample linked to the décapage
+surface on which it was found and also linked to particular
+combustion features. It should be emphasized that there is no claim
+that these décapage surfaces represent “living ﬂoors.” In fact, as the
+discussion below will make clear, our own experience has led us to
+be skeptical that such surfaces can be identiﬁed or followed across
+a speciﬁc horizon, at least in a sedimentary environment such as
+that which exists at Roc de Marsal.
+The individual combustion features were studied ﬁrst in the
+ﬁeld during excavation and then sampled for micromorphological
+and other analyses. Field observations were made both in plan and
+section view where possible, and include diameter, thickness, color,
+shape of the features, and basic composition. Commonly, however,
+it was not always possible to determine these parameters because
+many of the features were intercalated and overlapped. Similarly,
+several extended into the unexcavated section walls, and several
+more had been wholly or partially removed during the previous
+excavation by Laﬁlle.
+In almost all cases at Roc de Marsal individual combustion
+features were easily recognized when encountered during the
+excavation process, both in proﬁle section and in plan (décapage)
+view. In proﬁle section, combustion features generally occurred as
+thin lenses of either strongly black sediments, strongly white
+sediments, and/or superimposed lens of both black and white
+sediments, all with clearly observable horizontal spatial limits. Only
+
+V. Aldeias et al. / Journal of Archaeological Science 39 (2012) 2414e2423
+
+one of the combustion features was associated with a depression
+and this depression was completely natural. When exposed in plan
+view, with few exceptions, features were easily distinguished from
+surrounding sediments by the spatial limits of the black and/or
+white sediments associated with each feature; very little lateral
+displacement of residues appears to have occurred, which
+contributed to the very good preservation of individual combustion
+features. Very few of the combustion features have undergone
+varying degrees of post-depositional movement or loss of residues;
+CF 27, for example, is comprised solely of a spatially discrete lens of
+ﬁre-reddened (rubeﬁed) sediments. As each combustion feature
+was encountered and its limits deﬁned, it was assigned its own
+combustion feature (‘CF’) number in a simple sequence applied to
+the whole site. Although 27 combustion features were initially
+recognized and thus numbered, the total eventually decreased to
+22, as some were eventually rejected either as excavation proceeded or because of subsequent laboratory analyses. In some
+cases, while it was clear that multiple features had been encountered because of spatial overlapping and limited vertical separation,
+the individual limits of the features were unclear, and this was
+reﬂected by adding letter sufﬁxes to their identiﬁcation numbers
+(e.g., CF18a and CF18b).
+3.2. Analytical methods
+3.2.1. Micromorphology
+The combustion features were studied primarily using micromorphology and Fourier Transform Infrared Spectrometry (FTIR).
+Micromorphology has proven to be an effective means to evaluate
+both the components of combustion features but also their
+internal organization and degree of integrity (Berna and Goldberg,
+2008; Cabanes et al., 2010; Goldberg and Berna, 2010; Goldberg
+et al., 2012, 2009; Mallol et al., 2010; Mallol et al., 2007). Similarly, it is possible to recognize whether a particular combustion
+feature is intact or whether it has been modiﬁed by certain postdepositional and syn-depositional effects such as trampling
+(Miller et al., 2010).
+Micromorphological samples were collected from combustion
+features during the excavation as intact blocks that, in certain
+places in the cave, commonly spanned more than one recognized
+combustion feature. These blocks (varying in size but typically
+being w20 cm long by w12e15 cm wide and deep), were oven
+dried for several days at w60  C and then impregnated with
+unpromoted polyester resin diluted with styrene at a ratio of 7
+parts resin to 3 parts styrene. Methyl ethyl ketone peroxide (MEKP)
+was added as a catalyst at about 7 ml MEKP to 1 L resin/styrene
+mixture. After gelling, the blocks were heated overnight at w60  C
+and then sliced with a diamond rock saw to ﬁt the 50  75 mm
+dimension of the thin section. These trimmed chips were sent to
+Spectrum Petrographics (Vancouver, Washington, USA), where
+they were processed into petrographic thin sections (30 mm thick).
+FTIR spectra were obtained from both micro bulk samples using
+K-BR pellets and from direct measurements of bone, clay, and ashes
+within the thin sections. Samples processed in thin section were
+analyzed by FTIR microspectroscopy using a Thermo-Nicolet
+Continuum IR microscope attached to the spectrometer. Spectra
+of particles with diameter of about 100 mm were collected either
+with ATR diamond objective, or with a Reﬂectocromat 15 objective in Transmission mode. The spectra were collected between
+4000 and 450 cm1at 8 cm1 resolution.
+3.2.2. Spatial analyses of combustion feature horizons
+Geographical Information Systems (GIS) are optimal tools for
+both visualizing the distribution underlying the scattering of
+archaeological artifacts and to analyze diachronic changes of
+
+2417
+
+the assemblages. It is often the case that such studies are done
+using a stratigraphic layer as the primary unit of analysis (e.g.,
+Alperson-Aﬁl et al., 2009; Anderson and Burke, 2008). However,
+geological units potentially incorporate numerous occupations
+during hundreds or even several thousands of years. One of the
+major analytical problems we face is, therefore, how to achieve
+meaningful units of analyses with greater control on the temporal
+relationship between distinct occupations (e.g., Vaquero, 2008;
+Vaquero and Pastó, 2001).
+Since there are several combustion features recognized in both
+AL7 and 9 of Roc de Marsal, our goal was to examine the distribution of artifacts and other materials associated with each of these
+ﬁre events. Although AL7 and 9 were excavated using the décapage
+approach, several problems were encountered when individual
+décapage layers were used as units of analysis. These problems
+include:(1) some combustion features were sufﬁciently thick that
+they spanned more than one décapage surface, and therefore their
+association with the surrounding artifacts was difﬁcult to establish
+with certainty; (2) the thickness of each décapage surface can be
+deﬁned only loosely (excavation proceeds until artifacts are
+exposed across a surface), and therefore any particular décapage
+surface varies in part due to individual excavators as well as the
+abundance of artifacts encountered; (3) the excavation of each
+décapage was done over approximately horizontal surfaces, but
+these somewhat ﬂat surfaces might not have been the original
+occupational ﬂoor at each time of occupation since circumstances
+such as an inclination of the bedrock might dictate non-horizontal
+tilt of the cave sediments. Overall, and to be honest, we just did not
+know which artifacts were associated with each combustion
+feature while excavating. In order to try to establish the degree of
+patterning of burned lithics and association of archaeological artifacts within and around each combustion feature (but still within
+the same stratigraphic layer) a methodology was developed for
+reaching thin meaningful slices of strata associated with each
+feature/ﬁre event. Our approach was designed to deﬁne unbiased
+units based on paleosurface markers present within the stratigraphic layers. One of these markers is obviously the presence of
+a combustion feature itself, since its construction and use was done
+at a time when this was the level of the cave’s ﬂoor. These features
+thus offer the potential to serve as indicators of “paleosurfaces” that
+can be used in deﬁning horizons of analyses.
+Distinct combustion feature horizons were obtained by plotting
+the limits of each combustion feature in ArcMap. The center for
+each combustion event was then computed using the Mean Center
+tool available in Arctoolbox. In order to assign the surface level,
+a shape ﬁle was created outlining the bottom of the stratigraphic
+layer, taken as our base line. The bottom of the stratigraphic layer
+constitutes a surface into which sediments are added, and, consequently, a more accurate assumption of a paleosurface’s altimetric
+mean throughout the thickness of the stratigraphic layer rather
+than its top limit. This line was then copied and manually juxtaposed to the elevation of each mean center of combustion features.
+In order to assign the artifacts to their horizons, all burned artifacts
+larger than 2.5 cm in maximum dimension were joined spatially
+with the nearest combustion feature horizon. ArcMap software was
+used to examine the manner burned artifacts are spatially distributed within each of the produced combustion horizons, their
+association with one another and with the location of identiﬁed
+combustion features. Due to inherent ﬁnite nature of the type of
+data we have, Kernel density estimations were chosen as an
+analytical technique to identify overall patterns, following similar
+approaches done in other archaeological contexts (Alperson-Aﬁl
+et al., 2009). The search radius was maintained constant (with
+a value of 0.3) whenever the produced maps were analyzing the
+same type of artifacts over distinct horizons. The density values
+
+2418
+
+V. Aldeias et al. / Journal of Archaeological Science 39 (2012) 2414e2423
+
+from the different horizons were then standardized to values
+ranging from 0 to 100.
+For AL7, where the seven individual combustion events were at
+clearly distinct elevations, the produced horizons are associated with
+only one combustion feature. In AL9, however, several of the
+combustion features identiﬁed were at the same elevations in
+different areas of the cave. Whenever this was the case it became
+impossible to separate one event and/or feature from another based
+on elevation, and thus some of the horizons deﬁned in this way reﬂect
+the presence of one or more combustion features (e.g., ‘CF Horizon 14
+and 21’ includes both CF 14 and CF 21 in the same horizon).
+
+ CF12 (AL 9), where the higher percentage of burned lithics is
+not associated with this feature but located, instead, toward the
+inside of the cave.
+There are also several features that are neither intact nor in their
+original position, and thus cannot readily be placed in either of
+these categories:
+ CF2 is a small concentration of loose charcoal in a shallow
+depression. Its size and composition may represent either the
+remnants of an in-place hearth or, more likely, redeposited
+eroded hearth residues. Its small size could indicate that partial
+erosion of the material took place in the past or that a speciﬁc
+activity might have been associated with it.
+ CF16, with its mixture of materials, is clearly composed of
+reworked ﬁre residues (mainly burned bone, burned lithics,
+and charcoal e Figure S1).
+ CF27 is a zone of rubeﬁed sediments that clearly marks the
+original location of a combustion feature. However, as none of
+the actual ﬁre residues remain, nothing can be said of the
+nature of the original feature (size, components, or internal
+organization) e see Figure S3.
+
+4. Results
+Below we present the results of ﬁeld and laboratory analyses of
+the combustion features at Roc de Marsal. Some results are based
+on the combined data of all 22 features recognized in the ﬁeld, but
+limitations of space preclude a detailed treatment of all 22
+combustion features. Consequently, some results are based
+primarily on the analysis of a selected sample of features, namely
+CFs 10, 15, 16, 18a, 20, 23, 24, and 27 (see Figures S1, S2 and S3). This
+sample includes features that represent the range of variation
+recognized among the total. (A summary of ﬁeld observations and
+soil micromorphology analysis results for all identiﬁed features is
+presented in the supplementary material Table S1).
+When viewed in terms of the basic overall structure and internal
+organization of the components, basically two ‘types’ of combustion
+features were noted: those composed of a lower, dark (mainly
+charcoal) unit coupled with an upper ash unit, and those that include
+only an ash-rich-component with jumbled orientations of all
+materials (bone, éboulis, charcoal, lithics). We interpret the former as
+typical (and, in most cases, intact) hearths in which, after being
+extinguished, the associated materials were not e or were minimally
+e displaced from their original positions. The second type, with
+internally mixed components and no evident structure, appear to
+represent secondarily reworked combustion features, such as those
+found in ash ‘dumps’ that may reﬂect hearth cleaning activity events.
+Examples of intact and in-place combustion features (hearths)
+include:
+ CF3 and 7 (in AL 7).
+ CF1, 4, 5, 10, 11, 13, 14, 18a, 18b, 20, 21, 22, 23, 24, 26 (in AL 9).
+Features interpreted as ash dumps with no internal organization
+include:
+ CF15 (AL 7), where it is clear from the density maps that
+a considerable percentage of burned lithics were dumped
+alongside with ashes (Figure S1).
+
+4.1. Combustion feature morphology
+Few complete combustion features were uncovered during the
+recent excavations (due to previous excavations and our own limits
+of excavation) and so spatial limits are not known for all of the
+hearths. For some of the combustion features that might have been
+complete, the limits were not distinct enough to be conﬁdent of the
+feature’s actual extent. Several other combustion features, however,
+are either complete or complete enough so that an idea of their
+original dimensions can be determined with some degree of
+conﬁdence (see Table 2). It is most likely that the range in sizes
+reﬂects a continuum of variability, and there is no evidence at this
+point that the different sizes reﬂect either duration of use and/or
+group size.
+The majority of in-place and intact hearths (complete and
+incomplete) are 1e2 cm thick (see Table 2), although typically the
+ash component is slightly thicker than the dark component. There
+are some exceptions: CF20 has an ash layer that is 3 cm thick. As
+revealed in thin section, CF20 is actually associated with a second,
+smaller combustion feature (left unnumbered since it was only
+visible in thin section). Micromorphological observations (see
+supplementary material and Figure S7) show that both features
+represent intact combustion deposits. The uppermost feature is
+composed of a thick ash layer with common calcined bones overlying a charred plant-rich layer and rubeﬁed soil material. The
+
+Table 2
+Descriptive parameters of combustion features and artifact contents - values are not included if the feature was not complete in that dimension. CF ¼ Combustion Feature;
+AL ¼ Archaeological Layer.
+CF
+
+3
+7
+1
+4
+5
+18a
+10
+20
+22
+24
+26
+
+AL
+
+7
+7
+9
+9
+9
+9
+9
+9
+9
+9
+9
+
+Dimensions (cm)
+
+Thickness (cm)
+
+Length
+
+Width
+
+Dark layer
+
+Ash layer
+
+Total
+
+120
+45
+100
+100
+130
+125
+55
+50
+30
+115
+30
+
+e
+40
+90
+e
+e
+e
+e
+50
+e
+75
+20
+
+0.5
+1
+12
+1
+0.5
+0.5
+1
+0.5
+0.5
+0.5
+1
+
+1
+1
+0.5
+1
+1
+1
+1
+1
+1
+1
+1
+
+1.5
+2
+12
+2
+1.5
+1.5
+2
+1.5
+1.5
+1.5
+2
+
+Fauna
+(counts)
+
+Lithics
+(counts)
+
+% Burned
+lithics
+
+145
+41
+135
+20
+e
+71
+20
+87
+24
+9
+38
+
+193
+44
+511
+208
+e
+162
+37
+136
+39
+93
+29
+
+33.7
+9.1
+17.6
+71.2
+e
+54.9
+73.0
+12.5
+15.4
+16.1
+3.4
+
+V. Aldeias et al. / Journal of Archaeological Science 39 (2012) 2414e2423
+
+second feature identiﬁed microscopically presents a thinner ash
+component and is overall less well-preserved.
+CF1 stands out in that at its center the lower dark component is
+12 cm thick and pinches out at its limits. However, CF1 is also the
+only combustion feature associated with a signiﬁcant depression,
+which may have acted as a sediment trap that tended to concentrate ﬁre residues, especially burned bone and burned lithics. It
+should be noted that the depression containing CF1 is entirely
+natural and reﬂects the rough, karstic nature of the cave ﬂoor. In no
+case are there indications (from either ﬁeld observation or thin
+section analyses) that any intentional modiﬁcation of the ground
+surface (for example the creation of depressions) was carried out in
+order to accommodate combustion features. Of the two features
+identiﬁed as ash dumps, CF12 has a thickness similar to that of the
+majority of the combustion features, but CF15 is signiﬁcantly
+thicker: in proﬁle section it is 7e8 cm thick at the center and looks
+very much like ash that has been piled there. This interpretation is
+further conﬁrmed by micromorphological observations, where the
+deposits associated with CF15 are expressed by a scattered mixture
+of bones (some burned), charcoal, coprolites, chert, and limestone
+fragments, including reworked clumps of ash. The sediments lack
+any structured sequence (see Supplementary material). All the
+combustion features that are complete enough to provide some
+idea of their shape can generally be described as sub-circular. Some
+(for example CF18a) are more irregular, but there is no apparent
+patterning. There are also no indications of any intentional
+arrangements of stones or other materials associated with any
+combustion features.
+4.2. Contents of the combustion features
+The artifactual content (materials  2.5 cm in maximum
+dimension) directly associated with combustion sediments tends
+to mimic the overall types of archaeological materials found
+
+2419
+
+elsewhere in the stratigraphic layers. Lithic artifacts characterize
+the majority of the assemblages in both AL7 and 9, with a total of
+4024 lithics versus 3599 bone fragments in AL7, and 8101 lithics
+versus 3632 bones in AL9. Similarly, there is a higher proportion of
+lithics relative to faunal remains in the sediments associated with
+CFs 1, 10, 16, 18a, 20, 23, and 24. An exception is combustion feature
+15, in which bone fragments make up 58% of the artifactual content.
+In the majority of the combustion features, there is actually a higher
+percentage of unburned lithics directly associated with the
+combustion sediments; exceptions to this are CF10 and 18a, where
+the percentage of burned lithics is higher than 50% (see Table 2).
+There is also no distinction in terms of the altimetric distribution
+(i.e., in term of depth, Z) between unburned versus burned lithics
+inside the features. The presence of unburned lithics within the
+inﬁlling of hearths most probably indicates that some of the artifacts were deposited after the ﬁre was extinguished. Micromorphological observations, expressed by the presence of in situ
+crushed and broken bones (Fig. S7g), for instance, suggest that
+trampling may have played a role in mixing these unburned lithics
+with other artifacts that were directly associated with the
+combustion event (Miller et al., 2010).
+4.3. Spatial distribution of the combustion features and associated
+objects
+A number of general observations can be made regarding the
+spatial distribution of individual combustion features at various
+levels of resolution, from intra-layer observations, to inter-layer
+observations, and ﬁnally to inter-feature observations.
+In terms of the distribution of combustion features within AL7
+and AL9, there is no apparent patterning either horizontally or
+vertically, other than some localized concentrations of combustion
+features (discussed in further detail below). The lack of any
+apparent horizontal patterning could potentially be due to a lack of
+
+Fig. 4. Spatial distribution of burned lithics (2.5 cm) in AL7. (a) Plan view plot of all burned lithics and their location on the site’s grid system; (b) Plan view of Kernel density map
+of burning if all lithics of AL7 are taken into account; (c) density maps showing the main subdivisions into combustion feature horizons throughout AL7, where elevated topographies corresponds to the location of higher densities of burned lithics and the circles (depicted in black) correspond to the limits of each combustion feature. CF ¼ combustion
+feature; AL ¼ Archaeological Layer.
+
+2420
+
+V. Aldeias et al. / Journal of Archaeological Science 39 (2012) 2414e2423
+
+Fig. 5. Spatial distribution of burned lithics (2.5 cm) in AL 9. (a) Plan view plot of all burned lithics and their location on the site’s grid system; (b) Plan view of Kernel density map
+of burning if all lithics of AL9 are taken into account; (c) Density maps showing the main subdivisions into combustion feature horizons throughout AL9, where elevated
+topographies corresponds to the location of higher densities of burned lithics and the circles (depicted in black) correspond to the limits of each combustion feature.
+CF ¼ Combustion Feature; AL ¼ Archaeological Layer.
+
+complete site data. Many of the deposits immediately adjacent to
+our own excavations were removed during the original excavations
+and a signiﬁcant portion of the basal layer deposits still remains on
+the terrace of the cave (units F to H, 20 to 24; Fig. 2). Perhaps with
+a more complete sample across the entire site some patterning in
+the horizontal distribution of combustion features would be
+detectable.
+4.3.1. Kernel density estimations
+If we take into account the overall concentration of burned
+lithics (Figs. 4b and 5b), the Kernel density maps show higher
+concentrations of burned lithics located inside the cave during the
+occupations associated with AL9, whereas in AL7 higher density
+percentages tend to be present toward the cave’s entrance in
+squares H-F 17-18. This patterning, however, seems to be related
+more to the bedrock topography at Roc de Marsal than to a deliberate placement of hearths by the Neandertals. In the area of
+
+squares J-L 16-18, the bedrock dips into the interior of the cave in
+a basin shaped morphology, a topographic feature that would have
+been prominent at the time of the ﬁrst occupations of the base of
+layer 9. Subsequent sedimentation of the remaining deposits of AL9
+and ultimately AL8 eventually ﬁlled in the micro-relief and essentially ﬂattened this area; by the time of the AL7 occupations, the
+topography of the occupied surface was roughly level.
+The Kernel Density Estimations for individual combustion
+feature horizons on both AL7 and AL9 indicate very limited
+patterning in the horizontal spatial relationship between hearths
+and the distribution of burned lithics (Figs. 4 and 5). Within each AL
+there are concentrations of burned lithics that seem to be associated with individual combustion features (e.g., CF horizon 4 in AL9).
+There are others, however, that have no association with any
+preserved, observable combustion features.
+Both AL7 and AL9 have localized concentrations of combustion
+features. In both layers these concentrations are the result of
+
+Fig. 6. Location of the stacked combustion features in AL7 on the site grid (left) and proﬁle photograph of these features in the ﬁeld (right).
+
+V. Aldeias et al. / Journal of Archaeological Science 39 (2012) 2414e2423
+
+2421
+
+Fig. 7. Location of the stacked combustion features in AL9 on the site grid (left) and proﬁle photograph of these features in the ﬁeld (right).
+
+subsequent occupants of the site constructing their ﬁres directly (or
+almost directly) on top of previously abandoned combustion
+features. That these stacked sequences of features represent
+multiple occupations and/or signiﬁcant temporal hiatuses between
+events is indicated by several facts. The ﬁrst is that in both AL7 and
+AL9 such sequences span the whole thickness of the archaeological
+layer; even if rates of deposition were relatively high, the deposition of either of these layers must represent many years. Second, in
+most cases very thin layers (<1 cm) of non-anthropogenic sediments cover the previous combustion feature. Micromorphological
+evidence also indicates mm-thick phosphatic weathering crusts
+that commonly occur on top of combustion features, again indicating some passage of time between the stacked combustion
+events. In some cases, however, the individual combustion features
+within the stacked sequence were not separated by intervening
+sediments.
+The stacking of some of the hearths, especially when the
+previous one was already covered with sediment and therefore not
+visible, implies some degree of consistent placement of these
+features. The location of such stacked features differs between AL7
+and AL9.
+In AL7, a stacked series of combustion features (which, based on
+ﬁeld observations, included at least CFs 3, 5 and 11) was located
+beyond the dripline of the cave mouth, even if we estimate that the
+roof may have extended out another meter at the time of occupation (Fig. 6). The stacked combustion features in AL9 (CFs 24, 23, 21,
+and 18a/18b) was situated midway between the cave walls and
+spans the current dripline of the cave mouth; most likely these
+hearths would have been inside of the dripline when they were
+active (Fig. 7).
+5. Discussion and conclusions
+Both ﬁeld and microstratigraphic observations attest to the
+well-preserved nature of ﬁre residues in AL7 and AL9 at Roc de
+Marsal. From a ﬁeld macrostratigraphic perspective, the combustion features are, for the most part, easily distinguishable and
+horizontally delimited from the surrounding deposits. This occurrence contrasts with what the authors encountered during excavations at Pech de l’Azé IV, another cave site in the region, which
+also contains signiﬁcant concentrations of slightly older ﬁre residues. At Pech de l’Azé IV, individual combustion features were
+apparent in section, and in plan view their horizontal limits were
+blurred due to lateral ‘bleeding’ of combustion residues, the result
+of natural and/or anthropogenic processes (Goldberg et al., 2012;
+Dibble et al., 2009). At Roc de Marsal, on the other hand, the
+majority of the ﬁre features seem to have been constructed, used,
+and abandoned without major reworking or displacement of the
+
+residues by subsequent occupations of the site and/or by natural
+processes.
+The high-resolution microstratigraphic analyses have proven to
+be extremely useful. For example, views of the ﬁre-associated
+sediments in thin section allowed for the identiﬁcation of several
+independent, mm-thick, superimposed combustion events that are
+virtually undistinguishable during excavation (e.g., CF10, CF18a and
+CF20 e see Supplementary Materials, and Goldberg et al., 2012).
+These analyses also allowed for the high-resolution characterization of the nature and the degree of integrity of individual ﬁre
+events. Overall, the evidence shows that the majority of the identiﬁed combustion features in AL7 and 9 represent intact, in-place
+features, that is, with minimum or no displacement from their
+original position. There are a couple of exceptions. CFs 12 and 15
+were interpreted as ash dumps and, therefore, do not represent inplace burning. CF 27, located in AL10 and one of the ﬁrst identiﬁable
+ﬁre events at the site, is the only example of a feature without an
+ash component and is characterized instead by the presence of
+a ﬁre-reddened substrate. This rubeﬁcation indicates erosion of
+part of the original deposits (namely ashes and charcoal components). Other visible post-depositional alterations are related to
+trampling, diagenetic alteration of the ashes (namely in the areas of
+squares K16-18) and phosphate accumulation on an exposed
+surface, indicating a periodic abandonment of the site.
+The results of our spatial analyses show that there is no striking
+patterning of the Roc de Marsal combustion features, with the
+exception of minor differences in the location of stacked hearths
+and a difference in the concentration of combustion features
+primordially inside the cave during AL9 times and more toward the
+cave mouth during AL7. The data from the intra-layer analyses
+demonstrate that, for the majority of the features, there is no
+association between the distribution of burned lithics and the
+location of the combustion features. In fact, concentrations of
+burned lithics are dispersed throughout a surface, even though
+combustion features are often well-preserved and in-place.
+It is too early to say that the lack of evidence for any structured
+spatial organization reﬂects the lack of such behaviors of the
+hominins who occupied the site, since this could be due to several
+factors. There is no question, for example, that the area exposed
+during our own excavations was quite limited, and for the most part
+was only 1 m wide. Furthermore, trampling and other kinds of
+bioturbation may have resulted in some lateral movement, but
+evidence for such effects on any kind of signiﬁcant scale is lacking.
+Examples of concentrations of burned artifacts not in association
+with an identiﬁable combustion feature may reﬂect a natural loss of
+preservation of the features, though this is difﬁcult to prove if no
+evidence remains. Finally, actions taken by the hominins themselves e such as the purposeful raking out of hearth deposits and
+
+2422
+
+V. Aldeias et al. / Journal of Archaeological Science 39 (2012) 2414e2423
+
+subsequent dumping of the contents elsewhere (as in CF15; see
+Supplementary Material) and/or the recycling of previously
+deposited lithic artifacts, can signiﬁcantly alter original distributional patterns.
+It was originally hoped that particular excavation and analytical
+techniques, such as those developed for other sites (e.g., Abric
+Romaní, Spain (Vaquero and Pastó, 2001; Vallverdú et al., 2012;
+Courty et al., 2012)], El Mirón, Spain (Marín Arroyo, 2009), Mandrin, France (Yvorra, 2003), Gesher Benot Ya’aqov, Israel (AlpersonAﬁl et al., 2009), or at Tor Faraj, Jordan (Henry et al., 2004; Henry,
+2012)) would help to expose any spatial patterning on the assemblages. Unfortunately, such techniques were not successful,
+perhaps due to several reasons. For example, one of the main
+methodological constraints on looking for spatial patterning is
+deﬁning the scales of analyses to use (see for e.g., Vaquero, 2008).
+Quite simply, if the goal is to investigate how Neandertals were
+using the space available to them, including where they decided to
+put their combustion features, then the ﬁrst step is to decide how
+best to deﬁne an ‘occupational surface’. In the case of Roc de Marsal,
+as at most sites of this age, there are archaeological layers that are
+obviously deposited over a geological time scale (i.e., over hundreds
+and probably even thousands of years), and therefore these layers
+clearly incorporate many distinct occupations with potentially
+different occupational strategies. At the other end of our resolution
+are the thin sections taken for micromorphological analysis, where
+it is possible to recognize micro-strata of much more limited
+duration, including superimposed combustion features that are not
+recognizable in the ﬁeld (see Goldberg et al., 2009). Although these
+micro-strata may be clearly visible under a microscope, it is
+impossible to trace them out beyond the sample itself and thereby
+deﬁne penecontemporaneous occupation surfaces. This, then,
+makes it impossible to extrapolate the original occupation surface
+at the time that a combustion feature is being used.
+Unfortunately, this was the case even though every attempt was
+made to expose surfaces using a décapage excavation technique. In
+fact, our experience at both Roc de Marsal and Pech de l’Azé IV has
+shown that such an excavation technique is too dependent on the
+abundance of artifacts and decisions made by individual excavators.
+Furthermore, the use of this technique will result in “surfaces” even
+if artifacts are both horizontally and vertically randomly distributed, and there is no way to conﬁrm or deny that such surfaces
+represent true occupational surfaces. Even from a theoretical
+perspective, any surface occupied in the past undoubtedly included
+a relatively thick “active zone” of several centimeters into which
+artifacts were pushed and from which artifacts were incidentally
+dislodged or actively selected for further use. In sum, it is our
+conclusion that these approaches are not particularly useful, and
+that the surfaces thus exposed are essentially an artifact of the
+method itself.
+In conclusion, it is clear that the basal AL7 and AL9 of Roc de
+Marsal contain several combustion features e hearths e that are
+exceptionally well-preserved. This observation alone is ample
+evidence that European Neandertals of MIS 5-4 were able to control
+ﬁres e if not able to start them e and that at certain times they used
+it to a considerable degree (Sandgathe et al., 2011a). What we have
+shown here is that considerable information can be gleaned from
+these features through the application of high-resolution techniques such as micromorphology and FTIR analysis (see
+Supplementary Material for details). However, in spite of their
+almost “pristine” state of preservation, the difﬁculty of using such
+features as anchors for understanding Neandertal behavioral
+activities has shown to be challenging, both because of the intrinsic
+nature of archaeological sediments and the inherent difﬁculty to
+assess the degree of contemporaneity of archaeological features
+and associated assemblages.
+
+It is clear that by the time of the Middle Paleolithic, evidence for
+controlled ﬁre occurs more frequently than before (Roebroeks and
+Villa, 2011), though there is still much more to be learned about
+Neandertal use of ﬁre, especially concerning its functions and the
+role it may have played in Mousterian adaptations to particular
+conditions. Simply documenting the presence of burning does little
+to inform us on these questions. Thus, there is still a clear need for
+more systematic publication of detailed analyses and descriptions
+of such features from a variety of sites.
+Acknowledgments
+The research at Roc de Marsal had the ﬁnancial support of the US
+National Science Foundation (Grants #0917739 and #0551927), the
+Leakey Foundation, and the University of Pennsylvania Research
+Foundation, the Service Régional de l’Archéologie, and the Conseil
+Général de la Dordogne. We would like to thank Steve Schwortz for
+ﬁeld observation of combustion features.
+Appendix. Supplementary data
+Supplementary data related to this article can be found online at
+doi:10.1016/j.jas.2012.01.039.
+References
+Alperson-Aﬁl, N., Sharon, G., Kislev, M., Melamed, Y., Zohar, I., Ashkenazi, S.,
+Rabinovich, R., Biton, R., Werker, E., Hartman, G., Feibel, C., Goren-Inbar, N.,
+2009. Spatial organization of hominin activities at Gesher Benot Ya‘aqov, Israel.
+Science 326, 1677e1680.
+Anderson, K.L., Burke, A., 2008. Reﬁning the deﬁnition of cultural levels at Karabi
+Tamchin: a quantitative approach to vertical intra-site spatial analysis. Journal
+of Archaeological Science 35, 2274e2285.
+Baquedano, E., Bermúdez de Castro, J.M., Pérez-González, A., Marquez, B., 2004.
+Excavaciones arqueológicas en Pinilla del Valle (Madrid). IV Congresso de
+Arqueologia Peninsular. Faro (Portugal) 2004.
+Berna, F., Goldberg, P., 2008. Assessing Paleolithic pyrotechnology and associated
+hominin behavior in Israel. Israel Journal of Earth Sciences 56, 107e121.
+Bordes, F., 1975. Le gisement de Pech de l’Azé IV: Note préliminaire. Bulletin de la
+Société Préhistorique Française 72, 293e308.
+Bordes, F., Laﬁlle, J., 1962. Paléontologie humains: découverte d’un squelette d’enfant moustérien dans le gisement du Roc de Marsal, commune de Campagne du
+Bugue (Dordogne). Comptes Rendus de l’Académie des Sciences 254, 714e715.
+Cabanes, D., Mallol, C., Exposito, I., Baena, J., 2010. Phytolith evidence for hearths
+and beds in the late Mousterian occupations of Esquilleu cave (Cantabria,
+Spain). Journal of Archaeological Science 37, 2947e2957.
+Courty, M.-A., Carbonell, E., Poch, J.V., Banerjee, R., 2012. Microstratigraphic and
+multi-analytical evidence for advanced Neanderthal pyrotechnology at Abric
+Romani (Capellades, Spain). Quaternary International 247, 294e312.
+Dibble, H.L., Chase, P.G., McPherron, S.P., Tuffreau, A., 1997. Testing the reality of
+a "living ﬂoor" with archaeological data. American Antiquity 62, 629e651.
+Dibble, H.L., Berna, Francesco, Goldberg, Paul, McPherron, Shannon P.,
+Mentzer, Susan, Niven, Laura, Richter, Daniel, Sandgathe, Dennis, ThéryParisot, Isabelle, Turq, A., 2009. A Preliminary Report on Pech de l’Azé IV, Layer
+8 (Middle Paleolithic, France). PaleoAnthropology, 182e219.
+Dibble, H.L., Lenoir, M., 1995. The Middle Paleolithic Site of Combe-Capelle Bas
+(France). University Museum Monograph, Philadelphia.
+Dibble, H.L., McPherron, S.P., 2006. The missing mousterian. Current Anthropology
+47, 777e803.
+Galanidou, N., 2000. Patterns in caves: foragers, horticulturists and the use of space.
+Journal of Anthropological Archaeology 19, 243e275.
+Goldberg, P., Berna, F., 2010. Micromorphology and context. Quaternary International 214, 56e62.
+Goldberg, P., Dibble, H., Berna, F., Sandgathe, D., McPherron, S.J.P., Turq, A., 2012.
+New evidence on Neandertal use of ﬁre: examples from Roc de Marsal and Pech
+de l’Azé IV. Quaternary International 247, 325e340.
+Goldberg, P., Miller, C.E., Schiegl, S., Ligouis, B., Berna, F., Conard, N.J., Wadley, L.,
+2009. Bedding, hearths, and site maintenance in the middle stone age of Sibudu
+cave, KwaZulu-Natal, south Africa. Archaeological and Anthropological Sciences
+1 (2), 95e122.
+Gómez, D.d.l.R., Mallol, C., Galván, B.S., Hernández, C.M.G., 2010. Una visión geoarqueológica general del yacimiento musteriense de El Salt (Alcoy, Alicante)
+a partir de la micromorfología de suelos. Recerques del Museu d’Alcoi 19,
+19e32.
+Henry, D.O., Hietala, H.J., Rosen, A.M., Demidenko, Y.E., Usik, V.I., Armagan, T.L.,
+2004. Human behavioral organization in the Middle Paleolithic: were Neanderthals different? American Anthropologist 106, 17e31.
+
+V. Aldeias et al. / Journal of Archaeological Science 39 (2012) 2414e2423
+Henry, D.O., 2012. The palimpsest problem, hearth pattern analysis, and Middle
+Paleolithic site structure. Quaternary International 247, 246e266.
+Leroi-Gourhan, A., 1984. Pincevent: campement magdalenien de chasseurs de
+rennes, Guides archaeologiques de la France. Ministere de la culture Direction
+du Patrimoine Sous-directon de l’archeologie, Paris.
+Mallol, C., Cabanes, D., Baena, J., 2010. Microstratigraphy and diagenesis at the
+upper Pleistocene site of Esquilleu cave (Cantabria, Spain). Quaternary International 214, 70e81.
+Mallol, C., Marlowe, F.W., Wood, B.M., Porter, C.C., 2007. Earth, wind, and ﬁre:
+ethnoarchaeological signals of Hadza ﬁres. Journal of Archaeological Science 34,
+2035e2052.
+Marín Arroyo, A.B., 2009. Assessing what lies beneath the spatial distribution of
+a zooarchaeological record: the use of GIS and spatial correlations at El Mirón
+Cave (Spain). Archaeometry 51, 506e524.
+McPherron, S.P., Dibble, H., 2002. Using Computers in Archaeology: a Practical
+Guide. McGraw Hill, New York.
+Mercier, N., Valladas, H., Froget, L., Joron, J.L., Reyss, J.L., Weiner, S., Goldberg, P.,
+Meignen, L., Bar-Yosef, O., Belfer-Cohen, A., Chech, M., Kuhn, S.L., Stiner, M.C.,
+Tillier, A.M., Arensburg, B., Vandermeersch, B., 2007. Hayonim Cave: a TL-based
+chronology for this Levantine Mousterian sequence. Journal of Archaeological
+Science 34, 1064e1077.
+Miller, C.E., Conard, N., Goldberg, P., Berna, F., 2010. Dumping, sweeping and
+trampling: experimental micromorphological analysis of anthropogenically
+modiﬁes combustion features. In: Théry-Parisot, I., Chabal, L., Costamagno, S.
+(Eds.), The Raphonomy of Burned Organix Residues and Combustion Features in
+Archaeological Contexts, Palethnologie, Proceedings od the round table, Valbonne, May 27e29, pp. 25e37.
+Roebroeks, W., Villa, P., 2011. On the earliest evidence for habitual use of ﬁre in
+Europe. Proceedings of the National Academy of Sciences of the United States of
+America 108, 5209e5214.
+Sandgathe, D., Goldberg, P., Dibble, H., McPherron, S.P., Turq, A., Schwortz, S., 2008.
+Roc de Marsal (Campagne-de-Bugue, Dordogne). Rapport d’Operation pour
+l’Annee 2008. Report on ﬁle with the Service Regional de l’Archaeologie,
+Bordeaux.
+Sandgathe, D.M., Dibble, H.L., Goldberg, P., McPherron, S.P., Turq, A., Niven, L.,
+Hodgkins, J., 2011a. On the Role of Fire in Neandertal Adaptations in Western
+Europe: Evidence from Pech de l’Azé and Roc de Marsal, France. PaleoAnthropology, 216e242.
+
+2423
+
+Sandgathe, D.M., Dibble, H.L., Goldberg, P., McPherron, S.P., Turq, A., Niven, L.,
+Hodgkins, J., 2011b. Timing of the appearance of habitual ﬁre use. Proceedings
+of the National Academy of Sciences of the United States of America 108.
+Sandgathe, D.M., Dibble, H.L., Goldberg, P., McPherron, S.P., 2011c. The Roc de
+Marsal Neandertal child: a reassessment of its status as a deliberate burial.
+Journal of Human Evolution 61, 243e253.
+Schiegl, S., Goldberg, P., Bar-Yosef, O., Weiner, S., 1996. Ash deposits in Hayonim and
+Kebara caves, Israel: macroscopic, microscopic and mineralogical observations,
+and their archaeological implications. Journal of Archaeological Science 23,
+763e781.
+Schiegl, S., Stockhammer, P., Scott, C., Wadley, L., 2004. A mineralogical and phytolith study of the middle stone age hearths in Sibudu cave, KwaZulu-Natal,
+South Africa. South African Journal of Science 100, 185e194.
+Texier, P.-J., Porraz, G., Parkington, J., Rigaud, J.P., Popggenpoel, C., Miller, C.E.,
+Tribolo, C., Cartwright, C., Coudenneau, A., Klein, R.G., Steele, T., Verna, C., 2010.
+A Howiesons Poort tradition of engraving ostrich eggshell containers dated to
+60,000 years ago at Diepkloof Rock Shelter, South Africa. PNAS 107, 6180e6185.
+Turq, A., 1979. L’Evolution du Moustérian de Type Quina au Roc de Marsal et en
+Périgord. Modiﬁcations de l’équilibre téchnique et typologique. Mémoire,
+L’Ecole des Hautes Etudes en Sciences Sociales.
+Turq, A., Dibble, Harold, Faivre, Jean Philippe, Goldberg, Paul, McPherron, Shannon
+J.P., Sandgathe, D., 2008. Le moustérien Récent du Périgord Noir: Quoi de Neuf ?
+In: Jaubert, J., Bordes, J.-G., Ortega, I. (Eds.), Les Sociétés du Paléolithique dans
+un Grand Sud-ouest de la France: nouveaux gisements, nouveaux résultats,
+nouvelles méthodes. Mémoire de la Société Préhistorique Française, pp. 83e94.
+Vallverdú, J., Alonso, S., Bargalló, A., Bartrolí, R., Campeny, G., Carrancho, Á,
+Expósito, I., Fontanals, M., Gabucio, J., Gómez, B., Prats, J.M., Sañudo, P., Solé, À,
+Vilalta, J., Carbonell, E., 2012. Combustion structures of archaeological level O
+and mousterian activity areas with use of ﬁre at the Abric Romaní rockshelter
+(NE Iberian Peninsula). Quaternary International 247, 313e324.
+Vaquero, M., 2008. The history of stones: behavioural inferences and temporal
+resolution of an archaeological assemblage from the Middle Palaeolithic. Journal of Archaeological Science 35, 3178e3185.
+Vaquero, M., Pastó, I., 2001. The deﬁnition of spatial units in Middle Palaeolithic
+sites: the hearth-related assemblages. Journal of Archaeological Science 28,
+1209e1220.
+Yvorra, P., 2003. The management of space in a Palaeolithic rock shelter: deﬁning
+activity areas by spatial analysis. Antiquity 77, 336e344.
+
+

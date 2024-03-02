@@ -1,0 +1,1375 @@
+Journal of Archaeological Science 39 (2012) 836e847
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Fuel, Fire and Heat: an experimental approach to highlight the potential of
+studying ash and char remains from archaeological contexts
+Freek Braadbaart a, b, *, Imogen Poole c, Hans D.J. Huisman d, e, Bertil van Os d
+a
+
+Department of Earth Sciences-Geochemistry, Faculty of Geosciences, Utrecht University, P.O. Box 80021, 3058 TA Utrecht, The Netherlands
+Faculty of Science, Institute of Biology, Leiden University, P.O. Box 9505, 2300 RA Leiden, The Netherlands
+c
+School of Geosciences, Geology and Petroleum Geology, University of Aberdeen, King’s College, Aberdeen, AB24 3FX, Scotland, UK
+d
+Cultural Heritage Agency, P.O. Box 1600, 3800 BP Amersfoort, The Netherlands
+e
+Faculty of Archaeology, Leiden University, P.O. Box 9500, 2300 RA Leiden, The Netherlands
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 18 November 2010
+Received in revised form
+11 March 2011
+Accepted 10 October 2011
+
+As in traditional societies today ancient societies probably selected different fuels to meet speciﬁc heat
+requirements. Char and ash, the end products of ﬁre, are often found in abundance in archaeological
+contexts. These end products can provide information regarding (i) the original fuel resource and type,
+(ii) the characteristics of the ﬁre and (iii) combined with other archaeological evidence shed further light
+on possible socio-economic activity(-ies) associated with that ﬁre. The three main fuel resources would
+have been (i) modern vegetation, (ii) fossil fuel and (iii) animal by-products. Local availability and
+abundance would have inﬂuenced the choice made.
+In this study an experimental approach was adopted to try and distinguish between the three different
+fuel resources that are known to have been used by ancient societies (and continue to be used by
+traditional societies today) from their char and ash remains to help determine original fuel-type and
+understand the relative heating properties. For this end one fuel-type from each fuel resource listed
+above, namely wood, peat and cow dung, was chosen.
+Ó 2011 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Fire
+Heat
+Fuel
+Combustion
+Wood
+Peat
+Dung
+Ash
+Char
+Reﬂectance
+Phytoliths
+Archaeobotany
+
+1. Introduction
+Direct generation of heat, through combustion and release of
+stored energy in a fuel, can be considered to be one of the most
+important technological advances. For ancient societies ﬁre was the
+controlled means by which this energy could be released and the
+fuel needed for such heat generation would have been carbon-rich,
+organic material. The fuel would have originated from one of three
+main resources, namely (i) modern vegetation, (ii) fossil fuel or (iii)
+animal by-products. Wood is an obvious example of a fuel-type
+obtained from a modern vegetation resource, but today in regions
+where wood is limiting other carbon-rich fuel-types, such as turf,
+seaweed and agricultural rest products such as harvest residues are
+used. In addition fossil fuels, including peat, and animal by-product
+
+* Corresponding author. Department of Earth Sciences-Geochemistry, Faculty of
+Geosciences, Utrecht University, P.O. Box 80021, 3058 TA Utrecht, The Netherlands.
+E-mail address: brabra@wxs.nl (F. Braadbaart).
+0305-4403/$ e see front matter Ó 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2011.10.009
+
+fuels, including fat (blubber) and dung, can also be used (e.g.
+Church et al., 2007; Samuel, 1989; Shahack-Gross, 2011). Therefore
+in all likelihood ancient societies also utilised fuel-types from
+different fuel-categories for the same reason. Most published
+literature focusing on fuels from the archaeological record is
+restricted to one fuel-type from one fuel resource (e.g. modern
+vegetation: Théry-Parisot et al., 2010; Out, 2009; Albert et al., 2000,
+2008; fossil: Branigan et al., 2002; animal by-products: Matthews,
+2010; Miller, 1984; Shahack-Gross, 2011; Shahack-Gross et al.,
+2005), rather than a direct comparison between fuel-types from
+different resources, their distinguishing properties and implications for the archaeological context.
+This study focuses on the comparative differences between
+three fuels, one from each fuel resource in order to determine
+(i) the means by which fuel-types from different resources can be
+distinguished in archaeological contexts, and (ii) the possible social
+reasoning behind the selection of one fuel-type over another
+(Matthews, 2010) to enhance and facilitate a greater understanding
+of the archaeological contexts in which ﬁre remains are found. For
+
+F. Braadbaart et al. / Journal of Archaeological Science 39 (2012) 836e847
+
+this purpose three different experiments were performed on three
+different fuel-types, one from each resource, and the results
+compared. First an overview is provided at to what is meant by the
+combustion process of a fuel and how the aims of this study can be
+realised.
+Combustion is the process by which matter burns. To initiate
+combustion an interaction has to take place between the fuel, the
+air (oxygen) and the heat from an external heat source e the three
+basic elements of the ﬁre triangle (Emmons and Atreya, 1982). If
+one of these elements is missing, no ﬁre is possible. Once a heat
+source has been introduced to the fuel, heat is absorbed (endothermic phase) and the heated fuel begins to increase in temperature. Once a temperature of 280e300  C is reached a chemical
+process starts that leads to the thermal degradation of the organic
+components (Shaﬁzadeh, 1981; Braadbaart and Poole, 2008)
+producing volatile gases and a carbonaceous residue. The presence
+of air (oxygen) enables both newly formed products to oxidize and
+as a result the heat-generating (exothermic) phase can begin. The
+volatile gases will produce ﬂames and release heat thereby representing the most recognizable and signiﬁcant part of a ﬁre e the
+ﬂaming combustion phase. The properties of the carbonaceous
+residue relate to both the heating conditions and the properties of
+the original fuel but are usually highly reactive and porous, which
+facilitates oxidation and in turn also releases its potential energy.
+Two further combustion phases can be distinguished in the
+generation of heat from a fuel: the smouldering phase and the
+glowing phase. The smouldering phase is characterised by the lack
+of ﬂames and much smoke and is associated with conditions where
+oxygen is limited such as in tightly packed fuels (e.g. peat or dung).
+The glowing phase is characterized by a yellow glow and no smoke
+and only embers are visible. When enough air and heat are available the carbonaceous residue, as well as the volatile gases, will
+undergo complete combustion producing an ash end product. The
+ash contains the incombustible, inorganic compounds present in
+the original fuel, such as the minerals calcium, potassium and silica
+and their oxides and carbonates.
+When oxygen and/or the external heat source are limited and
+temperatures drop to below 300  C any further combustion or
+thermal degradation of the fuel constituents is prevented and the
+ﬁre becomes extinguished. A black carbonaceous residue of
+incompletely- and non-combusted organic material usually referred to as char, result (Braadbaart and Poole, 2008). Char can be
+deﬁned as the solid carbonaceous residue that remains after the
+volatile gases are released from solid organic material during its
+initial stage of heating. Such residues are termed charcoal if the
+original fuel-type was wood. For all other organic residues the
+name of the original material has to be added to clarify the type of
+char (e.g. grass char, peat char, wheat grain char etc.).
+Purposeful thermal degradation in the absence of air, a process
+usually referred to as carbonisation or pyrolysis, can also be used to
+produce a char fuel (e.g. charcoal), as the carbon content, and thus
+caloriﬁc value, increases signiﬁcantly. The heat generated from char
+produced in this way is around 50% higher than its original
+biomass. It has even been suggested that this new type of fuel was
+the ﬁrst synthetic material produced by humans and its ancestors
+(Antal and Grønli, 2003).
+The ash and char remains provide the only indication of the
+original fuel-type and thus its resource. Since both ash and char are
+frequently recovered from archaeological contexts and the fueltype has the potential to provide further insights into the workings of an ancient society, an investigation was conducted into the
+structural, physical and elemental properties of one fuel-type
+(i.e. wood, peat and cow dung) from each of the three main
+fuel-categories. Studies of the organic and inorganic residues, both
+visible and invisible to the naked eye, help illustrate this potential
+
+837
+
+source of data within the ash and char remains preserved within
+archaeological contexts that can help further understanding of past
+human behaviour not only in terms of fuel selection, but also the
+basis on which a society may have selected a particular fuel-type, as
+well as providing information pertaining to the relative level of
+generation, control and application of heat (pyrotechnology) used
+in past societies. This is important as the degree of (pyro)technology afforded by one society over another is taken as a measure
+of the level or quality of civilisation of that society (Goudsblom,
+1992; Mumford, 1963).
+2. Material
+Three fuel-types from different fuel resources were used for the
+experiments: wood fuel-type from a modern vegetation fuel
+resource, peat fuel-type from a fossil fuel resource, and cow grass
+dung from an animal by-product fuel resource.
+Wood samples, at least 10 cm in diameter, had been air-dried for
+about one year and were obtained from the existing stock at the
+Schothorst Early Medieval Farm (Amersfoort, the Netherlands).
+Peat was collected from the Meerstalblok, the central part of the
+bog reserve at Bargerveen (located southeast of Emmen in the
+north-eastern part of the Netherlands) where peat has been cultivated and cut for centuries (Boon et al., 1986). The peat samples
+were air-dried for one month prior to use.
+Dung from Galloway cows, air-dried for one month, was
+collected in the spring of 2008 from the farm at the Medieval Yard
+Schothorst (which forms part of the Centre for Nature- and
+Environmental Education on the Schothorst Estate, near Amersfoort). This farm practices traditional medieval animal husbandry
+where, in spring and summer, the cows graze on meadow grass.
+Mineral supplements are only given when absolutely necessary
+and then in very small quantities. The cow dung is therefore grass
+derived as opposed to being derived from a more varied vegetation which would have been the case had the cows been able to
+roam freely.
+3. Methods
+3.1. Analyses of the original fuel types
+3.1.1. Structure
+The morphological structure of each fuel was examined by
+incident light microscopy using a Zeiss Axioskop microscope.
+3.1.2. Water and ash content
+Water and ash content of the three fuels were measured on the
+Thermogrametric Analyser TGA 2950 Hi-res. The carrier gas was air
+and the heating rate was set at 25  C min1. The water content was
+determined at 105  C and ash content at 950  C.
+3.1.3. Molecular analyses
+The molecular composition of the fuels was investigated using
+direct temperature-resolved mass spectrometry (DTMS) under
+electron ionization (EI) conditions with a JEOL SX-102A double
+focusing mass spectrometer (B/E) with a direct inserted probe
+equipped with a Pt/Rh (9/1) ﬁlament. For further details see
+Braadbaart (2004).
+3.2. Heating properties of the investigated fuels
+Experiments were performed in the summer of 2008 in Schothorst using the existing hearth situated inside the building of the
+Early Medieval farm. The hearth had a base of clay on to which
+stones were placed to form a circle with a diameter of 80 cm. In this
+
+838
+
+F. Braadbaart et al. / Journal of Archaeological Science 39 (2012) 836e847
+
+way the inﬂuence of extrinsic conditions was kept to an absolute
+minimum whilst retaining the authenticity of the experimental
+set-up. To determine the degree of variability with regard to the
+extrinsic conditions within the farm building three initial experiments were performed on different days at different ambient
+temperatures. Peat was used to bring 3 L water to the boil in the
+kettle later used for the Water Boiling Test (see Section 3.2.1). The
+mean time taken for the water to reach boiling point was 35.7 min
+(SD ¼ 0.7) consuming a mean mass of peat of 910 g (SD ¼ 22.4) with
+95% conﬁdence intervals. To ensure experimental consistency we
+made sure that subsequent experiments met these conﬁdence
+limits.
+3.2.1. Water Boiling Test
+To compare the heating qualities of the three fuels an adaptation
+of the standard Water Boiling Test (VITA, 1985) was used. For each
+fuel-type a ﬁre was laid using small specimens of each fuel in the
+clay hearth inside the Medieval farm house. The ﬁre was lit by
+introducing a lighted match to the fuel. As soon as a steady ﬁre was
+established with a temperature of around 600  C an iron kettle ﬁlled
+with 3 liters (L) of water was hung over at a height of 20 cm above
+the base of the hearth and a set of three experiments was then
+performed. For each experiment the following were recorded:
+(i) The time in minutes and mass in grams (g) of the fuel subsequently needed to bring the water in the kettle to boiling point; (ii)
+once boiling point had been reached, the mass of fuel (g) needed to
+keep the water simmering for 60 minutes; (iii) the minimum
+amount of fuel (g) necessary to keep the ﬁre alight for a further
+60 minutes. The maximum temperature reached within each ﬁre
+was measured using a handheld MERA KJ-12 thermometer equipped with a K-type thermocouple. After the Water Boiling Test (WBT)
+had been undertaken the ﬁre was left to self-extinguish and the ash
+and char remains from each fuel were collected for further study.
+3.3. Analyses of the different ash residues
+3.3.1. Structure
+Thin sections of each ash residue were made by mixing the ash,
+with as much char residue removed as possible, of each fuel with
+resin (Araldite 2020A and as hardener 2020B) and leaving it to set
+for 48 hours. The sections were then polished to a thickness of
+30 mm and studied using a Zeiss Axioskop 40 microscope. For
+a more detailed observation of phytoliths and calcium-oxalate
+crystals, ash samples were mixed with little water, mounted on
+glass slides and examined using trans-illumination under a NikonOptiphot2 microscope.
+3.3.2. Granulometry
+The particle size distribution of each ash sample was determined by laser diffraction (Malvern Mastersizer 2000 coupled with
+a Hydro 2000G inlet). The particles larger than 2000 mm were
+removed and the particle size distribution range was measured
+between 0.1 and 2000 mm. Each ash residue was measured as
+recovered from the ﬁreplace (i.e. untreated) and again after treatment with 10% HCl and 30% H2O2, whereby calcium carbonate and
+organic material were removed.
+3.3.3. pH and elemental analysis
+The pH for each of the three ash residues was measured
+following the speciﬁcations outlined in NEN 5750, 1989. Subsequently the chemical composition of each ash residue was
+measured using a handheld XRF Thermo Scientiﬁc Niton XL3t
+device with GOLDD detector equipped with a silver anode operating at a maximum of 50 kV and 40 uA. This device is well suited
+for the measurement of up to 25 elements simultaneously in the
+
+analytical range between magnesium (atomic number 12) and
+uranium (atomic number 92). Light elements (magnesium,
+aluminium, silica and phosphorous) were measured using a helium
+purge. The samples were measured in bulk mode (mining programme). The device was factory calibrated and further soil
+standards were also measured.
+3.4. Properties of the different char residues
+3.4.1. Structure
+From each char residue 3 randomly selected samples were
+embedded in resin and polished in accordance with standard
+methods deﬁned in ISO 7404, part 2 (1985). The structural
+morphology of these samples was then examined under reﬂected
+light and oil immersion using a Leitz motorized DMLA microscope
+equipped with a xyz-stage and a Basler video camera.
+3.4.2. Reﬂectance
+In order to determine the temperature to which each char
+specimen had been subject within each ﬁre, reﬂectance measurements were performed on the three char samples embedded in
+resin and polished as described in 3.4.1. (see Braadbaart and Poole,
+2008 for details). Reﬂectance was measured under oil immersion at
+a wavelength of 546 nm using the above described Leitz microscope. For each sample a total of at least 100 randomly performed
+reﬂectance readings were taken (to obtain a statistically acceptable
+population) and the mean reﬂectance calculated. Reﬂectance
+measurements were performed in accordance with standard
+methods deﬁned in ISO 7404, part 5 (1994). The temperatures
+derived from the measurements were then compared with
+the temperatures attained within each ﬁre as measured by the
+handheld MERA KJ-12 thermometer equipped with a K-type
+thermocouple.
+4. Results
+4.1. Analyses of the original fuel types
+4.1.1. Structure
+The wood fuel from Schothorst farm was identiﬁed from its
+anatomy as oak (Quercus sp.). The sample of peat collected from
+Bargerveen was brown in colour and comprised partially decomposed plant material that included leaves of Erica tetralis, ﬁbres of
+Eriophorum vaginatum, sclerenchymatous ﬁbres and ericaceous
+rootlets. No evidence of moss was observed. The cow dung from
+Schothorst comprised partly decomposed grass ﬁbres (>90%) with
+many hairs running through it.
+4.1.2. Water and ash content
+The water content of the oak wood sample after one year of air
+drying was 9.21 wt% (Table 1). The water content of the fresh
+samples of peat and cow dung were naturally higher, with that of
+peat being 35.3 wt% and cow dung 49.3 wt%. After one month of air
+drying the water content of both had fallen to 12.4 wt% and 7.9 wt%
+for peat and cow dung respectively.
+
+Table 1
+Water and ash content of fuels used in the experiments.
+Fuel type
+
+Collection date
+
+H2O
+(wt%)
+
+Combustion
+date
+
+H2O
+(wt%)
+
+Ash
+(wt%)
+
+Wood
+Peat
+Cow dung
+
+15e07e2008
+21e07e2008
+02e06e2008
+
+9.21a
+35.3
+49.3
+
+18e08e2008
+22e08e2008
+28e08e2008
+
+9.21a
+12.4
+7.9
+
+0.9
+1.3
+33.9
+
+a
+
+Same values as sample was already air dry.
+
+F. Braadbaart et al. / Journal of Archaeological Science 39 (2012) 836e847
+
+The ash content of both the wood and peat samples was in the
+order of 1 wt% whereas the cow dung sample had a much higher
+ash content of 33.9 wt% (Table 1).
+4.1.3. Molecular analysis
+The DTMS-EI spectra of the untreated samples of the three fuels
+show an almost identical ion distribution representing the characteristic mass peaks of polysaccharides and lignin (Fig. 1). Mass
+peaks m/z 43, 57, 60, 73, 98, 126 and 144 are derived from hexosugars (cellulose) and m/z 85 and 114 from pentosugars (hemicelluloses) (Pouwels et al., 1989). The main lignin markers in the
+three spectra are the monomeric guaiacyl units m/z 124, 137, 150,
+151, 178, 180 and the syringyl units m/z 154, 167, 180, 194, 208, 210
+(van der Hage et al., 1993). The main mass peaks are assigned to
+
+100
+
+28
+
+a
+
+60
+
+73
+43
+
+50
+
+57
+85
+210
+
+114
+
+98
+
+4.2. Analyses of the different ash residues
+
+100
+
+200
+
+300
+
+m/z
+
+b
+
+60
+73
+44
+57
+
+50
+98 110
+85
+
+126
+
+114
+144
+180
+210
+
+0
+100
+
+200
+
+300
+
+m/z
+
+c
+
+43
+73
+85
+
+114
+
+60
+50
+
+4.1.4. Water Boiling Tests
+The temperature within each of the ﬁres made with the three
+different fuel-types ranged from w400  C at the very edge of the
+ﬁre to 600  C in the centre. The maximum temperature within each
+ﬁre, as measured by the handheld thermometer equipped with
+a thermocouple, was w800  C regardless of fuel-type (Table 2), but
+this temperature was transitory. The peat and cow dung ﬁres were
+characterized by the release of much more smoke relative to the
+wood ﬁre with the cow dung ﬁre producing copious quantities of
+dark grey smoke.
+The results from the Water Boiling Tests show that the time
+needed to bring the water to the boil using wood took 20 minutes
+as compared with 35 minutes when using peat and cow dung
+(Table 2). Less wood fuel was needed (740 g) relative to peat (915 g)
+or cow dung (1100 g). It is noted that the results for peat comply
+with the 95% intervals calculated from the initial experiments.
+More wood and cow dung fuel was needed to keep the water
+simmering for 1 hour relative to the peat. Compared with peat
+(300 g) it took more than twice as much wood (660 g) and cow
+dung (500 g) to keep the ﬁre going for 60 minutes.
+
+167
+
+0
+
+100
+
+coniferyl alcohol (m/z 180) and sinapyl alcohol (m/z 210). The
+presence of mass peaks of polyphenols (m/z 94, 110, 120, 150) in the
+sample of peat (Fig. 1b) is related to other degradation products of
+lignin (Boon et al., 1986).
+
+180
+126 144
+137
+
+100
+
+839
+
+98
+
+4.2.1. Structure of thin sections
+Thin section photos are presented in Fig. 2. Wood ash contains
+many colourless, transparent to cloudy translucent ﬁne, irregular
+angular grains and concretions (Fig. 2a). When viewed using cross
+polarized light these bodies undergo higher-order birefringence
+with colours typical of calcium carbonate (CaCO3). Some of the
+minerals are also seen to form micritic pseudomorphs after calcium
+oxalates (CaC2O2$2H2O) where the original oxalates have been
+converted, by heating, into carbonates whilst retaining the shape of
+the original oxalates (c.f. Brochier and Thinon, 2003, Fig. 2b). In
+addition, a large number of calcitic pseudomorphs after calcium
+oxalate can be recognized in bundles that are tentatively attributed
+to sclerenchymatous ﬁbres (Fig. 2c). In some cases, the colour of the
+minerals in the pseudomorphs has obtained a brownish hue,
+probably due to iron staining or deposits of char on the minerals.
+Sporadically, some carbonized tissue fragments are still associated
+with the calcium minerals. Also associated with these fragments of
+calcium minerals are globular shapes that may have resulted from
+gas exudation during combustion (Fig. 2d). Occasionally other
+birefringence colours can be seen associated with minerals
+centered around globular spaces (bubbles or pores) indicating the
+presence of minerals other than carbonates. For example concretions indicating the presence of calcium hydroxide, or the yellow
+minerals with brownish or greenish hues with birefringence
+
+126
+Table 2
+Maximum temperature recorded within each ﬁre as determined from the handheld
+thermometer and the results of the Water Boiling Test for the three fuel samples
+(for details see text).
+
+137
+150
+
+180
+167 194
+
+210
+
+0
+100
+
+200
+
+300
+
+m/z
+Fig. 1. DTMS-EI spectra showing the characteristic mass peaks (m/z) for lignin and
+polysaccharides (for details see text); a. wood; b. peat; c. cow dung.
+
+Maximum temperature reached in the ﬁre( C)
+Time taken (minutes) to bring 3 l of water to the boil
+Fuel consumption (g) to bring 3 l water to the boil
+Fuel consumption (g) for 60 minutes simmering
+Fuel consumption (g) to keep ﬁre alight for 60 minutes
+
+Wood
+
+Peat
+
+Cow
+dung
+
+800
+20
+740
+1550
+660
+
+800
+35
+915
+1300
+300
+
+800
+35
+1100
+1300
+520
+
+840
+
+F. Braadbaart et al. / Journal of Archaeological Science 39 (2012) 836e847
+
+Fig. 2. Micrographs of the different ash types using plain polarized light (PPL); a. Wood ash with ﬁne grained carbonate crystals, scale bar ¼ 100 mm; b. Wood ash showing lozenge
+shaped calcitic pseudomorphs after calcium oxalates (arrow), scale bar ¼ 100 mm; c. Wood ash showing many calcitic pseudomorphs after calcium oxalates in bundles of tissue with
+often dark brown hue, scale bar ¼ 200 mm; d. Wood ash with globular shapes in calcium carbonate, probably caused by gas exudation during combustion (arrows), scale
+bar ¼ 500 mm; e. Peat ash showing calcitic pseudomorphs after calcium oxalates (arrows) in bundles of tissue, scale bar ¼ 50 mm; f. Peat ash showing fragments of silica phytoliths
+(arrow), scale bar ¼ 50 mm; g. Cow dung ash showing silica phytoliths (arrows), scale bar ¼ 100 mm; h. Prickles in cow dung ash with the second inserted at right angles to the ﬁrst,
+scale bar ¼ 50 mm (photograph by Pearsall).
+
+colours that are white to light blue under crossed polarized light
+indicative of calcium phosphate. No silica phytoliths have been
+observed.
+In many ways the structure of peat ash appears very similar to
+the wood ash sample with the dominance of calcitic pseudomorphs
+of calcium oxalates, as determined from birefringence (Fig. 2e).
+
+They are also concentrated in similar bundles as identiﬁed in wood
+ash. An important difference with wood ash is the presence of silica
+phytoliths (Fig. 2f). They are determined from their shape, clear
+colour, translucence and lack of birefringence (although some
+phytoliths show faint golden phosphorescence under blue light).
+Sand grains (quartz) can also be recognized in the peat ash.
+
+F. Braadbaart et al. / Journal of Archaeological Science 39 (2012) 836e847
+
+In contrast ash from cow dung was distinctively different from
+that of the wood and peat. The cow dung ash consisted mostly of
+ﬁne biogenic silicates and quartz sand. The biogenic silicates are
+colorless to slightly yellowish or brown, and show no birefringence
+under cross-polarized light (Fig. 2g). Although they appear transformed, these biogenic silicates are recognizable from their shape
+as being phytoliths (cf. Madella et al., 2005; Delhon et al., 2008).
+Some seemed to be amassed into sub linear wavy lines whilst
+others occur as amorphous material cementing quartz sand grains
+together or attached to charred plant remains. The presence of an
+axis with two thorns attached in the cow dung is also noteworthy
+(Fig. 2h). Calcitic pseudomorphs after calcium oxalates as well as
+spherulites have not been observed in cow dung ash.
+4.2.2. Granulometry
+The results of the ash particle size distribution in both untreated
+and treated dung samples are shown as cumulative granulometric
+curves (Fig. 3). Each ash sample is represented by a sigmoidal curve.
+Differences can be seen between the samples, for example the silt
+part (2e50 mm) of untreated ash samples varies from 45% for wood
+to 65% for peat. After treatment the silt component of the ash
+samples decreases to 25% and 45% for wood and peat respectively.
+Cow dung ash remains more or less stable with 52% silt in the
+untreated sample and 45% for the treated sample.
+4.2.3. pH and elemental analysis
+The pH measurements for all three ash residues were found to
+be strongly alkaline with a pH of 11.95, 11.60 and 10.25 for the wood
+ash, peat ash and cow dung ash respectively.
+The results of the elemental analyses of the three types of ash
+are presented in Table 3. The main essential element in all ash
+residues is calcium (Ca), followed by magnesium (Mg) and potassium (K). Cow dung is distinctive in the overriding abundance of
+silica (Si) and its lower calcium content. Silica is also relatively high
+in peat and wood ash but not as dominant as calcium. Peat ash has
+higher proportions of aluminium and iron than either wood ash or
+cow dung ash.
+
+841
+
+Table 3
+Elemental composition of ash derived from fuels from the present experiments,
+heated in the range of 400e800  C.
+Element
+
+Fuel type
+
+Ca
+Mg
+K
+Al
+Fe
+P
+Si
+
+Wood
+
+Peat
+
+Cow dung
+
+23.0
+1.5
+5.0
+0.6
+0.5
+2.6
+7.0
+
+20.0
+6.2
+4.4
+1.8
+1.1
+2.3
+6.0
+
+4.8
+1.4
+1.1
+0.8
+0.5
+4.5
+33.5
+
+of the original wood (Fig. 4a and b), but are distinguished from the
+original wood sample by the carbonised cell walls, which have
+become reﬂective.
+The peat char sample also appears black and can be easily
+broken by hand, but relative to charcoal it is lighter in weight and
+more friable. Under reﬂected light (Fig. 4c and d) it is characterized
+by a compact white reﬂective groundmass comprising carbonized,
+partly decomposed, plant material. Identiﬁable carbonized plant
+material is visible and comprises carbonized cell walls. In the
+middle of Fig. 4d a cross section of a possible root structure is visible
+around a central void. Cow dung char is also black and friable.
+Under reﬂected light (Fig. 4e and f) it looks very similar to that of
+peat char with plant material appearing randomly throughout but
+does appear less consolidated relative to the peat char. The
+groundmass is also reﬂective. Fresh or partly decomposed plant
+material, including the white carbonised cell walls, can be recognised. Some characteristic structures (Fig. 4f, arrow) are observed,
+which are tentatively attributed to carbonised hairs.
+4.3.2. Reﬂectance
+The mean reﬂectance values of the three char samples range
+from 3.7 %Ro for the cow dung, 4.22 %Ro for the wood and 5.1 %Ro for
+the peat (Table 4). These values correspond to temperatures in the
+range of 600e700  C according to the reﬂectance curves of
+Braadbaart and Poole (2008).
+
+4.3. Properties of the different char residues
+5. Discussion
+4.3.1. Structure
+The charcoal samples are black, light in weight and friable.
+Viewed under reﬂected light they retain the anatomy characteristic
+
+Ash and char are the visible remains of fuels used by ancient
+societies to provide themselves with heat from ﬁres, although the
+
+■ wood treated
+
+100
+
+c
+cumulativ
+ve (%)
+
+90
+80
+70
+
+▲ peat
+
+treated
+
+● cow dung treated
+□ wood untreated
+Δ peat untreated
+○ cow dung untreated
++ wood ash (Brochier, 1983)
+
+60
+50
+40
+30
+20
+10
+0
+1
+
+10
+
+μm
+
+100
+
+1000
+
+Fig. 3. Granulometric curves for untreated and treated ashes from wood, peat and cow dung. Note the difference between the shape of the curve of wood ash from Brochier and the
+curves of wood ash from the present experiments.
+
+842
+
+F. Braadbaart et al. / Journal of Archaeological Science 39 (2012) 836e847
+
+Fig. 4. Micrographs of char structures under reﬂected light, scale bars ¼ 60 mm; a and b charcoal showing the regular arrangement of reﬂective cell walls and relatively open
+structure; c and d peat char with the more compact structure with the reﬂective cell walls of plant remains still present within; e and f cow dung char also showing a compacted
+structure with reﬂective cell walls of plant remains and hair (arrowed).
+
+presence of ash may not always visible with the naked eye. These
+remains can preserve information regarding not only the fuel-type
+selected and from which particular resource, but also hints to the
+underlying reason why that society may have selected that
+particular fuel. Therefore this study investigated: (i) the characteristics of the ash and carbonaceous residues as a means to
+distinguish between the original fuel resource, and (ii) the
+Table 4
+Mean reﬂectance measurements (%Ro) on 3 specimens of the chars of each fuel
+derived from calibration curves of Braadbaart and Poole (2008).
+Fuel
+
+%Ro (mean)
+
+Standard
+deviation
+
+Number of
+measurements
+
+Temperature
+( C)
+
+Wood
+Peat
+Cow dung
+
+4.219
+5.103
+3.759
+
+0.330
+0.193
+0.348
+
+300
+170
+160
+
+640
+700
+600
+
+properties of these residues as a means to elucidate a greater
+understanding of fuel resource selection by ancient societies.
+Together the information helps to reveal facets about an ancient
+society that might otherwise be lost.
+5.1. Fuel
+Fuel is composed of water, an inorganic ash fraction and an
+organic (cellulose, hemicelluloses and lignin) fraction. It is the
+organic fraction that provides the potential energy that can be
+transformed into the required heat energy. The energy content of
+a fuel is measured in Joules (J) and can be deﬁned as the total
+amount of heat produced during complete combustion. The total
+amount of heat available per unit mass (kg) of fuel is the gross
+caloriﬁc value (GCV) in J kg1 (ISO, 1928: 1995) usually presented as
+a value free of water and ash (i.e. dry and ash free, daf), but can also
+
+F. Braadbaart et al. / Journal of Archaeological Science 39 (2012) 836e847
+
+be referred to as combustion quality or heating value. The gross
+caloriﬁc value (daf) of a fuel is directly proportional to its organic
+content (Tillman et al., 1981) and since organic fuels have a fairly
+narrow range of carbon contents their associated gross caloric
+values (daf) also fall within a relative narrow range. According to
+various databases (e.g. BIOBIB, 1996; UBET, 2004) and published
+literature (e.g. Nûñez-Regueira et al., 2001) the GCV (daf) for all
+three fuels investigated here is w20 MJ kg1.
+As the GCV(daf) is given per mass unit (kg) the density of the
+fuel becomes an important factor. For wood this means that for
+a taxon with a lower density more fuel is necessary to generate the
+same amount of heat relative to more dense wood. For example,
+1 m3 of oak contains 750 kg of wood whereas 1 m3 of pine contains
+500 kg, thus to obtain an identical amount of heat 50% more pine
+volume is needed relative to oak, even though both species have an
+identical GCV(daf) per kilo. This is important in view of the fact that
+in the past all fuel had to be transported to the place where the ﬁre
+was required and thus the required energy expenditure may have
+affected the source tree(s) selected.
+Water and ash content can also signiﬁcantly affect the caloriﬁc
+value of fuels, as their presence reduces the organic fraction of
+a fuel. The total moisture content of freshly harvested wood may be
+50% or more, which reduces the GCV of wood to w8 MJ kg1. For
+undried peat and cow dung a similar 35% reduction of the GCV may
+occur. Air drying reduces the water content of organic fuels to
+around 15%, which in turn increases the GCV to w17 MJ kg1.
+Therefore simply drying in air is a very effective means to signiﬁcantly increase the heating potential of a fuel. The ash content of
+wood is about 1 wt%, and for peat ranges between 3.5 and 6 wt%
+(Table 1). The ash content of cow dung however varies between 12
+and 40 wt% (Sweeten et al., 2003; Mluku
+z, 2009). In India the ash
+content of cow dung contains around 19%, probably reﬂecting the
+smaller amount of grass eaten relative to cows grazing in more
+temperate locations, which in turn makes it a much more efﬁcient
+fuel (Kumar and Shende, 2006). The high percentage of ash in cow
+dung relative to wood and peat can be accounted for by the high
+amount of silica (4e20 %) present in grass and can reduce the GCV
+of cow dung to as low as 11 MJ kg1. Interestingly in this study all
+three fuels were found to be able to produce ﬁres that attained
+maximum temperatures in the ﬁres of 800  C (Table 3) which
+agrees with the ﬁndings of other work on dung ﬁres [e.g. Samuel
+(1989) and Shahack-Gross et al. (2005)].
+Another factor that may inﬂuence the generation of heat from
+a fuel is the ease with which air (oxygen) passes through the layer
+of combusting fuel, the fuel bed, and through the structure of the
+fuel itself. An increased air supply will increase the rate of
+combustion (and consumption) of the fuel and in turn increase the
+efﬁciency of the combustion process. In practice this means that
+more fuel will be combusted faster. Therefore the geometry of the
+pieces of fuel in the fuel bed may exercise an inﬂuential role. Felled
+wood cut into smaller pieces or coppice wood will create a high
+fraction of void space in the fuel bed thus increasing the amount of
+excess air and in turn increasing the rate of energy released relative
+to uncut pieces of wood. The present experiments show that the
+shape of peat and cow dung fuel specimens allowed for a smaller
+void space in the fuel beds relative to wood. Apart from the void
+space in the fuel bed the structure of each specimen of fuel is also of
+importance. Relative to wood, peat and cow dung show a tightly
+compacted ﬁbre structure and the access of air into these fuels is
+much more restricted. Therefore it would be expected that peat and
+dung have a lower rate of combustion compared with wood.
+The characters of the different types of fuel and their fuel beds
+studied here help to explain the results of the Water Boiling Tests. It
+took 20 minutes and 740 g of wood fuel to bring 3 L of water to the
+boil (Table 2) compared with 35 min for 915 g and 1100 g of peat
+
+843
+
+and cow dung fuel respectively. With a similar water content,
+a GCVs(daf) of 20 MJ kg1 and carbon content of w50 wt%, the
+15 minutes difference in bringing the water to the boil for peat and
+cow dung have to be accounted for by the open structure of the
+wood and high void space in the fuel bed of the wood ﬁre. This
+allows for an increased amount of excess air entering the ﬁre, which
+in turn releases more heat and enables the water to come to the boil
+more quickly. This explains also the higher consumption of wood
+compared with peat and dung during the next two phases of the
+experiments.
+The difference in mass of peat and dung used during the boiling
+and simmering phases is also noteworthy. The increased amount of
+cow dung needed to bring the water to the boil can be explained by
+its higher ash content. However, this difference in mass is rather
+small when the high ash content of cow dung is taken into
+consideration e especially true during the simmering phase when
+similar amounts of both fuels are needed. Smouldering was the
+main combustion phase in cow dung as evidenced by the copious
+release of dark grey smoke and it is suggested that this process may
+have reduced the amount of used fuel. To keep the ﬁres going for
+1 hour with an absolute minimum fuel requirement, more dung
+than peat was needed (Table 2) and this may reﬂect the experimental nature of the investigation. The high amount of ash in the
+fuel bed comprising cow dung tended to smother the ﬁre and
+render it difﬁcult to determine whether the ﬁre was still going. As
+a consequence more fuel could have been added than necessary.
+Although the release of large quantities of smoke may be seen as
+a disadvantage of using dung fuel Samuel (1989) found that
+temperatures of over 100  C in dung-fuelled ﬁres can be maintained for nearly an hour without refuelling.
+The results of these experiments show that fuels with tightly
+compacted ﬁbre structures are more efﬁcient relative to fuels with
+more open structures as they require less fuel for an equivalent heat
+yield, which would be of beneﬁt to ancient societies. That explains
+why today, tribes in Northern Pakistan still use yak dung, despite of
+the volume of smoke released, as their preferred fuel-type
+(Mortenson and Relin, 2006) and numerous Indian households
+still use cow dung as fuel for their cooking as it burns with a slow,
+long-lasting ﬂame that does not scorch the food. Cooking can
+commence in the morning and the food left unattended for several
+hours (Harris, 1974; Braadbaart, personal observations).
+5.2. Ash
+Ash is the characteristic inorganic residue when a biomass fuel
+has undergone total combustion. It comprises the both essential
+and non-essential mineral elements necessary for plant growth.
+The essential minerals include calcium (Ca), magnesium (Mg),
+potassium (K), phosphorous (P) and sulphur (S), and the micronutrients iron (Fe), manganese (Mn) and chlorine (Cl). Other
+commonly occurring minerals, but non-essential for growth,
+include silica (Si), aluminium (Al) and sodium (Na). The presence of
+minerals in plant material is relatively small but their signiﬁcance
+in the ash residue increases since heating drives off all organic
+material.
+Signiﬁcant ash layers in an archaeological context can be identiﬁed by careful observation. When these layers are very thin, and
+not readily visible to the naked eye, block sampling and micromorphological studies may prove useful. The particle size distribution can distinguish ash from other layers of sediments. Brochier
+(1983) showed that the silt fraction (2e50 mm) of wood ash was
+about 90% of the total ash content, but some layers of other sediments showed identical granulometric curves whilst for other
+layers of sediment the shape of the curves was different. So when
+used with due care and attention this particle size distribution
+
+844
+
+F. Braadbaart et al. / Journal of Archaeological Science 39 (2012) 836e847
+
+method may be helpful in identifying ash layers within archaeological contexts. Interestingly, the curves of the ashes resulting
+from the three investigated fuels do not match exactly the wood
+ash curve of Brochier (Fig. 3). Moreover in Brochier’s wood ash
+sample the particle size curve from 10 to 20 mm contains w40% of
+the sample, while the wood ash sample of this study contains only
+about 10% in the same particle range. This part of the curve is
+usually attributed to the calcium oxalates pseudomorphed after
+calcium carbonates (Canti, 2003). Since different methods have
+been employed to derive the particle size curves it seems reasonable to tentatively attribute this difference to the methodology and
+more investigations are needed to clarify the differences (Brochier,
+personal communication).
+The source of the ash can be determined from its mineral
+composition. Many studies have focused on the difference in
+mineral content between different fuel types usually in relation to
+heat and power generation (e.g. Misra et al., 1993; Etiégni and
+Campbell, 1991; Liodakis et al., 2005; Steenari, 1995; Heikkinen
+et al., 1998; Theis et al., 2006; Steenari et al., 1999; Frederiksson,
+1996; Ryssen and Ndlovu, 2004; Sweeten et al., 2003; Miller and
+Miller, 2007; Genin et al., 2007). The results indicate that wood
+ash is comprised mainly of calcium, magnesium and potassium.
+These minerals are also abundant in peat ash, but peat also has
+aluminium and iron in relatively high quantities. This can be
+explained by the presence of clay in peat. With regard to cow (and
+other animal) dung ash the most common mineral is silica attributable to the high presence of silica in grasses. Calcium, magnesium
+and potassium occur in much lower quantities relative to wood and
+peat ash. The relatively small amounts of these minerals in cow
+dung can be explained by the fact that animals do not store minerals
+as plants do but rather secrete them from the body in the urine. The
+results of the chemical composition of the three ash samples obtained here compare well with the ﬁndings of other workers
+(Church et al., 2007; Misra et al., 1993; Etiégni and Campbell, 1991;
+Liodakis et al., 2005; Steenari, 1995; Heikkinen et al., 1998; Theis
+et al., 2006; Steenari et al., 1999; Frederiksson, 1996; Ryssen and
+Ndlovu, 2004; Sweeten et al., 2003; Miller and Miller, 2007; Genin
+et al., 2007) highlighting the great potential for this approach in
+determining fuel-type from ash remains (Table 3).
+Clear differences between the cow dung ash sample and the
+wood and peat ash samples are also observed when ash samples
+are viewed under the microscope (Fig. 2). The cow dung ash is
+predominantly siliceous in composition, whilst the peat and wood
+derived ashes are calcareous. Initially these results may seem
+a good starting point when trying to determine the original fuel
+from archaeological ash remains. However, the minerals present in
+ash may occur as reactive oxides, and undergo secondary reactions,
+whilst other minerals may form soluble salts. Some water soluble
+elements, such as potassium, leach out with rainwater or ground
+water, whilst others undergo reactions that render them unrecognizable in archaeological contexts. In other words ashes are
+strongly prone to post-depositional processes. Moreover the
+mineral composition of ash can be inﬂuenced by the temperature to
+which the fuel was exposed during combustion (Misra et al., 1993;
+Liodakis et al., 2005; Thy et al., 2006) with the greatest changes in
+mineral composition occurring at temperatures above 700  C (and
+therefore higher than those usually seen in open ﬁres rendering
+these changes are not relevant to the discussion herein). A number
+of studies have focused on these post-depositional changes in
+relation to ash (e.g. Karkanas et al., 2002; Schiegl et al., 1996;
+Brochier, 1999, 2002; Pierce et al., 1998; Simpson et al., 2003; Canti,
+2003; Matthews, 2010) and conclude that although post-depositional processes may be site speciﬁc, ashes can be identiﬁed as
+either a high silica:low calcium dung originated ash or a high
+calcium:low silica plant derived ash (Canti, 2003).
+
+The identiﬁcation of minerals in ash may be important especially with regard to some characteristic silica and calcium salts
+that precipitate in plants to form silica phytoliths and calcium
+oxalate crystals known to be important for archaeological research
+(Canti, 2003; Albert et al., 2008). Phytoliths are amorphous silica (as
+opal) deposits occurring in various plant tissues (Piperno, 2006;
+Madella et al., 2005), but are in particular abundant in grasses
+resulting in the phytolith concentration in grass ash being up to 20
+times higher when compared with wood ash (Karkanas et al.,
+2002). The results of this study show that silica phytoliths are
+resistant not only to animal digestive processes but also to the
+temperatures found in open ﬁres and (in general) post-depositional
+processes (Fig. 2g and h).
+Calcium oxalate crystals can occur in all plant tissues but
+particularly in bark and leaves (Franceschi and Nakata, 2005; Canti,
+2003). When temperatures reach 430e510  C these crystals are
+converted into calcium carbonate (Brochier and Thinon, 2003). As
+the original structure of the crystal does not change these aggregates are referred to as calcitic pseudomorphs after calcium oxalate.
+However, under alkaline conditions the carbonates will dissolve
+and disappear. Microscopial studies of the ash samples (Fig. 2)
+conﬁrm the presence of calcium carbonate crystals in wood and
+peat ash as well as silica phytoliths in peat and cow dung ash. The
+chemical differences between peat ash and wood ash are relatively
+small, but based on the results of the present experiments the most
+obvious distinction is the abundance of phytoliths in peat ash
+relative to wood ash although abundance will vary depending upon
+the source vegetation for the peat (e.g. mosses and some sedge taxa
+do not appear to contain phytoliths; Pearsall and Piperno, 1993;
+Ollendorf, 1992). Faecal spherulites often present in ashes derived
+from animal dung (Canti, 1998) were not observed in the thin
+section of the investigated cow dung ash studied here, which
+agrees with the conclusions of Brochier (1996) on cow dung ash.
+5.3. Char
+Under particular heating conditions the macro-residue of a ﬁre
+is the charred or carbonised residue of the fuel, the char. Chars
+resulting from plant material are composed of a range of aromatic
+compounds (Braadbaart, 2004; Braadbaart and Poole, 2008). The
+organic constituents of the original fuel undergo thermal degradation when exposed to temperatures >300  C. Between 300 and
+400  C these resulting compounds are mainly alkylated phenols
+and benzenes, which form a three-dimensional network with
+predominantly randomly orientated aromatic units. As the
+temperature increases still further these alkylated products are
+gradually replaced by condensed aromatic compounds. Above
+400  C only the benzenes remain unchanged in the molecular
+composition, although the molecular structure does change with
+increasing temperature. Thereby the aromatic units change into
+large aromatic sheets, which with increasing temperature become
+increasingly parallel. This change in structure results in an increase
+in the reﬂectance of the char. When polished, the reﬂectance
+measurements (%Ro) of the char samples can be compared with
+calibration curves that provide reﬂectance as a function of
+temperature and time. This makes it possible to determine the
+maximum temperature to which the fuel and any other heated
+plant material (e.g. seeds that happened to fall into the ﬁre)
+(Braadbaart, 2004; Braadbaart and Wright, 2007a) was subjected
+and thus provides a charring temperature. This can be, for example,
+a useful tool to distinguish domestic from industrial ﬁres [see
+Braadbaart and Poole (2008) and McParland et al. (2010)].
+Reﬂected light can also be used to differentiate, on morphological grounds, between chars derived from different fuel types.
+Wood char (charcoal) is easily distinguished from the chars of peat
+
+F. Braadbaart et al. / Journal of Archaeological Science 39 (2012) 836e847
+
+and dung. The reﬂectance of the cell walls within the wood coupled
+with its ordered arrangement makes charcoal distinctive (Fig. 4a
+and b) from the irregular structure of peat char (Fig. 4c and d) and
+cow dung char (Fig. 4e and f). The presence of carbonized hairy
+structures in the cow dung (Fig. 4f) distinguishes it from peat char
+to which it otherwise appears very similar. Hairs consist for around
+80% of proteins and therefore will carbonise well (Munson and
+Fetterolf, 1987; Braadbaart et al., 2007b). This observation corresponds to the large quantity of hairs found in the original cow dung
+sample.
+Pieces of char resulting from open ﬁres were once in contact
+with ash or still associated with ash when recovered from the soil.
+The pH of ash is strongly alkaline and helps in reducing the ordered
+molecular structure of the char. This results in a decreased reﬂectance, which can affect the conclusions drawn with regard to the
+charring temperature of the ﬁre (Braadbaart et al., 2009). Increased
+fragmentation may in time also result in fragments so small
+(<1 mm) that they are unsuitable for determining charring
+temperature or may disappear altogether from the archaeological
+record.
+5.4. Archaeological signiﬁcance
+Based on the above discussion it is evident that both ash and
+char residues can provide important information pertaining to the
+original fuel and its resource. The three studied fuels - wood, peat
+and cow dung, are known to have been used as a fuel by humans
+and their ancestors for centuries and have different thermal,
+physical and chemical properties. The ash and char microanalyses
+of the three fuels show that each of these fuels has characteristics
+that allow them to be distinguished from each other even though
+post-depositional processes have the potential to change the
+features (of char in particular) (see also Ascough et al., 2010, 2011;
+Braadbaart et al., 2009; Cohen-Ofri et al., 2006) to such an extent
+that they can be rendered indistinguishable and the original fuel
+types unidentiﬁable. One exception to this generalisation is the
+distinction between dung from wood and peat where the presence
+of silica phytoliths, which can remain preserved in ash residue,
+provides stronger evidence for the use of dung than wood and peat
+fuels although if a grass-vegetation fuel resource (in the form of hay
+or straw) has been used the ash residue will also be high in silica
+phytoliths and then other approaches (e.g. morphology of ash and
+char) need to be adopted to determine the fuel resource (see for
+example Delhon et al., 2008).
+Wood and peat are able to release similar amounts of heat per
+dry unit mass, both approximately 30% more than cow dung, due in
+part to the lower ash content relative to dung. However, the tightly
+packed structure of peat and in particular cow dung also plays an
+important role in the type of ﬁre produced. Wood fuel would be
+most suited for a fast ﬁre even though fuel consumption would be
+greater. For ﬁres maintained over longer periods it would be more
+advantageous to use cow dung and peat fuel. Moreover additional
+advantages to using cow dung and peat would be the lower fuel
+consumption relative to wood and the relatively little time and
+energy required to collect dung compared with that needed to chop
+and transport wood.
+The selection of a fuel may not simply be a random choice but
+one based on relative availability and abundance of fuel categories
+and types in the vicinity of the site where the ancient society lived
+and the necessary transportation requirements. Moreover taphonomic processes can also inﬂuence the presence of char and ash in
+the archaeological setting (Théry-Parisot et al., 2010).
+The chars and ashes are extremely vulnerable to excavation
+processes including trowelling, sieving and ﬂotation (Matthews,
+2010). Chars resulting from peat and cow dung are more friable
+
+845
+
+than those of wood and thus easily destroyed. Ash grains are rather
+small (<50 mm) and easily lost during these processes. In order to
+circumvent this, special care needs to be taken during sampling and
+subsequent treatment of ash and char to prevent further loss of this
+material. Block (undisturbed) sampling is thus recommended.
+6. Conclusions
+Ash and char remains provide useful indicators of anthropogenic ﬁre usage with regard to the original fuel resource and type,
+and thus palaeoenvironment, as well as different functions of that
+ancient society through the type of ﬁre required. From this study
+we conclude that:
+i. Wood, peat and cow dung ﬁres are capable of releasing
+similar amounts of heat.
+ii. Wood results in fast ﬁres, whilst peat and cow dung ﬁres tend
+to be more efﬁcient for cooking and heating of dwellings
+where a more consistent temperature over longer periods of
+time is required.
+iii. Char residues of the three studied fuel-types can easily be
+distinguished under reﬂected light and therefore it is recommended that all char recovered from archaeological
+contexts is examined in this way. Moreover the reﬂectance of
+these polished char samples can be measured thus providing
+a good indication of the charring temperature of the ﬁre (see
+also Braadbaart and Poole, 2008).
+iv. Ash from the three fuel-types can be distinguished by their
+elemental composition and structure under incident light.
+However, even though ash can be inﬂuenced by depositional
+and post-depositional factors that affect the elemental and
+structural component, which may also differ from site to site,
+the chemical analysis of ash can provide indications of the
+original fuel-type.
+v. The presence of silica phytoliths in ash can be used to
+determine fuel resource with the greater the proportion of
+phytoliths indicating a greater likelihood of the fuel having
+been dung as opposed to wood or peat, although high phytolith concentrations will also be found when grass (e.g. as
+hay or straw) have been used.
+vi. Pseudomorphs of calcium oxalate crystals occur in wood and
+peat ash, but are not observed in dung ash from cows grazing
+in meadows.
+vii. For both friable chars and ashes special care should be taken
+during sample collection as well as treatment (e.g. sieving,
+ﬂotation) to reduce damage and loss of material that in turn
+can result in the loss of important information pertaining to
+the ancient society.
+viii. Given the use of different fuel types in modern traditional
+societies, it is highly likely that ancient societies also
+considered more than one fuel resource depending upon
+requirements especially in regions where more than one was
+available.
+Acknowledgements
+The authors would like to thank the staff members of Schothorst Early Medieval Farm (Amersfoort, the Netherlands) and
+Veenpark (Bargermond, the Netherlands) for providing us with
+cow dung and peat samples, respectively. Technical assistance with
+the reﬂectance and granulometry measurements by Deltares
+(Utrecht, the Netherlands) is highly acknowledged. We also thank
+Dr. D.M. Pearsall (University of Missouri, Columbia MO, USA) and
+Mr. E. Mulder (Faculty of Archaeology, Leiden University, the
+Netherlands) for their assistance with the phylotith research.
+
+846
+
+F. Braadbaart et al. / Journal of Archaeological Science 39 (2012) 836e847
+
+References
+Albert, R.M., Weiner, S., Bar-Yosef, O., Meigner, L., 2000. Phytoliths in the middle
+palaeolithic deposits of Kebara Cave, Mt Carmel, Israel: study of the plant
+materials used for fuel and other purposes. Journal of Archaeological Science 27,
+931e947.
+Albert, R.M., Shahack-Gross, R., Cabanes, D., Gilboa, A., Lev-Yadun, S., Portello, M.,
+Sharon, I., Boaretto, E., Weiner, S., 2008. Phytolith-rich layers from the Late
+Bronze and Iron Ages at Tel Dor (Israel): mode of formation and archaeological
+signiﬁcance. Journal of Archaeological Science 35, 57e75.
+Antal Jr., M.J., Grønli, M., 2003. The art, science, and technology of charcoal
+production. Industrial Engineering Research 42, 1619e1640.
+Ascough, P.L., Bird, M.I., Scott, A.C., Collinson, M.E., Cohen-Ofri, I., Snape, C.E., Le
+Manquais, K., 2010. Charcoal reﬂectance measurements: implications for
+structural characterization and assessment of diagenetic alteration. Journal of
+Archaeological Science 37, 1590e1599.
+Ascough, P.L., Bird, M.I., Francis, S.M., Lebl, T., 2011. Alkali extraction of archaeological and geological charcoal: evidence for diagenetic degradation and
+formation of humic acids. Journal of Archaeological Science 38, 69e78.
+BIOBIB e A Database for Biofuels, 1996. www.vt.tuwien.ac.at/biobib/biobib.html.
+Boon, J.J., Dupont, L., Leeuw, de, J.W., 1986. Characterization of a Peat Bog Proﬁle by
+Curie point pyrolysis-mass spectrometry combined with multivariant analysis
+and by pyrolysis gas chromatography-mass spectrometry. In: Fuchsman, C.H.
+(Ed.), Peat and Water, pp. 215e239.
+Braadbaart, F., Poole, I., 2008. Morphological, chemical and physical changes during
+charcoliﬁcation of wood and its relevance to archaeological contexts. Journal of
+Archaeological Science 35, 2434e2445.
+Braadbaart, F., Wright, P.J., 2007a. Changes in mass and dimensions of sunﬂower
+(Helianthus anuus L.) achenes and seeds due to carbonization. Economic Botany
+61 (2), 137e153.
+Braadbaart, F., Wright, P.J., Horst, van der, J., Boon,, J.J., 2007b. A laboratory simulation of the carbonization of sunﬂower achenes and seeds. Journal of Analytical
+and Applied Pyrolysis 78, 316e327.
+Braadbaart, F., Poole, I., Brussel, van, A.A., 2009. Preservation potential of charcoal in
+alkaline environments: an experimental approach and implications for the
+archaeological record. Journal of Archaeological Science 36, 1672e1679.
+Braadbaart, F., 2004. Carbonization of Peas and Wheat. A Laboratory Study. Leiden
+University, Leiden.
+Branigan, K., Edwards, K.J., Merrony, C., 2002. Bronze age fuel: the oldest direct
+evidence for deep peat cutting and stack construction? Antiquity 76, 849e855.
+Brochier, J.-E., Thinon, M., 2003. Calcite crystals, starch grains aggregates or. POCC?
+Comment on ‘calcite crystals inside archaeological plant tissues’. Journal of
+Archaeological Science 30, 1211e1214.
+Brochier, J.-E., 1983. Bergeries et feux de bois néolithiques dans le Midi de la France.
+QUARTÄR 33/34, 181e193.
+Brochier, J.-E., 1996. Feuilles ou Fumiers? Observations sur le rôle des poussières
+sphérolithiques dansl’interprétation des depôts archéologiques holocènes.
+Anthropozoologica 24, 19e30.
+Brochier, J.-E., 1999. Les Phytolaires. In: Ferdière, A. (Ed.), La Botanique, Collection
+“Archéologiques”. Errance Editions, Paris, pp. 157e170.
+Brochier, J.-E., 2002. Les sediments anthropiques, méthodes d’étude et perspectives.
+In: Miskovsky, J.C. (Ed.), Géologie de la Prehistoire: Méthodes, Techniques,
+Applications. Géopré Editions, Paris, pp. 453e477.
+Canti, M.G., 1998. The micromorphological idenﬁcation of faecal spherulites from
+archaeological and modern materials. Journal of Archaeological Science 25, 435e444.
+Canti, M.G., 2003. Aspects of the chemical and microscopic characteristics of plant
+ashes found in archaeological soils. Catena 54, 339e361.
+Church, M.J., Peters, C., Batt, C.M., 2007. Sourcing ﬁre ash on archaeological sites in
+the western and northern Isles of Scotland, using mineral magnetism. Geoarchaeology 22, 747e774.
+Cohen-Ofri, I., Weiner, L., Boaretto, E., Mintz, G., Weiner, S., 2006. Modern and fossil
+charcoal: aspects of structure and diagenesis. Journal of Archaeological Science
+33, 428e439.
+Delhon, C., Martin, L., Argant, J., Thiébault, S., 2008. Shepherds and plants in the
+Alps: multi-proxy archaeobotanical analysis of neolithic dung from “La Grande
+Rivoire” (Isère, France). Journal of Archaeological Science 35, 2937e2952.
+Emmons, H.W., Atreya, A., 1982. The science of wood combustion. Proceedings of
+Indian Academic Science (Engineering Sciences) 4, 259e268.
+Etiégni, L., Campbell, A.G., 1991. Physical and chemical characteristics of wood ash.
+Biosource Technology 37, 173e178.
+Franceschi, V.R., Nakata, P.A., 2005. Calcium oxalate in plants: formation and
+function. Annual Review of Plant Biology 56, 41e71.
+Frederiksson, D., 1996. Peat resources in Sweden. In: Lapalainnen, E. (Ed.), Global
+Peat Resources, pp. 137e143.
+Genin, D., Khorgani, T., Hammadi, M., 2007. Improving nutritive value of a North
+African range grass (Stipa tenacisssima): effect of dung ash and urea treatment
+on digestion by goats. Animal Feed Science and Technology 136, 1e10.
+Goudsblom, J., 1992. Fire and Civilization. Allen Lane, London.
+Hage van der, E.R.E., Mulder, M.M., Boon, J.J., 1993. Structural characterization of
+lignin polymers by temperature-resolved in-source pyrolysis-mass spectrometry and Curie-point pyrolysis egas chromatography/mass spectrometry.
+Journal of Analytical and Applied Pyrolysis 25, 149e183.
+Harris, M., 1974. Cows, Pigs, Wars, and Witches. The Riddles of Culture. Random
+House, New York.
+
+Heikkinen, R., Laitinen, R.S., Tapio, Patrikainen, Tiaien, M., Virtanen, M., 1998.
+Slagging tendency of peat ash. Fuel Processing Technology 56, 69e80.
+International standard ISO 7404-2, 1985. Methods for the Petrographic Analysis of
+Bituminous Coal and Anthracite e Part 2: Method of Preparing Coal Samples
+ref. no. ISO 7404/2e1985(E).
+International standard ISO 7404-5, 1994. Methods for the Petrographic Analysis of
+Bituminous Coal and Anthracite - Part 5: Method of Determining Microscopically the Reﬂectance of Vitrinite ref. no. ISO 7404-5: 1994 (E).
+International standard ISO 1928, 1995. Solid Mineral Fuels e Determination of Gross
+Caloriﬁc Value by the Bomb Calorimetric Method, and Calculation of Net
+Caloriﬁc value.
+Karkanas, P., Rigaud, J.-P., Simek, J.F., Albert, R.M., Weiner, S., 2002. Ash Bones and
+Guano: a study of the minerals and phytoliths in the sediments of Grotte XVI,
+Dordogne, France. Journal of Archaeological Science 29, 721e732.
+Kumar, J.S., Shende, D., 2006. Combustion of cow dung in Fluidized State for
+household Purposes. Advances in Energy Research, 113e116.
+Liodakis, S., Katsigiannes, G., Kakali, G., 2005. Ash properties of some dominant
+Greek forest species. Thermochimica Acta 437, 158e167.
+Madella, M., Alexandre, A., Ball, T., 2005. International Code for phytolith Nomenclature 1.0. Annals of Botany 96, 253e260.
+Matthews, W., 2010. Geoarchaeology and taphonomy of plant remains and microarchaeological residues in early urban environments in the Ancient Near East.
+Quaternary International 214, 98e113.
+McParland, L., Collinson, M.E., Scott, A.C., Campbell, G., Veal, R., 2010. Is vitriﬁcation
+in charcoal a result of high burning of wood? Journal of Archaeological Science
+37, 2679e2687.
+Miller, S.F., Miller, B.G., 2007. The occurrence of inorganic elements in various
+biofuels and its effect on ash chemistry and behaviour and use in combustion
+products. Fuel Processing Technology 88, 1155e1164.
+Miller, N.F., 1984. The use of dung as fuel: an Ethnographic example and an
+archaeological application. Paléorient 10, 71e79.
+Misra, M.K., Ragland, K.W., Baker, A.W., 1993. Wood ash composition as a function of
+furnace temperature. Biomass and Bioenergy 4, 103e116.
+Mluku
+z, D., 2009. The materiality of dung: the manipulation of dung in Neolithic
+Mediterranean caves. Documenta Praehistorica XXXVI, 219e225.
+Mortenson, G., Relin, D.O., 2006. Three Cups of Tea. Penguin Books Ltd, London, England.
+Mumford, L., 1963. Technics and Civilization. Harcourt Brace Jovanovich, New York.
+Munson, T.O., Fetterolf, D.D., 1987. Evidence for the formation of 2,4imidazolinediones and pyrrolidino[1,2a]-3,6-piperazinediones in human hair
+pyrolyzate by pyrolysis-gas chromatography-mass spectrometry. Journal of
+Analytical and Applied Pyrolysis 11, 15e24.
+NEN 5750, 1989. Netherlands Norm. Soil e Determination of pH in Soil Samples.
+Núñez-Regueira, L., Rodríguez-Añon, J.A., Proupín-Castiñeras, J., Vilanova-Diz, A.,
+Montero-Santoveña, N., 2001. Determination of caloric values of forest waste
+biomass by static bomb calorimetry. Thermochimica Acta 371, 23e31.
+Ollendorf, A.L., 1992. Towards a classiﬁcation of sedges (Cyperaceae) phytoliths. In:
+Rapp Jr., G., Mulholland, S.C. (Eds.), Phytoliths Systematics. Plenum Press, New
+York, USA, pp. 91e106.
+Out, W.A., 2009. Firewood collection strategies at Dutch wetland sites in the process
+of Neolithisation. The Holocene, 1e14.
+Pearsall, D.M., Piperno, D.R., 1993. Current Research in Phytolith Analysis: Applications in Archaeology and Paleoecology. Univ. of Pennsylvania, MASCA.
+Pierce, C., Adams, K.R., Stewart, J.D.,1998. Determining the fuel constituents of ancient
+hearth ash via ICP-AES analysis. Journal of Archaeological Science 25, 493e503.
+Piperno, D.R., 2006. Phytoliths: A Comprehensive Guide for Archaeologists and
+Paleoecologists. AltaMira Press, Lanham, MD, USA.
+Pouwels, A.D., Eijkel, G.B., Arisz, P.W., Boon, J.J., 1989. Evidence for oligomers in
+pyrolysates of microcristalline cellulose. Journal of Analytical and Applied
+Pyrolysis 15, 71e84.
+Ryssen, van, J.B.J., Ndlovu,, H., 2004. Ash from ﬁreplaces at homesteads in rural
+regions of South Africa as potential source of minerals to goats. South African
+Journal of Animal Science 34, 111e113.
+Samuel, D., 1989. Their staff of live: initial investigations on ancient Egyptian bread
+baking. In: Kemp, B.J. (Ed.), Amarna Reports V. Egypt Exploration Society,
+London, pp. 253e290.
+Schiegl, S., Goldberg, P., Bar-Yosef, O., Weiner, S., 1996. Ash deposits in Hayonim and
+Kebara caves, Israel: macroscopic, microscopic and mineralogical observations,
+and their archaeological implications. Journal of Archaeological Science 23,
+763e781.
+Shaﬁzadeh, F., 1981. Basic Principles of direct combustion. In: Sofer, S.S., Zaborsky, C.
+(Eds.), Biomass Conversion Processes for Energy and Fuels. Plenum Press,
+New York, pp. 103e141.
+Shahack-Gross, R., Albert, R.-M., Gilboa, A., Nagar-Hilman, O., Sharon, I., Weiner, S., 2005.
+Geoarchaeology in an urban context: the uses of space in a Phoenician Monumental
+building at Tel Dor (Israel). Journal of Archaeological Science 32, 1417e1431.
+Shahack-Gross, R., 2011. Herbivorous livestock dung: formation, taphonomy,
+methods for identiﬁcation and archaeological signiﬁcance. Journal of Archaeological Science 38, 205e218.
+Simpson, I.A., Vésteinsson, O., Adderley, W.P., McGovern, T.H., 2003. Fuel resource utilisation in landscapes of settlement. Journal of Archaeological Science 30,1401e1420.
+Steenari, B.-M., Schelander, S., Lindqvist, O., 1999. Chemical and leaching characteristics of ash from combustion of coal, peat and wood in a 12 MW CFB e a comparative study. Fuel 78, 249e258.
+Steenari, B.-M., 1995. Characterization of ashes from wood and straw. Biomass and
+Bioenergy 8, 105e115.
+
+F. Braadbaart et al. / Journal of Archaeological Science 39 (2012) 836e847
+Sweeten, J.M., Annamalai, K., Thien, B., McDonald, L.A., 2003. Co-ﬁring of coal and
+cattle feedlot biomass (FB). Part I. Feedlot biomass (cattle manure) fuel quality
+and characteristics. Fuel 82, 1167e1182.
+Theis, M., Skrifvars, B.-J., Zevenhoven, M., Hupa, M., Tran, H., 2006. Fouling tendency
+of ash resulting from burning mixtures of biofuels. Part 3. Inﬂuence of probe
+surface temperature. Fuel 85, 2002e2011.
+Théry-Parisot, I., Chabal, L., Chrzavzez, J., 2010. Anthracology and taphonomy, from
+wood gathering to charcoal analysis. A review of the taphonomic processes
+modifying charcoal assemblages, in archaeological contexts. Palaeogeography,
+Palaeoclimatology, Palaeoecology 291, 142e153.
+
+847
+
+Thy, P., Jenkins, B.M., Grunvig, S., Shiraki, R., Lesher, C.E., 2006. High temperature
+elemental losses and mineralogical changes in common biomass ashes. Fuel 85,
+783e795.
+Tillman, D.A., Rossi, A.J., Kitto, W.D., 1981. Wood Combustion, Principles, Processes
+and Economics. Academic Press Inc., USA.
+Uniﬁed Bioenergy Terminology e UBET, 2004. Food and Agricultural Organisation
+of the United Nations, Forestry Department. www.fao.org/DOCREP/007/j4504E/
+j4504e.htm.
+VITA, 1985. Testing the Efﬁciency of Wood-burning Cookstoves. International
+Standards. Volunteers in Technical Assistance, Arlington, Virginia, USA.
+
+

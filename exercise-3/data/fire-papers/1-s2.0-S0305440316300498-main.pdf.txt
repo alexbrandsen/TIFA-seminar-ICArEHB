@@ -1,0 +1,2090 @@
+Journal of Archaeological Science 77 (2017) 143e159
+
+Contents lists available at ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+Cave stratigraphies and cave breccias: Implications for sediment
+accumulation and removal models and interpreting the record of
+human occupation
+Sue O’Connor*, Anthony Barham, Ken Aplin, Tim Maloney
+Department of Archaeology and Natural History, College of Asia and the Paciﬁc, The Australian National University, Canberra, ACT 0200, Australia
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 9 July 2015
+Received in revised form
+31 March 2016
+Accepted 3 May 2016
+Available online 19 May 2016
+
+Many of the key debates in archaeology hinge on the chronology and interpretation of data gathered
+from cave and rockshelter stratigraphies, especially those in karstic limestone environments which are
+selectively targeted by archaeologists because of their superior preservation characteristics. It has long
+been recognized that such sites often contain a variety of cemented deposits including cave breccias and
+that some breccias contain anthropogenic inclusions such as stone artefacts, shell and burnt animal
+bones. Cementation enhances the survival through time of such brecciated deposits. This can result in
+chrono-stratigraphic intervals surviving on cave walls and speleothems that are no longer represented in
+the stratigraphy of cave ﬂoors. This has important implications for understanding apparent presence/
+absence of human occupation and cultural continuity as seen in archaeo-stratigraphy in caves and
+rockshelters, especially in relation to human migration in the humid tropics in SE Asia and the Paciﬁc,
+and over Pleistocene to Holocene timescales. Here we discuss localized breccia formation, the erosional
+processes that leave remnant deposits adhering to walls and speleothems at heights well above current
+cave ﬂoors, and the possible signiﬁcance of local and regional processes, especially changing base levels,
+in triggering gutting out phases impacting cave ﬂoor sediment architectures. Equally signiﬁcant in terms
+of chronological completeness, representativeness and bias is the contribution made by cultural materials encased in older breccias as they erode and are (re-)incorporated into younger accumulating cultural deposits. Case studies from cave sites in Papua New Guinea and Timor Leste are used to illustrate
+these issues.
+© 2016 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Keywords:
+Cave breccias
+Stratigraphy
+Geoarchaeology
+Speleothems
+Island Southeast Asia
+Timor Leste
+Papua New Guinea
+Humid tropics
+
+1. Introduction
+Breccias (poorly-sorted, cemented, angular clastic deposits) are
+common in caves in the Asia Paciﬁc region. That such deposits can
+form valuable archives for investigating biostratigraphic sequences
+over long time spans has been recognized by paleontologists who
+have used them to date and document faunal successions (e.g.
+Westaway et al., 2007). Breccias are often also found in archaeological sites and can contain well preserved cultural materials.
+However, the potential use of remnant breccia deposits as patch
+archives of (otherwise missing) sequences of cave human occupation records has been largely neglected by archaeologists.
+
+* Corresponding author.
+E-mail addresses: sue.oconnor@anu.edu.au (S. O’Connor), ozgeoarch@gmail.com
+(A. Barham), aplin.ken@gmail.com (K. Aplin), tim.maloney@anu.edu.au
+(T. Maloney).
+
+Breccias often form against cave walls or speleothem columns in
+areas where carbonate-rich water ﬂows over, seeps into or drips
+onto, the ﬂoor deposit of archaeological sites, causing sediments to
+lithify in situ. Where breccias cement to the walls or cave features,
+they frequently survive when laterally adjacent unconsolidated
+sedimentary deposits erode away. From an archaeological
+perspective this means that residual cave breccias containing cultural material may provide sequence archives for time periods
+which are otherwise absent from the main body of cave inﬁll. This
+makes such relict deposits valuable bio- and chrono-stratigraphic
+archives especially where cultural evidence of past human occupation interstratiﬁes with other (often dateable) deposits which
+archive other aspects of Quaternary regional palaeo-environmental
+change. Such proxy environment-informative carbonate-cemented
+deposits include speleothem, conglomerates, ﬂowstones, tufa and
+calcretes (see Brook et al., 1999; Fairchild and Baker, 2012).
+Artefacts, humanly discarded shell and bone refuse, ashy deposits
+
+http://dx.doi.org/10.1016/j.jas.2016.05.002
+0305-4403/© 2016 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+144
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+and anthropogenic charcoal commonly preserve exceptionally well
+within such carbonate-cemented deposits in cave, cave-mouth, and
+open site settings.
+Cemented deposits containing cultural materials have long been
+recognized as a feature of caves and rockshelters in limestone regions in many parts of the world. Such deposits are common in
+limestone caves in the humid tropics where seasonal rainfall is
+high, and water seeping through ﬁssures in the cave walls causes
+the deposits in the caves to cement (e.g. Dominguez-Bella et al.,
+2012; Mijares et al., 2010:124). These deposits present problems
+for the ﬁne scale removal and extraction of cultural materials and
+recent work has dealt with new methods for excavating such deposits (Dominguez-Bella et al., 2012). However the implications
+cemented deposits have for interpretation of the archaeological
+record have rarely been addressed in detail. Breccia deposits containing culturally-derived materials, preserved at heights above the
+current site deposit surface, are often overlooked by archaeologists
+who interpret discontinuities in the chrono-stratigraphic sequences from their excavations as reﬂecting phases of occupation
+and abandonment by humans using the sites, rather than the result
+of a diverse range of natural processes acting on the completeness
+of stratigraphy within cave systems. Here we discuss the mechanisms that form such cemented deposits and the potential for
+redeposition/incorporation of these remnant deposits into the
+accumulating archaeological record. We argue that while such
+deposits may bias the accumulating archaeological record, they also
+provide useful ‘time capsules’ allowing the recognition that periods
+of the human occupation record, as originally deposited, are
+missing from the excavated archaeological record. In other words,
+they allow us to recognize that our sample is biased and that the
+missing time is not due to site or regional human abandonment.
+The dating of these remnant ‘time capsule’ deposits is therefore
+critical for understanding the history of human occupation in the
+context of sediment accumulation and removal episodes.
+1.1. Early studies of archaeological breccia deposits in the Indo
+Paciﬁc region
+Breccia deposits on cave walls, containing cultural materials,
+were ﬁrst noted in Island Southeast Asia by Van Heekeren whilst he
+was exploring cave sites on the island of Sulawesi in 1949e50. He
+reported that Burung cave in the Lealleang valley of the Maros region contained lenses of shells, bones and stone artefacts which
+were attached to the walls at heights of up to 1.5 m above the ﬂoor
+of the cave, and hypothesized correctly that these were formed as a
+result of carbonate-rich waters cementing the cultural material
+(Van Heekeren, 1972:123). A detailed assessment of breccia deposits in the same region was later made by Ian Glover (1979)
+during the course of his archaeological research in Sulawesi. He
+noted remnant deposits of breccia at Leang Burung 2 (Van Heekeren’s Burung Cave), Ulu Leang, Leang Timpusang and Leang
+Pattae (Glover, 1979:307). At Ulu Leang breccias were found in at
+least 30 places around the walls, and Glover records that:
+“Nearer the front of the cave, smaller patches of cemented deposit remained on the walls high above the present ﬂoor, where
+they seemed to reﬂect an earlier ﬂoor level sloping towards the
+front of the cave and between 1 and 2 m above the existing cave
+ﬂoor … The presence of bone fragments among the cemented
+shells, and occasional chert ﬂakes was convincing proof that this
+was not a natural deposit, but habitational refuse.” (Glover,
+1979:307)
+Glover (1979) attempted to understand the processes that
+resulted in the formation of such deposits, and how they came to be
+
+cemented so high above the current surface of the deposit. He
+initially hypothesized that they were the “truncated remains of an
+older cave ﬁll eroded by water action and largely removed before
+the current cave deposits began to accumulate.” Following on from
+this he excavated and dated one of the breccia deposits at Ulu Leang
+and conﬁrmed that it contained a similar range of cultural material,
+and was of the same age as surface layers elsewhere in the cave,
+leading him to reject his earlier hypothesis that the breccias represented a remnant deposit from a Pleistocene or signiﬁcantly
+earlier depositional episode. Instead he hypothesized that the
+breccias were all that remained after the underlying habitation
+deposits were dissolved “though solution and mechanical removal”
+thus undermining the cave ﬂoor. As deposit was lost from below,
+this would cause the cave ﬂoor to subside over time, leaving only
+patches of deposit cemented to walls or speleothems at heights
+above the current ﬂoor to attest to its prior ﬁll level.
+Here we re-evaluate Glover’s hypotheses regarding the mechanisms for breccia formation and deposit loss, and look at their
+general applicability to other caves based on the dating of breccias
+and cultural sequences from two limestone caves in Timor Leste
+and one in Papua New Guinea [PNG] (Fig. 1). We identify a diverse
+array of mechanisms to account for the presence of cave breccias on
+walls and speleothems well above the current ﬂoor ﬁll level, and
+suggest that these can only be understood by dating and analysis of
+individual cave systems and a range of deposits within a given cave.
+All three sites are located in high rainfall areas with marked seasonality in the humid tropics.
+2. Case studies from Papua New Guinea (PNG) and Timor
+Leste
+2.1. Lachitu Cave (PNG)
+2.1.1. Site location, environmental context and excavation
+Lachitu Cave is on the north coast of PNG (S 2.633888, E
+141.136388) in karstic limestone terrain at the foot of the Oenake
+Range, between the coast and the Bewani-Torricelli mountain chain
+(Klootwijk et al., 2003). The area is tectonically active with net uplift
+rates >1.2 m/1000 years and likely movement associated with
+Holocene seismic events (see Tudhope et al., 2000). Today Lachitu is
+about 22e24 m above sea level and faces north to the shoreline ca.
+150 m from the cave entrance (Fig. 1). A steep scree slope immediately below the mouth of the cave might be a product of recent
+cliff line retreat and roof collapse, perhaps during the 7000 cal BP
+marine relative high stand.
+Lachitu was excavated by Paul Gorecki and colleagues from
+James Cook University in 1990/1991, and again by the authors in
+2004/2005. The deposit can be divided into a thin upper unit with
+pottery, sparse bone, shell and stone artefacts, and a pre-ceramic
+unit comprising the majority of the deposit (Gorecki et al., 1991;
+O’Connor et al., 2010). Stone artefacts are abundant in the preceramic unit and along with a diverse range of marine and terrestrial fauna are found to the base of the deposit. Gorecki et al. (1991)
+reported on one excavation Square, X1, which had a lower unit with
+a Pleistocene age of 17,399e16,389 cal BP (ANU-7603) and an upper
+Holocene unit (Table 1). They noted that the dates they obtained
+suggested several phases of non-occupation or cultural hiatus.
+Together with unpublished samples submitted from the 1991 season from excavation Square Y1 their results suggest a hiatus between ~14,000 and ~9500 cal BP, ~9500 and 6500 cal BP and ~6500
+and 700 cal BP (Gorecki et al., 1991:121) (Table 1). A later publication reported a date of 42,412e36,507 cal BP (ANU-7610), for a
+shell sample from 130e140 cm below the surface (Gorecki,
+1993:155). Gorecki (1993) does not discuss the provenance or
+context of this much older sample, but the depth information on
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+145
+
+Fig. 1. Location map showing sites discussed in text.
+
+Table 1
+Lachitu radiocarbon dates from Gorecki 2004/2005 excavations.
+Lachitu Square
+
+EU
+
+Material
+
+Lab code
+
+Curve
+
+d13C
+
+Radiocarbon age
+
+Age 2s cal BP
+
+X1
+
+1
+
+Charcoal
+
+ANU-7697
+
+SHcal 13
+
+e
+
+260 ± 60
+
+2
+3
+4
+6
+9
+10e11
+12
+4
+10
+15
+23
+25
+
+marine
+marine
+marine
+marine
+marine
+marine
+marine
+marine
+marine
+marine
+marine
+marine
+
+ANU-7698
+ANU-7602
+ANU-7609
+ANU-7699
+ANU-7700
+ANU-7603
+ANU-7610
+ANU-7928
+ANU-7927
+ANU-7926
+ANU-7925
+ANU-7924
+
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+1180 ± 70
+6040 ± 80
+6010 ± 90
+12,700 ± 110
+13,970 ± 200
+14,340 ± 160
+35,410 ± 1400
+5850 ± 60
+8880 ± 70
+14,910 ± 90
+13,360 ± 90
+13,270 ± 120
+
+450e354
+(16.0%)
+339e134
+(68.7%)
+120e57 (7.0%)
+29e… (3.7%)
+892e626
+6641e6289
+6640e6260
+14,862e13,938
+16,990e15,809
+17,399e16,389
+42,412e36,507
+6404e6145
+9731e9405
+17,934e17,442
+15,790e15,204
+15,786e15,017
+
+Y1
+
+shell
+shell
+shell
+shell
+shell
+shell
+shell
+shell
+shell
+shell
+shell
+shell
+
+the laboratory submission form would place it at 115e130 cm depth
+and directly beneath ANU-7603 dated to 17,399e16,389 cal BP
+(ANU Radiocarbon Laboratory).
+Table 1. Dates from the 1990 and 1991 ﬁeld seasons at Lachitu
+obtained from the ANU Radiocarbon Laboratory with the permission of Paul Gorecki. Dates are calibrated in Oxcal 4.2, using SHCal13
+(Hogg et al., 2013) for charcoal samples, and Marine13 (Reimer
+et al., 2013) for marine shell samples. No DeltaR correction is
+applied for the marine shell calibrations as the ANU radiocarbon
+submission forms identify it only as marine shell and the table in
+Gorecki et al. (1991) as ‘shell’. No d13C is reported in Gorecki et al.
+(1991). Note the radiocarbon ages differ from those reported in
+Gorecki et al. (1991:121) which includes only the dates from Square
+X1 and which had a reservoir correction of 400 years deducted
+from the radiocarbon ages, and were uncalibrated.
+In 2004/2005 the authors returned to Lachitu to try to replicate
+the 42,412e36,507 cal BP (ANU-7610) date and to clarify the
+provenance of the sample. Three test pits (Squares A, B and C) were
+excavated, each of 1 m2, to a point where large rubble or bedrock
+
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+
+hindered further removal (Fig. 2). Only Squares A and C have thus
+far been dated. The dates and cultural ﬁnds from the excavation
+have been reported elsewhere (O’Connor et al., 2011). Here we
+focus on some of the apparent dating anomalies, inversions and
+chrono-stratigraphic hiatuses revealed by our 2004/2005 excavations and discuss these and Gorecki’s earlier results within the
+context of geomorphic processes acting on the cave sedimentary
+deposits.
+2.1.2. Lachitu: the chrono-stratigraphic sequence
+In brief, our 2004/2005 excavation sequences largely supported
+Gorecki et al.’s (1991) ﬁndings. Squares A and C had similar stratigraphic proﬁles (Fig. 4). The upper 20 cm in Square A, Excavation
+Units (EUs) 1e4, is a visibly active soil layer, with evidence of
+mixing by invertebrates and burrowing by land crabs. It consists of
+ﬁne sandy grits or sandy calcareous earths, was less clastic than the
+lower levels, and had discrete sandy-silty lenses. Ashy layers,
+interpreted as the remains of hearths, occur within shallow depressions lying unconformably over lower shelly units. There is
+
+146
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+Fig. 2. Lachitu showing position of Gorecki’s excavation and excavations from the 2004/2005 ﬁeld seasons as well as the location of one of the dated breccia deposits, shown inset.
+
+little or no evidence for net sediment accumulation in Square A
+between the shell rich deposit dated earlier than 6000 cal BP and
+the upper deposit dating to the historic period. The cultural
+assemblage at the interface, the upper excavation units of the shell
+rich deposit (EUs 5e7), is clearly a mixed-age palimpsest including
+mid Holocene-aged marine shells and pottery and pig teeth which
+are dated to within the last few thousand years (O’Connor et al.,
+2010).
+The deposit underlying the mid Holocene unit shows episodic
+accumulation between ~6000 and 18,000 cal BP, has more shell and
+dense shelly lenses, and more rock and clastic aggregates. No
+samples dating as early as the 42,412e36,507 cal BP (ANU-7610)
+basal date obtained by Gorecki were recovered during the 2004/
+2005 excavations (O’Connor et al., 2010). However, two age estimates were obtained which were signiﬁcantly older (and present
+an inversion) compared with all other dated samples in the
+sequence;
+29,776e28,490
+cal
+BP
+(Wk-16528)
+and
+28,145e27,555 cal BP (Wk-16527), although no stratigraphic
+
+anomaly was evident in plan or section (Table 2, Fig. 4). These early
+dates alert us to the possibility of a much longer history of occupation at Lachitu, as well as the probability of several major
+erosional episodes prior to that which occurred subsequent to
+~6500 cal BP. Whether any remnants of these earlier deposits
+remain in situ is currently unknown.
+
+2.1.3. The Lachitu breccias
+One factor noted during the 2004 excavation whose import was
+not immediately recognized was that many excavation units contained aggregates of marine shell, bone, and limestone rubble in
+cemented clasts (O’Connor et al., 2010). At the time, these were
+thought to result from in situ cementation of the deposit due to the
+passage of water, rich in calcium carbonate, through the deposit reprecipitating around rock fragments and cultural materials. What
+was not clear was why this process acted differentially e with some
+cultural materials appearing heavily cemented, while other ﬁnds
+from the same excavation unit and depth below surface were
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+147
+
+Fig. 3. Proﬁle of Lachitu showing location of excavations and dated breccia deposits.
+
+Fig. 4. Lachitu Square A section. Location of dated samples are shown on the section.
+
+entirely unaffected. However it was not until the second excavation
+season in 2005 that perched breccia deposits were discovered by
+one of the authors (KA) adhering to the lower part of a speleothem
+near the entrance of the cave (Fig. 2). Signiﬁcantly the perched
+breccia contained cultural material and the speleothem was heavily
+eroded at the base (Fig. 2). Two marine shells (Turbo marmoratus)
+from within this breccia produced dates of ~18,200 cal BP (Wk17978 and Wk-17979). Cemented cultural deposits were subsequently identiﬁed in other locations within the cave. A Turbo sp.
+shell from an eroding breccia 30 cm above the current cave ﬂoor
+and behind Square B dated to ~7200 cal BP (OZF-282) (Fig. 2,
+Table 2).
+Acetic acid treatment of the breccia clasts from within the
+
+deposit produced cultural assemblages of broken, burnt and unburnt marine shell and animal bones, as well as charcoal and stone
+artefacts, which were indistinguishable in terms of content to that
+in the unlithiﬁed sedimentary units. In the areas where breccia was
+actively eroding from the base of the speleothems detached clasts
+could be seen on the cave ﬂoor, indicating that fretting of the older
+cemented cultural deposits is an ongoing process, and this older
+cultural material is being actively re-deposited. Re-deposition and
+incorporation of older archaeological materials into the deposit as it
+has accumulated has clearly biased the archaeological record.
+In short, dates on material from cemented breccias, as well as
+eroded and secondarily re-deposited clasts of breccia containing
+cultural materials found in the deposits, alert us to the likelihood
+
+148
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+Table 2
+Dates obtained from excavation units in Squares A and C from the 2004/2005 excavations at Lachitu and from the three sampled breccias shown in Figs. 2 and 3.
+Lachitu Square
+
+Excavation unit
+
+Material
+
+Lab code
+
+Curve
+
+d13C
+
+Radiocarbon age
+
+Age 2s cal BP
+
+A
+
+2 (I)
+
+Charcoal
+
+Wk-16532
+
+SHcal 13
+
+31.6 ± 0.2
+
+132 ± 34
+
+4 (I)
+
+Charcoal
+
+Wk-16533
+
+SHcal 13
+
+28.7 ± 0.2
+
+160 ± 34
+
+7
+10 (I)
+10 (II)
+14
+18
+20 (I)
+24
+28
+31
+6
+8
+14
+24
+38
+C
+D
+Sample Behind Sq. B
+
+Turbo sp.
+Turbo sp.
+Turbo sp.
+Turbo sp.
+Turbo sp.
+Tectus niloticus
+Turbo sp.
+Turbo sp.
+Turbo sp.
+Turbo setosus
+Turbo setosus
+Turbo argyrostomus
+Turbo setosus
+Turbo setosus
+Turbo marmoratus
+Turbo marmoratus
+Turbo sp.
+
+Wk-16524
+Wk-16523
+Wk-16525
+Wk-16526
+Wk-16527
+Wk-16528
+Wk-16529
+Wk-16530
+Wk-16531
+Wk-17536
+Wk-17535
+Wk-17534
+Wk-17537
+Wk-17538
+Wk-17978
+Wk-17979
+OZI-282
+
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+Marine
+
+2.8
+2.8
+1.4
+1.7
+2.9
+2.4
+2.0
+1.3
+3.6
+3.2
+2.8
+2.6
+0.9
+3.2
+3.6
+3.6
+1.4
+
+267e220 (19.3%)
+148e… (76.1%)
+278e207 (27.8%)
+191e171 (2.3%)
+154e… (65.3%)
+6998e6742
+7155e6900
+7445e7259
+10,786e10,396
+28,145e27,555
+29,776e28,490
+13,366e13,104
+12,539e12,065
+17,422e16,753
+6621e6376
+6555e6299
+6448e6259
+11,090e10,645
+18,267e17,439
+18,454e17,905
+18,389e17,893
+7398e6995
+
+C
+
+Breccia Samples
+
+that the ‘missing time’ at Lachitu is due to major phases of erosion
+and sediment loss, rather than a lack of human occupation.
+2.2. Timor Leste, Lene Hara Cave
+In Timor Leste perched breccia deposits have been identiﬁed in
+many limestone caves and shelters (pers. obs). Here we focus on
+deposits in two sites which have been excavated, Lene Hara and
+Laili.
+2.2.1. Site location, environmental context and excavation
+Lene Hara (S 8.408809, E 127.292700) is a large limestone solution cave at the extreme eastern tip of Timor Leste (Fig. 1). It is
+situated at ca.100 m above sea level in an uplifted coral terrace, less
+than 1 km from the current shoreline. The cave entrance faces east,
+with a well-developed drip-line overhanging a vegetated terrace at
+the front of the cave. The drip-line area at the entrance is over 40 m
+wide, and the main cave extends more than 50 m into the hillside
+before entering narrow ﬁssure systems (Fig. 5). Under the drip-line,
+large mounded areas of block fall, comprising both limestone and
+fallen speleothem, form 2e5 m high piles of block debris (Fig. 5).
+Isolated speleothems occur within the interior of the cave as 2e4 m
+wide columns and 1e2 m high mounds (Fig. 6). Many of the speleothems have elevated eroded pedestals, where past erosion
+events have removed unconsolidated sediments from around the
+base of the columns and caused net lowering of the cave ﬂoor
+abutting these structures (O’Connor et al., 2010).
+The current ﬂoor of Lene Hara Cave is highest in the south (near
+Square A) and slopes away to the north and northeast (Fig. 5).
+Surﬁcial cave ﬂoor sediment is generally a loose organic cave earth,
+composed of ﬁne sands to silt. High areas around the speleothem
+columns serve to channel episodic surface water ﬂow from ﬁssures
+at the rear of the cave during extreme storm events. Surface water
+ﬂow has produced micro-fans and ﬁne gravel lags by winnowing
+away ﬁnes. This has caused some exposure of ﬂowstones on the
+surface (Fig. 5). Recent sedimentation within the cave has been
+further complicated by the construction of linear stone walls of
+boulder rock fall. In places in situ speleothem columns are incorporated into the constructed wall of limestone blocks. The central
+outer mounded rampart area of rock fall and, further inside, the
+large speleothem column, effectively separate the mouth of the
+
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+13
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+0.2
+
+6399 ± 45
+6519 ± 46
+6842 ± 48
+9695 ± 69
+24,140 ± 155
+25,436 ± 282
+11,753 ± 62
+10,825 ± 59
+14,464 ± 92
+6062 ± 46
+6013 ± 50
+5932 ± 45
+9897 ± 78
+15,053 ± 167
+15,357 ± 109
+15,325 ± 97
+6680 ± 90
+
+cave into two chambers (Fig. 6). To date four 1 m2 test pits, Squares
+A, B, D and F have been excavated in Lene Hara. The results show
+that different chrono-stratigraphic sequences are preserved in
+different areas of the cave.
+2.2.2. Lene Hara: the chrono-stratigraphic sequence
+Square A, excavated in 2000 in the higher southern part of the
+cave produced an 80 cm deep sequence that predominantly dated
+between ~39,000 and 34,000 cal BP (Table 3). Square A can be
+broadly divided into an upper and lower deposit. The upper and
+lower deposits are further divisible into four litho-stratigraphic
+units (LUIeLUIV) (Fig. 7). The upper deposit (LUI) is unconsolidated and consists of dark brown well sorted sandy silts, with near
+horizontal bedding. This unit conformably overlies the slightly
+undulating surface of LUII, comprised of denser and more organic
+darker brown sandy silts. The well-deﬁned hearth feature in this
+unit suggests minimal bioturbation (Fig. 7). LUIII has coarse to ﬁne
+sandy silts, mixed with variable proportions of coarser gravels and
+shell. The lower deposits, LUIV are much coarser, poorly sorted
+sediments, ranging from gravelly silty sands to very coarse clastsupported cobble gravels and boulder rubble (see Fig. 7). The deposits become progressively more lithiﬁed below 60 cm, where
+roof fall and cultural material are variably cemented to the base of
+the test pit.
+Eight radiocarbon dates obtained from the 2000 excavation
+indicated that most of the marine shell within the sampled
+sequence was of Pleistocene age, dating between 40,266 and
+36,971 cal BP (ANU-11418) and 34,485e33,258 cal BP (ANU-11398)
+(Table 3). A single sample of Tectus sp. cf. niloticus shell from EU 2
+(5e10 cm depth) produced a late Holocene age of 691e508 cal BP
+(ANU-11400). This suggested either that occupation of the cave was
+discontinuous or spatially uneven, or that substantial erosion of the
+deposit had occurred, creating a major chrono-stratigraphic hiatus.
+Most pottery occurred in the top 25 cm of the deposit dating to the
+Holocene, along with stone artefacts, marine shell and animal bone.
+Occasional sherds found in the deposit dated to the Pleistocene
+indicate some intermixing. Stone artefacts, marine shell and bones
+continue to bedrock (O’Connor and Aplin, 2007). In our initial
+publication we suggested that the cave was occupied between
+35,000 and 30,000 and abandoned thereafter until the late Holocene (O’Connor et al., 2002a). Subsequently a program of direct
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+149
+
+Fig. 5. Lene Hara site plan and proﬁle showing location of Squares A, B, D and F, speleothems, sampled breccia and wall.
+
+dating of artefacts from Square A produced two shell beads in EUs 7
+and 10 dating to the mid to late Holocene, 4705e4415 cal BP (OZF212) and 3628e3404 cal BP (OZF-213) (O’Connor et al., 2002b:19).
+This demonstrated that the cave had been used during the midHolocene and that some Holocene-aged cultural materials were
+intermixed with Pleistocene-aged materials in the predominantly
+late Pleistocene sediments of Square A.
+In 2002 new excavations were carried out at Lene Hara. The
+three 1 m2 test pits, Squares B, D and F were excavated to compare
+the litho- and chrono-stratigraphy in other parts of the cave ﬂoor
+with Square A. Square B was located in the same southern higher
+area of the cave as Square A. Two other Squares, D and F, were
+located in the lower, northern chamber outside the walled part of
+the deposit (Fig. 5). Squares A, B and F were found to have little
+overlap in terms of the chronology of the occupation phases represented. However it was the discovery of a signiﬁcant breccia
+deposit containing cultural materials in 2009, adhering to a large
+
+broken speleothem column, which radically revised our
+interpretation.
+Square B is ca. 60 cm deep with a stratigraphic sequence broadly
+similar to Square A. Radiocarbon dating indicates that the sediments in B largely accumulated between ~30,000 and 21,000 cal BP
+(Table 3), again with a thin upper veneer of late Holocene age. The
+cultural sequence in Square B also mirrors that of Square A, with
+pottery found in the top 20 cm of the deposit and bone, marine
+shell and stone artefacts recovered throughout. The loose, surﬁcial
+sediments occur in the upper 0e6 cm of the deposit and are wellsorted ﬁne sands and silts, with some ﬁne gravel (Fig. 8). This upper
+unit is interpreted as a recent wash accumulation and overlies
+denser deposits on a largely planar contact. Underlying deposits
+comprise weakly-bedded coarse sandy silts with frequent larger
+boulders and cobbles. These coarser gravelly earths in turn overlie
+horizontally-bedded, ﬁner deposits. The deposit becomes courser
+with depth and lowest sediments comprise partly cemented light
+
+150
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+Fig. 6. Speleothems inside the entrance of Lene Hara with stone wall in foreground.
+
+Table 3
+Radiocarbon dates: Lene Hara Squares A, B, D and F, 2000 and 2002 excavations.
+Lene Hara Square
+
+Excavation unit
+
+Tectus niloticus
+
+Lab code
+
+Curve
+
+d13C
+
+Radiocarbon age
+
+Age cal BP 2s
+
+A
+
+2
+4 (A)
+4 (B)
+5
+7
+10
+10
+14 (A)
+14 (B)
+18
+2
+5
+10
+15
+18
+20
+5
+10
+16
+16
+20
+23
+27
+30
+35
+40
+42
+43
+Sample 1
+Sample 2
+Square F EU 4
+
+Tectus sp. cf. niloticus
+Lambis lambis
+Conomurex luhuanus
+C. luhuanus
+Tectus sp. bead
+Conomurex sp. bead
+C. luhuanus
+C. luhuanus
+Tectus sp.
+C. luhuanus
+Turbo argyrostomus
+Tectus niloticus
+T. niloticus
+T. niloticus
+T. niloticus
+T. niloticus
+T. niloticus
+T. niloticus
+Charcoal
+T. niloticus
+T. niloticus
+T. niloticus
+Nautilus sp. shell bead
+T. niloticus
+T. niloticus
+Oliva sp. shell bead
+T. niloticus ﬁsh hook
+T. niloticus
+Tectus sp. cf. niloticus
+Tectus sp. cf. niloticus
+Nerita textilis
+
+ANU-11400
+ANU-11419
+ANU-11420
+ANU-11398
+OZF-212
+OZF-213
+ANU-11399
+ANU-11397
+ANU-11418
+ANU-11401
+ANU-12138
+ANU-12141
+ANU-12139
+ANU-12142
+ANU-12059
+ANU-12060
+ANU-12140
+ANU-12136
+ANU-12029
+ANU-12041
+ANU-12042
+ANU-12045
+NZA 16998
+ANU-12044
+ANU-12043
+NZA 16999
+NZA 17000
+ANU-12040
+Wk-26404
+Wk-26405
+S-ANU 42729
+
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+SHcal13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+Marine 13
+
+3.0 ± 2.0
+0.0 ± 2.0 est.
+2.2 ± 0.1
+2.3 ± 2.0
+0.0 ± 2.0 est.
+0.0 ± 2.0 est.
+1.9 ± 2.0
+2.1 ± 2.0
+2.9 ± 0.1
+1.9 ± 2.0
+0.0 ± 2.0 est.
+0.0 ± 2.0 est.
+0.0 ± 2.0 est.
+0.0 ± 2.0 est.
+0.0 ± 2.0 est.
+0.0 ± 2.0 est.
+0.0 ± 2.0 est.
+0.0 ± 2.0 est.
+24 ± 2.0
+0.0 ± 2.0 est.
+0.0 ± 2.0 est.
+0.0 ± 2.0 est.
+1.95 ± 0.2
+0.0 ± 2.0 est.
+0.0 ± 2.0 est.
+0.97 ± 0.2
+2.57 ± 0.2
+0.0 ± 2.0 est.
+2.5 ± 0.2
+3.3 ± 0.2
+
+1030 ± 60
+33,150 ± 550
+30,970 ± 460
+30,110 ± 320
+4400 ± 40
+3620 ± 40
+32,440 ± 400
+30,990 ± 340
+34,650 ± 630
+30,950 ± 360
+18,740 ± 400
+18,380 ± 220
+23,790 ± 210
+25,770 ± 630
+3820 ± 80
+3650 ± 70
+1170 ± 190
+3305 ± 190
+3200 ± 240
+3850 ± 70
+4370 ± 70
+5270 ± 80
+5782 ± 45
+6200 ± 90
+6140 ± 100
+7945 ± 65
+9741 ± 60
+10,050 ± 80
+37,956 ± 506
+38,207 ± 610
+39640 ± 590
+
+691e508
+38,415e35,669
+35,474e33,809
+34,485e33,258
+4705e4415
+3628e3404
+36,920e35,004
+35,188e33,945
+40,266e36,971
+35,192e33,896
+23,133e21,156
+22,353e21,192
+27,892e27,271
+30,885e28,330
+3985e3556
+3745e3377
+1146e444
+3603e2721
+3612e2421
+4003e3607
+4775e4345
+5841e5466
+6300e6085
+6866e6426
+6816e6340
+8556e8283
+10,841e10,491
+11,209e10,791
+42,681e41,206
+42,998e41,251
+44,182e42,269
+
+B
+
+D
+F
+
+Breccia Samples
+
+brown silty gravels, inﬁlling an undulating surface over ﬂowstone,
+breccia and/or bedrock.
+Squares D and F were located 1 m apart in the northern chamber
+of the cave (Fig. 5). They are much closer to the drip-line, and within
+a well-deﬁned, 5e8 m wide area of ﬂoor that experiences surface
+
+wash from smaller rivulets originating in various clefts at the rear of
+the cave. Excavation of Square D was discontinued at the wish of
+the traditional owners at ca. 70 cm when a human burial was
+encountered (Fig. 8). The date of 3745e3377 cal BP (ANU-12060)
+from the lowest excavated EU (20) provides a maximum age for the
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+151
+
+Fig. 7. Lene Hara test Square A section showing stratigraphy and depth.
+
+Fig. 8. Lene Hara test Square B and D sections, showing stratigraphy and excavation units.
+
+burial (Table 3).
+Square F was excavated to a depth of ca. 220 cm where excavation was discontinued prior to reaching bedrock owing to safety
+concerns (Fig. 9). The surﬁcial sediments in F are sandy silts, with
+patches of ﬁne gravels. Weakly-bedded sands with variable gravel
+and silt content form a well-deﬁned unit down to 70 cm. At this
+level a distinct thin bed of light grey ashy sands and silts form a
+continuous band across the Square. From 70 cm to 220 cm the
+deposit comprises a moderately to well-stratiﬁed ﬁning upwards
+sequence of ﬁne sandy gravels and sandy silts, variably interstratiﬁed and mixed with medium and coarse gravels. Cycles of
+deposition are evident in the bedding structures and the age-depth
+intervals of radiocarbon ages in the vertical sequence. Brief episodes of erosional surface wash and winnowing across the cave
+ﬂoor are interspersed with deposition through creep, roof fall and
+human discard. The lowest 50e60 cm of the Square F deposit was
+signiﬁcantly coarser than the overlying deposit (Fig. 9).
+
+Radiocarbon dates from Square F demonstrate that the entire
+sequence is of Holocene age, dating between 11,209 and 10,791 cal
+BP (ANU-12040) at the base and 1146e444 cal BP (ANU-12140)
+close to the surface in EU 5 (Fig. 9).
+The broad stratigraphic sequence observed across the four test
+pits in Lene Hara Cave is interpreted as follows. In the southern,
+higher parts of the cave sampled by Squares A and B, early rock fall
+debris formed platforms against the walls. These areas were
+occupied in the late Pleistocene, probably starting around
+39,000 cal BP, and signiﬁcant rapid inﬁlling of natural hollows with
+midden refuse resulted. Sediment and cultural debris continued in
+this area of the cave for at least 5000 years. Sometime prior to
+30,000 years ago, the adjacent area sampled by Square B was
+probably scoured to bedrock, followed by inﬁlling with coarse
+sediment mixed with clastic roof fall and cultural material from
+30,885e28,330 cal BP (ANU-12142), through to 23,133e21,156 cal
+BP (ANU-12138). Scouring action evidently truncated the deposit
+
+152
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+Fig. 9. Lene Hara Square F section showing stratigraphy and depths for excavation units, and radiocarbon dates.
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+on at least one more occasion in the area of Square B, such that
+nothing survives apart from a thin veneer of Holocene wash deposits unconformably capping the truncated sequence. The same
+Holocene veneer probably caps the sedimentary sequence in the
+area of Square A, but without an obvious unconformity. Further
+evidence that ancient erosional episodes have removed signiﬁcant
+volumes of sediment in this part of the site is found around the base
+of the larger speleothems in the southern chamber of the cave,
+where the elevated brecciated units signify a formerly higher cave
+ﬂoor level.
+2.2.3. The Lene Hara breccias
+In September 2009 two of the authors (SOC, KA) returned to
+Lene Hara Cave. The survey resulted in the discovery of a breccia
+with inclusions of cultural materials such as marine shell, stone
+artefacts and bone, cemented underneath the large speleothem
+located between the southern and northern chambers of the cave
+(Fig. 5). In the area sampled the breccia was approximately 50 cm
+higher than the current ﬂoor surface in this part of the cave and
+itself supports the speleothem column. Cultural material extracted
+in situ from the breccia included a ﬂake made on red chert and
+marine shellﬁsh. Two well preserved marine gastropods (Tectus sp.)
+produced radiocarbon ages of between ~43,000 BP and ~41,000 BP
+(Wk-26404, Wk-26405) (Table 4, samples 1 and 2).
+In 2009 it was also noted that marine shells cemented in carbonate clasts could be found on the washed surface on the cave
+ﬂoor. These included a high proportion of the marine gastropod
+Nerita textilis. This species is common in the breccias on the
+sampled speleothem and is one of the dominant species in the
+Pleistocene shell assemblages at Lene Hara, but is much less
+abundant in the Holocene archaeological layers. Formerly the
+deﬁned range for this species was thought not to extend east of
+India but recent collecting has identiﬁed it in Flores Island and
+Maluku although population sizes are apparently very small
+, 2004:10). One carbonate encrusted shell of
+(Eichhorst and Szabo
+Nerita textilis from the SW corner of EU 4 Square F was submitted
+for dating and returned an age of 44,182e42,269 cal BP (S-ANU42729) (Table 4, sample Square F4). Based on the age, this specimen
+is interpreted as eroded from older breccias, and then transported
+into the lower northern area of the cave ﬂoor where it was subsequently incorporated into the accumulating deposit, illustrating a
+process which has likely operated throughout the human occupation period. The Pleistocene date makes it difﬁcult to ascertain
+whether Timor Leste is within the current range of the species.
+2.3. Laili Cave, Timor Leste
+2.3.1. Site location, environmental context and excavation
+Laili is a large cave in a karstic limestone outcrop approximately
+5 km inland of the north coast of Timor Leste (S 08.54048, E
+126.16405), and within the modern village of Laleia (Fig. 1). Located
+on a ridgeline ~86 m above sea level, the cave overlooks the Laleia
+River braidplain about 350 m to the east.
+Two 1 m2 test pits, Square A and B, were excavated at Laili in
+2011 (Fig. 10). Square A positioned closer to the rear wall of the cave
+was excavated to a depth of about 220 cm where large rocks
+covered most of the Square in plan. Square B was excavated to a
+depth of about 80 cm and discontinued when the deposit was
+found to be disturbed by termite activity, and no analysis has been
+carried out on Square B. Square A stratigraphic layers were rich in
+stone artefacts and contained marine and terrestrial fauna, shellﬁsh
+from the freshwater reaches of the river as well as the more distant
+sea, and small quantities of urchin and crustacean. Dating of Square
+A shows that Laili was ﬁrst occupied ~44,000 BP. Surprisingly,
+however, the upper part of the deposit was found to date to ~10,000
+
+153
+
+BP, with merely a thin sedimentary lens of unconsolidated silty
+sand, goat dung and leaf litter, with occasional shells and earthenware sherds, mantling the early Holocene/terminal Pleistocene
+deposits (Fig. 11). The chrono-stratigraphic sequence in Square A at
+Laili records no use of the cave between Modern and ~10,000 cal BP
+(Fig. 11).
+2.3.2. Laili: the chrono-stratigraphic sequence
+A total of 40 excavation units (average ¼ 4.93 cm,
+range ¼ 2.2e8 cm) were removed in Square A. Nineteen samples
+from the deposit have been dated; most are charcoal samples
+collected during excavation or from the sections at the completion
+of the excavation (Fig. 11; Table 4). An additional ten breccia samples containing shell, bone and stone artefacts were removed from
+the back wall of the cave above the current ﬂoor (Table 4 provides
+the heights of the samples above datum). The deposit has been
+divided into eleven Stratigraphic Units (1e11), based on sediment
+texture, colour and sorting. The relationship between the stratigraphic units and the excavation units is shown in Fig. 11. The
+stratigraphic units are described with reference to the radiocarbon
+dates.
+Unit 1 is comprised of loosely compacted ﬁne sands and silt. This
+unit is rich in humic material and dung as goats are sometimes
+penned inside the overhang. A radiocarbon date on charcoal from
+one of the lowest lenses in Unit 1 returned a Modern age (D-AMS007343) (Fig. 11). Unit 2 is a poorly sorted coarse silty sand (10YR 6/
+2). Radiocarbon samples from the west section for Unit 2 produced
+ages of 10,992e10,650 cal BP (D-AMS 007342), and
+12,362e11,764 cal BP (D-AMS 001654) indicating that these units
+formed in the terminal Pleistocene to early Holocene.
+Stratigraphic Units 3, 4 and 5 are similar in texture and sorting,
+and have overlapping radiocarbon ages, possibly representing a
+continuous phase of occupation and deposition. Unit 3 gets progressively ﬁner down the proﬁle, changing from coarse silty sand at
+the boundary of Unit 2 and 3 to ﬁne sandy silt, rich in charcoal and
+ash at the boundary of Unit 3 and 4. An in situ charcoal sample from
+Unit 3 produced a date of 15,366e14,988 cal BP (D-AMS 001649).
+Stratigraphic Unit 4 is also ﬁne sandy silt and extremely rich in
+charcoal and comminuted ash. Bioturbation was observed in the
+form of small roots and a burrow-like feature in the east wall. A
+hearth (4a) occurs between EU 8 and 9. Charcoal from the west
+section below hearth 4a dated to 16,115e15,755 cal BP (D-AMS
+001655). Charcoal from the base of Stratigraphic Unit 4 was dated
+to 16,104e15,714 cal BP (D-AMS 001656). Concentrations of charcoal and ash were found across the lower part of Unit 5, including a
+hearth in the west wall (5a). Charcoal from the EU overlying the
+hearth (EU 16) dated to 16,401e15,958 cal BP (D-AMS 001650).
+Charcoal from hearth 5a returned an age of 17,468e17,038 cal BP
+(D-AMS 001661). Stratigraphic Units 6 and 7 are coarse silty sand. A
+charcoal sample from the west section of Unit 6 was dated to
+16,298e15,902 cal BP (D-AMS 001657). Stratigraphic Unit 7 is
+similar texturally but with more inclusions of rock. Five radiocarbon dates were obtained from Unit 7 (Table 4), ranging between
+ca. 18,600e22,000 cal BP.
+Stratigraphic Units 8e11 show progressive ﬁning down the
+proﬁle. A charcoal sample collected from this Unit 8 during excavation has an age range of 38,258e36,831 cal BP (D-AMS 001652).
+Unit 9 is sandy silt. Two charcoal samples were collected from the
+west section within Unit 9, the ﬁrst returned an age of
+12,409e11,828 cal BP (D-AMS 001663), a notable inversion, and the
+second, 18,975e18,540 cal BP (D-AMS 001660), which is also
+considerably younger that the date from Unit 8. An additional
+charcoal sample from Unit 9, from the sieved fraction of EU 31, was
+dated to 27,856e27,530 cal BP (D-AMS 001653). A hearth feature
+(9a) occurs near the base of Stratigraphic Unit 9. Stratigraphic Unit
+
+154
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+Table 4
+Laili radiocarbon dates.
+Lab code
+
+Curve
+
+d13C
+
+Laili Square
+
+Excavation unit
+
+Wall sample
+
+Material
+
+A
+
+1
+2
+2
+
+e
+A
+B
+
+Charcoal
+D-AMS-007343 SHcal13
+22.2 modern
+Terebralia sp. D-AMS 007342 Marine 13 22.2 9858 ± 47
+Charcoal
+D-AMS 001654 SHcal13
+19.3 10295 ± 43
+
+5
+9
+10
+12
+12
+14
+16
+17
+17
+17
+20
+25
+26
+
+e
+C
+D
+e
+F
+G
+I
+e
+H
+N
+L
+e
+M
+
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+Charcoal
+
+Radiocarbon age
+
+SHcal13
+SHcal13
+SHcal13
+SHcal13
+SHcal13
+SHcal13
+SHcal13
+SHcal13
+SHcal13
+SHcal13
+SHcal13
+SHcal13
+SHcal13
+
+24.9
+31.5
+28.6
+29.0
+21.2
+31.7
+19.3
+24.5
+26.9
+24.7
+19.1
+26.2
+24.0
+
+29
+J
+Charcoal
+D-AMS 001660
+31
+e
+Charcoal
+D-AMS 001653
+35
+e
+Charcoal
+D-AMS-007344
+Breccia Sample Height Above Datum (m) Height Above Floor (m) Material
+Lab Code
+LB8
+2.577
+2.16
+Terebralia sp. D-AMS 011029
+LB8
+2.577
+2.16
+Charcoal
+D-AMS 011026
+LB7
+2.399
+1.37
+Terebralia sp. D-AMS 007340
+LB6
+1.879
+0.37
+Charcoal
+D-AMS 011025
+
+SHcal13
+SHcal13
+SHcal13
+Curve
+Marine 13
+SHCal 13
+Marine 13
+SHCal 13
+
+23.4 15545 ± 106
+25.8 23607 ± 74
+18.4 40417 ± 332
+Radiocarbon
+5.3 5566 ± 26
+22.2 5482 ± 25
+4.5 3219 ± 28
+27.5 7858 ± 30
+
+LB6
+LB5
+LB3
+LB2
+1(2010)
+2(2010)
+
+Marine 13
+3.3 5400 ± 30
+Marine 13 11.2 7917 ± 46
+Marine 13
+4.2 6011 ± 27
+SHCal 13
+17.4 2038 ± 23
+Marine 13
+0.0 6268 ± 30
+Marine 13
+3.6 6068 ± 33
+
+1.879
+1.658
+1.723
+1.913
+e
+e
+
+0.37
+0.19
+0.2
+1.34
+~1.2
+~1.3
+
+Terebralia
+Terebralia
+Terebralia
+Charcoal
+Terebralia
+Terebralia
+
+10 is texturally similar to 9, but has abundant ash and charcoal. A
+strong boundary separates units 10 and 11. The sediment in Stratigraphic Unit 11 changes sharply to a pale brown ﬁne silt. While this
+unit had sparse cultural material, a prominent hearth feature occurs in the west wall between EUs 34 and 36 (11a) dated to
+44,631e43,283 cal BP (D-AMS007344).
+
+2.3.3. The Laili wall breccias
+When Laili cave was ﬁrst located in 2010 it was noted that there
+were pockets of breccia containing cultural materials such as stone
+artefacts, charcoal and shell adhering to areas of the rear wall of the
+cave. Two samples were removed (1 2010 and 2 2010) and Terebralia palustris shells encased in them were dated to ~ 6500 BP (Wk28438 and Wk-28439) (Table 4). During excavation in 2011 an
+additional 8 breccia samples from the cave rear wall were recorded
+with height datums and subsequently shell and charcoal from six of
+these was dated (Table 4).
+The Laili breccias cover the time that is ‘missing’ from the cave
+ﬂoor occupation deposit e the Holocene. The dates and heights
+above current ﬂoor of these samples are shown in Table 4. The
+remnant breccias on the walls at Laili tell us that the cave originally
+contained a deep Holocene stratigraphy deposited between at least
+1900 and 8500 cal BP, comprising stone artefacts, charcoal, shell
+and animal bones in a ﬁne sediment matrix. In the breccia samples
+processed for dating the edible mangrove gastropod Terebralia sp.
+was the dominant shell species. Only one specimen of the freshwater species Stenomelania sp. was recovered, as well as some small
+fragments of terrestrial snail. In terms of shell composition the
+Holocene breccias closely match the deposit dated to the terminal
+Pleistocene (EUs 1e5) which is also dominated by Terebralia sp.
+
+D-AMS
+D-AMS
+D-AMS
+D-AMS
+D-AMS
+D-AMS
+D-AMS
+D-AMS
+D-AMS
+D-AMS
+D-AMS
+D-AMS
+D-AMS
+
+001649
+001655
+001656
+001650
+001661
+001657
+001659
+001651
+001658
+001664
+001662
+001652
+001663
+
+sp. D-AMS 011028
+sp. D-AMS 007341
+sp. D-AMS 011027
+D-AMS 011024
+sp. Wk 28438
+sp. Wk 28439
+
+12789
+13303
+13277
+13490
+14206
+13434
+16280
+17036
+16461
+18625
+15579
+33319
+10347
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+47
+38
+50
+56
+52
+51
+51
+64
+52
+71
+61
+168
+67
+
+Age cal BP 2s
+
+modern
+10,992e10,650
+12,362e12,346 (1.2%)
+12,261e12,233 (2.5%)
+12,085e11,764 (91.8%)
+15,366e14,988
+16,115e15,755
+16,104e15,714
+16,401e15,958
+17,468e17,038
+16,298e15,902
+19,835e19,421
+20,705e20,264
+20,018e19,602
+22,634e22,300
+18,927e18,643
+38,258e36,831
+12,409e11,913 (87.5%)
+11,908e11,828 (7.9%)
+18,975e18,540
+27,856e27,530
+44,631e43,283
+Age Age cal BP 2ʊ
+ʊ
+6032e5880
+6296e6191
+2925e3140
+8702e8668 (3.5%)
+8660e8514 (90.5%)
+8494e8479 (1.3%)
+5876e5681
+8289e8495
+6509e6331
+2005e1898
+6817e6634
+6596e6396
+
+followed by the freshwater species Stenomelania sp.
+Although our occupation dates at Laili are derived from a
+1 m2  2.2 m sample of the deposit, the perched breccias sampled
+from heights above the current ﬂoor, spread across an extensive
+area of the rear wall of the cave all date to the Holocene. This would
+suggest that deposit has been lost over a large area of the cave ﬂoor.
+Establishing the extent of removal would require much more
+intensive sampling and dating of the occupation deposit and the
+breccias. It is possible that Holocene deposits may still be intact in
+the higher western part of the cave ﬂoor (Fig. 10).
+Laili Cave is located over 4 km from the coast. It seems inconceivable that sea level rise, and processes of coastal trimming and
+readjustment hypothesized as possibly destabilizing the talus in
+front of Lachitu and leading to deposit loss, would have effected
+Laili. Voids relating to post-depositional animal activity like burrowing, and tree roots, are evident and such processes may cause
+local subsidence, but this is unlikely to be uniform across the ﬂoor
+of the cave, or to result in the level of deposit loss seen at Laili.
+Processes leading to local subsidence or slumping would also presumably be evident in deformation of the stratigraphy. Excavation
+of Squares A and B did not reveal any major post-depositional
+subsidence although the stratigraphy in these test pits did provide evidence of some burrowing by small animals (probably rats),
+root and burrow ﬁll features as well as extensive termite activity in
+Square B. Generally the stratigraphy at Laili is horizontally bedded
+and the fact that discrete hearths with ash and charcoal lenses are
+evident in the section of A suggests minimal bioturbation.
+Dissolution of organics in the lower basal deposits, as hypothesized by Glover (1979) could produce deposit slumping, however,
+in this case the radiocarbon dates for the cemented raised remnant
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+155
+
+Fig. 10. Laili plan of site showing location of excavations and sampled breccia deposits on rear wall and proﬁle showing position of highest sampled breccia above the cave ﬂoor.
+Note the SW corner of Square B is 0.00 (same height as the datum), the SW corner of Square A is 0.010.
+
+breccia deposits should be replicated by dates in the upper part of
+the deposit, as was the case in Leang Burung (Glover, 1979). Water
+erosion within the cave could remove signiﬁcant quantities of
+sediment however it is unlikely that this process would be uniform
+across ﬂoor as suggested by the spread of breccia.
+
+3. Discussion
+As with all caves in tropical regions the processes acting on the
+sedimentary deposits are complicated (Gillieson, 1996). The
+completeness, or not, of the stratigraphic record within individual
+caves typically reﬂects lateral shifts in facies deposition over a few
+
+156
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+Fig. 11. Laili Square A section showing stratigraphy and position of dated samples.
+
+metres (Farrand, 2001). In the humid tropics pulsed and sudden
+shifts in hydrological inputs drive alteration of sediment pathways
+in caves and often initiate sudden threshold switching from inﬁlling of localized depocentres to phases of gutting out and sediment
+re-deposition (Farrand, 2001; Gillieson, 1986; Osborne, 2008). The
+complex nature of sedimentary deposits in limestone caves in the
+humid tropics has been recognized and broadly discussed in reports on the Niah Caves, Sarawak (Barker et al., 2005:4; Gilbertson
+et al., 2005), caves in the Maros region of Sulawesi (Glover, 1979),
+and elsewhere in Southeast Asia (Anderson, 1997). Such complex
+deposits pose major challenges for interpretation of the archaeological record.
+The three sites discussed above in PNG and Timor Leste are
+located in tectonically active areas of net coastal uplift, and are
+associated with small coastal catchments, or narrow coastal margins and/or with uplifted coral reef terraces. At each site excavation
+squares sample depositional sequences within the cave and most of
+the excavation squares are within 5e20 m of the drip-line. Areas
+close to the drip-line and cave mouth are renowned for stratigraphic complexity and interstratiﬁcation driven by hydrological
+outputs and weathering of the host-rock, quasi-stochastic block
+inputs derived from structural failures, and high inputs of deposits
+produced from human and animal activities (Fairchild and Baker,
+2012:69; Woodward and Goldberg, 2001).
+At these sites there is little evidence of direct geomorphological
+coupling between breccia formation and the broader landscape
+hydrology or major zones of sediment storage suggesting localized
+breccia forming processes. Breccia formation at each of these sites
+takes place variably from the back to the mouth of the cave, under
+overhangs and at the bedrock margins of the cave ﬂoor. Water
+seepage reﬂects seasonal patterns of local hydrology of slopes and
+the host rock. Each site is perched on slopes either separated from
+the main valley ﬂoor (Laili), or upslope of the active shoreline on
+strongly structurally controlled karstic slopes where gradients are
+
+partly inherited from the morphology of palaeo-reefal shoreline
+and uplifted coral terraces (Lachitu and Lene Hara).
+Major phases of breccia formation in caves at valley ﬂoodplain
+margins, linked to alluvial-karst local base-level hydrology, were
+identiﬁed by Glover (1979). Duringer et al. (2012) link breccia formation at regional scales to net drop of alluvial plain elevations at
+sites in tower karst of Laos and Vietnam. The timing of breccia
+formation at some sites in north-east Laos is predicated on
+changing sediment storage in valley ﬂoors and reversals of drainage
+into and out of ﬂoodplain marginal caves producing polyphasic
+cemented sequences of sandstones and conglomerates capped by
+breccias.
+Such regional geomorphological processes and diagnostic
+sediment facies shifts do not apply to the case studies presented
+here. Breccia formation, and the capacity of breccias to act as patch
+stores of chrono-stratigraphy not present in the adjacent cave ﬂoor
+is highly localized at our sites in Timor Leste and PNG. More
+importantly, the bio-stratigraphic and cultural materials contained
+in the breccias are well-stratiﬁed with autochthonous ashy layers
+and food refuse, contain both fragile and robust skeletal materials,
+and not uncommonly preserve articulated skeletal elements, artefacts which conjoin or other indicators of minimal reworking. As
+such, these breccias are taphonomically and chronostratigraphically dissimilar from bone beds accumulated through
+multiple phases of deposition and reworking (Bacon et al., 2004,
+2008; Duringer et al., 2012), and show much higher stratigraphic
+integrity and temporal resolution.
+Our re-excavation of Lachitu and dating of marine shell in
+perched cemented breccias attached to the speleothem columns
+and cemented clasts from within the deposit containing cultural
+materials, alert us to the likelihood that ‘missing time’ at Lachitu is
+due to major phases of erosion and sediment loss, rather than a lack
+of
+human
+occupation.
+Potentially,
+Gorecki’s
+date
+of
+42,412e36,507 cal BP (ANU-7610) from the base of Square X1
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+represents an in situ brecciated unit separated by an erosional hiatus from the terminal Pleistocene/Last Glacial Maximum deposits
+dated to ~18,000 cal BP evident in both Gorecki’s and the 2004/
+2005 excavations, and in the two dated breccias C and D (Wk-17978
+and Wk-17979). The marine shells dated to ~28,000 cal BP from EUs
+18 and 20 in Square A (Table 2) alert us to a phase of human
+occupation which is otherwise ‘missing’ from the archaeological
+record and is likely also evidence of a major erosional event. We
+hypothesize that cultural material cemented to the walls or columns may have survived this erosional event, and been redeposited at a later date onto the cave ﬂoor as it stabilized with
+the drier conditions prevailing during the height of the Last Glacial
+Maximum. This cultural material could then have been incorporated into the younger accumulating deposits. This interpretation is
+speculative as perched cemented cultural deposits dating between
+40,000 and 20,000 have not yet been found, although we currently
+have only three dated sample points. Intensive sampling of such
+deposits would be productive here. It also seems likely that sediments dating between ~6700 and ~1000 cal BP have been lost from
+the cave system due to one or more erosional episodes, leaving a lag
+of mixed age ﬁnds of different ages at the contact. This may have
+been a result of clifﬂine retreat and roof collapse destabilizing the
+area in front of the cave, leading to loss of cultural deposits from
+within the cave, perhaps during the 7000 cal BP marine relative
+high stand. While this is speculative it could potentially be tested
+through a more extensive sampling and dating program.
+We think that cycles of deposit cut and ﬁll are also responsible
+for the perched cemented cultural deposits at Lene Hara where
+temporal resolution and completeness varies markedly across
+different areas of the cave ﬂoor. Short intervals of Pleistocene time
+are well-preserved in the more elevated, southern chamber, but
+local erosion and inﬁll events make the record non-synchronous
+over a distance of a few tens of metres. Holocene occupation is
+sparsely represented in this part of the cave, with some mixture of
+Holocene cultural materials such as pot sherds into late Pleistocene
+sedimentary units in Squares A and B, and the shell beads with
+Holocene ages in Square A (Table 3). In the northern chamber of the
+cave, a major scour or subsidence event, probably dating to the
+terminal Pleistocene or early Holocene, created a deep trough that
+inﬁlled progressively through the Holocene by the combined action
+of episodic surface wash and the deposition of cultural debris. The
+resultant inﬁll unit provides an extended, well-stratiﬁed and
+temporally well-resolved Holocene sequence. In this area of the
+cave breccia incorporating cultural material is found attached to
+and under the eroded bases of the speleothems suggesting that
+contemporary sedimentary processes, involving transport of ﬁner
+sediments in episodic surface wash ﬂowing northeast across the
+cave ﬂoor, between and around the larger speleothems, has existed
+since the terminal Pleistocene or early Holocene. Most likely this
+was preceded either by a major scour episode or by subsidence of
+deposits in the northern chamber, thereby creating a depocentre
+lying as a southwest-northeast aligned trough close to the northern
+margin of the cave. Inﬁlling of this trough has averaged net rates of
+20 cm/ka but has been irregular. Inﬁlling sediments are both
+reworked cave earths and washed in sands and gravels but,
+signiﬁcantly, they contain little clastic roof fall.
+The combined evidence from Squares A, B, D and F thus suggests
+a signiﬁcant change in cave ﬂoor sedimentation between the terminal Pleistocene and the Holocene e the earlier period characterised by deposition of large quantities of coarse clastic rock fall
+and by speleothem activity, and the Holocene by lower rates of
+clastic roof fall, coupled with redistribution of ﬁner sediment
+fractions by surface wash channeled by a local template of ﬂowstones, speleothems and roof fall. Finally, the cave possibly saw a
+major shift in depocentre into the northern chamber during the
+
+157
+
+terminal Pleistocene or early Holocene.
+The parsimonious explanation for the Laili Holocene breccia and
+absence of unconsolidated Holocene deposit is that an enormous
+quantity of cave-ﬂoor deposit has been removed by people. During
+the 2011 excavation the site was visited by a group of local residents
+equipped with sacks, shovels and a wheelbarrow. They proceeded
+to dig away an area of deposit about 10 m forward of the excavation
+towards the cave entrance. When all the sacks were full they
+pushed them away in the wheelbarrow. We inquired of our senior
+local worker about this activity and were told that they were taking
+away the cave’s soil to put on their gardens for fertilizer, that people
+from the village collected it regularly and had for as long as he could
+remember. On the basis that the current ﬂoor area bounded by the
+back and side walls and within the drip-line is 236 m2, and the
+maximum breccia height of above the current cave ﬂoor is 2.16 m
+(the height of breccia sample 8); the volume of missing sediment
+could be as much as 510 m3. A lower boundary, a ﬂoor 2.16 m above
+the current ﬂoor sloped to meet the current surface at the outer
+edge of the cave, would be about half of this estimate e 250 m3.
+While this seems like a daunting amount of sediment for local
+villagers to have removed, given the 3000 year history of agriculture in ISEA, the recorded practice of using caves to pen animals
+thus further enriching the organic rich cave sediments with nitrogen, and the ready proximity of Laili to the village and house gardens, it is a plausible explanation to account for the missing
+Holocene deposits. Whether all areas of the cave ﬂoor are similarly
+affected requires extensive intra site sampling across the cave ﬂoor.
+4. Conclusion
+Breccia deposits containing cultural materials occur in many
+caves and shelter sites where water seepage has cemented the
+occupation deposit. Here we have discussed three caves where
+breccia formation and removal have different causes and where
+mapping of time discontinuities and lateral sequence gaps is
+informative about the occupation and geomorphic history of the
+sites. Notably most of the breccias sampled have no chronostratigraphic equivalent in the unlithiﬁed cave-ﬂoor archaeological deposits. The chronological intervals preserved in the breccias
+would not be evident if one were to look at the deposits in the ﬂoor
+excavation in isolation. In Lachitu and Lene Hara we have suggested
+water erosion as the likely mechanism of cave ﬂoor deposit
+removal. In Laili we have argued that physical removal by local
+people is the best ﬁt interpretation. Glover’s (1979) mechanism e
+dissolution of organic sediment from below does not seem
+consistent with the evidence for well preserved organics at depth
+in Lachitu, Lene Hara and Laili, which indicates little decay or volume reduction of the organic material.
+The broader issue remains of what is responsible for the temporal “switching” of breccia formation and gutting out erosional
+episodes in humid tropical caves of the type reported here. We ﬁnd
+no compelling evidence of direct links to regional scale hydrology,
+and can exclude ﬂoodplain alluvial ﬂoor-karst interactions of the
+type described by Duringer et al. (2012). In all three case studies
+sloping deposits at cave mouths across the drip-line either store the
+archaeological deposits or play a signiﬁcant role in maintaining
+stability of the stored archaeological deposits upslope and within
+the cave. All three sites locate on generally steeper hill slopes where
+bedrock outcrop orientation, slope angle and stability of large
+blocks and overhang collapse have combined to produce low angle
+protected depocentres at the cave mouth which serve to stabilize
+and retain stratigraphic sequences further back in the cave.
+This points towards geomorphic stability at and downslope of
+the cave mouth as a key controlling factor in determining a depositional mode for sediment accumulation of unconsolidated ﬁlls,
+
+158
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+breccias and ﬂowstones within the sites in Timor Leste and PNG. All
+of these sites are well upstream of the ﬁrst knickpoint, and weakly
+connected to the main gully networks or ephemeral creeks operating on adjacent slopes. Two of the three sites (Lachitu and Lene
+Hara) situate in geologically young landscapes where uplifting
+bedrock structure, lithology and outcrop plays a major role in river
+abrasion capacity and therefore a control over response timescales
+of the sedimentary routing systems to base level change (Allen,
+2008; Sklar and Dietrich, 2001). Any local landscape response to
+either climate or tectonic forcing is likely to be lagged and involve
+complex behavior in relation to knickpoints (Bonnet and Crave,
+2003) with local slope hydrology and host limestone aquifer capacities essentially decoupled from catchment-scale geomorphic
+response (Bishop, 2007; Bishop et al., 1985; Grimaud et al., 2015).
+Further research on the relationship of regolith stability and hillslope regolith ages upslope and downslope of these caves and the
+chronology of breccia storage is likely to be instructive.
+Our interim conclusion is that chronologies for active speleothem deposition, ﬂowstone accumulation and stop-start storage of
+sediments as breccia are likely to be intimately coupled, as sediments cementing to breccias tend to form adjacent to carbonate
+charged water on impermeable surfaces. A climate-driven chronology is therefore likely linked to phases of breccia formation.
+However, rates of net unconsolidated sedimentation clearly relate
+in part to accumulation of anthopogenically-imported deposits.
+Hearth pits, stone lines, fences and deposit removal (as at Laili)
+show the very considerable human role in determining the nature
+and stability of sedimentation around and within the cave
+entrance. At all three sites mid to late Holocene anthropogenic
+destabilization of soils and slopes, latterly from human sedentism
+and agriculture, may be signiﬁcant (and temporally lagged) processes destabilizing the slopes below the caves and thus indirectly
+re-setting the local (micro) base levels determining depocentre
+architectures within and at the cave mouth.
+In summary, data from the three sites suggests local, autogenic
+and quasi-stochastic processes drive the development of depocentre space into which sediments then accumulate and store.
+Similarly the erosive gutting events may be largely set by local
+hydrodynamic processes speciﬁc to the cave (Bosch and White,
+2004; Gillieson, 1996), operating in relation to stability of adjacent slopes and hydrology and mass transfer within the host
+limestone rock architecture. Human activity may be a major
+contributor and driver of sediment inputs and outputs over late
+Quaternary timescales producing the occupation deposits and then
+extracting them as fertilizer. The phasing of cementation into
+breccias is more likely to be coupled to regional climate trends. The
+relationship of the time sequences of archaeological record preserved as unconsolidated sediments as compared with those
+cemented as remnants on cave walls and speleothem structures is
+therefore likely to be extremely complex reﬂecting both regional
+climate, lagged catchment effects on slopes below the cave mouth,
+co-seismic rock fall and endogenic processes in the cave mouth.
+This points to the considerable research potential in small
+tropical humid caves for comparing chronologies and proxy records
+from ﬂowstone and speleothem with archaeological chronologies
+stored i) in remnant lithiﬁed cave breccias and ii) adjacent cave
+ﬂoors as unconsolidated deposit sequences.
+One of the most signiﬁcant ﬁndings from all three archaeological sites discussed therefore concerns sampling. The results clearly
+demonstrate that cave deposits in humid tropical regions are
+stratigraphically complex, reﬂecting multiple erosional and depositional episodes together with long term shifts in sedimentary
+processes. This complexity means that a complete cultural and
+chronological sequence may not survive as a stratigraphic column
+in any single part of a site. Rather, the history of human occupation
+
+may only be recovered by integrating data from a number of
+different stratigraphic columns, each preserving parts of the
+depositional and erosional history of the site, coupled with the
+dating of cemented cultural deposits perched on walls to tell us
+about ‘missing time’ which might not be recoverable in any of the
+cave ﬂoor stratigraphy.
+A problem of equal magnitude, in terms of our interpretation of
+the human occupation record is the demonstrated re-deposition of
+old shell, charcoal and bone into deposits which are much younger.
+This can potentially bias the chronological and archaeological record. As many of the caves in tropical regions (e.g. Lachitu and Lene
+Hara) demonstrate cementation with depth it may not be possible
+to distinguish cultural material which has cemented into breccia in
+situ from that which has been re-deposited as cemented clasts,
+without an extensive program of dating.
+Acknowledgements
+Field research in Timor Leste and Papua New Guinea was funded
+by a number of grants from the Australian Research Council
+(A00000344, DP0451043, DP0556210, DP0451043). Additional
+radiocarbon dates obtained for this paper were funded by ARC
+FL120100156 awarded to O’Connor. In Papua New Guinea we would
+like to acknowledge the assistance of the Late Beiva Ivuyo and
+Herman Mandui, both of The National Museum and Art Gallery of
+Papua New Guinea who helped with the excavations in 2004 and
+2005. In Timor Leste, research was undertaken under the auspices
+of the Department of Culture and Tourism. We would particularly
+like to thank the Secretary of State for Culture, Ms Cecília Assis for
+her generous support and assistance over the years.
+Methodology
+Excavation
+Excavation Units (EUs) (cf. spits) varied in depth between 2 and
+8 cm and where possible followed visible stratigraphic changes or
+divisions in the deposit. With the exception of large rocks excavated
+material was wet-sieved through a 1.5 mm sieve and dried prior to
+sorting.
+Selection of samples for radiocarbon dating
+With the exception of the dates obtained by Gorecki et al. (1991)
+all radiocarbon dates presented are AMS dates on charcoal or marine shell. Where available charcoal was selected for radiocarbon
+dating, however, charcoal was not preserved below the surﬁcial
+EUs at Lene Hara or Lachitu and thus marine shell was used for
+dating. Suspension feeding marine bivalves are believed to produce
+the most reliable marine shell ages however these shellﬁsh are
+uncommon along the north coasts of Timor and Papua New Guinea
+and are correspondingly poorly represented in the archaeological
+assemblages. We have thus had to use a variety of fully marine
+gastropods such as Turbo sp. and Tectus sp. for dating at Lene Hara
+and Lachitu. The parts of the shells selected for dating varied. In
+some cases opercula were used as this part of the shell is dense and
+preserves well. In other cases the entire shell was sent to the dating
+laboratory. Marine shells used for dating were tested by the laboratories for recrystallisation and were not dated if they were less
+than 96% primary aragonite. A DeltaR correction has not been
+applied to any of the shell dates as no research has been undertaken
+on DeltaR for these species for the north coast of PNG or for Timor
+Leste and DeltaR is known to vary even within individual species
+depending on the substrate on which they live and graze and
+freshwater input to the environment (Petchey et al., 2012).
+
+S. O’Connor et al. / Journal of Archaeological Science 77 (2017) 143e159
+
+Few studies have been carried out into 14C variation in depositfeeding mangrove species but a recent study undertaken at Caution
+Bay in Papua New Guinea on the mud whelk Cerithidae indicates
+that mangrove/mudﬂat gastropods produce the least reliable calendar ages as they ingest sediment within the estuary that contains
+14
+C derived from both enriched and depleted sources (Petchey
+et al., 2012). However researchers in Australia have used these
+species for dating open middens and cave deposits where they are
+the dominant or exclusive species in northern Australian sites
+(Bradshaw, 1995; Faulkner, 2013:172e3). This was the case at Laili
+where the mangrove-dwelling gastropod Terebralia sp. was used for
+dating some of the perched cemented breccia samples as only
+Terebralia, freshwater gastropods and bone were identiﬁed in some
+of the aggregate clasts. A Terebralia was also used to date EU 2 Wall
+sample A at Laili to compare with charcoal Wall sample B. Terebralia
+Wall sample A appears to be in good accord overlying and being
+about 1000 years younger than charcoal Wall sample B.
+References
+Allen, P.A., 2008. Time scales of tectonic landscapes and their sediment routing
+systems. In: Gallagher, K., Jones, S.J., Wainwright, J. (Eds.), Earth’s Dynamic
+Surface: Catastrophe and Continuity in Landscape Evolution. Special Publication
+of the Geological Society of London, Wiltshire, pp. 7e28.
+Anderson, D., 1997. Cave archaeology in southeast Asia. Geoarchaeology 12 (6),
+607e638.
+Bacon, A.M., Demeter, F., Schuster, M., Long, V.T., Nguyen, K.T., Antione, P.O., Sen, S.,
+Ha, H.N., Nguyen, M.H., 2004. The Pleistocene Ma U’Oi cave, northern Vietnam:
+palaeontology, sedimentology and palaeoenvironments. Geobios 37 (3),
+305e314.
+Bacon, A.M., Demeter, F., Duringer, P., Helm, C., Bano, M., Long, V.T., Nguyen, T.M.H.,
+Antoine, P.O., Bui, T.M., Nguyen, M.H., Dodo, Y., Chabaux, F., Rihs, S., 2008. The
+late Pleistocene Duoi U’Oi cave in northern Vietnam: palaeontology, sedimentology, taphonomy, palaeoenvironments. Quat. Sci. Rev. 27, 1627e1654.
+Barker, G., Reynolds, T., Gilbertson, D., 2005. The human use of caves in peninsular
+and island southeast Asia: research themes. In: Barker, G., Reynolds, T.,
+Gilbertson, E. (Eds.), The Human Use of Caves in Peninsula and Island Southeast
+Asia. University of Hawai’i Press, Honolulu, pp. 1e15. Asian Perspectives. 44(1).
+Bishop, P., Young, R.W., McDougall, I., 1985. Stream proﬁle change and longterm
+landscape evolution: early Miocene and modern rivers of the east Australian
+Highland Crest, central New South Wales, Australia. J. Geol. 93 (4), 455e474.
+Bishop, P., 2007. Long-term landscape evolution: linking tectonics and surface
+processes. Earth Surf. Process. Landf. 32, 329e365.
+Bonnet, S., Crave, A., 2003. Landscape response to climate change: insights from
+experimental modelling and implications for tectonic versus climatic uplift of
+topography. Geology 31, 123e126.
+Bosch, R.F., White, W.B., 2004. Lithofacies and transport of clastic sediments in
+karstic aquifers. In: Sasowsky, I.D., Mylroie, J. (Eds.), Studies of Cave Sediments:
+Physical and Chemical Records of Paleoclimate. Springer, New York, pp. 1e22.
+Bradshaw, E., 1995. Dates from archaeological excavations on the Pilbara coastline
+and islands of the Dampier Archipelago, western Australia. Aust. Archaeol. 4 (1),
+37e38.
+Brook, G.A., Rafter, M.A., Railsback, L.B., 1999. A high-resolution proxy record of
+rainfall and ENSO since AD 1500 from layering in stalagmites from Anjohibe
+Cave, Madagascar. Holocene 9, 695e705.
+Duringer, P., Bacon, A.M., Sayavongkhamdy, T., Nguyen, T.K.T., 2012. Karts development, breccia history, and mammalian assemblages in Southeast Asia: a brief
+Review. Comptes Rendus Pale 11, 133e157.
+Dominguez-Bella, S., Ramos, J., Bernal, D., Vijande, E., Cantillo, J.J., Cabral, A.,
+rez, M., Barrera, A., 2012. Excavating in breccia: new methods developed at
+Pe
+the Benzú rockshelter. Antiquity 86 (334), 1167e1178.
+, K., 2004. Nerita textilis Gmelin, 1791: description and range
+Eichhorst, T.E., Szabo
+extension. Am. Conchol. 32 (1), 7e11.
+Fairchild, I.J., Baker, A., 2012. Speleothem Science from Process to Past Environments. Wiley-Blackwell, West Sussex UK.
+Farrand, W.R., 2001. Sediments and stratigraphy in rockshelters and caves: a personal perspective on principles and pragmatics. Geoarchaeology 16, 537e557.
+Faulkner, P., 2013. Life on the Margins: an Archaeological Investigation of Late
+
+159
+
+Holocene Economic Variability, Blue Mud Bay, Northern Australia. Terra Australis 38. ANU-E Press, Canberra.
+Gilbertson, D., Bird, M., Hunt, C., McLaren, S., Mani Banda, R., Pyatt, B., Rose, J.,
+Stephens, M., 2005. Past human activity and geomorphological change in a
+guano-rich tropical cave mouth: initial interpretations of the Late Quaternary
+succession in the Great Cave of Niah, Sarawak. In: Barker, G., Reynolds, T.,
+Gilbertson, E. (Eds.), The Human Use of Caves in Peninsula and Island Southeast
+Asia. University of Hawai’i Press, Honolulu, pp. 16e41. Asian Perspectives. 44(1).
+Gillieson, D., 1986. Cave sedimentation, in the New Guinea Highlands. Earth Surf.
+Process. Landf. 11, 533e543.
+Gillieson, D., 1996. Caves: Process, Development and Management. Blackwell,
+London.
+Glover, I., 1979. The effects of sink action on archaeological deposits in caves: an
+Indonesian example. World Archaeol. 10 (3), 302e317.
+Gorecki, P., 1993. The Sepik River people of Papua New Guinea: culture and catastrophes. In: Burenhult, G. (Ed.), People of the Stone Age Hunter-gatherers
+and Early Farmers, The Illustrated History of Humankind, vol. 2. American
+Museum of Natural History. Harper, San Francisco, pp. 154e159.
+Gorecki, P., Mabin, M., Campbell, J., 1991. Archaeology and geomorphology of the
+Vanimo coast, Papua New Guinea: preliminary results. Archaeol. Ocean. 26,
+119e122.
+Grimaud, J.L., Paola, C., Voller, V., 2015. Experimental migration of knickpoints;
+Inﬂuence of style of base-level fall and lithology. Earth Surf. Dyn. Discuss. 3,
+773e805.
+Hogg, A., Hua, Q., Blackwell, P., Niu, M., Buck, C., Guilderson, T., Heaton, T., Palmer, J.,
+Reimer, P., Reimer, R., Turney, C., 2013. SHCal13 southern hemisphere calibration, 0e50,000 years cal BP. Radiocarb 55 (4), 1e15.
+Klootwijk, C., Giddings, J., Pigram, C., Loxton, C., Davies, H., Rogerson, R., Falvey, D.,
+2003. Papua New Guinea Highlands: palaeomagnetic constraints on terrane
+tectonics. Tectonophysics 362, 239e272.
+troit, F., Piper, P., Grün, R., Bellwood, P., Aubert, M., Champion, G.,
+Mijares, A.S.B., De
+Cuevas, N., De Leon, A., Dizon, E., 2010. New evidence for a 67,000-year-old
+human presence at Callao cave, Luzon. Philipp. J. Hum. Evo. 59 (1), 123e132.
+O’Connor, S., Spriggs, M., Veth, P., 2002a. Excavation at Lene Hara establishes
+occupation in East Timor at least 30,000 e 35,000 years on: results of recent
+ﬁeldwork. Antiquity 76, 45e50.
+O’Connor, S., Spriggs, M., Veth, P., 2002b. Direct dating of shell beads from Lene Hara
+cave, east Timor. Aust. Archaeol. 55, 18e21.
+O’Connor, S., Aplin, K., 2007. A matter of balance: an overview of Pleistocene
+occupation history and the impact of the last Glacial phase in east Timor and
+the Aru islands, eastern Indonesia. Archaeol. Ocean. 42 (3), 82e90.
+O’Connor, S., Barham, A., Spriggs, M., Veth, P., Aplin, K., St Pierre, E., 2010. Cave
+archaeology and sampling issues in the tropics: a case study from Lene Hara
+Cave, a 42,000 year old occupation site in East Timor, Island Southeast Asia.
+Aust. Archaeol. 71, 29e40.
+O’Connor, S., Barham, A., Aplin, K., Dobney, K., Fairbairn, A., Richards, M., 2011. The
+power of paradigms: examining the evidential basis for an early Neolithic in
+Melanesia. J. Pac. Archaeol. 2 (2), 1e25.
+Osborne, R.A.L., 2008. Cave turbidites. Acta Carsoligica 37, 41e50.
+Petchey, F., Ulm, S., David, B., McNiven, I.J., Asmussen, B., Tomkins, H., Richards, T.,
+Rowe, C., Leavesley, M., Mandui, H., Stanisic, J., 2012. 14C marine reservoir
+variability in herbivores and deposit feeding gastropods from an open coastline,
+Papua New Guinea. Radiocarb 54 (3e4), 967e978.
+Reimer, P.J., Bard, E., Bayliss, A., Beck, J.W., Blackwell, P.G., Bronk Ramsey, C.,
+Grootes, P.M., Guilderson, T.P., Haﬂidason, H., Hajdas, I., Hatt, C., Heaton, T.J.,
+Hoffmann, D.L., Hogg, A.G., Hughen, K.A., Kaiser, K.F., Kromer, B., Manning, S.W.,
+Niu, M., Reimer, R.W., Richards, D.A., Scott, E.M., Southon, J.R., Staff, R.A.,
+Turney, C.S.M., Van der Plicht, J., 2013. IntCal13 and Marine13 radiocarbon age
+calibration curves 0-50,000 years cal BP. Radiocarb 55 (4), 1869e1887.
+Sklar, L.S., Dietrich, W.E., 2001. Sediment and rock strength controls on river incision into bedrock. Geology 29, 1087e1090.
+Tudhope, A.W., Buddemeier, R.W., Chilcott, C.P., Berryman, K.R., Fautin, D.G.,
+Jebb, M., Lipps, J.H., Pearce, R.G., Scofﬁn, T.P., Shimmield, G.B., 2000. Alternating
+seismic uplift and subsidence in the late Holocene at Madang, Papua New
+Guinea: evidence from raised reef. J. Geo. Res. 105 (B6), 13797e13807.
+Van Heekeren, H.R., 1972. The Stone Age of Indonesia, second ed. Martinus Nijhoff,
+The Hague.
+Westaway, K.E., Morwood, M.J., Roberts, R.G., Rokus, A.D., Zhao, J., Storm, P., Aziz, F.,
+van den Bergh, G., Hadi, P., Jatmiko, J., de Vos, J., 2007. Age and biostratigraphic
+signiﬁcance of the Punung rainforest fauna, East Java, Indonesia, and implications for Pongo and Homo. J. Hum. Evo. 53, 709e717.
+Woodward, J.C., Goldberg, P., 2001. The sedimentary records in mediterranean
+rockshelters and caves: archives of environmental change. Geoarchaeology 16,
+327e354.
+
+

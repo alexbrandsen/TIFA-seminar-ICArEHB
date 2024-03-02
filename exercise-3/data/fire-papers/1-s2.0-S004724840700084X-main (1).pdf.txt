@@ -1,0 +1,1497 @@
+Journal of Human Evolution 53 (2007) 197e212
+
+Evidence for habitual use of fire at the end of the
+Lower Paleolithic: Site-formation processes at Qesem Cave, Israel
+Panagiotis Karkanas a,*,1, Ruth Shahack-Gross b,1, Avner Ayalon c, Mira Bar-Matthews c,
+Ran Barkai d, Amos Frumkin e, Avi Gopher d, Mary C. Stiner f
+a
+
+Ephoreia of Palaeoanthropology-Speleology of Southern Greece, Ardittou 34b, 11636 Athens, Greece
+b
+Kimmel Center for Archaeological Science, Weizmann Institute of Science, Rehovot 76100, Israel
+c
+Geological Survey of Israel, 30 Malchei Israel Street, Jerusalem 95501, Israel
+d
+Institute of Archaeology, Tel-Aviv University, Tel-Aviv 69978, Israel
+e
+Department of Geography, The Hebrew University of Jerusalem, Jerusalem, 91905, Israel
+f
+Department of Anthropology, P.O. Box 210030, University of Arizona, Tucson, AZ, USA
+Received 16 September 2006; accepted 9 April 2007
+
+Abstract
+The Amudian (late Lower Paleolithic) site of Qesem Cave in Israel represents one of the earliest examples of habitual use of fire by middle
+Pleistocene hominids. The Paleolithic layers in this cave were studied using a suite of mineralogical and chemical techniques and a contextual
+sedimentological analysis (i.e., micromorphology). We show that the lower ca. 3 m of the stratigraphic sequence are dominated by clastic sediments deposited within a closed karstic environment. The deposits were formed by small-scale, concentrated mud slurries (infiltrated terra rosa
+soil) and debris flows. A few intervening lenses of mostly in situ burnt remains were also identified. The main part of the upper ca. 4.5 m consists
+of anthropogenic sediment with only moderate amounts of clastic geogenic inputs. The deposits are strongly cemented with calcite that precipitated from dripping water. The anthropogenic component is characterized by completely combusted, mostly reworked wood ash with only rare
+remnants of charred material. Micromorphological and isotopic evidence indicates recrystallization of the wood ash. Large quantities of burnt
+bone, defined by a combination of microscopic and macroscopic criteria, and moderately heated soil lumps are closely associated with the woodash remains. The frequent presence of microscopic calcified rootlets indicates that the upper sequence formed in the vicinity of the former cave
+entrance. Burnt remains in the sediments are associated with systematic blade production and faunas that are dominated by the remains of fallow
+deer. Use-wear damage on blades and blade tools in conjunction with numerous cut marks on bones indicate an emphasis on butchering and
+prey-defleshing activities in the vicinity of fireplaces.
+Ó 2007 Elsevier Ltd. All rights reserved.
+Keywords: Micromorphology; Geoarchaeology; Fire; Wood ash; Amudian; Lower Paleolithic
+
+Introduction
+The timing of the emergence of human control of fire in the
+Paleolithic remains controversial. Archaeological and ecological
+* Corresponding author.
+E-mail addresses: pkarkanas@hua.gr (P. Karkanas), ruti@wisemail.
+weizmann.ac.il (R. Shahack-Gross), ayalon@mail.gsi.gov.il (A. Ayalon),
+matthews@mail.gsi.gov.il (M. Bar-Matthews), barkaran@post.tau.ac.il (A.
+Barkai), msamor@mscc.huji.ac.il (A. Frumkin), agopher@post.tau.ac.il (A.
+Gopher), mstiner@email.arizona.edu (M.C. Stiner).
+1
+These authors have contributed equally to this study.
+0047-2484/$ - see front matter Ó 2007 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jhevol.2007.04.002
+
+analyses of data from early and middle Pleistocene sites in Africa
+and the Levant suggest that Homo erectus was the earliest hominid to use fire (Clark and Harris, 1985; Gowlett, 1999; Wrangham
+et al., 1999; Goren-Inbar et al., 2004). It has been suggested that
+fire-building became a regular activity during the final Lower
+Paleolithic, ca. 400e500 ka (Rolland, 2004; Gowlett, 2006; but
+see James, 1989), and its use is associated with an increase in human social and intellectual complexity. The consensus among
+many paleoanthropologists is that unequivocal evidence for the
+use of fire dates to the beginning of the Middle Paleolithic, ca.
+200e300 ka (James, 1989; Gamble, 1999: p. 165). Even during
+
+198
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+this period, however, evidence of fire is sporadic. Early uses of
+fire may have included heating, cooking/roasting, illumination,
+and protection from predators. The control over fire may have
+been important for colonizing unfamiliar cool environments
+(e.g., Clark and Harris, 1985; Wrangham et al., 1999), although
+this proposition remains to be tested in light of some surprisingly
+early sites in Eurasia. The control over fire may also have contributed to organizational shifts in hominid settlement and
+land-use systems, as expressed by ‘‘home bases’’ or residential
+camps (Stiner, 2002; Rolland, 2004; Preece et al., 2006). Extensive sequences of burnt remains and control of fire are clearly observed in Middle Paleolithic contexts younger than 200 ka [e.g.,
+Kebara and Hayonim caves (Goldberg and Bar-Yosef, 1998),
+Grotte XVI (Rigaud et al., 1995), Shanidar (Solecki, 1995),
+Les Canalettes (Meignen, 1993); see also Meignen et al.
+(2001, 2006)]. These Middle Paleolithic cases present many indications that social activities centered around hearths (Gamble,
+1999: 171). Such control of fire, evidenced archaeologically as
+deliberately constructed stone-lined hearths or superimposed
+hearths, may therefore signal the development of a formal conception of domestic space (e.g., McBrearty and Brooks, 2000;
+Henshilwood and Marean, 2003).
+Nonetheless, taphonomic problems related to the preservation of ash (Schiegl et al., 1996), charcoal (Cohen-Ofri et al.,
+2006), and other indications of fire-use (e.g., burnt bone; Shahack-Gross et al., 1997) hinder the discovery and recognition
+of burnt remains. A further complication comes from the fact
+that burnt items are not always in primary burial context.
+Thus, in order to demonstrate regular use of fire by hominids,
+it must be shown by multiple lines of evidence that (1) burnt
+artifacts are in primary depositional setting, (2) artifacts
+such as bones and lithics are indeed burnt, (3) the surrounding
+sediment is composed of ash and/or its stable derivatives (e.g.,
+siliceous aggregates, wood phytoliths), and (4) other minerals
+(such as clays) are burnt as well. These objectives are best
+achieved by combining a set of mineralogical and sedimentological techniques in a contextual approach, with an emphasis
+on the technique known as soil micromorphology (Courty
+et al., 1989). Micromorphology has improved our knowledge
+of identification of ash remains and their preservation conditions in a number of controversial cases (Schiegl et al.,
+1996; Weiner et al., 1998; Goldberg et al., 2001). Identifications of ash, its stable derivatives, and unequivocally burnt
+bones are accomplished via infrared spectroscopy and bulk
+microscopic analyses (for ash: Weiner et al., 1993; Albert
+et al., 1999; for bones: Shahack-Gross et al., 1997). The burnt
+status of flint tools may be shown using the technique of thermoluminescence. Accurate dating is also very important in order to anchor the sedimentological results in time.
+In this work, we present the case of the Amudian site of Qesem Cave, Israel, where the remains of ash and charcoal have
+been identified in primary deposition using micromorphological techniques. Moreover, burnt bones have been identified
+with certainty. Other mineralogical, geochemical, and microscopic techniques were used to identify the stable derivatives
+of wood ash and burnt clays. We show that the 7.5-m sedimentary sequence exposed by excavation in Qesem Cave consists
+
+predominantly of lithified ash remains, sometimes preserving
+intact hearths. The Amudian deposits in Qesem Cave therefore
+rank among the earliest well-documented examples of the habitual use of fire.
+Site description
+Qesem Cave is situated 12 km east of Tel-Aviv (Fig. 1) in
+a hilly limestone terrain (Barkai et al., 2003). The ceiling of
+the cave and part of the Pleistocene deposits were destroyed
+by recent road construction, revealing a major part of the
+stratigraphic sequence (Fig. 2). Ongoing excavation has exposed ca. 7.5 m of anthropogenic deposits that contain very
+rich lithic and faunal assemblages. 230Th/234U dates on speleothems suggest that the occupation of the cave began around
+380 ka and ended possibly around 200 ka (Barkai et al.,
+2003). The whole lithic industrial sequence of the cave is
+blade-dominated (Gopher et al., 2005) and attributed to the
+Amudian Industry of the Acheulo-Yabrudian technocomplex.
+[The term Acheulo-Yabrudian refers to the cultural/lithic complex postdating the Acheulian and predating the Mousteriand
+Jelinek’s ‘‘Mugharan Tradition’’ (Jelinek, 1990)]. The Amudian
+Industry is characterized by systematic blade production, and
+many of the tools were made on blades, including backed and
+retouched blades, end scrapers, burins, and naturally backed
+knives. A significant flake component also exists in the
+Amudian, and side scrapers and hand axes appear in variable
+frequencies (Barkai et al., 2005; Gopher et al., 2005).
+The Amudian is a distinct archaeological entity that appears toward the close of the Levantine Lower Paleolithic sequence. Amudian blade production and use may be related to
+specific modes or circumstances of resource exploitation,
+possibly different from those reflected by other late Lower
+Paleolithic entities/industries within the broader AcheuleoYabrudian complex. Use-wear analysis of one of the Amudian
+lithic assemblages from Qesem Cave documented the outstanding state of preservation of the flint items and indicated
+that butchering was the main activity at the site (Lemorini
+et al., 2006). The carcasses of medium-sized ungulates were
+processed with sharp cutting tools used specifically for skinning, disarticulation, and cutting meat. The large-mammal
+remains are well preserved and bear many indications of
+butchering and marrow extraction (Stiner et al., unpublished
+data). Burning damage occurs on 10e36% of identified bone
+specimens, reaching 11e84% on unidentified bone fragments.
+The highest proportions of burnt bones occur in the upper part
+of the stratigraphic sequence, where burnt lithic artifacts are
+also common. Preliminary thermoluminescence (TL) results
+show that some of the artifacts have been heated above
+500  C (H. Valladas, personal communication).
+Methods
+Micromorphology
+Samples for micromorphological analysis were collected
+from all types of sediment observed in the field (Appendix 1).
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+199
+
+Fig. 1. Plan view of Qesem Cave, including the excavation grid. The light-gray area corresponds to the lower sequence, whereas the dark-gray area corresponds to
+the upper one. The arrows mark the former entrance of the cave. The inset shows the location of the cave in Israel.
+
+A second round of sampling based on the information obtained
+from the first sample set was conducted in order to confirm the
+identified range of natural and anthropogenic processes (Appendix 1). Samples from the lower part of the sequence
+were removed by carving oriented blocks with a trowel and
+knife and then applying plaster of Paris to their surfaces. An
+angle grinder was used to remove most of the blocks from
+the strongly cemented upper part of the sequence. The blocks
+were 15e30 cm long. A few smaller samples were collected
+from a suspected stone-hearth construction from the upper sequence (Appendix 1).
+The blocks of sediment were oven-dried in the laboratory at ca.
+50  C and then impregnated with polyester resin. Thirty largeformat (75  50 mm) and three small-format (45  35 mm)
+thin sections were prepared (Quality Thin Sections, Arizona).
+The thin sections were studied using a stereomicroscope at
+
+magnifications of 5 to 40 and a polarizing microscope at magnifications ranging from 50 to 400. Thin sections were
+described according to Bullock et al. (1985) and Courty et al.
+(1998).
+Bulk mineralogy and microscopy
+The mineralogical identification of sediment components in
+Qesem Cave was done using Fourier Transform Infrared
+(FTIR) spectroscopy. Approximately 0.5 mg of sediment were
+mixed with about 4 mg of KBr and hand-pressed to produce
+a pellet that was introduced into the chamber of a MIDAC
+Corporation (Costa Mesa, CA) infrared spectrometer. Spectra
+were obtained at 4 cm1 resolution and interpreted using
+a built-in library (for more details, see Weiner et al., 1993).
+Selected samples were further treated by dissolution in acid
+
+200
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+recrystallized ash and/or geogenic calcite was identified separately for the same samples. The sediments were lightly ground
+and large bone fragments were removed manually. The d18O
+and d13C measurements of the samples (0.2e0.5 mg) were
+made using a VG Isocarb system attached to a SIRA-II
+mass-spectrometer. The phosphoric-acid extraction was made
+at 90  C, and the d18O and d13C values were calibrated against
+the international standard NBS-19 and are reported here in per
+mil (%) relative to the Pee Dee Belemnite (PDB) standard.
+Results
+Field observations and micromorphology
+Fig. 2. General view of the upper sequence in Qesem Cave. Arrow 1 indicates
+remnants of the former limestone walls of the cave; Arrow 2 indicates a thick
+flowstone in the uppermost part of the upper sequence. Arrow 3 indicates
+a large limestone boulder, separating the upper and lower sequences and indicating that sedimentary deposition changed in antiquity due to the collapse of
+a chamber roof in the cave. Arrow 4 indicates remnants of bedding in the central part of the cave, and Arrow 5 indicates the chaotic appearance close to the
+edges of the cave; below are inclined anthropogenic horizons, which are a continuation of the higher part of the lower sequence. Numbers in gray boxes indicate the location of the micromorphological samples (QCB1e19; see
+Appendix 1). Samples 13e19 are from the excavated area on the top of the
+sequence. The width of the photo is ca. 10 m.
+
+(3N HCl and 3N HNO3), and the acid-insoluble fraction was
+analyzed in the FTIR. In addition, several samples representing both cemented ash and mixed ash/geogenic calcite were
+analyzed using the heavy-liquid separation technique of Albert
+et al. (1999). The various fractions were mounted on microscope slides in order to perform a quantitative phytolith analysis (Albert et al., 1999).
+Bone samples were collected for geochemical analysis from
+the lower and upper sequences. The sample includes bones that
+exhibited all of the color ranges observed in the Qesem Cave
+macrofaunal remains. These bone specimens were analyzed using the FTIR following the procedure developed by ShahackGross et al. (1997) to determine whether they were burned or
+stained by manganese oxides. Shahack-Gross et al. (1997)
+showed that the infrared spectra of the acid-insoluble fraction
+obtained from black-colored bones have absorption peaks at
+different regions, and thus it can be determined whether the
+black color is due to the presence of pyrolized collagen (main
+absorption at about 1600 cm1), manganese oxides (main
+absorption at about 500 cm1), or both (two main absorption
+peaks at 1600 cm1 and 500 cm1). This procedure is necessary because fire is not the only process that causes bones to
+become black or white in color.
+Stable oxygen and carbon isotopic analysis
+Eight sediment samples and two samples of ash from the
+burnt wood of modern local trees were analyzed and compared. Representative sediment samples were also selected
+for study and consolidated for the preparation of micromorphological thin sections. Therefore, the presence of ash and/or
+
+The sediments in the cave are divided into two major stratigraphic sequences. The lower stratigraphic sequence is exposed and is partly excavated a few meters west of the upper
+sequence (Figs. 1 and 3). The upper sequence therefore forms
+a ‘‘step’’ on the lower sequence (Fig. 2).
+Lower sequence. The lower sequence starts with more than
+half a meter of reddish-brown (5YR 4/3) clayey sediment that
+is gradually enriched in limestone fragments from bottom to
+top. A stratified appearance is locally observable where clay
+alternates with coarse clastic material (Fig. 3a). In thin sections, the clay-rich areas consist of reddish-brown clay with
+small amounts of silt and some fine sand-sized quartz grains.
+Black iron-manganese staining is frequent, indicating formation in a wet environment (Appendix 1). Bone fragments are
+abundant and evenly distributed in the sediments, but linear arrangements of elongate specimens are also observed; in the
+clay-rich areas, sand-to-silt-sized bone microfragments are
+subangular to subrounded (Fig. 4). In thin section, many of
+these bone fragments show signs of burning, with an even
+transition in color to reddish- and dark-brown tints, opaque
+areas, loss of birefringence, and signs of recrystallization
+(Courty et al., 1989; Schiegl et al., 2003). Some domains
+with clay orientation (unistrial structure) that are also associated with strings of coarser material are rarely observed
+(Fig. 4). Phosphate nodules, mostly fragmented or rounded,
+are frequently encountered.
+The uppermost meter of the lower unit consists of limestone boulders with some interstitial clay (clast-supported
+structures). Some intervening black, weathered, crustlike surfaces occur and define crude bedding. Weak sorting and grading effects are observed locally within the beds (Fig. 3b). The
+clastic fragments are subrounded and form inclined stony horizons. Cementation is greater in some parts of these deposits.
+Incipient rim alteration of the limestones to phosphates is
+common. The coarse clastic increments also contain gravelsized bone fragments. In thin sections, calcite hypocoatings
+(Fig. 4) consist of micrite (less than 4-micron-sized calcite)
+that gradually impregnate the whole matrix, leaving clayey islands. This type of calcite is not biogenic, but is chemically
+precipitated.
+In portions of the lower sequence, discrete, dark-gray
+cemented lenses are observed. In thin sections, they present a
+microscopic layered appearance with alternating clay-rich and
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+201
+
+Fig. 4. Microphotograph of the clayey sediments in the lower sequence. The
+clay has a grano- and porostriated fabric with very weak parallel orientation.
+Note the string of sand-sized quartz grains at the center of the photo (light-gray
+grains) and clusters of rounded bone fragments (black grains). Calcite hypocoating of the edges of a void is evident in the lower-right part of the photograph. Sample QCB2c, circular polarized light, length of photo ¼ 2.9 mm.
+
+Fig. 3. General view of the lower sequence in Qesem Cave. (a) Part of the excavated lower sequence; view from west to east (Squares H13e15). The lower
+part is composed of clayey sediments with intervening bands of coarser limestone fragments that transition upwards to gravels. Numbers in gray boxes indicate the location of the micromorphological samples QCB 2 and 11 (see
+Appendix 1). (b) A view from south to north at the upper part of the lower sequence (Squares GeI18). Bedded gravels with bands of finer material. Some
+weak grading and sorting is visible in the depositional increments. Note the
+overall inclination of the layers. Length of scale bars is 1 m. Note that this section is no longer available due to road construction.
+
+calcite-rich bands. The calcitic bands consist of recrystallized
+ashes with abundant, often oxidized dark-red or brown clay
+lumps and burnt bone fragments. Remnants of rhombic
+micritic aggregates of ash crystals and calcitic cellular pseudomorphs, including fine black charred compounds, are still visible within these bands (Fig. 5a).
+The transition from the lower to the upper sequence is
+marked by several exposed large limestone boulders (Fig. 2).
+Upper sequence. The upper unit, ca. 4.5 m thick, is remarkably different from the lower one. It consists of a light reddishbrown (5YR 6/4), strongly lithified, mostly massive deposit
+that archaeologists traditionally call ‘‘cave breccia.’’ However,
+because the term ‘‘breccia’’ refers to cemented angular rubble
+in sedimentological terminology, the Qesem Cave upper sequence is best described as cemented calcareous sediment.
+
+Locally, the deposits were intensively fractured postdepositionally, forming pockets of crushed material (Fig. 6). Nonetheless, the stratigraphic integrity of the upper sequence is
+not significantly disturbed, indicated by the fact that some of
+the original crude horizontal bedding is still visible between
+and within the crushed zones (Fig. 6). The sediment close to
+the former walls of the cave is different from the sediment
+in the central area of the upper sequence. These areas of the
+upper sequence are described separately below.
+Central area of the upper sequence. Apart from some
+crushed zones, the coarser material in the central area is horizontally distributed and contributes to the general visibility
+of stratification in the deposit (Fig. 7). Coarser material constitutes less than ca. 10% (by area on thin section) of overall sediment and consists predominantly of gravel-sized, subrounded
+limestone and angular bone fragments embedded in a cemented calcareous matrix. In thin section, the finer fraction
+of bone is almost always burnt (Fig. 8); there are signs of different degrees of burning, from slightly to highly burnt bone
+(calcined). The calcined bone is colorless in plane polarized
+light and has an almost white interference color of the first order (see Schiegl et al., 2003). Some bone fragments are shattered and microscopically disintegrated by both heat (Fig. 8)
+and postdepositional calcite wedges that subsequently penetrated microfractures in the bones. Although present, burning
+damage is less pervasive on larger bone fragments. Localized
+mineralogical alterations of the bone mineral are observed
+along cracks in some of the bones.
+Very few limestone fragments show signs of phosphate
+alteration. The general appearance of the calcareous matrix
+consists of a continuous micritic to microsparitic (5e20micron-sized calcite) mass that is dotted with oxidized red
+or dark-brown clay aggregates and ‘‘dirty,’’ cloudy micritic islands with many fine black particles (Appendix 1). In addition,
+
+202
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+Fig. 7. Detail of the bedded area in the upper sequence (indicated by Arrow 1
+in Fig. 6). Strongly cemented sediment with some parallel horizontal bands of
+coarser (mostly bones) material. Length of scale bar is 20 cm.
+
+Fig. 5. Cellular structures resembling intact plant tissues now composed of calcite (i.e., calcitic cellular pseudomorphs). Note that these structures are dotted
+with several fine black charred compounds. The gray matrix between the
+charred materials is calcitic micrite. (a) Sample QCB2b, lower sequence; (b)
+Sample QCB7c, upper sequence. Plane polarized light, length of photos: (a)
+2.5 mm, (b) 1.5 mm.
+
+Fig. 6. Part of the upper sequence showing crude bedding (Arrow 1) between
+crushed zones (Arrow 2). Note also the vertical cracks in the bedded sediments. Length of scale bar is 20 cm.
+
+some dispersed clay is locally evident. Domains of recrystallized microsparitic calcite still preserve the original gray micritic calcareous matrix. It was possible to identify several
+remnants of rhombic or rectangular ash crystals of gray micrite aggregates within these domains (Figs. 9e11), along
+with moderately recrystallized lumps of ash accompanied by
+pseudomorphic plant structures (Figs. 5b and 10). Pure calcareous lenses with well-preserved ash structures occur in certain
+localities of the stratified central upper sequence (Fig. 12). The
+lenses are always associated with numerous small burnt bone
+fragments and clay lumps, sometimes with evidence of reddening from heat (Fig. 12); these are typical microscopic features of in situ ash layers in Middle Paleolithic through recent
+sites (Courty et al., 1989). Fragments of well-preserved structured ashes are frequently found inside the less structured
+
+Fig. 8. Orange-red (dark gray to black at the right side of the photograph) burnt
+bone intensively shattered and disintegrated. Note that some of the fractures
+propagate from a center; these are shrinkage fractures that were most likely
+produced due to heating at high temperature. This bone is associated (left
+part of the photograph) with wood ash. Upper sequence, sample QCB9, plane
+polarized light, length of photo ¼ 2.9 mm.
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+Fig. 9. Microphotograph of mildly recrystallized ash. The dark-gray micritic
+aggregates are replaced by light-gray sparitic calcite. Some of the micritic
+aggregates have remnant rhombic shapes of the original ash crystals (notably
+in the micritic concentration, middle right part of the photograph). Upper
+sequence, sample QCB19b, plane polarized light, length of photo ¼ 1.3 mm.
+
+calcareous matrix composed of disturbed ashes. Microscopic
+erosional features on previously indurated ash patches suggest
+that cementation continued with sedimentation and ash accumulation. This inference is also supported by the presence of
+calcified rootlets throughout the sequence; the rootlet casts
+are in the form of numerous small bifurcating channels
+cemented with sparitic calcite (larger than 20-micron-sized
+calcite) or as alveolar septal structures (Fig. 13).
+Areas close to the cave walls in the upper sequence. The
+sediment closest to the former north wall is more shattered
+
+Fig. 10. Microphotograph of slightly recrystallized ash. Light-gray sparitic calcite replaces the dark-gray micritic aggregates. The groundmass is dotted with
+fine black particles of probably charred material. Note the calcitic cellular
+pseudomorphs after plant tissues on the upper part of the photo and in the inset. The elongated, rectangular calcitic crystals shown in the inset are clearly
+not geogenic and represent calcified wood remains. Upper sequence, sample
+QCB7a, plane polarized light, length of photo ¼ 2.7 mm, inset length ¼
+1.4 mm.
+
+203
+
+Fig. 11. Microphotograph of strongly recrystallized wood ash. The light-gray
+areas of sparitic calcite dominate. Some of the remnants of micritic aggregates
+retain the original rectangular and rhombic shapes of ash crystals (A and B),
+whereas others have been partially recrystallized and thus have lost their distinctive shapes (C). The inset shows experimentally produced wood ash from
+oak (Quercus) as an example of well-preserved, fresh ash crystals. Upper
+sequence, sample QSB4a, plane polarized light, length of photo ¼ 0.7 mm.
+
+than that in areas close to the former south wall of the cave
+(Fig. 1). Overall, the sediments along the walls have a chaotic
+appearance. Here, bedding is less clearly defined and the deposits contain relatively large amounts of infiltrated clay in
+the form of moderately cemented patches of orange-red calcareous clay. In thin section, the sediment is heterogeneous
+and disturbed. Its matrix is almost pure, massive, and composed of cemented micritic calcite (Fig. 14). However, the matrix encloses several diffuse aggregated mixtures of clay and
+fine bone fragments embedded in ‘‘dirty’’ calcite with large
+amounts of fine black particles (Fig. 14). The aggregates of
+clay/bone admixtures have structures that resemble the recrystallized ashes. Several generations of veins of the same
+massive micrite crosscut the matrix. The veins are postdepositional features that can only form within an already solidified
+material. Thus, we conclude that the massive micrite is chemically precipitated calcite that formed veins or thin, dirty flowstones (speleothems). Most of the speleothems and veins are
+also fragmented and secondarily cemented. Bands of claysupported, rounded speleothem granules were incorporated
+during the formation of new speleothems. Erosional surfaces
+are common, as are sheared contacts lined with striated clay
+on already consolidated material. More recent noncemented
+shattered areas are also found. A few large bone fragments
+have almost vertical or inclined orientations, also indicating
+movement. Shattering was a recurrent process, which continuously modified the deposits that are mostly geogenic in origin,
+but these deposits also include disturbed ash-rich anthropogenic material (Fig. 14). Calcified rootlets appear to have
+been contemporaneous with the main cementation and fissuring processes.
+The lower part of the upper sedimentary sequence close to
+the south wall is a mixture of loose, collapsed gravelly
+
+204
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+Fig. 13. Microphotograph of an alveolar septal structure indicative of calcified
+roots. Such structures indicate that plants were growing in the cave, suggesting
+that the upper sequence was formed in the illuminated part (i.e., entrance) of
+the cave. Upper sequence, sample QCB4, plane polarized light, length of
+photo ¼ 2.9 mm.
+
+Fig. 12. (a) Photograph of an in situ gray ash lens from the upper sequence.
+Note the fine lamination and the dark-gray speckles that are burnt bone fragments. Length of photo is 10 cm. (b) Microphotograph of the same lens. Note
+the bedded appearance of micritic calcite associated with dark-red heated-soil
+aggregates. On the right edge of the lens there is a cellular calcitic pseudomorph (arrow). Upper sequence, sample QCB7a, plane polarized light, length
+of photo ¼ 11 mm.
+
+data given by Berna et al. (2007). The acid-insoluble fraction
+of the sediments is composed of clay and quartz. Upon separation in heavy liquid, neither siliceous aggregates nor phytoliths were identified microscopically.
+A sample of bones representing the whole stratigraphic
+sequence of Qesem Cave was studied using the FTIR and
+following the procedure developed by Shahack-Gross et al.
+(1997). Unburnt bones from this site are light to dark yellow
+in color, sometimes with manganese-oxide dendrites. The
+
+material intercalated with brown clay and showing some
+upward grading; these deposits resemble the sediment of the
+lower unit. Because they form a tongue of loose sediment
+under the cemented upper sequence, they are interpreted as
+a continuation of the higher part of the lower sequence.
+Bulk mineralogical and microscopic analyses
+The sediments in Qesem Cave are composed mainly of calcite, clay, and quartz (Appendix 1). The amounts of clay and
+calcite vary spatially, but the sediments in the cave show a pattern of mineralogical uniformity overall. Only small amounts
+of dahllite were identified. Authigenic dahllite occurs as
+rock reaction rims in the cave sediments, mostly in the lower
+sequence, but a few examples were also identified in the upper
+sequence. The clay component does not show any spectral indications of having been heated over 500  C, following the
+
+Fig. 14. Microphotograph of subrounded grains of massive micrite without
+burnt bone, clay lumps, and charcoal fragments, thus indicating that this is
+travertine. The travertine is embedded in chemically precipitated micritic
+and sparitic calcite. In the lower central part of the photograph, there is an aggregate of ‘‘dirty’’ micrite dotted with fine black particles and a bone fragment. These types of aggregates most likely represent recrystallized burnt
+remains. Upper sequence, sample QCB8b, plane polarized light, length of
+photo ¼ 6.5 mm.
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+infrared splitting factor (IRSF) of these bones ranges between
+3.4 and 3.9, indicating that bone-mineral preservation is relatively good (e.g., Weiner and Bar-Yosef, 1990; Stiner et al.,
+1995). When dissolved in acid (1N HCl solution), however,
+these bones do not produce an acid-insoluble residue that
+can be attributed to collagen. The black- and brown-colored
+bones have IRSF values between 3.4 and 4.0. These bones
+produce an acid-insoluble component identified by FTIR as
+pyrolized collagen (Fig. 15a) when subjected to acid solution
+(i.e., presence of a main absorption peak at about 1600 cm1).
+Pyrolized collagen was identified from the insoluble residues
+of the bones from both the upper and lower sequences in Qesem Cave. The frequency of manganese oxides is low based
+on the absence of an absorption peak at about 500 cm1 in
+most spectra obtained from the acid-insoluble fraction of
+black bones. Thus, oxide-staining does not affect the colors
+of the bones in Qesem Cave to a degree that would hamper
+identification of burnt bones by eye. Note that pyrolized collagen is preserved in black burnt bones, while unpyrolized
+collagen is not preserved at all. This differential preservation
+may occur because pyrolized collagen is essentially charred
+organic matter. Most gray- and white-colored bones show infrared spectra typical of calcined bone mineral (Fig. 15b).
+There are, however, a few examples of white-colored bones
+that are not calcined but are essentially impregnated by
+calcite.
+
+205
+
+the ash of two modern wood species, oak (Quercus calliprinos) and carob (Ceratonia siliqua), have distinct isotopic
+values that are extremely light relative to the geogenic speleothems in Qesem Cave (Fig. 16). The wood-ash values reflect
+the formation of calcitic ash by rapid absorbance of CO2
+from the atmosphere upon cooling, similar to the process by
+which lime plaster forms (Van Strydonck et al., 1989; Goren
+et al., 2005). A recent study shows that recrystallization of
+wood ash in the presence of percolating karstic waters results
+in isotopic signatures more similar to the values typical of the
+chemically precipitated speleothems and in fact forms a mixing
+curve from which the ratio of unaltered ash to altered and/or
+geogenic calcite can be estimated (Shahack-Gross et al., in
+press).
+From the eight sediment samples analyzed, only two yield
+values that are distinctly different from the cave speleothems
+(Fig. 16), indicating that they consist of wood ash that is either
+recrystallized and/or mixed with geogenic calcite. Notably,
+these samples originated from the upper sequence, where
+a clear, gray horizontal layer composed of relatively wellpreserved ash was identified using micromorphology (sample
+
+Stable oxygen and carbon isotopic analyses
+Following the micromorphological results, we tested the
+isotopic composition of the oxygen and carbon in the Qesem
+sediments for indications of wood ash. The results show that
+
+Fig. 15. Representative FTIR spectra of bones from Qesem Cave. (a) Spectrum
+of the acid-insoluble fraction of a black-colored bone. The absorbance bands at
+around 1650 and 1250 cm1 are indicative of pyrolized collagen. The absorbance bands at around 1085 and 470 cm1 are indicative of siliceous minerals
+(quartz and possibly some clay). (b) Spectrum of a white-colored bone. All of
+the absorbance bands are attributed to calcined bone mineral. The absence of
+absorbance bands at around 1450 and 875 cm1, characteristic of fresh bone
+mineral, is due to loss of the carbonate component from the bone dahllite during calcination.
+
+Fig. 16. Oxygen and carbon isotopic values obtained from eight sediment samples from Qesem Cave, and from two modern wood-ash samples. Note that the
+two wood-ash samples (closed symbols) have distinctively different values than
+the Qesem Cave sediments (open symbols). In addition, note that the range for
+Qesem Cave speleothem values (dashed rectangle) overlaps five of the eight
+Qesem Cave sediment samples. The two samples that are depleted in both
+13
+C and 18O relative to the local speleothems probably still include pristine
+wood-ash crystals. These samples originate from sample QCB7 from the upper
+sequence where ample micromorphological evidence for wood ash was
+observed. One sample is enriched in 18O relative to all of the others. This
+sample was derived from block QCB9 from the lower sequence. Based on
+the micromorphological observations, this sample includes wood ash but also
+large amounts of microscopic bone fragments. The isotopic enrichment in
+oxygen may thus be attributed to the presence of oxygen from the bones in
+the sample.
+
+206
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+QCB-7; Appendix 1). The isotopic results therefore support
+our interpretation based on micromorphology that this layer
+represents an intact hearth. The rest of the samples show
+values similar to local speleothems and thus represent either
+completely recrystallized wood ash or geogenic speleothem
+calcite, or a mixture of both. Consistent with other findings
+in this study, the isotopic results support the presence of
+both preserved and recrystallized wood ash in the sediments
+of Qesem Cave.
+
+with the presence of microscopic calcified rootlets in the upper sequence (Fig. 12), which normally would form in the
+illuminated entrance zone of the former cave. The collapse
+event is linked with an abrupt change in the sediment type
+between the lower and the upper sequence and with changes
+in the karstic configuration of the cavedthe lower sequence,
+as already discussed, was formed in a humid inner-cave environment, whereas the upper sequence formed in a shallow
+cave.
+
+Discussion
+
+Upper sequence
+
+The field and micromorphological observations, coupled
+with bulk mineralogical, microscopic, and isotopic analyses,
+permit us to identify materials present in the cave sediments
+and to better understand their states of preservation and the
+site-formation processes that operated in the two sedimentary
+sequences of Qesem Cave.
+
+The upper sequence is dominated by anthropogenic sediment, with only moderate amounts of clastic geogenic inputs
+(Appendix 1). Karstic, probably dripping, water precipitated
+calcite in the form of flowstones, some of which are dirty
+(clastic-rich) and thin and others thick and relatively pure.
+Most of the latter are found close to the former south and
+east walls of the cave. Circulating pore water also facilitated
+the continuous recrystallization of the calcitic ashes in the central area and precipitated calcite in sediment pores and root
+passages.
+Gradual collapse of the areas closest to the walls is responsible for the chaotic appearance of the sediments and the dominance of geogenic processes in this part of the upper sequence
+(Fig. 2). This process was also confirmed in other active caves
+in the area and is probably due to differential competence of
+the two sequences to accommodate small space rearrangements associated with deep karstic processes.
+The presence of the ca. 4.5-m-thick ash-rich deposits in the
+central area of the upper sequence of Qesem Cave is of major
+importance. The main micromorphological evidence that supports the presence of calcitic-ash remains includes the following: (1) the frequent presence of calcitic-ash crystals (Figs. 9
+and 11) and wood-ash cellular pseudomorphs in all areas
+where recrystallization is relatively mild (Figs. 5 and 10);
+(2) the association of ashes with large amounts of fine burnt
+bone fragments and heated soil lumps (Figs. 8 and 12);
+(3) the frequent preservation of fragments of well-preserved,
+undisturbed ashes (Fig. 12); and (4) the similar microstructure
+and content of both mildly and strongly recrystallized areas,
+suggesting the same parent material. The light isotopic values
+obtained from micromorphologically identified well-preserved
+ash support the above interpretations (Fig. 16). Moreover, the
+calcareous nature of the sediments and, at the same time, the
+lack of any indication of chemically precipitated calcite (except in pores and root passages) similar to that found close
+to the walls of the cave suggest that the whole central
+sequence consists of a thick accumulation of ash-rich remains. Due to the processes of recrystallization, it is difficult
+to define discrete hearths, although at least two were identified
+in the upper sequence (i.e., samples QCB-7 and QCB-17;
+Appendix 1).
+Studies at Middle Paleolithic Levantine cave sites in conjunction with replication fire experiments have shown that
+wood ash includes an acid-insoluble component, namely siliceous aggregates and phytoliths (Schiegl et al., 1996; Albert
+
+Lower sequence
+The overall stratified appearance of the deposits and the
+crude sorting of the clastic material in each increment
+(Fig. 3) point to deposition from concentrated mud slurries (infiltrated soil) and debris flows spread over the entire surface of
+the cave. However, subsequent wetting and drying have eliminated most of the original depositional features and produced
+a microscopically fissured structure. The amount of silt-sized
+quartz suggests a terra rosa origin of the clay. Indeed, a reference soil sample from the hills above the cave shows similar
+clastic content (Appendix 1). Sediment gravity flows most
+likely deposited the gravel layers as the walls of the former
+cave gradually collapsed. The overall appearance of this unit
+resembles several modern analogues in the karstic system of
+the area. Piles of roofspall formed below small karstic conduits and subsequently were lubricated by infiltrated clay slurries. Then, facilitated by gravity, they spread into thick viscous
+layers without eroding the already-deposited layers. The features described above, in combination with the phosphatealteration features and the iron-manganese staining, suggest
+that the deposition occurred inside a humid, closed karstic
+environment (Appendix 1).
+Mostly undisturbed lenses of burnt remains are found in
+this lower sequence. Overall, however, the lower excavated
+unit is principally geogenic in origin and only discrete lenses
+of burnt remains are observed. These discrete lenses represent
+solitary hearths (i.e., samples QCB-2, QCB-11, and QCB-9;
+Appendix 1).
+The transition from the lower to the upper sequence
+Field observations on the areas of the current cave surface
+suggest a gradual enrichment of the lower sequence in limestone roof fall and large boulders that separate it from the
+upper sequence. The boulders are the result of the partial collapse of the cave roof (Fig. 2). This inference is in accordance
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+et al., 1999, 2000; Madella et al., 2002). The acid-insoluble
+components of the sediments in Qesem Cave were only clay
+and quartz. The lack of both siliceous aggregates and phytoliths in the ashy sediments may be explained by the alkalinity
+of the cave waters, favoring the preservation of calcite (i.e.,
+calcitic ash) and bone dahllite (i.e., relatively low IRSF of
+bones), while promoting the dissolution of opaline siliceous
+constituents (Karkanas et al., 2000; Shahack-Gross et al.,
+2004). Supporting evidence for this proposition is the presence
+of a few small lumps (ca. 2e3 cm in diameter) of pure darkgray clay whose inner cores are made of highly weathered basalt rock. Clearly, these lumps are the product of weathering of
+the silicate basalt stones, brought to the site by hominins and
+discarded in the alkaline cave environment. In addition, we
+note that wood ash often contains either small amounts of phytoliths (Albert et al., 1999) or none at all (Tsartsidou et al.,
+2007); scant proportions of phytoliths in wood used as fuel
+would be even more susceptible to total dissolution in such
+an alkaline environment.
+The mineralogical analysis of the clay components in
+Qesem Cave did not show significant alteration from exposure
+to high temperatures, as reported by Berna et al. (2007). It appears that the maximum temperature to which the clays were
+exposed was ca. 500  C. This temperature falls well within
+the known range of temperatures recorded on the surface
+sediment below simple experimental campfires (as opposed
+to the heat center of the fire itself; Bellomo, 1993; Berna
+et al., 2007).
+A final collapse sealed the cave during the late middle
+Pleistocene, and it remained closed until it was breached by
+road construction in October 2000.
+Overall interpretation of the observations
+Although evidence of burning in several middle Pleistocene
+sites may be explained as the product of naturally induced
+fires (James, 1989), the micromorphological and other evidence in Qesem Cave clearly indicate extensive, repeated
+use of fire by hominins between roughly 400 and 200 ka. It
+is improbable that lightning strikes repeatedly ignited surface
+materials in the cave given the pattern of sediment build-up.
+The ash remains are not the product of a single or a few events
+(which could have burned downwards into the deposits), based
+on evidence of several macroscopic and microscopic features.
+The presence of calcified rootlets throughout the upper sequence, several generations of cemented fractures (veins)
+and flowstone formation, and the erosional features on preserved ash patches suggest that sedimentation (anthropogenic
+and geogenic) and cementation were more or less contemporaneous processes throughout the formation of the stratigraphic sequence. This process commonly operates in the
+floors of caves (e.g., Gillieson, 1996: 155; Moriarty et al.,
+2000). Natural ignition in caves is usually associated with
+the presence of large amounts of organic material, often in
+the form of animal dung or bat guano (James, 1989; Shahack-Gross, personal observations). These materials do not
+burn at high temperatures and do not produce completely
+
+207
+
+combusted sequences (Brochier et al., 1992; Shahack-Gross,
+personal observations). There are no indications of burnt organic material of this kind in Qesem Cave. All the ash structures are instead related to wood-burning and complete
+combustion. Calcined bones are comparatively common in
+Qesem Cave, as identified both mineralogically using the
+FTIR and microscopically based on criteria given by Courty
+et al. (1989) and Schiegl et al. (2003), which include changes
+in color, birefringence, and interference colors. Such a mineralogical transformation occurs at either a very high temperature for a short duration (above 650  C; Shipman et al.,
+1984) or from prolonged combustion at temperatures as low
+as 500  C (Shahack-Gross, unpublished data). In either case,
+calcined bones can be formed at temperatures that only campfires can reach and/or maintain (Bellomo, 1993; Stiner et al.,
+1995).
+A potential complication in the interpretation of burnt materials is the fact that sediments and inclusions beneath a fire
+can be altered by heat penetrating to a depth of up to 15 cm
+(Stiner et al., 1995). Thus, it is important to seek evidence
+for repeated associations of burnt archaeological materials
+across many units of an excavation. In Qesem Cave, bones
+show a microscopic burning pattern that is not consistent
+with one or a few events of burning of the whole depositdfine
+fragments inside pure ash lenses and patches tend to be burnt,
+whereas large fragments in disturbed ashes are less frequent or
+not burnt at all.
+Constructed hearths are difficult to identify in these
+strongly lithified deposits. However, a possible stone-lined
+hearth was identified in the uppermost part of the sequence.
+Unfortunately, we were not able to differentiate clearly the
+deposits inside this suspected feature from the surrounding
+deposit (sample QCB-17; Appendix 1), so for the moment,
+we only note its possible existence.
+Conclusions
+A major component of the Qesem Cave deposits consists of
+recrystallized wood ashes. The geogenic input is more extensive in the lower part of the sequence, where clastic sediments
+were deposited in a closed karstic system. The upper ca. 4.5 m
+of the sequence consist mainly of anthropogenic sediments
+characterized by completely combusted, mostly reworked
+wood ashes associated with large amounts of burnt bone, lithic
+artifacts, and moderately heated soil lumps. The strong cementation of the deposits is explained by calcite precipitated from
+dripping waters and the recrystallization of the ash. The isotopic analysis supports the presence of both preserved and
+recrystallized wood ash in the sediments. The frequent presence of microscopic calcified rootlets indicates that the upper
+sequence formed near the original (now destroyed) cave
+entrance.
+The field and microscopic features of the cemented ashy
+deposits in the upper sequence in Qesem Cave are similar in
+composition to cemented ashy sequences that have been documented in other Paleolithic cave sites (Schiegl et al., 1996;
+Macphail et al., 2000; Goldberg and Sherwood, 2006). The
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+208
+
+cemented ash in Qesem Cave is earlier in age, however, and it
+is present throughout the sedimentary sequence. In particular,
+the burnt remains in Qesem Cave are characterized by completely combusted, mostly reworked wood ashes with only
+rare remnants of charred material. The paucity of charred material in ash residues is not surprising and in fact is a common
+condition in Paleolithic caves and rock shelters of the dry
+Mediterranean Zone (Courty et al., 1989: 223; Macphail
+et al., 2000).
+Thick, massive ash accumulations that lack the structured
+multisequence appearance (sensu Courty et al., 1989) typical
+of undisturbed burnt remains have been attributed at a later
+cave site to intense occupation and fairly continuous use of
+fires (Karkanas et al., 2004). In other words, a high incidence
+of fire-building at a location will tend to erase the fine
+structures that are so typical of fresh solitary hearth features.
+However, very low geogenic sedimentation rates might also
+contribute to the destruction of hearth features in a site
+due to a higher or extended probability of trampling and
+weathering. Both situations may apply in varying degrees
+to the formation history of the sediments in Qesem Cave.
+Nevertheless, it was possible during fieldwork to identify
+a few intact thin ash lenses in the upper sequence. These
+lenses display the typically fine, wavy internal fabric of original, undisturbed hearth components under the microscope
+(Fig. 12).
+The evidence presented above demonstrates repeated use of
+fire by Amudian (late Lower Paleolithic) hominins in Qesem
+Cave, at least in the upper sequence. It is clear that these hominins possessed fire in the sense of a maintainable technology.
+They built small campfires inside the cave, and a variety of activities were conducted in the vicinity of these fires. The ashrich contents of the upper strata indicate many fire-building
+events, supporting the interpretation of habitual use of fire in
+the cave. Traces of fire are also observed in the lower stratigraphic sequence, but for the moment, we cannot demonstrate
+frequent use of fire in the oldest layers.
+
+A number of other Lower Paleolithic sites, including
+some Acheulo-Yabrudian cases, have yielded burnt materials
+that have been interpreted as hearth traces (Tsatskin, 2000;
+Meignen et al., 2001; Goren-Inbar et al., 2004; Rolland,
+2004; Preece et al., 2006). The findings at Qesem Cave extend beyond the identification of burnt remains in the sediments, however, in that the archaeological and geological
+evidence supports a ‘‘residential base’’ scenario. Hearths
+formed hubs around which other activities were carried
+out in the cave; use-wear damage on blades and blade tools
+in conjunction with numerous cut marks and impact fractures on large bones indicate an emphasis on prey butchering, defleshing, and marrow extraction in the vicinity of
+fireplaces. Hominin use of fire during the late Lower Paleolithic at Qesem Cave seems to have been grossly similar to
+the behavioral patterns observed in later Middle Paleolithic
+populations in the Levant region.
+The multidimensional approach advocated by this study illustrates the difficulties for field identification of burnt materials and matrix, particularly in the absence of visible
+charcoal. Under favorable preservational conditions, however,
+the microscopic analysis of intact structures can reveal the true
+nature of the sediment and whether or not there is wood ash
+(e.g., Weiner et al., 1998; Goldberg et al., 2001).
+Acknowledgments
+We thank the extended team involved in the excavations at
+Qesem Cave. This study was funded by an Irene Levi Sala
+CARE Archaeological Foundation grant to RSG and the Kimmel Center for Archaeological Science, Weizmann Institute of
+Science. The Qesem Cave research project is supported by the
+Israel Science Foundation (grant number 256/05), the L.S.B.
+Leakey Foundation (2003e2005), and the Irene Levi Sala
+CARE Archaeological Foundation (2003e2006). We are especially grateful to S. Weiner for his insights and assistance in
+this research.
+
+Appendix 1. List of micromorphological samples, from bottom to top of the sedimentary sequence at Qesem Cave, and
+their description, including major mineral components based on bulk FTIR analysis
+Sample no.
+
+Square
+
+Sequence part
+
+QCB-12
+
+Hill above
+the cave
+
+QCB-2
+
+H14b
+
+Used as
+control for
+local soil
+infiltration
+into the cave
+Lower
+
+Depth (cm)
+
+671e694
+
+Field description and FTIR
+analysis
+
+Micromorphology
+
+Interpretation
+
+Reddish-brown soil from the
+hill above the cave.
+IR: clay dominating, little
+quartz.
+
+Brown clay with undifferentiated b-fabric
+and an overall crack microstructure. Organic
+grains are common. Coarse fraction consists
+of subangular to subrounded quartz silt and
+fine-medium sand.
+Alternating clay and subrounded gravel
+bands. Clay has weakly undifferentiated
+speckled b-fabric to locally granostriated.
+Strings of sand- and silt-sized quartz are
+observed. Mostly fissured planar voids.
+Frequent manganese staining and phosphate
+nodules. The cemented lens consists of
+recrystallized dusty micrite with visible
+rhombic calcitic-ash crystals, burnt bone,
+and darkened and reddened clay lumps.
+
+Terra rosa soil.
+
+Dark-brown sediment with
+some stony horizons and a
+whitish cemented lens in the
+middle.
+IR: clay, calcite, dahllite
+(more calcite in the cemented
+lens).
+
+Debris and mud flows.
+A mostly in situ burnt
+layer is found in
+between including
+recrystallized wood
+ash (i.e. a hearth).
+Deposits formed in a
+humid closed
+environment.
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+209
+
+Appendix 1 (continued )
+Sample no.
+
+Square
+
+Sequence part
+
+Depth (cm)
+
+Field description and FTIR
+analysis
+
+Micromorphology
+
+Interpretation
+
+QCB-11
+
+H14
+
+Lower
+
+600e614
+
+Alternating bands of clay and recrystallized
+dusty micrite dotted with fine dark particles,
+fine charcoal fragments and burnt bone, and
+authigenic phosphates.
+
+In situ burnt remains
+including wood ash
+(i.e., a hearth). Closed
+cave environment.
+
+QCB-9
+
+K13b
+
+Lower
+
+520e525
+
+L14b
+
+Lower
+
+495e520
+
+Recrystallized dusty micrite densely dotted
+with fine black particles. Very abundant
+burnt bone. Frequent ghost features of
+rhombic wood-ash crystals and some calcitic
+pseudomorphic plant structures. Many
+darkened and reddened clay lumps.
+Upper gravelly part consists of subrounded
+limestone clasts with some incipient rim
+alteration to phosphate. Bone is abundant.
+Matrix and lower clayey part consists of
+grano- and porostriated clay with sand- and
+silt-sized quartz. Frequent phosphate
+nodules and manganese staining.
+
+In situ reworked wood
+ash and other burnt
+remains (i.e., a
+hearth).
+
+QCB-3
+
+Laminated fine, light-gray,
+soft sediment with dark-gray
+lenses.
+IR of general sediment: clay,
+dahllite, calcite.
+IR of dark lenses: calcite,
+clay, dahllite.
+Lightly cemented rounded
+feature ca. 50 cm in diameter
+of dark-brown to black
+sediment with abundant burnt
+bones.
+IR: clay, dahllite, calcite.
+Dark-brown sediment with a
+stony upper part.
+IR: clay, calcite, dahllite.
+
+Summary of
+lower
+sequence
+
+Debris and mud flows.
+Deposits formed in a
+humid closed
+environment.
+
+Mostly rock debris
+and mud flows with
+occasional lenses
+composed of wood ash
+and burnt bones (i.e.,
+in situ hearths).
+
+QCB-5
+
+J8b
+
+Upper
+
+430e450
+
+Light-brown, massive, and
+strongly cemented sediment
+with some fractures and
+veins. Located close to a
+feature, and showing vertical
+orientation of artifacts.
+IR: calcite dominating, little
+clay.
+Reddish, strongly cemented
+sediment with massive
+appearance. Abundant bone
+fragments.
+
+QCB-10
+
+K10
+
+Upper
+
+388e398
+
+QCB-4
+
+L13c
+
+Upper
+
+348e364
+
+Gray-brown, strongly
+cemented sediment with
+abundant bone fragments and
+a few stone fragments
+arranged in bands.
+IR: calcite, clay, dahllite
+
+QCB-6
+
+K9b
+
+Upper
+
+312e328
+
+QCB-8
+
+M9a
+
+Upper
+
+250e270
+
+Reddish-brown, massive, and
+strongly cemented sediment
+with abundant bone
+fragments.
+IR: calcite, clay, dahllite.
+Orange-reddish and brown
+sediments, slightly cemented.
+Some crude stratification is
+evident.
+IR: calcite, clay, dahllite.
+
+Highly heterogeneous and disturbed
+sediment consisting of aggregated mixtures
+of fine burnt bone and dusty micrite
+embedded in an almost pure massive micritic
+matrix. Secondary calcite infilling voids.
+Occasional crosscutting veins of the same
+pure massive micrite. Many calcified
+rootlets.
+Very abundant clay aggregates inside a
+matrix of recrystallized dusty micrite. A few
+of the clay aggregates are reddened. Burnt
+bone is common. Possible authigenic
+dahllite.
+Dusty micritic matrix, locally recrystallized
+to microsparite, dotted with abundant black
+fine particles and darkened or reddened clay
+lumps. Rhombic calcitic-ash crystals and
+wood cellular pseudomorphs are frequently
+discerned in the less recrystallized areas.
+Many bifurcating channels and septal
+alveolar structures of sparitic calcite.
+Abundant bone; the finer fragments are
+burnt. A few gravel-sized limestones occur.
+Coarse material arranged in bands.
+Mostly as above, but with a higher amount
+of dusty micrite with fine burnt bone
+fragments and black particles.
+
+Highly shattered, mostly pure massive
+micritic material with a few inclusions of
+dusty micrite dotted with black fine particles
+and burnt bone. Many veins of massive
+micrite. Occasional bands of clay-supported
+granules of rounded travertine fragments.
+
+Travertine enclosing
+some fragments of
+burnt remains. The
+material has been
+fractured and
+cemented several
+times.
+Reworked burnt
+remains including
+wood ash with a
+considerable clay
+clastic component.
+Reworked wood ash
+and other burnt
+remains. Material
+deposited close to the
+entrance of the cave.
+
+Strongly reworked
+ashes cemented by
+travertine.
+
+Travertine with a few
+inclusions of burnt
+remains. The material
+has been fractured,
+reworked, and
+cemented several
+times.
+
+(continued on next page)
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+210
+Appendix 1 (continued)
+Sample no.
+
+Square
+
+Sequence part
+
+Depth (cm)
+
+Field description and FTIR
+analysis
+
+Micromorphology
+
+Interpretation
+
+QCB-7
+
+L10b
+
+Upper
+
+171e195
+
+Light reddish-brown, strongly
+cemented sediment with
+discrete gray lenses.
+Abundant bone fragments.
+IR of general sediment:
+calcite, clay, dahllite.
+IR of gray lenses: calcite
+dominating, little clay.
+
+Mainly recrystallized dusty
+micrite very rich in burnt bone
+fragments and black fine particles.
+Two discrete thin lenses of slightly
+recrystallized gray dusty micrite
+densely dotted with black fine
+particles and with abundant ghost
+features of rhombic wood-ash crystals
+and some calcitic pseudomorphic plant
+structures; the lenses are locally
+fragmented and have erosional
+contacts. Many darkened and oxidized
+clay lumps. A few large fragments of
+bones and occasional gravel limestone.
+They are mostly horizontally aligned.
+Abundant calcareous rootlets with
+septal alveolar structures.
+
+Two remnants of in
+situ burnt layers (i.e.,
+superimposed hearths,
+inside reworked
+ashes). Material
+deposited close to the
+entrance.
+
+Summary of
+lower 3 m of
+upper
+sequence
+
+Mostly reworked
+(mainly trampling and
+low-energy water
+flow) but also in situ
+preserved wood ash
+(i.e., hearths).
+
+QCB-15
+
+P11d
+
+Upper
+
+155e160
+
+Gray-brown, cemented
+sediment from inside a
+possible stone structure.
+IR: calcite, clay, dahllite.
+
+QCB-16
+
+O11b
+
+Upper
+
+155e160
+
+QCB-17
+
+P11d
+
+Upper
+
+155e160
+
+Pinkish cemented sediment
+outside a possible stone
+structure
+A gray-colored banded stone
+that lined the stone structure.
+Macroscopically it resembles
+cemented ash from the
+middle upper sequence, in an
+upright position (i.e., vertical
+laminations).
+
+QCB-18
+
+P11d
+
+Upper
+
+155e160
+
+QCB-19
+
+P12b
+
+Upper
+
+145e160
+
+QCB-13
+
+Q9c
+
+Upper
+
+149e157
+
+Gray-brown cemented
+sediment.
+IR: calcite, clay, dahllite.
+
+QCB-14
+
+Q8c
+
+Upper
+
+150e155
+
+Light-gray, cemented,
+sediment.
+IR: calcite, clay, dahllite.
+
+A reddish-brown stone that
+lined the stone structure.
+Macroscopically it is
+cemented massive sediment.
+A grayish-brown stone that
+lined the stone structure
+composed of cemented
+sediment.
+
+Subangular to subrounded
+sand-sized travertine fragments,
+inside a clay-rich recrystallized
+micritic matrix with very few
+inclusions of dusty micrite dotted
+with fine black particles. Many
+bone fragments of which the finer
+fraction is burnt.
+Massive micrite with a few clay
+admixtures and a vughy porosity.
+Large fragments of moderately
+recrystallized dusty micrite with
+a lot of rhombic ash crystals and
+calcitic cellular pseudomorphs
+and many reddened clay lumps.
+The fragments are inside a massive
+micritic groundmass with inclusions
+of recrystallized dusty micrite.
+Occasional bone.
+As above.
+
+Alternating clay-rich bands and
+recrystallized dusty micrite with
+many rhombic calcitic-ash crystals,
+calcitic cellular pseudomorphs and
+reddened clay aggregates. Bone is
+abundant.
+Sparitic groundmass with little clay and
+inclusions of recrystallized dusty micrite.
+Many bone fragments; some are burnt.
+Authigenic dahllite.
+Recrystallized dusty micrite with very
+abundant bone. Areas of preserved ash
+crystals
+
+Travertine with a few
+inclusions of burnt
+remains.
+
+Travertine.
+
+Cemented in situ
+reworked wood ash
+and other burnt
+remains (i.e., a
+hearth). Stone has
+been brought to the
+uppermost part of the
+section from lower
+levels through ancient
+human action.
+As above.
+
+As above.
+
+Probably a travertine
+with a few inclusions
+of burnt remains.
+Highly reworked
+burnt remains.
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+211
+
+Appendix 1 (continued )
+Sample no.
+
+Square
+
+Sequence part
+
+Depth (cm)
+
+Field description and FTIR
+analysis
+
+Summary of
+upper 1.5 m of
+upper
+sequence
+
+Micromorphology
+
+Interpretation
+Reworked wood ash
+extensively mixed with
+travertine by lowenergy water flow.
+Indications for
+intentional use of
+cemented sediments
+from lower exposed
+parts of the sequence
+by humans.
+
+Notes: The presence of dahllite in almost all samples is mainly due to microscopic bone fragments, and only rarely due to authigenic phosphate. Dolomite
+rock fragments have been identified in the upper sequence, as well as extremely weathered basalt. Note that manganese oxides have not been detected widely
+using the FTIR, and thus most black fine particles referred to in the appendix and text are probably charcoal fragments, a conclusion reached also using oblique
+light microscopy (see also Courty et al., 1989). First set of samples, QCB1e9; second set of samples, QCB10e19.
+
+References
+Albert, R.M., Lavi, O., Estroff, L., Weiner, S., Tsatskin, A., Ronen, A.,
+Lev-Yadun, S., 1999. Mode of occupation of Tabun Cave, Mt Carmel, Israel during the Mousterian period: a study of the sediments and phytoliths.
+J. Archaeol. Sci. 26, 1249e1260.
+Albert, R.M., Weiner, S., Bar-Yosef, O., Meignen, L., 2000. Phytoliths in the
+Middle Palaeolithic deposits of Kebara Cave, Mt Carmel, Israel: study of
+the plant materials used for fuel and other purposes. J. Archaeol. Sci. 27,
+931e947.
+Barkai, R., Gopher, A., Lauritzen, S.E., Frumklin, A., 2003. Uranium series
+dates from Qesem Cave, Israel, and the end of the Lower Palaeolithic. Nature 423, 977e979.
+Barkai, R., Gopher, A., Shimelmitz, R., 2005. Middle Pleistocene blade production in the Levant: An Amudian assemblage from Qesem Cave, Israel.
+Eurasian Prehistory 3, 39e74.
+Bellomo, R.V., 1993. A methodological approach for identifying archaeological evidence of fire resulting from human activities. J. Archaeol. Sci. 20,
+524e553.
+Berna, F., Behar, A., Shahack-Gross, R., Berg, R., Boaretto, E., Gilboa, A.,
+Sharon, I., Shalev, S., Shilstein, S., Yahalom-Mack, N., Zorn, J.R.,
+Weiner, S., 2007. Sediments exposed to high temperatures: Reconstructing
+pyrotechnological processes in late Bronze and Iron Age strata at Tel Dor
+(Israel). J. Archaeol. Sci. 34, 358e373.
+Brochier, J.E., Villa, P., Giacomarra, M., Tagliacozzo, A., 1992. Shepherds and
+sediments: geo-ethnoarchaeology of pastoral sites. J. Anthropol. Archaeol.
+11, 47e102.
+Bullock, P., Fedorroff, N., Jongerius, A., Stoops, G.I., Tursina, T., 1985. Handbook for Soil Thin Section Description. Waine Research Publishers,
+Wolverhampton.
+Clark, J.D., Harris, W.K., 1985. Fire and its roles in early hominid lifeways.
+The African Archaeological Review 3, 3e27.
+Cohen-Ofri, I., Weiner, L., Boaretto, E., Mintz, G., Weiner, S., 2006. Modern
+and fossil charcoal: aspects of structure and diagenesis. J. Archaeol. Sci.
+33, 428e439.
+Courty, M.A., Goldberg, P., Macphail, R., 1989. Soils and Micromorphology
+in Archaeology. Cambridge University Press, Cambridge.
+Gamble, C., 1999. The Palaeolithic Societies of Europe. Cambridge Universtiy
+Press, Cambridge.
+Gillieson, D., 1996. Caves. Processes, Development, Management. Blackwell,
+London.
+Goldberg, P., Bar-Yosef, O., 1998. Site formation processes in Kebara and Hayonim caves and their significance in Levantine prehistoric caves. In:
+Akazawa, T., Aoki, K., Bar-Yosef, O. (Eds.), Neandertals and Modern Humans
+in Western Asia. Kluwer Academic Publishers, New York, pp. 107e125.
+Goldberg, P., Sherwood, S.C., 2006. Deciphering human prehistory through
+the geoarchaeological study of cave sediments. Evol. Anthropol. 15,
+20e36.
+
+Goldberg, P., Weiner, S., Bar-Yosef, O., Xu, Q., Liu, J., 2001. Site formation
+processes at Zhoukoudian, China. J. Hum. Evol. 41, 483e530.
+Gopher, A., Barkai, R., Shimelmitz, R., Khalaily, M., Lemorini, C.,
+Heshkovitz, I., et al., 2005. Qesem Cave: an Amudian site in central Israel.
+J. Isr. Prehist. Soc. 35, 69e92.
+Goren, Y., Ayalon, A., Bar-Matthews, M., Schilman, B., 2005. Authenticity
+examination of two Iron Age ostraca from the Moussaieff Collection.
+Isr. Exploration J. 55, 21e34.
+Goren-Inbar, N., Alperson, N., Kislev, M.E., Simchoni, O., Melamed, Y., BenNun, A., Werker, E., 2004. Evidence of hominid control of fire at Gesher
+Benot Ya’aqov, Israel. Science 304, 725e727.
+Gowlett, J.A.J., 1999. Lower and middle Pleistocene archaeology of the Baringo Basin. In: Andrews, P., Banham, P. (Eds.), Late Cenozoic Environments and Hominid Evolution: A Tribute to Bill Bishop. Geological
+Society, London, pp. 123e141.
+Gowlett, J.A.J., 2006. The early settlement of northern Europe: fire history in the
+context of climate change and the social brain. C.R. Palevol 5, 299e310.
+Henshilwood, C.S., Marean, C.W., 2003. The origins of modern human behavior: Critique of the models and their test implications. Curr. Anthropol. 44,
+627e651.
+James, R., 1989. Hominid use of fire in the lower and middle Pleistocene. Curr.
+Anthropol. 30, 1e26.
+Jelinek, A.J., 1990. The Amudian in the context of the Mugharan Tradition at
+the Tabun Cave (Mount Carmel), Israel. In: Mellars, P. (Ed.), The Emergence of Modern Humans. Cornell University Press, Ithaca, pp. 81e90.
+Karkanas, P., Bar-Yosef, O., Goldberg, P., Weiner, S., 2000. Diagenesis in prehistoric caves: The use of minerals that form in situ to assess the completeness of the archaeological record. J. Archaeol. Sci. 27, 915e929.
+Karkanas, P., Koumouzelis, M., Kozlowski, J.K., Sitlivy, V., Sobczyk, K.,
+Berna, F., Weiner, S., 2004. The earliest evidence for clay hearths: Aurignacian features in Klisoura Cave 1, southern Greece. Antiquity 78,
+513e525.
+Lemorini, C., Gopher, A., Shimelmitz, R., Stiner, M., Barkai, R., 2006. Usewear analysis of an Amudian laminar assemblage from Acheuleo-Yabrudian Qesem Cave, Israel. J. Archaeol. Sci. 33, 921e934.
+Madella, M., Jones, M.K., Goldberg, P., Goren, Y., Hovers, E., 2002. The exploitation of plant resources by Neanderthals in Amud Cave (Israel): The
+evidence from phytolith studies. J. Archaeol. Sci. 29, 703e719.
+Macphail, R.I., Goldberg, P., Linderholm, J., 2000. Geoarchaeological investigation of sediments from Gorham’s and Vanguard caves, Gibraltar: Microstratigraphical (soil micromorphological and chemical) signatures. In:
+Stringer, C.B., Barton, R.N.E., Finlayson, J.C. (Eds.), Neanderthals on
+the Edge. Oxbow Books, Oxford, pp. 183e200.
+McBrearty, S., Brooks, S.A., 2000. The revolution that wasn’t: A new interpretation of the origin of modern human behavior. J. Hum. Evol. 39, 453e563.
+Meignen, L., 1993. L’ abri des Canalettes. Un habitat moustérien sur les
+grands Causses (Nant Aveyron). Fouilles 1980e1986. Monographie du
+CRA, 10. Editions du CNRS, Paris.
+
+212
+
+P. Karkanas et al. / Journal of Human Evolution 53 (2007) 197e212
+
+Meignen, L., Bar-Yosef, O., Goldberg, P., Weiner, S., 2001. Le feu au Paleolithique moyen: recherches sur les structures de combustion et le statut des
+foyers. L’exemple du Proche-Orient. Paleorient 26, 9e22.
+Meignen, L., Bar-Yosef, O., Speth, J.D., Stiner, M.C., 2006. Middle Paleolithic settlement patterns in the Levant. In: Hovers, E., Kuhn, S.L.
+(Eds.), Transitions before the Transition: Evolution and Stability in
+the Middle Paleolithic and Middle Stone Age. Springer, New York,
+pp. 149e169.
+Moriarty, K.C., McCulloch, M.T., Wells, R.T., McDowell, M.C., 2000.
+Mid-Pleistocene cave fills, megafauna remains and climate change at Naracoorte, South Australia: towards a predictive model using U-Th dating
+speleothems. Palaeogeogr. Palaeoclimatol. Palaeoecol. 159, 113e143.
+Preece, R.C., Gowlett, J.A.J., Parfitt, S.A., Bridgland, D.R., Lewis, S.G., 2006.
+Humans in the Hoxnian: habitat, context and fire use at Beeches Pit, West
+Stow, Suffolk, UK. J. Quaternary Sci. 21, 485e496.
+Rigaud, J.P., Simek, J.F., Ge, T., 1995. Mousterian fires from Grotte XVI
+(Dordogne, France). Antiquity 69, 902e912.
+Rolland, N., 2004. Was the emergence of home bases and domestic fire a punctuated event? A review of the middle Pleistocene record in Eurasia. Asian
+Perspect. 43, 248e280.
+Schiegl, S., Goldberg, P., Bar-Yosef, O., Weiner, S., 1996. Ash deposits in
+Hayonim and Kebara caves, Israel: macroscopic, microscopic and mineralogical observations, and their archaeological implications. J. Archaeol.
+Sci. 23, 763e781.
+Schiegl, S., Goldberg, P., Pfrezschnetz, H.-U., Conard, N.J., 2003. Palaeolithic
+burnt bone horizons from the Swabian Jura: Distinguishing between in situ
+fireplaces and dumping areas. Geoarchaeology 18, 541e565.
+Shahack-Gross, R., Bar-Yosef, O., Weiner, S., 1997. Black-coloured bones in
+Haynom Cave, Israel: differentiating between burning and oxide staining.
+J. Archaeol. Sci. 24, 439e446.
+Shahack-Gross, R., Berna, F., Karkanas, P., Weiner, S., 2004. Bat guano and
+preservation of archaeological remains in cave sites. J. Archaeol. Sci.
+31, 1259e1272.
+Shahack-Gross, R., Ayalon, A., Goldberg, P., Goren, Y., Ofek, B., Rabinovich,
+R. Hovers, E. Formation processes of cemented features in karstic cave
+
+sites revealed using oxygen and carbon isotopic analyses: a case study at
+Middle Paleolithic Amud Cave, Israel. Geoarchaeology, in press.
+Shipman, P., Foster, G., Schoeninger, M., 1984. Burnt bones and teeth: An
+experimental study of color, morphology, crystal structure and shrinkage.
+J. Archaeol. Sci. 11, 307e325.
+Solecki, R.S., 1995. The cultural significance of the fire hearths in the Middle
+Paleolithic of Shanidar Cave, Iraq. In: Johnson, E. (Ed.), Ancient People
+and Landscapes. Museum of Texas Tech University, Lubbock, pp. 51e63.
+Stiner, M.C., 2002. Carnivory, coevolution, and the geographic spread of the
+genus Homo. J. Archaeol. Res. 10, 1e63.
+Stiner, M.C., Kuhn, S.L., Weiner, S., Bar-Yosef, O., 1995. Differential burning,
+recrystallization, and fragmentation of archaeological bone. J. Archaeol.
+Sci. 22, 223e237.
+Tsartsidou, G., Lev-Yadun, S., Albert, R.-M., Rosen, A.M., Efstratiou, N.,
+Weiner, S., 2007. The phytolith archaeological record: strengths and weaknesses based on a quantitative modern reference collection from Greece.
+J. Archaeol. Sci. 34, 1262e1275.
+Tsatskin, A., 2000. Acheulo-Yabrudian sediments of Tabun: a view from the
+microscope. In: Ronen, A., Weinstein-Evron, M. (Eds.), Toward Modern
+Humans: Yabrudian and Micoquian, 400e50 kyears ago. Proceedings of
+a Congress Held at the University of Haifa November 3e9 1996, BAR
+International Series Vol. S850. Archaeopress, Oxford, pp. 133e143.
+Van Strydonck, M.J.Y., Dupas, M., Keppens, E., 1989. Isotopic fractionation
+of oxygen and carbon in lime mortar under natural environmental conditions. Radiocarbon 31, 610e618.
+Weiner, S., Bar-Yosef, O., 1990. States of preservation of bones from prehistoric sites in the Near East: A survey. J. Archaeol. Sci. 17, 187e196.
+Weiner, S., Goldberg, P., Bar-Yosef, O., 1993. Bone preservation in Kebara
+Cave, Israel using on-site Fourier transform infrared spectrometry.
+J. Archaeol. Sci. 20, 613e627.
+Weiner, S., Xu, Q., Goldberg, P., Liu, J., Bar-Yosef, O., 1998. Evidence for the
+use of fire at Zhoukoudian, China. Science 281, 251e253.
+Wrangham, R.W., Jones, J.H., Laden, G., Pilbeam, D., Conklin-Brittain, N.,
+1999. The raw and the stolen: cooking and the ecology of human origins.
+Curr. Anthropol. 40, 567e594.
+
+

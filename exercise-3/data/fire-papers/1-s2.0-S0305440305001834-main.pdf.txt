@@ -1,0 +1,1472 @@
+Journal of Archaeological Science 33 (2006) 428e439
+http://www.elsevier.com/locate/jas
+
+Modern and fossil charcoal: aspects of structure and diagenesis
+Ilit Cohen-Ofri a,*, Lev Weiner b, Elisabetta Boaretto c, Genia Mintz c, Steve Weiner a
+a
+
+Department of Structural Biology, Weizmann Institute of Science, Rehovot 76100, Israel
+Chemical Research Support Unit, Weizmann Institute of Science, Rehovot 76100, Israel
+c
+Department of Environmental Science and Energy Research, Radiocarbon Dating Laboratory, Weizmann Institute of Science, Rehovot 76100, Israel
+b
+
+Received 6 June 2005; received in revised form 11 August 2005; accepted 24 August 2005
+
+Abstract
+The structures and compositions of modern and fossil charcoal samples were compared in order to evaluate charcoal degradation processes in
+archaeological sites. Modern charcoal samples produced in campfires contain two major phases: graphite-like microcrystallites and a nonorganized phase. These phases create a mosaic-like structure with differing relative proportions depending on the taxonomic source of the
+wood used. Fossil charcoal samples (Tel Dor, Israel: 3000 years BP and Kebara Cave, Israel: 40,000 years BP) also contained the graphitelike microcrystallites and the non-organized phases, but were clearly altered compared to modern charcoal. The graphite-like phase of the fossil
+charcoal has much higher electrical resistivity, and its ESR properties show that it has markedly altered surface electronic states. Infrared spectra
+show the presence of additional carboxylate groups. Oxidation has therefore altered the structure. This appears to be a ‘‘self-humification’’
+process that affects the graphitic component, and probably the non-organized phase as well.
+Ó 2005 Elsevier Ltd. All rights reserved.
+Keywords: Charcoal; Graphite-like microcrystallites; Degradation; Humic acid; Radiocarbon datings
+
+1. Introduction
+Organic materials preserved in an archeological site can
+provide invaluable information on the diet, bedding, housing
+materials and fuels used by the occupants of the site. Organic
+materials are also invaluable for radiocarbon dating. Most organic materials are, however, readily degraded by bacteria and
+fungi, and are therefore not commonly preserved [10]. Only
+charred organic materials tend to be preserved [18] and are
+commonly found in many, but significantly not in all archeological sites. Charred materials are thus important components
+of archaeological sites. We refer here to charcoal preserved in
+archaeological sites as fossil charcoal.
+Charcoal is one form of charred material. It is a product of
+wood burning either in natural fires, where it can provide information on fire frequencies, that is in turn related to climate, or
+
+* Corresponding author. Tel.: C972 8 9342547; fax: C972 8 9344136.
+E-mail address: ilit.cohen-ofri@weizmann.ac.il (I. Cohen-Ofri).
+0305-4403/$ - see front matter Ó 2005 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2005.08.008
+
+on human activities [28]. Its presence in archeological sites in
+association with hearths and other burned materials may be an
+indication of the deliberate use of fire by humans [26]. Some of
+the oldest charcoal thought to be produced by humans dates
+back to one and a half million years ago [5]. In sites younger
+than about 400,000 years it can generally be assumed that
+fire was used and hence the absence of charcoal implies that
+the manner in which the fire was used did not produce charcoal
+and/or the charcoal was not preserved. In much younger sites,
+charcoal may also be the product of various pyrotechnologies
+such as metal, plaster, ceramic and glass production.
+Most of our knowledge of the structure of charred materials
+(termed char) is due to research on activated carbon for commercial use. These materials are generally produced in ovens
+at temperatures above 1000  C, which is significantly higher
+than the average temperature of a campfire (around 800e
+900  C) [20]. In activated carbons the graphite-like layers
+are referred to as the organized phase. The char also contains
+a non-organized phase [13] composed of complex aromatice
+aliphatic structures [4]. Rosalind Franklin [13] was one of
+
+I. Cohen-Ofri et al. / Journal of Archaeological Science 33 (2006) 428e439
+
+the pioneers of this area of research. She used X-ray diffraction to propose a general structure for char (Fig. 1) composed
+of two phases; a graphite-like phase and a non-organized
+phase. We use her terminology [13].
+In contrast to the study of carbon black produced in ovens
+at high temperatures, surprisingly little is known about the
+structure of modern charcoal produced in natural and man
+made fires [28,7], and almost nothing about the diagenetic
+processes that affect charcoal once it is buried in sediments.
+Charcoal is a product of wood burning in an oxygen poor atmosphere. Significant chemical changes take place in the plant
+material during the charring process [31]. As the temperature
+increases the major structural components of the wood (hemicellulose, cellulose and lignin) break down while water, CO,
+CO2 and other gases are released [31]. The evaporation of
+these gases results in the condensation of the carbon skeleton
+and aromatization, which leads to the formation of graphitelike layers [23]. It is known that organic compounds with
+higher proportions of aromatic compounds typically have
+higher char yields [6]. This implies that the graphite-like
+layers will be formed in larger amounts.
+Unlike the high temperature charred carbons that are produced in a controlled environment (temperature and pressure),
+charcoal produced in open fires is very heterogeneous. The
+charring process is not uniform, and even in a single fire a
+variety of charcoal types from barely charred to completely
+charred, are formed. The difference in tree type and hence
+burning conditions, introduces an additional complication.
+Charcoal characterization is thus a difficult task.
+Little is known about charcoal preservation over time and
+the causes of its degradation in archeological sites. Charcoal
+is usually regarded as a relatively inert substance that is not
+altered by chemical or biochemical processes [22]. A few
+studies have shown that this may not be the case. Frink [14]
+showed that the oxidizable carbon (which means the carbons
+that undergo oxidation with K2Cr2O7 e most probably what
+we refer to as the non-organized phase) present in charcoal
+samples from an archeological site in New England is variable, and concluded that it had undergone diagenetic changes.
+Bird et al. [3] demonstrated that the charcoal in Pleistocene
+strata from an archeological site in Australia (Nauwalabila)
+
+429
+
+was altered. This alteration was viewed in the SEM where
+the altered charcoals have a degraded internal structure compared to the preserved samples. Their carbon contents also
+decreased.
+One important complication when assessing charcoal degradation is the presence of humic substances. Fossil charcoal
+is known to contain a certain amount of humic substances.
+They are extracted during the preparation of charcoal for radiocarbon dating (the AcideAlkalieAcid (AAA) treatment
+[24]). These structurally variable aromatic substances are
+thought to be the degradation products of plants [8] and are
+believed to penetrate into the charcoal from the surroundings.
+The general opinion is that humic acids cannot be described in
+well defined chemical terms. They contain some common molecular blocks [34] that include a nucleus of phenolic groups to
+which are attached amino acids and aliphatic carbohydrate
+groups. Widayati and Tan [34] used atomic force microscopy
+(AFM) to identify hexagonal structured benzene rings with
+side chains attached to these rings composed of carboxyl
+and carbonyl groups. Yang and Wang [35] used Raman spectroscopy to show that humic substances from different sources
+also contain graphite-like layers. Thus soil humic substances
+may in fact closely resemble charcoal in terms of the presence
+of graphite-like material and non-organized domains in both
+materials.
+The aim of this study is to improve our understanding of
+modern charcoal structure, and then compare it to fossil charcoal in order to identify diagenetic processes that alter charcoal with time. The approach used is to first characterize
+several modern charcoal samples, each produced in a campfire
+using fresh wood and bark from a specific tree species. These
+charcoal samples were characterized structurally using a repertoire of techniques that includes transmission electron microscopy, X-ray diffraction, Raman and infrared spectroscopy,
+electron spin resonance (ESR), resistivity and TGA/DTA.
+The same methods were then used to characterize fossil charcoal samples from two archaeological sites and by comparing
+the modern and fossil charcoal structures, determine the nature
+of some of the diagenetic degradation processes.
+2. Materials and methods
+2.1. Materials
+2.1.1. Modern charcoal sample preparation
+A series of modern charcoal samples (Table 1) of known
+taxonomic origin were produced in open fires on a clean rocky
+Table 1
+Charcoal samples prepared from different tree species and the maximum
+temperature of the fire measured using a thermocouple
+
+Fig. 1. The proposed structure of carbonized materials showing ordered graphitic structures and a non-organized phase. Adapted from Franklin [13].
+
+No.
+
+Tree species
+
+Max. temp. (  C)
+
+1.
+2.
+3.
+4.
+
+Oak e Quercus caliprinos
+Carob e Ceratonia siliqua
+Bay e Laurus nobilis
+Olive e Olea europaea
+
+950
+938
+850
+937
+
+I. Cohen-Ofri et al. / Journal of Archaeological Science 33 (2006) 428e439
+
+substrate. They were treated with 1 N HCl in order to remove
+the remaining ash, washed twice with deionized water and
+centrifuged at 3000 rpm and finally dried in an oven at
+60  C. The samples were homogenized by gently crushing
+and grinding in an agate mortar and pestle, and then sieved
+to !250 mm. These samples were used as the standards for
+the characterization of modern charcoal. See Schiegl et al.
+[25] for details.
+2.1.2. Fossil charcoal sample preparation
+The samples are from the Iron Age strata of Tel Dor, Israel
+(3000 BP) [32] and the Mousterian and early Upper Paleolithic
+strata of Kebara Cave, Israel (50,000e40,000 BP) [2]. The latter are from the southern part of the cave. These represent two
+extreme archaeological environments of preservation. Tel Dor
+sediments almost always contain calcite, which is indicative of
+an alkaline environment, whereas in Kebara Cave only the
+sediments in the northern part of the cave contain calcite.
+The sediments in the center and southern parts contain authigenic phosphate minerals that indicate that the paleo-pH was
+once around 4e5 [24].
+Each sample is a single piece of charcoal. The samples
+were homogenized by gently crushing and grinding in an agate
+mortar and pestle, and then sieved to less then 250 mm. The
+samples were divided into two. One part was left as is and
+the other was treated with 1 N HCl for half an hour in order
+to dissolve associated minerals such as calcite. The treated
+samples were cleaned with deionized water and dried. This
+was repeated and the weight loss was noted.
+2.2. Methods
+2.2.1. Transmission electron microscopy (TEM)
+The charcoal samples were sonicated using a powerful
+instrument (Heat Systems, Farmingdale, NY). The samples
+were sonicated while floating in a cup horn to avoid heating
+for 3 min in ethanol. After an additional 2 min to allow for
+the heavy particles to settle, a drop of the supernatant was
+placed on a holey carbon coated TEM grid. The particles
+were examined using a Philips CM120 Super Twin (120 kV)
+and Philips-FEI Tecnai F30 (300 keV-FEG) microscope.
+2.2.2. Raman spectroscopy
+Measurements were made in air at room temperature using
+a Renishaw 2000 Raman Imaging Microscope through a 50!
+lens without a polarizer. The excitation at 632 nm was produced by a 25 mw HeNe laser. Each measurement was made
+18 times at random locations on a pellet of the powdered charcoal, and the maximum peak height and peak position were
+determined and averaged.
+2.2.3. Fourier transform infrared spectroscopy (FTIR)
+FTIR was performed using a Midac Corporation (Costa
+Mesa, CA, USA) instrument. The spectra were obtained by
+mixing about 0.1 mg of sample with about 80 mg of KBr.
+Spectra were collected at 4 cmÿ1 resolution.
+
+2.2.4. X-ray diffractometry
+X-ray powder diffraction patterns were collected using
+a Rigaku Rotoflex-RU 200 B automatic diffractometer using
+Cu Ka radiation. The sample was mounted on a germanium
+crystal to minimize baseline rise.
+
+2.2.5. Thermogravimetric and differential thermal
+analysis (TGA & DTA)
+Five milligrams of each charcoal sample was placed in
+a platinum pan and heated to 1000  C together with an empty
+reference pan. The heating was performed in an air atmosphere, with a heating rate of 20  C/min using a Shimadzu
+DTG-50 instrument equipped with a microbalance. The baseline spectrum, obtained under the same conditions with two
+empty platinum pans, was subtracted from the measurement
+spectrum. The weight loss and the heating temperatures
+were recorded
+
+2.2.6. Electrical resistivity
+The measurements were made using a Teflon cylindrical
+cell with an outer diameter of 40 ! 20 mm and an inner diameter of 4 mm, and electric contacts made of copper. The electrical resistivity was measured using the two-lead technique
+(in which the voltage drop is measured by the same probe
+that produces the current excitation), and the measuring instrument was a digital multimeter. The charcoal powder was compressed using a miniature compression device (modified
+Minimat (Rheometrics, USA)) and the electric resistivity
+was measured as a function of the force applied to the sample
+(F ) and the compression of the cell (l ). An example for one
+charcoal sample is shown in Fig. 2. Since the resistance R
+(U) is R Z rD/A, (when D is the length (m), A is the crosssection area (m2) and r is the electric resistivity (Uÿ1 mÿ1))
+and l and R are measured, we calculate the electric resistivity
+(r) from the slope of the curve where the resistance is linear
+(between 115 and 150 mÿ1) (Fig. 3). This is the zone where
+the charcoal particles interact with each other and not with air.
+3500
+3000
+2500
+
+R (ohm)
+
+430
+
+2000
+1500
+1000
+500
+0
+-100
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+Force (N)
+Fig. 2. Electrical resistivity of modern charcoal (Ceratonia) in ohms as a function of force in Newtons applied to the powdered sample.
+
+I. Cohen-Ofri et al. / Journal of Archaeological Science 33 (2006) 428e439
+
+2.2.7. Electron spin resonance (ESR)
+We used 20 mg of sample for a measurement. For the
+vacuum experiments the sample was first placed in a vacuum
+of around 2 ! 10ÿ2 torr, sealed and measured. ESR measurements were performed on a Bruker ER 200 D-SRC instrument.
+The temperature was adjusted by a temperature unit control
+(Eurotherm, B-VT 2000) with an accuracy of G1 K. A solid
+sample of CuSO4 ! 5H2O of known weight and number of
+spins/gr was used as a standard for estimation of concentration
+of paramagnetic centers by double integration of ESR signals.
+The accuracy of integration was 20%.
+
+3. Results
+We used a series of analytical techniques to characterize
+modern and fossil charcoal structures. The transmission electron microscope provides direct images of the structure at
+very high resolution. X-ray diffraction and electron spin resonance also provide information on charcoal structure. Raman
+spectroscopy, infrared spectroscopy, electrical resistivity and
+differential thermal analysis are more quantitative, but are
+also more difficult to interpret structurally. Tables 3 and 4
+show the results for the modern and fossil charcoal samples
+using TGA/DTA, resistivity and ESR.
+
+431
+
+3.2. Raman spectroscopy
+Fig. 5 shows a characteristic spectrum of charcoal with
+a peak characteristic of graphite at 1575 cmÿ1 (the G peak)
+and a peak at 1355 cmÿ1 which is known as the D peak (D
+for disorder). The ratio between the two peaks has been
+used to estimate the domain size of the graphitic areas [33].
+Using this formula we determined that the average size of
+the crystallites is around 4.5 nm (Table 2) for the 4 modern
+charcoal samples. This is in agreement with the sizes seen
+on the TEM images. The width and peak positions of the 4 different charcoal samples vary (Table 2) indicating differences
+in their structures. The fossil charcoal Raman spectra
+(Fig. 6) have high levels of fluorescence (before and after
+HCl treatment), as indicated by the intensity values. The G
+and D peaks are both usually present, but their shapes are
+somehow influenced by the extent of fluorescence. See also
+Alon et al. [1].
+3.3. X-ray diffraction
+Fig. 7 is a representative powder diffraction pattern of
+a modern charcoal sample. It contains only one broad peak
+centered around the strongest graphite reflection. This confirms that the graphite crystallites are very small. It was not
+possible to estimate their average size from the diffraction
+pattern using the Scherer formula because the signal to noise
+ratio was too small.
+
+3.1. Transmission electron microscopy (TEM)
+TEM images (Fig. 4A, B) show the basic structural motif of
+modern charcoal samples produced in an open fire. The charcoal is clearly composed of microcrystallites revealed by their
+lattice fringes that have spacings similar to graphite (lattice
+spacing of 2.5 G 0.3 Å and also an interlayer spacing of
+3.5 G 0.2 Å). These ordered domains are surrounded by
+non-organized organic material. The graphite domains and
+the non-organized domains are also present in the fossil charcoal sample (Fig. 4C, D).
+350
+300
+
+R (ohm)
+
+250
+200
+150
+100
+50
+0
+100
+
+150
+
+200
+
+250
+
+300
+
+D/A (m-1)
+Fig. 3. Electrical resistivity of modern charcoal (Ceratonia) in ohms as a function of length in 1 mÿ1. The linear area (between 115 and 150 mÿ1) is used for
+the determination of the resistivity.
+
+3.4. Thermogravimetric and differential thermal
+analysis (TGA/DTA)
+Fig. 8 is a representative TGA/DTA plot of a modern charcoal sample. The TGA plot shows that the total weight loss
+during pyrolysis is above 95%. The DTA plot shows that the
+major phase change (as reflected by the apex of the peak) occurs around 500  C. DTA analysis of pure geological graphite
+(from Eckert Mineral Research) shows that it decomposes
+around 800e900  C based on the location of the major peak
+(not shown). We note that in the modern charcoal samples
+there is no phase change in this temperature range. We assume
+that the small size of the charcoal graphite-like crystals reduces the pyrolysis phase change temperature. The 4 modern
+charcoal samples differ with respect to their DTA maximum
+temperatures (Table 3). These differences presumably reflect
+structural differences in the graphite-like crystals. The fossil
+charcoal samples from Tel Dor undergo a phase change in
+the same temperature range as the modern samples, and they
+also vary from one sample to another (Table 4). This is true
+for the fossil charcoal before and after HCl treatment although
+the temperatures of the major phase change after HCl treatment are lower. They are similar to or lower than the lower
+DTA temperatures of a modern charcoal sample (Olea). The
+weight loss during pyrolysis of the fossil charcoal samples is
+less than that of the modern samples, probably due to a higher
+proportion of contaminating sediment before HCl treatment.
+
+I. Cohen-Ofri et al. / Journal of Archaeological Science 33 (2006) 428e439
+
+432
+
+Fig. 4. High resolution TEM images of charcoal showing the lattice fringes of the crystalline graphite domains surrounded by non-organized material. A, B e
+modern charcoal of Quercus caliprinos. C, D e fossil charcoal Quercus (scale bar: 5 nm). Black arrows indicate the graphite-like microcrystallite domains
+and the white arrows are the non-organized phases.
+
+After the treatment the weight loss is the same as in the modern charcoal.
+The relative proportions of the non-organized material can
+be roughly estimated by the weight loss in the temperature
+range between 200 and 450  C assuming that the graphite
+300
+
+G
+D
+
+Intensity
+
+250
+
+200
+
+150
+
+100
+
+50
+200
+
+400
+
+600
+
+800 1000 1200 1400 1600 1800 2000 2200
+
+Raman cm-1
+Fig. 5. Raman spectrum of a modern charcoal sample (Olea). The 2 distinct
+peaks ascribed to graphite (G) at 1590 cmÿ1 and disordered (D) at
+1355 cmÿ1 are shown.
+
+component burns at the higher temperatures. In modern charcoal this is around 20% of the total weight of the charcoal. In
+the fossil charcoal samples it is up to 30%. This indicates an
+increase in the amount of disordered organics in the fossil
+charcoal, which is consistent with the DTA results.
+3.5. Electrical resistivity
+Electrical resistivity can be indicative of the relative
+amounts of microcrystalline graphite-like components in the
+charcoal, as graphite is a conductive material. Note that resistivity is the inverse of conductivity. The non-organized organic
+component is probably less conductive or is a non-conductive
+phase, whose presence reduces the conductivity. Thus the
+more conductive the charcoal, the higher the amount of microcrystalline graphite. The range of the electrical resistivity
+values obtained for the 4 modern charcoal samples is less
+then 1r (Um), meaning that they are extremely conductive
+(Table 3). Fossil charcoal, on the other hand, is an insulator
+as its resistivity is so high that it hardly conducts (Table 4).
+Surprisingly even after the removal of the calcite and other
+carbonates by the HCl treatment, the resistivity did not
+decrease, but sometimes even increased. This shows that
+
+I. Cohen-Ofri et al. / Journal of Archaeological Science 33 (2006) 428e439
+
+433
+
+Table 2
+Raman spectroscopy analysis showing the calculated dimension of the graphitic microcrystallites La ((ID/IG) Z 1/(La)) and the widths and positions of the
+D and G peaks
+Sample
+
+La (nm)
+
+Width e D (cmÿ1)
+
+Width e G (cmÿ1)
+
+Peak D (cmÿ1)
+
+Peak G (cmÿ1)
+
+Olea
+Ceratonia
+Laurus
+Quercus
+
+4.9 G 0.6
+4.6 G 0.4
+4.6 G 0.4
+4.3 G 0.2
+
+269.1 G 29.0
+245.4 G 15.9
+239.0 G 12.0
+222.5 G 13.8
+
+72.6 G 5.1
+71.5 G 3.4
+69.9 G 3.9
+67.0 G 2.4
+
+1300.0 G 30.9
+1301.5 G 6.9
+1304.2 G 6.6
+1318.8 G 5.7
+
+1582.0 G 17.3
+1583.4 G 4.7
+1584.0 G 3.8
+1595.0 G 3.3
+
+significant changes have occurred in the fossil charcoal structure compared to modern charcoal with respect to the conducting capability of the graphite component.
+3.6. Fourier transform infrared spectroscopy (FTIR)
+The FTIR spectra of the modern charcoal samples are all
+very similar (Fig. 9). In general modern charcoal absorbs
+weakly in the infrared range. There is one broad peak at
+1578 cmÿ1 that is ascribed to the aromatic CaC ring stretching [23]. Comparing the spectra we obtained to those of Nishimiya et al. [23], we conclude that our samples formed in the
+temperature range between 600 and 800  C. This is consistent
+with the actual temperatures measured in open fires [20]. What
+remains of the non-organized fraction is mostly aromatic
+groups, which were probably dehydrated and deoxidized
+[23]. The fossil charcoal spectra (Fig. 10) absorb much more
+in the infrared range, and have well defined peaks that are ascribed to charged carboxylate groups (COOÿ at 1597 cmÿ1
+and 1400 cmÿ1). After treatment with HCl (Fig. 11) the
+1597 cmÿ1 peak divides into two peaks at 1618 cmÿ1 and
+a COOH peak at 1710 cmÿ1.
+3.7. Electron spin resonance (ESR)
+ESR detects the presence of unpaired electrons (paramagnetic centers), that in charcoal are associated mainly with
+organic molecules rather than transition metal ions. Unpaired
+electrons associated with organic molecules are called free
+
+radicals [21,27]. ESR can thus provide detailed information
+on the atomic structure of such materials, which includes
+graphite [30]. The presence of unpaired electrons in natural
+charcoals is well-documented [17,7]. It is thought that free
+radicals in charcoals are produced as a result of thermal damage of normal carbonehydrogen bonds during the formation
+of condensed carbon rings [17]. During this process the unpaired electrons are stabilized by the cyclic carbon p-system.
+Fig. 12a shows the signals obtained for the 4 modern charcoal samples after the air was removed by placing the samples
+in a vacuum. This treatment removes the oxygen and reduces
+its magnetic (dipoleedipole) influence on the paramagnetic
+centers of the charcoal. The 4 modern charcoal samples all
+have basically the same shaped signal, but the extent of broadening varies. The Ceratonia sample produced the narrowest
+signal and the Quercus sample the broadest. Emmerich et al.
+[11] have shown that this broadening can be attributed to the
+presence of narrow and a broad components in the charred
+samples they examined. The signal that contributes mainly
+to the narrow component is affected by changing the measurement temperature, whereas the broad signal is not affected.
+This means that the narrow component contribution behaves
+in a CurieeWeiss manner (Figs. 12b and 13). This behavior
+is characteristic of free radicals i.e. unpaired electrons. The
+broad line component is characteristic of free charge carriers
+(near Pauli paramagnetism), which are believed to be localized
+on the graphitic microcrystallites [11]. We confirmed the same
+behavior for the Quercus and the Ceratonia modern charcoals.
+A well defined parameter of an ESR spectrum is the socalled g-value, which is dependent on the atomic and crystallographic system in which the electron is located. It is
+
+4500
+
+50
+1605.5
+
+3500
+3000
+2500
+200
+
+40
+
+Intensity (counts)
+
+Intensity
+
+4000
+
+400
+
+600
+
+800 1000 1200 1400 1600 1800 2000 2200
+
+Raman cm-1
+Fig. 6. Raman spectrum of a fossil charcoal sample (Kebara Cave). The G
+peak at 1605.5 cmÿ1 is present, but the D peak at 1355 cmÿ1 is not. Note
+the very high intensity due to fluorescence as compared to the modern charcoal
+sample (Fig. 5).
+
+30
+20
+10
+0
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+2-Theta (°)
+Fig. 7. Powder X-ray diffraction pattern of modern charcoal (Ceratonia). The
+broad peak indicates the presence of very small crystals.
+
+I. Cohen-Ofri et al. / Journal of Archaeological Science 33 (2006) 428e439
+
+434
+
+250
+
+6
+
+200
+150
+100
+2
+
+50
+
+DTA (uV)
+
+TGA (mg)
+
+4
+
+0
+0
+-50
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+Temp (°C)
+Fig. 8. TGA/DTA plots of modern charcoal (Ceratonia) heated to 1000  C
+(solid line: TGA, dashed line: DTA).
+
+therefore characteristic of a particular atomic site. Schurr et al.
+[27] showed that in pyrolysed plants the g-value is related to
+the remaining oxygen, and as the pyrolysis temperature increases, the g-value decreases and approaches g0. The g0 value
+is that of a free electron and has a value of 2.0023. Table 3
+shows the g-values for the 4 modern charcoal samples. These
+values have small but significant differences. As the values are
+close to the value of a free electron, we conclude that the signal in modern charcoal is mainly derived from the free electrons associated with aromatic p radicals in both phases
+[11]. We also conclude that the Quercus sample was formed
+at the highest temperature as it has the largest amount of
+free charge carriers. The latter, according to Singer and Wagoner [30], are located only in the graphite-like microcrystallites. The concentration of the paramagnetic centers was
+found to be 1018 spin/mg (Table 3). We also examined the dependence of the ESR signal intensity on microwave power
+(saturation curves). The modern sample did not reach saturation (Fig. 14). This can be explained by a high local concentration of paramagnetic centers, that makes spin-lattice
+relaxation time (T1) shorter. In general, the ESR characteristics
+of modern charcoal are dominated by the behavior of free
+electrons associated with both the graphite and the non-organized phases, and free charge carriers associated only with
+the graphite-like microcrystallites.
+The fossil charcoal ESR signal after treatment in vacuum
+and HCl is broad, DH Z 8G (Fig. 15). The concentration of
+
+the paramagnetic centers is more than 2 orders of magnitude
+less than the concentration in modern charcoal (1016 spins/
+gr) before treatment with HCl and 1 order of magnitude less
+(1017 spins/gr) after treatment with HCl. The fossil charcoal
+g-value (w2.0034) is higher than that of modern charcoal
+(w2.0023) (Table 4). We note that this difference in g-values
+is significant and is indicative of different chemical environments. This implies that some of the radicals are not located
+in an aromatic environment since their g-values no longer reflect the environment of free radicals. The latter is stabilized in
+an aromatic environment. The fossil charcoal does saturate
+(Fig. 16) thus revealing a completely different behavior as
+compared to modern charcoal. This means that these samples
+have a relatively long relaxation time (T1). This behavior is
+characteristic of ‘‘diluted’’ spin systems which couple weakly
+with the surroundings. Clearly the atomic structure of the graphitic microcrystallites has been radically altered in the fossil
+charcoal due to some diagenetic processes.
+4. Discussion
+Both the modern and the fossil charcoal samples comprise
+two different phases; a crystalline phase composed of graphite-like microcrystals, and a non-organized phase. Despite
+this, the analyses of modern and fossil charcoals reveal differences, some of which are most striking. Here we first discuss
+modern charcoal structure and then fossil charcoal structure,
+and by comparing the two, we identify some of the prominent
+diagenetic processes that affect fossil charcoal.
+4.1. The influence of HCl treatment
+The treatment with HCl removes the carbonates (mostly
+ash calcite) and makes possible the examination of the charcoal alone. This treatment in modern charcoal indeed removed
+only calcite (as shown by FTIR). In fossil charcoal, however,
+the HCl treatment may have an additional, as yet not understood effect that results in the release into solution of some
+of the degradation products.
+4.2. Modern charcoal structure
+The TEM images clearly show that Franklin’s model [13]
+for charcoal formed at high temperatures (Fig. 1) is basically
+applicable to charcoals formed in natural fires. The major difference is that the proportion of the non-organized phase in the
+
+Table 3
+Analyses of the 4 modern charcoal samples using electronic resistivity e r (Um) (n Z 3), DTA peak location (  C) and TGA weight loss in % (n Z 5), the g values
+and spin concentration obtained from ESR measurements
+Sample
+
+r (Um)
+
+DTA (  C)
+
+TGA (weight loss%)
+
+g
+
+Concentration (spins/gr) ! 1018
+
+Olea
+Ceratonia
+Laurus
+Quercus
+
+0.998 G 0.159
+0.146 G 0.021
+0.032 G 0.003
+0.015 G 0.002
+
+491.4 G 2.1
+536.2 G 2.5
+559.0 G 4.1
+549.6 G 4.6
+
+95.6 G 2.2
+97.3 G 1.1
+97.5 G 1.0
+97.9 G 0.4
+
+2.0018
+2.0017
+2.00215
+2.0020
+
+5.8
+5.2
+9.3
+6.7
+
+The concentrations of spins using ESR are calculated in comparison to CuSO4 ! 5H2O standard.
+
+I. Cohen-Ofri et al. / Journal of Archaeological Science 33 (2006) 428e439
+
+435
+
+Table 4
+Analyses of fossil charcoal samples from Tel Dor before and after HCl treatment. ((a) electrical resistivity e r (Um), DTA peak location e (  C) and TGA weight
+loss e %; (b) showing ESR g value and spin concentration (spins/gr) calculated in comparison to CuSO4 ! 5H2O standard)
+(a)
+Sample
+
+Location
+
+r (Um)
+
+r (Um)
+HCl
+
+DTA (  C)
+
+DTA (  C)
+HCl
+
+TGA (%)
+
+TGA (%)
+HCl
+
+CHI-4
+CHI-5
+CHI-9
+CHI-12
+CHI-23
+WD2F-8
+
+Area
+Area
+Area
+Area
+Area
+Area
+
+252,254
+49,982
+17,434
+395,447
+461,473
+235,499
+
+37,959
+34,073
+47,372
+64,280
+47,372
+299,621
+
+549
+540
+521
+493
+501
+505
+
+504.5
+493.7
+453.5
+454
+446
+463
+
+83
+77.5
+88.7
+71
+74
+92
+
+96
+95
+100
+100
+93
+100
+
+D2
+D2
+D2
+G
+G
+G
+
+(b)
+Sample
+
+g
+
+g HCl
+
+Conc. (spins/gr) ! 1018
+
+Conc. (spins/gr) ! 1018 HCl
+
+CHI-4
+CHI-5
+CHI-9
+CHI-12
+CHI-23
+WD2F-8
+
+2.0037
+2.0035
+2.0036
+2.0037
+2.0038
+2.0040
+
+2.0034
+2.0033
+2.0031
+2.0034
+2.00305
+2.0032
+
+0.078
+0.17
+
+0.41
+0.21
+0.06
+0.11
+0.1
+0.19
+
+0.027
+0.061
+
+latter is much higher due to the lower temperatures at which
+the natural charcoals form. The graphite microcrystallites are
+very small in modern charcoal. Direct observations by TEM,
+as well as indirect observations by Raman spectroscopy indicate that the average crystallite size of the sheets is around
+4e5 nm. We know very little about the chemical structure of
+the disordered organic component. It has been suggested that
+aromatic groups are common [23]. Clearly much still remains
+to be understood about the chemical nature of this component
+and how it is bound to the graphite-like crystallites.
+In general the 4 samples of modern charcoal analysed here
+are similar. We did, however, detect small but significant differences that probably reflect mainly varying proportions of
+the two different phases. This is especially apparent in the
+DTA measurements. We assume that the lower the temperature
+of the major DTA peak, the larger is the proportion of the disordered organic component. This assumption is supported by
+the relation between electrical resistivity and the major DTA
+phase change temperature (Fig. 17). The larger the relative
+
+0.55
+
+1.8
+
+1570
+
+1.6
+
+1592.9
+
+0.50
+
+1140
+
+0.45
+
+1.4
+
+1087.6
+1400
+
+0.40
+
+1.2
+
+798.38
+
+0.35
+
+1.0
+
+0.30
+
+0.8
+
+0.25
+
+0.6
+
+0.20
+
+0.4
+0.2
+2000
+
+amount of non-organized organics, the higher is the electric
+resistivity, since this phase probably interrupts the contacts
+between the graphite-like microcrystallites. Both the electrical
+resistivity and the ESR measurements provide information on
+the organization and on the atomic structure of the graphitelike component. They support the notion that the graphitelike component closely resembles geological graphite, except
+for the small size of the crystallites. We did note variations in
+the graphite-like crystallite properties (mainly peak widths)
+using Raman spectroscopy. As the narrower the peak, the
+more it resembles geological graphite, we conclude that the
+most ordered graphite component is present in Quercus, then
+in Laurus, followed by Ceratonia and the least ordered graphite component is present in the Olea sample. These differences
+are also detected by the ESR measurements. The Quercus
+charcoal sample, which is also the most conductive sample,
+contains the most free electron charge carriers. These are
+formed at higher temperatures and contribute to the reduction
+in electric resistivity. This again implies that the Quercus
+
+0.15
+2000
+1800
+
+1600
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+1800
+
+1600
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+wavenumber (cm-1)
+
+wavenumber (cm-1)
+Fig. 9. FTIR spectra of the 4 modern charcoal samples. The peak at 1570 cmÿ1
+is the CaC aromatic stretching.
+
+Fig. 10. FTIR spectrum of fossil charcoal (collected from Kebara Cave). The
+sample contains carboxylate groups (1583 and 1400 cmÿ1) and a mineral
+phase (quartz) (1087, 798 and 778 cmÿ1).
+
+I. Cohen-Ofri et al. / Journal of Archaeological Science 33 (2006) 428e439
+
+436
+
+3800
+
+0.30
+
+1617.9
+1719.2
+
+0.25
+
+1251.5
+
+0.20
+667.25 472.47
+580.47
+
+0.15
+0.10
+0.05
+2000
+
+ESR Peak Intensity (a.u.)
+
+0.35
+
+3600
+3400
+3200
+3000
+2800
+2600
+
+1800
+
+1600
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+0.003
+
+wavenumber (cm-1)
+
+0.004
+
+0.005
+
+0.006
+
+0.007
+
+0.008
+
+1/T
+
+Fig. 11. FTIR spectrum of fossil charcoal (Kebara Cave) after treatment with
+1 N HCl. The sample contains peaks due to carboxylic acids (1719 cmÿ1) and
+carboxylate groups (1617, 1400 and 1251 cmÿ1).
+
+Fig. 13. The linear dependence between the temperature and the peak height in
+the Quercus charcoal sample indicates a CurieeWeiss behavior of the free
+radicals.
+
+sample contains larger amounts and/or more ordered graphite
+microcrystallites. We do not know what properties of burning
+oak are responsible for this difference.
+We conclude that modern charcoal is, as described previously [13], composed of two phases: an organized phase,
+
+which is composed of graphite-like microcrystallites, and
+a non-organized phase. These two phases are connected and
+the relative amounts of each change the charcoal properties.
+We use this model of charcoal to better understand the degradation processes in fossil charcoal.
+
+a
+4.3. Fossil charcoal structure
+As graphite is one of the most stable materials in nature [9],
+our initial hypothesis was that fossil charcoal samples will
+contain a larger proportion of graphite-like microcrystallites
+compared to modern charcoal, and that the non-organized
+phase will be reduced as it is most susceptible to diagenetic
+degradation. In fact almost all the measurements we made
+on fossil charcoal point to the opposite scenario, namely the
+fraction that degrades most is the graphite-like phase.
+The fossil charcoal samples clearly do have a crystalline
+graphite-like phase. This is directly observed in the TEM
+and indirectly inferred from the Raman spectra. Its electrical
+properties are, however, severely altered. The huge increase
+4000
+
+T129
+T162
+T182
+T202
+T247
+T251
+T290
+T297
+
+3500
+3000
+2500
+
+300
+
+2000
+1500
+1000
+500
+3170
+
+3180
+
+3190
+
+3200
+
+3210
+
+3220
+
+3230
+
+ESR Peak Intensity (a.u.)
+
+ESR Peak Intensity (a.u.)
+
+b
+
+250
+200
+150
+100
+50
+
+magnetic field H
+Fig. 12. (a) ESR signals of the modern charcoal samples under vacuum. Note
+that the Quercus sample contains an additional peak. (b) ESR signal of Quercus sample under vacuum at different temperatures (the temperatures are in
+degrees Kelvin). This measurement establishes the temperature dependence
+of the ESR signal.
+
+0
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+microwave power p1/2
+Fig. 14. The saturation curve of modern charcoal (Ceratonia). The sample
+does not reach saturation.
+
+I. Cohen-Ofri et al. / Journal of Archaeological Science 33 (2006) 428e439
+1.2
+
+2.4
+2.2
+
+1
+
+Resistivity (ohm*m)
+
+ESR Peak Intensity (a.u.)
+
+437
+
+2.0
+1.8
+1.6
+1.4
+1.2
+
+0.8
+0.6
+0.4
+0.2
+
+1.0
+3240
+
+3260
+
+3280
+
+3300
+
+3320
+
+3340
+
+magnetic field H
+
+in electrical resistivity compared to the modern charcoal
+shows that this phase is almost incapable of conducting electrons. The ESR analyses provide information on the atomic
+environment of the graphite-like crystallite, and these also
+show that it has been drastically altered. The concentration
+of free electrons decreased by 1 order of magnitude, and the
+local environment in which they exist is quite different (as inferred from the higher ESR g-values and the saturation behavior of the fossil samples).
+The infrared spectra provide the most direct evidence pertaining to the actual change. The fossil samples have distinct
+carboxylate absorptions that are not present in the modern samples. This implies that the charcoal has undergone oxidation.
+Although we do not have direct proof that this oxidation affected the graphite phase, the observed changes are consistent with
+the graphite crystallite surfaces undergoing oxidation and thus
+affecting free electron movement and hence resistivity.
+The relative proportion of the non-organized phase of the
+fossil samples appears to increase, based on the trends observed mainly from the TGA and DTA analyses. The TGA
+analyses point to an increase of about 10 weight% of this
+
+ESR Peak Intensity (a.u.)
+
+55
+50
+45
+40
+35
+30
+25
+20
+0
+
+2
+
+4
+
+6
+
+510
+
+530
+
+550
+
+570
+
+DTA (°C)
+
+Fig. 15. ESR signals of the fossil sample (Tel Dor, CHI-9) after HCl treatment
+under vacuum. This spectrum is broader than the modern charcoal spectrum.
+
+15
+
+0
+490
+
+8
+
+10
+
+microwave power p1/2
+Fig. 16. The saturation curve of fossil charcoal (Tel Dor, CHI-9). This is an
+example of a sample that saturates.
+
+Fig. 17. Electrical resistivity measurement vs. DTA maximum phase change
+temperature of the 4 modern charcoal samples. This shows that the resistivity
+of the charcoal tends to decrease exponentially.
+
+phase in the samples measured. This in turn raises the question
+of whether or not this is due to the introduction of humic acids
+from the surroundings, or due to the breakdown of the graphitic component of the charcoal itself, or both. One indication
+that breakdown of the graphitic phase most likely occurs is
+that during the AAA treatment of some fossil charcoals (not
+those analysed in this study), it has been observed that the
+alkali extraction steps can remove up to 80 or 90% by weight
+of the sample. It is unlikely that this can all be attributed to
+extraneous humic acid contamination. Furthermore, according
+to Alon et al. [1] the high fluorescence levels detected in the
+Raman spectra of fossil charcoals are not removed even after
+several alkali treatments. Since all of the humic substances
+from external sources should be removable after such treatment, the high fluorescence level is most likely derived from
+an integral part of the original material. We also observed
+that Raman spectra of ‘‘humic acid’’ extracted from archeological charcoal by alkali contain, besides a high level of fluorescence, the two characteristic peaks of graphite, similar to
+the fossil charcoal samples (Fig. 6). Thus the alkali treatment
+may also be removing degraded charcoal phases that have disaggregated into fine particles.
+All these observations lead us to conclude that charcoal,
+and in particular the graphitic component, degrades via oxidation into material resembling humic acid. This model is schematically illustrated in Fig. 18. It may be that ‘‘humic acid’’
+derived from charcoal differs from soil humic acid by having
+a crystalline graphitic phase. Haumaier and Zech [15] suggested that as soil humic acid is highly aromatic, it may be derived from charred plant residues. Kumada [19] and Shindo
+et al. [29] arrived at a similar conclusion after comparing
+humic acid compositions from charred residues to humic substances from volcanic ash soils. As charcoal is known to be an
+excellent absorber of ions and other organic molecules, it most
+likely also contains soil derived humic and fulvic molecules.
+Our results, however, point to the possibility, that particularly
+in more degraded fossil charcoal samples, the major source
+material for increasing the proportion of the non-organized
+
+438
+
+I. Cohen-Ofri et al. / Journal of Archaeological Science 33 (2006) 428e439
+
+Graphite-like
+microcrystallites
+
+Non-organized
+component
+
+Diagenesis
+
+Non-organized
+component
+
+Graphite-like
+microcrystallites
+
+“Humic
+Substances”
+
+Fig. 18. Schematic representation of the chemical diagenetic model of charcoal. The modern charcoal comprises 2 phases: graphite microcrystallites and a nonorganized phase. Diagenesis (mainly oxidation) causes the relative amount of graphite microcrystallites to decrease producing ‘‘humic substances’’ that resemble
+those in soil.
+
+phase, may be the result of ‘‘self-humification’’ of mainly the
+graphitic component of the charcoal.
+4.4. Broader implications
+We have analysed charcoal samples from 3 other sites in
+Israel (Tel Rehov e 2800e2900 BP, Motza e 9000e9300 BP
+and Ohalo IIe 23,000 BP uncalibrated), and one from Georgia
+(Ortvale Klde e 21,000e40,000 BP uncalibrated). We found
+that basically the properties we report here are similar to those
+we measured for charcoal samples from these sites. We therefore
+believe that Tel Dor and Kebara Cave specimens are representative of many fossil charcoal specimens.
+It is possible that this ‘‘self-humification’’ process is accelerated in a basic environment. In Kebara Cave for example,
+charcoal is rarely found in sediments with calcite and carbonated apatite (implying a neutral to basic environment), but is
+more common in sediments that were in an acidic environment
+[25]. Heinrich [16] found that electrolysis of carbon black under basic conditions produced humic acid, but not under acidic
+or neutral pH.
+In many archaeological sites, and especially in prehistoric
+caves, black organic-rich layers are present. The diagenetic
+trends reported here raise the question as to whether at least
+some of these originate from degraded charcoal. It is interesting to note that in Kebara Cave, one such organic-rich layer
+contains diatoms and is therefore most likely derived from
+organic-rich sediment formed in a pool, whereas many of
+the other organic-rich black layers are intimately associated
+with hearth structures [2]. These may be derived from charcoal; a subject we are currently investigating.
+
+4.5. Implications for radiocarbon dating
+If this model is correct, then much of the material extracted
+by alkaline treatment of poorly preserved wood charcoal samples, may actually be the original charcoal itself, but in a more
+degraded form. If this is not contaminated with other carbon
+sources, it should provide a reliable date. The problem, however, is that such charcoal derived ‘‘humic substances’’ may
+not be distinguishable from soil derived humic substances.
+On the other hand, selecting well preserved wood charcoal
+specimens after HCl treatment based on low resistivity, high
+DTA transition temperatures or on narrow ESR profiles, and
+then treating only these with alkali, will improve the chances
+that the contaminating humic substances will be effectively
+removed by the alkali and the date obtained will be reliable.
+In practice, a good criterion for well preserved charcoal may
+be a sample that loses minimal weight after the alkali extraction steps have removed all the colored substances.
+
+5. Conclusions
+A comparison of modern and fossil charcoal produced in
+campfires reveals the following:
+1. Both modern and fossil charcoal have basically the same
+structure: graphite-like microcrystallites and a nonorganized phase.
+2. The fossil charcoal contains abundant carboxylate groups,
+which are absent in modern charcoal, implying that
+diagenesis involves oxidation.
+
+I. Cohen-Ofri et al. / Journal of Archaeological Science 33 (2006) 428e439
+
+3. The graphite-like phase of the fossil charcoal has higher
+electrical resistivity, and its ESR properties show that it
+has a markedly altered surface electronic state. This we
+attribute to oxidation.
+4. The data indicate that the proportion of the graphite phase
+is reduced during diagenesis relative to the non-organized
+phase. This may involve a ‘‘self-humification’’ process,
+whereby the graphite component and possibly the nonorganized phase, degrades into humic substances.
+Acknowledgements
+We thank Talmon Arad for his expert help with the TEM.
+We also thank Ofer Bar-Yosef for his help with the Kebara
+Cave samples, Dan Namdar for the samples from Ohalo II,
+Amihai Mazar for the Tel Rehov samples, Hamudy Khalaily
+for the Motza samples and Ilan Sharon and Ayelet Gilboa
+for the Tel Dor samples. We thank Mr. George Schwartzmann,
+Sarasota, Florida, for his generous support. We also thank the
+Kimmel Center for Archaeological Science for their financial
+support. S.W. is the incumbent of the Dr. Trude Burchardt
+professorial chair of Structural Biology.
+References
+[1] D. Alon, G. Mintz, I. Cohen, S. Weiner, E. Boaretto, The use of Raman
+spectroscopy to monitor the removal of humic substances from charcoal:
+quality control for 14C dating of charcoal, Radiocarbon 44 (2002) 1e11.
+[2] O. Bar-Yosef, B. Vandermeersch, B. Arensburg, A. Belfer-Cohen,
+P. Goldberg, H. Laville, L. Meignen, Y. Rak, D. Speth, E. Tchernov,
+A.M. Tillier, S. Weiner, The excavations in Kebara Cave, Mt. Carmel,
+Current Anthropology 33 (1992) 497e550.
+[3] M.I. Bird, C.S.M. Turney, K. Fifield, R. Jones, L.K. Ayliffe, A. Palmer,
+R. Cresswell, S. Robertson, Radiocarbon analysis of the early archaeological site of Nauwalabila I, Arnhem Land, Australia: implications
+for sample suitability and stratigraphic integrity, Quaternary Science
+Reviews 21 (2002) 1061e1075.
+[4] S. Blazewicz, A. Swiatkowski, B.J. Trznadel, The influence of heat treatment on activated carbon structure and porosity, Carbon 37 (1999) 693e700.
+[5] C.K. Brain, A. Sillen, Evidence from the Swartkrans cave for the earliest
+use of fire, Nature (1988) 464e466.
+[6] C.E. Byrne, D.C. Nagle, Carbonization of wood for advanced materials
+applications, Carbon 35 (1997) 259e266.
+[7] M.J. Cope, Physical and chemical properties of coalified and charcoalified phytoclasts from some British Mesozoic sediments: an organic geochemical approach to palaeobotany, in: A.G. Douglas, J.R. Maxwell
+(Eds.), Advances in Organic Geochemistry, Pergamon Press, Oxford,
+1979, pp. 663e677.
+[8] S. Cornelius, What is humic acid? A perspective of the past forty years,
+in: E.A. Ghabbour, G. Davies (Eds.), Understanding Humic Substances,
+Royal Society of Chemistry, Cambridge, 1999, pp. 1e8.
+[9] M.S. Dresselhaus, The wonderful world of carbon, in: R.P.H. Chang,
+S. Yoshimura (Eds.), Supercarbon: Synthesis, Properties and Applications, Springer, Berlin, 1998, pp. 9e29.
+
+439
+
+[10] G. Eglinton, G.A. Logan, Molecular preservation, Philosophical Transactions of the Royal Society of London B 333 (1991) 315e327 (discussion
+327e328).
+[11] F.G. Emmerich, C. Rettori, C.A. Luengo, ESR in heat-treated carbons
+from the endocarp of Babassu coconut, Carbon 29 (1991) 305e311.
+[13] R.E. Franklin, Crystallite growth in graphitizing and non-graphitizing
+carbons, Proceedings of the Royal Society A 209 (1951) 196e218.
+[14] D.S. Frink, The chemical variability of carbonized organic matter
+through time, Archaeology of Eastern North America 20 (1992) 67e79.
+[15] L. Haumaier, W. Zech, Black carbon e possible source of highly aromatic components of soil humic acids, Organic Geochemistry 23 (1995)
+191e196.
+[16] T. Heinrich, The oxidation of carbon in electrolytes at normal temperature, Transactions of the Faraday Society 34 (1938) 1033e1039.
+[17] D.J. Ingram, Biological and Biochemical Application of Electron Spin
+Resonance, Adam Hilger LTD, London, 1969.
+[18] E.V. Komarek, Ancients fires, in: Proceedings of Annual Tall Timbers
+Fire Ecology Conference, 1973, pp. 219e240.
+[19] K. Kumada, Carbonaceous materials as a possible source of soil humus,
+Soil Science and Plant Nutrition 29 (1983) 383e386.
+[20] A.S. Livingston, Bonfire II: the return of pottery firing temperatures,
+Journal of Archaeological Science 28 (2001) 991e1003.
+[21] S. Mrozowski, ESR studies of carbonization and coalification processes
+part II. Biological materials, Carbon 26 (1988) 531e541.
+[22] G.J. Nichols, J.A. Cripps, M.E. Collinson, A.C. Scott, Experiments in
+waterlogging and sedimentology of charcoal: results and implications,
+Paleogeography, Paleoclimatology, Paleoecology 164 (2000) 43e56.
+[23] K. Nishimiya, H. Toshimitsu, Y. Imamura, Analysis of chemical structure
+of wood charcoal by X-ray photoelectron spectroscopy, Journal of Wood
+Science 44 (1998) 56e61.
+[24] E.A. Olson, W.S. Broecker, Sample contamination and reliability of
+radiocarbon dates, Transactions of the New York Academy Sciences,
+Series II 20 (1958) 593e604.
+[25] S. Schiegl, P. Goldberg, O. Bar-Yosef, S. Weiner, Ash deposits in Hayonim and Kebara caves, Israel: macroscopic, microscopic and mineralogical observations, and their archaeological implications, Journal of
+Archaeological Science 23 (1996) 763e781.
+[26] M.B. Schiffer, Formation Processes of the Archaeological Record,
+University of New Mexico Press, Albuquerque, 1987.
+[27] M.R. Schurr, R. Hayes, L.L. Bush, The thermal history of maize kernels
+determined by electron spin resonance, Archaeometry 43 (2001)
+407e419.
+[28] A.C. Scott, The pre-quaternary history of fire, Paleogeography, Paleoclimatology, Paleoecology 164 (2000) 281e329.
+[29] H. Shindo, T. Higashi, Y. Matsui, Composition of humic acid from
+charred residues of Susuki (Eulalai, Miscanthus sinesis A.) and from
+the A horizons of volcanic ash soils, Soil Science and Plant Nutrition
+32 (1986) 579e586.
+[30] L.S. Singer, G. Wagoner, Electron spin resonance in polycrystalline
+graphite, The Journal of Chemical Physics 37 (1962) 1812e1817.
+[31] E.J. Soltes, T.J. Elder, Pyrolysis-Organic Chemicals from Biomass, CRC
+Press, 1981.
+[32] E. Stern, Dor e Ruler of the Seas, Israel Exploration Society, Jerusalem,
+2000.
+[33] F. Tuinstra, J.L. Koenig, Raman spectrum of graphite, The Journal of
+Chemical Physics 53 (3) (1970) 1126e1130.
+[34] S. Widayati, K.H. Tan, Atomic force microscopy of humic acid, Communications in Soil Science and Plant Analysis 28 (1997) 189e196.
+[35] Y. Yang, T. Wang, Fourier transform Raman spectroscopy characterization of humic substances, Vibrational Spectroscopy 14 (1997) 105e112.
+
+

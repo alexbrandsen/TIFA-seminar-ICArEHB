@@ -1,0 +1,1213 @@
+Journal of Archaeological Science 40 (2013) 416e422
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Archaeological Science
+journal homepage: http://www.elsevier.com/locate/jas
+
+A new statistical approach for determining the crystallinity of heat-altered bone
+mineral from FTIR spectra
+T.J.U. Thompson a, *, M. Islam a, M. Bonniere b
+a
+b
+
+School of Science & Engineering, Teesside University, Borough Road, Middlesbrough TS1 3BA, UK
+Institute of Technology in Chemistry, University of Lille, Lille 59 653, France
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 22 February 2012
+Received in revised form
+5 July 2012
+Accepted 15 July 2012
+
+The crystallinity of bone mineral represents an established method of measuring heat-induced change
+and is of importance to ﬁelds including material science, clinical science, anthropology and archaeology.
+A commonly used technique involves the calculation of the Crystallinity Index (CI) using selected peaks
+from Fourier Transform Infrared (FTIR) absorbance spectra. However, the choice of peaks has to date not
+been statistically justiﬁed. In this study a novel application of statistical techniques to the FTIR spectra of
+bone samples burned in the range 100  Ce1100  C has been used to identify 5 new spectral indices of
+heat-induced crystallinity change. The validity of the new indices was tested by using a statistical
+classiﬁcation model (LDA) to predict the burning temperature of a set of 108 bone samples burned
+between 100  C and 1100  C. A correct classiﬁcation rate (CCR) of 97.2% was obtained when
+a combination of 4 indices including the CI was used. This was signiﬁcantly better than the CCR of
+66.7% which was obtained when the CI was used on its own.
+Ó 2012 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Bone
+Crystallinity index
+Fourier Transform Infrared Spectroscopy
+PCA
+LDA
+
+1. Introduction
+1.1. Analysis of bone material
+Bone mineral is a signiﬁcant biomaterial with a range of uses
+across a number of disciplines. Understanding its physical and
+chemical properties is important for allowing researchers and
+practitioners to fully exploit this vital material. However, since bone
+is a complex heterogeneous material, analysis of these properties
+becomes somewhat problematic. As a material, it has both organic
+(largely collagen) and inorganic (largely calcium phosphate)
+constituents and macroscopically a typical bone is comprised of
+several different layers (the periosteum, cortical bone, and endosteum) and different bone types (compact and cancellous). Microscopically, the mineral phase, which accounts for 60e70 weight%
+(Wang et al., 2010) can be referred to as an impure, nonstoichiometric and poorly crystalline form of hydroxyapatite, with
+a basic nano-sized apatite structure of Ca10(PO4)6(OH)2 (D’Elia et al.,
+2007; Etok et al., 2007; Mkukuma et al., 2004; Wang et al., 2010). A
+number of different factors can alter this mineral composition and
+this in turn will affect its usefulness, regardless of the speciﬁc
+context of application.
+
+* Corresponding author. Tel.: þ44 (0)1642 342535.
+E-mail address: t.thompson@tees.ac.uk (T.J.U. Thompson).
+0305-4403/$ e see front matter Ó 2012 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2012.07.008
+
+One of the more signiﬁcant changes to the structure and
+composition of bone occurs when this material is heated. Heated
+bone is one of the most challenging osteological materials to study,
+since the process of heating produces a range of complicated
+changes within the material. Thompson (2004) has summarised
+these heat-induced transformations as Dehydration (loss of water
+between 100 and 600  C), Decomposition (loss of the organic
+component, 300e800  C), Inversion (alteration of the inorganic
+phase, 500e1100  C) and Fusion (coalescence of the crystal structure, 700  Cþ). Later work by Etok et al. (2007) provided more
+speciﬁcity, by noting that (1) the loss of water between 25 and
+250  C was from two sources, the loosely bound water up to 100  C
+and then the water structurally within proteins and bound to the
+mineral beyond; (2) that the loss of the organic component
+between 300 and 500  C resulted in 50e55% loss of mass, an
+increase in mean crystallite size from 10 nm to 30 nm, an increase
+in crystal thickness from 2 nm to 9 nm and the formation of new
+mineral phases, and; (3) that above 500  C the remaining residual
+organic matter is lost, mean crystallite size increases and levels off
+at 110 nm at 800  C, crystal thickness increases to 10 nm, and that
+by 900  C the porous texture formed by the previous losses is
+altered to produce a closely interlocking texture. Part of the reason
+for the delayed alteration of the mineral phase during heating
+relates back to the heterogeneous nature of bone, as the organic
+matrix provides a ‘thermal shielding effect’ that protects the inorganic component, and it is not until this is lost that the mineral
+
+T.J.U. Thompson et al. / Journal of Archaeological Science 40 (2013) 416e422
+
+surfaces are fully exposed to the heating process (Etok et al., 2007;
+Lebon et al., 2010; Person et al., 1996; Trueman et al., 2008).
+It has been argued and demonstrated both experimentally and
+statistically that the most appropriate scale to study heat-induced
+change in bone is at the microscopic scale (Thompson, 2004,
+2005). In addition it is thought that changes at this microscopic
+level can be viewed as being more robust than those more apparent
+macroscopic changes. For example, change in colour is often used
+to comment on burning pathways, but this is inﬂuenced by a range
+of variables to the extent that associating it strongly with any one of
+them is inadvisable (Thompson, 2005). At this microscopic scale,
+there are two key features inﬂuenced by heating that are worth
+exploring: changes to the elemental composition and changes to
+the crystalline structure of the bone. Although changes to the
+elemental composition of bone have been successfully used to
+examine heat-induced change (e.g.: Bergslien et al., 2008; Schurr
+and Hayes, 2008), more information is known generally about the
+structure of bone than the elemental composition, and therefore it
+makes most sense to focus efforts here at this current time.
+In addition, understanding and manipulating heat-induced
+changes to the crystalline structure of bone is important for
+a number of reasons. Clinically to ensure that biomaterials to be
+placed within the body have a similar crystalline structure to
+natural bone (Nakano et al., 2002; Wang et al., 2010), and to
+understand the nature of pathologies and diseases (Mkukuma et al.,
+2004). Within the material sciences, crystallinity is related to
+solubility (Nakano et al., 2002). Heating the biomaterial is one way
+to inﬂuence the degree of bone mineral crystallinity. More generally an understanding of the inﬂuence of heating on crystallinity
+can be important for understanding diet, hunting practices and
+funerary custom within archaeological contexts (Schiegl et al.,
+2003; Squires et al., 2011; Thompson et al., 2011) or for determining whether criminal activity has occurred and to aid in the
+identiﬁcation process in forensic scenarios (Thompson, 2004,
+2005). Note that other techniques such as mechanical grinding can
+also be used to inﬂuence bone mineral crystallinity (Nakano et al.,
+2002; Surovell and Stiner, 2001).
+1.2. Crystallinity index
+One method that has been used to study such changes in bone
+microstructure is the Crystallinity Index (CI). The CI is a measure of
+the crystal order, strain and organisation in bone. When bone is
+fresh, the crystal structure is poorly crystalline (Paschalis et al.,
+1997; Thompson et al., 2011), partly as a result of carbonate
+substitution causing crystal disorder (Wang et al., 2010). Crystallinity is not uniform throughout the skeleton, and it varies between
+the different mineralised tissues of the human body (Nakano et al.,
+2002), while age has also been shown to have an inﬂuence on
+crystallinity, with younger bone being less crystalline than more
+mature bone (Paschalis et al., 1997). There are also species differences in bone mineral crystallinity, although some of these relate
+more to differences in the proportion of organic material within the
+rather than species difference per se (Mkukuma et al., 2004).
+As a result of heating and burning, the crystal structure of bone
+becomes better ordered and characterised by larger crystals and
+less strain, and as such the value for the CI increases. This increase
+in crystallinity is the result of larger equidimensional crystals and
+a resulting reduction in microstrain (Etok et al., 2007).
+CI has been used to study heated bone mineral in a number of
+contexts. Thompson et al. (2011) have provided a review of its use
+in bioarchaeology, but examples include the use of crystallinity to
+determine whether bone was burned or not (Piga et al., 2008a;
+Pijoan et al., 2007; Schiegl et al., 2003; Shahack-Gross et al., 1997)
+and to allow for differences in funerary practice to be noted
+
+417
+
+(Squires et al., 2011). In addition, a number of works have explored
+the potential of the CI as a proxy of bone quality and thus as
+a method to apply to degraded bone before application of more
+expensive and complicated biomolecular or dating techniques
+(Brock et al., 2010; D’Elia et al., 2007; Lebon et al., 2010; Misner
+et al., 2009; Pucéat et al., 2004; Schwarz et al., 2009; Trueman
+et al., 2008).
+The CI can be calculated using X-ray Diffraction (XRD), Fourier
+Transform Infrared Spectroscopy (FTIR) and Raman Spectroscopy,
+although the speciﬁc calculations and values will differ between
+the three. As a result, CI values from the three methods are not
+directly comparable, although the general trends are similar. There
+are merits to all of these techniques, but FTIR allows for simultaneous examination of all tissue components within bone, permits
+identiﬁcation of contaminant material, allows for the detection of
+substitutions within the elemental structure, is cheaper and is more
+accurate at lower heating temperatures (D’Elia et al., 2007; Munro
+et al., 2007; Paschalis et al., 1997; Weiner et al., 1993; Wright and
+Schwarcz, 1996). Note that other workers advocate XRD over
+infrared spectroscopy (e.g.: Pijoan et al., 2007; Pucéat et al., 2004;
+Rogers et al., 2010), and that attempts have been made to calibrate
+the different methodologies (Munro et al., 2007; Pucéat et al.,
+2004).
+In order to calculate the CI using FTIR methods the following
+formulae is used:
+
+CI ¼
+
+
+
+565 cm1 þ 605 cm1
+
+.
+595 cm1
+
+where each of the values is the absorbance at a given wavelength.
+The 565 cm1 and 605 cm1 wavelengths correspond to bending
+vibration bands of phosphate (see Table 1) and both increase with
+increased crystallinity. The 595 cm1 wavelength will decrease thus
+causing an overall increase in CI value. Note that although increased
+temperature of heating causes an increase in CI, the relationship is
+non-linear. A baseline correction is also often used, normally made
+between 750 and 450 cm1. This formula was ﬁrst proposed by
+Shemesh (1990) and Weiner and Bar-Yosef (1990) and has been
+routinely used since, although other workers have used different
+indices as a Crystallinity Index (Álvarez-Lloret et al., 2006; Farley
+et al., 2010). This is not to say that other peaks along the spectra
+have not been used: for example, Lebon et al. (2010) examined the
+1060/1075 ratio and the position of the v1 PO4 position while
+Álvarez-Lloret et al. (2006) and Farley et al. (2010) have explored
+the potential of a number of peaks along the spectra. Table 1
+
+Table 1
+Relationship between FTIR-ATR wavelength and structural component of bone.
+Approx. wavelength on
+FTIR spectrum
+
+Likely functional group
+
+565
+605
+632e650
+874
+960
+1028e1100
+1400e1550
+1630e1660
+3400
+3573
+Heat-induced substitutions
+880
+
+v4 PO4 phosphate
+v4 PO4
+OH group
+v2 CO23 group
+v1 (PO4) sym apatite
+v3 (PO4) apatite
+CO23 groups (lattice carbonate)
+organic tissue and water
+OH water
+OH group
+
+1450, 1545
+1455, 1410, 875
+
+Type A carbonate substitution
+(of OH group) produces a singlet band here.
+Type A carbonate substitution
+(of OH group) produces doublet band here.
+Type B carbonate substitution
+(of phosphate groups) produces bands here.
+
+418
+
+T.J.U. Thompson et al. / Journal of Archaeological Science 40 (2013) 416e422
+
+summarises the origin and causes of speciﬁc peaks along the FTIR
+spectra from bone.
+Signiﬁcantly however, despite the general acceptance of the CI,
+there is little justiﬁcation for the use of this speciﬁc ratio. Indeed,
+Piga et al. (2008b) argue that the CI is a completely arbitrary ratio.
+Recent debate on the use of CI on bone mineral has focussed on
+methodological and sampling issues (Thompson et al., 2011;
+Surovell and Stiner, 2001) rather than the validity of the index itself.
+This is not an acceptable situation if it is to be exploited fully in the
+clinical, engineering or anthropological contexts.
+The aim of this research is therefore to examine the full spectra
+produced from FTIR analysis of bone mineral in order to determine
+the most appropriate ratios for analysing the effect of heating and
+burning.
+2. Materials and method
+2.1. Analysis of bone mineral
+This research utilised the FTIR method of determining bone
+crystallinity, and speciﬁcally the Attenuated Total Reﬂectance (ATR)
+approach. Of the two methods of FTIR analysis (ATR or potassium
+bromide pellets) this has been shown to be the preferred method
+for bone mineral due to the range of methodological considerations
+associated with the more traditional potassium bromide (KBr)
+approach (Stathopoulou et al., 2008; Thompson et al., 2009).
+Modern unburned sheep rib bone were cleaned and macerated
+(in warm water) in order to remove the soft tissue from the bone
+surface. A scalpel was used to remove any residual pieces on the
+bone. The bones were heated in an electric mufﬂe furnace. The
+bones were burned for 45 min at 100  C temperature intervals from
+100  C to 1100  C, in accordance to the heating method laid out in
+Hiller et al. (2003), Thompson (2005) and Thompson et al. (2009,
+2011) and to ensure that the range of temperatures expected in the
+ﬁeld are considered. Once the bones had cooled down, small
+samples of bone were scraped off the external side of the ribs. These
+samples were then placed on the FTIR-ATR. For each temperature 9
+separate samples were measured (108 in total). From the spectra
+produced, the CI was calculated as described above. The C/P ratio
+(1415 cm1/1035 cm1) was also calculated since it focuses on the
+changes to the carbonate and a number of studies have utilised it in
+combination with CI (Koon et al., 2003; Olsen et al., 2008; Squires
+et al., 2011; Thompson et al., 2009, 2011; Wright and Schwarcz,
+1996). Note that as with the CI, its use is not necessarily statistically justiﬁed.
+2.2. The statistical analysis of FTIR spectra
+In order to determine the most useful regions of the spectra in
+terms of heat-induced mineral change, the variance across the
+spectral dataset was examined. Analysis of variance along the
+spectra produced from these samples consisted of dividing the
+variance between all of the groups by the sum of the variance for
+each group, using spectra normalised to the strongest phosphate
+absorption at 1035 cm1. Each group consisted of the 9 sample
+spectra recorded for each temperature. Following examination of
+the variance in the spectra, it was possible to construct a number of
+ratios which directly related to the signiﬁcant heat-induced
+changes seen in the data. Ratios of two wavelengths were chosen
+rather than the use of a single wavelength as ratios can reduce the
+effect of spectral baseline shifts and variation in absolute absorbance values.
+The new ratios produced from the FTIR analysis required user
+input but their choice was subsequently statistically interrogated
+using Principal Component Analysis (PCA). PCA allows one to draw
+
+conclusions about the strength of relationships within complex
+series of data, and has been used previously to understand heatinduced changes in bone (Thompson, 2004, 2005). PCA was used
+here to identify the key relationships which best explained the
+variation seen in this heated bone mineral data. Two PCA calculations were made, one to examine the spectra and one the crystallinity measures.
+Finally, Linear Discriminant Analysis (LDA) was performed. A
+key feature of LDA is that it allows the creation of a statistical
+classiﬁcation model based on a so-called ‘training’ dataset. This
+then allows a test dataset to be independently classiﬁed without
+user input. LDA aims to ﬁnd N  1 discriminant functions, which
+maximise the separation among N objects. Each discriminant
+function is a combination of variables selected as features. LDA is
+similar to PCA in the sense that they both create new latent variables from the original variables (in this case, wavelength).
+However each time the PCA is calculated, the mean value has to be
+subtracted along each variable, which makes it difﬁcult to introduce new objects for classiﬁcation. LDA forms latent variables only
+from the normalized original variables, and any new objects
+inputted can be classiﬁed based on the discriminant functions. Thus
+in the case of this work, it would be possible to predict the
+temperature of burning of a bone sample by determining the
+distance of its given values to those already plotted. LDA has been
+used previously to analyse similar spectral data, albeit not from
+bone (Li et al., 2011; Thanasoulias et al., 2003). PCA and LDA
+calculations were performed using Minitab 15 (Mintab Inc, USA).
+In order to assess the accuracy and precision of our new
+measures, we burned a second set of modern animal rib bones and
+then used our LDA models to predict the temperature at which
+these bones had been burned at. High accuracy in this test would
+imply that our measures were describing the variation in heatinduced change well.
+3. Results
+The average spectra for the heated bone samples are displayed
+in Fig. 1. Changes due to temperature can clearly be seen, but from
+Fig. 2 the wavelengths which display the most variation during the
+whole heating range are established. Note that in Fig. 2 the lack of
+variation at circa 1000 cm1 is due to the spectra being normalised
+at that point. Nonetheless when all temperature-related changes
+are examined, the region from 1300 cm1 to 1650 cm1 shows
+more heat-induced activity than the region below 1000 cm1. Fig. 2
+allows for the construction of ﬁve new measures which speciﬁcally
+target areas of heat-induced activity. These new measures are still
+partly determined by eye, but their basis is at least more closely
+associated to heat-induced changes across the spectra. Thus the
+new measures are:
+
+CO=P ¼ 1650 cm1 =1035 cm1
+CO=CO3 ¼ 1650 cm1 =1415 cm1
+CO3 =P ¼ 900 cm1 =1035 cm1
+Phosphate High Temperature ðPHTÞ ¼ 625 cm1 =610 cm1
+Line width ¼ the full width at half maximum of the
+phosphate peak at 1035 cm1
+The results of these ﬁve new measures in addition to the
+traditional CI and C/P for the experimentally burned bone samples
+are shown in Table 2. As can be seen CI and C/P display the trends
+
+T.J.U. Thompson et al. / Journal of Archaeological Science 40 (2013) 416e422
+
+419
+
+Fig. 1. FTIR-ATR spectra of differentially heated bone samples.
+
+reported elsewhere (e.g.: Thompson et al., 2009, 2011) whereby CI
+increases with increasing burning temperature and C/P decreases
+with increasing temperature. Note with CI how the value increases
+up to a peak at 800  C but then decreases slightly. This feature is not
+widely reported because few studies burn bone to these higher
+temperatures. CO/P also decreases with increasing temperature but
+more sharply than C/P. CO/CO3, CO3/P, PHT and line width all have
+ﬂuctuating relationships with temperature. Note also that there are
+no values for CO/CO3 at 1000  C and 1100  C because these peaks
+disappear at this point. Likewise there are no values for PHT until
+700  C because the peak of concern does not appear until this point.
+Following the application of these seven ratios, PCA was utilised
+in order to determine which of these ratios are affected by similar
+variables and which show signiﬁcant difference across the burning
+
+regime. PCA results based upon a comparison of the spectra and
+a comparison of results of our seven measures revealed that there
+were relationships between the low temperature burning results
+(<400  C), middle temperature results (400e700  C) and high
+temperature results (>700  C). The PCA has also shown that
+different ratios are more appropriate for these three ranges. Low
+temperature changes were best described by C/P, CO/CO3, CO3/P,
+CO/P and line width; middle temperature ranges by CI and line
+width, and; high temperature ranges by PHT and C/P.
+The results of the seven ratios when applied to the second set of
+burned bone are displayed in Table 3. As can be seen, the ratios
+produced results comparable to the ﬁrst set of experimentally
+burned bone (Table 2). Table 4 shows the results of the prediction of
+burning temperature using LDA. Note that the ratios used (CI, C/P,
+
+Fig. 2. Change in the ratio of the within group variance divided by the between group variance across the FTIR-ATR spectra as a result of heating.
+
+420
+
+T.J.U. Thompson et al. / Journal of Archaeological Science 40 (2013) 416e422
+
+Table 2
+Results of the indices applied to the ﬁrst set of experimentally heated bone samples.
+Temperature ( C)
+
+CI
+
+sd
+
+C/P
+
+sd
+
+CO/P
+
+sd
+
+CO/CO3
+
+sd
+
+CO3/P
+
+sd
+
+Line width
+
+sd
+
+PHT
+
+sd
+
+20
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+
+2.84
+2.95
+3.09
+3.42
+3.42
+3.30
+3.92
+4.16
+6.11
+4.80
+4.75
+3.94
+
+0.04
+0.04
+0.04
+0.02
+0.07
+0.04
+0.13
+0.07
+0.21
+0.05
+0.22
+0.20
+
+0.38
+0.38
+0.34
+0.29
+0.24
+0.16
+0.13
+0.09
+0.03
+0.06
+0.05
+0.06
+
+0.01
+0.01
+0.01
+0.00
+0.01
+0.01
+0.01
+0.01
+0.00
+0.00
+0.01
+0.01
+
+0.40
+0.41
+0.38
+0.20
+0.09
+0.04
+0.03
+0.02
+0.01
+0.01
+0.02
+0.02
+
+0.03
+0.02
+0.01
+0.01
+0.00
+0.00
+0.01
+0.00
+0.00
+0.00
+0.00
+0.01
+
+1.12
+1.14
+1.17
+0.72
+0.41
+0.31
+0.27
+0.34
+0.44
+0.51
+e
+e
+
+0.02
+0.01
+0.04
+0.01
+0.01
+0.02
+0.02
+0.05
+0.15
+0.06
+e
+e
+
+0.23
+0.18
+0.16
+0.16
+0.12
+0.10
+0.06
+0.05
+0.01
+0.05
+0.05
+0.09
+
+0.01
+0.01
+0.01
+0.00
+0.01
+0.00
+0.01
+0.01
+0.00
+0.00
+0.01
+0.02
+
+122.22
+100.88
+96.22
+85.00
+83.00
+82.88
+61.55
+63.33
+38.88
+68.11
+72.27
+84.55
+
+6.38
+3.18
+2.11
+1.73
+4.69
+1.27
+6.31
+2.00
+2.25
+4.86
+5.19
+4.98
+
+1.49
+1.52
+1.66
+2.27
+1.62
+1.62
+1.29
+1.05
+2.11
+1.71
+1.87
+1.42
+
+0.09
+0.08
+0.10
+0.28
+0.08
+0.06
+0.04
+0.01
+0.06
+0.02
+0.11
+0.04
+
+CO/CO3 and line width) were those found previously by PCA to best
+describe the variables causing heat-induced changes across all
+three burning intensities. As can be seen of the 108 test samples,
+104 were correctly attributed to temperature of burning. That is
+a correct classiﬁcation rate of 97.2%. As a comparison, Table 4 also
+includes results of the prediction model based solely on the CI ratio.
+As can be seen, the traditional ratio does not perform as well
+(66.7%) as the combination of our new ratios. It can also be seen
+that, as mentioned above, CI is most accurate at medium burning
+intensities.
+
+which are even more useful. However, the accuracy of the subsequent predictions should allay any concerns in this matter.
+The application of PCA and LDA to the FTIR spectra and subsequent indices allows for greater interpretation of heat-induced
+change in bone mineral. PCA alone allows for the associations
+between individual ratios to be examined permitting us to identify
+measures which are further apart in variance space and thus
+examining different heat-induced phenomena, to be chosen. The
+fact that the PCA produced three general clusters (at low, medium
+and high temperatures) does not come as a surprise. These three
+phases largely correspond to key heat-induced transformations
+within the bone mineral, namely the initial loss of water and
+organic content, activity of the crystal structure, and remodelling of
+the microscopic structure (as detailed by Etok et al., 2007;
+Thompson, 2004). Indeed it is suggested that workers should move
+away from the singular use of temperature, but instead focus on
+intensity of heating in order to include other pertinent variables
+(such as duration). The three intensities proposed map onto the
+three statistically-derived ones here. Likewise it should not be
+a surprise that different measures best describe different temperature ranges since they are examining different points in the FTIR
+spectra, and therefore different compounds which will react
+differently to the heating process. What is of note is that the CI is
+most appropriate for the middle range and lacks some speciﬁcity at
+either heating extremes. Koon et al. (2003) have already noted that
+CI can be a poor indicator of low temperature change, which our
+data also supports. In many ways CI could be seen as an ‘average’
+measure of heat-induced mineral change.
+Following identiﬁcation of the measures which describe most
+variation in the bone mineral, these can be tested using a new
+sample of burned bone and utilisation of LDA. The accuracy of CI has
+been tested before, but this tends to be in the form of blind studies
+(such as Thompson et al., 2009). This becomes signiﬁcantly more
+complicated once multiple measures are being used, and thus is
+
+4. Discussion
+The power of this approach to the examination of the FTIR
+spectra is that it ﬁnally allows workers to statistically assess the
+most useful parts of the spectra to study, rather than just use
+traditional methods. The CI makes sense from an osteological
+perspective, but it is difﬁcult to determine whether the three
+wavelengths on the spectra that are used are the most informative
+in relation to the heating of bone mineral. Lebon et al. (2010) have
+demonstrated that there are actually a range of points and ratios
+stretching along the length of the spectra that all provide different
+and complementary information regarding the heating process, but
+this was not statistically interrogated. Fig. 2 which is based on
+statistical analysis of the variance across and between the heatinduced spectra has demonstrated the key regions of the spectra
+to focus on. Despite the continuous use of the CI (which is understandable considering its ease of use and proven success in the
+literature) there are other regions of the spectra which vary more
+during heating, and signiﬁcantly, during different stages of the
+heating process. The analysis of variance allows identiﬁcation of
+regions with the biggest change and then selection of appropriate
+ratios. One potential weakness of this study is that the ﬁve new
+measures were still selected by hand, and there may be other ratios
+
+Table 3
+Results of the indices applied to the second set of experimentally heated bone samples.
+Temperature ( C)
+
+CI
+
+sd
+
+C/P
+
+sd
+
+CO/P
+
+sd
+
+CO/CO3
+
+sd
+
+CO3/P
+
+sd
+
+Line width
+
+sd
+
+PHT
+
+sd
+
+20
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+
+2.84
+2.77
+2.86
+3.08
+3.31
+3.53
+4.84
+6.52
+5.94
+5.32
+4.82
+4.72
+
+0.06
+0.06
+0.08
+0.08
+0.10
+0.09
+0.20
+0.07
+0.08
+0.12
+0.17
+0.12
+
+0.38
+0.49
+0.42
+0.34
+0.21
+0.18
+0.08
+0.04
+0.04
+0.05
+0.06
+0.05
+
+0.02
+0.03
+0.01
+0.02
+0.02
+0.02
+0.01
+0.00
+0.00
+0.01
+0.01
+0.02
+
+0.40
+0.65
+0.59
+0.24
+0.08
+0.05
+0.02
+0.01
+0.01
+0.01
+0.02
+0.02
+
+0.03
+0.04
+0.03
+0.02
+0.01
+0.01
+0.01
+0.00
+0.00
+0.00
+0.01
+0.00
+
+1.12
+1.40
+1.45
+0.78
+0.40
+0.35
+0.36
+0.26
+0.35
+0.44
+e
+e
+
+0.02
+0.02
+0.04
+0.05
+0.03
+0.06
+0.08
+0.06
+0.14
+0.09
+e
+e
+
+0.23
+0.23
+0.19
+0.15
+0.11
+0.09
+0.03
+0.02
+0.02
+0.04
+0.04
+0.06
+
+0.01
+0.01
+0.02
+0.01
+0.01
+0.01
+0.01
+0.00
+0.00
+0.00
+0.00
+0.01
+
+122.22
+100.89
+96.22
+85.00
+83.00
+82.89
+61.56
+63.33
+38.89
+68.11
+72.28
+84.56
+
+6.38
+3.18
+2.11
+1.73
+4.69
+1.27
+6.31
+2.00
+2.25
+4.86
+5.19
+4.98
+
+1.49
+1.52
+1.66
+2.27
+1.62
+1.62
+1.29
+1.05
+2.11
+1.71
+1.87
+1.42
+
+0.09
+0.08
+0.10
+0.28
+0.08
+0.06
+0.04
+0.01
+0.06
+0.02
+0.11
+0.04
+
+T.J.U. Thompson et al. / Journal of Archaeological Science 40 (2013) 416e422
+
+421
+
+Table 4
+Results of the predictions of temperature of heating from experimentally burned bone samples. Note that the values in brackets represent those of the CI alone.
+Predicted
+temperature ( C)
+20
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+Total N
+Correct N
+Proportion
+
+Actual temperature ( C)
+20
+
+100
+
+200
+
+300
+
+9 [2]
+[3]
+[4]
+
+[4]
+9 [5]
+
+[1]
+[2]
+9 [5]
+[1]
+
+[1]
+9 [8]
+
+400
+
+500
+
+[2]
+9 [5]
+[2]
+
+1 [1]
+8 [8]
+
+600
+
+700
+
+800
+
+900
+
+9 [3]
+
+1000
+
+1100
+
+[4]
+
+[2]
+
+7 [3]
+2 [2]
+9 [9]
+7 [3]
+0.778 [0.33]
+
+[1]
+9 [6]
+9 [9]
+9 [6]
+1 [0.67]
+
+9 [9]
+9 [9]
+
+9 [9]
+9 [2]
+1 [0.22]
+
+9 [9]
+9 [5]
+1 [0.56]
+
+9 [9]
+9 [5]
+1 [0.56]
+
+9 [9]
+9 [8]
+1 [0.89]
+
+9 [9]
+9 [5]
+1 [0.56]
+
+only achievable through the use of statistical methods. By selecting
+four ratios (CI, C/P, CO/CO3 and Line width) a correct classiﬁcation
+rate of 97.2% is obtained. Naturally removal of individual ratios
+worsens the correct classiﬁcation rate, while CI on its own gives
+a rate of 66.7% (which is higher than the 20% rate noted previously
+by Thompson et al., 2009).
+5. Conclusions
+The key strength of the approach presented here is that it does
+not make the assumption that the CI is the most appropriate ratio to
+use for examining microscopic heat-induced structural change in
+bone mineral. Indeed, as can be seen, there are a number of ratios
+which, when used in combination, can provide extremely valuable
+information regarding the conditions of heating and crystallinity
+which were not previously available. The new measures allow a far
+better classiﬁcation to be achieved, yet it is still possible that there
+are other ratios which may improve matters further. Since it is not
+possible to calculate the Crystallinity Index using FTIR without
+recording the full spectra of infrared absorption, there is little
+argument for not including our additional ratios in subsequent
+analysis of bone mineral crystalline structure, since they permit
+signiﬁcantly more information for researchers working in a variety
+of contexts.
+Acknowledgements
+We are very grateful to Helen Hodgson and Doug McLellan for
+their assistance in the FTIR data collection. TJUT and MI are supported by the Technology Futures Institute, Teesside University.
+Maxime Bonniere was supported by an ERASMUS link between the
+Universities of Lille and Teesside.
+References
+Álvarez-Lloret, P., Rodríguez-Navarro, A.B., Romanek, Ch.S., Gaines, K.F.,
+Congdon, Y.J., 2006. Quantitative analysis of bone mineral using FTIR. MACLA 6,
+45e47.
+Bergslien, E.T., Bush, M., Bush, P.J., 2008. Identiﬁcation of cremains using X-ray
+diffraction spectroscopy and a comparison to trace element analysis. Forensic
+Sci. Int. 175, 218e226.
+Brock, F., Higham, T., Bronk Ramsey, C., 2010. Pre-screening techniques for identiﬁcation of samples suitable for radiocarbon dating of poorly preserved bones.
+J. Archaeol. Sci. 37, 855e865.
+D’Elia, M., Gianfrate, G., Quarta, G., Giotta, L., Giancane, G., Calcagnile, L., 2007.
+Evaluation of possible contamination sources in the 14C analysis of bone
+samples by FTIR spectroscopy. Radiocarbon 49, 201e210.
+
+9 [9]
+8 [8]
+0.889 [0.89]
+
+[1]
+[2]
+[3]
+9 [9]
+9 [3]
+1 [0.33]
+
+9 [9]
+
+9 [9]
+9 [9]
+1 [1]
+
+9 [9]
+9 [9]
+1 [1]
+
+9 [9]
+9 [9]
+1 [1]
+
+Etok, S.E., Valsami-Jones, E., Wess, T.J., Hiller, J.C., Maxwell, C.A., Rogers, K.D.,
+Manning, D.A.C., White, M.L., Lopez-Capel, E., Collins, M.J., Buckley, M.,
+Penkman, K.E.H., Woodgate, S.L., 2007. Structural and chemical changes of
+thermally treated bone apatite. J. Mater. Sci. 42, 9807e9816.
+Farley, D., Panczer, G., Rey, C., Delmas, P., Boivin, G., 2010. Mineral maturity and
+crystallinity index are distinct characteristics of bone mineral. J. Bone Miner.
+Metab. 28, 433e445.
+Hiller, J., Thompson, T.J.U., Evison, M.P., Chamberlain, A.T., Wess, T.J., 2003. Bone
+mineral change during experimental heating: an X-ray scattering investigation.
+Biomaterials 24, 5091e5097.
+Koon, H.E.C., Nicholson, R.A., Collins, M.J., 2003. A practical approach to the identiﬁcation of low temperature heated bone using TEM. J. Archaeol. Sci. 30,
+1393e1399.
+Lebon, M., Reiche, I., Bahain, J.-J., Chadefaux, C., Moigne, A.-M., Fröhlich, F.,
+Sémah, F., Schwarcz, H.P., Falguères, C., 2010. New parameters for the characterization of diagenetic alterations and heat-induced changes of fossil bone
+mineral using Fourier Transform Infrared Spectrometry. J. Archaeol. Sci. 37,
+2265e2276.
+Li, B., Beveridge, P., O’Hare, W.T., Islam, M., 2011. The estimation of the age of
+a blood stain using reﬂectance spectroscopy with a microspectrophotometer,
+spectral pre-processing and linear discriminant analysis. Forensic Sci. Int. 212,
+198e204.
+Misner, L.M., Halvorson, A.C., Dreier, J.L., Ubelaker, D.H., Foran, D.R., 2009. The
+correlation between skeletal weathering and DNA quality and quantity.
+J. Forensic Sci. 54, 822e828.
+Mkukuma, L.D., Skakle, J.M.S., Gibson, I.R., Imrie, C.T., Aspden, R.M., Hukins, D.W.L.,
+2004. Effect of the proportion of organic material in bone on thermal decomposition of bone mineral: an investigation of the variety of bones from different
+species using Thermogravimetric Analysis couples to Mass Spectrometry, HighTemperature X-ray Diffraction, and Fourier Transform Infrared Spectroscopy.
+Calcif. Tissue Int. 75, 321e328.
+Munro, L.E., Longstaffe, F.J., White, C.D., 2007. Burning and boiling of modern deer
+bone: effects on crystallinity and oxygen isotope composition of bioapatite
+phosphate. Palaeogeogr. Palaeoclimatol. Palaeoecol. 249, 90e102.
+Nakano, T., Tokumura, A., Umakoshi, Y., 2002. Variation in crystallinity of
+hydroxyapatite and the related calcium phosphates by mechanical grinding and
+subsequent heat treatment. Metallurgical Mater. Trans. A 33, 521e528.
+Olsen, J., Heinemeier, J., Bennike, P., Krause, C., Hornstrup, K.M., Thrane, H., 2008.
+Characterisation and blind testing of radiocarbon dating of cremated bone.
+J. Archaeol. Sci. 35, 791e800.
+Paschalis, E.P., Betts, F., DiCarlo, E., Mendelsohn, R., Boskey, A.L., 1997. FTIR microspectroscopic analysis of normal human cortical and trabecular bone. Calcif.
+Tissue Int. 61, 480e486.
+Person, A., Bocherens, H., Mariotti, A., Renard, M., 1996. Diagenetic evolution and
+experimental heating of bone phosphate. Palaeogeogr. Palaeoclimatol. Palaeoecol. 126, 135e149.
+Piga, G., Guirguis, M., Bartoloni, P., Malgosa, A., Enzo, S., 2008a. A funerary rite study
+of the Phoenician-Punic Necropolis of Mount Sirai (Sardinia, Italy). Int. J.
+Osteoarchaeol. 20, 144e157.
+Piga, G., Malgosa, A., Thompson, T.J.U., Enzo, S., 2008b. A new calibration of the XRD
+technique for the study of archaeological burned human remains. J. Archaeol.
+Sci. 35, 2171e2178.
+Pijoan, C.M.A., Mansilla, J., Leboreiro, I., 2007. Thermal alterations in archaeological
+bones. Archaeometry 49, 713e727.
+Pucéat, E., Reynard, B., Lécuyer, C., 2004. Can crystallinity be used to determine the
+degree of chemical alteration of biogenic apatites? Chem. Geol. 205, 83e97.
+Rogers, K., Beckett, S., Kuhn, S., Chamberlain, A., Clement, J., 2010. Contrasting the
+crystallinity indicators of heated and diagenetically altered bone mineral.
+Palaeogeogr. Palaeoclimatol. Palaeoecol. 296, 125e129.
+
+422
+
+T.J.U. Thompson et al. / Journal of Archaeological Science 40 (2013) 416e422
+
+Schiegl, S., Goldberg, P., Pfretzschne, H.-U., Conard, N.J., 2003. Paleolithic burnt bone
+horizons from the Swabian Jura: distinguishing between in situ ﬁreplaces and
+dumping areas. Geoarchaeology 18, 541e565.
+Schurr, M.R., Hayes, R.G., 2008. Stable carbon- and nitrogen-isotope rations and
+electron spin resonance (ESR) g-values of charred bones: changes with heating
+and a critical evaluation of the utility of g-values for reconstructing thermal
+history and original isotope ratios. J. Archaeol. Sci. 35, 2017e2031.
+Schwarz, C., Debruyne, R., Kuch, M., McNally, E., Schwarcz, H., Aubrey, A.D., Bada, J.,
+Poinar, H., 2009. New insights from old bones: DNA preservation and degradation
+in permafrost preserved mammoth remains. Nucleic Acid Res. 37, 3215e3229.
+Shahack-Gross, R., Bar-Yosef, O., Weiner, S., 1997. Black-coloured bones in Hayonim
+Cave, Isreal: differentiating between burning and oxide staining. J. Archaeol. Sci.
+24, 439e446.
+Shemesh, A., 1990. Crystallinity and diagenesis of sedimentary apatites. Geochim.
+Cosmochim. Acta 54, 2433e2438.
+Squires, K.E., Thompson, T.J.U., Islam, M., Chamberlain, A., 2011. The application of
+histomorphometry and Fourier Transform Infrared Spectroscopy to the analysis
+of early Anglo-Saxon burned bone. J. Archaeol. Sci. 38, 2399e2409.
+Stathopoulou, E.T., Psycharis, V., Chryssikos, G.D., Gionis, V., Theodorou, G., 2008.
+Bone diagenesis: new data from infrared spectroscopy and X-ray diffraction.
+Palaeogeogr. Palaeoclimatol. Palaeoecol. 266, 168e174.
+Surovell, T.A., Stiner, M.C., 2001. Standardizing infra-red measures of bone mineral
+crystallinity: an experimental approach. J. Archaeol. Sci. 28, 633e642.
+Thanasoulias, N.C., Parisis, N.A., Evmiridis, N.P., 2003. Multivariate chemometrics for
+the forensic discrimination of blue ball-point pen inks based on their Vis
+spectra. Forensic Sci. Int. 138, 75e84.
+
+Thompson, T.J.U., 2004. Recent advances in the study of burned bone and
+their implications for forensic anthropology. Forensic Sci. Int. 146S,
+S203eS205.
+Thompson, T.J.U., 2005. Heat-induced dimensional changes in bone and their
+consequences for forensic anthropology. J. Forensic Sci. 50, 1008e1015.
+Thompson, T.J.U., Gauthier, M., Islam, M., 2009. The application of a new method of
+Fourier Transform Infrared Spectroscopy to the analysis of burned bone.
+J. Archaeol. Sci. 36, 910e914.
+Thompson, T.J.U., Islam, M., Piduru, K., Marcel, A., 2011. An investigation into the
+internal and external variables acting on crystallinity index using Fourier
+Transform Infrared Spectroscopy on unaltered and burned bone. Palaeogeogr.
+Palaeoclimatol. Palaeoecol. 299, 168e174.
+Trueman, C.N., Privat, K., Field, J., 2008. Why do crystallinity values fail to predict
+the extent of diagenetic alteration of bone mineral? Palaeogeogr. Palaeoclimatol. Palaeoecol. 266, 160e167.
+Wang, X.Y., Zuo, Y., Huang, D., Hou, X.-D., Li, Y.-B., 2010. Comparative study of
+inorganic composition and crystallographic properties of cortical and cancellous bone. Biomed. Environ. Sci. 23, 473e480.
+Weiner, S., Bar-Yosef, O., 1990. States of preservation of bones from prehistoric sites
+in the Near East: a survey. J. Archaeol. Sci. 17, 187e196.
+Weiner, S., Goldberg, P., Bar-Yosef, O., 1993. Bone preservation in Kebara Cave, Israel
+using on-site Fourier Transform Infrared Spectroscopy. J. Archaeol. Sci. 20,
+613e627.
+Wright, L.E., Schwarcz, H.P., 1996. Infrared and isotopic evidence for diagenesis of
+bone apatite at Dos Pilas, Guatemala: palaeodietary implications. J. Archaeol.
+Sci. 23, 933e944.
+
+
